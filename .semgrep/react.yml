@@ -1,0 +1,13 @@
+# p/react taint kuralı tipli TS bileşen parametrelerini kaçırıyor; sink'i doğrudan yakalayan yedek kural
+rules:
+  - id: react-dangerouslysetinnerhtml-nonconstant
+    languages: [typescript, javascript]
+    severity: ERROR
+    message: 'dangerouslySetInnerHTML sabit olmayan değerle kullanılıyor (XSS riski); DOMPurify ile temizle'
+    patterns:
+      - pattern: |
+          <$Y ... dangerouslySetInnerHTML={{__html: $X}} ... />
+      - pattern-not: |
+          <$Y ... dangerouslySetInnerHTML={{__html: "..."}} ... />
+      - pattern-not: |
+          <$Y ... dangerouslySetInnerHTML={{__html: `...`}} ... />
