@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-hall: #1b1a18;
+  --color-text: #ece8e1;
+  --color-muted: #a8a299;
+  --color-line: #34322e;
+  --color-accent: #e2a63b;
+  --color-hover-surface: rgba(236, 232, 225, 0.06);
+  --color-rail-arrow: rgba(236, 232, 225, 0.45);
+}

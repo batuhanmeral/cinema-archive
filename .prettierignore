@@ -1,0 +1,10 @@
+data/
+out/
+.next/
+pnpm-lock.yaml
+.docs/
+.superpowers/
+.cache/
+coverage/
+playwright-report/
+test-results/
