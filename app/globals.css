@@ -6,6 +6,50 @@
   --color-muted: #a8a299;
   --color-line: #34322e;
   --color-accent: #e2a63b;
-  --color-hover-surface: rgba(236, 232, 225, 0.06);
-  --color-rail-arrow: rgba(236, 232, 225, 0.45);
+  --color-surface: rgba(236, 232, 225, 0.06);
+  --color-arrow: rgba(236, 232, 225, 0.45);
+
+  --font-display: var(--font-big-shoulders), sans-serif;
+  /* Big Shoulders'ın Display kesimi (en büyük optik boyut). */
+  --font-display--font-variation-settings: 'opsz' 72;
+  --font-body: var(--font-schibsted-grotesk), sans-serif;
+
+  --section-gap: 80px;
+  --wrap: 1200px;
+  --side: 48px;
+}
+
+@media (width < 768px) {
+  :root {
+    --section-gap: 56px;
+    --side: 16px;
+  }
+}
+
+/* İçerik en fazla --wrap genişliğinde ortalanır; öğenin kendisi (kenarlık, zemin) tam genişlikte kalır. */
+@utility wrap {
+  padding-inline: max(var(--side), calc((100% - var(--wrap)) / 2));
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+      transition: none !important;
+    }
+  }
 }
