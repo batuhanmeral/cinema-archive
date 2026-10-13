@@ -10,7 +10,7 @@
     "test": "vitest run",
     "format": "prettier --write .",
     "e2e": "playwright test",
-    "data:import": "tsx pipeline/import.ts"
+    "data:import": "node --env-file-if-exists=.env.local --import tsx pipeline/import.ts"
   },
   "dependencies": {
     "lucide-react": "^1.64.0",
@@ -37,6 +37,7 @@
     "jsdom": "^30.1.3",
     "prettier": "^3.9.10",
     "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
     "typescript": "^5",
     "vite-tsconfig-paths": "^6.1.1",
     "vitest": "^5.0.5"
