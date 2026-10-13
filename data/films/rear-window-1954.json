@@ -1,0 +1,192 @@
+{
+  "tmdbId": 567,
+  "slug": "rear-window-1954",
+  "year": 1954,
+  "runtime": 113,
+  "originalTitle": "Rear Window",
+  "title": {
+    "en": "Rear Window",
+    "tr": "Arka Pencere"
+  },
+  "overview": {
+    "en": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+    "tr": "Fotoğrafçı L. B. “Jeff” Jeffries, geçirdiği kaza sonucunda bacağını kırar. New York’taki apartman dairesinde zorunlu tatili sırasında arka penceresinden komşularını dürbünle seyrederek zaman geçirmektedir. Jeff, yine bir seyri sırasında komşusunun, karısını öldürdüğünden şüphelenir. Olayı araştırmaları için fotomodel sevgilisi Lisa Carol Fremont ve hasta bakıcısı Stella’dan yardım ister."
+  },
+  "poster": {
+    "tr": "/g50uFnTJy6NnC23NGbE7FmZWHjC.jpg",
+    "en": "/qitnZcLP7C9DLRuPpmvZ7GiEjJN.jpg"
+  },
+  "backdrops": [
+    "/qt01wUC460FCWfogDqe3UO00T3g.jpg",
+    "/zGs5tZOlvc9cprdcU6kDOVNpujf.jpg",
+    "/zZvtZZXRnZ4Tdcs0QEWaZZcIWy8.jpg",
+    "/mP72QWmpidCjalXiIc4ChUxoukc.jpg",
+    "/5bN06p5OwRUEqcfrtNs5egV16yb.jpg",
+    "/2lB06qzQytcUkEJ9p9B4dGwEfP3.jpg",
+    "/19eyH2qyuAd3XPph5At9a9k0Uoo.jpg",
+    "/8aEe01VfGtYG2dFy9V5MqyyNPlh.jpg",
+    "/7r5UgEWXBX0KLoKOQrPmG7f3Kfj.jpg",
+    "/1ABrBk4hIhhkNZ01TRHXV0jHroG.jpg"
+  ],
+  "trailerKey": "iZOTTxwzyMU",
+  "genreIds": [
+    53,
+    9648,
+    18
+  ],
+  "keywordIds": [
+    428,
+    1533,
+    1003,
+    2619,
+    2564,
+    5490,
+    10332,
+    10226,
+    12570,
+    15208,
+    160967,
+    178649,
+    180340,
+    197582,
+    222665,
+    236909,
+    239376,
+    243509,
+    290670
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Alfred J. Hitchcock Productions"
+  ],
+  "crew": [
+    {
+      "personId": 5181,
+      "job": "writer"
+    },
+    {
+      "personId": 2636,
+      "job": "director"
+    },
+    {
+      "personId": 2654,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8619,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 854,
+      "character": "L.B. Jefferies",
+      "order": 0
+    },
+    {
+      "personId": 4070,
+      "character": "Lisa Fremont",
+      "order": 1
+    },
+    {
+      "personId": 7683,
+      "character": "Thomas Doyle",
+      "order": 2
+    },
+    {
+      "personId": 7684,
+      "character": "Stella",
+      "order": 3
+    },
+    {
+      "personId": 7685,
+      "character": "Lars Thorwald",
+      "order": 4
+    },
+    {
+      "personId": 7686,
+      "character": "Miss Lonelyhearts",
+      "order": 5
+    },
+    {
+      "personId": 49906,
+      "character": "Songwriter",
+      "order": 6
+    },
+    {
+      "personId": 161738,
+      "character": "Miss Torso",
+      "order": 7
+    },
+    {
+      "personId": 121038,
+      "character": "Woman on Fire Escape",
+      "order": 8
+    },
+    {
+      "personId": 93622,
+      "character": "Man on Fire Escape",
+      "order": 9
+    },
+    {
+      "personId": 85846,
+      "character": "Miss Hearing Aid",
+      "order": 10
+    },
+    {
+      "personId": 184636,
+      "character": "Newlywed",
+      "order": 11
+    },
+    {
+      "personId": 130373,
+      "character": "Emma Thorwald",
+      "order": 12
+    },
+    {
+      "personId": 176534,
+      "character": "Newlywed",
+      "order": 13
+    },
+    {
+      "personId": 1636753,
+      "character": "Dancer with Miss Torso (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 556861,
+      "character": "Man with Miss Torso (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 166961,
+      "character": "Sunbather (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 170577,
+      "character": "Woman with Bird (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 2459024,
+      "character": "(uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 130892,
+      "character": "Detective (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 7457,
+  "sources": [
+    "cult-list"
+  ]
+}

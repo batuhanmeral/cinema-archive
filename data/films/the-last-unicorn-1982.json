@@ -1,0 +1,188 @@
+{
+  "tmdbId": 10150,
+  "slug": "the-last-unicorn-1982",
+  "year": 1982,
+  "runtime": 93,
+  "originalTitle": "The Last Unicorn",
+  "title": {
+    "en": "The Last Unicorn",
+    "tr": "Son Unicorn"
+  },
+  "overview": {
+    "en": "A unicorn learns from a riddle-speaking butterfly that she is supposedly the last of her kind, all the others having been herded away by the monstrous Red Bull. The unicorn sets out to discover the truth behind the butterfly's words. She is eventually joined on her quest by Schmendrick, a second-rate magician, and Molly Grue, a middle-aged woman who dreamed all her life of seeing a unicorn. Their journey leads them far from home, all the way to the castle of King Haggard.",
+    "tr": "Bir kral tarafından denize hapsedilmiş beyaz, tek boynuzlu atlar, bunların denizden kaçmasına engel olması için görevlendirilmiş kızıl boğa ile ve şans eseri son boynuzlu at ı bulup kendini bu atları kurtarmaya adamış komik bir büyücüdür."
+  },
+  "poster": {
+    "tr": "/MRHFtXTjxC74MGCzHACcuqvHiw.jpg",
+    "en": "/MRHFtXTjxC74MGCzHACcuqvHiw.jpg"
+  },
+  "backdrops": [
+    "/fwxOQkzYtRVKs3kzcyukdbsyIuh.jpg",
+    "/oqF93Q9HBAbRUxrhPh9mZbLAdUz.jpg",
+    "/5mmSLDvj3JEtZJOvoBzu3cqH5w9.jpg",
+    "/5LmYv85oIgqFWaGPBWQ2msUBWYw.jpg",
+    "/ofiltl9D2wXEKgXcj6SYg25SR5j.jpg",
+    "/m2yR8mp94oMYQYCM60HZfyvFn7D.jpg",
+    "/xnoxVokz7M0z83HCf5rEiUuwUK1.jpg",
+    "/sAxBSuFm1Mw7EHFVmkiGOoUeUtF.jpg",
+    "/zSD775pHs0dmkRd6IyCefzqLjak.jpg",
+    "/k14genqf7s226aTfxzTdi2QSx8E.jpg"
+  ],
+  "trailerKey": "t-UpwWauZ50",
+  "genreIds": [
+    14,
+    16,
+    10751,
+    12
+  ],
+  "keywordIds": [
+    2038,
+    2343,
+    2594,
+    3071,
+    3873,
+    4158,
+    163227,
+    324713
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "studios": [
+    "Rankin/Bass Productions",
+    "ITC Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 15178,
+      "job": "composer"
+    },
+    {
+      "personId": 16386,
+      "job": "writer"
+    },
+    {
+      "personId": 16411,
+      "job": "producer"
+    },
+    {
+      "personId": 16410,
+      "job": "producer"
+    },
+    {
+      "personId": 16411,
+      "job": "director"
+    },
+    {
+      "personId": 16410,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12021,
+      "character": "Unicorn / Amalthea (voice)",
+      "order": 0
+    },
+    {
+      "personId": 1903,
+      "character": "Schmendrick (voice)",
+      "order": 1
+    },
+    {
+      "personId": 63998,
+      "character": "Molly Grue (voice)",
+      "order": 2
+    },
+    {
+      "personId": 1229,
+      "character": "Prince Lir (voice)",
+      "order": 3
+    },
+    {
+      "personId": 113,
+      "character": "King Haggard (voice)",
+      "order": 4
+    },
+    {
+      "personId": 14730,
+      "character": "Mommy Fortuna (voice)",
+      "order": 5
+    },
+    {
+      "personId": 26715,
+      "character": "The Butterfly (voice)",
+      "order": 6
+    },
+    {
+      "personId": 4966,
+      "character": "Captain Cully / Harpy (voice)",
+      "order": 7
+    },
+    {
+      "personId": 16417,
+      "character": "Mabruk (voice)",
+      "order": 8
+    },
+    {
+      "personId": 9807,
+      "character": "The Skull (voice)",
+      "order": 9
+    },
+    {
+      "personId": 16413,
+      "character": "Ruhk (voice)",
+      "order": 10
+    },
+    {
+      "personId": 16422,
+      "character": "The Cat (voice)",
+      "order": 11
+    },
+    {
+      "personId": 103813,
+      "character": "Hunter #1 / Old Farmer / Cully's Men (voice)",
+      "order": 12
+    },
+    {
+      "personId": 12998,
+      "character": "The Tree (voice)",
+      "order": 13
+    },
+    {
+      "personId": 84325,
+      "character": "Jack Jingley / Cully's Men (voice)",
+      "order": 14
+    },
+    {
+      "personId": 1077310,
+      "character": "Hunter #2 / Cully's Men",
+      "order": 15
+    },
+    {
+      "personId": 1077311,
+      "character": "The Balladeer (voice) (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1592406,
+      "character": "The 2nd Balladeer (voice) (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1594624,
+      "character": "The Balladeers' Bassist / Chorus (voice) (uncredited)",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 629,
+  "sources": [
+    "cult-list"
+  ]
+}

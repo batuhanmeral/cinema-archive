@@ -1,0 +1,188 @@
+{
+  "tmdbId": 65300,
+  "slug": "endangered-species-1982",
+  "year": 1982,
+  "runtime": 97,
+  "originalTitle": "Endangered Species",
+  "title": {
+    "en": "Endangered Species",
+    "tr": "Endangered Species"
+  },
+  "overview": {
+    "en": "A retired New York cop on vacation in America's West is drawn into a sheriff's investigation of a mysterious series of cattle killings.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lBmVdwGCTn9xrXwDKRkLN07nT7S.jpg",
+    "en": "/lBmVdwGCTn9xrXwDKRkLN07nT7S.jpg"
+  },
+  "backdrops": [
+    "/gYBboRVFw198odH4xH5PkSOujZj.jpg",
+    "/jliiIe0ahV5txYaRZ6PevZJTdlC.jpg"
+  ],
+  "trailerKey": "6GdBILv2DqE",
+  "genreIds": [
+    53,
+    18,
+    9648,
+    878
+  ],
+  "keywordIds": [
+    736,
+    1865,
+    798,
+    1930,
+    1936,
+    5340,
+    9672,
+    10410,
+    12193,
+    14760,
+    162365,
+    220908,
+    223422
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer",
+    "Alive Enterprises"
+  ],
+  "crew": [
+    {
+      "personId": 72427,
+      "job": "writer"
+    },
+    {
+      "personId": 51183,
+      "job": "writer"
+    },
+    {
+      "personId": 72427,
+      "job": "director"
+    },
+    {
+      "personId": 69586,
+      "job": "composer"
+    },
+    {
+      "personId": 30605,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 59469,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 64119,
+      "character": "Ruben Castle",
+      "order": 0
+    },
+    {
+      "personId": 10080,
+      "character": "Harriet Purdue",
+      "order": 1
+    },
+    {
+      "personId": 15900,
+      "character": "Joe Hiatt",
+      "order": 2
+    },
+    {
+      "personId": 16166,
+      "character": "Ben Morgan",
+      "order": 3
+    },
+    {
+      "personId": 9979,
+      "character": "Steele",
+      "order": 4
+    },
+    {
+      "personId": 240853,
+      "character": "Mackenzie Castle",
+      "order": 5
+    },
+    {
+      "personId": 2886,
+      "character": "Mayor",
+      "order": 6
+    },
+    {
+      "personId": 6486,
+      "character": "Peck",
+      "order": 7
+    },
+    {
+      "personId": 4316,
+      "character": "Dr. Emmer",
+      "order": 8
+    },
+    {
+      "personId": 74763,
+      "character": "Burnside",
+      "order": 9
+    },
+    {
+      "personId": 1172117,
+      "character": "Judy Hiatt",
+      "order": 10
+    },
+    {
+      "personId": 172257,
+      "character": "Lawyer",
+      "order": 11
+    },
+    {
+      "personId": 1218958,
+      "character": "Chester",
+      "order": 12
+    },
+    {
+      "personId": 1489407,
+      "character": "Deputy Wayne",
+      "order": 13
+    },
+    {
+      "personId": 42006,
+      "character": "Deputy Bobby",
+      "order": 14
+    },
+    {
+      "personId": 2194610,
+      "character": "Deputy Ray",
+      "order": 15
+    },
+    {
+      "personId": 92691,
+      "character": "Susan",
+      "order": 16
+    },
+    {
+      "personId": 1139914,
+      "character": "Mrs. Haskins",
+      "order": 17
+    },
+    {
+      "personId": 16506,
+      "character": "Dr. Ross",
+      "order": 18
+    },
+    {
+      "personId": 119782,
+      "character": "Varney",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 26,
+  "sources": [
+    "cult-list"
+  ]
+}

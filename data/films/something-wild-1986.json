@@ -1,0 +1,201 @@
+{
+  "tmdbId": 11300,
+  "slug": "something-wild-1986",
+  "year": 1986,
+  "runtime": 114,
+  "originalTitle": "Something Wild",
+  "title": {
+    "en": "Something Wild",
+    "tr": "Vahşi Bir Şey"
+  },
+  "overview": {
+    "en": "A free-spirited woman \"kidnaps\" a yuppie for a weekend of adventure. But the fun quickly takes a dangerous turn when her ex-con husband shows up.",
+    "tr": "Dar kafalı bir işadamı, New York şehir merkezindeki greasy spoon'da tuhaf, özgür ruhlu bir kadınla tanışır. Ofisine geri dönme teklifi, öğle yemeğinde bir motel buluşmasıyla sonuçlanır - bu, ikisini gizli benlikleriyle yüz yüze getiren kaprisli bir eyaletler arası yolculuğun başlangıcıdır."
+  },
+  "poster": {
+    "tr": "/iTlCeAibKGHiohojDB3zpS4MRz2.jpg",
+    "en": "/344lhBozqFWKxBb4fp6azYQMLEy.jpg"
+  },
+  "backdrops": [
+    "/b3J5vJWbyfbjPtgWKfCJYQ8kves.jpg",
+    "/qNrx55aFjitWmGqRuFDFwqZvcy9.jpg",
+    "/n0otUNnl28OYEBvzgpUeiSwgmYf.jpg",
+    "/w2Hj9cwZFaPXb66dUjUcvnBCT4.jpg",
+    "/b2uyPy6FV4FVtySyGospMTMkc3m.jpg",
+    "/aAmClAs9AEavayTO8XoZbViLSbL.jpg",
+    "/qn2Ty6vGbfHE6s9CTdjSA0iDfin.jpg",
+    "/cAx07D2s8uCwy1YtJTTMJAlaFDo.jpg",
+    "/fAqmCgI774sRKKKIDAxp6A5H94j.jpg",
+    "/lVF6Yja99SIuj3C5hkOF3PR39Fa.jpg"
+  ],
+  "trailerKey": "r_B6fLIdhgo",
+  "genreIds": [
+    80,
+    35,
+    10749
+  ],
+  "keywordIds": [
+    242,
+    642,
+    6149,
+    3713,
+    6259,
+    772,
+    10123,
+    7312,
+    9935,
+    14831,
+    188737,
+    220295,
+    237011,
+    349028
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Orion Pictures",
+    "Religiosa Primitiva",
+    "A Luta Continua"
+  ],
+  "crew": [
+    {
+      "personId": 16294,
+      "job": "director"
+    },
+    {
+      "personId": 16300,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 16294,
+      "job": "producer"
+    },
+    {
+      "personId": 16298,
+      "job": "producer"
+    },
+    {
+      "personId": 68929,
+      "job": "composer"
+    },
+    {
+      "personId": 7491,
+      "job": "composer"
+    },
+    {
+      "personId": 68928,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8447,
+      "character": "Charles Driggs",
+      "order": 0
+    },
+    {
+      "personId": 29369,
+      "character": "Audrey Hankel",
+      "order": 1
+    },
+    {
+      "personId": 11477,
+      "character": "Ray Sinclair",
+      "order": 2
+    },
+    {
+      "personId": 68926,
+      "character": "Counter Man",
+      "order": 3
+    },
+    {
+      "personId": 8985,
+      "character": "Irene",
+      "order": 4
+    },
+    {
+      "personId": 68927,
+      "character": "Frenchy",
+      "order": 5
+    },
+    {
+      "personId": 3801,
+      "character": "The Country Squire",
+      "order": 6
+    },
+    {
+      "personId": 3119344,
+      "character": "Country Squire Bulldog",
+      "order": 7
+    },
+    {
+      "personId": 2567050,
+      "character": "Charlie's Secretary",
+      "order": 8
+    },
+    {
+      "personId": 78647,
+      "character": "Graves' Secretary",
+      "order": 9
+    },
+    {
+      "personId": 25626,
+      "character": "Richard Graves",
+      "order": 10
+    },
+    {
+      "personId": 59329,
+      "character": "TV Newscaster",
+      "order": 11
+    },
+    {
+      "personId": 16298,
+      "character": "Dad",
+      "order": 12
+    },
+    {
+      "personId": 1041787,
+      "character": "Rose",
+      "order": 13
+    },
+    {
+      "personId": 16119,
+      "character": "Irate Chef",
+      "order": 14
+    },
+    {
+      "personId": 1280989,
+      "character": "Motel Philosopher",
+      "order": 15
+    },
+    {
+      "personId": 102445,
+      "character": "Motorcycle Cop",
+      "order": 16
+    },
+    {
+      "personId": 10367,
+      "character": "Used Car Guy",
+      "order": 17
+    },
+    {
+      "personId": 1521779,
+      "character": "Hitchhiking Cowboy",
+      "order": 18
+    },
+    {
+      "personId": 3119345,
+      "character": "Hitchhiking Kid",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 428,
+  "sources": [
+    "cult-list"
+  ]
+}

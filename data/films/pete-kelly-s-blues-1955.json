@@ -1,0 +1,191 @@
+{
+  "tmdbId": 43321,
+  "slug": "pete-kelly-s-blues-1955",
+  "year": 1955,
+  "runtime": 95,
+  "originalTitle": "Pete Kelly's Blues",
+  "title": {
+    "en": "Pete Kelly's Blues",
+    "tr": "Pete Kelly's Blues"
+  },
+  "overview": {
+    "en": "In 1927, a Kansas City, Missouri cornet player and his band perform nightly at a seedy speakeasy until a racketeer tries to extort them in exchange for protection.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/sGlHz9Isou2Y4scIPvt3MWnEzcs.jpg",
+    "en": "/gpZmZpRYgXtZmP5cAEAC95y3TCw.jpg"
+  },
+  "backdrops": [
+    "/d2DYeaGvum9WsCN15itf84zndig.jpg",
+    "/pR8tXs7WiFaKkfvIMWN9Kr4mzV6.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    80,
+    18,
+    10402
+  ],
+  "keywordIds": [
+    1416,
+    947,
+    3149,
+    3017,
+    11179,
+    11259,
+    11016,
+    157283,
+    163107,
+    176095,
+    198638,
+    207876,
+    338153,
+    357241
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Mark VII"
+  ],
+  "crew": [
+    {
+      "personId": 8634,
+      "job": "director"
+    },
+    {
+      "personId": 80601,
+      "job": "writer"
+    },
+    {
+      "personId": 2946812,
+      "job": "composer"
+    },
+    {
+      "personId": 17667,
+      "job": "composer"
+    },
+    {
+      "personId": 30267,
+      "job": "composer"
+    },
+    {
+      "personId": 8634,
+      "job": "producer"
+    },
+    {
+      "personId": 9057,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8634,
+      "character": "Pete Kelly",
+      "order": 0
+    },
+    {
+      "personId": 7302,
+      "character": "Ivy Conrad",
+      "order": 1
+    },
+    {
+      "personId": 8254,
+      "character": "Fran McCarg",
+      "order": 2
+    },
+    {
+      "personId": 64870,
+      "character": "Rose Hopkins",
+      "order": 3
+    },
+    {
+      "personId": 14966,
+      "character": "George Tenell",
+      "order": 4
+    },
+    {
+      "personId": 18391,
+      "character": "Al Gannaway",
+      "order": 5
+    },
+    {
+      "personId": 543105,
+      "character": "Maggie Jackson",
+      "order": 6
+    },
+    {
+      "personId": 14573,
+      "character": "Joey Firestone",
+      "order": 7
+    },
+    {
+      "personId": 151610,
+      "character": "Rudy Shulak",
+      "order": 8
+    },
+    {
+      "personId": 294767,
+      "character": "Bedido",
+      "order": 9
+    },
+    {
+      "personId": 134613,
+      "character": "Guy Bettenhouser",
+      "order": 10
+    },
+    {
+      "personId": 40177,
+      "character": "Cigarette Girl",
+      "order": 11
+    },
+    {
+      "personId": 114429,
+      "character": "Cootie Jacobs",
+      "order": 12
+    },
+    {
+      "personId": 2946807,
+      "character": "Trombonist (Big 7)",
+      "order": 13
+    },
+    {
+      "personId": 2946809,
+      "character": "Guitarist (Big 7)",
+      "order": 14
+    },
+    {
+      "personId": 2946810,
+      "character": "Pianist (Big 7)",
+      "order": 15
+    },
+    {
+      "personId": 567533,
+      "character": "Trumpet Player / Webb's Cornet Double",
+      "order": 16
+    },
+    {
+      "personId": 2946812,
+      "character": "Clarinetist (Big 7)",
+      "order": 17
+    },
+    {
+      "personId": 2178070,
+      "character": "Saxophonist (Big 7)",
+      "order": 18
+    },
+    {
+      "personId": 1678926,
+      "character": "Drummer (Big 7)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 31,
+  "sources": [
+    "cult-list"
+  ]
+}

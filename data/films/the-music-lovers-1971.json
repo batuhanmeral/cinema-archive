@@ -1,0 +1,186 @@
+{
+  "tmdbId": 72899,
+  "slug": "the-music-lovers-1971",
+  "year": 1971,
+  "runtime": 123,
+  "originalTitle": "The Music Lovers",
+  "title": {
+    "en": "The Music Lovers",
+    "tr": "The Music Lovers"
+  },
+  "overview": {
+    "en": "Composer, conductor and teacher Peter Ilych Tchaikovsky struggles against his homosexual tendencies by marrying, but unfortunately, he chooses wacky nymphomaniac Nina, whom he is unable to satisfy.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/hxqRVEGh86ZZnnzCIlQkuzdcLtM.jpg",
+    "en": "/2F3FtZBn36yr6cZ9a4Tvhjmq6tQ.jpg"
+  },
+  "backdrops": [
+    "/6uiQQ8rwMUMzKNHYgYM0vogqerN.jpg",
+    "/39iwtYN6hB2vDV6K1lHJJiurosn.jpg",
+    "/vZBGTcKGsyDQuombrJaNDRWfshS.jpg",
+    "/z3XUzQ5hk2WwKE9OKyPUIjXAo5I.jpg",
+    "/tmejZLcDSgaxmRpXxcp7V2UucmG.jpg",
+    "/yJilnWhv3sTWp0an86NlbKlf9MC.jpg",
+    "/o7YPkUvikJVPbEow8xBGTsEvKfe.jpg",
+    "/go84oIO2dNuRRkiDnVPDYXE05nD.jpg",
+    "/rvE3j8AWlaO6I444w83SQAjZY09.jpg",
+    "/fiGx49lP6aGNV2HtWPuS2TAYBjM.jpg"
+  ],
+  "trailerKey": "ubvb4Oxy418",
+  "genreIds": [
+    18,
+    10402
+  ],
+  "keywordIds": [
+    1233,
+    5565,
+    6165,
+    10180,
+    207928,
+    258533
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "hu",
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "United Artists",
+    "Russ Films"
+  ],
+  "crew": [
+    {
+      "personId": 72744,
+      "job": "writer"
+    },
+    {
+      "personId": 32327,
+      "job": "director"
+    },
+    {
+      "personId": 1281066,
+      "job": "composer"
+    },
+    {
+      "personId": 32327,
+      "job": "producer"
+    },
+    {
+      "personId": 666,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 28906,
+      "character": "Pyotr Ilyich Tchaikovsky",
+      "order": 0
+    },
+    {
+      "personId": 115573,
+      "character": "Antonina 'Nina' Milyukova",
+      "order": 1
+    },
+    {
+      "personId": 77312,
+      "character": "Nicholas Rubinstein",
+      "order": 2
+    },
+    {
+      "personId": 93325,
+      "character": "Count Anton Chiluvsky",
+      "order": 3
+    },
+    {
+      "personId": 10734,
+      "character": "Modeste Tchaikovsky",
+      "order": 4
+    },
+    {
+      "personId": 32060,
+      "character": "Madame Nadedja von Meck",
+      "order": 5
+    },
+    {
+      "personId": 1234486,
+      "character": "Mrs. Milyukova",
+      "order": 6
+    },
+    {
+      "personId": 1506206,
+      "character": "Sasha Tchaikovsky",
+      "order": 7
+    },
+    {
+      "personId": 14823,
+      "character": "Davidov",
+      "order": 8
+    },
+    {
+      "personId": 8966,
+      "character": "Alexei Sofronov",
+      "order": 9
+    },
+    {
+      "personId": 140445,
+      "character": "Young Lieutenant",
+      "order": 10
+    },
+    {
+      "personId": 1096545,
+      "character": "Koyola",
+      "order": 11
+    },
+    {
+      "personId": 2351152,
+      "character": "von Meck Twin",
+      "order": 12
+    },
+    {
+      "personId": 2351153,
+      "character": "von Meck Twin",
+      "order": 13
+    },
+    {
+      "personId": 1830519,
+      "character": "Olga Bredska",
+      "order": 14
+    },
+    {
+      "personId": 178576,
+      "character": "Dmitri Shubelov",
+      "order": 15
+    },
+    {
+      "personId": 1300787,
+      "character": "von Meck Child",
+      "order": 16
+    },
+    {
+      "personId": 202240,
+      "character": "Doctor",
+      "order": 17
+    },
+    {
+      "personId": 1378112,
+      "character": "Odile",
+      "order": 18
+    },
+    {
+      "personId": 202288,
+      "character": "Prince Balukin",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 57,
+  "sources": [
+    "cult-list"
+  ]
+}

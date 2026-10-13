@@ -1,0 +1,140 @@
+{
+  "tmdbId": 56718,
+  "slug": "the-mind-snatchers-1972",
+  "year": 1972,
+  "runtime": 94,
+  "originalTitle": "The Mind Snatchers",
+  "title": {
+    "en": "The Mind Snatchers",
+    "tr": "The Mind Snatchers"
+  },
+  "overview": {
+    "en": "A German scientist works on a way of quelling overly aggressive soldiers by developing implants that directly stimulate the pleasure centers of the brain.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/zSdaX4J53ZEVnRCWgnB43Rv7tB.jpg",
+    "en": "/zSdaX4J53ZEVnRCWgnB43Rv7tB.jpg"
+  },
+  "backdrops": [
+    "/2Pqaru44Ai8aZPXLnN0zSbZlkFT.jpg"
+  ],
+  "trailerKey": "ThwJIlHLyMA",
+  "genreIds": [
+    878,
+    18,
+    53
+  ],
+  "keywordIds": [
+    1706,
+    8506,
+    223260
+  ],
+  "countries": [
+    "US",
+    "DK"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Laterna Film",
+    "International Film Ventures"
+  ],
+  "crew": [
+    {
+      "personId": 153669,
+      "job": "director"
+    },
+    {
+      "personId": 1175002,
+      "job": "writer"
+    },
+    {
+      "personId": 1200752,
+      "job": "writer"
+    },
+    {
+      "personId": 3818213,
+      "job": "producer"
+    },
+    {
+      "personId": 1155394,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1785348,
+      "job": "producer"
+    },
+    {
+      "personId": 1258717,
+      "job": "producer"
+    },
+    {
+      "personId": 983161,
+      "job": "composer"
+    },
+    {
+      "personId": 960692,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4690,
+      "character": "Pvt. James H. Reese",
+      "order": 0
+    },
+    {
+      "personId": 780,
+      "character": "Sergeant Boford Miles",
+      "order": 1
+    },
+    {
+      "personId": 14324,
+      "character": "Dr. Frederick",
+      "order": 2
+    },
+    {
+      "personId": 14562,
+      "character": "The Major",
+      "order": 3
+    },
+    {
+      "personId": 94182,
+      "character": "Lawrence Shannon",
+      "order": 4
+    },
+    {
+      "personId": 49834,
+      "character": "Anna Kraus",
+      "order": 5
+    },
+    {
+      "personId": 1063404,
+      "character": "Nurse Schroeder",
+      "order": 6
+    },
+    {
+      "personId": 49835,
+      "character": "Medic",
+      "order": 7
+    },
+    {
+      "personId": 4459,
+      "character": "Lisa",
+      "order": 8
+    },
+    {
+      "personId": 72362,
+      "character": "Army Psychiatrist",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 16,
+  "sources": [
+    "cult-list"
+  ]
+}

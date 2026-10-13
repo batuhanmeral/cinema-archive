@@ -1,0 +1,177 @@
+{
+  "tmdbId": 14585,
+  "slug": "in-the-company-of-men-1997",
+  "year": 1997,
+  "runtime": 97,
+  "originalTitle": "In the Company of Men",
+  "title": {
+    "en": "In the Company of Men",
+    "tr": "In the Company of Men"
+  },
+  "overview": {
+    "en": "Two business executives--one an avowed misogynist, the other recently emotionally wounded by his love interest--set out to exact revenge on the female gender by seeking out the most innocent, uncorrupted girl they can find and ruining her life.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/1gPJ4H4TbGAiuEA6pFalFtqA0eL.jpg",
+    "en": "/1gPJ4H4TbGAiuEA6pFalFtqA0eL.jpg"
+  },
+  "backdrops": [
+    "/ns8yY2OpwwhPMPvEaIGoWmMdQdN.jpg",
+    "/2IgckdJ3OgNDXS0NzeOhLLHZYeb.jpg",
+    "/dwmR1ZHagfL5KQ2S80R8LHEQthq.jpg",
+    "/eK8fbCXKXErHU5lokdUh3W1gt0K.jpg"
+  ],
+  "trailerKey": "5kvfCm-rVpQ",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    1438,
+    1643,
+    9673,
+    11677,
+    13043,
+    165288,
+    325761
+  ],
+  "countries": [
+    "CA",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Alliance Atlantis",
+    "Fair and Square Productions"
+  ],
+  "crew": [
+    {
+      "personId": 203165,
+      "job": "composer"
+    },
+    {
+      "personId": 58689,
+      "job": "director"
+    },
+    {
+      "personId": 987303,
+      "job": "producer"
+    },
+    {
+      "personId": 989072,
+      "job": "composer"
+    },
+    {
+      "personId": 954064,
+      "job": "producer"
+    },
+    {
+      "personId": 94489,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 58689,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6383,
+      "character": "Chad",
+      "order": 0
+    },
+    {
+      "personId": 43372,
+      "character": "Christine",
+      "order": 1
+    },
+    {
+      "personId": 19208,
+      "character": "Howard",
+      "order": 2
+    },
+    {
+      "personId": 1390109,
+      "character": "Co-worker #1",
+      "order": 3
+    },
+    {
+      "personId": 1390110,
+      "character": "John",
+      "order": 4
+    },
+    {
+      "personId": 2585748,
+      "character": "Co-worker #2",
+      "order": 5
+    },
+    {
+      "personId": 1313157,
+      "character": "Intern",
+      "order": 6
+    },
+    {
+      "personId": 1189248,
+      "character": "Suzanne",
+      "order": 7
+    },
+    {
+      "personId": 2585749,
+      "character": "Flight attendant",
+      "order": 8
+    },
+    {
+      "personId": 2585750,
+      "character": "Traveler",
+      "order": 9
+    },
+    {
+      "personId": 989073,
+      "character": "Traveler",
+      "order": 10
+    },
+    {
+      "personId": 2585751,
+      "character": "Traveler",
+      "order": 11
+    },
+    {
+      "personId": 2585752,
+      "character": "Traveler",
+      "order": 12
+    },
+    {
+      "personId": 2585753,
+      "character": "Traveler / Bank patron",
+      "order": 13
+    },
+    {
+      "personId": 2585754,
+      "character": "Traveler",
+      "order": 14
+    },
+    {
+      "personId": 44043,
+      "character": "Bank Patron",
+      "order": 15
+    },
+    {
+      "personId": 4136042,
+      "character": "Extra",
+      "order": 16
+    },
+    {
+      "personId": 3500166,
+      "character": "Extra",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 172,
+  "sources": [
+    "cult-list"
+  ]
+}

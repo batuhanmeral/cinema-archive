@@ -1,0 +1,206 @@
+{
+  "tmdbId": 506,
+  "slug": "marnie-1964",
+  "year": 1964,
+  "runtime": 130,
+  "originalTitle": "Marnie",
+  "title": {
+    "en": "Marnie",
+    "tr": "Hırsız Kız"
+  },
+  "overview": {
+    "en": "Marnie is a beautiful but emotionally withdrawn thief, stealing from employers before disappearing under new identities. When her new boss, Mark Rutland, discovers her secret, his fascination turns to obsession, and he blackmails her into marriage, convinced he can cure her. But as he probes deeper into Marnie’s fractured mind, long-buried fears and compulsions begin to surface.",
+    "tr": "Marnie - Hırsız Kız, tipik Hitchcock sarışınlarından biri olan (ve ayrıca Melanie Griffith'in de annesi) Tippi Hedren için özel bir armağan gibidir. Geçmişindeki karanlık olaylar nedeniyle kişilik bozulmasına uğramış ve bu yüzden kleptoman ve de 'frijid' olmuş bir genç kadın... Hedren de bu rolü gayet iyi biçimde oynar: yanı başında kendisine aşık olup onu iyileştirmeye çabalayan, geleceğin Sean Connery olduğu halde."
+  },
+  "poster": {
+    "tr": "/3jBbNnKe3hFq1KwkBUxPV6xwHC1.jpg",
+    "en": "/9AH9poubwm1jfiTie4a9PigmqS9.jpg"
+  },
+  "backdrops": [
+    "/p7Om7uhWRSJOAKFNRw6mZpoKjo8.jpg",
+    "/ClZEb4ddOQ3MwwcCUVxYhHWfSc.jpg",
+    "/vwnfLueWEElQCjx3kFvA5sGDb2d.jpg",
+    "/oim2SUGZfBim2GtPekS7Ii8vAdp.jpg",
+    "/6jrCrve6A5Hm8Lw2dQATdh3nq7K.jpg",
+    "/E4U1XLvYqYGxNxUEFnFwIVUCYD.jpg",
+    "/nyLW3s1dEF0k9KjUELB1M2QmS0n.jpg",
+    "/4qfMtDfTTrfj7bZLBQ6jLLG8llH.jpg",
+    "/7Mo97qQhpXRyhI0c2Ht4i5BbfMn.jpg",
+    "/ucck4q9lweuoO9JeGlEDn27DoHx.jpg"
+  ],
+  "trailerKey": "zdErt_teseo",
+  "genreIds": [
+    53,
+    9648,
+    10749
+  ],
+  "keywordIds": [
+    549,
+    570,
+    276,
+    739,
+    447,
+    3713,
+    2039,
+    1443,
+    2284,
+    1252,
+    930,
+    1936,
+    643,
+    2699,
+    2251,
+    2316,
+    2547,
+    2548,
+    2672,
+    2673,
+    2675,
+    2676,
+    2749,
+    2799,
+    2800,
+    2801,
+    2843,
+    13001
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Alfred J. Hitchcock Productions",
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 2636,
+      "job": "producer"
+    },
+    {
+      "personId": 6928,
+      "job": "writer"
+    },
+    {
+      "personId": 1045,
+      "job": "composer"
+    },
+    {
+      "personId": 2636,
+      "job": "director"
+    },
+    {
+      "personId": 2654,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6929,
+      "character": "Marnie Edgar",
+      "order": 0
+    },
+    {
+      "personId": 738,
+      "character": "Mark Rutland",
+      "order": 1
+    },
+    {
+      "personId": 6930,
+      "character": "Lil Mainwaring",
+      "order": 2
+    },
+    {
+      "personId": 6931,
+      "character": "Sidney Strutt",
+      "order": 3
+    },
+    {
+      "personId": 6932,
+      "character": "Bernice Edgar",
+      "order": 4
+    },
+    {
+      "personId": 117049,
+      "character": "Cousin Bob",
+      "order": 5
+    },
+    {
+      "personId": 101901,
+      "character": "Man at Track",
+      "order": 6
+    },
+    {
+      "personId": 16131,
+      "character": "Susan Clabon",
+      "order": 7
+    },
+    {
+      "personId": 6933,
+      "character": "Mr. Rutland",
+      "order": 8
+    },
+    {
+      "personId": 6905,
+      "character": "Sailor",
+      "order": 9
+    },
+    {
+      "personId": 33479,
+      "character": "First Detective",
+      "order": 10
+    },
+    {
+      "personId": 131272,
+      "character": "Sam Ward",
+      "order": 11
+    },
+    {
+      "personId": 17662,
+      "character": "Rita",
+      "order": 12
+    },
+    {
+      "personId": 153336,
+      "character": "Mrs. Turpin",
+      "order": 13
+    },
+    {
+      "personId": 1421073,
+      "character": "Party Guest (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 113704,
+      "character": "Hotel Chauffeur (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 2174,
+      "character": "Jessie Cotton (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 94114,
+      "character": "Mrs. Maitland (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1421080,
+      "character": "Racetrack Patron (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 127610,
+      "character": "Office Worker (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1274,
+  "sources": [
+    "cult-list"
+  ]
+}

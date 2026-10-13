@@ -1,0 +1,195 @@
+{
+  "tmdbId": 176,
+  "slug": "saw-2004",
+  "year": 2004,
+  "runtime": 103,
+  "originalTitle": "Saw",
+  "title": {
+    "en": "Saw",
+    "tr": "Testere"
+  },
+  "overview": {
+    "en": "Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.",
+    "tr": "Birbirini tanımayan iki adam köhne bir yerde, ayakları zincirle bağlı bir şekilde uyanır. Çok geçmeden kurbanlarını yanlış yola düşen insanlar arasından seçen ve onları ölümcül bir oyun oynamaya zorlayan bir seri katilin oyunun piyonları olduklarını anlarlar."
+  },
+  "poster": {
+    "tr": "/k5m4Ll14CDozShdArWNArK2dUWa.jpg",
+    "en": "/harQifr8kpIVqlLP41kTR058LZB.jpg"
+  },
+  "backdrops": [
+    "/ok4ot3YbfDYZcINXf91JUfq3maB.jpg",
+    "/qtWjZgCmslPwjP4DFUcLBUj13GV.jpg",
+    "/7zUdfcPSCnZdjVC9ADq3hK2qowS.jpg",
+    "/hdQcJFEy1GSYzwVOE0VOOAAexs8.jpg",
+    "/5ae5LhpMnLuwmctlwZ9kpeOtGXs.jpg",
+    "/4QGrZLj7cAuHu53hJbnap5PT6ER.jpg",
+    "/qFVM2Bzc6f4Yjx1fliEkGSZCsFW.jpg",
+    "/ijtmtmxHD7AvrnbXHTUSWP8oMa8.jpg",
+    "/wkTEdiZFa8wmZsRUxunHKsrA9r9.jpg",
+    "/qxRloIMI2sWdOv4XA9KWXtB8agX.jpg"
+  ],
+  "trailerKey": "0bHDblokwv0",
+  "genreIds": [
+    27,
+    9648,
+    80
+  ],
+  "keywordIds": [
+    4426,
+    1366,
+    703,
+    9856,
+    11612,
+    13005,
+    13006,
+    13125,
+    50009,
+    157367,
+    157375,
+    157376,
+    163841,
+    168481,
+    184312,
+    262404,
+    295702,
+    325546,
+    384154,
+    384156
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Twisted Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 2127,
+      "job": "director"
+    },
+    {
+      "personId": 2146,
+      "job": "producer"
+    },
+    {
+      "personId": 2147,
+      "job": "producer"
+    },
+    {
+      "personId": 2145,
+      "job": "producer"
+    },
+    {
+      "personId": 2148,
+      "job": "composer"
+    },
+    {
+      "personId": 2149,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2128,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2128,
+      "character": "Adam",
+      "order": 0
+    },
+    {
+      "personId": 2130,
+      "character": "Lawrence Gordon",
+      "order": 1
+    },
+    {
+      "personId": 2144,
+      "character": "Jigsaw",
+      "order": 2
+    },
+    {
+      "personId": 2047,
+      "character": "David Tapp",
+      "order": 3
+    },
+    {
+      "personId": 2131,
+      "character": "Steven Sing",
+      "order": 4
+    },
+    {
+      "personId": 2133,
+      "character": "Kerry",
+      "order": 5
+    },
+    {
+      "personId": 2134,
+      "character": "Paul",
+      "order": 6
+    },
+    {
+      "personId": 2135,
+      "character": "Mark",
+      "order": 7
+    },
+    {
+      "personId": 2136,
+      "character": "Zep Hindle",
+      "order": 8
+    },
+    {
+      "personId": 2137,
+      "character": "Brett",
+      "order": 9
+    },
+    {
+      "personId": 2138,
+      "character": "Amanda",
+      "order": 10
+    },
+    {
+      "personId": 2139,
+      "character": "Diana Gordon",
+      "order": 11
+    },
+    {
+      "personId": 2140,
+      "character": "Alison Gordon",
+      "order": 12
+    },
+    {
+      "personId": 2141,
+      "character": "Jeff",
+      "order": 13
+    },
+    {
+      "personId": 2142,
+      "character": "Carla",
+      "order": 14
+    },
+    {
+      "personId": 2143,
+      "character": "Father",
+      "order": 15
+    },
+    {
+      "personId": 1630461,
+      "character": "Detective (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 2147,
+      "character": "Dead Cellmate (uncredited)",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 10455,
+  "sources": [
+    "cult-list"
+  ]
+}

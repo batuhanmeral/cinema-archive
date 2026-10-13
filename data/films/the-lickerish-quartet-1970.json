@@ -1,0 +1,119 @@
+{
+  "tmdbId": 70422,
+  "slug": "the-lickerish-quartet-1970",
+  "year": 1970,
+  "runtime": 88,
+  "originalTitle": "The Lickerish Quartet",
+  "title": {
+    "en": "The Lickerish Quartet",
+    "tr": "The Lickerish Quartet"
+  },
+  "overview": {
+    "en": "A wealthy couple and their adult son invite a motorcycle stuntwoman from a local circus back to their castle, thinking she is an actress from a pornographic film they've just watched.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/y9twmhhDl9X4QHBJl3x5C3FzaSv.jpg",
+    "en": "/yB8Y26C9r1vaB6k0amhPUodrPBu.jpg"
+  },
+  "backdrops": [
+    "/oUTvGr2tJzed7nheUKm7R9wJYqv.jpg",
+    "/eeQlrIK92z91XYhdaMkIXZRhS5W.jpg",
+    "/mJRHnuUGcMLZGoxm3h1Hxc8PsDU.jpg",
+    "/sQ5ZzxPJE9MKw80sp1F6bFZObKI.jpg",
+    "/whWDwTxj4l8NWqfuf6NCbVB36J5.jpg",
+    "/d3nZxSLqQvj7MCVvMzNyd9YTmAu.jpg",
+    "/1gIoXIL9F9obzHgkZM5qlyqTLyw.jpg",
+    "/l2ZCkdRYR9rtJYqO5S0GvOEcbLk.jpg",
+    "/oN75YMCL9QoSLrlqCSg497a5xgS.jpg",
+    "/mI2KoXBETMSXpGPp9bevYaMUiQ1.jpg"
+  ],
+  "trailerKey": "d4p71oE136Q",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [],
+  "countries": [
+    "DE",
+    "IT",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Peter Carsten Produktion",
+    "Carstein",
+    "Cinemar"
+  ],
+  "crew": [
+    {
+      "personId": 104178,
+      "job": "director"
+    },
+    {
+      "personId": 553512,
+      "job": "writer"
+    },
+    {
+      "personId": 104178,
+      "job": "producer"
+    },
+    {
+      "personId": 29501,
+      "job": "composer"
+    },
+    {
+      "personId": 39049,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 553513,
+      "character": "Visitor",
+      "order": 0
+    },
+    {
+      "personId": 4968,
+      "character": "Castle Owner",
+      "order": 1
+    },
+    {
+      "personId": 97674,
+      "character": "Wife",
+      "order": 2
+    },
+    {
+      "personId": 143598,
+      "character": "Son",
+      "order": 3
+    },
+    {
+      "personId": 78094,
+      "character": "(uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 25781,
+      "character": "Soldier (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 572282,
+      "character": "Woman in Stag Movie (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 2902120,
+      "character": "Man in Stag Movie (uncredited)",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 58,
+  "sources": [
+    "cult-list"
+  ]
+}

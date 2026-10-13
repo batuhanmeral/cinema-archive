@@ -1,0 +1,192 @@
+{
+  "tmdbId": 3084,
+  "slug": "wuthering-heights-1939",
+  "year": 1939,
+  "runtime": 104,
+  "originalTitle": "Wuthering Heights",
+  "title": {
+    "en": "Wuthering Heights",
+    "tr": "Uğultulu Tepeler"
+  },
+  "overview": {
+    "en": "Young orphan Heathcliff is adopted by the wealthy Earnshaw family and moves into their estate, Wuthering Heights. Soon, the new resident falls for his compassionate foster sister, Cathy. The two share a remarkable bond that seems unbreakable until Cathy, feeling the pressure of social convention, suppresses her feelings and marries Edgar Linton, a man of means who befits her stature. Heathcliff vows to win her back.",
+    "tr": "Earnshaw Ailesi, Yorkshire'da 19. yüzyılda çiftçilik yapan bir ailedir. Bir gün Bay Earnshaw, küçük çocuğu Heathcliff ile birlikte kendi şehrine döner. Earnshaw'un oğlu Hindley, çocuğu geri gönderir ancak Heathcliff, Hindley'in kız kardeşi Catherine ile dost kalır. Aile öldükten sonra Hindley'in kız kardeşi ve Heathcliff, bir araya gelirler."
+  },
+  "poster": {
+    "tr": "/8w9gWnw34nc1JjgU0qel1TdwLhx.jpg",
+    "en": "/tA3ZaItWqhoruqhvbnJM4WWrHfF.jpg"
+  },
+  "backdrops": [
+    "/txdEGMNNbNBJEYXm9xQN1uckq0v.jpg",
+    "/oE0EoiecRA4N1Xk2Liom1akUWsf.jpg",
+    "/qyl6dV5dCfoBifzSShAz8YZtrf9.jpg",
+    "/uRF8FwIOeM2zMoMvFee1vn73oB2.jpg",
+    "/sIeBNiApswhnKpsBbiv9fufWYWR.jpg",
+    "/qWSWJnq38eVYrMzs6YkxRT8yMYK.jpg",
+    "/5meJyP5mQ2h2e9TZuBeB3cp0zYR.jpg",
+    "/9Zl0PD7GlGm5Kq0NBGEZtVthUhN.jpg",
+    "/z7aF8AG12QpirHEvKffN0R0HL6M.jpg",
+    "/eoMOIaZm6x280jTxJ1L83ERQBob.jpg"
+  ],
+  "trailerKey": "XmuMd4FnnYo",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    931,
+    380,
+    818,
+    2038,
+    1291,
+    5626,
+    9823,
+    9180,
+    17982,
+    207928
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Samuel Goldwyn Productions"
+  ],
+  "crew": [
+    {
+      "personId": 10001,
+      "job": "director"
+    },
+    {
+      "personId": 4341,
+      "job": "writer"
+    },
+    {
+      "personId": 8504,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 13570,
+      "job": "producer"
+    },
+    {
+      "personId": 14824,
+      "job": "writer"
+    },
+    {
+      "personId": 8503,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30225,
+      "character": "Catherine 'Cathy' Earnshaw Linton",
+      "order": 0
+    },
+    {
+      "personId": 3359,
+      "character": "Heathcliff",
+      "order": 1
+    },
+    {
+      "personId": 14261,
+      "character": "Edgar Linton",
+      "order": 2
+    },
+    {
+      "personId": 30126,
+      "character": "Ellen Dean",
+      "order": 3
+    },
+    {
+      "personId": 8841,
+      "character": "Dr. Kenneth",
+      "order": 4
+    },
+    {
+      "personId": 30226,
+      "character": "Isabella Linton",
+      "order": 5
+    },
+    {
+      "personId": 30227,
+      "character": "Hindley Earnshaw",
+      "order": 6
+    },
+    {
+      "personId": 2642,
+      "character": "Joseph",
+      "order": 7
+    },
+    {
+      "personId": 19329,
+      "character": "Lockwood",
+      "order": 8
+    },
+    {
+      "personId": 30228,
+      "character": "Earnshaw",
+      "order": 9
+    },
+    {
+      "personId": 26665,
+      "character": "Judge Linton",
+      "order": 10
+    },
+    {
+      "personId": 30229,
+      "character": "Cathy as a Child",
+      "order": 11
+    },
+    {
+      "personId": 30230,
+      "character": "Heathcliff as a Child",
+      "order": 12
+    },
+    {
+      "personId": 30231,
+      "character": "Hindley as a Child",
+      "order": 13
+    },
+    {
+      "personId": 1125676,
+      "character": "Heathcliff Servant (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1046808,
+      "character": "Robert (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1466733,
+      "character": "Little Boy (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 25174,
+      "character": "Giles (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1467244,
+      "character": "Madame Ehlers (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1419560,
+      "character": "Beadle (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 340,
+  "sources": [
+    "cult-list"
+  ]
+}

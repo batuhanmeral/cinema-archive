@@ -1,0 +1,215 @@
+{
+  "tmdbId": 68,
+  "slug": "brazil-1985",
+  "year": 1985,
+  "runtime": 143,
+  "originalTitle": "Brazil",
+  "title": {
+    "en": "Brazil",
+    "tr": "Brazil"
+  },
+  "overview": {
+    "en": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
+    "tr": "Geleceğin tuhaf ve gereksiz derecede karmaşık, fütüristik dünyasındayız. Devlet memuru Sam Lowrey, etrafını saran bu bürokrasi ve teknoloji cenderesinden bunalmış bir istatistikçidir. Kaçışı ve sükuneti, kendisini her şeyden izole ettiği hayallerde bulur. Rüyalarında sürekli olarak aynı kadını kurtardığını görür.Sam'in yaşadığı gerçek dünyayı ise, herşeyi görüp kontrol eden bir bilgisayar idare etmektedir. Jill Layton isimli genç kadın terorist olmakla suçlandığında, düzenli olarak hata kontrolleri yapmakta olan Sam bunda bir yanlışlık olduğunu farkeder ve Jill ile tanıştığında onun rüyalarında kurtarıp durduğu kız olduğunu anlar."
+  },
+  "poster": {
+    "tr": "/2w09J0KUnVtJvqPYu8N63XjAyCR.jpg",
+    "en": "/d0PibPzCK4fVikjoD1PqHovbvkt.jpg"
+  },
+  "backdrops": [
+    "/ziRWOYnl6e2JUaHYmFLR1kfcECM.jpg",
+    "/9IYyCLf5NNAQFK9pNtqzEU9HWzM.jpg",
+    "/pbartrp1JZ6KWtfUOtzO7EmcIfn.jpg",
+    "/1hUJEYazJke7ASO87xCQl0Bx9r3.jpg",
+    "/9bhuGXTqtnLsxaRNd07bCwtl8OS.jpg",
+    "/1cbCZSRkzgLk9c7iZL4lKnDe12d.jpg",
+    "/7MBIucAjunhKiAvvUT86jBIGsPu.jpg",
+    "/ecG3xidTuGHKaaDV2vkuPKNcGIm.jpg",
+    "/1MQQ7nR2NhPIA2SCINS5zcl66bA.jpg",
+    "/6jcRthPBXuCj3R7iS59pvyiBkho.jpg"
+  ],
+  "trailerKey": "A_7ATU9dslE",
+  "genreIds": [
+    35,
+    878
+  ],
+  "keywordIds": [
+    1566,
+    6086,
+    211,
+    318,
+    1025,
+    1576,
+    4565,
+    1438,
+    10123,
+    8201,
+    9887,
+    10028,
+    13015,
+    33702,
+    170715,
+    171729,
+    199524,
+    276775,
+    315323,
+    319397,
+    325761,
+    325763,
+    325773,
+    325776,
+    325810,
+    355849
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Embassy International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 280,
+      "job": "director"
+    },
+    {
+      "personId": 372,
+      "job": "writer"
+    },
+    {
+      "personId": 376,
+      "job": "producer"
+    },
+    {
+      "personId": 293,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7714,
+      "job": "composer"
+    },
+    {
+      "personId": 374,
+      "job": "writer"
+    },
+    {
+      "personId": 280,
+      "job": "writer"
+    },
+    {
+      "personId": 1737913,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 378,
+      "character": "Sam Lowry",
+      "order": 0
+    },
+    {
+      "personId": 380,
+      "character": "Harry Tuttle",
+      "order": 1
+    },
+    {
+      "personId": 381,
+      "character": "Mrs. Ida Lowry",
+      "order": 2
+    },
+    {
+      "personId": 65,
+      "character": "Mr. Kurtzmann",
+      "order": 3
+    },
+    {
+      "personId": 382,
+      "character": "Spoor",
+      "order": 4
+    },
+    {
+      "personId": 383,
+      "character": "Jack Lint",
+      "order": 5
+    },
+    {
+      "personId": 385,
+      "character": "Mr. Warrenn",
+      "order": 6
+    },
+    {
+      "personId": 386,
+      "character": "Mr. Helpmann",
+      "order": 7
+    },
+    {
+      "personId": 387,
+      "character": "Jill Layton",
+      "order": 8
+    },
+    {
+      "personId": 388,
+      "character": "Dr. Jaffe",
+      "order": 9
+    },
+    {
+      "personId": 97167,
+      "character": "Mrs. Alma Terrain",
+      "order": 10
+    },
+    {
+      "personId": 374,
+      "character": "Lime",
+      "order": 11
+    },
+    {
+      "personId": 14325,
+      "character": "Dowser",
+      "order": 12
+    },
+    {
+      "personId": 177594,
+      "character": "Shirley",
+      "order": 13
+    },
+    {
+      "personId": 22171,
+      "character": "Spiro",
+      "order": 14
+    },
+    {
+      "personId": 47404,
+      "character": "Mrs. Buttle",
+      "order": 15
+    },
+    {
+      "personId": 1565168,
+      "character": "T.V. Interviewer / Salesman",
+      "order": 16
+    },
+    {
+      "personId": 20243,
+      "character": "Priest",
+      "order": 17
+    },
+    {
+      "personId": 141537,
+      "character": "Basement Guard",
+      "order": 18
+    },
+    {
+      "personId": 117555,
+      "character": "Charlie--Dept. of Works",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3872,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "tmdbId": 113525,
+  "slug": "embryo-1976",
+  "year": 1976,
+  "runtime": 104,
+  "originalTitle": "Embryo",
+  "title": {
+    "en": "Embryo",
+    "tr": "Embryo"
+  },
+  "overview": {
+    "en": "A scientist doing experiments on a human fetus discovers a method to accelerate the fetus into a mature adult in just a few days.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/96NDgMsfzQl0AfcBOX8t0JaNtfG.jpg",
+    "en": "/brL8hATg2yNNVNa9WkyMAHABJ5N.jpg"
+  },
+  "backdrops": [
+    "/e5q2xS27r8hFLpZgftZ397g9Ltv.jpg",
+    "/c1u554ATBCJYXxAqDu9HfHSXVce.jpg"
+  ],
+  "trailerKey": "PcABy_epWOA",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Sandy Howard Productions",
+    "Plura Service Company"
+  ],
+  "crew": [
+    {
+      "personId": 65513,
+      "job": "composer"
+    },
+    {
+      "personId": 216949,
+      "job": "writer"
+    },
+    {
+      "personId": 1057206,
+      "job": "writer"
+    },
+    {
+      "personId": 216949,
+      "job": "producer"
+    },
+    {
+      "personId": 16888,
+      "job": "director"
+    },
+    {
+      "personId": 19102,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 554224,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18735,
+      "character": "Dr. Paul Holliston",
+      "order": 0
+    },
+    {
+      "personId": 10938,
+      "character": "Victoria Spencer",
+      "order": 1
+    },
+    {
+      "personId": 6587,
+      "character": "Martha Douglas",
+      "order": 2
+    },
+    {
+      "personId": 7505,
+      "character": "Frank Riley",
+      "order": 3
+    },
+    {
+      "personId": 152723,
+      "character": "Helen Holliston",
+      "order": 4
+    },
+    {
+      "personId": 165368,
+      "character": "Gordon Holliston",
+      "order": 5
+    },
+    {
+      "personId": 104340,
+      "character": "Collier",
+      "order": 6
+    },
+    {
+      "personId": 19139,
+      "character": "Dr. Winston",
+      "order": 7
+    },
+    {
+      "personId": 165524,
+      "character": "Forbes",
+      "order": 8
+    },
+    {
+      "personId": 166109,
+      "character": "Janet Novak",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 41,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "tmdbId": 67298,
+  "slug": "lisztomania-1975",
+  "year": 1975,
+  "runtime": 103,
+  "originalTitle": "Lisztomania",
+  "title": {
+    "en": "Lisztomania",
+    "tr": "Lisztomania"
+  },
+  "overview": {
+    "en": "In 19th-century Hungary, Romantic composer/pianist Franz Liszt struggles to end his hedonistic ways but keeps getting sucked back in by his seductive fellow composer, Richard Wagner.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/slkgkRL8hu0Sj4sOkcb8NSkwdGd.jpg",
+    "en": "/slkgkRL8hu0Sj4sOkcb8NSkwdGd.jpg"
+  },
+  "backdrops": [
+    "/6SuOxhp79bAdisY61ItOxqSVgbi.jpg",
+    "/fxfsyfPrGScC0fBmGsYgpH3zC9D.jpg",
+    "/p0nZymwr3rvwQlPdTrDog0T4Fub.jpg",
+    "/2zjzC4z69rtRLuV0vC4AtWx2A8s.jpg",
+    "/6DYJK1vUSD4Lxk9YEtaq0jWmFX0.jpg",
+    "/fd3eHkXRHklDn3tm070TR1wpIhC.jpg",
+    "/pncPjlVXddb4SDjPpM25DJ2xjjh.jpg",
+    "/cMqIC2Cw6Vi3n5p2VIekIKkvZqk.jpg",
+    "/egacEiJ3DmEYnDEDFeEGyFm3X2U.jpg"
+  ],
+  "trailerKey": "CeglJMCgnuw",
+  "genreIds": [
+    36,
+    10402,
+    35
+  ],
+  "keywordIds": [
+    1326,
+    818,
+    1233,
+    3133,
+    5783,
+    4344,
+    8201,
+    9887,
+    6384,
+    12995,
+    14743,
+    155710,
+    191726,
+    207928,
+    233974,
+    240462,
+    258963,
+    276014
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Goodtimes Enterprises",
+    "Visual Programme Systems",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 32327,
+      "job": "director"
+    },
+    {
+      "personId": 307,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 32327,
+      "job": "writer"
+    },
+    {
+      "personId": 103169,
+      "job": "composer"
+    },
+    {
+      "personId": 65305,
+      "job": "producer"
+    },
+    {
+      "personId": 8967,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 47096,
+      "character": "Franz Liszt",
+      "order": 0
+    },
+    {
+      "personId": 22370,
+      "character": "Princess Carolyn",
+      "order": 1
+    },
+    {
+      "personId": 122884,
+      "character": "Richard Wagner",
+      "order": 2
+    },
+    {
+      "personId": 10594,
+      "character": "The Pope",
+      "order": 3
+    },
+    {
+      "personId": 103169,
+      "character": "Thor",
+      "order": 4
+    },
+    {
+      "personId": 71785,
+      "character": "Count d'Agoult",
+      "order": 5
+    },
+    {
+      "personId": 26490,
+      "character": "Marie d'Agoult",
+      "order": 6
+    },
+    {
+      "personId": 1144679,
+      "character": "Cosima",
+      "order": 7
+    },
+    {
+      "personId": 13476,
+      "character": "Olga Janina",
+      "order": 8
+    },
+    {
+      "personId": 1286881,
+      "character": "Hans von Bülow",
+      "order": 9
+    },
+    {
+      "personId": 201435,
+      "character": "Captain",
+      "order": 10
+    },
+    {
+      "personId": 101589,
+      "character": "Governess",
+      "order": 11
+    },
+    {
+      "personId": 31722,
+      "character": "Hector Berlioz",
+      "order": 12
+    },
+    {
+      "personId": 936,
+      "character": "Princess Carolyn's Servant",
+      "order": 13
+    },
+    {
+      "personId": 2278,
+      "character": "Manager",
+      "order": 14
+    },
+    {
+      "personId": 53488,
+      "character": "George Sand",
+      "order": 15
+    },
+    {
+      "personId": 10734,
+      "character": "Frederic Chopin",
+      "order": 16
+    },
+    {
+      "personId": 517007,
+      "character": "Countess",
+      "order": 17
+    },
+    {
+      "personId": 971568,
+      "character": "Daniel",
+      "order": 18
+    },
+    {
+      "personId": 107239,
+      "character": "Lola Montez",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 42,
+  "sources": [
+    "cult-list"
+  ]
+}

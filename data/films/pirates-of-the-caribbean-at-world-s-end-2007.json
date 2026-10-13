@@ -1,0 +1,223 @@
+{
+  "tmdbId": 285,
+  "slug": "pirates-of-the-caribbean-at-world-s-end-2007",
+  "year": 2007,
+  "runtime": 169,
+  "originalTitle": "Pirates of the Caribbean: At World's End",
+  "title": {
+    "en": "Pirates of the Caribbean: At World's End",
+    "tr": "Karayip Korsanları: Dünyanın Sonu"
+  },
+  "overview": {
+    "en": "After losing Captain Jack Sparrow to the locker of Davy Jones, Will Turner, Elizabeth Swann, and Captain Barbossa journey to the ends of the earth to rescue him. And as the East India Trading Company tightens its grip on the seas under Lord Cutler Beckett—now in control of Davy Jones—the fate of piracy hangs by a thread. Now, they must unite the pirate lords for one final stand. But as loyalties are tested and alliances shift, each must ultimately choose where they stand in the battle for freedom on the high seas.",
+    "tr": "Önceki filmde Kaptan Jack Sparrow, Davy Jones'un sandığında kapana kısılmıştır. Will Turner ve Elizabeth Swann, efsanevi Kaptan Barbossa'nın yardımıyla Jack'i kurtarmak ve Davy Jones'un hayalet gemisi Uçan Hollandalı'nın lanetinden kurtulmak için tehlikeli bir yolculuğa çıkarlar. Bu kez, korsanlar Doğu Hindistan Ticaret Şirketi'nin acımasız lideri Lord Cutler Beckett'a karşı savaşıyor. Beckett, Davy Jones'u kontrol ederek denizlere hükmetmeyi amaçlar. Will, Elizabeth ve Barbossa, Jack'i kurtarmak ve korsanlar arasındaki birliği sağlamak için egzotik ve tehlikeli yerlerde dolaşırlar. Yolculukları sırasında, korsan lordları toplamak ve bir araya getirerek korsanların geleceğini belirlemek zorunda kalırlar."
+  },
+  "poster": {
+    "tr": "/w5EB5nFC3V6ceCEp1tG9nyCiDqW.jpg",
+    "en": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg"
+  },
+  "backdrops": [
+    "/xWXTfnmQZhdYyqEPCCKL1IQKUxj.jpg",
+    "/1jHxkVXMI5s3vRiyiZooUy1shB5.jpg",
+    "/xQkk0i3FrNSq7DTBlxRf9XJhH7l.jpg",
+    "/5D849yJ7isoK17flsH99yJUAMPI.jpg",
+    "/fT4AvEET5CMCkNzKei7YQ3MiYuW.jpg",
+    "/9BjYQlc72Jky80ffc0XHtQT7ibP.jpg",
+    "/3Au8rkDVsRK2AT4jq9dg6jH6buy.jpg",
+    "/kobscH4qOsYQNTZnkrF5zkPCsvX.jpg",
+    "/1vKGbjsqaLz2WecjVP7xaMxDdVn.jpg",
+    "/kPcHuPYqzkSo4bmPHtH82GaeEgX.jpg"
+  ],
+  "trailerKey": "HKSZtp_OGHY",
+  "genreIds": [
+    12,
+    14,
+    28
+  ],
+  "keywordIds": [
+    911,
+    2660,
+    2038,
+    6155,
+    2052,
+    4224,
+    2580,
+    9663,
+    9725,
+    12988,
+    15149,
+    157186,
+    163131,
+    163702,
+    165369,
+    179430,
+    224626,
+    227419,
+    259376,
+    279987,
+    324713,
+    325781,
+    325811,
+    325832
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Jerry Bruckheimer Films",
+    "Second Mate Productions",
+    "Walt Disney Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 2445,
+      "job": "producer"
+    },
+    {
+      "personId": 120,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1704,
+      "job": "director"
+    },
+    {
+      "personId": 1706,
+      "job": "writer"
+    },
+    {
+      "personId": 947,
+      "job": "composer"
+    },
+    {
+      "personId": 1705,
+      "job": "writer"
+    },
+    {
+      "personId": 770,
+      "job": "producer"
+    },
+    {
+      "personId": 2448,
+      "job": "producer"
+    },
+    {
+      "personId": 2447,
+      "job": "producer"
+    },
+    {
+      "personId": 1918070,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85,
+      "character": "Jack Sparrow",
+      "order": 0
+    },
+    {
+      "personId": 118,
+      "character": "Barbossa",
+      "order": 1
+    },
+    {
+      "personId": 114,
+      "character": "Will Turner",
+      "order": 2
+    },
+    {
+      "personId": 116,
+      "character": "Elizabeth Swann",
+      "order": 3
+    },
+    {
+      "personId": 1709,
+      "character": "Norrington",
+      "order": 4
+    },
+    {
+      "personId": 2440,
+      "character": "Davy Jones",
+      "order": 5
+    },
+    {
+      "personId": 378,
+      "character": "Governor Weatherby Swann",
+      "order": 6
+    },
+    {
+      "personId": 1710,
+      "character": "Pintel",
+      "order": 7
+    },
+    {
+      "personId": 1711,
+      "character": "Ragetti",
+      "order": 8
+    },
+    {
+      "personId": 2449,
+      "character": "Gibbs",
+      "order": 9
+    },
+    {
+      "personId": 1715,
+      "character": "Cotton",
+      "order": 10
+    },
+    {
+      "personId": 1640,
+      "character": "Bootstrap Bill",
+      "order": 11
+    },
+    {
+      "personId": 2441,
+      "character": "Cutler Beckett",
+      "order": 12
+    },
+    {
+      "personId": 2038,
+      "character": "Tia Dalma",
+      "order": 13
+    },
+    {
+      "personId": 4030,
+      "character": "Marty",
+      "order": 14
+    },
+    {
+      "personId": 939,
+      "character": "Mercer",
+      "order": 15
+    },
+    {
+      "personId": 2450,
+      "character": "Scarlett",
+      "order": 16
+    },
+    {
+      "personId": 191751,
+      "character": "Maccus / Dutchman",
+      "order": 17
+    },
+    {
+      "personId": 11283,
+      "character": "Koleniko / Dutchman",
+      "order": 18
+    },
+    {
+      "personId": 1195758,
+      "character": "Palifico / Dutchman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 15994,
+  "sources": [
+    "cult-list"
+  ]
+}

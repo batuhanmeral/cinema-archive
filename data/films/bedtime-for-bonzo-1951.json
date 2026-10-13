@@ -1,0 +1,172 @@
+{
+  "tmdbId": 43371,
+  "slug": "bedtime-for-bonzo-1951",
+  "year": 1951,
+  "runtime": 83,
+  "originalTitle": "Bedtime for Bonzo",
+  "title": {
+    "en": "Bedtime for Bonzo",
+    "tr": "Bedtime for Bonzo"
+  },
+  "overview": {
+    "en": "College prof Peter Boyd tries to salvage his professional and personal reputation by using a lab chimp to prove that environment trumps heredity in behavioral development.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6fyCX61AY0MsNwMZ0dz5IOquvcK.jpg",
+    "en": "/y76sWVCaoX7spwOY6oiOy7Tvxpd.jpg"
+  },
+  "backdrops": [
+    "/iMB1LloZTz1pY8IKvSZd6Caeybe.jpg",
+    "/srhPQJ0XNhwey3ioumf6hJE7dSF.jpg"
+  ],
+  "trailerKey": "is2ITtEGN-E",
+  "genreIds": [
+    35,
+    10751,
+    10749
+  ],
+  "keywordIds": [
+    1992,
+    2552,
+    155457,
+    257115
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 43816,
+      "job": "director"
+    },
+    {
+      "personId": 34312,
+      "job": "writer"
+    },
+    {
+      "personId": 131028,
+      "job": "writer"
+    },
+    {
+      "personId": 30970,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 115084,
+      "job": "producer"
+    },
+    {
+      "personId": 30104,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18802,
+      "character": "Professor Peter Boyd",
+      "order": 0
+    },
+    {
+      "personId": 115990,
+      "character": "Jane",
+      "order": 1
+    },
+    {
+      "personId": 37884,
+      "character": "Professor Hans Neumann",
+      "order": 2
+    },
+    {
+      "personId": 142440,
+      "character": "Valerie Tillinghast",
+      "order": 3
+    },
+    {
+      "personId": 93664,
+      "character": "Babcock",
+      "order": 4
+    },
+    {
+      "personId": 82836,
+      "character": "Dean Tillinghast",
+      "order": 5
+    },
+    {
+      "personId": 134614,
+      "character": "Lt. Daggett",
+      "order": 6
+    },
+    {
+      "personId": 105454,
+      "character": "Knucksy",
+      "order": 7
+    },
+    {
+      "personId": 43826,
+      "character": "Fosdick (as Ed Clark)",
+      "order": 8
+    },
+    {
+      "personId": 34294,
+      "character": "Policeman (as Ed Gargan)",
+      "order": 9
+    },
+    {
+      "personId": 108436,
+      "character": "Mr. De Witt",
+      "order": 10
+    },
+    {
+      "personId": 2597591,
+      "character": "Chief of Police",
+      "order": 11
+    },
+    {
+      "personId": 43827,
+      "character": "Miss Swithen (as Elizabeth Flourney)",
+      "order": 12
+    },
+    {
+      "personId": 1045984,
+      "character": "Policeman",
+      "order": 13
+    },
+    {
+      "personId": 109724,
+      "character": "Fireman",
+      "order": 14
+    },
+    {
+      "personId": 1221297,
+      "character": "Student",
+      "order": 15
+    },
+    {
+      "personId": 105026,
+      "character": "Student (as Bill Mauch)",
+      "order": 16
+    },
+    {
+      "personId": 1221370,
+      "character": "Telephone Operator",
+      "order": 17
+    },
+    {
+      "personId": 4017540,
+      "character": "Bonzo",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 21,
+  "sources": [
+    "cult-list"
+  ]
+}

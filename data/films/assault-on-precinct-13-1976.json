@@ -1,0 +1,200 @@
+{
+  "tmdbId": 17814,
+  "slug": "assault-on-precinct-13-1976",
+  "year": 1976,
+  "runtime": 91,
+  "originalTitle": "Assault on Precinct 13",
+  "title": {
+    "en": "Assault on Precinct 13",
+    "tr": "13. Bölgeye Saldırı"
+  },
+  "overview": {
+    "en": "A highway patrol officer, two criminals, and a station secretary form an unlikely alliance to defend a defunct Los Angeles precinct against a siege by a bloodthirsty street gang.",
+    "tr": "Los Angeles'ta kapanmakta olan bir polis karakolu boşaltılmak üzeredir. Bu sebeple elektrik ve telefonları kesilmiş, son tutuklular tahliye edilmeyi beklerken bir kaç sekreter ile bir polis memuru da onları gözetmektedir. Bu arada Los Angeles polisi ölümcül bir hata yapmış ve pis bir sokak çetesini kendisine düşman etmiştir. İşte şimdi bu korumasız karakol büyük bir intikam hareketinin kurbanı durumundadır. Hiç bitmeyecekmiş gibi gelen bir saldırı başlar. Polis memuru Bishop, bir kaç sivil ve tutuklular canlarını kurtarmak için müthiş bir mücadelede işbirliği yapacaklardır."
+  },
+  "poster": {
+    "tr": "/20zPrVhCow6gYt3DWOfxDpH62oU.jpg",
+    "en": "/vAGq6oo8ycKciWksoPDq0Ak4jbj.jpg"
+  },
+  "backdrops": [
+    "/vYSceZj5R8kmOvoTnSobYBNP69q.jpg",
+    "/28lA2YGj74GU4CG4S5DoRmi9mNl.jpg",
+    "/gluQnLUHCAxDZyJrYkyMQh2H8yF.jpg",
+    "/dm1bqDSw3MJTjYCeuNUv122BXFp.jpg",
+    "/rMJLx049fB7pfi9kyow6z50VhuP.jpg",
+    "/t5EkxrtbsOgZ4H4hcsACKgVIEXf.jpg",
+    "/8UXHWcfZws8oGDLWyeotqRi5NzN.jpg",
+    "/rFNG0GIpJUn84h0utnPMayRIbfP.jpg",
+    "/boFK8az5o8xKCUvU8vEv68vUSJR.jpg",
+    "/va9kIb8KLjXRGHxLb3y1yvUhOI4.jpg"
+  ],
+  "trailerKey": "SmuM704bMjM",
+  "genreIds": [
+    53,
+    28,
+    80
+  ],
+  "keywordIds": [
+    542,
+    6149,
+    502,
+    6259,
+    1468,
+    2583,
+    4063,
+    10349,
+    10950,
+    12371,
+    12670,
+    14707,
+    15234,
+    15321,
+    18107,
+    156257,
+    157481,
+    177317,
+    200234,
+    226254,
+    227951,
+    321464
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Overseas FilmGroup",
+    "The CKK Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 11770,
+      "job": "director"
+    },
+    {
+      "personId": 109938,
+      "job": "producer"
+    },
+    {
+      "personId": 25194,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11770,
+      "job": "writer"
+    },
+    {
+      "personId": 11770,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 103707,
+      "character": "Ethan Bishop",
+      "order": 0
+    },
+    {
+      "personId": 105624,
+      "character": "Napoleon Wilson",
+      "order": 1
+    },
+    {
+      "personId": 109944,
+      "character": "Leigh",
+      "order": 2
+    },
+    {
+      "personId": 109945,
+      "character": "Lawson",
+      "order": 3
+    },
+    {
+      "personId": 16504,
+      "character": "Wells",
+      "order": 4
+    },
+    {
+      "personId": 11786,
+      "character": "Starker",
+      "order": 5
+    },
+    {
+      "personId": 11787,
+      "character": "Julie",
+      "order": 6
+    },
+    {
+      "personId": 109946,
+      "character": "Ice Cream Man",
+      "order": 7
+    },
+    {
+      "personId": 109947,
+      "character": "Warden",
+      "order": 8
+    },
+    {
+      "personId": 109948,
+      "character": "Patrolman Tramer",
+      "order": 9
+    },
+    {
+      "personId": 109949,
+      "character": "Patrolman Baxter",
+      "order": 10
+    },
+    {
+      "personId": 30553,
+      "character": "Chaney",
+      "order": 11
+    },
+    {
+      "personId": 53261,
+      "character": "Kathy",
+      "order": 12
+    },
+    {
+      "personId": 15449,
+      "character": "White Warlord",
+      "order": 13
+    },
+    {
+      "personId": 109950,
+      "character": "Chicano Warlord",
+      "order": 14
+    },
+    {
+      "personId": 109954,
+      "character": "Caudell",
+      "order": 15
+    },
+    {
+      "personId": 109955,
+      "character": "Oriental Warlord",
+      "order": 16
+    },
+    {
+      "personId": 109957,
+      "character": "Bus Driver",
+      "order": 17
+    },
+    {
+      "personId": 109958,
+      "character": "First Guard",
+      "order": 18
+    },
+    {
+      "personId": 109959,
+      "character": "Second Guard",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1281,
+  "sources": [
+    "cult-list"
+  ]
+}

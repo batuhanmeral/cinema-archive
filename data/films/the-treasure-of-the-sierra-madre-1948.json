@@ -1,0 +1,193 @@
+{
+  "tmdbId": 3090,
+  "slug": "the-treasure-of-the-sierra-madre-1948",
+  "year": 1948,
+  "runtime": 126,
+  "originalTitle": "The Treasure of the Sierra Madre",
+  "title": {
+    "en": "The Treasure of the Sierra Madre",
+    "tr": "Sierra Madre Hazineleri"
+  },
+  "overview": {
+    "en": "Two jobless Americans convince a prospector to travel to the mountains of Mexico with them in search of gold. But the hostile wilderness, local bandits, and greed all get in the way of their journey.",
+    "tr": "Zengin olma hırsıyla son parasını da piyangoya yatırarak tüketen Fred (Humphrey Bogart) Meksika’da dostu Curtin’la buluşur. Birlikte çalıştıkları McClane’den paralarını almakta zorlanırlar.  Diğer yandan, beraber vakit geçirdikleri ve oldukça geveze bir araştırmacı olan Howard’a göre etraftaki tüm tepeler altın hazineleriyle doludur. Bu, Dobbs ve Curtin için kaçırılmaz bir fırsattır. Beraber tepeleri aşan üçlü, döndüklerinde dostlukları mı yoksa paraya olan tutkuları mı ağır basacaktır?"
+  },
+  "poster": {
+    "tr": "/gV4xAr7Z3ywxBzDeuNuHRSVTi11.jpg",
+    "en": "/qvExr87oqKHvNiFRK5VqDoZrS5D.jpg"
+  },
+  "backdrops": [
+    "/sj5R5SGor3YMFBuabMj8gPbyBmh.jpg",
+    "/e26UOCX4Am216FIAIHVwGBAw7gj.jpg",
+    "/ocR8jdGkcwY177pum8zHk2kkvU9.jpg",
+    "/d5EF8OlcVuQWWHtNjmti4kNpbcG.jpg",
+    "/osytHgkv86CTFKxo46l9P7ACEjm.jpg",
+    "/3PQj4opgHCMpvXFqMNDWCBdnAel.jpg",
+    "/6gSYFE2wp3wQjcIs3aS0caWnHGo.jpg",
+    "/wXZLRtRRq7oPO9yFzqSmg1LIcSq.jpg",
+    "/kVrQDF7wBorzKUCzd3xEFnva5BG.jpg",
+    "/7PtzpVNr2ztgBXRkTYQaS1DTMLG.jpg"
+  ],
+  "trailerKey": "1DwXNmorsa0",
+  "genreIds": [
+    12,
+    18,
+    37
+  ],
+  "keywordIds": [
+    1321,
+    534,
+    818,
+    5332,
+    4542,
+    8577,
+    9713,
+    10594,
+    14638,
+    33344,
+    162726,
+    207876,
+    311315
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 6593,
+      "job": "director"
+    },
+    {
+      "personId": 6593,
+      "job": "writer"
+    },
+    {
+      "personId": 14446,
+      "job": "producer"
+    },
+    {
+      "personId": 2760,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3249,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4110,
+      "character": "Fred C. Dobbs",
+      "order": 0
+    },
+    {
+      "personId": 19020,
+      "character": "Howard",
+      "order": 1
+    },
+    {
+      "personId": 14517,
+      "character": "Bob Curtin",
+      "order": 2
+    },
+    {
+      "personId": 30303,
+      "character": "James Cody",
+      "order": 3
+    },
+    {
+      "personId": 14451,
+      "character": "Pat McCormick",
+      "order": 4
+    },
+    {
+      "personId": 30304,
+      "character": "Gold Hat",
+      "order": 5
+    },
+    {
+      "personId": 30305,
+      "character": "El Presidente",
+      "order": 6
+    },
+    {
+      "personId": 30306,
+      "character": "El Jefe",
+      "order": 7
+    },
+    {
+      "personId": 30307,
+      "character": "Pablo",
+      "order": 8
+    },
+    {
+      "personId": 9287,
+      "character": "Mexican Boy Selling Lottery Tickets (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 31224,
+      "character": "Mexican Lieutenant (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 104155,
+      "character": "Flashy Girl (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 124882,
+      "character": "Flophouse Bum (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 125842,
+      "character": "Customer in Bar Who Warns Curtin and Dobbs about Pat McCormick (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 94401,
+      "character": "Railroad Conductor (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 93910,
+      "character": "Flophouse Bum (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 6593,
+      "character": "American in Tampico in White Suit (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 161702,
+      "character": "Barber (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1229431,
+      "character": "Indian Guide at Pier (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 30515,
+      "character": "Workman at Pier (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 1415,
+  "sources": [
+    "cult-list"
+  ]
+}

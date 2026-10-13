@@ -1,0 +1,216 @@
+{
+  "tmdbId": 153,
+  "slug": "lost-in-translation-2003",
+  "year": 2003,
+  "runtime": 102,
+  "originalTitle": "Lost in Translation",
+  "title": {
+    "en": "Lost in Translation",
+    "tr": "Bir Konuşabilse"
+  },
+  "overview": {
+    "en": "Two lost souls visiting Tokyo -- the young, neglected wife of a photographer and a washed-up movie star shooting a TV commercial -- find an odd solace and pensive freedom to be real in each other's company, away from their lives in America.",
+    "tr": "Orta yaşı çoktan geçmiş, evli ve çocuklu Amerikalı aktör Bob bir reklam çekimi için Japonya’ya gelir. Tokyo’da kaldığı otelde bir başka Amerikalı ile fotoğrafçı kocasının peşinden buraya gelmiş olan sevimli ama ciddi Charlotte ile tanışır. Dillerine ve kültürlerine uzak oldukları bu insanların ülkesinde fazlasıyla yabancı olan ve iletişimsizlik denizinde boğulan bu iki yabancı, bir Tokyo haftasonunda birdenbire yakınlaşacaklardır."
+  },
+  "poster": {
+    "tr": "/dqo27GmyPrYlsc9XAk6rztanpZB.jpg",
+    "en": "/wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg"
+  },
+  "backdrops": [
+    "/6ITVHoipvxAS8luzKtHTbPaHLtT.jpg",
+    "/3ZY8iEsv5XKiMU19T1MIvHET5Ih.jpg",
+    "/45He7gApNQyDbqCDjxew9BnHzjf.jpg",
+    "/rNyd1KsZUUf8K4fk22FJ4MrLabV.jpg",
+    "/6BVW7Tk0HvSGZqJ0NCnd2kLCJO3.jpg",
+    "/bk3PFxDgIwIb4B2KN64wXWI7nvJ.jpg",
+    "/zHGORAs0TdNsvk5LXkIwwWS197L.jpg",
+    "/mcleoX8plaeoT8QZHSJrLRJBu42.jpg",
+    "/qRdXtMR5Prvok2URW8Ezs06iF1t.jpg",
+    "/zF7IqDZLD1inmFjZoD4FqbNBC9b.jpg"
+  ],
+  "trailerKey": "1s4YQqnbnM8",
+  "genreIds": [
+    18,
+    35,
+    10749
+  ],
+  "keywordIds": [
+    922,
+    596,
+    233,
+    6059,
+    213,
+    3490,
+    965,
+    1003,
+    1004,
+    1005,
+    1007,
+    1463,
+    1895,
+    1599,
+    9957,
+    12369,
+    14669,
+    167982,
+    179430,
+    187056,
+    239187,
+    281659,
+    325824
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "studios": [
+    "American Zoetrope",
+    "Elemental Films"
+  ],
+  "crew": [
+    {
+      "personId": 1769,
+      "job": "director"
+    },
+    {
+      "personId": 1769,
+      "job": "producer"
+    },
+    {
+      "personId": 1777,
+      "job": "producer"
+    },
+    {
+      "personId": 1779,
+      "job": "composer"
+    },
+    {
+      "personId": 1781,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1769,
+      "job": "writer"
+    },
+    {
+      "personId": 2612131,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1532,
+      "character": "Bob Harris",
+      "order": 0
+    },
+    {
+      "personId": 1245,
+      "character": "Charlotte",
+      "order": 1
+    },
+    {
+      "personId": 1771,
+      "character": "John",
+      "order": 2
+    },
+    {
+      "personId": 1772,
+      "character": "Kelly",
+      "order": 3
+    },
+    {
+      "personId": 1770,
+      "character": "Ms. Kawasaki",
+      "order": 4
+    },
+    {
+      "personId": 1773,
+      "character": "Press Agent",
+      "order": 5
+    },
+    {
+      "personId": 1774,
+      "character": "Press Agent",
+      "order": 6
+    },
+    {
+      "personId": 1775,
+      "character": "Press Agent",
+      "order": 7
+    },
+    {
+      "personId": 2510694,
+      "character": "Concierge",
+      "order": 8
+    },
+    {
+      "personId": 5399776,
+      "character": "Bellboy",
+      "order": 9
+    },
+    {
+      "personId": 75491,
+      "character": "Jazz Singer",
+      "order": 10
+    },
+    {
+      "personId": 2510695,
+      "character": "Sausalito Piano",
+      "order": 11
+    },
+    {
+      "personId": 2510696,
+      "character": "Sausalito Guitar",
+      "order": 12
+    },
+    {
+      "personId": 496263,
+      "character": "American Businessman #1",
+      "order": 13
+    },
+    {
+      "personId": 2189465,
+      "character": "American Businessman #2",
+      "order": 14
+    },
+    {
+      "personId": 1037398,
+      "character": "Commercial Director",
+      "order": 15
+    },
+    {
+      "personId": 1530485,
+      "character": "Suntory Client",
+      "order": 16
+    },
+    {
+      "personId": 1659677,
+      "character": "Premium Fantasy Woman",
+      "order": 17
+    },
+    {
+      "personId": 554990,
+      "character": "Stills Photographer",
+      "order": 18
+    },
+    {
+      "personId": 2510701,
+      "character": "Makeup Person",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1,
+    "golden-globe": 3,
+    "bafta": 3,
+    "cesar": 1
+  },
+  "voteCount": 8400,
+  "sources": [
+    "cult-list"
+  ]
+}

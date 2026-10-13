@@ -1,0 +1,190 @@
+{
+  "tmdbId": 6974,
+  "slug": "the-angry-red-planet-1959",
+  "year": 1959,
+  "runtime": 83,
+  "originalTitle": "The Angry Red Planet",
+  "title": {
+    "en": "The Angry Red Planet",
+    "tr": "The Angry Red Planet"
+  },
+  "overview": {
+    "en": "The first manned flight to Mars returns after having been out of communications since it had arrived on Mars. What would it reveal?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/jtY9aJjUdbw6CaQ3rHQW6WJKB6g.jpg",
+    "en": "/jtY9aJjUdbw6CaQ3rHQW6WJKB6g.jpg"
+  },
+  "backdrops": [
+    "/tL96NSWrcmkcBEH7JVt7x5Jhnwh.jpg",
+    "/k5YL1DPKdckJtVq4KuzPHqbAe7P.jpg",
+    "/rgrUSLJgOc2d7JP2kRbyIkQDa2B.jpg",
+    "/84Y90HE1y4fwfmAjNeSFP9CRGfE.jpg",
+    "/w2XOPQhAB9y0AsHSHfQlZ5hZEk5.jpg",
+    "/xr8PvqS2ak7RnFr23m2H8l9zp16.jpg",
+    "/fCpGi7qX0m0caGCMkRKn3iJwcKo.jpg",
+    "/gIhTtC5iNtD2PagGreScyTgw94t.jpg",
+    "/jXUGdJaN9Avo6ZQpSO2owHVARJt.jpg",
+    "/3lZVLMy5vKbN81ZXA63M2dRSDOz.jpg"
+  ],
+  "trailerKey": "g4KueAXMQIk",
+  "genreIds": [
+    12,
+    878,
+    27
+  ],
+  "keywordIds": [
+    1612,
+    1299,
+    839,
+    11100,
+    8183,
+    9951,
+    9882,
+    10539,
+    13005,
+    14626,
+    195114,
+    210234
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Sino Productions"
+  ],
+  "crew": [
+    {
+      "personId": 51715,
+      "job": "director"
+    },
+    {
+      "personId": 51715,
+      "job": "writer"
+    },
+    {
+      "personId": 30821,
+      "job": "writer"
+    },
+    {
+      "personId": 51721,
+      "job": "producer"
+    },
+    {
+      "personId": 30821,
+      "job": "producer"
+    },
+    {
+      "personId": 19965,
+      "job": "composer"
+    },
+    {
+      "personId": 7648,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 51717,
+      "character": "Col. Thomas O`Bannion",
+      "order": 0
+    },
+    {
+      "personId": 51718,
+      "character": "Dr. Iris Ryan",
+      "order": 1
+    },
+    {
+      "personId": 2648,
+      "character": "Prof. Theodore Gettell",
+      "order": 2
+    },
+    {
+      "personId": 4094,
+      "character": "CWO Sam Jacobs",
+      "order": 3
+    },
+    {
+      "personId": 45186,
+      "character": "Maj. Gen. George Treeger",
+      "order": 4
+    },
+    {
+      "personId": 51719,
+      "character": "Prof. Paul Weiner",
+      "order": 5
+    },
+    {
+      "personId": 51720,
+      "character": "Dr. Frank Gordon",
+      "order": 6
+    },
+    {
+      "personId": 105726,
+      "character": "TV Newscaster / Narrator / Martian (voice)",
+      "order": 7
+    },
+    {
+      "personId": 1090746,
+      "character": "Brig. Gen. Alan Prescott",
+      "order": 8
+    },
+    {
+      "personId": 151874,
+      "character": "Maj. Lyman Ross",
+      "order": 9
+    },
+    {
+      "personId": 1090747,
+      "character": "Lt. Col. Davis",
+      "order": 10
+    },
+    {
+      "personId": 190786,
+      "character": "Nurse Hayes",
+      "order": 11
+    },
+    {
+      "personId": 1090748,
+      "character": "Nurse Dixon",
+      "order": 12
+    },
+    {
+      "personId": 1090749,
+      "character": "Dr. Muller",
+      "order": 13
+    },
+    {
+      "personId": 151893,
+      "character": "Dr. Hawley",
+      "order": 14
+    },
+    {
+      "personId": 1090752,
+      "character": "Air Force News Photographer",
+      "order": 15
+    },
+    {
+      "personId": 143523,
+      "character": "Joan",
+      "order": 16
+    },
+    {
+      "personId": 1090754,
+      "character": "Joan's Friend",
+      "order": 17
+    },
+    {
+      "personId": 3198125,
+      "character": "Air Force News Photographer",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 85,
+  "sources": [
+    "cult-list"
+  ]
+}

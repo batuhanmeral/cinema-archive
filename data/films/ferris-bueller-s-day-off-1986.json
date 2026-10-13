@@ -1,0 +1,202 @@
+{
+  "tmdbId": 9377,
+  "slug": "ferris-bueller-s-day-off-1986",
+  "year": 1986,
+  "runtime": 103,
+  "originalTitle": "Ferris Bueller's Day Off",
+  "title": {
+    "en": "Ferris Bueller's Day Off",
+    "tr": "Ferris Bueller'le Bir Gün"
+  },
+  "overview": {
+    "en": "After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.",
+    "tr": "Hayat kadar uçsuz bucaksız. Tesadüflerle kararlarını belirleyen. Kendini ve hayatı fazla ciddiye alanlar için kesinlikle iyi bir model. Boş bir günün değerini bilen bir adam. Son sınıfın son günlerine yaklaştığı bir bahar günü Ferris, kız arkadaşını ve en yakın arkadaşını dayanına alarak okuldan kaçar ve Chicago'ya yola koyulurlar. Özgür bir gün, şehri turlamak biraz cesaret ve kırmızı bir Ferrari ile 17 yaşında olmak gerçek bir eğlence olabilir! * 80'li yılların efsane filmleri arasında kelimenin tam anlamıyla hit olmuş bir film daha var: Ferris Bueller's Day Off. Hakkında bir sürü film çekilmesine rağmen hala türünün benzersiz örneği olan bu filmin kendine has bir espri anlayışı var."
+  },
+  "poster": {
+    "tr": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg",
+    "en": "/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg"
+  },
+  "backdrops": [
+    "/leehjwM57DKJ79XMUll4oAF0kin.jpg",
+    "/zmVq7y63z8NewluK7MUBfTxuyvD.jpg",
+    "/lU0v9ULZJ9A5145nLGUF8ZNZnPj.jpg",
+    "/jehzP4JKiFzgTWIaASLFOJocJke.jpg",
+    "/Amss63moGHWLtgHfdERg6mfQRDv.jpg",
+    "/8INahgPStnclVkrSyDNKkKs6dVD.jpg",
+    "/dCkXBF9Pi6QRAYdU9yncowQ5VB3.jpg",
+    "/nRSQOWk7vm8ZuGo39QMFgp40tMX.jpg",
+    "/uJ4Pbb8bnltzIpc6UzIZP21hrAF.jpg",
+    "/95Z69QpaCnGt8RWSVYNIGP1cSe1.jpg"
+  ],
+  "trailerKey": "0ZDbKhkLxTs",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    520,
+    6270,
+    4097,
+    10683,
+    9728,
+    11687,
+    11870,
+    10873,
+    18020,
+    169498,
+    170268,
+    179430,
+    179431,
+    180307,
+    185311,
+    197702,
+    208289,
+    276775,
+    286354,
+    296608,
+    325840,
+    325849
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Hughes Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 16300,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 45861,
+      "job": "producer"
+    },
+    {
+      "personId": 11505,
+      "job": "director"
+    },
+    {
+      "personId": 12939,
+      "job": "composer"
+    },
+    {
+      "personId": 11505,
+      "job": "producer"
+    },
+    {
+      "personId": 11505,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4756,
+      "character": "Ferris Bueller",
+      "order": 0
+    },
+    {
+      "personId": 2394,
+      "character": "Cameron Frye",
+      "order": 1
+    },
+    {
+      "personId": 29091,
+      "character": "Sloane Peterson",
+      "order": 2
+    },
+    {
+      "personId": 4004,
+      "character": "Ed Rooney",
+      "order": 3
+    },
+    {
+      "personId": 722,
+      "character": "Jeanie Bueller",
+      "order": 4
+    },
+    {
+      "personId": 74276,
+      "character": "Katie Bueller",
+      "order": 5
+    },
+    {
+      "personId": 90198,
+      "character": "Tom Bueller",
+      "order": 6
+    },
+    {
+      "personId": 3202,
+      "character": "Grace, School Secretary",
+      "order": 7
+    },
+    {
+      "personId": 6952,
+      "character": "Boy in Police Station",
+      "order": 8
+    },
+    {
+      "personId": 131667,
+      "character": "Economics Teacher",
+      "order": 9
+    },
+    {
+      "personId": 119230,
+      "character": "English Teacher",
+      "order": 10
+    },
+    {
+      "personId": 80990,
+      "character": "Florence Sparrow",
+      "order": 11
+    },
+    {
+      "personId": 6396,
+      "character": "Garage Attendant",
+      "order": 12
+    },
+    {
+      "personId": 124603,
+      "character": "Attendant's Co-Pilot",
+      "order": 13
+    },
+    {
+      "personId": 56128,
+      "character": "Economics Student - Simone Adamley",
+      "order": 14
+    },
+    {
+      "personId": 2833138,
+      "character": "Economics Student",
+      "order": 15
+    },
+    {
+      "personId": 7268,
+      "character": "Economics Student - Anderson",
+      "order": 16
+    },
+    {
+      "personId": 9306,
+      "character": "Economics Student - Adams",
+      "order": 17
+    },
+    {
+      "personId": 1228791,
+      "character": "Shermerite",
+      "order": 18
+    },
+    {
+      "personId": 112305,
+      "character": "Shermerite",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 5639,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "tmdbId": 673,
+  "slug": "harry-potter-and-the-prisoner-of-azkaban-2004",
+  "year": 2004,
+  "runtime": 141,
+  "originalTitle": "Harry Potter and the Prisoner of Azkaban",
+  "title": {
+    "en": "Harry Potter and the Prisoner of Azkaban",
+    "tr": "Harry Potter ve Azkaban Tutsağı"
+  },
+  "overview": {
+    "en": "Year three at Hogwarts means new fun and new challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+    "tr": "Harry Potter, akrabaları ile zor zamanlar geçirmektedir. Ailesine kötü davranan, Vernon Amca’nın kız kardeşi Marge’a büyü yapıp kaçar. Okul dışında büyü yaptığı için korksa da cezalandırılmadığını fark edince çok şaşırır. Ancak çok geçmeden, tehlikeli bir suçlu olan Lord Voldemort’un yardımcısı Sirius Black’in Azkaban hapishanesinden kaçtığını öğrenir. Dark Lord’un intikamını almak için Harry’i öldürmek istemektedir. Hapishanedeki büyük suçlulardan sorumlu, Ruh Emiciler etrafa huzursuzluk saçmaktadırlar. Öte yandan Lupin’in de sakladığı bir sır var gibi görünmektedir..."
+  },
+  "poster": {
+    "tr": "/hyxksRw6NmbPqGI2z7pebORvjx3.jpg",
+    "en": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg"
+  },
+  "backdrops": [
+    "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+    "/v2K8QaAQD0pmEaUTUeV8MXMq1qx.jpg",
+    "/ve4TEHHmJdnEKVWSYlRa3DdoeKz.jpg",
+    "/obKmfNexgL4ZP5cAmzdL4KbHHYX.jpg",
+    "/htmYEfH7TQgzsXHCnNXxmoYKQtL.jpg",
+    "/fVgBU3KJAWHS55FPdbsZQ3YQG2Z.jpg",
+    "/l2oGy431woGYP63ko6aDaWLDQUy.jpg",
+    "/hBeXiSqhuCttv4mzqNBQGO8hfPB.jpg",
+    "/wDuoQwcn1XSrAaUsmZFhDWPCeix.jpg",
+    "/j20WRpp0OLNgXL5LkRyXUj9noWZ.jpg"
+  ],
+  "trailerKey": "VwErvYgoH70",
+  "genreIds": [
+    12,
+    14
+  ],
+  "keywordIds": [
+    616,
+    2921,
+    6054,
+    818,
+    334,
+    2343,
+    992,
+    2052,
+    3650,
+    3884,
+    4252,
+    4379,
+    9663,
+    10873,
+    12392,
+    12564,
+    33784,
+    162846,
+    177912,
+    179430,
+    195269,
+    200679,
+    206720,
+    229184,
+    246466,
+    249692,
+    325807,
+    336530
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "1492 Pictures",
+    "Heyday Films"
+  ],
+  "crew": [
+    {
+      "personId": 11218,
+      "job": "director"
+    },
+    {
+      "personId": 9165,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10967,
+      "job": "writer"
+    },
+    {
+      "personId": 11222,
+      "job": "producer"
+    },
+    {
+      "personId": 10968,
+      "job": "producer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 20643,
+      "job": "producer"
+    },
+    {
+      "personId": 10965,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10980,
+      "character": "Harry Potter",
+      "order": 0
+    },
+    {
+      "personId": 10989,
+      "character": "Ron Weasley",
+      "order": 1
+    },
+    {
+      "personId": 10990,
+      "character": "Hermione Granger",
+      "order": 2
+    },
+    {
+      "personId": 1923,
+      "character": "Rubeus Hagrid",
+      "order": 3
+    },
+    {
+      "personId": 5658,
+      "character": "Albus Dumbledore",
+      "order": 4
+    },
+    {
+      "personId": 64,
+      "character": "Sirius Black",
+      "order": 5
+    },
+    {
+      "personId": 11207,
+      "character": "Remus Lupin",
+      "order": 6
+    },
+    {
+      "personId": 9191,
+      "character": "Peter Pettigrew",
+      "order": 7
+    },
+    {
+      "personId": 4566,
+      "character": "Severus Snape",
+      "order": 8
+    },
+    {
+      "personId": 10993,
+      "character": "Draco Malfoy",
+      "order": 9
+    },
+    {
+      "personId": 7056,
+      "character": "Sybill Trelawney",
+      "order": 10
+    },
+    {
+      "personId": 477,
+      "character": "Molly Weasley",
+      "order": 11
+    },
+    {
+      "personId": 10983,
+      "character": "Vernon Dursley",
+      "order": 12
+    },
+    {
+      "personId": 10981,
+      "character": "Petunia Dursley",
+      "order": 13
+    },
+    {
+      "personId": 10978,
+      "character": "Minerva McGonagall",
+      "order": 14
+    },
+    {
+      "personId": 11180,
+      "character": "Argus Filch",
+      "order": 15
+    },
+    {
+      "personId": 11213,
+      "character": "Marge Dursley",
+      "order": 16
+    },
+    {
+      "personId": 5539,
+      "character": "The Fat Lady",
+      "order": 17
+    },
+    {
+      "personId": 1666,
+      "character": "Madam Rosmerta",
+      "order": 18
+    },
+    {
+      "personId": 23076,
+      "character": "Cornelius Fudge",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "bafta": 1
+  },
+  "voteCount": 23894,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "tmdbId": 38563,
+  "slug": "the-fantastic-adventures-of-unico-1981",
+  "year": 1981,
+  "runtime": 90,
+  "originalTitle": "ユニコ",
+  "title": {
+    "en": "The Fantastic Adventures of Unico",
+    "tr": "ユニコ"
+  },
+  "overview": {
+    "en": "When Unico, a young unicorn, is banished from his family by a pantheon of manipulative gods, his powers of joy and happiness are tested as he explores the lands with his friends Beezle and Katy.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/fhyLXBFBEXKoidJvSYcajGfWBG1.jpg",
+    "en": "/fhyLXBFBEXKoidJvSYcajGfWBG1.jpg"
+  },
+  "backdrops": [
+    "/5IScEm452N2s7pNlxRa1KpHqzuD.jpg",
+    "/1hpqzdiPBB6X2U8l4AwBEX0y0XD.jpg",
+    "/fWA4arkfOs2iZ39b0dhq0tl3Eo3.jpg",
+    "/4cLhLPUSfWN75CBNn1PHKiSh6Z4.jpg",
+    "/gapBYnEbFB0ZESgr8FQ0ZIX2VUV.jpg",
+    "/1tDUFwGnK5vPQYM6snjRmi0NsUp.jpg",
+    "/nM7YwRZ4lSJXcwexkKpbD1b8IX8.jpg",
+    "/gkPVPXbFpKwZWTk3lpllCPoJ1Kb.jpg",
+    "/d9cryT4xKhQqrX4MIGGg8feOPxx.jpg",
+    "/rhrEy1NJ93CdSxCACMxwLjusUFg.jpg"
+  ],
+  "trailerKey": "xv1MnP_-18c",
+  "genreIds": [
+    16,
+    14,
+    10751
+  ],
+  "keywordIds": [
+    210024
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Sanrio",
+    "Madhouse"
+  ],
+  "crew": [
+    {
+      "personId": 58160,
+      "job": "director"
+    },
+    {
+      "personId": 133116,
+      "job": "director"
+    },
+    {
+      "personId": 1121899,
+      "job": "writer"
+    },
+    {
+      "personId": 1079065,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 110668,
+      "character": "Unico (voice)",
+      "order": 0
+    },
+    {
+      "personId": 114913,
+      "character": "Chao / Katy (voice)",
+      "order": 1
+    },
+    {
+      "personId": 1055172,
+      "character": "Beezle (voice)",
+      "order": 2
+    },
+    {
+      "personId": 533325,
+      "character": "The West Wind (voice)",
+      "order": 3
+    },
+    {
+      "personId": 1222049,
+      "character": "Baron DeGhost (voice)",
+      "order": 4
+    },
+    {
+      "personId": 1247635,
+      "character": "The Night Wind (voice)",
+      "order": 5
+    },
+    {
+      "personId": 617,
+      "character": "God 1 (voice)",
+      "order": 6
+    },
+    {
+      "personId": 619,
+      "character": "God 2 (voice)",
+      "order": 7
+    },
+    {
+      "personId": 1241722,
+      "character": "God 3 (voice)",
+      "order": 8
+    },
+    {
+      "personId": 122656,
+      "character": "God 4 (voice)",
+      "order": 9
+    },
+    {
+      "personId": 3572428,
+      "character": "The Night Wind (voice)",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 28,
+  "sources": [
+    "cult-list"
+  ]
+}

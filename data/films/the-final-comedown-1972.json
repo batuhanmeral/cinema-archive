@@ -1,0 +1,140 @@
+{
+  "tmdbId": 92307,
+  "slug": "the-final-comedown-1972",
+  "year": 1972,
+  "runtime": 83,
+  "originalTitle": "The Final Comedown",
+  "title": {
+    "en": "The Final Comedown",
+    "tr": "The Final Comedown"
+  },
+  "overview": {
+    "en": "Prejudice transforms a young black man into an armed militant leader, who believes the only answer to racism is violent revolution.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xLpiC4ZWKbhbrtqbhPD99VGzQFI.jpg",
+    "en": "/fxd20uLAPZjtKCAfxQq7lGKbmIr.jpg"
+  },
+  "backdrops": [
+    "/iaTZwxyXDojyDaCGke3cdLKnDDQ.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    28,
+    80
+  ],
+  "keywordIds": [],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New World Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 141258,
+      "job": "director"
+    },
+    {
+      "personId": 141258,
+      "job": "producer"
+    },
+    {
+      "personId": 102429,
+      "job": "producer"
+    },
+    {
+      "personId": 3144724,
+      "job": "writer"
+    },
+    {
+      "personId": 3144721,
+      "job": "composer"
+    },
+    {
+      "personId": 141258,
+      "job": "writer"
+    },
+    {
+      "personId": 55227,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3799,
+      "character": "Johnny Johnson",
+      "order": 0
+    },
+    {
+      "personId": 109086,
+      "character": "Billy Joe Ashley",
+      "order": 1
+    },
+    {
+      "personId": 1205538,
+      "character": "Renee Freeman",
+      "order": 2
+    },
+    {
+      "personId": 152628,
+      "character": "Dr. Smalls",
+      "order": 3
+    },
+    {
+      "personId": 1930971,
+      "character": "Michael Freeman",
+      "order": 4
+    },
+    {
+      "personId": 1930972,
+      "character": "Mr. Johnson",
+      "order": 5
+    },
+    {
+      "personId": 1720467,
+      "character": "Luanna",
+      "order": 6
+    },
+    {
+      "personId": 1107,
+      "character": "Mr. Freeman",
+      "order": 7
+    },
+    {
+      "personId": 196057,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1701402,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 16069,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 58063,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 54565,
+      "character": "Imir",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 12,
+  "sources": [
+    "cult-list"
+  ]
+}

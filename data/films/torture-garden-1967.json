@@ -1,0 +1,184 @@
+{
+  "tmdbId": 41035,
+  "slug": "torture-garden-1967",
+  "year": 1967,
+  "runtime": 100,
+  "originalTitle": "Torture Garden",
+  "title": {
+    "en": "Torture Garden",
+    "tr": "Torture Garden"
+  },
+  "overview": {
+    "en": "A special sideshow torture exhibit has the power, according to showman Dr Diabolo, to warn people of foreseeable evil. One by one, skeptics stand before the Fate Atropos to preview the greed and violence hiding behind their respectable façades.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9DkIKppS5D7s2dgCegKl4ApAuxa.jpg",
+    "en": "/vyzwlPAaWYm4j6RiGnshhAVCofZ.jpg"
+  },
+  "backdrops": [
+    "/flzvZK5C7kZXUH0Mh6LfGYOk5s7.jpg",
+    "/4kBmeJFCqzCmvJ5aGFevc8ncIO7.jpg",
+    "/fRTArRu2DZgsbWWKyXosaKW8kZd.jpg",
+    "/efCFtbupdZE67kIqtaN5gZ1wcy7.jpg",
+    "/o4bP3CtL923vzNUv5YZfNjVI02X.jpg",
+    "/g5I7JhEzIuIVg19gqxbqLHB4JS5.jpg",
+    "/uWYohAcrVNAkSQBpXNHoFIxnpwB.jpg",
+    "/qxIOXL3r5j5pQQGHPcRQSDL5oRi.jpg",
+    "/nXavst3GGttmJ2CVH11cmqT4daw.jpg",
+    "/nbbX6Ke9ALdV4qggipLKdNgBv1c.jpg"
+  ],
+  "trailerKey": "d6sYcVYOLos",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    1435,
+    5332,
+    2819,
+    3473,
+    5810,
+    9706,
+    9826,
+    40850,
+    163075,
+    208891,
+    358454
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Amicus Productions"
+  ],
+  "crew": [
+    {
+      "personId": 5629,
+      "job": "director"
+    },
+    {
+      "personId": 30137,
+      "job": "composer"
+    },
+    {
+      "personId": 30169,
+      "job": "producer"
+    },
+    {
+      "personId": 30669,
+      "job": "composer"
+    },
+    {
+      "personId": 82652,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 90077,
+      "job": "producer"
+    },
+    {
+      "personId": 7299,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16523,
+      "character": "Dr. Diabolo (Framing Story)",
+      "order": 0
+    },
+    {
+      "personId": 3785,
+      "character": "Ronald Wyatt (segment 4 \"The Man Who Collected Poe\")",
+      "order": 1
+    },
+    {
+      "personId": 127353,
+      "character": "Carla Hayes (segment 2 \"Terror Over Hollywood\")",
+      "order": 2
+    },
+    {
+      "personId": 5,
+      "character": "Lancelot Canning (segment 4 \"The Man Who Collected Poe\")",
+      "order": 3
+    },
+    {
+      "personId": 39952,
+      "character": "Uncle Roger (segment 1 \"Enoch\")",
+      "order": 4
+    },
+    {
+      "personId": 940044,
+      "character": "Dorothy Endicott (segment 3 \"Mr. Steinway\")",
+      "order": 5
+    },
+    {
+      "personId": 106612,
+      "character": "Colin Williams (segment 1 \"Enoch\")",
+      "order": 6
+    },
+    {
+      "personId": 11282,
+      "character": "Leo Winston (segment 3 \"Mr. Steinway\")",
+      "order": 7
+    },
+    {
+      "personId": 24705,
+      "character": "Eddie Storm (segment 2 \"Terror Over Hollywood\")",
+      "order": 8
+    },
+    {
+      "personId": 89526,
+      "character": "Bruce Benton (segment 2 \"Terror Over Hollywood\")",
+      "order": 9
+    },
+    {
+      "personId": 24340,
+      "character": "Gordon Roberts (Framing Story)",
+      "order": 10
+    },
+    {
+      "personId": 63000,
+      "character": "Dr. Heim (segment 2 \"Terror Over Hollywood\")",
+      "order": 11
+    },
+    {
+      "personId": 153185,
+      "character": "Nurse Parker (segment 1 \"Enoch\")",
+      "order": 12
+    },
+    {
+      "personId": 122922,
+      "character": "Miss Maxine Chambers (segment 3 \"Mr. Steinway\")",
+      "order": 13
+    },
+    {
+      "personId": 93949,
+      "character": "Mike Charles (segment 2 \"Terror Over Hollywood\")",
+      "order": 14
+    },
+    {
+      "personId": 199898,
+      "character": "Edgar Allan Poe (segment 4 \"The Man Who Collected Poe\")",
+      "order": 15
+    },
+    {
+      "personId": 93163,
+      "character": "Dr. Silversmith (segment 1 \"Enoch\")",
+      "order": 16
+    },
+    {
+      "personId": 80463,
+      "character": "Atropos, Goddess of Destiny",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 89,
+  "sources": [
+    "cult-list"
+  ]
+}

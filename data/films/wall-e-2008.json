@@ -1,0 +1,218 @@
+{
+  "tmdbId": 10681,
+  "slug": "wall-e-2008",
+  "year": 2008,
+  "runtime": 98,
+  "originalTitle": "WALL·E",
+  "title": {
+    "en": "WALL·E",
+    "tr": "VOL-İ"
+  },
+  "overview": {
+    "en": "After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+    "tr": "Vol-i, günümüzden çok uzak bir gelecekte geçmektedir. Filmde, insanoğlu aşırı kirlenme sebebiyle Dünya’yı terk edip derin uzayda yaşamaya başlamıştır. Çöplerle çevrili dünyayı temizleme görevi sevimli bir robota, Vol-i'ye verilir. İnsanoğlunun bıraktığı çöplerden kendine yeni bir dünya yaratan Vol-i'nin yalnızlığı, başka bir robot olan EVE’in gelmesiyle son bulur. İki sevimli robotun arasında filizlenen dokunaklı ilişki türlü zorluklara rağmen direnmeye ve ayakta kalmaya çalışır."
+  },
+  "poster": {
+    "tr": "/jzCpGwWHUwby14KPJJWla9ybY81.jpg",
+    "en": "/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg"
+  },
+  "backdrops": [
+    "/ai2FicMUxLCurVkjtYdSvVDWRmS.jpg",
+    "/fK5ssgvtI43z19FoWigdlqgpLRE.jpg",
+    "/eete5ZAaagldSXxDetN62V3WXcg.jpg",
+    "/qxSArjpoHUOIzP5ha3EHvWbPCdY.jpg",
+    "/3CvNc04vTwTir5q3LBDuvUb8Ng6.jpg",
+    "/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+    "/APl38zZtVNAnIgI2ALsWVoRcWA.jpg",
+    "/paO3UfhgoNe2qblfKGanfon6ve7.jpg",
+    "/iuvEc3wazRxdkrK0MJJAUchrYJx.jpg",
+    "/x7O7oJO7BeXWvqXpLa5YoJd8ZD5.jpg"
+  ],
+  "trailerKey": "geplBr2fcZc",
+  "genreIds": [
+    16,
+    10751,
+    878
+  ],
+  "keywordIds": [
+    3700,
+    4565,
+    3801,
+    9882,
+    11239,
+    9957,
+    14544,
+    179430,
+    179431,
+    225219,
+    278823,
+    281585,
+    309029,
+    309426,
+    314730,
+    319319,
+    325782,
+    325786,
+    325824,
+    325832,
+    325849
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Pixar"
+  ],
+  "crew": [
+    {
+      "personId": 7,
+      "job": "director"
+    },
+    {
+      "personId": 153,
+      "job": "composer"
+    },
+    {
+      "personId": 72752,
+      "job": "producer"
+    },
+    {
+      "personId": 72753,
+      "job": "producer"
+    },
+    {
+      "personId": 15020,
+      "job": "writer"
+    },
+    {
+      "personId": 7,
+      "job": "writer"
+    },
+    {
+      "personId": 7988,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1830790,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 93044,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 670,
+      "character": "WALL·E / M-O (voice)",
+      "order": 0
+    },
+    {
+      "personId": 72754,
+      "character": "EVE (voice)",
+      "order": 1
+    },
+    {
+      "personId": 60074,
+      "character": "Captain (voice)",
+      "order": 2
+    },
+    {
+      "personId": 20753,
+      "character": "Shelby Forthright, BnL CEO",
+      "order": 3
+    },
+    {
+      "personId": 7907,
+      "character": "John (voice)",
+      "order": 4
+    },
+    {
+      "personId": 11074,
+      "character": "Mary (voice)",
+      "order": 5
+    },
+    {
+      "personId": 10205,
+      "character": "Ship's Computer (voice)",
+      "order": 6
+    },
+    {
+      "personId": 24358,
+      "character": "Additional Voices (voice)",
+      "order": 7
+    },
+    {
+      "personId": 78317,
+      "character": "Additional Voices (voice)",
+      "order": 8
+    },
+    {
+      "personId": 167295,
+      "character": "Additional Voices (voice)",
+      "order": 9
+    },
+    {
+      "personId": 12890,
+      "character": "Additional Voices (voice)",
+      "order": 10
+    },
+    {
+      "personId": 86006,
+      "character": "Additional Voices (voice)",
+      "order": 11
+    },
+    {
+      "personId": 84494,
+      "character": "Additional Voices (voice)",
+      "order": 12
+    },
+    {
+      "personId": 117081,
+      "character": "Additional Voices (voice)",
+      "order": 13
+    },
+    {
+      "personId": 84495,
+      "character": "Additional Voices (voice)",
+      "order": 14
+    },
+    {
+      "personId": 214701,
+      "character": "Additional Voices (voice)",
+      "order": 15
+    },
+    {
+      "personId": 84493,
+      "character": "Additional Voices (voice)",
+      "order": 16
+    },
+    {
+      "personId": 35159,
+      "character": "Additional Voices (voice)",
+      "order": 17
+    },
+    {
+      "personId": 59357,
+      "character": "Additional Voices (voice)",
+      "order": 18
+    },
+    {
+      "personId": 7882,
+      "character": "Additional Voices (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "golden-globe": 1,
+    "oscar": 1,
+    "bafta": 2
+  },
+  "voteCount": 21110,
+  "sources": [
+    "cult-list"
+  ]
+}

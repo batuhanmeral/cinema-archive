@@ -1,0 +1,147 @@
+{
+  "tmdbId": 43309,
+  "slug": "the-gamma-people-1956",
+  "year": 1956,
+  "runtime": 79,
+  "originalTitle": "The Gamma People",
+  "title": {
+    "en": "The Gamma People",
+    "tr": "The Gamma People"
+  },
+  "overview": {
+    "en": "An American reporter smells a story when he is stranded in an Iron Curtain country where the local dictator is using gamma rays to transform children into mutated henchmen.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/zZE9qkRt4tpqvLaNqzzG0bvdnta.jpg",
+    "en": "/5NiDU31BByzk2vgf2Sle3SBfSqK.jpg"
+  },
+  "backdrops": [
+    "/6i6w96MFvIPOSPQ4LgDs6hkpd5R.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    1852,
+    191444
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [],
+  "studios": [
+    "Warwick Film Productions",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 101520,
+      "job": "director"
+    },
+    {
+      "personId": 101520,
+      "job": "writer"
+    },
+    {
+      "personId": 126127,
+      "job": "writer"
+    },
+    {
+      "personId": 126127,
+      "job": "producer"
+    },
+    {
+      "personId": 9867,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 115056,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 111578,
+      "character": "Mike Wilson",
+      "order": 0
+    },
+    {
+      "personId": 69935,
+      "character": "Paula Wendt",
+      "order": 1
+    },
+    {
+      "personId": 10655,
+      "character": "Howard Meade",
+      "order": 2
+    },
+    {
+      "personId": 32120,
+      "character": "Boronski",
+      "order": 3
+    },
+    {
+      "personId": 14308,
+      "character": "Koerner",
+      "order": 4
+    },
+    {
+      "personId": 105824,
+      "character": "Lochner",
+      "order": 5
+    },
+    {
+      "personId": 39768,
+      "character": "Anna",
+      "order": 6
+    },
+    {
+      "personId": 39001,
+      "character": "Frau Bikstein",
+      "order": 7
+    },
+    {
+      "personId": 2398721,
+      "character": "Hedda Lochner",
+      "order": 8
+    },
+    {
+      "personId": 1080225,
+      "character": "Hugo Wendt",
+      "order": 9
+    },
+    {
+      "personId": 71032,
+      "character": "Bikstein",
+      "order": 10
+    },
+    {
+      "personId": 153093,
+      "character": "Telegraph Clerk",
+      "order": 11
+    },
+    {
+      "personId": 30190,
+      "character": "Hans",
+      "order": 12
+    },
+    {
+      "personId": 115606,
+      "character": "Graf",
+      "order": 13
+    },
+    {
+      "personId": 3981744,
+      "character": "Goon",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 24,
+  "sources": [
+    "cult-list"
+  ]
+}

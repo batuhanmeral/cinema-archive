@@ -1,0 +1,205 @@
+{
+  "tmdbId": 11683,
+  "slug": "land-of-the-dead-2005",
+  "year": 2005,
+  "runtime": 93,
+  "originalTitle": "Land of the Dead",
+  "title": {
+    "en": "Land of the Dead",
+    "tr": "Ölüler Ülkesi"
+  },
+  "overview": {
+    "en": "The living dead have taken over the world, and the remaining humans live in a walled city to protect themselves as they cope with the situation.",
+    "tr": "Dünyanın büyük bölümünü yaşayan ölüler ele geçirmişlerdir. Yaşayan ölülerin estirdiği terör karşısında çaresiz kalan insanlar ise, 'normal' hayatlarını sürdürebilmek için çareyi tahkim edilmiş kent duvarlarının arkasına çekilmekte bulmuşlardır. Öte yandan bir avuç acımasız fırsatçı girişimci tarafından oluşturulmuş başka bir topluluk daha vardır. Bunlar da karmaşa içindeki kent caddelerinin üzerinde yükselen gökdelen kulelerinde yaşamaktadır.Kent duvarlarının dışında ölülerden oluşan ordu hızla büyüyerek güçlenir. İçeride ise anarşi doruk noktasına varmıştır. Kentteki insanların hayatını kurtarmak için bir grup paralı asker göreve çağrılır. Ölüler ordusundan insanları koruyabilmenin başka yolu kalmamıştır."
+  },
+  "poster": {
+    "tr": "/xxp0qcZ3n2YA53SIzWilDSfIaA4.jpg",
+    "en": "/34rdmEgsFRDOm8LNDsNkkj0qVlL.jpg"
+  },
+  "backdrops": [
+    "/7N3bJRlTqmgZxMtn6msgofqS0Pa.jpg",
+    "/pk3anN2cidvTVIqjwDRAM0iYCc6.jpg",
+    "/oOZtWMhJft0QvPcnJXFgGlt0Jn7.jpg",
+    "/bHsbloQI2I7oDsFbc9349XHSdZZ.jpg",
+    "/ngjG5PqiOxrogMkp0DAeZbffreh.jpg",
+    "/oPkj9bfepFFyzekcCn0YIK0hUGB.jpg",
+    "/teAcCOSN9wWDgePt4bRbzDK9oZF.jpg",
+    "/lb7lzsRYCVow4xgcsOi5xiiMFvv.jpg",
+    "/8OI2xh90XdoCehxB55bUesud5v7.jpg",
+    "/wwy5Cq1DorjlLsOf0QNriX6XLap.jpg"
+  ],
+  "trailerKey": "atXJB9luiko",
+  "genreIds": [
+    27,
+    878,
+    53
+  ],
+  "keywordIds": [
+    4565,
+    3335,
+    9663,
+    4392,
+    12377,
+    186565,
+    243810
+  ],
+  "countries": [
+    "CA",
+    "US",
+    "FR"
+  ],
+  "languages": [
+    "es",
+    "ht",
+    "fr",
+    "pl",
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Romero-Grunwald Productions",
+    "Universal Pictures",
+    "Atmosphere Entertainment MM"
+  ],
+  "crew": [
+    {
+      "personId": 14999,
+      "job": "director"
+    },
+    {
+      "personId": 65377,
+      "job": "producer"
+    },
+    {
+      "personId": 1075,
+      "job": "composer"
+    },
+    {
+      "personId": 14999,
+      "job": "writer"
+    },
+    {
+      "personId": 1076,
+      "job": "composer"
+    },
+    {
+      "personId": 46088,
+      "job": "producer"
+    },
+    {
+      "personId": 90690,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 70206,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1284159,
+      "character": "Riley",
+      "order": 0
+    },
+    {
+      "personId": 5723,
+      "character": "Cholo",
+      "order": 1
+    },
+    {
+      "personId": 2778,
+      "character": "Kaufman",
+      "order": 2
+    },
+    {
+      "personId": 18514,
+      "character": "Slack",
+      "order": 3
+    },
+    {
+      "personId": 19976,
+      "character": "Charlie",
+      "order": 4
+    },
+    {
+      "personId": 61660,
+      "character": "Big Daddy",
+      "order": 5
+    },
+    {
+      "personId": 99181,
+      "character": "Pretty Boy",
+      "order": 6
+    },
+    {
+      "personId": 76528,
+      "character": "Foxy",
+      "order": 7
+    },
+    {
+      "personId": 99182,
+      "character": "Number 9",
+      "order": 8
+    },
+    {
+      "personId": 20196,
+      "character": "Butcher",
+      "order": 9
+    },
+    {
+      "personId": 5927,
+      "character": "Anchor",
+      "order": 10
+    },
+    {
+      "personId": 81097,
+      "character": "Mike",
+      "order": 11
+    },
+    {
+      "personId": 6071,
+      "character": "Manolete",
+      "order": 12
+    },
+    {
+      "personId": 43257,
+      "character": "Motown",
+      "order": 13
+    },
+    {
+      "personId": 99183,
+      "character": "Brubaker",
+      "order": 14
+    },
+    {
+      "personId": 12662,
+      "character": "Chihuahua",
+      "order": 15
+    },
+    {
+      "personId": 82647,
+      "character": "Mulligan",
+      "order": 16
+    },
+    {
+      "personId": 26093,
+      "character": "Roach",
+      "order": 17
+    },
+    {
+      "personId": 17645,
+      "character": "Sutherland",
+      "order": 18
+    },
+    {
+      "personId": 12978,
+      "character": "Styles",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1917,
+  "sources": [
+    "cult-list"
+  ]
+}

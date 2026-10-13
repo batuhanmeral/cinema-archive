@@ -1,0 +1,221 @@
+{
+  "tmdbId": 11906,
+  "slug": "suspiria-1977",
+  "year": 1977,
+  "runtime": 99,
+  "originalTitle": "Suspiria",
+  "title": {
+    "en": "Suspiria",
+    "tr": "Suspiria"
+  },
+  "overview": {
+    "en": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
+    "tr": "Amerikalı bale öğrencisi Suzy Bannion, dünyaca ünlü ve saygın bir Alman yatılı dans akademisinde eğitim görmeye gelir. Suzy okula adım attığı andan itibaren bir dizi esrarengiz olaya tanıklık eder. Önceki gece okuldan kaçan bir öğrenci, ölü bulunmuştur. Piyanist Daniel ise kendi köpeği tarafından öldürülür. Akademide bir salgın hastalık baş gösterir ve korkutucu okul binasının her yanından tuhaf sesler yükselmektedir. Suzy biraz araştırma yapınca okulun geçmişte bir “cadılar meclisi” mekanı olduğunu öğrenir. Ama işaretler, binada cadı geleneğinin ve ayinlerinin geçmişte kalmadığını, hâlâ devam ettiğini göstermektedir!"
+  },
+  "poster": {
+    "tr": "/anCv80mSgI61Qu24q2OtHUmLzVO.jpg",
+    "en": "/1fwJzZhOFyjEAaLUDfOSYWytNeu.jpg"
+  },
+  "backdrops": [
+    "/i8lyb818XNNGaXiL6qHSxVNodKy.jpg",
+    "/j7rl2LphIbC88FppTfwJ5Gxj9kX.jpg",
+    "/xnHeCBiARZAW62Fs7wqFWRcSjjv.jpg",
+    "/wjcM9FJi9LUsc7s5b5PUU5UxW.jpg",
+    "/9uXGLBPIJkPqmVwiyh3FI0iAe6n.jpg",
+    "/8ePZeM4RGWZvKmO4uo5nbpWNUTw.jpg",
+    "/aRqjmNWBsTQERcD2h6PZMUjuWZd.jpg",
+    "/6b6RUsYSOI0WdramhJwhN2YxPLB.jpg",
+    "/tXg8ugEPT85UDWSOTKt6T8NNZmG.jpg",
+    "/yOqORgyvljp5M8CBbObc8apAIsI.jpg"
+  ],
+  "trailerKey": "x_FfT98QJks",
+  "genreIds": [
+    27,
+    9648
+  ],
+  "keywordIds": [
+    616,
+    246,
+    1691,
+    6271,
+    74,
+    10551,
+    12570,
+    14712,
+    33505,
+    156075,
+    162806,
+    165244,
+    202371,
+    207008,
+    235432,
+    295420,
+    311315,
+    322255,
+    325665,
+    325856,
+    361094
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "la",
+    "de",
+    "fr"
+  ],
+  "studios": [
+    "Seda Spettacoli"
+  ],
+  "crew": [
+    {
+      "personId": 4955,
+      "job": "composer"
+    },
+    {
+      "personId": 4955,
+      "job": "director"
+    },
+    {
+      "personId": 15053,
+      "job": "composer"
+    },
+    {
+      "personId": 4955,
+      "job": "writer"
+    },
+    {
+      "personId": 44959,
+      "job": "writer"
+    },
+    {
+      "personId": 65751,
+      "job": "producer"
+    },
+    {
+      "personId": 15052,
+      "job": "composer"
+    },
+    {
+      "personId": 49069,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 15054,
+      "job": "composer"
+    },
+    {
+      "personId": 15055,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 69055,
+      "character": "Suzy Bannion",
+      "order": 0
+    },
+    {
+      "personId": 34043,
+      "character": "Sara Simms",
+      "order": 1
+    },
+    {
+      "personId": 24608,
+      "character": "Daniel",
+      "order": 2
+    },
+    {
+      "personId": 54153,
+      "character": "Mark",
+      "order": 3
+    },
+    {
+      "personId": 94072,
+      "character": "Olga Ivanova",
+      "order": 4
+    },
+    {
+      "personId": 78543,
+      "character": "Sonia",
+      "order": 5
+    },
+    {
+      "personId": 94073,
+      "character": "Pat Hingle",
+      "order": 6
+    },
+    {
+      "personId": 26600,
+      "character": "Prof. Milius",
+      "order": 7
+    },
+    {
+      "personId": 1646,
+      "character": "Dr. Frank Mandel",
+      "order": 8
+    },
+    {
+      "personId": 15385,
+      "character": "Miss Tanner",
+      "order": 9
+    },
+    {
+      "personId": 7639,
+      "character": "Madame Blanc",
+      "order": 10
+    },
+    {
+      "personId": 102371,
+      "character": "Teacher",
+      "order": 11
+    },
+    {
+      "personId": 1973436,
+      "character": "Albert",
+      "order": 12
+    },
+    {
+      "personId": 98774,
+      "character": "Taxi Driver",
+      "order": 13
+    },
+    {
+      "personId": 120114,
+      "character": "Cook",
+      "order": 14
+    },
+    {
+      "personId": 14149,
+      "character": "Prof. Verdegast",
+      "order": 15
+    },
+    {
+      "personId": 1973439,
+      "character": "2nd Cook",
+      "order": 16
+    },
+    {
+      "personId": 1973441,
+      "character": "Pavlo",
+      "order": 17
+    },
+    {
+      "personId": 240893,
+      "character": "Caroline",
+      "order": 18
+    },
+    {
+      "personId": 1973443,
+      "character": "Dancer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3303,
+  "sources": [
+    "cult-list"
+  ]
+}

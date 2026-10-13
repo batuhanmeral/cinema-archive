@@ -1,0 +1,130 @@
+{
+  "tmdbId": 68445,
+  "slug": "cold-fever-1995",
+  "year": 1995,
+  "runtime": 85,
+  "originalTitle": "Á köldum klaka",
+  "title": {
+    "en": "Cold Fever",
+    "tr": "Á köldum klaka"
+  },
+  "overview": {
+    "en": "A Japanese businessman travels to Iceland and has a series of misadventures while venturing to a remote area to perform a traditional burial ritual where his parents died several years back.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/hFqI4uEViGZWPzebAm0gFs63Ewp.jpg",
+    "en": "/hFqI4uEViGZWPzebAm0gFs63Ewp.jpg"
+  },
+  "backdrops": [
+    "/qGJxeY9lL7LEHXb85o5xABXJ4Hu.jpg",
+    "/jLIe3vKpuUPG4ClgcgML2ICUv9O.jpg",
+    "/gXJ2UoplXZeRFCvzb0qBXiUh28c.jpg",
+    "/2QoJ7h1F10fzRmkNtgpmBx3jpSS.jpg",
+    "/5VCNASBZej7IFrWFgSINAJWw9iC.jpg"
+  ],
+  "trailerKey": "a5l6MbXu6AQ",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    167043
+  ],
+  "countries": [
+    "IS",
+    "DK",
+    "DE",
+    "JP",
+    "US"
+  ],
+  "languages": [
+    "is",
+    "de",
+    "ja",
+    "en"
+  ],
+  "studios": [
+    "Icicle",
+    "Film Fonds",
+    "Pandora Film"
+  ],
+  "crew": [
+    {
+      "personId": 6759,
+      "job": "director"
+    },
+    {
+      "personId": 4834,
+      "job": "writer"
+    },
+    {
+      "personId": 224832,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 43528,
+      "job": "composer"
+    },
+    {
+      "personId": 6759,
+      "job": "writer"
+    },
+    {
+      "personId": 4834,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 68973,
+      "character": "Hirata",
+      "order": 0
+    },
+    {
+      "personId": 3127,
+      "character": "Jill",
+      "order": 1
+    },
+    {
+      "personId": 26473,
+      "character": "Jack",
+      "order": 2
+    },
+    {
+      "personId": 96523,
+      "character": "Siggi",
+      "order": 3
+    },
+    {
+      "personId": 82461,
+      "character": "Hirata's Grandfather",
+      "order": 4
+    },
+    {
+      "personId": 552032,
+      "character": "Suzuki",
+      "order": 5
+    },
+    {
+      "personId": 552033,
+      "character": "Higashino",
+      "order": 6
+    },
+    {
+      "personId": 1122013,
+      "character": "Laura",
+      "order": 7
+    },
+    {
+      "personId": 2701163,
+      "character": "Hirata's Father",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 26,
+  "sources": [
+    "cult-list"
+  ]
+}

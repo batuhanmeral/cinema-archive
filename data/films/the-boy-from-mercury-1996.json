@@ -1,0 +1,152 @@
+{
+  "tmdbId": 261250,
+  "slug": "the-boy-from-mercury-1996",
+  "year": 1996,
+  "runtime": 87,
+  "originalTitle": "The Boy from Mercury",
+  "title": {
+    "en": "The Boy from Mercury",
+    "tr": "The Boy from Mercury"
+  },
+  "overview": {
+    "en": "Set in 1960s Dublin, a fatherless eight-year-old boy who feels alienated by his family, escapes his reality by deciding he's been sent from Mercury to study life on Earth. His fantasies mirror the life of his hero, Flash Gordon, from the serial he watches each week at the local cinema. His escapades result in dilemmas that drive his mother to such distraction that she turns to the boy's strange uncle for help.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/1TgAKtGexbCVmz7nV6Ff4By9Q4d.jpg",
+    "en": "/1TgAKtGexbCVmz7nV6Ff4By9Q4d.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    14,
+    35,
+    10751
+  ],
+  "keywordIds": [],
+  "countries": [
+    "IE",
+    "FR",
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Le Studio Canal+",
+    "Mercurian",
+    "Blue Rose"
+  ],
+  "crew": [
+    {
+      "personId": 126537,
+      "job": "director"
+    },
+    {
+      "personId": 63357,
+      "job": "composer"
+    },
+    {
+      "personId": 1395750,
+      "job": "producer"
+    },
+    {
+      "personId": 63355,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 126537,
+      "job": "writer"
+    },
+    {
+      "personId": 210188,
+      "job": "producer"
+    },
+    {
+      "personId": 2238047,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 47754,
+      "character": "May Cronin",
+      "order": 0
+    },
+    {
+      "personId": 14011,
+      "character": "Uncle Tony Cronin",
+      "order": 1
+    },
+    {
+      "personId": 5312,
+      "character": "Paul",
+      "order": 2
+    },
+    {
+      "personId": 1304716,
+      "character": "Harry Cronin",
+      "order": 3
+    },
+    {
+      "personId": 43138,
+      "character": "Brother Dowdall",
+      "order": 4
+    },
+    {
+      "personId": 2788551,
+      "character": "James \"Mucker\" Maguire",
+      "order": 5
+    },
+    {
+      "personId": 3417022,
+      "character": "Classroom Schoolboy",
+      "order": 6
+    },
+    {
+      "personId": 218984,
+      "character": "Classroom Schoolboy",
+      "order": 7
+    },
+    {
+      "personId": 2263253,
+      "character": "Sarah",
+      "order": 8
+    },
+    {
+      "personId": 2287819,
+      "character": "Sean McCarthy",
+      "order": 9
+    },
+    {
+      "personId": 1078695,
+      "character": "Usher",
+      "order": 10
+    },
+    {
+      "personId": 2292451,
+      "character": "Ice Cream Girl",
+      "order": 11
+    },
+    {
+      "personId": 33359,
+      "character": "Flash Gordon (Archive Footage)",
+      "order": 12
+    },
+    {
+      "personId": 30017,
+      "character": "Ming the Merciless (Archive Footage)",
+      "order": 13
+    },
+    {
+      "personId": 37446,
+      "character": "Game Show Contestant (Archive Footage)",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 2,
+  "sources": [
+    "cult-list"
+  ]
+}

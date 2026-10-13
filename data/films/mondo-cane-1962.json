@@ -1,0 +1,111 @@
+{
+  "tmdbId": 32688,
+  "slug": "mondo-cane-1962",
+  "year": 1962,
+  "runtime": 105,
+  "originalTitle": "Mondo Cane",
+  "title": {
+    "en": "Mondo Cane",
+    "tr": "Mondo Cane"
+  },
+  "overview": {
+    "en": "A documentary consisting of a series of travelogue vignettes providing glimpses into cultural practices throughout the world intended to shock or surprise, including an insect banquet and a memorable look at a practicing South Pacific cargo cult.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/kw8MBBknqE0GO7JuP7F3QDIHLt9.jpg",
+    "en": "/kw8MBBknqE0GO7JuP7F3QDIHLt9.jpg"
+  },
+  "backdrops": [
+    "/mSnbknxnpgnWu50yspMdVc23xLM.jpg",
+    "/5oZeQCBmXmd1gt1siAVSxaQWNpl.jpg"
+  ],
+  "trailerKey": "3XBg6BgOSgs",
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    1463,
+    10428,
+    161316,
+    201071,
+    240847,
+    262228,
+    286966,
+    337710,
+    358291,
+    360023
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Cineriz"
+  ],
+  "crew": [
+    {
+      "personId": 109556,
+      "job": "composer"
+    },
+    {
+      "personId": 100336,
+      "job": "director"
+    },
+    {
+      "personId": 33804,
+      "job": "composer"
+    },
+    {
+      "personId": 109555,
+      "job": "director"
+    },
+    {
+      "personId": 109555,
+      "job": "writer"
+    },
+    {
+      "personId": 109555,
+      "job": "producer"
+    },
+    {
+      "personId": 100336,
+      "job": "writer"
+    },
+    {
+      "personId": 5679,
+      "job": "producer"
+    },
+    {
+      "personId": 2403345,
+      "job": "director"
+    },
+    {
+      "personId": 109558,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 109557,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29327,
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "personId": 238744,
+      "character": "Narrator (voice)",
+      "order": 1
+    }
+  ],
+  "awards": {},
+  "voteCount": 104,
+  "sources": [
+    "cult-list"
+  ]
+}

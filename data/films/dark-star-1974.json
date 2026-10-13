@@ -1,0 +1,143 @@
+{
+  "tmdbId": 1410,
+  "slug": "dark-star-1974",
+  "year": 1974,
+  "runtime": 83,
+  "originalTitle": "Dark Star",
+  "title": {
+    "en": "Dark Star",
+    "tr": "Dark Star"
+  },
+  "overview": {
+    "en": "A group of scientists are sent on a mission to destroy unstable planets. Twenty years into their mission, they have to battle their alien mascot as well as a \"sensitive\" and intelligent bombing device that starts to question the meaning of its existence.",
+    "tr": "Dört kişilik bir mürettebattan oluşan adı Dark Star olan uzay gemisinin görevi, yaşam formlarının olduğu gezegenleri araştırıp ileride Dünya için bir tehlike oluşturup oluşturmayacağıdır. Eğer keşfedilen gezegenlerin ileride Dünya için bir tehlike arz edeceği kanısına varılırsa mürettebat bu gezegenleri yok etmekle görevlidir."
+  },
+  "poster": {
+    "tr": "/aiqLBiH0IWrog2Q78dZTT8Ad9Sp.jpg",
+    "en": "/aiqLBiH0IWrog2Q78dZTT8Ad9Sp.jpg"
+  },
+  "backdrops": [
+    "/5I6yjyIKzAeQd5C1ynJnfWCK22u.jpg",
+    "/wwsmvlcUCvqGwzOKgoLhORKGyCH.jpg",
+    "/8tusF9xt8CeLzay3TDJBxnRweZF.jpg",
+    "/9yXen3n0LOX4yfb1KTSQXmJovPN.jpg",
+    "/hGuJg1U28Q0WODj8ETmPLXl2M0I.jpg",
+    "/u6qDqxrCSeo81oZ46Q4M04HItMM.jpg",
+    "/wVj0pXYL9hiG7Tz7YBejy7Lf09N.jpg",
+    "/2Fe93yJPngNfTL9MiRn2odQmbrz.jpg",
+    "/3bl8Ui9OXolXLfvzfnQNoAhRINV.jpg",
+    "/84mRESNDwZyhJpfgBACxnJgYwG8.jpg"
+  ],
+  "trailerKey": "lwISbJfRNz0",
+  "genreIds": [
+    35,
+    878
+  ],
+  "keywordIds": [
+    2964,
+    310,
+    3925,
+    3801,
+    14756,
+    236316,
+    361867
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Jack H. Harris Enterprises",
+    "University of Southern California"
+  ],
+  "crew": [
+    {
+      "personId": 5045,
+      "job": "writer"
+    },
+    {
+      "personId": 11770,
+      "job": "director"
+    },
+    {
+      "personId": 11770,
+      "job": "composer"
+    },
+    {
+      "personId": 11770,
+      "job": "writer"
+    },
+    {
+      "personId": 25194,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11770,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 25202,
+      "character": "Lt. Doolittle",
+      "order": 0
+    },
+    {
+      "personId": 25203,
+      "character": "Boiler",
+      "order": 1
+    },
+    {
+      "personId": 5045,
+      "character": "Sgt. Pinback alias Bill Fruge",
+      "order": 2
+    },
+    {
+      "personId": 25204,
+      "character": "Talby",
+      "order": 3
+    },
+    {
+      "personId": 25205,
+      "character": "Bomb #20 (voice)",
+      "order": 4
+    },
+    {
+      "personId": 14692,
+      "character": "Alien",
+      "order": 5
+    },
+    {
+      "personId": 25207,
+      "character": "Commander Powell (voice)",
+      "order": 6
+    },
+    {
+      "personId": 25206,
+      "character": "Muttercomputer (voice)",
+      "order": 7
+    },
+    {
+      "personId": 25208,
+      "character": "Bomb #19 (voice)",
+      "order": 8
+    },
+    {
+      "personId": 11770,
+      "character": "Talby Voice",
+      "order": 9
+    },
+    {
+      "personId": 172634,
+      "character": "Watkins - Mission Control",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 687,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "tmdbId": 46435,
+  "slug": "topsy-turvy-1999",
+  "year": 1999,
+  "runtime": 160,
+  "originalTitle": "Topsy-Turvy",
+  "title": {
+    "en": "Topsy-Turvy",
+    "tr": "Karmakarışık"
+  },
+  "overview": {
+    "en": "For nearly a decade, Gilbert and Sullivan’s collaborations have delighted the English people. But in 1884, as a London heat wave cuts into the theater trade, their latest work, \"Princess Ida\", receives lukewarm press. In an effort to reconcile their creative differences and drawing inspiration from Japanese culture, they went on to create the hit opera \"The Mikado\", one of the duo's greatest successes.",
+    "tr": "1880'lerde Londra. W.S. Gilbert çabuk sinirlenen ama duygusal açıdan mesafeli bir söz yazarıdır. Gilbert, güleryüzlü, eğlenceyi seven, hafif operalarla tatmin olmayan ve daha ciddi çalışmalar yapmak için yanıp tutuşan besteci Arthur Sullivan'la birlikte çalışır. Sullivan bir yaratıcılık krizine tutulmuştur, Gilbert'ın ise Lucy ile olan evliliği yıkılmak üzeredir. Her ne kadar o duygularının karşılığını veremese de, Lucy kocasını sever, ayrıca onun hasta babasıyla da uğraşmak zorundadır. Gilbert ve Sullivan'ın popüler komik operaları o güne kadar hiç başarısızlığa uğramamıştır, ama basın, son eserleri Prenses Ida'ya kayıtsız kalır. Lucy, Gilbert'ı bir Japon sanat sergisine götürünce, ilham bulan Gilbert Mikado'yu yazmaya karar verir. Sullivan birlikte çalışmayı kabul eder. Uzun provaların ardından, oyun seyirci karşısına çıkar ve büyük övgü alır... KARMAKARIŞIK başkalarını güldürmek için eziyet çeken, çırpınan sanatçılar hakkında bir film."
+  },
+  "poster": {
+    "tr": "/nxHjVAVOFgWbD2RptBBCLVO6SIR.jpg",
+    "en": "/qAH3gsnQV25NQ2GpO3b7nDcVtkM.jpg"
+  },
+  "backdrops": [
+    "/lBk6VjaqbjU2T8wxiXW1zUh6M9r.jpg",
+    "/gj026n3FCfMaouYcwGGRD69SzRG.jpg",
+    "/c3XpRvq7eCbXNl0z4pCnDBNPzIG.jpg",
+    "/vuB822fEemGIv5CXhd05OVFiroI.jpg",
+    "/9KV5GNwnAhbTzCYbxzD4vIbLGrG.jpg",
+    "/cR5acKs6bu2gwREogGjiZ5aYNHF.jpg",
+    "/sDAjRQAkKs46e1h3zHV1mGFbSCh.jpg",
+    "/33pglUNwAcaGxehyKhjAZjZ3xZQ.jpg",
+    "/kGg6FLvtb0BEN5xDY6A2EzFERLd.jpg",
+    "/3i7sDUC79t4LnSV2msbv3iDfTmv.jpg"
+  ],
+  "trailerKey": "GqTxlBI1IHY",
+  "genreIds": [
+    18,
+    10402,
+    35,
+    36
+  ],
+  "keywordIds": [
+    212,
+    549,
+    4344,
+    5565,
+    11333,
+    33719,
+    40838,
+    40984,
+    159868,
+    207928,
+    365213
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "ja",
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Thin Man Films",
+    "The Greenlight Fund",
+    "Newmarket Capital Group"
+  ],
+  "crew": [
+    {
+      "personId": 65452,
+      "job": "director"
+    },
+    {
+      "personId": 65452,
+      "job": "writer"
+    },
+    {
+      "personId": 20423,
+      "job": "producer"
+    },
+    {
+      "personId": 60085,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 24717,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 388,
+      "character": "W. S. Gilbert",
+      "order": 0
+    },
+    {
+      "personId": 78018,
+      "character": "Sir Arthur Sullivan",
+      "order": 1
+    },
+    {
+      "personId": 9191,
+      "character": "Richard Temple (The Mikado)",
+      "order": 2
+    },
+    {
+      "personId": 72305,
+      "character": "Lucy Gilbert",
+      "order": 3
+    },
+    {
+      "personId": 5319,
+      "character": "Richard D'Oyly Carte",
+      "order": 4
+    },
+    {
+      "personId": 37052,
+      "character": "Helen Lenoir",
+      "order": 5
+    },
+    {
+      "personId": 9013,
+      "character": "Durward Lely (Nanki-Poo)",
+      "order": 6
+    },
+    {
+      "personId": 1834,
+      "character": "Leonora Braham (Yum-Yum)",
+      "order": 7
+    },
+    {
+      "personId": 1221056,
+      "character": "Jessie Bond",
+      "order": 8
+    },
+    {
+      "personId": 30328,
+      "character": "George Grossmith",
+      "order": 9
+    },
+    {
+      "personId": 71249,
+      "character": "Fanny Ronalds",
+      "order": 10
+    },
+    {
+      "personId": 72310,
+      "character": "Richard Barker",
+      "order": 11
+    },
+    {
+      "personId": 1333,
+      "character": "John D'Auban",
+      "order": 12
+    },
+    {
+      "personId": 1173586,
+      "character": "Gilbert's Father",
+      "order": 13
+    },
+    {
+      "personId": 43024,
+      "character": "Rutland Barrington",
+      "order": 14
+    },
+    {
+      "personId": 1793751,
+      "character": "Sybil Grey",
+      "order": 15
+    },
+    {
+      "personId": 118617,
+      "character": "Mr. Seymour",
+      "order": 16
+    },
+    {
+      "personId": 28477,
+      "character": "Wilhelm",
+      "order": 17
+    },
+    {
+      "personId": 1652730,
+      "character": "Frank Cellier",
+      "order": 18
+    },
+    {
+      "personId": 77638,
+      "character": "Mr Price",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 168,
+  "sources": [
+    "cult-list"
+  ]
+}

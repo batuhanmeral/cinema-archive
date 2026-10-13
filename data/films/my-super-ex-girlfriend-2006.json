@@ -1,0 +1,192 @@
+{
+  "tmdbId": 4474,
+  "slug": "my-super-ex-girlfriend-2006",
+  "year": 2006,
+  "runtime": 95,
+  "originalTitle": "My Super Ex-Girlfriend",
+  "title": {
+    "en": "My Super Ex-Girlfriend",
+    "tr": "Eski Süper Sevgilim"
+  },
+  "overview": {
+    "en": "When New York architect Matt Saunders dumps his new girlfriend Jenny Johnson—a smart, sexy, and reluctant superhero known as G-Girl—she uses her powers to make his life a living hell.",
+    "tr": "Jenny Johnson, güzel ve alımlı bir kadındır ve Matt Saunders, Jenny'yi ilk gördüğü andan itibaren hayatının kadınını bulduğuna inanır. Ama ilginç olan bir şey vardır ki, Jenny, bir süper kahramandır. Jenny ya da diğer adıyla G-Girl, Matt'e takıntı derecesinde aşık olunca hayat, Matt için dayanılmaz bir hal alır. Bu ilişkiyi tamamen bitirmek istemesine rağmen G-Girl'ün süper güçlerinin önünde durması oldukça zordur çünkü Jenny, Matt'i bırakmamaya kesinlikle kararlıdır. Senarist Don Payne, benzer konuların daha evvel Tatlı Cadı ya da I Dream of Jeannie gibi filmlerde işlenmesine rağmen Eski Süper Sevgilim'de farklı bir bakış açısı yakaladıklarını belirtiyor. Uma Thurman'ı, alışıldığın dışında bir rolde görmek isteyenler için de ilginç bir film olduğu söylenebilir."
+  },
+  "poster": {
+    "tr": "/65IPbu4ORMgXNQVHNXalEDZsuFV.jpg",
+    "en": "/vs4jcY5NQA24zFGihY2EiqEA5hI.jpg"
+  },
+  "backdrops": [
+    "/dc9NdundicVzMxtZ5EXepXj2rZX.jpg",
+    "/nYaVLs1XMIin1ZI6JEsoMSd6khV.jpg",
+    "/lJkE6khRc6QRl54kem7VbsRkL05.jpg",
+    "/7PyjcqwobxkoDvy8b9DLblh9mph.jpg",
+    "/F0VPmXrHskDwqHx8WDV1NO1OHo.jpg",
+    "/8J7tGVdjqY1R5pdOoLYgVyh0yMj.jpg",
+    "/i4kC8v6VpvzTP1698VFbV1oK2Xu.jpg",
+    "/dJjpcUrijUHg82RwGtvBRUKaBrb.jpg",
+    "/hX3Y5XIflwTQi3B0jSIxi5PtYCH.jpg",
+    "/aS4JTwtIitJwHV2OUxRSFXLspav.jpg"
+  ],
+  "trailerKey": "7FY2efhRS4U",
+  "genreIds": [
+    35,
+    878,
+    10749
+  ],
+  "keywordIds": [
+    242,
+    334,
+    1594,
+    1595,
+    9715,
+    33637,
+    309426,
+    319397,
+    325853
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "S E Productions Inc.",
+    "Regency Enterprises",
+    "New Regency Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 8858,
+      "job": "director"
+    },
+    {
+      "personId": 20401,
+      "job": "writer"
+    },
+    {
+      "personId": 376,
+      "job": "producer"
+    },
+    {
+      "personId": 35974,
+      "job": "producer"
+    },
+    {
+      "personId": 20822,
+      "job": "composer"
+    },
+    {
+      "personId": 36,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 139,
+      "character": "Jenny Johnson",
+      "order": 0
+    },
+    {
+      "personId": 36422,
+      "character": "Matt Saunders",
+      "order": 1
+    },
+    {
+      "personId": 1772,
+      "character": "Hannah",
+      "order": 2
+    },
+    {
+      "personId": 1926,
+      "character": "Professor Bedlam",
+      "order": 3
+    },
+    {
+      "personId": 11678,
+      "character": "Vaughn Haige",
+      "order": 4
+    },
+    {
+      "personId": 37403,
+      "character": "Leo",
+      "order": 5
+    },
+    {
+      "personId": 2925372,
+      "character": "Lenny",
+      "order": 6
+    },
+    {
+      "personId": 27102,
+      "character": "Carla Dunkirk",
+      "order": 7
+    },
+    {
+      "personId": 37405,
+      "character": "Bartender",
+      "order": 8
+    },
+    {
+      "personId": 154826,
+      "character": "TV News Reporter",
+      "order": 9
+    },
+    {
+      "personId": 1519297,
+      "character": "Young Jenny",
+      "order": 10
+    },
+    {
+      "personId": 1630464,
+      "character": "Asian Businessman",
+      "order": 11
+    },
+    {
+      "personId": 112143,
+      "character": "Steve Velard",
+      "order": 12
+    },
+    {
+      "personId": 2005032,
+      "character": "Young Barry",
+      "order": 13
+    },
+    {
+      "personId": 2998293,
+      "character": "Elderly Lady",
+      "order": 14
+    },
+    {
+      "personId": 1218225,
+      "character": "Scary Dude",
+      "order": 15
+    },
+    {
+      "personId": 100106,
+      "character": "Parking Lot Manager",
+      "order": 16
+    },
+    {
+      "personId": 2998296,
+      "character": "NYPD Officer at Garage",
+      "order": 17
+    },
+    {
+      "personId": 2998297,
+      "character": "NYPD Officer at Station",
+      "order": 18
+    },
+    {
+      "personId": 60016,
+      "character": "Young Girl",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1591,
+  "sources": [
+    "cult-list"
+  ]
+}

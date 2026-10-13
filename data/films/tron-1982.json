@@ -1,0 +1,193 @@
+{
+  "tmdbId": 97,
+  "slug": "tron-1982",
+  "year": 1982,
+  "runtime": 96,
+  "originalTitle": "Tron",
+  "title": {
+    "en": "Tron",
+    "tr": "Tron"
+  },
+  "overview": {
+    "en": "When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he is beamed inside an astonishing digital world and becomes part of the very game he is designing. In his mission through cyberspace, Flynn matches wits with a maniacal Master Control Program and teams up with Tron, a security measure created to bring balance to the digital environment.",
+    "tr": "Video oyunları tasarlayıp programlayan Kevin, patronun kendi işlerini çaldığını ispatlamaya çalışırken kendi yazıdığı programın içinde esir olur. Burada tüm program ve prosedürler kişilik kazanmıştır. Programcı ve kullanıcılar ise adeta tanrısal varlıklar gibi görülmektedir."
+  },
+  "poster": {
+    "tr": "/jigY9B6TKz4qlfikZcd18qtzTK4.jpg",
+    "en": "/zwSFEczP7AzqugAHHIX3zHniT0t.jpg"
+  },
+  "backdrops": [
+    "/vUmeBHiGp5r2ydd8aEvbNLamTVD.jpg",
+    "/f4ZlBeiiBaQPNZrHnhXywwXASFS.jpg",
+    "/tpWMNchR0FK2eMA9AHDDIDexUN3.jpg",
+    "/kMOB774LT4AAk4hILoImtCY3BaO.jpg",
+    "/3TXSvYzEBKFk2CJe9KdbvBJ2Mbw.jpg",
+    "/8TKqTxA0fZDoOemJVponaUfCKJK.jpg",
+    "/qVAwqSxOb2J85vPxYX00vohQVYK.jpg",
+    "/gDBsC0DgXuQsWUyPvmlFSENAZAk.jpg",
+    "/tTM13EIloVBACIuxrz89BTRQtUa.jpg",
+    "/8HzEinyADCwk908LP15sXLCZ26m.jpg"
+  ],
+  "trailerKey": "INv-OQ1clmw",
+  "genreIds": [
+    878,
+    28,
+    12
+  ],
+  "keywordIds": [
+    2157,
+    282,
+    4563,
+    4565,
+    2423,
+    3222,
+    3469,
+    8469,
+    3972,
+    15256,
+    41645,
+    224174,
+    234894,
+    325762,
+    368262
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Lisberger/Kushner Productions",
+    "Walt Disney Productions"
+  ],
+  "crew": [
+    {
+      "personId": 12859,
+      "job": "director"
+    },
+    {
+      "personId": 2284,
+      "job": "composer"
+    },
+    {
+      "personId": 12864,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12859,
+      "job": "writer"
+    },
+    {
+      "personId": 6889,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1229,
+      "character": "Kevin Flynn / Clu",
+      "order": 0
+    },
+    {
+      "personId": 2547,
+      "character": "Alan Bradley / Tron",
+      "order": 1
+    },
+    {
+      "personId": 2076,
+      "character": "Ed Dillinger / Sark",
+      "order": 2
+    },
+    {
+      "personId": 2548,
+      "character": "Lora / Yori",
+      "order": 3
+    },
+    {
+      "personId": 2549,
+      "character": "Dr. Walter Gibbs / Dumont",
+      "order": 4
+    },
+    {
+      "personId": 2550,
+      "character": "Ram",
+      "order": 5
+    },
+    {
+      "personId": 12876,
+      "character": "Crom",
+      "order": 6
+    },
+    {
+      "personId": 12877,
+      "character": "Peter / Sark's Lieutenant",
+      "order": 7
+    },
+    {
+      "personId": 12878,
+      "character": "Warrior #1",
+      "order": 8
+    },
+    {
+      "personId": 12879,
+      "character": "Warrior #2",
+      "order": 9
+    },
+    {
+      "personId": 12880,
+      "character": "Expert Disc Warrior",
+      "order": 10
+    },
+    {
+      "personId": 102235,
+      "character": "Head Guard",
+      "order": 11
+    },
+    {
+      "personId": 81693,
+      "character": "Factory Guard",
+      "order": 12
+    },
+    {
+      "personId": 543390,
+      "character": "Guard #1",
+      "order": 13
+    },
+    {
+      "personId": 72637,
+      "character": "Guard #2",
+      "order": 14
+    },
+    {
+      "personId": 176475,
+      "character": "Guard #3",
+      "order": 15
+    },
+    {
+      "personId": 1961195,
+      "character": "Guard #4",
+      "order": 16
+    },
+    {
+      "personId": 5712884,
+      "character": "Guard #5",
+      "order": 17
+    },
+    {
+      "personId": 15850,
+      "character": "Guard #6",
+      "order": 18
+    },
+    {
+      "personId": 91243,
+      "character": "Tank Commander",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2907,
+  "sources": [
+    "cult-list"
+  ]
+}

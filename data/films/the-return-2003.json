@@ -1,0 +1,148 @@
+{
+  "tmdbId": 11190,
+  "slug": "the-return-2003",
+  "year": 2003,
+  "runtime": 111,
+  "originalTitle": "Возвращение",
+  "title": {
+    "en": "The Return",
+    "tr": "Dönüş"
+  },
+  "overview": {
+    "en": "Two young brothers in contemporary Russia are reunited with a father they know only from an old photograph after his sudden return from a long absence. With their mother’s reluctant consent, they set out on a remote trip that quickly becomes an uneasy test of authority, trust, and masculinity. As the journey moves deeper into the wilderness, the fragile bonds between father and sons are pushed to their limits.",
+    "tr": "Genç kardeşler Vanya ve Andrey’in babaları, on iki yıl süren bir ayrılığın ardından ansızın çıkagelir. Babaları geldiğinde çocuklarını bir tatile götürmek ister. Annelerinin izni ile babalarına hasret kalmış olan kardeşler, bu tatile gitmeye hazırdırlar. Ancak bunca zaman sonra ortaya çıkan bir baba figürü, çocukların hayalindekinden farklıdır."
+  },
+  "poster": {
+    "tr": "/neOvNL7F4EQIF5nD31czMHgvZNg.jpg",
+    "en": "/kjl3qsQVsYsvmAOdLsjcOzqB3YL.jpg"
+  },
+  "backdrops": [
+    "/t3Suxs161igZK01eRBPeFnS4YX8.jpg",
+    "/8ULBp6mMRhpR6qnEqEWFbMdmdNq.jpg",
+    "/s1tjAz93Eyxh05ixQGe5MmPzPSc.jpg",
+    "/mn1YEB7D9JLIevqD0ktR1byrVMO.jpg",
+    "/sh2wZxjHMqRLvpDq9QV1vkHrjpZ.jpg",
+    "/sgX1bCOE3w4E35SoCCLZyWaOJ75.jpg",
+    "/rn5e3JM6rDuxdR6zfUAQ42j0iyF.jpg",
+    "/nV2ihqNE4MIW1mSthGlS6UNgCDA.jpg",
+    "/b7dBFsAQvGpzO4gjoKbKLfM8Yg6.jpg",
+    "/i0vMnImbyxrgkJsMIAarL2Qk9RB.jpg"
+  ],
+  "trailerKey": "mEKp-Ort7hU",
+  "genreIds": [
+    18,
+    9648
+  ],
+  "keywordIds": [
+    5301,
+    2299,
+    5625,
+    7312,
+    156316,
+    180574,
+    181053,
+    233676,
+    240119,
+    240484,
+    340465
+  ],
+  "countries": [
+    "RU"
+  ],
+  "languages": [
+    "ru"
+  ],
+  "studios": [
+    "Ren Film"
+  ],
+  "crew": [
+    {
+      "personId": 68523,
+      "job": "producer"
+    },
+    {
+      "personId": 68525,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 68519,
+      "job": "director"
+    },
+    {
+      "personId": 68524,
+      "job": "composer"
+    },
+    {
+      "personId": 1382061,
+      "job": "writer"
+    },
+    {
+      "personId": 125884,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 68515,
+      "character": "Andrey",
+      "order": 0
+    },
+    {
+      "personId": 68517,
+      "character": "Father",
+      "order": 1
+    },
+    {
+      "personId": 68518,
+      "character": "Mother",
+      "order": 2
+    },
+    {
+      "personId": 68516,
+      "character": "Ivan",
+      "order": 3
+    },
+    {
+      "personId": 936820,
+      "character": "Hooligan",
+      "order": 4
+    },
+    {
+      "personId": 936821,
+      "character": "Girl in the Mirror",
+      "order": 5
+    },
+    {
+      "personId": 558290,
+      "character": "Grandmother",
+      "order": 6
+    },
+    {
+      "personId": 936823,
+      "character": "Zavodila",
+      "order": 7
+    },
+    {
+      "personId": 936824,
+      "character": "Man at Port",
+      "order": 8
+    },
+    {
+      "personId": 2530949,
+      "character": "Olya",
+      "order": 9
+    },
+    {
+      "personId": 4174290,
+      "character": "Babushka",
+      "order": 10
+    }
+  ],
+  "awards": {
+    "venice": 1
+  },
+  "voteCount": 737,
+  "sources": [
+    "cult-list"
+  ]
+}

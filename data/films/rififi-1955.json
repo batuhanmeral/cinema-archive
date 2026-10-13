@@ -1,0 +1,204 @@
+{
+  "tmdbId": 934,
+  "slug": "rififi-1955",
+  "year": 1955,
+  "runtime": 118,
+  "originalTitle": "Du rififi chez les hommes",
+  "title": {
+    "en": "Rififi",
+    "tr": "Rififi"
+  },
+  "overview": {
+    "en": "Out of prison after a five-year stretch, jewel thief Tony turns down a quick job his friend Jo offers him, until he discovers that his old girlfriend Mado has become the lover of local gangster Pierre Grutter during Tony's absence. Expanding a minor smash-and-grab into a full-scale jewel heist, Tony and his crew appear to get away clean, but their actions after the job is completed threaten the lives of everyone involved.",
+    "tr": "Mücevher hırsızı Tony le Stéphanois hapisten çıktığında Jo ona yeni bir projeden bahseder. Tony Mario ve Mario’nun kasa uzmanı arkadaşı César ile birlikte soygun yapmayı kabul eder. Herşey planlandığı gibi gider ancak César’ın kız arkadaşına pahalı bir yüzük hediye etmesi grubu afişe edecektir."
+  },
+  "poster": {
+    "tr": "/heVdAFNZUxXVmO6jiJcEHCvI5lK.jpg",
+    "en": "/rxopu41aXyhekoHe4PiZGvwoKrT.jpg"
+  },
+  "backdrops": [
+    "/mrnT421AHb0pEJEHYRenDqsDS8j.jpg",
+    "/u1wxXBJpxifopSbVxCjgTVapEE1.jpg",
+    "/cVPBT3FqKG3BPXlH4Hg54KHxnqQ.jpg",
+    "/g8kyd1D4K8DLoOeXamUi96t6chQ.jpg",
+    "/kZ2eJXnzML9mThRlBjZTrlNlYee.jpg",
+    "/vOa6QxiYqYTvnwLTNxfkHamZvTv.jpg",
+    "/pRYVm34y8j28L0jPK6IGUmyIiNc.jpg",
+    "/AlxVOcAA6SK02TbKS2qbxThmwgb.jpg",
+    "/oztZLvUw20frtmz0Dlv2yR7RJ7a.jpg",
+    "/rfMHd4v9dOLgD6PC7qSeZIcVakn.jpg"
+  ],
+  "trailerKey": "PVRiC5ysSLk",
+  "genreIds": [
+    80,
+    53,
+    18
+  ],
+  "keywordIds": [
+    90,
+    924,
+    6099,
+    2334,
+    8430,
+    10051,
+    11728,
+    12999,
+    159834,
+    159845,
+    159846
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "it",
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Indusfilms",
+    "Société Nationale Pathé Cinéma",
+    "Prima Films"
+  ],
+  "crew": [
+    {
+      "personId": 14231,
+      "job": "producer"
+    },
+    {
+      "personId": 2578,
+      "job": "composer"
+    },
+    {
+      "personId": 14229,
+      "job": "writer"
+    },
+    {
+      "personId": 14232,
+      "job": "producer"
+    },
+    {
+      "personId": 14227,
+      "job": "director"
+    },
+    {
+      "personId": 14233,
+      "job": "producer"
+    },
+    {
+      "personId": 14234,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 14228,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14242,
+      "character": "Tony le Stéphanois",
+      "order": 0
+    },
+    {
+      "personId": 11937,
+      "character": "Jo le Suedois",
+      "order": 1
+    },
+    {
+      "personId": 14243,
+      "character": "Mario Ferrati",
+      "order": 2
+    },
+    {
+      "personId": 14244,
+      "character": "Louise",
+      "order": 3
+    },
+    {
+      "personId": 39449,
+      "character": "Louis Grutter aka Louis le Tatoué",
+      "order": 4
+    },
+    {
+      "personId": 14246,
+      "character": "Rémi Grutter",
+      "order": 5
+    },
+    {
+      "personId": 1043503,
+      "character": "Pierre Grutter",
+      "order": 6
+    },
+    {
+      "personId": 544716,
+      "character": "Tonio",
+      "order": 7
+    },
+    {
+      "personId": 5963,
+      "character": "Viviane",
+      "order": 8
+    },
+    {
+      "personId": 14245,
+      "character": "Mado",
+      "order": 9
+    },
+    {
+      "personId": 14247,
+      "character": "Ida Ferrati",
+      "order": 10
+    },
+    {
+      "personId": 14227,
+      "character": "Cesar le Milanais",
+      "order": 11
+    },
+    {
+      "personId": 2700622,
+      "character": "Second Gambler",
+      "order": 12
+    },
+    {
+      "personId": 927652,
+      "character": "Footman, 'L'Age D'Or'",
+      "order": 13
+    },
+    {
+      "personId": 2700625,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 579558,
+      "character": "Webb, le bijoutier",
+      "order": 15
+    },
+    {
+      "personId": 2217389,
+      "character": "Commissioner",
+      "order": 16
+    },
+    {
+      "personId": 1403301,
+      "character": "Charlie",
+      "order": 17
+    },
+    {
+      "personId": 140349,
+      "character": "Fredo's Wife",
+      "order": 18
+    },
+    {
+      "personId": 1556172,
+      "character": "Fredo",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 664,
+  "sources": [
+    "cult-list"
+  ]
+}

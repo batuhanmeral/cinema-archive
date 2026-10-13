@@ -1,0 +1,190 @@
+{
+  "tmdbId": 11834,
+  "slug": "jabberwocky-1977",
+  "year": 1977,
+  "runtime": 105,
+  "originalTitle": "Jabberwocky",
+  "title": {
+    "en": "Jabberwocky",
+    "tr": "Jabberwocky"
+  },
+  "overview": {
+    "en": "After the death of his father, young Dennis Cooper goes to town where he has to pass several adventures. The town and the whole kingdom is threatened by a terrible monster called 'Jabberwocky'. Will Dennis make his fortune? Is anyone brave enough to defeat the monster?",
+    "tr": "Genç Dennis Hooper, babasının aniden ölümü üzerine kendisine bir iş bulmak üzere yakındaki bir şehre gider. Burada başından bir sürü macera geçer ve genç Dennis Hooper bir rastlantı sonucu şehrin tehlikede olduğunu öğrenir. Bu tehlike Jabberwocky adındaki dev bir yaratıktır ve bu canavar sadece o şehri değil tüm krallığı tehdit etmektedir."
+  },
+  "poster": {
+    "tr": "/kprcqmFxWPU45L1ZnMXO5yPPMVA.jpg",
+    "en": "/qYJmSbAkKOaltdwasY3dOrPlyZa.jpg"
+  },
+  "backdrops": [
+    "/4tC0JVSkIyUwfsR6ob4u2XxNeoC.jpg",
+    "/3n6UhvRGr9WpE6nOjC1K7lgovB9.jpg",
+    "/hMtePcTyWLQjBbujHd4kiquQcZ3.jpg",
+    "/73imSNXD1OoiEawexE0dU261CvA.jpg",
+    "/cL3ah5nBe5F3o6xhXuLyBN4q5qC.jpg",
+    "/AqI39kZeE9LO7yaM5Lf5tgwuX5f.jpg",
+    "/7Z6xFRLWx1L3IjpGJ79Av13fgHN.jpg",
+    "/73f5uH4uq7mSZVjZSZBhk3uu6dz.jpg",
+    "/wRw3ojxii6sCtOBe7eAVvHZ5dQf.jpg",
+    "/q4n3LTLN2N6KDHdNkPWSzkLRRg5.jpg"
+  ],
+  "trailerKey": "9CLlFk97FBk",
+  "genreIds": [
+    14,
+    35
+  ],
+  "keywordIds": [
+    1605,
+    1566,
+    970,
+    5331,
+    228876
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Python Films",
+    "Umbrella Films"
+  ],
+  "crew": [
+    {
+      "personId": 70649,
+      "job": "producer"
+    },
+    {
+      "personId": 280,
+      "job": "director"
+    },
+    {
+      "personId": 280,
+      "job": "writer"
+    },
+    {
+      "personId": 70650,
+      "job": "composer"
+    },
+    {
+      "personId": 70648,
+      "job": "writer"
+    },
+    {
+      "personId": 10718,
+      "job": "producer"
+    },
+    {
+      "personId": 11292,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 383,
+      "character": "Dennis Cooper",
+      "order": 0
+    },
+    {
+      "personId": 40948,
+      "character": "Squire",
+      "order": 1
+    },
+    {
+      "personId": 14264,
+      "character": "Passelewe",
+      "order": 2
+    },
+    {
+      "personId": 94713,
+      "character": "Mr. Fishfinger",
+      "order": 3
+    },
+    {
+      "personId": 70654,
+      "character": "King Bruno the Questionable",
+      "order": 4
+    },
+    {
+      "personId": 95634,
+      "character": "The Other Squire",
+      "order": 5
+    },
+    {
+      "personId": 172310,
+      "character": "1st Herald",
+      "order": 6
+    },
+    {
+      "personId": 12815,
+      "character": "The Landlord",
+      "order": 7
+    },
+    {
+      "personId": 1342709,
+      "character": "The Princess",
+      "order": 8
+    },
+    {
+      "personId": 101529,
+      "character": "Bishop",
+      "order": 9
+    },
+    {
+      "personId": 30320,
+      "character": "Griselda Fishfinger",
+      "order": 10
+    },
+    {
+      "personId": 10734,
+      "character": "1st Fanatic",
+      "order": 11
+    },
+    {
+      "personId": 13465,
+      "character": "Wat Dabney",
+      "order": 12
+    },
+    {
+      "personId": 1215892,
+      "character": "Sister Jessica",
+      "order": 13
+    },
+    {
+      "personId": 24342,
+      "character": "Red Herring / Black Knight",
+      "order": 14
+    },
+    {
+      "personId": 293,
+      "character": "Man Living in Barrel",
+      "order": 15
+    },
+    {
+      "personId": 32160,
+      "character": "The  Prince",
+      "order": 16
+    },
+    {
+      "personId": 14325,
+      "character": "Flying Hogfish Peasant",
+      "order": 17
+    },
+    {
+      "personId": 44419,
+      "character": "1st Merchant",
+      "order": 18
+    },
+    {
+      "personId": 85537,
+      "character": "2nd Merchant",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 338,
+  "sources": [
+    "cult-list"
+  ]
+}

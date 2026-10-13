@@ -1,0 +1,184 @@
+{
+  "tmdbId": 24153,
+  "slug": "the-buddy-holly-story-1978",
+  "year": 1978,
+  "runtime": 114,
+  "originalTitle": "The Buddy Holly Story",
+  "title": {
+    "en": "The Buddy Holly Story",
+    "tr": "The Buddy Holly Story"
+  },
+  "overview": {
+    "en": "A chronicle of the rise and brief career of rock 'n' roll star Buddy Holly, who aspires to play music the way he wants it to sound. Holly and his band, the Crickets, are first invited to record in Nashville, where they encounter creative differences with the producing staff. Later they play a major booking at the Apollo Theater, scheduled there under the mistaken assumption that they're a black band. Holly's career eventually goes solo -- until the tragic day the music dies.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4Zu9YdN5O4jnXJmqBMHckkKpJ2S.jpg",
+    "en": "/hQ6mFTlX2c4n7u6aLdQ6pnVXIUv.jpg"
+  },
+  "backdrops": [
+    "/qjwaSW0b5iZpYu0H9vIa9PHU4m6.jpg",
+    "/tdpHGUxipEmJZvtEmTCcmpE2HMp.jpg",
+    "/bx6eZlBOesFw8din6VGMiGpDvfF.jpg",
+    "/eOq11cvuOyY1LMU4cV8g9O9lkT9.jpg"
+  ],
+  "trailerKey": "FSzLTG5qkj4",
+  "genreIds": [
+    18,
+    10402
+  ],
+  "keywordIds": [
+    578,
+    635,
+    5565,
+    5626,
+    5608,
+    10229,
+    12617,
+    156306,
+    156783,
+    208611
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Innovisions",
+    "Columbia Pictures",
+    "Taurus Film"
+  ],
+  "crew": [
+    {
+      "personId": 54590,
+      "job": "director"
+    },
+    {
+      "personId": 1167191,
+      "job": "writer"
+    },
+    {
+      "personId": 65681,
+      "job": "composer"
+    },
+    {
+      "personId": 33057,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3500177,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2048,
+      "character": "Buddy Holly",
+      "order": 0
+    },
+    {
+      "personId": 69494,
+      "character": "Jesse Charles",
+      "order": 1
+    },
+    {
+      "personId": 1270,
+      "character": "Ray Bob Simmons",
+      "order": 2
+    },
+    {
+      "personId": 19403,
+      "character": "Ross Turner",
+      "order": 3
+    },
+    {
+      "personId": 101975,
+      "character": "Riley",
+      "order": 4
+    },
+    {
+      "personId": 191769,
+      "character": "Maria Elena Holly",
+      "order": 5
+    },
+    {
+      "personId": 545335,
+      "character": "Cindy Lou",
+      "order": 6
+    },
+    {
+      "personId": 14835,
+      "character": "Sol Gittler",
+      "order": 7
+    },
+    {
+      "personId": 166888,
+      "character": "Madman Mancuso",
+      "order": 8
+    },
+    {
+      "personId": 54682,
+      "character": "Mrs. Holly",
+      "order": 9
+    },
+    {
+      "personId": 83806,
+      "character": "Mr. Holly",
+      "order": 10
+    },
+    {
+      "personId": 52622,
+      "character": "T.J.",
+      "order": 11
+    },
+    {
+      "personId": 155544,
+      "character": "Mrs. Santiago",
+      "order": 12
+    },
+    {
+      "personId": 948281,
+      "character": "Engineer Sam",
+      "order": 13
+    },
+    {
+      "personId": 52616,
+      "character": "Preacher",
+      "order": 14
+    },
+    {
+      "personId": 195163,
+      "character": "Wilson",
+      "order": 15
+    },
+    {
+      "personId": 2886,
+      "character": "The Big Bopper",
+      "order": 16
+    },
+    {
+      "personId": 21925,
+      "character": "Eddie",
+      "order": 17
+    },
+    {
+      "personId": 81149,
+      "character": "Sam",
+      "order": 18
+    },
+    {
+      "personId": 197500,
+      "character": "Avalon M.C.",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 137,
+  "sources": [
+    "cult-list"
+  ]
+}

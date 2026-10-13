@@ -1,0 +1,207 @@
+{
+  "tmdbId": 31526,
+  "slug": "queen-christina-1934",
+  "year": 1934,
+  "runtime": 99,
+  "originalTitle": "Queen Christina",
+  "title": {
+    "en": "Queen Christina",
+    "tr": "Queen Christina"
+  },
+  "overview": {
+    "en": "Popular monarch Queen Christina of Sweden must choose between love and loyalty to her nation when she unexpectedly falls for a Spanish envoy.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lGGYwoBp21CzF7cMzNPcOr6i6iw.jpg",
+    "en": "/m0J1psuVrjNAcoKGlVevYHTm9eK.jpg"
+  },
+  "backdrops": [
+    "/1aIOpvWDAd6zrJ31Dw88U5ALWT0.jpg",
+    "/jlHEmTYnN5zHXYopbcUSHZnMa9V.jpg",
+    "/e6YpCECKNPMBonp425jmHgd6D44.jpg",
+    "/gGxjEbZcBULkoxJPQxrVXAVl5MK.jpg",
+    "/rqBt4k27BnC3ZZLqZ1wsh7ARWjI.jpg",
+    "/jPEhXZPTBCkx9MW50529KGJZQ4D.jpg",
+    "/rfix41VHw0wsmUSxz7C7Wi8dcum.jpg",
+    "/mPVbn8ZY0HfaUw3uM8iqXiFEyY5.jpg",
+    "/tcGg7zBLBWzGSNrxDDLurgNtmDp.jpg",
+    "/5rYBCOesbLb7lH8KfySQy3XKVix.jpg"
+  ],
+  "trailerKey": "icS3e2IFxBk",
+  "genreIds": [
+    10749,
+    36,
+    18
+  ],
+  "keywordIds": [
+    1704,
+    6057,
+    2011,
+    1192,
+    3691,
+    4263,
+    5565,
+    11578,
+    11322,
+    154794,
+    156764,
+    157337,
+    207941
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 29595,
+      "job": "director"
+    },
+    {
+      "personId": 148842,
+      "job": "writer"
+    },
+    {
+      "personId": 239105,
+      "job": "writer"
+    },
+    {
+      "personId": 7646,
+      "job": "producer"
+    },
+    {
+      "personId": 72066,
+      "job": "composer"
+    },
+    {
+      "personId": 3637,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 29595,
+      "job": "writer"
+    },
+    {
+      "personId": 14859,
+      "job": "writer"
+    },
+    {
+      "personId": 4341,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19549,
+      "character": "Christina",
+      "order": 0
+    },
+    {
+      "personId": 98045,
+      "character": "Antonio",
+      "order": 1
+    },
+    {
+      "personId": 84230,
+      "character": "Magnus",
+      "order": 2
+    },
+    {
+      "personId": 29259,
+      "character": "Oxenstierna",
+      "order": 3
+    },
+    {
+      "personId": 584798,
+      "character": "Ebba",
+      "order": 4
+    },
+    {
+      "personId": 2438,
+      "character": "Aage",
+      "order": 5
+    },
+    {
+      "personId": 5832,
+      "character": "Charles",
+      "order": 6
+    },
+    {
+      "personId": 32139,
+      "character": "Archbishop",
+      "order": 7
+    },
+    {
+      "personId": 13345,
+      "character": "The General",
+      "order": 8
+    },
+    {
+      "personId": 120702,
+      "character": "French Ambassador",
+      "order": 9
+    },
+    {
+      "personId": 1045272,
+      "character": "Innkeeper",
+      "order": 10
+    },
+    {
+      "personId": 30197,
+      "character": "Peasant in Crowd (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 121097,
+      "character": "Antonio's Companion in Coach (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1143281,
+      "character": "Elsa (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 120818,
+      "character": "Magnus' Rabble Rouser (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 14453,
+      "character": "Blacksmith - 4th Rabble Rouser (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 985839,
+      "character": "3rd Rabble Rouser (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 234640,
+      "character": "2nd Rabble Rouser (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 103015,
+      "character": "Christina as a Child (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1329662,
+      "character": "Woman at Court when Antonio arrive at Christines Throne (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 147,
+  "sources": [
+    "cult-list"
+  ]
+}

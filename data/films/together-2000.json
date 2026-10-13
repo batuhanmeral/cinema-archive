@@ -1,0 +1,187 @@
+{
+  "tmdbId": 742,
+  "slug": "together-2000",
+  "year": 2000,
+  "runtime": 106,
+  "originalTitle": "Tillsammans",
+  "title": {
+    "en": "Together",
+    "tr": "Birlikte"
+  },
+  "overview": {
+    "en": "Elisabeth leaves her abusive and drunken husband Rolf, and goes to live with her brother, Göran. The year is 1975 and Göran lives in a commune called Together. Living in this leftist commune Elisabeth learns that the world can be viewed from different perspectives.",
+    "tr": "Elisabeth, şiddet uygulayan alkolik kocası Rolf'ü terk eder ve kardeşi Göran'ın yanına gider. Yıl 1975'tir ve Göran, \"Birlikte\" adında bir komünde yaşamaktadır. Bu sol görüşlü komünde yaşayan Elisabeth, dünyaya farklı pencerelerden bakılabileceğini öğrenir."
+  },
+  "poster": {
+    "tr": "/fIY5xko6dJOcn0hckudIhPXobve.jpg",
+    "en": "/668A5tZhpJqeRHBSWJc3qsxCoTL.jpg"
+  },
+  "backdrops": [
+    "/hPW7ZWQ0gYCi3tixBWPlw6eB5Mv.jpg",
+    "/8uszBImrPngs8G4Y21LHJVstNtC.jpg",
+    "/k8EgEpstk46SGEogzr0sg36c9dX.jpg",
+    "/dWsyWkOLYfdAKBbgjc4B0i1Vmia.jpg",
+    "/2waay1K2OtL8WtHd3pleFnla4Iv.jpg",
+    "/plkacfAf21Gyi9DN472qMqz0Euz.jpg",
+    "/8wieEzpoF85CUde2G3ax3wryvkk.jpg",
+    "/4rHmfYGMttJvJXsLzvhtlNWbWu5.jpg"
+  ],
+  "trailerKey": "_Jab2Cjst-k",
+  "genreIds": [
+    18,
+    35,
+    10749
+  ],
+  "keywordIds": [
+    458,
+    1228,
+    1253,
+    1773,
+    1192,
+    2412,
+    2383,
+    2821,
+    1698,
+    3469,
+    9457,
+    9957,
+    33457,
+    161545,
+    165100,
+    264386
+  ],
+  "countries": [
+    "DK",
+    "IT",
+    "NO",
+    "SE"
+  ],
+  "languages": [
+    "sv"
+  ],
+  "studios": [
+    "Memfis Film",
+    "Zentropa Entertainments",
+    "Film i Väst"
+  ],
+  "crew": [
+    {
+      "personId": 11037,
+      "job": "director"
+    },
+    {
+      "personId": 11053,
+      "job": "producer"
+    },
+    {
+      "personId": 11037,
+      "job": "writer"
+    },
+    {
+      "personId": 11232,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6003,
+      "character": "Elisabeth",
+      "order": 0
+    },
+    {
+      "personId": 6283,
+      "character": "Rolf",
+      "order": 1
+    },
+    {
+      "personId": 11038,
+      "character": "Eva",
+      "order": 2
+    },
+    {
+      "personId": 11039,
+      "character": "Stefan",
+      "order": 3
+    },
+    {
+      "personId": 11040,
+      "character": "Göran",
+      "order": 4
+    },
+    {
+      "personId": 11041,
+      "character": "Lena",
+      "order": 5
+    },
+    {
+      "personId": 11042,
+      "character": "Anna",
+      "order": 6
+    },
+    {
+      "personId": 11045,
+      "character": "Lasse",
+      "order": 7
+    },
+    {
+      "personId": 11043,
+      "character": "Tet",
+      "order": 8
+    },
+    {
+      "personId": 11044,
+      "character": "Klas",
+      "order": 9
+    },
+    {
+      "personId": 11046,
+      "character": "Erik",
+      "order": 10
+    },
+    {
+      "personId": 11047,
+      "character": "Signe",
+      "order": 11
+    },
+    {
+      "personId": 11052,
+      "character": "Sigvard",
+      "order": 12
+    },
+    {
+      "personId": 11051,
+      "character": "Måne",
+      "order": 13
+    },
+    {
+      "personId": 11050,
+      "character": "Fredrik",
+      "order": 14
+    },
+    {
+      "personId": 11049,
+      "character": "Margit",
+      "order": 15
+    },
+    {
+      "personId": 11048,
+      "character": "Ragnar",
+      "order": 16
+    },
+    {
+      "personId": 6004,
+      "character": "Birger",
+      "order": 17
+    },
+    {
+      "personId": 1154224,
+      "character": "Girl at Eva's School",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 281,
+  "sources": [
+    "cult-list"
+  ]
+}

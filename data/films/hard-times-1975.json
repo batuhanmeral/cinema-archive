@@ -1,0 +1,201 @@
+{
+  "tmdbId": 22094,
+  "slug": "hard-times-1975",
+  "year": 1975,
+  "runtime": 93,
+  "originalTitle": "Hard Times",
+  "title": {
+    "en": "Hard Times",
+    "tr": "Çıplak Yumruk"
+  },
+  "overview": {
+    "en": "In the depression, Chaney, a strong silent streetfighter, joins with Speed, a promoter of no-holds-barred street boxing bouts. They go to New Orleans where Speed borrows money to set up fights for Chaney, but Speed gambles away any winnings.",
+    "tr": "Charles Bronson, çıplak yumruklarıyla dövüşen boksör Chaney rolünde. Büyük ekonomik buhranı atlatmak için, kendisine yasa dışı dövüşler organize eden gezgin bir kumarbazla iş birliği yapar. Ancak, yolsuzlukla dolu bu tür dövüşler, hem spor dünyasında hem de yeni sevgilisi Lucy ile olan ilişkisinde yeni sorunlar yaratır."
+  },
+  "poster": {
+    "tr": "/yWIh8cMGd9XubkdhJB2TJ7buGy3.jpg",
+    "en": "/yWIh8cMGd9XubkdhJB2TJ7buGy3.jpg"
+  },
+  "backdrops": [
+    "/cjA8bxjXcw3I63DlO3qa6uFwrH4.jpg",
+    "/nGSzo10XPNO4TnNiUavNyhDD0M1.jpg",
+    "/gSVjRbfNtnbSF2MEM7toPPW1XQv.jpg",
+    "/jmisLyDX30xmEZY0cEpoAjqdNLm.jpg",
+    "/wYGemfBjGFNKrb3h7HNgeFkGt8t.jpg",
+    "/lCnoxjuWjWsyKGlweVzwhlaYQ6v.jpg",
+    "/51oui90Usdfxos6V0LwlpJyCuX4.jpg",
+    "/nf6xzm6EaqzAEmNTyIpq1zKaS4N.jpg",
+    "/gUmU0JtXdlbHWMsAXREWyX5xgWx.jpg",
+    "/1qFXLrVNdDbvW9LXbc7wReuTYVk.jpg"
+  ],
+  "trailerKey": "Q3yN9U5aPrI",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    779,
+    6075,
+    397,
+    3149,
+    2411,
+    3134,
+    5571,
+    10076,
+    14955,
+    166788,
+    166801,
+    166802,
+    207268,
+    209476,
+    214548,
+    239553
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Columbia Pictures",
+    "Claridge Productions",
+    "Major Studio Partners"
+  ],
+  "crew": [
+    {
+      "personId": 1176225,
+      "job": "writer"
+    },
+    {
+      "personId": 1723,
+      "job": "director"
+    },
+    {
+      "personId": 1723,
+      "job": "writer"
+    },
+    {
+      "personId": 1044407,
+      "job": "writer"
+    },
+    {
+      "personId": 29707,
+      "job": "composer"
+    },
+    {
+      "personId": 1093,
+      "job": "producer"
+    },
+    {
+      "personId": 1939,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4960,
+      "character": "Chaney",
+      "order": 0
+    },
+    {
+      "personId": 5563,
+      "character": "Spencer \"Speed\" Weed",
+      "order": 1
+    },
+    {
+      "personId": 15753,
+      "character": "Lucy Simpson",
+      "order": 2
+    },
+    {
+      "personId": 8260,
+      "character": "Poe",
+      "order": 3
+    },
+    {
+      "personId": 65552,
+      "character": "Gayleen Schoonover",
+      "order": 4
+    },
+    {
+      "personId": 29713,
+      "character": "Gandil",
+      "order": 5
+    },
+    {
+      "personId": 14068,
+      "character": "Le Beau",
+      "order": 6
+    },
+    {
+      "personId": 101747,
+      "character": "Pettibon",
+      "order": 7
+    },
+    {
+      "personId": 10194,
+      "character": "Doty",
+      "order": 8
+    },
+    {
+      "personId": 76065,
+      "character": "Jim Henry",
+      "order": 9
+    },
+    {
+      "personId": 91241,
+      "character": "Street",
+      "order": 10
+    },
+    {
+      "personId": 1735,
+      "character": "Hammerman",
+      "order": 11
+    },
+    {
+      "personId": 1152827,
+      "character": "Caesare",
+      "order": 12
+    },
+    {
+      "personId": 4096,
+      "character": "Madam",
+      "order": 13
+    },
+    {
+      "personId": 2154797,
+      "character": "Waitress",
+      "order": 14
+    },
+    {
+      "personId": 40627,
+      "character": "Apartment Manager",
+      "order": 15
+    },
+    {
+      "personId": 3715143,
+      "character": "Counterman",
+      "order": 16
+    },
+    {
+      "personId": 1299111,
+      "character": "Poe's Date",
+      "order": 17
+    },
+    {
+      "personId": 3715145,
+      "character": "Carol",
+      "order": 18
+    },
+    {
+      "personId": 3715147,
+      "character": "Secretary",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 252,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "tmdbId": 22538,
+  "slug": "scott-pilgrim-vs-the-world-2010",
+  "year": 2010,
+  "runtime": 113,
+  "originalTitle": "Scott Pilgrim vs. the World",
+  "title": {
+    "en": "Scott Pilgrim vs. the World",
+    "tr": "Scott Pilgrim Dünyaya Karşı"
+  },
+  "overview": {
+    "en": "As bass guitarist for a garage-rock band, Scott Pilgrim has never had trouble getting a girlfriend; usually, the problem is getting rid of them. But when Ramona Flowers skates into his heart, he finds she has the most troublesome baggage of all: an army of ex-boyfriends who will stop at nothing to eliminate him from her list of suitors.",
+    "tr": "Aynı isimli çizgi romandan uyarlanan filmde 22 yaşında ki Scott Pilgrim, kendisini terk eden ve başarılı bir şarkıcı olan kız arkadaşını unutamamıştır. Günlerini basgitar çaldığı garaj grubu Sex Bob-omb'la birlikte geçirmektedir. Scott’ın sıkıcı ve tek düze hayatı hayallerinin kızı Ramona V. Flowers ile karşılaşınca bir anda değişir. Scott’ın, hayallerinin kızıyla birlikte olabilmesinin önündeki tek engel Ramona'nın süper güçlere sahip yedi eski sevgilisidir."
+  },
+  "poster": {
+    "tr": "/tflwSsiawkKP7IDzjI5J05AIFMQ.jpg",
+    "en": "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg"
+  },
+  "backdrops": [
+    "/rl6TA8Hhvc3f5LR59WiCBo9QxSa.jpg",
+    "/7W9xm2YTq54rfLFimIniMrywShv.jpg",
+    "/rUAZnGMgISkZYJU8o7kuSNj3mPl.jpg",
+    "/y8PiciKEA6U2auHwTM788o0KAYq.jpg",
+    "/4jSTo5o597cURiEROqi9pVCCSbg.jpg",
+    "/6R9nT6m8wmzayV5XOQq3TRA6yZw.jpg",
+    "/zszlFPLwtrAUx8UcADa9YSHPTMO.jpg",
+    "/6nsQZwOUA8lYAKij6Z362iJ3PMh.jpg",
+    "/7zwngyl6Cg4NeD4AIOfpXgrcDv6.jpg",
+    "/6xFHBGiTSO89BW2QLzaN6xJgew8.jpg"
+  ],
+  "trailerKey": "j66qP9Larlg",
+  "genreIds": [
+    28,
+    35,
+    10749
+  ],
+  "keywordIds": [
+    282,
+    390,
+    1594,
+    1595,
+    4227,
+    11321,
+    13043,
+    14600,
+    14602,
+    18712,
+    155939,
+    170335,
+    175297,
+    175301,
+    175316,
+    175322,
+    179430,
+    240257,
+    252954,
+    309029
+  ],
+  "countries": [
+    "JP",
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Marc Platt Productions",
+    "Big Talk Studios",
+    "Closed on Mondays Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 58744,
+      "job": "writer"
+    },
+    {
+      "personId": 957038,
+      "job": "composer"
+    },
+    {
+      "personId": 11112,
+      "job": "producer"
+    },
+    {
+      "personId": 11090,
+      "job": "producer"
+    },
+    {
+      "personId": 68217,
+      "job": "producer"
+    },
+    {
+      "personId": 23485,
+      "job": "producer"
+    },
+    {
+      "personId": 11090,
+      "job": "director"
+    },
+    {
+      "personId": 11090,
+      "job": "writer"
+    },
+    {
+      "personId": 9341,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 39995,
+      "character": "Scott Pilgrim",
+      "order": 0
+    },
+    {
+      "personId": 17628,
+      "character": "Ramona Flowers",
+      "order": 1
+    },
+    {
+      "personId": 88902,
+      "character": "Knives Chau",
+      "order": 2
+    },
+    {
+      "personId": 18793,
+      "character": "Wallace Wells",
+      "order": 3
+    },
+    {
+      "personId": 17486,
+      "character": "Kim Pine",
+      "order": 4
+    },
+    {
+      "personId": 4451,
+      "character": "Stephen Stills",
+      "order": 5
+    },
+    {
+      "personId": 27104,
+      "character": "Young Neil",
+      "order": 6
+    },
+    {
+      "personId": 17881,
+      "character": "Gideon Graves",
+      "order": 7
+    },
+    {
+      "personId": 84223,
+      "character": "Stacey Pilgrim",
+      "order": 8
+    },
+    {
+      "personId": 119592,
+      "character": "Julie Powers",
+      "order": 9
+    },
+    {
+      "personId": 88903,
+      "character": "Matthew Patel",
+      "order": 10
+    },
+    {
+      "personId": 16828,
+      "character": "Lucas Lee",
+      "order": 11
+    },
+    {
+      "personId": 17271,
+      "character": "Todd Ingram",
+      "order": 12
+    },
+    {
+      "personId": 52404,
+      "character": "Roxy Richter",
+      "order": 13
+    },
+    {
+      "personId": 60073,
+      "character": "Envy Adams",
+      "order": 14
+    },
+    {
+      "personId": 1057765,
+      "character": "Kyle Katayanagi",
+      "order": 15
+    },
+    {
+      "personId": 1057749,
+      "character": "Ken Katayanagi",
+      "order": 16
+    },
+    {
+      "personId": 224724,
+      "character": "Party Goer",
+      "order": 17
+    },
+    {
+      "personId": 63862,
+      "character": "Party Goer",
+      "order": 18
+    },
+    {
+      "personId": 2013594,
+      "character": "Party Goer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 8987,
+  "sources": [
+    "cult-list"
+  ]
+}

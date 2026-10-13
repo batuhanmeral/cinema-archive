@@ -1,0 +1,103 @@
+{
+  "tmdbId": 14792,
+  "slug": "george-lucas-in-love-1999",
+  "year": 1999,
+  "runtime": 8,
+  "originalTitle": "George Lucas in Love",
+  "title": {
+    "en": "George Lucas in Love",
+    "tr": "George Lucas in Love"
+  },
+  "overview": {
+    "en": "1967 film student George Lucas has writer's block trying to finish his \"Space Wheat\" script, until a beautiful fellow student with a familiar hairstyle teaches him that the best stories are in plain sight.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/umumYQuZjFvC1TLzclBesdIuaFR.jpg",
+    "en": "/umumYQuZjFvC1TLzclBesdIuaFR.jpg"
+  },
+  "backdrops": [
+    "/A7n0QFKhiFtIKsNIjgAFrBr29ZO.jpg",
+    "/yP7YsuhwtQ2Be2pTG6kqvrUL3Xx.jpg",
+    "/m89tpP95p3tl9eugFGM2DxSggAI.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    35,
+    10749
+  ],
+  "keywordIds": [],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Quality Films Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 54597,
+      "job": "director"
+    },
+    {
+      "personId": 132316,
+      "job": "writer"
+    },
+    {
+      "personId": 54597,
+      "job": "writer"
+    },
+    {
+      "personId": 2274888,
+      "job": "producer"
+    },
+    {
+      "personId": 54600,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 60068,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 59891,
+      "character": "George Lucas",
+      "order": 0
+    },
+    {
+      "personId": 8987,
+      "character": "Marion",
+      "order": 1
+    },
+    {
+      "personId": 132317,
+      "character": "Benji",
+      "order": 2
+    },
+    {
+      "personId": 132318,
+      "character": "Aaron",
+      "order": 3
+    },
+    {
+      "personId": 132319,
+      "character": "Professor",
+      "order": 4
+    },
+    {
+      "personId": 167098,
+      "character": "Mother",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 79,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "tmdbId": 46688,
+  "slug": "the-dawn-patrol-1938",
+  "year": 1938,
+  "runtime": 103,
+  "originalTitle": "The Dawn Patrol",
+  "title": {
+    "en": "The Dawn Patrol",
+    "tr": "The Dawn Patrol"
+  },
+  "overview": {
+    "en": "In 1915 France, Major Brand commands the 39th Squadron of the Royal Flying Corps. The young airmen go up in bullet-riddled \"crates\" and the casualty rate is appalling, but Brand can't make the \"brass hats\" at headquarters see reason. Insubordinate air ace Captain Courtney is another thorn in Brand's side...but finds the smile wiped from his face when he rises to command the squadron himself. Everyone keeps a stiff upper lip.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ncrQ21mjMTznDZDTmAcT3j5berB.jpg",
+    "en": "/ncrQ21mjMTznDZDTmAcT3j5berB.jpg"
+  },
+  "backdrops": [
+    "/bbTVFFCIywOuyBWHwDoES2DvgU1.jpg",
+    "/c2lP10UnZ4UINtrqAYmMPyQWhbG.jpg",
+    "/xN6opXDPC1WuAZlqRx3GEp0ZESA.jpg",
+    "/f2ab0DimIEltFzPrqsSVqMFUxBe.jpg",
+    "/h5HjNTzERCEBVeaIXEGvmwl4hnu.jpg",
+    "/9EoCCHXIiXVnvGAooP93bJQCp02.jpg",
+    "/5iTIRrxTz153EyO9dzTmqADwIre.jpg"
+  ],
+  "trailerKey": "RGQYpP60J70",
+  "genreIds": [
+    28,
+    18,
+    10752
+  ],
+  "keywordIds": [
+    392,
+    74,
+    2504,
+    323,
+    2532,
+    3779,
+    10399,
+    210184
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "de",
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 34740,
+      "job": "director"
+    },
+    {
+      "personId": 67428,
+      "job": "writer"
+    },
+    {
+      "personId": 103893,
+      "job": "writer"
+    },
+    {
+      "personId": 3249,
+      "job": "composer"
+    },
+    {
+      "personId": 8713,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8724,
+      "character": "Capt. Courtney",
+      "order": 0
+    },
+    {
+      "personId": 8727,
+      "character": "Maj. Brand",
+      "order": 1
+    },
+    {
+      "personId": 14261,
+      "character": "Lt. Scott",
+      "order": 2
+    },
+    {
+      "personId": 8841,
+      "character": "Phipps",
+      "order": 3
+    },
+    {
+      "personId": 8730,
+      "character": "Sgt. Watkins",
+      "order": 4
+    },
+    {
+      "personId": 13820,
+      "character": "Bott",
+      "order": 5
+    },
+    {
+      "personId": 87546,
+      "character": "Hauptmann Von Mueller",
+      "order": 6
+    },
+    {
+      "personId": 81938,
+      "character": "Hollister",
+      "order": 7
+    },
+    {
+      "personId": 113759,
+      "character": "Donnie Scott",
+      "order": 8
+    },
+    {
+      "personId": 1728932,
+      "character": "Capt. Squires",
+      "order": 9
+    },
+    {
+      "personId": 14453,
+      "character": "Flaherty - Motorcycle Driver",
+      "order": 10
+    },
+    {
+      "personId": 137260,
+      "character": "Bentham",
+      "order": 11
+    },
+    {
+      "personId": 121095,
+      "character": "Scott's Mechanic",
+      "order": 12
+    },
+    {
+      "personId": 80546,
+      "character": "Major Brand's Orderly",
+      "order": 13
+    },
+    {
+      "personId": 137261,
+      "character": "Aeronautic Supervisor",
+      "order": 14
+    },
+    {
+      "personId": 1471409,
+      "character": "Gregory",
+      "order": 15
+    },
+    {
+      "personId": 1349156,
+      "character": "Orderly",
+      "order": 16
+    },
+    {
+      "personId": 1471343,
+      "character": "'B' Flight Replacement",
+      "order": 17
+    },
+    {
+      "personId": 111827,
+      "character": "Running Man on Airfield",
+      "order": 18
+    },
+    {
+      "personId": 120444,
+      "character": "Soldier",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 47,
+  "sources": [
+    "cult-list"
+  ]
+}

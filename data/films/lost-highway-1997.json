@@ -1,0 +1,225 @@
+{
+  "tmdbId": 638,
+  "slug": "lost-highway-1997",
+  "year": 1997,
+  "runtime": 134,
+  "originalTitle": "Lost Highway",
+  "title": {
+    "en": "Lost Highway",
+    "tr": "Kayıp Otoban"
+  },
+  "overview": {
+    "en": "A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelgängers, and an impossible transformation inside a prison cell.",
+    "tr": "Fred Madison, karısının gecmişinden habersiz olarak onunla evlenmiştir. Ancak bu geçmiş onları rahat bırakmayacaktır. Sonuçta iş bir cinayet ve Fred’in kişilik bölünmesi yaşamasına kadar gidecektir. Bir korku hikayesi, bir cinayet bilmecesi, namlunun ucuyla buluşan bir aldatma, psikolojik bozukluğun analizi…"
+  },
+  "poster": {
+    "tr": "/rkOXfWfNHI9MJIrPPthsGFG0Cn4.jpg",
+    "en": "/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg"
+  },
+  "backdrops": [
+    "/78gVOKZBL4gI2AWXex53q7tFqL3.jpg",
+    "/5v3Iubz9lkZwMEG17j0RHPLcwvx.jpg",
+    "/77GJuRgBByi9TNgGXEex2ZCrHxR.jpg",
+    "/tS9TGIEtAzpujUpi8xsjYNQOIoy.jpg",
+    "/3ADhFW71QYmv4bsUmRq6xOymx39.jpg",
+    "/hGnJhGSeyWlerHcLNnD06sbX5wU.jpg",
+    "/z6s4yOM9T0lEHw4VAqplVsSoImV.jpg",
+    "/dISUgfltLufEDP3KKcHdApPlg7e.jpg",
+    "/69vunP9jK3AF22oUItfuUeI8Ohs.jpg",
+    "/ukeaH6AV9oznJGnBVrB3pjQ59Gl.jpg"
+  ],
+  "trailerKey": "XmFgO2fJQuI",
+  "genreIds": [
+    18,
+    53,
+    9648
+  ],
+  "keywordIds": [
+    378,
+    445,
+    931,
+    1566,
+    851,
+    3030,
+    6149,
+    2039,
+    3149,
+    6255,
+    2340,
+    2885,
+    1664,
+    3303,
+    2320,
+    2359,
+    2669,
+    4375,
+    2501,
+    3017,
+    3306,
+    3296,
+    3298,
+    3301,
+    3394,
+    9887,
+    9844,
+    9826,
+    12565,
+    12670,
+    161891,
+    177185,
+    284115,
+    325763
+  ],
+  "countries": [
+    "FR",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "CiBy 2000",
+    "Asymmetrical Productions"
+  ],
+  "crew": [
+    {
+      "personId": 6223,
+      "job": "producer"
+    },
+    {
+      "personId": 9573,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5604,
+      "job": "producer"
+    },
+    {
+      "personId": 8330,
+      "job": "producer"
+    },
+    {
+      "personId": 5602,
+      "job": "director"
+    },
+    {
+      "personId": 6586,
+      "job": "writer"
+    },
+    {
+      "personId": 5602,
+      "job": "writer"
+    },
+    {
+      "personId": 5628,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4687,
+      "character": "Renee Madison / Alice Wakefield",
+      "order": 0
+    },
+    {
+      "personId": 8984,
+      "character": "Fred Madison",
+      "order": 1
+    },
+    {
+      "personId": 9296,
+      "character": "Pete Dayton",
+      "order": 2
+    },
+    {
+      "personId": 9287,
+      "character": "Mystery Man",
+      "order": 3
+    },
+    {
+      "personId": 1162,
+      "character": "Mr. Eddy / Dick Laurent",
+      "order": 4
+    },
+    {
+      "personId": 9289,
+      "character": "Andy",
+      "order": 5
+    },
+    {
+      "personId": 3270,
+      "character": "Sheila",
+      "order": 6
+    },
+    {
+      "personId": 9309,
+      "character": "Arnie",
+      "order": 7
+    },
+    {
+      "personId": 2048,
+      "character": "Bill Dayton",
+      "order": 8
+    },
+    {
+      "personId": 9300,
+      "character": "Candace Dayton",
+      "order": 9
+    },
+    {
+      "personId": 6718,
+      "character": "Phil",
+      "order": 10
+    },
+    {
+      "personId": 1240,
+      "character": "Guard Johnny Mack",
+      "order": 11
+    },
+    {
+      "personId": 9290,
+      "character": "Guard Henry",
+      "order": 12
+    },
+    {
+      "personId": 1771,
+      "character": "Steve \"V\"",
+      "order": 13
+    },
+    {
+      "personId": 9306,
+      "character": "Teddy",
+      "order": 14
+    },
+    {
+      "personId": 9285,
+      "character": "Al",
+      "order": 15
+    },
+    {
+      "personId": 9286,
+      "character": "Ed",
+      "order": 16
+    },
+    {
+      "personId": 9288,
+      "character": "Party Girl",
+      "order": 17
+    },
+    {
+      "personId": 9291,
+      "character": "Guard Mike",
+      "order": 18
+    },
+    {
+      "personId": 9292,
+      "character": "Forewoman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3104,
+  "sources": [
+    "cult-list"
+  ]
+}

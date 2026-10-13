@@ -1,0 +1,212 @@
+{
+  "tmdbId": 15121,
+  "slug": "the-sound-of-music-1965",
+  "year": 1965,
+  "runtime": 174,
+  "originalTitle": "The Sound of Music",
+  "title": {
+    "en": "The Sound of Music",
+    "tr": "Neşeli Günler"
+  },
+  "overview": {
+    "en": "In the years before World War II, a tomboyish postulant at an Austrian abbey is hired as a governess in the home of a widowed naval captain with seven children and brings a new love of life and music into the home.",
+    "tr": "Eski bir rahibe, sert bir disiplinle yetişmiş Avusturyalı zengin bir dul adamın 7 çocuğuna mürebbiyelik yapmak için manastırı terk eder. Çocuklara yaşamın güzelliklerini ve müziğin eğlencelerini sunar. En nihayetinde babayı yumuşatır ve kalbini kazanır."
+  },
+  "poster": {
+    "tr": "/fAIkPvmlIsOAChA3lQIw6dg6Oz1.jpg",
+    "en": "/5qQTu2iGTiQ2UvyGp0beQAZ2rKx.jpg"
+  },
+  "backdrops": [
+    "/m5n1nguLC3pTJLPKhN5Ek0aNT6E.jpg",
+    "/ioQYjcRnU54ir5ltgyS7k53zw5x.jpg",
+    "/y9M9xO78SHf43pK5TOgfOeQRHXj.jpg",
+    "/i0Wr7Pw0BNrX33tZG5EiLcZkBnm.jpg",
+    "/xAY2bzrNGavHI7YpiKZROnZVAfR.jpg",
+    "/5D9wsIoGLbwbJ4wdvME6Gb6zJNK.jpg",
+    "/u07CUPs3YvU7EGC7qivwy7u3Qxl.jpg",
+    "/5MOthithlzilj8WkTV6ZrDOw0HH.jpg",
+    "/AwE6RPhQSh6XSn6xCSU4eEggaiu.jpg",
+    "/nugqIyvU8IxHBTrLuiRYYu9TYXQ.jpg"
+  ],
+  "trailerKey": "Q7wZClqWm_o",
+  "genreIds": [
+    18,
+    10751,
+    10402,
+    10749
+  ],
+  "keywordIds": [
+    836,
+    1956,
+    4344,
+    1201,
+    9672,
+    6383,
+    10181,
+    160175,
+    165468,
+    165470,
+    165472,
+    165492,
+    165493,
+    165495,
+    189422,
+    214548,
+    232892,
+    344907,
+    345689,
+    351089,
+    359894
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "studios": [
+    "Robert Wise Productions",
+    "Argyle Enterprises",
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 1744,
+      "job": "director"
+    },
+    {
+      "personId": 2637,
+      "job": "writer"
+    },
+    {
+      "personId": 2760,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 931310,
+      "job": "composer"
+    },
+    {
+      "personId": 98751,
+      "job": "composer"
+    },
+    {
+      "personId": 68137,
+      "job": "composer"
+    },
+    {
+      "personId": 1744,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5823,
+      "character": "Maria",
+      "order": 0
+    },
+    {
+      "personId": 290,
+      "character": "Captain Georg von Trapp",
+      "order": 1
+    },
+    {
+      "personId": 7331,
+      "character": "The Baroness",
+      "order": 2
+    },
+    {
+      "personId": 1041410,
+      "character": "Liesl von Trapp",
+      "order": 3
+    },
+    {
+      "personId": 29095,
+      "character": "Friedrich von Trapp",
+      "order": 4
+    },
+    {
+      "personId": 92691,
+      "character": "Louisa von Trapp",
+      "order": 5
+    },
+    {
+      "personId": 121640,
+      "character": "Brigitta von Trapp",
+      "order": 6
+    },
+    {
+      "personId": 1198142,
+      "character": "Marta von Trapp",
+      "order": 7
+    },
+    {
+      "personId": 1194314,
+      "character": "Gretl von Trapp",
+      "order": 8
+    },
+    {
+      "personId": 1243355,
+      "character": "Kurt von Trapp",
+      "order": 9
+    },
+    {
+      "personId": 29283,
+      "character": "Max Detweiler",
+      "order": 10
+    },
+    {
+      "personId": 88460,
+      "character": "Sister Margaretta",
+      "order": 11
+    },
+    {
+      "personId": 198948,
+      "character": "Sister Berthe",
+      "order": 12
+    },
+    {
+      "personId": 77895,
+      "character": "Mother Abbess",
+      "order": 13
+    },
+    {
+      "personId": 71781,
+      "character": "Herr Zeller",
+      "order": 14
+    },
+    {
+      "personId": 1016770,
+      "character": "Rolfe",
+      "order": 15
+    },
+    {
+      "personId": 10926,
+      "character": "Frau Schmidt",
+      "order": 16
+    },
+    {
+      "personId": 1198144,
+      "character": "Franz",
+      "order": 17
+    },
+    {
+      "personId": 187678,
+      "character": "Sister Sophia",
+      "order": 18
+    },
+    {
+      "personId": 1198143,
+      "character": "Sister Bernice",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 5
+  },
+  "voteCount": 3788,
+  "sources": [
+    "cult-list"
+  ]
+}

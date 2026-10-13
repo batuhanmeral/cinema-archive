@@ -1,0 +1,207 @@
+{
+  "tmdbId": 10585,
+  "slug": "child-s-play-1988",
+  "year": 1988,
+  "runtime": 87,
+  "originalTitle": "Child's Play",
+  "title": {
+    "en": "Child's Play",
+    "tr": "Çocuk Oyunu"
+  },
+  "overview": {
+    "en": "After being shot in a toy store, a serial killer transfers his soul into a Good Guy doll. A mother then gifts it to her six-year-old son Andy, which unleashes terror upon the city.",
+    "tr": "Chicago’nun güney taraflarında Charles Lee Ray adlı bir seri katil, Mike Norris adından bir dedektif tarafından vurulur. Gizlice bir oyuncak dükkanına girmeyi başaran Charles, ruhunu dükkandaki meşhur oyuncak “iyi insan”lardan birine aktarır. Chucky artık en kısa zamanda ruhunu tekrar aktarabileceği canlı bir kurban bulmalıdır. Karen Barclay, 6. yaşını kutlayacak olan oğlu Andy’e çok istediği “iyi insan” oyuncaklarından alamadığı için üzgündür. Karen ve en yakın arkadaşı Maggie, en sonunda aradıkları oyuncağı bir dükkanda bulurlar. O gece Maggie’nin Andy’e bakıcılık yapması gerekmektedir. Ancak Andy ve Maggy evde yalnız değillerdir. Chucky, kendini ilk kez o gece belli eder ve korkunç olaylar başlar."
+  },
+  "poster": {
+    "tr": "/iemRq70ClpacEWhduGQMXJYaA0h.jpg",
+    "en": "/wvpgvcWNkF2HLuTEMIM7K83MvZ.jpg"
+  },
+  "backdrops": [
+    "/edghRD7vw1XgWEpMLpGt1VSGB5w.jpg",
+    "/2wU0sE9sMC73CQOH3hSI5tdjezB.jpg",
+    "/pIyzuJCG1D5iqQIu1WzQ0KgQUPp.jpg",
+    "/fCsi39CuitAmLSUvUy1EWmKETNx.jpg",
+    "/zRBSOPNE00jwomqzpSzC12sHXDz.jpg",
+    "/bDnIpQHvr9YqCeDUsa8H4oWSTOF.jpg",
+    "/jU9i2PSNzZbOC8O3u8UACN2mDDO.jpg",
+    "/gWbZnEiMqp21BVa0ONRjZYOX6Pa.jpg",
+    "/upxEL5AVOric2eU993SjeibrOLy.jpg",
+    "/xPKd1LSmqxApsUKCbd5PtnFakQC.jpg"
+  ],
+  "trailerKey": "sjiyV8mtXiU",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    520,
+    1421,
+    1419,
+    3392,
+    3335,
+    6844,
+    9707,
+    9826,
+    10603,
+    10714,
+    12339,
+    14601,
+    14768,
+    15127,
+    33630,
+    156075,
+    180691,
+    187065,
+    240764,
+    251513,
+    273821,
+    283807,
+    325825
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "United Artists",
+    "David Kirschner Productions"
+  ],
+  "crew": [
+    {
+      "personId": 65677,
+      "job": "writer"
+    },
+    {
+      "personId": 65678,
+      "job": "writer"
+    },
+    {
+      "personId": 64796,
+      "job": "writer"
+    },
+    {
+      "personId": 13596,
+      "job": "producer"
+    },
+    {
+      "personId": 65681,
+      "job": "composer"
+    },
+    {
+      "personId": 2287,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 64796,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 65683,
+      "character": "Andy Barclay",
+      "order": 0
+    },
+    {
+      "personId": 2022,
+      "character": "Karen Barclay",
+      "order": 1
+    },
+    {
+      "personId": 1370,
+      "character": "Charles Lee Ray",
+      "order": 2
+    },
+    {
+      "personId": 14541,
+      "character": "Mike Norris",
+      "order": 3
+    },
+    {
+      "personId": 8900,
+      "character": "Maggie Peterson",
+      "order": 4
+    },
+    {
+      "personId": 12965,
+      "character": "Jack Santos",
+      "order": 5
+    },
+    {
+      "personId": 19139,
+      "character": "Dr. Ardmore",
+      "order": 6
+    },
+    {
+      "personId": 168323,
+      "character": "Eddie Caputo",
+      "order": 7
+    },
+    {
+      "personId": 148306,
+      "character": "Peddler",
+      "order": 8
+    },
+    {
+      "personId": 1816899,
+      "character": "Mr. Criswell",
+      "order": 9
+    },
+    {
+      "personId": 2613545,
+      "character": "News Reporter at Toy Store",
+      "order": 10
+    },
+    {
+      "personId": 1781067,
+      "character": "Dr. Death",
+      "order": 11
+    },
+    {
+      "personId": 42634,
+      "character": "Orderly",
+      "order": 12
+    },
+    {
+      "personId": 1504070,
+      "character": "Mona",
+      "order": 13
+    },
+    {
+      "personId": 2565617,
+      "character": "George",
+      "order": 14
+    },
+    {
+      "personId": 1877677,
+      "character": "Lucy",
+      "order": 15
+    },
+    {
+      "personId": 60676,
+      "character": "Male TV Newscaster",
+      "order": 16
+    },
+    {
+      "personId": 1325309,
+      "character": "Female TV Newscaster",
+      "order": 17
+    },
+    {
+      "personId": 3477009,
+      "character": "Bellevue Patient",
+      "order": 18
+    },
+    {
+      "personId": 3477010,
+      "character": "Bellevue Patient",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3545,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "tmdbId": 71520,
+  "slug": "last-woman-on-earth-1960",
+  "year": 1960,
+  "runtime": 71,
+  "originalTitle": "Last Woman on Earth",
+  "title": {
+    "en": "Last Woman on Earth",
+    "tr": "Last Woman on Earth"
+  },
+  "overview": {
+    "en": "Harold Gern, a shady businessman from New York, is spending a holiday in Puerto Rico with his attractive wife Evelyn. They are joined by Martin Joyce, Harold's lawyer, who has come to discuss the latest indictment. Harold invites him along on a boat trip during which all three try out some newly bought scuba diving equipment. When they resurface, they find out that the world has changed forever.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tgnBd04WHJvysZxf5MYmNTXitVL.jpg",
+    "en": "/zeSWK8AGppelOMqI7IR5qqwfHfY.jpg"
+  },
+  "backdrops": [
+    "/dNkHpAbaWkqDCC6wsgw7N2tBA3K.jpg",
+    "/2jgzEr2L6mAusgxu7HIoQOKgKhx.jpg",
+    "/hU1CLXQKyCzQliSipyCAas9xD38.jpg"
+  ],
+  "trailerKey": "wEAQV1zVDak",
+  "genreIds": [
+    878,
+    18,
+    9648
+  ],
+  "keywordIds": [
+    2041,
+    10617,
+    10792
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Roger Corman Productions",
+    "The Filmgroup"
+  ],
+  "crew": [
+    {
+      "personId": 102429,
+      "job": "director"
+    },
+    {
+      "personId": 11057,
+      "job": "writer"
+    },
+    {
+      "personId": 102429,
+      "job": "producer"
+    },
+    {
+      "personId": 91999,
+      "job": "composer"
+    },
+    {
+      "personId": 40392,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 117766,
+      "character": "Evelyn Gern",
+      "order": 0
+    },
+    {
+      "personId": 89038,
+      "character": "Harold Gern",
+      "order": 1
+    },
+    {
+      "personId": 11057,
+      "character": "Martin Joyce",
+      "order": 2
+    }
+  ],
+  "awards": {},
+  "voteCount": 63,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "tmdbId": 227,
+  "slug": "the-outsiders-1983",
+  "year": 1983,
+  "runtime": 91,
+  "originalTitle": "The Outsiders",
+  "title": {
+    "en": "The Outsiders",
+    "tr": "Dışarıdakiler"
+  },
+  "overview": {
+    "en": "In 1960s Tulsa, class divisions ignite a violent rivalry between the working-class Greasers and the privileged Socs. When a deadly encounter forces two Greasers, Ponyboy and Johnny, to flee, their struggle for survival and redemption exposes the fragile innocence and enduring bonds of youth on the wrong side of town.",
+    "tr": "1980'ler. Küçük bir kasabadaki Oklahomalı gençler ikiye bölünmüştür. Hayatın kendilerine pek bir gelecek sunmadığı Greasers ve genellikle zengin ailelerin çocuklarından oluşan Socs (Socials) iki ayrı çetedir. Greasers'lı iki delikanlı Ponnyboy ve Johnny Socs'lu iki güzel olan Cherry ve Marcia ile flört ettiklerinde, sonuç kaçınılmaz olur: çıkan kavgada Johnny, Socs'un ileri gelenlerinden Bob Sheldon'ı istemeden öldürür. İki genç hem intikam alacakları korkusuyla Socs'lardan hem de polisten saklanmak için kaçak hayatına başlarlar. Yaşayacakları şeyler, hem Ponnyboy'u hem de Johnny'yi tahmin edemeyecekleri kadar olgunlaştıracaktır."
+  },
+  "poster": {
+    "tr": "/hfN6dC9j5SShwbQvZp7xfCIXzAS.jpg",
+    "en": "/pl8Tf36TAOb2i561yPbQ9xl4P4D.jpg"
+  },
+  "backdrops": [
+    "/hpzbQDjl2yzf6MwrYOrbDJCmojc.jpg",
+    "/zE4QhjqT7Nr9Y0LPYaPtKHhM3GR.jpg",
+    "/4hknGQMa4bjVgwHw01tGGBeQf7D.jpg",
+    "/kzkVYK0NSQj9LRRjbQpLleBkJ2P.jpg",
+    "/zIix6zkLAYRPV3Kek6igLsx2rE6.jpg",
+    "/ttPLjJ8qRaQQsUZoUFYvYBuAUTj.jpg",
+    "/jLiGKXWPP3bOkMUlXuw9GEbYWle.jpg",
+    "/jBg6aBqzQVaXUJpIA1q5JevYuTB.jpg",
+    "/rnWBgQoCOOSumRndzt1ouj1piET.jpg",
+    "/cBHmZq5eaYnqWvPRHIXoJwAgN4U.jpg"
+  ],
+  "trailerKey": "3ud6PLVjY5Y",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    542,
+    818,
+    6272,
+    10683,
+    10726,
+    14857,
+    200552,
+    246466,
+    296608,
+    309029
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "American Zoetrope"
+  ],
+  "crew": [
+    {
+      "personId": 1776,
+      "job": "director"
+    },
+    {
+      "personId": 2871,
+      "job": "producer"
+    },
+    {
+      "personId": 2869,
+      "job": "writer"
+    },
+    {
+      "personId": 2872,
+      "job": "composer"
+    },
+    {
+      "personId": 2870,
+      "job": "producer"
+    },
+    {
+      "personId": 1258,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1776,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2878,
+      "character": "Ponyboy Curtis",
+      "order": 0
+    },
+    {
+      "personId": 2876,
+      "character": "Dallas Winston",
+      "order": 1
+    },
+    {
+      "personId": 2877,
+      "character": "Johnny Cade",
+      "order": 2
+    },
+    {
+      "personId": 723,
+      "character": "Darrel Curtis",
+      "order": 3
+    },
+    {
+      "personId": 2879,
+      "character": "Sodapop Curtis",
+      "order": 4
+    },
+    {
+      "personId": 2880,
+      "character": "Two-Bit Matthews",
+      "order": 5
+    },
+    {
+      "personId": 500,
+      "character": "Steve Randle",
+      "order": 6
+    },
+    {
+      "personId": 2881,
+      "character": "Tim Shepard",
+      "order": 7
+    },
+    {
+      "personId": 2882,
+      "character": "Cherry Valance",
+      "order": 8
+    },
+    {
+      "personId": 2883,
+      "character": "Bob Sheldon",
+      "order": 9
+    },
+    {
+      "personId": 2884,
+      "character": "Randy Anderson",
+      "order": 10
+    },
+    {
+      "personId": 2885,
+      "character": "Marcia",
+      "order": 11
+    },
+    {
+      "personId": 2887,
+      "character": "Buck Merrill",
+      "order": 12
+    },
+    {
+      "personId": 2886,
+      "character": "Jerry",
+      "order": 13
+    },
+    {
+      "personId": 98102,
+      "character": "Store Clerk",
+      "order": 14
+    },
+    {
+      "personId": 200406,
+      "character": "Greaser in Concession Stand",
+      "order": 15
+    },
+    {
+      "personId": 3580133,
+      "character": "Soc in Concession Stand",
+      "order": 16
+    },
+    {
+      "personId": 1769,
+      "character": "Little Girl",
+      "order": 17
+    },
+    {
+      "personId": 3580135,
+      "character": "Woman at Fire",
+      "order": 18
+    },
+    {
+      "personId": 3580136,
+      "character": "Nurse",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1632,
+  "sources": [
+    "cult-list"
+  ]
+}

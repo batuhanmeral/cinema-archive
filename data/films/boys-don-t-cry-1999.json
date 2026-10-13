@@ -1,0 +1,214 @@
+{
+  "tmdbId": 226,
+  "slug": "boys-don-t-cry-1999",
+  "year": 1999,
+  "runtime": 118,
+  "originalTitle": "Boys Don't Cry",
+  "title": {
+    "en": "Boys Don't Cry",
+    "tr": "Erkekler Ağlamaz"
+  },
+  "overview": {
+    "en": "A young transgender man explores his gender identity and searches for love in rural Nebraska.",
+    "tr": "Nebraska’nın Falls şehri, Brandon Teena (Hilary Swank) adındaki delikanlıyla ilgili dedikodularla çalkalanıyordu, tüm kadınların olduğu gibi tüm kasabalının da dikkatini ve ilgisini çekmişti. Karizmatik kişiliği ve masum yüzünün arkasında kocaman bir sır gizliyordu. O herkesin olduğunu zannettiği kişi değildi.  Her genç insan gibi hatalar yapıyordu ve bu hatalarını da çok pahalıya ödemek zorundaydı. Yeni sevgilisi Lana ve gözü pek arkadaşı John arasındaki sınırları yanlışlıkla aşınca sır, bir vahşetle ortaya çıktı.  Brandon Teena; hararetli bir aşık, toplumdan dışlanmış kimsesiz bir hayalperest, cesur bir hırsız ve haksızlığa uğramış trajik bir suçluydu.  Bu filmdeki rolü Hilary Swank’a bir Oscar ödülü kazandırdı, ancak Chloe Sevigny aday olduğu 'En İyi Yardımcı Aktrist' dalında ödül alamadı."
+  },
+  "poster": {
+    "tr": "/eB505ycEhFVfMwGglIzXNUyKAIs.jpg",
+    "en": "/mnnGtVKxDyLCsqfHC0WfXCJRJvR.jpg"
+  },
+  "backdrops": [
+    "/yV1s91RyHJIMIJ7KeyHsWJ0ayUv.jpg",
+    "/cFGE7Bx9ur6nAuc5v4x9If99Ugy.jpg",
+    "/u4i7hGgr1SX2D0RZ2KBTz6UaR8g.jpg",
+    "/fMT8OC9j3mez0zrz1GGJ1tzHIbZ.jpg",
+    "/AXdGsu60j8xd76qF6ntdBRiEJZ.jpg",
+    "/b9LqitVdJs9CGlvbnnOBrUibnrK.jpg",
+    "/7VFCBpXZ9JbStKRyftnVWJEPBod.jpg",
+    "/3lGstsFlv9eFr0lIqXpovrdQHyz.jpg",
+    "/5TtyFp7E26gXyiYlXfRxq6Q0z6L.jpg",
+    "/ysIOfldIUOj2MUyMSoyQBgHud0g.jpg"
+  ],
+  "trailerKey": "uxWt9rxNzjg",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    1415,
+    570,
+    1284,
+    9672,
+    9840,
+    9673,
+    9713,
+    9826,
+    18047,
+    160335,
+    187056,
+    191008,
+    194530,
+    205733,
+    208799,
+    210039,
+    210608,
+    315263
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Fox Searchlight Pictures",
+    "IFC Productions",
+    "Killer Films"
+  ],
+  "crew": [
+    {
+      "personId": 2863,
+      "job": "composer"
+    },
+    {
+      "personId": 2860,
+      "job": "producer"
+    },
+    {
+      "personId": 2864,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2861,
+      "job": "producer"
+    },
+    {
+      "personId": 2836,
+      "job": "director"
+    },
+    {
+      "personId": 2862,
+      "job": "producer"
+    },
+    {
+      "personId": 2890,
+      "job": "producer"
+    },
+    {
+      "personId": 2837,
+      "job": "writer"
+    },
+    {
+      "personId": 2836,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 448,
+      "character": "Brandon Teena",
+      "order": 0
+    },
+    {
+      "personId": 2838,
+      "character": "Lana Tisdel",
+      "order": 1
+    },
+    {
+      "personId": 133,
+      "character": "John Lotter",
+      "order": 2
+    },
+    {
+      "personId": 2839,
+      "character": "Tom Nissen",
+      "order": 3
+    },
+    {
+      "personId": 78788,
+      "character": "Candace",
+      "order": 4
+    },
+    {
+      "personId": 2841,
+      "character": "Kate",
+      "order": 5
+    },
+    {
+      "personId": 2842,
+      "character": "Lana's Mom",
+      "order": 6
+    },
+    {
+      "personId": 2843,
+      "character": "Brian",
+      "order": 7
+    },
+    {
+      "personId": 2844,
+      "character": "Lonny",
+      "order": 8
+    },
+    {
+      "personId": 2845,
+      "character": "Nicole",
+      "order": 9
+    },
+    {
+      "personId": 2851,
+      "character": "Sheriff",
+      "order": 10
+    },
+    {
+      "personId": 2858,
+      "character": "Dave (Deputy)",
+      "order": 11
+    },
+    {
+      "personId": 2850,
+      "character": "Judge",
+      "order": 12
+    },
+    {
+      "personId": 2856,
+      "character": "Girl in Car",
+      "order": 13
+    },
+    {
+      "personId": 2857,
+      "character": "Nurse",
+      "order": 14
+    },
+    {
+      "personId": 2859,
+      "character": "Clerk",
+      "order": 15
+    },
+    {
+      "personId": 2846,
+      "character": "Trucker",
+      "order": 16
+    },
+    {
+      "personId": 2847,
+      "character": "Kwik Stop Cashier",
+      "order": 17
+    },
+    {
+      "personId": 2849,
+      "character": "April",
+      "order": 18
+    },
+    {
+      "personId": 4651894,
+      "character": "Trucker in Kwik Stop",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 1521,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "tmdbId": 11986,
+  "slug": "betty-blue-1986",
+  "year": 1986,
+  "runtime": 120,
+  "originalTitle": "37°2 le matin",
+  "title": {
+    "en": "Betty Blue",
+    "tr": "Sabah Ateşi 37°2"
+  },
+  "overview": {
+    "en": "A lackadaisical handyman and aspiring novelist tries to support his younger girlfriend as she slowly succumbs to madness.",
+    "tr": "Zorg, Fransa'da sahildeki bungalovların bakımından ve gözetiminden sorumlu olarak çalışan bir görevlidir. Sessiz, huzur dolu ve disiplinli bir yaşam sürmektedir ve boş zamanlarında yazmaktadır. Bir gün Betty hayatına girer. Betty, güzel olduğu kadar vahşi ve dengesizdir. Aniden, Betty'nin tehlikeli tavırları kontrolden çıkmaya başlar. Zorg, sevdiği kadının yavaş yavaş delirmek üzere olduğunu görür. İlişkileri dibe vurduğunda acaba Zorg'un aşkı kazanabilecek midir?"
+  },
+  "poster": {
+    "tr": "/dGkxgj2ozlD4yRtsJL35EUXegFv.jpg",
+    "en": "/1jTxGJpBprjThrRNhBkjZgyTyIY.jpg"
+  },
+  "backdrops": [
+    "/5azZDnSP9dnuejW3LLlP9BOl0rL.jpg",
+    "/hZVBkgxgezyKEkWIbPVLiWAOsrl.jpg",
+    "/xUW7mxvBbqfJlq0MrzbbAq2yycd.jpg",
+    "/cJDtwww7qsug8OJy9GqYX2yXZhf.jpg",
+    "/mO6hAevE3sKtfoHgiC2uAyUL9TQ.jpg",
+    "/68UvSxNV3vc5l5UcNF0ItR1sRYP.jpg",
+    "/9cmafwHk0NNtyZYRU0udUObcxku.jpg",
+    "/tB08f6ItPrk1JW4j2q4cgNeBaB.jpg",
+    "/dhm5uHSVB6BxhMyb9frnAIjj4qu.jpg",
+    "/jImklmj5JBh7OH5HWkLaXDr314.jpg"
+  ],
+  "trailerKey": "lRvPEJsM3aE",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    1824,
+    5091,
+    4280,
+    5836,
+    6846,
+    9016
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Cargo Films"
+  ],
+  "crew": [
+    {
+      "personId": 20791,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 37451,
+      "job": "director"
+    },
+    {
+      "personId": 37451,
+      "job": "writer"
+    },
+    {
+      "personId": 37451,
+      "job": "producer"
+    },
+    {
+      "personId": 5488,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7037,
+      "character": "Zorg",
+      "order": 0
+    },
+    {
+      "personId": 4813,
+      "character": "Betty",
+      "order": 1
+    },
+    {
+      "personId": 47337,
+      "character": "Eddy",
+      "order": 2
+    },
+    {
+      "personId": 71177,
+      "character": "Lisa",
+      "order": 3
+    },
+    {
+      "personId": 109516,
+      "character": "Annie",
+      "order": 4
+    },
+    {
+      "personId": 13692,
+      "character": "Bob",
+      "order": 5
+    },
+    {
+      "personId": 5443,
+      "character": "Richard le jeune policier",
+      "order": 6
+    },
+    {
+      "personId": 1505161,
+      "character": "Client de la pizzeria",
+      "order": 7
+    },
+    {
+      "personId": 145129,
+      "character": "Docteur",
+      "order": 8
+    },
+    {
+      "personId": 1669527,
+      "character": "Mario",
+      "order": 9
+    },
+    {
+      "personId": 21680,
+      "character": "Client de la pizzeria",
+      "order": 10
+    },
+    {
+      "personId": 39179,
+      "character": "Le vieux policier",
+      "order": 11
+    },
+    {
+      "personId": 1479975,
+      "character": "Maria",
+      "order": 12
+    },
+    {
+      "personId": 1669538,
+      "character": "Petit Nicolas",
+      "order": 13
+    },
+    {
+      "personId": 553629,
+      "character": "Vieux Georges",
+      "order": 14
+    },
+    {
+      "personId": 579321,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1669539,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1563172,
+      "character": "Deuxième locataire",
+      "order": 17
+    },
+    {
+      "personId": 1109346,
+      "character": "le marchand de légumes",
+      "order": 18
+    },
+    {
+      "personId": 1078953,
+      "character": "Propriétaire des Bungalows",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 492,
+  "sources": [
+    "cult-list"
+  ]
+}

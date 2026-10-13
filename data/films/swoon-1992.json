@@ -1,0 +1,142 @@
+{
+  "tmdbId": 54934,
+  "slug": "swoon-1992",
+  "year": 1992,
+  "runtime": 93,
+  "originalTitle": "Swoon",
+  "title": {
+    "en": "Swoon",
+    "tr": "Swoon"
+  },
+  "overview": {
+    "en": "Teenagers Nathan Leopold Jr. and Richard Loeb share a dangerous sexual bond and an amoral outlook on life. They spend afternoons breaking into storefronts and engaging in petty crimes, until the calculating Nathan ups the ante by kidnapping, and murdering, a young boy.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/aM9nXrWOJKh7JJ2I6GdxbDa3UC7.jpg",
+    "en": "/hgbeuxyPhyde8jV8AvZEalZ4OsG.jpg"
+  },
+  "backdrops": [
+    "/dU6UiVJN6MQH48cKBJufY8xpQgL.jpg",
+    "/yvcNXQHC77s0HV6pXMy0yKxMZuz.jpg",
+    "/eqAPtFXd2wCua0T9lAfLStsZh0H.jpg",
+    "/dqXVqsMmjCZDrq1L7R9DUgwshsu.jpg",
+    "/47K8tBcGCWCAsX3BoVTHxWAiywv.jpg",
+    "/qRY4NGajUxzUAzx84cBk08futQk.jpg",
+    "/cyyfltP5hDur4dJaJdFtvP5ubSL.jpg"
+  ],
+  "trailerKey": "Ebzul9IoH-c",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1013,
+    10180,
+    12999,
+    33722,
+    204152,
+    207876,
+    258533,
+    300642
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 66983,
+      "job": "director"
+    },
+    {
+      "personId": 2862,
+      "job": "producer"
+    },
+    {
+      "personId": 66983,
+      "job": "writer"
+    },
+    {
+      "personId": 1891108,
+      "job": "writer"
+    },
+    {
+      "personId": 313,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2020053,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 161985,
+      "character": "Richard Loeb",
+      "order": 0
+    },
+    {
+      "personId": 82769,
+      "character": "Nathan Leopold Jr.",
+      "order": 1
+    },
+    {
+      "personId": 32592,
+      "character": "State's Attorney Crowe",
+      "order": 2
+    },
+    {
+      "personId": 1738454,
+      "character": "Doctor Bowman",
+      "order": 3
+    },
+    {
+      "personId": 1643456,
+      "character": "Germaine Reinhardt",
+      "order": 4
+    },
+    {
+      "personId": 1236885,
+      "character": "Bobby Franks",
+      "order": 5
+    },
+    {
+      "personId": 118546,
+      "character": "Stenographer",
+      "order": 6
+    },
+    {
+      "personId": 16863,
+      "character": "Phrenology Head",
+      "order": 7
+    },
+    {
+      "personId": 57427,
+      "character": "Phrenology Head",
+      "order": 8
+    },
+    {
+      "personId": 17234,
+      "character": "Prison Mugshot",
+      "order": 9
+    },
+    {
+      "personId": 1099822,
+      "character": "Reporter",
+      "order": 10
+    },
+    {
+      "personId": 93568,
+      "character": "Detective Savage",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 34,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "tmdbId": 424,
+  "slug": "schindler-s-list-1993",
+  "year": 1993,
+  "runtime": 195,
+  "originalTitle": "Schindler's List",
+  "title": {
+    "en": "Schindler's List",
+    "tr": "Schindler'ın Listesi"
+  },
+  "overview": {
+    "en": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+    "tr": "Tüm zamanların tarihsel açıdan en önemli filmlerinden biri olan Steven Spielberg'in Schindler'ın Listesi, cesaret ve inanç dersleriyle nesiller boyu ilham vermeye devam eden güçlü bir hikaye. En İyi Film ve En İyi Yönetmen de dahil olmak üzere yedi Akademi Ödülü sahibi olan bu inanılmaz gerçek hikaye, Holokost sırasında 1.100'den fazla Yahudinin hayatını kurtaran esrarengiz Oskar Schindler'ı (Liam Neeson) konu alıyor. Bu, fark yaratan bir adamın zaferi ve yaptıkları sayesinde insanlık tarihinin en karanlık bölümlerinden birini atlatanların dramıdır."
+  },
+  "poster": {
+    "tr": "/2mOH8EqumIaepdP94e0cy4Xnyg7.jpg",
+    "en": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg"
+  },
+  "backdrops": [
+    "/loRmRzQXZeqG78TqZuyvSlEQfZb.jpg",
+    "/w2ezhZUk7ZJH9Mdk1Y6CTmaDRg5.jpg",
+    "/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+    "/rCfpnBNbPZ9UIkl3ktg48suWuf1.jpg",
+    "/3akIPnq3IYaUVy0ZgYEETR0WmBm.jpg",
+    "/zZtNb5DZ9QXTh3I4HXq9o9Phbs9.jpg",
+    "/ei5xjikx59WR2oDFl2lNLbtQHkx.jpg",
+    "/3MiaheHjzC7DrIpBbBbkfhKyMMn.jpg",
+    "/uNsripPOO8uL6iLdskCTQDKvhSg.jpg",
+    "/16DvS9Zb33wVJhy2F5XyS59kqJP.jpg"
+  ],
+  "trailerKey": "v0RB-3sWbBA",
+  "genreIds": [
+    18,
+    36,
+    10752
+  ],
+  "keywordIds": [
+    1382,
+    1701,
+    2652,
+    1631,
+    1799,
+    1739,
+    1956,
+    2394,
+    2433,
+    2446,
+    3599,
+    2450,
+    5565,
+    9672,
+    2456,
+    12995,
+    12999,
+    13008,
+    15060,
+    21747,
+    156075,
+    192772
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "de",
+    "pl",
+    "he",
+    "en"
+  ],
+  "studios": [
+    "Amblin Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 488,
+      "job": "producer"
+    },
+    {
+      "personId": 2260,
+      "job": "writer"
+    },
+    {
+      "personId": 2211,
+      "job": "producer"
+    },
+    {
+      "personId": 492,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 930,
+      "job": "producer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 488,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3896,
+      "character": "Oskar Schindler",
+      "order": 0
+    },
+    {
+      "personId": 2282,
+      "character": "Itzhak Stern",
+      "order": 1
+    },
+    {
+      "personId": 5469,
+      "character": "Amon Goeth",
+      "order": 2
+    },
+    {
+      "personId": 6692,
+      "character": "Emilie Schindler",
+      "order": 3
+    },
+    {
+      "personId": 6693,
+      "character": "Poldek Pfefferberg",
+      "order": 4
+    },
+    {
+      "personId": 6368,
+      "character": "Helen Hirsch",
+      "order": 5
+    },
+    {
+      "personId": 6694,
+      "character": "Viktoria Klonowska",
+      "order": 6
+    },
+    {
+      "personId": 6695,
+      "character": "Wilek Chilowicz",
+      "order": 7
+    },
+    {
+      "personId": 6696,
+      "character": "Marcel Goldberg",
+      "order": 8
+    },
+    {
+      "personId": 6697,
+      "character": "Ingrid",
+      "order": 9
+    },
+    {
+      "personId": 2829,
+      "character": "Julian Scherner",
+      "order": 10
+    },
+    {
+      "personId": 6698,
+      "character": "Rolf Czurda",
+      "order": 11
+    },
+    {
+      "personId": 6699,
+      "character": "Herman Toffel",
+      "order": 12
+    },
+    {
+      "personId": 6700,
+      "character": "Leo John",
+      "order": 13
+    },
+    {
+      "personId": 6701,
+      "character": "Albert Hujar",
+      "order": 14
+    },
+    {
+      "personId": 6702,
+      "character": "Mila Pfefferberg",
+      "order": 15
+    },
+    {
+      "personId": 1115699,
+      "character": "Juda Dresner",
+      "order": 16
+    },
+    {
+      "personId": 6704,
+      "character": "Chaja Dresner",
+      "order": 17
+    },
+    {
+      "personId": 6705,
+      "character": "Danka Dresner",
+      "order": 18
+    },
+    {
+      "personId": 6706,
+      "character": "Mordecai Wulkan",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 7,
+    "bafta": 1
+  },
+  "voteCount": 18118,
+  "sources": [
+    "cult-list"
+  ]
+}

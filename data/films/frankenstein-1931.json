@@ -1,0 +1,205 @@
+{
+  "tmdbId": 3035,
+  "slug": "frankenstein-1931",
+  "year": 1931,
+  "runtime": 70,
+  "originalTitle": "Frankenstein",
+  "title": {
+    "en": "Frankenstein",
+    "tr": "Frankenstein"
+  },
+  "overview": {
+    "en": "Obsessed scientist Dr. Henry Frankenstein attempts to create life by assembling a creature from deceased body parts. Aided by his loyal misshapen assistant, Fritz, Frankenstein succeeds in animating his monster, but it flees into the countryside and begins to wreak havoc.",
+    "tr": "Genç bilim adamı Henry Frankenstein gözlerden uzak şatosunda gizli bir deney üzerinde çalışmaktadır Amacı elektrik akımını kullanarak ölü bir bedene hayat vermektir Ancak yardımcısı, bu deney için normal bir insanın değil de bir suçlunun beynini getirince ortaya tuhaf bir canavar çıkar ve kaos başlar..."
+  },
+  "poster": {
+    "tr": "/mu6wHwH0IwCCaEYtpqujuPJYat1.jpg",
+    "en": "/gKaSFyd6HMTkXqU3UVVNWhVUiiO.jpg"
+  },
+  "backdrops": [
+    "/f8dR7lqN0U4USDjqu8LnxMWyWPB.jpg",
+    "/wFbPbJ9uRDpjY7micBTeolgkOA4.jpg",
+    "/5gcgkq5oQkrXqUJt6vrmTkUWG4a.jpg",
+    "/tyGLg0Tw7xZPgnuR2ctjCNgbjlF.jpg",
+    "/hZ9f2corJKDz0mp1RD6E7zBOsa0.jpg",
+    "/dcvkVYWgsH2oj5V5k8hG8UZxbv5.jpg",
+    "/f8gw8sWbHxJhf4qH4xOV7GRe0zw.jpg",
+    "/pKmyrvUryMgtVckGX4dYPKHjpMr.jpg",
+    "/lXo6Cfcs5CkYfNgBKCnjekP1uLi.jpg",
+    "/8FHmMH4mTkSTypqI70lxY14da2c.jpg"
+  ],
+  "trailerKey": "EEH5MZCewPQ",
+  "genreIds": [
+    18,
+    27,
+    878
+  ],
+  "keywordIds": [
+    657,
+    1299,
+    1706,
+    818,
+    3335,
+    10122,
+    10124,
+    10770,
+    12999,
+    156764,
+    157741,
+    160274,
+    162810,
+    171247,
+    174413,
+    209118,
+    210714,
+    218105,
+    238534,
+    258464,
+    269808,
+    311315,
+    325854
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "la"
+  ],
+  "studios": [
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 2005,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2917,
+      "job": "director"
+    },
+    {
+      "personId": 29806,
+      "job": "writer"
+    },
+    {
+      "personId": 1557,
+      "job": "producer"
+    },
+    {
+      "personId": 29807,
+      "job": "writer"
+    },
+    {
+      "personId": 29810,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2923,
+      "character": "Henry Frankenstein",
+      "order": 0
+    },
+    {
+      "personId": 29814,
+      "character": "Elizabeth",
+      "order": 1
+    },
+    {
+      "personId": 29815,
+      "character": "Victor Moritz",
+      "order": 2
+    },
+    {
+      "personId": 2922,
+      "character": "The Monster",
+      "order": 3
+    },
+    {
+      "personId": 1550,
+      "character": "Doctor Waldman",
+      "order": 4
+    },
+    {
+      "personId": 29816,
+      "character": "Baron Frankenstein",
+      "order": 5
+    },
+    {
+      "personId": 1549,
+      "character": "Fritz",
+      "order": 6
+    },
+    {
+      "personId": 29817,
+      "character": "The Burgomaster",
+      "order": 7
+    },
+    {
+      "personId": 1146154,
+      "character": "Little Maria",
+      "order": 8
+    },
+    {
+      "personId": 2936,
+      "character": "Villager (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 1486718,
+      "character": "Screaming Maid (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 1307855,
+      "character": "Villager (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 939913,
+      "character": "Bridesmaid (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1349137,
+      "character": "Gravedigger (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 30496,
+      "character": "Hans (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 581350,
+      "character": "Mourner (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 150947,
+      "character": "Little Girl (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1392743,
+      "character": "Little Girl (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1064924,
+      "character": "Mourner (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 30163,
+      "character": "Ludwig (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1879,
+  "sources": [
+    "cult-list"
+  ]
+}

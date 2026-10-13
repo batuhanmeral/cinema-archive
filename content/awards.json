@@ -1,1 +1,9 @@
-[{ "key": "oscar", "tr": "Oscar", "en": "Oscar", "qids": ["Q19020"] }]
+[
+  { "key": "oscar", "tr": "Oscar", "en": "Oscar", "qids": ["Q19020"] },
+  { "key": "cannes", "tr": "Cannes", "en": "Cannes", "qids": ["Q42369", "Q179808"] },
+  { "key": "venice", "tr": "Venedik", "en": "Venice", "qids": ["Q49024", "Q209459"] },
+  { "key": "berlin", "tr": "Berlin", "en": "Berlin", "qids": ["Q130871", "Q154590"] },
+  { "key": "bafta", "tr": "BAFTA", "en": "BAFTA", "qids": ["Q732997"] },
+  { "key": "golden-globe", "tr": "Altın Küre", "en": "Golden Globe", "qids": ["Q1011547"] },
+  { "key": "cesar", "tr": "César", "en": "César", "qids": ["Q174389"] }
+]

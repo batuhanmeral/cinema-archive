@@ -1,0 +1,183 @@
+{
+  "tmdbId": 22048,
+  "slug": "foxy-brown-1974",
+  "year": 1974,
+  "runtime": 94,
+  "originalTitle": "Foxy Brown",
+  "title": {
+    "en": "Foxy Brown",
+    "tr": "Foxy Brown"
+  },
+  "overview": {
+    "en": "A voluptuous black woman takes a job as a high-class prostitute in order to get revenge on the mobsters who murdered her boyfriend.",
+    "tr": "Sevimli siyah bir kadın, sevgilisini öldüren haydutları intikam almak için üst sınıf bir fahişe olarak çalışıyor."
+  },
+  "poster": {
+    "tr": "/d0K6SWsZi1VrZm6nALMY4Y1PxZq.jpg",
+    "en": "/d0K6SWsZi1VrZm6nALMY4Y1PxZq.jpg"
+  },
+  "backdrops": [
+    "/fBbaoVkZjzmF3Rea40xz87qwwf3.jpg",
+    "/qf6Y1lDrlkJhJ04NCw0SEJ6NCNN.jpg",
+    "/cU4oxfq4DxIoiTMEufFznRKkPEy.jpg",
+    "/s3YxbbVOinfTg2oKM7xYxvk15pM.jpg",
+    "/4RpjVJiAbgvKnKWnKlJWD0WD6lZ.jpg",
+    "/9FqGwLwXgfBaVoM5opLDCpUJAlK.jpg",
+    "/RYmrNEBnAdCa376QLeOMiK4gXM.jpg",
+    "/sQDuQ03oHil7YfuCyUh91WTYml.jpg",
+    "/hjQsPnnazqk8nXobRoUgChqVIpL.jpg",
+    "/ePLTMMSf1TeWttDCRidP6c2giyX.jpg"
+  ],
+  "trailerKey": "sMJCorShtSc",
+  "genreIds": [
+    28,
+    80,
+    53
+  ],
+  "keywordIds": [
+    11494,
+    9748,
+    10601,
+    13059,
+    325815
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "American International Pictures",
+    "Hollywood West Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 31310,
+      "job": "director"
+    },
+    {
+      "personId": 31310,
+      "job": "writer"
+    },
+    {
+      "personId": 12882,
+      "job": "producer"
+    },
+    {
+      "personId": 103461,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 959671,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2230,
+      "character": "Foxy Brown",
+      "order": 0
+    },
+    {
+      "personId": 84878,
+      "character": "Link Brown",
+      "order": 1
+    },
+    {
+      "personId": 94127,
+      "character": "Steve Elias",
+      "order": 2
+    },
+    {
+      "personId": 94128,
+      "character": "Michael Anderson",
+      "order": 3
+    },
+    {
+      "personId": 94129,
+      "character": "Katherine Wall",
+      "order": 4
+    },
+    {
+      "personId": 19782,
+      "character": "Judge Fred Fenton",
+      "order": 5
+    },
+    {
+      "personId": 158052,
+      "character": "Roy",
+      "order": 6
+    },
+    {
+      "personId": 152586,
+      "character": "Tedesco",
+      "order": 7
+    },
+    {
+      "personId": 123347,
+      "character": "Claudia",
+      "order": 8
+    },
+    {
+      "personId": 73782,
+      "character": "George",
+      "order": 9
+    },
+    {
+      "personId": 92761,
+      "character": "Brandi",
+      "order": 10
+    },
+    {
+      "personId": 104582,
+      "character": "Jennifer",
+      "order": 11
+    },
+    {
+      "personId": 1221284,
+      "character": "Adams",
+      "order": 12
+    },
+    {
+      "personId": 5695,
+      "character": "Hays",
+      "order": 13
+    },
+    {
+      "personId": 2640266,
+      "character": "Deb",
+      "order": 14
+    },
+    {
+      "personId": 156869,
+      "character": "Oscar",
+      "order": 15
+    },
+    {
+      "personId": 3414,
+      "character": "Eddie",
+      "order": 16
+    },
+    {
+      "personId": 1560856,
+      "character": "Bunyan",
+      "order": 17
+    },
+    {
+      "personId": 1371346,
+      "character": "Vicki",
+      "order": 18
+    },
+    {
+      "personId": 108236,
+      "character": "Slauson",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 276,
+  "sources": [
+    "cult-list"
+  ]
+}

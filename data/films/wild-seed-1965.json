@@ -1,0 +1,119 @@
+{
+  "tmdbId": 277505,
+  "slug": "wild-seed-1965",
+  "year": 1965,
+  "runtime": 99,
+  "originalTitle": "Wild Seed",
+  "title": {
+    "en": "Wild Seed",
+    "tr": "Wild Seed"
+  },
+  "overview": {
+    "en": "A 17-year-old girl runs away from her east coast home, going west to Los Angeles to meet her biological father. She has learned from letters her mother kept that he was tragically separated from her before the girl's birth. On the road, she is protected and befriended by an independent-minded young drifter who helps her on her journey.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6QSyMHbqTzXaAhH7DY2N1GEpsLI.jpg",
+    "en": "/pxLXr4GLJJKXEsZQ4juFwtZPLv.jpg"
+  },
+  "backdrops": [
+    "/ysL0Lovq8YO27p6pNsO3mH6Decq.jpg",
+    "/rS7Un3lkfuYyhnmWD7Jo40BI7xC.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    708,
+    3344,
+    10809,
+    13017,
+    15291
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "Pennebaker Productions"
+  ],
+  "crew": [
+    {
+      "personId": 8217,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 54451,
+      "job": "director"
+    },
+    {
+      "personId": 1503299,
+      "job": "producer"
+    },
+    {
+      "personId": 214631,
+      "job": "writer"
+    },
+    {
+      "personId": 229862,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2536,
+      "character": "Bill \"Fargo\" Warren",
+      "order": 0
+    },
+    {
+      "personId": 1205538,
+      "character": "Daphne Collinge",
+      "order": 1
+    },
+    {
+      "personId": 121042,
+      "character": "Mr. Simms",
+      "order": 2
+    },
+    {
+      "personId": 112722,
+      "character": "James Collinge",
+      "order": 3
+    },
+    {
+      "personId": 157211,
+      "character": "Hobo",
+      "order": 4
+    },
+    {
+      "personId": 109777,
+      "character": "Mrs. Simms",
+      "order": 5
+    },
+    {
+      "personId": 10195,
+      "character": "Policeman",
+      "order": 6
+    },
+    {
+      "personId": 179314,
+      "character": "Constable",
+      "order": 7
+    },
+    {
+      "personId": 3091,
+      "character": "Bartender",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 11,
+  "sources": [
+    "cult-list"
+  ]
+}

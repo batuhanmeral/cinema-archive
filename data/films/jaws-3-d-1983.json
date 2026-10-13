@@ -1,0 +1,200 @@
+{
+  "tmdbId": 17692,
+  "slug": "jaws-3-d-1983",
+  "year": 1983,
+  "runtime": 98,
+  "originalTitle": "Jaws 3-D",
+  "title": {
+    "en": "Jaws 3-D",
+    "tr": "Jaws 3"
+  },
+  "overview": {
+    "en": "A giant thirty-five-foot shark becomes trapped in a SeaWorld theme park and it's up to the sons of police chief Brody to rescue everyone.",
+    "tr": "Florida Su Dünyası'nda çalışan bir grup biyolog yavru bir köpekbalığı bulurlar ve deniz canlılarını sergiledikleri havuzda ziyaretçilerine göstermek için onu buraya getirirler ancak bu yavru kısa zaman içinde ölür."
+  },
+  "poster": {
+    "tr": "/kqDXj53F9paqVGJLGfHtz7giJ3s.jpg",
+    "en": "/jGU5GucRaNCQ3L16qI7kfWch5Bn.jpg"
+  },
+  "backdrops": [
+    "/qFvCT6nKMGGDBHaKw0XV1061VWH.jpg",
+    "/aJC36J0hKjKJwNjVhdDahhl8j7S.jpg",
+    "/mkTHOurFPTI0tobrregK7NpaLzy.jpg",
+    "/8nzqJWLepRQ5cARnsjoKPI4jo2n.jpg",
+    "/tAh0jXfmTCo7vFwZTev7c0PpPid.jpg",
+    "/z5gjZflqhBbjTc4oR4xxvlANObM.jpg",
+    "/6j3Nj7VwCEQp54NqPZRaufMICfH.jpg",
+    "/pqtt6PFK7Q4QIvGoe0zf0ONFpGD.jpg",
+    "/baG4dmyEIDSv3Ii25dCW9GedhAb.jpg",
+    "/7JfRjb6lEa1o2JiJ2HERSOjNkXC.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    53,
+    27
+  ],
+  "keywordIds": [
+    1196,
+    269,
+    630,
+    9663,
+    10503,
+    13031,
+    15058,
+    15097,
+    15098,
+    158108,
+    158252,
+    158340,
+    158345,
+    158350,
+    158353,
+    210597,
+    223059,
+    323812
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "MCA  Theatricals",
+    "Universal Pictures",
+    "Alan Landsburg Productions"
+  ],
+  "crew": [
+    {
+      "personId": 8558,
+      "job": "director"
+    },
+    {
+      "personId": 12415,
+      "job": "writer"
+    },
+    {
+      "personId": 8555,
+      "job": "writer"
+    },
+    {
+      "personId": 66807,
+      "job": "producer"
+    },
+    {
+      "personId": 104876,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1714546,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6065,
+      "character": "Mike Brody",
+      "order": 0
+    },
+    {
+      "personId": 29710,
+      "character": "Dr. Kathryn Morgan",
+      "order": 1
+    },
+    {
+      "personId": 24743,
+      "character": "Philip FitzRoyce",
+      "order": 2
+    },
+    {
+      "personId": 20959,
+      "character": "Calvin Bouchard",
+      "order": 3
+    },
+    {
+      "personId": 21475,
+      "character": "Sean Brody",
+      "order": 4
+    },
+    {
+      "personId": 1063,
+      "character": "Kelly Ann Bukowski",
+      "order": 5
+    },
+    {
+      "personId": 989,
+      "character": "Jack Tate",
+      "order": 6
+    },
+    {
+      "personId": 1296367,
+      "character": "Dan",
+      "order": 7
+    },
+    {
+      "personId": 1296368,
+      "character": "Liz",
+      "order": 8
+    },
+    {
+      "personId": 1296369,
+      "character": "Ethel",
+      "order": 9
+    },
+    {
+      "personId": 1296370,
+      "character": "Shelby Overman",
+      "order": 10
+    },
+    {
+      "personId": 1296371,
+      "character": "Silver Bullet",
+      "order": 11
+    },
+    {
+      "personId": 1296372,
+      "character": "Tunnel Guide",
+      "order": 12
+    },
+    {
+      "personId": 194357,
+      "character": "Bob Woodbury",
+      "order": 13
+    },
+    {
+      "personId": 40394,
+      "character": "Mrs. Kallender",
+      "order": 14
+    },
+    {
+      "personId": 1296373,
+      "character": "Leonard Glass",
+      "order": 15
+    },
+    {
+      "personId": 1296374,
+      "character": "Fred",
+      "order": 16
+    },
+    {
+      "personId": 1296375,
+      "character": "Sherrie",
+      "order": 17
+    },
+    {
+      "personId": 1296376,
+      "character": "Suzie",
+      "order": 18
+    },
+    {
+      "personId": 1296377,
+      "character": "Sheila",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1470,
+  "sources": [
+    "cult-list"
+  ]
+}

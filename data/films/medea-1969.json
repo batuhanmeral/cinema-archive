@@ -1,0 +1,198 @@
+{
+  "tmdbId": 26356,
+  "slug": "medea-1969",
+  "year": 1969,
+  "runtime": 118,
+  "originalTitle": "Medea",
+  "title": {
+    "en": "Medea",
+    "tr": "Medea"
+  },
+  "overview": {
+    "en": "Based on the plot of Euripides' Medea. Medea centers on the barbarian protagonist as she finds her position in the Greek world threatened, and the revenge she takes against her husband Jason who has betrayed her for another woman.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wkSDxihi8njeITBNWQJYfrNU7eA.jpg",
+    "en": "/wkSDxihi8njeITBNWQJYfrNU7eA.jpg"
+  },
+  "backdrops": [
+    "/pu3WQPG0uCu5CDSwxze1vMWhRfo.jpg",
+    "/lizfsqvYJhqScHpbkJhqHZJYubE.jpg",
+    "/ib13RxoXJ28IjcI3xKplNEkxTdq.jpg",
+    "/rYg7JCq2nLOeKHrk5JZ4jm8Utqm.jpg",
+    "/rxfkG2E58wJUsCF9VceJFJ9AJK9.jpg",
+    "/9r4zNXvrE3Z79Tb0AI9MByO3y3y.jpg",
+    "/2nPkPdctrTkt4KGdQFFHuhzZ0pN.jpg",
+    "/9iWlSOz2O09kRTTmvEbk74LwllX.jpg",
+    "/b0J3GX0WvHc97ccVuHCiDl5X83X.jpg",
+    "/olppcEHfR9sMMR6xUI4OKsd4NnW.jpg"
+  ],
+  "trailerKey": "HN-KHdL1Hs0",
+  "genreIds": [
+    18,
+    14
+  ],
+  "keywordIds": [
+    5809,
+    4720,
+    10181,
+    2036,
+    7019,
+    9748,
+    162861,
+    180909,
+    208018,
+    234934
+  ],
+  "countries": [
+    "FR",
+    "DE",
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Les Films Number One",
+    "Janus Film und Fernsehen",
+    "San Marco"
+  ],
+  "crew": [
+    {
+      "personId": 5970,
+      "job": "writer"
+    },
+    {
+      "personId": 5970,
+      "job": "director"
+    },
+    {
+      "personId": 43704,
+      "job": "producer"
+    },
+    {
+      "personId": 1059986,
+      "job": "producer"
+    },
+    {
+      "personId": 4954,
+      "job": "producer"
+    },
+    {
+      "personId": 1866048,
+      "job": "producer"
+    },
+    {
+      "personId": 26267,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 95221,
+      "character": "Medea",
+      "order": 0
+    },
+    {
+      "personId": 18340,
+      "character": "Creonte",
+      "order": 1
+    },
+    {
+      "personId": 24385,
+      "character": "Chirone",
+      "order": 2
+    },
+    {
+      "personId": 95222,
+      "character": "Giasone",
+      "order": 3
+    },
+    {
+      "personId": 95225,
+      "character": "Glauce",
+      "order": 4
+    },
+    {
+      "personId": 95227,
+      "character": "Pelias",
+      "order": 5
+    },
+    {
+      "personId": 95228,
+      "character": "Second Centaur",
+      "order": 6
+    },
+    {
+      "personId": 95229,
+      "character": "Apsirto, Medea's Brother",
+      "order": 7
+    },
+    {
+      "personId": 95230,
+      "character": "Argonaut",
+      "order": 8
+    },
+    {
+      "personId": 3217726,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 3217727,
+      "character": "Jason at 5",
+      "order": 10
+    },
+    {
+      "personId": 3217728,
+      "character": "Jason at 13",
+      "order": 11
+    },
+    {
+      "personId": 3217729,
+      "character": "Argonaut",
+      "order": 12
+    },
+    {
+      "personId": 3217730,
+      "character": "Argonaut",
+      "order": 13
+    },
+    {
+      "personId": 556757,
+      "character": "Wet Nurse",
+      "order": 14
+    },
+    {
+      "personId": 67321,
+      "character": "Woman",
+      "order": 15
+    },
+    {
+      "personId": 995741,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 3217731,
+      "character": "Glauce's Maid",
+      "order": 17
+    },
+    {
+      "personId": 1706561,
+      "character": "Servant of Glauce (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 99792,
+      "character": "(uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 196,
+  "sources": [
+    "cult-list"
+  ]
+}

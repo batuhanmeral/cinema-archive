@@ -1,0 +1,133 @@
+{
+  "tmdbId": 41954,
+  "slug": "hotel-terminus-the-life-and-times-of-klaus-barbie-1988",
+  "year": 1988,
+  "runtime": 268,
+  "originalTitle": "Hôtel Terminus: The Life and Times of Klaus Barbie",
+  "title": {
+    "en": "Hôtel Terminus: The Life and Times of Klaus Barbie",
+    "tr": "Hôtel Terminus: The Life and Times of Klaus Barbie"
+  },
+  "overview": {
+    "en": "Marcel Ophuls' riveting film details the heinous legacy of the Gestapo head dubbed \"The Butcher of Lyon.\" Responsible for over 4,000 deaths in occupied France during World War II, Barbie would escape—with U.S. help—to South America in 1951, where he lived until a global manhunt led to his 1983 arrest and subsequent trial.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gyU6I5h7K4M59QxFLCPJTMSzkDC.jpg",
+    "en": "/gyU6I5h7K4M59QxFLCPJTMSzkDC.jpg"
+  },
+  "backdrops": [
+    "/suxg30jaOoTLHQlvaz5ulUcxJQd.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    10752,
+    99
+  ],
+  "keywordIds": [
+    2652,
+    1739
+  ],
+  "countries": [
+    "DE",
+    "FR",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "studios": [
+    "Memory Pictures",
+    "The Samuel Goldwyn Company"
+  ],
+  "crew": [
+    {
+      "personId": 19789,
+      "job": "director"
+    },
+    {
+      "personId": 19789,
+      "job": "writer"
+    },
+    {
+      "personId": 22296,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 19789,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 226359,
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "personId": 19789,
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "personId": 1906927,
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "personId": 1906926,
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "personId": 127491,
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "personId": 1249611,
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "personId": 10251,
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "personId": 109353,
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "personId": 1797034,
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "personId": 20556,
+      "character": "Self",
+      "order": 9
+    },
+    {
+      "personId": 931782,
+      "character": "Self",
+      "order": 10
+    },
+    {
+      "personId": 145854,
+      "character": "Self",
+      "order": 11
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 40,
+  "sources": [
+    "cult-list"
+  ]
+}

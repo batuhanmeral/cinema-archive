@@ -1,0 +1,187 @@
+{
+  "tmdbId": 18215,
+  "slug": "boxing-helena-1993",
+  "year": 1993,
+  "runtime": 107,
+  "originalTitle": "Boxing Helena",
+  "title": {
+    "en": "Boxing Helena",
+    "tr": "Helena’yı Sarmak"
+  },
+  "overview": {
+    "en": "A top surgeon is besotted with a beautiful woman who once rebuffed him. Unable to come to terms with life without her, he tries to convince her that they need each other. She has other ideas, but a horrific accident leaves her at his mercy.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vgs0h94IllpZRheIjBTonjR7Zf2.jpg",
+    "en": "/fL8b32TY3Cxe661kztmzz5AlIM0.jpg"
+  },
+  "backdrops": [
+    "/lUJQIpDsnhicKAN7jIt6fqgE0WZ.jpg",
+    "/iiOfrrE9fwCrhmo8o5acrNJb5I7.jpg",
+    "/x8SlobH6Vnmgw75ZKz7FohrHjyr.jpg"
+  ],
+  "trailerKey": "QgsUUFYLSoQ",
+  "genreIds": [
+    18,
+    10749,
+    53
+  ],
+  "keywordIds": [
+    1566,
+    1930,
+    1523,
+    10048,
+    13005,
+    13063,
+    159278,
+    187056,
+    206219
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Mainline Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 14800,
+      "job": "director"
+    },
+    {
+      "personId": 14800,
+      "job": "writer"
+    },
+    {
+      "personId": 112746,
+      "job": "producer"
+    },
+    {
+      "personId": 364835,
+      "job": "producer"
+    },
+    {
+      "personId": 5912,
+      "job": "composer"
+    },
+    {
+      "personId": 15804,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11699,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6104,
+      "character": "Dr. Nick Cavanaugh",
+      "order": 0
+    },
+    {
+      "personId": 6681,
+      "character": "Helena",
+      "order": 1
+    },
+    {
+      "personId": 2053,
+      "character": "Ray O'Malley",
+      "order": 2
+    },
+    {
+      "personId": 64928,
+      "character": "Dr. Lawrence Augustine",
+      "order": 3
+    },
+    {
+      "personId": 112748,
+      "character": "Anne Garrett",
+      "order": 4
+    },
+    {
+      "personId": 2115,
+      "character": "Dr. Alan Harrison",
+      "order": 5
+    },
+    {
+      "personId": 106731,
+      "character": "Fantasy Lover / Nurse",
+      "order": 6
+    },
+    {
+      "personId": 102168,
+      "character": "Marion Cavanaugh",
+      "order": 7
+    },
+    {
+      "personId": 569897,
+      "character": "Patricia",
+      "order": 8
+    },
+    {
+      "personId": 152767,
+      "character": "Nurse Diane",
+      "order": 9
+    },
+    {
+      "personId": 4046,
+      "character": "Sam the Clerk",
+      "order": 10
+    },
+    {
+      "personId": 139623,
+      "character": "Pastor",
+      "order": 11
+    },
+    {
+      "personId": 569898,
+      "character": "Uncle Charlie",
+      "order": 12
+    },
+    {
+      "personId": 569899,
+      "character": "Flower Shop Girl",
+      "order": 13
+    },
+    {
+      "personId": 86812,
+      "character": "Mailman",
+      "order": 14
+    },
+    {
+      "personId": 569900,
+      "character": "Flashback Party Woman #1",
+      "order": 15
+    },
+    {
+      "personId": 205401,
+      "character": "Flashback Party Woman #2",
+      "order": 16
+    },
+    {
+      "personId": 164934,
+      "character": "Young Nick Cavanaugh",
+      "order": 17
+    },
+    {
+      "personId": 569901,
+      "character": "Laura (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 119223,
+      "character": "Russell (as Bryan Smith)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 266,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "tmdbId": 31742,
+  "slug": "il-posto-1961",
+  "year": 1961,
+  "runtime": 98,
+  "originalTitle": "Il posto",
+  "title": {
+    "en": "Il Posto",
+    "tr": "Il posto"
+  },
+  "overview": {
+    "en": "With his family mired in financial troubles, Domenico moves to Milan, Italy, from his small town to get a job in lieu of furthering his education. A lack of options forces him to take a position as a messenger at a big company, where he hopes to receive a promotion soon. There, Domenico meets Antonietta, a young woman in a similar situation as himself. The two form a tentative relationship, but the soulless nature of their jobs threatens to keep them apart.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wyUxfQCtcPxRzwJtFy0emtfkux8.jpg",
+    "en": "/wyUxfQCtcPxRzwJtFy0emtfkux8.jpg"
+  },
+  "backdrops": [
+    "/dwXW7OBbkXjsVdavPHqoPf1eFo6.jpg",
+    "/suP5OvMzfzEt0MHD61T1x2rk6xf.jpg",
+    "/6JeMlahcOTClUyAtwvvvAO75HyE.jpg",
+    "/1LTnufzhnpYjFtVnFzEOIp34dRT.jpg",
+    "/2qNKYbYSAWxA5DjZcbSzkTL0ela.jpg",
+    "/jjRpX9G1B9kOm9mx65HxiyyJa5O.jpg",
+    "/ppjh3kzfrdh4VznKFgpwDDge9Hv.jpg",
+    "/7n3vBwgf6g0gmuf15Z4qUp1xdEt.jpg"
+  ],
+  "trailerKey": "iYJwm4DlKU0",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    613,
+    188950,
+    215193,
+    253885
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "24 Horses",
+    "Titanus"
+  ],
+  "crew": [
+    {
+      "personId": 27213,
+      "job": "director"
+    },
+    {
+      "personId": 27213,
+      "job": "writer"
+    },
+    {
+      "personId": 125423,
+      "job": "writer"
+    },
+    {
+      "personId": 1820600,
+      "job": "producer"
+    },
+    {
+      "personId": 33859,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1820601,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 125424,
+      "character": "Antonietta Masetti",
+      "order": 0
+    },
+    {
+      "personId": 125425,
+      "character": "Domenico Cantoni",
+      "order": 1
+    },
+    {
+      "personId": 3317722,
+      "character": "Bit Part (uncredited)",
+      "order": 2
+    },
+    {
+      "personId": 3317723,
+      "character": "Bit Part (uncredited)",
+      "order": 3
+    },
+    {
+      "personId": 354606,
+      "character": "Psychologist (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 3317725,
+      "character": "Bit Part (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 1002677,
+      "character": "Domenico's Senior Fellow Colleague (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 1002678,
+      "character": "Portioli (uncredited)",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 192,
+  "sources": [
+    "cult-list"
+  ]
+}

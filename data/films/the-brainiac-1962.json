@@ -1,0 +1,182 @@
+{
+  "tmdbId": 42992,
+  "slug": "the-brainiac-1962",
+  "year": 1962,
+  "runtime": 77,
+  "originalTitle": "El barón del terror",
+  "title": {
+    "en": "The Brainiac",
+    "tr": "El barón del terror"
+  },
+  "overview": {
+    "en": "In 1661 Mexico, Baron Vitelius is executed for witchcraft. 300 years later, during a comet's return, he resurfaces as a brain-eating monster seeking revenge on the Inquisitors' descendants.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yCtRflp5RrPnxfOyLZCq09DVn1r.jpg",
+    "en": "/sIL7saGmZuI2xfhUYQx1sSqvhxv.jpg"
+  },
+  "backdrops": [
+    "/u2Ds1dgokW9khy6JalqwAt2ZlLu.jpg",
+    "/pIeAsdDGcifRsK6Ei7rA1v06LYR.jpg",
+    "/oYj4xLndnUjuZsW982Ke82k64NE.jpg",
+    "/be7yQvCOmjfjD4G5cRQunkVkMwO.jpg",
+    "/MdPG4zwXZDBlzj1L3BednxGqV2.jpg",
+    "/h3lFbZ8tJZ6Xlov1FTQRMg2uydD.jpg",
+    "/niorIwHUTAsc6Gv9PnJmWucM2aQ.jpg",
+    "/gjoHeKygk4nVD0kNcUHaANSUCt8.jpg",
+    "/k9dCs0qP81QNekGawthlhWG0UCE.jpg",
+    "/p1cFreC7SyztOfrue9N2mpreVQw.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    534,
+    1370
+  ],
+  "countries": [
+    "MX"
+  ],
+  "languages": [
+    "es"
+  ],
+  "studios": [
+    "Cinematográfica ABSA"
+  ],
+  "crew": [
+    {
+      "personId": 107285,
+      "job": "director"
+    },
+    {
+      "personId": 102272,
+      "job": "writer"
+    },
+    {
+      "personId": 107288,
+      "job": "producer"
+    },
+    {
+      "personId": 31218,
+      "job": "composer"
+    },
+    {
+      "personId": 1060522,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 107287,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 107288,
+      "character": "Baron Vitelius d'Estera",
+      "order": 0
+    },
+    {
+      "personId": 177785,
+      "character": "Bar girl",
+      "order": 1
+    },
+    {
+      "personId": 236273,
+      "character": "Detective inspector",
+      "order": 2
+    },
+    {
+      "personId": 100322,
+      "character": "Indalecio Pantoja",
+      "order": 3
+    },
+    {
+      "personId": 102280,
+      "character": "Prof. Saturnino Millán",
+      "order": 4
+    },
+    {
+      "personId": 107289,
+      "character": "Coroner",
+      "order": 5
+    },
+    {
+      "personId": 950969,
+      "character": "Señora Meneses",
+      "order": 6
+    },
+    {
+      "personId": 1028011,
+      "character": "Baltasar de Meneses / Luis Meneses",
+      "order": 7
+    },
+    {
+      "personId": 105149,
+      "character": "Reynaldo Miranda / Marcos Miranda",
+      "order": 8
+    },
+    {
+      "personId": 236225,
+      "character": "María de Pantoja",
+      "order": 9
+    },
+    {
+      "personId": 1468823,
+      "character": "Victoria Contreras",
+      "order": 10
+    },
+    {
+      "personId": 102299,
+      "character": "Lic. Francisco Coria",
+      "order": 11
+    },
+    {
+      "personId": 1664699,
+      "character": "Espectadora hoguera / Townswoman",
+      "order": 12
+    },
+    {
+      "personId": 102272,
+      "character": "Detective",
+      "order": 13
+    },
+    {
+      "personId": 1022838,
+      "character": "Doña Mariquita / Townswoman",
+      "order": 14
+    },
+    {
+      "personId": 2028888,
+      "character": "Ana Luisa del Vivar",
+      "order": 15
+    },
+    {
+      "personId": 2105366,
+      "character": "Bibliotecario",
+      "order": 16
+    },
+    {
+      "personId": 1364684,
+      "character": "Prostituta asesinada / prostitute",
+      "order": 17
+    },
+    {
+      "personId": 1043469,
+      "character": "Espectador hoguera",
+      "order": 18
+    },
+    {
+      "personId": 590229,
+      "character": "Álvaro de Contreras",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 52,
+  "sources": [
+    "cult-list"
+  ]
+}

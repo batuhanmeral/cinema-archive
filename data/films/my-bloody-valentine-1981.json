@@ -1,0 +1,197 @@
+{
+  "tmdbId": 39874,
+  "slug": "my-bloody-valentine-1981",
+  "year": 1981,
+  "runtime": 90,
+  "originalTitle": "My Bloody Valentine",
+  "title": {
+    "en": "My Bloody Valentine",
+    "tr": "Sevgililer Günü Laneti"
+  },
+  "overview": {
+    "en": "Twenty years after a Valentine's Day tragedy claimed the lives of five miners, Harry Warden returns for a vengeful massacre among teen sweethearts gearing up for another party.",
+    "tr": "Küçük bir madenci kasabası olan Nova Socia büyük bir Sevgililer Günü partisine hazırlanmaktadır. Bu parti 20 yıldan beri, küçük kasabada düzenlenecek ilk sevgililer günü partisi olacaktır. 20 yıl önce, en son düzenlenen parti sırasında bir kaza meydana gelmiş ve birçok madenci, tünellerdeki bir patlama sonucunda ölmüşlerdir. Bu kazanın nedeni, güvenlikten sorumlu vatandaşın işi gücü bırakıp partiye katılmış olmasıdır. Kazadan sağ salim kurtulabilen tek madenci olan Harry Warden daha sonra kafayı sıyırıp partiye katılan herkesi doğramıştır. Warden akıl hastanesine götürülürken kasabada sevgililer günü kutlanmaması konusunda geri kalanları uyarmıştır. Ancak aradan 20 yıl geçmiştir ve sevgililer bicir bicir böcekler gibi kıpraşmaya, iğrenç yuvalarından dışarı çıkıp dolanmaya başlamışlardır. Yalnız şu var ki, Harry Warden tepelerinden çok kötü bakacak, kalp şeklindeki hediye kutularının içlerine kaplerini dolduracaktır."
+  },
+  "poster": {
+    "tr": "/kl3mewFceFtYIavvGts2atzB0e0.jpg",
+    "en": "/kl3mewFceFtYIavvGts2atzB0e0.jpg"
+  },
+  "backdrops": [
+    "/dpzt9sJQ6ZPN3ksYmGGh4RyDNiQ.jpg",
+    "/wso6Mld6foDdIZOdrwztLENzSjW.jpg",
+    "/A87UdqTYps5YYEg9Z7DIeCPfzEQ.jpg",
+    "/81oriLzsDuoNtNn3UXL0rGy69Yb.jpg",
+    "/2ku9aEwL5hbwwTFq5fT6WrJGdSf.jpg",
+    "/l1SphYdCwCSsYhe5jFCY92NUkC6.jpg",
+    "/uBlTODmaZHEeksitGCSa6GZzXZv.jpg",
+    "/wJzrci061mgwWAegTS4ECFyR6Ts.jpg",
+    "/30hIcwt2K66zwsbP6pAWf8oEBg5.jpg",
+    "/zTBCHhuFeELE6NhKYJfMPtLI6gN.jpg"
+  ],
+  "trailerKey": "3TqauDE3Z2A",
+  "genreIds": [
+    27,
+    53
+  ],
+  "keywordIds": [
+    4781,
+    9826,
+    10714,
+    12339,
+    14805,
+    17987,
+    159287,
+    206850,
+    208115,
+    301096,
+    323756
+  ],
+  "countries": [
+    "CA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Secret Films",
+    "Canadian Film Development Corporation",
+    "Famous Players"
+  ],
+  "crew": [
+    {
+      "personId": 133793,
+      "job": "director"
+    },
+    {
+      "personId": 12700,
+      "job": "composer"
+    },
+    {
+      "personId": 103867,
+      "job": "producer"
+    },
+    {
+      "personId": 138868,
+      "job": "writer"
+    },
+    {
+      "personId": 31180,
+      "job": "producer"
+    },
+    {
+      "personId": 56983,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 133795,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 133797,
+      "character": "T.J.",
+      "order": 0
+    },
+    {
+      "personId": 44203,
+      "character": "Sarah",
+      "order": 1
+    },
+    {
+      "personId": 133798,
+      "character": "Axel",
+      "order": 2
+    },
+    {
+      "personId": 133799,
+      "character": "Hollis",
+      "order": 3
+    },
+    {
+      "personId": 184481,
+      "character": "Patty",
+      "order": 4
+    },
+    {
+      "personId": 16559,
+      "character": "Howard",
+      "order": 5
+    },
+    {
+      "personId": 133800,
+      "character": "Sylvia",
+      "order": 6
+    },
+    {
+      "personId": 131240,
+      "character": "Dave",
+      "order": 7
+    },
+    {
+      "personId": 87461,
+      "character": "Chief Jake Newby",
+      "order": 8
+    },
+    {
+      "personId": 133802,
+      "character": "John",
+      "order": 9
+    },
+    {
+      "personId": 133804,
+      "character": "Mike",
+      "order": 10
+    },
+    {
+      "personId": 133812,
+      "character": "The Miner / Harry Warden",
+      "order": 11
+    },
+    {
+      "personId": 133805,
+      "character": "Harriet",
+      "order": 12
+    },
+    {
+      "personId": 133808,
+      "character": "Tommy Whitcomb",
+      "order": 13
+    },
+    {
+      "personId": 133810,
+      "character": "Gretchen",
+      "order": 14
+    },
+    {
+      "personId": 93643,
+      "character": "Mabel",
+      "order": 15
+    },
+    {
+      "personId": 938430,
+      "character": "Mayor Hanniger",
+      "order": 16
+    },
+    {
+      "personId": 126565,
+      "character": "Happy",
+      "order": 17
+    },
+    {
+      "personId": 1221726,
+      "character": "Young Axel",
+      "order": 18
+    },
+    {
+      "personId": 76637,
+      "character": "Mrs. Raleigh",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 580,
+  "sources": [
+    "cult-list"
+  ]
+}

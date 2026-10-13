@@ -1,0 +1,69 @@
+{
+  "tmdbId": 296294,
+  "slug": "the-wormwood-star-1956",
+  "year": 1956,
+  "runtime": 10,
+  "originalTitle": "The Wormwood Star",
+  "title": {
+    "en": "The Wormwood Star",
+    "tr": "The Wormwood Star"
+  },
+  "overview": {
+    "en": "A portrait of artist, actress, poet and occultist Marjorie Cameron, presenting images of her paintings and recitations of her poems.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6Q3lEkW9WKVVbou16U8Qsw1qA8g.jpg",
+    "en": "/6Q3lEkW9WKVVbou16U8Qsw1qA8g.jpg"
+  },
+  "backdrops": [
+    "/yCE8XF41KGALs5y5g8ypuxw1VaR.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    14893,
+    156174,
+    171438,
+    228305
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 44725,
+      "job": "producer"
+    },
+    {
+      "personId": 44725,
+      "job": "director"
+    },
+    {
+      "personId": 1522457,
+      "job": "composer"
+    },
+    {
+      "personId": 1522458,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 121366,
+      "character": "The Woman",
+      "order": 0
+    }
+  ],
+  "awards": {},
+  "voteCount": 8,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "tmdbId": 9539,
+  "slug": "martyrs-2008",
+  "year": 2008,
+  "runtime": 99,
+  "originalTitle": "Martyrs",
+  "title": {
+    "en": "Martyrs",
+    "tr": "İşkence Odası"
+  },
+  "overview": {
+    "en": "A young woman’s quest for revenge against the people who kidnapped and tortured her as a child leads her and her best friend, also a victim of child abuse, on a terrifying journey into a living hell of depravity.",
+    "tr": "1970’lerin başında, Fransa’dayız. Birkaç ay önce kaybolan 10 yaşındaki küçük kız Lucie yolda başıboş dolaşırken bulunuyor. Vücuduna şiddet uygulanmış fakat hiçbir cinsel taciz izi yok ve kaçırılma nedenleri bir türlü açıklanamıyor. Şokta, kelimelerini kaybetmiş Lucie, bir hastaneye kaldırılıyor ve orada kendi yaşında Anna adında bir kızla arkadaş oluyor. 15 sene sonra… Sıradan bir ailenin kapısı çalar. Evin babası kapıyı açar ve elinde av tüfeğiyle bekleyen Lucie’yi karşısında bulur. İşkencecisini bulduğuna ikna olan Lucie tetiği çeker."
+  },
+  "poster": {
+    "tr": "/vcqbwm8Z0rdNHWokplN2JMbeKP6.jpg",
+    "en": "/40qDGpnpa3nGDe8w6tFfv8GXehl.jpg"
+  },
+  "backdrops": [
+    "/n8zvKDOUy4JwIzQArjoVBhVaPDp.jpg",
+    "/fO1hwjlUqDe1ixO7eMfxTby62Ut.jpg",
+    "/8DS016cUgx6hPvjsDvhzahHB07G.jpg",
+    "/5nFn3UDnudcW96k2MKl1dhJjz3I.jpg",
+    "/wGsUJHU7LBMHae6h40Ah2vEXElp.jpg",
+    "/7PzMIZkM8IJU6xDZB4DHTouHYvR.jpg",
+    "/vtPVngwoUUT5RZCUn8os9S6lGIH.jpg",
+    "/p76o7ulbl7hrxxpE2lprg9xsyr7.jpg",
+    "/jIfVYzPA0Z34rfa6n1za9sKXEeP.jpg",
+    "/28yadVSarQyArto0Lab9QE10JXw.jpg"
+  ],
+  "trailerKey": "1a9AgSIpobc",
+  "genreIds": [
+    27,
+    18,
+    53
+  ],
+  "keywordIds": [
+    516,
+    3032,
+    1541,
+    5360,
+    1941,
+    2822,
+    6158,
+    5083,
+    6997,
+    9748,
+    10772,
+    11729,
+    13006,
+    14624,
+    14903,
+    33489,
+    163048,
+    163165,
+    190142,
+    206219,
+    207691,
+    211082,
+    212423,
+    215169,
+    224663,
+    229800,
+    230052,
+    241580,
+    243608,
+    244904,
+    256318,
+    259376,
+    262175,
+    264386,
+    280115,
+    314615,
+    325546,
+    365846
+  ],
+  "countries": [
+    "FR",
+    "CA"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Wild Bunch",
+    "TCB Films",
+    "Eskwad"
+  ],
+  "crew": [
+    {
+      "personId": 994881,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 92203,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 51323,
+      "job": "producer"
+    },
+    {
+      "personId": 59611,
+      "job": "writer"
+    },
+    {
+      "personId": 1263195,
+      "job": "composer"
+    },
+    {
+      "personId": 976617,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 59611,
+      "job": "director"
+    },
+    {
+      "personId": 1263196,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 59612,
+      "character": "Anna Assaoui",
+      "order": 0
+    },
+    {
+      "personId": 20197,
+      "character": "Lucie Jurin",
+      "order": 1
+    },
+    {
+      "personId": 59614,
+      "character": "Mademoiselle",
+      "order": 2
+    },
+    {
+      "personId": 59615,
+      "character": "Father",
+      "order": 3
+    },
+    {
+      "personId": 59616,
+      "character": "Mother",
+      "order": 4
+    },
+    {
+      "personId": 59617,
+      "character": "Marie",
+      "order": 5
+    },
+    {
+      "personId": 143593,
+      "character": "Antoine",
+      "order": 6
+    },
+    {
+      "personId": 1152759,
+      "character": "Étienne",
+      "order": 7
+    },
+    {
+      "personId": 2771321,
+      "character": "Young Lucie",
+      "order": 8
+    },
+    {
+      "personId": 3366415,
+      "character": "Young Anna",
+      "order": 9
+    },
+    {
+      "personId": 282308,
+      "character": "Anna's Mother (voice)",
+      "order": 10
+    },
+    {
+      "personId": 107347,
+      "character": "Creature",
+      "order": 11
+    },
+    {
+      "personId": 3366417,
+      "character": "Torture Victim",
+      "order": 12
+    },
+    {
+      "personId": 1050987,
+      "character": "Doctor",
+      "order": 13
+    },
+    {
+      "personId": 59618,
+      "character": "Woman Executioner",
+      "order": 14
+    },
+    {
+      "personId": 59613,
+      "character": "Executioner",
+      "order": 15
+    },
+    {
+      "personId": 132541,
+      "character": "Henchwoman",
+      "order": 16
+    },
+    {
+      "personId": 3218448,
+      "character": "1st Henchman",
+      "order": 17
+    },
+    {
+      "personId": 1024250,
+      "character": "Henchman",
+      "order": 18
+    },
+    {
+      "personId": 2830514,
+      "character": "Henchman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3183,
+  "sources": [
+    "cult-list"
+  ]
+}

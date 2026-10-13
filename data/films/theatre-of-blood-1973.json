@@ -1,0 +1,187 @@
+{
+  "tmdbId": 28498,
+  "slug": "theatre-of-blood-1973",
+  "year": 1973,
+  "runtime": 104,
+  "originalTitle": "Theatre of Blood",
+  "title": {
+    "en": "Theatre of Blood",
+    "tr": "Theatre of Blood"
+  },
+  "overview": {
+    "en": "A Shakespearean actor takes poetic revenge on the critics who denied him recognition.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/jOmoAXkSL1NDBmR0GfyL3UJlOYn.jpg",
+    "en": "/umccIN3zZKBMxFPIXesMQPdlaCO.jpg"
+  },
+  "backdrops": [
+    "/1oz3oSYuOGV9VRziYNC7NnpDLXM.jpg",
+    "/3usrJIle0Mso1wI5VQCHrr8XlOT.jpg",
+    "/gu6tKhOsrlAtlwBaxLujFhhUVR1.jpg",
+    "/tg48RVURHSc2yEBDSnfFUjsfulm.jpg",
+    "/jDakpD8ULd6AVkJmqHD4ipLMRew.jpg",
+    "/9XjN72mTGqEQWIn4rdFm5Z3c8pB.jpg",
+    "/xqKShqEAEghTx7aRMkJxYvIt1tb.jpg",
+    "/bjyL6AQvCiNqeQFg1Ror8BWPMgb.jpg",
+    "/8Yh3dnDohmA4hFaEh8QBG8zGdlc.jpg"
+  ],
+  "trailerKey": "qaqv1JFqvps",
+  "genreIds": [
+    35,
+    27
+  ],
+  "keywordIds": [
+    5330,
+    9748,
+    11181,
+    18118,
+    156273,
+    191045
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Cineman Productions",
+    "Harbour Productions",
+    "United Artists"
+  ],
+  "crew": [
+    {
+      "personId": 100979,
+      "job": "director"
+    },
+    {
+      "personId": 100980,
+      "job": "writer"
+    },
+    {
+      "personId": 100981,
+      "job": "producer"
+    },
+    {
+      "personId": 58180,
+      "job": "producer"
+    },
+    {
+      "personId": 39968,
+      "job": "composer"
+    },
+    {
+      "personId": 100982,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1905,
+      "character": "Edward Lionheart",
+      "order": 0
+    },
+    {
+      "personId": 10168,
+      "character": "Edwina Lionheart",
+      "order": 1
+    },
+    {
+      "personId": 58339,
+      "character": "Peregrine Devlin",
+      "order": 2
+    },
+    {
+      "personId": 19463,
+      "character": "Trevor Dickman",
+      "order": 3
+    },
+    {
+      "personId": 87513,
+      "character": "Chloe Moon",
+      "order": 4
+    },
+    {
+      "personId": 92908,
+      "character": "Oliver Larding",
+      "order": 5
+    },
+    {
+      "personId": 10018,
+      "character": "Solomon Psaltery",
+      "order": 6
+    },
+    {
+      "personId": 39741,
+      "character": "George Maxwell",
+      "order": 7
+    },
+    {
+      "personId": 39024,
+      "character": "Horace Sprout",
+      "order": 8
+    },
+    {
+      "personId": 6599,
+      "character": "Meredith Merridew",
+      "order": 9
+    },
+    {
+      "personId": 30766,
+      "character": "Hector Snipe",
+      "order": 10
+    },
+    {
+      "personId": 47137,
+      "character": "Inspector Boot",
+      "order": 11
+    },
+    {
+      "personId": 20053,
+      "character": "Sergeant Dogge",
+      "order": 12
+    },
+    {
+      "personId": 30577,
+      "character": "Rosemary",
+      "order": 13
+    },
+    {
+      "personId": 94156,
+      "character": "Maisie Psaltery",
+      "order": 14
+    },
+    {
+      "personId": 11135,
+      "character": "Mrs. Sprout",
+      "order": 15
+    },
+    {
+      "personId": 20055,
+      "character": "Mrs. Maxwell",
+      "order": 16
+    },
+    {
+      "personId": 1959833,
+      "character": "Policeman",
+      "order": 17
+    },
+    {
+      "personId": 20106,
+      "character": "Policeman",
+      "order": 18
+    },
+    {
+      "personId": 1771722,
+      "character": "Vicar",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 261,
+  "sources": [
+    "cult-list"
+  ]
+}

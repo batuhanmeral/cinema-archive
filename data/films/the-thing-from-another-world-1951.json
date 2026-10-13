@@ -1,0 +1,198 @@
+{
+  "tmdbId": 10785,
+  "slug": "the-thing-from-another-world-1951",
+  "year": 1951,
+  "runtime": 87,
+  "originalTitle": "The Thing from Another World",
+  "title": {
+    "en": "The Thing from Another World",
+    "tr": "Başka Dünyadan Gelen Şey"
+  },
+  "overview": {
+    "en": "Scientists and US Air Force officials fend off a blood-thirsty alien organism while investigating at a remote arctic outpost.",
+    "tr": "Yeşil suratlı ve vücutlu bir uzaylı yaratığın peşine düşen Amerikan ordusunun hikayesi. John Carpenter’ın “Şey”inin esin kaynağı. Kapalı alanda korku ve gerilim üzerine tür adına ilk filmlerden."
+  },
+  "poster": {
+    "tr": "/rm2w8dEhOGDuckB6i0Spz9lTzpR.jpg",
+    "en": "/rm2w8dEhOGDuckB6i0Spz9lTzpR.jpg"
+  },
+  "backdrops": [
+    "/30aHDHSHGX4HEeKlrgCwhTU72QP.jpg",
+    "/rbdz5Ahd9s1SpxhP6R0xXwZhu9h.jpg",
+    "/tbzohBcArneiwMw8Ia66kOh7eVZ.jpg",
+    "/2slYtZWkQhYSYUUGyn7deHVXbyV.jpg",
+    "/z9BRTC8YHu2pVJgZGpbmE1pwJVa.jpg",
+    "/3UxvjhSJaoXo9lSRSmDA0fdZwfr.jpg",
+    "/vbEL5nsPg4Dj6zvjbW8JCOz21hn.jpg",
+    "/9rQefYLv1JtbAx0OufQbwGtOE8p.jpg",
+    "/zYXnO9CwtjUC62rcfCC5V3x3d4y.jpg",
+    "/hGpAbz5N8bQVkv6ueaVPGfBAZbl.jpg"
+  ],
+  "trailerKey": "vs2lXH1aFZ0",
+  "genreIds": [
+    18,
+    27,
+    878
+  ],
+  "keywordIds": [
+    3243,
+    818,
+    3203,
+    4713,
+    6417,
+    8721,
+    10349,
+    12999,
+    14909,
+    34154,
+    50009,
+    320130
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Winchester Pictures Corporation",
+    "RKO Radio Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 13973,
+      "job": "director"
+    },
+    {
+      "personId": 11435,
+      "job": "producer"
+    },
+    {
+      "personId": 4082,
+      "job": "composer"
+    },
+    {
+      "personId": 4358,
+      "job": "writer"
+    },
+    {
+      "personId": 4308,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11435,
+      "job": "writer"
+    },
+    {
+      "personId": 4341,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 103069,
+      "character": "Captain Patrick Hendry",
+      "order": 0
+    },
+    {
+      "personId": 66781,
+      "character": "Nikki",
+      "order": 1
+    },
+    {
+      "personId": 56444,
+      "character": "Dr. Arthur Carrington",
+      "order": 2
+    },
+    {
+      "personId": 12356,
+      "character": "Ned 'Scotty' Scott",
+      "order": 3
+    },
+    {
+      "personId": 1594224,
+      "character": "Lt. Eddie Dykes",
+      "order": 4
+    },
+    {
+      "personId": 83314,
+      "character": "Crew Chief Bob",
+      "order": 5
+    },
+    {
+      "personId": 12357,
+      "character": "Lt. Ken 'Mac' Erickson",
+      "order": 6
+    },
+    {
+      "personId": 49929,
+      "character": "Corporal Barnes",
+      "order": 7
+    },
+    {
+      "personId": 1811906,
+      "character": "Tex Richards",
+      "order": 8
+    },
+    {
+      "personId": 94070,
+      "character": "Dr. Stern",
+      "order": 9
+    },
+    {
+      "personId": 165744,
+      "character": "Dr. Redding",
+      "order": 10
+    },
+    {
+      "personId": 16417,
+      "character": "Prof. Voorhees",
+      "order": 11
+    },
+    {
+      "personId": 179352,
+      "character": "Prof. Wilson",
+      "order": 12
+    },
+    {
+      "personId": 30979,
+      "character": "Dr. Lorenz",
+      "order": 13
+    },
+    {
+      "personId": 81291,
+      "character": "Prof. Ambrose",
+      "order": 14
+    },
+    {
+      "personId": 29645,
+      "character": "Dr. Chapman",
+      "order": 15
+    },
+    {
+      "personId": 1811907,
+      "character": "Mrs. Chapman",
+      "order": 16
+    },
+    {
+      "personId": 50304,
+      "character": "'The Thing'",
+      "order": 17
+    },
+    {
+      "personId": 126997,
+      "character": "Gen. Fogarty",
+      "order": 18
+    },
+    {
+      "personId": 235726,
+      "character": "Bill Stone (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 724,
+  "sources": [
+    "cult-list"
+  ]
+}

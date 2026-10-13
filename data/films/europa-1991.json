@@ -1,0 +1,208 @@
+{
+  "tmdbId": 9065,
+  "slug": "europa-1991",
+  "year": 1991,
+  "runtime": 113,
+  "originalTitle": "Europa",
+  "title": {
+    "en": "Europa",
+    "tr": "Avrupa"
+  },
+  "overview": {
+    "en": "In 1945 Germany, following the end of World War II, Leopold Kessler, an American of German descent, is hired by his uncle as a sleeping car conductor on the Zentropa train line. Leopold's wish is to be neutral to the ongoing purges of loyalists by Allied forces and do what he can to help a hurting country, but ultimately finds himself being used by both sides.",
+    "tr": "Leo Kessler İkinci Dünya Savaşı’ndan sonra çalışmak ve babasının ülkesini tanımak için Almanya’ya gelen zeki ve iyi niyetli, genç bir Amerikalı’dır. ‘Avrupa’ filmi bu Alman kökenli Amerikan gencin garip, karmaşık, akıldan çıkmayacak öyküsünü anlatır…"
+  },
+  "poster": {
+    "tr": "/pyFtuYQReoSmhNs55kRJedA5wEJ.jpg",
+    "en": "/ot4yJ4Hi1pXPaQpejUGtOIcAN18.jpg"
+  },
+  "backdrops": [
+    "/9vOfO3CP8mqqq0oqCNl9R7M07xE.jpg",
+    "/rT1SXllGStLHzXcR9twrIDBUtn1.jpg",
+    "/2KLby7ERIz0TtjYoaBoML6wflYu.jpg",
+    "/nPqQzPlDaGohkC0HqZw05s67kSk.jpg",
+    "/zzgN2CSZ2TCBLJoaBEySpkNZzZG.jpg",
+    "/pmILajCRIbRwgfJVS0uJYH29HqI.jpg",
+    "/o1dsad6aynTo24n10AlRMLNlDCX.jpg"
+  ],
+  "trailerKey": "awJEAVdKeZI",
+  "genreIds": [
+    80,
+    18,
+    53
+  ],
+  "keywordIds": [
+    316,
+    5300,
+    2437,
+    3363,
+    3450,
+    6021,
+    6389,
+    9935,
+    10093,
+    160224,
+    207883
+  ],
+  "countries": [
+    "DK",
+    "FR",
+    "DE",
+    "SE"
+  ],
+  "languages": [
+    "de",
+    "la",
+    "en"
+  ],
+  "studios": [
+    "Gérard Mital Productions",
+    "Nordisk Film Denmark",
+    "WMG Film"
+  ],
+  "crew": [
+    {
+      "personId": 42,
+      "job": "director"
+    },
+    {
+      "personId": 42,
+      "job": "writer"
+    },
+    {
+      "personId": 56878,
+      "job": "writer"
+    },
+    {
+      "personId": 56885,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1637,
+      "job": "composer"
+    },
+    {
+      "personId": 1143,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 69173,
+      "job": "producer"
+    },
+    {
+      "personId": 3924,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1174,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1642,
+      "character": "Leopold Kessler",
+      "order": 0
+    },
+    {
+      "personId": 23378,
+      "character": "Katharina Hartmann",
+      "order": 1
+    },
+    {
+      "personId": 1646,
+      "character": "Lawrence Hartmann",
+      "order": 2
+    },
+    {
+      "personId": 56882,
+      "character": "Uncle Kessler",
+      "order": 3
+    },
+    {
+      "personId": 578949,
+      "character": "Pater",
+      "order": 4
+    },
+    {
+      "personId": 938253,
+      "character": "Max Hartmann",
+      "order": 5
+    },
+    {
+      "personId": 64125,
+      "character": "Siggy",
+      "order": 6
+    },
+    {
+      "personId": 19794,
+      "character": "Colonel Harris",
+      "order": 7
+    },
+    {
+      "personId": 2201,
+      "character": "Narrator (voice)",
+      "order": 8
+    },
+    {
+      "personId": 225914,
+      "character": "Steleman",
+      "order": 9
+    },
+    {
+      "personId": 6142,
+      "character": "Seifert",
+      "order": 10
+    },
+    {
+      "personId": 1013998,
+      "character": "Inspector",
+      "order": 11
+    },
+    {
+      "personId": 1106160,
+      "character": "Mr. Ravenstein",
+      "order": 12
+    },
+    {
+      "personId": 563921,
+      "character": "Mrs. Ravenstein",
+      "order": 13
+    },
+    {
+      "personId": 568835,
+      "character": "Man in Housecoat",
+      "order": 14
+    },
+    {
+      "personId": 1656523,
+      "character": "Maid",
+      "order": 15
+    },
+    {
+      "personId": 1328780,
+      "character": "Jewish Man",
+      "order": 16
+    },
+    {
+      "personId": 1958308,
+      "character": "Jewish Wife",
+      "order": 17
+    },
+    {
+      "personId": 234401,
+      "character": "Father",
+      "order": 18
+    },
+    {
+      "personId": 4506672,
+      "character": "American Soldier",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 377,
+  "sources": [
+    "cult-list"
+  ]
+}

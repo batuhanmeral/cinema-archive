@@ -1,0 +1,172 @@
+{
+  "tmdbId": 43252,
+  "slug": "the-story-of-mankind-1957",
+  "year": 1957,
+  "runtime": 100,
+  "originalTitle": "The Story of Mankind",
+  "title": {
+    "en": "The Story of Mankind",
+    "tr": "The Story of Mankind"
+  },
+  "overview": {
+    "en": "The devil and the spirit of mankind argue as to whether or not humanity is ultimately good or evil.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lkjbuh3YRgA191YFvlwKPe7qb9U.jpg",
+    "en": "/lkjbuh3YRgA191YFvlwKPe7qb9U.jpg"
+  },
+  "backdrops": [
+    "/wTMZwa8yxVMoK3zSypT8t3ExdcV.jpg"
+  ],
+  "trailerKey": "FVvqhxUIDg4",
+  "genreIds": [
+    18,
+    14,
+    878
+  ],
+  "keywordIds": [
+    14999
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Cambridge Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 7506,
+      "job": "writer"
+    },
+    {
+      "personId": 3599,
+      "job": "writer"
+    },
+    {
+      "personId": 7506,
+      "job": "producer"
+    },
+    {
+      "personId": 10150,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7506,
+      "job": "director"
+    },
+    {
+      "personId": 4681,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29522,
+      "character": "The Spirit of Man",
+      "order": 0
+    },
+    {
+      "personId": 89088,
+      "character": "Joan of Arc",
+      "order": 1
+    },
+    {
+      "personId": 10798,
+      "character": "Peter Minuit",
+      "order": 2
+    },
+    {
+      "personId": 10800,
+      "character": "Sir Isaac Newton",
+      "order": 3
+    },
+    {
+      "personId": 10799,
+      "character": "Monk",
+      "order": 4
+    },
+    {
+      "personId": 13579,
+      "character": "Cleopatra",
+      "order": 5
+    },
+    {
+      "personId": 11025,
+      "character": "Queen Elizabeth I",
+      "order": 6
+    },
+    {
+      "personId": 1905,
+      "character": "Mr. Scratch / The Devil",
+      "order": 7
+    },
+    {
+      "personId": 2094,
+      "character": "Nero",
+      "order": 8
+    },
+    {
+      "personId": 11169,
+      "character": "Hippocrates",
+      "order": 9
+    },
+    {
+      "personId": 99461,
+      "character": "High Judge",
+      "order": 10
+    },
+    {
+      "personId": 4355,
+      "character": "Spanish Envoy",
+      "order": 11
+    },
+    {
+      "personId": 8516,
+      "character": "Khufu",
+      "order": 12
+    },
+    {
+      "personId": 2778,
+      "character": "Napoleon Bonaparte",
+      "order": 13
+    },
+    {
+      "personId": 131441,
+      "character": "Marie Antoinette",
+      "order": 14
+    },
+    {
+      "personId": 4122,
+      "character": "Marc Antony",
+      "order": 15
+    },
+    {
+      "personId": 2437,
+      "character": "Sir Walter Raleigh",
+      "order": 16
+    },
+    {
+      "personId": 14029,
+      "character": "William Shakespeare",
+      "order": 17
+    },
+    {
+      "personId": 3340,
+      "character": "Josephine Bonaparte",
+      "order": 18
+    },
+    {
+      "personId": 3163,
+      "character": "Waiter",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 28,
+  "sources": [
+    "cult-list"
+  ]
+}

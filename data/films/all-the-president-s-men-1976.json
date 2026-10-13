@@ -1,0 +1,196 @@
+{
+  "tmdbId": 891,
+  "slug": "all-the-president-s-men-1976",
+  "year": 1976,
+  "runtime": 138,
+  "originalTitle": "All the President's Men",
+  "title": {
+    "en": "All the President's Men",
+    "tr": "Başkanın Bütün Adamları"
+  },
+  "overview": {
+    "en": "During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.",
+    "tr": "Başkan Nixon, Amerikan tarihinde istifaya zorlanmış ilk ve -şimdilik- tek başkandır. Her şey, Washington Post gazetesi muhabiri iki gözüpek gazetecinin, Carl Bernstein ve Bob Woodward'ın, bir dedektif kalitesinde yaptıkları takip sonucu tarihe Watergate Skandalı olarak geçecek vaka ortaya çıkar:  17 Haziran 1972 günü, Nixon'ın mensubu olduğu Cumhuriyetçi Parti'den bir kaç kişi, seçimi kazanması muhtemel olan Demokratların merkezine sızıp dinleme cihazı yerleştirmiştir. İki gazetecinin yakın takibi, olayın sorumlusunun, Cumhuriyetçi Parti'nin en tepesinde bulunduğunu gözler önüne serer.  4 Oscar'lı filmin merkezindeki gazetecileri Dustin Hoffman ve Robert Redford canlandırıyor.Alan J. Pakula'nın filmi aradan geçen yıllara rağmen gücünü fazlasıyla koruyor. Medyanın gücünü olumlu yönde kullandığında nelere kadir olduğunu gösteren çarpıcı bir yapım."
+  },
+  "poster": {
+    "tr": "/pCe6lfLxt1B58zPD4lgQrlnDS2j.jpg",
+    "en": "/ruURnC7qLRtSnTV1vygcoEPzeYK.jpg"
+  },
+  "backdrops": [
+    "/iPWbKty4Ktj9LU8tb5zghRBBFfr.jpg",
+    "/9cppeD4GSjacZwoqyZTYcdfOGOx.jpg",
+    "/eHUsvxdZzHyjdPbppBkYkW9EQUx.jpg",
+    "/70uxtdJYU1qfrAmPg4xxqXlETVU.jpg",
+    "/rAcjzZhP2OQ5hutEb8BeKNrLWDG.jpg",
+    "/f7we3q92WneOwHPJxakWsWOULin.jpg",
+    "/bDYnUy9BW3oP1iZYTk8AikQlLqg.jpg",
+    "/p2U4wScUValTXnvikXy7kfQNDsH.jpg",
+    "/vE27lTRaY0M2tycxokfckymlDD4.jpg",
+    "/aAMn59bq6DZQtWoYqsIOUkVWSgc.jpg"
+  ],
+  "trailerKey": "k5y8SW2KyTY",
+  "genreIds": [
+    18,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    918,
+    736,
+    4812,
+    521,
+    818,
+    4918,
+    6078,
+    1437,
+    1812,
+    2980,
+    4240,
+    9672,
+    10410,
+    155744,
+    156072,
+    325830
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ],
+  "studios": [
+    "Wildwood Enterprises"
+  ],
+  "crew": [
+    {
+      "personId": 8422,
+      "job": "composer"
+    },
+    {
+      "personId": 13718,
+      "job": "producer"
+    },
+    {
+      "personId": 3097,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 348,
+      "job": "writer"
+    },
+    {
+      "personId": 6349,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4483,
+      "character": "Carl Bernstein",
+      "order": 0
+    },
+    {
+      "personId": 4135,
+      "character": "Bob Woodward",
+      "order": 1
+    },
+    {
+      "personId": 5251,
+      "character": "Harry Rosenfeld",
+      "order": 2
+    },
+    {
+      "personId": 1936,
+      "character": "Howard Simons",
+      "order": 3
+    },
+    {
+      "personId": 11066,
+      "character": "Deep Throat",
+      "order": 4
+    },
+    {
+      "personId": 4765,
+      "character": "Ben Bradlee",
+      "order": 5
+    },
+    {
+      "personId": 13724,
+      "character": "Bookkeeper",
+      "order": 6
+    },
+    {
+      "personId": 13725,
+      "character": "Debbie Sloan",
+      "order": 7
+    },
+    {
+      "personId": 13726,
+      "character": "Dardis",
+      "order": 8
+    },
+    {
+      "personId": 1756,
+      "character": "Hugh Sloan",
+      "order": 9
+    },
+    {
+      "personId": 13727,
+      "character": "Sally Aiken",
+      "order": 10
+    },
+    {
+      "personId": 13728,
+      "character": "Foreign Editor",
+      "order": 11
+    },
+    {
+      "personId": 13729,
+      "character": "Donald Segretti",
+      "order": 12
+    },
+    {
+      "personId": 1701404,
+      "character": "Frank Wills",
+      "order": 13
+    },
+    {
+      "personId": 1164,
+      "character": "Arresting Officer #1",
+      "order": 14
+    },
+    {
+      "personId": 9808,
+      "character": "Eugene Bachinski",
+      "order": 15
+    },
+    {
+      "personId": 13730,
+      "character": "Bernard L. Barker",
+      "order": 16
+    },
+    {
+      "personId": 68186,
+      "character": "Eugenio R. Martinez",
+      "order": 17
+    },
+    {
+      "personId": 186648,
+      "character": "Arguing Attorney",
+      "order": 18
+    },
+    {
+      "personId": 13731,
+      "character": "Markham",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 4
+  },
+  "voteCount": 2188,
+  "sources": [
+    "cult-list"
+  ]
+}

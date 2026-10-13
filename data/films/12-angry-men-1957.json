@@ -1,0 +1,190 @@
+{
+  "tmdbId": 389,
+  "slug": "12-angry-men-1957",
+  "year": 1957,
+  "runtime": 97,
+  "originalTitle": "12 Angry Men",
+  "title": {
+    "en": "12 Angry Men",
+    "tr": "12 Öfkeli Adam"
+  },
+  "overview": {
+    "en": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+    "tr": "Latin kökenli bir Amerikalı genç babasını bıçaklayarak öldürdüğü gerekçesiyle birinci dereceden cinayetle suçlanır ve mahkeme önüne çıkarılır."
+  },
+  "poster": {
+    "tr": "/jA3MHw8Nl4sevDqhgS8ZptwXN8b.jpg",
+    "en": "/ppd84D2i9W8jXmsyInGyihiSyqz.jpg"
+  },
+  "backdrops": [
+    "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+    "/w4bTBXcqXc2TUyS5Fc4h67uWbPn.jpg",
+    "/6396QiokQBiTgPgB16nUWxYdM7N.jpg",
+    "/2ExdVu0AITPediwjpxGEl9e2NuF.jpg",
+    "/cBUKXPpOYwVzhEwgP36NLpQLY12.jpg",
+    "/p1nBxgrSu9Ex0Uvci1ItWWCWPlk.jpg",
+    "/oFuAMAoAEQEAs6bD87Q8BxrAgMf.jpg",
+    "/9GSvXxJojJ7MM2rzvzSIUNDGfMF.jpg",
+    "/sDxiYpf26i9b1WxA5CkoCLZScVh.jpg",
+    "/9CEb1xVkk6Mhusxw2gTsDsuZt8v.jpg"
+  ],
+  "trailerKey": "TEN-2uTi2c0",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    2122,
+    2142,
+    3012,
+    934,
+    1417,
+    6139,
+    3581,
+    4728,
+    5144,
+    10181,
+    11038,
+    9826,
+    11141,
+    11523,
+    12999,
+    33519,
+    214780,
+    321464
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Orion-Nova Productions"
+  ],
+  "crew": [
+    {
+      "personId": 4958,
+      "job": "producer"
+    },
+    {
+      "personId": 5260,
+      "job": "composer"
+    },
+    {
+      "personId": 5246,
+      "job": "writer"
+    },
+    {
+      "personId": 5246,
+      "job": "producer"
+    },
+    {
+      "personId": 5261,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 39996,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1936,
+      "character": "Juror 1",
+      "order": 0
+    },
+    {
+      "personId": 5247,
+      "character": "Juror 2",
+      "order": 1
+    },
+    {
+      "personId": 5248,
+      "character": "Juror 3",
+      "order": 2
+    },
+    {
+      "personId": 5249,
+      "character": "Juror 4",
+      "order": 3
+    },
+    {
+      "personId": 5250,
+      "character": "Juror 5",
+      "order": 4
+    },
+    {
+      "personId": 2651,
+      "character": "Juror 6",
+      "order": 5
+    },
+    {
+      "personId": 5251,
+      "character": "Juror 7",
+      "order": 6
+    },
+    {
+      "personId": 4958,
+      "character": "Juror 8",
+      "order": 7
+    },
+    {
+      "personId": 5252,
+      "character": "Juror 9",
+      "order": 8
+    },
+    {
+      "personId": 39816,
+      "character": "Juror 10",
+      "order": 9
+    },
+    {
+      "personId": 5254,
+      "character": "Juror 11",
+      "order": 10
+    },
+    {
+      "personId": 5255,
+      "character": "Juror 12",
+      "order": 11
+    },
+    {
+      "personId": 3143,
+      "character": "Judge (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 2498394,
+      "character": "Stenographer (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1437464,
+      "character": "Guard (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 5257,
+      "character": "Court Clerk (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 153394,
+      "character": "Man Waiting for Elevator (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 5892050,
+      "character": "Defendant (uncredited)",
+      "order": 17
+    }
+  ],
+  "awards": {
+    "bafta": 1,
+    "berlin": 1
+  },
+  "voteCount": 10538,
+  "sources": [
+    "cult-list"
+  ]
+}

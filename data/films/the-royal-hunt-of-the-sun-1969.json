@@ -1,0 +1,174 @@
+{
+  "tmdbId": 202886,
+  "slug": "the-royal-hunt-of-the-sun-1969",
+  "year": 1969,
+  "runtime": 121,
+  "originalTitle": "The Royal Hunt of the Sun",
+  "title": {
+    "en": "The Royal Hunt of the Sun",
+    "tr": "The Royal Hunt of the Sun"
+  },
+  "overview": {
+    "en": "The Spanish explorer Pizarro captures the Inca god-chief Atahualpa and promises to free him upon the delivery of a hoard of gold. But Pizarro finds himself torn between his desire for conquest and his sense of honor after friendship and respect develops between captive and captor.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/youxV5XDe037pI8kMTkpkNRaUiS.jpg",
+    "en": "/ijFNkTpBVkbMISIZmGr1F66XHxX.jpg"
+  },
+  "backdrops": [
+    "/np4qbBW5NftbcojA0XrZRWSBvxA.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    12,
+    18
+  ],
+  "keywordIds": [
+    1321,
+    5967,
+    10181,
+    10600,
+    18266,
+    174468,
+    192374,
+    208244,
+    228691
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "studios": [
+    "Benmar Productions",
+    "The Rank Organisation",
+    "Cinema Center Films"
+  ],
+  "crew": [
+    {
+      "personId": 83918,
+      "job": "director"
+    },
+    {
+      "personId": 3975,
+      "job": "writer"
+    },
+    {
+      "personId": 116850,
+      "job": "producer"
+    },
+    {
+      "personId": 85453,
+      "job": "writer"
+    },
+    {
+      "personId": 32159,
+      "job": "composer"
+    },
+    {
+      "personId": 1124908,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8606,
+      "character": "Francisco Pizarro",
+      "order": 0
+    },
+    {
+      "personId": 290,
+      "character": "Atahualpa",
+      "order": 1
+    },
+    {
+      "personId": 13327,
+      "character": "De Soto",
+      "order": 2
+    },
+    {
+      "personId": 30426,
+      "character": "Young Martin",
+      "order": 3
+    },
+    {
+      "personId": 25536,
+      "character": "Estete",
+      "order": 4
+    },
+    {
+      "personId": 53815,
+      "character": "Valverde",
+      "order": 5
+    },
+    {
+      "personId": 1213708,
+      "character": "Candia",
+      "order": 6
+    },
+    {
+      "personId": 12250,
+      "character": "King Carlos",
+      "order": 7
+    },
+    {
+      "personId": 127914,
+      "character": "De Nizza",
+      "order": 8
+    },
+    {
+      "personId": 1066178,
+      "character": "Felipillo",
+      "order": 9
+    },
+    {
+      "personId": 33220,
+      "character": "Diego",
+      "order": 10
+    },
+    {
+      "personId": 93949,
+      "character": "Villac Umu",
+      "order": 11
+    },
+    {
+      "personId": 5488961,
+      "character": "Vasca",
+      "order": 12
+    },
+    {
+      "personId": 5488963,
+      "character": "Manco",
+      "order": 13
+    },
+    {
+      "personId": 228500,
+      "character": "Mendoza",
+      "order": 14
+    },
+    {
+      "personId": 1182278,
+      "character": "Salinas",
+      "order": 15
+    },
+    {
+      "personId": 1396064,
+      "character": "Rodas",
+      "order": 16
+    },
+    {
+      "personId": 5488968,
+      "character": "Domingo",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 12,
+  "sources": [
+    "cult-list"
+  ]
+}

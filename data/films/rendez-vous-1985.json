@@ -1,0 +1,178 @@
+{
+  "tmdbId": 34093,
+  "slug": "rendez-vous-1985",
+  "year": 1985,
+  "runtime": 82,
+  "originalTitle": "Rendez-vous",
+  "title": {
+    "en": "Rendez-vous",
+    "tr": "Randevu"
+  },
+  "overview": {
+    "en": "Nina is a young, carefree actress who arrives in Paris searching for her big break. There, she finds drama both on- and offstage as she becomes involved with three men: a mild-mannered real-estate agent who offers her stability, a bad-boy actor who lives dangerously on the edge, and an intense theater director who casts her in a production of “Romeo and Juliet.” As opening night approaches, the emotional extremes of Nina’s love life fuel her art.",
+    "tr": "Randevu, oyuncu olma hayaliyle Paris’e taşınan genç Nina’nın (Juliette Binoche), aşk, tutku ve hayal kırıklıklarıyla dolu hikâyesini anlatır. Paris’te Nina, hayatına giren üç farklı erkekle (genç Paul, tiyatro yönetmeni Scrutzler ve karizmatik Quentin) karmaşık ilişkiler yaşar. Hem aşk hem de kariyer arayışında, kendi kimliğini ve hayattaki yerini keşfetmeye çalışır."
+  },
+  "poster": {
+    "tr": "/rICHxS03w4peWxcdGgT8pyb9eOp.jpg",
+    "en": "/8mklRSTnydYCowJfZjQmurWWb70.jpg"
+  },
+  "backdrops": [
+    "/aacaSTejzFmOBTbQHPSA5co3WAf.jpg",
+    "/kq4zOZqUYtKVUzcvtGkgNDSSZrZ.jpg",
+    "/oQWHso793x78CPSYyg52Jpwecp6.jpg",
+    "/eF2D0KUsDlZFKh41Dt6ZaFC2i8F.jpg",
+    "/fb7YxSgavCdx5UAFgQS3mqvOJ2R.jpg"
+  ],
+  "trailerKey": "nQRggUjvM7s",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    90,
+    459,
+    128,
+    9673,
+    11190,
+    14794,
+    33513,
+    161043,
+    178649,
+    208433,
+    260426
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Films A2",
+    "T. Films"
+  ],
+  "crew": [
+    {
+      "personId": 96627,
+      "job": "director"
+    },
+    {
+      "personId": 21678,
+      "job": "writer"
+    },
+    {
+      "personId": 96627,
+      "job": "writer"
+    },
+    {
+      "personId": 20075,
+      "job": "composer"
+    },
+    {
+      "personId": 64910,
+      "job": "producer"
+    },
+    {
+      "personId": 19054,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2192,
+      "character": "Quentin",
+      "order": 0
+    },
+    {
+      "personId": 1137,
+      "character": "Nina",
+      "order": 1
+    },
+    {
+      "personId": 234757,
+      "character": "Paulot",
+      "order": 2
+    },
+    {
+      "personId": 1352,
+      "character": "Scrutzler",
+      "order": 3
+    },
+    {
+      "personId": 1972,
+      "character": "Gertrude",
+      "order": 4
+    },
+    {
+      "personId": 274577,
+      "character": "Fred",
+      "order": 5
+    },
+    {
+      "personId": 40304,
+      "character": "Max",
+      "order": 6
+    },
+    {
+      "personId": 18227,
+      "character": "Administrator",
+      "order": 7
+    },
+    {
+      "personId": 70488,
+      "character": "Olimpia",
+      "order": 8
+    },
+    {
+      "personId": 1659246,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1659247,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1145430,
+      "character": "Journalist",
+      "order": 11
+    },
+    {
+      "personId": 552365,
+      "character": "Stage Manager",
+      "order": 12
+    },
+    {
+      "personId": 1651459,
+      "character": "Flower Seller",
+      "order": 13
+    },
+    {
+      "personId": 584236,
+      "character": "Stage Actor",
+      "order": 14
+    },
+    {
+      "personId": 19936,
+      "character": "Daisy",
+      "order": 15
+    },
+    {
+      "personId": 586801,
+      "character": "Stage Actress",
+      "order": 16
+    },
+    {
+      "personId": 1679860,
+      "character": "Drunk Guy",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 84,
+  "sources": [
+    "cult-list"
+  ]
+}

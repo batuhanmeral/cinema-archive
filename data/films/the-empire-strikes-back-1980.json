@@ -1,0 +1,200 @@
+{
+  "tmdbId": 1891,
+  "slug": "the-empire-strikes-back-1980",
+  "year": 1980,
+  "runtime": 124,
+  "originalTitle": "The Empire Strikes Back",
+  "title": {
+    "en": "The Empire Strikes Back",
+    "tr": "Yıldız Savaşları: İmparator'un Dönüşü"
+  },
+  "overview": {
+    "en": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
+    "tr": "Yıldız Savaşları: İmparator'un Dönüşü'nde iyiyle kötü arasındaki çatışmayı ilk defa dijital ortamda keşfedin. Ölüm Yıldızı'nın yok edilmesinden sonra İmparatorluk güçleri Asileri kovalamaya devam eder. Asi güçlerin buz gezegen Hoth'taki mağlubiyetinin ardından Luke, Cumhuriyet'in düşmesinden beri Dagobah gezegeninde gizlenen Jedi ustası Yoda ile çalışmak için yola çıkar. Luke'yi karanlık tarafa döndürmeye çabalarken Darth Vader onu Bespin'in Bulut Şehri'nde tuzağa düşürür."
+  },
+  "poster": {
+    "tr": "/r9w1NH3495IW27qEjUCJ8r7Wt4Y.jpg",
+    "en": "/s12hAKDCui6S8GIyRIaz6oKe5OW.jpg"
+  },
+  "backdrops": [
+    "/aJCtkxLLzkk1pECehVjKHA2lBgw.jpg",
+    "/b37U5gN6itEjaFcmaKhUOqG2Mkt.jpg",
+    "/azIbQpeKKNF9r85lBSRrNnMK0Si.jpg",
+    "/nJcAQO0zauDTp72SEMcneIDjA7c.jpg",
+    "/xYqTM4X1GZATxA7VHQTQ4TNLrUt.jpg",
+    "/kgjvZgs6cV2v5bigzzzWqJ9EMGs.jpg",
+    "/k9pshruhCpJAdH9RaGJO6jaWQ4X.jpg",
+    "/M3hy6yu1Am8CTjUY7VuippPbSd.jpg",
+    "/ycBA7zK0v32oY4ohcK5dV3LjJbB.jpg",
+    "/mHqT2YbPHcVtuZIIi8KrbZiLPKp.jpg"
+  ],
+  "trailerKey": "vU6L3jXt2r8",
+  "genreIds": [
+    12,
+    28,
+    878
+  ],
+  "keywordIds": [
+    11196,
+    803,
+    1612,
+    1423,
+    526,
+    2902,
+    3373,
+    3388,
+    4551,
+    9663,
+    161176,
+    288649,
+    371623
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Lucasfilm Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 10930,
+      "job": "director"
+    },
+    {
+      "personId": 12401,
+      "job": "producer"
+    },
+    {
+      "personId": 4298,
+      "job": "writer"
+    },
+    {
+      "personId": 8844,
+      "job": "writer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 307,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 665,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2,
+      "character": "Luke Skywalker",
+      "order": 0
+    },
+    {
+      "personId": 3,
+      "character": "Han Solo",
+      "order": 1
+    },
+    {
+      "personId": 4,
+      "character": "Princess Leia",
+      "order": 2
+    },
+    {
+      "personId": 3799,
+      "character": "Lando Calrissian",
+      "order": 3
+    },
+    {
+      "personId": 6,
+      "character": "C-3PO",
+      "order": 4
+    },
+    {
+      "personId": 24342,
+      "character": "Darth Vader",
+      "order": 5
+    },
+    {
+      "personId": 24343,
+      "character": "Chewbacca",
+      "order": 6
+    },
+    {
+      "personId": 130,
+      "character": "R2-D2",
+      "order": 7
+    },
+    {
+      "personId": 7908,
+      "character": "Yoda (Voice)",
+      "order": 8
+    },
+    {
+      "personId": 12248,
+      "character": "Obi-Wan Kenobi",
+      "order": 9
+    },
+    {
+      "personId": 33185,
+      "character": "Boba Fett",
+      "order": 10
+    },
+    {
+      "personId": 151529,
+      "character": "Boba Fett (voice - uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 27165,
+      "character": "Lando's Aide",
+      "order": 12
+    },
+    {
+      "personId": 132538,
+      "character": "Chief Ugnaught",
+      "order": 13
+    },
+    {
+      "personId": 132539,
+      "character": "Snow Creature",
+      "order": 14
+    },
+    {
+      "personId": 70772,
+      "character": "Performing Assistant for Yoda",
+      "order": 15
+    },
+    {
+      "personId": 117714,
+      "character": "Emperor (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 20128,
+      "character": "Emperor (voice)",
+      "order": 17
+    },
+    {
+      "personId": 10734,
+      "character": "Admiral Piett",
+      "order": 18
+    },
+    {
+      "personId": 740,
+      "character": "General Veers",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 19058,
+  "sources": [
+    "cult-list"
+  ]
+}

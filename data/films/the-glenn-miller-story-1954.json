@@ -1,0 +1,182 @@
+{
+  "tmdbId": 17729,
+  "slug": "the-glenn-miller-story-1954",
+  "year": 1954,
+  "runtime": 116,
+  "originalTitle": "The Glenn Miller Story",
+  "title": {
+    "en": "The Glenn Miller Story",
+    "tr": "The Glenn Miller Story"
+  },
+  "overview": {
+    "en": "A vibrant tribute to one of America's legendary bandleaders, charting Glenn Miller's rise from obscurity and poverty to fame and wealth in the early 1940s.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/eEuwIMj7jKYaUt0ZG6aVpYxlkrC.jpg",
+    "en": "/bNjBUERwwmtUqBQODq6iGd5COkW.jpg"
+  },
+  "backdrops": [
+    "/weRJkZn65fHWFVhF4BLadU2TXkB.jpg",
+    "/duFTkzvsZjaJKnETMbPpIPOYYOE.jpg",
+    "/srB2LRoHlKO3TBfuN8yfgm3F5hI.jpg",
+    "/61A1ZFVwDNRECsVLpQBHAAqjzfI.jpg",
+    "/9Pp5YVmWprhT8WTPKK2rmpR3LGS.jpg"
+  ],
+  "trailerKey": "Tn-WKsv_oDM",
+  "genreIds": [
+    18,
+    10402,
+    10749
+  ],
+  "keywordIds": [
+    1416,
+    4344,
+    5565,
+    6165
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 3637,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 68083,
+      "job": "producer"
+    },
+    {
+      "personId": 1938,
+      "job": "composer"
+    },
+    {
+      "personId": 40199,
+      "job": "director"
+    },
+    {
+      "personId": 70495,
+      "job": "writer"
+    },
+    {
+      "personId": 65481,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 854,
+      "character": "Glenn Miller",
+      "order": 0
+    },
+    {
+      "personId": 41216,
+      "character": "Helen Burger Miller",
+      "order": 1
+    },
+    {
+      "personId": 4073,
+      "character": "Chummy MacGregor",
+      "order": 2
+    },
+    {
+      "personId": 15978,
+      "character": "Don Haynes",
+      "order": 3
+    },
+    {
+      "personId": 30272,
+      "character": "Si Schribman",
+      "order": 4
+    },
+    {
+      "personId": 14451,
+      "character": "General Arnold",
+      "order": 5
+    },
+    {
+      "personId": 2497,
+      "character": "W. Kranz",
+      "order": 6
+    },
+    {
+      "personId": 30530,
+      "character": "Mr. Miller",
+      "order": 7
+    },
+    {
+      "personId": 84935,
+      "character": "Mr. Burger",
+      "order": 8
+    },
+    {
+      "personId": 34182,
+      "character": "Mrs. Miller",
+      "order": 9
+    },
+    {
+      "personId": 89659,
+      "character": "Mrs. Burger",
+      "order": 10
+    },
+    {
+      "personId": 30275,
+      "character": "Frances Langford",
+      "order": 11
+    },
+    {
+      "personId": 82280,
+      "character": "Louis Armstrong",
+      "order": 12
+    },
+    {
+      "personId": 571910,
+      "character": "Ben Pollack",
+      "order": 13
+    },
+    {
+      "personId": 245910,
+      "character": "Gene Krupa",
+      "order": 14
+    },
+    {
+      "personId": 4654177,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1121206,
+      "character": "Barney Bigard",
+      "order": 16
+    },
+    {
+      "personId": 4654185,
+      "character": "James Young",
+      "order": 17
+    },
+    {
+      "personId": 3691427,
+      "character": "Marty Napoleon",
+      "order": 18
+    },
+    {
+      "personId": 3190599,
+      "character": "Arvell Shaw",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 171,
+  "sources": [
+    "cult-list"
+  ]
+}

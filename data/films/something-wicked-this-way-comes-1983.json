@@ -1,0 +1,195 @@
+{
+  "tmdbId": 24808,
+  "slug": "something-wicked-this-way-comes-1983",
+  "year": 1983,
+  "runtime": 95,
+  "originalTitle": "Something Wicked This Way Comes",
+  "title": {
+    "en": "Something Wicked This Way Comes",
+    "tr": "Something Wicked This Way Comes"
+  },
+  "overview": {
+    "en": "In a small American town, a diabolical circus arrives, granting wishes for the townsfolk, but twisted as only the esteemed Mr. Dark can make them. Can two young boys overcome the worst the devil himself can deal out?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/94dMO6kAawyFUk0sCDGIjAnchED.jpg",
+    "en": "/94dMO6kAawyFUk0sCDGIjAnchED.jpg"
+  },
+  "backdrops": [
+    "/28BYjdzw6nJjFMIKjfUu1JA6tNC.jpg",
+    "/yCoyqFx0CB6Usa8xom9fU7sc44P.jpg",
+    "/wVrA29W9rxHKCMlLyzYaMniXsY2.jpg",
+    "/1SBbNNZ9W7dvqHsQkqeFZhs9g4d.jpg",
+    "/fsYLwyemB71aAlTwmB52dmL5D9f.jpg",
+    "/6NAPh0VaHk0xDk4eX9Faw13FjbV.jpg",
+    "/peJ1ijRScfWbZfZn5xl9tB6ebrp.jpg"
+  ],
+  "trailerKey": "SHWEGBbhGfA",
+  "genreIds": [
+    14,
+    9648,
+    27
+  ],
+  "keywordIds": [
+    616,
+    1566,
+    818,
+    2857,
+    952,
+    291,
+    1468,
+    2158,
+    3986,
+    3335,
+    3199,
+    4252,
+    3473,
+    11181,
+    14527,
+    14792,
+    33505,
+    163075,
+    178883,
+    230951
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Walt Disney Productions",
+    "Bryna Productions"
+  ],
+  "crew": [
+    {
+      "personId": 25630,
+      "job": "director"
+    },
+    {
+      "personId": 62923,
+      "job": "writer"
+    },
+    {
+      "personId": 1258,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1729,
+      "job": "composer"
+    },
+    {
+      "personId": 56940,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4765,
+      "character": "Charles Halloway",
+      "order": 0
+    },
+    {
+      "personId": 378,
+      "character": "Mr. Dark",
+      "order": 1
+    },
+    {
+      "personId": 6587,
+      "character": "Mrs. Nightshade",
+      "order": 2
+    },
+    {
+      "personId": 19968,
+      "character": "Tom Fury",
+      "order": 3
+    },
+    {
+      "personId": 52123,
+      "character": "Will Halloway",
+      "order": 4
+    },
+    {
+      "personId": 74642,
+      "character": "Jim Nightshade",
+      "order": 5
+    },
+    {
+      "personId": 164778,
+      "character": "Miss Foley",
+      "order": 6
+    },
+    {
+      "personId": 2751,
+      "character": "Mr. Crosetti",
+      "order": 7
+    },
+    {
+      "personId": 75019,
+      "character": "Mr. Tetley",
+      "order": 8
+    },
+    {
+      "personId": 49353,
+      "character": "Dr. Douglas",
+      "order": 9
+    },
+    {
+      "personId": 66293,
+      "character": "Mr. Cooger",
+      "order": 10
+    },
+    {
+      "personId": 4975,
+      "character": "Mrs. Halloway",
+      "order": 11
+    },
+    {
+      "personId": 2230,
+      "character": "Dust Witch",
+      "order": 12
+    },
+    {
+      "personId": 1718180,
+      "character": "Cooger as a Child",
+      "order": 13
+    },
+    {
+      "personId": 153416,
+      "character": "Ed the Bartender",
+      "order": 14
+    },
+    {
+      "personId": 97985,
+      "character": "Little Person #1",
+      "order": 15
+    },
+    {
+      "personId": 1710769,
+      "character": "Little Person #2",
+      "order": 16
+    },
+    {
+      "personId": 165945,
+      "character": "Teenage Girl",
+      "order": 17
+    },
+    {
+      "personId": 3290268,
+      "character": "Young Ed",
+      "order": 18
+    },
+    {
+      "personId": 1110931,
+      "character": "Young Miss Foley",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 222,
+  "sources": [
+    "cult-list"
+  ]
+}

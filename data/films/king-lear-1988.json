@@ -1,0 +1,162 @@
+{
+  "tmdbId": 50012,
+  "slug": "king-lear-1988",
+  "year": 1988,
+  "runtime": 91,
+  "originalTitle": "King Lear",
+  "title": {
+    "en": "King Lear",
+    "tr": "King Lear"
+  },
+  "overview": {
+    "en": "A descendant of Shakespeare tries to restore his plays in a world rebuilding itself after the Chernobyl catastrophe obliterates most of human civilization.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qWTubgW7ehbdsHbnd3iCYtaQ18W.jpg",
+    "en": "/wjuPAH78cV1DfcnWEwTAvP3Tsd1.jpg"
+  },
+  "backdrops": [
+    "/jTE51uGW3YT9ghnhbRcZx5OUfbS.jpg",
+    "/npkooCJRM0yyHrGrUQFMiSa7TZy.jpg",
+    "/kXUgBYFywFIKPzGgOdRCBV145PL.jpg",
+    "/rpzm4clGtuwLrToCHUUHrQW1Db7.jpg",
+    "/zwKjERfwUaIOgfW0B56UCVFAw98.jpg",
+    "/qXQu9Z63bDmVFpIx8aE1BZL6DBr.jpg",
+    "/63rpRBuagctFGVKOEZ6O13IVsIT.jpg",
+    "/bOlCDbkmBZ3xCHgCWKJB6hWISXU.jpg",
+    "/b3NqzLFU43FB2OgJKDknVLy7isf.jpg",
+    "/atGcUN3lT12bLk031iImZbz2xLK.jpg"
+  ],
+  "trailerKey": "nb4jN8rS3ls",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    4458,
+    10965,
+    210326,
+    226093
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "ja",
+    "ru"
+  ],
+  "studios": [
+    "The Cannon Group",
+    "Golan-Globus Productions"
+  ],
+  "crew": [
+    {
+      "personId": 3776,
+      "job": "director"
+    },
+    {
+      "personId": 50634,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2522,
+      "job": "composer"
+    },
+    {
+      "personId": 67826,
+      "job": "composer"
+    },
+    {
+      "personId": 33008,
+      "job": "producer"
+    },
+    {
+      "personId": 33009,
+      "job": "producer"
+    },
+    {
+      "personId": 3776,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 143279,
+      "character": "William Shakespeare Junior the Fifth",
+      "order": 0
+    },
+    {
+      "personId": 16523,
+      "character": "Don Learo",
+      "order": 1
+    },
+    {
+      "personId": 1146,
+      "character": "Virginia",
+      "order": 2
+    },
+    {
+      "personId": 27977,
+      "character": "Edgar",
+      "order": 3
+    },
+    {
+      "personId": 21625,
+      "character": "Cordelia",
+      "order": 4
+    },
+    {
+      "personId": 3776,
+      "character": "Professor Pluggy",
+      "order": 5
+    },
+    {
+      "personId": 1243,
+      "character": "Mr. Alien (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 143281,
+      "character": "Professor Quentin Kozintsev (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 33008,
+      "character": "Self (voice) (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 1219215,
+      "character": "Goblin (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 143282,
+      "character": "Self (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 143280,
+      "character": "Self (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 4897,
+      "character": "Journalist (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 156591,
+      "character": "(voice) (uncredited)",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 36,
+  "sources": [
+    "cult-list"
+  ]
+}

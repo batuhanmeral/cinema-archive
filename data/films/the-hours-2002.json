@@ -1,0 +1,217 @@
+{
+  "tmdbId": 590,
+  "slug": "the-hours-2002",
+  "year": 2002,
+  "runtime": 114,
+  "originalTitle": "The Hours",
+  "title": {
+    "en": "The Hours",
+    "tr": "Saatler"
+  },
+  "overview": {
+    "en": "The story of three women searching for more potent, meaningful lives. Each is alive at a different time and place, all are linked by their yearnings and their fears. Their stories intertwine, and finally come together in a surprising, transcendent moment of shared recognition.",
+    "tr": "Yıl 1923... Başarılı yazar Virginia Woolf, Londra'nın dışındaki gözlerden uzak evinde Mrs. Dalloway isimli kitabını yazmaya başlar. Sağlık problemleriyle boğuşan Woolf, ağır bir depresyonun pençesindedir. Yıl 1951... Tutkuyla Mrs. Dalloway'i okuyan ev kadını Laura Brown sahip olduğu hayattan kaçmanın tek yolunu böyle bulur. Yıl 2001... AIDS'e yakalanan eski kocasının onuruna bir parti düzenleyen Clarissa Vaughan ve eski kocası Richard arasında Mrs. Dalloway üzerine kurulu özel bir bağ vardır. Bu film, farklı zaman dilimlerinde yaşayan üç farklı kadının bir gününü, Virginia Woolf'un kült romanı Mrs. Dalloway ekseninde anlatmaktadır."
+  },
+  "poster": {
+    "tr": "/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg",
+    "en": "/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg"
+  },
+  "backdrops": [
+    "/vPxVNrhIDbqjTw2K6clafOn4uTy.jpg",
+    "/naCgtxSm4saAOhV1HzsTtLFpgI1.jpg",
+    "/tsTt9mDefowlCPqd9RF0cHrhQIE.jpg",
+    "/eSGa8LWATrc983PYFjGSIuMsNt6.jpg",
+    "/3oHFSEr4TRnsyTxWGrmY8Xi2FrR.jpg",
+    "/mju9Wr3JgjkkaUtlchILBJap9MV.jpg",
+    "/tL8Dpy38w6wVQC3jc1wDMxkJrMy.jpg",
+    "/nzTfCkmLZtoLmQHRoV4Ay2ylmdl.jpg",
+    "/jkYRyWpYM97tYaby4B8EvDVRqnO.jpg",
+    "/jrLQpE1MUBYT4V9laki6kcmoCam.jpg"
+  ],
+  "trailerKey": "CkPWXUxIiXs",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    894,
+    236,
+    212,
+    793,
+    818,
+    740,
+    1824,
+    1526,
+    496,
+    2132,
+    2065,
+    2386,
+    1587,
+    6262,
+    2875,
+    2755,
+    2783,
+    2981,
+    2982,
+    13028,
+    41515,
+    158718,
+    258973,
+    315382,
+    318770
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Scott Rudin Productions",
+    "Robert Fox Productions",
+    "Miramax"
+  ],
+  "crew": [
+    {
+      "personId": 468,
+      "job": "director"
+    },
+    {
+      "personId": 8403,
+      "job": "writer"
+    },
+    {
+      "personId": 8448,
+      "job": "producer"
+    },
+    {
+      "personId": 2997,
+      "job": "producer"
+    },
+    {
+      "personId": 8449,
+      "job": "producer"
+    },
+    {
+      "personId": 1551,
+      "job": "composer"
+    },
+    {
+      "personId": 3285,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1116795,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2227,
+      "character": "Virginia Woolf",
+      "order": 0
+    },
+    {
+      "personId": 1231,
+      "character": "Laura Brown",
+      "order": 1
+    },
+    {
+      "personId": 5064,
+      "character": "Clarissa Vaughan",
+      "order": 2
+    },
+    {
+      "personId": 8435,
+      "character": "Leonard Woolf",
+      "order": 3
+    },
+    {
+      "personId": 1310666,
+      "character": "Richie",
+      "order": 4
+    },
+    {
+      "personId": 228,
+      "character": "Richard Brown",
+      "order": 5
+    },
+    {
+      "personId": 8436,
+      "character": "Vanessa Bell",
+      "order": 6
+    },
+    {
+      "personId": 4764,
+      "character": "Dan Brown",
+      "order": 7
+    },
+    {
+      "personId": 19,
+      "character": "Sally Lester",
+      "order": 8
+    },
+    {
+      "personId": 8439,
+      "character": "Quentin Bell",
+      "order": 9
+    },
+    {
+      "personId": 8440,
+      "character": "Julian Bell",
+      "order": 10
+    },
+    {
+      "personId": 8441,
+      "character": "Angelica Bell",
+      "order": 11
+    },
+    {
+      "personId": 8442,
+      "character": "Lottie Hope",
+      "order": 12
+    },
+    {
+      "personId": 8443,
+      "character": "Nelly Boxall",
+      "order": 13
+    },
+    {
+      "personId": 8444,
+      "character": "Ralph Partridge",
+      "order": 14
+    },
+    {
+      "personId": 8445,
+      "character": "Doctor",
+      "order": 15
+    },
+    {
+      "personId": 3051,
+      "character": "Kitty",
+      "order": 16
+    },
+    {
+      "personId": 452,
+      "character": "Mrs. Latch",
+      "order": 17
+    },
+    {
+      "personId": 23608,
+      "character": "Hotel Clerk",
+      "order": 18
+    },
+    {
+      "personId": 6194,
+      "character": "Julia Vaughan",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 1929,
+  "sources": [
+    "cult-list"
+  ]
+}

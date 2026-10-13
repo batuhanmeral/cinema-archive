@@ -1,0 +1,186 @@
+{
+  "tmdbId": 17689,
+  "slug": "the-gauntlet-1977",
+  "year": 1977,
+  "runtime": 109,
+  "originalTitle": "The Gauntlet",
+  "title": {
+    "en": "The Gauntlet",
+    "tr": "Düello"
+  },
+  "overview": {
+    "en": "Phoenix cop Ben Shockley is well on his way to becoming a derelict when he is assigned to transport a witness from Las Vegas. The witness turns out to be a belligerent prostitute with mob ties—and incriminating information regarding a high-ranking official.",
+    "tr": "Phoenix polisi Ben Shockley, Las Vegas'tan bir tanığı nakletmekle görevlendirilince terk edilmiş biri olma yolunda ilerlemektedir. Tanığın, mafya bağları olan kavgacı bir fahişe olduğu ve üst düzey bir kişiyle ilgili suçlayıcı bilgiler olduğu ortaya çıkar."
+  },
+  "poster": {
+    "tr": "/1GZqf3mMgwzRbTpM5otmf171zkB.jpg",
+    "en": "/hYXkHixmH2W4hXA0qVJpT4ONPt1.jpg"
+  },
+  "backdrops": [
+    "/fd7M21NL6WoPZN1k5RsmuHdqipu.jpg",
+    "/rkTCdSSwFQsTyZi5Z25XWQlNS97.jpg",
+    "/lgDQLrJs6XAJ1svDFVAPlBztECb.jpg",
+    "/tiA2WRF7zSGtJ8bIYlqHcFwP8fQ.jpg",
+    "/l8A1Pr42ee3sTuLh12RHjrVDQc9.jpg",
+    "/1vSrF913P2Zs77F3RRpo9DwcqP8.jpg",
+    "/eAVJO3wQtzYkbziYRbs36VvO4iZ.jpg",
+    "/uwstgV4I9z6P1DdFMBiZYgUZ79k.jpg",
+    "/501a9Y4ighM196440ARgIXoFlh0.jpg",
+    "/83CZ6K2vzrzsWvE8jPXiWmJStad.jpg"
+  ],
+  "trailerKey": "Ws3mkfSkvYo",
+  "genreIds": [
+    18,
+    28,
+    80,
+    53
+  ],
+  "keywordIds": [
+    1589,
+    720,
+    549,
+    797,
+    502,
+    2708,
+    3713,
+    992,
+    1666,
+    2448,
+    3581,
+    4009,
+    5430,
+    6951,
+    9849,
+    10291,
+    10950,
+    11734,
+    14570,
+    14735,
+    33457,
+    168590,
+    173606,
+    181135,
+    186718,
+    209225,
+    225795,
+    236524,
+    275061
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Malpaso Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 190,
+      "job": "director"
+    },
+    {
+      "personId": 56191,
+      "job": "writer"
+    },
+    {
+      "personId": 53006,
+      "job": "writer"
+    },
+    {
+      "personId": 14777,
+      "job": "producer"
+    },
+    {
+      "personId": 1404920,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7769,
+      "job": "composer"
+    },
+    {
+      "personId": 190,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 190,
+      "character": "Ben Shockley",
+      "order": 0
+    },
+    {
+      "personId": 66223,
+      "character": "Gus Mally",
+      "order": 1
+    },
+    {
+      "personId": 3798,
+      "character": "Josephson",
+      "order": 2
+    },
+    {
+      "personId": 46099,
+      "character": "Blakelock",
+      "order": 3
+    },
+    {
+      "personId": 16555,
+      "character": "Constable",
+      "order": 4
+    },
+    {
+      "personId": 101172,
+      "character": "Feyderspiel",
+      "order": 5
+    },
+    {
+      "personId": 41730,
+      "character": "Waitress",
+      "order": 6
+    },
+    {
+      "personId": 56923,
+      "character": "Jail Matron",
+      "order": 7
+    },
+    {
+      "personId": 62033,
+      "character": "Bookie",
+      "order": 8
+    },
+    {
+      "personId": 78084,
+      "character": "Desk Sergeant",
+      "order": 9
+    },
+    {
+      "personId": 1025796,
+      "character": "Old Lady on Bus",
+      "order": 10
+    },
+    {
+      "personId": 3539580,
+      "character": "Bus Driver",
+      "order": 11
+    },
+    {
+      "personId": 12298,
+      "character": "Biker",
+      "order": 12
+    },
+    {
+      "personId": 37723,
+      "character": "Biker",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 638,
+  "sources": [
+    "cult-list"
+  ]
+}

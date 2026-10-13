@@ -1,0 +1,194 @@
+{
+  "tmdbId": 5910,
+  "slug": "fireworks-1997",
+  "year": 1997,
+  "runtime": 103,
+  "originalTitle": "HANA-BI",
+  "title": {
+    "en": "Fireworks",
+    "tr": "Havai Fişekler"
+  },
+  "overview": {
+    "en": "Beleaguered police detective Nishi takes desperate measures to try and set things right in a world gone wrong. With those close to him suffering their own tribulations, Nishi's methods become increasingly extreme.",
+    "tr": "Dedektif Nishi yeni doğan bebeğini henüz kaybetmiştir ve eşi de ölümcül bir hastalıktan ölmek üzeredir. Doktorlar artık yapacak bir şey olmadığını, onu eve götürmesini ve huzur içinde ölmesini beklemesini söylerler. Nishi aynı zamanda iş arkadaşı Horibe'nin ciddi bir şekilde yaralandığını ve belki de tekerlekli sandalyeye mahkum olabileceğini öğrenir. Horibe'yi ziyarete giden Nishi'nin hayatı, öğrendiği inanılmaz gerçeklerle ve içine gireceği bir suç çemberiyle tamamen değişecektir."
+  },
+  "poster": {
+    "tr": "/bWIo1nDJnSyGJvVt8bRw8PHBqo4.jpg",
+    "en": "/bWIo1nDJnSyGJvVt8bRw8PHBqo4.jpg"
+  },
+  "backdrops": [
+    "/vO8lMKIBbPH7B48XCkmrhqDs9ad.jpg",
+    "/zla8dwuIom4ZabzZzqlR8RqGUAx.jpg",
+    "/mdQ6oH7GLM9VerAb8JhsEAyJnHs.jpg",
+    "/lcq2owjYI7liuJOGi82KuThHT9x.jpg",
+    "/iEflOH7t5lNfMhr4ySd2DY8La5L.jpg",
+    "/7tmM91h7VbMlIVMkQkXEynCZE6U.jpg",
+    "/unGVkfk5Anh6DwdqM8d5HXZ4Moz.jpg",
+    "/xgmPmxGQYwcTPC7hvmRuspy4KKt.jpg",
+    "/1hpxwhcGntkxwdxU9rgAy1UDqMc.jpg",
+    "/5zd95mqDNKdokmRCeXgaoynn9id.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    658,
+    455,
+    966,
+    395,
+    1794,
+    6203
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Bandai Visual",
+    "Office Kitano",
+    "TV Tokyo"
+  ],
+  "crew": [
+    {
+      "personId": 46580,
+      "job": "producer"
+    },
+    {
+      "personId": 13246,
+      "job": "producer"
+    },
+    {
+      "personId": 544325,
+      "job": "producer"
+    },
+    {
+      "personId": 135383,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3317,
+      "job": "director"
+    },
+    {
+      "personId": 3317,
+      "job": "writer"
+    },
+    {
+      "personId": 636,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3317,
+      "character": "Yoshitaka Nishi",
+      "order": 0
+    },
+    {
+      "personId": 13255,
+      "character": "Nishi's Wife",
+      "order": 1
+    },
+    {
+      "personId": 137029,
+      "character": "Horibe",
+      "order": 2
+    },
+    {
+      "personId": 4990,
+      "character": "Nakamura",
+      "order": 3
+    },
+    {
+      "personId": 20335,
+      "character": "Junkyard Owner",
+      "order": 4
+    },
+    {
+      "personId": 46582,
+      "character": "Yakuza Hitman",
+      "order": 5
+    },
+    {
+      "personId": 934322,
+      "character": "Criminal",
+      "order": 6
+    },
+    {
+      "personId": 1190515,
+      "character": "Kudo",
+      "order": 7
+    },
+    {
+      "personId": 52713,
+      "character": "Doctor",
+      "order": 8
+    },
+    {
+      "personId": 20341,
+      "character": "Tanaka",
+      "order": 9
+    },
+    {
+      "personId": 13257,
+      "character": "Tanaka's Widow",
+      "order": 10
+    },
+    {
+      "personId": 1124465,
+      "character": "Businessman Throwing Rocks",
+      "order": 11
+    },
+    {
+      "personId": 20311,
+      "character": "Chef #1",
+      "order": 12
+    },
+    {
+      "personId": 146655,
+      "character": "Chef #2",
+      "order": 13
+    },
+    {
+      "personId": 552586,
+      "character": "Chief Detective",
+      "order": 14
+    },
+    {
+      "personId": 1432445,
+      "character": "Yakuza Head",
+      "order": 15
+    },
+    {
+      "personId": 2013826,
+      "character": "Yakuza Henchman #1",
+      "order": 16
+    },
+    {
+      "personId": 1432446,
+      "character": "Young Girl Flying a Kite",
+      "order": 17
+    },
+    {
+      "personId": 79458,
+      "character": "Yakuza Henchman #2",
+      "order": 18
+    },
+    {
+      "personId": 1696901,
+      "character": "Yakuza Henchman #3",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "venice": 1
+  },
+  "voteCount": 819,
+  "sources": [
+    "cult-list"
+  ]
+}

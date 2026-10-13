@@ -1,0 +1,190 @@
+{
+  "tmdbId": 5122,
+  "slug": "the-day-of-the-locust-1975",
+  "year": 1975,
+  "runtime": 145,
+  "originalTitle": "The Day of the Locust",
+  "title": {
+    "en": "The Day of the Locust",
+    "tr": "Çekirgenin Günü"
+  },
+  "overview": {
+    "en": "Hollywood, 1930s. Tod Hackett, a young painter who tries to make his way as an art director in the lurid world of film industry, gets infatuated with his neighbor Faye Greener, an aspiring actress who prefers the life that Homer Simpson, a lone accountant, can offer her.",
+    "tr": "Çekirgenin Günü, Büyük Buhran sonrası Hollywood ve California’nın kavurucu güneşi altında kâbusa dönüşen Amerikan rüyası hakkında. Başarısız bir ressam, maço bir kovboy, saf bir taşralı, güzel ama yeteneksiz bir yıldızcık, fahişeler, horoz dövüşçüleri… Nathanael West, parlak yıldızların gölgesinde yaşam mücadelesi veren bir grup kaybetmeye mahkûm, umutsuz ve yozlaşmış karakterin portresini grotesk bir üslupla çiziyor."
+  },
+  "poster": {
+    "tr": "/m4T7R448djzbDbURK4eQgo5TllF.jpg",
+    "en": "/m4T7R448djzbDbURK4eQgo5TllF.jpg"
+  },
+  "backdrops": [
+    "/q7t4M8pEXcboOLeOaCeC1ztS35l.jpg",
+    "/CHlsunJ6Nh3V34J6JOfip1nOJm.jpg",
+    "/l1NpxOg1L9RbkBrNiuNstJuOZOe.jpg",
+    "/t6SQPU26qDgiyVhDG54ApZWJ5V3.jpg",
+    "/aKX69xBQh9St764I4JvkMKbbQq7.jpg",
+    "/s6c5Fmc5B3fxQFhVzZouh7eaWy7.jpg",
+    "/epkQe34i8JroBAv0f3scPyeKj0v.jpg"
+  ],
+  "trailerKey": "h7ZsPWW-MBw",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    818,
+    6026,
+    886,
+    11514,
+    12396,
+    12670,
+    170450,
+    199524,
+    207697,
+    207972,
+    214548,
+    222269,
+    225686,
+    227561,
+    236955,
+    263398,
+    325776
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Long Road Productions"
+  ],
+  "crew": [
+    {
+      "personId": 14677,
+      "job": "writer"
+    },
+    {
+      "personId": 19304,
+      "job": "director"
+    },
+    {
+      "personId": 8217,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2289,
+      "job": "composer"
+    },
+    {
+      "personId": 30571,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 55636,
+      "character": "Homer Simpson",
+      "order": 0
+    },
+    {
+      "personId": 8963,
+      "character": "Faye Greener",
+      "order": 1
+    },
+    {
+      "personId": 16523,
+      "character": "Harry Greener",
+      "order": 2
+    },
+    {
+      "personId": 7676,
+      "character": "Tod Hackett",
+      "order": 3
+    },
+    {
+      "personId": 41283,
+      "character": "Big Sister",
+      "order": 4
+    },
+    {
+      "personId": 15413,
+      "character": "Claude Estee",
+      "order": 5
+    },
+    {
+      "personId": 12410,
+      "character": "Earle Shoop",
+      "order": 6
+    },
+    {
+      "personId": 1169,
+      "character": "Miguel",
+      "order": 7
+    },
+    {
+      "personId": 41284,
+      "character": "Mary Dove",
+      "order": 8
+    },
+    {
+      "personId": 17183,
+      "character": "Adore Loomis",
+      "order": 9
+    },
+    {
+      "personId": 12659,
+      "character": "Abe Kusich",
+      "order": 10
+    },
+    {
+      "personId": 154901,
+      "character": "Mrs. Loomis",
+      "order": 11
+    },
+    {
+      "personId": 7643,
+      "character": "Audrey Jennings",
+      "order": 12
+    },
+    {
+      "personId": 118940,
+      "character": "Mrs. Odlesh",
+      "order": 13
+    },
+    {
+      "personId": 11033,
+      "character": "Helverston",
+      "order": 14
+    },
+    {
+      "personId": 12296,
+      "character": "Ned Grote",
+      "order": 15
+    },
+    {
+      "personId": 95227,
+      "character": "Nightclub Entertainer",
+      "order": 16
+    },
+    {
+      "personId": 164974,
+      "character": "Mr. Odlesh",
+      "order": 17
+    },
+    {
+      "personId": 16765,
+      "character": "Mrs. Johnson",
+      "order": 18
+    },
+    {
+      "personId": 45608,
+      "character": "Lee Sister #1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 114,
+  "sources": [
+    "cult-list"
+  ]
+}

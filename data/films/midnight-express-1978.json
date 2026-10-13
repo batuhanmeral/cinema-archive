@@ -1,0 +1,210 @@
+{
+  "tmdbId": 11327,
+  "slug": "midnight-express-1978",
+  "year": 1978,
+  "runtime": 121,
+  "originalTitle": "Midnight Express",
+  "title": {
+    "en": "Midnight Express",
+    "tr": "Geceyarısı Ekspresi"
+  },
+  "overview": {
+    "en": "Billy Hayes is caught attempting to smuggle drugs out of a country. The courts decide to make an example of him, sentencing him to more than 30 years in prison. Hayes has two opportunities for release: the appeals made by his lawyer, his family, and the American government, or the \"Midnight Express\".",
+    "tr": "Geceyarısı Ekspresi Alan Parker'ın yönetmenliğini yaptığı İngiliz-Amerika ortak yapımı ve 1978 çıkışlı bir sinema filmidir. 1970'te, Türkiye'de tutuklanıp hapse atılan William Hayes'in gerçek öyküsünden yola çıkılarak yazılmış hikâyeyi anlatmaktadır. Amerikalı genç bir turist olan William Hayes, sevgilisi Susan ile birlikte Türkiye'de tatildedir. Hayes tatil dönüşü arkadaşlarına satıp para kazanmak amacıyla ülkesine dönerken yanında iki kilogram haşhaş götürmeye teşebbüs eder. Vücuduna canlı bomba gibi yerleştirdiği küçük paketler halindeki uyuşturucu uçağa binmek üzereyken yapılan ani bir güvenlik aramasıyla polisler tarafından bulunur ve İstanbul Sağmalcılar Cezaevi'nde tutuklu geçireceği süreç başlar."
+  },
+  "poster": {
+    "tr": "/5pehL6zEdL0DLhAsU5pv7vOwnUM.jpg",
+    "en": "/vtXJf6DP2rk1yDx369MSAvwl9Cs.jpg"
+  },
+  "backdrops": [
+    "/f4dcx5U9X3w27e8iithmsaohF5t.jpg",
+    "/i09ge9T89Yfu1Q2DyUIQ9f9ALuC.jpg",
+    "/7lsnS82c1RXklfZUpLxiVd2HdR1.jpg",
+    "/aU1llreaVAfxo0ibZSaja1KYxN0.jpg",
+    "/n9CjaaQvcUsf7R8p8JmYkwNicd9.jpg",
+    "/cNwNfzJSvEoyqMuunscn5c9yrPm.jpg",
+    "/dIeD6Sgnpkwu3pkuEQ3rsVsvNCE.jpg",
+    "/gfS5tL3AaWbYDRuemlN0o2Msj0e.jpg",
+    "/l19rnczwDVMly6sZxR4nbFx7uIL.jpg",
+    "/eiXTpQ2YZ9Egr5815FlkHranMoX.jpg"
+  ],
+  "trailerKey": "lhuutAnXBzQ",
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    378,
+    822,
+    3391,
+    10685,
+    6148,
+    1228,
+    5034,
+    9672,
+    9774,
+    10909,
+    13006,
+    14551,
+    14707,
+    15278,
+    33451,
+    195897,
+    226431,
+    251667,
+    266753,
+    314730,
+    325839
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "mt",
+    "tr"
+  ],
+  "studios": [
+    "Columbia Pictures",
+    "Casablanca Filmworks"
+  ],
+  "crew": [
+    {
+      "personId": 9168,
+      "job": "director"
+    },
+    {
+      "personId": 1152,
+      "job": "writer"
+    },
+    {
+      "personId": 7726,
+      "job": "producer"
+    },
+    {
+      "personId": 8967,
+      "job": "producer"
+    },
+    {
+      "personId": 1154,
+      "job": "composer"
+    },
+    {
+      "personId": 9165,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 69010,
+      "character": "Billy Hayes",
+      "order": 0
+    },
+    {
+      "personId": 69011,
+      "character": "Susan",
+      "order": 1
+    },
+    {
+      "personId": 12410,
+      "character": "Tex",
+      "order": 2
+    },
+    {
+      "personId": 4819,
+      "character": "Rifki",
+      "order": 3
+    },
+    {
+      "personId": 39782,
+      "character": "Hamidou",
+      "order": 4
+    },
+    {
+      "personId": 1811,
+      "character": "Jimmy Booth",
+      "order": 5
+    },
+    {
+      "personId": 6701,
+      "character": "Erich",
+      "order": 6
+    },
+    {
+      "personId": 5049,
+      "character": "Max",
+      "order": 7
+    },
+    {
+      "personId": 50762,
+      "character": "Mr. Hayes",
+      "order": 8
+    },
+    {
+      "personId": 100937,
+      "character": "Yesil",
+      "order": 9
+    },
+    {
+      "personId": 1080265,
+      "character": "Stanley Daniels",
+      "order": 10
+    },
+    {
+      "personId": 32315,
+      "character": "Chief Judge",
+      "order": 11
+    },
+    {
+      "personId": 743,
+      "character": "Prosecutor",
+      "order": 12
+    },
+    {
+      "personId": 82549,
+      "character": "Ahmet",
+      "order": 13
+    },
+    {
+      "personId": 2403993,
+      "character": "Airport Customs Officer",
+      "order": 14
+    },
+    {
+      "personId": 2021229,
+      "character": "Airport Police Chief",
+      "order": 15
+    },
+    {
+      "personId": 73710,
+      "character": "Airport Security Chief",
+      "order": 16
+    },
+    {
+      "personId": 2403995,
+      "character": "Aslan",
+      "order": 17
+    },
+    {
+      "personId": 1031174,
+      "character": "Police Detective",
+      "order": 18
+    },
+    {
+      "personId": 18850,
+      "character": "Court Translator",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2,
+    "bafta": 3,
+    "golden-globe": 3
+  },
+  "voteCount": 1971,
+  "sources": [
+    "cult-list"
+  ]
+}

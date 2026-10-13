@@ -1,0 +1,209 @@
+{
+  "tmdbId": 11022,
+  "slug": "narc-2002",
+  "year": 2002,
+  "runtime": 105,
+  "originalTitle": "Narc",
+  "title": {
+    "en": "Narc",
+    "tr": "Ölümcül Oyun"
+  },
+  "overview": {
+    "en": "Narcotics Sergeant Nick Tellis, on leave after a trauma, is called back to investigate the murder of fellow undercover operative Michael Calvess, joined by the victim's unpredictable and brutal ex-partner, Henry Oak. Working together in the back alleys of Detroit, Tellis and Oak delve into a dark investigation that leads them to uncover shocking secrets and question the corruption and morality within the department, encountering unorthodox methods and a brutal truth about Calvess's death.",
+    "tr": "Polislikten uzaklaştırılan Nick Tellis, öldürülen çaylak bir polisin cinayetini araştırmak üzere yeniden mesleğine geri döner. Ona bu görevinde yardımcı olacak kişi, ölen polisin eski ortağıdır..."
+  },
+  "poster": {
+    "tr": "/uGHFyVdMQKvIXlsLAoXa5nOUGF.jpg",
+    "en": "/uGHFyVdMQKvIXlsLAoXa5nOUGF.jpg"
+  },
+  "backdrops": [
+    "/lu1eTRsyZztMmfR5Q30k2jFPMri.jpg",
+    "/9Bt4kjnZDAvPKExAMlAFbx4tlyd.jpg",
+    "/vaj9wNfVLXSpBenTnxLIjkTRfJ3.jpg",
+    "/gf7qLVxut4hmWMc6ayE3GcuIuUL.jpg",
+    "/plDMtOmZG7bmo38qD5FI6D2fyOg.jpg",
+    "/fH88opTKfDrlLSAzPKVtIcHnScS.jpg",
+    "/fYxPPEARO8bSo9GW7bIuj35OkJf.jpg",
+    "/okp4qcT1UTGBdbgIr5oTzrHpWgC.jpg",
+    "/wkk6tdGdI1qk8v917pMSSULdWwE.jpg",
+    "/bSbIVgS2jMcoxbk0gKDPsfRZ4RW.jpg"
+  ],
+  "trailerKey": "f3sk4PIBfbk",
+  "genreIds": [
+    80,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    516,
+    796,
+    1568,
+    1803,
+    5340,
+    4927,
+    9849,
+    9665,
+    9826,
+    11730,
+    18021,
+    41352,
+    155799,
+    193309,
+    207268
+  ],
+  "countries": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Julius R. Nasso Productions",
+    "Tiara Blu Films",
+    "Cruise/Wagner Productions"
+  ],
+  "crew": [
+    {
+      "personId": 59443,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11477,
+      "job": "producer"
+    },
+    {
+      "personId": 60026,
+      "job": "producer"
+    },
+    {
+      "personId": 24052,
+      "job": "producer"
+    },
+    {
+      "personId": 8377,
+      "job": "composer"
+    },
+    {
+      "personId": 40223,
+      "job": "director"
+    },
+    {
+      "personId": 58206,
+      "job": "producer"
+    },
+    {
+      "personId": 40223,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12261,
+      "character": "Det. Sgt. Nick Tellis",
+      "order": 0
+    },
+    {
+      "personId": 11477,
+      "character": "Det. Lt. Henry Oak",
+      "order": 1
+    },
+    {
+      "personId": 8687,
+      "character": "Cpt. Mitchell Cheevers",
+      "order": 2
+    },
+    {
+      "personId": 43257,
+      "character": "Audrey Tellis",
+      "order": 3
+    },
+    {
+      "personId": 40543,
+      "character": "Octavio Ruiz",
+      "order": 4
+    },
+    {
+      "personId": 6485,
+      "character": "Darnell 'Big D Love' Beery",
+      "order": 5
+    },
+    {
+      "personId": 166430,
+      "character": "Latroy Steeds",
+      "order": 6
+    },
+    {
+      "personId": 99183,
+      "character": "Michael Calvess",
+      "order": 7
+    },
+    {
+      "personId": 55569,
+      "character": "Kathryn Calvess",
+      "order": 8
+    },
+    {
+      "personId": 199811,
+      "character": "Medical Examiner Art Harlan",
+      "order": 9
+    },
+    {
+      "personId": 67843,
+      "character": "Walter Dandridge",
+      "order": 10
+    },
+    {
+      "personId": 67844,
+      "character": "Jeanine Mueller",
+      "order": 11
+    },
+    {
+      "personId": 52703,
+      "character": "Freeman Franks",
+      "order": 12
+    },
+    {
+      "personId": 1171755,
+      "character": "Eugene \"Deacon\" Sheps",
+      "order": 13
+    },
+    {
+      "personId": 197336,
+      "character": "Young Kathryn",
+      "order": 14
+    },
+    {
+      "personId": 1233146,
+      "character": "Officer Ellis Breaves",
+      "order": 15
+    },
+    {
+      "personId": 261500,
+      "character": "Elvin Dowd",
+      "order": 16
+    },
+    {
+      "personId": 4879422,
+      "character": "Calvess' Daughter",
+      "order": 17
+    },
+    {
+      "personId": 1219185,
+      "character": "Cecil Mitchum",
+      "order": 18
+    },
+    {
+      "personId": 2531072,
+      "character": "Officer Marcotte",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 623,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "tmdbId": 4960,
+  "slug": "synecdoche-new-york-2008",
+  "year": 2008,
+  "runtime": 124,
+  "originalTitle": "Synecdoche, New York",
+  "title": {
+    "en": "Synecdoche, New York",
+    "tr": "New York Yanılsamaları"
+  },
+  "overview": {
+    "en": "A theater director struggles with his work, and the women in his life, as he attempts to create a life-size replica of New York inside a warehouse as part of his new play.",
+    "tr": "Tiyatro yönetmeni Caden yeni bir oyun üzerinde çalışmaktadır. Karısı Adele Berlin'deki tablolarını takip edebilmek için küçük kızları Olive'yi de alarak onu terk eder. Terapisti Madeleine ona tavsiyeler vermek yerine çok satan kitabının sayfalarında gezinmektedir. Çekici ve samimi Hazel ile olan ilişkisiyse beklenmedik şekilde karaya oturur. Kendi var oluşunu anlamlı kılmak ve ölümsüzlük saplantısını tatmin etmek için bir binayı tiyatro sahnesi olarak düzenleyip, her bir bölümünde çeşitli yaşamları oynayacak oyuncuları içine yerleştirme ve yönetme kararı alır * Eternal Sunshine of the Spotless Mind ve Being John Malkovich gibi filmlerin hayalgücü sınır tanımayan senaristi Charlie Kaufman'ın yazıp, ilk defa yönetmen koltuğuna oturduğu filmi Synecdoche, New York, ilginç senaryosuyla dikkatleri üzerine çekiyor."
+  },
+  "poster": {
+    "tr": "/5UwdhrjXhUgsiDhe1dpS9z4yj7q.jpg",
+    "en": "/ZLNHDNSnBzQlCEjHMsQ7mJU0sX.jpg"
+  },
+  "backdrops": [
+    "/z49xfB5s3A7G8vnXDfzFWJup046.jpg",
+    "/insPcjOIWFf6Uc9DR0ORgXATqSM.jpg",
+    "/idUBQH8PtKHNRt8zUkvWFktQlpO.jpg",
+    "/jlEhA4f8D1fEtmgRxTxDZn9kwWr.jpg",
+    "/mQINkD6wPX9zaN24s9YZkYNv6iB.jpg",
+    "/41xYlcGDr7uhuju2HiUwtcjH20c.jpg",
+    "/j9LPIRcccLE3KQ8bAu5PIQ5jru5.jpg",
+    "/7um9RVoOZwFeVWRtVV7qo5UqKS4.jpg",
+    "/H0d3TRcYIdgwkyW5ySYuYcw1fV.jpg",
+    "/brAxuqkIAp2jnlZAiTSo3o4IWrt.jpg"
+  ],
+  "trailerKey": "i2q8F0yRmrs",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    894,
+    242,
+    1541,
+    490,
+    3307,
+    9887,
+    5756,
+    6521,
+    9840,
+    13028,
+    15160,
+    156597,
+    181324,
+    190755,
+    251667,
+    285695,
+    325764,
+    325773
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "studios": [
+    "Likely Story",
+    "Projective Testing Service",
+    "Sidney Kimmel Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 202,
+      "job": "producer"
+    },
+    {
+      "personId": 5953,
+      "job": "producer"
+    },
+    {
+      "personId": 312,
+      "job": "composer"
+    },
+    {
+      "personId": 35180,
+      "job": "producer"
+    },
+    {
+      "personId": 321,
+      "job": "producer"
+    },
+    {
+      "personId": 4434,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 202,
+      "job": "director"
+    },
+    {
+      "personId": 202,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1233,
+      "character": "Caden Cotard",
+      "order": 0
+    },
+    {
+      "personId": 2206,
+      "character": "Hazel",
+      "order": 1
+    },
+    {
+      "personId": 1812,
+      "character": "Claire Keen",
+      "order": 2
+    },
+    {
+      "personId": 2229,
+      "character": "Adele Lack",
+      "order": 3
+    },
+    {
+      "personId": 1639,
+      "character": "Tammy",
+      "order": 4
+    },
+    {
+      "personId": 1902,
+      "character": "Ellen Bascomb / Millicent Weems",
+      "order": 5
+    },
+    {
+      "personId": 10431,
+      "character": "Maria",
+      "order": 6
+    },
+    {
+      "personId": 15250,
+      "character": "Madeleine Gravis",
+      "order": 7
+    },
+    {
+      "personId": 119232,
+      "character": "Sammy Barnathan",
+      "order": 8
+    },
+    {
+      "personId": 17180,
+      "character": "Olive (4 years old)",
+      "order": 9
+    },
+    {
+      "personId": 79087,
+      "character": "Adult Olive",
+      "order": 10
+    },
+    {
+      "personId": 77013,
+      "character": "Ellen's Mother",
+      "order": 11
+    },
+    {
+      "personId": 17488,
+      "character": "Actress Playing Frances",
+      "order": 12
+    },
+    {
+      "personId": 87007,
+      "character": "Burning House Realtor",
+      "order": 13
+    },
+    {
+      "personId": 126713,
+      "character": "Warehouse Realtor",
+      "order": 14
+    },
+    {
+      "personId": 60021,
+      "character": "Pastor",
+      "order": 15
+    },
+    {
+      "personId": 127069,
+      "character": "Like Clockwork Patient",
+      "order": 16
+    },
+    {
+      "personId": 1371296,
+      "character": "Medic",
+      "order": 17
+    },
+    {
+      "personId": 6181,
+      "character": "Ophthalmologist",
+      "order": 18
+    },
+    {
+      "personId": 8792,
+      "character": "Caden's Mother",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1700,
+  "sources": [
+    "cult-list"
+  ]
+}

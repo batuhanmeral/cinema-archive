@@ -1,0 +1,183 @@
+{
+  "tmdbId": 8418,
+  "slug": "kolberg-1945",
+  "year": 1945,
+  "runtime": 110,
+  "originalTitle": "Kolberg",
+  "title": {
+    "en": "Kolberg",
+    "tr": "Kolberg"
+  },
+  "overview": {
+    "en": "During Napoleon's victorious campaign in Germany, the city of Kolberg gets isolated from the retreating Prussian forces. The population of Kolberg refuses to capitulate and organizes the resistance against the French army, which immediately submits the city to massive bombardments.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/mgvelWFAN25rGf4BFwK1btv9Idm.jpg",
+    "en": "/mgvelWFAN25rGf4BFwK1btv9Idm.jpg"
+  },
+  "backdrops": [
+    "/tHQvBuQOdaErfT7ZqBa6kZAFc5P.jpg",
+    "/dlsWImPygOhY9fxCPdJ7FfER3Oe.jpg",
+    "/rzBvDg1eRhYraXmjQtJ3ijW2ajP.jpg",
+    "/pXELYM1BSyPCo3QrfzRYw5IDOD1.jpg",
+    "/oCbF7piqcUsMmUnfbYUhRdVaExg.jpg",
+    "/yP5LZnvO2q9QsCEHjAZgYxx5le.jpg",
+    "/zvAdP4mTr5UZjf3NLxgsZKCBtVr.jpg",
+    "/NYlNyVRIyFLYZn7TGLNYxWarOG.jpg",
+    "/oggDy44ixYOEVx5UE9hvInbyrZX.jpg",
+    "/xscG9Mizz9zSELtpNQsIE2rX8J1.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    10752,
+    36,
+    18
+  ],
+  "keywordIds": [
+    6094,
+    4381
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "UFA"
+  ],
+  "crew": [
+    {
+      "personId": 55761,
+      "job": "director"
+    },
+    {
+      "personId": 6244,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 55761,
+      "job": "writer"
+    },
+    {
+      "personId": 28878,
+      "job": "writer"
+    },
+    {
+      "personId": 36828,
+      "job": "composer"
+    },
+    {
+      "personId": 55761,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 81,
+      "character": "Nettelbeck",
+      "order": 0
+    },
+    {
+      "personId": 55762,
+      "character": "Maria",
+      "order": 1
+    },
+    {
+      "personId": 55764,
+      "character": "Gneisenau",
+      "order": 2
+    },
+    {
+      "personId": 32004,
+      "character": "Schill",
+      "order": 3
+    },
+    {
+      "personId": 29123,
+      "character": "Loucadou",
+      "order": 4
+    },
+    {
+      "personId": 55765,
+      "character": "König Friedrich Wilhelm III.",
+      "order": 5
+    },
+    {
+      "personId": 49293,
+      "character": "Königin",
+      "order": 6
+    },
+    {
+      "personId": 14126,
+      "character": "Rektor",
+      "order": 7
+    },
+    {
+      "personId": 36941,
+      "character": "Claus Werner",
+      "order": 8
+    },
+    {
+      "personId": 38265,
+      "character": "Fanselow",
+      "order": 9
+    },
+    {
+      "personId": 13377,
+      "character": "Major in Königsberg",
+      "order": 10
+    },
+    {
+      "personId": 12324,
+      "character": "Bauer Werner",
+      "order": 11
+    },
+    {
+      "personId": 14131,
+      "character": "Reeder",
+      "order": 12
+    },
+    {
+      "personId": 47319,
+      "character": "Zaufke",
+      "order": 13
+    },
+    {
+      "personId": 1713640,
+      "character": "Bürger",
+      "order": 14
+    },
+    {
+      "personId": 22720,
+      "character": "Gen. Loison",
+      "order": 15
+    },
+    {
+      "personId": 46192,
+      "character": "Franz",
+      "order": 16
+    },
+    {
+      "personId": 1340421,
+      "character": "Gen. Teuliè",
+      "order": 17
+    },
+    {
+      "personId": 3363835,
+      "character": "Napoléon Ier",
+      "order": 18
+    },
+    {
+      "personId": 30790,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 12,
+  "sources": [
+    "cult-list"
+  ]
+}

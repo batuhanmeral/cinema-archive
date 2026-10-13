@@ -1,0 +1,114 @@
+{
+  "tmdbId": 18841,
+  "slug": "the-lost-skeleton-of-cadavra-2001",
+  "year": 2001,
+  "runtime": 90,
+  "originalTitle": "The Lost Skeleton of Cadavra",
+  "title": {
+    "en": "The Lost Skeleton of Cadavra",
+    "tr": "The Lost Skeleton of Cadavra"
+  },
+  "overview": {
+    "en": "A dedicated scientist, aided by his clueless wife, rolls up his shirt sleeves and tries to save the world from a radioactive monster, curious space aliens, an evil scientist and a crabby skeleton.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/nGUjqu7DotLx6yfakAeqaj8D1FO.jpg",
+    "en": "/nGUjqu7DotLx6yfakAeqaj8D1FO.jpg"
+  },
+  "backdrops": [
+    "/3oS3h14rd7NjjkNcBydVIzrQuYm.jpg",
+    "/b4C2dqKNNwJc5I1a0k0nu2Klkfo.jpg"
+  ],
+  "trailerKey": "j8D0PQQDptM",
+  "genreIds": [
+    35,
+    27,
+    878
+  ],
+  "keywordIds": [
+    4062,
+    1299,
+    1852,
+    4862
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Fragmighty",
+    "Transom Films",
+    "Valenti Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 88837,
+      "job": "writer"
+    },
+    {
+      "personId": 88837,
+      "job": "director"
+    },
+    {
+      "personId": 1709722,
+      "job": "producer"
+    },
+    {
+      "personId": 2586559,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 65409,
+      "character": "Betty Armstrong",
+      "order": 0
+    },
+    {
+      "personId": 88838,
+      "character": "Kro-Bar",
+      "order": 1
+    },
+    {
+      "personId": 88839,
+      "character": "Lattis",
+      "order": 2
+    },
+    {
+      "personId": 1990,
+      "character": "Dr. Roger Fleming",
+      "order": 3
+    },
+    {
+      "personId": 88840,
+      "character": "Animala",
+      "order": 4
+    },
+    {
+      "personId": 88841,
+      "character": "Ranger Brad",
+      "order": 5
+    },
+    {
+      "personId": 88842,
+      "character": "The Farmer",
+      "order": 6
+    },
+    {
+      "personId": 88843,
+      "character": "The Mutant",
+      "order": 7
+    },
+    {
+      "personId": 88837,
+      "character": "Dr. Paul Armstrong",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 90,
+  "sources": [
+    "cult-list"
+  ]
+}

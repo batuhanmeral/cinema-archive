@@ -1,0 +1,134 @@
+{
+  "tmdbId": 39883,
+  "slug": "schramm-1993",
+  "year": 1993,
+  "runtime": 65,
+  "originalTitle": "Schramm",
+  "title": {
+    "en": "Schramm",
+    "tr": "Schramm"
+  },
+  "overview": {
+    "en": "Lothar Schramm is a simple man with complex problems, yet he seems like such a nice guy. He works as a taxi driver and lives by himself where he is happy to answer his door to strangers and kill them outright. As with many shy loner types he has a problem dealing with women so he drugs them and photographs their nude bodies for sexual stimulation. He then murders his helpless victims and so goes the life of a deranged serial killer.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xMZlbJmohBzuWY4DNT7eUcFZqxD.jpg",
+    "en": "/reIDy2FFN4Apz8lTm4P7yQKWg0a.jpg"
+  },
+  "backdrops": [
+    "/8eeProseSvUSMPr1WNWPuRAp93S.jpg"
+  ],
+  "trailerKey": "i7vkJJWIB54",
+  "genreIds": [
+    27,
+    18,
+    80
+  ],
+  "keywordIds": [
+    10714
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "fr",
+    "de"
+  ],
+  "studios": [
+    "Jelinski & Buttgereit"
+  ],
+  "crew": [
+    {
+      "personId": 70602,
+      "job": "director"
+    },
+    {
+      "personId": 70604,
+      "job": "writer"
+    },
+    {
+      "personId": 70602,
+      "job": "writer"
+    },
+    {
+      "personId": 70605,
+      "job": "producer"
+    },
+    {
+      "personId": 2796437,
+      "job": "composer"
+    },
+    {
+      "personId": 5082422,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2334,
+      "character": "Lothar Schramm",
+      "order": 0
+    },
+    {
+      "personId": 1281505,
+      "character": "Marianne",
+      "order": 1
+    },
+    {
+      "personId": 1281506,
+      "character": "Believer",
+      "order": 2
+    },
+    {
+      "personId": 1281507,
+      "character": "Believer",
+      "order": 3
+    },
+    {
+      "personId": 3768,
+      "character": "Old Man 1",
+      "order": 4
+    },
+    {
+      "personId": 1281508,
+      "character": "Old Man 2",
+      "order": 5
+    },
+    {
+      "personId": 1281509,
+      "character": "Jesus",
+      "order": 6
+    },
+    {
+      "personId": 70604,
+      "character": "Dentist",
+      "order": 7
+    },
+    {
+      "personId": 1281510,
+      "character": "Dentist",
+      "order": 8
+    },
+    {
+      "personId": 21337,
+      "character": "Lover",
+      "order": 9
+    },
+    {
+      "personId": 1281511,
+      "character": "Suicide",
+      "order": 10
+    },
+    {
+      "personId": 1281512,
+      "character": "Waiter",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 86,
+  "sources": [
+    "cult-list"
+  ]
+}

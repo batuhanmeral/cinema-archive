@@ -1,0 +1,210 @@
+{
+  "tmdbId": 87,
+  "slug": "indiana-jones-and-the-temple-of-doom-1984",
+  "year": 1984,
+  "runtime": 118,
+  "originalTitle": "Indiana Jones and the Temple of Doom",
+  "title": {
+    "en": "Indiana Jones and the Temple of Doom",
+    "tr": "Indiana Jones: Kamçılı Adam"
+  },
+  "overview": {
+    "en": "After arriving in India, Indiana Jones is asked by a desperate village to find a mystical stone. He agrees – and stumbles upon a secret cult plotting a terrible plan in the catacombs of an ancient palace.",
+    "tr": "Şangay’da bir gece kulübündeki kargaşadan son anda kaçan Indiana Jones, yanında uzakdoğulu küçük yardımcısı ve istemeden kader birliği ettiği genç ve çekici şarkıcı Willie olduğu halde, kendisini Hindistan’da bulur. Maceraperest arkeolog, küçük bir köydeki çocukları kaçırarak madende çalıştıran ve zulüm eden Thuggee tarikatıyla karşı karşıya gelir. Kana susamış bu şeytani tarikatın hedefi, yüz yıl önce İngiliz sömürgeciler tarafından yasaklanan korkunç eylemlerine devam etmek için madenlerde kaybolmuş olan kutsal elmasları bulmaktır."
+  },
+  "poster": {
+    "tr": "/wLpjJ1TajsAnpTYSlwqZHZS6Dqj.jpg",
+    "en": "/wdv7EdutnHid5J0GERoq8lWUfq9.jpg"
+  },
+  "backdrops": [
+    "/2hMt6zKQsvYvH3ZRe8T6RzAD2XB.jpg",
+    "/iO73omOyLwUPW22EpaZkJNC72ec.jpg",
+    "/a4cX1maHQn5JFQMfYGR72cK8bfH.jpg",
+    "/xDGFzUU0eJLDwgb5hjkYK3f0Uv9.jpg",
+    "/g928cEtQ5xep2jmkpv4W4NHRpeh.jpg",
+    "/4ooZwR267AZXEvXziUNgLQlj6YR.jpg",
+    "/f133nWlU6yUkZqqwcCXCbTEJWHr.jpg",
+    "/ysQlsAuidf3G6fNhcKlPKBhkHXr.jpg",
+    "/wR2Fd3G5wADovzYcioQUPlYZbpu.jpg",
+    "/iBYpzFytr6JDBKfPaccxuU8lGt7.jpg"
+  ],
+  "trailerKey": "WBdyLyijZhU",
+  "genreIds": [
+    12,
+    28
+  ],
+  "keywordIds": [
+    1454,
+    4062,
+    1935,
+    2857,
+    2860,
+    483,
+    3185,
+    3450,
+    6956,
+    9663,
+    9675,
+    13006,
+    14636,
+    15149,
+    41586,
+    167106,
+    170881,
+    174465,
+    174468,
+    174480,
+    175428,
+    184134,
+    214548,
+    325811,
+    325812
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "zh",
+    "en",
+    "si"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Lucasfilm Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 488,
+      "job": "director"
+    },
+    {
+      "personId": 687,
+      "job": "writer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 686,
+      "job": "writer"
+    },
+    {
+      "personId": 666,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 711,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3,
+      "character": "Indiana Jones",
+      "order": 0
+    },
+    {
+      "personId": 689,
+      "character": "Willie Scott",
+      "order": 1
+    },
+    {
+      "personId": 690,
+      "character": "Short Round",
+      "order": 2
+    },
+    {
+      "personId": 691,
+      "character": "Mola Ram",
+      "order": 3
+    },
+    {
+      "personId": 693,
+      "character": "Chattar Lal",
+      "order": 4
+    },
+    {
+      "personId": 694,
+      "character": "Phillip Blumburtt",
+      "order": 5
+    },
+    {
+      "personId": 695,
+      "character": "Lao Che",
+      "order": 6
+    },
+    {
+      "personId": 696,
+      "character": "Wu Han",
+      "order": 7
+    },
+    {
+      "personId": 11397,
+      "character": "Kao Kan",
+      "order": 8
+    },
+    {
+      "personId": 699,
+      "character": "Chen",
+      "order": 9
+    },
+    {
+      "personId": 701,
+      "character": "Maitre d'",
+      "order": 10
+    },
+    {
+      "personId": 702,
+      "character": "Chief Henchman",
+      "order": 11
+    },
+    {
+      "personId": 707,
+      "character": "Art Weber",
+      "order": 12
+    },
+    {
+      "personId": 1402218,
+      "character": "Chinese Pilot",
+      "order": 13
+    },
+    {
+      "personId": 80123,
+      "character": "Chinese Co-Pilot",
+      "order": 14
+    },
+    {
+      "personId": 1055317,
+      "character": "Shaman",
+      "order": 15
+    },
+    {
+      "personId": 1402258,
+      "character": "Chieftain",
+      "order": 16
+    },
+    {
+      "personId": 1402260,
+      "character": "Sajnu",
+      "order": 17
+    },
+    {
+      "personId": 1402261,
+      "character": "Village Woman",
+      "order": 18
+    },
+    {
+      "personId": 1402263,
+      "character": "Village Woman",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 10486,
+  "sources": [
+    "cult-list"
+  ]
+}

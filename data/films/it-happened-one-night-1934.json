@@ -1,0 +1,201 @@
+{
+  "tmdbId": 3078,
+  "slug": "it-happened-one-night-1934",
+  "year": 1934,
+  "runtime": 105,
+  "originalTitle": "It Happened One Night",
+  "title": {
+    "en": "It Happened One Night",
+    "tr": "Bir Gecede Oldu"
+  },
+  "overview": {
+    "en": "A runaway heiress makes a deal with the rogue reporter trailing her but the mismatched pair end up stuck with each other when their bus leaves them behind.",
+    "tr": "Zengin ve güçlü Alexander Andrews, kızı Ellie’nin King Westley’yle olan evliliğini onaylamaz. Kızını kaçırtır ve evliliği sonlandırmaya çalışır. Ancak Ellie, tutulduğu yattan kaçmayı başarır. Babasının adamlarına yakalanmadan kocasının yanına gitmeye çalışan Ellie’nin yolu, bindiği otobüste Peter Warne’la kesişir. Kurnaz ve haber peşinde koşan bir gazeteci olan Peter, ayağına gelen fırsatı kaçırmaz. İkilinin ilişkisi başlangıçta çıkar üzerine kurulsa da, zamanla aşka evrilir. Buna karşın önlerinde engeller ve yanlış anlamalar mevcuttur."
+  },
+  "poster": {
+    "tr": "/Aw0pKKswRxkFlcq5KWgliGRZcDD.jpg",
+    "en": "/wx4ptyx3vlPBVl5DzBA8KomcJww.jpg"
+  },
+  "backdrops": [
+    "/hmiC0MsI0PDd1TJXC62xyw0tX0s.jpg",
+    "/wxZrzT4WAS6PthKX1JtBpKBe5wl.jpg",
+    "/yWpbG6BT0IdwBnGHpCUicKTDGOm.jpg",
+    "/3ad3ozEw5f4AxAorb4sRVOfbrCD.jpg",
+    "/d0TMHWQxsqczrQ7CKyCVqfEbNRd.jpg",
+    "/5aBd6S8AyrIAaxd7KCPutzrbWZv.jpg",
+    "/nJnoMFcNNvTfPAyp4xlW6c5gbut.jpg",
+    "/gukZJeYmldpFpVi2E7MSrqIdCqQ.jpg",
+    "/slTwhnEalTsSfNddUSaajbNofoN.jpg",
+    "/AkrH4l7cwI4Ejnq0yNDskaJuJEr.jpg"
+  ],
+  "trailerKey": "FUAxNS_31So",
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    918,
+    416,
+    6038,
+    12193,
+    12999,
+    155457,
+    156037,
+    156764,
+    156866,
+    160362,
+    163726,
+    167043,
+    190190,
+    208156,
+    209606,
+    256087,
+    288816,
+    319397,
+    324429
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 2662,
+      "job": "producer"
+    },
+    {
+      "personId": 2662,
+      "job": "director"
+    },
+    {
+      "personId": 29341,
+      "job": "producer"
+    },
+    {
+      "personId": 19019,
+      "job": "writer"
+    },
+    {
+      "personId": 17761,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 29276,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11492,
+      "character": "Peter Warne",
+      "order": 0
+    },
+    {
+      "personId": 30155,
+      "character": "Ellie Andrews",
+      "order": 1
+    },
+    {
+      "personId": 30156,
+      "character": "Alexander Andrews",
+      "order": 2
+    },
+    {
+      "personId": 30157,
+      "character": "Oscar Shapeley",
+      "order": 3
+    },
+    {
+      "personId": 30158,
+      "character": "King Westley",
+      "order": 4
+    },
+    {
+      "personId": 8729,
+      "character": "Danker",
+      "order": 5
+    },
+    {
+      "personId": 29263,
+      "character": "Zeke",
+      "order": 6
+    },
+    {
+      "personId": 30159,
+      "character": "Zeke's Wife",
+      "order": 7
+    },
+    {
+      "personId": 30160,
+      "character": "Joe Gordon",
+      "order": 8
+    },
+    {
+      "personId": 34098,
+      "character": "Bag Thief (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 1075381,
+      "character": "Woman at Auto Camp (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 30530,
+      "character": "Gas Station Attendant (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 120472,
+      "character": "Clark (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1782178,
+      "character": "Wedding Party Guest (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 2870279,
+      "character": "Wedding Guest (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 4303,
+      "character": "Bus Driver (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 948509,
+      "character": "Henderson (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 121175,
+      "character": "Bus Passenger (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1167421,
+      "character": "Reporter (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 14453,
+      "character": "Detective (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 5
+  },
+  "voteCount": 1478,
+  "sources": [
+    "cult-list"
+  ]
+}

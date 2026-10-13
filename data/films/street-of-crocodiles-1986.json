@@ -1,0 +1,93 @@
+{
+  "tmdbId": 59357,
+  "slug": "street-of-crocodiles-1986",
+  "year": 1986,
+  "runtime": 21,
+  "originalTitle": "Street of Crocodiles",
+  "title": {
+    "en": "Street of Crocodiles",
+    "tr": "Street of Crocodiles"
+  },
+  "overview": {
+    "en": "A puppet, newly released from his strings, explores the sinister room in which he finds himself.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dbHs6pwSDuuX3n17ARz5Shps3ZU.jpg",
+    "en": "/dbHs6pwSDuuX3n17ARz5Shps3ZU.jpg"
+  },
+  "backdrops": [
+    "/gioBVeKMT0gyh0x4NOsk19lDJdp.jpg",
+    "/lSC8AAl6nHh2LSdKOcaS8eiZbb6.jpg",
+    "/3WoIs6FXEyRO8z8QgN4KY2yish8.jpg"
+  ],
+  "trailerKey": "scuTxxeozBw",
+  "genreIds": [
+    16,
+    14
+  ],
+  "keywordIds": [
+    1969,
+    9887,
+    8271,
+    10121,
+    34130,
+    169866,
+    189415,
+    210162,
+    285070,
+    315498,
+    358468
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [],
+  "studios": [
+    "Atelier Koninck",
+    "BFI",
+    "Channel 4 Television"
+  ],
+  "crew": [
+    {
+      "personId": 124237,
+      "job": "director"
+    },
+    {
+      "personId": 124238,
+      "job": "director"
+    },
+    {
+      "personId": 124237,
+      "job": "writer"
+    },
+    {
+      "personId": 1797721,
+      "job": "composer"
+    },
+    {
+      "personId": 124238,
+      "job": "writer"
+    },
+    {
+      "personId": 229247,
+      "job": "producer"
+    },
+    {
+      "personId": 3362499,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4409628,
+      "character": "Caretaker",
+      "order": 0
+    }
+  ],
+  "awards": {},
+  "voteCount": 83,
+  "sources": [
+    "cult-list"
+  ]
+}

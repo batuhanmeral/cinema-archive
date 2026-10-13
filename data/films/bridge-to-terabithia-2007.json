@@ -1,0 +1,207 @@
+{
+  "tmdbId": 1265,
+  "slug": "bridge-to-terabithia-2007",
+  "year": 2007,
+  "runtime": 95,
+  "originalTitle": "Bridge to Terabithia",
+  "title": {
+    "en": "Bridge to Terabithia",
+    "tr": "Terabithia Köprüsü"
+  },
+  "overview": {
+    "en": "Jesse Aarons trained all summer to become the fastest runner in school. So he's very upset when newcomer Leslie Burke outruns him and everyone else. Despite this and other differences including that she's rich, he's poor, she's a city girl, and he's a country boy the two become fast friends. Together they create Terabithia, a land of monsters, trolls, ogres, and giants where they rule as king and queen.",
+    "tr": "Çocukların hayal gücünün sınırı yoktur. Bunun en güzel kanıtı olarak iki çocuğun, hayatın tüm gerçeklerinden uzak, kendi aralarında oluşturdukları yeni bir dünyanın öyküsü Terabithia Köprüsü. Jesse, hayal dünyası oldukça kuvvetli ve gerçek üstü hikayelere de çok meraklı bir çocuktur. Sınıflarına yeni gelen Leslie’nin de kendisiyle benzer bir dünyayı paylaştığını anlaması ile ikili arasında keyifli bir arkadaşlık başlar. Oturduklara yere çok yakın olan bir ormanın içinde sadece kendilerinin bildiği ve görebildiği, içinde devler, troller ve daha bir dolu gizemin bulunduğu, Terabithia isminde bir dünya yaratırlar. Üstelik bu dünyada önemli bir konumları da vardır. Artık kral ve kraliçe olmuşlardır."
+  },
+  "poster": {
+    "tr": "/k8a3I6CirbPiemdU2LPyOis51XU.jpg",
+    "en": "/3xFxGodKPMFLheS8rujFSmLfcq4.jpg"
+  },
+  "backdrops": [
+    "/sqpFZaPi3VSXDRRz4gRFlHfrYKy.jpg",
+    "/o4mQHoP8LExn2Q9dn16OGqHvaiK.jpg",
+    "/5ZFydVjSpSUzYkPbNbz4aXqdJIx.jpg",
+    "/tH2SoOS2HqOJCOImbeGkmKSdCMz.jpg",
+    "/jfxTTQqb9FRUPDLMn5BUWVvVsKf.jpg",
+    "/qzIEpucRXI3NYb4eH3PrG6D5tih.jpg",
+    "/sndHKHN3B6e0TkE5SRgOWKQ57xv.jpg",
+    "/i1Ral4LZz3wQFzE7Z0nvR9ca5uP.jpg",
+    "/i7dNjg7FcUEGP45l5irtPw01eTJ.jpg",
+    "/U5TEwFHIwMFw4srsjo97Un8iGO.jpg"
+  ],
+  "trailerKey": "VxSs4mpFFRk",
+  "genreIds": [
+    12,
+    18,
+    10751
+  ],
+  "keywordIds": [
+    6054,
+    380,
+    818,
+    6733,
+    10226,
+    10873,
+    13151,
+    15101,
+    166287,
+    170345,
+    170350,
+    170351,
+    170356,
+    170362,
+    204383,
+    325783
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Lauren Levine Productions Inc.",
+    "Walden Media",
+    "Hal Lieberman Company"
+  ],
+  "crew": [
+    {
+      "personId": 36697,
+      "job": "director"
+    },
+    {
+      "personId": 36698,
+      "job": "writer"
+    },
+    {
+      "personId": 54487,
+      "job": "producer"
+    },
+    {
+      "personId": 7227,
+      "job": "producer"
+    },
+    {
+      "personId": 54488,
+      "job": "producer"
+    },
+    {
+      "personId": 40384,
+      "job": "composer"
+    },
+    {
+      "personId": 1044,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 54488,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27972,
+      "character": "Jess Aarons",
+      "order": 0
+    },
+    {
+      "personId": 1285,
+      "character": "Leslie Burke",
+      "order": 1
+    },
+    {
+      "personId": 11664,
+      "character": "Ms. Edmunds",
+      "order": 2
+    },
+    {
+      "personId": 418,
+      "character": "Jack Aarons",
+      "order": 3
+    },
+    {
+      "personId": 54479,
+      "character": "May Belle Aarons",
+      "order": 4
+    },
+    {
+      "personId": 54478,
+      "character": "Mary Aarons",
+      "order": 5
+    },
+    {
+      "personId": 3522797,
+      "character": "Brenda Aarons",
+      "order": 6
+    },
+    {
+      "personId": 54481,
+      "character": "Ellie Aarons",
+      "order": 7
+    },
+    {
+      "personId": 54480,
+      "character": "Joyce Aarons",
+      "order": 8
+    },
+    {
+      "personId": 54485,
+      "character": "Bill Burke",
+      "order": 9
+    },
+    {
+      "personId": 5532,
+      "character": "Judy Burke",
+      "order": 10
+    },
+    {
+      "personId": 54484,
+      "character": "Grandma Burke",
+      "order": 11
+    },
+    {
+      "personId": 54482,
+      "character": "Janice Avery",
+      "order": 12
+    },
+    {
+      "personId": 54483,
+      "character": "Carla",
+      "order": 13
+    },
+    {
+      "personId": 1239985,
+      "character": "Scott Hoager",
+      "order": 14
+    },
+    {
+      "personId": 1240893,
+      "character": "Gary Fulcher",
+      "order": 15
+    },
+    {
+      "personId": 54486,
+      "character": "Madison",
+      "order": 16
+    },
+    {
+      "personId": 54493,
+      "character": "Mrs. Myers",
+      "order": 17
+    },
+    {
+      "personId": 54492,
+      "character": "Principal Turner",
+      "order": 18
+    },
+    {
+      "personId": 54494,
+      "character": "Kenny (Bus Driver)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 5542,
+  "sources": [
+    "cult-list"
+  ]
+}

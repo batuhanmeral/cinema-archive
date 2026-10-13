@@ -1,0 +1,177 @@
+{
+  "tmdbId": 44132,
+  "slug": "the-beast-1975",
+  "year": 1975,
+  "runtime": 98,
+  "originalTitle": "La Bête",
+  "title": {
+    "en": "The Beast",
+    "tr": "Canavar"
+  },
+  "overview": {
+    "en": "The head of a failing French family thinks that fate has smiled down on him when the daughter of a wealthy man agrees to be married to his son. The daughter and her aunt then travel out to the French countryside to meet with the family, unaware that a mysterious 'beast' is stalking the vicinity.",
+    "tr": "Başarısız bir Fransız ailenin lideri, varlıklı bir adamın kızı, oğluyla evlenmeyi kabul edince kaderin kendisine güldüğünü düşünür. Kız ve halası, civarda kendilerini takip eden gizemli bir hayvandan habersiz, aileyle tanışmak için Fransa’nın kırsal bölgelerine bir geziye çıkar."
+  },
+  "poster": {
+    "tr": "/kwiz12WRBGPRbAjlpT2Vgtrbqxl.jpg",
+    "en": "/7CAIDrtERBAtEgHhGle4jYMCgSL.jpg"
+  },
+  "backdrops": [
+    "/kYMWiozzBx6TipkXpl4KKR0iDf0.jpg",
+    "/xkzcyjeQJPBUqv8klb0eh6LMV2b.jpg",
+    "/qLkz47nKfikNzbfwTISmbxC3daT.jpg",
+    "/AtuocWzQDuUyUMLihmY7LaClOGI.jpg",
+    "/nTrjcPIHJiEV5MHwCVLKU0Z3Pd3.jpg",
+    "/2aHMwdhnK7OScRkyXCl8qWiGCsC.jpg",
+    "/g6qa25CJeGBsnzLDdeuPwvku2iy.jpg",
+    "/aZcF5mkLyaaJlsU3Ed80UfGJD7P.jpg",
+    "/2ef1GYmvkGw6jaTc1sEuH9s6W84.jpg",
+    "/yF6qQmg2iJVWVXY259q1XDZ0auj.jpg"
+  ],
+  "trailerKey": "BVTpDEY-L00",
+  "genreIds": [
+    18,
+    14,
+    27,
+    10749
+  ],
+  "keywordIds": [
+    254,
+    5774,
+    10333,
+    12564,
+    154909,
+    164664,
+    169618,
+    177998,
+    190370,
+    207807,
+    252254,
+    335680
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "it"
+  ],
+  "studios": [
+    "Argos films"
+  ],
+  "crew": [
+    {
+      "personId": 130313,
+      "job": "director"
+    },
+    {
+      "personId": 130313,
+      "job": "writer"
+    },
+    {
+      "personId": 20939,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6789,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2304,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 130314,
+      "character": "Romilda de l'Esperance",
+      "order": 0
+    },
+    {
+      "personId": 130315,
+      "character": "Lucy Broadhurst",
+      "order": 1
+    },
+    {
+      "personId": 136813,
+      "character": "Virginia Broadhurst",
+      "order": 2
+    },
+    {
+      "personId": 136815,
+      "character": "Mathurin de l'Esperance",
+      "order": 3
+    },
+    {
+      "personId": 35046,
+      "character": "Marquis Pierre de l'Esperance",
+      "order": 4
+    },
+    {
+      "personId": 115107,
+      "character": "Priest",
+      "order": 5
+    },
+    {
+      "personId": 4121,
+      "character": "Duc Rammendelo",
+      "order": 6
+    },
+    {
+      "personId": 136816,
+      "character": "Roberto",
+      "order": 7
+    },
+    {
+      "personId": 136817,
+      "character": "Clarisse De l'Esperance",
+      "order": 8
+    },
+    {
+      "personId": 136818,
+      "character": "Ifany",
+      "order": 9
+    },
+    {
+      "personId": 136819,
+      "character": "Théodore",
+      "order": 10
+    },
+    {
+      "personId": 136821,
+      "character": "Modeste",
+      "order": 11
+    },
+    {
+      "personId": 136825,
+      "character": "Marie",
+      "order": 12
+    },
+    {
+      "personId": 136826,
+      "character": "Stéphane",
+      "order": 13
+    },
+    {
+      "personId": 5185,
+      "character": "Cardinal Joseph de Balo",
+      "order": 14
+    },
+    {
+      "personId": 1706087,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 136823,
+      "character": "",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 192,
+  "sources": [
+    "cult-list"
+  ]
+}

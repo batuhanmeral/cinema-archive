@@ -1,0 +1,215 @@
+{
+  "tmdbId": 13475,
+  "slug": "star-trek-2009",
+  "year": 2009,
+  "runtime": 127,
+  "originalTitle": "Star Trek",
+  "title": {
+    "en": "Star Trek",
+    "tr": "Uzay Yolu Gelecek Başlıyor"
+  },
+  "overview": {
+    "en": "The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.",
+    "tr": "Bugüne kadar yapılmış en gelişkin uzay gemisi Atılgan’ın mürettebatının gençlik yıllarındaki ilk tanışma günlerinin inanılmaz öyküsünü anlatan “Star Trek” ile tüm zamanların en büyük macerasına hazır olun. Henüz çaylak günlerini yaşayan mürettebatımız, aksiyon, komedi ve kozmik tehlikelerle dolu bir yolculukta; insanoğlundan intikam alma misyonunu yüklenmiş şeytani güçleri durdurmanın çaresini bulmaya çalışacaklar.Galaksinin kaderi iki sıkı rakibin elindedir. Bir tarafta Iowa’daki çiftlikte doğup büyümüş, serseri ruhlu, heyecan ve macera arayan genç James T. Kirk (Chris Pine); diğer tarafta ise her türlü duygusallığı reddeden mantık bazlı bir toplumda yetişmiş olan Spock (Zachary Quinto) vardır. Daha önce hiç gidilmemiş, hayal bile edilemeyen tehlikelerle dolu yolculukta mürettebatı yönetebilmek, ikisi arasında oluşacak sıradışı ama güçlü dostluğa bağlıdır."
+  },
+  "poster": {
+    "tr": "/lV5OpzAss1z06YNagOVap1I35mH.jpg",
+    "en": "/9vaRPXj44Q2meHgt3VVfQufiHOJ.jpg"
+  },
+  "backdrops": [
+    "/zzzoRNVSaUv6e1hpADjUDeM3EvY.jpg",
+    "/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg",
+    "/cqXEwYFcwyKPZCKl1jAPaG3cMsl.jpg",
+    "/l3nOTnwVnzoQVTIUf7nIkNET9Xw.jpg",
+    "/mYbdgZDVbIBfrKbbEohqm536wPD.jpg",
+    "/hqzIuGbwAYMKljhoXwtFFfOrg1J.jpg",
+    "/jh477CxNPYB3UiTVWsWhyYdzguI.jpg",
+    "/irNZ9RSHqZvegNOgO5D2Grc3YRJ.jpg",
+    "/i2pzfqrJzyu8i2Z6xmW6IrZtscv.jpg",
+    "/61wQLGSLGV8ZnIgzQQmheE3e72N.jpg"
+  ],
+  "trailerKey": "iGAHnZ555nI",
+  "genreIds": [
+    878,
+    28,
+    12
+  ],
+  "keywordIds": [
+    1612,
+    3822,
+    582,
+    2902,
+    4379,
+    4040,
+    4300,
+    4380,
+    5100,
+    9675,
+    9685,
+    9684,
+    9686,
+    9882,
+    12388,
+    161176,
+    161184,
+    167982,
+    170881,
+    175629,
+    243802,
+    269769,
+    270381,
+    314730,
+    325811,
+    325812
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Spyglass Entertainment",
+    "Bad Robot"
+  ],
+  "crew": [
+    {
+      "personId": 15344,
+      "job": "director"
+    },
+    {
+      "personId": 15344,
+      "job": "producer"
+    },
+    {
+      "personId": 28974,
+      "job": "producer"
+    },
+    {
+      "personId": 15347,
+      "job": "composer"
+    },
+    {
+      "personId": 15346,
+      "job": "writer"
+    },
+    {
+      "personId": 15345,
+      "job": "writer"
+    },
+    {
+      "personId": 15348,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62064,
+      "character": "Cadet James T. Kirk",
+      "order": 0
+    },
+    {
+      "personId": 17306,
+      "character": "Commander Spock",
+      "order": 1
+    },
+    {
+      "personId": 1749,
+      "character": "Ambassador Spock",
+      "order": 2
+    },
+    {
+      "personId": 8783,
+      "character": "Captain Nero",
+      "order": 3
+    },
+    {
+      "personId": 21089,
+      "character": "Captain Christopher Pike",
+      "order": 4
+    },
+    {
+      "personId": 1372,
+      "character": "Dr. Leonard 'Bones' McCoy",
+      "order": 5
+    },
+    {
+      "personId": 8691,
+      "character": "Lieutenant Nyota Uhura",
+      "order": 6
+    },
+    {
+      "personId": 11108,
+      "character": "Lieutenant Commander Montgomery 'Scotty' Scott",
+      "order": 7
+    },
+    {
+      "personId": 68842,
+      "character": "Lieutenant Hikaru Sulu",
+      "order": 8
+    },
+    {
+      "personId": 21028,
+      "character": "Ensign Pavel Chekov",
+      "order": 9
+    },
+    {
+      "personId": 29068,
+      "character": "Sarek",
+      "order": 10
+    },
+    {
+      "personId": 1920,
+      "character": "Amanda Grayson",
+      "order": 11
+    },
+    {
+      "personId": 74568,
+      "character": "Commander George Kirk",
+      "order": 12
+    },
+    {
+      "personId": 41421,
+      "character": "Winona Kirk",
+      "order": 13
+    },
+    {
+      "personId": 50347,
+      "character": "Galia",
+      "order": 14
+    },
+    {
+      "personId": 57452,
+      "character": "Captain Robau",
+      "order": 15
+    },
+    {
+      "personId": 5365,
+      "character": "Ayel",
+      "order": 16
+    },
+    {
+      "personId": 138324,
+      "character": "Officer Pitts",
+      "order": 17
+    },
+    {
+      "personId": 188796,
+      "character": "Tactical Officer",
+      "order": 18
+    },
+    {
+      "personId": 1274566,
+      "character": "Kelvin Crew Member",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 10831,
+  "sources": [
+    "cult-list"
+  ]
+}

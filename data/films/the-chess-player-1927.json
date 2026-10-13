@@ -1,0 +1,137 @@
+{
+  "tmdbId": 151342,
+  "slug": "the-chess-player-1927",
+  "year": 1927,
+  "runtime": 140,
+  "originalTitle": "Le Joueur d'échecs",
+  "title": {
+    "en": "The Chess Player",
+    "tr": "Le Joueur d'échecs"
+  },
+  "overview": {
+    "en": "In 1776, an inventor conceals a Polish nobleman in his chess-playing automaton, a machine whose fame leads it to the court of the Russian empress.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9jpeRwT0kpOAVypVt5Eav75PSFp.jpg",
+    "en": "/9jpeRwT0kpOAVypVt5Eav75PSFp.jpg"
+  },
+  "backdrops": [
+    "/dmMfK5dxpVtsdjOiVhzeJIsi0Nk.jpg",
+    "/4YjURktRVzfC1HKYqQP4iPaVsNJ.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    14,
+    18,
+    10752
+  ],
+  "keywordIds": [
+    316
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [],
+  "studios": [
+    "Société des Films Historiques"
+  ],
+  "crew": [
+    {
+      "personId": 548728,
+      "job": "director"
+    },
+    {
+      "personId": 51621,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1319705,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1083434,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1594377,
+      "job": "writer"
+    },
+    {
+      "personId": 548728,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 239396,
+      "character": "Boleslas Vorowski",
+      "order": 0
+    },
+    {
+      "personId": 142922,
+      "character": "Baron von Kempelen",
+      "order": 1
+    },
+    {
+      "personId": 1087083,
+      "character": "Sophie Novinska",
+      "order": 2
+    },
+    {
+      "personId": 320107,
+      "character": "Maj. Nicolaieff",
+      "order": 3
+    },
+    {
+      "personId": 8992,
+      "character": "Prince Serge Oblomoff",
+      "order": 4
+    },
+    {
+      "personId": 1502082,
+      "character": "Wanda",
+      "order": 5
+    },
+    {
+      "personId": 239223,
+      "character": "Roubenko",
+      "order": 6
+    },
+    {
+      "personId": 1505026,
+      "character": "Olga",
+      "order": 7
+    },
+    {
+      "personId": 1505027,
+      "character": "King Stanislas",
+      "order": 8
+    },
+    {
+      "personId": 1505028,
+      "character": "Prince Orloff",
+      "order": 9
+    },
+    {
+      "personId": 589564,
+      "character": "Pola",
+      "order": 10
+    },
+    {
+      "personId": 1505029,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 150603,
+      "character": "",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "cult-list"
+  ]
+}

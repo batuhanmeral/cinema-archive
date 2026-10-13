@@ -1,0 +1,206 @@
+{
+  "tmdbId": 794,
+  "slug": "the-omen-1976",
+  "year": 1976,
+  "runtime": 111,
+  "originalTitle": "The Omen",
+  "title": {
+    "en": "The Omen",
+    "tr": "Kehanet"
+  },
+  "overview": {
+    "en": "Immediately after their miscarriage, the US diplomat Robert Thorn adopts the newborn Damien without the knowledge of his wife. Yet what he doesn’t know is that their new son is the son of the devil.",
+    "tr": "ABD'li diplomat Robert Thorn (Gregory Peck), karısı Katherine'in (Lee Remick) hamileliği bir Roma hastanesinde ölü doğumla sona erdiğinde yerine annesi ölen başka bir bebeği alır. Küçük Damien (Harvey Stephens) büyür ancak beşinci doğum günü partisinde dadısı gizemli bir şekilde ölür. Peder Brennan (Patrick G. Troughton) da Thorn'u Şeytan'ın oğlunu evlat edindiği konusunda uyardıktan sonra ölür. Uğursuz yeni dadı Bayan Baylock (Billie Whitelaw) Damien'ı özenle korurken, fotoğrafçı Jennings (David Warner) ona Damien'ın partisinden dadı ve Brennan'ın nasıl öleceğini belirten işaretlerin bulunduğu fotoğraflar gösterince Thorn'un korkuları artar. Thorn, Damien'ın kimliğini doğrulayan ve Thorn'a tek çözümün evlatlık oğlunu öldürmek olduğunu söyleyen şeytan çıkarıcı Bugenhagen'i (Leo McKern) arar. Cesetler üst üste yığılırken Thorn, görevini yapmaya çalışır ancak  yasalar dünyayı  Mahşer'den kurtarmaya çalışmanın önüne geçer."
+  },
+  "poster": {
+    "tr": "/kMBBlvqdfxnXkfEGugmMwvlBHnU.jpg",
+    "en": "/mDcjjEu1fMNmsXi4l4D8IftlTix.jpg"
+  },
+  "backdrops": [
+    "/5sfbPsenSrbH8pzVMjEd0LUu50Y.jpg",
+    "/gw9vOHSYDEuKcNKgQWS2iePcfjk.jpg",
+    "/yECPrNCLZQNnzGxAIgKNkrH1FLT.jpg",
+    "/3RkYyseo8OduQpdndyPPCMiJfuC.jpg",
+    "/gwGqOoYUVFBlNsuqM5OEtgC8KL2.jpg",
+    "/7KJHrIhbvVgBEhU5jWvD6KiJ1Qp.jpg",
+    "/uIjCdJrL3ZnDrKUSibXlyDTkFU8.jpg",
+    "/9G6ZFNsoxnXcbweZk8MlFRIlO1k.jpg",
+    "/q9DFLu6uSFe3czLQPYxFQNAiASp.jpg",
+    "/lOshblIfomMbZClGRZ83lSU8bN7.jpg"
+  ],
+  "trailerKey": "mgjVPPVtnII",
+  "genreIds": [
+    27,
+    53
+  ],
+  "keywordIds": [
+    1704,
+    530,
+    345,
+    6025,
+    2341,
+    3335,
+    11627,
+    4083,
+    4084,
+    4087,
+    10138,
+    8685,
+    11181,
+    10093,
+    10410,
+    11001,
+    13001,
+    14999,
+    18161,
+    41586,
+    309974
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Mace Neufeld Productions",
+    "Harvey Bernhard Productions",
+    "Twentieth Century-Fox Productions"
+  ],
+  "crew": [
+    {
+      "personId": 7187,
+      "job": "director"
+    },
+    {
+      "personId": 7199,
+      "job": "producer"
+    },
+    {
+      "personId": 10337,
+      "job": "producer"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    },
+    {
+      "personId": 7753,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11834,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8487,
+      "character": "Robert Thorn",
+      "order": 0
+    },
+    {
+      "personId": 855,
+      "character": "Katherine Thorn",
+      "order": 1
+    },
+    {
+      "personId": 2076,
+      "character": "Jennings",
+      "order": 2
+    },
+    {
+      "personId": 8226,
+      "character": "Mrs. Baylock",
+      "order": 3
+    },
+    {
+      "personId": 11839,
+      "character": "Damien",
+      "order": 4
+    },
+    {
+      "personId": 11840,
+      "character": "Father Brennan",
+      "order": 5
+    },
+    {
+      "personId": 9912,
+      "character": "Father Spiletto",
+      "order": 6
+    },
+    {
+      "personId": 11841,
+      "character": "Monk",
+      "order": 7
+    },
+    {
+      "personId": 11842,
+      "character": "Priest",
+      "order": 8
+    },
+    {
+      "personId": 11843,
+      "character": "The Psychiatrist",
+      "order": 9
+    },
+    {
+      "personId": 25643,
+      "character": "Dr. Becker",
+      "order": 10
+    },
+    {
+      "personId": 11844,
+      "character": "Nanny",
+      "order": 11
+    },
+    {
+      "personId": 156387,
+      "character": "Reporter",
+      "order": 12
+    },
+    {
+      "personId": 127168,
+      "character": "Nun",
+      "order": 13
+    },
+    {
+      "personId": 2276,
+      "character": "Mrs. Horton",
+      "order": 14
+    },
+    {
+      "personId": 117410,
+      "character": "Horton",
+      "order": 15
+    },
+    {
+      "personId": 8664,
+      "character": "Thorn's Aide",
+      "order": 16
+    },
+    {
+      "personId": 662,
+      "character": "Thorn's Second Aide",
+      "order": 17
+    },
+    {
+      "personId": 201489,
+      "character": "Photographer",
+      "order": 18
+    },
+    {
+      "personId": 1077927,
+      "character": "Chambermaid",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 2542,
+  "sources": [
+    "cult-list"
+  ]
+}

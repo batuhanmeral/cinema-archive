@@ -1,0 +1,134 @@
+{
+  "tmdbId": 60773,
+  "slug": "bay-of-angels-1963",
+  "year": 1963,
+  "runtime": 84,
+  "originalTitle": "La Baie des Anges",
+  "title": {
+    "en": "Bay of Angels",
+    "tr": "La Baie des Anges"
+  },
+  "overview": {
+    "en": "A bank clerk is drawn into the risky world of a gorgeous gambling addict.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/7gMfVJur6DgujNyt1297GIGYMwJ.jpg",
+    "en": "/7gMfVJur6DgujNyt1297GIGYMwJ.jpg"
+  },
+  "backdrops": [
+    "/cvtirPKwfunXK1eVw3FyIRzgwIh.jpg",
+    "/3ylZcdj9XRdOrUDkDuLgY06wCYL.jpg",
+    "/dswBeqrU0hLYEZzlcoxFcVpLdn6.jpg",
+    "/ye2znT1pX45ECnSIj5lrVkM8Z1j.jpg",
+    "/hTaIBNRxQVZk1kY5AxvklCG9y3O.jpg",
+    "/4CDXZVJTqDHmgB5gsmOmYOS9uT9.jpg",
+    "/xLE7xMqP6Ndj6fDOIOpSZUwkFSB.jpg",
+    "/qDfkwjF9P7tdNzKscKhPAqcJ32b.jpg",
+    "/ga486I9tQ6H0QGwZ0E8D0j4XZi4.jpg",
+    "/6JFIVFYnkv98vYOQakeJk7UnmJw.jpg"
+  ],
+  "trailerKey": "qZJp381jgLs",
+  "genreIds": [
+    10749,
+    18
+  ],
+  "keywordIds": [
+    2335,
+    6433,
+    155841
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Sud-Pacifique Films"
+  ],
+  "crew": [
+    {
+      "personId": 24882,
+      "job": "director"
+    },
+    {
+      "personId": 24882,
+      "job": "writer"
+    },
+    {
+      "personId": 1338204,
+      "job": "producer"
+    },
+    {
+      "personId": 19086,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10934,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14812,
+      "character": "Jacqueline 'Jackie' Demaistre",
+      "order": 0
+    },
+    {
+      "personId": 36018,
+      "character": "Jean Fournier",
+      "order": 1
+    },
+    {
+      "personId": 24905,
+      "character": "Caron",
+      "order": 2
+    },
+    {
+      "personId": 35050,
+      "character": "M. Fournier",
+      "order": 3
+    },
+    {
+      "personId": 72001,
+      "character": "Marthe",
+      "order": 4
+    },
+    {
+      "personId": 29682,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1502419,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 3416161,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 3963706,
+      "character": "L'hôtelière",
+      "order": 8
+    },
+    {
+      "personId": 3963708,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 3963709,
+      "character": "",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 203,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "tmdbId": 26178,
+  "slug": "razorback-1984",
+  "year": 1984,
+  "runtime": 95,
+  "originalTitle": "Razorback",
+  "title": {
+    "en": "Razorback",
+    "tr": "Razorback"
+  },
+  "overview": {
+    "en": "In the Australian outback a vicious wild boar kills and causes havoc to a small community.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/227exUUzUWkCYOVoPxap5RaVmTM.jpg",
+    "en": "/227exUUzUWkCYOVoPxap5RaVmTM.jpg"
+  },
+  "backdrops": [
+    "/2to3qQFsPiCLMu3U2TgvinDyxvm.jpg",
+    "/kswnGodb2w99U4rdThk2mVjjzqR.jpg",
+    "/c5JGUbxTgx3vtLkN2QzPICdngOw.jpg",
+    "/5hodl0zyXXCrYJCT2OYrCh1GOLs.jpg",
+    "/2XH20Rl3QVEj8ox6XGU2FRkjqSO.jpg",
+    "/oz55I20mKYAgEK8gR562kry2g5D.jpg",
+    "/wNunbTnTwyu7EWnmx5M8v14Z7c.jpg",
+    "/s0KYA4mu6d0o8MxfhNUMPAqcUwA.jpg",
+    "/p3h6JvPx79v7LudMm3c8vEgbLEB.jpg",
+    "/6XHWvAy0HjTZnQEAX8HRF7I6ZEh.jpg"
+  ],
+  "trailerKey": "bJUmwaAn-Us",
+  "genreIds": [
+    27,
+    53
+  ],
+  "keywordIds": [
+    5657,
+    5276,
+    5160,
+    155493,
+    158126,
+    158252,
+    193760,
+    223059,
+    327477
+  ],
+  "countries": [
+    "AU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "McElroy & McElroy",
+    "UAA Films"
+  ],
+  "crew": [
+    {
+      "personId": 52968,
+      "job": "director"
+    },
+    {
+      "personId": 76942,
+      "job": "writer"
+    },
+    {
+      "personId": 65044,
+      "job": "composer"
+    },
+    {
+      "personId": 67823,
+      "job": "producer"
+    },
+    {
+      "personId": 4501,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29370,
+      "character": "Carl Winters",
+      "order": 0
+    },
+    {
+      "personId": 94785,
+      "character": "Sarah Cameron",
+      "order": 1
+    },
+    {
+      "personId": 70753,
+      "character": "Jake Cullen",
+      "order": 2
+    },
+    {
+      "personId": 3070,
+      "character": "Benny Baker",
+      "order": 3
+    },
+    {
+      "personId": 94786,
+      "character": "Dicko Baker",
+      "order": 4
+    },
+    {
+      "personId": 58063,
+      "character": "Beth Winters",
+      "order": 5
+    },
+    {
+      "personId": 102603,
+      "character": "Danny",
+      "order": 6
+    },
+    {
+      "personId": 94059,
+      "character": "Turner",
+      "order": 7
+    },
+    {
+      "personId": 3829717,
+      "character": "Wallace",
+      "order": 8
+    },
+    {
+      "personId": 1322296,
+      "character": "Andy",
+      "order": 9
+    },
+    {
+      "personId": 106990,
+      "character": "Magistrate",
+      "order": 10
+    },
+    {
+      "personId": 2530583,
+      "character": "Counsel",
+      "order": 11
+    },
+    {
+      "personId": 3829719,
+      "character": "Lawyer",
+      "order": 12
+    },
+    {
+      "personId": 2536990,
+      "character": "Louise Cullen",
+      "order": 13
+    },
+    {
+      "personId": 3829720,
+      "character": "Farmer",
+      "order": 14
+    },
+    {
+      "personId": 1482374,
+      "character": "TV Cowboy",
+      "order": 15
+    },
+    {
+      "personId": 3606170,
+      "character": "Male Newscaster",
+      "order": 16
+    },
+    {
+      "personId": 3829723,
+      "character": "Female Newscaster",
+      "order": 17
+    },
+    {
+      "personId": 3829724,
+      "character": "Scotty",
+      "order": 18
+    },
+    {
+      "personId": 1467268,
+      "character": "Wagstaff",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 224,
+  "sources": [
+    "cult-list"
+  ]
+}

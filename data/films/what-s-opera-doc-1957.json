@@ -1,0 +1,83 @@
+{
+  "tmdbId": 53217,
+  "slug": "what-s-opera-doc-1957",
+  "year": 1957,
+  "runtime": 7,
+  "originalTitle": "What's Opera, Doc?",
+  "title": {
+    "en": "What's Opera, Doc?",
+    "tr": "What's Opera, Doc?"
+  },
+  "overview": {
+    "en": "Elmer Fudd is again hunting rabbits - only this time it's an opera. Wagner's Siegfried with Elmer as the titular hero and Bugs as Brunnhilde. They sing, they dance, they eat the scenery.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/kkbaY8UyPbyzU3xg8CONgwW0Eid.jpg",
+    "en": "/kkbaY8UyPbyzU3xg8CONgwW0Eid.jpg"
+  },
+  "backdrops": [
+    "/uLBAdHJflcPz38suDfbYUTHFPhr.jpg",
+    "/iA8rbuQJP47zLkIiGuLEqBKrz8f.jpg",
+    "/6sxCytrJqV6XeG9ZTzpn3pWeeBO.jpg",
+    "/nwxM0ZRCZR8uh2acsmOLVtXZPiQ.jpg",
+    "/dPLhJyQF2y6WGRDMxJ3NwoK8Dw0.jpg",
+    "/ujzA2GT3roBFx7boFpdu9DKkxh7.jpg",
+    "/detAInrE8IE9qaPpHmM5oADjrZB.jpg",
+    "/m3tBZA8JGy7FoTT9mTihdqlDfp4.jpg",
+    "/bKfv24MWfTPEnSIovKUk43rIum3.jpg",
+    "/kOa3xTWFw8BOf4Er138oMWTFEPY.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    16,
+    35,
+    10402
+  ],
+  "keywordIds": [
+    2199,
+    414,
+    6513,
+    9755,
+    181140,
+    250535,
+    263548
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Cartoons",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 100888,
+      "job": "director"
+    },
+    {
+      "personId": 457819,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 33923,
+      "character": "Bugs Bunny as Brunhilde / Elmer Fudd as Siegfried (screaming) (voice)",
+      "order": 0
+    },
+    {
+      "personId": 147117,
+      "character": "Elmer Fudd as Siegfried (voice) (uncredited)",
+      "order": 1
+    }
+  ],
+  "awards": {},
+  "voteCount": 221,
+  "sources": [
+    "cult-list"
+  ]
+}

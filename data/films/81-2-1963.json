@@ -1,0 +1,218 @@
+{
+  "tmdbId": 422,
+  "slug": "81-2-1963",
+  "year": 1963,
+  "runtime": 139,
+  "originalTitle": "8½",
+  "title": {
+    "en": "8½",
+    "tr": "Sekiz Buçuk"
+  },
+  "overview": {
+    "en": "Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers—his producer, staff, actors, wife, mistress, and relatives—each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.",
+    "tr": "Guido Anselmi son filminin hazırlıkları ile uğraşan bir yönetmendir. Herkes onun eski işlerine bakmakta ve ondan büyük bir iş beklemektedir. Çevresindekilerden bir huzur bulamayan Guido yeni filmi için parlak bir fikir de bulamamaktadır. Tüm bunlar yetmezmiş gibi hayatındaki kadınlar da ona rahat vermez. Guido giderek boğulduğunu hissetmektedir."
+  },
+  "poster": {
+    "tr": "/23VIf7zNxAgaXwIlvzd3IvOd9sY.jpg",
+    "en": "/60rbYRidGzWjb6cjZ2elIiztvpp.jpg"
+  },
+  "backdrops": [
+    "/y2FNZLHynsevBnVTocGW6c3pQpr.jpg",
+    "/dROFAN0iOn4IrHKN7SNfPgLqGyE.jpg",
+    "/hiXMQiwpa0fqPJxWLSMWTbpiWn8.jpg",
+    "/oNq6WiGDMAvx1ophgAtD6RyajpH.jpg",
+    "/r5yqtLWVHYNgoSQyFUex7nSfrjQ.jpg",
+    "/oFt6ZOmq5vx7fBXwpAGPbfkYvT.jpg",
+    "/A1K6Bsb1eSu2NCnHNDZZC4Z7YiW.jpg",
+    "/cTvTvojagIOOdbUVZimBDBg09hE.jpg",
+    "/nLseqqZguRBSpErfkFBeso3GODe.jpg",
+    "/gxjCZrz3sqBembTqjWJDlKeAEpv.jpg"
+  ],
+  "trailerKey": "yruJBocWfn4",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    3737,
+    596,
+    894,
+    30,
+    6059,
+    776,
+    1252,
+    2534,
+    495,
+    886,
+    1501,
+    2467,
+    2055,
+    2056,
+    12999,
+    34094,
+    161288,
+    165402,
+    210434,
+    239797,
+    288816,
+    325763,
+    325778,
+    325786
+  ],
+  "countries": [
+    "IT",
+    "FR"
+  ],
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "it"
+  ],
+  "studios": [
+    "Cineriz",
+    "Francinex"
+  ],
+  "crew": [
+    {
+      "personId": 4415,
+      "job": "director"
+    },
+    {
+      "personId": 4415,
+      "job": "writer"
+    },
+    {
+      "personId": 5397,
+      "job": "writer"
+    },
+    {
+      "personId": 5396,
+      "job": "writer"
+    },
+    {
+      "personId": 5678,
+      "job": "writer"
+    },
+    {
+      "personId": 5679,
+      "job": "producer"
+    },
+    {
+      "personId": 3098,
+      "job": "composer"
+    },
+    {
+      "personId": 5680,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5676,
+      "character": "Guido Anselmi",
+      "order": 0
+    },
+    {
+      "personId": 4959,
+      "character": "Claudia",
+      "order": 1
+    },
+    {
+      "personId": 5682,
+      "character": "Luisa Anselmi",
+      "order": 2
+    },
+    {
+      "personId": 5683,
+      "character": "Carla",
+      "order": 3
+    },
+    {
+      "personId": 5684,
+      "character": "Rossella",
+      "order": 4
+    },
+    {
+      "personId": 5685,
+      "character": "Gloria Morin",
+      "order": 5
+    },
+    {
+      "personId": 4116,
+      "character": "Madeleine, the French Actress",
+      "order": 6
+    },
+    {
+      "personId": 5686,
+      "character": "Mysterious Lady",
+      "order": 7
+    },
+    {
+      "personId": 5687,
+      "character": "La Saraghina",
+      "order": 8
+    },
+    {
+      "personId": 5688,
+      "character": "Pace, the Producer",
+      "order": 9
+    },
+    {
+      "personId": 1485027,
+      "character": "Conocchia, the Production Manager",
+      "order": 10
+    },
+    {
+      "personId": 1485028,
+      "character": "Bruno, the Second Production Secretary",
+      "order": 11
+    },
+    {
+      "personId": 1064720,
+      "character": "Cesarino, the Production Supervisor",
+      "order": 12
+    },
+    {
+      "personId": 550266,
+      "character": "Carini, the Film Critic",
+      "order": 13
+    },
+    {
+      "personId": 39019,
+      "character": "Mario Mezzabotta",
+      "order": 14
+    },
+    {
+      "personId": 1485029,
+      "character": "Jacqueline Bonbon",
+      "order": 15
+    },
+    {
+      "personId": 1485030,
+      "character": "Maurice, Maya's Assistant",
+      "order": 16
+    },
+    {
+      "personId": 99514,
+      "character": "Claudia's Agent",
+      "order": 17
+    },
+    {
+      "personId": 165525,
+      "character": "Nadine, the Hostess",
+      "order": 18
+    },
+    {
+      "personId": 1317071,
+      "character": "Guido's Grandmother",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 2619,
+  "sources": [
+    "cult-list"
+  ]
+}

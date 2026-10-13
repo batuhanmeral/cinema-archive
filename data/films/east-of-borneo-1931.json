@@ -1,0 +1,101 @@
+{
+  "tmdbId": 156346,
+  "slug": "east-of-borneo-1931",
+  "year": 1931,
+  "runtime": 77,
+  "originalTitle": "East of Borneo",
+  "title": {
+    "en": "East of Borneo",
+    "tr": "East of Borneo"
+  },
+  "overview": {
+    "en": "Mrs. Linda Randolph treks through darkened jungles to the land of Maradu to find her missing husband Allan, who'd left her years before when he believed she was in love with another. She finds Allan the drunken court physician to a devious prince-- Whose designs on the pair don't include a happy ending.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/zppFhyJQoolv2NRwZmYO0Cm96uS.jpg",
+    "en": "/d7lZMDHpQE8wnLPmYImiWCWGMAy.jpg"
+  },
+  "backdrops": [
+    "/aoVm7KDeKvQxBDW8AluRlncjavY.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    12
+  ],
+  "keywordIds": [
+    3185,
+    3071,
+    10787,
+    33457,
+    208364
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 931194,
+      "job": "director"
+    },
+    {
+      "personId": 29635,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1557,
+      "job": "producer"
+    },
+    {
+      "personId": 89906,
+      "job": "writer"
+    },
+    {
+      "personId": 931194,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29599,
+      "character": "Linda Rudolph",
+      "order": 0
+    },
+    {
+      "personId": 30527,
+      "character": "Allan Clark",
+      "order": 1
+    },
+    {
+      "personId": 120702,
+      "character": "Prinz Hashin",
+      "order": 2
+    },
+    {
+      "personId": 148518,
+      "character": "Neila",
+      "order": 3
+    },
+    {
+      "personId": 3247,
+      "character": "Osman",
+      "order": 4
+    },
+    {
+      "personId": 29764,
+      "character": "Hrang the Raftsman",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 6,
+  "sources": [
+    "cult-list"
+  ]
+}

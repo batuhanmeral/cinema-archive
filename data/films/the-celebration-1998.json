@@ -1,0 +1,208 @@
+{
+  "tmdbId": 309,
+  "slug": "the-celebration-1998",
+  "year": 1998,
+  "runtime": 101,
+  "originalTitle": "Festen",
+  "title": {
+    "en": "The Celebration",
+    "tr": "Festen"
+  },
+  "overview": {
+    "en": "The family of a wealthy businessman gather to celebrate his 60th birthday. During the course of the party, his eldest son presents a speech that reveals a devastating secret that turns the night into a battle of truth and denial.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg",
+    "en": "/2LRzNq41yrY8EjCnD1S8sCCPvKk.jpg"
+  },
+  "backdrops": [
+    "/fENWhR8FPuQcBfFX752jlmmMqPU.jpg",
+    "/pGsYE6Ps04BJ38IK3VbtsKYHn6B.jpg",
+    "/yCtgdv7TfgZLHj6R9IQKD5TjljP.jpg",
+    "/eL0u2DZKODvfxWI3NgP0cw9rtYA.jpg",
+    "/7kZfj8UbEVsAXgRV2p2ttywVKYB.jpg",
+    "/58CvlEjAyIItNWQeVymUdmEQUmh.jpg",
+    "/uxfaPzQrfDlpYCPenKTxzzgdgGt.jpg",
+    "/fh836Bbtcx8ULNgKK4jGaS8pvkT.jpg",
+    "/p6nkImw0f5STZm1cJER00Vx1J7C.jpg",
+    "/jL1Qda6LHNkCNLrFz5G5jwz7rao.jpg"
+  ],
+  "trailerKey": "XCqc_JTiNxg",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    5600,
+    894,
+    1326,
+    516,
+    236,
+    970,
+    1421,
+    1655,
+    1608,
+    2754,
+    12425,
+    18187,
+    41596,
+    156181,
+    157215,
+    188991,
+    191260,
+    200918,
+    208349,
+    264551,
+    311315,
+    315002,
+    321464,
+    323809
+  ],
+  "countries": [
+    "DK",
+    "SE"
+  ],
+  "languages": [
+    "da",
+    "de",
+    "en"
+  ],
+  "studios": [
+    "DR",
+    "SVT",
+    "Nimbus Film"
+  ],
+  "crew": [
+    {
+      "personId": 4474,
+      "job": "composer"
+    },
+    {
+      "personId": 4453,
+      "job": "director"
+    },
+    {
+      "personId": 1570,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4453,
+      "job": "writer"
+    },
+    {
+      "personId": 1559,
+      "job": "producer"
+    },
+    {
+      "personId": 4454,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4455,
+      "character": "Christian",
+      "order": 0
+    },
+    {
+      "personId": 4456,
+      "character": "Faderen",
+      "order": 1
+    },
+    {
+      "personId": 4457,
+      "character": "Michael",
+      "order": 2
+    },
+    {
+      "personId": 4458,
+      "character": "Helene",
+      "order": 3
+    },
+    {
+      "personId": 4459,
+      "character": "Moderen",
+      "order": 4
+    },
+    {
+      "personId": 4460,
+      "character": "Pia",
+      "order": 5
+    },
+    {
+      "personId": 4461,
+      "character": "Mette",
+      "order": 6
+    },
+    {
+      "personId": 4462,
+      "character": "Michelle",
+      "order": 7
+    },
+    {
+      "personId": 4463,
+      "character": "Toastmasteren",
+      "order": 8
+    },
+    {
+      "personId": 4464,
+      "character": "Kokken",
+      "order": 9
+    },
+    {
+      "personId": 4465,
+      "character": "Gbatokai",
+      "order": 10
+    },
+    {
+      "personId": 3409,
+      "character": "Onklen",
+      "order": 11
+    },
+    {
+      "personId": 4467,
+      "character": "Receptionisten",
+      "order": 12
+    },
+    {
+      "personId": 4468,
+      "character": "Søsteren",
+      "order": 13
+    },
+    {
+      "personId": 4469,
+      "character": "Birthe",
+      "order": 14
+    },
+    {
+      "personId": 4470,
+      "character": "Farfar",
+      "order": 15
+    },
+    {
+      "personId": 4471,
+      "character": "Farmor",
+      "order": 16
+    },
+    {
+      "personId": 3645257,
+      "character": "Statister",
+      "order": 17
+    },
+    {
+      "personId": 3645258,
+      "character": "Statister",
+      "order": 18
+    },
+    {
+      "personId": 3645259,
+      "character": "Statister",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1333,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "tmdbId": 4593,
+  "slug": "the-discreet-charm-of-the-bourgeoisie-1972",
+  "year": 1972,
+  "runtime": 101,
+  "originalTitle": "Le Charme discret de la bourgeoisie",
+  "title": {
+    "en": "The Discreet Charm of the Bourgeoisie",
+    "tr": "Burjuvazinin Gizemli Çekiciliği"
+  },
+  "overview": {
+    "en": "An upper-class sextet sits down to dinner but never eats, their attempts continually thwarted by a vaudevillian mixture of events both actual and imagined.",
+    "tr": "Birlikte yemek yemek isteyen bir grup üst sınıf insanın karşısına sürekli absürd, garip ve sürreal engeller çıkar. Grup ise bu engelleri son derece doğal bir şeymiş gibi karşılar. Filmde aynı zamanda dört karakterin rüyalarına da yer verilir. Filmin rasyonel olmak gibi bir endişesi bulunmamaktadır."
+  },
+  "poster": {
+    "tr": "/zN4ILX2x64PvT2jIOAHXxCOi5WA.jpg",
+    "en": "/zN4ILX2x64PvT2jIOAHXxCOi5WA.jpg"
+  },
+  "backdrops": [
+    "/f9F4mFHYT7KUbEnWUj1ypS0T96l.jpg",
+    "/lfzQgLhbaeXIbXwnyPiufgZfdG9.jpg",
+    "/ujfVlfO1jhcsUbi8gZssFE8Cmef.jpg",
+    "/z6NI6n5MvQZMZJbXKLiyFl1yDeA.jpg",
+    "/784R8PR9WHIMhj8grZLeaQ9IzmW.jpg",
+    "/fQC7brHimzyJCGBDF7v8v7qtGv.jpg",
+    "/9jfnm5hB3y3BixLJyiVxLAFnh9G.jpg",
+    "/jV6e3U2K2AgWb2z1bSUlxlzfvRj.jpg",
+    "/xE3a1AXSuxk75XX6Ju4NVALzyvm.jpg",
+    "/iHdEEPU30UDNH9Zv1U9zs7cMpOD.jpg"
+  ],
+  "trailerKey": "T7XNFYdQ8S8",
+  "genreIds": [
+    35,
+    14
+  ],
+  "keywordIds": [
+    4529,
+    1566,
+    3030,
+    213,
+    248,
+    2149,
+    5333,
+    2637,
+    1946,
+    3307,
+    4029,
+    8201,
+    9887,
+    12997,
+    13015,
+    33719,
+    173083,
+    231173,
+    232130,
+    236316,
+    239797,
+    309974,
+    316204
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr",
+    "es"
+  ],
+  "studios": [
+    "Greenwich Film Production"
+  ],
+  "crew": [
+    {
+      "personId": 793,
+      "job": "director"
+    },
+    {
+      "personId": 793,
+      "job": "writer"
+    },
+    {
+      "personId": 37456,
+      "job": "producer"
+    },
+    {
+      "personId": 9747,
+      "job": "writer"
+    },
+    {
+      "personId": 14808,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14821,
+      "character": "Don Rafael",
+      "order": 0
+    },
+    {
+      "personId": 3508,
+      "character": "Simone Thévenot",
+      "order": 1
+    },
+    {
+      "personId": 24684,
+      "character": "François Thévenot",
+      "order": 2
+    },
+    {
+      "personId": 19092,
+      "character": "Alice Sénéchal",
+      "order": 3
+    },
+    {
+      "personId": 38341,
+      "character": "Florence",
+      "order": 4
+    },
+    {
+      "personId": 19162,
+      "character": "Henri Sénéchal",
+      "order": 5
+    },
+    {
+      "personId": 3594,
+      "character": "Monsignor Dufour",
+      "order": 6
+    },
+    {
+      "personId": 24388,
+      "character": "Colonel",
+      "order": 7
+    },
+    {
+      "personId": 3784,
+      "character": "Interior Minister",
+      "order": 8
+    },
+    {
+      "personId": 28247,
+      "character": "Inspector Delecluze",
+      "order": 9
+    },
+    {
+      "personId": 36915,
+      "character": "Police Sergeant",
+      "order": 10
+    },
+    {
+      "personId": 38648,
+      "character": "Sergeant Recounting Dream",
+      "order": 11
+    },
+    {
+      "personId": 44104,
+      "character": "Ines",
+      "order": 12
+    },
+    {
+      "personId": 44105,
+      "character": "Guerrilla",
+      "order": 13
+    },
+    {
+      "personId": 37464,
+      "character": "Peasant",
+      "order": 14
+    },
+    {
+      "personId": 44106,
+      "character": "Gardener",
+      "order": 15
+    },
+    {
+      "personId": 44107,
+      "character": "Lt. Hubert de Rochcahin",
+      "order": 16
+    },
+    {
+      "personId": 25976,
+      "character": "Waiter",
+      "order": 17
+    },
+    {
+      "personId": 39443,
+      "character": "Gendarme",
+      "order": 18
+    },
+    {
+      "personId": 543136,
+      "character": "Couturier",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 953,
+  "sources": [
+    "cult-list"
+  ]
+}

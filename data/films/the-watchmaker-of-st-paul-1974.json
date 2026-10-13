@@ -1,0 +1,191 @@
+{
+  "tmdbId": 8425,
+  "slug": "the-watchmaker-of-st-paul-1974",
+  "year": 1974,
+  "runtime": 105,
+  "originalTitle": "L'Horloger de Saint-Paul",
+  "title": {
+    "en": "The Watchmaker of St. Paul",
+    "tr": "L'Horloger de Saint-Paul"
+  },
+  "overview": {
+    "en": "Michel Descombes is a watchmaker who lives in Lyon with his teenage son Bernard. When the police visit and inform him that Bernard has killed a man and is on the run with a girl, Michel realises that he knew far less about his son than he thought.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/fLDETyjhqsEDmryQ17i46wV3ECr.jpg",
+    "en": "/dmswSI4RZ27MmYQFr5SMddxGdKf.jpg"
+  },
+  "backdrops": [
+    "/ci3CcNzN6djfkMgtsLsLQ3jKTp2.jpg",
+    "/xLgk3zjSj9G7M1FEilnUuqFnnId.jpg",
+    "/s3y3ZYmpnFpG3Xotl9ubUP1zsAi.jpg",
+    "/2fxKUjqZjNy8KMvKwNZW3avI55c.jpg",
+    "/rRznsU1e15GR8VJOeWaUbUXDSSR.jpg",
+    "/szYHyT4zunjoAb9eMi92dWU5T8Q.jpg",
+    "/oouiMuufYVRsg3bW19visWozl8c.jpg",
+    "/nnIjkj768MVXj6K8mLJuGDjoJic.jpg",
+    "/rSysfia6SVljEqGOBenNG2uiTYG.jpg",
+    "/6GjnVqhYDOlDFVV8GNF7SHfa7Mj.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    53,
+    18,
+    80
+  ],
+  "keywordIds": [
+    90,
+    970,
+    7679,
+    190324,
+    217324,
+    246136
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Lira Films"
+  ],
+  "crew": [
+    {
+      "personId": 20034,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 20556,
+      "job": "director"
+    },
+    {
+      "personId": 32071,
+      "job": "producer"
+    },
+    {
+      "personId": 20075,
+      "job": "composer"
+    },
+    {
+      "personId": 34822,
+      "job": "writer"
+    },
+    {
+      "personId": 20556,
+      "job": "writer"
+    },
+    {
+      "personId": 40531,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24366,
+      "character": "Michel Descombes",
+      "order": 0
+    },
+    {
+      "personId": 24421,
+      "character": "Commissioner Guilboud",
+      "order": 1
+    },
+    {
+      "personId": 35135,
+      "character": "Antoine, friend of Michel",
+      "order": 2
+    },
+    {
+      "personId": 25048,
+      "character": "Inspector Bricard",
+      "order": 3
+    },
+    {
+      "personId": 3594,
+      "character": "Edouard, friend of Michel",
+      "order": 4
+    },
+    {
+      "personId": 55620,
+      "character": "Costes, journalist",
+      "order": 5
+    },
+    {
+      "personId": 55621,
+      "character": "Janine Boitard, journalist",
+      "order": 6
+    },
+    {
+      "personId": 39882,
+      "character": "Madeleine Fourmet",
+      "order": 7
+    },
+    {
+      "personId": 24754,
+      "character": "Lawyer",
+      "order": 8
+    },
+    {
+      "personId": 24688,
+      "character": "Martine, workwoman",
+      "order": 9
+    },
+    {
+      "personId": 185372,
+      "character": "Bernard Descombes, Michel's son",
+      "order": 10
+    },
+    {
+      "personId": 3200,
+      "character": "Liliane Torrini, companion of Bernard",
+      "order": 11
+    },
+    {
+      "personId": 21174,
+      "character": "Housekeeper",
+      "order": 12
+    },
+    {
+      "personId": 2388136,
+      "character": "Bricard's assistant",
+      "order": 13
+    },
+    {
+      "personId": 2388137,
+      "character": "Judge",
+      "order": 14
+    },
+    {
+      "personId": 1667622,
+      "character": "Johannes",
+      "order": 15
+    },
+    {
+      "personId": 2388140,
+      "character": "Lucien",
+      "order": 16
+    },
+    {
+      "personId": 302425,
+      "character": "1st plumber",
+      "order": 17
+    },
+    {
+      "personId": 1205308,
+      "character": "2nd plumber",
+      "order": 18
+    },
+    {
+      "personId": 1829485,
+      "character": "1st strong man",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 122,
+  "sources": [
+    "cult-list"
+  ]
+}

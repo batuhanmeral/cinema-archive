@@ -1,0 +1,192 @@
+{
+  "tmdbId": 13041,
+  "slug": "el-topo-1970",
+  "year": 1970,
+  "runtime": 125,
+  "originalTitle": "El Topo",
+  "title": {
+    "en": "El Topo",
+    "tr": "Köstebek"
+  },
+  "overview": {
+    "en": "El Topo decides to confront warrior Masters on a trans-formative desert journey he begins with his 6 year old son, who must bury his childhood totems to become a man.",
+    "tr": "Oğluyla birlikte yolculuk yapan bir silahşör, bir kadının hayatını kurtardıktan sonra, çöllerin en sıkı dört silahşörüyle karşı karşıya gelmek durumunda kalır.  Silahşör türlü meziyetleri olan bu adamları yok ettikten sonra ise yeraltına sığınmak zorunda kalır. Dışlanmışların ininde onu manevi bir uyanış beklemektedir. Gözlerini açtığında, dünyayı değiştirmek ve oğlunu bulmak üzere planlar yapmaya başlar."
+  },
+  "poster": {
+    "tr": "/fKoNBTATc94rUYLq8VyypS24LUw.jpg",
+    "en": "/4ea7sUzZaQNRuIm4M6EqWLQWfnX.jpg"
+  },
+  "backdrops": [
+    "/72yCwFugnik33YG3zuTpP5zoMme.jpg",
+    "/6Rrsivo56ymYLHNZ6Of2WFiYrGz.jpg",
+    "/xkfXO0Zswvvlbs0FlxH3TA4qji3.jpg",
+    "/xxOfUygDz1BAnvELTYbpSxRMQb4.jpg",
+    "/WJEt4LXvuBVnSbIyFC3c8F0hnK.jpg",
+    "/mJ4StLCcy0IyWTg8IHaWXbzySjA.jpg",
+    "/dbvG0iQosfMV3CkHVvFIdGRbCjH.jpg",
+    "/AsVxZqoYyIBSYKT2VEs30YiLqU2.jpg"
+  ],
+  "trailerKey": "xjTlNTbv-xs",
+  "genreIds": [
+    12,
+    18,
+    37
+  ],
+  "keywordIds": [
+    1583,
+    1715,
+    2795,
+    3307,
+    8264,
+    9649,
+    15295,
+    18034,
+    162766,
+    163674,
+    189092,
+    195853,
+    196983,
+    201680,
+    202291,
+    220704,
+    269110
+  ],
+  "countries": [
+    "MX"
+  ],
+  "languages": [
+    "es"
+  ],
+  "studios": [
+    "Producciones Panicas"
+  ],
+  "crew": [
+    {
+      "personId": 1111222,
+      "job": "producer"
+    },
+    {
+      "personId": 55119,
+      "job": "composer"
+    },
+    {
+      "personId": 55119,
+      "job": "director"
+    },
+    {
+      "personId": 55119,
+      "job": "writer"
+    },
+    {
+      "personId": 55121,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 55119,
+      "character": "El Topo",
+      "order": 0
+    },
+    {
+      "personId": 85148,
+      "character": "Son of El Topo",
+      "order": 1
+    },
+    {
+      "personId": 1122001,
+      "character": "Marah / The Woman",
+      "order": 2
+    },
+    {
+      "personId": 236273,
+      "character": "The Colonel",
+      "order": 3
+    },
+    {
+      "personId": 2155147,
+      "character": "Desconocida",
+      "order": 4
+    },
+    {
+      "personId": 2155148,
+      "character": "Mujercita",
+      "order": 5
+    },
+    {
+      "personId": 1627279,
+      "character": "Adult Son of El Topo",
+      "order": 6
+    },
+    {
+      "personId": 2155150,
+      "character": "Maestro 1",
+      "order": 7
+    },
+    {
+      "personId": 942065,
+      "character": "Maestro 2",
+      "order": 8
+    },
+    {
+      "personId": 1071092,
+      "character": "Maestro 3",
+      "order": 9
+    },
+    {
+      "personId": 184465,
+      "character": "Maestro 4",
+      "order": 10
+    },
+    {
+      "personId": 85149,
+      "character": "Dying Man",
+      "order": 11
+    },
+    {
+      "personId": 1122000,
+      "character": "Armless Man",
+      "order": 12
+    },
+    {
+      "personId": 2941167,
+      "character": "Legless Man",
+      "order": 13
+    },
+    {
+      "personId": 22767,
+      "character": "Bandit 1",
+      "order": 14
+    },
+    {
+      "personId": 1121999,
+      "character": "Bandit 2",
+      "order": 15
+    },
+    {
+      "personId": 2941162,
+      "character": "Bandit 3",
+      "order": 16
+    },
+    {
+      "personId": 590226,
+      "character": "Bandit 4",
+      "order": 17
+    },
+    {
+      "personId": 590228,
+      "character": "Bandit 5",
+      "order": 18
+    },
+    {
+      "personId": 2398661,
+      "character": "Bandit 6",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 708,
+  "sources": [
+    "cult-list"
+  ]
+}

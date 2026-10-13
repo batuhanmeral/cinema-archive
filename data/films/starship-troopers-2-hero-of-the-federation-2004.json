@@ -1,0 +1,192 @@
+{
+  "tmdbId": 10304,
+  "slug": "starship-troopers-2-hero-of-the-federation-2004",
+  "year": 2004,
+  "runtime": 92,
+  "originalTitle": "Starship Troopers 2: Hero of the Federation",
+  "title": {
+    "en": "Starship Troopers 2: Hero of the Federation",
+    "tr": "Yıldız Gemisi Askerleri 2: Birliğin Kahramanı"
+  },
+  "overview": {
+    "en": "A group of troopers take refuge in an abandoned outpost after fighting alien bugs, failing to realize that more danger lays in wait.",
+    "tr": "Bir grup asker kendilerini Araknidler (\"Böcekler\") tarafından istila edilmiş bir dünyada kıstırılmış halde bulur. Bulundukları dünyadan tahliye olmayı beklerken terk edilmiş bir karakola sığınan askerler, kısa zaman sonra asıl tehlikenin etraflarını sarmış \"Böcekler\" olmadığını fark ederler."
+  },
+  "poster": {
+    "tr": "/9iqrqOjLaFcGNnSQlJxYLfgrhqn.jpg",
+    "en": "/2IplDq4Vq2VTfWpnxArPqKgQcIe.jpg"
+  },
+  "backdrops": [
+    "/vYAlndphTPA57DPL3o8XzArjyZl.jpg",
+    "/kSEc72AYeZEgwPBHle8bGjmRnAC.jpg",
+    "/bBhrGsdym3e1yMbeHGnktipyGHl.jpg",
+    "/VFQsmdsqyKWdMi2Pb77cAD4akk.jpg",
+    "/unjxix2A7ixWnPRkNagPKlF73ua.jpg",
+    "/h0JJrOWt74NnPoy90eEuMtthzfG.jpg",
+    "/gpUFUZb3qjMvxoRUo6jDnqprreM.jpg",
+    "/pPBFCbF9WPBLqBILB0mgVoBFVEw.jpg",
+    "/52UOScIC55X6bVy3yv5h9YdXO41.jpg",
+    "/bA11k6C8FgVA3N8reZxuCWKTbVC.jpg"
+  ],
+  "trailerKey": "9_sXs02IOLs",
+  "genreIds": [
+    12,
+    27,
+    28,
+    878
+  ],
+  "keywordIds": [
+    1402,
+    1603,
+    4302,
+    4595,
+    4862,
+    9663,
+    13031,
+    309974
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Startroop Pictures Inc.",
+    "Tippett Studio",
+    "TriStar Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 7727,
+      "job": "director"
+    },
+    {
+      "personId": 7723,
+      "job": "producer"
+    },
+    {
+      "personId": 64804,
+      "job": "composer"
+    },
+    {
+      "personId": 35993,
+      "job": "composer"
+    },
+    {
+      "personId": 4020,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7722,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 83983,
+      "character": "Pvt. Lei Sahara",
+      "order": 0
+    },
+    {
+      "personId": 25849,
+      "character": "Captain Dax",
+      "order": 1
+    },
+    {
+      "personId": 106752,
+      "character": "Lt. Pavlov Dill",
+      "order": 2
+    },
+    {
+      "personId": 101396,
+      "character": "Sgt. Dede Rake",
+      "order": 3
+    },
+    {
+      "personId": 21523,
+      "character": "General J.G. Shepherd",
+      "order": 4
+    },
+    {
+      "personId": 64806,
+      "character": "Pvt. Billie Otter",
+      "order": 5
+    },
+    {
+      "personId": 56447,
+      "character": "Pvt. Charlie Soda",
+      "order": 6
+    },
+    {
+      "personId": 53922,
+      "character": "Cpl. Joe Griff",
+      "order": 7
+    },
+    {
+      "personId": 65345,
+      "character": "Pvt. Jill Sandee",
+      "order": 8
+    },
+    {
+      "personId": 88702,
+      "character": "T/Sgt. Ari Peck",
+      "order": 9
+    },
+    {
+      "personId": 173995,
+      "character": "Pvt. Kipper Tor",
+      "order": 10
+    },
+    {
+      "personId": 64805,
+      "character": "Pvt. Ottis Brick",
+      "order": 11
+    },
+    {
+      "personId": 98658,
+      "character": "Pvt. Duff Horton",
+      "order": 12
+    },
+    {
+      "personId": 116278,
+      "character": "Cpl. Thom Kobe",
+      "order": 13
+    },
+    {
+      "personId": 64236,
+      "character": "Recruiting Sergeant",
+      "order": 14
+    },
+    {
+      "personId": 1212249,
+      "character": "Fleet Pilot",
+      "order": 15
+    },
+    {
+      "personId": 191377,
+      "character": "Smiling Lieutenant",
+      "order": 16
+    },
+    {
+      "personId": 1213640,
+      "character": "FedNet (voice)",
+      "order": 17
+    },
+    {
+      "personId": 4032381,
+      "character": "Trooper (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2156844,
+      "character": "Trooper (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 745,
+  "sources": [
+    "cult-list"
+  ]
+}

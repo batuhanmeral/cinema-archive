@@ -1,0 +1,201 @@
+{
+  "tmdbId": 10242,
+  "slug": "what-ever-happened-to-baby-jane-1962",
+  "year": 1962,
+  "runtime": 135,
+  "originalTitle": "What Ever Happened to Baby Jane?",
+  "title": {
+    "en": "What Ever Happened to Baby Jane?",
+    "tr": "Küçük Bebeğe Ne Oldu?"
+  },
+  "overview": {
+    "en": "A former vaudeville child star viciously torments her paraplegic sister in their decaying Hollywood mansion.",
+    "tr": "Giderek yaşlanan iki kardeş film aktrisi Hollywood’ta aynı evde beraber yaşamaktadırlar. Jane Hudson, şöhreti çocuk yaşta kazanmış bir film yıldızıdır. Kardeşi Blanche ise şöhretini kardeşine kaptırmış “kaybeden” eski bir yıldızdır.Jane sakat kardeşi Blanche’a bakmak zorunda kalmıştır. Baş başa kalan iki kız kardeş tüm nefretlerini, sakladıkları gerçekleri ortaya dökmeye ve birbirlerinden geçmişin hesabını sormaya başlayacaklardır."
+  },
+  "poster": {
+    "tr": "/msGYzyWwtjAaA3DScdgmvJ5MReG.jpg",
+    "en": "/iL3NPfhVvZNW4HPBToRuk3DlXdV.jpg"
+  },
+  "backdrops": [
+    "/o99XVRvTHZpbnU0zuX5QjuFyzno.jpg",
+    "/4v04U4UKHwQYN0vqcRsbEYInng0.jpg",
+    "/gkXL5ka6ciU4A4KYSvLIAXtvh7k.jpg",
+    "/wN7eo6WY6iPm3OhDGRmhm2pqxhF.jpg",
+    "/4kWlUFJIVhejs55PuC1cNnP1wa.jpg",
+    "/sCdpJ3iC0xknqRaBKNGsoPLk4YD.jpg",
+    "/fevyALlNYz50WGODjZcshk9zSSu.jpg",
+    "/2PDUrK5b9ZerXSMq3EolhSt8nXt.jpg",
+    "/fd4bVdK21Yn7rvgbNnZqgPYh9d8.jpg",
+    "/oxYNViZ1ix1GcN4hKn8zWn7sDIK.jpg"
+  ],
+  "trailerKey": "3qFYjkFCxiE",
+  "genreIds": [
+    27,
+    53
+  ],
+  "keywordIds": [
+    966,
+    380,
+    818,
+    6255,
+    2564,
+    5923,
+    4995,
+    7464,
+    9826,
+    12396,
+    41329,
+    41402,
+    155620,
+    156153,
+    157768,
+    158086,
+    188991,
+    191480,
+    193263,
+    207592,
+    241738,
+    261759,
+    301490
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Associates & Aldrich Company"
+  ],
+  "crew": [
+    {
+      "personId": 18392,
+      "job": "director"
+    },
+    {
+      "personId": 21600,
+      "job": "writer"
+    },
+    {
+      "personId": 18392,
+      "job": "producer"
+    },
+    {
+      "personId": 21011,
+      "job": "composer"
+    },
+    {
+      "personId": 2774,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3380,
+      "character": "Baby Jane Hudson",
+      "order": 0
+    },
+    {
+      "personId": 31550,
+      "character": "Blanche Hudson",
+      "order": 1
+    },
+    {
+      "personId": 24811,
+      "character": "Edwin Flagg",
+      "order": 2
+    },
+    {
+      "personId": 66712,
+      "character": "Marty McDonald",
+      "order": 3
+    },
+    {
+      "personId": 1046811,
+      "character": "Young Baby Jane Hudson",
+      "order": 4
+    },
+    {
+      "personId": 153365,
+      "character": "Cora Hudson",
+      "order": 5
+    },
+    {
+      "personId": 97257,
+      "character": "Dehlia Flagg",
+      "order": 6
+    },
+    {
+      "personId": 31503,
+      "character": "Ben Golden",
+      "order": 7
+    },
+    {
+      "personId": 88460,
+      "character": "Mrs. Bates",
+      "order": 8
+    },
+    {
+      "personId": 103087,
+      "character": "Elvira Stitt",
+      "order": 9
+    },
+    {
+      "personId": 40212,
+      "character": "Ray Hudson",
+      "order": 10
+    },
+    {
+      "personId": 41157,
+      "character": "Lunch Counter Assistant at Beach",
+      "order": 11
+    },
+    {
+      "personId": 103089,
+      "character": "Ernie",
+      "order": 12
+    },
+    {
+      "personId": 91260,
+      "character": "Police Officer",
+      "order": 13
+    },
+    {
+      "personId": 82615,
+      "character": "Bank Teller",
+      "order": 14
+    },
+    {
+      "personId": 56444,
+      "character": "Dr. Shelby",
+      "order": 15
+    },
+    {
+      "personId": 51230,
+      "character": "Man in Television Commercial",
+      "order": 16
+    },
+    {
+      "personId": 1178608,
+      "character": "Young Blanche Hudson",
+      "order": 17
+    },
+    {
+      "personId": 1949264,
+      "character": "Liza Bates",
+      "order": 18
+    },
+    {
+      "personId": 1574347,
+      "character": "Police Officer",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 1206,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "tmdbId": 186,
+  "slug": "lucky-number-slevin-2006",
+  "year": 2006,
+  "runtime": 110,
+  "originalTitle": "Lucky Number Slevin",
+  "title": {
+    "en": "Lucky Number Slevin",
+    "tr": "Şanslı Slevin"
+  },
+  "overview": {
+    "en": "Slevin is mistakenly put in the middle of a personal war between the city’s biggest criminal bosses. Under constant watch, Slevin must try not to get killed by an infamous assassin and come up with an idea of how to get out of his current dilemma.",
+    "tr": "Suç dünyasında hiçbir şey dışarıdan göründüğü gibi değildir. Özellikle de Slevin'ın bulaşmış olduğu suç dünyasında. Sevgilisi tarafından aldatılan, evinden atılan, üstüne üstlük bir yankesiciye kimliğini kaptıran Slevin, Los Angeles'ın bunalımlarından bir süre de olsa uzak durabilmek için New Yorklu arkadaşı Nick Fisher'dan dairesinin anahtarını ödünç alır. Oysaki New York, çok daha belalı bir şehre dönüşmüştür. Bir dönem ortak olup sonradan düşman olan iki mafya babası Patron ve Haham, suç dünyasını parsellemişlerdir. Ancak oğlunun intikamını almaya niyetli olan Patron, Haham'ın oğlunu öldürtmek için bir kiralık katil tutar. Katilin planı basittir. Patron'a borçlu birini bul ve adamı öldürt. En kolay yem ise Nick Fisher'dan başkası değildir."
+  },
+  "poster": {
+    "tr": "/jsDaNoHKn9Dh39RvdNEEzbaBIys.jpg",
+    "en": "/x21s3p5wPww534nYj1cWakTcqz4.jpg"
+  },
+  "backdrops": [
+    "/ShDHEWiJ4NL6ldn4W2m3bEkIBr.jpg",
+    "/x0O0LaHRqmgz5FVOD1fQgsJg2un.jpg",
+    "/k4gfIq9LaJEH5ALjaExmQ1CpRwz.jpg",
+    "/kIyBwYY579fwENEumhlIZaCkaMH.jpg",
+    "/hQ0mpDB4e3khaJPzSsIr0FFTtGU.jpg",
+    "/eJjFW0SzojSfZyrofwUEUFdiJKU.jpg",
+    "/zEymLjlkN0Re62lcgbuZJwghNTi.jpg",
+    "/p0Bh4hQOPb4GcHfmodoxGv8P9RO.jpg",
+    "/i5RkPvaqlnP9KdpG6GihhS2RXbR.jpg",
+    "/iTQAhbZCiG3hWcOCcT8PqWsMKcl.jpg"
+  ],
+  "trailerKey": "oYOiObTFtNk",
+  "genreIds": [
+    18,
+    53,
+    80,
+    9648
+  ],
+  "keywordIds": [
+    1589,
+    782,
+    441,
+    5305,
+    1284,
+    5306,
+    3149,
+    2281,
+    1812,
+    9826,
+    12355,
+    155759,
+    155841,
+    160488,
+    202371,
+    325765,
+    325772
+  ],
+  "countries": [
+    "CA",
+    "DE",
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "FilmEngine",
+    "Capitol Films",
+    "Ascendant Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 20224,
+      "job": "producer"
+    },
+    {
+      "personId": 20305,
+      "job": "producer"
+    },
+    {
+      "personId": 2291,
+      "job": "director"
+    },
+    {
+      "personId": 6891,
+      "job": "producer"
+    },
+    {
+      "personId": 36134,
+      "job": "producer"
+    },
+    {
+      "personId": 207213,
+      "job": "producer"
+    },
+    {
+      "personId": 56171,
+      "job": "producer"
+    },
+    {
+      "personId": 11958,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 959883,
+      "job": "producer"
+    },
+    {
+      "personId": 1222279,
+      "job": "writer"
+    },
+    {
+      "personId": 1341534,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2299,
+      "character": "Slevin",
+      "order": 0
+    },
+    {
+      "personId": 192,
+      "character": "The Boss",
+      "order": 1
+    },
+    {
+      "personId": 2282,
+      "character": "The Rabbi",
+      "order": 2
+    },
+    {
+      "personId": 140,
+      "character": "Lindsey",
+      "order": 3
+    },
+    {
+      "personId": 62,
+      "character": "Mr. Goodkat",
+      "order": 4
+    },
+    {
+      "personId": 2283,
+      "character": "Det. Brikowski",
+      "order": 5
+    },
+    {
+      "personId": 34,
+      "character": "Sloe",
+      "order": 6
+    },
+    {
+      "personId": 12978,
+      "character": "Dumbrowski",
+      "order": 7
+    },
+    {
+      "personId": 205104,
+      "character": "Yitzchok",
+      "order": 8
+    },
+    {
+      "personId": 34395,
+      "character": "Marty",
+      "order": 9
+    },
+    {
+      "personId": 26718,
+      "character": "Elvis",
+      "order": 10
+    },
+    {
+      "personId": 63859,
+      "character": "Max",
+      "order": 11
+    },
+    {
+      "personId": 74541,
+      "character": "Saul",
+      "order": 12
+    },
+    {
+      "personId": 5694,
+      "character": "Murphy",
+      "order": 13
+    },
+    {
+      "personId": 65727,
+      "character": "Nick Fisher",
+      "order": 14
+    },
+    {
+      "personId": 1004,
+      "character": "Roth",
+      "order": 15
+    },
+    {
+      "personId": 64303,
+      "character": "Slevin's Girlfriend",
+      "order": 16
+    },
+    {
+      "personId": 93137,
+      "character": "Gloria (Blondie)",
+      "order": 17
+    },
+    {
+      "personId": 1236733,
+      "character": "Henry",
+      "order": 18
+    },
+    {
+      "personId": 52395,
+      "character": "The Guy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4691,
+  "sources": [
+    "cult-list"
+  ]
+}

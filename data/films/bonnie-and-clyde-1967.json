@@ -1,0 +1,190 @@
+{
+  "tmdbId": 475,
+  "slug": "bonnie-and-clyde-1967",
+  "year": 1967,
+  "runtime": 111,
+  "originalTitle": "Bonnie and Clyde",
+  "title": {
+    "en": "Bonnie and Clyde",
+    "tr": "Bonnie ve Clyde"
+  },
+  "overview": {
+    "en": "In the 1930s, bored waitress Bonnie Parker falls in love with an ex-con named Clyde Barrow, and together they start a violent crime spree throughout the country, stealing cars and robbing banks.",
+    "tr": "30'lu yılların haydut çifti Clyde Barrow ve Bonnie Parker'ın yaşamöyküsünden biraz fazla serbest uyarlanmış olan film, ABD'nin ekonomik buhran yıllarında geçiyor. Bonnie isimli genç kadının, annesinin arabasını çalan Clyde'ın cazibesine kapılıp onunla kaçmasıyla birlikte tarihin en popüler haydutları doğar. Birlikte o eyalet senin bu eyalet benim sayısız suç işleyen ikili, kısa sürede ülke çapında meşhur olur ve adeta Robin Hood muamelesi görür. Ekonomik krizin hayatlarını kararttığı insanlar, adeta genç aşıklar tarafından soyulmaktan mutludurlar. Oysa güvenlik güçleri aynı fikirde değildir. Şöhretle birlikte Bonnie ve Clyde'ın cesareti de artar ve akıllı bir insanın kolay kolay girişmeyeceği işlere girişmeye başlarlar..."
+  },
+  "poster": {
+    "tr": "/qAmmHCvqbHdBDUV3egmom6Giejr.jpg",
+    "en": "/sCSQFK9kMsprT4jgWqgw82dT6WI.jpg"
+  },
+  "backdrops": [
+    "/fyzSiE8IWezmd3ls1amHNeOkrEf.jpg",
+    "/fUXUeHH9hNTEuscJIe3TEeT8nxm.jpg",
+    "/cHIntxWWk3yZi3jM0HnLchBvwvT.jpg",
+    "/lpRfq5bwG97pzFHbWhf2d2wTBEl.jpg",
+    "/slTzuw8ld96UkyMuXGidGyaOwdJ.jpg",
+    "/4f0AcAkFZM1KjSAdxSlw2IKvqca.jpg",
+    "/iqbF8sb0oMsiFagOeY513Ql4vVB.jpg",
+    "/gY98TpnWxTvlptEWJFVpOBiQrJg.jpg",
+    "/lD0g6DnCUyrTzlhgm7rJZkbQX31.jpg",
+    "/vmMC9rC2Z3iptDj2K5AiK0wlVAF.jpg"
+  ],
+  "trailerKey": "hZpm1zj9510",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    798,
+    828,
+    502,
+    947,
+    1375,
+    1556,
+    2492,
+    2493,
+    2496,
+    5900,
+    5901,
+    6328,
+    10051,
+    10718,
+    10562,
+    15363,
+    158741,
+    177695,
+    190629,
+    191845,
+    193309,
+    217432,
+    236706,
+    239841,
+    320537,
+    325849,
+    325854
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Tatira-Hiller Productions",
+    "Warner Bros.-Seven Arts"
+  ],
+  "crew": [
+    {
+      "personId": 6448,
+      "job": "director"
+    },
+    {
+      "personId": 6449,
+      "job": "producer"
+    },
+    {
+      "personId": 6452,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6459,
+      "job": "composer"
+    },
+    {
+      "personId": 6728,
+      "job": "writer"
+    },
+    {
+      "personId": 6729,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6449,
+      "character": "Clyde Barrow",
+      "order": 0
+    },
+    {
+      "personId": 6450,
+      "character": "Bonnie Parker",
+      "order": 1
+    },
+    {
+      "personId": 6451,
+      "character": "C. W. Moss",
+      "order": 2
+    },
+    {
+      "personId": 193,
+      "character": "Buck Barrow",
+      "order": 3
+    },
+    {
+      "personId": 6461,
+      "character": "Blanche",
+      "order": 4
+    },
+    {
+      "personId": 6462,
+      "character": "Frank Hamer",
+      "order": 5
+    },
+    {
+      "personId": 6463,
+      "character": "Ivan Moss",
+      "order": 6
+    },
+    {
+      "personId": 6464,
+      "character": "Velma Davis",
+      "order": 7
+    },
+    {
+      "personId": 3460,
+      "character": "Eugene Grizzard",
+      "order": 8
+    },
+    {
+      "personId": 6798,
+      "character": "Bonnie's mother (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 58513,
+      "character": "Bank Teller (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 139994,
+      "character": "Policeman (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 170523,
+      "character": "Deputy (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 999538,
+      "character": "Bank Guard (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 91988,
+      "character": "Bonnie's Sister (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 166358,
+      "character": "Sheriff Smoot (uncredited)",
+      "order": 15
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 1878,
+  "sources": [
+    "cult-list"
+  ]
+}

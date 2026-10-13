@@ -1,0 +1,198 @@
+{
+  "tmdbId": 25251,
+  "slug": "borsalino-1970",
+  "year": 1970,
+  "runtime": 125,
+  "originalTitle": "Borsalino",
+  "title": {
+    "en": "Borsalino",
+    "tr": "Borsalino"
+  },
+  "overview": {
+    "en": "In 1930s Marseilles two small-time crooks decide to join forces when they meet while brawling over a woman. Starting with fixed horse races and boxing matches, they soon find themselves doing jobs for the local gangster bosses. When they decide to go into the business for themselves, their easy-going approach to crime starts to change.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yYmYPRswLysH9D1Qvy7diumFXG2.jpg",
+    "en": "/yYmYPRswLysH9D1Qvy7diumFXG2.jpg"
+  },
+  "backdrops": [
+    "/gygNkDF0mTdVaaRO8nTeXvJwjFA.jpg",
+    "/2qA4ycUaIqnGAJ5gmTnXUCr8PoE.jpg",
+    "/iPAdaC6Rh8IhVyvUzIa3xQL4dRj.jpg",
+    "/e6wUmlbzG7NNsKdkMUd3JimAOTI.jpg",
+    "/a1otOiuPMqsqdUqhnfgDifaIW1M.jpg",
+    "/3M8xpSIAEHwV224MvJEG4H7YcXP.jpg"
+  ],
+  "trailerKey": "_e7GoMZZBz4",
+  "genreIds": [
+    80,
+    35,
+    18
+  ],
+  "keywordIds": [
+    3149,
+    916,
+    7439,
+    188934,
+    217452,
+    231149,
+    241031,
+    251639,
+    337442
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "studios": [
+    "Marianne Productions",
+    "Adel Productions",
+    "Mars Film"
+  ],
+  "crew": [
+    {
+      "personId": 40235,
+      "job": "director"
+    },
+    {
+      "personId": 24457,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9747,
+      "job": "writer"
+    },
+    {
+      "personId": 1107807,
+      "job": "writer"
+    },
+    {
+      "personId": 20789,
+      "job": "writer"
+    },
+    {
+      "personId": 40235,
+      "job": "writer"
+    },
+    {
+      "personId": 15135,
+      "job": "producer"
+    },
+    {
+      "personId": 32292,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3829,
+      "character": "François Capella",
+      "order": 0
+    },
+    {
+      "personId": 15135,
+      "character": "Roch Siffredi",
+      "order": 1
+    },
+    {
+      "personId": 35255,
+      "character": "Lola",
+      "order": 2
+    },
+    {
+      "personId": 24751,
+      "character": "Simone Escarguel",
+      "order": 3
+    },
+    {
+      "personId": 7565,
+      "character": "Mrs. Rinaldi",
+      "order": 4
+    },
+    {
+      "personId": 50005,
+      "character": "Mrs. Siffredi, Roch's Mother",
+      "order": 5
+    },
+    {
+      "personId": 93430,
+      "character": "Ginette",
+      "order": 6
+    },
+    {
+      "personId": 93432,
+      "character": "Lydia",
+      "order": 7
+    },
+    {
+      "personId": 25962,
+      "character": "Singer",
+      "order": 8
+    },
+    {
+      "personId": 28189,
+      "character": "Mario",
+      "order": 9
+    },
+    {
+      "personId": 93434,
+      "character": "Fernand",
+      "order": 10
+    },
+    {
+      "personId": 39677,
+      "character": "Nono",
+      "order": 11
+    },
+    {
+      "personId": 93435,
+      "character": "Martial Roger, Accountant",
+      "order": 12
+    },
+    {
+      "personId": 93436,
+      "character": "Poli",
+      "order": 13
+    },
+    {
+      "personId": 84250,
+      "character": "Marello",
+      "order": 14
+    },
+    {
+      "personId": 34679,
+      "character": "Commissioner",
+      "order": 15
+    },
+    {
+      "personId": 40586,
+      "character": "'Le Danseur'",
+      "order": 16
+    },
+    {
+      "personId": 11216,
+      "character": "Simon Boccace",
+      "order": 17
+    },
+    {
+      "personId": 11989,
+      "character": "Maître Rinaldi",
+      "order": 18
+    },
+    {
+      "personId": 579446,
+      "character": "Spada",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 260,
+  "sources": [
+    "cult-list"
+  ]
+}

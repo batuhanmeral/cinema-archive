@@ -1,0 +1,191 @@
+{
+  "tmdbId": 40220,
+  "slug": "the-boogey-man-1980",
+  "year": 1980,
+  "runtime": 82,
+  "originalTitle": "The Boogey Man",
+  "title": {
+    "en": "The Boogey Man",
+    "tr": "The Boogey Man"
+  },
+  "overview": {
+    "en": "A young girl witnesses the brutal murder of her stepfather at the hands of her brother, by mirror reflection. Years later, when the mirror is accidentally shattered, a dark and vengeful curse is unleashed on the family, and anyone unlucky enough to come into contact with its shards falls victim to heinous murder.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/bhEJ6lOAtdTGyupOSL0Snzv8qj7.jpg",
+    "en": "/vS1lsy2IhuoP8ytdwfOtGRhWU5.jpg"
+  },
+  "backdrops": [
+    "/qDyIT21aMK843bPRsFya3IQUpoJ.jpg",
+    "/h6dvCJlaMRHPbzmVfaMpVhYStbz.jpg",
+    "/cIJxI0lt7jTIxq2UmYYbs9JoTPE.jpg",
+    "/bk1buCk3UTgF7LhKxO4rfavyv78.jpg",
+    "/w7IG2t6QKH2JLH3ShruvaHSIvL2.jpg",
+    "/7UsYkgvjJZSgdEBvoObd381G2YM.jpg",
+    "/36IWvtzI6M9EnBpjtp0VbmDMYrx.jpg",
+    "/rZmpNXfzj8i33JeFaYzwxgGt8EB.jpg",
+    "/kUigWGv8CEgkRgUACiVMLcBrZYe.jpg",
+    "/q2SXNNxR5LS29tNmqaSgOelyxa0.jpg"
+  ],
+  "trailerKey": "ouwyN4NSGJI",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    3030,
+    13073,
+    156075,
+    189921
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Jerry Gross Organization"
+  ],
+  "crew": [
+    {
+      "personId": 10620,
+      "job": "director"
+    },
+    {
+      "personId": 10620,
+      "job": "writer"
+    },
+    {
+      "personId": 10620,
+      "job": "producer"
+    },
+    {
+      "personId": 2105622,
+      "job": "composer"
+    },
+    {
+      "personId": 980279,
+      "job": "writer"
+    },
+    {
+      "personId": 1196154,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1039480,
+      "job": "writer"
+    },
+    {
+      "personId": 998186,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 980279,
+      "character": "Lacey",
+      "order": 0
+    },
+    {
+      "personId": 2046512,
+      "character": "Jake",
+      "order": 1
+    },
+    {
+      "personId": 8516,
+      "character": "Dr. Warren",
+      "order": 2
+    },
+    {
+      "personId": 15866,
+      "character": "Willy",
+      "order": 3
+    },
+    {
+      "personId": 1778954,
+      "character": "Kevin",
+      "order": 4
+    },
+    {
+      "personId": 1778955,
+      "character": "Helen Edwards",
+      "order": 5
+    },
+    {
+      "personId": 1778956,
+      "character": "Ernest Edwards",
+      "order": 6
+    },
+    {
+      "personId": 1778957,
+      "character": "Father Reilly",
+      "order": 7
+    },
+    {
+      "personId": 1662225,
+      "character": "Lacey and Willy's Mother",
+      "order": 8
+    },
+    {
+      "personId": 1986834,
+      "character": "Young Willy",
+      "order": 9
+    },
+    {
+      "personId": 1986835,
+      "character": "Young Lacey",
+      "order": 10
+    },
+    {
+      "personId": 1344181,
+      "character": "The Lover",
+      "order": 11
+    },
+    {
+      "personId": 1234757,
+      "character": "Jane",
+      "order": 12
+    },
+    {
+      "personId": 1986836,
+      "character": "Susan",
+      "order": 13
+    },
+    {
+      "personId": 1986837,
+      "character": "Timmy",
+      "order": 14
+    },
+    {
+      "personId": 1986838,
+      "character": "Teenager",
+      "order": 15
+    },
+    {
+      "personId": 1986839,
+      "character": "Teenager",
+      "order": 16
+    },
+    {
+      "personId": 1188761,
+      "character": "Teenager",
+      "order": 17
+    },
+    {
+      "personId": 1344196,
+      "character": "Teenager",
+      "order": 18
+    },
+    {
+      "personId": 1102385,
+      "character": "Katy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 128,
+  "sources": [
+    "cult-list"
+  ]
+}

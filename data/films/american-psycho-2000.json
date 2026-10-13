@@ -1,0 +1,215 @@
+{
+  "tmdbId": 1359,
+  "slug": "american-psycho-2000",
+  "year": 2000,
+  "runtime": 102,
+  "originalTitle": "American Psycho",
+  "title": {
+    "en": "American Psycho",
+    "tr": "Amerikan Sapığı"
+  },
+  "overview": {
+    "en": "A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.",
+    "tr": "Patrick Bateman, aileden zengin bir adamdır. Gençliği ve yakışıklı olması, kendisine hem işinde hem de sosyal hayatında avantajlar sağlamaktadır. Oldukça sıradan bir hayata kapılıp gidiyormuş gibi görünen Bateman'ın hayatının karanlık tarafın ise oldukça derinliklidir. Bateman, insanları sebepsiz yere öldürmekten hoşlanan ve öldürdüğü insanların vücutlarından hatıra olarak aldığı parçaları evinde saklayan bir akıl hastasıdır. Bunu kendisi dışında kimse bilmemektedir."
+  },
+  "poster": {
+    "tr": "/fKZq9UdctmeTl5Gic5FeC3o6qSZ.jpg",
+    "en": "/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg"
+  },
+  "backdrops": [
+    "/2Tawvc0JMmR9nBXD3nhBThTQP2X.jpg",
+    "/alWtP7JwoanQyqXzg3PCbEFrfwS.jpg",
+    "/bneUTWFAcVCdsb0O5UwZbJd8xqZ.jpg",
+    "/xMnGZBGeR12qYjhOmg5WeWkUxdU.jpg",
+    "/rRwD4MoBlkBXWQ6PDnbKRSU5dDu.jpg",
+    "/5oaMV2q0qzxkIW2ukU3lldLu5q2.jpg",
+    "/fVJQjlTIEczbHKi4Uk11zBBMypb.jpg",
+    "/9SZCbF3OzmoUZsNtRyn6BsNbwv5.jpg",
+    "/oAMvIOhPncXpqmAHYa8hHwkKuwD.jpg",
+    "/m0xdvPRlNjX0KbCwXFr9bBeSdqE.jpg"
+  ],
+  "trailerKey": "81mibtQWWBg",
+  "genreIds": [
+    53,
+    18,
+    80
+  ],
+  "keywordIds": [
+    242,
+    818,
+    4480,
+    6259,
+    10123,
+    8201,
+    5636,
+    10714,
+    12394,
+    12401,
+    12565,
+    164186,
+    174075,
+    174076,
+    174086,
+    208289,
+    247776,
+    280075,
+    286954,
+    295907,
+    315058
+  ],
+  "countries": [
+    "CA",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "cn"
+  ],
+  "studios": [
+    "Lionsgate",
+    "Pressman Film",
+    "Muse Productions"
+  ],
+  "crew": [
+    {
+      "personId": 16378,
+      "job": "writer"
+    },
+    {
+      "personId": 32034,
+      "job": "producer"
+    },
+    {
+      "personId": 17231,
+      "job": "producer"
+    },
+    {
+      "personId": 3115,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 32030,
+      "job": "writer"
+    },
+    {
+      "personId": 32035,
+      "job": "producer"
+    },
+    {
+      "personId": 16378,
+      "job": "director"
+    },
+    {
+      "personId": 7491,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3894,
+      "character": "Patrick Bateman",
+      "order": 0
+    },
+    {
+      "personId": 15009,
+      "character": "Timothy Bryce",
+      "order": 1
+    },
+    {
+      "personId": 6164,
+      "character": "Craig McDermott",
+      "order": 2
+    },
+    {
+      "personId": 32029,
+      "character": "David Van Patten",
+      "order": 3
+    },
+    {
+      "personId": 2838,
+      "character": "Jean",
+      "order": 4
+    },
+    {
+      "personId": 368,
+      "character": "Evelyn Williams",
+      "order": 5
+    },
+    {
+      "personId": 20767,
+      "character": "Courtney Rawlinson",
+      "order": 6
+    },
+    {
+      "personId": 11154,
+      "character": "Luis Carruthers",
+      "order": 7
+    },
+    {
+      "personId": 7499,
+      "character": "Paul Allen",
+      "order": 8
+    },
+    {
+      "personId": 5293,
+      "character": "Donald Kimball",
+      "order": 9
+    },
+    {
+      "personId": 2617,
+      "character": "Christie",
+      "order": 10
+    },
+    {
+      "personId": 32030,
+      "character": "Elizabeth",
+      "order": 11
+    },
+    {
+      "personId": 32031,
+      "character": "Harold Carnes",
+      "order": 12
+    },
+    {
+      "personId": 32032,
+      "character": "Daisy",
+      "order": 13
+    },
+    {
+      "personId": 38951,
+      "character": "Homeless Man",
+      "order": 14
+    },
+    {
+      "personId": 1860410,
+      "character": "Waiter #1",
+      "order": 15
+    },
+    {
+      "personId": 1147823,
+      "character": "Victoria",
+      "order": 16
+    },
+    {
+      "personId": 2023592,
+      "character": "Bargirl",
+      "order": 17
+    },
+    {
+      "personId": 103872,
+      "character": "Mrs. Wolfe",
+      "order": 18
+    },
+    {
+      "personId": 32033,
+      "character": "Sabrina",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 12935,
+  "sources": [
+    "cult-list"
+  ]
+}

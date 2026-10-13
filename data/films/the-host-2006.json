@@ -1,0 +1,208 @@
+{
+  "tmdbId": 1255,
+  "slug": "the-host-2006",
+  "year": 2006,
+  "runtime": 120,
+  "originalTitle": "괴물",
+  "title": {
+    "en": "The Host",
+    "tr": "Yaratık"
+  },
+  "overview": {
+    "en": "A teenage girl is captured by a giant mutated squid-like creature that appears from Seoul's Han River after toxic waste was dumped in it, prompting her family into a frantic search for her.",
+    "tr": "Seul’un iki yakasını birbirinden ayıran eşsiz güzellikteki Han Nehri, derinlerinde insanların farkında olmadıkları çok tehlikeli bir kötülüğü büyütmektedir. Amerikan savaş gemilerinin birkaç sene önce nehre gizlice boşalttığı kimyasal atıklar, korkunç bir yaratığın oluşmasına neden olmuştur.Bir gün hiç beklenmedik bir şekilde ortaya çıkan yaratık, nehir kenarında piknik yapan insanlara saldırır. Olay, hükümetin ciddi şekilde ele almasını gerektiren dehşet verici bir boyuta varır. Yaratığı ortadan kaldırmak da çözüm olmayacaktır çünkü yaratığın, insanlara korkunç bir virüs bulaştırdığından şüphelenilmektedir."
+  },
+  "poster": {
+    "tr": "/dEDLY3KeghKFzks5nTDWdigVikr.jpg",
+    "en": "/dEDLY3KeghKFzks5nTDWdigVikr.jpg"
+  },
+  "backdrops": [
+    "/44F22wn408ya0sipaezfRhTiBpQ.jpg",
+    "/m0wczZyNfWpu5q9wNuhFUGGiLxG.jpg",
+    "/2RTEcrcjiFuNsfF5qVlD3VJ38Ru.jpg",
+    "/8KBAUZ6geNfG2QJU6mfTVE5k3Jp.jpg",
+    "/iCNBtOtH1J5k8EARkKVPdQsbKAl.jpg",
+    "/g7HS94gk6j49mJGbIhRutnBKzbC.jpg",
+    "/xENJCaWyezrEn3IvFCGuPHAuwUV.jpg",
+    "/wJIUjCArjzLPgs6kMKAW3qOUWgA.jpg",
+    "/A9rxhFH8zGPGCoysqHLTInH1ut5.jpg",
+    "/nTSWtRG4LECKIiIKEueQFr8fERD.jpg"
+  ],
+  "trailerKey": "0Zq5fL6BQjw",
+  "genreIds": [
+    27,
+    18,
+    878
+  ],
+  "keywordIds": [
+    5600,
+    6305,
+    1299,
+    1261,
+    3930,
+    6304,
+    6617,
+    6618,
+    4393,
+    18035,
+    241445,
+    290327,
+    301096,
+    303843,
+    325765,
+    325815,
+    325818
+  ],
+  "countries": [
+    "KR"
+  ],
+  "languages": [
+    "en",
+    "ko"
+  ],
+  "studios": [
+    "Chungeorahm Film",
+    "Showbox"
+  ],
+  "crew": [
+    {
+      "personId": 21684,
+      "job": "director"
+    },
+    {
+      "personId": 21685,
+      "job": "writer"
+    },
+    {
+      "personId": 21684,
+      "job": "writer"
+    },
+    {
+      "personId": 16281,
+      "job": "producer"
+    },
+    {
+      "personId": 21690,
+      "job": "composer"
+    },
+    {
+      "personId": 17133,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2482750,
+      "job": "producer"
+    },
+    {
+      "personId": 2546561,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20738,
+      "character": "Park Gang-du",
+      "order": 0
+    },
+    {
+      "personId": 116180,
+      "character": "Park Hie-bong",
+      "order": 1
+    },
+    {
+      "personId": 21687,
+      "character": "Park Nam-il",
+      "order": 2
+    },
+    {
+      "personId": 21688,
+      "character": "Park Nam-joo",
+      "order": 3
+    },
+    {
+      "personId": 21689,
+      "character": "Park Hyun-seo",
+      "order": 4
+    },
+    {
+      "personId": 77188,
+      "character": "The Monster (voice)",
+      "order": 5
+    },
+    {
+      "personId": 1307736,
+      "character": "Se-jin",
+      "order": 6
+    },
+    {
+      "personId": 1180191,
+      "character": "Se-joo",
+      "order": 7
+    },
+    {
+      "personId": 141541,
+      "character": "Homeless Man",
+      "order": 8
+    },
+    {
+      "personId": 94003,
+      "character": "Fat Guevara",
+      "order": 9
+    },
+    {
+      "personId": 69379,
+      "character": "Yellow Suit at Funeral",
+      "order": 10
+    },
+    {
+      "personId": 1190229,
+      "character": "Hostage nurse",
+      "order": 11
+    },
+    {
+      "personId": 1075838,
+      "character": "Inquiry Officer",
+      "order": 12
+    },
+    {
+      "personId": 927755,
+      "character": "Civilian Military Kim",
+      "order": 13
+    },
+    {
+      "personId": 6914,
+      "character": "Douglas",
+      "order": 14
+    },
+    {
+      "personId": 2747560,
+      "character": "Young Korean Doctor",
+      "order": 15
+    },
+    {
+      "personId": 138988,
+      "character": "American Doctor",
+      "order": 16
+    },
+    {
+      "personId": 79580,
+      "character": "Donald",
+      "order": 17
+    },
+    {
+      "personId": 2747562,
+      "character": "Donald's Girlfriend",
+      "order": 18
+    },
+    {
+      "personId": 543671,
+      "character": "Doctor from Isolation Ward 1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3289,
+  "sources": [
+    "cult-list"
+  ]
+}

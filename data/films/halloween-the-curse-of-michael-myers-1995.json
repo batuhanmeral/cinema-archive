@@ -1,0 +1,203 @@
+{
+  "tmdbId": 10987,
+  "slug": "halloween-the-curse-of-michael-myers-1995",
+  "year": 1995,
+  "runtime": 88,
+  "originalTitle": "Halloween: The Curse of Michael Myers",
+  "title": {
+    "en": "Halloween: The Curse of Michael Myers",
+    "tr": "Cadılar Bayramı 6: Ölüm Çığlığı"
+  },
+  "overview": {
+    "en": "Six years after being presumed dead in a fire, and just as the town prepares to finally celebrate Halloween again, Michael Myers returns to Haddonfield to continue his reign of terror.",
+    "tr": "17 yıl boyunca , Illinois'in Haddonfield kasabası şeytanın sokaklarda kol gezdiği, küçük bir mekan haline gelmişti...Haddonfield'da son cadılar bayramı kutlamasının üstünden 6 yıl geçmiştir. Michael Myers, yeğeni Jamie ve siyahlar içindeki adam beşinci filmin sonundaki patlamanın ardından ortadan yok olmuştur. Herkes onların öldüğünü düşünmektedir... Fakat gerçekte Jamie, siyahlar giyen adam tarafından kaçırılmıştır. Jamie'nin bebeği cadılar bayramı gecesinde doğar ve Mary adındaki bir bayan Jamie ve bebeğine kaçmaları için yardım eder. Bununla birlikte Michael Myers hemen arkalarındadır...Bu arada Tommy Doyle (ilk bölümde Laura'nın bakıcılığını yaptığı çocuk) gözlerini Michael'ın eski evine taşınan aileye dikmiştir. Tommy'de Michael Myers saplantısı başlamış, üstelik radyo programında bir de Jamie'nin yardım çığlığını duyunca olaylar yeniden içinden çıkılmaz bir boyuta gelmiştir..."
+  },
+  "poster": {
+    "tr": "/vJnzInfprlhf0c5L3jEo2K5LINb.jpg",
+    "en": "/lepPd0SRf4CEEYzuoUsyFA1egHE.jpg"
+  },
+  "backdrops": [
+    "/c0XKcEX1IvqDUkOlt8XrmKh1AtI.jpg",
+    "/8xLsFPeMC2AjPiJPZlQeBKiTIqE.jpg",
+    "/A13MhJfMW4RQfDuSMUdOkGjqD8J.jpg",
+    "/cFFCNDLLJqPIsQDMH9dlniYDiIT.jpg",
+    "/aNCuHUTpM6PpnJhh0pGktTYR78h.jpg",
+    "/wW9XV94Fi36gzIGqKIfqcHHTWpO.jpg",
+    "/jHtuoRdP5nGyulwYoV8izEU6p8M.jpg",
+    "/oNw3nozA11VSBjxbBXkR1XSfbY7.jpg",
+    "/ipiUinx5TdMuQ7KwqX2h0UeQ9x0.jpg",
+    "/lherO1VyapBSEfFTKlCbOG4f7QJ.jpg"
+  ],
+  "trailerKey": "YZbc4LCDPsk",
+  "genreIds": [
+    27,
+    53
+  ],
+  "keywordIds": [
+    10685,
+    6259,
+    1583,
+    3335,
+    5034,
+    6158,
+    6406,
+    9663,
+    9826,
+    10714,
+    12339,
+    13005,
+    13140,
+    34079,
+    156075,
+    156851,
+    162810,
+    217324,
+    232795,
+    323756,
+    384154
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Halloween VI Productions",
+    "Nightfall Productions",
+    "Trancas International Films"
+  ],
+  "crew": [
+    {
+      "personId": 55116,
+      "job": "director"
+    },
+    {
+      "personId": 1701330,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 78136,
+      "job": "writer"
+    },
+    {
+      "personId": 1356571,
+      "job": "producer"
+    },
+    {
+      "personId": 15445,
+      "job": "composer"
+    },
+    {
+      "personId": 67695,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 22226,
+      "character": "Tommy Doyle",
+      "order": 0
+    },
+    {
+      "personId": 9221,
+      "character": "Dr. Loomis",
+      "order": 1
+    },
+    {
+      "personId": 67838,
+      "character": "Kara Strode",
+      "order": 2
+    },
+    {
+      "personId": 14312,
+      "character": "Dr. Wynn",
+      "order": 3
+    },
+    {
+      "personId": 15655,
+      "character": "Debra Strode",
+      "order": 4
+    },
+    {
+      "personId": 1234009,
+      "character": "John Strode",
+      "order": 5
+    },
+    {
+      "personId": 139343,
+      "character": "Tim Strode",
+      "order": 6
+    },
+    {
+      "personId": 133456,
+      "character": "Beth",
+      "order": 7
+    },
+    {
+      "personId": 97719,
+      "character": "Barry Simms",
+      "order": 8
+    },
+    {
+      "personId": 1219397,
+      "character": "Jamie Lloyd",
+      "order": 9
+    },
+    {
+      "personId": 1109673,
+      "character": "Danny Strode",
+      "order": 10
+    },
+    {
+      "personId": 182515,
+      "character": "Mary",
+      "order": 11
+    },
+    {
+      "personId": 69129,
+      "character": "The Shape",
+      "order": 12
+    },
+    {
+      "personId": 1762900,
+      "character": "Mrs. Blankenship",
+      "order": 13
+    },
+    {
+      "personId": 1805173,
+      "character": "Dr. Bonham",
+      "order": 14
+    },
+    {
+      "personId": 3214432,
+      "character": "Dawn",
+      "order": 15
+    },
+    {
+      "personId": 3691326,
+      "character": "Paramedic",
+      "order": 16
+    },
+    {
+      "personId": 95051,
+      "character": "Motorist",
+      "order": 17
+    },
+    {
+      "personId": 4068194,
+      "character": "Attendant",
+      "order": 18
+    },
+    {
+      "personId": 1762904,
+      "character": "Nurse",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1297,
+  "sources": [
+    "cult-list"
+  ]
+}

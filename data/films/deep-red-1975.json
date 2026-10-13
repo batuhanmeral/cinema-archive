@@ -1,0 +1,194 @@
+{
+  "tmdbId": 20126,
+  "slug": "deep-red-1975",
+  "year": 1975,
+  "runtime": 127,
+  "originalTitle": "Profondo rosso",
+  "title": {
+    "en": "Deep Red",
+    "tr": "Derin Kırmızı"
+  },
+  "overview": {
+    "en": "An English pianist living in Rome witnesses the brutal murder of his psychic neighbor. With the help of a tenacious young reporter, he tries to discover the killer using very unconventional methods. The two are soon drawn into a shocking web of dementia and violence.",
+    "tr": "Caz piyanisti ve müzik hocası Marcus Daly, kanlı bir cinayete şahit olduktan sonra, cinayetin ardındaki gizemi araştırmaya başlar. Zamanla cinayetlerin sayısı artmaya başlar ve Daly cinayetlerle kendisi arasındaki bağlantıdan yola çıkarak, katilin kim olduğunu bulmaya çalışır. Katile giden yol, sırlarla dolu bir bulmacayı andırmaktadır."
+  },
+  "poster": {
+    "tr": "/wq7RxV5gMvgO0EKeWpNhegnpJBh.jpg",
+    "en": "/wq7RxV5gMvgO0EKeWpNhegnpJBh.jpg"
+  },
+  "backdrops": [
+    "/3hvygFCUYB0A4Q1uu6DJ5M1GmpU.jpg",
+    "/aHupV6sKKvjpHARrbsfjKsabIPw.jpg",
+    "/gHByPL64h7Ur14JKPkbSbMj43LF.jpg",
+    "/1TUVomP0B73YbEIatgxBdag5J7Z.jpg",
+    "/zqinL4XO3m9K0raOyTtC3DCIaOc.jpg",
+    "/hdNYC6uwkUfy455gwawteEcB35w.jpg",
+    "/45gBntOgkEKjyRhUJpdPJI9jzMi.jpg",
+    "/2Opb2y5PwXPDmVqtJA4Vr3Dk88.jpg",
+    "/mMNwJDzpQ68Uhfxs2ZzbLXlvcXJ.jpg",
+    "/bBnKTsCdm5L0fYKMLbPLLcEFbHr.jpg"
+  ],
+  "trailerKey": "xg7b4eLCDPM",
+  "genreIds": [
+    27,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    9826,
+    12193,
+    12570,
+    14742,
+    14743,
+    233450,
+    361094
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "de",
+    "it"
+  ],
+  "studios": [
+    "Seda Spettacoli",
+    "Rizzoli Film"
+  ],
+  "crew": [
+    {
+      "personId": 4955,
+      "job": "director"
+    },
+    {
+      "personId": 4955,
+      "job": "writer"
+    },
+    {
+      "personId": 67884,
+      "job": "writer"
+    },
+    {
+      "personId": 15055,
+      "job": "composer"
+    },
+    {
+      "personId": 36931,
+      "job": "composer"
+    },
+    {
+      "personId": 70886,
+      "job": "producer"
+    },
+    {
+      "personId": 25322,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15196,
+      "character": "Marcus Daly",
+      "order": 0
+    },
+    {
+      "personId": 44959,
+      "character": "Gianna Brezzi",
+      "order": 1
+    },
+    {
+      "personId": 80503,
+      "character": "Carlo",
+      "order": 2
+    },
+    {
+      "personId": 9766,
+      "character": "Helga Ulmann",
+      "order": 3
+    },
+    {
+      "personId": 85648,
+      "character": "Supt. Calcabrini",
+      "order": 4
+    },
+    {
+      "personId": 51744,
+      "character": "Amanda Righetti",
+      "order": 5
+    },
+    {
+      "personId": 85649,
+      "character": "Bardi",
+      "order": 6
+    },
+    {
+      "personId": 85650,
+      "character": "Prof. Giordani",
+      "order": 7
+    },
+    {
+      "personId": 42407,
+      "character": "Martha Manganiello",
+      "order": 8
+    },
+    {
+      "personId": 1091328,
+      "character": "Carlo's Father",
+      "order": 9
+    },
+    {
+      "personId": 1090000,
+      "character": "Elvira",
+      "order": 10
+    },
+    {
+      "personId": 142271,
+      "character": "Cop Taking Notes",
+      "order": 11
+    },
+    {
+      "personId": 1014936,
+      "character": "Police Photographer",
+      "order": 12
+    },
+    {
+      "personId": 104127,
+      "character": "Massimo Ricci",
+      "order": 13
+    },
+    {
+      "personId": 1973436,
+      "character": "Young Carlo",
+      "order": 14
+    },
+    {
+      "personId": 52255,
+      "character": "Rodi",
+      "order": 15
+    },
+    {
+      "personId": 98774,
+      "character": "Agent Mingozzi",
+      "order": 16
+    },
+    {
+      "personId": 556750,
+      "character": "Fingerprint Cop",
+      "order": 17
+    },
+    {
+      "personId": 556745,
+      "character": "Police Agent",
+      "order": 18
+    },
+    {
+      "personId": 146997,
+      "character": "Fat Cop",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1656,
+  "sources": [
+    "cult-list"
+  ]
+}

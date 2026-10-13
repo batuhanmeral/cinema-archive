@@ -1,0 +1,193 @@
+{
+  "tmdbId": 5204,
+  "slug": "kontroll-2003",
+  "year": 2003,
+  "runtime": 107,
+  "originalTitle": "Kontroll",
+  "title": {
+    "en": "Kontroll",
+    "tr": "Kontroll"
+  },
+  "overview": {
+    "en": "A subway enforcement officer working in the oppressively gray Budapest metro gets a chance at love — but first he needs to find out why passengers are jumping — or being pushed — to their deaths onto the tracks.",
+    "tr": "Budapeşte metrosunun karanlık dehlizlerini mekân tutan \"Kontrol\", bir grup bilet kontrolörünün yeraltında yaşadığı olaylara kara komedi türünde odaklanıyor. Bu genel tarife rağmen, aslında filmi bir türe sığdırmak pek olası değil. Luc Besson’un Metro’sundaki koreografiyi hatırlatan tavrıyla muhtelif insan portrelerine yer veren filmde, ortam yine alternatif bir yaşam ünitesi olarak sahneleniyor. Lakin esas mevzu, sembolize ettiği üzere, “araf” misali bir yerden bir yere geçiş hali, platformu olması. Bu ilk uzun metraj filmiyle ülkesinde gişe başarısı da yakalayan 30 yaşındaki Macar yönetmen Nimród Antal’ın derdi açık; kaos çivisi çıkmış dünyamızın, yeryüzünün sembolik bir resmini çizmek."
+  },
+  "poster": {
+    "tr": "/rEf7jXTm4oaI4YWTLlqQCukn63j.jpg",
+    "en": "/rEf7jXTm4oaI4YWTLlqQCukn63j.jpg"
+  },
+  "backdrops": [
+    "/x1i0wTxKqT86n1M71GBnc13mxLX.jpg",
+    "/fTbjpWc06oerJUtGQxNxyfrapEb.jpg",
+    "/z4q4CcDAwnNhLnMweOJYXhBV4gi.jpg",
+    "/hi4bECjQzIZn69ApuhBTEx5pqNQ.jpg",
+    "/mZ7KyYzXl82W9CLDgKQKDypyuDp.jpg",
+    "/s5aPvgtIPjvC6n88I1DAqIiN7eQ.jpg",
+    "/kOwmZfST8bCfwX2ixoDGHhnS8WT.jpg",
+    "/cUEyILu87kxf4D2oZR72J9H258q.jpg",
+    "/yL7MhTL0kgnId4a9strlXIwSc1r.jpg",
+    "/bpXZh4yI1UOSLhXdjLG0TbDWeg2.jpg"
+  ],
+  "trailerKey": "Dx5Rt2BPLLc",
+  "genreIds": [
+    35,
+    80,
+    18,
+    53
+  ],
+  "keywordIds": [
+    810,
+    1353,
+    1552,
+    1501,
+    3023,
+    10123,
+    13008,
+    15290,
+    162801,
+    259094,
+    286125,
+    288061
+  ],
+  "countries": [
+    "HU"
+  ],
+  "languages": [
+    "hu",
+    "it",
+    "es"
+  ],
+  "studios": [
+    "Café Film",
+    "Bonfire"
+  ],
+  "crew": [
+    {
+      "personId": 30459,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 41671,
+      "job": "director"
+    },
+    {
+      "personId": 41671,
+      "job": "writer"
+    },
+    {
+      "personId": 42467,
+      "job": "producer"
+    },
+    {
+      "personId": 42466,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 42067,
+      "character": "Bulcsú",
+      "order": 0
+    },
+    {
+      "personId": 42069,
+      "character": "Professzor",
+      "order": 1
+    },
+    {
+      "personId": 42068,
+      "character": "Muki",
+      "order": 2
+    },
+    {
+      "personId": 42070,
+      "character": "Lecsó",
+      "order": 3
+    },
+    {
+      "personId": 42071,
+      "character": "Tibi",
+      "order": 4
+    },
+    {
+      "personId": 42075,
+      "character": "Szofi",
+      "order": 5
+    },
+    {
+      "personId": 42074,
+      "character": "Béla",
+      "order": 6
+    },
+    {
+      "personId": 42072,
+      "character": "Gyalogkakukk",
+      "order": 7
+    },
+    {
+      "personId": 231048,
+      "character": "Lökdösődő",
+      "order": 8
+    },
+    {
+      "personId": 235309,
+      "character": "Főnök",
+      "order": 9
+    },
+    {
+      "personId": 42077,
+      "character": "Öltönyös",
+      "order": 10
+    },
+    {
+      "personId": 42076,
+      "character": "Laci",
+      "order": 11
+    },
+    {
+      "personId": 225934,
+      "character": "Feri",
+      "order": 12
+    },
+    {
+      "personId": 123942,
+      "character": "Spicces nő",
+      "order": 13
+    },
+    {
+      "personId": 2421490,
+      "character": "Gonzó",
+      "order": 14
+    },
+    {
+      "personId": 5382212,
+      "character": "Tamás",
+      "order": 15
+    },
+    {
+      "personId": 5382144,
+      "character": "Doki",
+      "order": 16
+    },
+    {
+      "personId": 1401747,
+      "character": "Róbert",
+      "order": 17
+    },
+    {
+      "personId": 402999,
+      "character": "Utolsó utas",
+      "order": 18
+    },
+    {
+      "personId": 1037938,
+      "character": "Nagydarab",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 317,
+  "sources": [
+    "cult-list"
+  ]
+}

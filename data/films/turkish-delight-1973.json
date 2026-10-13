@@ -1,0 +1,196 @@
+{
+  "tmdbId": 21035,
+  "slug": "turkish-delight-1973",
+  "year": 1973,
+  "runtime": 108,
+  "originalTitle": "Turks Fruit",
+  "title": {
+    "en": "Turkish Delight",
+    "tr": "Turks Fruit"
+  },
+  "overview": {
+    "en": "Gifted but hot-headed sculptor Eric has a stormy, erotic, and star-crossed romance with a beautiful young woman named Olga.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/eqnlXShKgQbF3prxU6XYrC53z6F.jpg",
+    "en": "/eqnlXShKgQbF3prxU6XYrC53z6F.jpg"
+  },
+  "backdrops": [
+    "/2YtfWnpSGfy1vIskzpl24ZOzIBS.jpg",
+    "/dZ9oHfEyMpADAys6GpcK0nq2lFx.jpg",
+    "/usPEQACQ0uKU812EoGPamtukgNl.jpg",
+    "/vBxHWCOJ4fUnMxod8ikQFiHeDge.jpg",
+    "/9x702pAop1YHUHYliRToChSpkbn.jpg",
+    "/nQQdNcu7BhlQ02WMFhj4NiuCAwN.jpg",
+    "/tp4XSVcVZawFv06bdcMk1XZ8ky1.jpg",
+    "/A6dgYa6GGUnxmAxqmHOUGM0FkgV.jpg",
+    "/kVJVsNSkNGvlESKCsejWhhmmE4y.jpg",
+    "/t9ZksM2x6Z78QXyI47CC7r0aEj7.jpg"
+  ],
+  "trailerKey": "D6of8iM3bw4",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    596,
+    879,
+    2374,
+    10683,
+    9673,
+    11546,
+    11925,
+    164263,
+    165086,
+    173245,
+    223019,
+    245525,
+    281237,
+    304976
+  ],
+  "countries": [
+    "NL"
+  ],
+  "languages": [
+    "en",
+    "nl"
+  ],
+  "studios": [
+    "Verenigde Nederlandsche Filmcompagnie (VNF)",
+    "Rob Houwer Film Holland"
+  ],
+  "crew": [
+    {
+      "personId": 2209,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9120,
+      "job": "producer"
+    },
+    {
+      "personId": 9119,
+      "job": "writer"
+    },
+    {
+      "personId": 10491,
+      "job": "director"
+    },
+    {
+      "personId": 1150009,
+      "job": "composer"
+    },
+    {
+      "personId": 9121,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21445,
+      "character": "Olga Stapels",
+      "order": 0
+    },
+    {
+      "personId": 585,
+      "character": "Erik Vonk",
+      "order": 1
+    },
+    {
+      "personId": 1088225,
+      "character": "Mrs Stapels",
+      "order": 2
+    },
+    {
+      "personId": 1325262,
+      "character": "Stapels",
+      "order": 3
+    },
+    {
+      "personId": 1325263,
+      "character": "Store manager",
+      "order": 4
+    },
+    {
+      "personId": 9130,
+      "character": "Dr Paul Kruithof",
+      "order": 5
+    },
+    {
+      "personId": 1249086,
+      "character": "Henny",
+      "order": 6
+    },
+    {
+      "personId": 1284541,
+      "character": "Accountant",
+      "order": 7
+    },
+    {
+      "personId": 1325264,
+      "character": "Tineke Elffers",
+      "order": 8
+    },
+    {
+      "personId": 1325265,
+      "character": "Hospital official",
+      "order": 9
+    },
+    {
+      "personId": 211259,
+      "character": "Tourism board member",
+      "order": 10
+    },
+    {
+      "personId": 995598,
+      "character": "Security agent",
+      "order": 11
+    },
+    {
+      "personId": 1325266,
+      "character": "Bridegroom",
+      "order": 12
+    },
+    {
+      "personId": 1182179,
+      "character": "Truus",
+      "order": 13
+    },
+    {
+      "personId": 1325267,
+      "character": "American",
+      "order": 14
+    },
+    {
+      "personId": 1388970,
+      "character": "Waitress",
+      "order": 15
+    },
+    {
+      "personId": 4129030,
+      "character": "Moniek",
+      "order": 16
+    },
+    {
+      "personId": 2985596,
+      "character": "Police officer",
+      "order": 17
+    },
+    {
+      "personId": 2729048,
+      "character": "Head waiter",
+      "order": 18
+    },
+    {
+      "personId": 1245212,
+      "character": "Sculptor",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 222,
+  "sources": [
+    "cult-list"
+  ]
+}

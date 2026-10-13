@@ -1,0 +1,142 @@
+{
+  "tmdbId": 775,
+  "slug": "a-trip-to-the-moon-1902",
+  "year": 1902,
+  "runtime": 15,
+  "originalTitle": "Le Voyage dans la Lune",
+  "title": {
+    "en": "A Trip to the Moon",
+    "tr": "Aya Seyahat"
+  },
+  "overview": {
+    "en": "Professor Barbenfouillis and five of his colleagues from the Academy of Astronomy travel to the Moon aboard a rocket propelled by a giant cannon. Once on the lunar surface, the bold explorers face the many perils hidden in the caves of the mysterious planet.",
+    "tr": "Prof. Barbenfouillis başkanlığında bir grup astronom Ay'a gitmek üzere planlar yaparlar. Sonuçta dev bir toptan gönderilen mermi şeklindeki uzay gemileri ile hedeflerine ulaşırlar. Ancak burada Aylılar tarafından kaçırılıp Ay kralının sarayına götürülürler... George Méliès'in çoğu Jules Verne'e dayanarak yaptığı yüzlerce kısa filmden bu en ünlüsü, -açıkça H.G.Wells'in First Men in the Moon'undan da esinlenerek- sinema tarihinin ilk bilim kurgu filmi olarak haklı bir üne sahiptir. Méliès'in filmleri janra ait klişelerin tümüne sahiptir neredeyse; çılgın bilim adamları, dehşet verici icatlar, roketler vs vs.. Roketin Ay'a varışını simgeleyen sempatik sekans, kuşkusuz sinemanın en bilinen sahnelerinden birine vesile olmuştur."
+  },
+  "poster": {
+    "tr": "/sQih5tstf1LEDiy6cXi1d6SYeBX.jpg",
+    "en": "/aaNIFWrq6eGi259APbB5yaqBFdm.jpg"
+  },
+  "backdrops": [
+    "/jeC1kzwWnZTuXl7xF4E5D70BD8c.jpg",
+    "/kJSnhBQZyCcbqxMZJuDby8ULcfS.jpg",
+    "/g67r1eiQD3ERSEQFCFkSn7TeGw5.jpg",
+    "/dg0gxby1Ku2JGpyPffnwJzITp01.jpg",
+    "/uUDALlCZFqWoq5IluxCqXKnC6pn.jpg",
+    "/85ef1n5DmAP0aAu9xHMXB7odTaq.jpg",
+    "/cA1dNxtjG0IJneHk6LhdZj5JSU7.jpg",
+    "/tAaxoPO1CU4PPUkR93zAyQQs0Tz.jpg",
+    "/4ZEbK8kEN0TgkWNebSBnTJGuV2d.jpg",
+    "/jmL5kNWynl7GmE9vRVYFUKYi1R8.jpg"
+  ],
+  "trailerKey": "JEGIyo-dKmA",
+  "genreIds": [
+    12,
+    878,
+    35
+  ],
+  "keywordIds": [
+    305,
+    818,
+    8201,
+    10222,
+    12999,
+    154802,
+    181239,
+    195114,
+    232797,
+    257758,
+    263548,
+    326368
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [],
+  "studios": [
+    "Star Film"
+  ],
+  "crew": [
+    {
+      "personId": 11523,
+      "job": "director"
+    },
+    {
+      "personId": 11523,
+      "job": "writer"
+    },
+    {
+      "personId": 11523,
+      "job": "producer"
+    },
+    {
+      "personId": 1129746,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11526,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11523,
+      "character": "Professeur Barbenfouillis / La Lune",
+      "order": 0
+    },
+    {
+      "personId": 11645,
+      "character": "Phoebe Déesse de la Lune",
+      "order": 1
+    },
+    {
+      "personId": 1271225,
+      "character": "L'officier de Marine / Commandant de la Base de Lancement",
+      "order": 2
+    },
+    {
+      "personId": 28964,
+      "character": "La Secrétaire / Une Étoile / Agent de Bord de la Fusée",
+      "order": 3
+    },
+    {
+      "personId": 11644,
+      "character": "Le Pilote de la Fusée Lunaire",
+      "order": 4
+    },
+    {
+      "personId": 28963,
+      "character": "Un Astronome et Spationaute",
+      "order": 5
+    },
+    {
+      "personId": 11647,
+      "character": "Un Astronome et Spationaute",
+      "order": 6
+    },
+    {
+      "personId": 28965,
+      "character": "Un Astronome et Spationaute",
+      "order": 7
+    },
+    {
+      "personId": 28966,
+      "character": "Un Astronome et Spationaute",
+      "order": 8
+    },
+    {
+      "personId": 28967,
+      "character": "Un Astronome et Spationaute",
+      "order": 9
+    },
+    {
+      "personId": 1602569,
+      "character": "Le Chef du Défilé",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 2100,
+  "sources": [
+    "cult-list"
+  ]
+}

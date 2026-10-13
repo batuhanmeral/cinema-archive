@@ -1,0 +1,237 @@
+{
+  "tmdbId": 34038,
+  "slug": "magical-mystery-tour-1967",
+  "year": 1967,
+  "runtime": 52,
+  "originalTitle": "Magical Mystery Tour",
+  "title": {
+    "en": "Magical Mystery Tour",
+    "tr": "Magical Mystery Tour"
+  },
+  "overview": {
+    "en": "While on a coach tour, The Beatles and a few dozen friends experience strange happenings caused by magicians.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/uJSqSXCeK407l7t4zTXaYSJH0gL.jpg",
+    "en": "/uJSqSXCeK407l7t4zTXaYSJH0gL.jpg"
+  },
+  "backdrops": [
+    "/lwSsHoHuSPb9uimebhNcNFlu6Kf.jpg",
+    "/xF937YQXqAuwr0379zqnT24D0AK.jpg",
+    "/1bxzrW7Flobcgc2A3hKmV21lMOg.jpg",
+    "/usIXdJNKirdXjquIBwW6z8OcazU.jpg",
+    "/az5L3ksvP0e3y8AsfwVfE3MCdMy.jpg",
+    "/eEIcmriWKjqo0MpLBIfGV7cWGNY.jpg",
+    "/gspMT8yWOqUrQLrSwHzM56E4JCx.jpg",
+    "/NHuM9aazjbtewxp7K8n89qrSzm.jpg",
+    "/xXUJrBxpAfaZFJoU3v9S6pvnzeR.jpg",
+    "/mvYoBjmaFuvhLtgrFGDgIFQ4HwT.jpg"
+  ],
+  "trailerKey": "jIDEZ_frJBs",
+  "genreIds": [
+    10402,
+    35,
+    14,
+    10770
+  ],
+  "keywordIds": [
+    4344,
+    9887,
+    11700,
+    167043,
+    235738,
+    245408,
+    263548,
+    298254,
+    325844,
+    327022
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Apple Corps",
+    "BBC"
+  ],
+  "crew": [
+    {
+      "personId": 10593,
+      "job": "composer"
+    },
+    {
+      "personId": 112460,
+      "job": "producer"
+    },
+    {
+      "personId": 10593,
+      "job": "producer"
+    },
+    {
+      "personId": 10592,
+      "job": "producer"
+    },
+    {
+      "personId": 10589,
+      "job": "producer"
+    },
+    {
+      "personId": 10215,
+      "job": "producer"
+    },
+    {
+      "personId": 10594,
+      "job": "producer"
+    },
+    {
+      "personId": 10594,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10593,
+      "job": "writer"
+    },
+    {
+      "personId": 10215,
+      "job": "writer"
+    },
+    {
+      "personId": 10592,
+      "job": "writer"
+    },
+    {
+      "personId": 10594,
+      "job": "writer"
+    },
+    {
+      "personId": 10594,
+      "job": "director"
+    },
+    {
+      "personId": 10215,
+      "job": "director"
+    },
+    {
+      "personId": 10593,
+      "job": "director"
+    },
+    {
+      "personId": 10592,
+      "job": "director"
+    },
+    {
+      "personId": 3606,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10592,
+      "character": "Self / Ticket Salesman / Magician with Coffee / Narrator",
+      "order": 0
+    },
+    {
+      "personId": 10215,
+      "character": "Self / Major McCartney / Brown Nosed Magician",
+      "order": 1
+    },
+    {
+      "personId": 10593,
+      "character": "Self / Magician Looking Through Telescope",
+      "order": 2
+    },
+    {
+      "personId": 10594,
+      "character": "Self / Talkative Magician",
+      "order": 3
+    },
+    {
+      "personId": 112441,
+      "character": "The Bonzo Dog Doo-Dah Band",
+      "order": 4
+    },
+    {
+      "personId": 70624,
+      "character": "The Bonzo Dog Doo-Dah Band",
+      "order": 5
+    },
+    {
+      "personId": 112442,
+      "character": "The Bonzo Dog Doo-Dah Band",
+      "order": 6
+    },
+    {
+      "personId": 112443,
+      "character": "The Bonzo Dog Doo-Dah Band",
+      "order": 7
+    },
+    {
+      "personId": 112444,
+      "character": "The Bonzo Dog Doo-Dah Band",
+      "order": 8
+    },
+    {
+      "personId": 112445,
+      "character": "The Bonzo Dog Doo-Dah Band",
+      "order": 9
+    },
+    {
+      "personId": 112446,
+      "character": "Stripper",
+      "order": 10
+    },
+    {
+      "personId": 100299,
+      "character": "Photographer",
+      "order": 11
+    },
+    {
+      "personId": 112448,
+      "character": "Mr Buster Bloodvessel",
+      "order": 12
+    },
+    {
+      "personId": 112450,
+      "character": "Accordionist",
+      "order": 13
+    },
+    {
+      "personId": 112452,
+      "character": "Rubber Man",
+      "order": 14
+    },
+    {
+      "personId": 112453,
+      "character": "Little Girl",
+      "order": 15
+    },
+    {
+      "personId": 112454,
+      "character": "Aunt Jessica",
+      "order": 16
+    },
+    {
+      "personId": 112455,
+      "character": "Jolly Jimmy",
+      "order": 17
+    },
+    {
+      "personId": 10598,
+      "character": "Army Sergeant",
+      "order": 18
+    },
+    {
+      "personId": 112456,
+      "character": "Hostess Wendy Winters (as Mandy Weet)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 180,
+  "sources": [
+    "cult-list"
+  ]
+}

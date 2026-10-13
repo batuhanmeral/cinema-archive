@@ -1,0 +1,117 @@
+{
+  "tmdbId": 55149,
+  "slug": "84-charlie-mopic-1989",
+  "year": 1989,
+  "runtime": 90,
+  "originalTitle": "84 Charlie Mopic",
+  "title": {
+    "en": "84 Charlie Mopic",
+    "tr": "84 Charlie Mopic"
+  },
+  "overview": {
+    "en": "An Army cameraman is embedded with a reconnaissance patrol and charts their mission across territory controlled by the North Vietnamese.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vu5zyYcQlUJmGJzzUnrrXKsxnKd.jpg",
+    "en": "/vu5zyYcQlUJmGJzzUnrrXKsxnKd.jpg"
+  },
+  "backdrops": [
+    "/lv8vz7uSzEMDiwgpCUB3O4d8eqH.jpg"
+  ],
+  "trailerKey": "yrc3U4X2aZ0",
+  "genreIds": [
+    10752
+  ],
+  "keywordIds": [
+    2957,
+    2956,
+    4747,
+    163053,
+    220492,
+    237444,
+    273967,
+    365923
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "vi"
+  ],
+  "studios": [
+    "The Charlie Mopic Company",
+    "Charlie Mopic"
+  ],
+  "crew": [
+    {
+      "personId": 21101,
+      "job": "director"
+    },
+    {
+      "personId": 1493,
+      "job": "composer"
+    },
+    {
+      "personId": 21101,
+      "job": "writer"
+    },
+    {
+      "personId": 22057,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 21102,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 157621,
+      "character": "LT",
+      "order": 0
+    },
+    {
+      "personId": 8539,
+      "character": "Easy",
+      "order": 1
+    },
+    {
+      "personId": 154646,
+      "character": "Pretty boy",
+      "order": 2
+    },
+    {
+      "personId": 173265,
+      "character": "Hammer",
+      "order": 3
+    },
+    {
+      "personId": 12797,
+      "character": "Cracker",
+      "order": 4
+    },
+    {
+      "personId": 63214,
+      "character": "Radio Voice",
+      "order": 5
+    },
+    {
+      "personId": 121756,
+      "character": "MoPic",
+      "order": 6
+    },
+    {
+      "personId": 106753,
+      "character": "OD",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 43,
+  "sources": [
+    "cult-list"
+  ]
+}

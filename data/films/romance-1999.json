@@ -1,0 +1,196 @@
+{
+  "tmdbId": 26338,
+  "slug": "romance-1999",
+  "year": 1999,
+  "runtime": 99,
+  "originalTitle": "Romance",
+  "title": {
+    "en": "Romance",
+    "tr": "Romance"
+  },
+  "overview": {
+    "en": "Frustrated by the lack of intimacy in her relationship, a young schoolteacher goes through a series of intimidating and often violent sexual partners.",
+    "tr": "Eğer bir erkeği severseniz ve ona tamamen bağlanırsanız size karşı isteği azalır. Fakat tamamen onun olmazsanız her zaman onun için daha değerli olursunuz. Her an gitmenizden ve bir başkasının olmanızdan korkar. Her dakika sizin ilginizi çekmeye uğraşır, üzerinize düşer ve hep bir avcı gibi peşinizdedir. Onu aldatmıyorsanız bile bırakın öyle zannetsin. Marie artık Paul ile olan ilişkisine bu gözle bakıyordu. Onu çok seviyor fakat kendisiyle beraber olmaya ikna edemiyordu, Paul ondan hep kaçıyordu. Oysa eskiden her şey çok farklıydı. Tamamen Paul'a ait olmaktan ve onu sevmekten mutlu olan Marie bu gerçeği ancak dayanamayıp onu aldattığı zaman anladı."
+  },
+  "poster": {
+    "tr": "/xR2b19JyLr8ssLzIvaXBOkGkghm.jpg",
+    "en": "/xR2b19JyLr8ssLzIvaXBOkGkghm.jpg"
+  },
+  "backdrops": [
+    "/3BAdo1f8JhTvXbP8AS5kgJubbxD.jpg",
+    "/zYrQN0YmylMBFGTM9YL47utc6Xl.jpg",
+    "/lx592rC43vKoEWC3BR2jxRjxspK.jpg",
+    "/pi2J4AtHvigbCTYm1sEyQfrifPs.jpg",
+    "/cCFtqvDuPJB8w84tvmSNCact5rf.jpg",
+    "/ebm3wuT1wHyUaE8NShkdZxvR7ac.jpg",
+    "/aU9iL972Kow2mib9utE5YHcM400.jpg",
+    "/yXxieweP9bHQ0zf3KXT4v8HQn6e.jpg",
+    "/kpqmwDad1FrwPm9m7tbv0gSUxwL.jpg",
+    "/ghEDj3mUPk4nnQmHKKBMdVPdONA.jpg"
+  ],
+  "trailerKey": "aq84LLLnHng",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    910,
+    2039,
+    4426,
+    3725,
+    11510,
+    164698,
+    187056,
+    197758,
+    207807,
+    208781,
+    213286,
+    226325,
+    232091
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "CB Films",
+    "ARTE France Cinéma",
+    "Flach Film"
+  ],
+  "crew": [
+    {
+      "personId": 6295,
+      "job": "director"
+    },
+    {
+      "personId": 6295,
+      "job": "writer"
+    },
+    {
+      "personId": 1628306,
+      "job": "composer"
+    },
+    {
+      "personId": 1628307,
+      "job": "composer"
+    },
+    {
+      "personId": 7695,
+      "job": "producer"
+    },
+    {
+      "personId": 20572,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7691,
+      "character": "Marie",
+      "order": 0
+    },
+    {
+      "personId": 7692,
+      "character": "Paul",
+      "order": 1
+    },
+    {
+      "personId": 7693,
+      "character": "Robert",
+      "order": 2
+    },
+    {
+      "personId": 7694,
+      "character": "Paolo",
+      "order": 3
+    },
+    {
+      "personId": 1718596,
+      "character": "Man on stairs",
+      "order": 4
+    },
+    {
+      "personId": 943199,
+      "character": "Ashley",
+      "order": 5
+    },
+    {
+      "personId": 1363837,
+      "character": "Charlotte",
+      "order": 6
+    },
+    {
+      "personId": 2388481,
+      "character": "Claude",
+      "order": 7
+    },
+    {
+      "personId": 2388488,
+      "character": "Model",
+      "order": 8
+    },
+    {
+      "personId": 2388489,
+      "character": "Photographer",
+      "order": 9
+    },
+    {
+      "personId": 2662928,
+      "character": "Hairdresser",
+      "order": 10
+    },
+    {
+      "personId": 3210255,
+      "character": "Sonographer",
+      "order": 11
+    },
+    {
+      "personId": 3210257,
+      "character": "Head Doctor",
+      "order": 12
+    },
+    {
+      "personId": 3210258,
+      "character": "Midwife",
+      "order": 13
+    },
+    {
+      "personId": 3210259,
+      "character": "Nurse",
+      "order": 14
+    },
+    {
+      "personId": 3210301,
+      "character": "Assistant Nurse",
+      "order": 15
+    },
+    {
+      "personId": 3210302,
+      "character": "Intern",
+      "order": 16
+    },
+    {
+      "personId": 3210303,
+      "character": "Intern",
+      "order": 17
+    },
+    {
+      "personId": 3210304,
+      "character": "Intern",
+      "order": 18
+    },
+    {
+      "personId": 3210306,
+      "character": "Intern",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 319,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "tmdbId": 10615,
+  "slug": "pootie-tang-2001",
+  "year": 2001,
+  "runtime": 81,
+  "originalTitle": "Pootie Tang",
+  "title": {
+    "en": "Pootie Tang",
+    "tr": "Pootie Tang"
+  },
+  "overview": {
+    "en": "Pootie Tang, the musician/actor/folk hero of the ghetto, is chronicled from his early childhood to his battles against the evil Corporate America, who try to steal his magic belt and make him sell out by endorsing addictive products to his people. Pootie must learn to find himself and defeat the evil corporation for all the young Black children of America, supatime.",
+    "tr": "Kadınlar ona karşı koyamaz. Kötülük ona karşı duramaz. O, kendine has bir tarzı ve dili olan, çok havalı bir kahraman! \"The Chris Rock Show\"da ilk kez görülen, anlaşılması zor karaktere dayanan Pootie Tang (Lance Rother), hit şarkılar söyleyen, suç imparatorluklarını yıkıp, tavşan postu gömlek giyen bir süper kahramandır ve her yerde çocuklar ve aşkla dolu kadınlar tarafından idolize edilmektedir. Ancak Pootie'nin açgözlülük, adaletsizlik ve sağlıksız tüketim ürünlerine karşı tek başına verdiği savaş, LecterCorp'un kârlarını sarsınca, şirketin deli CEO'su (Robert Vaughn) süper kahramanı büyük bir çıkmaza sokar..."
+  },
+  "poster": {
+    "tr": "/fNvx45x4JWHYucpnV2vuKn9TZnV.jpg",
+    "en": "/fNvx45x4JWHYucpnV2vuKn9TZnV.jpg"
+  },
+  "backdrops": [
+    "/csH5MGh51Ndz1bJ3MHhukjs0Pyo.jpg",
+    "/A6reyZfHkWt8TA2fDEaIWhoM0kT.jpg",
+    "/zSNJ0gbrL1uuXJB8537TEWsKbFs.jpg",
+    "/2n50Y9XrBShRVb2EwrezcczEycT.jpg",
+    "/nfj6IyaV0Gp8CzOx7gfxZl12AMB.jpg",
+    "/1uk2nv3zxHzxUk1Y0TXkHAAX0vU.jpg",
+    "/pbIb7rhLaCtoHsUEqqTNXEhz3U6.jpg"
+  ],
+  "trailerKey": "dpV2ULCb6WU",
+  "genreIds": [
+    35,
+    28
+  ],
+  "keywordIds": [
+    2336,
+    4344,
+    9141,
+    15090,
+    18026
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "MTV Films",
+    "Paramount Pictures",
+    "Alphaville Films"
+  ],
+  "crew": [
+    {
+      "personId": 2632,
+      "job": "producer"
+    },
+    {
+      "personId": 38168,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 52849,
+      "job": "director"
+    },
+    {
+      "personId": 57778,
+      "job": "composer"
+    },
+    {
+      "personId": 59164,
+      "job": "producer"
+    },
+    {
+      "personId": 52849,
+      "job": "producer"
+    },
+    {
+      "personId": 65914,
+      "job": "producer"
+    },
+    {
+      "personId": 65913,
+      "job": "producer"
+    },
+    {
+      "personId": 39973,
+      "job": "producer"
+    },
+    {
+      "personId": 52849,
+      "job": "writer"
+    },
+    {
+      "personId": 1746321,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 65919,
+      "character": "Pootie Tang",
+      "order": 0
+    },
+    {
+      "personId": 65920,
+      "character": "Trucky",
+      "order": 1
+    },
+    {
+      "personId": 38334,
+      "character": "Ireenie",
+      "order": 2
+    },
+    {
+      "personId": 38951,
+      "character": "Dirty Dee",
+      "order": 3
+    },
+    {
+      "personId": 14060,
+      "character": "Dick Lecter",
+      "order": 4
+    },
+    {
+      "personId": 27102,
+      "character": "Biggie Shorty",
+      "order": 5
+    },
+    {
+      "personId": 2632,
+      "character": "JB / Radio DJ / Pootie's Father",
+      "order": 6
+    },
+    {
+      "personId": 65921,
+      "character": "Lacey",
+      "order": 7
+    },
+    {
+      "personId": 65922,
+      "character": "Stacy",
+      "order": 8
+    },
+    {
+      "personId": 65923,
+      "character": "Frank",
+      "order": 9
+    },
+    {
+      "personId": 61409,
+      "character": "Anchor Woman",
+      "order": 10
+    },
+    {
+      "personId": 65924,
+      "character": "Sheriff",
+      "order": 11
+    },
+    {
+      "personId": 65925,
+      "character": "Shakey",
+      "order": 12
+    },
+    {
+      "personId": 65926,
+      "character": "Singing Lady",
+      "order": 13
+    },
+    {
+      "personId": 65927,
+      "character": "Singing Lady",
+      "order": 14
+    },
+    {
+      "personId": 65928,
+      "character": "Froggy",
+      "order": 15
+    },
+    {
+      "personId": 65929,
+      "character": "Solo Girl Singer",
+      "order": 16
+    },
+    {
+      "personId": 65930,
+      "character": "Little Pootie",
+      "order": 17
+    },
+    {
+      "personId": 28637,
+      "character": "Record Executive",
+      "order": 18
+    },
+    {
+      "personId": 40462,
+      "character": "Record Executive's Daughter",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 175,
+  "sources": [
+    "cult-list"
+  ]
+}

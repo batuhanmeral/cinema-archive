@@ -1,0 +1,209 @@
+{
+  "tmdbId": 185,
+  "slug": "a-clockwork-orange-1971",
+  "year": 1971,
+  "runtime": 137,
+  "originalTitle": "A Clockwork Orange",
+  "title": {
+    "en": "A Clockwork Orange",
+    "tr": "Otomatik Portakal"
+  },
+  "overview": {
+    "en": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?",
+    "tr": "Alex (Malcolm McDowell), huzur dolu fütürist evinde tüm gün uyuyan ve de geceleri arkadaşları ile masum insanlara sokaklarda ve evlerinde saldıran acımasız genç bir hayduttur. Sonunda polis tarafından yakalanınca Alex rehabilitasyona gönderilir. Bu istek azaltma formunda olan rehabilitasyonda yaptıklarının kat ve kat fazlası şiddet içeren ve insanı dehşete düşüren bir zaman geçirir."
+  },
+  "poster": {
+    "tr": "/kOcJpqibBezU00tG4FVEhML8PU8.jpg",
+    "en": "/4sHeTAp65WrSSuc05nRBKddhBxO.jpg"
+  },
+  "backdrops": [
+    "/a6r0DnAQdnR0758H1V4tbhHdB8Q.jpg",
+    "/keblhZFIZYiWflmURWNHEuS2jqL.jpg",
+    "/nLFxvLokHe3bQmrmAfljIfax2jQ.jpg",
+    "/3hwKS7e21hzEnXZaOs2FE6e97bc.jpg",
+    "/3w2v0iNPPNeIKOV5wu1NU1DDHHy.jpg",
+    "/yIonSXf1jdNihhK8PssxO6KCIfz.jpg",
+    "/6OYgy7n9Iadoq83g9jb2Wdid0dw.jpg",
+    "/w4YWDR3VHYPZuLnJMAJQd22eMv3.jpg",
+    "/rCzIkO93CHULAUbRyGShvActNua.jpg",
+    "/rTPkSA1N8AMUiLQgq7sVjAzL2V3.jpg"
+  ],
+  "trailerKey": "2meAsIclTzQ",
+  "genreIds": [
+    878,
+    80
+  ],
+  "keywordIds": [
+    212,
+    796,
+    642,
+    542,
+    1025,
+    818,
+    1541,
+    970,
+    3679,
+    738,
+    2438,
+    6259,
+    4565,
+    10123,
+    8201,
+    9849,
+    14857,
+    14903,
+    189409,
+    192260,
+    226738,
+    238189,
+    244530,
+    261264,
+    325773,
+    325834
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Polaris Productions Limited",
+    "Warner Bros. Pictures",
+    "Hawk Films"
+  ],
+  "crew": [
+    {
+      "personId": 240,
+      "job": "director"
+    },
+    {
+      "personId": 240,
+      "job": "writer"
+    },
+    {
+      "personId": 240,
+      "job": "producer"
+    },
+    {
+      "personId": 2284,
+      "job": "composer"
+    },
+    {
+      "personId": 2286,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2522,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 56890,
+      "character": "Alex",
+      "order": 0
+    },
+    {
+      "personId": 2264,
+      "character": "Mr. Alexander",
+      "order": 1
+    },
+    {
+      "personId": 2272,
+      "character": "Dr. Brodsky",
+      "order": 2
+    },
+    {
+      "personId": 2267,
+      "character": "Chief Guard",
+      "order": 3
+    },
+    {
+      "personId": 2268,
+      "character": "Dim",
+      "order": 4
+    },
+    {
+      "personId": 2270,
+      "character": "Georgie",
+      "order": 5
+    },
+    {
+      "personId": 2271,
+      "character": "Pete",
+      "order": 6
+    },
+    {
+      "personId": 2274,
+      "character": "Catlady",
+      "order": 7
+    },
+    {
+      "personId": 2265,
+      "character": "Mrs. Alexander",
+      "order": 8
+    },
+    {
+      "personId": 2276,
+      "character": "Mum",
+      "order": 9
+    },
+    {
+      "personId": 694,
+      "character": "Dad",
+      "order": 10
+    },
+    {
+      "personId": 2278,
+      "character": "Deltoid",
+      "order": 11
+    },
+    {
+      "personId": 2280,
+      "character": "Lodger",
+      "order": 12
+    },
+    {
+      "personId": 117548,
+      "character": "Stage Actor",
+      "order": 13
+    },
+    {
+      "personId": 2273,
+      "character": "Tramp",
+      "order": 14
+    },
+    {
+      "personId": 1231170,
+      "character": "Prison Governor",
+      "order": 15
+    },
+    {
+      "personId": 2279,
+      "character": "Prison Chaplain",
+      "order": 16
+    },
+    {
+      "personId": 39033,
+      "character": "Dr. Branom",
+      "order": 17
+    },
+    {
+      "personId": 44700,
+      "character": "Minister",
+      "order": 18
+    },
+    {
+      "personId": 2292,
+      "character": "Psychiatrist",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 14263,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "tmdbId": 70512,
+  "slug": "dante-s-inferno-1911",
+  "year": 1911,
+  "runtime": 72,
+  "originalTitle": "L’Inferno",
+  "title": {
+    "en": "Dante's Inferno",
+    "tr": "L’Inferno"
+  },
+  "overview": {
+    "en": "The classic tale of Dante's journey through hell, loosely adapted from the Divine Comedy and inspired by the illustrations of Gustav Doré. This historically important film stands as the first feature from Italy and the oldest fully-surviving feature in the world, and boasts beautiful sets and special effects that stand above other cinema of the era.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ky0z9hDlajlwL3fBqwsCSbjJGjR.jpg",
+    "en": "/ky0z9hDlajlwL3fBqwsCSbjJGjR.jpg"
+  },
+  "backdrops": [
+    "/jEk1QNc9fBnbboh9t3nooPoIxBm.jpg",
+    "/7jtmVFE1hyJ1VxINB6UvdehhiSO.jpg",
+    "/1xl3XqLcMZrBY1ifuk2nzfAT7nA.jpg",
+    "/gJz56xhX5nmMmr1cUt579SoQiHh.jpg",
+    "/jptgqvzvldmCAWweDJEdnmOpzHR.jpg",
+    "/2KAaWz2g6dp0swgHybOVZqup4Cu.jpg",
+    "/6q6USoGFgJ4TwDSmnSsuy1p0WX3.jpg",
+    "/yo9TwxwgxcUvIbIlyh0L4QadPx8.jpg",
+    "/m6kfaSaesDSPrlzufEtK2k04jjo.jpg",
+    "/dTJwbr6s93eAjP05ohl9GsOomKj.jpg"
+  ],
+  "trailerKey": "HkVzLMo5yts",
+  "genreIds": [
+    14,
+    27
+  ],
+  "keywordIds": [
+    6155,
+    6154,
+    10448,
+    14999,
+    34079,
+    41011,
+    154802,
+    185343,
+    192590,
+    199524,
+    251773
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [],
+  "studios": [
+    "Milano Films"
+  ],
+  "crew": [
+    {
+      "personId": 558678,
+      "job": "director"
+    },
+    {
+      "personId": 1174510,
+      "job": "director"
+    },
+    {
+      "personId": 1174511,
+      "job": "director"
+    },
+    {
+      "personId": 2527899,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 562272,
+      "character": "Dante Alighieri",
+      "order": 0
+    },
+    {
+      "personId": 562273,
+      "character": "Virgilio",
+      "order": 1
+    },
+    {
+      "personId": 558678,
+      "character": "Farinata degli Uberti / Pier Delle Vigne / Il conte Ugolino",
+      "order": 2
+    },
+    {
+      "personId": 1870022,
+      "character": "Lucifer",
+      "order": 3
+    },
+    {
+      "personId": 1870023,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1870024,
+      "character": "Beatrice",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 168,
+  "sources": [
+    "cult-list"
+  ]
+}

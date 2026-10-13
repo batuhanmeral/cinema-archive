@@ -1,0 +1,207 @@
+{
+  "tmdbId": 522,
+  "slug": "ed-wood-1994",
+  "year": 1994,
+  "runtime": 127,
+  "originalTitle": "Ed Wood",
+  "title": {
+    "en": "Ed Wood",
+    "tr": "Ed Wood"
+  },
+  "overview": {
+    "en": "The mostly true story of the legendary \"worst director of all time\", who, with the help of his strange friends, filmed countless B-movies without ever becoming famous or successful.",
+    "tr": "Ed Wood, kimilerine göre dünyanın en kötü yönetmeni, kimilerine göre de, filmleri son derece keyifli, nev-i şahsına münhasır kült bir yönetmen. Tim Burton, ikinci grupta yer alan bir yönetmen olarak daima ilhamları arasında tuttuğu Wood'un filmcilik serüveni üzerine bu filmi gerçekleştirdi. Yapımda, Ed Wood'un ayrıntılı yaşam hikayesinden çok, en çok bilinen yapımlarını çektiği dönem ve film yapma konusundaki hırsı konu ediliyor. Hem Ed Wood'u tanımak hem de Burton'ın başyapıtını görmek için kaçırılmamasında fayda var. İzledikten sonra sizde yazının başındaki sorunun cevabını bulacak ve muhtemelen ilk seçeneği eleyeceksiniz! * Tim Burton ve Johnny Depp işbirliğinden çıkan 8 film içinde en gerçekçi yapım bu olsa gerek"
+  },
+  "poster": {
+    "tr": "/n8SrO3WbyuY2b6KazogqbQF348C.jpg",
+    "en": "/n8SrO3WbyuY2b6KazogqbQF348C.jpg"
+  },
+  "backdrops": [
+    "/3jrwJiMCe7VZP0DNcywHYOKg0Zu.jpg",
+    "/3I8ZBD28kWzZmqJ7wNBCmusOZoH.jpg",
+    "/wKIuuog2yS1T3rj5FWS7Sdo2L94.jpg",
+    "/nDEO6ZlXYvBZpX7Wxq1eIJz5ri4.jpg",
+    "/iyOAqR2xhjk21MBhzFSnHzO1Y0c.jpg",
+    "/71ChKjpKYwrO0Zv1NSw6ntbJ368.jpg",
+    "/ltUSZW9ESE3DJbGGjZHbiGLN5qO.jpg",
+    "/9Lc59aJZVILQ5grIqhl9jaMGOpv.jpg",
+    "/zyrVHJj28QIlza1jltiuh14vFmN.jpg",
+    "/tqMHRbbOjYh2jldzFBvph2Ti4lf.jpg"
+  ],
+  "trailerKey": "xPyqcdjBf_U",
+  "genreIds": [
+    35,
+    18,
+    36
+  ],
+  "keywordIds": [
+    30,
+    444,
+    663,
+    571,
+    640,
+    886,
+    1803,
+    2792,
+    2794,
+    6562,
+    10338,
+    12670,
+    12999,
+    14632,
+    162687,
+    173594,
+    180193,
+    208611
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Touchstone Pictures",
+    "Tim Burton Productions",
+    "Di Novi Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1899,
+      "job": "producer"
+    },
+    {
+      "personId": 510,
+      "job": "director"
+    },
+    {
+      "personId": 117,
+      "job": "composer"
+    },
+    {
+      "personId": 510,
+      "job": "producer"
+    },
+    {
+      "personId": 1919,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7131,
+      "job": "writer"
+    },
+    {
+      "personId": 7130,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85,
+      "character": "Ed Wood",
+      "order": 0
+    },
+    {
+      "personId": 2641,
+      "character": "Bela Lugosi",
+      "order": 1
+    },
+    {
+      "personId": 520,
+      "character": "Dolores Fuller",
+      "order": 2
+    },
+    {
+      "personId": 4687,
+      "character": "Kathy O'Hara",
+      "order": 3
+    },
+    {
+      "personId": 4004,
+      "character": "Criswell",
+      "order": 4
+    },
+    {
+      "personId": 3173,
+      "character": "Reverend Lemon",
+      "order": 5
+    },
+    {
+      "personId": 7132,
+      "character": "Orson Welles",
+      "order": 6
+    },
+    {
+      "personId": 1532,
+      "character": "Bunny Breckinridge",
+      "order": 7
+    },
+    {
+      "personId": 5170,
+      "character": "Georgie Weiss",
+      "order": 8
+    },
+    {
+      "personId": 7133,
+      "character": "Paul Marco",
+      "order": 9
+    },
+    {
+      "personId": 7134,
+      "character": "Conrad Brooks",
+      "order": 10
+    },
+    {
+      "personId": 4452,
+      "character": "Vampira",
+      "order": 11
+    },
+    {
+      "personId": 7136,
+      "character": "Tor Johnson",
+      "order": 12
+    },
+    {
+      "personId": 7137,
+      "character": "Loretta King",
+      "order": 13
+    },
+    {
+      "personId": 7138,
+      "character": "Ed Reynolds",
+      "order": 14
+    },
+    {
+      "personId": 7139,
+      "character": "Cameraman Bill",
+      "order": 15
+    },
+    {
+      "personId": 7140,
+      "character": "Makeup Man Harry",
+      "order": 16
+    },
+    {
+      "personId": 2141,
+      "character": "Dr. Tom Mason",
+      "order": 17
+    },
+    {
+      "personId": 7141,
+      "character": "Soundman",
+      "order": 18
+    },
+    {
+      "personId": 7142,
+      "character": "Camera Assistant",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 2614,
+  "sources": [
+    "cult-list"
+  ]
+}

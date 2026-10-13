@@ -1,0 +1,213 @@
+{
+  "tmdbId": 36557,
+  "slug": "casino-royale-2006",
+  "year": 2006,
+  "runtime": 144,
+  "originalTitle": "Casino Royale",
+  "title": {
+    "en": "Casino Royale",
+    "tr": "Casino Royale"
+  },
+  "overview": {
+    "en": "Le Chiffre, a banker to the world's terrorists, is scheduled to participate in a high-stakes poker game in Montenegro, where he intends to use his winnings to establish his financial grip on the terrorist market. M sends Bond—on his maiden mission as a 00 Agent—to attend this game and prevent Le Chiffre from winning. With the help of Vesper Lynd and Felix Leiter, Bond enters the most important poker game in his already dangerous career.",
+    "tr": "Ian Fleming’in ilk 007 romanından uyarlanan filmde, James Bond, bir iskambil oyunundan kazandığı milyonlarla dünya çapında teröristlere maddi destek sağlayan tehlikeli bir Rus ajanını durdurmak zorundadır. Sinema tarihinin en başarılı film serisinin 21’inci filmi."
+  },
+  "poster": {
+    "tr": "/lMrxYKKhd4lqRzwUHAy5gcx9PSO.jpg",
+    "en": "/8Gv1dylImVuoj3bZtEWoL1TLl2q.jpg"
+  },
+  "backdrops": [
+    "/kjC48HRQpojr3FHx5pZF7Ro9xFg.jpg",
+    "/125H5AszmtAt0mYl2vpfChMFofv.jpg",
+    "/c2gcLDxniE0lNmT2a7CcQVuW6En.jpg",
+    "/klJMCIblHLFwCuGjKz7tyOpekIC.jpg",
+    "/mXFmGlMCgTIOyHaGmQG1Hb6Rv2m.jpg",
+    "/uEVzFRLNbUSw5xjj89P71G6ouSi.jpg",
+    "/tqelqhzcorZ9hilWRoydPRpZtQA.jpg",
+    "/rFr2qC4dx2Cuh0W2mlU1TcpeQhj.jpg",
+    "/sbdSz5nOtPSV7FZKFf8SjPN3hy6.jpg",
+    "/6vt7uXxyhMp1sk56UX7eaH1w8g2.jpg"
+  ],
+  "trailerKey": "p7D4U5YsZlM",
+  "genreIds": [
+    12,
+    28,
+    53
+  ],
+  "keywordIds": [
+    3515,
+    585,
+    818,
+    383,
+    131,
+    470,
+    10594,
+    13006,
+    13015,
+    14555,
+    156095,
+    206125,
+    306278,
+    311315,
+    314730,
+    322496,
+    322942,
+    325804
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer",
+    "Columbia Pictures",
+    "EON Productions"
+  ],
+  "crew": [
+    {
+      "personId": 10702,
+      "job": "director"
+    },
+    {
+      "personId": 10782,
+      "job": "writer"
+    },
+    {
+      "personId": 10783,
+      "job": "writer"
+    },
+    {
+      "personId": 10709,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10666,
+      "job": "producer"
+    },
+    {
+      "personId": 69678,
+      "job": "producer"
+    },
+    {
+      "personId": 455,
+      "job": "writer"
+    },
+    {
+      "personId": 6489,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8784,
+      "character": "James Bond",
+      "order": 0
+    },
+    {
+      "personId": 10912,
+      "character": "Vesper Lynd",
+      "order": 1
+    },
+    {
+      "personId": 1019,
+      "character": "Le Chiffre",
+      "order": 2
+    },
+    {
+      "personId": 5309,
+      "character": "M",
+      "order": 3
+    },
+    {
+      "personId": 2954,
+      "character": "Felix Leiter",
+      "order": 4
+    },
+    {
+      "personId": 3753,
+      "character": "Mathis",
+      "order": 5
+    },
+    {
+      "personId": 10916,
+      "character": "Solange",
+      "order": 6
+    },
+    {
+      "personId": 10917,
+      "character": "Alex Dimitrios",
+      "order": 7
+    },
+    {
+      "personId": 4812,
+      "character": "Steven Obanno",
+      "order": 8
+    },
+    {
+      "personId": 2244,
+      "character": "Mr. White",
+      "order": 9
+    },
+    {
+      "personId": 29930,
+      "character": "Valenka",
+      "order": 10
+    },
+    {
+      "personId": 10920,
+      "character": "Villiers",
+      "order": 11
+    },
+    {
+      "personId": 76339,
+      "character": "Carlos",
+      "order": 12
+    },
+    {
+      "personId": 94955,
+      "character": "Mollaka",
+      "order": 13
+    },
+    {
+      "personId": 40660,
+      "character": "Dryden",
+      "order": 14
+    },
+    {
+      "personId": 49487,
+      "character": "Gettler",
+      "order": 15
+    },
+    {
+      "personId": 1088,
+      "character": "Mendel",
+      "order": 16
+    },
+    {
+      "personId": 1190069,
+      "character": "Carter",
+      "order": 17
+    },
+    {
+      "personId": 1070749,
+      "character": "Fisher",
+      "order": 18
+    },
+    {
+      "personId": 213596,
+      "character": "Kratt",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "bafta": 1
+  },
+  "voteCount": 12163,
+  "sources": [
+    "cult-list"
+  ]
+}

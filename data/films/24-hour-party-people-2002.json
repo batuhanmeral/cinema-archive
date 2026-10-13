@@ -1,0 +1,186 @@
+{
+  "tmdbId": 2750,
+  "slug": "24-hour-party-people-2002",
+  "year": 2002,
+  "runtime": 117,
+  "originalTitle": "24 Hour Party People",
+  "title": {
+    "en": "24 Hour Party People",
+    "tr": "24 Saat Parti İnsanları"
+  },
+  "overview": {
+    "en": "Manchester, 1976. Tony Wilson is an ambitious but frustrated local TV news reporter looking for a way to make his mark. After witnessing a life-changing concert by a band known as the Sex Pistols, he persuades his station to televise one of their performances, and soon Manchester's punk groups are clamoring for him to manage them. Riding the wave of a musical revolution, Wilson and his friends create the legendary Factory Records label and The Hacienda club.",
+    "tr": "Britpop akımı, İngiltere’de 90’ların başında patlak vermişti. Sürekli yeni grupların piyasaya çıktığı bu dönemde parlayan rock’n roll yıldızları, tabii ki İngiltere’nin sağlam alternatif müzik geçmişini referans olarak alıyordu. 24 Saat Parti İnsanları da bu sağlam geçmişin en parlak dönemini, 80’ler Manchester’ında doğan Sex Pistols, The Jam, Joy Division ve Happy Mondays gibi efsane grupların öyküsünü anlatıyor. Fakat bu bir rock belgeseli değil. Olaylar, 80’lerde Manchester’da bir plak şirketi ve bir de gece kulübü kurmuş olan, televizyon muhabiri Tony Wilson’ın gözünden aktarılıyor. Floransa’nın Rönesans’ta yaşadıklarını, Manchester’ın 80’lerde yaşadığını söyleyen Tony Wilson, seks, uyuşturucu, rock’n roll üçgenine yataklık yapmış Manchester gecelerini yaratan kişilerden biri olarak anlatıyor öyküsünü. 24 Saat Parti İnsanları, konserlerden arşiv görüntüleri, insanı coşturan müzikleri, stilize kostüm ve set tasarımı ile seyirciyi 80’lerin Manchester’ına götürüyor."
+  },
+  "poster": {
+    "tr": "/8f50NQ1wz6hdxfCISCPV8XQ6DII.jpg",
+    "en": "/8f50NQ1wz6hdxfCISCPV8XQ6DII.jpg"
+  },
+  "backdrops": [
+    "/ucRD8UUr5tllltg3ZTWoXOyPXyJ.jpg",
+    "/c639RWFHXvL02Mtp1T0ZST8d5Fj.jpg",
+    "/xHnH2W7whXIiRlmrDHsc84Qxfpy.jpg",
+    "/4USSh4r6UFCYqYM9R4gyN63wlxE.jpg",
+    "/lq1nrmPogCGBkZZn2rGMLzdG6kv.jpg",
+    "/tHhMlkrCJ8GMrWaNw1oEA1u0NUg.jpg",
+    "/5Pnw8b1Wkx1WgffKLaxfIwBNM8c.jpg",
+    "/cccPNb5tRbV506VRsTk0o5XMA7U.jpg",
+    "/srus85mRH51I3GR9fatYZ0rkzcB.jpg",
+    "/1d3iBBg93Gwqb9oxi1QRquldflM.jpg"
+  ],
+  "trailerKey": "yGLF5g7pYsc",
+  "genreIds": [
+    35,
+    18,
+    10402
+  ],
+  "keywordIds": [
+    578,
+    5215,
+    818,
+    1228,
+    2334,
+    10254,
+    33648,
+    208548,
+    225012,
+    283297
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Film Consortium",
+    "United Artists",
+    "Film4 Productions"
+  ],
+  "crew": [
+    {
+      "personId": 172,
+      "job": "director"
+    },
+    {
+      "personId": 26190,
+      "job": "writer"
+    },
+    {
+      "personId": 173,
+      "job": "producer"
+    },
+    {
+      "personId": 1632,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4581,
+      "character": "Tony Wilson",
+      "order": 0
+    },
+    {
+      "personId": 1120,
+      "character": "Alan",
+      "order": 1
+    },
+    {
+      "personId": 14887,
+      "character": "Rob",
+      "order": 2
+    },
+    {
+      "personId": 1834,
+      "character": "Lindsay",
+      "order": 3
+    },
+    {
+      "personId": 1333,
+      "character": "Martin",
+      "order": 4
+    },
+    {
+      "personId": 42604,
+      "character": "Bernard",
+      "order": 5
+    },
+    {
+      "personId": 96280,
+      "character": "Hooky",
+      "order": 6
+    },
+    {
+      "personId": 1667,
+      "character": "Shaun",
+      "order": 7
+    },
+    {
+      "personId": 16702,
+      "character": "Ian",
+      "order": 8
+    },
+    {
+      "personId": 71282,
+      "character": "Yvette",
+      "order": 9
+    },
+    {
+      "personId": 7321,
+      "character": "Charles",
+      "order": 10
+    },
+    {
+      "personId": 7318,
+      "character": "Don Tonay",
+      "order": 11
+    },
+    {
+      "personId": 1651678,
+      "character": "Actor at Granada",
+      "order": 12
+    },
+    {
+      "personId": 28158,
+      "character": "Howard",
+      "order": 13
+    },
+    {
+      "personId": 28159,
+      "character": "Johnny Rotten",
+      "order": 14
+    },
+    {
+      "personId": 28160,
+      "character": "John the Postman",
+      "order": 15
+    },
+    {
+      "personId": 311811,
+      "character": "Paul",
+      "order": 16
+    },
+    {
+      "personId": 5319,
+      "character": "Derek",
+      "order": 17
+    },
+    {
+      "personId": 584994,
+      "character": "Vini",
+      "order": 18
+    },
+    {
+      "personId": 112231,
+      "character": "Punter",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 545,
+  "sources": [
+    "cult-list"
+  ]
+}

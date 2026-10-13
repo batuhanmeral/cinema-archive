@@ -1,0 +1,168 @@
+{
+  "tmdbId": 28044,
+  "slug": "charlie-chan-at-the-opera-1936",
+  "year": 1936,
+  "runtime": 68,
+  "originalTitle": "Charlie Chan at the Opera",
+  "title": {
+    "en": "Charlie Chan at the Opera",
+    "tr": "Charlie Chan at the Opera"
+  },
+  "overview": {
+    "en": "A dangerous amnesiac escapes from an asylum, hides in the opera house, and is suspected of getting revenge on those who tried to murder him 13 years ago.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xM3HEdNLnJofx6rmj5i4Ha5dquP.jpg",
+    "en": "/5o7oYLgUdtuuXKCgnkUNpz7RF3P.jpg"
+  },
+  "backdrops": [
+    "/jqdkNqpKT09koZYER6sAw3AMop9.jpg",
+    "/tGJmnQ2lAmH4Jf451mWfIKwyFTD.jpg",
+    "/zWCfJkuWJuARMGBZ3n4ruIerTfL.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    80,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    2199
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 87700,
+      "job": "director"
+    },
+    {
+      "personId": 62738,
+      "job": "writer"
+    },
+    {
+      "personId": 27966,
+      "job": "composer"
+    },
+    {
+      "personId": 39798,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13342,
+      "character": "Charlie Chan",
+      "order": 0
+    },
+    {
+      "personId": 2922,
+      "character": "Gravelle",
+      "order": 1
+    },
+    {
+      "personId": 16103,
+      "character": "Lee Chan",
+      "order": 2
+    },
+    {
+      "personId": 21510,
+      "character": "Sergeant Kelly",
+      "order": 3
+    },
+    {
+      "personId": 33855,
+      "character": "Inspector Regan",
+      "order": 4
+    },
+    {
+      "personId": 99458,
+      "character": "Mme. Lilli Rochelle",
+      "order": 5
+    },
+    {
+      "personId": 19551,
+      "character": "Enrico Borelli",
+      "order": 6
+    },
+    {
+      "personId": 120809,
+      "character": "Mme. Lucretia Borelli",
+      "order": 7
+    },
+    {
+      "personId": 14658,
+      "character": "Mr. Whitely",
+      "order": 8
+    },
+    {
+      "personId": 94105,
+      "character": "Mlle. Kitty",
+      "order": 9
+    },
+    {
+      "personId": 120761,
+      "character": "Phil Childers",
+      "order": 10
+    },
+    {
+      "personId": 120810,
+      "character": "Mr. Arnold",
+      "order": 11
+    },
+    {
+      "personId": 120811,
+      "character": "Pop Morris - Stage Doorman",
+      "order": 12
+    },
+    {
+      "personId": 3140,
+      "character": "Undetermined Minor Role (uncredited) (unconfirmed)",
+      "order": 13
+    },
+    {
+      "personId": 89746,
+      "character": "Dancer in Opera (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 120472,
+      "character": "Detective (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1667403,
+      "character": "Soldier in Opera (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 106010,
+      "character": "Murdered Orderly (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 30196,
+      "character": "Backstage Cop Who Shoots Gravelle (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1269812,
+      "character": "Villager in Opera (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 37,
+  "sources": [
+    "cult-list"
+  ]
+}

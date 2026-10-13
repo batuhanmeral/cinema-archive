@@ -1,0 +1,176 @@
+{
+  "tmdbId": 4558,
+  "slug": "orpheus-1950",
+  "year": 1950,
+  "runtime": 95,
+  "originalTitle": "Orphée",
+  "title": {
+    "en": "Orpheus",
+    "tr": "Orfe"
+  },
+  "overview": {
+    "en": "A famous poet in postwar Paris, scorned by the Left Bank youth, is in love with both his wife Eurydice and a mysterious princess. Seeking inspiration, the poet becomes obsessed and follows the princess from the world of the living to the land of the dead.",
+    "tr": "Gözden düştüğü hissine kapılan orta yaşlı bir şair olan Orphée (Jean Marais)'nin küçümsediği genç rakibi bir trafik kazasında ölünce onun patroniçesi olan güzel Prenses Ölüm (María Casares) ile tanışır ve ondan çok etkilenir. Bu arada ihmal ettiği eşi Eurydice (Marie Déa) de benzer bir kazada ölünce Orphée, onu geri getirebilmek için ölüler diyarına iner."
+  },
+  "poster": {
+    "tr": "/diu88F9PlUsrzHApC7VCV2QkNxR.jpg",
+    "en": "/ysevOQ1qRChVdWnhvCnB4izaW9d.jpg"
+  },
+  "backdrops": [
+    "/zoWSiV6GZ7EJsEOnpyekJE1ceB1.jpg",
+    "/umPOtBQB2GT7c1UZNeQm2n9skKP.jpg",
+    "/c38ixH1IUuJiP9jqnPR3gjXlmSx.jpg",
+    "/9lda8jZnRFy7jnGj066gdEPxhVS.jpg",
+    "/g6pR75g1Ommgsmqf7fb5IgPCH7F.jpg",
+    "/yIWVdUcSOE1wL38blSXP0W5GgY.jpg"
+  ],
+  "trailerKey": "9ciOWebRF3Y",
+  "genreIds": [
+    10749,
+    14,
+    18
+  ],
+  "keywordIds": [
+    90,
+    2035,
+    5933,
+    2036,
+    237598,
+    362637
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Films du Palais Royal",
+    "Andre Paulve Film"
+  ],
+  "crew": [
+    {
+      "personId": 9730,
+      "job": "director"
+    },
+    {
+      "personId": 37988,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2578,
+      "job": "composer"
+    },
+    {
+      "personId": 9730,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9741,
+      "character": "Orphée",
+      "order": 0
+    },
+    {
+      "personId": 27440,
+      "character": "Heurtebise",
+      "order": 1
+    },
+    {
+      "personId": 25156,
+      "character": "Death",
+      "order": 2
+    },
+    {
+      "personId": 37989,
+      "character": "Eurydice",
+      "order": 3
+    },
+    {
+      "personId": 37990,
+      "character": "Editor",
+      "order": 4
+    },
+    {
+      "personId": 37452,
+      "character": "Aglaonice",
+      "order": 5
+    },
+    {
+      "personId": 32090,
+      "character": "The Poet",
+      "order": 6
+    },
+    {
+      "personId": 37991,
+      "character": "Jacques Cégeste",
+      "order": 7
+    },
+    {
+      "personId": 1767586,
+      "character": "Judge",
+      "order": 8
+    },
+    {
+      "personId": 585662,
+      "character": "Judge",
+      "order": 9
+    },
+    {
+      "personId": 2661348,
+      "character": "Journalist",
+      "order": 10
+    },
+    {
+      "personId": 37992,
+      "character": "Commissioner",
+      "order": 11
+    },
+    {
+      "personId": 12275,
+      "character": "Judge",
+      "order": 12
+    },
+    {
+      "personId": 32101,
+      "character": "Judge (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 2671072,
+      "character": "Young Man at Café des Poètes (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1059834,
+      "character": "Une bacchante (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 3432589,
+      "character": "Young Man on the Terrace of the Flora (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 9730,
+      "character": "Narrator (voice) (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 145449,
+      "character": "Une bacchante (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 130034,
+      "character": "Young Man at Café des Poètes (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 311,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "tmdbId": 13528,
+  "slug": "gaslight-1944",
+  "year": 1944,
+  "runtime": 114,
+  "originalTitle": "Gaslight",
+  "title": {
+    "en": "Gaslight",
+    "tr": "Gaz Lambası"
+  },
+  "overview": {
+    "en": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+    "tr": "Siyah beyaz bir gerilim klasiği. Yıllar önce öldürülen teyzesinin uğursuz evine geri dönen bir kadının, kendisinden bir şeyler saklayan kocasının garip davranışları neticesinde deliliğin sınırına geldiği bu atmosferik gerilim, tahmin edeceğiniz gibi başroldeki Ingrid Bergman‘a En İyi Kadın Oyuncu Oscar’ını getiriyor. Evin siyah-beyaz atmosferinin başarısı nedeniyle film En İyi Sanat Yönetimi (Siyah-Beyaz filmde) Oscar’ını alıyor."
+  },
+  "poster": {
+    "tr": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+    "en": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg"
+  },
+  "backdrops": [
+    "/fEVYmqXuD9iqesoYexOTHSGXIWK.jpg",
+    "/jyrsCbCHyh4aBSz7HQBCFidiGX3.jpg",
+    "/k8sH3RyFg1G4fHN0k9QNoHk8i4E.jpg",
+    "/tRmg4RdvBShIV1bjjlxiXzOBwQQ.jpg",
+    "/gwpXSuE0rtv8wILnRKThgdEBr1W.jpg",
+    "/xJPz1xjeo2uU3sixFmTTNkprnRU.jpg",
+    "/3TEfMSsLg5GpaPpJk0z9YUEr4cE.jpg",
+    "/vRuCdgQOFqawG34s5vXWD1yminr.jpg",
+    "/tZRlsf0v2PjUg9mKtwv1f1q54AH.jpg",
+    "/vQsdnPBtrJ5oO61sIFNpXgz4Fs0.jpg"
+  ],
+  "trailerKey": "pnGdlnH2BDY",
+  "genreIds": [
+    53,
+    18,
+    9648,
+    80
+  ],
+  "keywordIds": [
+    770,
+    2887,
+    8250,
+    9332,
+    9826,
+    12565,
+    15274,
+    174548,
+    191476,
+    212643,
+    214651,
+    225135,
+    231535,
+    236377,
+    267689,
+    311710,
+    330548
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 12362,
+      "job": "writer"
+    },
+    {
+      "personId": 1546,
+      "job": "writer"
+    },
+    {
+      "personId": 20599,
+      "job": "writer"
+    },
+    {
+      "personId": 14674,
+      "job": "director"
+    },
+    {
+      "personId": 14678,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 138407,
+      "job": "producer"
+    },
+    {
+      "personId": 14861,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29519,
+      "character": "Gregory Anton",
+      "order": 0
+    },
+    {
+      "personId": 4111,
+      "character": "Paula Alquist",
+      "order": 1
+    },
+    {
+      "personId": 7664,
+      "character": "Brian Cameron",
+      "order": 2
+    },
+    {
+      "personId": 14299,
+      "character": "Miss Thwaites",
+      "order": 3
+    },
+    {
+      "personId": 14730,
+      "character": "Nancy",
+      "order": 4
+    },
+    {
+      "personId": 74622,
+      "character": "Elizabeth",
+      "order": 5
+    },
+    {
+      "personId": 100049,
+      "character": "Maestro Guardi",
+      "order": 6
+    },
+    {
+      "personId": 81291,
+      "character": "General Huddleston",
+      "order": 7
+    },
+    {
+      "personId": 29601,
+      "character": "Mr. Muffin",
+      "order": 8
+    },
+    {
+      "personId": 567221,
+      "character": "Williams",
+      "order": 9
+    },
+    {
+      "personId": 108804,
+      "character": "Lady Dalroy",
+      "order": 10
+    },
+    {
+      "personId": 975810,
+      "character": "Lord Dalroy",
+      "order": 11
+    },
+    {
+      "personId": 554889,
+      "character": "Pianist",
+      "order": 12
+    },
+    {
+      "personId": 1459370,
+      "character": "Policeman (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1381534,
+      "character": "Young Girl (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1419561,
+      "character": "Cab Man (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 27164,
+      "character": "Pedestrian (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 939842,
+      "character": "Pedestrian (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 5605226,
+      "character": "Footman (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2733192,
+      "character": "Pedestrian (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2,
+    "golden-globe": 1
+  },
+  "voteCount": 607,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "tmdbId": 18415,
+  "slug": "gummo-1997",
+  "year": 1997,
+  "runtime": 89,
+  "originalTitle": "Gummo",
+  "title": {
+    "en": "Gummo",
+    "tr": "Gummo"
+  },
+  "overview": {
+    "en": "Teenagers Solomon and Tummler kill time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
+    "en": "/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg"
+  },
+  "backdrops": [
+    "/mLdMnoIE4SjMkTkgxayaHH9DS4.jpg",
+    "/yM9MCODdt1TVY3VZrng2oqFrdDB.jpg",
+    "/wk8tVNFgOFx9WXHvSEeYoaDCEl1.jpg",
+    "/2HjciCVt9WR65617pkR5eqIp80z.jpg",
+    "/cL0hZNBif5EIWQf3Taj8jBuxdY4.jpg",
+    "/gvlsOhDSKNVxW3Z9gBZZQqygjTu.jpg",
+    "/jgApIbpPkZeaSxjyJAuvP8B8Yjt.jpg",
+    "/3MdLeSTdDgYtV5iG9VIUjmfD4QE.jpg",
+    "/haZH4J7dNSaToeT81RY71L2yOR2.jpg",
+    "/qn0XQ49GhGUnuKrrxvv5s7pepeX.jpg"
+  ],
+  "trailerKey": "40NyJSBvCC0",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    2213,
+    10123,
+    3230,
+    2494,
+    10532,
+    11724,
+    13059,
+    14903,
+    34136,
+    163531,
+    178482,
+    205685,
+    241738,
+    325804
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Independent Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 51918,
+      "job": "director"
+    },
+    {
+      "personId": 51918,
+      "job": "writer"
+    },
+    {
+      "personId": 6626,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5505,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1038661,
+      "character": "Solomon",
+      "order": 0
+    },
+    {
+      "personId": 83050,
+      "character": "Bunny Boy",
+      "order": 1
+    },
+    {
+      "personId": 1420962,
+      "character": "Tummler",
+      "order": 2
+    },
+    {
+      "personId": 2838,
+      "character": "Dot",
+      "order": 3
+    },
+    {
+      "personId": 143310,
+      "character": "Darby",
+      "order": 4
+    },
+    {
+      "personId": 1989304,
+      "character": "Helen",
+      "order": 5
+    },
+    {
+      "personId": 5283255,
+      "character": "Girl in Car",
+      "order": 6
+    },
+    {
+      "personId": 5283256,
+      "character": "Skinhead #1",
+      "order": 7
+    },
+    {
+      "personId": 5283257,
+      "character": "Skinhead #2",
+      "order": 8
+    },
+    {
+      "personId": 5283260,
+      "character": "Huntz",
+      "order": 9
+    },
+    {
+      "personId": 143311,
+      "character": "Cowboy #1",
+      "order": 10
+    },
+    {
+      "personId": 5283261,
+      "character": "Cowboy #2",
+      "order": 11
+    },
+    {
+      "personId": 5283265,
+      "character": "Ellen",
+      "order": 12
+    },
+    {
+      "personId": 5283267,
+      "character": "Eddie",
+      "order": 13
+    },
+    {
+      "personId": 51918,
+      "character": "Boy on Couch",
+      "order": 14
+    },
+    {
+      "personId": 5283273,
+      "character": "Midget",
+      "order": 15
+    },
+    {
+      "personId": 1980967,
+      "character": "Jarrod",
+      "order": 16
+    },
+    {
+      "personId": 5283283,
+      "character": "Karl",
+      "order": 17
+    },
+    {
+      "personId": 7268,
+      "character": "Cole",
+      "order": 18
+    },
+    {
+      "personId": 5283288,
+      "character": "Cassidey",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 758,
+  "sources": [
+    "cult-list"
+  ]
+}

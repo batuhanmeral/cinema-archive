@@ -1,0 +1,233 @@
+{
+  "tmdbId": 923,
+  "slug": "dawn-of-the-dead-1978",
+  "year": 1978,
+  "runtime": 127,
+  "originalTitle": "Dawn of the Dead",
+  "title": {
+    "en": "Dawn of the Dead",
+    "tr": "Zombi"
+  },
+  "overview": {
+    "en": "During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.",
+    "tr": "Ülkemizde Zombi adı ile vizyona giren korku klasiği 1978 yapımı Dawn of the Dead, zombi filmlerinin babası ünlü yönetmen George A. Romero’nun ‘Yaşayan Ölüler’ serisinin ikinci filmi. Zombi istilasından kaçarken bir alışveriş merkezine sığınan dört kişinin başına gelenleri konu edinen filmde Romero, ilk film Yaşayan Ölülerin Gecesi’nin (Night of the Living Dead, 1968) sahip olduğu politik alt metnin dozunu bir miktar daha arttırıyor."
+  },
+  "poster": {
+    "tr": "/70MY8H0bLMvXf8ED2SgVMPhDVVM.jpg",
+    "en": "/9kGESwH451kRgm1h6Q0svAVK60N.jpg"
+  },
+  "backdrops": [
+    "/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg",
+    "/giTsVwG3f1bul25TVC4PvGeRoeG.jpg",
+    "/A5yAATe3VVpRd3RoJyaGEIoQk5E.jpg",
+    "/6hs80LFdmQULaJw0llHCj0sDoS.jpg",
+    "/uGZO3vgq4LgBZ8wuigqPnoxMBE2.jpg",
+    "/gYGIGpzZnEHMSiJTMCwRoAmC56t.jpg",
+    "/1xgEf8XypeWuUe1uO4Ayniq9wlj.jpg",
+    "/jhpQxPib9RxuY2UfsI6Dwd2oSII.jpg",
+    "/kxmBbTL93OM6rbe0prpSiwKrjFP.jpg",
+    "/sWQm8rKFZwEnE1i3VaQNfPZxNEB.jpg"
+  ],
+  "trailerKey": "Y_EviQj5tvA",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    720,
+    6092,
+    4630,
+    4197,
+    3335,
+    10123,
+    3431,
+    3544,
+    10292,
+    4632,
+    4633,
+    6490,
+    4884,
+    6951,
+    9663,
+    9276,
+    10907,
+    12377,
+    14736,
+    14811,
+    157690,
+    168643,
+    186565,
+    193594,
+    251667,
+    320420,
+    325811,
+    325818
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Dawn Associates",
+    "Laurel Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 14999,
+      "job": "writer"
+    },
+    {
+      "personId": 15056,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 15054,
+      "job": "composer"
+    },
+    {
+      "personId": 14999,
+      "job": "director"
+    },
+    {
+      "personId": 15000,
+      "job": "producer"
+    },
+    {
+      "personId": 15053,
+      "job": "composer"
+    },
+    {
+      "personId": 15055,
+      "job": "composer"
+    },
+    {
+      "personId": 15052,
+      "job": "composer"
+    },
+    {
+      "personId": 4955,
+      "job": "composer"
+    },
+    {
+      "personId": 65751,
+      "job": "producer"
+    },
+    {
+      "personId": 1953666,
+      "job": "producer"
+    },
+    {
+      "personId": 1187392,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15069,
+      "character": "Stephen \"Flyboy\" Andrews",
+      "order": 0
+    },
+    {
+      "personId": 15070,
+      "character": "Peter Washington",
+      "order": 1
+    },
+    {
+      "personId": 15071,
+      "character": "Roger \"Trooper\" DeMarco",
+      "order": 2
+    },
+    {
+      "personId": 15072,
+      "character": "Francine \"Fran\" Parker",
+      "order": 3
+    },
+    {
+      "personId": 15073,
+      "character": "Dr. James Foster",
+      "order": 4
+    },
+    {
+      "personId": 15074,
+      "character": "Sidney Berman",
+      "order": 5
+    },
+    {
+      "personId": 15075,
+      "character": "Dr. Milliard Rausch",
+      "order": 6
+    },
+    {
+      "personId": 15076,
+      "character": "TV Commentator",
+      "order": 7
+    },
+    {
+      "personId": 15077,
+      "character": "Dan Givens",
+      "order": 8
+    },
+    {
+      "personId": 15078,
+      "character": "Police Commander",
+      "order": 9
+    },
+    {
+      "personId": 15079,
+      "character": "Wooley",
+      "order": 10
+    },
+    {
+      "personId": 15080,
+      "character": "Roy Tucker",
+      "order": 11
+    },
+    {
+      "personId": 1047720,
+      "character": "Old Priest",
+      "order": 12
+    },
+    {
+      "personId": 1047721,
+      "character": "Officer in Project Apt.",
+      "order": 13
+    },
+    {
+      "personId": 162074,
+      "character": "Officer in Project Apt.",
+      "order": 14
+    },
+    {
+      "personId": 1047722,
+      "character": "Officer at Police Dock",
+      "order": 15
+    },
+    {
+      "personId": 152902,
+      "character": "Officer at Police Dock",
+      "order": 16
+    },
+    {
+      "personId": 1047723,
+      "character": "Officer at Police Dock",
+      "order": 17
+    },
+    {
+      "personId": 54855,
+      "character": "Officer at Police Dock",
+      "order": 18
+    },
+    {
+      "personId": 15840,
+      "character": "Motorcycle Raider",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2414,
+  "sources": [
+    "cult-list"
+  ]
+}

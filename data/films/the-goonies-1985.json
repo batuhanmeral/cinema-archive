@@ -1,0 +1,199 @@
+{
+  "tmdbId": 9340,
+  "slug": "the-goonies-1985",
+  "year": 1985,
+  "runtime": 114,
+  "originalTitle": "The Goonies",
+  "title": {
+    "en": "The Goonies",
+    "tr": "Define Avcıları"
+  },
+  "overview": {
+    "en": "Young teen Mikey Walsh and his friends set off on a quest to find Pirate One-Eyed Willie's treasure in hopes of saving their homes from demolition. However, on their quest to find the treasure, they run into a family of recently escaped criminals, determined to capture the kids and reach the treasure first.",
+    "tr": "Yeraltı mağaralarında, batık kalyonlarda geçen ve Goonies adı verilen arkadaş grubu tarafından bulunmayı bekleyen kayıp korsan hazinesini konu alan epik bir çocuk macera filminde Steven Spielberg, Richard Donner ve Chris Columbus işbirliği yapıyor. Evleri açgözlü emlakçılar tarafından yıkılmak üzere olan Mikey ve Brand kardeşler tek umutlarının kayıp hazineyi bulmak olduğuna karar verirler. Bir hazine haritası bulur ve arkadaşlarıyla birlikte bir yeraltı denizindeki terk edilmiş bir kalyona inerler. Eğlence dolu, yüksek tempolu bir macera filmi."
+  },
+  "poster": {
+    "tr": "/eV9wnakpqjzYED2JuGQbPHn9tux.jpg",
+    "en": "/eBU7gCjTCj9n2LTxvCSIXXOvHkD.jpg"
+  },
+  "backdrops": [
+    "/r0p9IeVzVP4OULWWw0UsDSCWtKb.jpg",
+    "/imtHhH4NuKMMaSityrxhuSmtyd3.jpg",
+    "/znSIgcQHSBoU46xb0w3EVTZy4kq.jpg",
+    "/h4FuqnkBrZ6Wxi4TEeB99QvL590.jpg",
+    "/5qsyqA7FeYRymBmNbPBqBgqWPO4.jpg",
+    "/zR9lAU4j6RXxPd1nuNtt1REkTYG.jpg",
+    "/bnIqC2JSt00RSXdBPi1UaEihfQM.jpg",
+    "/u31p3O2hN9pbyzDPQgSm8zmPNWJ.jpg",
+    "/m4WnOYGVdKGFHoUgERdQ4Nebpgg.jpg",
+    "/s4jIrvpuwd7tKbMo1EhPgILCCAk.jpg"
+  ],
+  "trailerKey": "lYLAGAwcpSQ",
+  "genreIds": [
+    12,
+    35,
+    10751
+  ],
+  "keywordIds": [
+    3882,
+    11088,
+    1897,
+    12371,
+    12988,
+    160246,
+    163841,
+    169936,
+    169950,
+    169951,
+    169953,
+    171556,
+    185200,
+    194943
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "es",
+    "cn"
+  ],
+  "studios": [
+    "Amblin Entertainment",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 7187,
+      "job": "director"
+    },
+    {
+      "personId": 10965,
+      "job": "writer"
+    },
+    {
+      "personId": 7199,
+      "job": "producer"
+    },
+    {
+      "personId": 7187,
+      "job": "producer"
+    },
+    {
+      "personId": 10771,
+      "job": "composer"
+    },
+    {
+      "personId": 14642,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1328,
+      "character": "Mikey",
+      "order": 0
+    },
+    {
+      "personId": 16851,
+      "character": "Brand",
+      "order": 1
+    },
+    {
+      "personId": 57371,
+      "character": "Chunk",
+      "order": 2
+    },
+    {
+      "personId": 3034,
+      "character": "Mouth",
+      "order": 3
+    },
+    {
+      "personId": 57372,
+      "character": "Andy",
+      "order": 4
+    },
+    {
+      "personId": 17495,
+      "character": "Stef",
+      "order": 5
+    },
+    {
+      "personId": 690,
+      "character": "Data",
+      "order": 6
+    },
+    {
+      "personId": 64120,
+      "character": "Sloth",
+      "order": 7
+    },
+    {
+      "personId": 2055,
+      "character": "Jake",
+      "order": 8
+    },
+    {
+      "personId": 532,
+      "character": "Francis",
+      "order": 9
+    },
+    {
+      "personId": 49944,
+      "character": "Mama Fratelli",
+      "order": 10
+    },
+    {
+      "personId": 28779,
+      "character": "Rosalita",
+      "order": 11
+    },
+    {
+      "personId": 23967,
+      "character": "Mrs. Walsh",
+      "order": 12
+    },
+    {
+      "personId": 445708,
+      "character": "Mr. Walsh",
+      "order": 13
+    },
+    {
+      "personId": 1838342,
+      "character": "Mr. Perkins",
+      "order": 14
+    },
+    {
+      "personId": 42745,
+      "character": "Troy",
+      "order": 15
+    },
+    {
+      "personId": 159013,
+      "character": "Sheriff",
+      "order": 16
+    },
+    {
+      "personId": 34131,
+      "character": "Prison Guard",
+      "order": 17
+    },
+    {
+      "personId": 1664272,
+      "character": "Chunk's Father",
+      "order": 18
+    },
+    {
+      "personId": 2100291,
+      "character": "Chunk's Mother",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 6481,
+  "sources": [
+    "cult-list"
+  ]
+}

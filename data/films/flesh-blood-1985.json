@@ -1,0 +1,203 @@
+{
+  "tmdbId": 12775,
+  "slug": "flesh-blood-1985",
+  "year": 1985,
+  "runtime": 126,
+  "originalTitle": "Flesh + Blood",
+  "title": {
+    "en": "Flesh + Blood",
+    "tr": "Et ve Kan"
+  },
+  "overview": {
+    "en": "A band of medieval mercenaries take revenge on a noble Lord who cheated them by kidnapping his son's fiancée. As the plague and warfare cut a swathe of destruction throughout the land, the mercenaries hole up in a castle and await their fate.",
+    "tr": "Orta Çağ Avrupası'nda geçen Et ve Kan, biri paralı asker, diğeri ise bir derebeyinin oğlu olan iki adamın hikayesini ve aynı kadına duydukları aşkı konu alıyor."
+  },
+  "poster": {
+    "tr": "/s2bFkdfTAbLeEtlU4VAbahkuguS.jpg",
+    "en": "/bjUYC4uC82oASTMPkb6iGCYOO2e.jpg"
+  },
+  "backdrops": [
+    "/nDzwztUurslvbBBZdKVXu2KGA1h.jpg",
+    "/2fRCohGX3a4Di0XgiwrvoknhDLz.jpg",
+    "/A1YCEoSs4f4xPX4DY8Cs0vUhU6t.jpg",
+    "/5bHLUDFog1uuTZFv8oLXJVUPL7k.jpg",
+    "/1bkt7iYDDLHsPCINaplT3rQ116N.jpg",
+    "/rrVvVOw98E2RvtKZx1RIgYIl9um.jpg",
+    "/yNNSCoUj5X8pim6zcbAws7yl8jm.jpg",
+    "/xKQGZzBHvLzS4QOsyfJm29z3TgL.jpg",
+    "/qn5WdsFBvkoqSL7tfT561B6ARUr.jpg",
+    "/8cZL9vrrLDuBQOCQofC1yhpJlFz.jpg"
+  ],
+  "trailerKey": "4g_xqC4VBFQ",
+  "genreIds": [
+    12,
+    18
+  ],
+  "keywordIds": [
+    570,
+    1930,
+    3070,
+    3071,
+    3098,
+    9725,
+    10085,
+    10093,
+    13065,
+    13072,
+    14643,
+    161257,
+    177998,
+    179870,
+    181914,
+    207427,
+    209792,
+    234213,
+    325790,
+    325847
+  ],
+  "countries": [
+    "NL",
+    "ES"
+  ],
+  "languages": [
+    "en",
+    "la"
+  ],
+  "studios": [
+    "Impala",
+    "Riverside Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 9119,
+      "job": "writer"
+    },
+    {
+      "personId": 10491,
+      "job": "director"
+    },
+    {
+      "personId": 10491,
+      "job": "writer"
+    },
+    {
+      "personId": 73490,
+      "job": "producer"
+    },
+    {
+      "personId": 7728,
+      "job": "composer"
+    },
+    {
+      "personId": 2209,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 585,
+      "character": "Martin",
+      "order": 0
+    },
+    {
+      "personId": 10431,
+      "character": "Agnes",
+      "order": 1
+    },
+    {
+      "personId": 73489,
+      "character": "Steven",
+      "order": 2
+    },
+    {
+      "personId": 12536,
+      "character": "Hawkwood",
+      "order": 3
+    },
+    {
+      "personId": 59369,
+      "character": "Celine",
+      "order": 4
+    },
+    {
+      "personId": 653,
+      "character": "Cardinal",
+      "order": 5
+    },
+    {
+      "personId": 591,
+      "character": "Karsthans",
+      "order": 6
+    },
+    {
+      "personId": 85869,
+      "character": "Summer",
+      "order": 7
+    },
+    {
+      "personId": 9257,
+      "character": "Orbec",
+      "order": 8
+    },
+    {
+      "personId": 30831,
+      "character": "Arnolfini",
+      "order": 9
+    },
+    {
+      "personId": 230454,
+      "character": "Polly",
+      "order": 10
+    },
+    {
+      "personId": 130673,
+      "character": "Anna",
+      "order": 11
+    },
+    {
+      "personId": 24496,
+      "character": "Miel",
+      "order": 12
+    },
+    {
+      "personId": 162489,
+      "character": "Little John",
+      "order": 13
+    },
+    {
+      "personId": 103022,
+      "character": "Father George",
+      "order": 14
+    },
+    {
+      "personId": 59136,
+      "character": "Niccolo",
+      "order": 15
+    },
+    {
+      "personId": 27468,
+      "character": "Clara",
+      "order": 16
+    },
+    {
+      "personId": 200,
+      "character": "Kathleen",
+      "order": 17
+    },
+    {
+      "personId": 140097,
+      "character": "Sterz",
+      "order": 18
+    },
+    {
+      "personId": 1160263,
+      "character": "Herman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 459,
+  "sources": [
+    "cult-list"
+  ]
+}

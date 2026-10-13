@@ -1,0 +1,182 @@
+{
+  "tmdbId": 26889,
+  "slug": "the-brother-from-another-planet-1984",
+  "year": 1984,
+  "runtime": 108,
+  "originalTitle": "The Brother from Another Planet",
+  "title": {
+    "en": "The Brother from Another Planet",
+    "tr": "The Brother from Another Planet"
+  },
+  "overview": {
+    "en": "A mute alien with the appearance of a black human is chased by outer-space bounty hunters through the streets of Harlem.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/jsIKSThUHCjWXzLCp7YV3LZAzZN.jpg",
+    "en": "/6DylaSBT8CNVwf1K1lPv0A1bm6N.jpg"
+  },
+  "backdrops": [
+    "/tyxq6nV8hBqWdw0ht90h33koyuf.jpg",
+    "/cCBiCXo762fFnQAZl65NQyzhAPs.jpg",
+    "/2wt7kmNdpHi7gIwR76J2rnarB8A.jpg",
+    "/qZFDh3JxvjfEK71MFrGKq2cJVe7.jpg",
+    "/dSKZgaKwy6ttOx39tA4SeLDaf3.jpg"
+  ],
+  "trailerKey": "DsgcgfFcSe0",
+  "genreIds": [
+    35,
+    878,
+    18
+  ],
+  "keywordIds": [
+    1501,
+    8201,
+    5730,
+    9951
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "A-Train Films"
+  ],
+  "crew": [
+    {
+      "personId": 102445,
+      "job": "director"
+    },
+    {
+      "personId": 102445,
+      "job": "writer"
+    },
+    {
+      "personId": 56947,
+      "job": "producer"
+    },
+    {
+      "personId": 20835,
+      "job": "producer"
+    },
+    {
+      "personId": 15521,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1640210,
+      "job": "composer"
+    },
+    {
+      "personId": 20836,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3977,
+      "character": "The Brother",
+      "order": 0
+    },
+    {
+      "personId": 96536,
+      "character": "West Indian Woman",
+      "order": 1
+    },
+    {
+      "personId": 74839,
+      "character": "Hispanic Man",
+      "order": 2
+    },
+    {
+      "personId": 96537,
+      "character": "Haitian Man",
+      "order": 3
+    },
+    {
+      "personId": 3233498,
+      "character": "Islamic Man",
+      "order": 4
+    },
+    {
+      "personId": 96538,
+      "character": "Korean Shopkeeper",
+      "order": 5
+    },
+    {
+      "personId": 96539,
+      "character": "Fly",
+      "order": 6
+    },
+    {
+      "personId": 55271,
+      "character": "Odell",
+      "order": 7
+    },
+    {
+      "personId": 13315,
+      "character": "Smokey",
+      "order": 8
+    },
+    {
+      "personId": 8854,
+      "character": "Walter",
+      "order": 9
+    },
+    {
+      "personId": 20835,
+      "character": "Noreen",
+      "order": 10
+    },
+    {
+      "personId": 53937,
+      "character": "Noreen's Client",
+      "order": 11
+    },
+    {
+      "personId": 55270,
+      "character": "Sam",
+      "order": 12
+    },
+    {
+      "personId": 133586,
+      "character": "Mrs. Brown",
+      "order": 13
+    },
+    {
+      "personId": 130440,
+      "character": "Bernice",
+      "order": 14
+    },
+    {
+      "personId": 71943,
+      "character": "Rickey",
+      "order": 15
+    },
+    {
+      "personId": 92840,
+      "character": "Willie",
+      "order": 16
+    },
+    {
+      "personId": 1910,
+      "character": "Randy Sue Carter",
+      "order": 17
+    },
+    {
+      "personId": 3233502,
+      "character": "Little Earl",
+      "order": 18
+    },
+    {
+      "personId": 102445,
+      "character": "Man in Black",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 102,
+  "sources": [
+    "cult-list"
+  ]
+}

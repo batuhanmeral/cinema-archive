@@ -1,0 +1,167 @@
+{
+  "tmdbId": 7506,
+  "slug": "harum-scarum-1965",
+  "year": 1965,
+  "runtime": 85,
+  "originalTitle": "Harum Scarum",
+  "title": {
+    "en": "Harum Scarum",
+    "tr": "Harum Scarum"
+  },
+  "overview": {
+    "en": "Johnny Tyronne, action movie star and ladies' man, is traveling through the Middle East on a goodwill tour to promote his latest film. Upon arrival, however, he's kidnapped by a gang of assassins so impressed with his cinematic adventures that they want him to carry out an assassination for them.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/kjBn7Ujj2ywCif5pdI3YwvEbvpT.jpg",
+    "en": "/8E0ZR2ptMfxg4dCylzHIa5v3vIK.jpg"
+  },
+  "backdrops": [
+    "/3S7ACYS4Z0HzT7rHNfb4qwMtJT8.jpg",
+    "/jTHJa9TUeqvIAZWyDhK1zdjuFDN.jpg",
+    "/fokDmsPcg4UbbodzSh4nlhpbV3j.jpg",
+    "/1pn95jxleOONDbvHxg3NTbB0OJm.jpg",
+    "/8uVIcsqIJsEPAUhhTH0CNWfhtky.jpg",
+    "/ekjRNTMaGV0HJAMZDcdY1TGcvbH.jpg"
+  ],
+  "trailerKey": "liTPKgSj4jQ",
+  "genreIds": [
+    35,
+    80,
+    10402,
+    10749
+  ],
+  "keywordIds": [
+    1936,
+    6377,
+    155493,
+    361867
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Four-Leaf Productions"
+  ],
+  "crew": [
+    {
+      "personId": 52759,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 16002,
+      "job": "director"
+    },
+    {
+      "personId": 52753,
+      "job": "writer"
+    },
+    {
+      "personId": 34112,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21457,
+      "character": "Johnny Tyronne",
+      "order": 0
+    },
+    {
+      "personId": 52754,
+      "character": "Princess Shalimar",
+      "order": 1
+    },
+    {
+      "personId": 52755,
+      "character": "Aishah",
+      "order": 2
+    },
+    {
+      "personId": 16074,
+      "character": "Ptince Dragna",
+      "order": 3
+    },
+    {
+      "personId": 29285,
+      "character": "Zacha",
+      "order": 4
+    },
+    {
+      "personId": 52756,
+      "character": "King Toranshah",
+      "order": 5
+    },
+    {
+      "personId": 45252,
+      "character": "Sinan",
+      "order": 6
+    },
+    {
+      "personId": 12659,
+      "character": "Baba",
+      "order": 7
+    },
+    {
+      "personId": 52757,
+      "character": "Makar",
+      "order": 8
+    },
+    {
+      "personId": 52758,
+      "character": "Julna",
+      "order": 9
+    },
+    {
+      "personId": 241865,
+      "character": "Capt. Herat",
+      "order": 10
+    },
+    {
+      "personId": 83454,
+      "character": "Leilah",
+      "order": 11
+    },
+    {
+      "personId": 102861,
+      "character": "Emerald",
+      "order": 12
+    },
+    {
+      "personId": 1031142,
+      "character": "Sapphire",
+      "order": 13
+    },
+    {
+      "personId": 1895804,
+      "character": "Amethyst",
+      "order": 14
+    },
+    {
+      "personId": 2143160,
+      "character": "Sari",
+      "order": 15
+    },
+    {
+      "personId": 1296236,
+      "character": "Mustapha",
+      "order": 16
+    },
+    {
+      "personId": 43822,
+      "character": "Scarred Bedouin",
+      "order": 17
+    },
+    {
+      "personId": 2143166,
+      "character": "Yussef",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 35,
+  "sources": [
+    "cult-list"
+  ]
+}

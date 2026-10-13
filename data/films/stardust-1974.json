@@ -1,0 +1,168 @@
+{
+  "tmdbId": 27196,
+  "slug": "stardust-1974",
+  "year": 1974,
+  "runtime": 107,
+  "originalTitle": "Stardust",
+  "title": {
+    "en": "Stardust",
+    "tr": "Stardust"
+  },
+  "overview": {
+    "en": "Jim MacLaine is now enjoying the nomadic 'gigs and groupies' life on tour with his band. When he achieves all his wildest dreams of international stardom, the sweet taste of success begins to turn sour.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/kRy0iFx8KrNqWftoq6n2aCtlWvm.jpg",
+    "en": "/kRy0iFx8KrNqWftoq6n2aCtlWvm.jpg"
+  },
+  "backdrops": [
+    "/AjkCgm6zqKwP4JpOifDI74oXyxI.jpg",
+    "/kZmmis2MJzRfHFsLtX85NA0TduY.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    578
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Goodtimes Enterprises"
+  ],
+  "crew": [
+    {
+      "personId": 96412,
+      "job": "writer"
+    },
+    {
+      "personId": 10781,
+      "job": "director"
+    },
+    {
+      "personId": 8967,
+      "job": "producer"
+    },
+    {
+      "personId": 70649,
+      "job": "producer"
+    },
+    {
+      "personId": 14139,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 96407,
+      "character": "Jim MacLaine",
+      "order": 0
+    },
+    {
+      "personId": 97206,
+      "character": "Mike Menary",
+      "order": 1
+    },
+    {
+      "personId": 6840,
+      "character": "Porter Lee Austin",
+      "order": 2
+    },
+    {
+      "personId": 29796,
+      "character": "Jeanette",
+      "order": 3
+    },
+    {
+      "personId": 97208,
+      "character": "Colin Day",
+      "order": 4
+    },
+    {
+      "personId": 96410,
+      "character": "JD Glover",
+      "order": 5
+    },
+    {
+      "personId": 97211,
+      "character": "Alex",
+      "order": 6
+    },
+    {
+      "personId": 1855529,
+      "character": "Danielle",
+      "order": 7
+    },
+    {
+      "personId": 96697,
+      "character": "Stevie",
+      "order": 8
+    },
+    {
+      "personId": 12829,
+      "character": "Felix Hoffman",
+      "order": 9
+    },
+    {
+      "personId": 8901,
+      "character": "TV interviewer",
+      "order": 10
+    },
+    {
+      "personId": 1213668,
+      "character": "Kevin",
+      "order": 11
+    },
+    {
+      "personId": 122884,
+      "character": "Johnny",
+      "order": 12
+    },
+    {
+      "personId": 135101,
+      "character": "Brian",
+      "order": 13
+    },
+    {
+      "personId": 1216393,
+      "character": "Harrap",
+      "order": 14
+    },
+    {
+      "personId": 79928,
+      "character": "Ralph Woods",
+      "order": 15
+    },
+    {
+      "personId": 1415568,
+      "character": "Keith Nolan",
+      "order": 16
+    },
+    {
+      "personId": 87416,
+      "character": "Sally Potter",
+      "order": 17
+    },
+    {
+      "personId": 1855530,
+      "character": "Lucille",
+      "order": 18
+    },
+    {
+      "personId": 20425,
+      "character": "TV Concert Producer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 28,
+  "sources": [
+    "cult-list"
+  ]
+}

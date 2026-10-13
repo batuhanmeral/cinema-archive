@@ -1,0 +1,202 @@
+{
+  "tmdbId": 42135,
+  "slug": "querelle-1982",
+  "year": 1982,
+  "runtime": 109,
+  "originalTitle": "Querelle",
+  "title": {
+    "en": "Querelle",
+    "tr": "Querelle"
+  },
+  "overview": {
+    "en": "French sailor Querelle arrives in Brest and starts frequenting a strange whorehouse. He discovers that his brother Robert is the lover of the lady owner, Lysiane. Here, you can play dice with Nono, Lysiane's husband: if you win, you are allowed to make love with Lysiane; if you lose, you have to make love with Nono... Querelle loses on purpose.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/7rakWIm1EeXvmInWljMqugxBqK2.jpg",
+    "en": "/kx75CWhekJtsC9ncDPMMOlr9H2c.jpg"
+  },
+  "backdrops": [
+    "/7RNWKYyiU8FEc5vJRFOPXKcE5ji.jpg",
+    "/dwbR9e4jTDOhf9TQmtUpiiPgfte.jpg",
+    "/jjHxIdUIrDJAJsXiOmGwvVP69fO.jpg",
+    "/xjpH1hyFZ0wfx1QCu6yXu7Oj3q9.jpg",
+    "/e9FzADBiwhNeG6JsEqf1NCGcEUN.jpg",
+    "/trjn7ioGRgqR2aDssj6Y9kKuNie.jpg",
+    "/cINtl1Bh47Ut4NhwLokLHQXgre0.jpg",
+    "/uNtbgREB6xn01hA0oh51mJhfbNG.jpg",
+    "/fm8RAyQCROWsp63shu92NjS71C9.jpg",
+    "/w1X9BTzD8uKZjcdypyBRCuGyfQf.jpg"
+  ],
+  "trailerKey": "Yc_UOKmPp2E",
+  "genreIds": [
+    10749,
+    80,
+    18
+  ],
+  "keywordIds": [
+    818,
+    9826,
+    10180,
+    41599,
+    158718,
+    200234,
+    258533,
+    263311,
+    293649
+  ],
+  "countries": [
+    "DE",
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "studios": [
+    "Gaumont",
+    "Planet Film",
+    "Albatros Filmproduktion"
+  ],
+  "crew": [
+    {
+      "personId": 1091586,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3768,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3767,
+      "job": "composer"
+    },
+    {
+      "personId": 65660,
+      "job": "producer"
+    },
+    {
+      "personId": 37338,
+      "job": "producer"
+    },
+    {
+      "personId": 21833,
+      "job": "writer"
+    },
+    {
+      "personId": 2725,
+      "job": "writer"
+    },
+    {
+      "personId": 2725,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 69010,
+      "character": "Querelle",
+      "order": 0
+    },
+    {
+      "personId": 22383,
+      "character": "Lieutenant Seblon",
+      "order": 1
+    },
+    {
+      "personId": 14812,
+      "character": "Lysiane",
+      "order": 2
+    },
+    {
+      "personId": 233531,
+      "character": "Roger Bataille",
+      "order": 3
+    },
+    {
+      "personId": 572,
+      "character": "Robert / Gil",
+      "order": 4
+    },
+    {
+      "personId": 32863,
+      "character": "Nono",
+      "order": 5
+    },
+    {
+      "personId": 21833,
+      "character": "Mario",
+      "order": 6
+    },
+    {
+      "personId": 37346,
+      "character": "Marcellin",
+      "order": 7
+    },
+    {
+      "personId": 37338,
+      "character": "Vic Rivette",
+      "order": 8
+    },
+    {
+      "personId": 58105,
+      "character": "Paulette",
+      "order": 9
+    },
+    {
+      "personId": 48432,
+      "character": "Drunk legionnaire",
+      "order": 10
+    },
+    {
+      "personId": 38752,
+      "character": "Worker",
+      "order": 11
+    },
+    {
+      "personId": 37345,
+      "character": "Girl",
+      "order": 12
+    },
+    {
+      "personId": 233532,
+      "character": "Worker",
+      "order": 13
+    },
+    {
+      "personId": 2692231,
+      "character": "Theo",
+      "order": 14
+    },
+    {
+      "personId": 233533,
+      "character": "Sailor",
+      "order": 15
+    },
+    {
+      "personId": 73081,
+      "character": "Drunk legionnaire",
+      "order": 16
+    },
+    {
+      "personId": 3755,
+      "character": "Worker",
+      "order": 17
+    },
+    {
+      "personId": 233534,
+      "character": "Girl",
+      "order": 18
+    },
+    {
+      "personId": 233535,
+      "character": "Sailor",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 224,
+  "sources": [
+    "cult-list"
+  ]
+}

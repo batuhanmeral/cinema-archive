@@ -1,0 +1,200 @@
+{
+  "tmdbId": 10925,
+  "slug": "the-return-of-the-living-dead-1985",
+  "year": 1985,
+  "runtime": 91,
+  "originalTitle": "The Return of the Living Dead",
+  "title": {
+    "en": "The Return of the Living Dead",
+    "tr": "Yaşayan Ölülerin Dönüşü"
+  },
+  "overview": {
+    "en": "Two employees at a medical supply warehouse accidentally release a toxic gas from a misplaced top-secret U.S. Army shipment, causing the dead to rise from a nearby cemetery with an insatiable hunger for human brains.",
+    "tr": "Süper markette çalışan Freddy (Tom Matthews) ve Frank (James Karen) marketin bodrum katında bulunan ve içinde bir cesedin bulunduğu, büyük bir tüpü incelerken yanlışlıkla tüpteki gazı boşaltırlar. Gazdan baygınlık geçiren Freddy ve Frank ayıldıktan sonra tekrar yukarı çıkarlar ve inanılmaz şeyler olmaya başlar. Tüpten sızan gaz havalandırmadan bütün markete yayılmıştır. Doldurulmuş hayvanlar, deney için dondurulmuş kobaylar ve derin dondurucudaki bir kadavra aniden canlanmıştır.\r Korku içinde marketin sahibi olan When’i (Clu Gulager) ararlar. Dondurucudaki kadavrayı parçalara ayırırlar ama yinede onu öldüremezler. Son çare olarak marketin karşısındaki morgun fırınında onu yakıp kurtulmak isterler ama yaktıkları zaman kadavradan çıkan dumanlar, hemen morgun yakınındaki mezarlığın üstüne siner. O sırada mezarlıkta eğlenen bir grup serseri genç ise kendilerini bir anda yaşayan ölülerin arasında bulurlar. Hepsi ayrılıp markete ve morga kaçarlar. Ölüler ise yavaş yavaş etrafa yayılmaktadır."
+  },
+  "poster": {
+    "tr": "/oNsV9BychAe4Sk6xFKp558Rlpyz.jpg",
+    "en": "/qVTFBabgnWz4jZ8wOQRYZI5EITF.jpg"
+  },
+  "backdrops": [
+    "/1FrQyuhqvQm5G1SqTEgpZtrkitd.jpg",
+    "/fXmBC49crCh4WmaiSZbXn8mKUDH.jpg",
+    "/2CktxkNO1QijxNemXXKgt9IiFF4.jpg",
+    "/8hKBHamCXUJX66OZKVRgGJNPlv7.jpg",
+    "/oiJqf9EMx1Ont2VMGU6aBn2wRO9.jpg",
+    "/6bv684KDlmgdJ7df61I8Hn2eiH4.jpg",
+    "/gQdDMjRUwKJGGvOvyTORz8TiM9Q.jpg",
+    "/dRoWTauWBtBPyn5R3m6vEPYSyWI.jpg",
+    "/AuoOaTxDudA5HJpr5Rst33WddW1.jpg",
+    "/bPn1Cq5xMeHh4GjvKWmfKS5o7yD.jpg"
+  ],
+  "trailerKey": "Sf8Lenwa984",
+  "genreIds": [
+    35,
+    27,
+    878
+  ],
+  "keywordIds": [
+    1227,
+    3335,
+    10123,
+    2452,
+    4470,
+    10327,
+    12377,
+    41603,
+    155493,
+    155619,
+    157892,
+    207492,
+    207891,
+    211429,
+    234040,
+    254747,
+    256183,
+    283085,
+    309060,
+    342626
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Hemdale Film Corporation",
+    "Fox Films Ltd.",
+    "Cinema 84"
+  ],
+  "crew": [
+    {
+      "personId": 67492,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5045,
+      "job": "writer"
+    },
+    {
+      "personId": 67491,
+      "job": "composer"
+    },
+    {
+      "personId": 5045,
+      "job": "director"
+    },
+    {
+      "personId": 67490,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62019,
+      "character": "Burt",
+      "order": 0
+    },
+    {
+      "personId": 14852,
+      "character": "Frank",
+      "order": 1
+    },
+    {
+      "personId": 41262,
+      "character": "Ernie",
+      "order": 2
+    },
+    {
+      "personId": 64198,
+      "character": "Freddy",
+      "order": 3
+    },
+    {
+      "personId": 74354,
+      "character": "Spider",
+      "order": 4
+    },
+    {
+      "personId": 93149,
+      "character": "Scuz",
+      "order": 5
+    },
+    {
+      "personId": 103011,
+      "character": "Chuck",
+      "order": 6
+    },
+    {
+      "personId": 97619,
+      "character": "Trash",
+      "order": 7
+    },
+    {
+      "personId": 536499,
+      "character": "Tina",
+      "order": 8
+    },
+    {
+      "personId": 106669,
+      "character": "Casey",
+      "order": 9
+    },
+    {
+      "personId": 179625,
+      "character": "Suicide",
+      "order": 10
+    },
+    {
+      "personId": 97953,
+      "character": "Colonel Glover",
+      "order": 11
+    },
+    {
+      "personId": 153422,
+      "character": "Colonel's Wife",
+      "order": 12
+    },
+    {
+      "personId": 105572,
+      "character": "Radio Corpse #2",
+      "order": 13
+    },
+    {
+      "personId": 2292865,
+      "character": "Gunnery Sergeant",
+      "order": 14
+    },
+    {
+      "personId": 2292863,
+      "character": "Cop #2",
+      "order": 15
+    },
+    {
+      "personId": 61567,
+      "character": "Riot Cop #2",
+      "order": 16
+    },
+    {
+      "personId": 949345,
+      "character": "Cop #1",
+      "order": 17
+    },
+    {
+      "personId": 155907,
+      "character": "Paramedic #2",
+      "order": 18
+    },
+    {
+      "personId": 949636,
+      "character": "Paramedic #1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2392,
+  "sources": [
+    "cult-list"
+  ]
+}

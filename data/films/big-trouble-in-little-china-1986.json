@@ -1,0 +1,203 @@
+{
+  "tmdbId": 6978,
+  "slug": "big-trouble-in-little-china-1986",
+  "year": 1986,
+  "runtime": 100,
+  "originalTitle": "Big Trouble in Little China",
+  "title": {
+    "en": "Big Trouble in Little China",
+    "tr": "Küçük Çin'de Büyük Bela"
+  },
+  "overview": {
+    "en": "Truck driver Jack Burton gets embroiled in a supernatural battle when his best friend Wang Chi's green-eyed fiancée is kidnapped by henchmen of the sorcerer Lo Pan, who must marry a girl with green eyes in order to return to the human realm.",
+    "tr": "Kamyon şoförü olan Jack, Çin Mahallesi'ndeki bir çetenin elinden arkadaşının sevgilisini kurtarmak için maceranın içine atılır. Burton ve arkadaşının bilmediği şey iser: Lo Pan isimli 2000 yıllık bir Çinli hayaletin de, kurtarmak istediği kızla ilgili özel planlarının olmasıdır. Genç ve güzel avukat Gracie dae, şans eseri iki arkadaşın macerasına katılır ve kurtarma girişimi sırasında Lo Pan'a esir düşer. Yazgısında Lo Pan'ı yoketmenin ağır sorumluluğunu taşıyan bir tur otobüsü şoförü ve bir kaç düzine uzakdoğulu dövüşçünün de katılımı ile, küçük macera girişimi unutulmaz bir şölene dönüşür!"
+  },
+  "poster": {
+    "tr": "/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg",
+    "en": "/gI2Qs1yTTj3NcESJyttCkbmJ4k9.jpg"
+  },
+  "backdrops": [
+    "/mAxA5ltgqNXLXlm7PO5XrWSo9U1.jpg",
+    "/7LK2053iOtiat3MeWM3S4MZ2mXK.jpg",
+    "/wb9HmFqa7TOWmvIRzJstdkjzOkG.jpg",
+    "/cTZ45PUZeuyToutVtkXIyQaDU6D.jpg",
+    "/5Yo2lfo8JkHXfoQaMn38ay08JNO.jpg",
+    "/c0AeiSixiKTqdtWpqfAXY3vaAPj.jpg",
+    "/bLz6fvhemKU0XCr5ILGFRfxWOy0.jpg",
+    "/dfXLtez0LWy4IRqwaTyw4ZtQbQK.jpg",
+    "/jke83rZ93iQQMZS4BJvHO6vWRFf.jpg",
+    "/ehHskGgDUchxGyG33vUQZWNng43.jpg"
+  ],
+  "trailerKey": "AXsBBqPb5YE",
+  "genreIds": [
+    28,
+    12,
+    35,
+    14
+  ],
+  "keywordIds": [
+    779,
+    780,
+    2343,
+    582,
+    1930,
+    1788,
+    3070,
+    2035,
+    155497,
+    175428,
+    197582,
+    208289,
+    293198,
+    325775
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "cn",
+    "en"
+  ],
+  "studios": [
+    "Taft Entertainment Pictures",
+    "20th Century Fox",
+    "SLM Production Group"
+  ],
+  "crew": [
+    {
+      "personId": 15445,
+      "job": "composer"
+    },
+    {
+      "personId": 11770,
+      "job": "director"
+    },
+    {
+      "personId": 53025,
+      "job": "writer"
+    },
+    {
+      "personId": 511,
+      "job": "producer"
+    },
+    {
+      "personId": 11770,
+      "job": "composer"
+    },
+    {
+      "personId": 1060,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1582654,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6856,
+      "character": "Jack Burton",
+      "order": 0
+    },
+    {
+      "personId": 2109,
+      "character": "Gracie Law",
+      "order": 1
+    },
+    {
+      "personId": 11392,
+      "character": "Wang Chi",
+      "order": 2
+    },
+    {
+      "personId": 20904,
+      "character": "David Lo Pan",
+      "order": 3
+    },
+    {
+      "personId": 11395,
+      "character": "Egg Shen",
+      "order": 4
+    },
+    {
+      "personId": 20879,
+      "character": "Margo",
+      "order": 5
+    },
+    {
+      "personId": 168246,
+      "character": "Eddie Lee",
+      "order": 6
+    },
+    {
+      "personId": 238896,
+      "character": "Thunder",
+      "order": 7
+    },
+    {
+      "personId": 97695,
+      "character": "Rain",
+      "order": 8
+    },
+    {
+      "personId": 53024,
+      "character": "Lightning",
+      "order": 9
+    },
+    {
+      "personId": 943369,
+      "character": "Miao Yin",
+      "order": 10
+    },
+    {
+      "personId": 995587,
+      "character": "Uncle Chu",
+      "order": 11
+    },
+    {
+      "personId": 169628,
+      "character": "Needles",
+      "order": 12
+    },
+    {
+      "personId": 159078,
+      "character": "Joe Lucky",
+      "order": 13
+    },
+    {
+      "personId": 95190,
+      "character": "One Ear",
+      "order": 14
+    },
+    {
+      "personId": 156015,
+      "character": "White Tiger",
+      "order": 15
+    },
+    {
+      "personId": 1217404,
+      "character": "Mrs. O'Toole",
+      "order": 16
+    },
+    {
+      "personId": 1677316,
+      "character": "Chinese Girl in White Tiger",
+      "order": 17
+    },
+    {
+      "personId": 89141,
+      "character": "Pinstripe Lawyer",
+      "order": 18
+    },
+    {
+      "personId": 94089,
+      "character": "Chang Sing #1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3546,
+  "sources": [
+    "cult-list"
+  ]
+}

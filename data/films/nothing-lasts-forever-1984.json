@@ -1,0 +1,177 @@
+{
+  "tmdbId": 52826,
+  "slug": "nothing-lasts-forever-1984",
+  "year": 1984,
+  "runtime": 82,
+  "originalTitle": "Nothing Lasts Forever",
+  "title": {
+    "en": "Nothing Lasts Forever",
+    "tr": "Nothing Lasts Forever"
+  },
+  "overview": {
+    "en": "An artist fails a test and is required to direct traffic in New York City's Holland Tunnel. He winds up falling in love with a beautiful woman, who takes him to the moon on a Lunar Cruiser.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ffrdtojhaKR6qG4vCbYH9xTBDvL.jpg",
+    "en": "/ph2L3Rp3XbMzxuLTTQBxvtNgF13.jpg"
+  },
+  "backdrops": [
+    "/qhs75DuiX4ncOetDU1jiDdjASRf.jpg",
+    "/8aMGf27YSOdzl6igUge93SIGzEQ.jpg"
+  ],
+  "trailerKey": "15Tz2098pm4",
+  "genreIds": [
+    10749,
+    878,
+    14,
+    35,
+    18
+  ],
+  "keywordIds": [
+    305,
+    2679,
+    2776,
+    168346,
+    209634
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Broadway Pictures",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 1267196,
+      "job": "writer"
+    },
+    {
+      "personId": 117,
+      "job": "composer"
+    },
+    {
+      "personId": 56158,
+      "job": "producer"
+    },
+    {
+      "personId": 1267196,
+      "job": "director"
+    },
+    {
+      "personId": 3659,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16170,
+      "character": "Adam Beckett",
+      "order": 0
+    },
+    {
+      "personId": 146766,
+      "character": "Mara Hofmeier",
+      "order": 1
+    },
+    {
+      "personId": 1532,
+      "character": "Ted Breughel",
+      "order": 2
+    },
+    {
+      "personId": 10024,
+      "character": "Father Knickerbocker",
+      "order": 3
+    },
+    {
+      "personId": 70089,
+      "character": "Daisy Schackman",
+      "order": 4
+    },
+    {
+      "personId": 15155,
+      "character": "Lu",
+      "order": 5
+    },
+    {
+      "personId": 1344010,
+      "character": "Aunt Anita",
+      "order": 6
+    },
+    {
+      "personId": 707,
+      "character": "Buck Heller",
+      "order": 7
+    },
+    {
+      "personId": 42840,
+      "character": "Hugo",
+      "order": 8
+    },
+    {
+      "personId": 76980,
+      "character": "Joyce",
+      "order": 9
+    },
+    {
+      "personId": 15100,
+      "character": "Eloy",
+      "order": 10
+    },
+    {
+      "personId": 151937,
+      "character": "Uncle Mort",
+      "order": 11
+    },
+    {
+      "personId": 90516,
+      "character": "Himself",
+      "order": 12
+    },
+    {
+      "personId": 61151,
+      "character": "Swedish Architect",
+      "order": 13
+    },
+    {
+      "personId": 1949167,
+      "character": "Helen Flagella",
+      "order": 14
+    },
+    {
+      "personId": 554627,
+      "character": "Maurice Blaget/Conductor",
+      "order": 15
+    },
+    {
+      "personId": 4127430,
+      "character": "Hotelier",
+      "order": 16
+    },
+    {
+      "personId": 4127432,
+      "character": "Mr. Boyle",
+      "order": 17
+    },
+    {
+      "personId": 69811,
+      "character": "Lunartini Husband",
+      "order": 18
+    },
+    {
+      "personId": 949847,
+      "character": "Lunartini Wife",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 31,
+  "sources": [
+    "cult-list"
+  ]
+}

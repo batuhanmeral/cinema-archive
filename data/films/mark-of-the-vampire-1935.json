@@ -1,0 +1,202 @@
+{
+  "tmdbId": 28910,
+  "slug": "mark-of-the-vampire-1935",
+  "year": 1935,
+  "runtime": 60,
+  "originalTitle": "Mark of the Vampire",
+  "title": {
+    "en": "Mark of the Vampire",
+    "tr": "Vampirin İşareti"
+  },
+  "overview": {
+    "en": "Sir Borotyn, a prominent Prague resident, is discovered murdered in his home, with all indications pointing to a vampiric assault. The victim's friend, Baron Otto, and the physician who analyzes the body, are certain that the vampire is either the mysterious Count Mora or his daughter. Receiving little help from the law, occult expert Professor Zelen is sought to assist with their investigation.",
+    "tr": "Sir Karell Borotyn, yerel köyü ziyafete çağıran bir vampir olan Count Mora tarafından öldürülmüş gibi görünüyor. Artık kızı Irena, bir sonraki hedeftir. Ölümünü önlemek için gönderilen vampirlerden bir uzman olan Profesör Zelen'e girin. Aynı zamanda Sir Karell'in ölüm koşullarını çevreleyen sırlar açığa çıkıyor."
+  },
+  "poster": {
+    "tr": "/A6JN2kIEYwXEHHmqEa86aMKDJj8.jpg",
+    "en": "/A6JN2kIEYwXEHHmqEa86aMKDJj8.jpg"
+  },
+  "backdrops": [
+    "/m6JQYoijoaLnEjdC6LcdQOxnOsg.jpg",
+    "/vszvZ8J4Ce1DmgZKkON0XDBW3X8.jpg",
+    "/dPUZhJFx8rNdJ2cGi4XmZOCqYjc.jpg",
+    "/n653KT72Wv5jUTmkPRoERYLBt1O.jpg",
+    "/r2hiPGJyFKqOdJYMHUFv2C9Rc0H.jpg",
+    "/hFJP59vNIumD26NG9nCZPfMou9r.jpg",
+    "/yYJsYmbGFYOnJa4uNLUkW0mz822.jpg",
+    "/G97Rlm070wkGbEzgWBUn3HKuW5.jpg",
+    "/6sz11HQMBzKrzZDftB4rcrYs7jW.jpg",
+    "/1DwT7gEmFxi3h1qHeJvnbmkAOvX.jpg"
+  ],
+  "trailerKey": "eyvOdKm0eDo",
+  "genreIds": [
+    9648,
+    27
+  ],
+  "keywordIds": [
+    3133,
+    3754,
+    6156,
+    1992,
+    5155,
+    174539,
+    194430,
+    207863,
+    209118
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "cs",
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 1496,
+      "job": "director"
+    },
+    {
+      "personId": 1496,
+      "job": "producer"
+    },
+    {
+      "personId": 102358,
+      "job": "writer"
+    },
+    {
+      "personId": 1546,
+      "job": "writer"
+    },
+    {
+      "personId": 102359,
+      "job": "producer"
+    },
+    {
+      "personId": 14569,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 102935,
+      "job": "writer"
+    },
+    {
+      "personId": 29723,
+      "job": "writer"
+    },
+    {
+      "personId": 127777,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17753,
+      "character": "Professor Zelin",
+      "order": 0
+    },
+    {
+      "personId": 47678,
+      "character": "Irena Borotyn",
+      "order": 1
+    },
+    {
+      "personId": 1547,
+      "character": "Count Mora",
+      "order": 2
+    },
+    {
+      "personId": 2495,
+      "character": "Inspector Neumann",
+      "order": 3
+    },
+    {
+      "personId": 32138,
+      "character": "Baron Otto",
+      "order": 4
+    },
+    {
+      "personId": 32433,
+      "character": "Fedor Vincente",
+      "order": 5
+    },
+    {
+      "personId": 14968,
+      "character": "Dr. Doskil",
+      "order": 6
+    },
+    {
+      "personId": 13965,
+      "character": "Midwife",
+      "order": 7
+    },
+    {
+      "personId": 132536,
+      "character": "Jan",
+      "order": 8
+    },
+    {
+      "personId": 1388826,
+      "character": "Chauffeur",
+      "order": 9
+    },
+    {
+      "personId": 33006,
+      "character": "Maria",
+      "order": 10
+    },
+    {
+      "personId": 1069732,
+      "character": "Annie",
+      "order": 11
+    },
+    {
+      "personId": 45230,
+      "character": "Luna",
+      "order": 12
+    },
+    {
+      "personId": 29600,
+      "character": "Sir Karell Borotyn",
+      "order": 13
+    },
+    {
+      "personId": 120755,
+      "character": "Innkeeper",
+      "order": 14
+    },
+    {
+      "personId": 89727,
+      "character": "Coroner (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 30262,
+      "character": "Fat Man (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 97999,
+      "character": "Gypsy (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1106625,
+      "character": "Old Gypsy Woman (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 95631,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 149,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "tmdbId": 11305,
+  "slug": "mystery-train-1989",
+  "year": 1989,
+  "runtime": 106,
+  "originalTitle": "Mystery Train",
+  "title": {
+    "en": "Mystery Train",
+    "tr": "Gizem Treni"
+  },
+  "overview": {
+    "en": "In Memphis, Tennessee, over the course of a single night, the Arcade Hotel, run by an eccentric night clerk and a clueless bellboy, is visited by a young Japanese couple traveling in search of the roots of rock; an Italian woman in mourning who stumbles upon a fleeing charlatan girl; and a comical trio of accidental thieves looking for a place to hide.",
+    "tr": "Filmde üç ayrı olay var: Biri Elvis, diğeri Perkins hayranı Graceland'e mi yoksa Sun Stüdyolarına mı gideceklerine bir türlü karar veremeyen Japon turistler; aynı otel odasını paylaşmaya karan veren Romalı bir dul ve kaçak bir kadın; üzüntülerini unutmaya çalışan terk edilmiş bir koca ve onun kayınbiraderi... Birbirinden ayrı bu üç öykünün kahramanları hiç karşılaşmasa da, aynı ses ve görüntüler öyküleri birleştiriyor."
+  },
+  "poster": {
+    "tr": "/wgV0xwjJ2ewuLL652H5GHawqKaA.jpg",
+    "en": "/pN7ZEOenCyEnLWoAnTalElquSeE.jpg"
+  },
+  "backdrops": [
+    "/t0GxYLiPkTtFBuzoPLmLU3HSKEN.jpg",
+    "/lhETOsmpG0NVkhjF2LFWPCS2jpT.jpg",
+    "/ruq5gwVGeSQbdE3CDhhSAjZhauM.jpg",
+    "/bsQA3TvadhoRy0fsZUX2G05EPL7.jpg",
+    "/3A0zUg4Qt2PWW9PrSSMTFsim30F.jpg",
+    "/fdrrBSMx1mRHlyOslZxSlWsh4Lz.jpg",
+    "/4gd1wlZUr5PFOaXY8bWR0wy4hGf.jpg",
+    "/iZRAetEdScnWbzbQikdhrnqdTO.jpg",
+    "/gqnevmYQJizs9hLbH7bLgY3mkxd.jpg",
+    "/7NUphGBEPNWqCQdanbhDcgQz9GW.jpg"
+  ],
+  "trailerKey": "MiHzlqWaTZg",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    922,
+    3702,
+    198430,
+    250705
+  ],
+  "countries": [
+    "JP",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "ja"
+  ],
+  "studios": [
+    "Mystery Train",
+    "JVC"
+  ],
+  "crew": [
+    {
+      "personId": 4429,
+      "job": "director"
+    },
+    {
+      "personId": 4834,
+      "job": "producer"
+    },
+    {
+      "personId": 6394,
+      "job": "composer"
+    },
+    {
+      "personId": 1632,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4429,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16145,
+      "character": "Mitsuko",
+      "order": 0
+    },
+    {
+      "personId": 68973,
+      "character": "Jun",
+      "order": 1
+    },
+    {
+      "personId": 942004,
+      "character": "Night Clerk",
+      "order": 2
+    },
+    {
+      "personId": 13603,
+      "character": "Bellboy",
+      "order": 3
+    },
+    {
+      "personId": 9235,
+      "character": "Luisa",
+      "order": 4
+    },
+    {
+      "personId": 54887,
+      "character": "Dee Dee",
+      "order": 5
+    },
+    {
+      "personId": 58296,
+      "character": "Johnny",
+      "order": 6
+    },
+    {
+      "personId": 3432,
+      "character": "Will Robinson",
+      "order": 7
+    },
+    {
+      "personId": 884,
+      "character": "Charlie",
+      "order": 8
+    },
+    {
+      "personId": 119232,
+      "character": "Man in Diner",
+      "order": 9
+    },
+    {
+      "personId": 23310,
+      "character": "Man in Station",
+      "order": 10
+    },
+    {
+      "personId": 2887,
+      "character": "Radio DJ (voice)",
+      "order": 11
+    },
+    {
+      "personId": 100771,
+      "character": "Sun Studio Guide",
+      "order": 12
+    },
+    {
+      "personId": 2494697,
+      "character": "Tourist #1",
+      "order": 13
+    },
+    {
+      "personId": 2494698,
+      "character": "Tourist #2",
+      "order": 14
+    },
+    {
+      "personId": 2494699,
+      "character": "Tourist #3",
+      "order": 15
+    },
+    {
+      "personId": 2494700,
+      "character": "Conductor",
+      "order": 16
+    },
+    {
+      "personId": 2494701,
+      "character": "Streetwalker",
+      "order": 17
+    },
+    {
+      "personId": 58623,
+      "character": "Newsvendor",
+      "order": 18
+    },
+    {
+      "personId": 2494702,
+      "character": "The Ghost",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 543,
+  "sources": [
+    "cult-list"
+  ]
+}

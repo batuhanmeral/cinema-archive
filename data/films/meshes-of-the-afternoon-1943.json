@@ -1,0 +1,87 @@
+{
+  "tmdbId": 27040,
+  "slug": "meshes-of-the-afternoon-1943",
+  "year": 1943,
+  "runtime": 14,
+  "originalTitle": "Meshes of the Afternoon",
+  "title": {
+    "en": "Meshes of the Afternoon",
+    "tr": "İkindi Tuzakları"
+  },
+  "overview": {
+    "en": "A woman returning home falls asleep and has vivid dreams that may or may not be happening in reality. Through repetitive images and complete mismatching of the objective view of time and space, her dark inner desires play out on-screen.",
+    "tr": "20. yüzyılın en önemli ve ilham verici deneysel filmlerinden biri olarak tanımlanan 'Meshes of the Afternoon', Amerikan deneysel sinemasının önemli sinemacılarından Maya Deren'in imzasını taşıyor. Deren en önemli yapıtlarında başı çeken bu filmle, hikayenin kahramanı olan ve kendisinin canlandırdığı kadın karakterinin iç dünyasında olup bitenleri, gündelik yaşamın ayrılmaz parçaları olan çevresindeki bıçak, telefon ve kapı gibi objeler üzerinden anlatıyor; gerçek ve hayal arasındaki çizginin sınırlarını zorluyor."
+  },
+  "poster": {
+    "tr": "/yHjEjRU81RcxKFNU5hhiPYMzlsu.jpg",
+    "en": "/8yXHYjCETselsH2KWwrVYcjzPjr.jpg"
+  },
+  "backdrops": [
+    "/moyP2UVY4WPI6Y051dPqoxCYua2.jpg",
+    "/zGEwAutFCFp4WDhz9EHx0MK4JYm.jpg",
+    "/pDSRQ9NrnNNtiZwKxJTjlJ9uZXj.jpg",
+    "/1fRcgbdEpJFjudVq025i5e9pGzr.jpg",
+    "/otRHDr3aMJboh9N4AMbuKKnlHYL.jpg",
+    "/dbl8UZEs7pPa55cXV0fRlsMhUcf.jpg",
+    "/iCBKEAIPWfcQU8ffGqwZ48NRwtj.jpg",
+    "/9cIRu0IAJ9ZzweKqRJFbwYhzlYP.jpg",
+    "/uUNY2JsWN0GhwKXTxnGmOYal21w.jpg",
+    "/7K93I2Oin71XOubLx6NBS9wVQwt.jpg"
+  ],
+  "trailerKey": "98eh_4z4hfA",
+  "genreIds": [
+    9648,
+    27
+  ],
+  "keywordIds": [
+    236,
+    1566,
+    2849,
+    187056,
+    263548
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 96813,
+      "job": "director"
+    },
+    {
+      "personId": 96814,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 995589,
+      "job": "composer"
+    },
+    {
+      "personId": 96814,
+      "job": "director"
+    },
+    {
+      "personId": 96813,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 96813,
+      "character": "The Woman",
+      "order": 0
+    },
+    {
+      "personId": 96814,
+      "character": "The Man",
+      "order": 1
+    }
+  ],
+  "awards": {},
+  "voteCount": 463,
+  "sources": [
+    "cult-list"
+  ]
+}

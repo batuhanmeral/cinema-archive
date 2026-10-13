@@ -1,0 +1,203 @@
+{
+  "tmdbId": 16127,
+  "slug": "forbidden-zone-1982",
+  "year": 1982,
+  "runtime": 74,
+  "originalTitle": "Forbidden Zone",
+  "title": {
+    "en": "Forbidden Zone",
+    "tr": "Yasak Bölge"
+  },
+  "overview": {
+    "en": "A mysterious door in the basement of the Hercules house leads to the Sixth Dimension by way of a gigantic set of intestine. When lovely exchange student Frenchy slips through the door, the diminuitive King Fausto falls in love with her. The jealous Queen Doris takes Frenchy prisoner, and it is up to the Hercules family and friend Squeezit Henderson to rescue her.",
+    "tr": "Hercules ailesinin evinin bodrumundaki gizemli bir kapı, \"Altıncı Boyut\" adlı tuhaf bir aleme açılır. Frenchy adlı karakter yanlışlıkla bu boyuta geçtiğinde, Kral Fausto ona aşık olur. Kraliçe Doris'in kıskançlık krizine girerek Frenchy'yi hapsetmesiyle, Hercules ailesi ve arkadaşları (Squeezit Henderson dahil) onu kurtarmak için bu surreel dünyaya girer."
+  },
+  "poster": {
+    "tr": "/z4lrDkJVkW2kQZnNcHtUQ38DDAb.jpg",
+    "en": "/z4lrDkJVkW2kQZnNcHtUQ38DDAb.jpg"
+  },
+  "backdrops": [
+    "/vE04q0JUU3MVflOQWGoZVfeFykB.jpg",
+    "/2m7URnwkBzXMRHvzb8SicI0x4rt.jpg",
+    "/cTStaaAK45OoReT0km4eKcnBBoU.jpg",
+    "/wvluPjtmHOfCssNKyVQnXEMZe8k.jpg",
+    "/zDh5oP5Hc0QaxdAtS6dIsF0f1ZD.jpg",
+    "/zkSK26Aka0YcO49vcfQQHynvKIT.jpg",
+    "/hK4jn70xwdJRMCPEWgX5C2UcCLq.jpg",
+    "/rVswibP87r1uU6zGP3qIlwYVpkp.jpg",
+    "/b6CwbO7BvIH1UmgRi8Iiu6VFZVJ.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    10402,
+    35,
+    14
+  ],
+  "keywordIds": [
+    1013,
+    7920,
+    4798,
+    4344,
+    10138,
+    11534,
+    9820,
+    11925,
+    33841,
+    155710,
+    157688,
+    158718,
+    160140,
+    164218,
+    171676,
+    184816,
+    190327,
+    208799,
+    222314,
+    281237,
+    285961,
+    290527,
+    292792,
+    309974,
+    325784,
+    373501
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "de",
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Hercules Films",
+    "The Samuel Goldwyn Company",
+    "Taurus Film"
+  ],
+  "crew": [
+    {
+      "personId": 127614,
+      "job": "director"
+    },
+    {
+      "personId": 127614,
+      "job": "writer"
+    },
+    {
+      "personId": 55117,
+      "job": "writer"
+    },
+    {
+      "personId": 1065719,
+      "job": "writer"
+    },
+    {
+      "personId": 1065720,
+      "job": "writer"
+    },
+    {
+      "personId": 127614,
+      "job": "producer"
+    },
+    {
+      "personId": 531,
+      "job": "composer"
+    },
+    {
+      "personId": 1038559,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10343,
+      "character": "King Fausto of the Sixth Dimension",
+      "order": 0
+    },
+    {
+      "personId": 59369,
+      "character": "Queen Doris of the Sixth Dimension",
+      "order": 1
+    },
+    {
+      "personId": 55117,
+      "character": "Squeezit Henderson / René Henderson",
+      "order": 2
+    },
+    {
+      "personId": 1065728,
+      "character": "Pa Hercules",
+      "order": 3
+    },
+    {
+      "personId": 1065725,
+      "character": "Susan B. 'Frenchy' Hercules",
+      "order": 4
+    },
+    {
+      "personId": 977792,
+      "character": "Ma Hercules",
+      "order": 5
+    },
+    {
+      "personId": 203070,
+      "character": "Flash Hercules",
+      "order": 6
+    },
+    {
+      "personId": 2203314,
+      "character": "Gramps Hercules",
+      "order": 7
+    },
+    {
+      "personId": 1590167,
+      "character": "Harry Kipper",
+      "order": 8
+    },
+    {
+      "personId": 1228680,
+      "character": "Harry Kipper",
+      "order": 9
+    },
+    {
+      "personId": 188724,
+      "character": "Bust Rod, the Servant Frog",
+      "order": 10
+    },
+    {
+      "personId": 1065724,
+      "character": "The Princess",
+      "order": 11
+    },
+    {
+      "personId": 158809,
+      "character": "Human Chandelier / Miss Feldman, the School Teacher",
+      "order": 12
+    },
+    {
+      "personId": 54754,
+      "character": "Ex-Queen",
+      "order": 13
+    },
+    {
+      "personId": 16525,
+      "character": "Drunken Sailor",
+      "order": 14
+    },
+    {
+      "personId": 531,
+      "character": "Satan",
+      "order": 15
+    },
+    {
+      "personId": 127614,
+      "character": "Masseur",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 115,
+  "sources": [
+    "cult-list"
+  ]
+}

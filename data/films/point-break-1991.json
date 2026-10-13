@@ -1,0 +1,200 @@
+{
+  "tmdbId": 1089,
+  "slug": "point-break-1991",
+  "year": 1991,
+  "runtime": 122,
+  "originalTitle": "Point Break",
+  "title": {
+    "en": "Point Break",
+    "tr": "Kırılma Noktası"
+  },
+  "overview": {
+    "en": "In Los Angeles, a gang of bank robbers who call themselves The Ex-Presidents commit their crimes while wearing masks of Reagan, Carter, Nixon and Johnson. Believing that the members of the gang could be surfers, the F.B.I. sends young agent Johnny Utah to the beach undercover to mix with the surfers and gather information.",
+    "tr": "Eski Amerikan başkanlarının maskelerini giyerek Los Angeles'ta banka soymaya başlayan bir çete ortaya çıkmıştır. FBI, olayları derinlemesine araştırırken, şüpheliler listesine sörfçüler de girmiştir. Genç bir ajan olan Johnny'ye ise bu kişilerin arasına sızma görevi verilmiştir."
+  },
+  "poster": {
+    "tr": "/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg",
+    "en": "/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg"
+  },
+  "backdrops": [
+    "/3PQLohxgvjUQgF94sY5SEgVKSS6.jpg",
+    "/yGOHbICOQwlJ20UjK8F2ChGJjvl.jpg",
+    "/ykuDQ7DsIRuaGLqBkUXxtWdZYQf.jpg",
+    "/oCLl28UdGULprkb1Z1XLzUBxFwj.jpg",
+    "/dYay1m6zUzmRhwIo672PMisW0l2.jpg",
+    "/uwv2EGU6v6xewXfeiKbE22RFs4J.jpg",
+    "/1RUjiMXZbaZMCcMFyGRRfcLQ6u.jpg",
+    "/ihYOaSoQ4IPNhnxwwMPZAYprs3o.jpg",
+    "/sPAqWNpqrTeH6p7PuXnpuwNZk7X.jpg",
+    "/dNPVQeMAwao8Femh6wJvWRNcMaO.jpg"
+  ],
+  "trailerKey": "KywiWyPjrOg",
+  "genreIds": [
+    28,
+    53,
+    80
+  ],
+  "keywordIds": [
+    5349,
+    1524,
+    4654,
+    1824,
+    1812,
+    2006,
+    4690,
+    10287,
+    12670,
+    15363,
+    163589,
+    187056,
+    206931,
+    270731,
+    272551,
+    302132,
+    325811,
+    335360
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Largo Entertainment",
+    "Levy/Abrams/Guerin Productions"
+  ],
+  "crew": [
+    {
+      "personId": 14392,
+      "job": "director"
+    },
+    {
+      "personId": 15306,
+      "job": "producer"
+    },
+    {
+      "personId": 4140,
+      "job": "composer"
+    },
+    {
+      "personId": 9614,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 15304,
+      "job": "writer"
+    },
+    {
+      "personId": 15307,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 723,
+      "character": "Bodhi / Mask President",
+      "order": 0
+    },
+    {
+      "personId": 6384,
+      "character": "Agent Johnny Utah",
+      "order": 1
+    },
+    {
+      "personId": 15309,
+      "character": "Tyler Endicott",
+      "order": 2
+    },
+    {
+      "personId": 2048,
+      "character": "Agent Angelo Pappas",
+      "order": 3
+    },
+    {
+      "personId": 11885,
+      "character": "SAIC Ben Harp",
+      "order": 4
+    },
+    {
+      "personId": 6474,
+      "character": "Roach",
+      "order": 5
+    },
+    {
+      "personId": 103011,
+      "character": "Nathanial",
+      "order": 6
+    },
+    {
+      "personId": 170231,
+      "character": "Grommet",
+      "order": 7
+    },
+    {
+      "personId": 6906,
+      "character": "Rosie",
+      "order": 8
+    },
+    {
+      "personId": 11890,
+      "character": "Bunker",
+      "order": 9
+    },
+    {
+      "personId": 63934,
+      "character": "Warchild",
+      "order": 10
+    },
+    {
+      "personId": 170334,
+      "character": "Agent Alvarez",
+      "order": 11
+    },
+    {
+      "personId": 107368,
+      "character": "Agent Babbit",
+      "order": 12
+    },
+    {
+      "personId": 15310,
+      "character": "Tone",
+      "order": 13
+    },
+    {
+      "personId": 1445331,
+      "character": "Archbold",
+      "order": 14
+    },
+    {
+      "personId": 15311,
+      "character": "'15'",
+      "order": 15
+    },
+    {
+      "personId": 156925,
+      "character": "Miss Deer",
+      "order": 16
+    },
+    {
+      "personId": 3197,
+      "character": "DEA Agent Deets",
+      "order": 17
+    },
+    {
+      "personId": 1783621,
+      "character": "Psycho-Stick",
+      "order": 18
+    },
+    {
+      "personId": 1212251,
+      "character": "Passion for Slashin",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4207,
+  "sources": [
+    "cult-list"
+  ]
+}

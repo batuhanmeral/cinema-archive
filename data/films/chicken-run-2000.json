@@ -1,0 +1,201 @@
+{
+  "tmdbId": 7443,
+  "slug": "chicken-run-2000",
+  "year": 2000,
+  "runtime": 84,
+  "originalTitle": "Chicken Run",
+  "title": {
+    "en": "Chicken Run",
+    "tr": "Tavuklar Firarda"
+  },
+  "overview": {
+    "en": "The creators of Wallace & Gromit bring you an exciting and original story about a group of chickens determined to fly the coop–even if they can’t fly! It’s hardly poultry in motion when Rocky attempts to teach Ginger and her feathered friends to fly…but, with teamwork, determination and a little bit o’ cluck, the fearless flock plots one last attempt in a spectacular bid for freedom.",
+    "tr": "Çiftliğini adeta bir diktatör gibi yönetmekte olan gaddar bayan Tweety'nin baskılarından bıkan tavuklar, artık bir şeyler yapma zamanı geldiğini düşünmektedirler. Tavuklardan biri olan Ginger ise bambaşka bir plan yapmaktadır. Onun amacı bu çiftlikten kaçmaktır hem de bir daha geri gelmemek üzere."
+  },
+  "poster": {
+    "tr": "/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg",
+    "en": "/8XgmIsbpVamdhwcNVsYzohFZTtT.jpg"
+  },
+  "backdrops": [
+    "/t7aJ7hqsMLEoqBJk7yAXxcAVvcz.jpg",
+    "/sivJXJ8JvVVSRaaBnHgzOboNBRQ.jpg",
+    "/xWG7emUlBPhsJ2MyQHqH0poeXwm.jpg",
+    "/fPIFWeRec2gwho9fbxHu91mcYds.jpg",
+    "/e8fwYYDYmcht3YHIK6eTO4VfYPU.jpg",
+    "/khDk7ATHmSQdf635VLPl3006066.jpg",
+    "/A9H3cHTspRlKxm58HeW8omIXOM6.jpg",
+    "/sPAwM8WxMdXNlqeP4F9DMe9LYoY.jpg",
+    "/3eYkMSjWbvTaZso7ow5ub9ikNNq.jpg",
+    "/svHDneADngRckbFMUcD0AR1KsSq.jpg"
+  ],
+  "trailerKey": "rUSoF2nwPw8",
+  "genreIds": [
+    16,
+    35,
+    10751
+  ],
+  "keywordIds": [
+    4932,
+    5215,
+    10685,
+    323,
+    6089,
+    2479,
+    3289,
+    9180,
+    10121,
+    14601,
+    154846,
+    166726,
+    179430,
+    185522,
+    197065,
+    230385,
+    278823,
+    324713
+  ],
+  "countries": [
+    "FR",
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Aardman",
+    "DreamWorks Animation",
+    "Pathé"
+  ],
+  "crew": [
+    {
+      "personId": 53304,
+      "job": "director"
+    },
+    {
+      "personId": 7314,
+      "job": "director"
+    },
+    {
+      "personId": 53304,
+      "job": "producer"
+    },
+    {
+      "personId": 7314,
+      "job": "producer"
+    },
+    {
+      "personId": 53329,
+      "job": "producer"
+    },
+    {
+      "personId": 5553,
+      "job": "composer"
+    },
+    {
+      "personId": 11098,
+      "job": "composer"
+    },
+    {
+      "personId": 53331,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 53332,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 52845,
+      "job": "writer"
+    },
+    {
+      "personId": 1120755,
+      "job": "producer"
+    },
+    {
+      "personId": 1119834,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7316,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 53328,
+      "character": "Ginger (voice)",
+      "order": 0
+    },
+    {
+      "personId": 2461,
+      "character": "Rocky (voice)",
+      "order": 1
+    },
+    {
+      "personId": 11356,
+      "character": "Bunty (voice)",
+      "order": 2
+    },
+    {
+      "personId": 34902,
+      "character": "Babs (voice)",
+      "order": 3
+    },
+    {
+      "personId": 1074137,
+      "character": "Mac (voice)",
+      "order": 4
+    },
+    {
+      "personId": 8436,
+      "character": "Mrs. Tweedy (voice)",
+      "order": 5
+    },
+    {
+      "personId": 20241,
+      "character": "Mr. Tweedy (voice)",
+      "order": 6
+    },
+    {
+      "personId": 84927,
+      "character": "Fowler (voice)",
+      "order": 7
+    },
+    {
+      "personId": 9191,
+      "character": "Nick (voice)",
+      "order": 8
+    },
+    {
+      "personId": 65301,
+      "character": "Fetcher (voice)",
+      "order": 9
+    },
+    {
+      "personId": 933684,
+      "character": "Additional Chicken (voice) (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 36900,
+      "character": "Circus Man (voice) (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 2005172,
+      "character": "Additional Chicken (voice) (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1235024,
+      "character": "Additional Chicken (voice) (uncredited)",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 5578,
+  "sources": [
+    "cult-list"
+  ]
+}

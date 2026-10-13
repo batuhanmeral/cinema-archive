@@ -1,0 +1,210 @@
+{
+  "tmdbId": 11416,
+  "slug": "the-mission-1986",
+  "year": 1986,
+  "runtime": 125,
+  "originalTitle": "The Mission",
+  "title": {
+    "en": "The Mission",
+    "tr": "Görev"
+  },
+  "overview": {
+    "en": "When a Spanish Jesuit goes into the South American wilderness to build a mission in the hope of converting the Indians of the region, a slave hunter is converted and joins his mission. When Spain sells the colony to Portugal, they are forced to defend all they have built against the Portuguese aggressors.",
+    "tr": "1880'lerin Güney Amerika'sında, ormanın derinliklerinde bir misyoner çarmıha gerilerek öldürüldükten sonra Peder Gabriel sorumlu kabîle ile irtibat kurmaya çalışır. Fakat yüksek tepelerde yerlileri arayan tek kişi Peder değildir. Sevgiden yoksun köle avcısı Mendoza da bu dokunulmamış bölgeyi keşfetmiştir. Mendoza sevdiği yegâne iki kişi olan kardeşi Felipe ve zengin ve genç bir dul olan Carlotte'un ilişkisini öğrenince kardeşini öldürecek kadar katı kalplidir. Ancak Peder Gabriel'in çabalarıyla misyona katılacak ve vahşi ormanlarda yerliler için çalışacak, hatta Peder'in tepkisine rağmen bu yolda savaşacaktır."
+  },
+  "poster": {
+    "tr": "/6K9cG6LOOtySZF4D4xBu1MApC1N.jpg",
+    "en": "/6K9cG6LOOtySZF4D4xBu1MApC1N.jpg"
+  },
+  "backdrops": [
+    "/izgDdMvuRvTtA2azhKwPvfITZU1.jpg",
+    "/xdxfsLnbLp4B7dZh9GVKZc78VFj.jpg",
+    "/cXyfmhj6Mop0WMWfZpFreB1vqne.jpg",
+    "/xTXXc9TLkBAekldDcUQSirD5E1w.jpg",
+    "/v0Z8jCtlsDEGrr90Gpcz7n7oun0.jpg",
+    "/uWm1NXpPxA4a6tEGpYSxFJRkFxg.jpg",
+    "/6XruQAgF6cBYZrVeI043YMheVyb.jpg",
+    "/Ao09ULDnepE46FzyrE2dTwf5xDK.jpg",
+    "/hCJYUrgD1JnqD1YzkATTTMXDC38.jpg",
+    "/gfulsIIZteeWYkPH8Ou5J0fF2lj.jpg"
+  ],
+  "trailerKey": "HU14R9hbUFc",
+  "genreIds": [
+    12,
+    18,
+    28,
+    36
+  ],
+  "keywordIds": [
+    10364,
+    836,
+    186,
+    10062,
+    9672,
+    5739,
+    10787,
+    10596,
+    12337,
+    18266,
+    160279,
+    179430,
+    189995,
+    215162,
+    219896,
+    265315,
+    269717,
+    319239
+  ],
+  "countries": [
+    "GB",
+    "FR",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "gn",
+    "la",
+    "es"
+  ],
+  "studios": [
+    "Goldcrest Films International",
+    "Kingsmere",
+    "Enigma Productions"
+  ],
+  "crew": [
+    {
+      "personId": 8965,
+      "job": "director"
+    },
+    {
+      "personId": 8967,
+      "job": "producer"
+    },
+    {
+      "personId": 69332,
+      "job": "producer"
+    },
+    {
+      "personId": 13317,
+      "job": "writer"
+    },
+    {
+      "personId": 8969,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1259,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 380,
+      "character": "Rodrigo Mendoza",
+      "order": 0
+    },
+    {
+      "personId": 16940,
+      "character": "Father Gabriel",
+      "order": 1
+    },
+    {
+      "personId": 40008,
+      "character": "Cardinal Altamirano",
+      "order": 2
+    },
+    {
+      "personId": 18992,
+      "character": "Felipe Mendoza",
+      "order": 3
+    },
+    {
+      "personId": 3896,
+      "character": "Father John Fielding",
+      "order": 4
+    },
+    {
+      "personId": 20768,
+      "character": "Carlotta",
+      "order": 5
+    },
+    {
+      "personId": 32556,
+      "character": "Hontar",
+      "order": 6
+    },
+    {
+      "personId": 11479,
+      "character": "Don Cabeza",
+      "order": 7
+    },
+    {
+      "personId": 1010556,
+      "character": "Indian Boy",
+      "order": 8
+    },
+    {
+      "personId": 1151687,
+      "character": "Witch Doctor",
+      "order": 9
+    },
+    {
+      "personId": 1151688,
+      "character": "Sebastian",
+      "order": 10
+    },
+    {
+      "personId": 1256431,
+      "character": "Portuguese Commander",
+      "order": 11
+    },
+    {
+      "personId": 105303,
+      "character": "Don Cabeza (voice) (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 4010099,
+      "character": "Un jeune jésuite",
+      "order": 13
+    },
+    {
+      "personId": 4010100,
+      "character": "Père Provincial",
+      "order": 14
+    },
+    {
+      "personId": 8983,
+      "character": "Ibaye",
+      "order": 15
+    },
+    {
+      "personId": 4010109,
+      "character": "Le chef indien",
+      "order": 16
+    },
+    {
+      "personId": 4010113,
+      "character": "Le lieutenant",
+      "order": 17
+    },
+    {
+      "personId": 262,
+      "character": "Jesuit",
+      "order": 18
+    },
+    {
+      "personId": 4769632,
+      "character": "Nobleman",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1,
+    "cannes": 1
+  },
+  "voteCount": 1622,
+  "sources": [
+    "cult-list"
+  ]
+}

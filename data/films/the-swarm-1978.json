@@ -1,0 +1,194 @@
+{
+  "tmdbId": 46878,
+  "slug": "the-swarm-1978",
+  "year": 1978,
+  "runtime": 116,
+  "originalTitle": "The Swarm",
+  "title": {
+    "en": "The Swarm",
+    "tr": "The Swarm"
+  },
+  "overview": {
+    "en": "Scientist Dr. Bradford Crane and army general Thalius Slater join forces to fight an almost invisible enemy threatening America; killer bees that have deadly venom and attack without reason. Disaster movie-master Irwin Allen's film contains spectacular special effects, including a train crash caused by the eponymous swarm.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/pO5qEEpjxdQ40ScLcFOowyziNiT.jpg",
+    "en": "/pO5qEEpjxdQ40ScLcFOowyziNiT.jpg"
+  },
+  "backdrops": [
+    "/eseFw6yNJ1vZXdgWVsVXyLMVx3Y.jpg",
+    "/85DvqETKn8IF0bq74cY8H56NPU8.jpg",
+    "/lFbhENukEH6Bhge1e4C5cl8Zjm0.jpg",
+    "/xVbjQKFRF39GXjwD2ZKlS2p3JiK.jpg",
+    "/wLDTNeP1LvdyrEjrt5QGAibjKfg.jpg",
+    "/AvZnUHFiNfyPtFxFWNAv3bzd5tV.jpg",
+    "/rtwvU7MekZYU9egAYA9Sz9kjm83.jpg",
+    "/mub11tlUgxAl5FfCCv0RBjzYWyq.jpg",
+    "/p1ZEQ5rXfQoCOZqzIhr0ldeN4fI.jpg",
+    "/gJLtifuaR8BIHH5Z5Jz8s4EsHIT.jpg"
+  ],
+  "trailerKey": "Q1UjsSY0BFI",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    818,
+    332,
+    4210,
+    1556,
+    5160,
+    10663,
+    10349,
+    10617,
+    18379,
+    50009,
+    162365,
+    189411,
+    192943,
+    193068,
+    214465,
+    223059,
+    283085,
+    325775
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 6779,
+      "job": "writer"
+    },
+    {
+      "personId": 7506,
+      "job": "director"
+    },
+    {
+      "personId": 19102,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7506,
+      "job": "producer"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3895,
+      "character": "Brad Crane",
+      "order": 0
+    },
+    {
+      "personId": 9594,
+      "character": "Helena",
+      "order": 1
+    },
+    {
+      "personId": 12149,
+      "character": "General Slater",
+      "order": 2
+    },
+    {
+      "personId": 28906,
+      "character": "Dr. Hubbard",
+      "order": 3
+    },
+    {
+      "personId": 8725,
+      "character": "Maureen",
+      "order": 4
+    },
+    {
+      "personId": 8258,
+      "character": "Felix",
+      "order": 5
+    },
+    {
+      "personId": 30123,
+      "character": "Anne MacGregor",
+      "order": 6
+    },
+    {
+      "personId": 12515,
+      "character": "Dr. Andrews",
+      "order": 7
+    },
+    {
+      "personId": 27446,
+      "character": "Rita",
+      "order": 8
+    },
+    {
+      "personId": 14253,
+      "character": "Jud Hawkins",
+      "order": 9
+    },
+    {
+      "personId": 18647,
+      "character": "Major Baker",
+      "order": 10
+    },
+    {
+      "personId": 4091,
+      "character": "Clarence",
+      "order": 11
+    },
+    {
+      "personId": 4958,
+      "character": "Dr. Krim",
+      "order": 12
+    },
+    {
+      "personId": 44728,
+      "character": "General Thompson",
+      "order": 13
+    },
+    {
+      "personId": 137659,
+      "character": "Paul Durant",
+      "order": 14
+    },
+    {
+      "personId": 58495,
+      "character": "Dr. Newman",
+      "order": 15
+    },
+    {
+      "personId": 83851,
+      "character": "Dr. Martinez",
+      "order": 16
+    },
+    {
+      "personId": 103789,
+      "character": "Pete Harris",
+      "order": 17
+    },
+    {
+      "personId": 132710,
+      "character": "Woman Scientist",
+      "order": 18
+    },
+    {
+      "personId": 1027854,
+      "character": "Mrs. Durant",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 210,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "tmdbId": 23620,
+  "slug": "salt-of-the-earth-1954",
+  "year": 1954,
+  "runtime": 94,
+  "originalTitle": "Salt of the Earth",
+  "title": {
+    "en": "Salt of the Earth",
+    "tr": "Salt of the Earth"
+  },
+  "overview": {
+    "en": "At New Mexico's Empire Zinc mine, Mexican-American workers protest the unsafe work conditions and unequal wages compared to their Anglo counterparts. Ramon Quintero helps organize the strike, but he is shown to be a hypocrite by treating his pregnant wife, Esperanza, with a similar unfairness. When an injunction stops the men from protesting, however, the gender roles are reversed, and women find themselves on the picket lines while the men stay at home.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vYOH8TLzXq15alUDM5DDZXMb1LN.jpg",
+    "en": "/yoJq58HdxLxcGFgWZkO9Ya3vDLG.jpg"
+  },
+  "backdrops": [
+    "/uqh2tPWQzY2Bzi8Xg6keXv7XMTo.jpg",
+    "/rm54wfufnSWgaR3yDu79SLNvqqV.jpg",
+    "/k7pzP4pxQ1tILAhQzqs3uhb5s8S.jpg",
+    "/xsMWbVQDDMP3mH8YajEXsxt2iWa.jpg",
+    "/3saqRS4oFzXSYmo9hA5LPZL6LKq.jpg"
+  ],
+  "trailerKey": "NB3FGeUMoYk",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    4112,
+    164400,
+    265582
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Independent Production Company (IPC)"
+  ],
+  "crew": [
+    {
+      "personId": 90370,
+      "job": "director"
+    },
+    {
+      "personId": 90371,
+      "job": "producer"
+    },
+    {
+      "personId": 959793,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1413682,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3767691,
+      "job": "producer"
+    },
+    {
+      "personId": 90370,
+      "job": "producer"
+    },
+    {
+      "personId": 13267,
+      "job": "writer"
+    },
+    {
+      "personId": 30922,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 968599,
+      "character": "Esperanza Quintero",
+      "order": 0
+    },
+    {
+      "personId": 2098341,
+      "character": "Ramon Quintero",
+      "order": 1
+    },
+    {
+      "personId": 70990,
+      "character": "Sheriff",
+      "order": 2
+    },
+    {
+      "personId": 93949,
+      "character": "Barton",
+      "order": 3
+    },
+    {
+      "personId": 90373,
+      "character": "Hartwell",
+      "order": 4
+    },
+    {
+      "personId": 90374,
+      "character": "Alexander",
+      "order": 5
+    },
+    {
+      "personId": 2098346,
+      "character": "Frank Barnes",
+      "order": 6
+    },
+    {
+      "personId": 2098347,
+      "character": "Ruth Barnes",
+      "order": 7
+    },
+    {
+      "personId": 2098342,
+      "character": "Teresa Vidal",
+      "order": 8
+    },
+    {
+      "personId": 1801440,
+      "character": "Charley Vidal",
+      "order": 9
+    },
+    {
+      "personId": 2006716,
+      "character": "Consuelo Ruiz",
+      "order": 10
+    },
+    {
+      "personId": 2098343,
+      "character": "Sal Ruiz",
+      "order": 11
+    },
+    {
+      "personId": 2098344,
+      "character": "Luz Morales",
+      "order": 12
+    },
+    {
+      "personId": 2098345,
+      "character": "Antonio Morales",
+      "order": 13
+    },
+    {
+      "personId": 1802081,
+      "character": "Sebasatian Prieto",
+      "order": 14
+    },
+    {
+      "personId": 2098348,
+      "character": "Vance",
+      "order": 15
+    },
+    {
+      "personId": 2098349,
+      "character": "Kimbrough",
+      "order": 16
+    },
+    {
+      "personId": 2098350,
+      "character": "Jenkins",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 105,
+  "sources": [
+    "cult-list"
+  ]
+}

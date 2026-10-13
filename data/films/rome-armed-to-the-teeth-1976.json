@@ -1,0 +1,190 @@
+{
+  "tmdbId": 52808,
+  "slug": "rome-armed-to-the-teeth-1976",
+  "year": 1976,
+  "runtime": 94,
+  "originalTitle": "Roma a mano armata",
+  "title": {
+    "en": "Rome, Armed to the Teeth",
+    "tr": "Roma a mano armata"
+  },
+  "overview": {
+    "en": "A tough, violent cop who doesn't mind bending the law goes after a machine-gun-carrying, hunchbacked psychotic killer.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/e3tyRaeZsX66e6LO5EanViBFJF.jpg",
+    "en": "/mPBm52uFlvBsus3mW9eKsuxKFTX.jpg"
+  },
+  "backdrops": [
+    "/hjzsy6UWzmdlDGxvWVvwCDwRfwQ.jpg",
+    "/wr7ciELLh7TdHpm9IhbZ2xwbKxG.jpg",
+    "/7aJV55W06ceBqBLrmZyBEbTuBLJ.jpg",
+    "/8nEjdk0vx8y102DcM8OQhOgJ00c.jpg",
+    "/oP90YZyqSdluBuT7tXrA0hLxRCc.jpg",
+    "/yCmR2TF5t19Ol6pCQmZk8BDWOas.jpg",
+    "/hWbcouAYlx0RkIJbM82pn9UQib8.jpg",
+    "/jlwhgAew6S0B9RtfZz3Jv8EDBIb.jpg",
+    "/zbfVb24JrEd3R5PnaaPbI1Qm4mn.jpg",
+    "/ogBUzG48lEViAASHn9yEBfgLYU0.jpg"
+  ],
+  "trailerKey": "qAreUCokYdw",
+  "genreIds": [
+    28,
+    80
+  ],
+  "keywordIds": [
+    588,
+    1562,
+    15011,
+    15363,
+    156650,
+    188561,
+    247603,
+    257873,
+    329744,
+    335395
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "de",
+    "it"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 22467,
+      "job": "director"
+    },
+    {
+      "personId": 44957,
+      "job": "writer"
+    },
+    {
+      "personId": 56036,
+      "job": "composer"
+    },
+    {
+      "personId": 38589,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 100402,
+      "job": "producer"
+    },
+    {
+      "personId": 21230,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85338,
+      "character": "Commissioner Leonardo Tanzi",
+      "order": 0
+    },
+    {
+      "personId": 11128,
+      "character": "Vice questore Ruini",
+      "order": 1
+    },
+    {
+      "personId": 21708,
+      "character": "Vincenzo Moretto, 'Il gobbo'",
+      "order": 2
+    },
+    {
+      "personId": 100408,
+      "character": "Anna",
+      "order": 3
+    },
+    {
+      "personId": 83147,
+      "character": "Inspector Caputo",
+      "order": 4
+    },
+    {
+      "personId": 44961,
+      "character": "Antonio 'Tony' Parenzo",
+      "order": 5
+    },
+    {
+      "personId": 147174,
+      "character": "Savelli",
+      "order": 6
+    },
+    {
+      "personId": 33818,
+      "character": "Detective Poliani",
+      "order": 7
+    },
+    {
+      "personId": 544575,
+      "character": "Stefano",
+      "order": 8
+    },
+    {
+      "personId": 30900,
+      "character": "Savelli's Henchman",
+      "order": 9
+    },
+    {
+      "personId": 33810,
+      "character": "Ferdinando Gerace",
+      "order": 10
+    },
+    {
+      "personId": 24689,
+      "character": "Avvocato di Savelli",
+      "order": 11
+    },
+    {
+      "personId": 1019919,
+      "character": "Ambulance Driver",
+      "order": 12
+    },
+    {
+      "personId": 1137525,
+      "character": "Receiver of stolen goods",
+      "order": 13
+    },
+    {
+      "personId": 587456,
+      "character": "Franco",
+      "order": 14
+    },
+    {
+      "personId": 72774,
+      "character": "Sandra Moretto",
+      "order": 15
+    },
+    {
+      "personId": 1087376,
+      "character": "Marta Assante",
+      "order": 16
+    },
+    {
+      "personId": 1271570,
+      "character": "Paola, Rape Victim",
+      "order": 17
+    },
+    {
+      "personId": 988680,
+      "character": "Albino",
+      "order": 18
+    },
+    {
+      "personId": 1008489,
+      "character": "Lincenses & permits officer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 74,
+  "sources": [
+    "cult-list"
+  ]
+}

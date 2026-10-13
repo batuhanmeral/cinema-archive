@@ -1,0 +1,177 @@
+{
+  "tmdbId": 11480,
+  "slug": "romuald-juliette-1989",
+  "year": 1989,
+  "runtime": 108,
+  "originalTitle": "Romuald et Juliette",
+  "title": {
+    "en": "Romuald & Juliette",
+    "tr": "Romuald et Juliette"
+  },
+  "overview": {
+    "en": "A company president gets framed with a food-poisoning scandal and the only person who can help him is the evening cleaning-woman, who always seems to be at the right place at the right time.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/p5tziFYNFJEaybMhpCP20m8G317.jpg",
+    "en": "/p5tziFYNFJEaybMhpCP20m8G317.jpg"
+  },
+  "backdrops": [
+    "/qNpbLe4GxaC7qxfSW6ipPdabOrn.jpg",
+    "/tZINo8RkwoeKPBIkGmV8bn4fgv3.jpg",
+    "/lmZUW3RqHXBsiOExRw9CDEEmlmt.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    378,
+    7486,
+    34038,
+    187056,
+    208349
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [],
+  "studios": [
+    "Eniloc Films",
+    "Sofinergie Films",
+    "FR3 Cinéma"
+  ],
+  "crew": [
+    {
+      "personId": 35208,
+      "job": "director"
+    },
+    {
+      "personId": 35208,
+      "job": "writer"
+    },
+    {
+      "personId": 50516,
+      "job": "producer"
+    },
+    {
+      "personId": 20474,
+      "job": "producer"
+    },
+    {
+      "personId": 69550,
+      "job": "composer"
+    },
+    {
+      "personId": 69551,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6012,
+      "character": "Romuald Blindet",
+      "order": 0
+    },
+    {
+      "personId": 20235,
+      "character": "Juliette Bonaventure",
+      "order": 1
+    },
+    {
+      "personId": 18566,
+      "character": "Blache",
+      "order": 2
+    },
+    {
+      "personId": 69549,
+      "character": "Cloquet",
+      "order": 3
+    },
+    {
+      "personId": 35964,
+      "character": "Paulin",
+      "order": 4
+    },
+    {
+      "personId": 261238,
+      "character": "Nicole, la secrétaire",
+      "order": 5
+    },
+    {
+      "personId": 64589,
+      "character": "Françoise Blindet",
+      "order": 6
+    },
+    {
+      "personId": 2106451,
+      "character": "Aimé, fils aîné de Juliette",
+      "order": 7
+    },
+    {
+      "personId": 2106449,
+      "character": "Claire, fille cadette de Juliette",
+      "order": 8
+    },
+    {
+      "personId": 2106448,
+      "character": "Désiré, 3e enfant de Juliette",
+      "order": 9
+    },
+    {
+      "personId": 2106447,
+      "character": "Félicité, 4e enfant de Juliette",
+      "order": 10
+    },
+    {
+      "personId": 2106446,
+      "character": "Benjamin, fils benjamin de Juliette",
+      "order": 11
+    },
+    {
+      "personId": 2098991,
+      "character": "le fonctionnaire HLM",
+      "order": 12
+    },
+    {
+      "personId": 2106453,
+      "character": "Vidal",
+      "order": 13
+    },
+    {
+      "personId": 27615,
+      "character": "Marton",
+      "order": 14
+    },
+    {
+      "personId": 4166,
+      "character": "Valérie Blindet, fille de Romuald et Françoise",
+      "order": 15
+    },
+    {
+      "personId": 6260109,
+      "character": "Patrice Blindet, fils de Romuald et Françoise",
+      "order": 16
+    },
+    {
+      "personId": 2758277,
+      "character": "Otou",
+      "order": 17
+    },
+    {
+      "personId": 4814,
+      "character": "Douta",
+      "order": 18
+    },
+    {
+      "personId": 4815,
+      "character": "le mari 2",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 74,
+  "sources": [
+    "cult-list"
+  ]
+}

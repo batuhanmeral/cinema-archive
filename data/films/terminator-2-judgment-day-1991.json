@@ -1,0 +1,213 @@
+{
+  "tmdbId": 280,
+  "slug": "terminator-2-judgment-day-1991",
+  "year": 1991,
+  "runtime": 137,
+  "originalTitle": "Terminator 2: Judgment Day",
+  "title": {
+    "en": "Terminator 2: Judgment Day",
+    "tr": "Terminatör 2: Mahşer Günü"
+  },
+  "overview": {
+    "en": "Ten years after the events of the original, a reprogrammed T-800 is sent back in time to protect young John Connor from the shape-shifting T-1000. Together with his mother Sarah, he fights to stop Skynet from triggering a nuclear apocalypse.",
+    "tr": "Sarah Connor'ın Skynet tarafından gelecekten gönderilen Terminator'ın elinden kurtulmasından on yıl kadar sonra, 1995 yılında bu kez T-1000 modeli yeni bir Terminator, insan direnişçilerin gelecekteki lideri ve Sarah'nın oğlu John Connor'ı öldürmek için 2029 yılından gönderilir. Direnişçiler ise 1995 yılına yeniden programladıkları T-800 modeli bir Terminator göndermeyi başarırlar. T-800'ün görevi Sarah'yı akıl hastanesinden kaçırmak ve John'u T-1000'e karşı korumaktır."
+  },
+  "poster": {
+    "tr": "/2e2oJJKdNrxg8k74ty3fB90xLfl.jpg",
+    "en": "/5M0j0B18abtBI5gi2RhfjjurTqb.jpg"
+  },
+  "backdrops": [
+    "/xKb6mtdfI5Qsggc44Hr9CCUDvaj.jpg",
+    "/ztBeLd2UCbUATJ1cXwwHev3G3xX.jpg",
+    "/8MksSPtPvqcSDruLdpibPmTP7LY.jpg",
+    "/umaoScaCsfl9g2dyrXrvMPp59Q7.jpg",
+    "/vINgGecnz95iDL6fjQMARDsocgG.jpg",
+    "/izkMjmhauFx9DjoBQqM5sM5WAwE.jpg",
+    "/Ab3RoWOdcSkStytU9bRFvle1ezD.jpg",
+    "/ss35BgzhbjNdxFF34e2VtUVlAyF.jpg",
+    "/8UERCtJeV1nhnZZXvdWeg8WlYhW.jpg",
+    "/pC9vQ5miLgdHSPIsgfU5A9pcTpF.jpg"
+  ],
+  "trailerKey": "BuBD2s2NmEM",
+  "genreIds": [
+    28,
+    53,
+    878
+  ],
+  "keywordIds": [
+    312,
+    310,
+    679,
+    1366,
+    4565,
+    11426,
+    4458,
+    3289,
+    4379,
+    9663,
+    11857,
+    14857,
+    14946,
+    33556,
+    156316,
+    160131,
+    160381,
+    162532,
+    175468,
+    175472,
+    219404,
+    269233
+  ],
+  "countries": [
+    "FR",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Carolco Pictures",
+    "Pacific Western",
+    "Lightstorm Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 2711,
+      "job": "writer"
+    },
+    {
+      "personId": 2710,
+      "job": "producer"
+    },
+    {
+      "personId": 2710,
+      "job": "director"
+    },
+    {
+      "personId": 2723,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2710,
+      "job": "writer"
+    },
+    {
+      "personId": 2722,
+      "job": "composer"
+    },
+    {
+      "personId": 30148,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1100,
+      "character": "The Terminator",
+      "order": 0
+    },
+    {
+      "personId": 2713,
+      "character": "Sarah Connor",
+      "order": 1
+    },
+    {
+      "personId": 820,
+      "character": "John Connor",
+      "order": 2
+    },
+    {
+      "personId": 418,
+      "character": "T-1000",
+      "order": 3
+    },
+    {
+      "personId": 2716,
+      "character": "Dr. Silberman",
+      "order": 4
+    },
+    {
+      "personId": 3977,
+      "character": "Miles Dyson",
+      "order": 5
+    },
+    {
+      "personId": 3978,
+      "character": "Tarissa Dyson",
+      "order": 6
+    },
+    {
+      "personId": 3979,
+      "character": "Enrique Salceda",
+      "order": 7
+    },
+    {
+      "personId": 3980,
+      "character": "Tim",
+      "order": 8
+    },
+    {
+      "personId": 3981,
+      "character": "Janelle Voight",
+      "order": 9
+    },
+    {
+      "personId": 3982,
+      "character": "Todd Voight",
+      "order": 10
+    },
+    {
+      "personId": 2573580,
+      "character": "Twin Sarah",
+      "order": 11
+    },
+    {
+      "personId": 101660,
+      "character": "Douglas",
+      "order": 12
+    },
+    {
+      "personId": 87404,
+      "character": "Cigar Biker",
+      "order": 13
+    },
+    {
+      "personId": 157633,
+      "character": "Lloyd",
+      "order": 14
+    },
+    {
+      "personId": 2573581,
+      "character": "Trucker",
+      "order": 15
+    },
+    {
+      "personId": 75027,
+      "character": "Old John Connor",
+      "order": 16
+    },
+    {
+      "personId": 2573583,
+      "character": "Kid",
+      "order": 17
+    },
+    {
+      "personId": 2573584,
+      "character": "Kid",
+      "order": 18
+    },
+    {
+      "personId": 2573586,
+      "character": "Bryant",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 4
+  },
+  "voteCount": 15112,
+  "sources": [
+    "cult-list"
+  ]
+}

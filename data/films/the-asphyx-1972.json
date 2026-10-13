@@ -1,0 +1,115 @@
+{
+  "tmdbId": 37618,
+  "slug": "the-asphyx-1972",
+  "year": 1972,
+  "runtime": 99,
+  "originalTitle": "The Asphyx",
+  "title": {
+    "en": "The Asphyx",
+    "tr": "The Asphyx"
+  },
+  "overview": {
+    "en": "Hugo is a brilliant turn-of-the-century scientist, loved and respected by his family and friends, admired by his colleagues. But he is a man quickly becoming obsessed with a curious and frightening question...What is the mysterious apparition found in the photographs of his dying subjects?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/grAI6PofWfdW41bNUY5uKRiLn4z.jpg",
+    "en": "/wNhvInBBcwIgSu1DYSFBNQaStyr.jpg"
+  },
+  "backdrops": [
+    "/b3PWUGgCUkNXtQajcg6zxfFqqUp.jpg",
+    "/zzKXM37oPXiXIDAZCqWpMZ68jcA.jpg",
+    "/3bdT53cn1Xsu9S9WUBFtBw3M3Nq.jpg"
+  ],
+  "trailerKey": "qXahqEvXOs0",
+  "genreIds": [
+    14,
+    27,
+    878
+  ],
+  "keywordIds": [
+    1706,
+    6152
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [],
+  "studios": [
+    "Glendale"
+  ],
+  "crew": [
+    {
+      "personId": 148745,
+      "job": "director"
+    },
+    {
+      "personId": 84038,
+      "job": "writer"
+    },
+    {
+      "personId": 1179042,
+      "job": "composer"
+    },
+    {
+      "personId": 2046649,
+      "job": "producer"
+    },
+    {
+      "personId": 10079,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24682,
+      "character": "Giles Cunningham",
+      "order": 0
+    },
+    {
+      "personId": 41957,
+      "character": "Sir Hugo Cunningham",
+      "order": 1
+    },
+    {
+      "personId": 18021,
+      "character": "Christina Cunningham",
+      "order": 2
+    },
+    {
+      "personId": 65024,
+      "character": "Sir Edward Barett",
+      "order": 3
+    },
+    {
+      "personId": 26674,
+      "character": "Clive Cunningham",
+      "order": 4
+    },
+    {
+      "personId": 31940,
+      "character": "Anna Wheatley",
+      "order": 5
+    },
+    {
+      "personId": 184910,
+      "character": "Pauper",
+      "order": 6
+    },
+    {
+      "personId": 129309,
+      "character": "Warden",
+      "order": 7
+    },
+    {
+      "personId": 114536,
+      "character": "1st Member",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 88,
+  "sources": [
+    "cult-list"
+  ]
+}

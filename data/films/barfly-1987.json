@@ -1,0 +1,202 @@
+{
+  "tmdbId": 10937,
+  "slug": "barfly-1987",
+  "year": 1987,
+  "runtime": 100,
+  "originalTitle": "Barfly",
+  "title": {
+    "en": "Barfly",
+    "tr": "Bar Kelebeği"
+  },
+  "overview": {
+    "en": "Downtrodden writer Henry and distressed goddess Wanda aren't exactly husband and wife: they're wedded to their bar stools. But, they like each other's company—and Barfly captures their giddy, gin-soaked attempts to make a go of life on the skids.",
+    "tr": "Henry Chinaski, içkinin esiri olmuş bir serseridir. Zamanının çoğunu ucuz barlarda geçirir. Kendisi gibi sefil görünüşlü ama güzel bir kadına tutkuyla bağlıdır.Birgün yazarlık yeteneğini keşfeden zengin bir yayıncı kadınla tanışır. Bu, hayatında büyük bir değişikliği beraberinde getirir. Artık, ya yazdığı öykülere büyük paralar öneren bu kadınla başarının peşinden koşacaktır, ya da bu sefil yaşama devam edip özgürlüğün tadını çıkarmaya devam edecektir."
+  },
+  "poster": {
+    "tr": "/uAsAVy7yoMZ2r5ZBQQXw4PKX3JY.jpg",
+    "en": "/ioOXWS4O4SlssJLK5STuEVFGzSS.jpg"
+  },
+  "backdrops": [
+    "/whKhDehBYjOlJboo3by0JTSQsjv.jpg",
+    "/nV8naP9k5qLzovWNHQA9b2FoaGE.jpg",
+    "/6yqN0PNIaXqapNNVh582vJUGvLi.jpg",
+    "/mP0wS6tAVbakPeJTGGLY5vb285K.jpg",
+    "/w7RPZG4lJCQ4SMOBVQltQeU7jaQ.jpg",
+    "/vG1KgKidMQzX5ag09aUgIuY0Vp1.jpg",
+    "/bKhTpbFabNdBhwbyaVinaOMvwOs.jpg",
+    "/rkL2EV8AQcVF4kLYeaS3TTCog8g.jpg"
+  ],
+  "trailerKey": "8USMIMdzaTA",
+  "genreIds": [
+    35,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    3658,
+    549,
+    1721,
+    3458,
+    5933,
+    7464,
+    10594,
+    12670,
+    15237,
+    41603,
+    164698,
+    186150,
+    192530,
+    198673,
+    223338,
+    238174,
+    283674
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Golan-Globus Productions",
+    "The Cannon Group",
+    "American Zoetrope"
+  ],
+  "crew": [
+    {
+      "personId": 1632,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 67562,
+      "job": "writer"
+    },
+    {
+      "personId": 23393,
+      "job": "producer"
+    },
+    {
+      "personId": 2871,
+      "job": "producer"
+    },
+    {
+      "personId": 23393,
+      "job": "director"
+    },
+    {
+      "personId": 50871,
+      "job": "producer"
+    },
+    {
+      "personId": 58154,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2295,
+      "character": "Henry Chinaski",
+      "order": 0
+    },
+    {
+      "personId": 6450,
+      "character": "Wanda Wilcox",
+      "order": 1
+    },
+    {
+      "personId": 2506,
+      "character": "Tully Sorenson",
+      "order": 2
+    },
+    {
+      "personId": 6718,
+      "character": "Detective",
+      "order": 3
+    },
+    {
+      "personId": 21757,
+      "character": "Jim",
+      "order": 4
+    },
+    {
+      "personId": 39780,
+      "character": "Eddie",
+      "order": 5
+    },
+    {
+      "personId": 53931,
+      "character": "Janice",
+      "order": 6
+    },
+    {
+      "personId": 155457,
+      "character": "Lilly",
+      "order": 7
+    },
+    {
+      "personId": 154901,
+      "character": "Grandma Moses",
+      "order": 8
+    },
+    {
+      "personId": 13661,
+      "character": "Ben",
+      "order": 9
+    },
+    {
+      "personId": 2147740,
+      "character": "Rick",
+      "order": 10
+    },
+    {
+      "personId": 3201,
+      "character": "Joe",
+      "order": 11
+    },
+    {
+      "personId": 2147846,
+      "character": "Old Man in Bar",
+      "order": 12
+    },
+    {
+      "personId": 2147847,
+      "character": "Hooker in Bar",
+      "order": 13
+    },
+    {
+      "personId": 2147848,
+      "character": "Man in Alley",
+      "order": 14
+    },
+    {
+      "personId": 157452,
+      "character": "Carl",
+      "order": 15
+    },
+    {
+      "personId": 1643591,
+      "character": "Mike",
+      "order": 16
+    },
+    {
+      "personId": 2147854,
+      "character": "Roger",
+      "order": 17
+    },
+    {
+      "personId": 157617,
+      "character": "Helen",
+      "order": 18
+    },
+    {
+      "personId": 164669,
+      "character": "Jack, The Window Washer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 408,
+  "sources": [
+    "cult-list"
+  ]
+}

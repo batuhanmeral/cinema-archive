@@ -1,0 +1,206 @@
+{
+  "tmdbId": 268,
+  "slug": "batman-1989",
+  "year": 1989,
+  "runtime": 126,
+  "originalTitle": "Batman",
+  "title": {
+    "en": "Batman",
+    "tr": "Batman"
+  },
+  "overview": {
+    "en": "Having witnessed his parents' brutal murder as a child, millionaire philanthropist Bruce Wayne fights crime in Gotham City disguised as Batman, a costumed hero who strikes fear into the hearts of villains. But when a deformed madman known as 'The Joker' seizes control of Gotham's criminal underworld, Batman must face his most ruthless nemesis ever while protecting both his identity and his love interest, reporter Vicki Vale.",
+    "tr": "Gotham Şehri, karanlık, tehlikeli ve gotik! Tek koruyucusu ise çoğunluğu çürümüş durumdaki Polis departmanı. Savcı Harvey Dent ile komiser Gordon’un tüm çabalarına karşın, şehir giderek daha güvensiz bir hale gelmektedir... ta ki Kara Şovalye ortaya çıkana dek.Suçlular çoğunlukla batıl inanç sahibidir, ve korkak... bu yüzden kendisine onların yüreğine korku salacak bir gizli kimlik seçmiştir. O bir yarasadır. Yarasa-adam, Batman!Ödüllü bir gazeteci olan genç ve güzel Vicky Vale, esrarengiz yarasa-adamın sırrını çözmeye kararlıdır. Öte yandan Jack Napier, yanlışlıkla asit kazanına düştükten sonra şehrin psikopat palyaço suç kıralına, Batman’in azılı düşmanı sinirbozucu Joker’e dönüşür."
+  },
+  "poster": {
+    "tr": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+    "en": "/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg"
+  },
+  "backdrops": [
+    "/2va32apQP97gvUxaMnL5wYt4CRB.jpg",
+    "/rBN6GPKUDZ6ZKAQiEZegZ0DZb6V.jpg",
+    "/frDS8A5vIP927KYAxTVVKRIbqZw.jpg",
+    "/rhc7OF7tC9HPu0X8DBKQJzaGRbu.jpg",
+    "/nYhss1BrOlJhWcjwOsC5XhN5PZi.jpg",
+    "/d9NW5KdOj87LdgLvxPYGJcm4FQs.jpg",
+    "/nvjcKJCDPU9bDEEyTyneTj4PnuO.jpg",
+    "/pwZfqHnDIbI76TvbENs7r3cZA2F.jpg",
+    "/92PG1J4gvxjTRLXTqDzPqjpe6fp.jpg",
+    "/wai18jBJsuT6B0Jx54XBc7YPMp.jpg"
+  ],
+  "trailerKey": "ygK7sAavO0c",
+  "genreIds": [
+    14,
+    28,
+    80
+  ],
+  "keywordIds": [
+    851,
+    848,
+    852,
+    853,
+    9715,
+    3289,
+    9717,
+    7002,
+    11578,
+    10291,
+    15009,
+    33637,
+    41410,
+    193551,
+    266753,
+    269233
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Polygram Pictures",
+    "The Guber-Peters Company"
+  ],
+  "crew": [
+    {
+      "personId": 293,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 531,
+      "job": "composer"
+    },
+    {
+      "personId": 510,
+      "job": "director"
+    },
+    {
+      "personId": 913,
+      "job": "writer"
+    },
+    {
+      "personId": 3804,
+      "job": "producer"
+    },
+    {
+      "personId": 3805,
+      "job": "producer"
+    },
+    {
+      "personId": 3795,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2232,
+      "character": "Batman / Bruce Wayne",
+      "order": 0
+    },
+    {
+      "personId": 514,
+      "character": "Joker / Jack Napier",
+      "order": 1
+    },
+    {
+      "personId": 326,
+      "character": "Vicki Vale",
+      "order": 2
+    },
+    {
+      "personId": 4040,
+      "character": "Alexander Knox",
+      "order": 3
+    },
+    {
+      "personId": 3798,
+      "character": "Commissioner Gordon",
+      "order": 4
+    },
+    {
+      "personId": 3799,
+      "character": "Harvey Dent",
+      "order": 5
+    },
+    {
+      "personId": 3796,
+      "character": "Alfred",
+      "order": 6
+    },
+    {
+      "personId": 3785,
+      "character": "Grissom",
+      "order": 7
+    },
+    {
+      "personId": 3800,
+      "character": "Alicia",
+      "order": 8
+    },
+    {
+      "personId": 3801,
+      "character": "Bob the Goon",
+      "order": 9
+    },
+    {
+      "personId": 3802,
+      "character": "Mayor",
+      "order": 10
+    },
+    {
+      "personId": 663,
+      "character": "Eckhardt",
+      "order": 11
+    },
+    {
+      "personId": 79502,
+      "character": "Goon",
+      "order": 12
+    },
+    {
+      "personId": 127166,
+      "character": "Goon",
+      "order": 13
+    },
+    {
+      "personId": 33403,
+      "character": "Goon",
+      "order": 14
+    },
+    {
+      "personId": 1806344,
+      "character": "Goon",
+      "order": 15
+    },
+    {
+      "personId": 1229878,
+      "character": "Goon",
+      "order": 16
+    },
+    {
+      "personId": 702,
+      "character": "Goon",
+      "order": 17
+    },
+    {
+      "personId": 1231674,
+      "character": "Accountant",
+      "order": 18
+    },
+    {
+      "personId": 3803,
+      "character": "Rotelli",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 8904,
+  "sources": [
+    "cult-list"
+  ]
+}

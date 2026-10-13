@@ -1,0 +1,104 @@
+{
+  "tmdbId": 13125,
+  "slug": "karate-bullfighter-1975",
+  "year": 1975,
+  "runtime": 85,
+  "originalTitle": "けんか空手 極真拳",
+  "title": {
+    "en": "Karate Bullfighter",
+    "tr": "けんか空手 極真拳"
+  },
+  "overview": {
+    "en": "Sonny Chiba plays  Kyokushin Karate founder Masutatsu Oyama, who unexpectedly arrives at a karate tournament in rags, but wins the tournament. After turning down the chance to fight at future tournaments he returns to his simple village life. He reluctantly returns to karate for a final showdown against the students of a rival school.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qXl5qrodbgYuYIyzFH5ML7AOnWO.jpg",
+    "en": "/jbkAJh4mnYX95Kg7o521vqTLtm8.jpg"
+  },
+  "backdrops": [
+    "/tS168VU4IgioHVoC0wvn0tEBwp6.jpg"
+  ],
+  "trailerKey": "q60-2qZaDNk",
+  "genreIds": [
+    28,
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "United Artists",
+    "Toei Company"
+  ],
+  "crew": [
+    {
+      "personId": 138416,
+      "job": "director"
+    },
+    {
+      "personId": 95588,
+      "job": "writer"
+    },
+    {
+      "personId": 138452,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2537,
+      "character": "Sensei Masutatsu Oyama",
+      "order": 0
+    },
+    {
+      "personId": 1029307,
+      "character": "Shogo Ariake",
+      "order": 1
+    },
+    {
+      "personId": 239554,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 138423,
+      "character": "Nanba",
+      "order": 3
+    },
+    {
+      "personId": 81277,
+      "character": "Nakasone",
+      "order": 4
+    },
+    {
+      "personId": 1029306,
+      "character": "Chiako",
+      "order": 5
+    },
+    {
+      "personId": 1198384,
+      "character": "Gen",
+      "order": 6
+    },
+    {
+      "personId": 138418,
+      "character": "Geisha",
+      "order": 7
+    },
+    {
+      "personId": 120348,
+      "character": "",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 14,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "tmdbId": 319,
+  "slug": "true-romance-1993",
+  "year": 1993,
+  "runtime": 119,
+  "originalTitle": "True Romance",
+  "title": {
+    "en": "True Romance",
+    "tr": "Çılgın Romantik"
+  },
+  "overview": {
+    "en": "Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.",
+    "tr": "Sıradan bir hayatı olan Clarence çizgi roman dükkanında çalışmaktadır. Bir gün Alabama isimli fahişeyle tanışır ve ona aşık olur. Fakat onu eski hayatından kurtarmak hiç de kolay bir iş değildir ve bir de Alabama'nın patronundan uyuşturucu çalacaktır. Tony Scott'un kendi çektiği filmler arasında en sevdiği film olan True Romance' ın senaristliğini de Quentin Tarantino yapmıştır."
+  },
+  "poster": {
+    "tr": "/hQvJdpwlL4WVRAolWIpH2ZO9nv1.jpg",
+    "en": "/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg"
+  },
+  "backdrops": [
+    "/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg",
+    "/5coDnw2nF607JQ73vUT71Mv80OG.jpg",
+    "/3jgmgTdLKvAJwKDfFySz8qh3FAM.jpg",
+    "/nQYyA4wVwd6hltkkTFiK0iMH6Ft.jpg",
+    "/lUdwe0awsLBILK9yKZK9uAiHe5o.jpg",
+    "/uvfYk8mwX1DrHoDcTyJLf83mFvl.jpg",
+    "/2AS68kS8UoAefC27TEwOeXmlvRW.jpg",
+    "/uyEjelJxMotVl7kReitJCGxatWs.jpg",
+    "/9lzBxaGXQ2Uy62caE1pzEnDko1h.jpg",
+    "/fGQzOhiAfDuS1pS8Yq1VBmL9lS2.jpg"
+  ],
+  "trailerKey": "6uoPeUa7Gkc",
+  "genreIds": [
+    28,
+    80,
+    10749
+  ],
+  "keywordIds": [
+    612,
+    970,
+    886,
+    703,
+    1666,
+    1667,
+    2150,
+    8440,
+    9673,
+    9826,
+    10562,
+    10391,
+    12352,
+    12670,
+    14964,
+    18021,
+    33625,
+    155539,
+    163656,
+    164246,
+    183133,
+    207268,
+    259376,
+    292593,
+    294933,
+    314730,
+    321464,
+    325784,
+    325810,
+    325856
+  ],
+  "countries": [
+    "US",
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Morgan Creek Entertainment",
+    "Davis Films",
+    "August Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 893,
+      "job": "director"
+    },
+    {
+      "personId": 4507,
+      "job": "producer"
+    },
+    {
+      "personId": 4697,
+      "job": "producer"
+    },
+    {
+      "personId": 4699,
+      "job": "producer"
+    },
+    {
+      "personId": 4702,
+      "job": "producer"
+    },
+    {
+      "personId": 947,
+      "job": "composer"
+    },
+    {
+      "personId": 904,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 138,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2224,
+      "character": "Clarence Worley",
+      "order": 0
+    },
+    {
+      "personId": 4687,
+      "character": "Alabama Whitman",
+      "order": 1
+    },
+    {
+      "personId": 2778,
+      "character": "Clifford Worley",
+      "order": 2
+    },
+    {
+      "personId": 5576,
+      "character": "Mentor",
+      "order": 3
+    },
+    {
+      "personId": 64,
+      "character": "Drexl Spivey",
+      "order": 4
+    },
+    {
+      "personId": 287,
+      "character": "Floyd (Dick's Roommate)",
+      "order": 5
+    },
+    {
+      "personId": 4690,
+      "character": "Vincenzo Coccotti",
+      "order": 6
+    },
+    {
+      "personId": 4689,
+      "character": "Elliot Blitzer",
+      "order": 7
+    },
+    {
+      "personId": 2231,
+      "character": "Big Don",
+      "order": 8
+    },
+    {
+      "personId": 4688,
+      "character": "Dick Ritchie",
+      "order": 9
+    },
+    {
+      "personId": 3712,
+      "character": "Lee Donowitz",
+      "order": 10
+    },
+    {
+      "personId": 1909,
+      "character": "Mary Louise Ravencroft",
+      "order": 11
+    },
+    {
+      "personId": 4691,
+      "character": "Virgil",
+      "order": 12
+    },
+    {
+      "personId": 3711,
+      "character": "Lucy",
+      "order": 13
+    },
+    {
+      "personId": 2561,
+      "character": "Lenny",
+      "order": 14
+    },
+    {
+      "personId": 4693,
+      "character": "Marty",
+      "order": 15
+    },
+    {
+      "personId": 2969,
+      "character": "Nicky Dimes",
+      "order": 16
+    },
+    {
+      "personId": 3197,
+      "character": "Cody Nicholson",
+      "order": 17
+    },
+    {
+      "personId": 109670,
+      "character": "Burger Man",
+      "order": 18
+    },
+    {
+      "personId": 10000,
+      "character": "Burger Stand Customer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3225,
+  "sources": [
+    "cult-list"
+  ]
+}

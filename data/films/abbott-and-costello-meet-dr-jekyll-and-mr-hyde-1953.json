@@ -1,0 +1,175 @@
+{
+  "tmdbId": 3023,
+  "slug": "abbott-and-costello-meet-dr-jekyll-and-mr-hyde-1953",
+  "year": 1953,
+  "runtime": 77,
+  "originalTitle": "Abbott and Costello Meet Dr. Jekyll and Mr. Hyde",
+  "title": {
+    "en": "Abbott and Costello Meet Dr. Jekyll and Mr. Hyde",
+    "tr": "Abbott and Costello Meet Dr. Jekyll and Mr. Hyde"
+  },
+  "overview": {
+    "en": "As American policemen in London, Bud and Lou meet up with Dr. Jekyll and Mr. Hyde.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/bRsn8H6X5bxX1YXu9hHIExSSwHa.jpg",
+    "en": "/spZzSuujqiYHMK5pIvJOS5LDYD0.jpg"
+  },
+  "backdrops": [
+    "/9uxrsVcRCTuSmQ4CB8XUfE35Co2.jpg",
+    "/aM81XfMvYyb1Qpig5rp8tOodRjt.jpg",
+    "/dlEY5DszUD6X48SOpJIKs5Kaq5P.jpg",
+    "/37bV5HeLMfncKtVxLTA5o7klPSl.jpg"
+  ],
+  "trailerKey": "aLepl3_iTyg",
+  "genreIds": [
+    35,
+    27,
+    9648,
+    878
+  ],
+  "keywordIds": [
+    212,
+    848,
+    12416,
+    12999,
+    156033
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 29627,
+      "job": "director"
+    },
+    {
+      "personId": 29632,
+      "job": "writer"
+    },
+    {
+      "personId": 29633,
+      "job": "writer"
+    },
+    {
+      "personId": 29634,
+      "job": "producer"
+    },
+    {
+      "personId": 29635,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30111,
+      "character": "Slim",
+      "order": 0
+    },
+    {
+      "personId": 29642,
+      "character": "Tubby",
+      "order": 1
+    },
+    {
+      "personId": 2922,
+      "character": "Dr. Henry Jekyll / Mr. Hyde",
+      "order": 2
+    },
+    {
+      "personId": 29643,
+      "character": "Bruce Adams",
+      "order": 3
+    },
+    {
+      "personId": 29644,
+      "character": "Vicky Edwards",
+      "order": 4
+    },
+    {
+      "personId": 3364,
+      "character": "Inspector",
+      "order": 5
+    },
+    {
+      "personId": 29645,
+      "character": "Batley",
+      "order": 6
+    },
+    {
+      "personId": 34103,
+      "character": "Mr. Hyde (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 1580380,
+      "character": "Can-can dancer",
+      "order": 8
+    },
+    {
+      "personId": 1580381,
+      "character": "Can-can dancer",
+      "order": 9
+    },
+    {
+      "personId": 1580382,
+      "character": "Can-can dancer",
+      "order": 10
+    },
+    {
+      "personId": 1580383,
+      "character": "Specialty dancer",
+      "order": 11
+    },
+    {
+      "personId": 96735,
+      "character": "Javanese dancer",
+      "order": 12
+    },
+    {
+      "personId": 1580384,
+      "character": "Javanese dancer",
+      "order": 13
+    },
+    {
+      "personId": 1580385,
+      "character": "Javanese actor",
+      "order": 14
+    },
+    {
+      "personId": 97257,
+      "character": "Militant woman",
+      "order": 15
+    },
+    {
+      "personId": 1580386,
+      "character": "Mrs. Penprase",
+      "order": 16
+    },
+    {
+      "personId": 218364,
+      "character": "Mr. Penprase",
+      "order": 17
+    },
+    {
+      "personId": 1045763,
+      "character": "Man Asking for Match",
+      "order": 18
+    },
+    {
+      "personId": 98052,
+      "character": "Rough Character in the Park",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 100,
+  "sources": [
+    "cult-list"
+  ]
+}

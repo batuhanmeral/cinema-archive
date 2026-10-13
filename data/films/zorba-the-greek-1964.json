@@ -1,0 +1,163 @@
+{
+  "tmdbId": 10604,
+  "slug": "zorba-the-greek-1964",
+  "year": 1964,
+  "runtime": 142,
+  "originalTitle": "Αλέξης Ζορμπάς",
+  "title": {
+    "en": "Zorba the Greek",
+    "tr": "Zorba"
+  },
+  "overview": {
+    "en": "An uptight English writer traveling to Crete on a matter of business finds his life changed forever when he meets the gregarious Alexis Zorba.",
+    "tr": "Hayata dair beklentisi kalmayan depresif İngiliz yazar Yunan asıllı Basil’e Girit’te bir maden ocağı miras kalır.Hayatına yeniden çekidüzen verme hevesiyle adaya gelen Basil burada anormal davranışları olan, kabasaba ama hayata şehvetle bağlı orta yaşlı bir Yunanlı Alexis Zorba ile tanışır.Alexis Zorba Basil’i tamamen himayesi altına alır.Zorba’nın hayat felsefesi ise yenilgileri umursamamaktır. Zorba'ya göre yenilgiler hayatın kaçınılmaz parçalarıdır ve o yenilgileri sürekli yaşamak edinilen zaferleri önemli kılar. Basil Yunanlıların dünyevi zevklerini keşfettikçe hayata bakış açısı da gittikçe değişmektedir."
+  },
+  "poster": {
+    "tr": "/jAYOY38TRDprIgu7vgES0FFJJSl.jpg",
+    "en": "/jAYOY38TRDprIgu7vgES0FFJJSl.jpg"
+  },
+  "backdrops": [
+    "/fdKE05kO9lch613DR2rfIqbv7dN.jpg",
+    "/5f8uKa6UOwXFgMhxoNuHhqbTGM0.jpg",
+    "/rK22M6yVJgVTQSj91a8ILDJvwhM.jpg",
+    "/rofPGQIFI4wBrYWPEZgbydTpHCn.jpg",
+    "/ztS6IfsKFwfQVgnBEwYKd4Y0RUl.jpg",
+    "/h3bXqz49UdCE0PsOPL6H5ETWKDC.jpg",
+    "/8eGdQr9wOTTFZ71V0Tah3WDHlqF.jpg",
+    "/yTpAbGShRlT9lrA6bcpbVwZfnZr.jpg",
+    "/a4CXDkDCs23pj5pFDKGqvataeSR.jpg"
+  ],
+  "trailerKey": "8nwCqdA5HdI",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    246,
+    1691,
+    6054,
+    818,
+    4129,
+    5331,
+    4144,
+    1200,
+    8011,
+    2365,
+    10818,
+    12999,
+    41592,
+    219988,
+    240422,
+    256330,
+    281585,
+    325761,
+    325765,
+    325769,
+    325773,
+    325778,
+    325781,
+    325782,
+    325784,
+    325806,
+    325807,
+    325811,
+    325824,
+    325840,
+    325853
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "el",
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 65843,
+      "job": "director"
+    },
+    {
+      "personId": 65843,
+      "job": "producer"
+    },
+    {
+      "personId": 36967,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 27439,
+      "job": "composer"
+    },
+    {
+      "personId": 65843,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5401,
+      "character": "Alexis Zorba",
+      "order": 0
+    },
+    {
+      "personId": 27554,
+      "character": "Basil",
+      "order": 1
+    },
+    {
+      "personId": 18847,
+      "character": "Widow",
+      "order": 2
+    },
+    {
+      "personId": 45523,
+      "character": "Madame Hortense",
+      "order": 3
+    },
+    {
+      "personId": 65842,
+      "character": "Mimithos",
+      "order": 4
+    },
+    {
+      "personId": 65893,
+      "character": "Soul",
+      "order": 5
+    },
+    {
+      "personId": 65896,
+      "character": "Manolakas",
+      "order": 6
+    },
+    {
+      "personId": 65894,
+      "character": "Lola",
+      "order": 7
+    },
+    {
+      "personId": 65897,
+      "character": "Mavrandoni",
+      "order": 8
+    },
+    {
+      "personId": 16566,
+      "character": "Acne Faced Boy",
+      "order": 9
+    },
+    {
+      "personId": 24696,
+      "character": "Pavlo",
+      "order": 10
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 402,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "tmdbId": 2148,
+  "slug": "the-cotton-club-1984",
+  "year": 1984,
+  "runtime": 130,
+  "originalTitle": "The Cotton Club",
+  "title": {
+    "en": "The Cotton Club",
+    "tr": "Gangsterler Kulübü"
+  },
+  "overview": {
+    "en": "Harlem's legendary Cotton Club becomes a hotbed of passion and violence as the lives and loves of entertainers and gangsters collide.",
+    "tr": "New York, Harlem'deki The Cotton Club isimli caz kulübüne gelen müşterilerin ve kulübün işletmecilerinin hayatına Jazz müziği penceresinden bakıyor... Başarılı müzisyen Dixie Dwyer, kariyerine yardım sağlaması için mafyayla beraber çalışmaya başlar. Ama mafya lideri Schultz'ın kız arkadaşına aşık olunca işin rengi değişecektir..."
+  },
+  "poster": {
+    "tr": "/jgCsLhIRLKlvUy1p1iImCi0nPnX.jpg",
+    "en": "/qigf5fWSH1tw7z424UVKg71UIOS.jpg"
+  },
+  "backdrops": [
+    "/8vroa5RYUxD7Nv7vUGUoxZTyz7P.jpg",
+    "/79pVz4DfwCQcypxYDe3mJn3AHL1.jpg",
+    "/vb83YjDK6GykyeXeOJWgbZnC8vL.jpg",
+    "/wpiI1HTAwQN4lRoXGWLTGuMXj80.jpg",
+    "/8TsC8TJeT1wQlvq9bYV1EuNHycN.jpg",
+    "/b2U1ancl0CfkNQwMOiM7riiPMCP.jpg",
+    "/qLJS17mL3s3VHeaYdc97cL4vpBJ.jpg",
+    "/b4pYRk770PMtr4xpTI0W4nv4be2.jpg"
+  ],
+  "trailerKey": "UNI2e07-aD4",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    1416,
+    2987,
+    2334,
+    3017,
+    4344,
+    5823,
+    10391,
+    165643,
+    166462,
+    189920,
+    198688,
+    207876,
+    214548,
+    231149,
+    238763,
+    241927,
+    262121
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Totally Independent",
+    "PSO",
+    "American Zoetrope"
+  ],
+  "crew": [
+    {
+      "personId": 5582,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1776,
+      "job": "writer"
+    },
+    {
+      "personId": 22000,
+      "job": "writer"
+    },
+    {
+      "personId": 12288,
+      "job": "producer"
+    },
+    {
+      "personId": 2289,
+      "job": "composer"
+    },
+    {
+      "personId": 1776,
+      "job": "director"
+    },
+    {
+      "personId": 1776,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1205,
+      "character": "Richard 'Dixie' Dwyer",
+      "order": 0
+    },
+    {
+      "personId": 66804,
+      "character": "Delbert 'Sandman' Williams",
+      "order": 1
+    },
+    {
+      "personId": 2882,
+      "character": "Vera Cicero",
+      "order": 2
+    },
+    {
+      "personId": 62127,
+      "character": "Lila Rose Oliver",
+      "order": 3
+    },
+    {
+      "personId": 382,
+      "character": "Owney Madden",
+      "order": 4
+    },
+    {
+      "personId": 1736,
+      "character": "Dutch Schultz",
+      "order": 5
+    },
+    {
+      "personId": 2963,
+      "character": "Vincent Dwyer",
+      "order": 6
+    },
+    {
+      "personId": 922,
+      "character": "Otto 'Abbadabba' Berman",
+      "order": 7
+    },
+    {
+      "personId": 56266,
+      "character": "Frenchy Demange",
+      "order": 8
+    },
+    {
+      "personId": 54122,
+      "character": "Tish Dwyer",
+      "order": 9
+    },
+    {
+      "personId": 9259,
+      "character": "Frances Flegenheimer",
+      "order": 10
+    },
+    {
+      "personId": 1825507,
+      "character": "Clay Williams",
+      "order": 11
+    },
+    {
+      "personId": 130723,
+      "character": "Sol Weinstein",
+      "order": 12
+    },
+    {
+      "personId": 55272,
+      "character": "Madame St. Clair",
+      "order": 13
+    },
+    {
+      "personId": 2975,
+      "character": "Bumpy Rhodes",
+      "order": 14
+    },
+    {
+      "personId": 15213,
+      "character": "Joe Flynn",
+      "order": 15
+    },
+    {
+      "personId": 2887,
+      "character": "Irving Stark",
+      "order": 16
+    },
+    {
+      "personId": 1367324,
+      "character": "Mike Best",
+      "order": 17
+    },
+    {
+      "personId": 2881,
+      "character": "Ed Popke",
+      "order": 18
+    },
+    {
+      "personId": 722,
+      "character": "Patsy Dwyer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 458,
+  "sources": [
+    "cult-list"
+  ]
+}

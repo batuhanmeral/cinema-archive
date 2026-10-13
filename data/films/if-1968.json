@@ -1,0 +1,206 @@
+{
+  "tmdbId": 14794,
+  "slug": "if-1968",
+  "year": 1968,
+  "runtime": 112,
+  "originalTitle": "if....",
+  "title": {
+    "en": "if....",
+    "tr": "Eğer"
+  },
+  "overview": {
+    "en": "In an English boys' boarding school, social hierarchy reigns supreme and power remains in the hands of distanced and ineffectual teachers and callously vicious prefects in the Upper Sixth. Three Lower Sixth students, Wallace, Johnny and leader Mick Travis decide on a shocking course of action to redress the balance of privilege once and for all.",
+    "tr": "1968 yılında erkek öğrencilerin doldurduğu bir yatılı okuldayız. Eğitmenlerin katı kurallarıyla okulda yaşam oldukça disiplinli bir şekilde kurulmuştur. Mick ve arkadaşları bu baskıcı düzenin dışına çıktıkları, gizli bir kaçamak oadası yapmışlar ve burada özgürce davranmaktadırlar.\r Özgürlük alanlarını okulun geneline yaymaya kalktıklarında, okulun baskıcı otoritesiyle yüzleşmek zorunda kalırlar. Fakat ezilen öğrencilerin, hem eğitmenleri hem de okulu ziyarete gelen önemli konukları yakından ilgilendiren bir intikam planları vardır..."
+  },
+  "poster": {
+    "tr": "/oqlpAGq4aXhc6ODtxBcGM1SEoIp.jpg",
+    "en": "/3yOtehzchZobaMVth4gutUHmKc6.jpg"
+  },
+  "backdrops": [
+    "/6GZ4KgKv6rZ1zbBxGSOUHkW1HE5.jpg",
+    "/pY64ZIC2YB2VFRyCibMN2CIsd1t.jpg",
+    "/b5OqjAne0vAV08V43QvXpmlfvSg.jpg",
+    "/tKREnmjbwGIXPcTG12Eo9uXmNoa.jpg",
+    "/oVavtHNo7TgzcLDUmBLosYiM9Rw.jpg",
+    "/jZpeWDndcTGC2nT0XOjzUgqwD3v.jpg",
+    "/5Z5HOflpSAP2CrjHJF3vUtv7sqo.jpg",
+    "/7rH17B1fS5nDRFOVmNG1SUHBHxC.jpg"
+  ],
+  "trailerKey": "2FahMGaCoow",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    11196,
+    392,
+    2020,
+    3551,
+    4107,
+    8201,
+    11514,
+    15158,
+    163656,
+    165092,
+    171676,
+    179359,
+    193717,
+    195241,
+    220770,
+    258880,
+    275737,
+    318187
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "la"
+  ],
+  "studios": [
+    "Memorial Enterprises"
+  ],
+  "crew": [
+    {
+      "personId": 78157,
+      "job": "director"
+    },
+    {
+      "personId": 97164,
+      "job": "writer"
+    },
+    {
+      "personId": 32159,
+      "job": "composer"
+    },
+    {
+      "personId": 29307,
+      "job": "producer"
+    },
+    {
+      "personId": 20911,
+      "job": "writer"
+    },
+    {
+      "personId": 4008,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3926,
+      "job": "producer"
+    },
+    {
+      "personId": 78157,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 56890,
+      "character": "Mick Travis",
+      "order": 0
+    },
+    {
+      "personId": 1234484,
+      "character": "Johnny Knightly",
+      "order": 1
+    },
+    {
+      "personId": 138563,
+      "character": "Wallace",
+      "order": 2
+    },
+    {
+      "personId": 1040441,
+      "character": "The Girl",
+      "order": 3
+    },
+    {
+      "personId": 1040442,
+      "character": "Bobby Phillips",
+      "order": 4
+    },
+    {
+      "personId": 157799,
+      "character": "Rowntree",
+      "order": 5
+    },
+    {
+      "personId": 37984,
+      "character": "Denson",
+      "order": 6
+    },
+    {
+      "personId": 1040443,
+      "character": "Fortinbras",
+      "order": 7
+    },
+    {
+      "personId": 198900,
+      "character": "Barnes",
+      "order": 8
+    },
+    {
+      "personId": 82549,
+      "character": "Headmaster",
+      "order": 9
+    },
+    {
+      "personId": 25643,
+      "character": "General Denson",
+      "order": 10
+    },
+    {
+      "personId": 39024,
+      "character": "Mr. Kemp",
+      "order": 11
+    },
+    {
+      "personId": 89895,
+      "character": "Matron",
+      "order": 12
+    },
+    {
+      "personId": 97170,
+      "character": "Mrs. Kemp",
+      "order": 13
+    },
+    {
+      "personId": 153196,
+      "character": "Chaplain",
+      "order": 14
+    },
+    {
+      "personId": 140445,
+      "character": "John Thomas",
+      "order": 15
+    },
+    {
+      "personId": 10654,
+      "character": "History Master",
+      "order": 16
+    },
+    {
+      "personId": 93172,
+      "character": "Classics Master",
+      "order": 17
+    },
+    {
+      "personId": 1730638,
+      "character": "Stephens",
+      "order": 18
+    },
+    {
+      "personId": 97171,
+      "character": "Keating",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cannes": 1
+  },
+  "voteCount": 443,
+  "sources": [
+    "cult-list"
+  ]
+}

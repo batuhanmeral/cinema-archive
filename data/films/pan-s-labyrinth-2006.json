@@ -1,0 +1,219 @@
+{
+  "tmdbId": 1417,
+  "slug": "pan-s-labyrinth-2006",
+  "year": 2006,
+  "runtime": 118,
+  "originalTitle": "El laberinto del fauno",
+  "title": {
+    "en": "Pan's Labyrinth",
+    "tr": "Pan'ın Labirenti"
+  },
+  "overview": {
+    "en": "In post–civil war Spain, 10-year-old Ofelia moves with her pregnant mother to live under the control of her cruel stepfather. Drawn into a mysterious labyrinth, she meets a faun who reveals that she may be a lost princess from an underground kingdom. To return to her true father, she must complete a series of surreal and perilous tasks that blur the line between reality and fantasy.",
+    "tr": "1944 yılı İspanya'sında, sivil savaş kargaşası sona ermiş görünse de, Navarra'nın kuzeyindeki dağlık bölgelerde çatışmalar sürmektedir. Kendi hayal dünyasında yaşayan 10 yaşındaki Ofelia, hamile annesi Carmen'le birlikte, Navarra'ya, üvey babası Kaptan Vidal'in yanına gider. Kaptan Vidal, faşist yönetimin emrinde çalışan ve sınırları isyancılardan temizlemekle görevli bir memurdur. Sert mizacı ve otoriter tavrı nedeniyle üvey babasıyla en ufak bir yakınlık kuramayan Ofelia, bir gün arka bahçelerinde, esrarengiz bir labirent keşfeder. Bu labirentin içinde tanıştığı, gövdesinin yarısı insan yarısı yaratık olan Pan'la yaşayacakları, Ofelia'nın bütün yaşamını değiştirecektir."
+  },
+  "poster": {
+    "tr": "/vbumwidvLwQ3IOFVGnFRHB5aZ3c.jpg",
+    "en": "/2VVhikIxoztAXEDQZLOdtBsu6vf.jpg"
+  },
+  "backdrops": [
+    "/o0IWa75BXyXryNDVqw0xoXZzy1J.jpg",
+    "/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
+    "/pMdqCUuAhRf9mdHrLo9q54TJCGL.jpg",
+    "/kvyvkRNSzyqAwfVHm43Iat5I77k.jpg",
+    "/oXMfT5OM6HAgQ9sGANB8cs1ifCG.jpg",
+    "/34EYJKhwSjXyTCogaCaZE2L8esX.jpg",
+    "/xIhWOLB49laP0RRT28pdDG9ktWR.jpg",
+    "/9c8u5sI0pX0wYhRJHouqwcXGNac.jpg",
+    "/lgl7KjKLryoO5oB7iXCegi9pUxj.jpg",
+    "/sauw58ztsm6VbphjTbr9UzA5aJG.jpg"
+  ],
+  "trailerKey": "OBGKGm3RYos",
+  "genreIds": [
+    14,
+    18,
+    10752
+  ],
+  "keywordIds": [
+    7376,
+    6092,
+    3205,
+    836,
+    964,
+    2095,
+    5882,
+    9720,
+    14624,
+    18028,
+    18129,
+    156597,
+    177895,
+    210586,
+    241982,
+    252639,
+    267657,
+    315058,
+    325807,
+    325822
+  ],
+  "countries": [
+    "MX",
+    "ES",
+    "US"
+  ],
+  "languages": [
+    "es"
+  ],
+  "studios": [
+    "Estudios Picasso",
+    "Esperanto Filmoj",
+    "Tequila Gang"
+  ],
+  "crew": [
+    {
+      "personId": 10828,
+      "job": "director"
+    },
+    {
+      "personId": 10828,
+      "job": "producer"
+    },
+    {
+      "personId": 3113,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 16999,
+      "job": "producer"
+    },
+    {
+      "personId": 11218,
+      "job": "producer"
+    },
+    {
+      "personId": 17001,
+      "job": "producer"
+    },
+    {
+      "personId": 13230,
+      "job": "producer"
+    },
+    {
+      "personId": 17004,
+      "job": "composer"
+    },
+    {
+      "personId": 10828,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16970,
+      "character": "Ofelia",
+      "order": 0
+    },
+    {
+      "personId": 16972,
+      "character": "Capitán Vidal",
+      "order": 1
+    },
+    {
+      "personId": 16971,
+      "character": "Mercedes",
+      "order": 2
+    },
+    {
+      "personId": 17005,
+      "character": "Fauno / Pale Man",
+      "order": 3
+    },
+    {
+      "personId": 17006,
+      "character": "Carmen",
+      "order": 4
+    },
+    {
+      "personId": 3813,
+      "character": "Dr. Ferreiro",
+      "order": 5
+    },
+    {
+      "personId": 17007,
+      "character": "Pedro",
+      "order": 6
+    },
+    {
+      "personId": 592709,
+      "character": "Garcés",
+      "order": 7
+    },
+    {
+      "personId": 25219,
+      "character": "Serrano",
+      "order": 8
+    },
+    {
+      "personId": 31422,
+      "character": "El Tarta",
+      "order": 9
+    },
+    {
+      "personId": 116071,
+      "character": "Francés",
+      "order": 10
+    },
+    {
+      "personId": 106707,
+      "character": "Padre",
+      "order": 11
+    },
+    {
+      "personId": 1077942,
+      "character": "Sacerdote",
+      "order": 12
+    },
+    {
+      "personId": 1077944,
+      "character": "Alcalde",
+      "order": 13
+    },
+    {
+      "personId": 1077945,
+      "character": "Esposa del alcalde",
+      "order": 14
+    },
+    {
+      "personId": 588132,
+      "character": "Jefe de botiquín",
+      "order": 15
+    },
+    {
+      "personId": 1077947,
+      "character": "Capitán Guardia Civil",
+      "order": 16
+    },
+    {
+      "personId": 1077948,
+      "character": "Esposa del doctor",
+      "order": 17
+    },
+    {
+      "personId": 963251,
+      "character": "Conchita",
+      "order": 18
+    },
+    {
+      "personId": 1077950,
+      "character": "Jacinta",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 11867,
+  "sources": [
+    "cult-list"
+  ]
+}

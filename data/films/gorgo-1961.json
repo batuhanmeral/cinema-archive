@@ -1,0 +1,172 @@
+{
+  "tmdbId": 40804,
+  "slug": "gorgo-1961",
+  "year": 1961,
+  "runtime": 78,
+  "originalTitle": "Gorgo",
+  "title": {
+    "en": "Gorgo",
+    "tr": "Gorgo"
+  },
+  "overview": {
+    "en": "When an underwater volcanic eruption tears up the sea bed off the coast of Ireland, two treasure hunters make the discovery of a lifetime when they encounter a gigantic prehistoric monster that’s been unleashed from the earth’s crust. After capturing the beast, the pair transport the creature down to London where it’s given the name of “Gorgo” and put on display to an avid public. Little do they realize that Gorgo is just an infant, and that his exponentially larger mother is about to emerge from the depths to avenge the capture of her offspring.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/fC27POiM5HB08oDxVedPNkGAKUj.jpg",
+    "en": "/8Bs4AmPxmlwHHeGz8QAEsivsgtT.jpg"
+  },
+  "backdrops": [
+    "/fCrjcOmQ7PqFmR1HDUQWdwZh34c.jpg",
+    "/j0G85RGehOaIIKKG1fgMdLuZoUi.jpg",
+    "/tsBPENGOKLHQTDFEp86yaen9AVu.jpg",
+    "/9MCkAJ8RvKSrJtK3eKP98eCSK2B.jpg",
+    "/wxKPzXda4vvqUUay9PoR7lEdaeY.jpg",
+    "/jFe9kiOZfb0qN2hXH97S1VsKFJz.jpg",
+    "/xvfkAQ6xaVTjBtxN3Oon2hZEPhE.jpg",
+    "/buKkFLwwooJwLA2qQbHbHDM8JIF.jpg",
+    "/3m91Wcz0gyx94B6f69Hen4VRRKM.jpg",
+    "/9ibvamNVpcvdGzlIWjigMPKuB0E.jpg"
+  ],
+  "trailerKey": "B4kgZFjeSdA",
+  "genreIds": [
+    878,
+    28,
+    27
+  ],
+  "keywordIds": [
+    2041,
+    212,
+    291,
+    11100,
+    10733,
+    10789,
+    14985,
+    217040,
+    233168,
+    238057
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ga"
+  ],
+  "studios": [
+    "King Brothers Productions"
+  ],
+  "crew": [
+    {
+      "personId": 11558,
+      "job": "director"
+    },
+    {
+      "personId": 109726,
+      "job": "writer"
+    },
+    {
+      "personId": 1412947,
+      "job": "producer"
+    },
+    {
+      "personId": 233511,
+      "job": "producer"
+    },
+    {
+      "personId": 143522,
+      "job": "writer"
+    },
+    {
+      "personId": 14807,
+      "job": "composer"
+    },
+    {
+      "personId": 10079,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16898,
+      "character": "Joe Ryan",
+      "order": 0
+    },
+    {
+      "personId": 247,
+      "character": "Sam Slade",
+      "order": 1
+    },
+    {
+      "personId": 236020,
+      "character": "Sean",
+      "order": 2
+    },
+    {
+      "personId": 81010,
+      "character": "McCartin",
+      "order": 3
+    },
+    {
+      "personId": 88894,
+      "character": "Prof. Hendricks",
+      "order": 4
+    },
+    {
+      "personId": 95614,
+      "character": "Prof. Flaherty",
+      "order": 5
+    },
+    {
+      "personId": 9912,
+      "character": "Dorkin",
+      "order": 6
+    },
+    {
+      "personId": 32303,
+      "character": "Radio Reporter",
+      "order": 7
+    },
+    {
+      "personId": 106627,
+      "character": "Admiral Brooks",
+      "order": 8
+    },
+    {
+      "personId": 112977,
+      "character": "Mate",
+      "order": 9
+    },
+    {
+      "personId": 11842,
+      "character": "First Naval Officer",
+      "order": 10
+    },
+    {
+      "personId": 1230452,
+      "character": "First Colonel",
+      "order": 11
+    },
+    {
+      "personId": 79359,
+      "character": "Bosun",
+      "order": 12
+    },
+    {
+      "personId": 1412946,
+      "character": "Gorgo",
+      "order": 13
+    },
+    {
+      "personId": 29909,
+      "character": "Bulletin Announcer (Uncredited)",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 115,
+  "sources": [
+    "cult-list"
+  ]
+}

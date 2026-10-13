@@ -1,0 +1,206 @@
+{
+  "tmdbId": 11123,
+  "slug": "earthquake-1974",
+  "year": 1974,
+  "runtime": 123,
+  "originalTitle": "Earthquake",
+  "title": {
+    "en": "Earthquake",
+    "tr": "Earthquake"
+  },
+  "overview": {
+    "en": "Various interconnected people struggle to survive when an earthquake of unimaginable magnitude hits Los Angeles, California.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6hJorsInxNpj1dIekh6dK6Kh9S6.jpg",
+    "en": "/sdXxWyGPVMu5MVB43i1Ff6EEQom.jpg"
+  },
+  "backdrops": [
+    "/jA0KwNRRQWbQzxo4JQq4YkpoePp.jpg",
+    "/pAz6N6VKgOgAUKX7C4FOyBUiEvZ.jpg",
+    "/1MrwmpvYD9ntk0Lj3hsO37Zbwe2.jpg",
+    "/xdxN6PlmlssFM4MY9iiKA2OsUYJ.jpg",
+    "/vPPF44KWsL1DzAxnjvvabJUJ75O.jpg",
+    "/lUw93bQlNe9H1mUwDH5MBSmUPhp.jpg",
+    "/whdqNERqK4QStl8WqyYoRyvLVt0.jpg",
+    "/rTZEcR3r4O0G3SxVyBAFfDlKlq7.jpg",
+    "/ddgCkr8YfMsWK2CVw1SeHcvbYuW.jpg",
+    "/28gfHOiqkLf0WnEAZCMtA3IYFrm.jpg"
+  ],
+  "trailerKey": "yV88FanNJlU",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    657,
+    1545,
+    1418,
+    2301,
+    5096,
+    3521,
+    3528,
+    4530,
+    5387,
+    10656,
+    11711,
+    10617,
+    12670,
+    14601,
+    14735,
+    14796,
+    33457,
+    33699,
+    40869,
+    189411,
+    202188,
+    276354
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Universal Pictures",
+    "The Filmakers Group"
+  ],
+  "crew": [
+    {
+      "personId": 19457,
+      "job": "director"
+    },
+    {
+      "personId": 19457,
+      "job": "producer"
+    },
+    {
+      "personId": 1939,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 68279,
+      "job": "writer"
+    },
+    {
+      "personId": 3083,
+      "job": "writer"
+    },
+    {
+      "personId": 1696914,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10017,
+      "character": "Stewart Graff",
+      "order": 0
+    },
+    {
+      "personId": 25787,
+      "character": "Remy Royce-Graff",
+      "order": 1
+    },
+    {
+      "personId": 12950,
+      "character": "Sgt. Lew Slade",
+      "order": 2
+    },
+    {
+      "personId": 40181,
+      "character": "Sam Royce",
+      "order": 3
+    },
+    {
+      "personId": 35341,
+      "character": "Denise Marshall",
+      "order": 4
+    },
+    {
+      "personId": 6487,
+      "character": "Miles Quade",
+      "order": 5
+    },
+    {
+      "personId": 88163,
+      "character": "Jody",
+      "order": 6
+    },
+    {
+      "personId": 40433,
+      "character": "Dr. Willis Stockle",
+      "order": 7
+    },
+    {
+      "personId": 19411,
+      "character": "Dr. James Vance",
+      "order": 8
+    },
+    {
+      "personId": 44719,
+      "character": "Rosa Amici",
+      "order": 9
+    },
+    {
+      "personId": 6837,
+      "character": "Drunk",
+      "order": 10
+    },
+    {
+      "personId": 96348,
+      "character": "Barbara",
+      "order": 11
+    },
+    {
+      "personId": 89750,
+      "character": "Sal",
+      "order": 12
+    },
+    {
+      "personId": 7372,
+      "character": "Chavez",
+      "order": 13
+    },
+    {
+      "personId": 8633,
+      "character": "Bill Cameron",
+      "order": 14
+    },
+    {
+      "personId": 18649,
+      "character": "Los Angeles Mayor",
+      "order": 15
+    },
+    {
+      "personId": 151447,
+      "character": "Walter Russell",
+      "order": 16
+    },
+    {
+      "personId": 27113,
+      "character": "Asst. Caretaker",
+      "order": 17
+    },
+    {
+      "personId": 1497548,
+      "character": "Corry",
+      "order": 18
+    },
+    {
+      "personId": 15417,
+      "character": "Dr. Harvey Johnson",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 388,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "tmdbId": 42632,
+  "slug": "monterey-pop-1968",
+  "year": 1968,
+  "runtime": 80,
+  "originalTitle": "Monterey Pop",
+  "title": {
+    "en": "Monterey Pop",
+    "tr": "Monterey Pop"
+  },
+  "overview": {
+    "en": "Featuring performances by popular artists of the 1960s, this concert film highlights the music of the 1967 California festival. Although not all musicians who performed at the Monterey Pop Festival are on film, some of the notable acts include the Mamas and the Papas, Simon & Garfunkel, Jefferson Airplane, the Who, Otis Redding, and the Jimi Hendrix Experience. Hendrix's post-performance antics -- lighting a guitar on fire, breaking it and tossing a part into the audience -- are captured.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wEB3c5Y5spAHOQaFWcsfFky3SWb.jpg",
+    "en": "/8pIUCSKAN1n59DhA4bBTKAKmVm7.jpg"
+  },
+  "backdrops": [
+    "/qSiVTAtDU0kJd8KjHHpMfGusIMt.jpg",
+    "/tLppLfN1wsiieHWR7odOvJk37FV.jpg",
+    "/5Y5ALno0wQ5gEwUVrhIGYqOPdh9.jpg",
+    "/iY63OHnhNejno7qxOOagUatgtrd.jpg",
+    "/f9P49wGQbaF9sbm8nuq0Z0rGmw.jpg",
+    "/8LO7Xu8OsFYBT8nRIx7X5k332zf.jpg",
+    "/50TZSdlLe8whxOJl9movyjGKmb7.jpg",
+    "/ap9rLjDNY9vysmvpcFm1MaSJlt1.jpg",
+    "/mqX1deSjfO6KcFOh3fngfTx7NKZ.jpg",
+    "/nJTXkxx6aRukPWDEhheU7G90JAk.jpg"
+  ],
+  "trailerKey": "5uk0PbILVa0",
+  "genreIds": [
+    10402,
+    99
+  ],
+  "keywordIds": [
+    578,
+    156205,
+    164090,
+    185426,
+    200276
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "John Phillips-Lou Adler",
+    "Leacock-Pennebaker"
+  ],
+  "crew": [
+    {
+      "personId": 21113,
+      "job": "director"
+    },
+    {
+      "personId": 69500,
+      "job": "producer"
+    },
+    {
+      "personId": 14898,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1120049,
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "personId": 35344,
+      "character": "Self - Mamas and the Papas",
+      "order": 1
+    },
+    {
+      "personId": 214910,
+      "character": "Self - Mamas and the Papas",
+      "order": 2
+    },
+    {
+      "personId": 14898,
+      "character": "Self - Mamas and the Papas",
+      "order": 3
+    },
+    {
+      "personId": 29543,
+      "character": "Self - Mamas and the Papas",
+      "order": 4
+    },
+    {
+      "personId": 1120051,
+      "character": "Self - Canned Heat",
+      "order": 5
+    },
+    {
+      "personId": 1120052,
+      "character": "Self - Canned Heat",
+      "order": 6
+    },
+    {
+      "personId": 1120059,
+      "character": "Self - Canned Heat",
+      "order": 7
+    },
+    {
+      "personId": 1120053,
+      "character": "Self - Canned Heat",
+      "order": 8
+    },
+    {
+      "personId": 10557,
+      "character": "Self - Simon and Garfunkel",
+      "order": 9
+    },
+    {
+      "personId": 64928,
+      "character": "Self - Simon and Garfunkel",
+      "order": 10
+    },
+    {
+      "personId": 89302,
+      "character": "Self",
+      "order": 11
+    },
+    {
+      "personId": 1433,
+      "character": "Self - Jefferson Airplane",
+      "order": 12
+    },
+    {
+      "personId": 1438,
+      "character": "Self - Jefferson Airplane",
+      "order": 13
+    },
+    {
+      "personId": 1441,
+      "character": "Self - Jefferson Airplane",
+      "order": 14
+    },
+    {
+      "personId": 1445,
+      "character": "Self - Jefferson Airplane",
+      "order": 15
+    },
+    {
+      "personId": 1446,
+      "character": "Self - Jefferson Airplane",
+      "order": 16
+    },
+    {
+      "personId": 1456,
+      "character": "Self - Jefferson Airplane",
+      "order": 17
+    },
+    {
+      "personId": 1120055,
+      "character": "Self - Big Brother and The Holding Company",
+      "order": 18
+    },
+    {
+      "personId": 1120056,
+      "character": "Self - Big Brother and The Holding Company",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 102,
+  "sources": [
+    "cult-list"
+  ]
+}

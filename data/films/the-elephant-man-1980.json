@@ -1,0 +1,228 @@
+{
+  "tmdbId": 1955,
+  "slug": "the-elephant-man-1980",
+  "year": 1980,
+  "runtime": 124,
+  "originalTitle": "The Elephant Man",
+  "title": {
+    "en": "The Elephant Man",
+    "tr": "Fil Adam"
+  },
+  "overview": {
+    "en": "A Victorian surgeon rescues a heavily disfigured man being mistreated by his \"owner\" as a side-show freak. Behind his monstrous façade, there is revealed a person of great intelligence and sensitivity.",
+    "tr": "Victoria dönemi İngilteresi'nde yaşayan John Merrick, ender görülen bir hastalık yüzünden ileri derecede deforme bir bedene ve yüze sahiptir. Gezici bir kumpanyada Fil Adam takma adıyla sergilenmekte ve kafes hayvanı muamelesi gördüğü çok zor bir hayat geçirmektedir.  Dr. Frederick Treves adında genç bir cerrahın onu içine hapsolduğu korkunç hayattan kurtarmasıyla hiç alışık olmadığı güzel bir dünyaya adım atar.  Ancak acı ve korku dolu geçmişi Merrick'i bu yeni dünyada da takip edecektir."
+  },
+  "poster": {
+    "tr": "/u0wpPYjuSt8DIe1Y3Vapnh8jcKE.jpg",
+    "en": "/19Hc54ebzdvF3usVEmyn948U4Xr.jpg"
+  },
+  "backdrops": [
+    "/pNhTwyoYdXQ3rWP7DuR4merpVKV.jpg",
+    "/1dKViVeDdvcFVgVcW0mMTZGsvwY.jpg",
+    "/4lW4EFGMpER2bwVz0RFvSd6MwdS.jpg",
+    "/hKpzq3U7X1C1lqnYh0WQwlPyxO5.jpg",
+    "/8dfDnaDKLKxtpvqTQM3F4hMgvOM.jpg",
+    "/wWLkdmMry7cwB4ej4OCiungjVzB.jpg",
+    "/uqOWxhkZQOtUaxNCsEYl3E2690H.jpg",
+    "/g1T7Ufj8ZfwvvopRfPFzwc1SL4F.jpg",
+    "/6huSptAsqYg3wbsi1jbMognSgmp.jpg",
+    "/5gIXSXJQt8HZELJnXTjnkG5GQrU.jpg"
+  ],
+  "trailerKey": "kxb_1457gGs",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    6054,
+    212,
+    10685,
+    428,
+    2804,
+    5565,
+    9672,
+    10614,
+    11612,
+    12999,
+    15060,
+    154954,
+    155794,
+    158023,
+    162735,
+    163075,
+    164245,
+    169333,
+    170383,
+    170786,
+    173861,
+    174174,
+    186782,
+    188720,
+    195593,
+    202647,
+    203624,
+    207545,
+    207673,
+    207691,
+    207928,
+    208666,
+    218174,
+    238534,
+    273502,
+    280263,
+    290693,
+    305104,
+    356125,
+    365213
+  ],
+  "countries": [
+    "US",
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Brooksfilms",
+    "EMI Films"
+  ],
+  "crew": [
+    {
+      "personId": 5602,
+      "job": "director"
+    },
+    {
+      "personId": 5602,
+      "job": "writer"
+    },
+    {
+      "personId": 5629,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 719,
+      "job": "composer"
+    },
+    {
+      "personId": 15901,
+      "job": "producer"
+    },
+    {
+      "personId": 32478,
+      "job": "writer"
+    },
+    {
+      "personId": 32477,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4173,
+      "character": "Frederick Treves",
+      "order": 0
+    },
+    {
+      "personId": 5049,
+      "character": "John Merrick",
+      "order": 1
+    },
+    {
+      "personId": 10774,
+      "character": "Mrs Kendal",
+      "order": 2
+    },
+    {
+      "personId": 11857,
+      "character": "Carr Gomm",
+      "order": 3
+    },
+    {
+      "personId": 13325,
+      "character": "Mothershead",
+      "order": 4
+    },
+    {
+      "personId": 12517,
+      "character": "Bytes",
+      "order": 5
+    },
+    {
+      "personId": 1821,
+      "character": "Night Porter",
+      "order": 6
+    },
+    {
+      "personId": 159159,
+      "character": "Mrs Treves",
+      "order": 7
+    },
+    {
+      "personId": 643171,
+      "character": "Princess Alex",
+      "order": 8
+    },
+    {
+      "personId": 11282,
+      "character": "Fox",
+      "order": 9
+    },
+    {
+      "personId": 974,
+      "character": "Bytes' Boy",
+      "order": 10
+    },
+    {
+      "personId": 47864,
+      "character": "Nora",
+      "order": 11
+    },
+    {
+      "personId": 3930,
+      "character": "Merrick's Mother",
+      "order": 12
+    },
+    {
+      "personId": 1230584,
+      "character": "Fairground Bobby",
+      "order": 13
+    },
+    {
+      "personId": 692664,
+      "character": "Fat Lady",
+      "order": 14
+    },
+    {
+      "personId": 912036,
+      "character": "Skeleton Man",
+      "order": 15
+    },
+    {
+      "personId": 158278,
+      "character": "Distraught Woman",
+      "order": 16
+    },
+    {
+      "personId": 47545,
+      "character": "Alderman",
+      "order": 17
+    },
+    {
+      "personId": 2328075,
+      "character": "Fire Eater",
+      "order": 18
+    },
+    {
+      "personId": 1238976,
+      "character": "Hodges",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cesar": 1
+  },
+  "voteCount": 4108,
+  "sources": [
+    "cult-list"
+  ]
+}

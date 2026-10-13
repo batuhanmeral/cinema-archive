@@ -1,0 +1,215 @@
+{
+  "tmdbId": 524,
+  "slug": "casino-1995",
+  "year": 1995,
+  "runtime": 179,
+  "originalTitle": "Casino",
+  "title": {
+    "en": "Casino",
+    "tr": "Casino"
+  },
+  "overview": {
+    "en": "In Las Vegas, two best friends-a casino executive and a Mafia enforcer--compete for a gambling empire and a fast-living, fast-loving socialite.",
+    "tr": "Ace Rothstein, 1970'lerin Las Vegas'ında bir kumarhane işletmecisidir. İşini korumak için gereken her yola başvuran Ace, işletmesinin bol miktardaki kârının büyük kısmını patronlarıyla paylaşmaktadır. En iyi dostu Nicky Ace'in işletmenin çalışanlarına ve zaman zaman da müşterilere göz kulak olmasına yardım etmeye başlar. Ace'in amacı gelirini belli bir seviyede tutmak, patronlarla başını belaya sokmamak ve kumarhanesinin güvenilir ve sevilen bir yer olarak kalmasını sağlamaktır fakat Nicky işletmeye adımını attığı günden itibaren tüm kumar piyasasını eline geçirmeyi ve Vegas'ın kralı olmayı hayal etmektedir."
+  },
+  "poster": {
+    "tr": "/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",
+    "en": "/6zEZY1htzRos2w0W3T7o7W1WJhp.jpg"
+  },
+  "backdrops": [
+    "/pLR2O3dmA9xkCiPA26U7ErCUYSi.jpg",
+    "/73UvQRjuSr6stQUZBB7bpkPjshX.jpg",
+    "/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg",
+    "/nnarUF77DSJ3EanOac1fA0swD66.jpg",
+    "/x8uByj5cdgceegCADD1MKzf2iBY.jpg",
+    "/u0dh7MWHpJAXhpC3pkLRbu5zFVU.jpg",
+    "/xC5e5bft3QzzD5UXrdSqCvdMIWP.jpg",
+    "/ax7aBn9EMo2znOh7MqEyioRLiDL.jpg",
+    "/jtE2h4mWAp4pj74c3wMGbNpgrLF.jpg",
+    "/w9vMs1bsdEUn4b27G7FdWvCnAtj.jpg"
+  ],
+  "trailerKey": "zFUKn_75m1o",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    726,
+    585,
+    818,
+    383,
+    700,
+    395,
+    1228,
+    1812,
+    1667,
+    5332,
+    2150,
+    2635,
+    6038,
+    4232,
+    7336,
+    6974,
+    10594,
+    9826,
+    10291,
+    10391,
+    11211,
+    14570,
+    18034,
+    159156,
+    187023,
+    208289,
+    226325,
+    311315,
+    314730,
+    332598,
+    334553,
+    365950
+  ],
+  "countries": [
+    "FR",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "Syalis DA",
+    "Légende Films"
+  ],
+  "crew": [
+    {
+      "personId": 1032,
+      "job": "writer"
+    },
+    {
+      "personId": 7163,
+      "job": "writer"
+    },
+    {
+      "personId": 149,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7170,
+      "job": "producer"
+    },
+    {
+      "personId": 1032,
+      "job": "director"
+    },
+    {
+      "personId": 2612131,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 380,
+      "character": "Sam 'Ace' Rothstein",
+      "order": 0
+    },
+    {
+      "personId": 4430,
+      "character": "Ginger McKenna",
+      "order": 1
+    },
+    {
+      "personId": 4517,
+      "character": "Nicky Santoro",
+      "order": 2
+    },
+    {
+      "personId": 4512,
+      "character": "Lester Diamond",
+      "order": 3
+    },
+    {
+      "personId": 7167,
+      "character": "Billy Sherbert",
+      "order": 4
+    },
+    {
+      "personId": 7169,
+      "character": "Andy Stone",
+      "order": 5
+    },
+    {
+      "personId": 7166,
+      "character": "Phillip Green",
+      "order": 6
+    },
+    {
+      "personId": 8262,
+      "character": "Pat Webb",
+      "order": 7
+    },
+    {
+      "personId": 166789,
+      "character": "Senator",
+      "order": 8
+    },
+    {
+      "personId": 7164,
+      "character": "Frank Marino",
+      "order": 9
+    },
+    {
+      "personId": 99906,
+      "character": "Don Ward",
+      "order": 10
+    },
+    {
+      "personId": 7165,
+      "character": "Remo Gaggi",
+      "order": 11
+    },
+    {
+      "personId": 105623,
+      "character": "Jennifer Santoro",
+      "order": 12
+    },
+    {
+      "personId": 1574239,
+      "character": "John Nance",
+      "order": 13
+    },
+    {
+      "personId": 7168,
+      "character": "Artie Piscano",
+      "order": 14
+    },
+    {
+      "personId": 7424,
+      "character": "Oscar Goodman",
+      "order": 15
+    },
+    {
+      "personId": 11483,
+      "character": "Piscano's Mother",
+      "order": 16
+    },
+    {
+      "personId": 14332,
+      "character": "Dominick Santoro",
+      "order": 17
+    },
+    {
+      "personId": 7423,
+      "character": "Older Amy",
+      "order": 18
+    },
+    {
+      "personId": 22092,
+      "character": "Frankie Avalon",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 6838,
+  "sources": [
+    "cult-list"
+  ]
+}

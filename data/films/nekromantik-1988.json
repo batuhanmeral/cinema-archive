@@ -1,0 +1,184 @@
+{
+  "tmdbId": 11822,
+  "slug": "nekromantik-1988",
+  "year": 1988,
+  "runtime": 72,
+  "originalTitle": "Nekromantik",
+  "title": {
+    "en": "Nekromantik",
+    "tr": "Nekromantik"
+  },
+  "overview": {
+    "en": "An employee of Joe's Streetcleaning Agency, a company that cleans up after grisly accidents, Rob brings home an entire decomposing corpse, much to the delight of his girlfriend, Betty.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/uZZGYPcpRKg3zcdgF9Pua2pxKxI.jpg",
+    "en": "/uZZGYPcpRKg3zcdgF9Pua2pxKxI.jpg"
+  },
+  "backdrops": [
+    "/yk7p4gFa37Fza41ETkH9v6mh1wZ.jpg",
+    "/pW5qQH6nVQIp52WrOvtSLMJoonc.jpg",
+    "/7Qy0v0CE26yPpGv1w77ce0Qmb83.jpg",
+    "/itS8XYuvfLRV4zg5S9TnAasezBX.jpg",
+    "/oRHfgL7wYWrd0UO98woOTSIra4s.jpg",
+    "/qeO62pu697670E27mXDbpPFiOqr.jpg",
+    "/hdudLXd6A70qc6sCvglDfChv1RS.jpg",
+    "/15ydqDUNggtoYGdFEna4AobAIeM.jpg"
+  ],
+  "trailerKey": "nPgia_-R-jU",
+  "genreIds": [
+    18,
+    27
+  ],
+  "keywordIds": [
+    5919,
+    3190,
+    14534
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Jelinski & Buttgereit"
+  ],
+  "crew": [
+    {
+      "personId": 70602,
+      "job": "director"
+    },
+    {
+      "personId": 70604,
+      "job": "writer"
+    },
+    {
+      "personId": 70605,
+      "job": "producer"
+    },
+    {
+      "personId": 70606,
+      "job": "composer"
+    },
+    {
+      "personId": 70599,
+      "job": "composer"
+    },
+    {
+      "personId": 70607,
+      "job": "composer"
+    },
+    {
+      "personId": 70608,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 70602,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2316,
+      "character": "Betty",
+      "order": 0
+    },
+    {
+      "personId": 70600,
+      "character": "Bruno",
+      "order": 1
+    },
+    {
+      "personId": 70601,
+      "character": "Joe",
+      "order": 2
+    },
+    {
+      "personId": 1281512,
+      "character": "Man with gun",
+      "order": 3
+    },
+    {
+      "personId": 2390079,
+      "character": "Prostitute",
+      "order": 4
+    },
+    {
+      "personId": 70604,
+      "character": "Pornokiller",
+      "order": 5
+    },
+    {
+      "personId": 70599,
+      "character": "Robert Schmadtke",
+      "order": 6
+    },
+    {
+      "personId": 70602,
+      "character": "J.S.A.",
+      "order": 7
+    },
+    {
+      "personId": 21915,
+      "character": "Dead in Garden",
+      "order": 8
+    },
+    {
+      "personId": 2263409,
+      "character": "Vera",
+      "order": 9
+    },
+    {
+      "personId": 5082473,
+      "character": "Cop",
+      "order": 10
+    },
+    {
+      "personId": 2183309,
+      "character": "Woman in Dream",
+      "order": 11
+    },
+    {
+      "personId": 5082475,
+      "character": "Woman in Car",
+      "order": 12
+    },
+    {
+      "personId": 5082476,
+      "character": "Man in Car",
+      "order": 13
+    },
+    {
+      "personId": 5082478,
+      "character": "Autopsie Corpse",
+      "order": 14
+    },
+    {
+      "personId": 5082479,
+      "character": "Cemetery Guard",
+      "order": 15
+    },
+    {
+      "personId": 5082480,
+      "character": "Man in TV",
+      "order": 16
+    },
+    {
+      "personId": 3377362,
+      "character": "Slaughterer",
+      "order": 17
+    },
+    {
+      "personId": 118828,
+      "character": "TV Voice",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 342,
+  "sources": [
+    "cult-list"
+  ]
+}

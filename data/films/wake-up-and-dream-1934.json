@@ -1,0 +1,138 @@
+{
+  "tmdbId": 275646,
+  "slug": "wake-up-and-dream-1934",
+  "year": 1934,
+  "runtime": 77,
+  "originalTitle": "Wake Up and Dream",
+  "title": {
+    "en": "Wake Up and Dream",
+    "tr": "Wake Up and Dream"
+  },
+  "overview": {
+    "en": "The story of a small-time vaudeville trio and their rise to the big time.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4TdTOPMyUo9yU5bkPoJr8JZeaxw.jpg",
+    "en": "/4TdTOPMyUo9yU5bkPoJr8JZeaxw.jpg"
+  },
+  "backdrops": [
+    "/sXp5RKV3uz7pz4ALCBraIj22lvg.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    156091
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 70565,
+      "job": "director"
+    },
+    {
+      "personId": 543649,
+      "job": "producer"
+    },
+    {
+      "personId": 78833,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 138143,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1086015,
+      "character": "Paul Scotti",
+      "order": 0
+    },
+    {
+      "personId": 96609,
+      "character": "Charlie Sullivan",
+      "order": 1
+    },
+    {
+      "personId": 119256,
+      "character": "Toby Brown",
+      "order": 2
+    },
+    {
+      "personId": 102062,
+      "character": "Madame Rose",
+      "order": 3
+    },
+    {
+      "personId": 95725,
+      "character": "Giovanni Cellini",
+      "order": 4
+    },
+    {
+      "personId": 14966,
+      "character": "Joe Egbert aka Egghead",
+      "order": 5
+    },
+    {
+      "personId": 34280,
+      "character": "Earl Craft",
+      "order": 6
+    },
+    {
+      "personId": 936702,
+      "character": "Mae LaRue",
+      "order": 7
+    },
+    {
+      "personId": 2927,
+      "character": "Seabrook",
+      "order": 8
+    },
+    {
+      "personId": 19553,
+      "character": "Roger Babcock",
+      "order": 9
+    },
+    {
+      "personId": 115770,
+      "character": "Polopolis",
+      "order": 10
+    },
+    {
+      "personId": 101890,
+      "character": "Tom Romero",
+      "order": 11
+    },
+    {
+      "personId": 89102,
+      "character": "Hildebrand",
+      "order": 12
+    },
+    {
+      "personId": 29263,
+      "character": "George Spelvin",
+      "order": 13
+    },
+    {
+      "personId": 1329837,
+      "character": "John Richards",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 3,
+  "sources": [
+    "cult-list"
+  ]
+}

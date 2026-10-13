@@ -1,0 +1,183 @@
+{
+  "tmdbId": 47489,
+  "slug": "the-moon-in-the-gutter-1983",
+  "year": 1983,
+  "runtime": 138,
+  "originalTitle": "La Lune dans le caniveau",
+  "title": {
+    "en": "The Moon in the Gutter",
+    "tr": "La Lune dans le caniveau"
+  },
+  "overview": {
+    "en": "A dockworker seeking revenge on the killer of his sister finds himself the object of desire for two women.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dYNC5c8IdzzVKs2pIkMlm6tj2OG.jpg",
+    "en": "/dYW98D0zMCZEsrqf5N6djR1zLPb.jpg"
+  },
+  "backdrops": [
+    "/AebCnhxpSPLqakzvWBvwwQkBDLD.jpg",
+    "/2WqMetQLXKlbP9w9H9FeMzIDcZr.jpg",
+    "/pn02ablMgFJHQIPDcQzssqsr7oY.jpg",
+    "/o1KMg6ewJ0czjQx1r2wmzCGZcGP.jpg",
+    "/4PifjQXJ1Xr7hJWjc7guqHgc6Qh.jpg",
+    "/4tvWxApXj4QalX4T19TAy7ZowEQ.jpg",
+    "/qHNZzi8g0W8CvG6n1AQVMV9mkGU.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    53,
+    80
+  ],
+  "keywordIds": [
+    570,
+    155845
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Gaumont",
+    "S.F.P.C.",
+    "TF1 Films Production"
+  ],
+  "crew": [
+    {
+      "personId": 37451,
+      "job": "director"
+    },
+    {
+      "personId": 37451,
+      "job": "writer"
+    },
+    {
+      "personId": 129001,
+      "job": "writer"
+    },
+    {
+      "personId": 1301,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5488,
+      "job": "composer"
+    },
+    {
+      "personId": 20203,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16927,
+      "character": "Gérard Delmas, docker haunted by his sister's suicide",
+      "order": 0
+    },
+    {
+      "personId": 2630,
+      "character": "Loretta Channing, uptown Girl",
+      "order": 1
+    },
+    {
+      "personId": 25256,
+      "character": "Bella, Gérard's possessive mistress",
+      "order": 2
+    },
+    {
+      "personId": 980203,
+      "character": "Lola",
+      "order": 3
+    },
+    {
+      "personId": 2140851,
+      "character": "Tom",
+      "order": 4
+    },
+    {
+      "personId": 2413,
+      "character": "Frank, Gérard's alcoholic brother",
+      "order": 5
+    },
+    {
+      "personId": 44104,
+      "character": "Frieda, aging prostitute",
+      "order": 6
+    },
+    {
+      "personId": 23734,
+      "character": "Newton Channing, Loretta's drifting brother",
+      "order": 7
+    },
+    {
+      "personId": 28606,
+      "character": "Dora",
+      "order": 8
+    },
+    {
+      "personId": 23984,
+      "character": "Jésus",
+      "order": 9
+    },
+    {
+      "personId": 43192,
+      "character": "Catherine",
+      "order": 10
+    },
+    {
+      "personId": 5688,
+      "character": "Guardian of the cathedral",
+      "order": 11
+    },
+    {
+      "personId": 12273,
+      "character": "Narrator (voice)",
+      "order": 12
+    },
+    {
+      "personId": 6784,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1131479,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 2062261,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 47797,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 994274,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 70168,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 2287128,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 58,
+  "sources": [
+    "cult-list"
+  ]
+}

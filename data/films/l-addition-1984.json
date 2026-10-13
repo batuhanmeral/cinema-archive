@@ -1,0 +1,138 @@
+{
+  "tmdbId": 225977,
+  "slug": "l-addition-1984",
+  "year": 1984,
+  "runtime": 85,
+  "originalTitle": "L'Addition",
+  "title": {
+    "en": "L'Addition",
+    "tr": "L'Addition"
+  },
+  "overview": {
+    "en": "For having wanted to defend a young girl accused of theft, a comedian finds himself in prison. Embarked in spite of himself in an escape attempt, he is condemned by a particularly incompetent court which follows without thinking the pleadings of an overzealous public prosecutor! Once incarcerated, the poor comedian has to deal with the harassment of one of the guards, a kind of dangerous sociopath frustrated with life.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dAp3pc1EXViY57Ypf2a9b68Qt7l.jpg",
+    "en": "/dAp3pc1EXViY57Ypf2a9b68Qt7l.jpg"
+  },
+  "backdrops": [
+    "/x9UwODEQYhSaSu9kGkzUrqtIAuy.jpg",
+    "/x0CPdvnRIeFllmll1o1Qxyj6KpM.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Swanie Productions",
+    "TF1 Films Production",
+    "UGC Films"
+  ],
+  "crew": [
+    {
+      "personId": 1207803,
+      "job": "director"
+    },
+    {
+      "personId": 1373358,
+      "job": "producer"
+    },
+    {
+      "personId": 1207803,
+      "job": "writer"
+    },
+    {
+      "personId": 45618,
+      "job": "writer"
+    },
+    {
+      "personId": 37187,
+      "job": "composer"
+    },
+    {
+      "personId": 2596,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 35896,
+      "character": "Bruno Vinclert",
+      "order": 0
+    },
+    {
+      "personId": 1977,
+      "character": "Lorca",
+      "order": 1
+    },
+    {
+      "personId": 25256,
+      "character": "Patty",
+      "order": 2
+    },
+    {
+      "personId": 70427,
+      "character": "Jose",
+      "order": 3
+    },
+    {
+      "personId": 26371,
+      "character": "Prison Director",
+      "order": 4
+    },
+    {
+      "personId": 1064481,
+      "character": "Minet",
+      "order": 5
+    },
+    {
+      "personId": 22212,
+      "character": "Constantini",
+      "order": 6
+    },
+    {
+      "personId": 1108088,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1543580,
+      "character": "Bok",
+      "order": 8
+    },
+    {
+      "personId": 40304,
+      "character": "Crampon",
+      "order": 9
+    },
+    {
+      "personId": 5443,
+      "character": "Magnum",
+      "order": 10
+    },
+    {
+      "personId": 1366656,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1531879,
+      "character": "",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 24,
+  "sources": [
+    "cult-list"
+  ]
+}

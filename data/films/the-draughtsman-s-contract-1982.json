@@ -1,0 +1,185 @@
+{
+  "tmdbId": 10831,
+  "slug": "the-draughtsman-s-contract-1982",
+  "year": 1982,
+  "runtime": 108,
+  "originalTitle": "The Draughtsman's Contract",
+  "title": {
+    "en": "The Draughtsman's Contract",
+    "tr": "Ressamın Kontratı"
+  },
+  "overview": {
+    "en": "R. Neville, a brash young draftsman, is hired to make a dozen landscape illustrations at the estate of Mr Herbert and his wife Virginia. Aside from monetary compensation, the arrangement includes a sexual liaison offered to Neville by Virginia while her estranged husband is away. But when the murdered body of Mr Herbert is discovered at the estate, mysterious clues found in Neville's drawings point to the identity of the killer.",
+    "tr": "Aristokrat bir kadın, eşinin mülkünün resimlerini yapması için bir ressamla anlaşır. Anlaşmaya para, yemek ve kalacak yerin yanı sıra cinsel oyunlar da dahildir. Entrikaların içinde çekilen ressamın çizimleri, bir cinayetin sırrını gizlemektedir."
+  },
+  "poster": {
+    "tr": "/ljeTWR2kowGXijMc8LMuy72ULM3.jpg",
+    "en": "/ljeTWR2kowGXijMc8LMuy72ULM3.jpg"
+  },
+  "backdrops": [
+    "/6cfgXv2jEDTwTNlJyrkgEtPzxqz.jpg",
+    "/4cExyNONv6JNlOuBH1qcUvIyd8O.jpg",
+    "/msusQKLwl0CqoAc8Txlr0X4ZCe3.jpg",
+    "/1HvreNCmPs4606utmHugRYhS5uz.jpg",
+    "/mVOEgxyrvwkxEUh331ANvkxw1el.jpg",
+    "/mHZOP4qDIMYFf7YOhLXjrM87HGW.jpg",
+    "/zE2qBJXXZntHwOo1C0V4GszHHty.jpg",
+    "/6YacFrEpdmvsWXbQ76E0Atvphdw.jpg",
+    "/AatVXRKLSC5vLWULZHmBao01SVZ.jpg",
+    "/lkwZ0SbM28VRpqRoqwyKwusJxUG.jpg"
+  ],
+  "trailerKey": "CmCMumlxfX0",
+  "genreIds": [
+    36,
+    9648,
+    35
+  ],
+  "keywordIds": [
+    596,
+    6023,
+    9002,
+    9003,
+    207941
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "nl",
+    "en",
+    "de"
+  ],
+  "studios": [
+    "BFI",
+    "Channel Four Films"
+  ],
+  "crew": [
+    {
+      "personId": 67029,
+      "job": "producer"
+    },
+    {
+      "personId": 47855,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30309,
+      "job": "director"
+    },
+    {
+      "personId": 30309,
+      "job": "writer"
+    },
+    {
+      "personId": 10759,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 660,
+      "character": "Mr. Neville",
+      "order": 0
+    },
+    {
+      "personId": 67026,
+      "character": "Virginia Herbert",
+      "order": 1
+    },
+    {
+      "personId": 20246,
+      "character": "Herbert",
+      "order": 2
+    },
+    {
+      "personId": 1962516,
+      "character": "Philip - Mr. Neville's assistant (as Alastair Cummings)",
+      "order": 3
+    },
+    {
+      "personId": 67027,
+      "character": "Sarah Talmann",
+      "order": 4
+    },
+    {
+      "personId": 67028,
+      "character": "Mr. Talmann",
+      "order": 5
+    },
+    {
+      "personId": 230924,
+      "character": "Thomas Noyes",
+      "order": 6
+    },
+    {
+      "personId": 10511,
+      "character": "Poulenc Brother",
+      "order": 7
+    },
+    {
+      "personId": 10512,
+      "character": "Poulenc Brother",
+      "order": 8
+    },
+    {
+      "personId": 947789,
+      "character": "Mr Parkes",
+      "order": 9
+    },
+    {
+      "personId": 94348,
+      "character": "Mrs Pierpont",
+      "order": 10
+    },
+    {
+      "personId": 126873,
+      "character": "Mrs Clement",
+      "order": 11
+    },
+    {
+      "personId": 26259,
+      "character": "The Statue",
+      "order": 12
+    },
+    {
+      "personId": 21431,
+      "character": "Seymour",
+      "order": 13
+    },
+    {
+      "personId": 135110,
+      "character": "Hoyten",
+      "order": 14
+    },
+    {
+      "personId": 3667301,
+      "character": "Augustus",
+      "order": 15
+    },
+    {
+      "personId": 2556600,
+      "character": "Governess",
+      "order": 16
+    },
+    {
+      "personId": 3053187,
+      "character": "Maid",
+      "order": 17
+    },
+    {
+      "personId": 1910681,
+      "character": "Mr. Porringer",
+      "order": 18
+    },
+    {
+      "personId": 5569,
+      "character": "Laundress",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 276,
+  "sources": [
+    "cult-list"
+  ]
+}

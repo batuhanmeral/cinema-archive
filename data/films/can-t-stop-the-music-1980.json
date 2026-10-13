@@ -1,0 +1,194 @@
+{
+  "tmdbId": 40932,
+  "slug": "can-t-stop-the-music-1980",
+  "year": 1980,
+  "runtime": 124,
+  "originalTitle": "Can't Stop the Music",
+  "title": {
+    "en": "Can't Stop the Music",
+    "tr": "Can't Stop the Music"
+  },
+  "overview": {
+    "en": "A loose biography of seminal disco hit-makers The Village People and their composer Jacques Morali.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/j4Qu0WPS04bYOLwV3d9vSSsvYQb.jpg",
+    "en": "/7VqtSzDOR9DARPhOoqzHDGR598R.jpg"
+  },
+  "backdrops": [
+    "/cGIKqJnM984ZKI8Xjej267wloa3.jpg",
+    "/agwgMDkkXg8Ab0kliv0sddDNPl3.jpg",
+    "/4EIsjuXkFrcVtPfZ8dykVoE7C9d.jpg",
+    "/egqDYNWVKPrEciXb21aq8qW7nds.jpg",
+    "/hmfg6bZHPwxNhVKxa0wHsjmDfTa.jpg",
+    "/1ND6priGdog9YE1Y8tf0Qo5nYUP.jpg",
+    "/kcXB5PGQAvPvMCeDuocO5C5ruCV.jpg",
+    "/dlOxD8qn9AkRBmqlpFfI4nab01P.jpg",
+    "/b4Gsy2PRVToEpfLuh0UHEh6uRe5.jpg",
+    "/kuL8QuUOc1uNQ95MdMVxHq2ANHo.jpg"
+  ],
+  "trailerKey": "fU21LKlfrmA",
+  "genreIds": [
+    35,
+    10402
+  ],
+  "keywordIds": [
+    11663,
+    155490,
+    187056,
+    209940
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "EMI Films",
+    "Allan Carr Production"
+  ],
+  "crew": [
+    {
+      "personId": 1182329,
+      "job": "producer"
+    },
+    {
+      "personId": 1329042,
+      "job": "producer"
+    },
+    {
+      "personId": 8878,
+      "job": "producer"
+    },
+    {
+      "personId": 47503,
+      "job": "director"
+    },
+    {
+      "personId": 8877,
+      "job": "writer"
+    },
+    {
+      "personId": 8878,
+      "job": "writer"
+    },
+    {
+      "personId": 1329042,
+      "job": "composer"
+    },
+    {
+      "personId": 2287,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1047312,
+      "character": "Village People: G.I.",
+      "order": 0
+    },
+    {
+      "personId": 1047313,
+      "character": "Village People: Construction Worker",
+      "order": 1
+    },
+    {
+      "personId": 1047314,
+      "character": "Village People: Leatherman",
+      "order": 2
+    },
+    {
+      "personId": 1047315,
+      "character": "Village People: Cowboy",
+      "order": 3
+    },
+    {
+      "personId": 1047316,
+      "character": "Village People: Indian",
+      "order": 4
+    },
+    {
+      "personId": 1047317,
+      "character": "Village People: Policeman",
+      "order": 5
+    },
+    {
+      "personId": 26483,
+      "character": "Samantha Simpson",
+      "order": 6
+    },
+    {
+      "personId": 181465,
+      "character": "Ron White",
+      "order": 7
+    },
+    {
+      "personId": 26472,
+      "character": "Jack Morell",
+      "order": 8
+    },
+    {
+      "personId": 78416,
+      "character": "Steve Waits",
+      "order": 9
+    },
+    {
+      "personId": 63998,
+      "character": "Sydney Channing",
+      "order": 10
+    },
+    {
+      "personId": 41255,
+      "character": "Helen Morell",
+      "order": 11
+    },
+    {
+      "personId": 74542,
+      "character": "Norma White",
+      "order": 12
+    },
+    {
+      "personId": 106055,
+      "character": "Alicia Edwards",
+      "order": 13
+    },
+    {
+      "personId": 60142,
+      "character": "Lulu Brecht",
+      "order": 14
+    },
+    {
+      "personId": 162331,
+      "character": "Richard Montgomery",
+      "order": 15
+    },
+    {
+      "personId": 726,
+      "character": "Benny Murray",
+      "order": 16
+    },
+    {
+      "personId": 71240,
+      "character": "Claudia Walters",
+      "order": 17
+    },
+    {
+      "personId": 1706148,
+      "character": "Record Store Manager",
+      "order": 18
+    },
+    {
+      "personId": 157254,
+      "character": "Breadwoman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 73,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "tmdbId": 115131,
+  "slug": "mary-mary-bloody-mary-1975",
+  "year": 1975,
+  "runtime": 101,
+  "originalTitle": "Mary, Mary, Bloody Mary",
+  "title": {
+    "en": "Mary, Mary, Bloody Mary",
+    "tr": "Mary, Mary, Bloody Mary"
+  },
+  "overview": {
+    "en": "Mexican horror film about an American painter named Mary who is living in Mexico where she sells her works and also kills people for their blood. It turns out Mary is a vampire but not the traditional one with fangs. Since she has no fangs she must stab or slash the throats of her victims but soon she has a new man in her life as well as a mysterious man in black who appears to be doing the same type of murders.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4X5FWWbGzgnRaEs4gAlzTmAGv6D.jpg",
+    "en": "/1VdasJQUzEZre9ZphNA0atprBN3.jpg"
+  },
+  "backdrops": [
+    "/9gvr4TG4krFaDK1TD1M0mHvDQVl.jpg"
+  ],
+  "trailerKey": "671NnI6v-ew",
+  "genreIds": [
+    18,
+    27,
+    9648
+  ],
+  "keywordIds": [
+    534,
+    3133,
+    437
+  ],
+  "countries": [
+    "MX",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Translor Films",
+    "Cinema Management Inc.",
+    "Proa"
+  ],
+  "crew": [
+    {
+      "personId": 1045533,
+      "job": "director"
+    },
+    {
+      "personId": 68132,
+      "job": "writer"
+    },
+    {
+      "personId": 1060548,
+      "job": "producer"
+    },
+    {
+      "personId": 1060549,
+      "job": "producer"
+    },
+    {
+      "personId": 21513,
+      "job": "composer"
+    },
+    {
+      "personId": 139580,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 983861,
+      "character": "Mary",
+      "order": 0
+    },
+    {
+      "personId": 168783,
+      "character": "Ben Ryder",
+      "order": 1
+    },
+    {
+      "personId": 8516,
+      "character": "The Man",
+      "order": 2
+    },
+    {
+      "personId": 20546,
+      "character": "Greta",
+      "order": 3
+    },
+    {
+      "personId": 1059550,
+      "character": "Cosgrove",
+      "order": 4
+    },
+    {
+      "personId": 19448,
+      "character": "Lieutenant Pons",
+      "order": 5
+    },
+    {
+      "personId": 1039105,
+      "character": "Girl",
+      "order": 6
+    },
+    {
+      "personId": 590020,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 975097,
+      "character": "Doctor",
+      "order": 8
+    },
+    {
+      "personId": 31882,
+      "character": "Arnold",
+      "order": 9
+    },
+    {
+      "personId": 78006,
+      "character": "Howard Miller",
+      "order": 10
+    },
+    {
+      "personId": 1423524,
+      "character": "Morgue Attendant",
+      "order": 11
+    },
+    {
+      "personId": 1900759,
+      "character": "Gravedigger",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 29,
+  "sources": [
+    "cult-list"
+  ]
+}

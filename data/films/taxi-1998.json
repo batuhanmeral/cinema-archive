@@ -1,0 +1,198 @@
+{
+  "tmdbId": 2330,
+  "slug": "taxi-1998",
+  "year": 1998,
+  "runtime": 86,
+  "originalTitle": "Taxi",
+  "title": {
+    "en": "Taxi",
+    "tr": "Taksi"
+  },
+  "overview": {
+    "en": "In Marseilles a skilled pizza delivery boy Daniel who drives a scooter finally has his dreams come true. He gets a taxi license. Caught by the police for a huge speed infraction, he will help Emilien, a loser inspector who can't drive, on the track of German bank robbers, so he doesn't lose his license and his dream job.",
+    "tr": "Hız tutkunu olan Daniel, pizza dağıtıcılığını bırakarak bir takside şoför olarak çalışmaya başlar. Kullandığı arabanın güçlü motoru ve hızı sayesinde polis radarlarına bile yakalanmaması Daniel i haddinden fazla heyecanlandırmaktadır.Fakat Her şey polis memuru Emilien ile tanışınca farklı bir hal alır. Ehliyet sınavında başarılı olamayan Emilien, DAniel den bazı suçluları yakalaması için yardım ister. Aksi taktirde arabası elinden alınacaktır. Daniel bir anda kendini maceraların içinde bulur."
+  },
+  "poster": {
+    "tr": "/egBxj3ude84theXc3cLbBHrWOkQ.jpg",
+    "en": "/egBxj3ude84theXc3cLbBHrWOkQ.jpg"
+  },
+  "backdrops": [
+    "/oAGPEYdXgTVmfBUbrhbFaXPIBvN.jpg",
+    "/nmGgqRzbb0OHJloknzlorUzUVQo.jpg",
+    "/u9xtjq0oUTWNaYpPPesPPAUt1Y4.jpg",
+    "/8a8QjNv3Ziqc2tGjRmq34VEqMjq.jpg",
+    "/hNQ0siDjv9o0vY1WSq9qWqyD4GA.jpg",
+    "/qJxiGwHdIXRY9tkTUPxrP0JpWiE.jpg",
+    "/fyOfQ2ao4P7mdmcnowhNKNUUiKn.jpg",
+    "/crlEM7lo8pM3la77zKpoXafEz1e.jpg",
+    "/g9NtzPdCsdyrmbPKy5mzD9fTNI9.jpg",
+    "/in54O5pAqYT7Q4iZfRqCLUEEiGG.jpg"
+  ],
+  "trailerKey": "qYBNjVnbtFg",
+  "genreIds": [
+    28,
+    35,
+    80,
+    12
+  ],
+  "keywordIds": [
+    444,
+    1749,
+    916,
+    5983,
+    3330,
+    15090,
+    15363
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "pt",
+    "fr",
+    "de",
+    "ko"
+  ],
+  "studios": [
+    "EuropaCorp",
+    "ARP Sélection",
+    "TF1 Films Production"
+  ],
+  "crew": [
+    {
+      "personId": 59,
+      "job": "writer"
+    },
+    {
+      "personId": 23945,
+      "job": "director"
+    },
+    {
+      "personId": 59,
+      "job": "producer"
+    },
+    {
+      "personId": 4896,
+      "job": "producer"
+    },
+    {
+      "personId": 4897,
+      "job": "producer"
+    },
+    {
+      "personId": 23977,
+      "job": "composer"
+    },
+    {
+      "personId": 23980,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20666,
+      "character": "Daniel Morales",
+      "order": 0
+    },
+    {
+      "personId": 23943,
+      "character": "Émilien Coutant-Kerbalec",
+      "order": 1
+    },
+    {
+      "personId": 8293,
+      "character": "Lilly Bertineau",
+      "order": 2
+    },
+    {
+      "personId": 23983,
+      "character": "Camille Coutant-Kerbalec",
+      "order": 3
+    },
+    {
+      "personId": 23944,
+      "character": "Petra",
+      "order": 4
+    },
+    {
+      "personId": 23984,
+      "character": "Commissaire Gibert",
+      "order": 5
+    },
+    {
+      "personId": 23985,
+      "character": "Joe",
+      "order": 6
+    },
+    {
+      "personId": 554588,
+      "character": "Pizza Joe Motorcyclist",
+      "order": 7
+    },
+    {
+      "personId": 554589,
+      "character": "Pensioned Taxi Driver",
+      "order": 8
+    },
+    {
+      "personId": 554590,
+      "character": "Femme Préfecture",
+      "order": 9
+    },
+    {
+      "personId": 554591,
+      "character": "Paulo",
+      "order": 10
+    },
+    {
+      "personId": 554592,
+      "character": "Driving Instructor",
+      "order": 11
+    },
+    {
+      "personId": 554593,
+      "character": "Butcher",
+      "order": 12
+    },
+    {
+      "personId": 550110,
+      "character": "Passenger to Airport",
+      "order": 13
+    },
+    {
+      "personId": 554594,
+      "character": "Flic Radar #1",
+      "order": 14
+    },
+    {
+      "personId": 1540294,
+      "character": "Flic Radar #2",
+      "order": 15
+    },
+    {
+      "personId": 5441,
+      "character": "Alain",
+      "order": 16
+    },
+    {
+      "personId": 25343,
+      "character": "Collègue Emilien",
+      "order": 17
+    },
+    {
+      "personId": 1376844,
+      "character": "Pilote Ringard #1",
+      "order": 18
+    },
+    {
+      "personId": 1376842,
+      "character": "Pilote Ringard #2",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2851,
+  "sources": [
+    "cult-list"
+  ]
+}

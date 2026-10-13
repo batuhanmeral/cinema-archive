@@ -1,0 +1,165 @@
+{
+  "tmdbId": 26860,
+  "slug": "white-zombie-1932",
+  "year": 1932,
+  "runtime": 67,
+  "originalTitle": "White Zombie",
+  "title": {
+    "en": "White Zombie",
+    "tr": "Zombi - Yasayan Ölüler"
+  },
+  "overview": {
+    "en": "A wealthy landowner living in Haiti convinces a sorcerer to lure the woman he has fallen for away from her fiancé. The madman later betrays their agreement by keeping the woman for himself…as a zombie.",
+    "tr": "İsminden bile tehlike saçan Murder Legendre, Haiti’de bir zombi ustasıdır. Bay Beaumont, Legendre’dan aşık olduğu Madeleine’i kandırıp onun nişanlısından uzaklaşmasını ister. Ancak Legendre onu zombi bir köleye dönüştürür."
+  },
+  "poster": {
+    "tr": "/s5DnfWHGeCExlweIFF4JOHKyx3H.jpg",
+    "en": "/s5DnfWHGeCExlweIFF4JOHKyx3H.jpg"
+  },
+  "backdrops": [
+    "/9tcIzvTfIYkoxjLiTcaXdMwfzT6.jpg",
+    "/wX17Hu8yXrYbjp6RRPHdtA2zXuz.jpg",
+    "/y4PwqKQj7dfP0HSRBHIdOlMceYq.jpg",
+    "/yTAY4Re0imuVsfGgLqGUYZxYsDU.jpg",
+    "/jaSLPuhe7usY3MlIYRYGLN5xvz6.jpg",
+    "/fT0Q5XjFnH09JYtHJozB5g4jGoM.jpg",
+    "/5HYyexC2Hlu3u3SRgY69ar3AoK5.jpg",
+    "/yJ7lgk062R69bAiYzH8op6QSjDD.jpg",
+    "/21eNoIlc76Nc940vA2un5AaJZlI.jpg",
+    "/pmhYd4543XRvgctZWiBxoQybY9s.jpg"
+  ],
+  "trailerKey": "Qzum68zgBl4",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    3392,
+    3136,
+    5518,
+    12377,
+    12999,
+    156578,
+    156764,
+    191345,
+    209118,
+    210162,
+    239353,
+    252690,
+    281237,
+    293016,
+    312469
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Victor & Edward Halperin Productions"
+  ],
+  "crew": [
+    {
+      "personId": 90064,
+      "job": "director"
+    },
+    {
+      "personId": 90065,
+      "job": "producer"
+    },
+    {
+      "personId": 1047646,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 99337,
+      "job": "producer"
+    },
+    {
+      "personId": 1955349,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1547,
+      "character": "Legendre",
+      "order": 0
+    },
+    {
+      "personId": 96470,
+      "character": "Madeleine Short Parker",
+      "order": 1
+    },
+    {
+      "personId": 43845,
+      "character": "Neil Parker",
+      "order": 2
+    },
+    {
+      "personId": 96471,
+      "character": "Charles Beaumont",
+      "order": 3
+    },
+    {
+      "personId": 34758,
+      "character": "Dr. Bruner",
+      "order": 4
+    },
+    {
+      "personId": 1082382,
+      "character": "Chauvin, a zombie",
+      "order": 5
+    },
+    {
+      "personId": 1047647,
+      "character": "Von Gelder, a zombie",
+      "order": 6
+    },
+    {
+      "personId": 29580,
+      "character": "Silver",
+      "order": 7
+    },
+    {
+      "personId": 87825,
+      "character": "Coach Driver",
+      "order": 8
+    },
+    {
+      "personId": 1268925,
+      "character": "Pierre, the friendly witch doctor",
+      "order": 9
+    },
+    {
+      "personId": 1288214,
+      "character": "Ledot, a zombie",
+      "order": 10
+    },
+    {
+      "personId": 3960480,
+      "character": "Zombie",
+      "order": 11
+    },
+    {
+      "personId": 1955370,
+      "character": "Zombie",
+      "order": 12
+    },
+    {
+      "personId": 1288213,
+      "character": "Maid",
+      "order": 13
+    },
+    {
+      "personId": 1955374,
+      "character": "Maid",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 294,
+  "sources": [
+    "cult-list"
+  ]
+}

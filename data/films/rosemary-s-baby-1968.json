@@ -1,0 +1,215 @@
+{
+  "tmdbId": 805,
+  "slug": "rosemary-s-baby-1968",
+  "year": 1968,
+  "runtime": 138,
+  "originalTitle": "Rosemary's Baby",
+  "title": {
+    "en": "Rosemary's Baby",
+    "tr": "Rosemary'nin Bebeği"
+  },
+  "overview": {
+    "en": "A young couple, Rosemary and Guy, moves into an infamous New York apartment building, known by frightening legends and mysterious events, with the purpose of starting a family.",
+    "tr": "Genç bir çift, Rosemary ve tanınmak için çırpınıp duran bir aktör olan kocası Guy, New York'taki kötü şöhretli eski bir binaya taşınırlar.Rosemary yeni yaşantısından tedirgindir. Komşu evlerden tuhaf seslerin geldiği bir ortamda, bir gece rüyasında şeytansı bir varlık tarafından tecavüze uğradığı görür. Ardından hamile kalır. Bu arada Broadway'de güzel bir rol kapan Guy'un kariyeri yükselmeye başlar."
+  },
+  "poster": {
+    "tr": "/kKvQ0pyMnJweWVz2Pwbyeivq5Zk.jpg",
+    "en": "/s8pdaHjxNPLXIA1WjSTWm00RJTz.jpg"
+  },
+  "backdrops": [
+    "/1FiUOiDDzsGnoGZdbhq80Nb3n8S.jpg",
+    "/sDNpacyIpSL8YRNkVR4qOmteXBX.jpg",
+    "/3lS8Ev8qaQcwUNbUsPYAYnUN9vg.jpg",
+    "/5HjgJdvzj0yO7VHasi39HchZI21.jpg",
+    "/31mhlSiuuvZlidIO3UUeLzwhQjW.jpg",
+    "/uC0UYhL6MUWgA6axL8Za7oqoTTa.jpg",
+    "/sd8UeAahns9ZwxI7WlSa90iUxqd.jpg",
+    "/qszuXKhzYR24oRpsmh7eZaPbvL8.jpg",
+    "/4ILk2YBFRtwc7hj9eOH5pNystiU.jpg",
+    "/hE5KpQDUtT0uIJBeO4HUNKLpqeB.jpg"
+  ],
+  "trailerKey": "pwLKIcB0zDw",
+  "genreIds": [
+    18,
+    27,
+    53
+  ],
+  "keywordIds": [
+    242,
+    1157,
+    818,
+    3099,
+    10410,
+    11044,
+    18127,
+    156174,
+    158988,
+    161261,
+    161270,
+    161534,
+    162806,
+    163055,
+    163957,
+    168346,
+    172382,
+    183133,
+    183896,
+    190073,
+    201456,
+    238192,
+    267689,
+    286239,
+    295907,
+    311444,
+    325825,
+    339151,
+    339153,
+    339154
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "William Castle Productions",
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 3556,
+      "job": "director"
+    },
+    {
+      "personId": 12013,
+      "job": "composer"
+    },
+    {
+      "personId": 12011,
+      "job": "producer"
+    },
+    {
+      "personId": 3556,
+      "job": "writer"
+    },
+    {
+      "personId": 12846,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12288,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12021,
+      "character": "Rosemary Woodhouse",
+      "order": 0
+    },
+    {
+      "personId": 11147,
+      "character": "Guy Woodhouse",
+      "order": 1
+    },
+    {
+      "personId": 4970,
+      "character": "Minnie Castevet",
+      "order": 2
+    },
+    {
+      "personId": 12022,
+      "character": "Roman Castevet",
+      "order": 3
+    },
+    {
+      "personId": 12023,
+      "character": "Hutch",
+      "order": 4
+    },
+    {
+      "personId": 1208,
+      "character": "Dr. Sapirstein",
+      "order": 5
+    },
+    {
+      "personId": 12024,
+      "character": "Terry",
+      "order": 6
+    },
+    {
+      "personId": 12025,
+      "character": "Laura-Louise",
+      "order": 7
+    },
+    {
+      "personId": 3339,
+      "character": "Mr. Nicklas",
+      "order": 8
+    },
+    {
+      "personId": 12026,
+      "character": "Elise Dunstan",
+      "order": 9
+    },
+    {
+      "personId": 28164,
+      "character": "Dr. Hill",
+      "order": 10
+    },
+    {
+      "personId": 91197,
+      "character": "Grace Cardiff",
+      "order": 11
+    },
+    {
+      "personId": 3433,
+      "character": "Dr. Shand",
+      "order": 12
+    },
+    {
+      "personId": 109086,
+      "character": "Diego",
+      "order": 13
+    },
+    {
+      "personId": 85838,
+      "character": "Mrs. Gilmore",
+      "order": 14
+    },
+    {
+      "personId": 12027,
+      "character": "Rosemary's Girl Friend",
+      "order": 15
+    },
+    {
+      "personId": 103457,
+      "character": "Rosemary's Girl Friend",
+      "order": 16
+    },
+    {
+      "personId": 12011,
+      "character": "Phone Booth Man (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 3150,
+      "character": "Donald Baumgart (voice) (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 105090,
+      "character": "The Devil (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1,
+    "golden-globe": 1
+  },
+  "voteCount": 4556,
+  "sources": [
+    "cult-list"
+  ]
+}

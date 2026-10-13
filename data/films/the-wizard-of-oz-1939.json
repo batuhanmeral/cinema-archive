@@ -1,0 +1,220 @@
+{
+  "tmdbId": 630,
+  "slug": "the-wizard-of-oz-1939",
+  "year": 1939,
+  "runtime": 102,
+  "originalTitle": "The Wizard of Oz",
+  "title": {
+    "en": "The Wizard of Oz",
+    "tr": "Oz Büyücüsü"
+  },
+  "overview": {
+    "en": "Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.",
+    "tr": "Halası ve amcasıyla çiftliklerinde mutlu bir yaşantısı olan Dorothy, sevimli köpeği Toto komşusu tarafından elinden alınmak istenince evden kaçar. Pişman olup geri dönmeye çalıştığı sırada bir hortuma yakalanır ve kendisini Oz'un renkli dünyasında bulur. Üzerine düştüğü ev, Doğu'nun Kötü Cadısı'na aittir. Onu öldüren Dorothy, birden bire Oz'un en ünlü şahsiyeti haline gelir. Kardeşini öldüren Dorothy'den intikam almak isteyen Batı'nın Kötü Cadısı, genç kızın peşine düşer. Cadıdan kaçan Dorothy, Oz Büyücüsü'nün yardımını istemek için onun yaşadığı Zümrüt Şehri'ne gider.Dorothy, yolda 3 yeni arkadaş edinir. Kalpsiz Teneke Adam, beyinsiz Korkuluk ve korkak Aslan, uzun yolculuklarında Dorothy'e yardım eder ve onu korurlar. Yolculuğu başarıyla atlatmaları, kahramanlarımızın dileklerinin olmasını sağlayacaktır."
+  },
+  "poster": {
+    "tr": "/lo2JL1tAPGqHBAS53zyKuEq9wtQ.jpg",
+    "en": "/pfAZFD7I2hxW9HCChTuAzsdE6UX.jpg"
+  },
+  "backdrops": [
+    "/nRsr98MFztBGm532hCVMGXV6qOp.jpg",
+    "/qCU097AXMPAsmpVK4j9kzMTxt2d.jpg",
+    "/qAvou7F5P4VcIR72JzzrnKEQSN3.jpg",
+    "/g1OvTd1eF346vmx8qsJnjaiooZ6.jpg",
+    "/zL4gtCeoPZkAFCKR0kNERpUiuPR.jpg",
+    "/zUvwVdoqCCkZTsV3o0h7pgHpOWm.jpg",
+    "/yaiCNd5XfvSKgMgUs4PxuGAg6nV.jpg",
+    "/jcKzv99gZKHbyCIRtjxkfezbAxB.jpg",
+    "/6fRIunIQEC52wTImp2rIAdL0b2H.jpg",
+    "/t6m2F4wp0rOX6bMqp24lfgDpX7s.jpg"
+  ],
+  "trailerKey": "b_A2twyZevo",
+  "genreIds": [
+    12,
+    14,
+    10751
+  ],
+  "keywordIds": [
+    616,
+    704,
+    1566,
+    818,
+    1308,
+    2043,
+    2213,
+    2214,
+    3151,
+    3289,
+    4344,
+    7658,
+    11409,
+    13001,
+    15149,
+    166726,
+    170362,
+    177912,
+    206008,
+    207372,
+    238526,
+    246466,
+    249813,
+    281585,
+    324713,
+    325761,
+    325778,
+    325813,
+    364135
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 9053,
+      "job": "writer"
+    },
+    {
+      "personId": 1505,
+      "job": "writer"
+    },
+    {
+      "personId": 9054,
+      "job": "producer"
+    },
+    {
+      "personId": 9052,
+      "job": "writer"
+    },
+    {
+      "personId": 9049,
+      "job": "director"
+    },
+    {
+      "personId": 9057,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9049,
+      "job": "producer"
+    },
+    {
+      "personId": 9056,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9066,
+      "character": "Dorothy",
+      "order": 0
+    },
+    {
+      "personId": 9068,
+      "character": "Scarecrow / Hunk",
+      "order": 1
+    },
+    {
+      "personId": 9070,
+      "character": "Tin Man / Hickory",
+      "order": 2
+    },
+    {
+      "personId": 9069,
+      "character": "Cowardly Lion / Zeke",
+      "order": 3
+    },
+    {
+      "personId": 9067,
+      "character": "Oz / Professor Marvel",
+      "order": 4
+    },
+    {
+      "personId": 9072,
+      "character": "The Wicked Witch of the West / Miss Gulch",
+      "order": 5
+    },
+    {
+      "personId": 9071,
+      "character": "Glinda",
+      "order": 6
+    },
+    {
+      "personId": 9073,
+      "character": "Auntie Em",
+      "order": 7
+    },
+    {
+      "personId": 8517,
+      "character": "Uncle Henry",
+      "order": 8
+    },
+    {
+      "personId": 1318970,
+      "character": "Nikko",
+      "order": 9
+    },
+    {
+      "personId": 1179846,
+      "character": "Toto",
+      "order": 10
+    },
+    {
+      "personId": 5460,
+      "character": "Juliet (voice) (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1511,
+      "character": "Lollipop Guild Member (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 127193,
+      "character": "Lollipop Guild Member (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1935,
+      "character": "Tin Man (singing voice) (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1468767,
+      "character": "Munchkin (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 31771,
+      "character": "Mayor / Lollipop Guild Member (voice) (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 5462,
+      "character": "Munchkins (voice) (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 9074,
+      "character": "Munchkin Mayor (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 13558,
+      "character": "Captain of the Winkie Guard (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 6350,
+  "sources": [
+    "cult-list"
+  ]
+}

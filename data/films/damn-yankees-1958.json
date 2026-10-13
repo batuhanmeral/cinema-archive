@@ -1,0 +1,143 @@
+{
+  "tmdbId": 41253,
+  "slug": "damn-yankees-1958",
+  "year": 1958,
+  "runtime": 111,
+  "originalTitle": "Damn Yankees",
+  "title": {
+    "en": "Damn Yankees",
+    "tr": "Damn Yankees"
+  },
+  "overview": {
+    "en": "Film adaptation of the George Abbott Broadway musical about a Washington Senators fan who makes a pact with the Devil to help his baseball team win the league pennant.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/iSw0Fb4pdXDqm9Bl8iqsSwfn5u7.jpg",
+    "en": "/oM0eP6DDdyAZadYHjleMtAYdFWh.jpg"
+  },
+  "backdrops": [
+    "/xeWMYA2iHmoDlAvu3CJpIShidv0.jpg",
+    "/jfGgCSFMUlf8DklzUkpz1GfieHA.jpg",
+    "/pUhFtcBfKWnKcPKEWjV1CxAZ9fE.jpg",
+    "/m03tLU2A93EKPrXdu2kIDXNbYTS.jpg",
+    "/R8XQkfeaP7epzDErAgRB4rU1jl.jpg",
+    "/putj2DrO0YR2as35BqIkABUV2Rq.jpg"
+  ],
+  "trailerKey": "eQVoU9lPjoU",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    1480,
+    9016,
+    14999
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 2004,
+      "job": "director"
+    },
+    {
+      "personId": 13284,
+      "job": "director"
+    },
+    {
+      "personId": 2004,
+      "job": "writer"
+    },
+    {
+      "personId": 40461,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2525104,
+      "job": "composer"
+    },
+    {
+      "personId": 2525105,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 76519,
+      "character": "Joe Hardy",
+      "order": 0
+    },
+    {
+      "personId": 54122,
+      "character": "Lola",
+      "order": 1
+    },
+    {
+      "personId": 4093,
+      "character": "Mr. Applegate",
+      "order": 2
+    },
+    {
+      "personId": 866,
+      "character": "Benny Van Buren",
+      "order": 3
+    },
+    {
+      "personId": 1059595,
+      "character": "Mrs. Meg Boyd",
+      "order": 4
+    },
+    {
+      "personId": 1055417,
+      "character": "Smokey",
+      "order": 5
+    },
+    {
+      "personId": 16008,
+      "character": "Rocky",
+      "order": 6
+    },
+    {
+      "personId": 170348,
+      "character": "Gloria Thorpe",
+      "order": 7
+    },
+    {
+      "personId": 1059596,
+      "character": "Joe Boyd",
+      "order": 8
+    },
+    {
+      "personId": 28933,
+      "character": "Sister Miller",
+      "order": 9
+    },
+    {
+      "personId": 66777,
+      "character": "Mambo Dancer (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 1598135,
+      "character": "Baseball Game Spectator (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 2727938,
+      "character": "Baseball Player",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 45,
+  "sources": [
+    "cult-list"
+  ]
+}

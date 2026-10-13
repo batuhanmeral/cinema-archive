@@ -1,0 +1,208 @@
+{
+  "tmdbId": 387,
+  "slug": "das-boot-1981",
+  "year": 1981,
+  "runtime": 150,
+  "originalTitle": "Das Boot",
+  "title": {
+    "en": "Das Boot",
+    "tr": "Mukaddes Vazife"
+  },
+  "overview": {
+    "en": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+    "tr": "1979 yılında çekilmiş 1981 yılında vizyona giren, İkinci Dünya Savaşı'nda U-96 adlı tip 7 sınıfı Alman U bot mürettebatını konu alan film. Savaşta Alman denizcilerin hayatlarını, içinde bulundukları psikolojik durumları görsel bir anlatış biçimiyle dile getirmektedir. İkinci Dünya Savaşı'nda görev yapan U-96 tipi bir Alman denizaltısı Atlas Okyanusu'ndaki normal devriye görevine çıkar. Gemide görevli personel haricinde bir subay da denizaltında yaşananları kaydetmek için sefere katılır. Gemi normal seyrinde iken okyanusta detroyer koruması olmadan seyreden 5 gemilik bir filoyla karşılaşır. Kaptan biraz tereddütden sonra saldırı emri verir."
+  },
+  "poster": {
+    "tr": "/hNfAYNCMRthp9iruF5Q6S1z4bVA.jpg",
+    "en": "/fSI5yoee0mBxwNyCvf8m3B5tFMu.jpg"
+  },
+  "backdrops": [
+    "/zzzhbZnSPMOON9uGt0LsdUJWYoC.jpg",
+    "/fLSxvhIlkJOibOqcvLlCzhg06o5.jpg",
+    "/wsRysp1DpjRdJv8D3eN4lEsGju9.jpg",
+    "/8e3KkmBQKtO7CrneinuqBz6uKn2.jpg",
+    "/tRI6Csmw4rKzMYDrfUx5xtyBSVE.jpg",
+    "/bgxTZoTF6jgoBGxKax1AovMPYIF.jpg",
+    "/i6BeUc45ltrmR7NObgzNDziREz3.jpg",
+    "/zGgIlpKE2xP18bhCGsnn79vh80j.jpg",
+    "/k6mhnJ3pVDqiqrdz6f4Cjxd5rqZ.jpg",
+    "/mpmQMDpSbuowRzoUWNeb9wlF8aD.jpg"
+  ],
+  "trailerKey": "r37MmBuFoc0",
+  "genreIds": [
+    18,
+    36,
+    10752
+  ],
+  "keywordIds": [
+    818,
+    339,
+    5299,
+    1913,
+    1915,
+    1956,
+    4263,
+    12993,
+    15111,
+    41599,
+    155499,
+    180178,
+    195862,
+    226475,
+    230436,
+    348145
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Radiant Film",
+    "Bavaria Film"
+  ],
+  "crew": [
+    {
+      "personId": 5231,
+      "job": "director"
+    },
+    {
+      "personId": 5231,
+      "job": "writer"
+    },
+    {
+      "personId": 14776,
+      "job": "writer"
+    },
+    {
+      "personId": 5238,
+      "job": "producer"
+    },
+    {
+      "personId": 5239,
+      "job": "producer"
+    },
+    {
+      "personId": 5240,
+      "job": "composer"
+    },
+    {
+      "personId": 5241,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 985769,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 920,
+      "character": "Lieutenant 'Der Alte'",
+      "order": 0
+    },
+    {
+      "personId": 5228,
+      "character": "Leutnant Werner",
+      "order": 1
+    },
+    {
+      "personId": 5229,
+      "character": "Chef Ingenieur",
+      "order": 2
+    },
+    {
+      "personId": 5230,
+      "character": "First Watch Officer",
+      "order": 3
+    },
+    {
+      "personId": 4924,
+      "character": "Second Watch Officer",
+      "order": 4
+    },
+    {
+      "personId": 2349,
+      "character": "Kriechbaum",
+      "order": 5
+    },
+    {
+      "personId": 3970,
+      "character": "Johann 'Das Gespenst'",
+      "order": 6
+    },
+    {
+      "personId": 5232,
+      "character": "Ullmann",
+      "order": 7
+    },
+    {
+      "personId": 5233,
+      "character": "Hinrich",
+      "order": 8
+    },
+    {
+      "personId": 682,
+      "character": "Chief Bosun",
+      "order": 9
+    },
+    {
+      "personId": 5234,
+      "character": "Ario",
+      "order": 10
+    },
+    {
+      "personId": 5235,
+      "character": "Pilgrim",
+      "order": 11
+    },
+    {
+      "personId": 574349,
+      "character": "Monique",
+      "order": 12
+    },
+    {
+      "personId": 4922,
+      "character": "Frenssen",
+      "order": 13
+    },
+    {
+      "personId": 39325,
+      "character": "Preacher",
+      "order": 14
+    },
+    {
+      "personId": 28114,
+      "character": "Schwalle",
+      "order": 15
+    },
+    {
+      "personId": 1136687,
+      "character": "Bockstiegel",
+      "order": 16
+    },
+    {
+      "personId": 1649330,
+      "character": "Dufte",
+      "order": 17
+    },
+    {
+      "personId": 2664999,
+      "character": "Brückenwilli",
+      "order": 18
+    },
+    {
+      "personId": 2311,
+      "character": "Phillip Thomsen",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2687,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "tmdbId": 16938,
+  "slug": "black-christmas-1974",
+  "year": 1974,
+  "runtime": 98,
+  "originalTitle": "Black Christmas",
+  "title": {
+    "en": "Black Christmas",
+    "tr": "Black Christmas"
+  },
+  "overview": {
+    "en": "As the residents of the Pi Kappa Sigma sorority house prepare for the festive season, a stranger begins to harass them with a series of obscene phone calls.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ym0QcbrKNujzDyAU1IHGYUdRWub.jpg",
+    "en": "/vBof7r0eQlEJHosYncGXg893d63.jpg"
+  },
+  "backdrops": [
+    "/7nxNnR9yftqVUoFvBdfr2akgu2A.jpg",
+    "/anbC7HVlLo9JffDkRykjwQqEIQc.jpg",
+    "/s46nIyQQtZZPI8kw7A71Iuauk57.jpg",
+    "/vkOQQ0zPTWzosHrcYcEhRJ17Uer.jpg",
+    "/jqZk2x0NG4dVGJFnR6Mzk8jDhjO.jpg",
+    "/6AgvFYFsw7SZsmdCuFFvS46nj06.jpg",
+    "/kgFJV4hu2YWQJj2vLMkixUTGc0L.jpg",
+    "/qlgVqlexX4iKxysIMygUqGa561m.jpg",
+    "/aui81WeXKrzUaTvdYZc36ITCKaD.jpg",
+    "/6scogJm6EcrPclNCxNkTrKWCTQA.jpg"
+  ],
+  "trailerKey": "qxeHd1qIxpM",
+  "genreIds": [
+    27,
+    9648,
+    80
+  ],
+  "keywordIds": [
+    1442,
+    3725,
+    4227,
+    9826,
+    10714,
+    12339,
+    15090,
+    15127,
+    33457,
+    155619,
+    162810,
+    178649,
+    186466,
+    194236,
+    197430,
+    207299,
+    207317,
+    208729,
+    235810,
+    316832,
+    321464,
+    323756
+  ],
+  "countries": [
+    "CA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "August Films",
+    "Film Funding Ltd. of Canada",
+    "Vision IV"
+  ],
+  "crew": [
+    {
+      "personId": 12702,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12698,
+      "job": "producer"
+    },
+    {
+      "personId": 58405,
+      "job": "writer"
+    },
+    {
+      "personId": 12698,
+      "job": "director"
+    },
+    {
+      "personId": 12701,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24695,
+      "character": "Jess",
+      "order": 0
+    },
+    {
+      "personId": 245,
+      "character": "Peter",
+      "order": 1
+    },
+    {
+      "personId": 20011,
+      "character": "Barb",
+      "order": 2
+    },
+    {
+      "personId": 11163,
+      "character": "Lt. Fuller",
+      "order": 3
+    },
+    {
+      "personId": 81055,
+      "character": "Mrs. Mac",
+      "order": 4
+    },
+    {
+      "personId": 8263,
+      "character": "Phyl",
+      "order": 5
+    },
+    {
+      "personId": 81056,
+      "character": "Mr. Harrison",
+      "order": 6
+    },
+    {
+      "personId": 62033,
+      "character": "Sargeant Nash",
+      "order": 7
+    },
+    {
+      "personId": 41256,
+      "character": "Chris",
+      "order": 8
+    },
+    {
+      "personId": 34917,
+      "character": "Clare",
+      "order": 9
+    },
+    {
+      "personId": 1803238,
+      "character": "Patrick",
+      "order": 10
+    },
+    {
+      "personId": 12716,
+      "character": "Graham",
+      "order": 11
+    },
+    {
+      "personId": 81058,
+      "character": "Mrs. Quaife",
+      "order": 12
+    },
+    {
+      "personId": 81059,
+      "character": "Laughing Detective",
+      "order": 13
+    },
+    {
+      "personId": 81060,
+      "character": "Doctor",
+      "order": 14
+    },
+    {
+      "personId": 184054,
+      "character": "Farmer",
+      "order": 15
+    },
+    {
+      "personId": 126565,
+      "character": "Search Party",
+      "order": 16
+    },
+    {
+      "personId": 563094,
+      "character": "Search Party",
+      "order": 17
+    },
+    {
+      "personId": 939916,
+      "character": "Woman",
+      "order": 18
+    },
+    {
+      "personId": 1724909,
+      "character": "Jean",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1004,
+  "sources": [
+    "cult-list"
+  ]
+}

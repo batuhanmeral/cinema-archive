@@ -1,0 +1,184 @@
+{
+  "tmdbId": 92312,
+  "slug": "django-the-bastard-1969",
+  "year": 1969,
+  "runtime": 99,
+  "originalTitle": "Django il bastardo",
+  "title": {
+    "en": "Django the Bastard",
+    "tr": "Django il bastardo"
+  },
+  "overview": {
+    "en": "A Confederate soldier returns from the dead to take revenge on three officers who betrayed his unit in battle.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gtzylsOLaSkMGZDBiFb5PGbrT9A.jpg",
+    "en": "/gtzylsOLaSkMGZDBiFb5PGbrT9A.jpg"
+  },
+  "backdrops": [
+    "/eUtvsWC2Vj7hFvnvkxdavTdTzjM.jpg",
+    "/suFrahnRbaDbafhCg7Qh8hPZPXl.jpg",
+    "/dMYCiKUUWlZOXCtpSKwUiRd4dm3.jpg",
+    "/iWiRFKo6VAJnncXjJmfmsaS46bo.jpg",
+    "/gX6Ki5g45kPlRintdJYz3RlU0Mw.jpg",
+    "/wgw5C85NwR8Oqibc0LyJ0HRP8So.jpg",
+    "/my9kdHt4x4e7H84xPfQtH9nO66i.jpg"
+  ],
+  "trailerKey": "qGyy4wFzXaY",
+  "genreIds": [
+    37,
+    27
+  ],
+  "keywordIds": [
+    9748,
+    156212,
+    160324,
+    162846
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [],
+  "studios": [
+    "Società Europea Produzioni Associate Cinematografiche",
+    "Tigielle 33"
+  ],
+  "crew": [
+    {
+      "personId": 107276,
+      "job": "director"
+    },
+    {
+      "personId": 29396,
+      "job": "writer"
+    },
+    {
+      "personId": 107276,
+      "job": "writer"
+    },
+    {
+      "personId": 224439,
+      "job": "producer"
+    },
+    {
+      "personId": 1082659,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1120165,
+      "job": "composer"
+    },
+    {
+      "personId": 1127101,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29396,
+      "character": "Django",
+      "order": 0
+    },
+    {
+      "personId": 1019917,
+      "character": "Major Rod Murdok",
+      "order": 1
+    },
+    {
+      "personId": 43240,
+      "character": "Hugh / Jack Murdok",
+      "order": 2
+    },
+    {
+      "personId": 99481,
+      "character": "Williams",
+      "order": 3
+    },
+    {
+      "personId": 1019918,
+      "character": "Howard Ross",
+      "order": 4
+    },
+    {
+      "personId": 1019919,
+      "character": "Brett",
+      "order": 5
+    },
+    {
+      "personId": 1759217,
+      "character": "Sam Hawkens",
+      "order": 6
+    },
+    {
+      "personId": 147000,
+      "character": "Rowland",
+      "order": 7
+    },
+    {
+      "personId": 1127638,
+      "character": "Whore",
+      "order": 8
+    },
+    {
+      "personId": 1759218,
+      "character": "Howard's wife",
+      "order": 9
+    },
+    {
+      "personId": 5815,
+      "character": "Alethea / Alida Murdok",
+      "order": 10
+    },
+    {
+      "personId": 120027,
+      "character": "Rowland Gang Member",
+      "order": 11
+    },
+    {
+      "personId": 1127105,
+      "character": "Hawkins Henchman",
+      "order": 12
+    },
+    {
+      "personId": 1496299,
+      "character": "Murdok Henchman",
+      "order": 13
+    },
+    {
+      "personId": 144612,
+      "character": "Murdok Henchman",
+      "order": 14
+    },
+    {
+      "personId": 1140892,
+      "character": "Hawkens Henchman",
+      "order": 15
+    },
+    {
+      "personId": 1049841,
+      "character": "Storekeeper",
+      "order": 16
+    },
+    {
+      "personId": 119370,
+      "character": "Shotgun",
+      "order": 17
+    },
+    {
+      "personId": 33811,
+      "character": "Murdok Henchman Playing with Dynamite",
+      "order": 18
+    },
+    {
+      "personId": 1465385,
+      "character": "Spectator at Duel",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 43,
+  "sources": [
+    "cult-list"
+  ]
+}

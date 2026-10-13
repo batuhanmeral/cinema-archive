@@ -1,0 +1,194 @@
+{
+  "tmdbId": 105184,
+  "slug": "the-fan-1982",
+  "year": 1982,
+  "runtime": 92,
+  "originalTitle": "Der Fan",
+  "title": {
+    "en": "The Fan",
+    "tr": "Der Fan"
+  },
+  "overview": {
+    "en": "The hero-worship that Simone has for a pop singer is built to a crescendo until she passes out when she finally sees him up-close in a crowd of fans. She is later shocked when he lets her know that he does not love her.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/igLYepYwgDtA4jqUN3LWsnRddv4.jpg",
+    "en": "/igLYepYwgDtA4jqUN3LWsnRddv4.jpg"
+  },
+  "backdrops": [
+    "/8MTk7ErYPf7huu4Caxg3GdEucMF.jpg",
+    "/49MSz5gaNvQyvDtOaDor6CF3RVR.jpg",
+    "/8DkckpKbB5PHg8gY9cOhGJvv83s.jpg",
+    "/ebfdRMy37jpdu6n7p2Jdd3ljWt9.jpg",
+    "/hgqqMhdp3ewxvyA6p6ICOEoDacG.jpg",
+    "/60s4xf6OHPKlrGgbUYFxlJBhjao.jpg",
+    "/6moH3dlLfTcF8pC5yIz2ZriCYU2.jpg",
+    "/aIhIWX8AUrtfegEdrotgMMiCTSq.jpg",
+    "/hmqUXzLelNs41KWQXKReUNmi6fo.jpg",
+    "/eOxJ2vWN3fkf0jPUPXE16kncz6M.jpg"
+  ],
+  "trailerKey": "jXtuqdAb05A",
+  "genreIds": [
+    18,
+    27
+  ],
+  "keywordIds": [
+    3490,
+    1523,
+    2032,
+    9826,
+    10809,
+    14895,
+    18062,
+    18087,
+    163726,
+    170268,
+    173295,
+    195365,
+    209889,
+    384590
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Barbara Moorse Workshop"
+  ],
+  "crew": [
+    {
+      "personId": 584480,
+      "job": "director"
+    },
+    {
+      "personId": 584480,
+      "job": "writer"
+    },
+    {
+      "personId": 3219589,
+      "job": "composer"
+    },
+    {
+      "personId": 17080,
+      "job": "producer"
+    },
+    {
+      "personId": 2100634,
+      "job": "producer"
+    },
+    {
+      "personId": 32637,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 22210,
+      "character": "Simone",
+      "order": 0
+    },
+    {
+      "personId": 1037680,
+      "character": "R",
+      "order": 1
+    },
+    {
+      "personId": 71228,
+      "character": "Secretary",
+      "order": 2
+    },
+    {
+      "personId": 1037681,
+      "character": "Father",
+      "order": 3
+    },
+    {
+      "personId": 1037683,
+      "character": "Mother",
+      "order": 4
+    },
+    {
+      "personId": 123242,
+      "character": "Postman",
+      "order": 5
+    },
+    {
+      "personId": 2831231,
+      "character": "Boy",
+      "order": 6
+    },
+    {
+      "personId": 1037685,
+      "character": "Man with Dog",
+      "order": 7
+    },
+    {
+      "personId": 1819558,
+      "character": "B",
+      "order": 8
+    },
+    {
+      "personId": 5545074,
+      "character": "Girl",
+      "order": 9
+    },
+    {
+      "personId": 2831233,
+      "character": "Manager",
+      "order": 10
+    },
+    {
+      "personId": 1526785,
+      "character": "Promotion Man",
+      "order": 11
+    },
+    {
+      "personId": 1722160,
+      "character": "Popper",
+      "order": 12
+    },
+    {
+      "personId": 5545076,
+      "character": "Girl",
+      "order": 13
+    },
+    {
+      "personId": 16818,
+      "character": "Joachim Fuchsberger",
+      "order": 14
+    },
+    {
+      "personId": 5545078,
+      "character": "Joan Orleans",
+      "order": 15
+    },
+    {
+      "personId": 386292,
+      "character": "Christian Simon",
+      "order": 16
+    },
+    {
+      "personId": 1037686,
+      "character": "Thomas Fuchsberger",
+      "order": 17
+    },
+    {
+      "personId": 559095,
+      "character": "Nude Bather (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1279403,
+      "character": "Nude Bather (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 79,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "tmdbId": 10728,
+  "slug": "faust-1926",
+  "year": 1926,
+  "runtime": 106,
+  "originalTitle": "Faust - Eine deutsche Volkssage",
+  "title": {
+    "en": "Faust",
+    "tr": "Faust – Bir Alman Halk Hikayesi"
+  },
+  "overview": {
+    "en": "Murnau’s epic adaptation of Goethe’s tragedy stands with Fritz Lang’s Metropolis among the supreme achievements of German silent cinema. Gösta Ekman plays the alchemist who, his faith shaken in a time of plague, is offered the gift of healing and eternal youth… in exchange for his soul.",
+    "tr": "Tanrı'nın varlığını ve hayatın anlamını sorgulamakta olan Faust gerçeği aramaya karar verir ve bu yolculuğu esnasında arzularına yenik düşmeye başlar. Mephisto ise Faust'a gençlik ve dirilik olan gerçekliği vaat etmektedir. Faust, kanıyla bu gençlik anlaşmasını imzaladığında şeytanın yüzü Mephisto'nun laneti tarafından kuşatılmaya başlayacaktır. Biçimsel özellikleriyle Alman Ekspresyonizmi'nin sinema tarihine yön veren filmleri arasında yer alan Faust, kuşkusuz hala tecrübe edilmesi gereken seyir deneyimlerinin başında gelmektedir."
+  },
+  "poster": {
+    "tr": "/zkust2QoUkWHhJHmbXr8y9Qc1lZ.jpg",
+    "en": "/wyNaVKCoMHwoZWhPJn8ZUdz2N0a.jpg"
+  },
+  "backdrops": [
+    "/xbTxvQ9dC7ci2tXM4EVj1qPufsY.jpg",
+    "/85VLs4p3PfYN9WmFktBeP85orqr.jpg",
+    "/gr4pUSBIoIfaXpCW67GIxxvKWo5.jpg",
+    "/dQbnFqsbtyHS7OD108vuFJiUyzy.jpg",
+    "/vBOKLF3nhdaKRiCvmdoIUTikG2X.jpg",
+    "/cXaeibNoCLMcHgAJnBcPa0q7OLr.jpg",
+    "/lj4g6zt8oSE9YU9zO1zpolmluDW.jpg",
+    "/pIjCk5CauYUWMhTSjXVvJXufTuE.jpg",
+    "/dZVClPC3YM8uyRvdRVQ9TXOK0p.jpg",
+    "/lmelmFThEKuuMoff5VgXuoURIUm.jpg"
+  ],
+  "trailerKey": "Luuw4yTTtRU",
+  "genreIds": [
+    14,
+    18,
+    27
+  ],
+  "keywordIds": [
+    818,
+    4957,
+    5810,
+    8353,
+    9840,
+    9377,
+    9673,
+    34079,
+    154802,
+    185343,
+    188959,
+    244516
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "UFA",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 9076,
+      "job": "director"
+    },
+    {
+      "personId": 48050,
+      "job": "writer"
+    },
+    {
+      "personId": 2500,
+      "job": "composer"
+    },
+    {
+      "personId": 28982,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 67,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 578532,
+      "character": "Faust",
+      "order": 0
+    },
+    {
+      "personId": 2895,
+      "character": "Mephisto",
+      "order": 1
+    },
+    {
+      "personId": 48938,
+      "character": "Gretchen Marguerite",
+      "order": 2
+    },
+    {
+      "personId": 48062,
+      "character": "Gretchens's Mother",
+      "order": 3
+    },
+    {
+      "personId": 49214,
+      "character": "Valentin",
+      "order": 4
+    },
+    {
+      "personId": 46842,
+      "character": "Erzengel",
+      "order": 5
+    },
+    {
+      "personId": 143354,
+      "character": "Marthe Schwerdtlein",
+      "order": 6
+    },
+    {
+      "personId": 590619,
+      "character": "Duke of Parma",
+      "order": 7
+    },
+    {
+      "personId": 1093537,
+      "character": "Duchess of Parma",
+      "order": 8
+    },
+    {
+      "personId": 591493,
+      "character": "Farmboy (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 29182,
+      "character": "Friar (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 46501,
+      "character": "(uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 14858,
+      "character": "(uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 48222,
+      "character": "(uncredited)",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 426,
+  "sources": [
+    "cult-list"
+  ]
+}

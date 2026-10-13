@@ -1,0 +1,203 @@
+{
+  "tmdbId": 14811,
+  "slug": "fiddler-on-the-roof-1971",
+  "year": 1971,
+  "runtime": 181,
+  "originalTitle": "Fiddler on the Roof",
+  "title": {
+    "en": "Fiddler on the Roof",
+    "tr": "Damdaki Kemancı"
+  },
+  "overview": {
+    "en": "In a pre-revolutionary Russia, a poor Jewish milkman struggles with the challenges of a changing world as his daughters fall in love and antisemitism grows.",
+    "tr": "1907 de Sholom Aleichem tarafindan yazilmis olan \"Tevye ve Kızları\" adli kitabın 1964'te broadway de sahnelenen muzikalinin adı. Rusya'da kucuk bi yahudi kasabasinda yasayan sütçü Tevye'nin ailesinin geleneklerini korumak istemesini ve değişen dünyaya ayak uyduramamasını anlatır. Büyük kızı kendi sectiği zengin kasap yerine fakir bi terziyle evlenmek istemektedir. Tevye iki arada bi derede kalır ve olaylar gelişir..."
+  },
+  "poster": {
+    "tr": "/KrJ5wYraYCzdrMOqTppxZeUggz.jpg",
+    "en": "/v65PHx7Q6Jx0anyNeUOX07SJic9.jpg"
+  },
+  "backdrops": [
+    "/gsido7KdJux4nBpTaEF1zcqEqOK.jpg",
+    "/4nQOHKYRwPhAXqYACxVY6bMKbu8.jpg",
+    "/rqnOgJWvlURkcOWfGqiACvkTAqG.jpg",
+    "/siMISPLDSM5JHNXDkkPcHRTr4eZ.jpg",
+    "/n7On3wk2LVwtZYo3YgW9DAekS2F.jpg",
+    "/8tw2BtoMssYUgI8wypalcno5MW5.jpg",
+    "/8oCmMYABdqdtAWfNSeypr7SnmyK.jpg",
+    "/rvgXrIPXH9AAqo9cdnV8YDtFsZ4.jpg",
+    "/ejI35dDzKWyzyLRjBAvoprzogtW.jpg",
+    "/n1pItGYLcgAh7c0ewjWeXKTjXFT.jpg"
+  ],
+  "trailerKey": "2EIHYqVFguw",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    1566,
+    970,
+    941,
+    4344,
+    10181,
+    7329,
+    11701,
+    11703,
+    11704,
+    11705,
+    11706,
+    11707,
+    11687,
+    11709,
+    164460,
+    188684,
+    236170
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "he",
+    "en",
+    "ru"
+  ],
+  "studios": [
+    "United Artists",
+    "Cartier Productions",
+    "The Mirisch Company"
+  ],
+  "crew": [
+    {
+      "personId": 955413,
+      "job": "writer"
+    },
+    {
+      "personId": 13563,
+      "job": "director"
+    },
+    {
+      "personId": 10339,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 13563,
+      "job": "producer"
+    },
+    {
+      "personId": 1318751,
+      "job": "composer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10501,
+      "character": "Tevye",
+      "order": 0
+    },
+    {
+      "personId": 129550,
+      "character": "Golde",
+      "order": 1
+    },
+    {
+      "personId": 112253,
+      "character": "Motel",
+      "order": 2
+    },
+    {
+      "personId": 129551,
+      "character": "Yente",
+      "order": 3
+    },
+    {
+      "personId": 1075028,
+      "character": "Lazar Wolf",
+      "order": 4
+    },
+    {
+      "personId": 975522,
+      "character": "Tzeitel",
+      "order": 5
+    },
+    {
+      "personId": 161806,
+      "character": "Hodel",
+      "order": 6
+    },
+    {
+      "personId": 163645,
+      "character": "Chava",
+      "order": 7
+    },
+    {
+      "personId": 12988,
+      "character": "Perchik",
+      "order": 8
+    },
+    {
+      "personId": 105337,
+      "character": "Fyedka",
+      "order": 9
+    },
+    {
+      "personId": 258715,
+      "character": "Shprintze",
+      "order": 10
+    },
+    {
+      "personId": 948428,
+      "character": "Bielke",
+      "order": 11
+    },
+    {
+      "personId": 81975,
+      "character": "Mordcha",
+      "order": 12
+    },
+    {
+      "personId": 974329,
+      "character": "Rabbi",
+      "order": 13
+    },
+    {
+      "personId": 73210,
+      "character": "Constable",
+      "order": 14
+    },
+    {
+      "personId": 949253,
+      "character": "Avram",
+      "order": 15
+    },
+    {
+      "personId": 30676,
+      "character": "Nachum",
+      "order": 16
+    },
+    {
+      "personId": 72742,
+      "character": "Mendel",
+      "order": 17
+    },
+    {
+      "personId": 649,
+      "character": "Russian Official",
+      "order": 18
+    },
+    {
+      "personId": 185830,
+      "character": "Fruma Sarah",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 684,
+  "sources": [
+    "cult-list"
+  ]
+}

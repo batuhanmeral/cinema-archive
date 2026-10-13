@@ -1,0 +1,194 @@
+{
+  "tmdbId": 3537,
+  "slug": "fame-1980",
+  "year": 1980,
+  "runtime": 134,
+  "originalTitle": "Fame",
+  "title": {
+    "en": "Fame",
+    "tr": "Şöhret"
+  },
+  "overview": {
+    "en": "A chronicle of the lives of several teenagers who attend a New York high school for students gifted in the performing arts.",
+    "tr": "Günde yedi ders ve ateşli bir öğle arası. Genç ve hevesli müzisyen, oyuncu, dansçı adayları ve onlara hayalini kurdukları şöhretin kapılarını açmayı garanti eden New York Güzel Sanatlar Akademisi Altı Dalda Akademi Ödülüne aday gösterilen ve En İyi Beste ve En İyi Şarkı dallarında Oskar kazanan bu film kaçırılmaması gereken görsel bir şölen."
+  },
+  "poster": {
+    "tr": "/ewuGn4kxsqbYfgSO8Y5kzYlBcKE.jpg",
+    "en": "/oDUTjQ2HUKh6iBYE99PUStyoRDv.jpg"
+  },
+  "backdrops": [
+    "/jekdv0OUnppLnpbPdBIkwCoeENo.jpg",
+    "/24Pwb9J5EKId6OX6xVIUykhenTR.jpg",
+    "/z3hqUqCIJaCIXCqDMN4DNf4wgLo.jpg",
+    "/lJdrwWkhPl2UFccnhzLvdVDIMlP.jpg",
+    "/zp05pF5pQUxMXxrjSIu9nv3ktBj.jpg",
+    "/iVzSBUdpzFb3TxG5lWEOC2qoIab.jpg",
+    "/qrGDn5z1NN2gOE3gET60WO1RHoB.jpg",
+    "/ysSlne8a9L7bzzmB90RWhtgvgcF.jpg",
+    "/bmGZ0U4ilj2L0TOIJ4RmyHevWBe.jpg",
+    "/saS3BvY5EyPxb7B8IC0FTgsLOpo.jpg"
+  ],
+  "trailerKey": "gUepLHaY760",
+  "genreIds": [
+    18,
+    10402
+  ],
+  "keywordIds": [
+    242,
+    1691,
+    1346,
+    4344,
+    9823,
+    33928,
+    161046,
+    207008,
+    221287
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "es",
+    "fr"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 32397,
+      "job": "producer"
+    },
+    {
+      "personId": 9168,
+      "job": "director"
+    },
+    {
+      "personId": 32398,
+      "job": "composer"
+    },
+    {
+      "personId": 7726,
+      "job": "producer"
+    },
+    {
+      "personId": 9165,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 32383,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32385,
+      "character": "Coco Hernandez",
+      "order": 0
+    },
+    {
+      "personId": 62014,
+      "character": "Ralph Garci/Raul Garcia",
+      "order": 1
+    },
+    {
+      "personId": 56753,
+      "character": "Doris Finsecker",
+      "order": 2
+    },
+    {
+      "personId": 32393,
+      "character": "Montgomery MacNeil",
+      "order": 3
+    },
+    {
+      "personId": 32386,
+      "character": "Bruno Martelli",
+      "order": 4
+    },
+    {
+      "personId": 213980,
+      "character": "Leroy Johnson",
+      "order": 5
+    },
+    {
+      "personId": 32388,
+      "character": "Hilary Van Doren",
+      "order": 6
+    },
+    {
+      "personId": 32387,
+      "character": "Lisa Monroe",
+      "order": 7
+    },
+    {
+      "personId": 32389,
+      "character": "Michael",
+      "order": 8
+    },
+    {
+      "personId": 32390,
+      "character": "Mr. Shorofsky",
+      "order": 9
+    },
+    {
+      "personId": 32391,
+      "character": "Mrs. Finsecker",
+      "order": 10
+    },
+    {
+      "personId": 32394,
+      "character": "Mrs. Sherwood",
+      "order": 11
+    },
+    {
+      "personId": 11903,
+      "character": "Miss Berg",
+      "order": 12
+    },
+    {
+      "personId": 74828,
+      "character": "Farrell",
+      "order": 13
+    },
+    {
+      "personId": 32395,
+      "character": "Lydia",
+      "order": 14
+    },
+    {
+      "personId": 32396,
+      "character": "M.C. at Catch a Rising Star club",
+      "order": 15
+    },
+    {
+      "personId": 32384,
+      "character": "Angelo Martelli, Bruno's father",
+      "order": 16
+    },
+    {
+      "personId": 32392,
+      "character": "Francois Lafete",
+      "order": 17
+    },
+    {
+      "personId": 89470,
+      "character": "Truck Driver",
+      "order": 18
+    },
+    {
+      "personId": 2138010,
+      "character": "Plump Eric",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 540,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "tmdbId": 9638,
+  "slug": "phantasm-1979",
+  "year": 1979,
+  "runtime": 89,
+  "originalTitle": "Phantasm",
+  "title": {
+    "en": "Phantasm",
+    "tr": "Manyak"
+  },
+  "overview": {
+    "en": "A teenage boy and his friends face off against a mysterious grave robber, known only as the Tall Man, who employs a lethal arsenal of unearthly weapons.",
+    "tr": "Abisiyle yaşayan Mike abisinin terk etmesinden korkmaktadır . Bir gün abisinin arkadaşının cenazesinde orada çalışan görevlinin zorlanmadan tabutu cenaze arabasına soktuğunu görür ve olayı araştırmaya karar verir."
+  },
+  "poster": {
+    "tr": "/eR0uJ0Wje1lYJ4aHEpkcjgIM8d7.jpg",
+    "en": "/eR0uJ0Wje1lYJ4aHEpkcjgIM8d7.jpg"
+  },
+  "backdrops": [
+    "/3vkiKWzq6gtJ0JKFYvrML236Gub.jpg",
+    "/71L3VXCRqpfdrSVy3iIWmyKXLTX.jpg",
+    "/1wmFgrLRg9B3EhquWGXU4buYzeN.jpg",
+    "/eDmE9fTjcJN2tPJINVCMU77FxL6.jpg",
+    "/tyZR6NYcGUFKO4eodLw513fJoKw.jpg",
+    "/8WI8WTxjQA1vuTF0Iz435aKvZJZ.jpg",
+    "/1gDb3yzOsRcKOr9x245gM55MVW3.jpg",
+    "/rPemfZXbp50W7EI3EUOfPPDLvZn.jpg",
+    "/A9RGeKpuG7KuG5XPLIjHuznUBLP.jpg",
+    "/f8WrvIG87iTAHANBoDjXYNfCQ1G.jpg"
+  ],
+  "trailerKey": "xOi66melBOY",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    3739,
+    1227,
+    1909,
+    7939,
+    12434,
+    41207,
+    156075,
+    156185,
+    157481,
+    162332,
+    162333,
+    223375
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New Breed Productions",
+    "AVCO Embassy Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 58245,
+      "job": "director"
+    },
+    {
+      "personId": 58248,
+      "job": "producer"
+    },
+    {
+      "personId": 1023502,
+      "job": "producer"
+    },
+    {
+      "personId": 58249,
+      "job": "composer"
+    },
+    {
+      "personId": 58250,
+      "job": "composer"
+    },
+    {
+      "personId": 58245,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 58245,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 58240,
+      "character": "Mike",
+      "order": 0
+    },
+    {
+      "personId": 58241,
+      "character": "Jody",
+      "order": 1
+    },
+    {
+      "personId": 97939,
+      "character": "Reggie",
+      "order": 2
+    },
+    {
+      "personId": 58243,
+      "character": "Lady in Lavender",
+      "order": 3
+    },
+    {
+      "personId": 79584,
+      "character": "The Tall Man",
+      "order": 4
+    },
+    {
+      "personId": 58244,
+      "character": "Fortuneteller's Granddaughter",
+      "order": 5
+    },
+    {
+      "personId": 1206256,
+      "character": "Caretaker",
+      "order": 6
+    },
+    {
+      "personId": 981882,
+      "character": "Girlfriend",
+      "order": 7
+    },
+    {
+      "personId": 97940,
+      "character": "Sally",
+      "order": 8
+    },
+    {
+      "personId": 981414,
+      "character": "Toby",
+      "order": 9
+    },
+    {
+      "personId": 983639,
+      "character": "Bartender",
+      "order": 10
+    },
+    {
+      "personId": 981620,
+      "character": "Tommy",
+      "order": 11
+    },
+    {
+      "personId": 2705743,
+      "character": "Double Lavender",
+      "order": 12
+    },
+    {
+      "personId": 2077605,
+      "character": "Fortuneteller",
+      "order": 13
+    },
+    {
+      "personId": 2705744,
+      "character": "Maid",
+      "order": 14
+    },
+    {
+      "personId": 983156,
+      "character": "Funeral Guest  (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1023502,
+      "character": "Funeral Guest (uncredited)",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 820,
+  "sources": [
+    "cult-list"
+  ]
+}

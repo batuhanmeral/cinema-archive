@@ -1,0 +1,204 @@
+{
+  "tmdbId": 9270,
+  "slug": "brick-2006",
+  "year": 2006,
+  "runtime": 110,
+  "originalTitle": "Brick",
+  "title": {
+    "en": "Brick",
+    "tr": "Asi Ruhlar"
+  },
+  "overview": {
+    "en": "A teenage loner pushes his way into the underworld of a high school crime ring to investigate the disappearance of his ex-girlfriend.",
+    "tr": "Öğlenleri tek başına yemek yiyerek okuldaki bütün gruplardan uzak durmaya çalışan Brendan, bir süredir haber alamadığı eski kız arkadaşından gizemli bir telefon alır... Emily kısa süren telefon görüşmesinde, Brendan'dan yardım ister... Emily hakkında bilgi toplamaya çalışan Brendan, bir süre sonra eski kız arkadaşının cesedini bulur ve yakın bir arkadaşının yardımı ile okulun karanlık yeraltı gruplarına girerek kız arkadaşının gizemli ölümünü araştırmaya başlar... Brick, klasik bir öyküyü, hiç klasik olmayan bir yöntemle bir okul atmosferinde anlatan ve son derece ilginç bir kara film örneği ortaya koyan bir film."
+  },
+  "poster": {
+    "tr": "/5WVk8JpNIxepn4fpZzQeCumkOL5.jpg",
+    "en": "/5WVk8JpNIxepn4fpZzQeCumkOL5.jpg"
+  },
+  "backdrops": [
+    "/7smKjeEbOWUjFANV1AbFvgJbgqs.jpg",
+    "/sDr2KjWpEbJ8M1F88rEmhoczLkX.jpg",
+    "/iuhnQMNCg3SUfNhu4TUbW3LWtQp.jpg",
+    "/8FKxNbOksxCtx8nboxVJ215aHct.jpg",
+    "/ekECfWcP9ZpqKesr76ik618W4U8.jpg",
+    "/sUypi61WaIYk3T4QVh4RtDp2dRB.jpg",
+    "/b9VqZJG6SA21sJjDZb8HFDKcmB.jpg",
+    "/AdY1XS3lnB4lqcGBSwK9BssnmhG.jpg",
+    "/mn4Nyn2uloN7chlGgqx2LCZAcda.jpg",
+    "/sDO0zwTN7mDGqCx8Djla171gH33.jpg"
+  ],
+  "trailerKey": "awbOgB7yB_Q",
+  "genreIds": [
+    18,
+    9648,
+    80
+  ],
+  "keywordIds": [
+    2231,
+    6270,
+    387,
+    1595,
+    5340,
+    2887,
+    3568,
+    9694,
+    9826,
+    10941,
+    12570,
+    14964,
+    15011,
+    18026,
+    162296,
+    167104,
+    167114,
+    201456,
+    206928,
+    207046,
+    207268,
+    239797,
+    247603,
+    251667,
+    265194,
+    281237,
+    296608,
+    314730
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Bergman Lustig Productions"
+  ],
+  "crew": [
+    {
+      "personId": 67367,
+      "job": "director"
+    },
+    {
+      "personId": 60047,
+      "job": "producer"
+    },
+    {
+      "personId": 69076,
+      "job": "producer"
+    },
+    {
+      "personId": 69077,
+      "job": "composer"
+    },
+    {
+      "personId": 59667,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 67367,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24045,
+      "character": "Brendan Frye",
+      "order": 0
+    },
+    {
+      "personId": 34070,
+      "character": "Laura Dannon",
+      "order": 1
+    },
+    {
+      "personId": 71467,
+      "character": "The Brain",
+      "order": 2
+    },
+    {
+      "personId": 57286,
+      "character": "Tugger",
+      "order": 3
+    },
+    {
+      "personId": 526,
+      "character": "The Pin",
+      "order": 4
+    },
+    {
+      "personId": 22122,
+      "character": "Kara",
+      "order": 5
+    },
+    {
+      "personId": 28660,
+      "character": "Emily Kostich",
+      "order": 6
+    },
+    {
+      "personId": 48312,
+      "character": "Dode",
+      "order": 7
+    },
+    {
+      "personId": 31137,
+      "character": "Brad Bramish",
+      "order": 8
+    },
+    {
+      "personId": 6487,
+      "character": "Assistant V.P. Trueman",
+      "order": 9
+    },
+    {
+      "personId": 1580196,
+      "character": "Biff",
+      "order": 10
+    },
+    {
+      "personId": 209785,
+      "character": "Pin's Mom",
+      "order": 11
+    },
+    {
+      "personId": 17740,
+      "character": "Big Stoner",
+      "order": 12
+    },
+    {
+      "personId": 1051878,
+      "character": "Tangles",
+      "order": 13
+    },
+    {
+      "personId": 2461163,
+      "character": "Straggler",
+      "order": 14
+    },
+    {
+      "personId": 60918,
+      "character": "The Lug",
+      "order": 15
+    },
+    {
+      "personId": 2050327,
+      "character": "The Pin's Driver (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 4234809,
+      "character": "Woman Sweeping Backstage (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 4234810,
+      "character": "Student (uncredited)",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 1454,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "tmdbId": 3082,
+  "slug": "modern-times-1936",
+  "year": 1936,
+  "runtime": 87,
+  "originalTitle": "Modern Times",
+  "title": {
+    "en": "Modern Times",
+    "tr": "Modern Zamanlar"
+  },
+  "overview": {
+    "en": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time...",
+    "tr": "Charlie Chaplin, son sessiz filminde yüksek tempolu işi sebebiyle çıldıran bir fabrika işçisini canlandırıyor. Hastane sonrası bir yürüyüşe karışan Küçük Serseri hapse düşüyor. Aşık olduğu kızı yetimhaneden kurtarmaya çalışan Küçük Serseri, bir çok işe girip çıkar ve mutlu bir hayat kurmaya çalışır."
+  },
+  "poster": {
+    "tr": "/yJuBu0pW9Ig8NyVJf5q9dW2VWaC.jpg",
+    "en": "/7uoiKOEjxBBW0AgDGQWrlfGQ90w.jpg"
+  },
+  "backdrops": [
+    "/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg",
+    "/83cMbOs2Ng7kfL3U8hpcXEQDXCw.jpg",
+    "/vzKzz7ObY3zNIV4ZYFY6Ib3X6ig.jpg",
+    "/qFWnaG1fVIloWZho6I0td43MpRD.jpg",
+    "/uZs6esC62RsjVDgckSbKrgaRwIQ.jpg",
+    "/zvo2YtKRtkSOJDg1rnfh5TIcEeN.jpg",
+    "/wYfgf0cUgrXCkPiDd5dkC5090DG.jpg",
+    "/x0KeMvw5K1ZNaiNB7btN0ICcWrN.jpg",
+    "/yyi6rpwvH5INxUKmgcfttbxnQv3.jpg",
+    "/oXSWyA4ylTZJw0uoYT1zPqOzabS.jpg"
+  ],
+  "trailerKey": "NNznUyDmSFc",
+  "genreIds": [
+    35,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    1382,
+    1546,
+    3338,
+    4280,
+    5386,
+    5571,
+    7025,
+    9253,
+    5046,
+    9890,
+    11612,
+    12999,
+    33618,
+    33619,
+    154802,
+    156052,
+    162466,
+    165458,
+    171989,
+    173644,
+    216620,
+    237390,
+    241860,
+    294521,
+    320420,
+    325120
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Charles Chaplin Productions"
+  ],
+  "crew": [
+    {
+      "personId": 13848,
+      "job": "director"
+    },
+    {
+      "personId": 13848,
+      "job": "writer"
+    },
+    {
+      "personId": 13848,
+      "job": "producer"
+    },
+    {
+      "personId": 30192,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 14020,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 13848,
+      "job": "composer"
+    },
+    {
+      "personId": 33960,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13848,
+      "character": "The Tramp (A Factory Worker)",
+      "order": 0
+    },
+    {
+      "personId": 14027,
+      "character": "A Gamin",
+      "order": 1
+    },
+    {
+      "personId": 14438,
+      "character": "Cafe Proprietor",
+      "order": 2
+    },
+    {
+      "personId": 30194,
+      "character": "Big Bill",
+      "order": 3
+    },
+    {
+      "personId": 30195,
+      "character": "Mechanic",
+      "order": 4
+    },
+    {
+      "personId": 13856,
+      "character": "Burglar",
+      "order": 5
+    },
+    {
+      "personId": 30196,
+      "character": "Gamin's Father",
+      "order": 6
+    },
+    {
+      "personId": 13855,
+      "character": "President of the Electro Steel Corp.",
+      "order": 7
+    },
+    {
+      "personId": 30197,
+      "character": "Prison Cellmate",
+      "order": 8
+    },
+    {
+      "personId": 30198,
+      "character": "Minister",
+      "order": 9
+    },
+    {
+      "personId": 30199,
+      "character": "Minister's Wife",
+      "order": 10
+    },
+    {
+      "personId": 30200,
+      "character": "J. Widdecombe Billows",
+      "order": 11
+    },
+    {
+      "personId": 30201,
+      "character": "Juvenile Officer",
+      "order": 12
+    },
+    {
+      "personId": 30202,
+      "character": "Sheriff Couler",
+      "order": 13
+    },
+    {
+      "personId": 30203,
+      "character": "Cafe Head Waiter",
+      "order": 14
+    },
+    {
+      "personId": 30204,
+      "character": "Turbine Operator",
+      "order": 15
+    },
+    {
+      "personId": 30205,
+      "character": "Woman with Buttoned Bosom",
+      "order": 16
+    },
+    {
+      "personId": 30206,
+      "character": "Billows' Assistant",
+      "order": 17
+    },
+    {
+      "personId": 2941,
+      "character": "Billows' Silent Assistant (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1550460,
+      "character": "Shopkeeper (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4246,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "tmdbId": 129311,
+  "slug": "a-gun-for-jennifer-1997",
+  "year": 1997,
+  "runtime": 88,
+  "originalTitle": "A Gun for Jennifer",
+  "title": {
+    "en": "A Gun for Jennifer",
+    "tr": "A Gun for Jennifer"
+  },
+  "overview": {
+    "en": "A woman comes to New York City from Ohio to escape an abusive husband and gets entangled with murderous female vigilantes who prey on abusive men.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/s1zcI84fQpoIPjahvGl0dxXsrGo.jpg",
+    "en": "/onZAKw2CgXtdrkPwDFbCItUa9Xd.jpg"
+  },
+  "backdrops": [
+    "/iNqHJtJrK9Mh1oxjiaOxmOSJDlk.jpg",
+    "/fdR0ZPteuRlgNKo0D7MeiuYRYUW.jpg",
+    "/aVxMv95O0s1dleXRHnEtq6Opr5w.jpg",
+    "/pL5t9BUQKDIGRZvm9DjT7jTLWZr.jpg",
+    "/mz7ZgnUCNawmabrAd9c4MV1JRxV.jpg"
+  ],
+  "trailerKey": "XnkSJCNOzZs",
+  "genreIds": [
+    18,
+    53,
+    80
+  ],
+  "keywordIds": [
+    570,
+    9748,
+    7002,
+    184352
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Independent Partners"
+  ],
+  "crew": [
+    {
+      "personId": 162060,
+      "job": "director"
+    },
+    {
+      "personId": 162060,
+      "job": "writer"
+    },
+    {
+      "personId": 116881,
+      "job": "writer"
+    },
+    {
+      "personId": 116881,
+      "job": "producer"
+    },
+    {
+      "personId": 1025921,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1429513,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1313829,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 116881,
+      "character": "Jennifer / Allison",
+      "order": 0
+    },
+    {
+      "personId": 1204912,
+      "character": "Det. Billie Perez",
+      "order": 1
+    },
+    {
+      "personId": 1204913,
+      "character": "Becky",
+      "order": 2
+    },
+    {
+      "personId": 171576,
+      "character": "Grace",
+      "order": 3
+    },
+    {
+      "personId": 1122871,
+      "character": "Priscilla",
+      "order": 4
+    },
+    {
+      "personId": 1204914,
+      "character": "Jesse",
+      "order": 5
+    },
+    {
+      "personId": 1429515,
+      "character": "Trish",
+      "order": 6
+    },
+    {
+      "personId": 1429517,
+      "character": "Annie",
+      "order": 7
+    },
+    {
+      "personId": 1429520,
+      "character": "Tracy Miller",
+      "order": 8
+    },
+    {
+      "personId": 2572922,
+      "character": "Bar Patron 1",
+      "order": 9
+    },
+    {
+      "personId": 99798,
+      "character": "Grady",
+      "order": 10
+    },
+    {
+      "personId": 4426427,
+      "character": "Eddie Jarvis",
+      "order": 11
+    },
+    {
+      "personId": 3906778,
+      "character": "Go-Go Dancer",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 20,
+  "sources": [
+    "cult-list"
+  ]
+}

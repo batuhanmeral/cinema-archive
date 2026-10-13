@@ -1,0 +1,81 @@
+{
+  "tmdbId": 937369,
+  "slug": "jungle-emperor-1966",
+  "year": 1966,
+  "runtime": 74,
+  "originalTitle": "ジャングル大帝 劇場版",
+  "title": {
+    "en": "Jungle Emperor",
+    "tr": "ジャングル大帝 劇場版"
+  },
+  "overview": {
+    "en": "The story of a white lion cub growing to become the king of the jungle.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/AvJCBHWpxYcjgyObEZlqg9dMRXs.jpg",
+    "en": "/AvJCBHWpxYcjgyObEZlqg9dMRXs.jpg"
+  },
+  "backdrops": [
+    "/9wMHmNx7qUYNBsEGBCIpopBL2lW.jpg"
+  ],
+  "trailerKey": "ivqr5m5xx9w",
+  "genreIds": [
+    16,
+    18,
+    12,
+    14
+  ],
+  "keywordIds": [],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Mushi Production"
+  ],
+  "crew": [
+    {
+      "personId": 239934,
+      "job": "director"
+    },
+    {
+      "personId": 58160,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1241485,
+      "character": "Leo (voice)",
+      "order": 0
+    },
+    {
+      "personId": 553102,
+      "character": "Panja (voice)",
+      "order": 1
+    },
+    {
+      "personId": 1241486,
+      "character": "Tommy (voice)",
+      "order": 2
+    },
+    {
+      "personId": 1241487,
+      "character": "Mandy (voice)",
+      "order": 3
+    },
+    {
+      "personId": 1241489,
+      "character": "Coco (voice)",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 14,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "tmdbId": 10222,
+  "slug": "kickboxer-1989",
+  "year": 1989,
+  "runtime": 98,
+  "originalTitle": "Kickboxer",
+  "title": {
+    "en": "Kickboxer",
+    "tr": "Kana Kan"
+  },
+  "overview": {
+    "en": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
+    "tr": "Abisi Eric’in (Dennis Chan) Dünya Kickbox Şampiyonu seçilmesi üzerine Kurt (Jean-Claude Van Damme), onunla birlikte Tayland’a gitmektedir. Eric küstah hareketlerde bulunmakta ve Tayland’ın geleneklerini umursamamaktadır. Tong po (Michel Qissi) ile yapmış olduğu karşılaşmada Eric felç geçirir. Bu durum üzerine Kurt abisinin intikamını almaya karar vermiştir."
+  },
+  "poster": {
+    "tr": "/tXSD8U5aVdGscQNcyY6C2ANVEuh.jpg",
+    "en": "/aeZLJmWKfId3y0MEI5NarVThzN4.jpg"
+  },
+  "backdrops": [
+    "/hzPYbQTzfgyQF0xxs2l1nu62K1w.jpg",
+    "/4OcTKqNMbePJ1hjFUUiu4mfVoGD.jpg",
+    "/qvWptvV5PEqEGrls5JmgKXiJ0UU.jpg",
+    "/wvYu6LyjappHrUosBQ6UDM1SUvC.jpg",
+    "/cNfxe6XBK1BJOAsc8kAS7by46Ly.jpg",
+    "/7lQLG1L7477Gaac9kflqAj2K5Pd.jpg",
+    "/3g7ZGhem5JTk0csbgEMleJS5p2W.jpg",
+    "/bo2jGPPFlv8Ed3TMEVWM5NJIQMx.jpg",
+    "/5c8QFjxrmLeIWGblk4Oq0eOxgbR.jpg",
+    "/9lK40lGotJUz9AY8d0JvbZxyil1.jpg"
+  ],
+  "trailerKey": "H6Yxw4gxfpI",
+  "genreIds": [
+    28,
+    53
+  ],
+  "keywordIds": [
+    779,
+    797,
+    570,
+    380,
+    6075,
+    1721,
+    2564,
+    3432,
+    3434,
+    7910,
+    10514,
+    10515,
+    9748,
+    219404,
+    303437,
+    325791,
+    352014
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Kings Road Entertainment",
+    "The Cannon Group"
+  ],
+  "crew": [
+    {
+      "personId": 64681,
+      "job": "director"
+    },
+    {
+      "personId": 22012,
+      "job": "director"
+    },
+    {
+      "personId": 64681,
+      "job": "producer"
+    },
+    {
+      "personId": 64682,
+      "job": "writer"
+    },
+    {
+      "personId": 64204,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 64683,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15111,
+      "character": "Kurt Sloane",
+      "order": 0
+    },
+    {
+      "personId": 64655,
+      "character": "Eric Sloane",
+      "order": 1
+    },
+    {
+      "personId": 64662,
+      "character": "Xian",
+      "order": 2
+    },
+    {
+      "personId": 169702,
+      "character": "Winston Taylor",
+      "order": 3
+    },
+    {
+      "personId": 190185,
+      "character": "Mylee",
+      "order": 4
+    },
+    {
+      "personId": 222508,
+      "character": "Tong Po",
+      "order": 5
+    },
+    {
+      "personId": 1166375,
+      "character": "Freddy Li",
+      "order": 6
+    },
+    {
+      "personId": 1178818,
+      "character": "Tao Liu",
+      "order": 7
+    },
+    {
+      "personId": 1076566,
+      "character": "Big Thai Man",
+      "order": 8
+    },
+    {
+      "personId": 1417177,
+      "character": "Huge Village Man #1",
+      "order": 9
+    },
+    {
+      "personId": 1882378,
+      "character": "Huge Village Man #2",
+      "order": 10
+    },
+    {
+      "personId": 1076567,
+      "character": "U.S. Announcer",
+      "order": 11
+    },
+    {
+      "personId": 43670,
+      "character": "U.S. Announcer",
+      "order": 12
+    },
+    {
+      "personId": 64681,
+      "character": "U.S. Reporter",
+      "order": 13
+    },
+    {
+      "personId": 1076568,
+      "character": "U.S. Reporter",
+      "order": 14
+    },
+    {
+      "personId": 553867,
+      "character": "U.S. Reporter",
+      "order": 15
+    },
+    {
+      "personId": 5991928,
+      "character": "U.S. Reporter",
+      "order": 16
+    },
+    {
+      "personId": 126037,
+      "character": "U.S. Referee",
+      "order": 17
+    },
+    {
+      "personId": 5991932,
+      "character": "Surgeon",
+      "order": 18
+    },
+    {
+      "personId": 5991936,
+      "character": "Nurse",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1649,
+  "sources": [
+    "cult-list"
+  ]
+}

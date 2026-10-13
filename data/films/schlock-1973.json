@@ -1,0 +1,175 @@
+{
+  "tmdbId": 54123,
+  "slug": "schlock-1973",
+  "year": 1973,
+  "runtime": 80,
+  "originalTitle": "Schlock",
+  "title": {
+    "en": "Schlock",
+    "tr": "Schlock"
+  },
+  "overview": {
+    "en": "A quiet suburb in Southern California is terrorized by a mysterious murderous monster living in a cave. As the bodies pile up -- with incriminating banana peels always near by the crime scene -- a group of teens stumble on the guilty party: a 20-million-year-old Schlockthropus, an ape-like creature with a sense of the absurd.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/pr9DXClc5hHJDUZ7iCmMbmqHXur.jpg",
+    "en": "/pr9DXClc5hHJDUZ7iCmMbmqHXur.jpg"
+  },
+  "backdrops": [
+    "/hPZnGavHDVNerv512cjIQGnIZey.jpg",
+    "/wSCVx9wibR8xT1ldkKgi5RatZ1T.jpg",
+    "/fCePSFBXHKjjUezo7lQqbwae0Ld.jpg",
+    "/kalvAWdTXQ8DbIOCuJZPuyL8EPd.jpg"
+  ],
+  "trailerKey": "eoBvNZyMS0c",
+  "genreIds": [
+    35,
+    27
+  ],
+  "keywordIds": [
+    14759
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Gazotskie Productions"
+  ],
+  "crew": [
+    {
+      "personId": 222885,
+      "job": "producer"
+    },
+    {
+      "personId": 4610,
+      "job": "writer"
+    },
+    {
+      "personId": 568118,
+      "job": "producer"
+    },
+    {
+      "personId": 4610,
+      "job": "director"
+    },
+    {
+      "personId": 568119,
+      "job": "composer"
+    },
+    {
+      "personId": 27051,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4610,
+      "character": "Schlock",
+      "order": 0
+    },
+    {
+      "personId": 55244,
+      "character": "Detective Sgt. Wino",
+      "order": 1
+    },
+    {
+      "personId": 245673,
+      "character": "Ivan",
+      "order": 2
+    },
+    {
+      "personId": 55207,
+      "character": "Mindy Binerman",
+      "order": 3
+    },
+    {
+      "personId": 568093,
+      "character": "Torn Cop",
+      "order": 4
+    },
+    {
+      "personId": 122096,
+      "character": "Police Thief",
+      "order": 5
+    },
+    {
+      "personId": 54941,
+      "character": "Mrs. Blinerman",
+      "order": 6
+    },
+    {
+      "personId": 102791,
+      "character": "Joe Putzman (as Eric Allison)",
+      "order": 7
+    },
+    {
+      "personId": 568094,
+      "character": "Cal",
+      "order": 8
+    },
+    {
+      "personId": 568095,
+      "character": "Dying Man",
+      "order": 9
+    },
+    {
+      "personId": 210686,
+      "character": "National Guard Captain",
+      "order": 10
+    },
+    {
+      "personId": 568096,
+      "character": "Billy",
+      "order": 11
+    },
+    {
+      "personId": 568097,
+      "character": "Officer Gillis",
+      "order": 12
+    },
+    {
+      "personId": 44762,
+      "character": "Man in cinema",
+      "order": 13
+    },
+    {
+      "personId": 568098,
+      "character": "Betty",
+      "order": 14
+    },
+    {
+      "personId": 568099,
+      "character": "Bobby",
+      "order": 15
+    },
+    {
+      "personId": 30810,
+      "character": "Movie patron",
+      "order": 16
+    },
+    {
+      "personId": 568100,
+      "character": "Barbara",
+      "order": 17
+    },
+    {
+      "personId": 113820,
+      "character": "Professor Shilbovitz",
+      "order": 18
+    },
+    {
+      "personId": 568101,
+      "character": "Little Boy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 73,
+  "sources": [
+    "cult-list"
+  ]
+}

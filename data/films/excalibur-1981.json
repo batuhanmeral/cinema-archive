@@ -1,0 +1,202 @@
+{
+  "tmdbId": 11527,
+  "slug": "excalibur-1981",
+  "year": 1981,
+  "runtime": 141,
+  "originalTitle": "Excalibur",
+  "title": {
+    "en": "Excalibur",
+    "tr": "Krallar Savaşıyor"
+  },
+  "overview": {
+    "en": "Arthur fulfills his fate by bringing together the Knights of the Round Table at Camelot and unifying the country. However, this flawed monarch faces greater tests ahead in pursuit of love, the Holy Grail, and his nation's survival.",
+    "tr": "Uthur Pendragon'a, büyücü Merlyn tarafından gizemli kılıç Excalibur veriliyor. Uthur ölürken kılıcı bir kayaya saplıyor. Bu kılıcı oradan çıkartacak adam, İngiltere kralı olacak..Kral Arthurun bildik hikayesini alabildiğine farklı bir anlatımla beyazperdeye taşıyan yapım,görüntüleriyle Oscar adaylığına kadar yükselmişti."
+  },
+  "poster": {
+    "tr": "/cTWF6zkr5mUOnheowKODIijWYcN.jpg",
+    "en": "/nNgSBynGP63B7g0A9AGq3EQIPwS.jpg"
+  },
+  "backdrops": [
+    "/qrnNj4lCPcBzmeOaHb7pLV9JKyg.jpg",
+    "/6PKiqYYyHFjBrflagsk8TAvPWS2.jpg",
+    "/uxdoTAcJZIhrIuFtBIwN9RB82ZI.jpg",
+    "/y7SAafkvFNmHDbISllOZiRYdlOI.jpg",
+    "/rQmnjZinmG8zVRJWB7AskDe5wQv.jpg",
+    "/xAQrbMRwtMA6ndKuVWO2DpZV0dQ.jpg",
+    "/tCYaMSIiTPG34pDIkInWa9S3QFN.jpg",
+    "/2ivyYeZbTbcUYFQ5YGZuZoLHKIu.jpg",
+    "/7V3JStfWKqtkDz3m08l7lAruqK0.jpg",
+    "/1GkuhRR2rANzviQWdsMACJDkzxm.jpg"
+  ],
+  "trailerKey": "vw8oPabVbeY",
+  "genreIds": [
+    12,
+    14
+  ],
+  "keywordIds": [
+    616,
+    596,
+    113,
+    128,
+    392,
+    2343,
+    530,
+    3002,
+    2035,
+    3098,
+    10629,
+    10466,
+    10982,
+    12380,
+    12965,
+    14643,
+    169613,
+    177128,
+    177912,
+    184663,
+    234213,
+    377433
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Orion Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 19665,
+      "job": "director"
+    },
+    {
+      "personId": 19665,
+      "job": "writer"
+    },
+    {
+      "personId": 19665,
+      "job": "producer"
+    },
+    {
+      "personId": 7020,
+      "job": "composer"
+    },
+    {
+      "personId": 21516,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 69730,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 31431,
+      "character": "King Arthur",
+      "order": 0
+    },
+    {
+      "personId": 51812,
+      "character": "Merlin",
+      "order": 1
+    },
+    {
+      "personId": 15735,
+      "character": "Morgana",
+      "order": 2
+    },
+    {
+      "personId": 31196,
+      "character": "Lancelot",
+      "order": 3
+    },
+    {
+      "personId": 69735,
+      "character": "Perceval",
+      "order": 4
+    },
+    {
+      "personId": 20768,
+      "character": "Guenevere",
+      "order": 5
+    },
+    {
+      "personId": 78525,
+      "character": "Mordred",
+      "order": 6
+    },
+    {
+      "personId": 5168,
+      "character": "Uther",
+      "order": 7
+    },
+    {
+      "personId": 104757,
+      "character": "Uryens",
+      "order": 8
+    },
+    {
+      "personId": 38402,
+      "character": "Igrayne",
+      "order": 9
+    },
+    {
+      "personId": 13328,
+      "character": "Cornwall",
+      "order": 10
+    },
+    {
+      "personId": 3896,
+      "character": "Gawain",
+      "order": 11
+    },
+    {
+      "personId": 104758,
+      "character": "Kay",
+      "order": 12
+    },
+    {
+      "personId": 2387,
+      "character": "Leondegrance",
+      "order": 13
+    },
+    {
+      "personId": 33108,
+      "character": "Ector",
+      "order": 14
+    },
+    {
+      "personId": 8785,
+      "character": "Lot",
+      "order": 15
+    },
+    {
+      "personId": 1752856,
+      "character": "Sadok",
+      "order": 16
+    },
+    {
+      "personId": 2249558,
+      "character": "Astamor",
+      "order": 17
+    },
+    {
+      "personId": 69751,
+      "character": "Boy Mordred",
+      "order": 18
+    },
+    {
+      "personId": 42601,
+      "character": "Lady in Waiting",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1221,
+  "sources": [
+    "cult-list"
+  ]
+}

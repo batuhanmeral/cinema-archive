@@ -1,0 +1,175 @@
+{
+  "tmdbId": 42604,
+  "slug": "goodbye-columbus-1969",
+  "year": 1969,
+  "runtime": 102,
+  "originalTitle": "Goodbye, Columbus",
+  "title": {
+    "en": "Goodbye, Columbus",
+    "tr": "Kucak Dolusu"
+  },
+  "overview": {
+    "en": "A Jewish man and a Jewish woman meet, and while attracted to each other, find that their worlds are very different. She is the archetypal Jewish American Princess — very emotionally involved with her parents' world and the world they have created for her, while he is much less dependent on his family. They begin an affair which brings more differences to the surface.",
+    "tr": "Neil ve Brenda toplumun farklı statülerinde yer alan iki aşıktır. Zamanla birbirlerine ve hayata karşı düşünceleri değişmeye başlar. Yazar Philip Roth'un çok satan romanından uyarlama olan film \"En İyi Uyarlama Senaryo\" dalında Oscar adaylığı bulunduruyor. \"Love Story\" filmiyle büyük bir üne sahip olan aktris Ali Macgraw'ın ilk başrol filmi olarak göze çarpıyor."
+  },
+  "poster": {
+    "tr": "/yEfA6HiXipVZdHvxiagV6MxuDNS.jpg",
+    "en": "/sbL9RzE4Udc7HFYWvKDPKedAqkT.jpg"
+  },
+  "backdrops": [
+    "/aiiWgt80uOVvW72eXOYAurZ79RR.jpg",
+    "/jhGXjmPqRW6V1Sv3rXGVb5A0QvY.jpg"
+  ],
+  "trailerKey": "CEyNGiy94rY",
+  "genreIds": [
+    35,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    33494
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Willow Tree"
+  ],
+  "crew": [
+    {
+      "personId": 51373,
+      "job": "director"
+    },
+    {
+      "personId": 19249,
+      "job": "writer"
+    },
+    {
+      "personId": 6847,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 50239,
+      "job": "composer"
+    },
+    {
+      "personId": 34693,
+      "job": "producer"
+    },
+    {
+      "personId": 71734,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24318,
+      "character": "Neil Klugman",
+      "order": 0
+    },
+    {
+      "personId": 46597,
+      "character": "Brenda Patimkin",
+      "order": 1
+    },
+    {
+      "personId": 5250,
+      "character": "Ben Patimkin",
+      "order": 2
+    },
+    {
+      "personId": 87039,
+      "character": "Mrs. Ben Patimkin",
+      "order": 3
+    },
+    {
+      "personId": 309103,
+      "character": "Ron Patimkin",
+      "order": 4
+    },
+    {
+      "personId": 1452155,
+      "character": "Julie Patimkin",
+      "order": 5
+    },
+    {
+      "personId": 81550,
+      "character": "Uncle Leo",
+      "order": 6
+    },
+    {
+      "personId": 1452156,
+      "character": "Doris Klugman",
+      "order": 7
+    },
+    {
+      "personId": 1716153,
+      "character": "Aunt Gladys",
+      "order": 8
+    },
+    {
+      "personId": 1190722,
+      "character": "Carlotta",
+      "order": 9
+    },
+    {
+      "personId": 1999085,
+      "character": "Boy in Library",
+      "order": 10
+    },
+    {
+      "personId": 19133,
+      "character": "Laura Simpson Sockaloe",
+      "order": 11
+    },
+    {
+      "personId": 1999091,
+      "character": "Voice on Record",
+      "order": 12
+    },
+    {
+      "personId": 165048,
+      "character": "Voice on Record",
+      "order": 13
+    },
+    {
+      "personId": 374718,
+      "character": "Uncle Manny",
+      "order": 14
+    },
+    {
+      "personId": 1999116,
+      "character": "Uncle Max",
+      "order": 15
+    },
+    {
+      "personId": 138103,
+      "character": "Uncle Harry",
+      "order": 16
+    },
+    {
+      "personId": 276531,
+      "character": "Mr. Scapelle",
+      "order": 17
+    },
+    {
+      "personId": 1999148,
+      "character": "Harriette",
+      "order": 18
+    },
+    {
+      "personId": 1999150,
+      "character": "The Rabbi",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 34,
+  "sources": [
+    "cult-list"
+  ]
+}

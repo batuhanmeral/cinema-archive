@@ -1,0 +1,187 @@
+{
+  "tmdbId": 81,
+  "slug": "warriors-of-the-wind-1984",
+  "year": 1984,
+  "runtime": 95,
+  "originalTitle": "風の谷のナウシカ",
+  "title": {
+    "en": "Warriors of the Wind",
+    "tr": "Rüzgârlı Vadi"
+  },
+  "overview": {
+    "en": "After a global war, the seaside kingdom known as the Valley of the Wind remains one of the last strongholds on Earth untouched by a poisonous jungle and the powerful insects that guard it. Led by the courageous Princess Nausicaä, the people of the Valley engage in an epic struggle to restore the bond between humanity and Earth.",
+    "tr": "Dünya \"Ateşin Yedi Günü\" isimli yıkıcı bir savaşın ardından yaşanmaz bir yerleşim yerine dönüşmüştür. Savaş sonrası ortaya çıkan zehirli bir gaz sebebiyle tüm doğal yaşam sona ermiş, insanoğlu da yok olma tehlikesiyle karşı karşıya kalmıştır. Çok az sayıdaki insan kolonileri bu gazdan arındırılan irili ufaklı adalarda yaşamaktadır. Prenses Naushika'nın halkı da bu insan topluluklarından biridir. Prenses Naushika, zehirli gaz ormanlarındaki canlılardan olan 'Ohmu'larla konuşup anlaşabilme yeteneğine sahiptir. O, bu zehirli gaz dolu ormanlara ve burada yaşayan Ohmu'lara karşı halen daha umutludur ve bir kurtuluş yolu bulabileceği inancını taşır."
+  },
+  "poster": {
+    "tr": "/8OYvMHmCZv6i6ZVCyCKLfXIpK7D.jpg",
+    "en": "/sIpcATxMrKHRRUJAGI5UIUT7XMG.jpg"
+  },
+  "backdrops": [
+    "/ulVUa2MvnJAjAeRt7h23FFJVRKH.jpg",
+    "/s3tJPflRTcmB0es4BufMcEl0OP.jpg",
+    "/9El1QYfHoxS8iEmwGUyvlZffpMC.jpg",
+    "/2oiN1q4JONPZGmeU7rplZyjJnEe.jpg",
+    "/5etypIaPxxIj901vMKstSS6dcuX.jpg",
+    "/qLftEsGNW3WxNbf76SHxbAoIj3b.jpg",
+    "/zbFXWotWgPkl4kt7AeWspjmSRbM.jpg",
+    "/4wPl0ZqzQyPzf6D7Yi2CtVUAmJj.jpg",
+    "/lsTaeMyCEUituPYozvwg5piXqJ.jpg",
+    "/s6F1hEhJIsyz8rzTqkTZyIIze1F.jpg"
+  ],
+  "trailerKey": "zaskbIZtfxQ",
+  "genreIds": [
+    12,
+    16,
+    14
+  ],
+  "keywordIds": [
+    2964,
+    3800,
+    83,
+    2763,
+    2765,
+    4458,
+    7035,
+    9794,
+    13141,
+    15174,
+    210024,
+    322942
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Topcraft",
+    "Tokuma Shoten",
+    "Hakuhodo"
+  ],
+  "crew": [
+    {
+      "personId": 608,
+      "job": "director"
+    },
+    {
+      "personId": 628,
+      "job": "producer"
+    },
+    {
+      "personId": 636,
+      "job": "composer"
+    },
+    {
+      "personId": 608,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 613,
+      "character": "Nausicaä (voice)",
+      "order": 0
+    },
+    {
+      "personId": 617,
+      "character": "Mito (voice)",
+      "order": 1
+    },
+    {
+      "personId": 616,
+      "character": "Yupa (voice)",
+      "order": 2
+    },
+    {
+      "personId": 622,
+      "character": "Asbel (voice)",
+      "order": 3
+    },
+    {
+      "personId": 624,
+      "character": "Kushana (voice)",
+      "order": 4
+    },
+    {
+      "personId": 625,
+      "character": "Kurotowa (voice)",
+      "order": 5
+    },
+    {
+      "personId": 615,
+      "character": "Obaba (voice)",
+      "order": 6
+    },
+    {
+      "personId": 614,
+      "character": "Jihl (voice)",
+      "order": 7
+    },
+    {
+      "personId": 623,
+      "character": "Lastel (voice)",
+      "order": 8
+    },
+    {
+      "personId": 618,
+      "character": "Gol (voice)",
+      "order": 9
+    },
+    {
+      "personId": 619,
+      "character": "Gikkuri (voice)",
+      "order": 10
+    },
+    {
+      "personId": 620,
+      "character": "Niga (voice)",
+      "order": 11
+    },
+    {
+      "personId": 621,
+      "character": "Teto / Girl C (voice)",
+      "order": 12
+    },
+    {
+      "personId": 626,
+      "character": "Commando (voice)",
+      "order": 13
+    },
+    {
+      "personId": 1243597,
+      "character": "Girl A (voice)",
+      "order": 14
+    },
+    {
+      "personId": 1241776,
+      "character": "Girl B (voice)",
+      "order": 15
+    },
+    {
+      "personId": 55664,
+      "character": "Boy A (voice)",
+      "order": 16
+    },
+    {
+      "personId": 100127,
+      "character": "Boy B (voice)",
+      "order": 17
+    },
+    {
+      "personId": 217144,
+      "character": "Mayor of Pejite (voice)",
+      "order": 18
+    },
+    {
+      "personId": 1241584,
+      "character": "Lastel's Mother (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4255,
+  "sources": [
+    "cult-list"
+  ]
+}

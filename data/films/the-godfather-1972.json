@@ -1,0 +1,216 @@
+{
+  "tmdbId": 238,
+  "slug": "the-godfather-1972",
+  "year": 1972,
+  "runtime": 175,
+  "originalTitle": "The Godfather",
+  "title": {
+    "en": "The Godfather",
+    "tr": "Baba"
+  },
+  "overview": {
+    "en": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+    "tr": "Mario Puzo'nun çok satan kitabından Puzo ve yönetmen Francis Ford Coppola tarafından sinemaya uyarlanan eser, 40'lar ve 50'lerin Amerika'sında, bir İtalyan mafya ailesinin destansı öyküsünü konu alıyor. Corleone ailesi, Don Vito Corleone'nin başında olduğu, suça dayalı bir örgüt kurmuş olan İtalyan asıllı meşhur bir ailedir. Aile, New York'taki diğer dört aileyle birlikte New York'un yeraltı işlerini yönetmektedir. Ancak Corleone ailesini diğerlerinden ayıran özelliği, Don Corleone'nin cebinde bozuk para gibi taşıdığı politikacılar ve yargıçlardır. Politikacılar ve yargıçlarla olan bu yakın ilişkileri diğer ailelerin açamadığı kapıları açabilmesini sağlamaktadır."
+  },
+  "poster": {
+    "tr": "/vseIVRdN4xasYwStQIi6SI7DcEu.jpg",
+    "en": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
+  },
+  "backdrops": [
+    "/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
+    "/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
+    "/41xIKcLiM5ryfz4C9sZFcBOJGsK.jpg",
+    "/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg",
+    "/39rtAdg3yx6IDxRg0ZLXefv0aPY.jpg",
+    "/7VrRna8S3x6xbijooeBmxqvHXiu.jpg",
+    "/htuuuEwAvDVECMpb0ltLLyZyDDt.jpg",
+    "/vDACQOBMpdwrcpKfnNrdg1z9MGq.jpg",
+    "/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+    "/jdHsptJbtalEuVhCV5i7kSC3g0x.jpg"
+  ],
+  "trailerKey": "Ew9ngL1GZvs",
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    818,
+    697,
+    699,
+    131,
+    3149,
+    1715,
+    4677,
+    1295,
+    10291,
+    10391,
+    11001,
+    15095,
+    33421,
+    155538,
+    156043,
+    163656,
+    165725,
+    181858,
+    207883,
+    208611,
+    257630
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "la"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Alfran Productions",
+    "Albert S. Ruddy Productions"
+  ],
+  "crew": [
+    {
+      "personId": 3083,
+      "job": "writer"
+    },
+    {
+      "personId": 1776,
+      "job": "writer"
+    },
+    {
+      "personId": 457,
+      "job": "producer"
+    },
+    {
+      "personId": 3097,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3098,
+      "job": "composer"
+    },
+    {
+      "personId": 1776,
+      "job": "producer"
+    },
+    {
+      "personId": 12288,
+      "job": "producer"
+    },
+    {
+      "personId": 1776,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3084,
+      "character": "Don Vito Corleone",
+      "order": 0
+    },
+    {
+      "personId": 1158,
+      "character": "Michael Corleone",
+      "order": 1
+    },
+    {
+      "personId": 3085,
+      "character": "Sonny Corleone",
+      "order": 2
+    },
+    {
+      "personId": 3087,
+      "character": "Tom Hagen",
+      "order": 3
+    },
+    {
+      "personId": 3086,
+      "character": "Clemenza",
+      "order": 4
+    },
+    {
+      "personId": 3092,
+      "character": "Kay Adams",
+      "order": 5
+    },
+    {
+      "personId": 3094,
+      "character": "Connie Corleone Rizzi",
+      "order": 6
+    },
+    {
+      "personId": 3095,
+      "character": "Carlo Rizzi",
+      "order": 7
+    },
+    {
+      "personId": 3088,
+      "character": "Captain McCluskey",
+      "order": 8
+    },
+    {
+      "personId": 3142,
+      "character": "Jack Woltz",
+      "order": 9
+    },
+    {
+      "personId": 3090,
+      "character": "Barzini",
+      "order": 10
+    },
+    {
+      "personId": 3091,
+      "character": "Sollozzo",
+      "order": 11
+    },
+    {
+      "personId": 3093,
+      "character": "Sal Tessio",
+      "order": 12
+    },
+    {
+      "personId": 3096,
+      "character": "Fredo Corleone",
+      "order": 13
+    },
+    {
+      "personId": 3143,
+      "character": "Cuneo",
+      "order": 14
+    },
+    {
+      "personId": 3144,
+      "character": "Johnny Fontane",
+      "order": 15
+    },
+    {
+      "personId": 933716,
+      "character": "Mama Corleone",
+      "order": 16
+    },
+    {
+      "personId": 106811,
+      "character": "Luca Brasi",
+      "order": 17
+    },
+    {
+      "personId": 99724,
+      "character": "Paulie Gatto",
+      "order": 18
+    },
+    {
+      "personId": 1195877,
+      "character": "Bonasera",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3,
+    "golden-globe": 3
+  },
+  "voteCount": 23874,
+  "sources": [
+    "cult-list"
+  ]
+}

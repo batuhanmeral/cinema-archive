@@ -1,0 +1,211 @@
+{
+  "tmdbId": 631,
+  "slug": "sunrise-a-song-of-two-humans-1927",
+  "year": 1927,
+  "runtime": 94,
+  "originalTitle": "Sunrise: A Song of Two Humans",
+  "title": {
+    "en": "Sunrise: A Song of Two Humans",
+    "tr": "Şafak"
+  },
+  "overview": {
+    "en": "A married farmer falls under the spell of a slatternly woman from the city, who tries to convince him to drown his wife.",
+    "tr": "Taşrada tatil yapan kentli bir kadın, oralı genç ve evli bir çiftçiyle ilişki yaşar ve adamı karısını öldürüp onunla birlikte büyük şehre taşınmaya ikna eder. Adam, karısıyla beraber şehre giderken binecekleri teknede bir ‘kaza’ planlar, kendini boğulmaktan kurtarmak için de tekneye bir demet saz saklar. Ancak planın sonunu getirmeyi yüreği kaldırmaz ve kürek çekerek karısını kıyıya çıkarır. Büyük bir keder içinde, tramvaya binip şehre giderler. Göz yaşlarıyla dolu barışmaları, düğün yapılan bir kilisede tamamlanır. Birbirlerine yeniden âşık olmuş bir halde, önce bir fotoğrafçıya, sonra da bir berbere uğrarlar. Adam berberdeki manikürcünün ona kur yapmasını görmezden gelir, karısını da çapkın bir hayranın ilgisinden korur. Devasa bir lunaparka gidip eğlendikten sonra, tekneyle eve dönerler. Ancak bir fırtına çıkar ve yelken yırtılır."
+  },
+  "poster": {
+    "tr": "/rLyGNoKckpbM8keAmhhis3BqpNs.jpg",
+    "en": "/tyxjxpwr9NiVtSeITtVXuhp84Zl.jpg"
+  },
+  "backdrops": [
+    "/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg",
+    "/jAhfMoV8TCIHuTiGz49nA04v6bp.jpg",
+    "/itNSH89kYgTlrbGfqlvpXJnbxF8.jpg",
+    "/mpnxb6Ln8GECbkhUZSPkDOfa8O9.jpg",
+    "/xTUsciA6SObN4A3Q0WLi5nX3VSe.jpg",
+    "/q0aluH4rzhmGRw34SUVAyKsT3Po.jpg",
+    "/rhnQxzI0r08Kz33dE8my2IMFW5D.jpg",
+    "/dvSsa6KZnoSceiIlGIVnDTl1jrW.jpg",
+    "/vmkMP4cbOPR9x9YsMGjZ8BPnr2k.jpg",
+    "/apui8oVDtHCqtSGTa50vLwTHTGq.jpg"
+  ],
+  "trailerKey": "PCgbFay53BA",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    596,
+    1889,
+    128,
+    4931,
+    5809,
+    2755,
+    3154,
+    11436,
+    11004,
+    12999,
+    14527,
+    154802,
+    154846,
+    166490,
+    244516
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Fox Film Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 9076,
+      "job": "director"
+    },
+    {
+      "personId": 9080,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9079,
+      "job": "composer"
+    },
+    {
+      "personId": 9078,
+      "job": "producer"
+    },
+    {
+      "personId": 9081,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2792,
+      "job": "writer"
+    },
+    {
+      "personId": 48052,
+      "job": "composer"
+    },
+    {
+      "personId": 1159361,
+      "job": "composer"
+    },
+    {
+      "personId": 958941,
+      "job": "composer"
+    },
+    {
+      "personId": 29120,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9087,
+      "character": "The Man",
+      "order": 0
+    },
+    {
+      "personId": 9088,
+      "character": "The Wife",
+      "order": 1
+    },
+    {
+      "personId": 9089,
+      "character": "The Woman from the City",
+      "order": 2
+    },
+    {
+      "personId": 9090,
+      "character": "The Maid",
+      "order": 3
+    },
+    {
+      "personId": 9091,
+      "character": "The Photographer",
+      "order": 4
+    },
+    {
+      "personId": 9092,
+      "character": "The Barber",
+      "order": 5
+    },
+    {
+      "personId": 9093,
+      "character": "The Manicure Girl",
+      "order": 6
+    },
+    {
+      "personId": 9094,
+      "character": "The Obtrusive Gentleman",
+      "order": 7
+    },
+    {
+      "personId": 9095,
+      "character": "The Obliging Gentleman",
+      "order": 8
+    },
+    {
+      "personId": 9084,
+      "character": "Streetcar Conductor (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 80546,
+      "character": "Dance Hall Manager (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 9096,
+      "character": "Manager of Hair Salon (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1518442,
+      "character": "Little Girl (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 120534,
+      "character": "Woman in Dance Hall (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 9097,
+      "character": "Angry Driver (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 2960352,
+      "character": "Performer - Song: 'Tozo' (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 96055,
+      "character": "Boy (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 240803,
+      "character": "Old Seaman (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 137405,
+      "character": "Villager (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 9076,
+      "character": "Dancer (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 942,
+  "sources": [
+    "cult-list"
+  ]
+}

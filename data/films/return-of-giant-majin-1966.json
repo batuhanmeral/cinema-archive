@@ -1,0 +1,174 @@
+{
+  "tmdbId": 28857,
+  "slug": "return-of-giant-majin-1966",
+  "year": 1966,
+  "runtime": 79,
+  "originalTitle": "大魔神怒る",
+  "title": {
+    "en": "Return of Giant Majin",
+    "tr": "大魔神怒る"
+  },
+  "overview": {
+    "en": "The tyrannical Lord Danjo Mikoshiba covets the rich, fertile lands surrounding Lake Yakumo. During a memorial ceremony for the late Chigusa lord, Mikoshiba launches an attack, overthrowing the honorable Lord Juro. Just when all seems lost, Daimajin rises from Lake Yakumo to settle a score of his own.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/f4UJnKogJvrzt5baU0He3xGG5GL.jpg",
+    "en": "/x2roQy33sv5Bv203RxJnoVEcN1e.jpg"
+  },
+  "backdrops": [
+    "/aDd1tr2nFmljBN6mirZiHqC8y4S.jpg",
+    "/pQTz9sEkyxnnLW4AxXH25neMbOe.jpg"
+  ],
+  "trailerKey": "pnT3RMYFpVs",
+  "genreIds": [
+    18,
+    14,
+    27
+  ],
+  "keywordIds": [
+    1299,
+    11100,
+    9663,
+    9748,
+    161791,
+    198754
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Daiei Film"
+  ],
+  "crew": [
+    {
+      "personId": 425396,
+      "job": "composer"
+    },
+    {
+      "personId": 80702,
+      "job": "director"
+    },
+    {
+      "personId": 101717,
+      "job": "writer"
+    },
+    {
+      "personId": 7459,
+      "job": "producer"
+    },
+    {
+      "personId": 1529377,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 554162,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 111948,
+      "character": "Lord Juro",
+      "order": 0
+    },
+    {
+      "personId": 128024,
+      "character": "Lady Sayuri",
+      "order": 1
+    },
+    {
+      "personId": 1106079,
+      "character": "Dodohei",
+      "order": 2
+    },
+    {
+      "personId": 985090,
+      "character": "Lord Danjô Mikoshiba",
+      "order": 3
+    },
+    {
+      "personId": 111957,
+      "character": "Ikkaku Arai",
+      "order": 4
+    },
+    {
+      "personId": 111959,
+      "character": "Shunpei Ikenaga / Majin",
+      "order": 5
+    },
+    {
+      "personId": 85939,
+      "character": "Hayato Tabe",
+      "order": 6
+    },
+    {
+      "personId": 1056769,
+      "character": "Genba Onikojima",
+      "order": 7
+    },
+    {
+      "personId": 1416282,
+      "character": "Farmer 3",
+      "order": 8
+    },
+    {
+      "personId": 1416283,
+      "character": "Ryûta - Dodohei's Younger Brother",
+      "order": 9
+    },
+    {
+      "personId": 1416284,
+      "character": "Mohachi",
+      "order": 10
+    },
+    {
+      "personId": 134349,
+      "character": "Shige",
+      "order": 11
+    },
+    {
+      "personId": 1008450,
+      "character": "Tasuke",
+      "order": 12
+    },
+    {
+      "personId": 1416285,
+      "character": "Farmer 1",
+      "order": 13
+    },
+    {
+      "personId": 555583,
+      "character": "Farmer 2",
+      "order": 14
+    },
+    {
+      "personId": 1008468,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1608825,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1416283,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 150312,
+      "character": "Toyo",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 66,
+  "sources": [
+    "cult-list"
+  ]
+}

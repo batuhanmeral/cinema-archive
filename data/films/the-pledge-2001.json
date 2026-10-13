@@ -1,0 +1,198 @@
+{
+  "tmdbId": 5955,
+  "slug": "the-pledge-2001",
+  "year": 2001,
+  "runtime": 124,
+  "originalTitle": "The Pledge",
+  "title": {
+    "en": "The Pledge",
+    "tr": "Söz"
+  },
+  "overview": {
+    "en": "A police chief, about to retire, pledges to help a woman find her daughter's killer.",
+    "tr": "Jerry Black şeriflikten emekliye ayrıldığı gece, kızı hunharca öldürülen anneye katili bulacağına dair söz verir. Polisin yanlış adamı tutukladığına inanan Jery, aynı bölgede sarı saçlı üç kız çocuğunun daha öldürüldüğünü farkeder. Bu ipucundan da yola çıkan emekli polisle katil zanlısı arasında amansız bir kovalamaca başlar."
+  },
+  "poster": {
+    "tr": "/9QOzFL3FPMAUNNPrNiKC3mEDxco.jpg",
+    "en": "/pSZrgDd2clNcity14EDtPu9Wwyz.jpg"
+  },
+  "backdrops": [
+    "/grexMZUIPK83kD12KO9uVE8Gg83.jpg",
+    "/o62VYsoyEUYgYMn21Thd9GHTuUE.jpg",
+    "/joX5AfeMP9oYfKxyZ2EmJztqDiS.jpg",
+    "/27rOH6s8vrGoJfEACqjouGTfKU9.jpg",
+    "/nUz8Y2ejzNAzxhbHMEY6P7a5NaL.jpg",
+    "/sK3IoFxiJI9tyclbXojGDNbnWuv.jpg",
+    "/rTIDuGzf7W8ujT7pA6FoeNnhdnJ.jpg",
+    "/T0KFNkFSkhEKKv1ev8RxgVquvK.jpg"
+  ],
+  "trailerKey": "F0mHXlLnDzw",
+  "genreIds": [
+    80,
+    18,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    6044,
+    9826,
+    13151,
+    177996,
+    187327,
+    187328,
+    241801
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Franchise Pictures",
+    "Clyde Is Hungry Films"
+  ],
+  "crew": [
+    {
+      "personId": 2228,
+      "job": "director"
+    },
+    {
+      "personId": 2228,
+      "job": "producer"
+    },
+    {
+      "personId": 122,
+      "job": "composer"
+    },
+    {
+      "personId": 947,
+      "job": "composer"
+    },
+    {
+      "personId": 8969,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 46811,
+      "job": "writer"
+    },
+    {
+      "personId": 46812,
+      "job": "writer"
+    },
+    {
+      "personId": 46813,
+      "job": "producer"
+    },
+    {
+      "personId": 18691,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 514,
+      "character": "Jerry Black",
+      "order": 0
+    },
+    {
+      "personId": 15735,
+      "character": "Doctor",
+      "order": 1
+    },
+    {
+      "personId": 6383,
+      "character": "Stan Krolak",
+      "order": 2
+    },
+    {
+      "personId": 32,
+      "character": "Lori",
+      "order": 3
+    },
+    {
+      "personId": 9880,
+      "character": "Eric Pollack",
+      "order": 4
+    },
+    {
+      "personId": 1121,
+      "character": "Toby Jay Wadenah",
+      "order": 5
+    },
+    {
+      "personId": 1276,
+      "character": "Margaret Larsen",
+      "order": 6
+    },
+    {
+      "personId": 2295,
+      "character": "Jim Olstad",
+      "order": 7
+    },
+    {
+      "personId": 13333,
+      "character": "Annalise Hansen",
+      "order": 8
+    },
+    {
+      "personId": 2207,
+      "character": "Helen Jackson",
+      "order": 9
+    },
+    {
+      "personId": 12543,
+      "character": "Jean",
+      "order": 10
+    },
+    {
+      "personId": 36055,
+      "character": "Monash Deputy",
+      "order": 11
+    },
+    {
+      "personId": 5048,
+      "character": "Floyd Cage",
+      "order": 12
+    },
+    {
+      "personId": 119232,
+      "character": "Gary Jackson",
+      "order": 13
+    },
+    {
+      "personId": 1585738,
+      "character": "Rudy",
+      "order": 14
+    },
+    {
+      "personId": 46814,
+      "character": "Strom",
+      "order": 15
+    },
+    {
+      "personId": 46815,
+      "character": "Resort Owner",
+      "order": 16
+    },
+    {
+      "personId": 43933,
+      "character": "Sheriff",
+      "order": 17
+    },
+    {
+      "personId": 2318349,
+      "character": "Bus Driver",
+      "order": 18
+    },
+    {
+      "personId": 38085,
+      "character": "Duane Larsen",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1267,
+  "sources": [
+    "cult-list"
+  ]
+}

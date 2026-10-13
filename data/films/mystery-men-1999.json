@@ -1,0 +1,208 @@
+{
+  "tmdbId": 9824,
+  "slug": "mystery-men-1999",
+  "year": 1999,
+  "runtime": 121,
+  "originalTitle": "Mystery Men",
+  "title": {
+    "en": "Mystery Men",
+    "tr": "Şapşal Kahramanlar"
+  },
+  "overview": {
+    "en": "When Champion City's hero Captain Amazing is kidnapped by the recently paroled supervillain Casanova Frankenstein, a trio of average, everyday superheroes -- Mr. Furious, the Shoveler and the Blue Raja -- assemble a new super team to save him.",
+    "tr": "Süper kahramanlar şehri Champion City'de, şehrin efsanevi kahramanı Captain Amazing'in ortadan kaybolmasıyla kötü adam Casanova Frankenstein serbest kalır. Şehri kurtarma görevi, yetenekleri oldukça sıradan olan bir grup tuhaf amatör süper kahramana düşer: Çatalla ustalıkla dövüşen The Shoveler, görünmez olabilen (ama sadece kimse ona bakmıyorken) Invisible Boy ve öfkelendiğinde korkunç bir gaz çıkaran Spleen gibi karakterlerden oluşan bu garip ekip, kendilerini \"Mystery Men\" olarak adlandırır. Yetersiz yeteneklerine rağmen, ekip bir araya gelerek gerçek bir takım olmayı öğrenir ve Casanova Frankenstein'ın kötü planını durdurmak için sıra dışı becerilerini kullanır. Film, süper kahraman klişelerini absürt bir mizahla ele alırken, \"kahraman olmak için süper güç gerekmez\" mesajını eğlenceli bir şekilde verir."
+  },
+  "poster": {
+    "tr": "/ciVSbFmDecOIwlxl9F6GhHVgCVJ.jpg",
+    "en": "/3O2uzpG97ndCeAWgS22rNB2xL6N.jpg"
+  },
+  "backdrops": [
+    "/hhw6DMJ4AQ5ifHyBENEwCgsLthI.jpg",
+    "/mjPIaHzVDWBqTQJoLAmZEL21REv.jpg",
+    "/pMQ2ikBL8XHrKhcdCyfJB279yxL.jpg",
+    "/n4J3Zrg49qR5peKVnKW9SHvv4Ig.jpg",
+    "/rARSNt6XZeVBB8PeuEIKpvU4TXG.jpg",
+    "/nrLnodkGvswfPiuKfbdPZN8P5eI.jpg",
+    "/j4EMu7FgTL53oBkI5anVUzub4YH.jpg",
+    "/ncdCPQH74LS5e6JfykGhua2q7Ts.jpg",
+    "/9WIogQYSLfgIToSa9jX2fW2vioy.jpg",
+    "/zFZ55JZltMCNQqYt0NQaEOlVYUL.jpg"
+  ],
+  "trailerKey": "pPkXTEZupEo",
+  "genreIds": [
+    12,
+    14,
+    28,
+    35,
+    878
+  ],
+  "keywordIds": [
+    420,
+    1562,
+    9715,
+    3465,
+    4613,
+    4924,
+    9717,
+    8642,
+    6100,
+    11931,
+    41376,
+    155490,
+    157677,
+    160130,
+    163074,
+    189115,
+    200646,
+    211712,
+    269233
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "Golar Productions",
+    "Dark Horse Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 1093,
+      "job": "producer"
+    },
+    {
+      "personId": 59646,
+      "job": "director"
+    },
+    {
+      "personId": 1993,
+      "job": "producer"
+    },
+    {
+      "personId": 40832,
+      "job": "producer"
+    },
+    {
+      "personId": 1258,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 59648,
+      "job": "writer"
+    },
+    {
+      "personId": 469,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7399,
+      "character": "Mr. Furious / Roy",
+      "order": 0
+    },
+    {
+      "personId": 5587,
+      "character": "Blue Raja / Jeffrey",
+      "order": 1
+    },
+    {
+      "personId": 3905,
+      "character": "Shoveler / Eddie",
+      "order": 2
+    },
+    {
+      "personId": 17141,
+      "character": "Captain Amazing / Lance",
+      "order": 3
+    },
+    {
+      "personId": 59645,
+      "character": "Invisible Boy",
+      "order": 4
+    },
+    {
+      "personId": 5129,
+      "character": "Spleen",
+      "order": 5
+    },
+    {
+      "personId": 21197,
+      "character": "Bowler / Carol",
+      "order": 6
+    },
+    {
+      "personId": 15853,
+      "character": "Sphinx",
+      "order": 7
+    },
+    {
+      "personId": 4174,
+      "character": "Monica",
+      "order": 8
+    },
+    {
+      "personId": 118,
+      "character": "Casanova Frankenstein",
+      "order": 9
+    },
+    {
+      "personId": 5313,
+      "character": "Dr. Anabel Leek",
+      "order": 10
+    },
+    {
+      "personId": 1926,
+      "character": "Tony P",
+      "order": 11
+    },
+    {
+      "personId": 2887,
+      "character": "Doc Heller",
+      "order": 12
+    },
+    {
+      "personId": 20788,
+      "character": "Big Red",
+      "order": 13
+    },
+    {
+      "personId": 9565,
+      "character": "Violet",
+      "order": 14
+    },
+    {
+      "personId": 10743,
+      "character": "Vic Weems",
+      "order": 15
+    },
+    {
+      "personId": 15899,
+      "character": "Lucille",
+      "order": 16
+    },
+    {
+      "personId": 61649,
+      "character": "Tony C",
+      "order": 17
+    },
+    {
+      "personId": 2141,
+      "character": "Funk",
+      "order": 18
+    },
+    {
+      "personId": 12223,
+      "character": "McGuire",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 963,
+  "sources": [
+    "cult-list"
+  ]
+}

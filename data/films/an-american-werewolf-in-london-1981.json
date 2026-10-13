@@ -1,0 +1,219 @@
+{
+  "tmdbId": 814,
+  "slug": "an-american-werewolf-in-london-1981",
+  "year": 1981,
+  "runtime": 97,
+  "originalTitle": "An American Werewolf in London",
+  "title": {
+    "en": "An American Werewolf in London",
+    "tr": "Kurt Adam Londra'da"
+  },
+  "overview": {
+    "en": "American tourists David and Jack are savagely attacked by an unidentified animal while hiking on the Yorkshire Moors. After retiring to the home of a beautiful nurse to recuperate, David soon begins experiencing disturbing changes to his body and mind.",
+    "tr": "Amerika'dan gelen iki genç öğrenci, İngiltere kırsalında ne olduğunu anlamadıkları bir yaratığın saldırısına uğrar. Arkadaşını bu saldırı sonucu kaybeden David ise hayatta kaldığına pişman olacaktır. Çünkü, lânet artık onun da kanına girmiştir."
+  },
+  "poster": {
+    "tr": "/plyGF6KTc75lNpBD1RKOLZFPwTm.jpg",
+    "en": "/dlnccJQuRQuxnpDdDtmFlW7MKH1.jpg"
+  },
+  "backdrops": [
+    "/4js6VLf6qHWUbW42BpXiQKPBP7t.jpg",
+    "/t6zSGY2wXIFpoOqGcOFwfDwNQan.jpg",
+    "/seeKm7GfV9tZWpYKGLuWsJGyrDA.jpg",
+    "/tUbHgW2bFoKeM68rDQBY82EJpuV.jpg",
+    "/i3Y1L1QzzgMa75cGtOjdtJfnIsB.jpg",
+    "/m1DYZt1IW21tHaoIsMoi203CHkV.jpg",
+    "/pmrDpyXvzC74kbB820uqfx4VkXz.jpg",
+    "/mwIftJoTo8Obgks1LO6TxWe1uW5.jpg",
+    "/faK1VWh8oA561BrY1BqmOB6lStF.jpg",
+    "/9ULkB06skA3zhoLuYzIZqtFDHdU.jpg"
+  ],
+  "trailerKey": "EM9quAtFUH4",
+  "genreIds": [
+    35,
+    27
+  ],
+  "keywordIds": [
+    3737,
+    212,
+    1567,
+    428,
+    697,
+    2172,
+    4375,
+    2803,
+    3335,
+    4550,
+    4553,
+    7033,
+    9180,
+    11004,
+    12564,
+    13031,
+    17982,
+    155479,
+    160840,
+    162810,
+    200918,
+    201715,
+    202371,
+    244530,
+    259376,
+    264910,
+    282861,
+    293649,
+    309974,
+    315323,
+    320420,
+    325761,
+    325762,
+    325763,
+    325764,
+    325776,
+    325791,
+    325817,
+    325825
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Lyncanthrope Films",
+    "Polygram Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 4610,
+      "job": "director"
+    },
+    {
+      "personId": 7184,
+      "job": "producer"
+    },
+    {
+      "personId": 7182,
+      "job": "composer"
+    },
+    {
+      "personId": 14456,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4610,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14463,
+      "character": "David Kessler",
+      "order": 0
+    },
+    {
+      "personId": 2171,
+      "character": "Jack Goodman",
+      "order": 1
+    },
+    {
+      "personId": 14464,
+      "character": "Nurse Alex Price",
+      "order": 2
+    },
+    {
+      "personId": 14465,
+      "character": "Dr. J.S. Hirsch",
+      "order": 3
+    },
+    {
+      "personId": 178097,
+      "character": "Inspector Villiers",
+      "order": 4
+    },
+    {
+      "personId": 14468,
+      "character": "Chess Player",
+      "order": 5
+    },
+    {
+      "personId": 939,
+      "character": "Dart Player",
+      "order": 6
+    },
+    {
+      "personId": 14466,
+      "character": "Barmaid",
+      "order": 7
+    },
+    {
+      "personId": 14469,
+      "character": "Second Chess Player",
+      "order": 8
+    },
+    {
+      "personId": 14470,
+      "character": "Second Dart Player",
+      "order": 9
+    },
+    {
+      "personId": 7908,
+      "character": "Mr. Collins",
+      "order": 10
+    },
+    {
+      "personId": 199977,
+      "character": "Sergeant McManus",
+      "order": 11
+    },
+    {
+      "personId": 14467,
+      "character": "Truck Driver",
+      "order": 12
+    },
+    {
+      "personId": 14471,
+      "character": "First Werewolf",
+      "order": 13
+    },
+    {
+      "personId": 14472,
+      "character": "Nurse Susan Gallagher",
+      "order": 14
+    },
+    {
+      "personId": 1660002,
+      "character": "Benjamin",
+      "order": 15
+    },
+    {
+      "personId": 14759,
+      "character": "Hospital Porter",
+      "order": 16
+    },
+    {
+      "personId": 1660000,
+      "character": "Rachel Kessler",
+      "order": 17
+    },
+    {
+      "personId": 1319052,
+      "character": "Max Kessler",
+      "order": 18
+    },
+    {
+      "personId": 185033,
+      "character": "Mr. Kessler",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 2846,
+  "sources": [
+    "cult-list"
+  ]
+}

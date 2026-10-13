@@ -1,0 +1,189 @@
+{
+  "tmdbId": 1700,
+  "slug": "misery-1990",
+  "year": 1990,
+  "runtime": 107,
+  "originalTitle": "Misery",
+  "title": {
+    "en": "Misery",
+    "tr": "Ölüm Kitabı"
+  },
+  "overview": {
+    "en": "After an accident, acclaimed novelist Paul Sheldon is rescued by a nurse who claims to be his biggest fan.  Her obsession takes a dark turn when she holds him captive in her remote Colorado home and forces him to write back to life the popular literary character he killed off.",
+    "tr": "Paul Sheldon kolay okunan popüler romanlar yazarıdır. Artık kariyerinde bir dönüm noktasında olduğunu düşünür, seri maceralarını yazdığı karakteri Misery Chastain'in öldürüp diziyi bitirir. Paul taşrada geçirdiği bir araba kazasından yaralı kurtulur. Onu bulup evinde bakmaya başlayan Annie Wilkes, şans eseri Paul'un sadık okurlarından biridir ve kahramanı Misery Chastain'in de sıkı bir hayranıdır. Son kitabı okuyup Misery'nin ölümüyle şoke olan kadın öfkeye kapılır ve Paul'u ayağından feci şekilde yaralayarak onu yatağa hapseder. Hem bölge şerifi hem de menajeri umutsuzca Paul'ü ararken o, gardiyanı Annie'ye özel bir Misery macerası daha yazmak zorundadır. Harry ile Sally Tanışınca yönetmeni Rob Reiner'ın bu müthiş başarılı Stephen King uyarlaması, o zamana dek gölgede kalmış aktris Kathy Bates'i şöhretle tanıştırmakla kalmamış, onu Oscar'la da buluşturmuştu.."
+  },
+  "poster": {
+    "tr": "/i1zY7xYk5UJfIw7mOT5jHl2nXrU.jpg",
+    "en": "/klPO5oh1LOxiPpdDXZo1ADgpKcw.jpg"
+  },
+  "backdrops": [
+    "/rUAn3Ul1tL7JXMjZ951UOI3F0UA.jpg",
+    "/fbvjEAgPwhs9I3pzuaKmw5ZZuEZ.jpg",
+    "/cgo3OmF84touDrrLkQ1DQ3MRFyO.jpg",
+    "/9BcwaJWXqHXV5D76I7ZOepFCoFk.jpg",
+    "/tIbNoJc0Oh4g6GZYpaR3IV2WSGZ.jpg",
+    "/fIJ7jqqQvtoJbyHsvgzgMTQFLfz.jpg",
+    "/jwEbF0olhatEdhBnviJiEruazff.jpg",
+    "/xmLuHtwa5VziUtw8TW6TnQNQJ1M.jpg",
+    "/A54nFGzQTofgVTH65kjK5pKG6JV.jpg",
+    "/jE6U61qtbn78o1wkm3sNbZ0oecF.jpg"
+  ],
+  "trailerKey": "qM20YWFOGgY",
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    818,
+    428,
+    6259,
+    1981,
+    9844,
+    10818,
+    12339,
+    12565,
+    13006,
+    18062,
+    156783,
+    157701,
+    172929,
+    176182,
+    193227,
+    197582,
+    199524,
+    227855,
+    227951,
+    234574,
+    242024,
+    267422,
+    286507,
+    291004,
+    295907,
+    309029,
+    314730,
+    321464,
+    325818,
+    328072,
+    343646
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Castle Rock Entertainment",
+    "Nelson Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 348,
+      "job": "writer"
+    },
+    {
+      "personId": 5174,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3030,
+      "job": "producer"
+    },
+    {
+      "personId": 3026,
+      "job": "director"
+    },
+    {
+      "personId": 3026,
+      "job": "producer"
+    },
+    {
+      "personId": 9251,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8534,
+      "character": "Annie Wilkes",
+      "order": 0
+    },
+    {
+      "personId": 3085,
+      "character": "Paul Sheldon",
+      "order": 1
+    },
+    {
+      "personId": 5605,
+      "character": "Buster",
+      "order": 2
+    },
+    {
+      "personId": 7570,
+      "character": "Marcia Sindell",
+      "order": 3
+    },
+    {
+      "personId": 36926,
+      "character": "Virginia",
+      "order": 4
+    },
+    {
+      "personId": 36927,
+      "character": "Libby",
+      "order": 5
+    },
+    {
+      "personId": 137910,
+      "character": "Pete",
+      "order": 6
+    },
+    {
+      "personId": 1357507,
+      "character": "Anchorman",
+      "order": 7
+    },
+    {
+      "personId": 172696,
+      "character": "Anchorwoman",
+      "order": 8
+    },
+    {
+      "personId": 78620,
+      "character": "Reporter #1",
+      "order": 9
+    },
+    {
+      "personId": 93670,
+      "character": "Reporter #2",
+      "order": 10
+    },
+    {
+      "personId": 1229807,
+      "character": "Reporter #3",
+      "order": 11
+    },
+    {
+      "personId": 1327719,
+      "character": "Waitress",
+      "order": 12
+    },
+    {
+      "personId": 3026,
+      "character": "Helicopter Pilot (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 22131,
+      "character": "State Trooper Sherman Douglas (uncredited)",
+      "order": 14
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 5502,
+  "sources": [
+    "cult-list"
+  ]
+}

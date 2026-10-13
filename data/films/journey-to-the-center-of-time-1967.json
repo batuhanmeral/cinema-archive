@@ -1,0 +1,102 @@
+{
+  "tmdbId": 46139,
+  "slug": "journey-to-the-center-of-time-1967",
+  "year": 1967,
+  "runtime": 82,
+  "originalTitle": "Journey to the Center of Time",
+  "title": {
+    "en": "Journey to the Center of Time",
+    "tr": "Journey to the Center of Time"
+  },
+  "overview": {
+    "en": "Scientists must prove their time travel experiments can produce results, so their funding won't be cut off. They push their equipment, and travel 5000 years into the future, where they encounter aliens who are looking for a planet to colonize.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/8hoM0XajwMQhsTGgW9TnCvgtqMV.jpg",
+    "en": "/8hoM0XajwMQhsTGgW9TnCvgtqMV.jpg"
+  },
+  "backdrops": [
+    "/8d21CYpB5fXyaPN41L0fq8xGS27.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    878,
+    12,
+    14
+  ],
+  "keywordIds": [],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 100289,
+      "job": "director"
+    },
+    {
+      "personId": 949784,
+      "job": "producer"
+    },
+    {
+      "personId": 100289,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14847,
+      "character": "Stanton",
+      "order": 0
+    },
+    {
+      "personId": 30687,
+      "character": "Mark Manning",
+      "order": 1
+    },
+    {
+      "personId": 135066,
+      "character": "Dr. (Doc) Gordon",
+      "order": 2
+    },
+    {
+      "personId": 111988,
+      "character": "Karen White",
+      "order": 3
+    },
+    {
+      "personId": 135067,
+      "character": "Mr Denning",
+      "order": 4
+    },
+    {
+      "personId": 135068,
+      "character": "Vina",
+      "order": 5
+    },
+    {
+      "personId": 135069,
+      "character": "Susan",
+      "order": 6
+    },
+    {
+      "personId": 135070,
+      "character": "Dave",
+      "order": 7
+    },
+    {
+      "personId": 44933,
+      "character": "Alien",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 24,
+  "sources": [
+    "cult-list"
+  ]
+}

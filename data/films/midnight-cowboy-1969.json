@@ -1,0 +1,207 @@
+{
+  "tmdbId": 3116,
+  "slug": "midnight-cowboy-1969",
+  "year": 1969,
+  "runtime": 113,
+  "originalTitle": "Midnight Cowboy",
+  "title": {
+    "en": "Midnight Cowboy",
+    "tr": "Geceyarısı Kovboyu"
+  },
+  "overview": {
+    "en": "Joe Buck is a wide-eyed hustler from Texas hoping to score big with wealthy New York City women; he finds a companion in Enrico \"Ratso\" Rizzo, an ailing swindler with a bum leg and a quixotic fantasy of escaping to Florida.",
+    "tr": "Joe Buck, geçmişini bir kenara bırakır ve New York’a doğru bir yolculuğa çıkar. Niyeti orada zengin kadınlarla tanışıp, jigololuk yapmaktır. Ancak şehir hiç de onun beklediği gibi değildir. Kısa bir süre sonra fakir bir dolandırıcı olan Ratzo ile tanışır ve bu iki adam, çaresizliklerle dolu hayatlarında birbirlerinin en yakın dostu olur."
+  },
+  "poster": {
+    "tr": "/ckklq45UxUkwgHve9xItXqXr06r.jpg",
+    "en": "/ckklq45UxUkwgHve9xItXqXr06r.jpg"
+  },
+  "backdrops": [
+    "/yTIvOi9x7C9vTbzfG4GqMoh9MaZ.jpg",
+    "/pEdb6DfEBgaXF7S0EHzqnJvTGex.jpg",
+    "/u95fY2KmmxaBOZkvLmX5QZBymfO.jpg",
+    "/wY04PHkTBqdlaEbsDj6cchfRL98.jpg",
+    "/68vnoNHZ88yk3mVIzFBPMIuw40y.jpg",
+    "/mR8hII9qsDMlEWvTWcHyOTsy5bv.jpg",
+    "/9Ln5wxy1yuvgIEw2hDqMld44BGH.jpg",
+    "/mm8USQF4AdB82RaO7vamUPo0FB4.jpg",
+    "/p6qEWTWFurcoJhGMcwMQIFacft8.jpg",
+    "/aSymChnLIILgGIABHh01gTbTZ4p.jpg"
+  ],
+  "trailerKey": "o29GST0Lj28",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    242,
+    6054,
+    549,
+    570,
+    818,
+    1879,
+    1556,
+    2348,
+    2981,
+    9627,
+    10180,
+    11722,
+    11860,
+    12365,
+    33424,
+    158718,
+    167863,
+    184167,
+    208992,
+    251667,
+    266753,
+    293649,
+    309029
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Florin Productions",
+    "Jerome Hellman Productions",
+    "United Artists"
+  ],
+  "crew": [
+    {
+      "personId": 14677,
+      "job": "writer"
+    },
+    {
+      "personId": 19304,
+      "job": "director"
+    },
+    {
+      "personId": 30578,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30571,
+      "job": "producer"
+    },
+    {
+      "personId": 2289,
+      "job": "composer"
+    },
+    {
+      "personId": 1150009,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4483,
+      "character": "Ratso",
+      "order": 0
+    },
+    {
+      "personId": 10127,
+      "character": "Joe Buck",
+      "order": 1
+    },
+    {
+      "personId": 19335,
+      "character": "Cass",
+      "order": 2
+    },
+    {
+      "personId": 1943,
+      "character": "Mr. O'Daniel",
+      "order": 3
+    },
+    {
+      "personId": 30585,
+      "character": "Shirley",
+      "order": 4
+    },
+    {
+      "personId": 2549,
+      "character": "Towny",
+      "order": 5
+    },
+    {
+      "personId": 8493,
+      "character": "Sally Buck",
+      "order": 6
+    },
+    {
+      "personId": 41258,
+      "character": "Annie",
+      "order": 7
+    },
+    {
+      "personId": 109957,
+      "character": "Woodsy Niles",
+      "order": 8
+    },
+    {
+      "personId": 3163522,
+      "character": "Little Joe",
+      "order": 9
+    },
+    {
+      "personId": 1075091,
+      "character": "Little Joe",
+      "order": 10
+    },
+    {
+      "personId": 1075092,
+      "character": "Ralph",
+      "order": 11
+    },
+    {
+      "personId": 1066346,
+      "character": "Cafeteria Manager",
+      "order": 12
+    },
+    {
+      "personId": 1844158,
+      "character": "Mother on the Bus",
+      "order": 13
+    },
+    {
+      "personId": 3163524,
+      "character": "Old Cow-Hand",
+      "order": 14
+    },
+    {
+      "personId": 1844159,
+      "character": "The Old Lady",
+      "order": 15
+    },
+    {
+      "personId": 14109,
+      "character": "Rich Lady",
+      "order": 16
+    },
+    {
+      "personId": 1844160,
+      "character": "Jackie",
+      "order": 17
+    },
+    {
+      "personId": 119778,
+      "character": "TV Bishop",
+      "order": 18
+    },
+    {
+      "personId": 12438,
+      "character": "The Young Student",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 1708,
+  "sources": [
+    "cult-list"
+  ]
+}

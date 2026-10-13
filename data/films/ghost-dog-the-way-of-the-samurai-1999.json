@@ -1,0 +1,204 @@
+{
+  "tmdbId": 4816,
+  "slug": "ghost-dog-the-way-of-the-samurai-1999",
+  "year": 1999,
+  "runtime": 117,
+  "originalTitle": "Ghost Dog: The Way of the Samurai",
+  "title": {
+    "en": "Ghost Dog: The Way of the Samurai",
+    "tr": "Hayalet Köpek: Samurayın Yolu"
+  },
+  "overview": {
+    "en": "A Black hitman who models after the samurai of old finds himself targeted for death by the mob.",
+    "tr": "Ghost Dog'un hayat dinamiklerini yalnızca iki olgu belirliyor. Birincisi Hagakure: The Way of the Samurai isimli bir kitap. Bir diğeri ise yıllar önce onu ölümden kurtarmış olan lokal bir gangster. Kendini samuray gibi eğiten bu tuhaf adam, içgüdüsel olarak kendisini ölümden kurtaran adama büyük bir sadakat duyduğu için, her şeyi yapabilecek bir silah * Jim Jarmusch'un yönettiği Ghost Dog, ünlü yönetmenin her zamanki dokunuşlarını da bünyesinde barındırıyor."
+  },
+  "poster": {
+    "tr": "/gjcl07r9zgQ9tVo9alyHmysPFfX.jpg",
+    "en": "/gkH4zOxIfbb4BEbk9Q4cVOEpDaY.jpg"
+  },
+  "backdrops": [
+    "/9oRbHgbJf1Zr2fct8jBIKadpKya.jpg",
+    "/sxxK2YzHPmDW5aDWDFOs1OjrVin.jpg",
+    "/pgyzTXv4hBJ7DzSgvOfIFLNhfGq.jpg",
+    "/t3Hqjs3EFLGlEKPy7v3YkkNJBux.jpg",
+    "/k7C7c7Wfgef5fayT1j0UgClNGiO.jpg",
+    "/ltZXiN9zUmmrDtJV6wsBHUHmTar.jpg",
+    "/69XTSXFch0eosDshReYGiNLGi9n.jpg",
+    "/80A15cocDNupdJw5f5i9TogpBum.jpg",
+    "/l1hdeccUUF8Bv3fkPo0Vrf4Kd6y.jpg",
+    "/qmQ0bTWRrQyiF86aGL6aHDI3458.jpg"
+  ],
+  "trailerKey": "ZhR6jWWpUj0",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    898,
+    586,
+    2708,
+    3045,
+    9748,
+    10391,
+    14798,
+    156151,
+    156152,
+    156153,
+    156154,
+    156155,
+    156157,
+    156158,
+    158471,
+    177317,
+    177964,
+    230525,
+    256015
+  ],
+  "countries": [
+    "FR",
+    "DE",
+    "JP",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "JVC",
+    "Bac Films",
+    "Pandora Film"
+  ],
+  "crew": [
+    {
+      "personId": 4429,
+      "job": "director"
+    },
+    {
+      "personId": 4429,
+      "job": "producer"
+    },
+    {
+      "personId": 1632,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 39595,
+      "job": "producer"
+    },
+    {
+      "personId": 150,
+      "job": "composer"
+    },
+    {
+      "personId": 4429,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2178,
+      "character": "Ghost Dog",
+      "order": 0
+    },
+    {
+      "personId": 28002,
+      "character": "Louie",
+      "order": 1
+    },
+    {
+      "personId": 19183,
+      "character": "Sonny Valerio",
+      "order": 2
+    },
+    {
+      "personId": 39598,
+      "character": "Big Angie",
+      "order": 3
+    },
+    {
+      "personId": 4255,
+      "character": "Handsome Frank",
+      "order": 4
+    },
+    {
+      "personId": 39596,
+      "character": "Louise Vargo",
+      "order": 5
+    },
+    {
+      "personId": 14731,
+      "character": "Ray Vargo",
+      "order": 6
+    },
+    {
+      "personId": 39599,
+      "character": "Old Consigliere",
+      "order": 7
+    },
+    {
+      "personId": 4692,
+      "character": "Valerio's Bodyguard",
+      "order": 8
+    },
+    {
+      "personId": 2561,
+      "character": "Vinny",
+      "order": 9
+    },
+    {
+      "personId": 4812,
+      "character": "Raymond",
+      "order": 10
+    },
+    {
+      "personId": 1222948,
+      "character": "Pearline",
+      "order": 11
+    },
+    {
+      "personId": 39597,
+      "character": "Young Ghost Dog",
+      "order": 12
+    },
+    {
+      "personId": 1512293,
+      "character": "Johnny Morini",
+      "order": 13
+    },
+    {
+      "personId": 933507,
+      "character": "Mugger",
+      "order": 14
+    },
+    {
+      "personId": 2511130,
+      "character": "Chinese Restaurant Owner",
+      "order": 15
+    },
+    {
+      "personId": 2511133,
+      "character": "Boy in Window",
+      "order": 16
+    },
+    {
+      "personId": 105248,
+      "character": "Gangsta in Red",
+      "order": 17
+    },
+    {
+      "personId": 2511138,
+      "character": "Gangsta in Red",
+      "order": 18
+    },
+    {
+      "personId": 74123,
+      "character": "Gangsta in Red",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1493,
+  "sources": [
+    "cult-list"
+  ]
+}

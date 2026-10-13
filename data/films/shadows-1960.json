@@ -1,0 +1,180 @@
+{
+  "tmdbId": 15484,
+  "slug": "shadows-1960",
+  "year": 1960,
+  "runtime": 87,
+  "originalTitle": "Shadows",
+  "title": {
+    "en": "Shadows",
+    "tr": "Gölgeler"
+  },
+  "overview": {
+    "en": "The relationship between Lelia, a light-skinned black woman, and Tony, a white man is put in jeopardy when Tony meets Lelia’s darker-skinned jazz singer brother, Hugh, and discovers that her racial heritage is not what he thought it was.",
+    "tr": "Genç, karaderili bir caz şarkıcısı olan Hugh, açık renk tenli kardeşi Ben ve beyaz sanılabilecek kız kardeşi Lelia ile birlikte Manhattan'da bir dairede kalır. Lelia, edebiyat ve sanat çevrelerinde gezip sürekli kendi kimliğini ararken, aynı şekilde kendini bulmaya çalışan müstakbel müzisyen Ben, iki beyaz arkadaşı Tom ve Dennis'le birlikte amaçsızca sokaklarda dolanır.  Cassavetes'in yönetmen olarak ilk filmi olan bu doğaçlamaya dayalı, çığır açıcı bağımsız film , New York mekânları ve Charles Mingus'un doğaçlama caz müziğinden büyük ölçüde yararlanarak, dokunaklı, hem acı hem tatlı bir büyüme öyküsünü çarpıcı bir gerçekçilikle anlatıyor.."
+  },
+  "poster": {
+    "tr": "/zR1gHOGVruoROCdHS7Tc5TSZqED.jpg",
+    "en": "/zR1gHOGVruoROCdHS7Tc5TSZqED.jpg"
+  },
+  "backdrops": [
+    "/vBywNMAiQTNn3PxlOWslgYcwcpN.jpg",
+    "/r3QflRBmHSDzLxqcxrw5NTPacU7.jpg",
+    "/kCtqVocqfIJlGNk9tPt8dAE4dqi.jpg",
+    "/jocsFPTgzDfyLzQx7yRJ6z3aTNY.jpg",
+    "/mTj2VVDswcc86TimwNQ9uqFKDhI.jpg",
+    "/tPPV9RjXm1q6MBbuBTso9AusalV.jpg",
+    "/a1LYvCzsrGKtschabGr40byXY77.jpg",
+    "/3dSqejQ2TTRCzHcS4sLX35g7IMm.jpg",
+    "/6OmvPQq1jSD04J05ofWq2fRP0Q6.jpg"
+  ],
+  "trailerKey": "_4Fjpx5kxzs",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1416,
+    299454
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Lion International"
+  ],
+  "crew": [
+    {
+      "personId": 11147,
+      "job": "director"
+    },
+    {
+      "personId": 11147,
+      "job": "writer"
+    },
+    {
+      "personId": 11414,
+      "job": "producer"
+    },
+    {
+      "personId": 237865,
+      "job": "producer"
+    },
+    {
+      "personId": 116649,
+      "job": "composer"
+    },
+    {
+      "personId": 1095840,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 131110,
+      "character": "Ben",
+      "order": 0
+    },
+    {
+      "personId": 41284,
+      "character": "Lelia",
+      "order": 1
+    },
+    {
+      "personId": 146707,
+      "character": "Hugh",
+      "order": 2
+    },
+    {
+      "personId": 146708,
+      "character": "Tony",
+      "order": 3
+    },
+    {
+      "personId": 146709,
+      "character": "Dennis",
+      "order": 4
+    },
+    {
+      "personId": 96165,
+      "character": "Tom",
+      "order": 5
+    },
+    {
+      "personId": 1095841,
+      "character": "David",
+      "order": 6
+    },
+    {
+      "personId": 157211,
+      "character": "Rupert",
+      "order": 7
+    },
+    {
+      "personId": 3148968,
+      "character": "Davey",
+      "order": 8
+    },
+    {
+      "personId": 1801999,
+      "character": "Pir the Piano Player",
+      "order": 9
+    },
+    {
+      "personId": 123956,
+      "character": "Vickie",
+      "order": 10
+    },
+    {
+      "personId": 11416,
+      "character": "Jack",
+      "order": 11
+    },
+    {
+      "personId": 3148977,
+      "character": "Jacqueline",
+      "order": 12
+    },
+    {
+      "personId": 1765913,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1977742,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 233121,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1977741,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 3148978,
+      "character": "Girl in Restaurant",
+      "order": 17
+    },
+    {
+      "personId": 3148979,
+      "character": "Girl in Restaurant",
+      "order": 18
+    },
+    {
+      "personId": 3148980,
+      "character": "Girl in Restaurant",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 279,
+  "sources": [
+    "cult-list"
+  ]
+}

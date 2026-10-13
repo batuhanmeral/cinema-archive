@@ -1,0 +1,203 @@
+{
+  "tmdbId": 649,
+  "slug": "belle-de-jour-1967",
+  "year": 1967,
+  "runtime": 101,
+  "originalTitle": "Belle de jour",
+  "title": {
+    "en": "Belle de Jour",
+    "tr": "Gündüz Güzeli"
+  },
+  "overview": {
+    "en": "Beautiful young housewife Séverine Serizy cannot reconcile her masochistic fantasies with her everyday life alongside dutiful husband Pierre. When her lovestruck friend Henri mentions a secretive high-class brothel run by Madame Anais, Séverine begins to work there during the day under the name Belle de Jour. But when one of her clients grows possessive, she must try to go back to her normal life.",
+    "tr": "Séverine Serizy Paris'te yaşayan ve görünürde mutlu bir evliliği olan her şeye sahip güzel bir kadındır. Séverine doktor olan kocası Pierre'e karşı soğuktur, hatta aralarında fiziksel bir ilişki olmadığı da sezilmektedir. Ancak bu \"soğuk sarışın\"ın ruhunda fırtınalar kopmaktadır. Günün birinde kendisinde gözü de olan aile dostları Henri Husson'dan özel bir randevu evinin adresini alır ve öğleden sonraları bu lüks genelevde çalışmaya başlar. Buradaki yeni adı \"Gündüz Güzeli\"dir artık. Şehvet düşkünü Séverine, randevu evine gittikçe kocasına daha çok bağlanır, aynı zamanda buradaki tiksindirici hayatını da garip bir şekilde kabullenir, zira burada mazoşist cinsel fantezilerini keşfedip yaşamaktadır."
+  },
+  "poster": {
+    "tr": "/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg",
+    "en": "/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg"
+  },
+  "backdrops": [
+    "/9fJPLvrUV32MzpfDwXk7cOnj8hM.jpg",
+    "/9TWSRQdtK7qfhLU24aPqCb7Dl8y.jpg",
+    "/35t5QGiekW1E9WkrIlDJ8JVT0tq.jpg",
+    "/4Zc7ja5d4eGTT0rpx1pOCVLiRgW.jpg",
+    "/c8JQPjKihcTTDdRQ7kDE5dUN59F.jpg",
+    "/z44h4Jza80TMtE1vSYrHITIAuzP.jpg",
+    "/lKH5DNcTd9m5cGJ9VVuQ8p1u9S5.jpg",
+    "/yL5YdtTPs4qgpmqIvKLUgNqULxg.jpg",
+    "/ny6tm550dgayBvGtDTtLPV1UBPs.jpg",
+    "/slM6s0n9EXlxY4IgADOVrT2V6b1.jpg"
+  ],
+  "trailerKey": "gC1lO7lqMuw",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    596,
+    549,
+    931,
+    1566,
+    1157,
+    851,
+    848,
+    2039,
+    1411,
+    2316,
+    3260,
+    186107
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr",
+    "mn",
+    "es"
+  ],
+  "studios": [
+    "Paris Films Productions",
+    "Five Films",
+    "Robert et Raymond Hakim"
+  ],
+  "crew": [
+    {
+      "personId": 9752,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9750,
+      "job": "producer"
+    },
+    {
+      "personId": 793,
+      "job": "director"
+    },
+    {
+      "personId": 9747,
+      "job": "writer"
+    },
+    {
+      "personId": 793,
+      "job": "writer"
+    },
+    {
+      "personId": 9749,
+      "job": "producer"
+    },
+    {
+      "personId": 9751,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 50,
+      "character": "Séverine Serizy",
+      "order": 0
+    },
+    {
+      "personId": 9762,
+      "character": "Pierre Serizy",
+      "order": 1
+    },
+    {
+      "personId": 3784,
+      "character": "Henri Husson",
+      "order": 2
+    },
+    {
+      "personId": 9763,
+      "character": "Madame Anais",
+      "order": 3
+    },
+    {
+      "personId": 17577,
+      "character": "Marcel",
+      "order": 4
+    },
+    {
+      "personId": 9765,
+      "character": "Charlotte",
+      "order": 5
+    },
+    {
+      "personId": 9766,
+      "character": "Renée",
+      "order": 6
+    },
+    {
+      "personId": 37464,
+      "character": "Pallas",
+      "order": 7
+    },
+    {
+      "personId": 2053689,
+      "character": "Mathilde",
+      "order": 8
+    },
+    {
+      "personId": 40976,
+      "character": "The Driver (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 104101,
+      "character": "Footman",
+      "order": 10
+    },
+    {
+      "personId": 1679905,
+      "character": "Asian Client",
+      "order": 11
+    },
+    {
+      "personId": 25976,
+      "character": "Majordomo",
+      "order": 12
+    },
+    {
+      "personId": 938898,
+      "character": "Prof. Henri",
+      "order": 13
+    },
+    {
+      "personId": 28247,
+      "character": "The Teacher",
+      "order": 14
+    },
+    {
+      "personId": 9768,
+      "character": "Hyppolite",
+      "order": 15
+    },
+    {
+      "personId": 9767,
+      "character": "Graf",
+      "order": 16
+    },
+    {
+      "personId": 39645,
+      "character": "Mr. Adolphe",
+      "order": 17
+    },
+    {
+      "personId": 793,
+      "character": "Man in Gardencafe - Left from the Duke (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 37140,
+      "character": "Barman (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "venice": 1
+  },
+  "voteCount": 1056,
+  "sources": [
+    "cult-list"
+  ]
+}

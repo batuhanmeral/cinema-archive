@@ -1,0 +1,196 @@
+{
+  "tmdbId": 42230,
+  "slug": "the-mighty-peking-man-1977",
+  "year": 1977,
+  "runtime": 90,
+  "originalTitle": "猩猩王",
+  "title": {
+    "en": "The Mighty Peking Man",
+    "tr": "猩猩王"
+  },
+  "overview": {
+    "en": "Word of a monster ape ten stories tall living in the Himalayas reaches fortune hunters in Hong Kong. They travel to India to capture it, but wild animals and quicksand dissuade all but Johnny, an adventurer with a broken heart. He finds the monster and discovers it's been raising a scantily-clad woman, Samantha, since she survived a plane crash years before that killed her parents. In the idyllic jungle, Johnny and Samantha fall in love. Then Johnny asks her to convince \"Utam\" to go to Hong Kong. Lu Tien, an unscrupulous promoter, takes over: Utam is in chains for freak show exhibitions. When Lu Tien assaults Samantha, Utam's protective instincts take over: havoc in Hong Kong.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wWFzTiLcbay57ZJtsMTH5TzfDlH.jpg",
+    "en": "/yd7eSDBf0w7Oo6CRI1RC5SkR7mt.jpg"
+  },
+  "backdrops": [
+    "/A3BElA3Gav5WvdhhVSCEKpKfDHt.jpg",
+    "/j7aW3KSEzJ5VLApKMliC2A1HcXO.jpg",
+    "/cV592GNIOkyI1J4fz6jFUuytF9e.jpg",
+    "/i7HlOWn5XY71MtkODOgjX4rF7vY.jpg",
+    "/jD9AaCkf3tpgEBJS2gSpSq4KPfp.jpg",
+    "/ejLpWKcH2RyLY5vmoLOZEPphGcG.jpg",
+    "/3tiv5aIvzMRkG9fJkag1j7DMOWO.jpg"
+  ],
+  "trailerKey": "UkJsHBB4xj0",
+  "genreIds": [
+    28,
+    14,
+    12,
+    27
+  ],
+  "keywordIds": [
+    690,
+    2804,
+    10506,
+    12354,
+    196425,
+    209893,
+    230848,
+    242244,
+    293178
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "studios": [
+    "Shaw Brothers"
+  ],
+  "crew": [
+    {
+      "personId": 1042634,
+      "job": "director"
+    },
+    {
+      "personId": 1637706,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1011224,
+      "job": "composer"
+    },
+    {
+      "personId": 1427704,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1848690,
+      "job": "composer"
+    },
+    {
+      "personId": 1281574,
+      "job": "producer"
+    },
+    {
+      "personId": 96550,
+      "job": "producer"
+    },
+    {
+      "personId": 70675,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 34601,
+      "character": "Ah Wei",
+      "order": 0
+    },
+    {
+      "personId": 26784,
+      "character": "Johnny Chen Zheng Feng",
+      "order": 1
+    },
+    {
+      "personId": 229302,
+      "character": "Lu Tien",
+      "order": 2
+    },
+    {
+      "personId": 1178832,
+      "character": "Chen Shi Yu",
+      "order": 3
+    },
+    {
+      "personId": 70674,
+      "character": "Dr. Ah Long",
+      "order": 4
+    },
+    {
+      "personId": 1140994,
+      "character": "Dr. Ah Pi",
+      "order": 5
+    },
+    {
+      "personId": 60540,
+      "character": "Commissioner",
+      "order": 6
+    },
+    {
+      "personId": 1063294,
+      "character": "Commissioner's Aide",
+      "order": 7
+    },
+    {
+      "personId": 1200047,
+      "character": "Huang Tsui Hua",
+      "order": 8
+    },
+    {
+      "personId": 240181,
+      "character": "Lucy",
+      "order": 9
+    },
+    {
+      "personId": 1180151,
+      "character": "Views Peking Man at Stadium",
+      "order": 10
+    },
+    {
+      "personId": 1134979,
+      "character": "Views Peking Man at Stadium (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1619660,
+      "character": "Ship Crew (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1748484,
+      "character": "Ah Wang / Peking Man (stunts)",
+      "order": 13
+    },
+    {
+      "personId": 454055,
+      "character": "Radio Operator",
+      "order": 14
+    },
+    {
+      "personId": 35452,
+      "character": "Bomb Unit Soldier (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 141847,
+      "character": "Bomb Unit Soldier",
+      "order": 16
+    },
+    {
+      "personId": 119609,
+      "character": "Bomb Unit Soldier",
+      "order": 17
+    },
+    {
+      "personId": 65975,
+      "character": "Bomb Unit Soldier / The Peking Man",
+      "order": 18
+    },
+    {
+      "personId": 1158036,
+      "character": "Bomb Unit Soldier",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 65,
+  "sources": [
+    "cult-list"
+  ]
+}

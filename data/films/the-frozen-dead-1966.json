@@ -1,0 +1,133 @@
+{
+  "tmdbId": 89995,
+  "slug": "the-frozen-dead-1966",
+  "year": 1966,
+  "runtime": 95,
+  "originalTitle": "The Frozen Dead",
+  "title": {
+    "en": "The Frozen Dead",
+    "tr": "The Frozen Dead"
+  },
+  "overview": {
+    "en": "A crazed scientist keeps the heads of Nazi war criminals alive until he can find appropriate bodies on which to attach them so he can revive the Third Reich.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/cijZmJ0z8KPcxvXSC4nG7ktCS9l.jpg",
+    "en": "/cijZmJ0z8KPcxvXSC4nG7ktCS9l.jpg"
+  },
+  "backdrops": [
+    "/7bS9otN0lW5ZrEWkk6whAjFhboU.jpg"
+  ],
+  "trailerKey": "tr7Tmau296I",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    2652,
+    14760
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [],
+  "studios": [
+    "Seven Arts Productions",
+    "Gold Star Productions Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 107852,
+      "job": "producer"
+    },
+    {
+      "personId": 30669,
+      "job": "composer"
+    },
+    {
+      "personId": 107852,
+      "job": "writer"
+    },
+    {
+      "personId": 107852,
+      "job": "director"
+    },
+    {
+      "personId": 70444,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13578,
+      "character": "Dr. Norberg",
+      "order": 0
+    },
+    {
+      "personId": 18764,
+      "character": "Jean Norburg",
+      "order": 1
+    },
+    {
+      "personId": 172944,
+      "character": "Dr. Ted Roberts",
+      "order": 2
+    },
+    {
+      "personId": 241167,
+      "character": "Elsa Tenney",
+      "order": 3
+    },
+    {
+      "personId": 38050,
+      "character": "General Lubeck",
+      "order": 4
+    },
+    {
+      "personId": 199925,
+      "character": "Dr. Tirpitz",
+      "order": 5
+    },
+    {
+      "personId": 12828,
+      "character": "Karl Essen",
+      "order": 6
+    },
+    {
+      "personId": 189377,
+      "character": "Mrs. Schmidt",
+      "order": 7
+    },
+    {
+      "personId": 141246,
+      "character": "Joseph the Butler",
+      "order": 8
+    },
+    {
+      "personId": 1065887,
+      "character": "Inspector Witt",
+      "order": 9
+    },
+    {
+      "personId": 199915,
+      "character": "Bailey the Stationmaster",
+      "order": 10
+    },
+    {
+      "personId": 202164,
+      "character": "Alfie the Porter",
+      "order": 11
+    },
+    {
+      "personId": 9126,
+      "character": "Norburg's Brother (Prisoner #3)",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 33,
+  "sources": [
+    "cult-list"
+  ]
+}

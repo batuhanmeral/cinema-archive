@@ -1,0 +1,186 @@
+{
+  "tmdbId": 27813,
+  "slug": "basket-case-1982",
+  "year": 1982,
+  "runtime": 91,
+  "originalTitle": "Basket Case",
+  "title": {
+    "en": "Basket Case",
+    "tr": "Basket Case"
+  },
+  "overview": {
+    "en": "A young man carrying a big basket that contains his extremely deformed, formerly conjoined twin brother seeks vengeance on the doctors who separated them against their will.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ciyzEBzJ1TnafkgGXr6DqEVh1wk.jpg",
+    "en": "/ciyzEBzJ1TnafkgGXr6DqEVh1wk.jpg"
+  },
+  "backdrops": [
+    "/qnL1zxoot9R0FyRXX3GMJAjxzQo.jpg",
+    "/sr1JzL0qRXm3dJ2b8pXd3Uje5ch.jpg",
+    "/qGa0xgIKTmSa4Rlw5pEhShDTGwU.jpg",
+    "/fImob4dakJC07AvV1KYjAyy4I0U.jpg",
+    "/3O0VMivHUqIJkGXRYBsLEpi4bLR.jpg",
+    "/bQFHkPFLta5oR9GHDtrZKELwTdw.jpg",
+    "/ypRP4pLfgQQwH7k7KG2YeHGAJdc.jpg",
+    "/vxghCCyHh9imh0cBHN9QPcG4dFl.jpg",
+    "/c8TUOhX9bchTVyPB7pKNmr5v86y.jpg",
+    "/ynP1ULWdElock3QvYlZWs2WLHHq.jpg"
+  ],
+  "trailerKey": "xvutcosVML0",
+  "genreIds": [
+    27,
+    35
+  ],
+  "keywordIds": [
+    15208,
+    155493,
+    160314,
+    192153,
+    226583,
+    325782
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Basket Case Productions"
+  ],
+  "crew": [
+    {
+      "personId": 86250,
+      "job": "director"
+    },
+    {
+      "personId": 86250,
+      "job": "writer"
+    },
+    {
+      "personId": 99031,
+      "job": "producer"
+    },
+    {
+      "personId": 1117287,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1419431,
+      "job": "composer"
+    },
+    {
+      "personId": 1419430,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 99025,
+      "character": "Duane Bradley",
+      "order": 0
+    },
+    {
+      "personId": 229718,
+      "character": "Sharon",
+      "order": 1
+    },
+    {
+      "personId": 99040,
+      "character": "Casey",
+      "order": 2
+    },
+    {
+      "personId": 172482,
+      "character": "Hotel Manager",
+      "order": 3
+    },
+    {
+      "personId": 1419421,
+      "character": "Dr. Judith Kutter",
+      "order": 4
+    },
+    {
+      "personId": 1419422,
+      "character": "Dr. Harold Needleman",
+      "order": 5
+    },
+    {
+      "personId": 1419423,
+      "character": "Dr. Julius Lifflander",
+      "order": 6
+    },
+    {
+      "personId": 1419425,
+      "character": "Duane's Aunt",
+      "order": 7
+    },
+    {
+      "personId": 1419426,
+      "character": "Duane's Father",
+      "order": 8
+    },
+    {
+      "personId": 1419427,
+      "character": "Young Duane",
+      "order": 9
+    },
+    {
+      "personId": 3737650,
+      "character": "Josephine",
+      "order": 10
+    },
+    {
+      "personId": 3737651,
+      "character": "Detective",
+      "order": 11
+    },
+    {
+      "personId": 3737652,
+      "character": "Social Worker",
+      "order": 12
+    },
+    {
+      "personId": 1688304,
+      "character": "Thief in Theater",
+      "order": 13
+    },
+    {
+      "personId": 3737668,
+      "character": "Kutter's Date",
+      "order": 14
+    },
+    {
+      "personId": 3737669,
+      "character": "Patient",
+      "order": 15
+    },
+    {
+      "personId": 3737671,
+      "character": "Nurse",
+      "order": 16
+    },
+    {
+      "personId": 3737672,
+      "character": "Nurse",
+      "order": 17
+    },
+    {
+      "personId": 3737673,
+      "character": "Hotel Tenant",
+      "order": 18
+    },
+    {
+      "personId": 3737674,
+      "character": "Hotel Tenant",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 489,
+  "sources": [
+    "cult-list"
+  ]
+}

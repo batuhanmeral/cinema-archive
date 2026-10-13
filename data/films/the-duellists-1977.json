@@ -1,0 +1,189 @@
+{
+  "tmdbId": 19067,
+  "slug": "the-duellists-1977",
+  "year": 1977,
+  "runtime": 100,
+  "originalTitle": "The Duellists",
+  "title": {
+    "en": "The Duellists",
+    "tr": "Düellocu"
+  },
+  "overview": {
+    "en": "In 1800, as Napoleon Bonaparte rises to power in France, a rivalry erupts between Armand and Gabriel, two lieutenants in the French Army, over a perceived insult. For over a decade, they engage in a series of duels amidst larger conflicts, including the failed French invasion of Russia in 1812, and shifts in the political and social systems of Europe.",
+    "tr": "Keith Carradine, Napolyon Fransasında kendi halinde efendi bir atlı suvaridir. Harvey Keitel ise kuduz köpek gibi karşısınana çıkıp ta dallamaca laf edeni (etmeyeni de) düelloya davet eden bir başka .çılgın süvaridir. gün gelir, bir düello sonrasında Carradine Keitel'e generalin emrini iletmekle görevlendirilir; böylelikle seneler boyunca sürecek bir kavga başlamış olur. bir türlü birbirlerini öldüremezler. Carradine'in pek umurunda değildir mesele ama, kariyerinde ilerledikçe ve görüp geçirdikçe, en olmadık yerlerde birden karşısına çıkar Keitel, ve düelloya davet eder kendisini."
+  },
+  "poster": {
+    "tr": "/nqjMYlUXnmmO8Jqucow4nj9alE5.jpg",
+    "en": "/nqjMYlUXnmmO8Jqucow4nj9alE5.jpg"
+  },
+  "backdrops": [
+    "/gDDKAEv18gIckmEFhVrp79VvJKD.jpg",
+    "/qbyNMLTqEIGwEpsWXLTVRnKQ71s.jpg",
+    "/jAnZK61Y181RZNiN4na0Solryl0.jpg",
+    "/7Mnj6if9FUC7yTZaeAgoDNQnnwn.jpg",
+    "/sGx4IzIhRv40CscZcRQ4HtaVihJ.jpg",
+    "/xyVURBvbRIzsGJlD0h8vybkXjLs.jpg",
+    "/4grLXbBFf2QYvhFjQSohQjwWm1r.jpg",
+    "/aH7RL4OnyRoYt1fu4bviHpz2Fnh.jpg",
+    "/hYQEgCP1jJ2U8AhdcmEGwnZ284K.jpg",
+    "/sJftuX2b2lVHmngiJeOFuIcDsfD.jpg"
+  ],
+  "trailerKey": "-yjl7u0Afqg",
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    5330,
+    3560,
+    33384,
+    156866,
+    168418,
+    175245,
+    207928,
+    221549,
+    230878
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ru"
+  ],
+  "studios": [
+    "Enigma Productions",
+    "Paramount Pictures",
+    "Scott Free Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1073190,
+      "job": "writer"
+    },
+    {
+      "personId": 578,
+      "job": "director"
+    },
+    {
+      "personId": 8967,
+      "job": "producer"
+    },
+    {
+      "personId": 33319,
+      "job": "composer"
+    },
+    {
+      "personId": 59955,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30613,
+      "character": "Armand d'Hubert",
+      "order": 0
+    },
+    {
+      "personId": 1037,
+      "character": "Gabriel Feraud",
+      "order": 1
+    },
+    {
+      "personId": 3926,
+      "character": "Joseph Fouché",
+      "order": 2
+    },
+    {
+      "personId": 9126,
+      "character": "Colonel Perteley",
+      "order": 3
+    },
+    {
+      "personId": 30620,
+      "character": "Adèle",
+      "order": 4
+    },
+    {
+      "personId": 41957,
+      "character": "Brigadier-General Treillard",
+      "order": 5
+    },
+    {
+      "personId": 71010,
+      "character": "Dr. Jacquin",
+      "order": 6
+    },
+    {
+      "personId": 24498,
+      "character": "Amiable Second",
+      "order": 7
+    },
+    {
+      "personId": 163422,
+      "character": "Laura",
+      "order": 8
+    },
+    {
+      "personId": 2629,
+      "character": "Lieutenant Lacourbe",
+      "order": 9
+    },
+    {
+      "personId": 1225040,
+      "character": "Tall Second",
+      "order": 10
+    },
+    {
+      "personId": 31720,
+      "character": "Maid",
+      "order": 11
+    },
+    {
+      "personId": 20000,
+      "character": "Léonie",
+      "order": 12
+    },
+    {
+      "personId": 39027,
+      "character": "Mme. de Lionne",
+      "order": 13
+    },
+    {
+      "personId": 14820,
+      "character": "Chevalier du Rivarol",
+      "order": 14
+    },
+    {
+      "personId": 108924,
+      "character": "Captain with Eyepatch",
+      "order": 15
+    },
+    {
+      "personId": 90766,
+      "character": "Mayor's Son",
+      "order": 16
+    },
+    {
+      "personId": 20246,
+      "character": "Cuirassier",
+      "order": 17
+    },
+    {
+      "personId": 1409366,
+      "character": "Hilaire",
+      "order": 18
+    },
+    {
+      "personId": 2789099,
+      "character": "Singer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 664,
+  "sources": [
+    "cult-list"
+  ]
+}

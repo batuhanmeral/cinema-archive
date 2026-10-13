@@ -1,0 +1,208 @@
+{
+  "tmdbId": 23761,
+  "slug": "alice-sweet-alice-1976",
+  "year": 1976,
+  "runtime": 108,
+  "originalTitle": "Alice, Sweet Alice",
+  "title": {
+    "en": "Alice, Sweet Alice",
+    "tr": "Sevgili Alice"
+  },
+  "overview": {
+    "en": "Alice is a withdrawn 12-year-old who lives with her mother and her younger sister, Karen, who gets most of the attention from her mother, leaving Alice out of the spotlight. When Karen is found brutally murdered in a church, suspicions start to turn toward Alice. But could a 12-year-old girl really be capable of such savagery?",
+    "tr": "Alice Spages, annesi ve kız kardeşiyle birlikte yaşayan, psikolojik olarak biraz sorunlu 12 yaşında bir genç kızdır. Bir maske takarak ve sarı bir yağmurluk giyerek, annesinin ve çevredeki kilisede görev yapan rahibin gözdesi olan kız kardeşi Karen'ı korkutmayı sever. Diğer favori uğraşları arasında, obez komşusunu rahatsız etmek ve etrafındaki insanlardan çaldığı eşyalarla oluşturduğu fetişistik bir evren yarattığı bodrumda oynamak vardır. Onun için her şey, kız kardeşi kilisede komünyon ayini sırasında öldürüldüğü gün değişir. O andan itibaren, polisin onu güçlü bir şekilde şüpheli olarak görmesine yol açan bir dizi olay başlar. Kilise trajedisinden kısa bir süre sonra, onu hiç sevmeyen halasının sarı parkalı ve maskeli biri tarafından saldırıya uğraması, şüpheleri daha da artırır. Peki, bu gizemli katil kim? Alice mi yoksa ona yakın biri mi?"
+  },
+  "poster": {
+    "tr": "/izawwwy80RH7U7YKkdV1OpdPohZ.jpg",
+    "en": "/izawwwy80RH7U7YKkdV1OpdPohZ.jpg"
+  },
+  "backdrops": [
+    "/cdsSLZKKpQsl4O4zFWEzkpD50x5.jpg",
+    "/AumtJeVYhGooOQUo9WxszaoLOSB.jpg",
+    "/iAg8fBGKx1I9hO1CbTaP3LIKSti.jpg",
+    "/5tqGgG4iXsCx0swbVz6fNrCoamS.jpg",
+    "/4nhiSrJ8BbT1WNvSrUJzwj54nWk.jpg",
+    "/iUlAiKmQltb3AVX4YdBcLxDCEoI.jpg",
+    "/5hs1CWBoVbludPeXj61rhyRuAS3.jpg",
+    "/7quN0gfVid4Pn8UaHugSSnNLG5.jpg",
+    "/nxtYWuJTWEPhMXRuRvWxwp5i3Oe.jpg",
+    "/on42rnxCTu0VIyX9Zb1tV4sB64m.jpg"
+  ],
+  "trailerKey": "dwPfVlls1Kw",
+  "genreIds": [
+    27,
+    9648,
+    80,
+    18,
+    53
+  ],
+  "keywordIds": [
+    641,
+    2292,
+    2293,
+    4636,
+    9786,
+    11157,
+    33605,
+    157008,
+    164218,
+    172618,
+    175413,
+    199524,
+    233450,
+    234025,
+    234116,
+    237857,
+    275384,
+    295061,
+    302099,
+    305666,
+    305726,
+    323449,
+    359231
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Harristown Funding"
+  ],
+  "crew": [
+    {
+      "personId": 136911,
+      "job": "writer"
+    },
+    {
+      "personId": 136911,
+      "job": "director"
+    },
+    {
+      "personId": 136912,
+      "job": "writer"
+    },
+    {
+      "personId": 185998,
+      "job": "composer"
+    },
+    {
+      "personId": 3001720,
+      "job": "producer"
+    },
+    {
+      "personId": 3001731,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3001732,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 136913,
+      "character": "Catherine Spages",
+      "order": 0
+    },
+    {
+      "personId": 136914,
+      "character": "Mrs. Tredoni",
+      "order": 1
+    },
+    {
+      "personId": 136247,
+      "character": "Alice Spages",
+      "order": 2
+    },
+    {
+      "personId": 136915,
+      "character": "Dom Spages",
+      "order": 3
+    },
+    {
+      "personId": 136916,
+      "character": "Aunt Annie DeLorenze",
+      "order": 4
+    },
+    {
+      "personId": 136917,
+      "character": "Father Tom",
+      "order": 5
+    },
+    {
+      "personId": 136918,
+      "character": "Detective Spina",
+      "order": 6
+    },
+    {
+      "personId": 136919,
+      "character": "Mr. Alphonso",
+      "order": 7
+    },
+    {
+      "personId": 129665,
+      "character": "Jim DeLorenze",
+      "order": 8
+    },
+    {
+      "personId": 15110,
+      "character": "Karen Spages",
+      "order": 9
+    },
+    {
+      "personId": 132358,
+      "character": "Dr. Whitman",
+      "order": 10
+    },
+    {
+      "personId": 71347,
+      "character": "Detective Brennan",
+      "order": 11
+    },
+    {
+      "personId": 136920,
+      "character": "Pathologist",
+      "order": 12
+    },
+    {
+      "personId": 136921,
+      "character": "Father Pat",
+      "order": 13
+    },
+    {
+      "personId": 136922,
+      "character": "Angela DeLorenze",
+      "order": 14
+    },
+    {
+      "personId": 3993066,
+      "character": "Detective Cranston",
+      "order": 15
+    },
+    {
+      "personId": 142244,
+      "character": "Mother Superior",
+      "order": 16
+    },
+    {
+      "personId": 3993067,
+      "character": "Monsignor",
+      "order": 17
+    },
+    {
+      "personId": 3993068,
+      "character": "Father Joe",
+      "order": 18
+    },
+    {
+      "personId": 3993070,
+      "character": "Robert DeLorenze",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 328,
+  "sources": [
+    "cult-list"
+  ]
+}

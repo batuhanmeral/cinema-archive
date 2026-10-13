@@ -1,0 +1,208 @@
+{
+  "tmdbId": 11222,
+  "slug": "the-american-friend-1977",
+  "year": 1977,
+  "runtime": 125,
+  "originalTitle": "Der amerikanische Freund",
+  "title": {
+    "en": "The American Friend",
+    "tr": "Amerikalı Arkadaşım"
+  },
+  "overview": {
+    "en": "Tom Ripley, an American who deals in forged art, is slighted at an auction in Hamburg by picture framer Jonathan Zimmerman. When Ripley is asked by gangster Raoul Minot to kill a rival, he suggests Zimmerman, and the two, exploiting Zimmerman's terminal illness, coerce him into being a hitman.",
+    "tr": "Wenders, Patricia Highsmith'in Ripley'in Oyunu (Ripley's Game) adlı romanından uyarladığı bu filmde Dennis Hopper, Nicholas Ray ve Samuel Fuller gibi Amerikan sinemasının üç idolunun bir araya getirmektedir. Amerikalı Arkadaş 'Kara Film (Film Noir)' türünün en iyi örneklerinden biri olarak kabul edilir. Filmde Ripley (D.Hopper), sahte tabloları, sanat koleksiyoncularına bile yutturarak muazzam servet edinmiş, kovboy şapkasını kafasından çıkarmayan bir Amerikalı olarak karşımıza çıkar. Önceden tanıdığı bir mafya patronu Ripley'den geçmişi temiz bir kiralık katil bulmasını ister. Ripley'in aklına gelen çerveci Zimmermann (Bruno Ganz)'dır. Kan kanseri olan Zimmermann bu işi özgür iradesiyle kabul eder. Ancak sonrasındaki geri dönülemez gelişmeler Ripley'i ilginç kararlar vermek durumunda bırakır."
+  },
+  "poster": {
+    "tr": "/pBi7QjQJbyEKK7Y5B1vHaEaO3BS.jpg",
+    "en": "/pBi7QjQJbyEKK7Y5B1vHaEaO3BS.jpg"
+  },
+  "backdrops": [
+    "/57RtZQKnyhLSGuqrFqkxri5upbf.jpg",
+    "/h59F8NcFSlucTK7fUcndD9TB9jg.jpg",
+    "/gZkWEZXlUQ6fd3jhsNCEJKCdb0t.jpg",
+    "/qPCJBjR71QLK5VQWDyswRa3Uniy.jpg",
+    "/5ZRdF0syEzCWMiW1tHnZiBXkicS.jpg",
+    "/bQgMdCSABIaNHoLFfQTDWnZ8ot9.jpg",
+    "/fy95ecojxcMCJhqmwSRnoXxCikn.jpg",
+    "/xummD0F44dGH1Zgb38Lv035RWzl.jpg",
+    "/6fiJWVSMaRudiJhNvc5Zd6ddPsh.jpg",
+    "/gyGjzl6A0plXxJV8YipFonyMsqx.jpg"
+  ],
+  "trailerKey": "Pd-GKlF7eLs",
+  "genreIds": [
+    18,
+    53,
+    80
+  ],
+  "keywordIds": [
+    3737,
+    242,
+    6054,
+    1157,
+    90,
+    818,
+    2708,
+    2437,
+    3230,
+    6564,
+    8097,
+    9826,
+    10391,
+    11335,
+    18114,
+    155795,
+    164713,
+    198772,
+    209889,
+    288945,
+    383002
+  ],
+  "countries": [
+    "FR",
+    "DE",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "studios": [
+    "Road Movies",
+    "Wim Wenders Productions",
+    "Les Films du Losange"
+  ],
+  "crew": [
+    {
+      "personId": 2303,
+      "job": "director"
+    },
+    {
+      "personId": 2308,
+      "job": "composer"
+    },
+    {
+      "personId": 1632,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2303,
+      "job": "writer"
+    },
+    {
+      "personId": 22608,
+      "job": "producer"
+    },
+    {
+      "personId": 2303,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2778,
+      "character": "Tom Ripley",
+      "order": 0
+    },
+    {
+      "personId": 2310,
+      "character": "Jonathan Zimmermann",
+      "order": 1
+    },
+    {
+      "personId": 22612,
+      "character": "Marianne Zimmermann",
+      "order": 2
+    },
+    {
+      "personId": 24298,
+      "character": "Raoul Minot",
+      "order": 3
+    },
+    {
+      "personId": 2765,
+      "character": "Andrew Pogash Derwatt",
+      "order": 4
+    },
+    {
+      "personId": 26959,
+      "character": "The American",
+      "order": 5
+    },
+    {
+      "personId": 26969,
+      "character": "Marcangelo",
+      "order": 6
+    },
+    {
+      "personId": 64219,
+      "character": "Samuel Igraham",
+      "order": 7
+    },
+    {
+      "personId": 122492,
+      "character": "Doctor in Paris",
+      "order": 8
+    },
+    {
+      "personId": 53914,
+      "character": "Friendly Man",
+      "order": 9
+    },
+    {
+      "personId": 32827,
+      "character": "Rodolphe",
+      "order": 10
+    },
+    {
+      "personId": 1499588,
+      "character": "Daniel Zimmermann",
+      "order": 11
+    },
+    {
+      "personId": 1499589,
+      "character": "Allan Winter",
+      "order": 12
+    },
+    {
+      "personId": 26600,
+      "character": "Gantner",
+      "order": 13
+    },
+    {
+      "personId": 1499592,
+      "character": "Old Lady",
+      "order": 14
+    },
+    {
+      "personId": 1499593,
+      "character": "Dr. Gabriel",
+      "order": 15
+    },
+    {
+      "personId": 1499594,
+      "character": "Angie",
+      "order": 16
+    },
+    {
+      "personId": 1488011,
+      "character": "Lippo",
+      "order": 17
+    },
+    {
+      "personId": 1499595,
+      "character": "Conductor",
+      "order": 18
+    },
+    {
+      "personId": 1101303,
+      "character": "Mona",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 469,
+  "sources": [
+    "cult-list"
+  ]
+}

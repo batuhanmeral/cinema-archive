@@ -1,0 +1,203 @@
+{
+  "tmdbId": 7343,
+  "slug": "city-of-men-2007",
+  "year": 2007,
+  "runtime": 106,
+  "originalTitle": "Cidade dos Homens",
+  "title": {
+    "en": "City of Men",
+    "tr": "Erkekler Şehri"
+  },
+  "overview": {
+    "en": "Best buddies Acerola and Laranjinha, about to turn 18, discover things about their missing fathers' pasts which will shatter their solid friendship, in the middle of a war between rival drug gangs from Rio's favelas.",
+    "tr": "Morro da Sinuca'nın varoşlarında, 18'ine girmeden birkaç gün önce Laranjinha en yakın arkadaşı olan kimsesiz Acerola'ya tanımadığı babasını özlediğini söyler. Acerola, yardıma muhtaç bu arkadaşına babasını bulmasında yardım etmeye karar verir ve adamın bir soygun esnasında adam öldürmekten yıllardır hapiste mahkum olduğunu ve kefaletle serbest bırakılmasının yakın olduğunu öğrenirler. Bu sırada Acerola'nın eşi ve bebeğinin bakıcısı Cris, Sao Paulo'ya çalışmaya çağrılır. Kadın, kendi evini almak için para biriktirme olanağını görür, Acerola'ya oğulları Clayton'a bir yıl boyunca tek başına bakması gerektiğini söyler. Tepenin sahibi ve Laranjinha\"nın kuzeni Madrugadão, sağcı Nefasto tarafından ihanete uğrayınca varoştan kovulur. Aynı zamanda Laranjinha ile Acerola'nın da tepeyi terk etmeleri gerekir."
+  },
+  "poster": {
+    "tr": "/eVqTDE0seY23gw9aCpBmWTjIPdc.jpg",
+    "en": "/8x7C0WF0oJDnfdeWkuaaHj4BbqL.jpg"
+  },
+  "backdrops": [
+    "/1mJFeIf51DKAz84895htRmRzhs7.jpg",
+    "/9utohxg2bw5AW8TFhS9jUda49iS.jpg",
+    "/ywS22acbR1QSX4VNJO9oXGSzCBf.jpg",
+    "/n6YAwr7r4gvifMteof5YjikKxfN.jpg",
+    "/iomK0D5GOdEzfWb9QQKuOQPA4Vw.jpg"
+  ],
+  "trailerKey": "fTX9BuWTxv8",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    542,
+    100,
+    1412,
+    970,
+    2123,
+    697,
+    1809,
+    2394,
+    4933,
+    5397,
+    5144,
+    7858,
+    10766,
+    10726,
+    170652
+  ],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Globo Filmes",
+    "O2 Filmes",
+    "20th Century Fox Brazil"
+  ],
+  "crew": [
+    {
+      "personId": 8565,
+      "job": "producer"
+    },
+    {
+      "personId": 102560,
+      "job": "producer"
+    },
+    {
+      "personId": 52530,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8557,
+      "job": "producer"
+    },
+    {
+      "personId": 52528,
+      "job": "producer"
+    },
+    {
+      "personId": 8562,
+      "job": "producer"
+    },
+    {
+      "personId": 52528,
+      "job": "director"
+    },
+    {
+      "personId": 52529,
+      "job": "writer"
+    },
+    {
+      "personId": 8576,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8598,
+      "character": "Acerola ´Ace´",
+      "order": 0
+    },
+    {
+      "personId": 8605,
+      "character": "Laranjinha `Wallace´",
+      "order": 1
+    },
+    {
+      "personId": 8599,
+      "character": "Madrugadão ´Midnight`",
+      "order": 2
+    },
+    {
+      "personId": 52534,
+      "character": "Heraldo",
+      "order": 3
+    },
+    {
+      "personId": 52535,
+      "character": "Cris",
+      "order": 4
+    },
+    {
+      "personId": 52536,
+      "character": "Camila",
+      "order": 5
+    },
+    {
+      "personId": 52537,
+      "character": "Nefast ´Fasto´",
+      "order": 6
+    },
+    {
+      "personId": 52538,
+      "character": "Fiel",
+      "order": 7
+    },
+    {
+      "personId": 52539,
+      "character": "Caju",
+      "order": 8
+    },
+    {
+      "personId": 52540,
+      "character": "Clayton",
+      "order": 9
+    },
+    {
+      "personId": 52541,
+      "character": "Clayton",
+      "order": 10
+    },
+    {
+      "personId": 1849600,
+      "character": "Bela da Madrugada",
+      "order": 11
+    },
+    {
+      "personId": 575447,
+      "character": "Ceará",
+      "order": 12
+    },
+    {
+      "personId": 592680,
+      "character": "Cúmplice de Heraldo",
+      "order": 13
+    },
+    {
+      "personId": 558258,
+      "character": "Dono do Morro Careca",
+      "order": 14
+    },
+    {
+      "personId": 1373443,
+      "character": "Elvira",
+      "order": 15
+    },
+    {
+      "personId": 4349241,
+      "character": "Esmeralda",
+      "order": 16
+    },
+    {
+      "personId": 1032387,
+      "character": "Fininho",
+      "order": 17
+    },
+    {
+      "personId": 2123364,
+      "character": "Funcionária Presídio",
+      "order": 18
+    },
+    {
+      "personId": 2076532,
+      "character": "Funcionário Cartório",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 312,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "tmdbId": 50153,
+  "slug": "the-man-from-planet-x-1951",
+  "year": 1951,
+  "runtime": 70,
+  "originalTitle": "The Man from Planet X",
+  "title": {
+    "en": "The Man from Planet X",
+    "tr": "The Man from Planet X"
+  },
+  "overview": {
+    "en": "While watching for a planet that may collide with earth, scientists stationed in Scotland are approached by a visitor from outer space.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/bA8TbHq96DaWxml0j3OneCBjrJG.jpg",
+    "en": "/bA8TbHq96DaWxml0j3OneCBjrJG.jpg"
+  },
+  "backdrops": [
+    "/6QlHa9BaC2CTcfzCgqeyGRVwlYr.jpg",
+    "/eI3tSMtRMCKSGCsOoB55iIXEky1.jpg",
+    "/es9KzJn4i866GltGdknvRUS7Kyw.jpg",
+    "/hFsTlniaOH1QsFYGmk02aEJ9qBL.jpg",
+    "/l5baAlez9wjVvDg49SCdzzorG8z.jpg"
+  ],
+  "trailerKey": "WXE_XUcZWrc",
+  "genreIds": [
+    878,
+    53,
+    27
+  ],
+  "keywordIds": [
+    9678,
+    388,
+    1475,
+    9951,
+    12999,
+    14760,
+    14909,
+    17982,
+    251829,
+    252937
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Mid Century Film Productions Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 41705,
+      "job": "producer"
+    },
+    {
+      "personId": 41704,
+      "job": "producer"
+    },
+    {
+      "personId": 41704,
+      "job": "writer"
+    },
+    {
+      "personId": 88644,
+      "job": "composer"
+    },
+    {
+      "personId": 7305,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5030,
+      "job": "director"
+    },
+    {
+      "personId": 41705,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30453,
+      "character": "John Lawrence",
+      "order": 0
+    },
+    {
+      "personId": 85362,
+      "character": "Enid Elliot",
+      "order": 1
+    },
+    {
+      "personId": 535270,
+      "character": "Prof. Elliot",
+      "order": 2
+    },
+    {
+      "personId": 15992,
+      "character": "Dr. Mears",
+      "order": 3
+    },
+    {
+      "personId": 100582,
+      "character": "Tommy the Constable",
+      "order": 4
+    },
+    {
+      "personId": 932262,
+      "character": "Inspector Porter",
+      "order": 5
+    },
+    {
+      "personId": 932263,
+      "character": "Dr. Robert Blane",
+      "order": 6
+    },
+    {
+      "personId": 119508,
+      "character": "The Man from Planet X",
+      "order": 7
+    },
+    {
+      "personId": 51720,
+      "character": "Donal, a searcher",
+      "order": 8
+    },
+    {
+      "personId": 932264,
+      "character": "Wife of Missing Man",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 86,
+  "sources": [
+    "cult-list"
+  ]
+}

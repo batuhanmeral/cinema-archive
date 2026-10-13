@@ -1,0 +1,185 @@
+{
+  "tmdbId": 26703,
+  "slug": "zoltan-hound-of-dracula-1977",
+  "year": 1977,
+  "runtime": 90,
+  "originalTitle": "Dracula's Dog",
+  "title": {
+    "en": "Zoltan… Hound of Dracula",
+    "tr": "Dracula's Dog"
+  },
+  "overview": {
+    "en": "A Romanian vampire-hunter tracks Dracula's servant to Los Angeles, home of the last of his line.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/1QyGRki97G0Em458oZkaqfD6heW.jpg",
+    "en": "/iE63xgOl9hCkr5aN3Bq2dk7iPpu.jpg"
+  },
+  "backdrops": [
+    "/yga88rASy0eNTxjDUN87xtN9HJR.jpg",
+    "/yIsvoRCTGGzR07ni0M4F3hWQgBQ.jpg",
+    "/xxPOxHbfNLO4Za1nEZWU7ly0Dpy.jpg"
+  ],
+  "trailerKey": "-x8ao63ulfQ",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    272,
+    3133,
+    15162,
+    33637,
+    33671,
+    156149,
+    156174,
+    156185,
+    309974
+  ],
+  "countries": [
+    "IT",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "VIC Productions",
+    "EMI Television",
+    "Crown International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 19708,
+      "job": "director"
+    },
+    {
+      "personId": 29745,
+      "job": "writer"
+    },
+    {
+      "personId": 19708,
+      "job": "producer"
+    },
+    {
+      "personId": 12864,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 29746,
+      "job": "composer"
+    },
+    {
+      "personId": 29745,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15993,
+      "character": "Michael Drake / Count Dracula",
+      "order": 0
+    },
+    {
+      "personId": 16112,
+      "character": "Marla Drake",
+      "order": 1
+    },
+    {
+      "personId": 12515,
+      "character": "Inspector Branco",
+      "order": 2
+    },
+    {
+      "personId": 1146140,
+      "character": "Fisherman",
+      "order": 3
+    },
+    {
+      "personId": 1680790,
+      "character": "Linda Drake",
+      "order": 4
+    },
+    {
+      "personId": 1680791,
+      "character": "Steve Drake",
+      "order": 5
+    },
+    {
+      "personId": 15972,
+      "character": "Veidt Smith",
+      "order": 6
+    },
+    {
+      "personId": 1680792,
+      "character": "Pat Parks",
+      "order": 7
+    },
+    {
+      "personId": 152660,
+      "character": "Major Hessel",
+      "order": 8
+    },
+    {
+      "personId": 1167172,
+      "character": "Dracula's Victim",
+      "order": 9
+    },
+    {
+      "personId": 157269,
+      "character": "Camper",
+      "order": 10
+    },
+    {
+      "personId": 194030,
+      "character": "Traveler",
+      "order": 11
+    },
+    {
+      "personId": 1114910,
+      "character": "Maslov, the guard",
+      "order": 12
+    },
+    {
+      "personId": 198054,
+      "character": "Al, the deputy",
+      "order": 13
+    },
+    {
+      "personId": 129805,
+      "character": "Sheriff",
+      "order": 14
+    },
+    {
+      "personId": 4128763,
+      "character": "Lieutenant",
+      "order": 15
+    },
+    {
+      "personId": 4128757,
+      "character": "Second Officer",
+      "order": 16
+    },
+    {
+      "personId": 4128760,
+      "character": "Camper",
+      "order": 17
+    },
+    {
+      "personId": 4128765,
+      "character": "Camper",
+      "order": 18
+    },
+    {
+      "personId": 1221202,
+      "character": "Traveler",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 53,
+  "sources": [
+    "cult-list"
+  ]
+}

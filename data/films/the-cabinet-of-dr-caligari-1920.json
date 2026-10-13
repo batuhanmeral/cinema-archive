@@ -1,0 +1,159 @@
+{
+  "tmdbId": 234,
+  "slug": "the-cabinet-of-dr-caligari-1920",
+  "year": 1920,
+  "runtime": 77,
+  "originalTitle": "Das Cabinet des Dr. Caligari",
+  "title": {
+    "en": "The Cabinet of Dr. Caligari",
+    "tr": "Dr. Caligari'nin Muayenehanesi"
+  },
+  "overview": {
+    "en": "Francis, a young man, recalls in his memory the horrible experiences he and his fiancée Jane recently went through. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep.",
+    "tr": "Doktor Caligari'nin Muayenehanesi(Das Kabinett des Dr. Caligari, 1919), Alman sinemasının bu dönemini(Altın Çağ 1918-1927) simgeleyen ve en çok tartışılan filmdir. Anlattığı gizemli cinayet öyküsünün yanı sıra resimli panolardan oluşan dekorları, boyayla elde edilmiş gölgeleri, eğik bacalı, yamuk duvarlı evleriyle filmin yarattığı fantastik ve ürkütücü dünya bugün bile ilgiyle izlenmesini sağlamaktadır. Film, döneminde ve sonrasında, pek çok övgüler aldığı gibi, aynı ölçüde eleştirilmiştir. Öyleki \"kaligarizm\" bir terim haline gelmiştir."
+  },
+  "poster": {
+    "tr": "/jnVcObLcLWCN1NjkXOlewhZ2mps.jpg",
+    "en": "/myK9DeIsXWGKgUTZyGXg2IfFk0W.jpg"
+  },
+  "backdrops": [
+    "/ujaUJzloLboGsFSQfo8QZrnHMCQ.jpg",
+    "/A291ofGZZMc1LdiIeOMDIWrU65g.jpg",
+    "/lplE17AkAjLhQPXsST2YHnXWA1n.jpg",
+    "/m0N89MIIu6qYZcujCRzBHrkZbns.jpg",
+    "/mk2m1sOMEFeaS1iCwcEksqoVLYW.jpg",
+    "/iNNNkYuUU365LhnPwQqfzBvKnsg.jpg",
+    "/sLq72hBx8Xs2IISVsZJqgjOd31b.jpg",
+    "/nLgg8cX3CzxLfoHYmkfGTXhCknS.jpg",
+    "/e5GvrG4YihnkjqFPQ1IgMZYgXEK.jpg",
+    "/bd7d9owGqoNHy2kBtwK3tbdDHI6.jpg"
+  ],
+  "trailerKey": "6_uvMK0dbMY",
+  "genreIds": [
+    18,
+    27,
+    53,
+    80
+  ],
+  "keywordIds": [
+    4924,
+    12999,
+    154802,
+    174089,
+    179874,
+    183931,
+    183946,
+    183953,
+    183955,
+    197582,
+    244516,
+    311315,
+    314730,
+    325817,
+    325821,
+    325839
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Decla Film Gesellschaft Holz & Co."
+  ],
+  "crew": [
+    {
+      "personId": 2996,
+      "job": "composer"
+    },
+    {
+      "personId": 2991,
+      "job": "director"
+    },
+    {
+      "personId": 3022,
+      "job": "composer"
+    },
+    {
+      "personId": 2998,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2992,
+      "job": "writer"
+    },
+    {
+      "personId": 2792,
+      "job": "writer"
+    },
+    {
+      "personId": 67,
+      "job": "producer"
+    },
+    {
+      "personId": 2994,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3000,
+      "character": "Dr. Caligari",
+      "order": 0
+    },
+    {
+      "personId": 3001,
+      "character": "Cesare",
+      "order": 1
+    },
+    {
+      "personId": 590591,
+      "character": "Francis",
+      "order": 2
+    },
+    {
+      "personId": 3005,
+      "character": "Jane",
+      "order": 3
+    },
+    {
+      "personId": 3007,
+      "character": "Alan",
+      "order": 4
+    },
+    {
+      "personId": 1016382,
+      "character": "Dr. Olsen",
+      "order": 5
+    },
+    {
+      "personId": 1090550,
+      "character": "Young Doctor (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 77,
+      "character": "Criminal (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 29568,
+      "character": "Old Man (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 1090552,
+      "character": "Murderer (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 37889,
+      "character": "Landlady (uncredited)",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 1848,
+  "sources": [
+    "cult-list"
+  ]
+}

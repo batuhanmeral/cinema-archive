@@ -1,0 +1,186 @@
+{
+  "tmdbId": 41878,
+  "slug": "savage-nights-1992",
+  "year": 1992,
+  "runtime": 126,
+  "originalTitle": "Les Nuits fauves",
+  "title": {
+    "en": "Savage Nights",
+    "tr": "Les Nuits fauves"
+  },
+  "overview": {
+    "en": "Jean is young, gay, and promiscuous. Only after he meets one or two women, including Laura, does he come to realize his bisexuality. Jean has to overcome a personal crisis and a tough choice between Laura and his male lover Samy.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wPzs0G2LV6shi0zpxdYOVZcuBDP.jpg",
+    "en": "/wPzs0G2LV6shi0zpxdYOVZcuBDP.jpg"
+  },
+  "backdrops": [
+    "/skqgXTN4ioWCqykgVl2QnDkhtlh.jpg",
+    "/dpUmubjxDxmA6BZG2OhJlTfjQWX.jpg",
+    "/vf2JcGO9mrvhUcIrOMaR7OOY79Q.jpg",
+    "/lRLVMbIdwCAV3pOsEakScpn5Zr9.jpg",
+    "/gVCtHURcrrFrisXpL08kNLgArzR.jpg",
+    "/avtxPLB5tc3NwIA9O2FP2iahMeU.jpg",
+    "/duC8FXZF2zLAvtKaoDMg1UK4jQb.jpg",
+    "/29VD7rbFPhE5rDQuQwfrARUTFLI.jpg",
+    "/2iGajoW8llR7g2oiTa1fX2Pu6SX.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    158718,
+    168812,
+    258533,
+    349176
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr",
+    "es"
+  ],
+  "studios": [
+    "La Sept Cinéma",
+    "Société Nouvelle de Cinématographie",
+    "Banfilm"
+  ],
+  "crew": [
+    {
+      "personId": 127283,
+      "job": "director"
+    },
+    {
+      "personId": 127283,
+      "job": "writer"
+    },
+    {
+      "personId": 23300,
+      "job": "composer"
+    },
+    {
+      "personId": 127283,
+      "job": "composer"
+    },
+    {
+      "personId": 2028032,
+      "job": "producer"
+    },
+    {
+      "personId": 42305,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 127283,
+      "character": "Jean",
+      "order": 0
+    },
+    {
+      "personId": 40938,
+      "character": "Laura",
+      "order": 1
+    },
+    {
+      "personId": 256268,
+      "character": "Samy",
+      "order": 2
+    },
+    {
+      "personId": 109516,
+      "character": "Marianne",
+      "order": 3
+    },
+    {
+      "personId": 1162582,
+      "character": "Laura's Mother",
+      "order": 4
+    },
+    {
+      "personId": 286184,
+      "character": "Jean's Mother",
+      "order": 5
+    },
+    {
+      "personId": 18329,
+      "character": "Noria",
+      "order": 6
+    },
+    {
+      "personId": 25344,
+      "character": "Karine",
+      "order": 7
+    },
+    {
+      "personId": 40264,
+      "character": "Sylvie",
+      "order": 8
+    },
+    {
+      "personId": 23300,
+      "character": "Marc",
+      "order": 9
+    },
+    {
+      "personId": 1407311,
+      "character": "The realistic singer",
+      "order": 10
+    },
+    {
+      "personId": 1050920,
+      "character": "Pierre Ollivier",
+      "order": 11
+    },
+    {
+      "personId": 17625,
+      "character": "Kader",
+      "order": 12
+    },
+    {
+      "personId": 2589449,
+      "character": "Paco",
+      "order": 13
+    },
+    {
+      "personId": 2589452,
+      "character": "The nurse",
+      "order": 14
+    },
+    {
+      "personId": 267603,
+      "character": "Lempereur",
+      "order": 15
+    },
+    {
+      "personId": 2589454,
+      "character": "Jaime",
+      "order": 16
+    },
+    {
+      "personId": 2589455,
+      "character": "Jipe",
+      "order": 17
+    },
+    {
+      "personId": 2589457,
+      "character": "Martial",
+      "order": 18
+    },
+    {
+      "personId": 68056,
+      "character": "Mr. André",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 84,
+  "sources": [
+    "cult-list"
+  ]
+}

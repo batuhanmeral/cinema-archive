@@ -1,0 +1,218 @@
+{
+  "tmdbId": 345,
+  "slug": "eyes-wide-shut-1999",
+  "year": 1999,
+  "runtime": 159,
+  "originalTitle": "Eyes Wide Shut",
+  "title": {
+    "en": "Eyes Wide Shut",
+    "tr": "Gözü Tamamen Kapalı"
+  },
+  "overview": {
+    "en": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+    "tr": "Bill Harford ve karısı Alice Harford'ın dış dünyaya mutlu bir yansıyan bir evlilikleri vardır. İlişkilerinde her şey yolunda gibi görünmektedir. Bir gün katıldıkları bir davette Alice, başka erkeklerle sohbetlere dalar. Bunu fark eden Bill, hem sinirlenir hem de yaşanan bu duruma tuhaf bir tepki gösterir. Bill, yaşanan o geceden sonra kimliğini cinselliğe emanet edecektir. Oldukça tuhaf düşüncelerle örülü bir cinsellik dünyasına doğru savrulacaktır."
+  },
+  "poster": {
+    "tr": "/g3gNM2OxqUq25Pe5wYJq1RUZoQA.jpg",
+    "en": "/a0YOhU3zq0RkOYrVlPXCeE1oFkR.jpg"
+  },
+  "backdrops": [
+    "/cAZ87S5bONxKMMAlPxK8LZvdOcm.jpg",
+    "/AklO85uUDAL3O7iSOtFGfqT3w8n.jpg",
+    "/vYA4qUPWY0EbjpcIXAL4h4pVmTC.jpg",
+    "/aC6wW62V6b0csr5iUnbOjYAqfhg.jpg",
+    "/dFSF6cIzacFsgOBIfsztd90AIyj.jpg",
+    "/oqxIs6674wwQ6V4omFTYRF0R6Bl.jpg",
+    "/lD4g7itK1DnFSYOKfEiRmU8tAcf.jpg",
+    "/pNlRpt8Ts8D13cONG6voSu1jAyl.jpg",
+    "/rqfvMj7pRz1KqX832Z9wVFjNjnA.jpg",
+    "/uNbPPFl1dF5LVXbKqB7MP6E41IO.jpg"
+  ],
+  "trailerKey": "qku0sbMkFZo",
+  "genreIds": [
+    18,
+    53,
+    9648
+  ],
+  "keywordIds": [
+    242,
+    549,
+    818,
+    459,
+    2858,
+    1441,
+    1664,
+    1817,
+    2404,
+    6038,
+    2908,
+    6158,
+    10776,
+    10410,
+    12545,
+    13005,
+    14534,
+    14794,
+    14964,
+    18118,
+    33625,
+    41404,
+    41609,
+    159937,
+    178649,
+    217311,
+    236520,
+    270331,
+    271159,
+    325839
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Stanley Kubrick Productions",
+    "Pole Star"
+  ],
+  "crew": [
+    {
+      "personId": 5014,
+      "job": "writer"
+    },
+    {
+      "personId": 240,
+      "job": "producer"
+    },
+    {
+      "personId": 5017,
+      "job": "composer"
+    },
+    {
+      "personId": 240,
+      "job": "writer"
+    },
+    {
+      "personId": 5018,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 240,
+      "job": "director"
+    },
+    {
+      "personId": 5015,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 500,
+      "character": "Dr. William Harford",
+      "order": 0
+    },
+    {
+      "personId": 2227,
+      "character": "Alice Harford",
+      "order": 1
+    },
+    {
+      "personId": 2226,
+      "character": "Victor Ziegler",
+      "order": 2
+    },
+    {
+      "personId": 5024,
+      "character": "Marion",
+      "order": 3
+    },
+    {
+      "personId": 1118,
+      "character": "Milich",
+      "order": 4
+    },
+    {
+      "personId": 5010,
+      "character": "Nick Nightingale",
+      "order": 5
+    },
+    {
+      "personId": 5025,
+      "character": "Domino",
+      "order": 6
+    },
+    {
+      "personId": 10697,
+      "character": "Desk Clerk",
+      "order": 7
+    },
+    {
+      "personId": 5012,
+      "character": "Sandor Szavost",
+      "order": 8
+    },
+    {
+      "personId": 65409,
+      "character": "Sally",
+      "order": 9
+    },
+    {
+      "personId": 22290,
+      "character": "Milich's Daughter",
+      "order": 10
+    },
+    {
+      "personId": 13638,
+      "character": "Carl",
+      "order": 11
+    },
+    {
+      "personId": 5006,
+      "character": "Helena Harford",
+      "order": 12
+    },
+    {
+      "personId": 5023,
+      "character": "Mandy",
+      "order": 13
+    },
+    {
+      "personId": 5007,
+      "character": "Roz",
+      "order": 14
+    },
+    {
+      "personId": 5008,
+      "character": "Illona",
+      "order": 15
+    },
+    {
+      "personId": 1292351,
+      "character": "Bandleader",
+      "order": 16
+    },
+    {
+      "personId": 5011,
+      "character": "Ziegler's Secretary",
+      "order": 17
+    },
+    {
+      "personId": 1806605,
+      "character": "Gayle",
+      "order": 18
+    },
+    {
+      "personId": 1354721,
+      "character": "Nuala",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 7424,
+  "sources": [
+    "cult-list"
+  ]
+}

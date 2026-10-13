@@ -1,0 +1,179 @@
+{
+  "tmdbId": 90540,
+  "slug": "the-price-of-power-1969",
+  "year": 1969,
+  "runtime": 112,
+  "originalTitle": "Il prezzo del potere",
+  "title": {
+    "en": "The Price of Power",
+    "tr": "Il prezzo del potere"
+  },
+  "overview": {
+    "en": "In 1881 Dallas, an ex-Union soldier attempts to expose a conspiracy of Southerners that killed his father, his friend and President James A. Garfield.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tEXAqAonZAjS5UuMnd4DtIF7A8O.jpg",
+    "en": "/tEXAqAonZAjS5UuMnd4DtIF7A8O.jpg"
+  },
+  "backdrops": [
+    "/d9rRCSinnIlPLhfrMT0TgMiZQnG.jpg",
+    "/vLXeQ2Lr9exgt7AcmsFn87KXoKK.jpg",
+    "/167TzHnCnDQ2d1dJ686tREIYJ9d.jpg",
+    "/zw9T0IplVOhqcC9eBMyjRrVvnIf.jpg",
+    "/rQzmKmyARhFrLWVCvfSa79bd6gh.jpg",
+    "/8KD5Cfdz1RHTlGqM7mePIUpzKHH.jpg",
+    "/cfoMRHEP31eDSnqFnQZOOIt2Imb.jpg",
+    "/3p7KyRuJ6gigbtZfw8Q3oginLcU.jpg",
+    "/oqHNjTzj7se3XEFB7OtB4JRG5xQ.jpg",
+    "/1blBCU6tMd1qimRAI51xW8VGhZZ.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    37
+  ],
+  "keywordIds": [
+    156212,
+    190434
+  ],
+  "countries": [
+    "IT",
+    "ES"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Patry Film",
+    "Films Montana"
+  ],
+  "crew": [
+    {
+      "personId": 57639,
+      "job": "director"
+    },
+    {
+      "personId": 938562,
+      "job": "writer"
+    },
+    {
+      "personId": 66675,
+      "job": "composer"
+    },
+    {
+      "personId": 1089935,
+      "job": "producer"
+    },
+    {
+      "personId": 103112,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15139,
+      "character": "Bill Willer",
+      "order": 0
+    },
+    {
+      "personId": 101782,
+      "character": "Arthur McDonald",
+      "order": 1
+    },
+    {
+      "personId": 938563,
+      "character": "Lucretia Garfield",
+      "order": 2
+    },
+    {
+      "personId": 934930,
+      "character": "Jack Donavan",
+      "order": 3
+    },
+    {
+      "personId": 14821,
+      "character": "Pinkerton",
+      "order": 4
+    },
+    {
+      "personId": 37446,
+      "character": "President James A. Garfield",
+      "order": 5
+    },
+    {
+      "personId": 12742,
+      "character": "Governor of Texas",
+      "order": 6
+    },
+    {
+      "personId": 42014,
+      "character": "Chester A. Arthur",
+      "order": 7
+    },
+    {
+      "personId": 4661,
+      "character": "Sheriff Jefferson",
+      "order": 8
+    },
+    {
+      "personId": 31349,
+      "character": "Lawyer",
+      "order": 9
+    },
+    {
+      "personId": 100845,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 103529,
+      "character": "Mr. Willer",
+      "order": 11
+    },
+    {
+      "personId": 228500,
+      "character": "Slim",
+      "order": 12
+    },
+    {
+      "personId": 103617,
+      "character": "Deputy",
+      "order": 13
+    },
+    {
+      "personId": 100930,
+      "character": "Brett",
+      "order": 14
+    },
+    {
+      "personId": 2243198,
+      "character": "Judge Ralley",
+      "order": 15
+    },
+    {
+      "personId": 144613,
+      "character": "Deputy",
+      "order": 16
+    },
+    {
+      "personId": 3696333,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 90846,
+      "character": "Jeff Wallace",
+      "order": 18
+    },
+    {
+      "personId": 1121926,
+      "character": "Deputy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 39,
+  "sources": [
+    "cult-list"
+  ]
+}

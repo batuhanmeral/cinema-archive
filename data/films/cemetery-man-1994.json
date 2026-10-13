@@ -1,0 +1,206 @@
+{
+  "tmdbId": 21588,
+  "slug": "cemetery-man-1994",
+  "year": 1994,
+  "runtime": 104,
+  "originalTitle": "DellaMorte DellAmore",
+  "title": {
+    "en": "Cemetery Man",
+    "tr": "DellaMorte DellAmore"
+  },
+  "overview": {
+    "en": "Francesco Dellamorte  is the groundskeeper at a cemetery where the dead just won’t stay dead—and it’s up to him to deal with those who come back to life with a hunger for human flesh. But Dellamorte’s job soon becomes much more complicated when he falls for an enigmatic young woman whose husband has recently died.",
+    "tr": "Kuzey İtalya’nın küçük bir kasabasında bulunan buffalora mezarlığının bekçisi Francesco Dellamorte’nin işi sadece mezarlığı beklemek değildir. Aynı zamanda mezarından kalkan huzursuz ölülerin kellesini uçurmak da görevleri arasındadır.\r Ölülere ve ölüme karşı duyarsızlaşan Dellamorte için aşkın anlamı ölümden çok farklı olacak ve fakat aşk ve ölüm birbirine yakın yürüyecektir."
+  },
+  "poster": {
+    "tr": "/cI5AV3jCuxmoQp0N7Z16SI2b7Xk.jpg",
+    "en": "/cI5AV3jCuxmoQp0N7Z16SI2b7Xk.jpg"
+  },
+  "backdrops": [
+    "/57JQtnWb2Gt2PU8r9hW47D0gc6B.jpg",
+    "/hEhOPX1NCke6ky7930NqNXZYuu1.jpg",
+    "/9ASFmcpgq3KLXLv561lzWIyj2Ff.jpg",
+    "/fHPTQ18tuwtJ3JvrCeZMZs4X58Q.jpg",
+    "/ujAl69XidYhbTfV7VDD7oBGhFcd.jpg",
+    "/pgI2qrvNQYNmPvSAOvVxLukTuM.jpg",
+    "/qQ31tdZdJ1LZTcQREuS0Nqh21E7.jpg",
+    "/yCkVJWItCPtLHhjewvGZF6lYOg3.jpg",
+    "/4uh8arOxJCKZCjIyW82B9WyONYC.jpg",
+    "/6hr5xGjv3fAc72BDMfdfV6eizyB.jpg"
+  ],
+  "trailerKey": "I6o0TJNC77I",
+  "genreIds": [
+    35,
+    27
+  ],
+  "keywordIds": [
+    6255,
+    3335,
+    10327,
+    11187,
+    12377,
+    162810,
+    207769,
+    325810,
+    325839
+  ],
+  "countries": [
+    "IT",
+    "FR",
+    "DE"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Audifilm",
+    "Urania Film",
+    "KG Productions"
+  ],
+  "crew": [
+    {
+      "personId": 87680,
+      "job": "director"
+    },
+    {
+      "personId": 87684,
+      "job": "writer"
+    },
+    {
+      "personId": 993226,
+      "job": "producer"
+    },
+    {
+      "personId": 87684,
+      "job": "producer"
+    },
+    {
+      "personId": 1575783,
+      "job": "producer"
+    },
+    {
+      "personId": 87680,
+      "job": "producer"
+    },
+    {
+      "personId": 1575784,
+      "job": "composer"
+    },
+    {
+      "personId": 38759,
+      "job": "composer"
+    },
+    {
+      "personId": 68153,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4757,
+      "character": "Francesco Dellamorte",
+      "order": 0
+    },
+    {
+      "personId": 77904,
+      "character": "Gnaghi",
+      "order": 1
+    },
+    {
+      "personId": 87679,
+      "character": "She",
+      "order": 2
+    },
+    {
+      "personId": 46418,
+      "character": "Marshall Straniero",
+      "order": 3
+    },
+    {
+      "personId": 1301274,
+      "character": "Valentina Scanarotti",
+      "order": 4
+    },
+    {
+      "personId": 105353,
+      "character": "Doctor Vercesi",
+      "order": 5
+    },
+    {
+      "personId": 1301275,
+      "character": "Claudio's Girlfriend",
+      "order": 6
+    },
+    {
+      "personId": 101130,
+      "character": "Magda",
+      "order": 7
+    },
+    {
+      "personId": 24624,
+      "character": "Franco",
+      "order": 8
+    },
+    {
+      "personId": 101131,
+      "character": "New Mayor Civardi",
+      "order": 9
+    },
+    {
+      "personId": 1301276,
+      "character": "Claudio's Mother",
+      "order": 10
+    },
+    {
+      "personId": 129965,
+      "character": "Mayor Scanarotti",
+      "order": 11
+    },
+    {
+      "personId": 142133,
+      "character": "Luigi Ghigini",
+      "order": 12
+    },
+    {
+      "personId": 223946,
+      "character": "Claudio",
+      "order": 13
+    },
+    {
+      "personId": 1575789,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1753661,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1287156,
+      "character": "Pia Chiaromondo",
+      "order": 16
+    },
+    {
+      "personId": 1753662,
+      "character": "Hospital Nurse",
+      "order": 17
+    },
+    {
+      "personId": 1178546,
+      "character": "Monk",
+      "order": 18
+    },
+    {
+      "personId": 90323,
+      "character": "Hospital Doctor",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 608,
+  "sources": [
+    "cult-list"
+  ]
+}

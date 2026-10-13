@@ -1,0 +1,212 @@
+{
+  "tmdbId": 8487,
+  "slug": "wild-wild-west-1999",
+  "year": 1999,
+  "runtime": 106,
+  "originalTitle": "Wild Wild West",
+  "title": {
+    "en": "Wild Wild West",
+    "tr": "Vahşi Vahşi Batı"
+  },
+  "overview": {
+    "en": "Legless Southern inventor Dr. Arliss Loveless plans to rekindle the Civil War by assassinating President Ulysses S. Grant. Only two men can stop him: gunfighter James West and master-of-disguise and inventor Artemus Gordon. The two must team up to thwart Loveless' plans.",
+    "tr": "Başkan Ulysses S. Grant, ajan James T. West ve çılgın bilimadamı Artemus Gordon'u Amerika'nın en seçkin bilimadamlarının kaçırılması olayını araştırmakla görevlendirir. West ve Gordon, bu olayların arkasında kötü niyetli Dr. Arliss Loveless'in bulunduğunu kısa sürede keşfederler...  Dr. Loveless, bilimadamı köleleriyle birlikte çöldeki gizli karargahında Amerika Birleşik Devletleri'ni Amerika Bölünmüş Devletleri haline getirecek bir silah üzerine çalışmaktadır; ki bu dev bir metal örümcektir..."
+  },
+  "poster": {
+    "tr": "/pv8Whxtaw53cVhlfXA22HLKky67.jpg",
+    "en": "/3C5cZnIwQ6Wj4qGFKv0BBjimWro.jpg"
+  },
+  "backdrops": [
+    "/yx50WO9SwtfdCZBoLhOn5vAblru.jpg",
+    "/tbzWgnaqhFwN5mCIiwbgN5oiw0V.jpg",
+    "/3mNbtT2MWJPmQWYrUXvxFYNuz5j.jpg",
+    "/eD8TGTD3qodQmCK6eYsHSgeQ64q.jpg",
+    "/tpXSTJvzxaH1lrO9fSXqA4PxfOq.jpg",
+    "/tocaADqPdsz18jtzIC2I3Ky6YTw.jpg",
+    "/S1dkk6y8FC9Y0fjO0gBkU75LFv.jpg",
+    "/9ecT7tkBsEeRY2xDRUxlkr7bQhY.jpg",
+    "/4X12MYebIkYdXhiER2cIUFhKqoO.jpg",
+    "/68cqrtuEmHWg6WgzoNzGDCV91g0.jpg"
+  ],
+  "trailerKey": "wSRtRrPBTT8",
+  "genreIds": [
+    28,
+    12,
+    35,
+    878,
+    37
+  ],
+  "keywordIds": [
+    1436,
+    9714,
+    10028,
+    155291,
+    160364,
+    163671,
+    163674,
+    171636,
+    176217,
+    188294,
+    190434,
+    219404,
+    222863,
+    273294
+  ],
+  "countries": [
+    "US",
+    "CA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Peters Entertainment",
+    "Sonnenfeld/Josephson Worldwide Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 5174,
+      "job": "director"
+    },
+    {
+      "personId": 26479,
+      "job": "writer"
+    },
+    {
+      "personId": 26475,
+      "job": "writer"
+    },
+    {
+      "personId": 12100,
+      "job": "writer"
+    },
+    {
+      "personId": 12101,
+      "job": "writer"
+    },
+    {
+      "personId": 3805,
+      "job": "producer"
+    },
+    {
+      "personId": 5174,
+      "job": "producer"
+    },
+    {
+      "personId": 7182,
+      "job": "composer"
+    },
+    {
+      "personId": 3769,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2888,
+      "character": "Capt. James West",
+      "order": 0
+    },
+    {
+      "personId": 8945,
+      "character": "U.S. Marshal Artemus Gordon / President Grant",
+      "order": 1
+    },
+    {
+      "personId": 11181,
+      "character": "Dr. Arliss Loveless",
+      "order": 2
+    },
+    {
+      "personId": 3136,
+      "character": "Rita Escobar",
+      "order": 3
+    },
+    {
+      "personId": 588,
+      "character": "Coleman",
+      "order": 4
+    },
+    {
+      "personId": 15854,
+      "character": "General 'Bloodbath' McGrath",
+      "order": 5
+    },
+    {
+      "personId": 55254,
+      "character": "Amazonia",
+      "order": 6
+    },
+    {
+      "personId": 1475,
+      "character": "Munitia",
+      "order": 7
+    },
+    {
+      "personId": 55255,
+      "character": "Miss Lippenrieder",
+      "order": 8
+    },
+    {
+      "personId": 39126,
+      "character": "Miss Mae Lee East",
+      "order": 9
+    },
+    {
+      "personId": 31647,
+      "character": "Belle (Girl in Water Tower)",
+      "order": 10
+    },
+    {
+      "personId": 16163,
+      "character": "Big reb",
+      "order": 11
+    },
+    {
+      "personId": 1100323,
+      "character": "Other Reb",
+      "order": 12
+    },
+    {
+      "personId": 7853,
+      "character": "Hudson",
+      "order": 13
+    },
+    {
+      "personId": 71562,
+      "character": "Cross-Eyed Reb",
+      "order": 14
+    },
+    {
+      "personId": 53778,
+      "character": "Mr. Pinkerton",
+      "order": 15
+    },
+    {
+      "personId": 168331,
+      "character": "Dora Look-Alike",
+      "order": 16
+    },
+    {
+      "personId": 69502,
+      "character": "Reb #1",
+      "order": 17
+    },
+    {
+      "personId": 1279744,
+      "character": "Reb #2",
+      "order": 18
+    },
+    {
+      "personId": 14740,
+      "character": "French Dignitary",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3727,
+  "sources": [
+    "cult-list"
+  ]
+}

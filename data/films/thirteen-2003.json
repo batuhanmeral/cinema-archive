@@ -1,0 +1,209 @@
+{
+  "tmdbId": 11023,
+  "slug": "thirteen-2003",
+  "year": 2003,
+  "runtime": 100,
+  "originalTitle": "Thirteen",
+  "title": {
+    "en": "Thirteen",
+    "tr": "Onüç"
+  },
+  "overview": {
+    "en": "When 13-year-old Tracy befriends Evie, the most popular girl in school, her life is turned upside down as Evie introduces her to a world of sex, drugs, and money. But it isn’t long before Tracy’s new lifestyle begins to take a heavy toll on her and her family.",
+    "tr": "Tracy, iki örgülü, gelecek vaad eden, hâlâ ayıcıklarla ve Barbie bebekleriyle oynayan bir yeni ergendir. Fakat çevresinde sürekli cinsellik üzerinden yaratılmış bir atmosfer vardır; özellikle liseye başlamasıyla bu cinsellik söylemi, üzerinde büyük bir baskı oluşturmaya başlar. Tracy ilk başlarda, bu ortama uyum göstermekte zorlanır. Bir yandan Evie Zamora gibi çok popüler, bir manken kadar güzel ve çekici, kendini beğenmiş, tüm erkekleri peşinden koşturmayı başaran kızları anlayamamaktadır; bir yandan da onların dünyasına dahil olmak istemektedir. Evie'yle arkadaş olması, Tracy'nin olmayı hayal ettiği gibi biri olmasını sağlar, zamanla popüler olmak için neler yapması gerektiğini öğrenir ve herkesin ilgisini çeker. Ancak geçirdiği değişim sonucu, artık başka biri haline geldiğini, kendisine yabancılaştığını fark edecektir."
+  },
+  "poster": {
+    "tr": "/tLjpUeskbHN1K7XjiYAES6zFCgl.jpg",
+    "en": "/uzTLlZrNF6rMPBh5mUQu6vLnTtX.jpg"
+  },
+  "backdrops": [
+    "/iAyr7VEFGJoHDIHIxjEb3TskQW4.jpg",
+    "/wXVAQ5TrzRpzUUsxtuwzrFPZc5W.jpg",
+    "/lMiDvK1I0ZpM989jWiwbs4dSI3b.jpg",
+    "/ow2boWFZWza7D4qDvJohg9GJVoH.jpg",
+    "/A9NJhonTbavZ2YIcR84i6whBbnK.jpg",
+    "/gQIhjuUSeOMHS7EHZtzEBDu2ooj.jpg",
+    "/n9J40wvsuMvjyHdDGts3KFK58YA.jpg",
+    "/qUcROYkKmMX2QZOBii9bRY131Kj.jpg",
+    "/6QTW8gGCewcJYVbhoH1VeU2CNMo.jpg",
+    "/6uKEylSJ8Yklg8AlDYwamlxMqdL.jpg"
+  ],
+  "trailerKey": "a_OlFt2XgmE",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    6782,
+    10041,
+    10683,
+    10049,
+    11696,
+    11322,
+    34130,
+    176780,
+    178444,
+    178452,
+    178474,
+    178482,
+    187056,
+    209792,
+    233130,
+    239934,
+    240315,
+    242689,
+    296608
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Michael London Productions",
+    "Working Title",
+    "Antidote Films"
+  ],
+  "crew": [
+    {
+      "personId": 5506,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 65613,
+      "job": "producer"
+    },
+    {
+      "personId": 5666,
+      "job": "composer"
+    },
+    {
+      "personId": 19850,
+      "job": "director"
+    },
+    {
+      "personId": 59253,
+      "job": "composer"
+    },
+    {
+      "personId": 27679,
+      "job": "producer"
+    },
+    {
+      "personId": 19850,
+      "job": "writer"
+    },
+    {
+      "personId": 59252,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 38940,
+      "character": "Tracy",
+      "order": 0
+    },
+    {
+      "personId": 59252,
+      "character": "Evie",
+      "order": 1
+    },
+    {
+      "personId": 18686,
+      "character": "Melanie",
+      "order": 2
+    },
+    {
+      "personId": 55493,
+      "character": "Mason",
+      "order": 3
+    },
+    {
+      "personId": 23958,
+      "character": "Brady",
+      "order": 4
+    },
+    {
+      "personId": 67599,
+      "character": "Noel",
+      "order": 5
+    },
+    {
+      "personId": 25836,
+      "character": "Birdie",
+      "order": 6
+    },
+    {
+      "personId": 1212913,
+      "character": "Cynthia",
+      "order": 7
+    },
+    {
+      "personId": 1385661,
+      "character": "Rafa",
+      "order": 8
+    },
+    {
+      "personId": 1385662,
+      "character": "Medina",
+      "order": 9
+    },
+    {
+      "personId": 1385663,
+      "character": "Astrid",
+      "order": 10
+    },
+    {
+      "personId": 1385664,
+      "character": "Kayla",
+      "order": 11
+    },
+    {
+      "personId": 1227095,
+      "character": "Yumi",
+      "order": 12
+    },
+    {
+      "personId": 65561,
+      "character": "Luke",
+      "order": 13
+    },
+    {
+      "personId": 1385665,
+      "character": "Businesswoman",
+      "order": 14
+    },
+    {
+      "personId": 154551,
+      "character": "Science Teacher",
+      "order": 15
+    },
+    {
+      "personId": 1957485,
+      "character": "Tattoo Artist",
+      "order": 16
+    },
+    {
+      "personId": 149738,
+      "character": "Javi",
+      "order": 17
+    },
+    {
+      "personId": 13549,
+      "character": "Brooke",
+      "order": 18
+    },
+    {
+      "personId": 87956,
+      "character": "Travis",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1864,
+  "sources": [
+    "cult-list"
+  ]
+}

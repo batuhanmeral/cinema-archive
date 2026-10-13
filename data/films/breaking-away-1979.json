@@ -1,0 +1,190 @@
+{
+  "tmdbId": 20283,
+  "slug": "breaking-away-1979",
+  "year": 1979,
+  "runtime": 101,
+  "originalTitle": "Breaking Away",
+  "title": {
+    "en": "Breaking Away",
+    "tr": "Kaçış"
+  },
+  "overview": {
+    "en": "Dave, nineteen, has just graduated high school, with his three friends: the comical Cyril, the warm hearted but short-tempered Moocher, and the athletic, spiteful but good-hearted Mike. Now, Dave enjoys racing bikes and hopes to race the Italians one day, and even takes up the Italian culture, much to his friends' and parents' annoyance.",
+    "tr": "19 yaşında, henüz liseyi bitirmiş olan dave günlerini eğlence düşkünü Cyrill, çabuk sinirlenen Moocher ve kindar olmasına rağme iyi yürekli Mike ile birlikte geçirmektedir. Dave’in en büyük hayali günün birinde çok iyi bir bisiklet yarışçısı olabilmek ve İtalyan bisiklet takımına girebilmektir. Bunun için Dave İtalyan kültürünü saplantılı bir şekilde öğrenmeye, ailesi ve arkadaşları ise onun bu durumundan endişe duymaya başlar. Ancak Dave hiçbir şeye rağmen hayallerini bırakmaz ve başarıya doğru sağlam adımlar atar."
+  },
+  "poster": {
+    "tr": "/k7b5GsVJK1hfdwoYqcczN9pBba6.jpg",
+    "en": "/6fyhA7Imqxm7SftTqd4RGcayWfn.jpg"
+  },
+  "backdrops": [
+    "/fOfLYvd2BTKsOzbC3cz8ZpjDdFa.jpg",
+    "/t1Grxk1h11H2yuDMSFief7J5ZFd.jpg",
+    "/lThzQZTcKKruwb4NkulZEfriHcl.jpg",
+    "/yNjrT8bsr5WR9bmRjLsIwIoZtFR.jpg",
+    "/6F15p6mK181wp8jsIPTzofwb1HJ.jpg",
+    "/nuy2dNjWdSfaKufWb45u1wRTxSx.jpg",
+    "/iNSm1olehH0MHzsMQcuK4rqhF24.jpg",
+    "/6cI0JqgVlrZmW7WSbDsqGVXlLDA.jpg",
+    "/9pbTMcoFNF8d8OPBK4zfK2iWWUs.jpg",
+    "/uint8T0BwXOAlf9mgI3EULC3sf2.jpg"
+  ],
+  "trailerKey": "ijT_4EmWETk",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    1447,
+    6075,
+    3797,
+    10683,
+    11935,
+    18068,
+    160420,
+    180124,
+    180491,
+    186360
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "fr"
+  ],
+  "studios": [
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 12804,
+      "job": "director"
+    },
+    {
+      "personId": 12804,
+      "job": "producer"
+    },
+    {
+      "personId": 2507,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7422,
+      "job": "composer"
+    },
+    {
+      "personId": 69002,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27770,
+      "character": "Dave Stoller",
+      "order": 0
+    },
+    {
+      "personId": 6065,
+      "character": "Mike",
+      "order": 1
+    },
+    {
+      "personId": 11511,
+      "character": "Cyril",
+      "order": 2
+    },
+    {
+      "personId": 17183,
+      "character": "Moocher",
+      "order": 3
+    },
+    {
+      "personId": 1216876,
+      "character": "Evelyn Stoller",
+      "order": 4
+    },
+    {
+      "personId": 15900,
+      "character": "Ray Stoller",
+      "order": 5
+    },
+    {
+      "personId": 91460,
+      "character": "Katherine",
+      "order": 6
+    },
+    {
+      "personId": 7678,
+      "character": "Rod",
+      "order": 7
+    },
+    {
+      "personId": 87007,
+      "character": "Nancy",
+      "order": 8
+    },
+    {
+      "personId": 15415,
+      "character": "Doctor",
+      "order": 9
+    },
+    {
+      "personId": 778,
+      "character": "Mike's Brother",
+      "order": 10
+    },
+    {
+      "personId": 191771,
+      "character": "French Girl",
+      "order": 11
+    },
+    {
+      "personId": 1090710,
+      "character": "Girl",
+      "order": 12
+    },
+    {
+      "personId": 15500,
+      "character": "Suzy",
+      "order": 13
+    },
+    {
+      "personId": 5054499,
+      "character": "500 Race Announcer",
+      "order": 14
+    },
+    {
+      "personId": 5054501,
+      "character": "500 Race Official",
+      "order": 15
+    },
+    {
+      "personId": 5054502,
+      "character": "500 Race Official",
+      "order": 16
+    },
+    {
+      "personId": 5054503,
+      "character": "Mr. York",
+      "order": 17
+    },
+    {
+      "personId": 5054504,
+      "character": "Italian Rider",
+      "order": 18
+    },
+    {
+      "personId": 5054505,
+      "character": "Italian Rider",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 311,
+  "sources": [
+    "cult-list"
+  ]
+}

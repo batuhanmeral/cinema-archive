@@ -1,0 +1,198 @@
+{
+  "tmdbId": 198,
+  "slug": "to-be-or-not-to-be-1942",
+  "year": 1942,
+  "runtime": 99,
+  "originalTitle": "To Be or Not to Be",
+  "title": {
+    "en": "To Be or Not to Be",
+    "tr": "Olmak ya da Olmamak"
+  },
+  "overview": {
+    "en": "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+    "tr": "İkinci Dünya Savaşı döneminde Alman işgali altında bulunan Polonya'da yaşam, Nazi'lere karşı olan herkes için oldukça zordur. Polonya'nın Nazi'lere direnişine çok ciddi şekilde zarar verebilecek bir casusun Alman'lara bilgi ulaştırmadan bir an evvel engellenmesi gerekmektedir. Joseph Tura ve karısı Maria'nın başını çektiği bir grup tiyatro oyuncusu, Nazi'lerle amansız bir mücadeleye girişirler."
+  },
+  "poster": {
+    "tr": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg",
+    "en": "/dDQRpEoyjHT4fzw9cNklIvZuXYg.jpg"
+  },
+  "backdrops": [
+    "/p69ybBV94wSmyCGE2y2pH9U86l0.jpg",
+    "/28vvMlh490bxipmhkbYTQissiof.jpg",
+    "/vQ2rRlTeZXTi1wZQurvBItNIg4W.jpg",
+    "/jao2GNgogdCkKNSWF72HZxO532e.jpg",
+    "/2QNgGXO5U2T6tQniytPr3f39Xne.jpg",
+    "/48OWUj0zRgms9UFHJJiLNAJNert.jpg",
+    "/aG82d8Rq3PxcmuMqTH5N0rleP1x.jpg",
+    "/mmebJT735BLxfdxmNxBwTvj83Qs.jpg",
+    "/2jHNGRWrR3OdZYuQkqkGTcVzHDD.jpg",
+    "/lfiX2c8izrfy16rnv7UqzBUsfi1.jpg"
+  ],
+  "trailerKey": "DM4PxOf3OxY",
+  "genreIds": [
+    35,
+    10752,
+    10749
+  ],
+  "keywordIds": [
+    1326,
+    212,
+    3800,
+    2652,
+    128,
+    5265,
+    2435,
+    2444,
+    2436,
+    4679,
+    11109,
+    1956,
+    10123,
+    12999,
+    241930,
+    258533,
+    285695,
+    311315,
+    324429
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "de",
+    "fr"
+  ],
+  "studios": [
+    "Romaine Film Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 2500,
+      "job": "composer"
+    },
+    {
+      "personId": 2428,
+      "job": "director"
+    },
+    {
+      "personId": 11593,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2428,
+      "job": "producer"
+    },
+    {
+      "personId": 2489,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2491,
+      "character": "Maria Tura",
+      "order": 0
+    },
+    {
+      "personId": 2492,
+      "character": "Joseph Tura",
+      "order": 1
+    },
+    {
+      "personId": 2493,
+      "character": "Lieut. Stanislav Sobinski",
+      "order": 2
+    },
+    {
+      "personId": 2494,
+      "character": "Greenberg",
+      "order": 3
+    },
+    {
+      "personId": 2495,
+      "character": "Rawitch",
+      "order": 4
+    },
+    {
+      "personId": 2496,
+      "character": "Professor Alexander Siletsky",
+      "order": 5
+    },
+    {
+      "personId": 2497,
+      "character": "Col. Ehrhardt",
+      "order": 6
+    },
+    {
+      "personId": 2501,
+      "character": "Bronski",
+      "order": 7
+    },
+    {
+      "personId": 2502,
+      "character": "Producer Dobosh",
+      "order": 8
+    },
+    {
+      "personId": 31263,
+      "character": "Actor-Adjutant",
+      "order": 9
+    },
+    {
+      "personId": 1510,
+      "character": "Capt. Schultz",
+      "order": 10
+    },
+    {
+      "personId": 2503,
+      "character": "Anna",
+      "order": 11
+    },
+    {
+      "personId": 29601,
+      "character": "Gen. Armstrong",
+      "order": 12
+    },
+    {
+      "personId": 19329,
+      "character": "Major Cunningham",
+      "order": 13
+    },
+    {
+      "personId": 131045,
+      "character": "Gestapo Sergeant at Desk at Top of Hotel Stairs (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1066638,
+      "character": "Polish RAF Pilot (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1005247,
+      "character": "German Soldier (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1404180,
+      "character": "Member of Audience at Performance of Hamlet (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1130467,
+      "character": "Townsman (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1822784,
+      "character": "Wilhelm Kunze (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 882,
+  "sources": [
+    "cult-list"
+  ]
+}

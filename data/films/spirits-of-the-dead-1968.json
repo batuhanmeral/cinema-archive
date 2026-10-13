@@ -1,0 +1,238 @@
+{
+  "tmdbId": 41225,
+  "slug": "spirits-of-the-dead-1968",
+  "year": 1968,
+  "runtime": 122,
+  "originalTitle": "Histoires extraordinaires",
+  "title": {
+    "en": "Spirits of the Dead",
+    "tr": "Şeytanın Kurbanları"
+  },
+  "overview": {
+    "en": "Anthology film from three European directors based on stories by Edgar Allan Poe: a cruel countess haunted by a ghostly horse, a sadistic young man haunted by his double, and an alcoholic actor haunted by the Devil.",
+    "tr": "Edgar Allan Poe'nun Metzengerstein, William Wilson ve Never Bet the Devil Your Head adlı üç kısa hikayesi; Federico Fellini, Louis Malle ve Roger Vadim tarafından uyarlandı. Vadim'in yönettiği Metzengerstein, ortaçağda kendine miras kalan bir şatoda sefahat içinde yaşayan genç bir kontesi (Jane Fonda); Malle'in yönettiği William Wilson, orduya yazılan şiddet düşkünü bir genci (Alain Delon); Fellini'nin yönettiği Toby Dammit de gözden düşmüş alkol bağımlısı bir aktörü (Terence Stamp) anlatıyor"
+  },
+  "poster": {
+    "tr": "/4rskADMz6k5Z94riB8BDrgdYUfy.jpg",
+    "en": "/9HmCwfPG7URPSXSrmEAFN65VoWE.jpg"
+  },
+  "backdrops": [
+    "/xDxbmw2z39DpZnuclWJGtQHR71E.jpg",
+    "/nJgQ4PR811WVT69FvPKXcLiqOxb.jpg",
+    "/lyfM45GIOnYW4p0h4ogRLDKglJT.jpg",
+    "/6kmyE4xqqpq7jkpklSSuWo5xjr7.jpg",
+    "/s8h41U0rqM0PP6qCas8qzBtxeen.jpg",
+    "/3bglhgQ2c16PfiCiO6myu2A1iFI.jpg",
+    "/g2JbUQNUVakrumoHpOXjCfnQ6hg.jpg",
+    "/c8dDqpuvg4PX96hBQ4oqkHcjMyE.jpg",
+    "/yxoAHsWInoIohgpa7pYBg2wFc6n.jpg",
+    "/d4nPsB2Zpux8eG3IZQOsVOF3yHV.jpg"
+  ],
+  "trailerKey": "7FJuSlLlmSk",
+  "genreIds": [
+    27,
+    9648,
+    18
+  ],
+  "keywordIds": [
+    6092,
+    1523,
+    9706,
+    18396,
+    33457,
+    33513,
+    41011,
+    161891,
+    162262,
+    250593,
+    305704
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it"
+  ],
+  "studios": [
+    "PEA",
+    "Les Films Marceau",
+    "Cocinor"
+  ],
+  "crew": [
+    {
+      "personId": 4415,
+      "job": "director"
+    },
+    {
+      "personId": 53767,
+      "job": "director"
+    },
+    {
+      "personId": 15389,
+      "job": "director"
+    },
+    {
+      "personId": 1172546,
+      "job": "writer"
+    },
+    {
+      "personId": 53767,
+      "job": "writer"
+    },
+    {
+      "personId": 3098,
+      "job": "composer"
+    },
+    {
+      "personId": 4415,
+      "job": "writer"
+    },
+    {
+      "personId": 15131,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 15389,
+      "job": "writer"
+    },
+    {
+      "personId": 1172547,
+      "job": "writer"
+    },
+    {
+      "personId": 67884,
+      "job": "writer"
+    },
+    {
+      "personId": 36125,
+      "job": "composer"
+    },
+    {
+      "personId": 1763198,
+      "job": "composer"
+    },
+    {
+      "personId": 5820,
+      "job": "producer"
+    },
+    {
+      "personId": 10469,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2361,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3783,
+      "character": "Giuseppina (segment \"William Wilson\")",
+      "order": 0
+    },
+    {
+      "personId": 15135,
+      "character": "William Wilson and his double (segment \"William Wilson\")",
+      "order": 1
+    },
+    {
+      "personId": 6352,
+      "character": "Contessa Frederique de Metzengerstein (segment \"Metzengerstein\")",
+      "order": 2
+    },
+    {
+      "personId": 28641,
+      "character": "Toby Dammit (segment \"Toby Dammit\")",
+      "order": 3
+    },
+    {
+      "personId": 8949,
+      "character": "Baron Wilhelm Berlifitzing (segment \"Metzengerstein\")",
+      "order": 4
+    },
+    {
+      "personId": 11130,
+      "character": "Countess' Advisor (segment \"Metzengerstein\")",
+      "order": 5
+    },
+    {
+      "personId": 68406,
+      "character": "Priest (segment \"Toby Dammit\")",
+      "order": 6
+    },
+    {
+      "personId": 36386,
+      "character": "Friend of Countess (segment \"Metzengerstein\")",
+      "order": 7
+    },
+    {
+      "personId": 139129,
+      "character": "Girl on Dissection Table",
+      "order": 8
+    },
+    {
+      "personId": 37727,
+      "character": "Philippe",
+      "order": 9
+    },
+    {
+      "personId": 38915,
+      "character": "Hugues",
+      "order": 10
+    },
+    {
+      "personId": 120613,
+      "character": "Schoolmaster (segment \"William Wilson\") (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1108286,
+      "character": "Woman (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 44104,
+      "character": "TV Interviewer (segment \"Toby Dammit\") (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 628316,
+      "character": "Hans (segment \"William Wilson\")",
+      "order": 14
+    },
+    {
+      "personId": 39020,
+      "character": "University Professor (segment \"William Wilson\")",
+      "order": 15
+    },
+    {
+      "personId": 103106,
+      "character": "Manetti Brother (segment \"Toby Dammit\") (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 578024,
+      "character": "Courtesan (segment \"Metzengerstein\")",
+      "order": 17
+    },
+    {
+      "personId": 24475,
+      "character": "Courtesan (segment \"Metzengerstein\") (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 141838,
+      "character": "Gypsy Fortune Teller (Segment \"Toby Dammit\") (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 195,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "tmdbId": 2671,
+  "slug": "ring-1998",
+  "year": 1998,
+  "runtime": 96,
+  "originalTitle": "リング",
+  "title": {
+    "en": "Ring",
+    "tr": "Halka"
+  },
+  "overview": {
+    "en": "A mysterious video has been linked to a number of deaths, and when an inquisitive journalist finds the tape and views it herself, she sets in motion a chain of events that puts her own life in danger.",
+    "tr": "Gizemli ölümlerin meydana geldiği bir sırada, izleyenlerin 7 gün sonra öldüğü esrarlı bir video kasetin varlığı kulaktan kulağa dolaşmaktadır.Böyle söylentilere kulak asmayan bir kadın gazeteci olayları araştırmaya karar verince, kendini tehlikeli ve ölümcül bir oyunun ortasında bulur.Kaseti izleyen gazetecinin gerçekten yedi gün ömrü mü kalmıştır, yoksa tüm bunlar bir şehir efsanesinden mi ibarettir? Zamana karşı amansız bir yarış başlamıştır."
+  },
+  "poster": {
+    "tr": "/1YINof6kN5yRdePEbcU5360ejoq.jpg",
+    "en": "/1YINof6kN5yRdePEbcU5360ejoq.jpg"
+  },
+  "backdrops": [
+    "/sGhbO6muh1Fnpa7nkxYCfvmgWCo.jpg",
+    "/xSxVLvh8FAFDD68lx718E3hE2i3.jpg",
+    "/kdwims3V9Xd5cqIRo83fNZV11FV.jpg",
+    "/k2e8BIHXmdqy5A0nCba9ayHdZlw.jpg",
+    "/eSDRqP20dZhQUC0eQAxH1lug8cd.jpg",
+    "/c4JSmNFAVtn0WNtWFoycKrIFbFT.jpg",
+    "/oCbjCUKyBuHJvoEQM99JaFfs3jo.jpg",
+    "/l4rrlDh9iq0uGU3DNelULzGhrkx.jpg",
+    "/rl7GhJPHyO4RQuPekA5MFvBAOng.jpg",
+    "/d18kPZEX0lHB9rRxPI9R1751Xq9.jpg"
+  ],
+  "trailerKey": "yAmO3vanfDQ",
+  "genreIds": [
+    27,
+    53
+  ],
+  "keywordIds": [
+    736,
+    2041,
+    818,
+    6152,
+    6103,
+    9853,
+    9955,
+    10541,
+    13209,
+    156174,
+    172784,
+    177185,
+    242989,
+    325319
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "KADOKAWA Shoten",
+    "Omega Project",
+    "Rasen Production Committee"
+  ],
+  "crew": [
+    {
+      "personId": 26875,
+      "job": "director"
+    },
+    {
+      "personId": 27785,
+      "job": "writer"
+    },
+    {
+      "personId": 27794,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 57304,
+      "job": "composer"
+    },
+    {
+      "personId": 58669,
+      "job": "producer"
+    },
+    {
+      "personId": 20316,
+      "job": "producer"
+    },
+    {
+      "personId": 553068,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27776,
+      "character": "Reiko Asakawa",
+      "order": 0
+    },
+    {
+      "personId": 9195,
+      "character": "Ryuji Takayama",
+      "order": 1
+    },
+    {
+      "personId": 27784,
+      "character": "Yoichi Asakawa",
+      "order": 2
+    },
+    {
+      "personId": 27778,
+      "character": "Mai Takano",
+      "order": 3
+    },
+    {
+      "personId": 27779,
+      "character": "Tomoko Oishi",
+      "order": 4
+    },
+    {
+      "personId": 27780,
+      "character": "Masami Kurahashi",
+      "order": 5
+    },
+    {
+      "personId": 27782,
+      "character": "Yoshino",
+      "order": 6
+    },
+    {
+      "personId": 27781,
+      "character": "Takashi Yamamura",
+      "order": 7
+    },
+    {
+      "personId": 27783,
+      "character": "Koichi Asakawa",
+      "order": 8
+    },
+    {
+      "personId": 117465,
+      "character": "Shizuko Yamamura",
+      "order": 9
+    },
+    {
+      "personId": 552344,
+      "character": "Sadako Yamamura",
+      "order": 10
+    },
+    {
+      "personId": 554057,
+      "character": "Dr. Heihachiro Ikuma",
+      "order": 11
+    },
+    {
+      "personId": 3502309,
+      "character": "Omiya",
+      "order": 12
+    },
+    {
+      "personId": 3502310,
+      "character": "Okazaki",
+      "order": 13
+    },
+    {
+      "personId": 117466,
+      "character": "Reiko's Aunt",
+      "order": 14
+    },
+    {
+      "personId": 554604,
+      "character": "Ryomi Oishi",
+      "order": 15
+    },
+    {
+      "personId": 3502311,
+      "character": "Sadako Yamamura",
+      "order": 16
+    },
+    {
+      "personId": 554073,
+      "character": "Hayatsu",
+      "order": 17
+    },
+    {
+      "personId": 554174,
+      "character": "Kazue Yamamura",
+      "order": 18
+    },
+    {
+      "personId": 3502312,
+      "character": "Student",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1775,
+  "sources": [
+    "cult-list"
+  ]
+}

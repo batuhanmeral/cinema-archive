@@ -1,0 +1,133 @@
+{
+  "tmdbId": 23293,
+  "slug": "phantom-from-space-1953",
+  "year": 1953,
+  "runtime": 73,
+  "originalTitle": "Phantom from Space",
+  "title": {
+    "en": "Phantom from Space",
+    "tr": "Phantom from Space"
+  },
+  "overview": {
+    "en": "After a UFO sighting, a mysterious phantom in a bizarre outfit starts attacking people in San Fernando Valley.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/blctsVWNJVlv8Zc4wWcgzlCFc28.jpg",
+    "en": "/blctsVWNJVlv8Zc4wWcgzlCFc28.jpg"
+  },
+  "backdrops": [
+    "/44JuUrM0J2Yhzf0u6cmkUCCncvy.jpg",
+    "/uZFWsA4BWI41hutKpmN5gN467ir.jpg",
+    "/kkquLcYJLLw9LYwu1QogyWzh8kx.jpg",
+    "/1ULb9zYiOzzzmyuzhXWPRODCFvh.jpg",
+    "/wrYEwBJNVyd1RImLeQTnbGKdFah.jpg",
+    "/hRptcSQL6LX60kYw1kTWmv6jh3.jpg",
+    "/AcoFjxy33orsmrfm3pX6imCp5XD.jpg"
+  ],
+  "trailerKey": "Rhks-1SGKCE",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    3243,
+    6968,
+    9951,
+    9738,
+    9739,
+    237591,
+    239324
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Planet Filmplays"
+  ],
+  "crew": [
+    {
+      "personId": 118289,
+      "job": "writer"
+    },
+    {
+      "personId": 151569,
+      "job": "writer"
+    },
+    {
+      "personId": 89702,
+      "job": "director"
+    },
+    {
+      "personId": 89702,
+      "job": "producer"
+    },
+    {
+      "personId": 40183,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30681,
+      "job": "composer"
+    },
+    {
+      "personId": 2681963,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 132533,
+      "character": "Barbara Randall",
+      "order": 0
+    },
+    {
+      "personId": 16133,
+      "character": "Lt. Bowers",
+      "order": 1
+    },
+    {
+      "personId": 89703,
+      "character": "Maj. Andrews",
+      "order": 2
+    },
+    {
+      "personId": 131045,
+      "character": "Dr. Wyatt",
+      "order": 3
+    },
+    {
+      "personId": 1099253,
+      "character": "Policeman",
+      "order": 4
+    },
+    {
+      "personId": 131003,
+      "character": "Neighbor",
+      "order": 5
+    },
+    {
+      "personId": 84486,
+      "character": "Police Sergeant",
+      "order": 6
+    },
+    {
+      "personId": 30163,
+      "character": "Watchman",
+      "order": 7
+    },
+    {
+      "personId": 2008123,
+      "character": "Betty Evans",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 46,
+  "sources": [
+    "cult-list"
+  ]
+}

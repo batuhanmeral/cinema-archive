@@ -1,0 +1,190 @@
+{
+  "tmdbId": 2292,
+  "slug": "clerks-1994",
+  "year": 1994,
+  "runtime": 92,
+  "originalTitle": "Clerks",
+  "title": {
+    "en": "Clerks",
+    "tr": "Tezgâhtarlar"
+  },
+  "overview": {
+    "en": "Convenience and video store clerks Dante and Randal are sharp-witted, potty-mouthed and bored out of their minds. So in between needling customers, the counter jockeys play hockey on the roof, visit a funeral home and deal with their love lives.",
+    "tr": "Dante Hicks tezgahtar olarak çalışmakta ve New Jersey şehrinde yaşamaktadır. İzinli olduğu bir cumartesi günü işe gitmesi istenir. Hiç hoşuna gitmese de bu talebi yerine getirmek zorundadır. Ancak bu öyle bir gündür ki aksilikler daha dükkanın kapısında başlar. Dükkanı açmak için kaldırması gereken panjurlar sıkışmıştır, hala deli gibi sevdiği eski sevgilisi bugün evlenecektir, üniversiteye gitmesi içni sürekli başının etini yiyen yeni sevgilisi geçmişi hakkında çok özel bir açıklamada bulunur, patronu söz verdiği halde dükkanı devralmak için gelmez, saat ikide maçı vardır ve eski sevgililerinden birisinin cenaze töreni bu gün yapılacak ve son görevini yapması için tek gün bugündür! Üstüne üstlük dükkana gelen aksi müşterilerle uğraşırken yan dükkandaki tezgahtar kız, onun müşterilerini çalmaya çalışmaktadır. Dante tüm bu aksiliklere rağmen işlerini yola koyma çabası içindedir..."
+  },
+  "poster": {
+    "tr": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg",
+    "en": "/9IiSgiq4h4siTIS9H3o4nZ3h5L9.jpg"
+  },
+  "backdrops": [
+    "/gUVpRUfjgbf4CvWBicYpCADKAD9.jpg",
+    "/tZMo2UkKHptkzoBGf3fxTexY1aM.jpg",
+    "/2zU6nh8h9WS4aiwoaxgAEv7QPCm.jpg",
+    "/sjfbZVKRGh84lNxhqvuhdvovh18.jpg",
+    "/rwpZTH9dkZf4CKgbCyx2Co2yTng.jpg",
+    "/3PgwZtFyIKViQ9IhOd1shjERNwa.jpg",
+    "/8YvOBTDVG3rzBXThDL96GVlEWfz.jpg",
+    "/xn63UHCeNa1XouwaAkVvjn9JB8B.jpg",
+    "/at725mWNQq0Fujjd3Y2VGTlW9uC.jpg",
+    "/uWHOB0YcpOQWkGyfyb1h2DSgMjw.jpg"
+  ],
+  "trailerKey": "f8yqQkABBjY",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    1361,
+    3640,
+    586,
+    1420,
+    3090,
+    3230,
+    7151,
+    12999,
+    34053,
+    179430,
+    197702,
+    210605,
+    312038,
+    325857,
+    378672
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "View Askew Productions"
+  ],
+  "crew": [
+    {
+      "personId": 19303,
+      "job": "director"
+    },
+    {
+      "personId": 20503,
+      "job": "producer"
+    },
+    {
+      "personId": 19303,
+      "job": "producer"
+    },
+    {
+      "personId": 21405,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 19303,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 23629,
+      "character": "Dante",
+      "order": 0
+    },
+    {
+      "personId": 23630,
+      "character": "Randal",
+      "order": 1
+    },
+    {
+      "personId": 23631,
+      "character": "Veronica",
+      "order": 2
+    },
+    {
+      "personId": 23632,
+      "character": "Caitlin",
+      "order": 3
+    },
+    {
+      "personId": 19302,
+      "character": "Jay",
+      "order": 4
+    },
+    {
+      "personId": 19303,
+      "character": "Silent Bob",
+      "order": 5
+    },
+    {
+      "personId": 20503,
+      "character": "William the Idiot Manchild / Angry Hockey-Playing Customer / Angry Mourner",
+      "order": 6
+    },
+    {
+      "personId": 23634,
+      "character": "Chewlie's Rep",
+      "order": 7
+    },
+    {
+      "personId": 3801953,
+      "character": "Old Man",
+      "order": 8
+    },
+    {
+      "personId": 23633,
+      "character": "Woolen Cap Smoker / Egg Man / Offended Customer / Cat-Admiring Bitter Customer",
+      "order": 9
+    },
+    {
+      "personId": 23635,
+      "character": "Sanford / Angry Mourner",
+      "order": 10
+    },
+    {
+      "personId": 4003935,
+      "character": "#812 Wynarski",
+      "order": 11
+    },
+    {
+      "personId": 21405,
+      "character": "Hunting Cap Smoking Boy / Low I.Q. Video Customer / Hubcap Searching Customer / Angry Mourner / Angry Crowd at Door",
+      "order": 12
+    },
+    {
+      "personId": 23636,
+      "character": "Coroner",
+      "order": 13
+    },
+    {
+      "personId": 4006945,
+      "character": "Administer of Fine / Orderly",
+      "order": 14
+    },
+    {
+      "personId": 4006946,
+      "character": "Indecisive Video Customer",
+      "order": 15
+    },
+    {
+      "personId": 4006745,
+      "character": "Caged Animal Masturbator",
+      "order": 16
+    },
+    {
+      "personId": 4006947,
+      "character": "Dental School Video Customer",
+      "order": 17
+    },
+    {
+      "personId": 572589,
+      "character": "Trainer",
+      "order": 18
+    },
+    {
+      "personId": 1560996,
+      "character": "Alyssa's Sister Heather",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2904,
+  "sources": [
+    "cult-list"
+  ]
+}

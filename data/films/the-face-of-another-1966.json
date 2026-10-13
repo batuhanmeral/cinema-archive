@@ -1,0 +1,187 @@
+{
+  "tmdbId": 29452,
+  "slug": "the-face-of-another-1966",
+  "year": 1966,
+  "runtime": 122,
+  "originalTitle": "他人の顔",
+  "title": {
+    "en": "The Face of Another",
+    "tr": "Bir Başkasının Yüzü"
+  },
+  "overview": {
+    "en": "A businessman with a disfigured face obtains a lifelike mask from his new doctor, but the mask starts altering his personality and causing him to question his identity.",
+    "tr": "Bir kaza sonucu yüzü tanınamayacak ve hatta korkulacak kadar yanan karakterin toplum içerisine çıkabilmesi için özel bir maske geliştirilir. Ancak bu maske karakterin kişiliğinde hareketlenmelere neden olacaktır * Yüz ruha açılan bir kapı. Yüz kapandığında ruh da kapanıyor. İçeri kimse giremez oluyor. Ruh çürümeye terk ediliyor, bozulup harabeye dönüşüyor."
+  },
+  "poster": {
+    "tr": "/eUnFdf1Mf1b8AD3ChMPOCUfTBDQ.jpg",
+    "en": "/tfP4m5tRyHKvdJ809jwsag1aNu1.jpg"
+  },
+  "backdrops": [
+    "/g1C4dj1tTqtwKPjSBfWr01v9e7N.jpg",
+    "/rigZPEngfGednukmPrj4tOPm9uU.jpg",
+    "/mZiamwOslgwG6nnUwjicYDy1cNr.jpg",
+    "/3Utle6hz9kxf0QkW218ymod4vhd.jpg",
+    "/jI0TGqXmWlTMcjvcFJ2qW5iTa7m.jpg"
+  ],
+  "trailerKey": "HiS4sOMiRh0",
+  "genreIds": [
+    18,
+    878
+  ],
+  "keywordIds": [
+    2546,
+    233,
+    851,
+    818,
+    3394,
+    12999,
+    209998,
+    254243,
+    327615
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [],
+  "studios": [
+    "Teshigahara Productions",
+    "Tokyo Eiga"
+  ],
+  "crew": [
+    {
+      "personId": 96801,
+      "job": "director"
+    },
+    {
+      "personId": 96807,
+      "job": "writer"
+    },
+    {
+      "personId": 1089033,
+      "job": "producer"
+    },
+    {
+      "personId": 1089030,
+      "job": "producer"
+    },
+    {
+      "personId": 1089017,
+      "job": "producer"
+    },
+    {
+      "personId": 51808,
+      "job": "composer"
+    },
+    {
+      "personId": 96809,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 70131,
+      "character": "Mr. Okuyama",
+      "order": 0
+    },
+    {
+      "personId": 118408,
+      "character": "Dr. Hori",
+      "order": 1
+    },
+    {
+      "personId": 7451,
+      "character": "Mrs. Okuyama",
+      "order": 2
+    },
+    {
+      "personId": 94188,
+      "character": "Nurse",
+      "order": 3
+    },
+    {
+      "personId": 25466,
+      "character": "The Boss",
+      "order": 4
+    },
+    {
+      "personId": 1089034,
+      "character": "Scarred Girl",
+      "order": 5
+    },
+    {
+      "personId": 1028475,
+      "character": "Elder Brother of Scarred Girl",
+      "order": 6
+    },
+    {
+      "personId": 7454,
+      "character": "Apartment Superintendent",
+      "order": 7
+    },
+    {
+      "personId": 91288,
+      "character": "Yoko",
+      "order": 8
+    },
+    {
+      "personId": 96637,
+      "character": "Man with Mole",
+      "order": 9
+    },
+    {
+      "personId": 224658,
+      "character": "Male Patient",
+      "order": 10
+    },
+    {
+      "personId": 99247,
+      "character": "Mentally Ill Man #1",
+      "order": 11
+    },
+    {
+      "personId": 96805,
+      "character": "Mentally Ill Man #2",
+      "order": 12
+    },
+    {
+      "personId": 552647,
+      "character": "Secretary",
+      "order": 13
+    },
+    {
+      "personId": 1152713,
+      "character": "Old Lady",
+      "order": 14
+    },
+    {
+      "personId": 83361,
+      "character": "Singer in Bar",
+      "order": 15
+    },
+    {
+      "personId": 141088,
+      "character": "Man in the Bar",
+      "order": 16
+    },
+    {
+      "personId": 51808,
+      "character": "Man Smoking in Bar (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 3762624,
+      "character": "Female Patient",
+      "order": 18
+    },
+    {
+      "personId": 3762625,
+      "character": "Stabbed Woman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 301,
+  "sources": [
+    "cult-list"
+  ]
+}

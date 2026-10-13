@@ -1,0 +1,206 @@
+{
+  "tmdbId": 6114,
+  "slug": "bram-stoker-s-dracula-1992",
+  "year": 1992,
+  "runtime": 128,
+  "originalTitle": "Bram Stoker's Dracula",
+  "title": {
+    "en": "Bram Stoker's Dracula",
+    "tr": "Bram Stoker'dan Dracula"
+  },
+  "overview": {
+    "en": "Count Dracula, a 15th-century prince, is condemned to live off the blood of the living for eternity. Young lawyer Jonathan Harker is sent to Dracula's castle to finalise a land deal, but when the Count sees a photo of Harker's fiancée, Mina, the spitting image of his dead wife, he imprisons him and sets off for London to track her down.",
+    "tr": "Genç bir avukat olan Jonathan Harker, görevi gereği Doğu Avrupa'da küçük gizemli bir kasabaya gelir. Burada ölümsüz vampir Dracula tarafından Harker, onunla birlikte Londra'ya gitmek zorunda kalır. Drakula Harker'ın nişanlısı Mina'nın fotoğrafını görerek etkilenmiş ve genç kızı ele geçirmek istemektedir. Önce Mina'nın yakın arkadaşı Lucy'yi ele geçiren Drakula'ya karşı Lucy ve arkadaşları direnmeye çalışacaklardır..."
+  },
+  "poster": {
+    "tr": "/5I402rHhJ8k0JVLoWm6Rzoobvjt.jpg",
+    "en": "/n39glC4GkBeCbwdenES8ZBodim8.jpg"
+  },
+  "backdrops": [
+    "/tyBkBHKDrJyVUeCs550kMr61jnq.jpg",
+    "/88S6EYQBVyQktDfSqsB33I169jN.jpg",
+    "/1ZVsHrPyogvUMJEuuB9eCkHSwaR.jpg",
+    "/jhs21DDKZM6J9k448R1m0w67pD.jpg",
+    "/eeI3ZWOA88nG4YK5cMX6HnjXiEH.jpg",
+    "/fGuhbAlDpvmNuC0vkz1vsIzYwsq.jpg",
+    "/iWuhPd4s89WI6kMe8f0O2V7xjaz.jpg",
+    "/aLPoFIvBBn66KDvs8cXL2Orcv5r.jpg",
+    "/b2uUVKHdWryqxP7KjMSvJLv57SH.jpg",
+    "/daBr7iJBO0ksvV7tCoVxPqKMb0x.jpg"
+  ],
+  "trailerKey": "xD6JMxOGBLQ",
+  "genreIds": [
+    10749,
+    27
+  ],
+  "keywordIds": [
+    596,
+    212,
+    272,
+    3133,
+    4197,
+    1890,
+    2158,
+    9714,
+    155301,
+    156112,
+    160292,
+    169620,
+    207928,
+    213097
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "la",
+    "ro",
+    "bg",
+    "el",
+    "en"
+  ],
+  "studios": [
+    "American Zoetrope",
+    "Osiris Films",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1776,
+      "job": "director"
+    },
+    {
+      "personId": 1776,
+      "job": "producer"
+    },
+    {
+      "personId": 1400,
+      "job": "composer"
+    },
+    {
+      "personId": 3769,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10295,
+      "job": "writer"
+    },
+    {
+      "personId": 3219,
+      "job": "producer"
+    },
+    {
+      "personId": 3222,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 64,
+      "character": "Dracula",
+      "order": 0
+    },
+    {
+      "personId": 1920,
+      "character": "Mina Murray / Elisabeta",
+      "order": 1
+    },
+    {
+      "personId": 4173,
+      "character": "Professor Abraham Van Helsing",
+      "order": 2
+    },
+    {
+      "personId": 6384,
+      "character": "Jonathan Harker",
+      "order": 3
+    },
+    {
+      "personId": 41381,
+      "character": "Lucy Westenra",
+      "order": 4
+    },
+    {
+      "personId": 2130,
+      "character": "Lord Arthur Holmwood",
+      "order": 5
+    },
+    {
+      "personId": 20766,
+      "character": "Dr. Jack Seward",
+      "order": 6
+    },
+    {
+      "personId": 20215,
+      "character": "Quincey P. Morris",
+      "order": 7
+    },
+    {
+      "personId": 2887,
+      "character": "R.M. Renfield",
+      "order": 8
+    },
+    {
+      "personId": 28782,
+      "character": "Dracula's Bride",
+      "order": 9
+    },
+    {
+      "personId": 47955,
+      "character": "Dracula's Bride",
+      "order": 10
+    },
+    {
+      "personId": 47954,
+      "character": "Dracula's Bride",
+      "order": 11
+    },
+    {
+      "personId": 16097,
+      "character": "Mr. Hawkins",
+      "order": 12
+    },
+    {
+      "personId": 4257,
+      "character": "Hobbs",
+      "order": 13
+    },
+    {
+      "personId": 162940,
+      "character": "Lucy's Maid",
+      "order": 14
+    },
+    {
+      "personId": 203898,
+      "character": "Downstairs Maid",
+      "order": 15
+    },
+    {
+      "personId": 1089946,
+      "character": "Deacon",
+      "order": 16
+    },
+    {
+      "personId": 1089947,
+      "character": "Priest",
+      "order": 17
+    },
+    {
+      "personId": 60493,
+      "character": "Sister Agatha",
+      "order": 18
+    },
+    {
+      "personId": 1089949,
+      "character": "Sister Sylva",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 5996,
+  "sources": [
+    "cult-list"
+  ]
+}

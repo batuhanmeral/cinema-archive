@@ -1,0 +1,205 @@
+{
+  "tmdbId": 765,
+  "slug": "evil-dead-ii-1987",
+  "year": 1987,
+  "runtime": 84,
+  "originalTitle": "Evil Dead II",
+  "title": {
+    "en": "Evil Dead II",
+    "tr": "Vahşet"
+  },
+  "overview": {
+    "en": "Ash Williams and his girlfriend Linda find a log cabin in the woods with a voice recording from an archeologist who had recorded himself reciting ancient chants from \"The Book of the Dead.\" As they play the recording an evil power is unleashed taking over Linda's body.",
+    "tr": "Maceraya düşkün bir genç olan Ash, sevgilisi Linda ile ormanlık bir bölgedeki bir barakaya gider. Bu ısız yerde kimse onları rahatsız etmeyecektir. Orada, bir profesörün \"Ölüler Kitabı\" adlı eserden okurken kaydettiği videoyu izlemeye başlarlar. Sadece bir eğlence, bir değişiklik olsun diye seyretmeye başladıkları bu video onların başına akla gelmeyecek bir felaketi getirecektir. Videonun bahsettiği lanet, bu ıssız ormanda ortaya çıkan şeytani bir güce dönüşür ve Linda'yı etkisi altına alarak onu deadite adlı korkunç bir yaratığa dönüştürür. Sevgilisi Ash'da onun gibi bir canavara dönüşecektir. Tam bu sırada o hikayeyi okuyan profesörün kızı ve arkadaşları da kulübeye gelirler ve böylece inanılmaz korkunç olaylar başlar."
+  },
+  "poster": {
+    "tr": "/ltFcrBx4hDNkV5QgWrniPt1ipeT.jpg",
+    "en": "/4zqCKJVHUolGs6C5AZwAZqLWixW.jpg"
+  },
+  "backdrops": [
+    "/jyRk8ykqLOXaVadZ0aWRDd89gMP.jpg",
+    "/1lKLVY9OlSaRHmN7oVrQp5cHtp.jpg",
+    "/dOvEJK2u0slAGTfhdZOjnNgCQet.jpg",
+    "/lucR1aUW9re1o74ji2M0z50RwTA.jpg",
+    "/j1CqN4ypo3lFJJA5C7mYJzBaXoL.jpg",
+    "/6esMzVIJSGdjOFH2GiU216ewxY3.jpg",
+    "/rglA3FRonWw46liKLWMeQO7k3XH.jpg",
+    "/aIHwgapr2nTQFlSZvYGG4tFnPT4.jpg",
+    "/fNGb00ngswWooteBkanTBpC5Vkz.jpg",
+    "/2QcN5FFJNEFT7sV2N0N80IozbHD.jpg"
+  ],
+  "trailerKey": "s7WNgzilRBw",
+  "genreIds": [
+    27,
+    35,
+    14
+  ],
+  "keywordIds": [
+    1366,
+    3335,
+    7946,
+    9663,
+    11335,
+    12394,
+    13153,
+    13209,
+    18451,
+    157458,
+    157459,
+    157465,
+    157466,
+    157470,
+    164218,
+    259376,
+    287274,
+    309974,
+    319397,
+    320420,
+    325811,
+    384154
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Rosebud Releasing Corporation",
+    "Renaissance Pictures",
+    "The De Laurentiis Company"
+  ],
+  "crew": [
+    {
+      "personId": 11641,
+      "job": "writer"
+    },
+    {
+      "personId": 11468,
+      "job": "composer"
+    },
+    {
+      "personId": 7623,
+      "job": "writer"
+    },
+    {
+      "personId": 9573,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7623,
+      "job": "director"
+    },
+    {
+      "personId": 11359,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11357,
+      "character": "Ash",
+      "order": 0
+    },
+    {
+      "personId": 11749,
+      "character": "Annie",
+      "order": 1
+    },
+    {
+      "personId": 11750,
+      "character": "Jake",
+      "order": 2
+    },
+    {
+      "personId": 11751,
+      "character": "Bobby Joe",
+      "order": 3
+    },
+    {
+      "personId": 11769,
+      "character": "Possessed Henrietta",
+      "order": 4
+    },
+    {
+      "personId": 11753,
+      "character": "Linda",
+      "order": 5
+    },
+    {
+      "personId": 11754,
+      "character": "Ed",
+      "order": 6
+    },
+    {
+      "personId": 11755,
+      "character": "Professor Knowby",
+      "order": 7
+    },
+    {
+      "personId": 11756,
+      "character": "Henrietta",
+      "order": 8
+    },
+    {
+      "personId": 1840027,
+      "character": "Dancer",
+      "order": 9
+    },
+    {
+      "personId": 2366023,
+      "character": "Fake Shemp",
+      "order": 10
+    },
+    {
+      "personId": 77625,
+      "character": "Fake Shemp",
+      "order": 11
+    },
+    {
+      "personId": 7623,
+      "character": "Fake Shemp / Medieval Soldier / Possessed Rocking Chair",
+      "order": 12
+    },
+    {
+      "personId": 11641,
+      "character": "Fake Shemp",
+      "order": 13
+    },
+    {
+      "personId": 2390737,
+      "character": "Fake Shemp",
+      "order": 14
+    },
+    {
+      "personId": 2809525,
+      "character": "Fake Shemp",
+      "order": 15
+    },
+    {
+      "personId": 2809526,
+      "character": "Fake Shemp",
+      "order": 16
+    },
+    {
+      "personId": 565196,
+      "character": "The Hand / The Dark Spirit / The Deer Head / The Enchanted Objects (voice)",
+      "order": 17
+    },
+    {
+      "personId": 145618,
+      "character": "Luggage Monkey (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1190936,
+      "character": "Airport Worker (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3726,
+  "sources": [
+    "cult-list"
+  ]
+}

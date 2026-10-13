@@ -1,0 +1,201 @@
+{
+  "tmdbId": 10805,
+  "slug": "staying-alive-1983",
+  "year": 1983,
+  "runtime": 96,
+  "originalTitle": "Staying Alive",
+  "title": {
+    "en": "Staying Alive",
+    "tr": "Yaşıyorum"
+  },
+  "overview": {
+    "en": "Five years later, Tony Manero's Saturday Night Fever still burns. Now he's struts toward his biggest challenger yet - making it as a dancer on the Broadway stage.",
+    "tr": "Üzerinden geçen beş yılın ardından Tony Monero'nun Cumartesi Gecesi Ateşi hala yanmaktadır. Şimdi ise hedefi Brodway'de sahnede dansla kendini kanıtlamaktır. John Travolta yeniden yarattığı bu karakterle Oscar®'a aday gösterilmişti. Tony'nin hayatındaki kadınlar ise Cynthia Rhodes (Flashdance) ve Finola Hughes. Bee Gees'in beş unutulmaz parçası ve Frank Stallone'nin liste başı şarkısı 'Far From Over' ile filmin müzikleri de filmin başarısının bir parçası. Bir başka film yıldızı, Sylvester Stallone tarafından yazılan ve yönetilen Staying Alive, John Travolta'nın en güçlü ve unutulmaz performanslarından biri."
+  },
+  "poster": {
+    "tr": "/mFyTQt1HRlqr5SCEkuO4NoHM5B9.jpg",
+    "en": "/4iie1EFRkM6ULQYUxRgghQ3AQRm.jpg"
+  },
+  "backdrops": [
+    "/iyFHI7gbp5WvzouookqZdjImHmx.jpg",
+    "/1YhVRYzy92voPPhNlT57eGovQe9.jpg",
+    "/bk8KAegfb0wnmlpmIWtF4kkvoUK.jpg",
+    "/rWZDE2pHACELnDoTUiewyxCQ4fH.jpg",
+    "/dVgdET5nWPU0ftYg81Hua3rUXQ7.jpg",
+    "/mZVvW01CCHrRg5bRvzTJgGcKAnm.jpg",
+    "/7ZqAzC1xdPCR85gNi7ZocUEHB8e.jpg",
+    "/7BkwV5XUQwHPV5vvLtb2dixQlhY.jpg",
+    "/c8oZd5RTY1y1dQhyIe5TqxaEKan.jpg",
+    "/bmJo0xbuotBbgQRZDaKaAfzqjTK.jpg"
+  ],
+  "trailerKey": "wfCaqIudqbE",
+  "genreIds": [
+    18,
+    10402,
+    10749
+  ],
+  "keywordIds": [
+    3658,
+    1342,
+    2334,
+    155490,
+    156028
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Robert Stigwood Organization",
+    "Cinema Group Ventures"
+  ],
+  "crew": [
+    {
+      "personId": 16483,
+      "job": "director"
+    },
+    {
+      "personId": 21512,
+      "job": "writer"
+    },
+    {
+      "personId": 16483,
+      "job": "writer"
+    },
+    {
+      "personId": 8879,
+      "job": "producer"
+    },
+    {
+      "personId": 16483,
+      "job": "producer"
+    },
+    {
+      "personId": 14642,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 66885,
+      "job": "composer"
+    },
+    {
+      "personId": 66886,
+      "job": "composer"
+    },
+    {
+      "personId": 66887,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8891,
+      "character": "Tony Manero",
+      "order": 0
+    },
+    {
+      "personId": 724,
+      "character": "Jackie",
+      "order": 1
+    },
+    {
+      "personId": 66881,
+      "character": "Laura",
+      "order": 2
+    },
+    {
+      "personId": 32392,
+      "character": "Jesse",
+      "order": 3
+    },
+    {
+      "personId": 20972,
+      "character": "Mrs. Manero",
+      "order": 4
+    },
+    {
+      "personId": 1651546,
+      "character": "Butler",
+      "order": 5
+    },
+    {
+      "personId": 1651540,
+      "character": "Sound Technician",
+      "order": 6
+    },
+    {
+      "personId": 1651541,
+      "character": "Derelict",
+      "order": 7
+    },
+    {
+      "personId": 54434,
+      "character": "Fatima",
+      "order": 8
+    },
+    {
+      "personId": 6174,
+      "character": "Mark",
+      "order": 9
+    },
+    {
+      "personId": 91724,
+      "character": "Linda",
+      "order": 10
+    },
+    {
+      "personId": 1651542,
+      "character": "Margaret",
+      "order": 11
+    },
+    {
+      "personId": 1422800,
+      "character": "Fred",
+      "order": 12
+    },
+    {
+      "personId": 1651544,
+      "character": "Joy",
+      "order": 13
+    },
+    {
+      "personId": 61232,
+      "character": "Doorman",
+      "order": 14
+    },
+    {
+      "personId": 3215111,
+      "character": "Model",
+      "order": 15
+    },
+    {
+      "personId": 2974015,
+      "character": "Cathy",
+      "order": 16
+    },
+    {
+      "personId": 1118712,
+      "character": "Sound Man",
+      "order": 17
+    },
+    {
+      "personId": 2115,
+      "character": "Choreographer",
+      "order": 18
+    },
+    {
+      "personId": 39780,
+      "character": "Carl",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 530,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "tmdbId": 9491,
+  "slug": "blue-steel-1990",
+  "year": 1990,
+  "runtime": 102,
+  "originalTitle": "Blue Steel",
+  "title": {
+    "en": "Blue Steel",
+    "tr": "Mavi Savaşçı"
+  },
+  "overview": {
+    "en": "Rookie cop Megan Turner orders a burglar to drop his gun. He whirls to shoot. Too late. Turner fires, killing him instantly. When someone lifts the assailant's gun from the crime scene, the police hold Turner accountable for killing an unarmed man. That same someone carves Turner's name into the bullets and uses them in a series of murders. Turner teams up with detective Nick Mann to clear her name and catch the killer. But she is drawn into a deadly game of wits with a psychopath who's always one step ahead… and much closer than she thinks!",
+    "tr": "Polis akademisinden yeni mezun olan çaylak polis memuru Megan (Jamie Lee Curtis), New York Polis Teşkilatı'nda çalışmaya başladığı gün, silahını bırakmayan bir hırsızı öldürmek zorunda kalır. Megan'ın bilmediği bir şey vardır: Bu sırada birisi olayları izlemektedir. Bu esrarengiz adam, saldırganın düşürdüğü silahı suç mahallinden alır ve Megan'ın adını üzerine kazıdığı kurşunları kullanarak seri cinayetler işlemeye başlar. Megan artık psikopat katilin hep bir adım önde olduğu ölümcül bir oyunun parçası olmuştur. Ve katil sandığından çok daha yakınındadır..."
+  },
+  "poster": {
+    "tr": "/bOBPQ3SKgyfuB3XrflBXZ52PSLP.jpg",
+    "en": "/8TeE9DUYscRXptf7yAEDgjocqX6.jpg"
+  },
+  "backdrops": [
+    "/3ZohISQDjkS0PtjCJss72MFaBEj.jpg",
+    "/peVeAnEMECmIZlF0V3NjGAI3sEL.jpg",
+    "/vaXMeoSg74nMeXrEaI7rJ2U1dOl.jpg",
+    "/btFNqdZ6V3uIjfMO63FgE50NMum.jpg",
+    "/on7irMi70IN0QTFuTmAjKSwm7tC.jpg",
+    "/65faQN1HkuOm3rK1oBt4dv4RO3z.jpg",
+    "/71JA77KrZxEkZz56EdujI38hbG2.jpg",
+    "/ca4HEWjEOxnZySMOfWwYJmDM4HZ.jpg",
+    "/6Y5Ph5uklCBx6D92H0OiUpkaEOn.jpg",
+    "/aSFlFy9RHMwRl9CHMK2MkAq50N3.jpg"
+  ],
+  "trailerKey": "KBQif5SBZjc",
+  "genreIds": [
+    53
+  ],
+  "keywordIds": [
+    242,
+    2660,
+    6259,
+    1523,
+    11730,
+    12565,
+    14676,
+    15050,
+    15076,
+    155531,
+    155716,
+    160246,
+    187056,
+    196917,
+    252921,
+    287416
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Lightning Pictures",
+    "Precision Films",
+    "Mack-Taylor Productions"
+  ],
+  "crew": [
+    {
+      "personId": 2722,
+      "job": "composer"
+    },
+    {
+      "personId": 32035,
+      "job": "producer"
+    },
+    {
+      "personId": 14392,
+      "job": "director"
+    },
+    {
+      "personId": 1152,
+      "job": "producer"
+    },
+    {
+      "personId": 1043831,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 14392,
+      "job": "writer"
+    },
+    {
+      "personId": 54839,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8944,
+      "character": "Officer Megan Turner",
+      "order": 0
+    },
+    {
+      "personId": 21399,
+      "character": "Eugene Hunt",
+      "order": 1
+    },
+    {
+      "personId": 6574,
+      "character": "Detective Nick Mann",
+      "order": 2
+    },
+    {
+      "personId": 7430,
+      "character": "Tracy Perez",
+      "order": 3
+    },
+    {
+      "personId": 7071,
+      "character": "Shirley Turner",
+      "order": 4
+    },
+    {
+      "personId": 6541,
+      "character": "Frank Turner",
+      "order": 5
+    },
+    {
+      "personId": 14721,
+      "character": "Asst. Chief Stanley Hoyt",
+      "order": 6
+    },
+    {
+      "personId": 28633,
+      "character": "Attorney Mel Dawson",
+      "order": 7
+    },
+    {
+      "personId": 137264,
+      "character": "Husband",
+      "order": 8
+    },
+    {
+      "personId": 96554,
+      "character": "Wife",
+      "order": 9
+    },
+    {
+      "personId": 1282690,
+      "character": "Instructor",
+      "order": 10
+    },
+    {
+      "personId": 142261,
+      "character": "Police Commissioner",
+      "order": 11
+    },
+    {
+      "personId": 5170,
+      "character": "Superintendent",
+      "order": 12
+    },
+    {
+      "personId": 171342,
+      "character": "Officer Jeff Travers",
+      "order": 13
+    },
+    {
+      "personId": 3197,
+      "character": "Wool Cap",
+      "order": 14
+    },
+    {
+      "personId": 177479,
+      "character": "Counterman",
+      "order": 15
+    },
+    {
+      "personId": 1117929,
+      "character": "Cashier",
+      "order": 16
+    },
+    {
+      "personId": 1119771,
+      "character": "Doorman",
+      "order": 17
+    },
+    {
+      "personId": 13525,
+      "character": "Howard",
+      "order": 18
+    },
+    {
+      "personId": 4119466,
+      "character": "TV Announcer #1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 477,
+  "sources": [
+    "cult-list"
+  ]
+}

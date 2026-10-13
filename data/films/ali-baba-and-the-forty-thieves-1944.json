@@ -1,0 +1,187 @@
+{
+  "tmdbId": 44475,
+  "slug": "ali-baba-and-the-forty-thieves-1944",
+  "year": 1944,
+  "runtime": 87,
+  "originalTitle": "Ali Baba and the Forty Thieves",
+  "title": {
+    "en": "Ali Baba and the Forty Thieves",
+    "tr": "Ali Baba ve Kırk Haramiler"
+  },
+  "overview": {
+    "en": "Orphaned as a young child and adopted by a band of notorious thieves, now-grown Ali Baba sets out to avenge his father’s murder, reclaim the royal throne, and rescue his beloved Amara from the iron fist of his treacherous enemy.",
+    "tr": "Küçük bir çocukken yetim kalan ve kötü şöhretli bir hırsız çetesi tarafından evlat edinilen artık büyümüş olan Ali Baba, babasının öldürülmesinin intikamını almak, kraliyet tahtını geri almak ve sevgili Amara'sını hain düşmanının demir yumruğundan kurtarmak için yola çıkar."
+  },
+  "poster": {
+    "tr": "/n3bXF6WDy5YiD0TsdzncL2aU293.jpg",
+    "en": "/n3bXF6WDy5YiD0TsdzncL2aU293.jpg"
+  },
+  "backdrops": [
+    "/ew8HKvaUWk0l8xLOmvr6o0EvQSg.jpg",
+    "/AgzdGNEbTx4X4y3xtHDQRnPobe6.jpg",
+    "/fGogVEOORNiJSmRVqhiTTooJK1f.jpg",
+    "/ewId34iMwRmwUvTcXSIRZH6PtY5.jpg",
+    "/ozPsj5Izr0UwnLamCnlFXPCKjc9.jpg",
+    "/rxiVXAZOWWLCxiczfRNv7gRmBbV.jpg",
+    "/cAbFEEhPgYcjwbHKYOEbsMT813o.jpg",
+    "/gA5fvSA1fyZoLw85vxnHTZnOTYI.jpg",
+    "/xCdvivu3DqpTVAI8SRZyX5wJhbD.jpg"
+  ],
+  "trailerKey": "f2zBgFPf3gs",
+  "genreIds": [
+    28,
+    12,
+    14,
+    10749
+  ],
+  "keywordIds": [
+    3882,
+    5894,
+    181242,
+    191012,
+    208652
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 78845,
+      "job": "director"
+    },
+    {
+      "personId": 85841,
+      "job": "writer"
+    },
+    {
+      "personId": 30410,
+      "job": "producer"
+    },
+    {
+      "personId": 101711,
+      "job": "composer"
+    },
+    {
+      "personId": 85855,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 29635,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 31975,
+      "character": "Amara",
+      "order": 0
+    },
+    {
+      "personId": 100768,
+      "character": "Ali Baba",
+      "order": 1
+    },
+    {
+      "personId": 45380,
+      "character": "Jamiel",
+      "order": 2
+    },
+    {
+      "personId": 14966,
+      "character": "Abdullah",
+      "order": 3
+    },
+    {
+      "personId": 113511,
+      "character": "Hulagu Khan",
+      "order": 4
+    },
+    {
+      "personId": 89691,
+      "character": "Prince Cassim",
+      "order": 5
+    },
+    {
+      "personId": 14979,
+      "character": "Old Baba",
+      "order": 6
+    },
+    {
+      "personId": 18586,
+      "character": "Caliph Hassan",
+      "order": 7
+    },
+    {
+      "personId": 103347,
+      "character": "Nalu",
+      "order": 8
+    },
+    {
+      "personId": 120705,
+      "character": "Fat Thief",
+      "order": 9
+    },
+    {
+      "personId": 125847,
+      "character": "Young Ali Baba",
+      "order": 10
+    },
+    {
+      "personId": 115991,
+      "character": "Young Amara",
+      "order": 11
+    },
+    {
+      "personId": 1056673,
+      "character": "Mongol Captain",
+      "order": 12
+    },
+    {
+      "personId": 89672,
+      "character": "Little Thief",
+      "order": 13
+    },
+    {
+      "personId": 98052,
+      "character": "Mahmoud",
+      "order": 14
+    },
+    {
+      "personId": 96140,
+      "character": "Arab Giant (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 121320,
+      "character": "Mongol Captain (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 30197,
+      "character": "Mongol Guard (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 5721750,
+      "character": "Dancer (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1189138,
+      "character": "Harem Girl (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 39,
+  "sources": [
+    "cult-list"
+  ]
+}

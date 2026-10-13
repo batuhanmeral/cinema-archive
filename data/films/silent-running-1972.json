@@ -1,0 +1,162 @@
+{
+  "tmdbId": 811,
+  "slug": "silent-running-1972",
+  "year": 1972,
+  "runtime": 89,
+  "originalTitle": "Silent Running",
+  "title": {
+    "en": "Silent Running",
+    "tr": "Silent Running"
+  },
+  "overview": {
+    "en": "After the entire flora goes extinct, ecologist Lowell maintains a greenhouse aboard a space station for the future with his android companions. However, he rebels after being ordered to destroy the greenhouse in favor of carrying cargo, a decision that puts him at odds with everyone but his mechanical companions.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ahasZ5HILZHtlrl6cbXgpfk0y8H.jpg",
+    "en": "/ahasZ5HILZHtlrl6cbXgpfk0y8H.jpg"
+  },
+  "backdrops": [
+    "/9WmPbUHvyLc7zs3KdbopoRYBP7r.jpg",
+    "/iapOB1ZbZbrxmGaCKc9ndAv7M1a.jpg",
+    "/5QTwfS9vcr22Nl7PCcUro7dEMFq.jpg",
+    "/qPjanna1OlxnTIqfOQSTgNLXsaM.jpg",
+    "/ypJSBRMG4rKJDcIrl1EZOpgNMmG.jpg",
+    "/3JYoLYlaqmenBx9kqcku736A1i.jpg",
+    "/3c8PtJy9NgREKGeJEd6LjkyeLpT.jpg",
+    "/9VfHyB0PTlgY5jvFpb1nOBhsWud.jpg"
+  ],
+  "trailerKey": "p69lEMn0I8k",
+  "genreIds": [
+    878,
+    12,
+    18
+  ],
+  "keywordIds": [
+    4565,
+    2725,
+    3801,
+    4165,
+    4166,
+    4168,
+    5774,
+    9882,
+    10637,
+    14544,
+    15174,
+    156039,
+    210434,
+    231287,
+    234691,
+    241609,
+    255612,
+    359803,
+    373064,
+    373388
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "Trumbull/Gruskoff Productions"
+  ],
+  "crew": [
+    {
+      "personId": 12112,
+      "job": "director"
+    },
+    {
+      "personId": 12116,
+      "job": "producer"
+    },
+    {
+      "personId": 12119,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2504,
+      "job": "producer"
+    },
+    {
+      "personId": 12112,
+      "job": "producer"
+    },
+    {
+      "personId": 12118,
+      "job": "composer"
+    },
+    {
+      "personId": 12113,
+      "job": "writer"
+    },
+    {
+      "personId": 12114,
+      "job": "writer"
+    },
+    {
+      "personId": 12115,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6905,
+      "character": "Freeman Lowell",
+      "order": 0
+    },
+    {
+      "personId": 12121,
+      "character": "John Keenan",
+      "order": 1
+    },
+    {
+      "personId": 12122,
+      "character": "Marty Barker",
+      "order": 2
+    },
+    {
+      "personId": 12123,
+      "character": "Andy Wolf",
+      "order": 3
+    },
+    {
+      "personId": 12125,
+      "character": "Grey Drone #1 “Dewey”",
+      "order": 4
+    },
+    {
+      "personId": 12124,
+      "character": "Orange Drone #2 “Huey”",
+      "order": 5
+    },
+    {
+      "personId": 12126,
+      "character": "Orange Drone #2 “Huey”",
+      "order": 6
+    },
+    {
+      "personId": 3918624,
+      "character": "Green Drone #3 “Louie”",
+      "order": 7
+    },
+    {
+      "personId": 121144,
+      "character": "Neal - Berkshire’ Captain (voice/uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 100582,
+      "character": "Anderson (voice/uncredited)",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 680,
+  "sources": [
+    "cult-list"
+  ]
+}

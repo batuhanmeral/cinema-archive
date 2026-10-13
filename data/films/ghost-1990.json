@@ -1,0 +1,204 @@
+{
+  "tmdbId": 251,
+  "slug": "ghost-1990",
+  "year": 1990,
+  "runtime": 127,
+  "originalTitle": "Ghost",
+  "title": {
+    "en": "Ghost",
+    "tr": "Hayalet"
+  },
+  "overview": {
+    "en": "After a young man is murdered, his spirit stays behind to warn his lover of impending danger, with the help of a reluctant psychic.",
+    "tr": "Molly ve Sam, aşk yaşayan, New Yorklu bir çifttir. Sam cüzdanını taşıyan bir serseri tarafından bıçaklanarak öldürülür. Ruhu bedeni terkettiğinde ölümden sonraki yaşamı yavaş yavaş keşfetme fırsatı bulur. Ölülerin ruhlarının canlılarla aynı ortamda varolduğu ama yaşayanların ruhları göremediği bir ortamdır bu.Yardımsever bir hayalet Sam'in bu yeni durumu kabullenip alışmasına yardım eder. Genç adam artık bazı nesneleri hareket ettirebilmektedir. Ancak eski iş arkadaşı Carl'ın kirli çamaşırları ve Molly ile ilgili kötü planları gün ışığına çıktığında, canlılarla iletişim kurmanın tek yolunun bir medyum aracılığıyla mümkün olduğunu anlar. Sam'in karşısına medyumların belki de en eksantrik olanı çıkacaktır."
+  },
+  "poster": {
+    "tr": "/aw2bfiTw7iR2m9j86Blkin64yvr.jpg",
+    "en": "/w9RaPHov8oM5cnzeE27isnFMsvS.jpg"
+  },
+  "backdrops": [
+    "/6nLdSON3ErniBZTXWG7WRqs5jGz.jpg",
+    "/6x1YTmbZ5aEQRRvynSYnJVkXbhx.jpg",
+    "/8C8aiQVeKhtqqjylqy1PgWU54ki.jpg",
+    "/zOyXP0MS4jvU01yIxzRV394ZUJw.jpg",
+    "/otkM31GKbQ69i7mAeWFe6wplemS.jpg",
+    "/lZs7xTjh9tvfW7VYZoQMDJkQCsy.jpg",
+    "/sOcQ0kInrdwmqmWkVoVyWf6rcYk.jpg",
+    "/elVcaM6799rtUHQx2eZ2LXMoGFO.jpg",
+    "/oT8RzIPfmgnL9hpFOOC7qlHioOJ.jpg",
+    "/AjUEg11iZoE0KO8egc5mnczGjbP.jpg"
+  ],
+  "trailerKey": "jWvUTmvaOyU",
+  "genreIds": [
+    14,
+    10749,
+    53
+  ],
+  "keywordIds": [
+    663,
+    417,
+    815,
+    6155,
+    881,
+    975,
+    1553,
+    6154,
+    10123,
+    4116,
+    9673,
+    9826,
+    34079,
+    162846,
+    163070,
+    196017,
+    210530,
+    325795,
+    325832,
+    346897
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Howard W. Koch Productions"
+  ],
+  "crew": [
+    {
+      "personId": 3415,
+      "job": "director"
+    },
+    {
+      "personId": 3428,
+      "job": "producer"
+    },
+    {
+      "personId": 3427,
+      "job": "producer"
+    },
+    {
+      "personId": 2723,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2704,
+      "job": "composer"
+    },
+    {
+      "personId": 3431,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 723,
+      "character": "Sam Wheat",
+      "order": 0
+    },
+    {
+      "personId": 3416,
+      "character": "Molly Jensen",
+      "order": 1
+    },
+    {
+      "personId": 2395,
+      "character": "Oda Mae Brown",
+      "order": 2
+    },
+    {
+      "personId": 3417,
+      "character": "Carl Bruner",
+      "order": 3
+    },
+    {
+      "personId": 3418,
+      "character": "Subway Ghost",
+      "order": 4
+    },
+    {
+      "personId": 3432,
+      "character": "Willie Lopez",
+      "order": 5
+    },
+    {
+      "personId": 943665,
+      "character": "Rose",
+      "order": 6
+    },
+    {
+      "personId": 2507349,
+      "character": "Mover",
+      "order": 7
+    },
+    {
+      "personId": 3433,
+      "character": "Emergency Room Ghost",
+      "order": 8
+    },
+    {
+      "personId": 3420,
+      "character": "Oda Mae's Sister",
+      "order": 9
+    },
+    {
+      "personId": 3422,
+      "character": "Oda Mae's Sister",
+      "order": 10
+    },
+    {
+      "personId": 17401,
+      "character": "Police Sgt.",
+      "order": 11
+    },
+    {
+      "personId": 3434,
+      "character": "Woman Ghost",
+      "order": 12
+    },
+    {
+      "personId": 3419,
+      "character": "Ortisha",
+      "order": 13
+    },
+    {
+      "personId": 1737569,
+      "character": "Ortisha's Friend",
+      "order": 14
+    },
+    {
+      "personId": 154713,
+      "character": "Bank Guard",
+      "order": 15
+    },
+    {
+      "personId": 53005,
+      "character": "Lyle Furgeson",
+      "order": 16
+    },
+    {
+      "personId": 109670,
+      "character": "Cab Driver",
+      "order": 17
+    },
+    {
+      "personId": 1920842,
+      "character": "Performer",
+      "order": 18
+    },
+    {
+      "personId": 1802974,
+      "character": "Elevator Man",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 6277,
+  "sources": [
+    "cult-list"
+  ]
+}

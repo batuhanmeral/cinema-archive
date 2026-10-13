@@ -1,0 +1,130 @@
+{
+  "tmdbId": 23122,
+  "slug": "maniac-1934",
+  "year": 1934,
+  "runtime": 51,
+  "originalTitle": "Maniac",
+  "title": {
+    "en": "Maniac",
+    "tr": "Maniac"
+  },
+  "overview": {
+    "en": "An ex-vaudeville actor is working as the assistant to a doctor who has Frankenstein aspirations. The ex-vaudeville actor kills the doctor and decides to assume the identity of the dead physician.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/akRVscTstKGKk8ebb0UGDdJ6q3z.jpg",
+    "en": "/3wKMxFrkbMrIZYQ0HRKIlFWr6Mt.jpg"
+  },
+  "backdrops": [
+    "/n8v5jpScRqkkmOEA93Y5RVBgwBf.jpg",
+    "/3RdIF2Gmax2N9BCMDl7YSsjtZ4d.jpg",
+    "/79pfPj9pOfjZ9z8zJPtn0sTExGv.jpg",
+    "/xI6ENf916WNfr1tfgp6AMNqVu0X.jpg"
+  ],
+  "trailerKey": "oWfAZxPySoc",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    570,
+    977,
+    2804,
+    10125,
+    10770,
+    156764,
+    164218
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Road Show Attractions"
+  ],
+  "crew": [
+    {
+      "personId": 89779,
+      "job": "director"
+    },
+    {
+      "personId": 236564,
+      "job": "writer"
+    },
+    {
+      "personId": 236564,
+      "job": "producer"
+    },
+    {
+      "personId": 65502,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1428952,
+      "job": "producer"
+    },
+    {
+      "personId": 89779,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1434750,
+      "character": "Don Maxwell",
+      "order": 0
+    },
+    {
+      "personId": 89782,
+      "character": "Dr. Meirschultz",
+      "order": 1
+    },
+    {
+      "personId": 89783,
+      "character": "Buckley",
+      "order": 2
+    },
+    {
+      "personId": 3214329,
+      "character": "Mrs. Buckley",
+      "order": 3
+    },
+    {
+      "personId": 1428948,
+      "character": "Alice Maxwell",
+      "order": 4
+    },
+    {
+      "personId": 1271655,
+      "character": "Maizie",
+      "order": 5
+    },
+    {
+      "personId": 1428949,
+      "character": "Marvel",
+      "order": 6
+    },
+    {
+      "personId": 1428951,
+      "character": "Jo",
+      "order": 7
+    },
+    {
+      "personId": 1771390,
+      "character": "Embalmer",
+      "order": 8
+    },
+    {
+      "personId": 2077656,
+      "character": "Neighbor",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 60,
+  "sources": [
+    "cult-list"
+  ]
+}

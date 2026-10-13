@@ -1,0 +1,135 @@
+{
+  "tmdbId": 161113,
+  "slug": "girl-gang-1954",
+  "year": 1954,
+  "runtime": 63,
+  "originalTitle": "Girl Gang",
+  "title": {
+    "en": "Girl Gang",
+    "tr": "Girl Gang"
+  },
+  "overview": {
+    "en": "A gangster hooks gangs of young women on drugs and has them commit robberies and prostitution.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9EfAMwUthodGyrsUJjSsbWk9u98.jpg",
+    "en": "/5VqQ13ueInZb5aHtXV1EF6nk3Fs.jpg"
+  },
+  "backdrops": [
+    "/h5Zh9mPQMFxmWVk4hNReguPmsgT.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    80,
+    18,
+    28,
+    53
+  ],
+  "keywordIds": [
+    1936,
+    2671,
+    10776,
+    10726,
+    14964,
+    41352,
+    193316,
+    315383
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Broadway Roadshow Productions",
+    "Screen Classics Inc."
+  ],
+  "crew": [
+    {
+      "personId": 1083868,
+      "job": "director"
+    },
+    {
+      "personId": 65502,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 90770,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1191328,
+      "character": "June",
+      "order": 0
+    },
+    {
+      "personId": 100348,
+      "character": "Joe",
+      "order": 1
+    },
+    {
+      "personId": 122981,
+      "character": "Doc",
+      "order": 2
+    },
+    {
+      "personId": 1191329,
+      "character": "Wanda",
+      "order": 3
+    },
+    {
+      "personId": 1989633,
+      "character": "Jack",
+      "order": 4
+    },
+    {
+      "personId": 1989634,
+      "character": "Daisy",
+      "order": 5
+    },
+    {
+      "personId": 1407020,
+      "character": "Brown",
+      "order": 6
+    },
+    {
+      "personId": 3832024,
+      "character": "Gang Girl",
+      "order": 7
+    },
+    {
+      "personId": 5241267,
+      "character": "Bill",
+      "order": 8
+    },
+    {
+      "personId": 5241268,
+      "character": "Detective",
+      "order": 9
+    },
+    {
+      "personId": 5241269,
+      "character": "Gang Girl",
+      "order": 10
+    },
+    {
+      "personId": 5241272,
+      "character": "Gang Girl",
+      "order": 11
+    },
+    {
+      "personId": 5241275,
+      "character": "Gang Girl",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 16,
+  "sources": [
+    "cult-list"
+  ]
+}

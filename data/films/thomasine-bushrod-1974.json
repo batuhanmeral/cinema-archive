@@ -1,0 +1,178 @@
+{
+  "tmdbId": 95966,
+  "slug": "thomasine-bushrod-1974",
+  "year": 1974,
+  "runtime": 95,
+  "originalTitle": "Thomasine & Bushrod",
+  "title": {
+    "en": "Thomasine & Bushrod",
+    "tr": "Thomasine & Bushrod"
+  },
+  "overview": {
+    "en": "A pair of thieves operate in the American South between 1911 and 1915, stealing from rich, white capitalists, and giving to Mexicans, Native Americans and poor whites.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/zQHR2oF81MiqumFCKE5ZpKxftpr.jpg",
+    "en": "/zQHR2oF81MiqumFCKE5ZpKxftpr.jpg"
+  },
+  "backdrops": [
+    "/9pUOsY6XGUzCNwsdqMp1e0VmwgS.jpg",
+    "/fRw2xSyuUopC6xNs8G8Ndn16jtY.jpg",
+    "/b09r7Miut8pBmVoeqSWi98I25cs.jpg",
+    "/4L6wLZT6ARx41vMnVs4mHAz0RHj.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    28,
+    80,
+    18,
+    10749,
+    37
+  ],
+  "keywordIds": [
+    10601
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 88148,
+      "job": "director"
+    },
+    {
+      "personId": 92036,
+      "job": "writer"
+    },
+    {
+      "personId": 7199,
+      "job": "producer"
+    },
+    {
+      "personId": 92036,
+      "job": "producer"
+    },
+    {
+      "personId": 3351,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 933958,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 92036,
+      "character": "J.P. Bushrod",
+      "order": 0
+    },
+    {
+      "personId": 6780,
+      "character": "Thomasine",
+      "order": 1
+    },
+    {
+      "personId": 2081,
+      "character": "U.S. Marshal Bogardie",
+      "order": 2
+    },
+    {
+      "personId": 114674,
+      "character": "Jomo J. Anderson",
+      "order": 3
+    },
+    {
+      "personId": 35658,
+      "character": "Pecolia",
+      "order": 4
+    },
+    {
+      "personId": 86370,
+      "character": "Nathaniel",
+      "order": 5
+    },
+    {
+      "personId": 2853,
+      "character": "Adolph Smith",
+      "order": 6
+    },
+    {
+      "personId": 2529084,
+      "character": "Mr. Tyler",
+      "order": 7
+    },
+    {
+      "personId": 1807930,
+      "character": "Jenkins",
+      "order": 8
+    },
+    {
+      "personId": 988844,
+      "character": "Scruggs",
+      "order": 9
+    },
+    {
+      "personId": 44656,
+      "character": "Dodson",
+      "order": 10
+    },
+    {
+      "personId": 1761376,
+      "character": "Sheriff",
+      "order": 11
+    },
+    {
+      "personId": 18192,
+      "character": "Seldon",
+      "order": 12
+    },
+    {
+      "personId": 5461350,
+      "character": "Teller",
+      "order": 13
+    },
+    {
+      "personId": 3026578,
+      "character": "Frank",
+      "order": 14
+    },
+    {
+      "personId": 54864,
+      "character": "Taffy",
+      "order": 15
+    },
+    {
+      "personId": 578365,
+      "character": "Card Dealer",
+      "order": 16
+    },
+    {
+      "personId": 2833770,
+      "character": "Card Dealer",
+      "order": 17
+    },
+    {
+      "personId": 3813419,
+      "character": "Farley",
+      "order": 18
+    },
+    {
+      "personId": 5461352,
+      "character": "Washer Woman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 11,
+  "sources": [
+    "cult-list"
+  ]
+}

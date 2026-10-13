@@ -1,0 +1,206 @@
+{
+  "tmdbId": 79,
+  "slug": "hero-2002",
+  "year": 2002,
+  "runtime": 99,
+  "originalTitle": "英雄",
+  "title": {
+    "en": "Hero",
+    "tr": "Kahraman"
+  },
+  "overview": {
+    "en": "During China's Warring States period, a district prefect arrives at the palace of Qin Shi Huang, claiming to have killed the three assassins who had made an attempt on the king's life three years ago.",
+    "tr": "Çin'in Savaşan Krallıklar döneminde ülke 7 krallığa bölünmüştür: Qin, Zhao, Han, Wei, Yan, Chu ve Qi. Qin Kralı, Çin'in tamamını ele geçirmeye ve ilk imparator olmaya kararlıydı.Uzun süredir diğer altı krallığın suikastlerine hedef olmuştu. Tüm katil adayları arasında hiçbiri üç efsanevi suikastçi Kırık Kılıç, Uçan Kar ve Gökyüzü kadar korku salmamıştı.Bu üç suikastçiyi yakalayacak kişiye Qin Kralı büyük bir güç, altın dağları ve kralın kendisiyle arkadaşlık vaadediyordu.Ve birgün bu üç suikastçiyi öldürdüğünü iddia eden isimsiz bir savaşçı kralı ziyarete gelir."
+  },
+  "poster": {
+    "tr": "/onEI0tXeOBbCOnONkdXmv1VhvwP.jpg",
+    "en": "/1NBtOH3KPU9UUp1vzVHJ8qzdW88.jpg"
+  },
+  "backdrops": [
+    "/jDz6RYN3nKYtlo7J9IMvGoJit7B.jpg",
+    "/foYlyB5y5DIPf180eMYeVDbks8b.jpg",
+    "/p31yIpOO7VLP9lJa3YH0sLX9q3H.jpg",
+    "/bCPzPlPwVRGMwFd0HmfOdiR5qba.jpg",
+    "/4fuM2YklSLsnlJOC9DtIbWcWBUq.jpg",
+    "/5cWwxxEj6B5ZvlnsfGbXd7pfkXd.jpg",
+    "/vGUAeOfENyzpYn1HnXwuAbhQcqy.jpg",
+    "/mZAAImQ2GRYLPk4gT0zmvRSJAAw.jpg",
+    "/zwhlcTqHkD3d4LEvjJwRc9Ixyl2.jpg",
+    "/knCInOgCSDNKxW9dzjpgvXt5848.jpg"
+  ],
+  "trailerKey": "MgsddFEe9Oc",
+  "genreIds": [
+    18,
+    12,
+    28,
+    36
+  ],
+  "keywordIds": [
+    779,
+    780,
+    6145,
+    548,
+    697,
+    54324,
+    184656,
+    223738,
+    253607
+  ],
+  "countries": [
+    "HK",
+    "CN"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "studios": [
+    "Beijing New Picture Film Co. Ltd.",
+    "China Film Co-Production",
+    "Elite Group Enterprises"
+  ],
+  "crew": [
+    {
+      "personId": 1357,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1355,
+      "job": "producer"
+    },
+    {
+      "personId": 607,
+      "job": "director"
+    },
+    {
+      "personId": 1351,
+      "job": "producer"
+    },
+    {
+      "personId": 1360,
+      "job": "composer"
+    },
+    {
+      "personId": 607,
+      "job": "producer"
+    },
+    {
+      "personId": 2150045,
+      "job": "writer"
+    },
+    {
+      "personId": 607,
+      "job": "writer"
+    },
+    {
+      "personId": 1335,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1336,
+      "character": "Nameless",
+      "order": 0
+    },
+    {
+      "personId": 1337,
+      "character": "Broken Sword",
+      "order": 1
+    },
+    {
+      "personId": 1338,
+      "character": "Flying Snow",
+      "order": 2
+    },
+    {
+      "personId": 1341,
+      "character": "Sky",
+      "order": 3
+    },
+    {
+      "personId": 1339,
+      "character": "Moon",
+      "order": 4
+    },
+    {
+      "personId": 1340,
+      "character": "King of Qin",
+      "order": 5
+    },
+    {
+      "personId": 1342,
+      "character": "Old Scholar",
+      "order": 6
+    },
+    {
+      "personId": 1343,
+      "character": "Old Servant",
+      "order": 7
+    },
+    {
+      "personId": 1344,
+      "character": "Prime Minister",
+      "order": 8
+    },
+    {
+      "personId": 1594123,
+      "character": "The Qin Guards' Commander",
+      "order": 9
+    },
+    {
+      "personId": 3865658,
+      "character": "General",
+      "order": 10
+    },
+    {
+      "personId": 2877282,
+      "character": "Eunuch",
+      "order": 11
+    },
+    {
+      "personId": 1594112,
+      "character": "Head Eunuch",
+      "order": 12
+    },
+    {
+      "personId": 1594119,
+      "character": "Musician",
+      "order": 13
+    },
+    {
+      "personId": 1594113,
+      "character": "Pianist",
+      "order": 14
+    },
+    {
+      "personId": 1258371,
+      "character": "Qin Guard",
+      "order": 15
+    },
+    {
+      "personId": 2763546,
+      "character": "Qin Guard",
+      "order": 16
+    },
+    {
+      "personId": 6339989,
+      "character": "Qin Guard",
+      "order": 17
+    },
+    {
+      "personId": 1403596,
+      "character": "Qin Guard",
+      "order": 18
+    },
+    {
+      "personId": 3358776,
+      "character": "Qin Guard",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2634,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "tmdbId": 125025,
+  "slug": "east-side-story-1997",
+  "year": 1997,
+  "runtime": 78,
+  "originalTitle": "East Side Story",
+  "title": {
+    "en": "East Side Story",
+    "tr": "East Side Story"
+  },
+  "overview": {
+    "en": "A look at Communist musicals that strove to be ideologically correct - and entertaining, besides.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/eFGstSesHcuNYdLaB7o770eLffe.jpg",
+    "en": "/eFGstSesHcuNYdLaB7o770eLffe.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    99,
+    10402
+  ],
+  "keywordIds": [
+    187056
+  ],
+  "countries": [
+    "FR",
+    "DE"
+  ],
+  "languages": [
+    "bg",
+    "cs",
+    "de",
+    "pl",
+    "ro",
+    "ru"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 1080863,
+      "job": "director"
+    },
+    {
+      "personId": 1197567,
+      "job": "producer"
+    },
+    {
+      "personId": 1197567,
+      "job": "writer"
+    },
+    {
+      "personId": 1080863,
+      "job": "writer"
+    },
+    {
+      "personId": 1080863,
+      "job": "producer"
+    },
+    {
+      "personId": 1338450,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [],
+  "awards": {},
+  "voteCount": 4,
+  "sources": [
+    "cult-list"
+  ]
+}

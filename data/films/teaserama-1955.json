@@ -1,0 +1,126 @@
+{
+  "tmdbId": 70233,
+  "slug": "teaserama-1955",
+  "year": 1955,
+  "runtime": 69,
+  "originalTitle": "Teaserama",
+  "title": {
+    "en": "Teaserama",
+    "tr": "Teaserama"
+  },
+  "overview": {
+    "en": "A collection of numerous burlesque acts from the 1950s, including strippers, and cult character Betty Page introducing the acts.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/zRyEb8m8LYkTaUEW7FsQLHqT7l2.jpg",
+    "en": "/zRyEb8m8LYkTaUEW7FsQLHqT7l2.jpg"
+  },
+  "backdrops": [
+    "/7HFUVVioMZk8SfdUQgvJCn3UuSB.jpg",
+    "/wFiDbwPPz9FyN9k0oEKErwkvwcg.jpg",
+    "/r6NzRrgjpcNfAMxKj8pX064bKTH.jpg",
+    "/vvKvbXOoeC6FI5S2dju0yqIOYm6.jpg",
+    "/ApJp990mJafV39OOKY9TnjWpwBU.jpg",
+    "/yhGtEQn8ecY3imwYPiEzrHocPKh.jpg",
+    "/HfJu4AJTY9boXP6B1V9XMR2TJ9.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    7307,
+    4378,
+    3508,
+    2804,
+    3485,
+    6158,
+    5154,
+    6593,
+    7644,
+    5803,
+    9767,
+    10968,
+    163070,
+    190370,
+    191205
+  ],
+  "countries": [],
+  "languages": [
+    "en"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 558160,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 114650,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 114652,
+      "character": "Herself",
+      "order": 0
+    },
+    {
+      "personId": 558138,
+      "character": "Herself",
+      "order": 1
+    },
+    {
+      "personId": 558139,
+      "character": "Herself",
+      "order": 2
+    },
+    {
+      "personId": 558140,
+      "character": "Herself",
+      "order": 3
+    },
+    {
+      "personId": 558141,
+      "character": "Herself",
+      "order": 4
+    },
+    {
+      "personId": 558142,
+      "character": "Herself",
+      "order": 5
+    },
+    {
+      "personId": 558143,
+      "character": "Himself",
+      "order": 6
+    },
+    {
+      "personId": 558145,
+      "character": "Himself",
+      "order": 7
+    },
+    {
+      "personId": 558146,
+      "character": "Himself",
+      "order": 8
+    },
+    {
+      "personId": 558147,
+      "character": "Herself",
+      "order": 9
+    },
+    {
+      "personId": 198065,
+      "character": "Himself",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 23,
+  "sources": [
+    "cult-list"
+  ]
+}

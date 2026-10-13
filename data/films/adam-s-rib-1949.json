@@ -1,0 +1,189 @@
+{
+  "tmdbId": 25431,
+  "slug": "adam-s-rib-1949",
+  "year": 1949,
+  "runtime": 101,
+  "originalTitle": "Adam's Rib",
+  "title": {
+    "en": "Adam's Rib",
+    "tr": "Adem'in Kaburgası"
+  },
+  "overview": {
+    "en": "A woman's attempted murder of her uncaring husband results in everyday quarrels in the lives of Adam and Amanda, a pair of happily married lawyers who end up on opposite sides of the case in court.",
+    "tr": "Yönetmenliğini George Cukor'un yaptığı bu klasik komedide, Akademi Ödüllü Spencer Tracy ve Katharine Hepburn, karı koca avukat ekibi olarak, biri bir tarafı, diğeri öteki tarafı temsil etmektedir. Bir metresi olduğunu keşfettiği kocasını öldürme girişiminden tutuklanan bir kadının davası, avukat Adam Bonner'a göre son derece basit bir davadır. Ama Adam'ın karısı, Amanda Bonner, kocanın karısının bir ilişkisi olduğunu keşfetmesi ve karısını öldürme girişiminde bulunması durumunda, suç oluşturmayan adam öldürmeye teşebbüs davası açılacağına inanmaktadır... Ve böylece, karşıt cinsler arasında bugüne kadar filmi yapılmış, gelmiş geçmiş en zekice mahkeme savaşı başlar."
+  },
+  "poster": {
+    "tr": "/2BfLemdN9KHCF84637qLkQPGmnk.jpg",
+    "en": "/k9gT6d2sDT9Jd4dvzHowTt3l6Zg.jpg"
+  },
+  "backdrops": [
+    "/2QKxxgpR8mRHsQ65WQyCq2UKja8.jpg",
+    "/qdjOy6VBVz3g5a7wsbhnFGNgYIb.jpg",
+    "/kCGqiFppPawKgFFXE5QXBUcj80r.jpg",
+    "/q9bDTKlHh5nURBo4VS0cVa0x4E1.jpg",
+    "/5zlyHZa93dbzWjML7XQ9O0xhVRj.jpg",
+    "/gITW9QPZNSJZMARXF9qvZ55W3aB.jpg",
+    "/uDIWubZqEL27uChtvzE6WP4cFyB.jpg",
+    "/lGDeqpw4DPgWf8HQo46qImixAeB.jpg",
+    "/trHxpPsu7eVXMc7W0KMpe1TSnuY.jpg",
+    "/ay9Hg18f71o7gWchUchXFVk3Xob.jpg"
+  ],
+  "trailerKey": "tQ5NpJ81AY4",
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    1157,
+    6038,
+    10909,
+    12990,
+    33519,
+    49950,
+    159451,
+    167812,
+    207973
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 14674,
+      "job": "director"
+    },
+    {
+      "personId": 4970,
+      "job": "writer"
+    },
+    {
+      "personId": 7647,
+      "job": "composer"
+    },
+    {
+      "personId": 3633,
+      "job": "producer"
+    },
+    {
+      "personId": 100131,
+      "job": "writer"
+    },
+    {
+      "personId": 12307,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12147,
+      "character": "Adam Bonner",
+      "order": 0
+    },
+    {
+      "personId": 6598,
+      "character": "Amanda Bonner",
+      "order": 1
+    },
+    {
+      "personId": 85651,
+      "character": "Doris Attinger",
+      "order": 2
+    },
+    {
+      "personId": 43819,
+      "character": "Warren Attinger",
+      "order": 3
+    },
+    {
+      "personId": 14831,
+      "character": "Kip Lurie",
+      "order": 4
+    },
+    {
+      "personId": 13296,
+      "character": "Beryl Caighn",
+      "order": 5
+    },
+    {
+      "personId": 85449,
+      "character": "Olympia La Pere",
+      "order": 6
+    },
+    {
+      "personId": 100129,
+      "character": "Grace",
+      "order": 7
+    },
+    {
+      "personId": 30237,
+      "character": "Judge Reiser",
+      "order": 8
+    },
+    {
+      "personId": 89660,
+      "character": "Jules Frikke",
+      "order": 9
+    },
+    {
+      "personId": 148513,
+      "character": "Mrs. McGrath",
+      "order": 10
+    },
+    {
+      "personId": 34279,
+      "character": "Judge Marcasson",
+      "order": 11
+    },
+    {
+      "personId": 43827,
+      "character": "Dr. Margaret Brodeigh",
+      "order": 12
+    },
+    {
+      "personId": 1422967,
+      "character": "Woman in Courtroom (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1672198,
+      "character": "Young District Attorney (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 2448792,
+      "character": "Commuter (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 139183,
+      "character": "Mr. Bonner - Adam's Father (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 43824,
+      "character": "Mrs. Bonner - Adam's Mother (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 43825,
+      "character": "Court Attendant (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 46612,
+      "character": "Roy (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 353,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "tmdbId": 11900,
+  "slug": "even-dwarfs-started-small-1971",
+  "year": 1971,
+  "runtime": 96,
+  "originalTitle": "Auch Zwerge haben klein angefangen",
+  "title": {
+    "en": "Even Dwarfs Started Small",
+    "tr": "Auch Zwerge haben klein angefangen"
+  },
+  "overview": {
+    "en": "A group of tormented patients stage a coup at an oppressive, dismal asylum after they're not allowed out on an excursion.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/b0jmVC1a4LghH9BtzTPn1DELvBP.jpg",
+    "en": "/ahJYCIi4o5xkDluWlH3u0GurRTD.jpg"
+  },
+  "backdrops": [
+    "/sZRR4sTJrXszqW6gGqg846FzuP.jpg",
+    "/o9h6Y1oVdqiOBglD6CTJqml5e2r.jpg",
+    "/cAkB9PIqCydcDiA0yYoEwKTwNNE.jpg"
+  ],
+  "trailerKey": "6RA3JrqEPRI",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    3927,
+    5290,
+    5726,
+    4914,
+    10508,
+    14796,
+    188725,
+    205685
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Werner Herzog Filmproduktion"
+  ],
+  "crew": [
+    {
+      "personId": 49501,
+      "job": "composer"
+    },
+    {
+      "personId": 6818,
+      "job": "director"
+    },
+    {
+      "personId": 20553,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6818,
+      "job": "writer"
+    },
+    {
+      "personId": 6818,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 70870,
+      "character": "Hombré",
+      "order": 0
+    },
+    {
+      "personId": 70871,
+      "character": "Erzieher",
+      "order": 1
+    },
+    {
+      "personId": 70872,
+      "character": "Pobrecita",
+      "order": 2
+    },
+    {
+      "personId": 70873,
+      "character": "Chicklets",
+      "order": 3
+    },
+    {
+      "personId": 1578737,
+      "character": "Piccini",
+      "order": 4
+    },
+    {
+      "personId": 1578738,
+      "character": "Theresa",
+      "order": 5
+    },
+    {
+      "personId": 1578739,
+      "character": "Cochina",
+      "order": 6
+    },
+    {
+      "personId": 1578740,
+      "character": "Pepe",
+      "order": 7
+    },
+    {
+      "personId": 1578741,
+      "character": "Azucar",
+      "order": 8
+    },
+    {
+      "personId": 1578742,
+      "character": "Territory",
+      "order": 9
+    },
+    {
+      "personId": 1578743,
+      "character": "Anselmo",
+      "order": 10
+    },
+    {
+      "personId": 1578744,
+      "character": "Schweppes",
+      "order": 11
+    },
+    {
+      "personId": 1578745,
+      "character": "Chapparo",
+      "order": 12
+    },
+    {
+      "personId": 1448455,
+      "character": "The President",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 128,
+  "sources": [
+    "cult-list"
+  ]
+}

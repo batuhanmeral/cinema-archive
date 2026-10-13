@@ -1,0 +1,211 @@
+{
+  "tmdbId": 10377,
+  "slug": "my-cousin-vinny-1992",
+  "year": 1992,
+  "runtime": 119,
+  "originalTitle": "My Cousin Vinny",
+  "title": {
+    "en": "My Cousin Vinny",
+    "tr": "Kuzenim Vinny"
+  },
+  "overview": {
+    "en": "Two carefree pals traveling through rural Alabama on their way back to college are mistakenly arrested and charged with murder. Fortunately, one of them has a cousin who's a lawyer - Vincent Gambini, a former auto mechanic from Brooklyn who has just passed his bar exam after his sixth try. When he arrives with his leather-clad girlfriend to try his first case, it's a real shock - for him and the Deep South!",
+    "tr": "Yanlış anlaşılmalar sonucunda hapse düşen iki kafadar ile onları kurtarmaya çalışan avukat bozuntusu kuzen ve sevgilisinin komik hikayesini anlatıyor."
+  },
+  "poster": {
+    "tr": "/5CwqJre7PBaNnRc32B1blpwXXR7.jpg",
+    "en": "/iwSURa8nS2ujwrU3s1lfxxX7voH.jpg"
+  },
+  "backdrops": [
+    "/uEoaOfvWibpvjBNxFoj4MxWn0OH.jpg",
+    "/QgjNjdMUui7GAXSbiOQVqQpQdF.jpg",
+    "/zUoIx6XGzebunhKyNa7g5FUcRxV.jpg",
+    "/q8VYbgpxoAhUqUX8gK5EEGFg5nU.jpg",
+    "/kmHZHTKBJsvyaUXAYJ36PGOpZNt.jpg",
+    "/aUIJuLSstCBdiwNduXmY8Pf90Dn.jpg",
+    "/zeOrcLYe52p3BHsLury6GZIPTHt.jpg",
+    "/wVPRJjW3WRDGMVsJHB93P2ZRxH9.jpg",
+    "/a8WdoQXQs8C2x7wh2XK3GZiLW8J.jpg",
+    "/6RfyQ5CSvpX2xGqYBzuC3TaXRBd.jpg"
+  ],
+  "trailerKey": "hITJLnyH9Fc",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    378,
+    1415,
+    3012,
+    6148,
+    531,
+    2075,
+    3301,
+    4438,
+    10909,
+    11860,
+    33454,
+    33519,
+    155873,
+    160497,
+    160931,
+    164246,
+    194998,
+    207431,
+    207863,
+    214780,
+    230556,
+    295959,
+    296858,
+    309426,
+    309974,
+    325765,
+    325832
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Palo Vista Productions",
+    "Peter V. Miller Investment Corp.",
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 21217,
+      "job": "director"
+    },
+    {
+      "personId": 14089,
+      "job": "writer"
+    },
+    {
+      "personId": 14089,
+      "job": "producer"
+    },
+    {
+      "personId": 18344,
+      "job": "producer"
+    },
+    {
+      "personId": 14712,
+      "job": "composer"
+    },
+    {
+      "personId": 9573,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2877,
+      "character": "Bill Gambini",
+      "order": 0
+    },
+    {
+      "personId": 4517,
+      "character": "Vinny Gambini",
+      "order": 1
+    },
+    {
+      "personId": 3141,
+      "character": "Mona Lisa Vito",
+      "order": 2
+    },
+    {
+      "personId": 19505,
+      "character": "Stan Rothenstein",
+      "order": 3
+    },
+    {
+      "personId": 56266,
+      "character": "Judge Chamberlain Haller",
+      "order": 4
+    },
+    {
+      "personId": 65019,
+      "character": "Jim Trotter III",
+      "order": 5
+    },
+    {
+      "personId": 6168,
+      "character": "John Gibbons",
+      "order": 6
+    },
+    {
+      "personId": 14888,
+      "character": "Sheriff Farley",
+      "order": 7
+    },
+    {
+      "personId": 7868,
+      "character": "Sam Tipton",
+      "order": 8
+    },
+    {
+      "personId": 161691,
+      "character": "Constance Riley",
+      "order": 9
+    },
+    {
+      "personId": 21082,
+      "character": "Ernie Crane",
+      "order": 10
+    },
+    {
+      "personId": 8986,
+      "character": "George Wilbur",
+      "order": 11
+    },
+    {
+      "personId": 8191,
+      "character": "J.T.",
+      "order": 12
+    },
+    {
+      "personId": 3342064,
+      "character": "Neckbrace",
+      "order": 13
+    },
+    {
+      "personId": 108180,
+      "character": "Grits Cook",
+      "order": 14
+    },
+    {
+      "personId": 196945,
+      "character": "Jimmy Willis",
+      "order": 15
+    },
+    {
+      "personId": 196954,
+      "character": "Man in Town Square",
+      "order": 16
+    },
+    {
+      "personId": 95941,
+      "character": "Guard #1",
+      "order": 17
+    },
+    {
+      "personId": 1215440,
+      "character": "Guard #2",
+      "order": 18
+    },
+    {
+      "personId": 3342067,
+      "character": "Deputy #1",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 2015,
+  "sources": [
+    "cult-list"
+  ]
+}

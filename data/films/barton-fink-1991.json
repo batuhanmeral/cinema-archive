@@ -1,0 +1,198 @@
+{
+  "tmdbId": 290,
+  "slug": "barton-fink-1991",
+  "year": 1991,
+  "runtime": 117,
+  "originalTitle": "Barton Fink",
+  "title": {
+    "en": "Barton Fink",
+    "tr": "Barton Fink"
+  },
+  "overview": {
+    "en": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+    "tr": "1940'lı yıllarda New York'lu sosyalist bir oyun yazarı olan Barton Fink, Los Angeles'a gelip bir film senaryosu yazma ihtimali belirdiğinde durumu kabul etmek zorunda kalır. Bir otele yerleşir ve burada film stüdyosunun başkanı Jack Lipnick'le tanışır. Lipnick'ten, yazacağı senaryonun kaba saba bir B filmi için olduğunu öğrenir. Daktilosunda sadece tek bir cümle yazmayı becerse de, içinde bulunmaya hiç alışık olmadığı durum sebebiyle bir türlü ilham gelmez ve tıkanır.Oteldeki kapı komşusu Charlie Meadows, geveze bir pazarlamacı ve tam bir orta sınıf insanıdır. Fink'in hayatına giren diğer insanlar da (ünlü bir senarist olan Mayhew ve onun kız arkadaşı Audrey gibi) genç entellektüel yazara ilham gelmesine ve senaryoda ilerlemesine yardımcı olamazlar. Stres doruğa çıktığında Fink kendisini doğaüstü tabloları andıran bir cehennemin içinde bulur."
+  },
+  "poster": {
+    "tr": "/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg",
+    "en": "/846d8FclibtOIoUW7PxpT0nCG4C.jpg"
+  },
+  "backdrops": [
+    "/olFmSixYrne3CmXCEZk0wK1oFYg.jpg",
+    "/uvghTjsDNpdN9abdgSlYn6EKK8P.jpg",
+    "/cW1XlxgvxZIFkakYc9yrLpDoYhK.jpg",
+    "/hjGLcwWg2F0BJB1zUFMzwrm7uqg.jpg",
+    "/1JTrAHnuUJfaksP5jzg3bV8Q1Hc.jpg",
+    "/5IbE8joIeUUowIVC2TNsyAd0nFv.jpg",
+    "/nsRmLImj4VLscewpwyWJs4iYhZh.jpg",
+    "/dSDpW5soaGsBHdwKQg9HvoFYxJd.jpg",
+    "/eOn6EtViFLxXAmPPjJR861Dx4PX.jpg",
+    "/65DTUTmcduU6zdVlEEKmyuAEsuK.jpg"
+  ],
+  "trailerKey": "yglo5I1znpQ",
+  "genreIds": [
+    35,
+    18,
+    53
+  ],
+  "keywordIds": [
+    612,
+    776,
+    1583,
+    886,
+    888,
+    10226,
+    12670,
+    207268,
+    207883
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Working Title",
+    "Circle Films"
+  ],
+  "crew": [
+    {
+      "personId": 1225,
+      "job": "composer"
+    },
+    {
+      "personId": 1224,
+      "job": "producer"
+    },
+    {
+      "personId": 1223,
+      "job": "director"
+    },
+    {
+      "personId": 1223,
+      "job": "writer"
+    },
+    {
+      "personId": 151,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1224,
+      "job": "writer"
+    },
+    {
+      "personId": 1224,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1241,
+      "character": "Barton Fink",
+      "order": 0
+    },
+    {
+      "personId": 1230,
+      "character": "Charlie Meadows",
+      "order": 1
+    },
+    {
+      "personId": 351,
+      "character": "Audrey Taylor",
+      "order": 2
+    },
+    {
+      "personId": 4250,
+      "character": "Jack Lipnick",
+      "order": 3
+    },
+    {
+      "personId": 4251,
+      "character": "W.P. Mayhew",
+      "order": 4
+    },
+    {
+      "personId": 4252,
+      "character": "Ben Geisler",
+      "order": 5
+    },
+    {
+      "personId": 4253,
+      "character": "Lou Breeze",
+      "order": 6
+    },
+    {
+      "personId": 884,
+      "character": "Chet",
+      "order": 7
+    },
+    {
+      "personId": 4254,
+      "character": "Garland Stanford",
+      "order": 8
+    },
+    {
+      "personId": 4255,
+      "character": "Detective Mastrionotti",
+      "order": 9
+    },
+    {
+      "personId": 4256,
+      "character": "Detective Deutsch",
+      "order": 10
+    },
+    {
+      "personId": 4257,
+      "character": "Derek",
+      "order": 11
+    },
+    {
+      "personId": 82988,
+      "character": "Poppy Carnahan",
+      "order": 12
+    },
+    {
+      "personId": 157607,
+      "character": "Richard St. Claire",
+      "order": 13
+    },
+    {
+      "personId": 4510,
+      "character": "Pete",
+      "order": 14
+    },
+    {
+      "personId": 3091097,
+      "character": "Maitre D'",
+      "order": 15
+    },
+    {
+      "personId": 119226,
+      "character": "Stagehand",
+      "order": 16
+    },
+    {
+      "personId": 1219415,
+      "character": "Clapper Boy",
+      "order": 17
+    },
+    {
+      "personId": 79590,
+      "character": "Referee",
+      "order": 18
+    },
+    {
+      "personId": 184781,
+      "character": "Wrestler",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cannes": 1
+  },
+  "voteCount": 1980,
+  "sources": [
+    "cult-list"
+  ]
+}

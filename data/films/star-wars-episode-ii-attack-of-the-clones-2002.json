@@ -1,0 +1,208 @@
+{
+  "tmdbId": 1894,
+  "slug": "star-wars-episode-ii-attack-of-the-clones-2002",
+  "year": 2002,
+  "runtime": 142,
+  "originalTitle": "Star Wars: Episode II - Attack of the Clones",
+  "title": {
+    "en": "Star Wars: Episode II - Attack of the Clones",
+    "tr": "Yıldız Savaşları: Bölüm II - Klonlar'ın Saldırısı"
+  },
+  "overview": {
+    "en": "Following an assassination attempt on Senator Padmé Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot into the heart of the Separatist movement and the beginning of the Clone Wars.",
+    "tr": "Yıldız Savaşları: Bölüm II - Klonlar'ın Saldırısı'nda Naboo'nun işgalinden on yıl sonra galaksi, bir iç savaşın eşiğindedir. Binlerce güneş sistemi, eski bir Jedi olan Kont Dooku'nun önderliğinde, Galaksi Cumhuriyeti'nden ayrılma tehditleri savurur. Naboo'nun eski kraliçesi Senatör Padmé Amidala'ya yapılan suikast girişiminin ardından, 20 yaşındaki Jedi öğrencisi Anakin Skywalker onu korumakla görevlendirilir. Koruma görevi sırasında genç Jedi Anakin, Padmé'ye olan aşkının yanı sıra İçindeki karanlık tarafı da keşfeder. Bir süre sonra Anakin, Padmé ve Obi-Wan Kenobi, kendilerini Ayrılıkçı Hareket'in ve Klon Savaşları'nın başlangıcının tam ortasında bulur."
+  },
+  "poster": {
+    "tr": "/eT87Nx4Jw3ShjvROxGq8KC3bWTx.jpg",
+    "en": "/oZNPzxqM2s5DyVWab09NTQScDQt.jpg"
+  },
+  "backdrops": [
+    "/dNt5q68BBkddBxlvrHDa1apyBy8.jpg",
+    "/3UBtmYaY3lm8wGZIa0KK1YazEX8.jpg",
+    "/9dwPRPM3ziTPs4VyBHfXCB1NIUm.jpg",
+    "/1uQSh7P3k0oRbRf0vH8GVt4thpP.jpg",
+    "/abwxHfymXGAbbH3lo9PDEJEfvtW.jpg",
+    "/qjlOpcwoVyUZf1uBLbcoFcgThEO.jpg",
+    "/vJJdIjj6yrmU6fjUXEFKVKSmtCJ.jpg",
+    "/eosKSPXvRnZiGimq0VDA1YzXQT7.jpg",
+    "/rUhqas6tCMuDEYlCPXGDLyTO4yH.jpg",
+    "/cuHfEyX5F5LkhevxcSWFsDlaYja.jpg"
+  ],
+  "trailerKey": "gYbW1F_c9eM",
+  "genreIds": [
+    12,
+    28,
+    878
+  ],
+  "keywordIds": [
+    6092,
+    1280,
+    1399,
+    5340,
+    9663,
+    9675,
+    11491,
+    13027,
+    14922,
+    161176,
+    163239,
+    163242,
+    163248,
+    163252,
+    163255,
+    207372,
+    325765,
+    325805,
+    371623
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Lucasfilm Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 1,
+      "job": "director"
+    },
+    {
+      "personId": 1,
+      "job": "producer"
+    },
+    {
+      "personId": 19801,
+      "job": "producer"
+    },
+    {
+      "personId": 19802,
+      "job": "writer"
+    },
+    {
+      "personId": 1,
+      "job": "writer"
+    },
+    {
+      "personId": 6800,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 20643,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17244,
+      "character": "Anakin Skywalker",
+      "order": 0
+    },
+    {
+      "personId": 3061,
+      "character": "Obi-Wan Kenobi",
+      "order": 1
+    },
+    {
+      "personId": 524,
+      "character": "Padmé Amidala",
+      "order": 2
+    },
+    {
+      "personId": 113,
+      "character": "Count Dooku",
+      "order": 3
+    },
+    {
+      "personId": 2231,
+      "character": "Mace Windu",
+      "order": 4
+    },
+    {
+      "personId": 7908,
+      "character": "Yoda (voice)",
+      "order": 5
+    },
+    {
+      "personId": 27762,
+      "character": "Chancellor Palpatine",
+      "order": 6
+    },
+    {
+      "personId": 33190,
+      "character": "Shmi Skywalker",
+      "order": 7
+    },
+    {
+      "personId": 7242,
+      "character": "Jango Fett / Clone Troopers",
+      "order": 8
+    },
+    {
+      "personId": 33181,
+      "character": "Senator Bail Organa",
+      "order": 9
+    },
+    {
+      "personId": 12536,
+      "character": "Cliegg Lars",
+      "order": 10
+    },
+    {
+      "personId": 93114,
+      "character": "Zam Wesell",
+      "order": 11
+    },
+    {
+      "personId": 33197,
+      "character": "Jar Jar Binks / Achk Med-Beq (voice)",
+      "order": 12
+    },
+    {
+      "personId": 9827,
+      "character": "Dormé",
+      "order": 13
+    },
+    {
+      "personId": 31923,
+      "character": "Governor Sio Bibble",
+      "order": 14
+    },
+    {
+      "personId": 33188,
+      "character": "Dexter Jettster (voice)",
+      "order": 15
+    },
+    {
+      "personId": 33182,
+      "character": "Captain Typho",
+      "order": 16
+    },
+    {
+      "personId": 33198,
+      "character": "Watto (voice)",
+      "order": 17
+    },
+    {
+      "personId": 6,
+      "character": "C-3PO / Dannl Faytonni",
+      "order": 18
+    },
+    {
+      "personId": 20806,
+      "character": "Viceroy Nute Gunray / Ki-Adi Mundi",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 14843,
+  "sources": [
+    "cult-list"
+  ]
+}

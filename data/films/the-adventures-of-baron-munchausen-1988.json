@@ -1,0 +1,198 @@
+{
+  "tmdbId": 14506,
+  "slug": "the-adventures-of-baron-munchausen-1988",
+  "year": 1988,
+  "runtime": 126,
+  "originalTitle": "The Adventures of Baron Munchausen",
+  "title": {
+    "en": "The Adventures of Baron Munchausen",
+    "tr": "Baron Munchausen'in Maceraları"
+  },
+  "overview": {
+    "en": "An account of Baron Munchausen's supposed travels and fantastical experiences with his band of misfits.",
+    "tr": "17.yüzyıl aristokratı olan Baron Munchausen, yanındaki özel yetenekli adamları Berthold, Adolphus, Albrecht ve küçük bir kızla, Türklerin işgalinde olan şehri kurtarmak için maceradan maceraya atılıyorlar. Dev bir deniz canavarı tarafından yutulmak, aya yolculuk yapmak, Venüs'le dans etmek bu maceralardan sadece birkaçı…"
+  },
+  "poster": {
+    "tr": "/oiOwGRqwrKpg1EMUlPgRjVC49bn.jpg",
+    "en": "/9fggcOUgYUxU1ZChI7tcf1CYO5a.jpg"
+  },
+  "backdrops": [
+    "/mBh3NXCkSCasZGovzAuc9UlFCru.jpg",
+    "/jhJZiPjvINtQoV7Hp0iD2rlhhhx.jpg",
+    "/kEOiR7lrldUuIRM63RURFXSlfE5.jpg",
+    "/o3CQdRWXr9UzHVfiFSg7Z4WJZOj.jpg",
+    "/6x3Js3JxA7XXZcdZV1OYwCEafTp.jpg",
+    "/kdkKW7UwDb4qeOEVHO7QTKdXlq7.jpg",
+    "/esxeDrxXVFRc0XSOHdY7NJ9MRop.jpg",
+    "/fBHcKhazCu4HjxIY1afN4nd4O91.jpg"
+  ],
+  "trailerKey": "vuqBKiKycbA",
+  "genreIds": [
+    14,
+    12,
+    35
+  ],
+  "keywordIds": [
+    1299,
+    305,
+    818,
+    3307,
+    3497,
+    8201,
+    9552,
+    10028,
+    181046,
+    187302,
+    238545,
+    276775,
+    288816,
+    309974,
+    355849
+  ],
+  "countries": [
+    "DE",
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Columbia Pictures",
+    "Prominent Features",
+    "Laura Film"
+  ],
+  "crew": [
+    {
+      "personId": 374,
+      "job": "writer"
+    },
+    {
+      "personId": 280,
+      "job": "writer"
+    },
+    {
+      "personId": 280,
+      "job": "director"
+    },
+    {
+      "personId": 2360,
+      "job": "producer"
+    },
+    {
+      "personId": 15131,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7714,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12642,
+      "character": "Hieronymus Karl Frederick Baron von Munchausen",
+      "order": 0
+    },
+    {
+      "personId": 10713,
+      "character": "Desmond / Berthold",
+      "order": 1
+    },
+    {
+      "personId": 98,
+      "character": "Sally Salt",
+      "order": 2
+    },
+    {
+      "personId": 936,
+      "character": "Vulcan",
+      "order": 3
+    },
+    {
+      "personId": 374,
+      "character": "Rupert / Adolphus",
+      "order": 4
+    },
+    {
+      "personId": 215741,
+      "character": "Bill / Albrecht",
+      "order": 5
+    },
+    {
+      "personId": 132538,
+      "character": "Jeremy / Gustavus",
+      "order": 6
+    },
+    {
+      "personId": 24499,
+      "character": "Queen Ariadne / Violet",
+      "order": 7
+    },
+    {
+      "personId": 378,
+      "character": "The Right Ordinary Horatio Jackson",
+      "order": 8
+    },
+    {
+      "personId": 104795,
+      "character": "Henry Salt",
+      "order": 9
+    },
+    {
+      "personId": 82549,
+      "character": "Sultan",
+      "order": 10
+    },
+    {
+      "personId": 139,
+      "character": "Venus / Rose",
+      "order": 11
+    },
+    {
+      "personId": 47699,
+      "character": "Daisy",
+      "order": 12
+    },
+    {
+      "personId": 19726,
+      "character": "Functionary",
+      "order": 13
+    },
+    {
+      "personId": 42570,
+      "character": "Commander",
+      "order": 14
+    },
+    {
+      "personId": 2157,
+      "character": "King of the Moon",
+      "order": 15
+    },
+    {
+      "personId": 982,
+      "character": "Heroic Officer",
+      "order": 16
+    },
+    {
+      "personId": 37893,
+      "character": "Colonel",
+      "order": 17
+    },
+    {
+      "personId": 97688,
+      "character": "Dr. Death",
+      "order": 18
+    },
+    {
+      "personId": 567070,
+      "character": "Executioner",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1054,
+  "sources": [
+    "cult-list"
+  ]
+}

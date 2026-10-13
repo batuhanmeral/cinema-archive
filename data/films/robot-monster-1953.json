@@ -1,0 +1,115 @@
+{
+  "tmdbId": 43353,
+  "slug": "robot-monster-1953",
+  "year": 1953,
+  "runtime": 66,
+  "originalTitle": "Robot Monster",
+  "title": {
+    "en": "Robot Monster",
+    "tr": "Robot Monster"
+  },
+  "overview": {
+    "en": "Ro-Man, an alien robot who greatly resembles a gorilla in a diving helmet, is sent to earth to destroy all human life. Ro-Man falls in love with one of the last six remaining humans, and struggles to understand how his programming can instruct him to kill her while his heart demands that he can't.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5b4SKRHdSHCm2SZmrP26lnVC44x.jpg",
+    "en": "/pByYZxRZup1LDfCKng8uClWLYB6.jpg"
+  },
+  "backdrops": [
+    "/ytcBjaFsLZ3g8krv6dej87Wemgt.jpg",
+    "/2RjowPaqmlB3BktiRZBkq1GTu9P.jpg",
+    "/8xQsjn19C6j7aWWW589wG2UAVb.jpg",
+    "/jIX5s5wCk5HXKi8iuxJGaplbSPS.jpg",
+    "/5DJNAR0oKgByXnReDCl4Q0bTEk5.jpg"
+  ],
+  "trailerKey": "NF2YHnr--J4",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    11034,
+    14544,
+    155493,
+    164218
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Three Dimension Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1015852,
+      "job": "director"
+    },
+    {
+      "personId": 1015852,
+      "job": "producer"
+    },
+    {
+      "personId": 7182,
+      "job": "composer"
+    },
+    {
+      "personId": 108431,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 102730,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18965,
+      "character": "Roy",
+      "order": 0
+    },
+    {
+      "personId": 121258,
+      "character": "Alice",
+      "order": 1
+    },
+    {
+      "personId": 565375,
+      "character": "Johnny",
+      "order": 2
+    },
+    {
+      "personId": 124089,
+      "character": "The Professor",
+      "order": 3
+    },
+    {
+      "personId": 95271,
+      "character": "Mother",
+      "order": 4
+    },
+    {
+      "personId": 565376,
+      "character": "Carla",
+      "order": 5
+    },
+    {
+      "personId": 100341,
+      "character": "Ro-Man the Monster / Great Guidance",
+      "order": 6
+    },
+    {
+      "personId": 12503,
+      "character": "Ro-Man / Great Guidance (voice)",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 107,
+  "sources": [
+    "cult-list"
+  ]
+}

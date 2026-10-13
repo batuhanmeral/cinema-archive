@@ -1,0 +1,193 @@
+{
+  "tmdbId": 10206,
+  "slug": "buffy-the-vampire-slayer-1992",
+  "year": 1992,
+  "runtime": 85,
+  "originalTitle": "Buffy the Vampire Slayer",
+  "title": {
+    "en": "Buffy the Vampire Slayer",
+    "tr": "Buffy The Vampire Slayer: İlk Film"
+  },
+  "overview": {
+    "en": "Blonde, bouncy Buffy is your typical high school cheerleader. But all that changes when a strange man informs her she's been chosen by fate to kill vampires.",
+    "tr": "Buffy, okuduğu lisenin amigo takımında yer alan tipik bir lise öğrencisidir. Ancak günün birinde garip bir adam ona kaderinin \"seçilmiş kişi\" olarak vampirleri avlamak olduğunu söylediğinde tüm hayatı değişecektir."
+  },
+  "poster": {
+    "tr": "/tcF3S4UdFpuoZEWovMDq5AXazNF.jpg",
+    "en": "/so4tTMItoq90wphs18lWbV0ASVV.jpg"
+  },
+  "backdrops": [
+    "/x6WP3j00DqnYXutWbxPCsN236OL.jpg",
+    "/7RnvxRHrfvHkLIRN4jbW8xMwydR.jpg",
+    "/tgyQPJKl4Af0mC0YObcuJbc79P3.jpg",
+    "/rYAq4jzbMgdw3PFWwGYdR5ea7v4.jpg",
+    "/xK28lhRlypVf1sE3sNZNfcsPKPA.jpg",
+    "/v9BNwCSm67p90O2BbukcsjDclP9.jpg",
+    "/qMf1MuY9u6BfBYTscEjWbIlWMrg.jpg",
+    "/wz2VrsbQ4X1X6yuX0NquLVgfJDo.jpg",
+    "/5WorhO5WoSycwh6M7THHtbLXMRm.jpg",
+    "/o7HCi0n8chaKFGZkLL9piRLPpZN.jpg"
+  ],
+  "trailerKey": "pnZkV_aR_9w",
+  "genreIds": [
+    28,
+    35,
+    27
+  ],
+  "keywordIds": [
+    6270,
+    3133,
+    2920,
+    13043,
+    15479,
+    167982,
+    177303,
+    179431,
+    187056,
+    197110
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Kuzui Enterprises",
+    "20th Century Fox",
+    "Sandollar Productions"
+  ],
+  "crew": [
+    {
+      "personId": 47054,
+      "job": "producer"
+    },
+    {
+      "personId": 64171,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1225,
+      "job": "composer"
+    },
+    {
+      "personId": 64170,
+      "job": "director"
+    },
+    {
+      "personId": 69998,
+      "job": "producer"
+    },
+    {
+      "personId": 12891,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 56128,
+      "character": "Buffy Summers",
+      "order": 0
+    },
+    {
+      "personId": 55636,
+      "character": "Merrick Jamison-Smythe",
+      "order": 1
+    },
+    {
+      "personId": 5129,
+      "character": "Amilyn",
+      "order": 2
+    },
+    {
+      "personId": 585,
+      "character": "Lothos",
+      "order": 3
+    },
+    {
+      "personId": 8395,
+      "character": "Oliver Pike",
+      "order": 4
+    },
+    {
+      "personId": 448,
+      "character": "Kimberly Hannah",
+      "order": 5
+    },
+    {
+      "personId": 77012,
+      "character": "Jennifer",
+      "order": 6
+    },
+    {
+      "personId": 15234,
+      "character": "Benny",
+      "order": 7
+    },
+    {
+      "personId": 3270,
+      "character": "Cassandra",
+      "order": 8
+    },
+    {
+      "personId": 11155,
+      "character": "Zeph",
+      "order": 9
+    },
+    {
+      "personId": 70233,
+      "character": "Charlotte",
+      "order": 10
+    },
+    {
+      "personId": 17401,
+      "character": "Gary Murray",
+      "order": 11
+    },
+    {
+      "personId": 58000,
+      "character": "Grueller",
+      "order": 12
+    },
+    {
+      "personId": 12407,
+      "character": "Buffy's Mom",
+      "order": 13
+    },
+    {
+      "personId": 1562294,
+      "character": "Nicole 'Nicki'",
+      "order": 14
+    },
+    {
+      "personId": 36631,
+      "character": "Jeffrey",
+      "order": 15
+    },
+    {
+      "personId": 65704,
+      "character": "Andy",
+      "order": 16
+    },
+    {
+      "personId": 60258,
+      "character": "Coach",
+      "order": 17
+    },
+    {
+      "personId": 1678835,
+      "character": "Buffy's Dad",
+      "order": 18
+    },
+    {
+      "personId": 102403,
+      "character": "Knight",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 958,
+  "sources": [
+    "cult-list"
+  ]
+}

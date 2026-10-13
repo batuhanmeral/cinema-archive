@@ -1,0 +1,240 @@
+{
+  "tmdbId": 694,
+  "slug": "the-shining-1980",
+  "year": 1980,
+  "runtime": 144,
+  "originalTitle": "The Shining",
+  "title": {
+    "en": "The Shining",
+    "tr": "Cinnet"
+  },
+  "overview": {
+    "en": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+    "tr": "Kışın kapalı olan ıssız Overlook Oteli’nin bakımını üstlenen Jack Torrance, ailesiyle birlikte buraya taşınır. Doğaüstü sezgileri güçlü olan küçük oğlu Danny, otelde yalnız olmadıklarını fark etse de sesini duyuramaz. Şiddetli bir kar fırtınasıyla dış dünyadan tamamen kopan aile mahsur kalırken, oteldeki karanlık güçlerin etkisine giren Jack yavaş yavaş aklını kaybetmeye başlar."
+  },
+  "poster": {
+    "tr": "/yA02bdLNrd8Vbots5qiw9zAD2jC.jpg",
+    "en": "/b6ko0IKC8MdYBBPkkA1aBPLe2yz.jpg"
+  },
+  "backdrops": [
+    "/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg",
+    "/mmd1HnuvAzFc4iuVJcnBrhDNEKr.jpg",
+    "/dQMjySqD3rC8hSueCw3inXRJmIU.jpg",
+    "/hWbC1ix65Ln7GySSvt6oe31A9GY.jpg",
+    "/2CrV8d8r8XcUW4SRjACFXoly1E8.jpg",
+    "/x1vmewr9K7sXOvwhntlUoorf12k.jpg",
+    "/yQ7AR0T0dFJcEfR9g4J8vyeiHCl.jpg",
+    "/3N9UcnCJRyLE2B4ZTbxIpWqL4aQ.jpg",
+    "/jWHagVuSoWOluZwPyFctAyU6NHd.jpg",
+    "/9WyZkJjQOibjZUhKr4C6JlUZ5C1.jpg"
+  ],
+  "trailerKey": "jAE7dNurHR4",
+  "genreIds": [
+    27,
+    53
+  ],
+  "keywordIds": [
+    612,
+    516,
+    818,
+    1533,
+    1475,
+    6262,
+    3373,
+    1981,
+    3556,
+    9887,
+    5914,
+    7464,
+    10170,
+    9815,
+    10241,
+    9957,
+    10629,
+    11925,
+    12191,
+    12565,
+    13028,
+    15016,
+    18129,
+    33457,
+    156783,
+    163558,
+    176227,
+    196986,
+    199079,
+    240237,
+    251513,
+    256183,
+    256908,
+    261264,
+    306351,
+    308818,
+    321464,
+    321873,
+    325763,
+    325806,
+    325852
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Peregrine",
+    "Hawk Films"
+  ],
+  "crew": [
+    {
+      "personId": 10404,
+      "job": "writer"
+    },
+    {
+      "personId": 240,
+      "job": "producer"
+    },
+    {
+      "personId": 2286,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2284,
+      "job": "composer"
+    },
+    {
+      "personId": 240,
+      "job": "writer"
+    },
+    {
+      "personId": 2285,
+      "job": "composer"
+    },
+    {
+      "personId": 240,
+      "job": "director"
+    },
+    {
+      "personId": 1596223,
+      "job": "composer"
+    },
+    {
+      "personId": 55975,
+      "job": "composer"
+    },
+    {
+      "personId": 1655425,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 514,
+      "character": "Jack Torrance",
+      "order": 0
+    },
+    {
+      "personId": 10409,
+      "character": "Wendy Torrance",
+      "order": 1
+    },
+    {
+      "personId": 10410,
+      "character": "Danny",
+      "order": 2
+    },
+    {
+      "personId": 7077,
+      "character": "Hallorann",
+      "order": 3
+    },
+    {
+      "personId": 10411,
+      "character": "Ullman",
+      "order": 4
+    },
+    {
+      "personId": 694,
+      "character": "Grady",
+      "order": 5
+    },
+    {
+      "personId": 592,
+      "character": "Lloyd",
+      "order": 6
+    },
+    {
+      "personId": 10412,
+      "character": "Doctor",
+      "order": 7
+    },
+    {
+      "personId": 16504,
+      "character": "Durkin",
+      "order": 8
+    },
+    {
+      "personId": 1413939,
+      "character": "Young Woman in Bath",
+      "order": 9
+    },
+    {
+      "personId": 1413940,
+      "character": "Old Woman in Bath",
+      "order": 10
+    },
+    {
+      "personId": 72742,
+      "character": "Watson",
+      "order": 11
+    },
+    {
+      "personId": 38651,
+      "character": "Forest Ranger 1",
+      "order": 12
+    },
+    {
+      "personId": 99366,
+      "character": "Forest Ranger 2",
+      "order": 13
+    },
+    {
+      "personId": 3738136,
+      "character": "Grady Daughter",
+      "order": 14
+    },
+    {
+      "personId": 3738137,
+      "character": "Grady Daughter",
+      "order": 15
+    },
+    {
+      "personId": 1697241,
+      "character": "Nurse",
+      "order": 16
+    },
+    {
+      "personId": 2023549,
+      "character": "Secretary",
+      "order": 17
+    },
+    {
+      "personId": 184980,
+      "character": "Policeman",
+      "order": 18
+    },
+    {
+      "personId": 201441,
+      "character": "Stewardess",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 19604,
+  "sources": [
+    "cult-list"
+  ]
+}

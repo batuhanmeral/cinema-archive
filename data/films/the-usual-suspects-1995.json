@@ -1,0 +1,207 @@
+{
+  "tmdbId": 629,
+  "slug": "the-usual-suspects-1995",
+  "year": 1995,
+  "runtime": 106,
+  "originalTitle": "The Usual Suspects",
+  "title": {
+    "en": "The Usual Suspects",
+    "tr": "Olağan Şüpheliler"
+  },
+  "overview": {
+    "en": "Held in an L.A. interrogation room, Verbal Kint attempts to convince the feds that a mythic crime lord, Keyser Soze, not only exists, but was also responsible for drawing him and his four partners into a multi-million dollar heist that ended with an explosion in San Pedro harbor – leaving few survivors. Verbal lures his interrogators with an incredible story of the crime lord's almost supernatural prowess.",
+    "tr": "Polis San Pedro'da patlayan bir tekneyi araştırdığında 27 ceset ve 91 milyon dolarlık uyuşturucu parası bulur. Olaydan kurtulan iki kişi, yanıklarla dolu vücuduyla korkmuş bir Macar terörist ve Verbal Kint adında bir tetikçidir. Polisteki sorgusunda Kint, 6 hafta öncesinden başlayarak olayları anlatır."
+  },
+  "poster": {
+    "tr": "/6GZuBIZnBvbt3yi8hfq4RHVIb5P.jpg",
+    "en": "/bUPmtQzrRhzqYySeiMpv7GurAfm.jpg"
+  },
+  "backdrops": [
+    "/7S7PE3vK9Eh5uzCYBDGk5qTJeYW.jpg",
+    "/6CLV2HakYO1tyAV5GUHOeNPyaTd.jpg",
+    "/eNKLwN810eJVM8gwBhTpEZqCVVQ.jpg",
+    "/9jrHaaXWB37VcA4KGemP8iF7bFB.jpg",
+    "/hy0Hx9fMPk2fmw26Li60z1S2giU.jpg",
+    "/9fAGAdr2BYErmbcYqtmyZxwAu0H.jpg",
+    "/askFjkSy7ptetjNdZy4aFfUuUdJ.jpg",
+    "/uwNlaWJwlNywrKZa0v0w8WysAo7.jpg",
+    "/dqvoM3npyxgfcnbeBR8uavlz18Q.jpg",
+    "/nR49ku1Hj2HGsvMmljBqzQVdS2n.jpg"
+  ],
+  "trailerKey": "jM3jrHGAsIE",
+  "genreIds": [
+    18,
+    80,
+    53
+  ],
+  "keywordIds": [
+    242,
+    642,
+    5493,
+    10051,
+    9856,
+    11734,
+    12570,
+    12670,
+    14604,
+    15009,
+    18023,
+    158022,
+    184312,
+    207268,
+    263443,
+    275311,
+    321464,
+    325811,
+    326438,
+    327412
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "es",
+    "en",
+    "fr",
+    "hu"
+  ],
+  "studios": [
+    "Bad Hat Harry Productions",
+    "Blue Parrot Productions"
+  ],
+  "crew": [
+    {
+      "personId": 9032,
+      "job": "director"
+    },
+    {
+      "personId": 9032,
+      "job": "producer"
+    },
+    {
+      "personId": 9034,
+      "job": "producer"
+    },
+    {
+      "personId": 9040,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9033,
+      "job": "writer"
+    },
+    {
+      "personId": 9039,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9045,
+      "character": "McManus",
+      "order": 0
+    },
+    {
+      "personId": 5168,
+      "character": "Keaton",
+      "order": 1
+    },
+    {
+      "personId": 1121,
+      "character": "Fenster",
+      "order": 2
+    },
+    {
+      "personId": 7166,
+      "character": "Hockney",
+      "order": 3
+    },
+    {
+      "personId": 1979,
+      "character": "Verbal",
+      "order": 4
+    },
+    {
+      "personId": 9046,
+      "character": "Dave Kujan",
+      "order": 5
+    },
+    {
+      "personId": 4935,
+      "character": "Kobayashi",
+      "order": 6
+    },
+    {
+      "personId": 2179,
+      "character": "Edie Finneran",
+      "order": 7
+    },
+    {
+      "personId": 4808,
+      "character": "Jack Baer",
+      "order": 8
+    },
+    {
+      "personId": 6486,
+      "character": "Jeff Rabin",
+      "order": 9
+    },
+    {
+      "personId": 101377,
+      "character": "Smuggler",
+      "order": 10
+    },
+    {
+      "personId": 56166,
+      "character": "Saul Berg",
+      "order": 11
+    },
+    {
+      "personId": 201883,
+      "character": "Fortier",
+      "order": 12
+    },
+    {
+      "personId": 1228876,
+      "character": "Renault",
+      "order": 13
+    },
+    {
+      "personId": 9047,
+      "character": "Dr. Plummer",
+      "order": 14
+    },
+    {
+      "personId": 9048,
+      "character": "Dr. Walters",
+      "order": 15
+    },
+    {
+      "personId": 156227,
+      "character": "Arkosh Kovash",
+      "order": 16
+    },
+    {
+      "personId": 1386351,
+      "character": "Translator",
+      "order": 17
+    },
+    {
+      "personId": 84894,
+      "character": "Sketch Artist",
+      "order": 18
+    },
+    {
+      "personId": 3218,
+      "character": "Strausz",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 11908,
+  "sources": [
+    "cult-list"
+  ]
+}

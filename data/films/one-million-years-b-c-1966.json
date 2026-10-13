@@ -1,0 +1,189 @@
+{
+  "tmdbId": 3591,
+  "slug": "one-million-years-b-c-1966",
+  "year": 1966,
+  "runtime": 100,
+  "originalTitle": "One Million Years B.C.",
+  "title": {
+    "en": "One Million Years B.C.",
+    "tr": "Bir Milyon Yıl Önce"
+  },
+  "overview": {
+    "en": "As the Earth wrestles with its agonizing birth, the peoples of this barren and desolate world struggle to survive. Driven by animal instinct they compete against the harsh conditions, their giant predators, and warring tribes. When two people from opposing clans fall in love, existing conventions are shattered forever as each tribe struggles for supremacy and Man embarks on his tortuous voyage of civilization.",
+    "tr": "Mağara adamı Tumak üyesi olduğu kabilenin lideri babası Akhoba ile yaptığı bir kavga sonucu kabileden uzaklaştırılır. Tek başına üstesinden geldiği tehlikelerin ardından uzak bir sahilde yaşayan Shell kabilesine sığınır. Shell kabilesi diğer vahşi Rock kabilesine göre daha gelişmiş, daha medenidir. Mağaralarında duvar resimleri, müzik, deniz kabuklarından yaptıkları takılar ve kullandıkları bir dil vardır. Bütün bunlar Tumak’ın daha önce karşılaşmadığı şeylerdir. Kabilenin güzel kadın üyesi Loana ile dinozorlara ve diğer kabilelere karşı büyük bir mücadele vermeye başlarlar."
+  },
+  "poster": {
+    "tr": "/qVcQpoOqGrgNEdahRRzxEZkEouG.jpg",
+    "en": "/qVcQpoOqGrgNEdahRRzxEZkEouG.jpg"
+  },
+  "backdrops": [
+    "/9rR2D1RyBd2Gq1qWhMNen7UHskR.jpg",
+    "/l8gb4cMFRzAWfmq8qVgID5qEWkO.jpg",
+    "/rYKTvq6xsrc81Gie9Pjeb29I4EZ.jpg",
+    "/hPFaYVZajmhMWbgzUOaTk4IInFH.jpg",
+    "/lCr016XeXsfRIiiYSv0wbabmDlP.jpg",
+    "/9yJBzYWuGhflxaa1lsrsVGSg2sk.jpg",
+    "/6jmQHf8SQHfMHajUDy7ULLNoLAs.jpg",
+    "/ogcTBdx307I4aViiRHGJd6xWQYH.jpg",
+    "/9QSnpYtBBQM8VESX2S711rIjKOO.jpg",
+    "/AwtZoxy4wq11yiatF5Xdob3teeI.jpg"
+  ],
+  "trailerKey": "gSYmJur0Npw",
+  "genreIds": [
+    12,
+    14
+  ],
+  "keywordIds": [
+    1605,
+    2164,
+    3347,
+    4428,
+    6854,
+    9823,
+    10121,
+    10506,
+    12616,
+    155300,
+    159955,
+    160064,
+    192918
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Hammer Film Productions"
+  ],
+  "crew": [
+    {
+      "personId": 20397,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 29664,
+      "job": "writer"
+    },
+    {
+      "personId": 33216,
+      "job": "composer"
+    },
+    {
+      "personId": 29664,
+      "job": "producer"
+    },
+    {
+      "personId": 25558,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21462,
+      "character": "Loana",
+      "order": 0
+    },
+    {
+      "personId": 31545,
+      "character": "Tumak",
+      "order": 1
+    },
+    {
+      "personId": 33220,
+      "character": "Sakana",
+      "order": 2
+    },
+    {
+      "personId": 10513,
+      "character": "Akhoba",
+      "order": 3
+    },
+    {
+      "personId": 9925,
+      "character": "Nupondi",
+      "order": 4
+    },
+    {
+      "personId": 33221,
+      "character": "Ahot",
+      "order": 5
+    },
+    {
+      "personId": 33222,
+      "character": "Sura",
+      "order": 6
+    },
+    {
+      "personId": 1397928,
+      "character": "Ullah",
+      "order": 7
+    },
+    {
+      "personId": 1816661,
+      "character": "Tohana",
+      "order": 8
+    },
+    {
+      "personId": 2781553,
+      "character": "Payto",
+      "order": 9
+    },
+    {
+      "personId": 3505937,
+      "character": "Young Rock Man",
+      "order": 10
+    },
+    {
+      "personId": 930765,
+      "character": "1st Rock Man",
+      "order": 11
+    },
+    {
+      "personId": 937156,
+      "character": "1st Shell Man",
+      "order": 12
+    },
+    {
+      "personId": 5796937,
+      "character": "1st Shell Girl",
+      "order": 13
+    },
+    {
+      "personId": 29675,
+      "character": "Narrator (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 4555798,
+      "character": "Caveman (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1491168,
+      "character": "One of the Cave People (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 15949,
+      "character": "Narrator (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1784198,
+      "character": "Caveman (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1595501,
+      "character": "Loana (voice) (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 258,
+  "sources": [
+    "cult-list"
+  ]
+}

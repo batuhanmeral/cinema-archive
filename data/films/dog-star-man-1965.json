@@ -1,0 +1,76 @@
+{
+  "tmdbId": 420240,
+  "slug": "dog-star-man-1965",
+  "year": 1965,
+  "runtime": 78,
+  "originalTitle": "Dog Star Man",
+  "title": {
+    "en": "Dog Star Man",
+    "tr": "Dog Star Man"
+  },
+  "overview": {
+    "en": "Described as a \"cosmological epic\" and \"creation myth\", Dog Star Man illustrates the odyssey of a bearded woodsman climbing through a snow-covered mountain with his dog to chop down a tree. While doing so, he witnesses various mystical visions with various recurring imagery such as a woman, child, nature, and the cosmos while making his ascent.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/oZbENblOS67gRW3s0LJBj00m1CL.jpg",
+    "en": "/oZbENblOS67gRW3s0LJBj00m1CL.jpg"
+  },
+  "backdrops": [
+    "/vtMeoeteCKURQRqn9nVya1W7eQ9.jpg",
+    "/yM2UfbcVD0aym1zNa8acIL6Ci0M.jpg",
+    "/pfqrbIBCjqqI8DX4xp9BAfQdj3s.jpg",
+    "/1OanV983TPHr5muxP4r43IxZQGi.jpg",
+    "/ctT3n5I7HPDWXWC3pMXONw111rt.jpg",
+    "/dzNvEh7exQbmxETgKx8Hp8iLir7.jpg",
+    "/l6UBjJrynEtzgZz7tjsZVp7itAs.jpg",
+    "/4qDg5P3Q5CWx5m5Qkjtppa74qQ5.jpg",
+    "/47cvqDRqE3ptShX9fu6r6Aj0SNz.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    16
+  ],
+  "keywordIds": [
+    285787
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Film-Makers' Cooperative",
+    "Brakhage"
+  ],
+  "crew": [
+    {
+      "personId": 563461,
+      "job": "director"
+    },
+    {
+      "personId": 563461,
+      "job": "writer"
+    },
+    {
+      "personId": 563461,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 563461,
+      "character": "",
+      "order": 0
+    },
+    {
+      "personId": 1013947,
+      "character": "",
+      "order": 1
+    }
+  ],
+  "awards": {},
+  "voteCount": 46,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "tmdbId": 32071,
+  "slug": "war-hunt-1962",
+  "year": 1962,
+  "runtime": 83,
+  "originalTitle": "War Hunt",
+  "title": {
+    "en": "War Hunt",
+    "tr": "War Hunt"
+  },
+  "overview": {
+    "en": "Dispatched to the front lines during the Korean War, an idealistic American soldier discovers the horrors of combat and comes at odds with a psychopathic member of his platoon.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/31b3W1v8MOeOpYuk3dBSXFNpiHG.jpg",
+    "en": "/9Pw1oHjDpGRKPlJnfbC2kvzoOeW.jpg"
+  },
+  "backdrops": [
+    "/oDkBxSBH3zPvcVjkFb1Nn3Xx3EL.jpg",
+    "/sqMeiFGmAnytqNBIrqthVuQHH3I.jpg",
+    "/h9O0wl5B77AXaKCY6tlvV4huUmV.jpg",
+    "/ywIkrY3LHjhBpfKKl0CUbZ9wLtt.jpg",
+    "/9BPJrrTzzhxG8bgO2jpCnQHnxN9.jpg"
+  ],
+  "trailerKey": "knfe2VLFvr8",
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    3264,
+    15240,
+    158480,
+    220446,
+    220657,
+    227807,
+    234492,
+    241982,
+    284065,
+    284066,
+    284067,
+    323074,
+    341637
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "T-D Enterprises"
+  ],
+  "crew": [
+    {
+      "personId": 96909,
+      "job": "director"
+    },
+    {
+      "personId": 201165,
+      "job": "producer"
+    },
+    {
+      "personId": 238749,
+      "job": "composer"
+    },
+    {
+      "personId": 96909,
+      "job": "producer"
+    },
+    {
+      "personId": 2760,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 397257,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11163,
+      "character": "Pvt. Raymond Endore",
+      "order": 0
+    },
+    {
+      "personId": 61150,
+      "character": "Capt. Wallace Pratt",
+      "order": 1
+    },
+    {
+      "personId": 2226,
+      "character": "Sgt. Owen Van Horn",
+      "order": 2
+    },
+    {
+      "personId": 936139,
+      "character": "Charlie",
+      "order": 3
+    },
+    {
+      "personId": 54450,
+      "character": "Pvt. Crotty",
+      "order": 4
+    },
+    {
+      "personId": 4135,
+      "character": "Pvt. Roy Loomis",
+      "order": 5
+    },
+    {
+      "personId": 146708,
+      "character": "Pvt. Joshua Fresno",
+      "order": 6
+    },
+    {
+      "personId": 4139,
+      "character": "Sgt. Stan Showalter",
+      "order": 7
+    },
+    {
+      "personId": 115086,
+      "character": "Lt. Colonel",
+      "order": 8
+    },
+    {
+      "personId": 84630,
+      "character": "Mama San",
+      "order": 9
+    },
+    {
+      "personId": 1776,
+      "character": "Army Truck Driver (uncredited)",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 28,
+  "sources": [
+    "cult-list"
+  ]
+}

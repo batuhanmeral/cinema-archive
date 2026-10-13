@@ -1,0 +1,208 @@
+{
+  "tmdbId": 11879,
+  "slug": "near-dark-1987",
+  "year": 1987,
+  "runtime": 94,
+  "originalTitle": "Near Dark",
+  "title": {
+    "en": "Near Dark",
+    "tr": "Karanlık Bastığında"
+  },
+  "overview": {
+    "en": "A farm boy reluctantly becomes a member of the undead when a girl he meets turns out to be part of a band of vampires who roam the highways in stolen cars.",
+    "tr": "Bayan yönetmen Kathryn Bigelow'un dikkatleri üzerine çektiği ilk filmi olan Near Dark (Karanlık Bastığında) vampir mitini barındıran bir korku filmi olarak ilginç ve başarılı bir çalışma bulundu. Tek başına bir filmi kotarabilmesine şüpheyle bakılan yönetmene çekimlerden 5 gün sonra isterse işi bırakabileceği teklif edilse de o vazgeçmedi. Genç bir çiftçi hoşlandığı ve baştan çıkarmaya çalıştığı kızın bir vampir olduğunu geç de olsa anlar ve kızın vampir ailesine katılarak karanlık bir maceraya sürüklenir. Birlikte şehir şehir avlanmaya başlayan aile, bir zaman sonra yeni üyesiyle karşı karşıya gelecektir. Genç adam bir karar vermek zorunda kalır, gerçek ailesi mi yoksa ölümsüzlük mü?"
+  },
+  "poster": {
+    "tr": "/hVhFNn3IQxxARvnpLIKMx8ZfTtG.jpg",
+    "en": "/1SedVrcZYRsC6wFvMGWXIGrMWAr.jpg"
+  },
+  "backdrops": [
+    "/q9tyW0oXdWTTUK6eNFHCKh3gKNH.jpg",
+    "/dRybvMAs3YhyqjjgGyPNuIuW4if.jpg",
+    "/tezZaFLlH8AMA24z1NPP1P4LunD.jpg",
+    "/eoMZh4k1vSf0ml5D9wnxRsf8SE1.jpg",
+    "/EhzYvMy2WEz8OSmzLvGE4UHhJm.jpg",
+    "/1PGJqIoh1l7QVWfjFyMTxgTDAn3.jpg",
+    "/oy6VI9Q2TzOiRRyQOW6Wwct1SOo.jpg",
+    "/tKQvsXh9jx3bUFb00MTwzUFvzTh.jpg",
+    "/ax9JfAouV226tWl4j9dLjCIg3Ed.jpg",
+    "/fLqhMfRyMySsqORn0xq7iFWRdcM.jpg"
+  ],
+  "trailerKey": "XBDhZrzqcPY",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    4932,
+    1415,
+    3133,
+    2669,
+    2725,
+    3335,
+    4399,
+    5091,
+    5606,
+    9016,
+    10250,
+    11546,
+    18114,
+    162685,
+    167043,
+    169590,
+    187056,
+    207268,
+    208975
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "DEG",
+    "F/M",
+    "Near Dark Joint Venture"
+  ],
+  "crew": [
+    {
+      "personId": 14392,
+      "job": "director"
+    },
+    {
+      "personId": 14392,
+      "job": "writer"
+    },
+    {
+      "personId": 54839,
+      "job": "writer"
+    },
+    {
+      "personId": 2093,
+      "job": "producer"
+    },
+    {
+      "personId": 47927,
+      "job": "composer"
+    },
+    {
+      "personId": 69600,
+      "job": "composer"
+    },
+    {
+      "personId": 2214,
+      "job": "composer"
+    },
+    {
+      "personId": 2723,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17304,
+      "character": "Caleb Colton",
+      "order": 0
+    },
+    {
+      "personId": 64056,
+      "character": "Mae",
+      "order": 1
+    },
+    {
+      "personId": 2714,
+      "character": "Jesse Hooker",
+      "order": 2
+    },
+    {
+      "personId": 2053,
+      "character": "Severen",
+      "order": 3
+    },
+    {
+      "personId": 3981,
+      "character": "Diamondback",
+      "order": 4
+    },
+    {
+      "personId": 29712,
+      "character": "Loy Colton",
+      "order": 5
+    },
+    {
+      "personId": 93151,
+      "character": "Homer",
+      "order": 6
+    },
+    {
+      "personId": 106706,
+      "character": "Sarah Colton",
+      "order": 7
+    },
+    {
+      "personId": 183968,
+      "character": "Deputy Sheriff",
+      "order": 8
+    },
+    {
+      "personId": 1392194,
+      "character": "Ticket Seller",
+      "order": 9
+    },
+    {
+      "personId": 31006,
+      "character": "Plainclothes Officer",
+      "order": 10
+    },
+    {
+      "personId": 97976,
+      "character": "Sheriff Eakers",
+      "order": 11
+    },
+    {
+      "personId": 44054,
+      "character": "Cajun Truck Driver",
+      "order": 12
+    },
+    {
+      "personId": 555084,
+      "character": "Bartender",
+      "order": 13
+    },
+    {
+      "personId": 87404,
+      "character": "Patron in Bar",
+      "order": 14
+    },
+    {
+      "personId": 6474,
+      "character": "Teenage Cowboy",
+      "order": 15
+    },
+    {
+      "personId": 3385295,
+      "character": "Waitress",
+      "order": 16
+    },
+    {
+      "personId": 3832597,
+      "character": "Biker in Bar",
+      "order": 17
+    },
+    {
+      "personId": 141418,
+      "character": "Motel Manager",
+      "order": 18
+    },
+    {
+      "personId": 91039,
+      "character": "Police Officer at Motel",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 931,
+  "sources": [
+    "cult-list"
+  ]
+}

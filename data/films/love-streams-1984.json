@@ -1,0 +1,194 @@
+{
+  "tmdbId": 52109,
+  "slug": "love-streams-1984",
+  "year": 1984,
+  "runtime": 141,
+  "originalTitle": "Love Streams",
+  "title": {
+    "en": "Love Streams",
+    "tr": "Love Streams"
+  },
+  "overview": {
+    "en": "Two closely-bound, emotionally wounded siblings reunite after years apart.",
+    "tr": "Birbirine sıkı sıkıya bağlı, duygusal olarak yaralı iki ruh, yıllar sonra yeniden bir araya gelir."
+  },
+  "poster": {
+    "tr": "/c5uyQfWvzCVsCHL13J5JBZ61SQJ.jpg",
+    "en": "/vRdMgk0Bx6NPcSxRK8O5KDVwzCe.jpg"
+  },
+  "backdrops": [
+    "/gxo0Tw1MUy2eo3s1VLfdN5ebt8G.jpg",
+    "/t1gh4IcbwWNZi3sgER6kYeOoHWE.jpg",
+    "/iotuRtv6dxbcWCkgKO88erCfRac.jpg",
+    "/4iZD3LaKh1XmW64JN9t97eeoplQ.jpg",
+    "/9KIm6VLHe0vRK57fRg7yJOAzGmk.jpg",
+    "/dkWmXxAbyvLmdKa2eqI8a9IToHi.jpg",
+    "/ipb79nkUA2qNiN7SyYKLS5evRL5.jpg",
+    "/pD5SSjVFkgfd16ejNBLFG3nNK6I.jpg",
+    "/dZKGDhxjvY5iwtjLgFEfHbYsQ4E.jpg",
+    "/cH63C3w3GkG17Oj1sx4vf4Fx5r7.jpg"
+  ],
+  "trailerKey": "X1HKmvSICFE",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    380,
+    10181,
+    13028,
+    14570,
+    15160,
+    33457
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "studios": [
+    "The Cannon Group",
+    "Golan-Globus Productions"
+  ],
+  "crew": [
+    {
+      "personId": 11147,
+      "job": "director"
+    },
+    {
+      "personId": 146712,
+      "job": "writer"
+    },
+    {
+      "personId": 11415,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 33009,
+      "job": "producer"
+    },
+    {
+      "personId": 33008,
+      "job": "producer"
+    },
+    {
+      "personId": 961119,
+      "job": "composer"
+    },
+    {
+      "personId": 11147,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4800,
+      "character": "Sarah Lawson",
+      "order": 0
+    },
+    {
+      "personId": 11147,
+      "character": "Robert Harmon",
+      "order": 1
+    },
+    {
+      "personId": 1041,
+      "character": "Susan",
+      "order": 2
+    },
+    {
+      "personId": 5950,
+      "character": "Jack Lawson",
+      "order": 3
+    },
+    {
+      "personId": 2193679,
+      "character": "Margarita",
+      "order": 4
+    },
+    {
+      "personId": 2193680,
+      "character": "Albie Swanson",
+      "order": 5
+    },
+    {
+      "personId": 164667,
+      "character": "Agnes Swanson",
+      "order": 6
+    },
+    {
+      "personId": 1504123,
+      "character": "Stepfather (Swanson)",
+      "order": 7
+    },
+    {
+      "personId": 174070,
+      "character": "Judge Dunbar",
+      "order": 8
+    },
+    {
+      "personId": 11415,
+      "character": "Milton Kravitz",
+      "order": 9
+    },
+    {
+      "personId": 1284685,
+      "character": "Sam the Lawyer",
+      "order": 10
+    },
+    {
+      "personId": 6205445,
+      "character": "Debbie Lawson",
+      "order": 11
+    },
+    {
+      "personId": 2075897,
+      "character": "The Psychiatrist",
+      "order": 12
+    },
+    {
+      "personId": 1217749,
+      "character": "Dr. Williams",
+      "order": 13
+    },
+    {
+      "personId": 3254000,
+      "character": "Billy",
+      "order": 14
+    },
+    {
+      "personId": 15850,
+      "character": "Frank",
+      "order": 15
+    },
+    {
+      "personId": 9285,
+      "character": "Ken",
+      "order": 16
+    },
+    {
+      "personId": 1467822,
+      "character": "Dottie",
+      "order": 17
+    },
+    {
+      "personId": 566359,
+      "character": "Cashier (Bowling Alley)",
+      "order": 18
+    },
+    {
+      "personId": 40351,
+      "character": "Taxi Driver (Animals)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "berlin": 1
+  },
+  "voteCount": 154,
+  "sources": [
+    "cult-list"
+  ]
+}

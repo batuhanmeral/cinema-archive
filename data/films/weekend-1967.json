@@ -1,0 +1,177 @@
+{
+  "tmdbId": 8075,
+  "slug": "weekend-1967",
+  "year": 1967,
+  "runtime": 104,
+  "originalTitle": "Week End",
+  "title": {
+    "en": "Weekend",
+    "tr": "Haftasonu"
+  },
+  "overview": {
+    "en": "A supposedly idyllic weekend trip to the countryside turns into a never-ending nightmare of traffic jams, revolution, cannibalism and murder as French bourgeois society starts to collapse under the weight of its own consumer preoccupations.",
+    "tr": "Hafta Sonu, Jean-Luc Godard’ın en vahşi ve en karışık filmi olabilir ki bu da önemli bir şey. Ancak Hafta Sonu, her şeyin ötesinde, yönetmenin en cüretkar filmi. Bu filmde her şey olabilir: Sıradan bir telefon konuşması absürd bir biçimde hoş bir müzik parçasına dönüşür, kahramanlarımız ormanda masal karakterleriyle karşılaşır ve baş karakterler gerçekten her an tüyler ürpertici sonlarla karşı karşıya gelirler. Godard’ın bir epizottan bir başka tuhaf epizota geçme kararı, cesurca ve son derece etkiliydi. Her tür ve renkten radikal yönetmen, bu anlamda Hafta Sonu’na çok şey borçlu. Ancak \"radikal\" yaftası bu film için biraz uygunsuz; çünkü bu tür bir niteleme, korkunç bir siyasileştirme ve mizahi yoksunluk anlamına gelir. Oysa geriye kalan diğer tüm unsurlar, Hafta Sonu’nun bu problemleri yaşamamasını sağlar."
+  },
+  "poster": {
+    "tr": "/e9p8VdsAKXz1GoVXD36Lg5e3YKo.jpg",
+    "en": "/e9p8VdsAKXz1GoVXD36Lg5e3YKo.jpg"
+  },
+  "backdrops": [
+    "/wq2fj2TGlr1HU4qpZlpuQNmeiCK.jpg",
+    "/lMPAKdzEMNmXBkqbB8qB3YsvI4e.jpg",
+    "/62Q0wVOwiJMNJJIs1FcfIFDZIm8.jpg",
+    "/beRcdPSD4cYcmMilMpsdrChpNGt.jpg",
+    "/edlChQ4IJtltk0qi4DMsBUPGOwU.jpg",
+    "/qJTa8pwffpMpV8BrDNKk5kuXxDv.jpg",
+    "/h3C3VEAzLOeopaDunleiNu77Ju2.jpg",
+    "/br4qnY7f28mMOLprLom0tzQzNhP.jpg",
+    "/lWRU1pjHvc1EsRmCqg0D5rtMWK8.jpg",
+    "/wrwwF8z3VrPjjSLOpQp6JtSoCPF.jpg"
+  ],
+  "trailerKey": "dFJLuhVvBPM",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    9887,
+    5756,
+    3612
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Cinecidi",
+    "Comacico",
+    "Les Films Copernic"
+  ],
+  "crew": [
+    {
+      "personId": 3529,
+      "job": "composer"
+    },
+    {
+      "personId": 3776,
+      "job": "director"
+    },
+    {
+      "personId": 3540,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3776,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 39646,
+      "character": "Corinne Durand",
+      "order": 0
+    },
+    {
+      "personId": 24381,
+      "character": "Roland Durand",
+      "order": 1
+    },
+    {
+      "personId": 16350,
+      "character": "Le Chef du Front de Libération de la Seine et Oise",
+      "order": 2
+    },
+    {
+      "personId": 25048,
+      "character": "Gros Poucet (uncredited)",
+      "order": 3
+    },
+    {
+      "personId": 24399,
+      "character": "Un Membre du FLSO (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 18228,
+      "character": "Une Activiste du FLSO / Jeune Bourgeoise Accidentée (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 128928,
+      "character": "Girl in the Woods (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 53915,
+      "character": "Man From Farmyard (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 18230,
+      "character": "Revolutionary (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 18231,
+      "character": "Mon Frère Africain (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 53914,
+      "character": "L'Auto-Stoppeur (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 17590,
+      "character": "Le Clochard (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 19084,
+      "character": "Le Pianiste (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 18232,
+      "character": "Emily Bronte (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1362245,
+      "character": "Monsieur Jojot (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 39199,
+      "character": "La Femme du Chef du FLSO (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1653,
+      "character": "Saint-Just / Le Jeune Minet du 16ème (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 272877,
+      "character": "Ernest - le Cuisinier / Le Boucher du FLSO (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 39673,
+      "character": "Joseph Balsamo (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1902548,
+      "character": "(uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 319,
+  "sources": [
+    "cult-list"
+  ]
+}

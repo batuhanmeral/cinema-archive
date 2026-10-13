@@ -1,0 +1,96 @@
+{
+  "tmdbId": 48755,
+  "slug": "beau-hunks-1931",
+  "year": 1931,
+  "runtime": 37,
+  "originalTitle": "Beau Hunks",
+  "title": {
+    "en": "Beau Hunks",
+    "tr": "Beau Hunks"
+  },
+  "overview": {
+    "en": "Stan and Ollie join the French Foreign Legion after Ollie's sweetheart rejects him.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/1q1NrmzWM0H6o1EYZsc0LvXDlSU.jpg",
+    "en": "/5E0kVVcIUa4vVIi3tRNOfUaiokC.jpg"
+  },
+  "backdrops": [
+    "/cW8ARsP8kbIiMDX2ndsH5phMOnH.jpg",
+    "/lOew1kavE8xLIRbPZGIKHrqSKHd.jpg"
+  ],
+  "trailerKey": "G0PHg51uDJ0",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    12999,
+    263548
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Hal Roach Studios"
+  ],
+  "crew": [
+    {
+      "personId": 131383,
+      "job": "writer"
+    },
+    {
+      "personId": 131405,
+      "job": "director"
+    },
+    {
+      "personId": 33223,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 89670,
+      "character": "Stan",
+      "order": 0
+    },
+    {
+      "personId": 78057,
+      "character": "Ollie",
+      "order": 1
+    },
+    {
+      "personId": 30017,
+      "character": "Commandant",
+      "order": 2
+    },
+    {
+      "personId": 141069,
+      "character": "Captain Schultz",
+      "order": 3
+    },
+    {
+      "personId": 141068,
+      "character": "Ft. Arid commander",
+      "order": 4
+    },
+    {
+      "personId": 131405,
+      "character": "Chief of the Riff Raff (as Abdul Kasim K'Horne)",
+      "order": 5
+    },
+    {
+      "personId": 82315,
+      "character": "Jeanie Weenie - in Photo",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 72,
+  "sources": [
+    "cult-list"
+  ]
+}

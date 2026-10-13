@@ -1,0 +1,200 @@
+{
+  "tmdbId": 8843,
+  "slug": "the-cell-2000",
+  "year": 2000,
+  "runtime": 107,
+  "originalTitle": "The Cell",
+  "title": {
+    "en": "The Cell",
+    "tr": "Hücre"
+  },
+  "overview": {
+    "en": "A psychotherapist journeys inside the mind of a comatose serial killer in the hopes of saving his latest victim.",
+    "tr": "Bir seri katilin beyninin karanlık ve tehlikeli labirentlerinde şok edici bir yolculuğa hazır mısınız? Bu benzersiz yolculuğu yapan kişi, yeni teknoloji destekli bir terapi üzerinde çalışmakta olan psikolog Catherine Deane (J.LOPEZ)'dir. Bu yeni terapi yöntemi sayesinde Catherine, rüyalar ve derinlerde kalmış düşünceler de dahil olmak üzere bir başkasının bilinçaltına girebilmektedir. Catherine, bu yöntemi sadece komada olan bir çocuğu dünyaya ve acı çeken ailesine geri döndürmék umuduyla kullanmıştır. Ancak seri katil Carl Stargher (V.D'ONOFRIO) düzenlenen bir operasyon sırasında benzer şekilde komaya girince, FBI ajanı Peter Novak, (V. VAUGN) katilin tuzaklarla dolu bir hücrede hala hayatta olan son kurbanını bulabilmek umuduyla en son çare olarak Catherine'e başvurur. Catherine, bu zamana karşı yarışı kazanmak ve Stargher'in ölümcül ininin yerini bulabilmek için inanılmaz tehlikeli bir görevi kabul eder: Katilin çılgın zihninin derinliklerine girmeye çalışacaktır..."
+  },
+  "poster": {
+    "tr": "/yvGIB1FQMw8XyNS5QkJgjXz6RHA.jpg",
+    "en": "/kfYVxvDDAJoFq2knHUzAZP09pAc.jpg"
+  },
+  "backdrops": [
+    "/2G20ecZ4HrWWmxn2gBdN2gxcxTy.jpg",
+    "/nB7BZKOsA5FeB9KvGQyjxSP6ooP.jpg",
+    "/6LmXEiZWyVSaYxgwPNy4FZZb1sd.jpg",
+    "/aFcGM0x7ClfSVHPtw7N4jkVqpzE.jpg",
+    "/nD53dTZsByLAR4C8GVSnQ4faixY.jpg",
+    "/roQIkmpUDYQU8hlQQ5pf7cfefyq.jpg",
+    "/iFJ7GEIjIysbEJ36TohH28x6Nyu.jpg",
+    "/65jO0zwVc9KglcptTvPgWApq9wh.jpg",
+    "/20fegJmoeqoF7ejevsF4zY6sg6A.jpg",
+    "/pITBVDPEamBdmGvVr3J8QzgSXyJ.jpg"
+  ],
+  "trailerKey": "44jpefZclO4",
+  "genreIds": [
+    27,
+    878,
+    53
+  ],
+  "keywordIds": [
+    387,
+    222,
+    793,
+    4563,
+    2726,
+    6259,
+    1812,
+    5340,
+    2673,
+    10292,
+    9887,
+    6373,
+    10714,
+    18034,
+    184312,
+    234868
+  ],
+  "countries": [
+    "US",
+    "DE"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Caro-McLeod",
+    "Katira Productions",
+    "New Line Cinema"
+  ],
+  "crew": [
+    {
+      "personId": 56515,
+      "job": "producer"
+    },
+    {
+      "personId": 2445,
+      "job": "producer"
+    },
+    {
+      "personId": 117,
+      "job": "composer"
+    },
+    {
+      "personId": 56517,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 56512,
+      "job": "director"
+    },
+    {
+      "personId": 6854,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16866,
+      "character": "Catherine Deane",
+      "order": 0
+    },
+    {
+      "personId": 4937,
+      "character": "Peter Novak",
+      "order": 1
+    },
+    {
+      "personId": 7132,
+      "character": "Carl Rudolph Stargher",
+      "order": 2
+    },
+    {
+      "personId": 56513,
+      "character": "Anne Marie Vicksey",
+      "order": 3
+    },
+    {
+      "personId": 16433,
+      "character": "Teddy Lee",
+      "order": 4
+    },
+    {
+      "personId": 94509,
+      "character": "Edward Baines",
+      "order": 5
+    },
+    {
+      "personId": 19152,
+      "character": "Henry West",
+      "order": 6
+    },
+    {
+      "personId": 17352,
+      "character": "Dr. Miriam Kent",
+      "order": 7
+    },
+    {
+      "personId": 19468,
+      "character": "Dr. Barry Cooperman",
+      "order": 8
+    },
+    {
+      "personId": 1475,
+      "character": "Ella Baines",
+      "order": 9
+    },
+    {
+      "personId": 5274,
+      "character": "Lucien Baines",
+      "order": 10
+    },
+    {
+      "personId": 4177,
+      "character": "Gordon Ramsey",
+      "order": 11
+    },
+    {
+      "personId": 14329,
+      "character": "Cole",
+      "order": 12
+    },
+    {
+      "personId": 61111,
+      "character": "Julia Hickson",
+      "order": 13
+    },
+    {
+      "personId": 66499,
+      "character": "Mrs. Hickson",
+      "order": 14
+    },
+    {
+      "personId": 9785,
+      "character": "Agent Stockwell",
+      "order": 15
+    },
+    {
+      "personId": 21675,
+      "character": "Agent Brock",
+      "order": 16
+    },
+    {
+      "personId": 400821,
+      "character": "Officer Alexander",
+      "order": 17
+    },
+    {
+      "personId": 3201,
+      "character": "Dr. Reid",
+      "order": 18
+    },
+    {
+      "personId": 133,
+      "character": "Julia Hickson's Fiancee (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1809,
+  "sources": [
+    "cult-list"
+  ]
+}

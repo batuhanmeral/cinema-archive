@@ -1,0 +1,213 @@
+{
+  "tmdbId": 404,
+  "slug": "the-straight-story-1999",
+  "year": 1999,
+  "runtime": 112,
+  "originalTitle": "The Straight Story",
+  "title": {
+    "en": "The Straight Story",
+    "tr": "Straight'in Hikayesi"
+  },
+  "overview": {
+    "en": "Retired farmer and widower Alvin Straight learns one day that his estranged brother Lyle has suffered a severe stroke. Alvin is determined to make things right with Lyle while he still can, but his brother lives in Wisconsin, while Alvin is stuck in Iowa with no car and no driver's license. He then has the idea of making the trip on his old lawnmower, thus beginning a picturesque and at times deeply spiritual odyssey.",
+    "tr": "Alvin Straight ve kızı küçük bir kasabada yaşamaktadır. Az paraları vardır ve Alvin şeker hastasıdır. Araba kullanamaz, kendi başına yürüyemeyecek haldedir ama söz dinlemez ve inatçı biridir. Eve gelen bir telefonla 10 yıldır görmediği abisinin kalp krizi geçirdiğini öğrenir. Bunun üzerine Alvin macerasına başlar, hem de bir çim biçme makinasının üstünde, ağabeyini ziyaret etmek üzere yola çıkar... Yüzlerce kilometre, bir sürü yeni insan, 6 haftalık bir macera. Sonuçta Alvin hedefine ulaşabilecek mi?"
+  },
+  "poster": {
+    "tr": "/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg",
+    "en": "/tT9cMiVDdtlcdZxOoFy3VRmEoKk.jpg"
+  },
+  "backdrops": [
+    "/1S81PpyGwS8eVx4W75uSKzMw4B0.jpg",
+    "/veiWT3UYVvEOGCfGZLGDJtjJvdV.jpg",
+    "/mtTYglWsthiPU1Au6Afpknoh4Eu.jpg",
+    "/71uMCzoI1HiwZqeNx3wNJDOq86v.jpg",
+    "/3j1krcE0sqCMYpILu3z9EzFSU1B.jpg",
+    "/v4bvufFPTnDuNaTUeVERqxHgmeV.jpg",
+    "/5pOLDgUqjUd4Ks0DfXRwUrHM2uh.jpg",
+    "/r2iCMSgMfndlH4tr1oQMSAnDDLj.jpg",
+    "/dHqlIS211ycPaD1DqOj0PCKq0fV.jpg",
+    "/5ySKRrkxlEyLq0iVkA5okeJ5Gpx.jpg"
+  ],
+  "trailerKey": "lcMyFckt_Hs",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    380,
+    3446,
+    2024,
+    2026,
+    2029,
+    4232,
+    5565,
+    9672,
+    7312,
+    10235,
+    18035,
+    164246,
+    167043,
+    189092,
+    209673,
+    218099,
+    223232,
+    240422,
+    243959,
+    255668,
+    325837,
+    356405
+  ],
+  "countries": [
+    "US",
+    "GB",
+    "FR"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Les Films Alain Sarde",
+    "Picture Factory",
+    "Le Studio Canal+"
+  ],
+  "crew": [
+    {
+      "personId": 5602,
+      "job": "director"
+    },
+    {
+      "personId": 5625,
+      "job": "producer"
+    },
+    {
+      "personId": 5604,
+      "job": "producer"
+    },
+    {
+      "personId": 5629,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5628,
+      "job": "composer"
+    },
+    {
+      "personId": 5603,
+      "job": "writer"
+    },
+    {
+      "personId": 5604,
+      "job": "writer"
+    },
+    {
+      "personId": 3560,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5605,
+      "character": "Alvin",
+      "order": 0
+    },
+    {
+      "personId": 5606,
+      "character": "Rose",
+      "order": 1
+    },
+    {
+      "personId": 5607,
+      "character": "Dorothy",
+      "order": 2
+    },
+    {
+      "personId": 5608,
+      "character": "Bud",
+      "order": 3
+    },
+    {
+      "personId": 5609,
+      "character": "Sig",
+      "order": 4
+    },
+    {
+      "personId": 5610,
+      "character": "Nurse",
+      "order": 5
+    },
+    {
+      "personId": 5611,
+      "character": "Doctor Gibbons",
+      "order": 6
+    },
+    {
+      "personId": 3896717,
+      "character": "Brenda",
+      "order": 7
+    },
+    {
+      "personId": 5612,
+      "character": "Pete",
+      "order": 8
+    },
+    {
+      "personId": 5613,
+      "character": "Apple",
+      "order": 9
+    },
+    {
+      "personId": 5614,
+      "character": "Bus Driver",
+      "order": 10
+    },
+    {
+      "personId": 5615,
+      "character": "Woman on Bus",
+      "order": 11
+    },
+    {
+      "personId": 5616,
+      "character": "Tom the John Deere Dealer",
+      "order": 12
+    },
+    {
+      "personId": 5675,
+      "character": "Crystal",
+      "order": 13
+    },
+    {
+      "personId": 1695842,
+      "character": "Steve",
+      "order": 14
+    },
+    {
+      "personId": 1850925,
+      "character": "Rat",
+      "order": 15
+    },
+    {
+      "personId": 145204,
+      "character": "Deer Woman",
+      "order": 16
+    },
+    {
+      "personId": 5617,
+      "character": "Danny Riordan",
+      "order": 17
+    },
+    {
+      "personId": 3912,
+      "character": "Darla Riordan",
+      "order": 18
+    },
+    {
+      "personId": 5618,
+      "character": "Janet Johnson",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1907,
+  "sources": [
+    "cult-list"
+  ]
+}

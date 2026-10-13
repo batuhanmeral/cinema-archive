@@ -1,0 +1,199 @@
+{
+  "tmdbId": 3034,
+  "slug": "young-frankenstein-1974",
+  "year": 1974,
+  "runtime": 106,
+  "originalTitle": "Young Frankenstein",
+  "title": {
+    "en": "Young Frankenstein",
+    "tr": "Genç Frankenstein"
+  },
+  "overview": {
+    "en": "A young neurosurgeon inherits the castle of his grandfather, the famous Dr. Victor von Frankenstein. In the castle he finds a funny hunchback, a pretty lab assistant and the elderly housekeeper. Young Frankenstein believes that the work of his grandfather was delusional, but when he discovers the book where the mad doctor described his reanimation experiment, he suddenly changes his mind.",
+    "tr": "Frederick Frankenstein, Amerika’da nöroloji alanında çalışmalar yapan genç ve azimli bir doktordur. Mesleğine ve pozitivizme aşık Frederick’in hayattaki en büyük trajedisi, ölülerle yaptığı deneyler yüzünden büyük ve kötü bir şöhrete sahip Baron Frankenstein’ın torunu olmasıdır. Büyük dedesinin çalışmalarını biilimdışı gören ve bu çalışmalarla ilgili tüm bağlarını koparmak isteyen doktorun hayatı, Avrupa’dan gelen egzantrik bir avukatın kendisini görmesiyle baştan aşağı değişecektir. Avukatın bilgilendirdiği üzere, Frederick’e büyük dedesinin şatosu miras kalmıştır ve acilen anavatanı Transilvanya’ya gitmesi gerekmektedir. Aile mirasını ziyarete giden Frederick, Frankenstein’ın şatosunda uçarı kambur Igor ve güzel asistan Inga ile tanışır. Frederick, Igor ve Inga; kısa zamanda Baron Frankenstein’ın gizli çalışmalarına ulaşacak ve tarihin en ünlü deli biliminsanının deneyini yinelemeye çalışacaklardır..."
+  },
+  "poster": {
+    "tr": "/bW1adKNRVlb74JqJ5f5GxLokDB0.jpg",
+    "en": "/tQJAWbIjvvqVKLLbIZHtwGw2HTf.jpg"
+  },
+  "backdrops": [
+    "/wKSJLUgJtCMSZOIU1By8g5FSaHk.jpg",
+    "/14AH4fovT9lj5wFXiXsgBcEKHFH.jpg",
+    "/rsI82F7DadIQcrZyPbuwmkhN5ty.jpg",
+    "/4PILpf6iCTyHgFFhPrHqbvqimkR.jpg",
+    "/oWKxTwn2h1Lx6jWqKe4pVTKUmjg.jpg",
+    "/39ma4WTBcFruu7WCOLZrfANI558.jpg",
+    "/hTvCGwbrpSgZ5QCZnYHM12bv7DH.jpg",
+    "/5OlGjxsZBH7OWkUc66KSaFecyU4.jpg",
+    "/zTpdmnUvOUEJEDU3ujPVVDjEgLG.jpg",
+    "/9waotgF1LZMzzwhmIsMIcxyhwv6.jpg"
+  ],
+  "trailerKey": "jAyNV6UZqOg",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    1299,
+    1706,
+    3487,
+    3335,
+    3098,
+    3582,
+    9755,
+    10125,
+    10124,
+    11931,
+    12416,
+    12999,
+    14760,
+    233588,
+    258464,
+    283953,
+    325844
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "studios": [
+    "Crossbow Productions",
+    "Gruskoff/Venture Films",
+    "Jouer Limited"
+  ],
+  "crew": [
+    {
+      "personId": 14639,
+      "job": "director"
+    },
+    {
+      "personId": 3460,
+      "job": "writer"
+    },
+    {
+      "personId": 14639,
+      "job": "writer"
+    },
+    {
+      "personId": 12116,
+      "job": "producer"
+    },
+    {
+      "personId": 6847,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 719,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3460,
+      "character": "Dr. Frankenstein",
+      "order": 0
+    },
+    {
+      "personId": 1039,
+      "character": "Monster",
+      "order": 1
+    },
+    {
+      "personId": 29802,
+      "character": "Igor",
+      "order": 2
+    },
+    {
+      "personId": 29803,
+      "character": "Elizabeth",
+      "order": 3
+    },
+    {
+      "personId": 9599,
+      "character": "Frau Blücher",
+      "order": 4
+    },
+    {
+      "personId": 8437,
+      "character": "Inga",
+      "order": 5
+    },
+    {
+      "personId": 9601,
+      "character": "Inspector Kemp",
+      "order": 6
+    },
+    {
+      "personId": 29283,
+      "character": "Herr Falkstein",
+      "order": 7
+    },
+    {
+      "personId": 152711,
+      "character": "Mr. Hilltop",
+      "order": 8
+    },
+    {
+      "personId": 111383,
+      "character": "Medical Student",
+      "order": 9
+    },
+    {
+      "personId": 213641,
+      "character": "Sadistic Jailor",
+      "order": 10
+    },
+    {
+      "personId": 13392,
+      "character": "Village Elder",
+      "order": 11
+    },
+    {
+      "personId": 1068894,
+      "character": "Little Girl",
+      "order": 12
+    },
+    {
+      "personId": 44823,
+      "character": "Gravedigger",
+      "order": 13
+    },
+    {
+      "personId": 1068895,
+      "character": "Gravedigger",
+      "order": 14
+    },
+    {
+      "personId": 1068896,
+      "character": "Villager",
+      "order": 15
+    },
+    {
+      "personId": 134613,
+      "character": "Orderly in Frankenstein's Class",
+      "order": 16
+    },
+    {
+      "personId": 2333366,
+      "character": "Villager",
+      "order": 17
+    },
+    {
+      "personId": 19552,
+      "character": "Train Conductor",
+      "order": 18
+    },
+    {
+      "personId": 2333367,
+      "character": "Villager",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3518,
+  "sources": [
+    "cult-list"
+  ]
+}

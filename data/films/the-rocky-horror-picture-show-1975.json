@@ -1,0 +1,212 @@
+{
+  "tmdbId": 36685,
+  "slug": "the-rocky-horror-picture-show-1975",
+  "year": 1975,
+  "runtime": 100,
+  "originalTitle": "The Rocky Horror Picture Show",
+  "title": {
+    "en": "The Rocky Horror Picture Show",
+    "tr": "The Rocky Horror Picture Show"
+  },
+  "overview": {
+    "en": "After getting a flat tire in the middle of nowhere, newly engaged couple Brad and Janet encounter the eerie mansion of the flamboyant, seductive Dr Frank-N-Furter and a variety of eccentric characters. Through elaborate dance and rock music, the mad scientist unveils his latest creation: a perfect, muscular man.",
+    "tr": "Yeni evlenmiş olan Janet Weiss (Susan Sarandon) ve Brad Majors (Barry Bostwick) yağmurlu bir gecede yollarını kaybeder. Ardından Weiss ve Majors bir şatoya sığınırlar. Bu şatonun sahibi, travesti bir bilimadamı olan Dr. Frank-N-Furter'dır (Tim Curry). Dr. Frank-N-Furter, o gece Rocky Horror adında bir aşk kölesi yaratacağını açıklar. Janet Weiss ve Brad Majors'ın saklı kalmış ve bastırılmış duyguları ortaya çıkar."
+  },
+  "poster": {
+    "tr": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg",
+    "en": "/3pyE6ZqDbuJi7zrNzzQzcKTWdmN.jpg"
+  },
+  "backdrops": [
+    "/meQtnEJ4HUFBQXKnJGJ5JzbB6cj.jpg",
+    "/iIM5765g6PJniZ9LgSiqt7iaFde.jpg",
+    "/a53EGF0NzHRGKuRItsrtXBM8FCD.jpg",
+    "/5DU39tmUzbXtD6UXgm7iZqxpwoV.jpg",
+    "/idGAfZk98uBkiY4R1qO5fnacanW.jpg",
+    "/xPGiAPvneeicUxvJJfBpdnO99s.jpg",
+    "/A3kZ5Z3pvj6FdlJTdwnSqB2feyU.jpg",
+    "/hezZWaqj65ZvRBlzHSLg8AyvA1O.jpg",
+    "/eZl6fDTCSY4tSP6vmbTrA566XiR.jpg",
+    "/nbscu7nWuPJl7pTC602xKRhvfdf.jpg"
+  ],
+  "trailerKey": "4plqh6obZW4",
+  "genreIds": [
+    35,
+    878,
+    27
+  ],
+  "keywordIds": [
+    566,
+    578,
+    108,
+    1521,
+    272,
+    640,
+    2426,
+    3335,
+    3182,
+    3098,
+    5906,
+    4344,
+    10181,
+    12090,
+    155493,
+    155710,
+    157096,
+    164218,
+    200234,
+    239187,
+    281237,
+    303310,
+    311315,
+    324263,
+    325810,
+    325856
+  ],
+  "countries": [
+    "GB",
+    "US",
+    "AN"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "studios": [
+    "20th Century Fox",
+    "Lou Adler Productions",
+    "Michael White Productions"
+  ],
+  "crew": [
+    {
+      "personId": 154404,
+      "job": "producer"
+    },
+    {
+      "personId": 13484,
+      "job": "writer"
+    },
+    {
+      "personId": 13484,
+      "job": "director"
+    },
+    {
+      "personId": 13474,
+      "job": "writer"
+    },
+    {
+      "personId": 39023,
+      "job": "composer"
+    },
+    {
+      "personId": 307,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13472,
+      "character": "Dr. Frank-N-Furter",
+      "order": 0
+    },
+    {
+      "personId": 4038,
+      "character": "Janet Weiss",
+      "order": 1
+    },
+    {
+      "personId": 13473,
+      "character": "Brad Majors",
+      "order": 2
+    },
+    {
+      "personId": 13474,
+      "character": "Riff Raff",
+      "order": 3
+    },
+    {
+      "personId": 13475,
+      "character": "Magenta",
+      "order": 4
+    },
+    {
+      "personId": 13476,
+      "character": "Columbia",
+      "order": 5
+    },
+    {
+      "personId": 1137209,
+      "character": "Dr. Everett V. Scott",
+      "order": 6
+    },
+    {
+      "personId": 1597838,
+      "character": "Rocky Horror",
+      "order": 7
+    },
+    {
+      "personId": 7470,
+      "character": "Eddie",
+      "order": 8
+    },
+    {
+      "personId": 10074,
+      "character": "The Criminologist",
+      "order": 9
+    },
+    {
+      "personId": 13479,
+      "character": "Ralph Hapschatt",
+      "order": 10
+    },
+    {
+      "personId": 1304766,
+      "character": "Betty Munroe",
+      "order": 11
+    },
+    {
+      "personId": 1628117,
+      "character": "The Transylvanians",
+      "order": 12
+    },
+    {
+      "personId": 133499,
+      "character": "The Transylvanians",
+      "order": 13
+    },
+    {
+      "personId": 13483,
+      "character": "The Transylvanians",
+      "order": 14
+    },
+    {
+      "personId": 149138,
+      "character": "The Transylvanians",
+      "order": 15
+    },
+    {
+      "personId": 2165645,
+      "character": "The Transylvanians",
+      "order": 16
+    },
+    {
+      "personId": 2165646,
+      "character": "The Transylvanians",
+      "order": 17
+    },
+    {
+      "personId": 53488,
+      "character": "The Transylvanians",
+      "order": 18
+    },
+    {
+      "personId": 2165647,
+      "character": "The Transylvanians",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3297,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "tmdbId": 16271,
+  "slug": "massacre-at-central-high-1976",
+  "year": 1976,
+  "runtime": 87,
+  "originalTitle": "Massacre at Central High",
+  "title": {
+    "en": "Massacre at Central High",
+    "tr": "Massacre at Central High"
+  },
+  "overview": {
+    "en": "Maimed by bullies at a California high school, a new student engineers acts of revenge.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/8NFPZ4y6PPaKrrsLZJaRM2VeTCO.jpg",
+    "en": "/mCsvLksyef4b7In6aBznVA3BuyX.jpg"
+  },
+  "backdrops": [
+    "/qxR8bAcHREhV6G2fTH5FSKvqkHg.jpg",
+    "/x62bv4QulkDRZGcWudRk80cFTok.jpg",
+    "/A8tvQLoPEYyXrHCEs8HnSU9sN6z.jpg",
+    "/zp3CXHPJMK2YeVeZSeGWJ3z5BUK.jpg",
+    "/x8hsIBA7rgL1KecBGlRJaUTOkXu.jpg",
+    "/bZkA3N6BVBy9vrx3WXRtJDBGncx.jpg",
+    "/4xEeQdyRO2rzxqiqq41VUknMDJD.jpg",
+    "/wQZAlbN3G6L0Mhsaiq791y2JShP.jpg",
+    "/78NitenMzoA4nbc1UkhuUKd7LiR.jpg",
+    "/shWZZvtTySFmWVoB3uXqdVAhSlh.jpg"
+  ],
+  "trailerKey": "WG1zSLNbpvw",
+  "genreIds": [
+    27,
+    53
+  ],
+  "keywordIds": [
+    6270,
+    9748,
+    9826,
+    160140
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Evan"
+  ],
+  "crew": [
+    {
+      "personId": 229197,
+      "job": "writer"
+    },
+    {
+      "personId": 229197,
+      "job": "director"
+    },
+    {
+      "personId": 1234492,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1230790,
+      "job": "composer"
+    },
+    {
+      "personId": 1396700,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 162280,
+      "character": "David",
+      "order": 0
+    },
+    {
+      "personId": 21479,
+      "character": "Mark",
+      "order": 1
+    },
+    {
+      "personId": 62036,
+      "character": "Spoony",
+      "order": 2
+    },
+    {
+      "personId": 2174,
+      "character": "Theresa",
+      "order": 3
+    },
+    {
+      "personId": 182783,
+      "character": "Bruce",
+      "order": 4
+    },
+    {
+      "personId": 152705,
+      "character": "Craig",
+      "order": 5
+    },
+    {
+      "personId": 1064907,
+      "character": "Rodney",
+      "order": 6
+    },
+    {
+      "personId": 268618,
+      "character": "Jane",
+      "order": 7
+    },
+    {
+      "personId": 49936,
+      "character": "Paul",
+      "order": 8
+    },
+    {
+      "personId": 158945,
+      "character": "Arthur",
+      "order": 9
+    },
+    {
+      "personId": 45480,
+      "character": "Mary",
+      "order": 10
+    },
+    {
+      "personId": 1806640,
+      "character": "Oscar",
+      "order": 11
+    },
+    {
+      "personId": 228434,
+      "character": "Harvey",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 76,
+  "sources": [
+    "cult-list"
+  ]
+}

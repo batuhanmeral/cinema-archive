@@ -1,0 +1,215 @@
+{
+  "tmdbId": 11072,
+  "slug": "blazing-saddles-1974",
+  "year": 1974,
+  "runtime": 93,
+  "originalTitle": "Blazing Saddles",
+  "title": {
+    "en": "Blazing Saddles",
+    "tr": "Gümüş Eyerler"
+  },
+  "overview": {
+    "en": "Crafty railroad worker Bart becomes the first Black sheriff of Rock Ridge, a frontier town about to be destroyed in order to make way for a new railroad. Initially, the citizens of Rock Ridge harbor a racial bias toward their new protector. However, they warm to him after realizing that Bart and his perpetually drunk gunfighter friend Jim are their only defense against a wave of thugs sent to rid the town of its population.",
+    "tr": "Sakin Rock Ridge kasabasının tam ortasından demiryolu geçmesi gerekmektedir. Bölgedeki toprakların fiyatları birden artacaktır - fakat kasaba halkının zaten kendilerine ait toprakları vardır. Onları yerlerinden nasıl çıkarırsınız? Elinizdeki en korkunç, en kötü, en rezil çeteyi üstlerine salarak... ve en fazla 24 saat dayanabileceğini düşündüğünüz bir şerifi görevlendirerek."
+  },
+  "poster": {
+    "tr": "/4Q8ztEDKY07m0MofisE6pp7qKYx.jpg",
+    "en": "/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg"
+  },
+  "backdrops": [
+    "/rNux3fw0jC9wOi3oIxJH2X1Sbap.jpg",
+    "/tCitxLKMzCxexGlSg4g4IDVC3RM.jpg",
+    "/gasFjtEc4Scc4qww3jUVR0j32Zi.jpg",
+    "/tnYAcNEbTQ3U7WgyKcbcxjoO9l6.jpg",
+    "/syUzOlwPqM8pGRhUxPOnmrcGcHb.jpg",
+    "/59Qy9jcyvDhIJ4kqnlYZfxukTGl.jpg",
+    "/ll0cm9AWMfcY1zhqyuLCetVso1P.jpg",
+    "/ezChukgV6N9TlSu9NelInUzHCL7.jpg",
+    "/2SVPqerdmdmZhCMeVUe2iLrKeaH.jpg",
+    "/70BCpiifCQTeMs3lcaRscBfGym3.jpg"
+  ],
+  "trailerKey": "tb2fYUKJdN8",
+  "genreIds": [
+    37,
+    35
+  ],
+  "keywordIds": [
+    5744,
+    1582,
+    1419,
+    4344,
+    8201,
+    9755,
+    7464,
+    8009,
+    11687,
+    11931,
+    12425,
+    18044,
+    155291,
+    160583,
+    160588,
+    160589,
+    160597,
+    236316,
+    254167,
+    309974
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "yi",
+    "de"
+  ],
+  "studios": [
+    "Crossbow Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 14639,
+      "job": "director"
+    },
+    {
+      "personId": 9309,
+      "job": "writer"
+    },
+    {
+      "personId": 719,
+      "job": "composer"
+    },
+    {
+      "personId": 67675,
+      "job": "producer"
+    },
+    {
+      "personId": 14431,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 14639,
+      "job": "writer"
+    },
+    {
+      "personId": 111907,
+      "job": "writer"
+    },
+    {
+      "personId": 41550,
+      "job": "writer"
+    },
+    {
+      "personId": 1217196,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 68091,
+      "character": "Bart",
+      "order": 0
+    },
+    {
+      "personId": 3460,
+      "character": "Jim",
+      "order": 1
+    },
+    {
+      "personId": 14253,
+      "character": "Taggart",
+      "order": 2
+    },
+    {
+      "personId": 13640,
+      "character": "Hedley Lamarr",
+      "order": 3
+    },
+    {
+      "personId": 29803,
+      "character": "Lili Von Shtupp",
+      "order": 4
+    },
+    {
+      "personId": 14639,
+      "character": "William Le Petomane / Indian Chief",
+      "order": 5
+    },
+    {
+      "personId": 133952,
+      "character": "Lyle",
+      "order": 6
+    },
+    {
+      "personId": 73234,
+      "character": "Mongo",
+      "order": 7
+    },
+    {
+      "personId": 1232,
+      "character": "Olson Johnson",
+      "order": 8
+    },
+    {
+      "personId": 152711,
+      "character": "Rev. Johnson",
+      "order": 9
+    },
+    {
+      "personId": 12296,
+      "character": "Howard Johnson",
+      "order": 10
+    },
+    {
+      "personId": 9597,
+      "character": "Van Johnson",
+      "order": 11
+    },
+    {
+      "personId": 16556,
+      "character": "Gabby Johnson",
+      "order": 12
+    },
+    {
+      "personId": 80626,
+      "character": "Harriett Johnson",
+      "order": 13
+    },
+    {
+      "personId": 151849,
+      "character": "Dr. Sam Johnson",
+      "order": 14
+    },
+    {
+      "personId": 981005,
+      "character": "Charlie",
+      "order": 15
+    },
+    {
+      "personId": 101461,
+      "character": "Miss Stein",
+      "order": 16
+    },
+    {
+      "personId": 31208,
+      "character": "Gum Chewer",
+      "order": 17
+    },
+    {
+      "personId": 6844,
+      "character": "Buddy Bizarre",
+      "order": 18
+    },
+    {
+      "personId": 240728,
+      "character": "Count Basie",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2196,
+  "sources": [
+    "cult-list"
+  ]
+}

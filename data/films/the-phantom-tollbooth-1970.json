@@ -1,0 +1,168 @@
+{
+  "tmdbId": 28476,
+  "slug": "the-phantom-tollbooth-1970",
+  "year": 1970,
+  "runtime": 89,
+  "originalTitle": "The Phantom Tollbooth",
+  "title": {
+    "en": "The Phantom Tollbooth",
+    "tr": "The Phantom Tollbooth"
+  },
+  "overview": {
+    "en": "A young boy named Milo unexpectedly receives a magic tollbooth and, out of boredom, drives through it and enters a fantastical, animated kingdom in turmoil following the loss of its princesses, Rhyme and Reason.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/totkDxL4QApB4xFr7gc1EdGkz7J.jpg",
+    "en": "/pBhvLo2CGu68Xt9S0ec1BvkxFf2.jpg"
+  },
+  "backdrops": [
+    "/9S49TBx6VhoLcBkjWDEBWjqYGK6.jpg"
+  ],
+  "trailerKey": "pZ1ldmMzmvk",
+  "genreIds": [
+    16,
+    12,
+    35,
+    14,
+    10751
+  ],
+  "keywordIds": [
+    3925,
+    4344,
+    15101,
+    158141,
+    179110,
+    209220,
+    210246
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer",
+    "MGM Animation/Visual Arts"
+  ],
+  "crew": [
+    {
+      "personId": 980524,
+      "job": "director"
+    },
+    {
+      "personId": 100890,
+      "job": "director"
+    },
+    {
+      "personId": 224550,
+      "job": "producer"
+    },
+    {
+      "personId": 100888,
+      "job": "producer"
+    },
+    {
+      "personId": 100890,
+      "job": "producer"
+    },
+    {
+      "personId": 943977,
+      "job": "composer"
+    },
+    {
+      "personId": 69572,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 100888,
+      "job": "writer"
+    },
+    {
+      "personId": 1612325,
+      "job": "writer"
+    },
+    {
+      "personId": 100888,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 35686,
+      "character": "Milo",
+      "order": 0
+    },
+    {
+      "personId": 33923,
+      "character": "Officer Short Shrift / Dodecahedron / Demon of Insincerity (voice)",
+      "order": 1
+    },
+    {
+      "personId": 109969,
+      "character": "Whether Man / Senses Taker / Terrible Trivium / Gelatinous Giant (voice)",
+      "order": 2
+    },
+    {
+      "personId": 61676,
+      "character": "Awful DYNN (voice)",
+      "order": 3
+    },
+    {
+      "personId": 16421,
+      "character": "King Azaz / The MathemaGician (voice)",
+      "order": 4
+    },
+    {
+      "personId": 15098,
+      "character": "Ralph / Faintly Macabre / Princess of Pure Reason (voice)",
+      "order": 5
+    },
+    {
+      "personId": 1539821,
+      "character": "Princess of Sweet Rhyme (voice)",
+      "order": 6
+    },
+    {
+      "personId": 121617,
+      "character": "Spelling Bee / Chroma (voice)",
+      "order": 7
+    },
+    {
+      "personId": 116679,
+      "character": "akofonous A. Dischord / Tollbooth Speaker (voice)",
+      "order": 8
+    },
+    {
+      "personId": 85774,
+      "character": "Tock the Watchdog (voice)",
+      "order": 9
+    },
+    {
+      "personId": 2648,
+      "character": "Humbug (voice)",
+      "order": 10
+    },
+    {
+      "personId": 2551742,
+      "character": "Ralph (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 100888,
+      "character": "Cable Car Passenger (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 150739,
+      "character": "Lethargian (voice, uncredited)",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 86,
+  "sources": [
+    "cult-list"
+  ]
+}

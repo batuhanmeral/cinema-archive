@@ -1,0 +1,205 @@
+{
+  "tmdbId": 11163,
+  "slug": "satyricon-1969",
+  "year": 1969,
+  "runtime": 129,
+  "originalTitle": "Fellini – satyricon",
+  "title": {
+    "en": "Satyricon",
+    "tr": "Fellini – satyricon"
+  },
+  "overview": {
+    "en": "After his young lover, Gitone, leaves him for another man, Encolpio decides to kill himself, but a sudden earthquake destroys his home before he has a chance to do so. Now wandering around Rome in the time of Nero, Encolpio encounters one bizarre and surreal scene after another.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/83urUMl04GtwuuGIFpezqzi7n6m.jpg",
+    "en": "/xLURjkxtqELcbBI3OiZeqRiW3hR.jpg"
+  },
+  "backdrops": [
+    "/ssP4jPzDz1Y0wp2eDxgZfGq6v9Y.jpg",
+    "/kPdvXDdXIbuKKAt9gEy13FNYgbm.jpg",
+    "/t0OjVi2Iv2CSMq68sGPd09GQb3k.jpg",
+    "/z8bnK5mSvjMoUWXjOReAb3HSZ9Y.jpg",
+    "/c453DF1euIHnhUgdU1F0Eq1juQq.jpg",
+    "/eq18QnxHVd87A2OzX3Xz9wmEnXY.jpg",
+    "/tMP0uzXQts5Gb3MGVj74Y2Y8hLq.jpg",
+    "/fUcZJ3rFqJ6Oga3IZDg6sLOhc8r.jpg",
+    "/jGHtuACXrgi9jJmkdu6BFDZzw3a.jpg",
+    "/gT1LwTKonnVAtl7yarGNW6oUcb5.jpg"
+  ],
+  "trailerKey": "8i9Z7r8dAFo",
+  "genreIds": [
+    18,
+    14
+  ],
+  "keywordIds": [
+    128,
+    3307,
+    3521,
+    5049,
+    10180,
+    13027,
+    14906,
+    18129,
+    166611,
+    210728,
+    222185,
+    251258
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it",
+    "la"
+  ],
+  "studios": [
+    "PEA"
+  ],
+  "crew": [
+    {
+      "personId": 4415,
+      "job": "writer"
+    },
+    {
+      "personId": 4415,
+      "job": "director"
+    },
+    {
+      "personId": 5820,
+      "job": "producer"
+    },
+    {
+      "personId": 68410,
+      "job": "composer"
+    },
+    {
+      "personId": 68409,
+      "job": "composer"
+    },
+    {
+      "personId": 67884,
+      "job": "writer"
+    },
+    {
+      "personId": 15131,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3098,
+      "job": "composer"
+    },
+    {
+      "personId": 68408,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 26690,
+      "character": "Encolpio",
+      "order": 0
+    },
+    {
+      "personId": 18241,
+      "character": "Ascilto",
+      "order": 1
+    },
+    {
+      "personId": 68405,
+      "character": "Gitone",
+      "order": 2
+    },
+    {
+      "personId": 68406,
+      "character": "Eumolpo",
+      "order": 3
+    },
+    {
+      "personId": 1014439,
+      "character": "Trimalcione",
+      "order": 4
+    },
+    {
+      "personId": 5963,
+      "character": "Fortunata",
+      "order": 5
+    },
+    {
+      "personId": 14262,
+      "character": "Trifena",
+      "order": 6
+    },
+    {
+      "personId": 994871,
+      "character": "Vernacchio",
+      "order": 7
+    },
+    {
+      "personId": 30898,
+      "character": "Il predone",
+      "order": 8
+    },
+    {
+      "personId": 33807,
+      "character": "Minotauro",
+      "order": 9
+    },
+    {
+      "personId": 1196792,
+      "character": "Il capitano",
+      "order": 10
+    },
+    {
+      "personId": 1385158,
+      "character": "Enotea",
+      "order": 11
+    },
+    {
+      "personId": 44421,
+      "character": "Arianna",
+      "order": 12
+    },
+    {
+      "personId": 1014273,
+      "character": "Proconsole",
+      "order": 13
+    },
+    {
+      "personId": 20798,
+      "character": "L'imperatore",
+      "order": 14
+    },
+    {
+      "personId": 1677527,
+      "character": "La schiavetta",
+      "order": 15
+    },
+    {
+      "personId": 1677528,
+      "character": "Il suicida",
+      "order": 16
+    },
+    {
+      "personId": 39274,
+      "character": "La matrona",
+      "order": 17
+    },
+    {
+      "personId": 1677530,
+      "character": "Abinna",
+      "order": 18
+    },
+    {
+      "personId": 237334,
+      "character": "Scintilla",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 373,
+  "sources": [
+    "cult-list"
+  ]
+}

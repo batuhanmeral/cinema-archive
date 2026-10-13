@@ -1,0 +1,82 @@
+{
+  "tmdbId": 53210,
+  "slug": "duck-amuck-1953",
+  "year": 1953,
+  "runtime": 7,
+  "originalTitle": "Duck Amuck",
+  "title": {
+    "en": "Duck Amuck",
+    "tr": "Duck Amuck"
+  },
+  "overview": {
+    "en": "The short-tempered Daffy Duck must improvise madly as the backgrounds, his costumes, the soundtrack, even his physical form, shifts and changes at the whim of the animator.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/bKF3kDYLjt5X3YsntmydkLJHK9I.jpg",
+    "en": "/gRZYLCncLa2mzE59qY38McDlFdN.jpg"
+  },
+  "backdrops": [
+    "/haM9idiD9MIS3ZLXDAsIqtldfG.jpg",
+    "/wgONOAadfVB0AIut5ZHZEUankN6.jpg",
+    "/oIeJMpbaBnGwSncb4ErjGcgsG2b.jpg",
+    "/bYrkDFLCSKlYuOWd5YW21u7VXSH.jpg",
+    "/t9jIXywIt041A2naKq3FCH2H0t0.jpg",
+    "/YBdo9SlE70qmlByXeMkCEnvs3c.jpg",
+    "/sCOnVelyO34daiTySS52oDhQC7d.jpg",
+    "/eW24hmeKAUVoMfb19fq8lNAL5No.jpg",
+    "/hIdsVsm5Pi8s83rFTUYkNtxoKGg.jpg",
+    "/DVQbSxfDxHn1SZrvgtCvqilWAy.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    16,
+    35
+  ],
+  "keywordIds": [
+    4375,
+    6513,
+    4597,
+    9887,
+    13151,
+    161891,
+    181139,
+    263548
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Warner Bros. Cartoons"
+  ],
+  "crew": [
+    {
+      "personId": 457819,
+      "job": "producer"
+    },
+    {
+      "personId": 100888,
+      "job": "director"
+    },
+    {
+      "personId": 551674,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 33923,
+      "character": "Daffy Duck / Bugs Bunny (voice)",
+      "order": 0
+    }
+  ],
+  "awards": {},
+  "voteCount": 261,
+  "sources": [
+    "cult-list"
+  ]
+}

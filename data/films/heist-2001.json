@@ -1,0 +1,198 @@
+{
+  "tmdbId": 11088,
+  "slug": "heist-2001",
+  "year": 2001,
+  "runtime": 107,
+  "originalTitle": "Heist",
+  "title": {
+    "en": "Heist",
+    "tr": "Soygun"
+  },
+  "overview": {
+    "en": "Joe Moore has a job he loves. He's a thief. His job goes sour when he gets caught on security camera tape. His fence, Bergman, reneges on the money he's owed, and his wife may be betraying him with the fence's young lieutenant. Moore and his partner, Bobby Blane, and their utility man, Pinky Pincus, find themselves broke, betrayed, and blackmailed. Moore is forced to commit his crew to do one last big job.",
+    "tr": "Önce her şey harikadır: Usta hırsız Joe Moore'un güzel bir karısı, borçlularından bolca alacağı ve sevdiği bir mesleği vardır! Bir gün güvenlik kamerasına yakalandığında işler tersine dönmeye başlar. Çaldığı şeyleri alıp satan ve ona en büyük borcu olan kişi olma ünvanlarının sahibi Bergman parasını ödememeye karar verir. Karısına gelince, o da kendisini Bergman'ın yamağı ile aldatıyor olabilir!  Moore, ortağı Bobby ve yardımcıları Pinky ile birlikte son bir işe girişir. Her şeyi tersyüz edecek ve talihini döndürecek son bir iş. Peki ama Bergman'a güvenebilir mi? Ya karısı şu anda hangi genç ve yakışıklı adamın kollarında?"
+  },
+  "poster": {
+    "tr": "/xrwwSXFeW35wYsnobreXbGxHwUC.jpg",
+    "en": "/5byulYbMO9LCLwcutKvgYgom1Pi.jpg"
+  },
+  "backdrops": [
+    "/79DCmGXL8elS9bjRlwo9TgRfsu9.jpg",
+    "/z4hxxh2qg74MTnnIIzTMmdKd8q1.jpg",
+    "/1acmRn1cnPnavQGQCrIJOERd6vX.jpg",
+    "/u6zRKhjIoEFMJiqH00HJrts7nQu.jpg",
+    "/gWddtfY3j99AdcXu9fUVSaa64k5.jpg",
+    "/1pmfiZVMbT0CRL914Qjt63ST5tf.jpg",
+    "/g6bMsn9C2PgjDFotILdKOllTJjL.jpg",
+    "/dNz1HWlJh80A3By2QQ2Y6oiUxjN.jpg",
+    "/hUuqZOF94fF5Cchvj90ivNxr3RV.jpg",
+    "/yTruhk9i4ul7tkoJuXEJfK05WoI.jpg"
+  ],
+  "trailerKey": "Yjmy0TcpDtA",
+  "genreIds": [
+    28,
+    80,
+    18,
+    53
+  ],
+  "keywordIds": [
+    7155,
+    1936,
+    2492,
+    6328,
+    10051,
+    33456,
+    159413,
+    170212,
+    251720,
+    321964
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Stolen Film Productions",
+    "Franchise Pictures",
+    "Indelible Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1255,
+      "job": "director"
+    },
+    {
+      "personId": 10572,
+      "job": "composer"
+    },
+    {
+      "personId": 2950,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 21479,
+      "job": "producer"
+    },
+    {
+      "personId": 18691,
+      "job": "producer"
+    },
+    {
+      "personId": 1254,
+      "job": "producer"
+    },
+    {
+      "personId": 1255,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 193,
+      "character": "Joe Moore",
+      "order": 0
+    },
+    {
+      "personId": 518,
+      "character": "Mickey Bergman",
+      "order": 1
+    },
+    {
+      "personId": 18792,
+      "character": "Bobby 'Bob' Blane",
+      "order": 2
+    },
+    {
+      "personId": 6807,
+      "character": "Jimmy Silk",
+      "order": 3
+    },
+    {
+      "personId": 27267,
+      "character": "Fran Moore",
+      "order": 4
+    },
+    {
+      "personId": 10743,
+      "character": "Don 'Pinky' Pincus",
+      "order": 5
+    },
+    {
+      "personId": 5699,
+      "character": "Betty Croft",
+      "order": 6
+    },
+    {
+      "personId": 2661312,
+      "character": "Fast Food Customer",
+      "order": 7
+    },
+    {
+      "personId": 2661315,
+      "character": "Counterman",
+      "order": 8
+    },
+    {
+      "personId": 1392000,
+      "character": "Fast Food Cook",
+      "order": 9
+    },
+    {
+      "personId": 7013,
+      "character": "Jewelry Store Guard",
+      "order": 10
+    },
+    {
+      "personId": 1673063,
+      "character": "Waitress",
+      "order": 11
+    },
+    {
+      "personId": 1294675,
+      "character": "Jewelry Saleswoman",
+      "order": 12
+    },
+    {
+      "personId": 207821,
+      "character": "Coffee Cart Man",
+      "order": 13
+    },
+    {
+      "personId": 164018,
+      "character": "D.A. Freccia",
+      "order": 14
+    },
+    {
+      "personId": 2661320,
+      "character": "Laszlo",
+      "order": 15
+    },
+    {
+      "personId": 105499,
+      "character": "Bartender",
+      "order": 16
+    },
+    {
+      "personId": 2661336,
+      "character": "Pool Player at Bar",
+      "order": 17
+    },
+    {
+      "personId": 102852,
+      "character": "State Trooper",
+      "order": 18
+    },
+    {
+      "personId": 119479,
+      "character": "Coffee Man",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 647,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "tmdbId": 16305,
+  "slug": "sullivan-s-travels-1941",
+  "year": 1941,
+  "runtime": 91,
+  "originalTitle": "Sullivan's Travels",
+  "title": {
+    "en": "Sullivan's Travels",
+    "tr": "Sullivan'ın Öyküsü"
+  },
+  "overview": {
+    "en": "Successful movie director John L. Sullivan, convinced he won't be able to film his ambitious masterpiece until he has suffered, dons a hobo disguise and sets off on a journey, aiming to \"know trouble\" first-hand. When all he finds is a train ride back to Hollywood and a beautiful blonde companion, he redoubles his efforts, managing to land himself in more trouble than he bargained for when he loses his memory and ends up a prisoner on a chain gang.",
+    "tr": "John Sullivan (Joel McCrea) hafif eğlencelik filmlerin unutulmaz yönetmeni iken artık çizgi değiştirmeye karar vermiş ve yoksul insanların, ezilmiş kişilerin sorunlarını anlatmaya heveslenmiştir. Ancak yine de ilk denemesindeki sonuç kendisini tatmin etmez. Fakir ve aç insanların sorunlarını yeterince anlayamadığını düşünmektedir. Bunu nasıl halledeceğini düşünürken çözümü bulur: fakir insanları anlamak için onlardan biri olması gerekmektedir. Sullivan, tüm servetini bir süreliğine bırakır ve gerçek bir fakir gibi yaşamak için cebinde beş parası olmadan yollara düşer. Acaba elinde hiçbir şey olmadan yaşamayı becerebilecek midir?"
+  },
+  "poster": {
+    "tr": "/z5cqIM0ysVjkCmaDfyTQnlozdIp.jpg",
+    "en": "/lHl3HDlqSVyoe7mSq0LATTIuWLy.jpg"
+  },
+  "backdrops": [
+    "/2ruBSk9voeXQk7Ewom7Fjx5Yo5s.jpg",
+    "/7E4b9mXU9psvGbqCbI0aGEGI1oO.jpg",
+    "/tYxcWZ3sYF3JVXCmwJAn5RaH8nB.jpg",
+    "/qZhTUyUBMgz3xCXOyzN9Cg2PupD.jpg",
+    "/v0JciqDZnOWimbTWXmrcl7YHk5R.jpg",
+    "/89kQQHQxYclqcyU3MgC8q7RZCrf.jpg",
+    "/jmdw7xmEIi70CTHwkBNPNabKn3K.jpg",
+    "/jkq6I91jpqoXztzO1mx42pUdAHp.jpg",
+    "/55aefyauBCDrHUu1b366uudJH3R.jpg",
+    "/xs0lDOzrUp3jBpPwxw6KizxmBb8.jpg"
+  ],
+  "trailerKey": "kIrdtdpPQHY",
+  "genreIds": [
+    35,
+    10749,
+    12
+  ],
+  "keywordIds": [
+    960,
+    886,
+    3864,
+    10325,
+    5571,
+    9890,
+    10717,
+    11469,
+    12999,
+    15291,
+    155457,
+    155809,
+    167043,
+    186189,
+    203826,
+    235736,
+    256087
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 30249,
+      "job": "director"
+    },
+    {
+      "personId": 30254,
+      "job": "composer"
+    },
+    {
+      "personId": 30257,
+      "job": "composer"
+    },
+    {
+      "personId": 8620,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30249,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20501,
+      "character": "John Sullivan",
+      "order": 0
+    },
+    {
+      "personId": 79245,
+      "character": "The Girl",
+      "order": 1
+    },
+    {
+      "personId": 33007,
+      "character": "Mr. LeBrand",
+      "order": 2
+    },
+    {
+      "personId": 21510,
+      "character": "Mr. Jones",
+      "order": 3
+    },
+    {
+      "personId": 13966,
+      "character": "Mr. Casalsis",
+      "order": 4
+    },
+    {
+      "personId": 14975,
+      "character": "Mr. Hadrian",
+      "order": 5
+    },
+    {
+      "personId": 96722,
+      "character": "Johnny Valdelle",
+      "order": 6
+    },
+    {
+      "personId": 81283,
+      "character": "Secretary",
+      "order": 7
+    },
+    {
+      "personId": 30262,
+      "character": "Burroughs",
+      "order": 8
+    },
+    {
+      "personId": 30184,
+      "character": "Sullivan's Valet",
+      "order": 9
+    },
+    {
+      "personId": 12153,
+      "character": "The Doctor",
+      "order": 10
+    },
+    {
+      "personId": 99468,
+      "character": "Cameraman",
+      "order": 11
+    },
+    {
+      "personId": 10161,
+      "character": "Radio Man",
+      "order": 12
+    },
+    {
+      "personId": 1067843,
+      "character": "Colored Chef",
+      "order": 13
+    },
+    {
+      "personId": 107678,
+      "character": "Ursula Kornheiser",
+      "order": 14
+    },
+    {
+      "personId": 85997,
+      "character": "Miz Zeffie",
+      "order": 15
+    },
+    {
+      "personId": 103932,
+      "character": "Tough Chauffeur",
+      "order": 16
+    },
+    {
+      "personId": 120702,
+      "character": "Old Tramp",
+      "order": 17
+    },
+    {
+      "personId": 986013,
+      "character": "The Trombenick",
+      "order": 18
+    },
+    {
+      "personId": 120785,
+      "character": "The Mister",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 536,
+  "sources": [
+    "cult-list"
+  ]
+}

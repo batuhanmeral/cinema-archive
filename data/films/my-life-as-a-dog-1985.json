@@ -1,0 +1,192 @@
+{
+  "tmdbId": 8816,
+  "slug": "my-life-as-a-dog-1985",
+  "year": 1985,
+  "runtime": 102,
+  "originalTitle": "Mitt liv som hund",
+  "title": {
+    "en": "My Life as a Dog",
+    "tr": "Köpek Olarak Hayatım"
+  },
+  "overview": {
+    "en": "A boy, obsessed with comparing himself with those less fortunate, experiences a different life at the home of his aunt and uncle in 1959 Sweden.",
+    "tr": "Anneleri ölümcül bir ciğer hastalığına yakalanan iki kardeşten büyük olanı bir bakım evine, diğeri ise (ingemar) dayısının bir başka kentteki evine gönderilir. Ağabeyi, hastalıklarla boğuşan annesi ve çok sevdiği Sickan ile birlikte yaşamaktadır. Ağabeyi sürekli olarak onu hakir görmekte ve onunla eğlenmektedir. Ingemar da onunla pek anlaşamamaktadır. Yaz tatili esnasında annesinin yalnız kalmasının daha iyi olacağı düşünüldüğünden dayısının yanına yollanır. Ingemar içinde bulunduğu yepyeni ve taptaze ortamda kendi hayatının dönüşümünü seyretmeye başlayacaktır. Yaz biterken ise artık anlatacağı çok şeyi olacaktır."
+  },
+  "poster": {
+    "tr": "/eVg9IsX2HtR1BNYH0UAhF4JPHi7.jpg",
+    "en": "/eVg9IsX2HtR1BNYH0UAhF4JPHi7.jpg"
+  },
+  "backdrops": [
+    "/zKqzUT0ZAljEYPLceye6ZT4H9By.jpg",
+    "/qffh8WpGOOJtmUr71x2m1HrBVMG.jpg",
+    "/62givN0r59V5uxY6rk66Su9zTzq.jpg",
+    "/zwkG4BgFsBCPpf3RyIvKZxAvBzb.jpg",
+    "/2t1qm4dIal3Ha9ooKlvGimJkEec.jpg",
+    "/trVQN7GZvWp7MYhxOHg9KjEH33N.jpg",
+    "/6q3RmWgn6MlYXMkADHUfqfPTpX0.jpg"
+  ],
+  "trailerKey": "VxzO8Qx96O4",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    240,
+    818,
+    1192,
+    6464,
+    9957,
+    11004,
+    15162,
+    34115,
+    156928,
+    208611,
+    209476
+  ],
+  "countries": [
+    "SE"
+  ],
+  "languages": [
+    "sv"
+  ],
+  "studios": [
+    "SF Studios",
+    "FilmTeknik"
+  ],
+  "crew": [
+    {
+      "personId": 3862,
+      "job": "composer"
+    },
+    {
+      "personId": 23331,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 56397,
+      "job": "writer"
+    },
+    {
+      "personId": 5306,
+      "job": "director"
+    },
+    {
+      "personId": 56395,
+      "job": "writer"
+    },
+    {
+      "personId": 5306,
+      "job": "writer"
+    },
+    {
+      "personId": 3868,
+      "job": "producer"
+    },
+    {
+      "personId": 56396,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 56391,
+      "character": "Ingemar Johansson",
+      "order": 0
+    },
+    {
+      "personId": 56392,
+      "character": "Ingemar's Uncle Gunnar",
+      "order": 1
+    },
+    {
+      "personId": 56393,
+      "character": "Ingemar's Mother",
+      "order": 2
+    },
+    {
+      "personId": 231318,
+      "character": "Saga",
+      "order": 3
+    },
+    {
+      "personId": 56394,
+      "character": "Gunnar's Wife Ulla",
+      "order": 4
+    },
+    {
+      "personId": 92422,
+      "character": "The Artist",
+      "order": 5
+    },
+    {
+      "personId": 74712,
+      "character": "Berit",
+      "order": 6
+    },
+    {
+      "personId": 1778139,
+      "character": "Uncle Sandberg",
+      "order": 7
+    },
+    {
+      "personId": 1265160,
+      "character": "Mrs. Sandberg",
+      "order": 8
+    },
+    {
+      "personId": 114580,
+      "character": "Harry",
+      "order": 9
+    },
+    {
+      "personId": 1089593,
+      "character": "Tvättande Kvinna",
+      "order": 10
+    },
+    {
+      "personId": 96935,
+      "character": "Boy in Town",
+      "order": 11
+    },
+    {
+      "personId": 1778132,
+      "character": "Ingemar's Older Brother Erik",
+      "order": 12
+    },
+    {
+      "personId": 1778135,
+      "character": "Manne the Boy with Green Hair",
+      "order": 13
+    },
+    {
+      "personId": 1778141,
+      "character": "Manne's Grandfather",
+      "order": 14
+    },
+    {
+      "personId": 1778142,
+      "character": "Mäster",
+      "order": 15
+    },
+    {
+      "personId": 1778143,
+      "character": "Arvidsson",
+      "order": 16
+    },
+    {
+      "personId": 1778144,
+      "character": "Tommy",
+      "order": 17
+    },
+    {
+      "personId": 1778145,
+      "character": "Fransson",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 304,
+  "sources": [
+    "cult-list"
+  ]
+}

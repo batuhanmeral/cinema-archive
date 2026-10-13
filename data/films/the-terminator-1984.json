@@ -1,0 +1,206 @@
+{
+  "tmdbId": 218,
+  "slug": "the-terminator-1984",
+  "year": 1984,
+  "runtime": 108,
+  "originalTitle": "The Terminator",
+  "title": {
+    "en": "The Terminator",
+    "tr": "Terminatör"
+  },
+  "overview": {
+    "en": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+    "tr": "1984 yılında, doğmamış oğlu gelecekte insanlığın kurtuluşu olacak genç bir kadını öldürmek için 2029 yılından yok edilemez bir cyborg yollanır. Genç kadının ve insanlığın tek umudu 2029 yılından gelen genç bir askerdir."
+  },
+  "poster": {
+    "tr": "/XgnjObKKM0QNfwDFI421NW65mv.jpg",
+    "en": "/qvktm0BHcnmDpul4Hz01GIazWPr.jpg"
+  },
+  "backdrops": [
+    "/ahUaAgnkFu7QlBh5h4LCNeaSurV.jpg",
+    "/dH6m8iWJEPIFoyQaZiuo9Ih7kpA.jpg",
+    "/zwhcwvr3kOAlw1JdyIXeVK4Mq6u.jpg",
+    "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+    "/6dpnthrofbqWmvapUyvqCrkdHG.jpg",
+    "/frRgceSRbdhjjS7lPBUafqOYIOW.jpg",
+    "/iGJMIbk5uq8M3tvyKLgvuj95tbh.jpg",
+    "/xqTmPBNTcSwyIM6jFZl2Ph8O1k4.jpg",
+    "/9KJPBz0P9HJHkpirGEOoezcGvUi.jpg",
+    "/kOss0WsFNOZ4RD4Np8SZi0O7xF.jpg"
+  ],
+  "trailerKey": "nGrW-OR2uDk",
+  "genreIds": [
+    28,
+    53,
+    878
+  ],
+  "keywordIds": [
+    312,
+    310,
+    83,
+    1280,
+    679,
+    1373,
+    1366,
+    526,
+    4565,
+    3289,
+    4379,
+    9826,
+    11322,
+    12670,
+    33556,
+    162484,
+    175468,
+    178657,
+    208757,
+    219404,
+    253388,
+    269233
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Hemdale",
+    "Pacific Western"
+  ],
+  "crew": [
+    {
+      "personId": 869,
+      "job": "producer"
+    },
+    {
+      "personId": 2722,
+      "job": "composer"
+    },
+    {
+      "personId": 2723,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2710,
+      "job": "director"
+    },
+    {
+      "personId": 2710,
+      "job": "writer"
+    },
+    {
+      "personId": 869,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1100,
+      "character": "Terminator",
+      "order": 0
+    },
+    {
+      "personId": 2712,
+      "character": "Kyle Reese",
+      "order": 1
+    },
+    {
+      "personId": 2713,
+      "character": "Sarah Connor",
+      "order": 2
+    },
+    {
+      "personId": 1818,
+      "character": "Traxler",
+      "order": 3
+    },
+    {
+      "personId": 2714,
+      "character": "Vukovich",
+      "order": 4
+    },
+    {
+      "personId": 2717,
+      "character": "Matt",
+      "order": 5
+    },
+    {
+      "personId": 2715,
+      "character": "Ginger",
+      "order": 6
+    },
+    {
+      "personId": 2716,
+      "character": "Silberman",
+      "order": 7
+    },
+    {
+      "personId": 102441,
+      "character": "Pawnshop Clerk",
+      "order": 8
+    },
+    {
+      "personId": 65001,
+      "character": "Nancy",
+      "order": 9
+    },
+    {
+      "personId": 1258399,
+      "character": "Desk Sergeant",
+      "order": 10
+    },
+    {
+      "personId": 35710,
+      "character": "Future Terminator",
+      "order": 11
+    },
+    {
+      "personId": 2053,
+      "character": "Punk Leader",
+      "order": 12
+    },
+    {
+      "personId": 100626,
+      "character": "Punk",
+      "order": 13
+    },
+    {
+      "personId": 2719,
+      "character": "Punk",
+      "order": 14
+    },
+    {
+      "personId": 2711,
+      "character": "Policeman",
+      "order": 15
+    },
+    {
+      "personId": 1378202,
+      "character": "Policeman",
+      "order": 16
+    },
+    {
+      "personId": 2573480,
+      "character": "Policeman",
+      "order": 17
+    },
+    {
+      "personId": 4879867,
+      "character": "Cop in Alley",
+      "order": 18
+    },
+    {
+      "personId": 1378212,
+      "character": "TV Anchorman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 15356,
+  "sources": [
+    "cult-list"
+  ]
+}

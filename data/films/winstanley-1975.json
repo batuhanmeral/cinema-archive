@@ -1,0 +1,144 @@
+{
+  "tmdbId": 128891,
+  "slug": "winstanley-1975",
+  "year": 1975,
+  "runtime": 95,
+  "originalTitle": "Winstanley",
+  "title": {
+    "en": "Winstanley",
+    "tr": "Winstanley"
+  },
+  "overview": {
+    "en": "Gerrard Winstanley is the leader of a 17th Century religious group that believes the land should be owned communally. His convictions bring him into conflict with both the state and the church.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/e7grFQTY8ru6kn3W5q6I3NoKZJL.jpg",
+    "en": "/538Y89Mc6ObRydmcRk05BMdC0Fo.jpg"
+  },
+  "backdrops": [
+    "/thRCygwGZ5LaYvYOwiy5dPGpkY0.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "BFI"
+  ],
+  "crew": [
+    {
+      "personId": 228856,
+      "job": "writer"
+    },
+    {
+      "personId": 1061537,
+      "job": "writer"
+    },
+    {
+      "personId": 228856,
+      "job": "director"
+    },
+    {
+      "personId": 1061537,
+      "job": "director"
+    },
+    {
+      "personId": 1178977,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1061537,
+      "job": "producer"
+    },
+    {
+      "personId": 228856,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1909205,
+      "character": "Gerrard Winstanley",
+      "order": 0
+    },
+    {
+      "personId": 1220033,
+      "character": "General Lord Fairfax",
+      "order": 1
+    },
+    {
+      "personId": 1909206,
+      "character": "Tom Haydon",
+      "order": 2
+    },
+    {
+      "personId": 1909207,
+      "character": "Will Everard",
+      "order": 3
+    },
+    {
+      "personId": 1909208,
+      "character": "Parson Platt",
+      "order": 4
+    },
+    {
+      "personId": 1909209,
+      "character": "Mrs. Platt",
+      "order": 5
+    },
+    {
+      "personId": 1909210,
+      "character": "Capt. Gladman",
+      "order": 6
+    },
+    {
+      "personId": 1909211,
+      "character": "Henry Bickerstaffe",
+      "order": 7
+    },
+    {
+      "personId": 1909212,
+      "character": "Colonel Rich",
+      "order": 8
+    },
+    {
+      "personId": 1909213,
+      "character": "Ranter",
+      "order": 9
+    },
+    {
+      "personId": 1909214,
+      "character": "John Coulton",
+      "order": 10
+    },
+    {
+      "personId": 1909215,
+      "character": "Recorder",
+      "order": 11
+    },
+    {
+      "personId": 1909216,
+      "character": "Francis Drake",
+      "order": 12
+    },
+    {
+      "personId": 1909217,
+      "character": "Mrs. Drake",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 13,
+  "sources": [
+    "cult-list"
+  ]
+}

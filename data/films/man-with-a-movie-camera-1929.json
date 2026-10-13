@@ -1,0 +1,96 @@
+{
+  "tmdbId": 26317,
+  "slug": "man-with-a-movie-camera-1929",
+  "year": 1929,
+  "runtime": 68,
+  "originalTitle": "Человек с киноаппаратом",
+  "title": {
+    "en": "Man with a Movie Camera",
+    "tr": "Kameralı Adam"
+  },
+  "overview": {
+    "en": "A cameraman wanders around with a camera slung over his shoulder, documenting urban life with dazzling inventiveness.",
+    "tr": "Bir kameraman omzuna astığı kamerasıyla etrafta dolaşıyor ve göz kamaştırıcı bir yaratıcılıkla kent yaşamını belgeliyor."
+  },
+  "poster": {
+    "tr": "/1gVzRsu8wJHC3psjjrfJeGe7X99.jpg",
+    "en": "/vJgAdgJWX54v0oXfIvhwjlZnmgn.jpg"
+  },
+  "backdrops": [
+    "/xPuGtHPc1aADsfXds87noXVz2Hh.jpg",
+    "/byRNEm1QwfQC1Mn0K4gLM2fIfWO.jpg",
+    "/ntTV4sWN8NDoSvgamPRjYpxUgtL.jpg",
+    "/kw4okN4HIz5J4c4lyvjFbXZ1SFw.jpg",
+    "/eIghKbvn3eatPn5tSxLoiRcThp9.jpg",
+    "/knAhxQx1vseP6OZ00PGUm24TTqX.jpg",
+    "/9M4YQaWOmcaBtXI29DvC1Qhv2LW.jpg",
+    "/qb7E5NhbHARByzYWdRPukM9nbds.jpg",
+    "/tMuyyBWmR4kSrgpTYVV0DS3wREn.jpg",
+    "/1EXYQVb9NsKOk0FrOfIX7rQURrT.jpg"
+  ],
+  "trailerKey": "BtTlgxtoqhg",
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    2111,
+    3232,
+    12999,
+    33896,
+    154802,
+    169734,
+    186450,
+    207876,
+    212968,
+    220141,
+    224427,
+    240422,
+    256354,
+    283800,
+    297181,
+    315053,
+    325775,
+    325812
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "VUFKU"
+  ],
+  "crew": [
+    {
+      "personId": 95111,
+      "job": "director"
+    },
+    {
+      "personId": 95115,
+      "job": "producer"
+    },
+    {
+      "personId": 1042437,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1550009,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 95111,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1042437,
+      "character": "The Cameraman",
+      "order": 0
+    }
+  ],
+  "awards": {},
+  "voteCount": 839,
+  "sources": [
+    "cult-list"
+  ]
+}

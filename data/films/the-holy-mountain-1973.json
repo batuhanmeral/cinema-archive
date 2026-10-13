@@ -1,0 +1,206 @@
+{
+  "tmdbId": 8327,
+  "slug": "the-holy-mountain-1973",
+  "year": 1973,
+  "runtime": 115,
+  "originalTitle": "La montaña sagrada",
+  "title": {
+    "en": "The Holy Mountain",
+    "tr": "Kutsal Dağ"
+  },
+  "overview": {
+    "en": "The Alchemist assembles together a group of people from all walks of life to represent the planets in the solar system. The occult adept's intention is to put his recruits through strange mystical rites and divest them of their worldly baggage before embarking on a trip to Lotus Island. There they ascend the Holy Mountain to displace the immortal gods who secretly rule the universe.",
+    "tr": "İsa benzeri bir karakter ruhani bir liderin dünyasına girer ve onun aracılığıyla, gezegenleri temsil eden renkli bir grupla tanışır. Her birinin farklı dünyası vardır ve başlangıçta onların dünyalarını izleriz. Daha sonra kutsal dağa doğru gerçekleştirilecek yolculuk başlar.  Öncelikle her Jodorowsky filmi gibi, anlatılması, özetlenmesi zor bir çalışma olduğunu belirtmek gerek. Her tür özet filmi anlatmak için yetersiz ve hatta 'saçma' kalıyor."
+  },
+  "poster": {
+    "tr": "/oaOyrFD4ZyZZwjO8wc4b12XHcgZ.jpg",
+    "en": "/cZemtR2mXzqu4zLSMEzLbOQYMQp.jpg"
+  },
+  "backdrops": [
+    "/35uGiE6AFbZBUCqcYGPANLuuoMn.jpg",
+    "/5WgTsn8Hbthg55lhNnqDuSJM33M.jpg",
+    "/immFnUgWLCY8VjRv7GUMP4DHQeR.jpg",
+    "/oUceCsSe255ZKXCMsHhqXM1xuUp.jpg",
+    "/jMnib6kWkivW5WsE6Z9yehO0oRq.jpg",
+    "/pIt34BJ62yJX7osvsXENgf9sRNO.jpg",
+    "/pvuSMCdTmqmvfPWCxh9guoTVKAB.jpg",
+    "/qYCx6F3n651433hFlw4T8lNzLdR.jpg",
+    "/4t951umog7ARIhEUavRQQqGnYgj.jpg",
+    "/ud4KEvPCb0dh7UTVWs3ASQYNI16.jpg"
+  ],
+  "trailerKey": "DSON8vHpxzY",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    534,
+    856,
+    186,
+    3684,
+    1715,
+    3307,
+    8201,
+    9887,
+    9727,
+    10419,
+    15216,
+    41380,
+    161216,
+    161395,
+    184392,
+    202335,
+    239797,
+    325776
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "ABKCO Films"
+  ],
+  "crew": [
+    {
+      "personId": 55121,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 55119,
+      "job": "director"
+    },
+    {
+      "personId": 55119,
+      "job": "producer"
+    },
+    {
+      "personId": 55119,
+      "job": "writer"
+    },
+    {
+      "personId": 1649747,
+      "job": "composer"
+    },
+    {
+      "personId": 1269725,
+      "job": "composer"
+    },
+    {
+      "personId": 55119,
+      "job": "composer"
+    },
+    {
+      "personId": 1059552,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 55119,
+      "character": "The Alchemist",
+      "order": 0
+    },
+    {
+      "personId": 55123,
+      "character": "The Thief",
+      "order": 1
+    },
+    {
+      "personId": 55124,
+      "character": "The Written Woman",
+      "order": 2
+    },
+    {
+      "personId": 55125,
+      "character": "Fon",
+      "order": 3
+    },
+    {
+      "personId": 55126,
+      "character": "Isla",
+      "order": 4
+    },
+    {
+      "personId": 55127,
+      "character": "Klen",
+      "order": 5
+    },
+    {
+      "personId": 55129,
+      "character": "Sel",
+      "order": 6
+    },
+    {
+      "personId": 55130,
+      "character": "Berg",
+      "order": 7
+    },
+    {
+      "personId": 3181,
+      "character": "Axon",
+      "order": 8
+    },
+    {
+      "personId": 55131,
+      "character": "Lut",
+      "order": 9
+    },
+    {
+      "personId": 55132,
+      "character": "The Prostitute",
+      "order": 10
+    },
+    {
+      "personId": 55133,
+      "character": "Tourist Wife",
+      "order": 11
+    },
+    {
+      "personId": 1070647,
+      "character": "The Chimpanzee",
+      "order": 12
+    },
+    {
+      "personId": 2696560,
+      "character": "Bald Woman 1",
+      "order": 13
+    },
+    {
+      "personId": 2696576,
+      "character": "Bald Woman 2",
+      "order": 14
+    },
+    {
+      "personId": 2696577,
+      "character": "Tourist",
+      "order": 15
+    },
+    {
+      "personId": 1693375,
+      "character": "Circus Barker",
+      "order": 16
+    },
+    {
+      "personId": 2064230,
+      "character": "Fon's Working Girl",
+      "order": 17
+    },
+    {
+      "personId": 2696578,
+      "character": "Klen's Lover",
+      "order": 18
+    },
+    {
+      "personId": 1740324,
+      "character": "Berg's Wife",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1077,
+  "sources": [
+    "cult-list"
+  ]
+}

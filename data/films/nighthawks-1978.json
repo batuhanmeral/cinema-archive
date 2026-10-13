@@ -1,0 +1,143 @@
+{
+  "tmdbId": 118547,
+  "slug": "nighthawks-1978",
+  "year": 1978,
+  "runtime": 113,
+  "originalTitle": "Nighthawks",
+  "title": {
+    "en": "Nighthawks",
+    "tr": "Nighthawks"
+  },
+  "overview": {
+    "en": "In 70s Great Britain, a gay teacher is forced to hide his sexuality by day while living his secret life by night.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9RO6pngPQwAZNfJKbaiEkY4Heq4.jpg",
+    "en": "/fHxIZP7hyEaKKVzncXUTYO72Z7v.jpg"
+  },
+  "backdrops": [
+    "/7gIS7IdXxXR2nEdkjw2ZtHguxPD.jpg",
+    "/zaTqbLshHwwax8UEDXwqqZC1xWq.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    212,
+    1886,
+    4569,
+    154842,
+    158718,
+    258533,
+    347864
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Four Corner Films",
+    "Nashburgh"
+  ],
+  "crew": [
+    {
+      "personId": 237128,
+      "job": "director"
+    },
+    {
+      "personId": 237128,
+      "job": "writer"
+    },
+    {
+      "personId": 1537282,
+      "job": "writer"
+    },
+    {
+      "personId": 1537282,
+      "job": "producer"
+    },
+    {
+      "personId": 237128,
+      "job": "producer"
+    },
+    {
+      "personId": 1537283,
+      "job": "composer"
+    },
+    {
+      "personId": 1386497,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1537289,
+      "character": "Jim",
+      "order": 0
+    },
+    {
+      "personId": 1537290,
+      "character": "Mike",
+      "order": 1
+    },
+    {
+      "personId": 1537291,
+      "character": "Judy",
+      "order": 2
+    },
+    {
+      "personId": 1537292,
+      "character": "Pat",
+      "order": 3
+    },
+    {
+      "personId": 1537293,
+      "character": "Neal",
+      "order": 4
+    },
+    {
+      "personId": 1537294,
+      "character": "Peter",
+      "order": 5
+    },
+    {
+      "personId": 1537295,
+      "character": "John",
+      "order": 6
+    },
+    {
+      "personId": 1537296,
+      "character": "American",
+      "order": 7
+    },
+    {
+      "personId": 1537297,
+      "character": "Artist",
+      "order": 8
+    },
+    {
+      "personId": 1537298,
+      "character": "Headmaster",
+      "order": 9
+    },
+    {
+      "personId": 86290,
+      "character": "Clubber",
+      "order": 10
+    },
+    {
+      "personId": 1537299,
+      "character": "",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 28,
+  "sources": [
+    "cult-list"
+  ]
+}

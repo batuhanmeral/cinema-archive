@@ -1,0 +1,128 @@
+{
+  "tmdbId": 94438,
+  "slug": "we-can-t-go-home-again-1973",
+  "year": 1973,
+  "runtime": 93,
+  "originalTitle": "We Can't Go Home Again",
+  "title": {
+    "en": "We Can't Go Home Again",
+    "tr": "We Can't Go Home Again"
+  },
+  "overview": {
+    "en": "Nicholas Ray plays himself, acting as mentor, friend, and artistic inspiration to his students at Binghamton.  Preserved by the Academy Film Archive in partnership with The Film Foundation.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ftkI5LkdoNXNC4er5e44AvZmz0i.jpg",
+    "en": "/gCqApnsQor30dGJiv79mxvLtlGa.jpg"
+  },
+  "backdrops": [
+    "/oIrCiKOzEtfOiS0uhOj7zKzPJHh.jpg",
+    "/owhMhFAmbepIQADgGfs9gLJ1UoZ.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Harper College",
+    "Oscilloscope"
+  ],
+  "crew": [
+    {
+      "personId": 32461,
+      "job": "writer"
+    },
+    {
+      "personId": 2765,
+      "job": "writer"
+    },
+    {
+      "personId": 1040068,
+      "job": "writer"
+    },
+    {
+      "personId": 2765,
+      "job": "director"
+    },
+    {
+      "personId": 937685,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2765,
+      "character": "Nick Ray",
+      "order": 0
+    },
+    {
+      "personId": 937685,
+      "character": "Richie",
+      "order": 1
+    },
+    {
+      "personId": 32461,
+      "character": "Tom Farrell",
+      "order": 2
+    },
+    {
+      "personId": 64480,
+      "character": "Danny",
+      "order": 3
+    },
+    {
+      "personId": 1519788,
+      "character": "Jill",
+      "order": 4
+    },
+    {
+      "personId": 1519789,
+      "character": "Jane",
+      "order": 5
+    },
+    {
+      "personId": 1186610,
+      "character": "Leslie",
+      "order": 6
+    },
+    {
+      "personId": 3673443,
+      "character": "Stanley",
+      "order": 7
+    },
+    {
+      "personId": 1459048,
+      "character": "Rennie",
+      "order": 8
+    },
+    {
+      "personId": 110589,
+      "character": "Allen",
+      "order": 9
+    },
+    {
+      "personId": 195851,
+      "character": "Tom",
+      "order": 10
+    },
+    {
+      "personId": 1379855,
+      "character": "William",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 23,
+  "sources": [
+    "cult-list"
+  ]
+}

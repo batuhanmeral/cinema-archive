@@ -1,0 +1,211 @@
+{
+  "tmdbId": 2252,
+  "slug": "eastern-promises-2007",
+  "year": 2007,
+  "runtime": 100,
+  "originalTitle": "Eastern Promises",
+  "title": {
+    "en": "Eastern Promises",
+    "tr": "Şark Vaatleri"
+  },
+  "overview": {
+    "en": "A Russian teenager living in London dies during childbirth but leaves clues in her diary that could tie her child to a rape involving a violent Russian mob family.",
+    "tr": "Nikolia, Londra'nın en kötü organize suç örgütüne bağlı çalışan sert ve gizemli bir adamdır. Başkalarının girmemesi için kapalı tuttuğu korunaklı yaşamı Anna'yı takip etmesiyle birlikte sarsılır. Çünkü Anna ailesine ait sırları bilincinde olmadan tesadüf eseri açığa çıkarmıştır. Ailesinin hakkını aradığını düşünen Nikolai , seri cinayetlerin, dolandırıcılığın ve mafyavari cezalandırmaların içinde yolunu kaybedecektir."
+  },
+  "poster": {
+    "tr": "/pz6lC3BNAnQYDls5XgyNqwOwKvb.jpg",
+    "en": "/nLwv1pxRCRZucQaqs6oPkq7HH3K.jpg"
+  },
+  "backdrops": [
+    "/1ckHUJ6ztq5XJRKM2nIAW0UjJNH.jpg",
+    "/nFYMMUdUwNGRRpQV8VvjkeIbT5E.jpg",
+    "/vuaW5CNx92JxvudfVnmPWSxjewP.jpg",
+    "/n8qBEB8gMTrtm8O0DTTw8xEiUcb.jpg",
+    "/6FCsNUILX8p6JCwwK2g3plkpgpH.jpg",
+    "/32485Zgpw1nY3Rk4mUuWqP8Mos5.jpg",
+    "/4tmkfYfRDRILg7xUJiGxBNCXpbn.jpg",
+    "/mhgfOLtAiJk1nm3kKlkiUKl7e9M.jpg",
+    "/8Xcir0TCt5ELgXP7uvy7qvQVI9l.jpg",
+    "/sGi2MZuycInUIv37a6WHIkKBkk9.jpg"
+  ],
+  "trailerKey": "ifilHp3_dWQ",
+  "genreIds": [
+    53,
+    80,
+    9648
+  ],
+  "keywordIds": [
+    2072,
+    212,
+    549,
+    931,
+    570,
+    331,
+    2708,
+    970,
+    8045,
+    3149,
+    6019,
+    2913,
+    6472,
+    9826,
+    11262,
+    13014,
+    14707,
+    14735,
+    167095,
+    173502,
+    181834,
+    321464
+  ],
+  "countries": [
+    "CA",
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ru",
+    "tr",
+    "uk",
+    "ur"
+  ],
+  "studios": [
+    "Focus Features",
+    "BBC Film",
+    "Kudos"
+  ],
+  "crew": [
+    {
+      "personId": 224,
+      "job": "director"
+    },
+    {
+      "personId": 23227,
+      "job": "writer"
+    },
+    {
+      "personId": 20182,
+      "job": "producer"
+    },
+    {
+      "personId": 21378,
+      "job": "producer"
+    },
+    {
+      "personId": 117,
+      "job": "composer"
+    },
+    {
+      "personId": 307,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 110,
+      "character": "Nikolai Luzhin",
+      "order": 0
+    },
+    {
+      "personId": 3489,
+      "character": "Anna Ivanovna Khitrova",
+      "order": 1
+    },
+    {
+      "personId": 1925,
+      "character": "Kirill",
+      "order": 2
+    },
+    {
+      "personId": 12647,
+      "character": "Semyon",
+      "order": 3
+    },
+    {
+      "personId": 11281,
+      "character": "Helen",
+      "order": 4
+    },
+    {
+      "personId": 20425,
+      "character": "Yuri",
+      "order": 5
+    },
+    {
+      "personId": 43553,
+      "character": "Stepan",
+      "order": 6
+    },
+    {
+      "personId": 43554,
+      "character": "Ekrem",
+      "order": 7
+    },
+    {
+      "personId": 43556,
+      "character": "Soyka",
+      "order": 8
+    },
+    {
+      "personId": 79610,
+      "character": "Tatiana",
+      "order": 9
+    },
+    {
+      "personId": 1031118,
+      "character": "Customer",
+      "order": 10
+    },
+    {
+      "personId": 61134,
+      "character": "Tatiana (voice)",
+      "order": 11
+    },
+    {
+      "personId": 230178,
+      "character": "Kirilenko",
+      "order": 12
+    },
+    {
+      "personId": 1684513,
+      "character": "Chechen",
+      "order": 13
+    },
+    {
+      "personId": 39660,
+      "character": "Chechen",
+      "order": 14
+    },
+    {
+      "personId": 440943,
+      "character": "Doctor Aziz",
+      "order": 15
+    },
+    {
+      "personId": 1027457,
+      "character": "Prostitute",
+      "order": 16
+    },
+    {
+      "personId": 1315500,
+      "character": "Prostitute",
+      "order": 17
+    },
+    {
+      "personId": 42644,
+      "character": "Chemist",
+      "order": 18
+    },
+    {
+      "personId": 83675,
+      "character": "Nurse",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3893,
+  "sources": [
+    "cult-list"
+  ]
+}

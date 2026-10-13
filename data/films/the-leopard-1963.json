@@ -1,0 +1,216 @@
+{
+  "tmdbId": 1040,
+  "slug": "the-leopard-1963",
+  "year": 1963,
+  "runtime": 186,
+  "originalTitle": "Il gattopardo",
+  "title": {
+    "en": "The Leopard",
+    "tr": "Leopar"
+  },
+  "overview": {
+    "en": "As Garibaldi's troops begin the unification of Italy in the 1860s, an aristocratic Sicilian family grudgingly adapts to the sweeping social changes undermining their way of life.",
+    "tr": "Filmde, 1860’ların İtalyası’nın hızla değişen toplumsal yapısına uyum sağlamaya çalışan yaşlı bir prensi canlandıran Burt Lancaster, statüsünü ve yaşam tarzını sağlama alma çabasıyla yeğeni Tancredi’nin (Alain Delon) zengin bir tüccarın kızı olan Angela’yla (Claudia Cardinale) evliliğini ayarlar; ve filmin final bölümünü oluşturan neredeyse bir saate yakın balo sahnesi boyunca, hem ait olduğu toplumsal sınıf hem de kendi geçmişiyle bugünü üzerine derin düşüncelere dalar. Birey ve toplum arasındaki etkileşimi büyüleyici ve görkemli bir dille anlatan böyle bir filmi, ancak Visconti gibi aristokrat kökenli bir Marksist yönetebilirdi. (Lancaster, rolünü Visconti’nin karakterinden yola çıkarak canlandırdığını söylemiştir). Aristokratların artık gücün yeni zenginlerin eline geçtiğini kabullendikleri balo sahnesi, haklı olarak sinema tarihinin en ustaca çekilmiş sahnelerinden biri olarak kabul edilir."
+  },
+  "poster": {
+    "tr": "/riSUxwoK3xjkOgy6YJSvPhi7cO6.jpg",
+    "en": "/suzpV7qrrFwo1qlnDwCn5ve1bxN.jpg"
+  },
+  "backdrops": [
+    "/myikoqu8Z2gtE7TaBgk9r6fB9MF.jpg",
+    "/9cdXCHU2vt1FeDcvOmTjdQwmJdC.jpg",
+    "/6rOXfH3fpCFR78QjaOcYfMUr6Dg.jpg",
+    "/tRuX08mBBmbnovd41tR7d4qUnFc.jpg",
+    "/hli8v3Zh23xCiuS5mrxBucWYxDT.jpg",
+    "/u8S0HFb8gP56s5gTdUiEmj6qcVd.jpg",
+    "/avG7DhbzRuAV8Bt9KC4adnLJgI4.jpg",
+    "/p24hIV69fcEvIqOBBCTUJtgDWIi.jpg",
+    "/QNoqWGYyo3Bj4dDd7snkiJKcm2.jpg",
+    "/3nV8agWIRuX3EjZdBDMPFekmKjk.jpg"
+  ],
+  "trailerKey": "06f7f24lpUI",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    4812,
+    393,
+    629,
+    6049,
+    1499,
+    2692,
+    2471,
+    1610,
+    3997,
+    4052,
+    3734,
+    4645,
+    4647,
+    4648,
+    4649,
+    163048,
+    207928,
+    273293
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr",
+    "it",
+    "la"
+  ],
+  "studios": [
+    "Titanus",
+    "Société Générale de Cinématographie (S.G.C.)",
+    "Société Nouvelle Pathé Cinéma"
+  ],
+  "crew": [
+    {
+      "personId": 15133,
+      "job": "producer"
+    },
+    {
+      "personId": 3098,
+      "job": "composer"
+    },
+    {
+      "personId": 15127,
+      "job": "director"
+    },
+    {
+      "personId": 15127,
+      "job": "writer"
+    },
+    {
+      "personId": 15131,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 53657,
+      "job": "writer"
+    },
+    {
+      "personId": 31604,
+      "job": "writer"
+    },
+    {
+      "personId": 24658,
+      "job": "writer"
+    },
+    {
+      "personId": 32048,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13784,
+      "character": "Prince Fabrizio Corbera of Salina",
+      "order": 0
+    },
+    {
+      "personId": 4959,
+      "character": "Angelica Sedara / Bastiana",
+      "order": 1
+    },
+    {
+      "personId": 15135,
+      "character": "Tancredi Falconeri",
+      "order": 2
+    },
+    {
+      "personId": 4962,
+      "character": "Don Calogero Sedara",
+      "order": 3
+    },
+    {
+      "personId": 15136,
+      "character": "Princess Maria Stella Corbera of Salina",
+      "order": 4
+    },
+    {
+      "personId": 5567,
+      "character": "Father Pirrone",
+      "order": 5
+    },
+    {
+      "personId": 15140,
+      "character": "Count Cavriaghi",
+      "order": 6
+    },
+    {
+      "personId": 17577,
+      "character": "Francesco Paolo",
+      "order": 7
+    },
+    {
+      "personId": 1494036,
+      "character": "Concetta Corbera",
+      "order": 8
+    },
+    {
+      "personId": 15139,
+      "character": "Garibaldi's General",
+      "order": 9
+    },
+    {
+      "personId": 5969,
+      "character": "Carolina",
+      "order": 10
+    },
+    {
+      "personId": 15138,
+      "character": "Caterina",
+      "order": 11
+    },
+    {
+      "personId": 1948994,
+      "character": "Paolo",
+      "order": 12
+    },
+    {
+      "personId": 1948995,
+      "character": "Little Prince",
+      "order": 13
+    },
+    {
+      "personId": 144991,
+      "character": "Mademoiselle Dombreuil, the Governess",
+      "order": 14
+    },
+    {
+      "personId": 1445411,
+      "character": "Donna Margherita",
+      "order": 15
+    },
+    {
+      "personId": 39151,
+      "character": "Tutor",
+      "order": 16
+    },
+    {
+      "personId": 544153,
+      "character": "Don Diego",
+      "order": 17
+    },
+    {
+      "personId": 1133860,
+      "character": "Cook",
+      "order": 18
+    },
+    {
+      "personId": 126555,
+      "character": "Peasant Woman",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cannes": 1
+  },
+  "voteCount": 990,
+  "sources": [
+    "cult-list"
+  ]
+}

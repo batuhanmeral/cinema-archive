@@ -1,0 +1,224 @@
+{
+  "tmdbId": 1991,
+  "slug": "death-proof-2007",
+  "year": 2007,
+  "runtime": 113,
+  "originalTitle": "Death Proof",
+  "title": {
+    "en": "Death Proof",
+    "tr": "Ölüm Geçirmez"
+  },
+  "overview": {
+    "en": "Austin's hottest DJ, Jungle Julia, sets out into the night to unwind with her two friends Shanna and Arlene. Covertly tracking their moves is Stuntman Mike, a scarred rebel leering from behind the wheel of his muscle car, revving just feet away.",
+    "tr": "Austin’in en ünlü DJ’i olan, Jungle Julia (Sydney Tamiia Poitier) en yakın arkadaşları Shanna ve Arlene’le (Jordan Ladd ve Vanessa Ferlito) eğlenmektedir. Sabaha kadar eğlenen üçlü bir şeyin farkında değildirler. Yaptıkları her şeyi izleyen biri vardır, Stuntman Mike (Kurt Russell), yüzünde derin bir yarası ve korkutucu bir arabası olan eski bir dublördür. Günlerdir kızları izleyen Mike, gecenin bitiminde, sabaha karşı yola koyulan kızların peşinden gider."
+  },
+  "poster": {
+    "tr": "/m0psvsUyJEJLdgFmBAEJrskdz1t.jpg",
+    "en": "/fru0MSMDxST1jvfQz4aUYbS64qq.jpg"
+  },
+  "backdrops": [
+    "/qbVCChwbGWDAgsCXKZxyjBrRiWx.jpg",
+    "/c7k9ZZb1MoFzJeyjphKRMLHOgqU.jpg",
+    "/hrNQWwQU6WuOKDpgFtdcDd90UnA.jpg",
+    "/apCcUxNvr731h66hJxEE4WbE7TG.jpg",
+    "/trQeAU1QM6Wq2tW6NCjSijh1ZTX.jpg",
+    "/tfTZIa2CsGQcu5C4Fx3QDvMQTVT.jpg",
+    "/sG4FCQv1HXjU3cBYsjfJWBgqXRV.jpg",
+    "/owGhiN1SOgGq1FKaAmbSTrM7QpB.jpg",
+    "/dqYeEA3YMGEBGJt5WCfXTQfWkQr.jpg",
+    "/u3y4L3a3de8Y663rcDY629sG1gd.jpg"
+  ],
+  "trailerKey": "EAPy76vxF5s",
+  "genreIds": [
+    28,
+    53
+  ],
+  "keywordIds": [
+    999,
+    4426,
+    6259,
+    635,
+    2336,
+    2804,
+    10292,
+    5452,
+    5248,
+    5424,
+    6844,
+    5956,
+    11532,
+    11762,
+    12339,
+    13125,
+    33424,
+    33984,
+    162810,
+    179431,
+    200918,
+    202371,
+    203493,
+    208156,
+    244530,
+    256330,
+    280075,
+    300992,
+    320420,
+    321464,
+    322255,
+    325767,
+    325773,
+    325790,
+    325808,
+    325823,
+    325834,
+    325842
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Dimension Films",
+    "Troublemaker Studios",
+    "Rodriguez International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 16849,
+      "job": "producer"
+    },
+    {
+      "personId": 138,
+      "job": "writer"
+    },
+    {
+      "personId": 5911,
+      "job": "producer"
+    },
+    {
+      "personId": 2294,
+      "job": "producer"
+    },
+    {
+      "personId": 138,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 138,
+      "job": "producer"
+    },
+    {
+      "personId": 138,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6856,
+      "character": "Stuntman Mike",
+      "order": 0
+    },
+    {
+      "personId": 20494,
+      "character": "Zoë Bell",
+      "order": 1
+    },
+    {
+      "personId": 5916,
+      "character": "Abernathy",
+      "order": 2
+    },
+    {
+      "personId": 20491,
+      "character": "Arlene",
+      "order": 3
+    },
+    {
+      "personId": 20493,
+      "character": "Jungle Julia",
+      "order": 4
+    },
+    {
+      "personId": 10580,
+      "character": "Kim",
+      "order": 5
+    },
+    {
+      "personId": 16850,
+      "character": "Pam",
+      "order": 6
+    },
+    {
+      "personId": 20492,
+      "character": "Shanna",
+      "order": 7
+    },
+    {
+      "personId": 17628,
+      "character": "Lee",
+      "order": 8
+    },
+    {
+      "personId": 138,
+      "character": "Warren",
+      "order": 9
+    },
+    {
+      "personId": 1237611,
+      "character": "Marcy",
+      "order": 10
+    },
+    {
+      "personId": 16847,
+      "character": "Dov",
+      "order": 11
+    },
+    {
+      "personId": 23286,
+      "character": "Nate",
+      "order": 12
+    },
+    {
+      "personId": 58744,
+      "character": "Omar",
+      "order": 13
+    },
+    {
+      "personId": 1230008,
+      "character": "Lanna Frank",
+      "order": 14
+    },
+    {
+      "personId": 58477,
+      "character": "Jasper",
+      "order": 15
+    },
+    {
+      "personId": 2067210,
+      "character": "Punky Bruiser",
+      "order": 16
+    },
+    {
+      "personId": 2067211,
+      "character": "Tim the Bartender",
+      "order": 17
+    },
+    {
+      "personId": 2067212,
+      "character": "Venus Envy",
+      "order": 18
+    },
+    {
+      "personId": 2536,
+      "character": "Earl McGraw",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 5875,
+  "sources": [
+    "cult-list"
+  ]
+}

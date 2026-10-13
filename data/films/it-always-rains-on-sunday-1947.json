@@ -1,0 +1,197 @@
+{
+  "tmdbId": 35007,
+  "slug": "it-always-rains-on-sunday-1947",
+  "year": 1947,
+  "runtime": 92,
+  "originalTitle": "It Always Rains on Sunday",
+  "title": {
+    "en": "It Always Rains on Sunday",
+    "tr": "It Always Rains on Sunday"
+  },
+  "overview": {
+    "en": "During a rainy Sunday afternoon, an escaped prisoner tries to hide out at the home of his ex-fiance.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/545TEkJNPHEMDFxiIlAsm3oGtK9.jpg",
+    "en": "/545TEkJNPHEMDFxiIlAsm3oGtK9.jpg"
+  },
+  "backdrops": [
+    "/9aM4BzsiuwqSSroCWXoxCR07qMw.jpg",
+    "/dbYEoUDMxMhHFQOBVptjYT46D4c.jpg",
+    "/l6tRb74xpFFUHGKJ5MSu81aY7vj.jpg",
+    "/2IFxcKfcniBh1lAuEpA0h16V13d.jpg"
+  ],
+  "trailerKey": "uiHxc_07-Ic",
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    212,
+    1563,
+    10685,
+    9807,
+    10718,
+    154863
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Ealing Studios",
+    "J. Arthur Rank Organisation"
+  ],
+  "crew": [
+    {
+      "personId": 70864,
+      "job": "director"
+    },
+    {
+      "personId": 70864,
+      "job": "writer"
+    },
+    {
+      "personId": 107454,
+      "job": "writer"
+    },
+    {
+      "personId": 666,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 88880,
+      "job": "writer"
+    },
+    {
+      "personId": 2578,
+      "job": "composer"
+    },
+    {
+      "personId": 3601,
+      "job": "producer"
+    },
+    {
+      "personId": 101984,
+      "job": "composer"
+    },
+    {
+      "personId": 70867,
+      "job": "composer"
+    },
+    {
+      "personId": 2986664,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14306,
+      "character": "Rose Sandigate",
+      "order": 0
+    },
+    {
+      "personId": 33267,
+      "character": "George Sandigate",
+      "order": 1
+    },
+    {
+      "personId": 97424,
+      "character": "Vi Sandigate",
+      "order": 2
+    },
+    {
+      "personId": 113575,
+      "character": "Doris Sandigate",
+      "order": 3
+    },
+    {
+      "personId": 113576,
+      "character": "Alfie Sandigate",
+      "order": 4
+    },
+    {
+      "personId": 109865,
+      "character": "Morry Hyams",
+      "order": 5
+    },
+    {
+      "personId": 106631,
+      "character": "Sadie Hyams",
+      "order": 6
+    },
+    {
+      "personId": 107434,
+      "character": "Lou Hyams, Morrie's Brother",
+      "order": 7
+    },
+    {
+      "personId": 97675,
+      "character": "Bessie Hyams, Morrie's Sister",
+      "order": 8
+    },
+    {
+      "personId": 113577,
+      "character": "Solly Hyams, Morrie's Father",
+      "order": 9
+    },
+    {
+      "personId": 97423,
+      "character": "Tommy Swann",
+      "order": 10
+    },
+    {
+      "personId": 108680,
+      "character": "Whitey",
+      "order": 11
+    },
+    {
+      "personId": 113578,
+      "character": "Freddie",
+      "order": 12
+    },
+    {
+      "personId": 30119,
+      "character": "Dicey Perkins",
+      "order": 13
+    },
+    {
+      "personId": 100343,
+      "character": "Detective Sergeant Fothergill",
+      "order": 14
+    },
+    {
+      "personId": 3679,
+      "character": "Detective Sergeant Leech",
+      "order": 15
+    },
+    {
+      "personId": 140085,
+      "character": "Slopey Collins",
+      "order": 16
+    },
+    {
+      "personId": 5827,
+      "character": "Doss, Housekeeper",
+      "order": 17
+    },
+    {
+      "personId": 108637,
+      "character": "Ted Edwards",
+      "order": 18
+    },
+    {
+      "personId": 47017,
+      "character": "Caleb Neesley",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 74,
+  "sources": [
+    "cult-list"
+  ]
+}

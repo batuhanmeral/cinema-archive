@@ -1,0 +1,200 @@
+{
+  "tmdbId": 10403,
+  "slug": "the-player-1992",
+  "year": 1992,
+  "runtime": 124,
+  "originalTitle": "The Player",
+  "title": {
+    "en": "The Player",
+    "tr": "Oyuncular"
+  },
+  "overview": {
+    "en": "A Hollywood studio executive is being sent death threats by a writer whose script he rejected - but which one?",
+    "tr": "Film yapımcısı Griffin Mill (Tim Robbins), hergün yüzlerce senaryoyu red etmektedir. fakat bir gün bir senaryo yazarından ölüm tehditleri almaya başlar.  Senaryo yazarının kimliğini ortaya çıkarmaya çalışan Mill, üstüste yaptığı hatalarla rakibinin eline onun şantaj için kullanabileceği malzemeler verir.  Hollywood'un kirli çamaşırlarını ortaya döken bir kara komedi."
+  },
+  "poster": {
+    "tr": "/tZ3kDut2dhFVGkWNEn9xoCHCNAx.jpg",
+    "en": "/l37Ul9ZH1pjafxgwMVDRwYlAubK.jpg"
+  },
+  "backdrops": [
+    "/tKyxF6ZyxF65CcJKBKId1VavpGP.jpg",
+    "/rXj1UrzBqsbiCbH1ntJ5yDeysYc.jpg",
+    "/uxjPyKutAtw7lHZ3mHg0MzQvAK9.jpg",
+    "/sAilwRaXOzpBTF6ryYnbJRrWsq5.jpg",
+    "/uwJG37snapnaMOe2r3cvv0D1xd4.jpg",
+    "/z4kdhV7Nc4WvLHKfXDDpQY1ERCd.jpg",
+    "/90fI8hLoOnJpnj5Jbq9RbCTiNj1.jpg",
+    "/zj2HMMiCDiCLVPj4ECmXjEA2r68.jpg",
+    "/yKWThcQySZTdVQ2mMnK87WQouoZ.jpg",
+    "/dWyxkhQr3cof9tKlOqqvLjgdgPX.jpg"
+  ],
+  "trailerKey": "HpDDTS08wPs",
+  "genreIds": [
+    9648,
+    18,
+    53
+  ],
+  "keywordIds": [
+    818,
+    1849,
+    886,
+    1936,
+    888,
+    12396,
+    170646,
+    222269,
+    246610,
+    254568,
+    325769,
+    325776,
+    325823
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Avenue Pictures",
+    "Spelling Entertainment",
+    "Addis-Wechsler Productions"
+  ],
+  "crew": [
+    {
+      "personId": 16939,
+      "job": "writer"
+    },
+    {
+      "personId": 6468,
+      "job": "producer"
+    },
+    {
+      "personId": 9789,
+      "job": "director"
+    },
+    {
+      "personId": 153,
+      "job": "composer"
+    },
+    {
+      "personId": 5322,
+      "job": "producer"
+    },
+    {
+      "personId": 16939,
+      "job": "producer"
+    },
+    {
+      "personId": 33459,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 504,
+      "character": "Griffin Mill",
+      "order": 0
+    },
+    {
+      "personId": 21245,
+      "character": "June Gudmundsdottir",
+      "order": 1
+    },
+    {
+      "personId": 10430,
+      "character": "Walter Stuckel",
+      "order": 2
+    },
+    {
+      "personId": 2395,
+      "character": "Detective Avery",
+      "order": 3
+    },
+    {
+      "personId": 8212,
+      "character": "Larry Levy",
+      "order": 4
+    },
+    {
+      "personId": 591,
+      "character": "Joel Levison",
+      "order": 5
+    },
+    {
+      "personId": 65528,
+      "character": "Bonnie Sherow",
+      "order": 6
+    },
+    {
+      "personId": 7132,
+      "character": "David Kahane",
+      "order": 7
+    },
+    {
+      "personId": 923,
+      "character": "Andy Civella",
+      "order": 8
+    },
+    {
+      "personId": 20766,
+      "character": "Tom Oakley",
+      "order": 9
+    },
+    {
+      "personId": 2226,
+      "character": "Dick Mellen",
+      "order": 10
+    },
+    {
+      "personId": 11059,
+      "character": "Detective DeLongpre",
+      "order": 11
+    },
+    {
+      "personId": 58414,
+      "character": "Celia",
+      "order": 12
+    },
+    {
+      "personId": 1039988,
+      "character": "Jan",
+      "order": 13
+    },
+    {
+      "personId": 114809,
+      "character": "Sandy",
+      "order": 14
+    },
+    {
+      "personId": 177049,
+      "character": "Jimmy Chase",
+      "order": 15
+    },
+    {
+      "personId": 36631,
+      "character": "Reg Goldman",
+      "order": 16
+    },
+    {
+      "personId": 12799,
+      "character": "Steve Reeves",
+      "order": 17
+    },
+    {
+      "personId": 11150,
+      "character": "Whitney Gersh",
+      "order": 18
+    },
+    {
+      "personId": 10414,
+      "character": "Frank Murphy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1004,
+  "sources": [
+    "cult-list"
+  ]
+}

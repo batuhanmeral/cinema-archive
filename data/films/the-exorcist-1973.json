@@ -1,0 +1,206 @@
+{
+  "tmdbId": 9552,
+  "slug": "the-exorcist-1973",
+  "year": 1973,
+  "runtime": 122,
+  "originalTitle": "The Exorcist",
+  "title": {
+    "en": "The Exorcist",
+    "tr": "Şeytan"
+  },
+  "overview": {
+    "en": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+    "tr": "Bir sokaktaki bir evde küçük bir kıza alışılmadık şeyler olur. Son çare olarak onu kurtarması için bir adam çağrılır. Bu adam şeytan çıkarmaktadır.Washington D.C.deki bir kadın oyuncu, 12 yaşındaki kızının davranışlarında ve görünüşünde dramatik ve tehlikeli değişiklikler fark eder. Bu sırada Georgetown Üniversitesi'nde genç bir rahip, annesinin ölümcül hastalığı ile uğraşırken inancından şüphe duymaya başlamıştır."
+  },
+  "poster": {
+    "tr": "/stZa9Qy4gTRlc6tDVUCSGxIH4XA.jpg",
+    "en": "/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg"
+  },
+  "backdrops": [
+    "/lNlWuDxf3EvnbpNCMc7zVtpEQAC.jpg",
+    "/xcjJ5khg2yzOa282mza39Lbrm7j.jpg",
+    "/w7T0BbyRWrVhJY6W6fDx8X6ektP.jpg",
+    "/huC0x1don81NMreSGx4ITkrv9aG.jpg",
+    "/yEvkDw5Osqkzq9DEdKhIjm7f3jH.jpg",
+    "/sFm8iEF5ddSmJgBCNlxvXqluSO5.jpg",
+    "/99qhSZnMj2BsmE6TuxUNqZUFWfY.jpg",
+    "/khFFCe7vs7pvz6yWRz91bAByRX8.jpg",
+    "/dwkAsOqmF6HsdgbBnVQ39smrhOJ.jpg",
+    "/wasPWWe47VY9DEI4lRIqkorMNyU.jpg"
+  ],
+  "trailerKey": "BU2eYAO31Cc",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    521,
+    818,
+    3684,
+    2626,
+    3335,
+    11627,
+    9712,
+    10138,
+    10093,
+    15001,
+    157008,
+    161261,
+    162810,
+    179567,
+    239680,
+    256183,
+    314730,
+    319319,
+    322255,
+    325778,
+    325847,
+    344686
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "de",
+    "fr",
+    "la",
+    "ar",
+    "el",
+    "en"
+  ],
+  "studios": [
+    "Hoya Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 57922,
+      "job": "producer"
+    },
+    {
+      "personId": 15175,
+      "job": "director"
+    },
+    {
+      "personId": 57922,
+      "job": "writer"
+    },
+    {
+      "personId": 16331,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7066,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9560,
+      "character": "Chris MacNeil",
+      "order": 0
+    },
+    {
+      "personId": 37366,
+      "character": "Regan MacNeil",
+      "order": 1
+    },
+    {
+      "personId": 21736,
+      "character": "Father Damien Karras",
+      "order": 2
+    },
+    {
+      "personId": 2201,
+      "character": "Father Lankester Merrin",
+      "order": 3
+    },
+    {
+      "personId": 5248,
+      "character": "Lt. Bill Kinderman",
+      "order": 4
+    },
+    {
+      "personId": 65433,
+      "character": "Father Joseph Kevin Dyer",
+      "order": 5
+    },
+    {
+      "personId": 57921,
+      "character": "Sharon Spencer",
+      "order": 6
+    },
+    {
+      "personId": 79732,
+      "character": "Dr. Klein",
+      "order": 7
+    },
+    {
+      "personId": 71732,
+      "character": "Dr. Barringer",
+      "order": 8
+    },
+    {
+      "personId": 14016,
+      "character": "Burke Dennings",
+      "order": 9
+    },
+    {
+      "personId": 26600,
+      "character": "Karl",
+      "order": 10
+    },
+    {
+      "personId": 982340,
+      "character": "Willi",
+      "order": 11
+    },
+    {
+      "personId": 119716,
+      "character": "Dr. Taney",
+      "order": 12
+    },
+    {
+      "personId": 589090,
+      "character": "Psychiatrist",
+      "order": 13
+    },
+    {
+      "personId": 1052762,
+      "character": "Tom",
+      "order": 14
+    },
+    {
+      "personId": 2204437,
+      "character": "Mary Karras",
+      "order": 15
+    },
+    {
+      "personId": 140177,
+      "character": "Uncle John",
+      "order": 16
+    },
+    {
+      "personId": 43978,
+      "character": "Language Lab Director",
+      "order": 17
+    },
+    {
+      "personId": 1388307,
+      "character": "Bishop Michael",
+      "order": 18
+    },
+    {
+      "personId": 169281,
+      "character": "Chuck / Demon (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "golden-globe": 4,
+    "oscar": 2
+  },
+  "voteCount": 8984,
+  "sources": [
+    "cult-list"
+  ]
+}

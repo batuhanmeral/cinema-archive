@@ -1,0 +1,190 @@
+{
+  "tmdbId": 10540,
+  "slug": "outland-1981",
+  "year": 1981,
+  "runtime": 110,
+  "originalTitle": "Outland",
+  "title": {
+    "en": "Outland",
+    "tr": "Outland"
+  },
+  "overview": {
+    "en": "On the sunless moon Io, Marshall William T. O’Niel goes toe-to-toe with the corrupt manager of a mining colony and his gang of roughnecks while investigating a rash of worker suicides.",
+    "tr": "Şerif O'Neill, Jüpiter'in uydularından Io'daki bir maden kolonisine gönderilir. Görevi sırasında, madenciler şiddet dolu gizemli ölümlerle bir bir can veriyordur. Yaptığı soruşturmada, tüm ölümlerin tehlikeli bir amfetamin türüyle bağlantılı olduğunu keşfeder. Bu uyuşturucu, madencilere \"günlerce durmadan çalışma gücü\" veriyor - ta ki bedenleri iflas edene kadar... O'Neill, uyuşturucu trafiğinin izini sürdüğünde, ana organizatörün koloninin yöneticisi olduğunu ortaya çıkarır. Artık şerifin kendisi hedef tahtasındadır!"
+  },
+  "poster": {
+    "tr": "/qmjlDkV8CfCboa8WV06ytZaThqx.jpg",
+    "en": "/qmjlDkV8CfCboa8WV06ytZaThqx.jpg"
+  },
+  "backdrops": [
+    "/7TT72y1tWER6ACETXD5QW9NLnIn.jpg",
+    "/hCJ3xGMyzwpBcUlBGJGyUwDgQ4d.jpg",
+    "/c9dwagHwUhb0EqkP5pgKWWtIYHf.jpg",
+    "/wXp2UHlEKfppemsSPToe53Oj7QV.jpg",
+    "/hbQpqwpSnmJcPLPTbP4l82hiRdl.jpg",
+    "/4DU44cea7nMs7GZUNjskQqbQJLN.jpg",
+    "/mntoyZZWuc2EwrbIskIQXwqPiCw.jpg",
+    "/j2fu5O7Np62dlTmfW7BoSseQlbq.jpg",
+    "/zMAMIX9wGGhAimkdZcNaaSvKvZf.jpg",
+    "/rUNamkdc24ZLpXRvZh1V0zkOapz.jpg"
+  ],
+  "trailerKey": "Z7OzKVHzfiI",
+  "genreIds": [
+    878,
+    28,
+    53,
+    80
+  ],
+  "keywordIds": [
+    1157,
+    306,
+    4183,
+    1502,
+    6015,
+    11733,
+    11606,
+    14967,
+    211487,
+    301542
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Ladd Company",
+    "Outland Productions"
+  ],
+  "crew": [
+    {
+      "personId": 37710,
+      "job": "director"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    },
+    {
+      "personId": 37710,
+      "job": "writer"
+    },
+    {
+      "personId": 5582,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11790,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 738,
+      "character": "Marshal William T. O'Niel",
+      "order": 0
+    },
+    {
+      "personId": 1039,
+      "character": "Mark Sheppard",
+      "order": 1
+    },
+    {
+      "personId": 36926,
+      "character": "Dr. Lazarus",
+      "order": 2
+    },
+    {
+      "personId": 65568,
+      "character": "Sgt. Montone",
+      "order": 3
+    },
+    {
+      "personId": 42567,
+      "character": "Carol O'Niel",
+      "order": 4
+    },
+    {
+      "personId": 61011,
+      "character": "Sgt. Ballard",
+      "order": 5
+    },
+    {
+      "personId": 782,
+      "character": "Sagan",
+      "order": 6
+    },
+    {
+      "personId": 7907,
+      "character": "Tarlow",
+      "order": 7
+    },
+    {
+      "personId": 1046059,
+      "character": "Paul O'Niel",
+      "order": 8
+    },
+    {
+      "personId": 99366,
+      "character": "Lowell",
+      "order": 9
+    },
+    {
+      "personId": 18775,
+      "character": "Nicholas Spota",
+      "order": 10
+    },
+    {
+      "personId": 201335,
+      "character": "Flo Spector",
+      "order": 11
+    },
+    {
+      "personId": 186212,
+      "character": "Officer Nelson",
+      "order": 12
+    },
+    {
+      "personId": 58475,
+      "character": "Hughes",
+      "order": 13
+    },
+    {
+      "personId": 96895,
+      "character": "Walters",
+      "order": 14
+    },
+    {
+      "personId": 28871,
+      "character": "Cane",
+      "order": 15
+    },
+    {
+      "personId": 116123,
+      "character": "Officer Slater",
+      "order": 16
+    },
+    {
+      "personId": 1925982,
+      "character": "Russel Yario",
+      "order": 17
+    },
+    {
+      "personId": 1222369,
+      "character": "Nurse",
+      "order": 18
+    },
+    {
+      "personId": 1511851,
+      "character": "Worker at Table",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 740,
+  "sources": [
+    "cult-list"
+  ]
+}

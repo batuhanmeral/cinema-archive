@@ -1,0 +1,201 @@
+{
+  "tmdbId": 1847,
+  "slug": "the-long-goodbye-1973",
+  "year": 1973,
+  "runtime": 112,
+  "originalTitle": "The Long Goodbye",
+  "title": {
+    "en": "The Long Goodbye",
+    "tr": "Uzun Veda"
+  },
+  "overview": {
+    "en": "In 1970s Hollywood, Detective Philip Marlowe tries to help a friend who is accused of murdering his wife.",
+    "tr": "Efsanevi özel dedektif Philip Marlowe, karısını öldürmekle suçlanan bir arkadaşının olayıyla ilgileniyor."
+  },
+  "poster": {
+    "tr": "/tRm1FrE5mXav2qYojZ9jIC8wHR1.jpg",
+    "en": "/oBhUK54yBJ0aH6u9zCzSV5iV7OP.jpg"
+  },
+  "backdrops": [
+    "/g3KOnOycUThwV4PRjtiAK0CuzID.jpg",
+    "/9rm4TX4m6RHa5DbXDuRlVoawFU9.jpg",
+    "/1hi33PPAQ1eMGJ1xHvgQAFJlSxI.jpg",
+    "/fMsvyKj7BrcK5ko4r9x6EuTC21M.jpg",
+    "/Tdi0AAak5vTx4VsHjbwTkELnGr.jpg",
+    "/eXCKkX8LVo1vRK4GhVoo0bA8jHM.jpg",
+    "/ar87yH9za6qTdztLa6H1BhfI1rk.jpg",
+    "/fg9QF4bd1dgMaZ4hAFnwZoVh7cr.jpg",
+    "/fYdH6BsjzxwOfyAUpqGwQUlvPDT.jpg",
+    "/AsqUhPzor673IvPEG3mVyV66EWK.jpg"
+  ],
+  "trailerKey": "XqLUx8RF0EQ",
+  "genreIds": [
+    9648,
+    80,
+    35
+  ],
+  "keywordIds": [
+    1326,
+    236,
+    417,
+    6149,
+    977,
+    703,
+    5332,
+    3045,
+    4504,
+    4668,
+    5616,
+    7464,
+    9826,
+    12099,
+    12570,
+    12670,
+    15271,
+    164162,
+    185525,
+    207268,
+    207691,
+    233361
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "United Artists",
+    "Lion's Gate Films"
+  ],
+  "crew": [
+    {
+      "personId": 4298,
+      "job": "writer"
+    },
+    {
+      "personId": 19436,
+      "job": "producer"
+    },
+    {
+      "personId": 9789,
+      "job": "director"
+    },
+    {
+      "personId": 12235,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 827,
+      "character": "Philip Marlowe",
+      "order": 0
+    },
+    {
+      "personId": 41732,
+      "character": "Eileen Wade",
+      "order": 1
+    },
+    {
+      "personId": 3088,
+      "character": "Roger Wade",
+      "order": 2
+    },
+    {
+      "personId": 21958,
+      "character": "Marty Augustine",
+      "order": 3
+    },
+    {
+      "personId": 19439,
+      "character": "Dr. Verringer",
+      "order": 4
+    },
+    {
+      "personId": 9808,
+      "character": "Harry",
+      "order": 5
+    },
+    {
+      "personId": 19442,
+      "character": "Terry Lennox",
+      "order": 6
+    },
+    {
+      "personId": 19440,
+      "character": "Morgan",
+      "order": 7
+    },
+    {
+      "personId": 19443,
+      "character": "Jo Ann Eggenweiler",
+      "order": 8
+    },
+    {
+      "personId": 1234396,
+      "character": "Detective Farmer",
+      "order": 9
+    },
+    {
+      "personId": 19444,
+      "character": "Mabel",
+      "order": 10
+    },
+    {
+      "personId": 19445,
+      "character": "Pepe",
+      "order": 11
+    },
+    {
+      "personId": 19446,
+      "character": "Vince",
+      "order": 12
+    },
+    {
+      "personId": 19447,
+      "character": "Doctor",
+      "order": 13
+    },
+    {
+      "personId": 19448,
+      "character": "Jeffe",
+      "order": 14
+    },
+    {
+      "personId": 80135,
+      "character": "Rutanya Sweet",
+      "order": 15
+    },
+    {
+      "personId": 2307046,
+      "character": "Dancer",
+      "order": 16
+    },
+    {
+      "personId": 62590,
+      "character": "Riley",
+      "order": 17
+    },
+    {
+      "personId": 77482,
+      "character": "Colony Guard",
+      "order": 18
+    },
+    {
+      "personId": 153535,
+      "character": "Detective Green",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 836,
+  "sources": [
+    "cult-list"
+  ]
+}

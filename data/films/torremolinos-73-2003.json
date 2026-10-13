@@ -1,0 +1,185 @@
+{
+  "tmdbId": 26488,
+  "slug": "torremolinos-73-2003",
+  "year": 2003,
+  "runtime": 87,
+  "originalTitle": "Torremolinos 73",
+  "title": {
+    "en": "Torremolinos 73",
+    "tr": "Torremolinos 73"
+  },
+  "overview": {
+    "en": "Set in 1973 Spain, a struggling encyclopedia salesman and his wife take advantage of an offer to make adult films. The act turns him into an aspring legit filmmaker and her into an international sex symbol.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ljQh3rHlltuJnWT1w54s7bBhUd.jpg",
+    "en": "/ljQh3rHlltuJnWT1w54s7bBhUd.jpg"
+  },
+  "backdrops": [
+    "/eiLMrtjnMO4IDnYrXkfVQzOqp7r.jpg"
+  ],
+  "trailerKey": "EOMdJmeKCTo",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    886,
+    1228,
+    9672,
+    9732,
+    15197,
+    33490,
+    160329,
+    190370,
+    195997,
+    236316
+  ],
+  "countries": [
+    "ES",
+    "DK"
+  ],
+  "languages": [
+    "da",
+    "es"
+  ],
+  "studios": [
+    "Vía Digital",
+    "Telespan 2000",
+    "Telecinco"
+  ],
+  "crew": [
+    {
+      "personId": 95528,
+      "job": "director"
+    },
+    {
+      "personId": 95528,
+      "job": "writer"
+    },
+    {
+      "personId": 27454,
+      "job": "producer"
+    },
+    {
+      "personId": 16437,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 43319,
+      "job": "composer"
+    },
+    {
+      "personId": 27453,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1610,
+      "character": "Alfredo López",
+      "order": 0
+    },
+    {
+      "personId": 958,
+      "character": "Carmen",
+      "order": 1
+    },
+    {
+      "personId": 37580,
+      "character": "Don Carlos",
+      "order": 2
+    },
+    {
+      "personId": 43321,
+      "character": "Juan Luis",
+      "order": 3
+    },
+    {
+      "personId": 1019,
+      "character": "Magnus",
+      "order": 4
+    },
+    {
+      "personId": 96428,
+      "character": "Vanessa",
+      "order": 5
+    },
+    {
+      "personId": 24987,
+      "character": "José Carlos Romerales",
+      "order": 6
+    },
+    {
+      "personId": 81472,
+      "character": "Señora de Romerales",
+      "order": 7
+    },
+    {
+      "personId": 97690,
+      "character": "Doña Isabel",
+      "order": 8
+    },
+    {
+      "personId": 1430682,
+      "character": "Erik",
+      "order": 9
+    },
+    {
+      "personId": 282873,
+      "character": "Frida",
+      "order": 10
+    },
+    {
+      "personId": 4464,
+      "character": "Lauritz",
+      "order": 11
+    },
+    {
+      "personId": 1484856,
+      "character": "Sr. Anasagasti",
+      "order": 12
+    },
+    {
+      "personId": 565346,
+      "character": "Señora de Anasagasti",
+      "order": 13
+    },
+    {
+      "personId": 1175944,
+      "character": "Ginecólogo",
+      "order": 14
+    },
+    {
+      "personId": 33828,
+      "character": "Máximo Valverde",
+      "order": 15
+    },
+    {
+      "personId": 1441041,
+      "character": "Ole",
+      "order": 16
+    },
+    {
+      "personId": 102229,
+      "character": "Aksel",
+      "order": 17
+    },
+    {
+      "personId": 4457,
+      "character": "Dennis",
+      "order": 18
+    },
+    {
+      "personId": 558254,
+      "character": "Doctor Johansen",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 86,
+  "sources": [
+    "cult-list"
+  ]
+}

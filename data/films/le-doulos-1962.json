@@ -1,0 +1,190 @@
+{
+  "tmdbId": 20778,
+  "slug": "le-doulos-1962",
+  "year": 1962,
+  "runtime": 108,
+  "originalTitle": "Le Doulos",
+  "title": {
+    "en": "Le Doulos",
+    "tr": "Le Doulos"
+  },
+  "overview": {
+    "en": "Enigmatic gangster Silien may or may not be responsible for informing on Faugel,  who was just released from prison and is already involved in what should be a simple heist. By the end of this brutal, twisting, and multilayered policier, who will be left to trust?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/f8Su2mIJ5PyL2NkkrYnswX5IydV.jpg",
+    "en": "/gR8z8eVGmxlzZ5gL8gkjYpPBWn9.jpg"
+  },
+  "backdrops": [
+    "/zuGRz4iaWPi5VTb6bQW7j4G0OP.jpg",
+    "/7TExnpZZMwknT55UQDNXZgHPbLs.jpg",
+    "/ixAQDGCwng2OOAhLBKkmF2kYc7v.jpg",
+    "/6fX4DqAGPBVDcN0IhETXwfGDy9N.jpg",
+    "/HsMjDWfsNgZNOOlAttRfe4bsfq.jpg",
+    "/w4Dip85Z62ksEgl4LnWe1xeliJl.jpg",
+    "/3uiEbX9XwQ24YLX2y5xYRmhHkNc.jpg",
+    "/1k7iHOmL8PmIWQqQB6WudfxnOxJ.jpg",
+    "/tBr4G7AmlpzdsGhgCh2KC2FHjLl.jpg",
+    "/Ara8IacBsMWwe9XaUa4P54sHUaK.jpg"
+  ],
+  "trailerKey": "5-NbnHocnFk",
+  "genreIds": [
+    18,
+    53,
+    80
+  ],
+  "keywordIds": [
+    3017,
+    10085,
+    47018,
+    155845,
+    171854,
+    190317,
+    325379
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Rome-Paris Films",
+    "C. C. Champion"
+  ],
+  "crew": [
+    {
+      "personId": 3831,
+      "job": "director"
+    },
+    {
+      "personId": 3831,
+      "job": "writer"
+    },
+    {
+      "personId": 37988,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3779,
+      "job": "producer"
+    },
+    {
+      "personId": 3778,
+      "job": "producer"
+    },
+    {
+      "personId": 24295,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3829,
+      "character": "Silien",
+      "order": 0
+    },
+    {
+      "personId": 15137,
+      "character": "Maurice Faugel",
+      "order": 1
+    },
+    {
+      "personId": 18559,
+      "character": "Superintendant Clain",
+      "order": 2
+    },
+    {
+      "personId": 112754,
+      "character": "Gilbert Varnove",
+      "order": 3
+    },
+    {
+      "personId": 28264,
+      "character": "Police inspector",
+      "order": 4
+    },
+    {
+      "personId": 112755,
+      "character": "Jean",
+      "order": 5
+    },
+    {
+      "personId": 99473,
+      "character": "Fabienne",
+      "order": 6
+    },
+    {
+      "personId": 112756,
+      "character": "Thérèse",
+      "order": 7
+    },
+    {
+      "personId": 112757,
+      "character": "Kern",
+      "order": 8
+    },
+    {
+      "personId": 112758,
+      "character": "Doctor",
+      "order": 9
+    },
+    {
+      "personId": 112759,
+      "character": "Armand",
+      "order": 10
+    },
+    {
+      "personId": 112760,
+      "character": "Police inspector",
+      "order": 11
+    },
+    {
+      "personId": 5444,
+      "character": "Remy",
+      "order": 12
+    },
+    {
+      "personId": 112762,
+      "character": "Old Man",
+      "order": 13
+    },
+    {
+      "personId": 18570,
+      "character": "Anita",
+      "order": 14
+    },
+    {
+      "personId": 3784,
+      "character": "Nuttheccio",
+      "order": 15
+    },
+    {
+      "personId": 140363,
+      "character": "Barman",
+      "order": 16
+    },
+    {
+      "personId": 223283,
+      "character": "Inspector Salignari",
+      "order": 17
+    },
+    {
+      "personId": 1509816,
+      "character": "Butler (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1071434,
+      "character": "Barman (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 319,
+  "sources": [
+    "cult-list"
+  ]
+}

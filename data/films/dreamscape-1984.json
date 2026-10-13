@@ -1,0 +1,186 @@
+{
+  "tmdbId": 24099,
+  "slug": "dreamscape-1984",
+  "year": 1984,
+  "runtime": 99,
+  "originalTitle": "Dreamscape",
+  "title": {
+    "en": "Dreamscape",
+    "tr": "Dreamscape"
+  },
+  "overview": {
+    "en": "In order to diagnose the psychic traumas suffered by his patients, Dr. Paul Novotny gets young Alex Gardner to enter their dreams.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gRLhwWhXS9asnE4c1mt84t1iEER.jpg",
+    "en": "/3hQ1ZiZL16yfFXNTZQyZ8lpF5zd.jpg"
+  },
+  "backdrops": [
+    "/qtdLpv0Qtqv1QMnmmnyRP0hf2Ek.jpg",
+    "/tc3ti6qRHDRKLwXBoVltRIkYIbL.jpg",
+    "/i6crTCVdyF1ltCP296hmhSlmPr3.jpg",
+    "/7YcwXiwPuhh9CL1WD8qV5wyqBVL.jpg"
+  ],
+  "trailerKey": "4ybHzYtF3ZM",
+  "genreIds": [
+    18,
+    878,
+    53
+  ],
+  "keywordIds": [
+    1566,
+    1299,
+    840,
+    2860,
+    5086,
+    14742,
+    211144
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Zupnik-Curtis Enterprises"
+  ],
+  "crew": [
+    {
+      "personId": 52629,
+      "job": "director"
+    },
+    {
+      "personId": 105598,
+      "job": "producer"
+    },
+    {
+      "personId": 26713,
+      "job": "writer"
+    },
+    {
+      "personId": 52629,
+      "job": "writer"
+    },
+    {
+      "personId": 2704,
+      "job": "composer"
+    },
+    {
+      "personId": 473,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2075,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6065,
+      "character": "Alex Gardner",
+      "order": 0
+    },
+    {
+      "personId": 2201,
+      "character": "Paul Novotny",
+      "order": 1
+    },
+    {
+      "personId": 290,
+      "character": "Bob Blair",
+      "order": 2
+    },
+    {
+      "personId": 11998,
+      "character": "The President",
+      "order": 3
+    },
+    {
+      "personId": 689,
+      "character": "Jane DeVries",
+      "order": 4
+    },
+    {
+      "personId": 1737,
+      "character": "Tommy Ray Glatman",
+      "order": 5
+    },
+    {
+      "personId": 66606,
+      "character": "Charlie Prince",
+      "order": 6
+    },
+    {
+      "personId": 104037,
+      "character": "Mr. Webber",
+      "order": 7
+    },
+    {
+      "personId": 1441150,
+      "character": "Buddy",
+      "order": 8
+    },
+    {
+      "personId": 158939,
+      "character": "Snead",
+      "order": 9
+    },
+    {
+      "personId": 6916,
+      "character": "Babcock",
+      "order": 10
+    },
+    {
+      "personId": 15824,
+      "character": "Finch",
+      "order": 11
+    },
+    {
+      "personId": 151604,
+      "character": "Mrs. Webber",
+      "order": 12
+    },
+    {
+      "personId": 118756,
+      "character": "Fred Schoenstein",
+      "order": 13
+    },
+    {
+      "personId": 1660672,
+      "character": "Mrs. Matusik",
+      "order": 14
+    },
+    {
+      "personId": 1634774,
+      "character": "President's Daughter",
+      "order": 15
+    },
+    {
+      "personId": 2309526,
+      "character": "Tommy Ray's Father",
+      "order": 16
+    },
+    {
+      "personId": 10088,
+      "character": "President's Wife",
+      "order": 17
+    },
+    {
+      "personId": 98145,
+      "character": "Edward Simms",
+      "order": 18
+    },
+    {
+      "personId": 6580,
+      "character": "McClaren",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 335,
+  "sources": [
+    "cult-list"
+  ]
+}

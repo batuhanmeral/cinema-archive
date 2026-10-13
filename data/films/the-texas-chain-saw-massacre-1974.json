@@ -1,0 +1,193 @@
+{
+  "tmdbId": 30497,
+  "slug": "the-texas-chain-saw-massacre-1974",
+  "year": 1974,
+  "runtime": 83,
+  "originalTitle": "The Texas Chain Saw Massacre",
+  "title": {
+    "en": "The Texas Chain Saw Massacre",
+    "tr": "Teksas Katliamı"
+  },
+  "overview": {
+    "en": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way, they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
+    "tr": "Dedelerinin mezarını ziyaret etmek üzere Teksas kırsalına yolculuk eden beş arkadaş, yol üstünde terk edilmiş gibi görünen bir evle karşılaşır. Ancak grubun keşfettiği bu yer, ellerinde motorlu testereyle bekleyen yamyam bir ailenin kanlı tuzağına dönüşecektir."
+  },
+  "poster": {
+    "tr": "/t9dhVHYmo4JpFPslG42Z8hhoV0R.jpg",
+    "en": "/9s8uSm5K1W0vhGPHv2icM6SFib8.jpg"
+  },
+  "backdrops": [
+    "/1I1cFIKnXEdaOfN4597Y91oNXyo.jpg",
+    "/rCCje7XF5n89pf53AK7SpSz9lkq.jpg",
+    "/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg",
+    "/5aXWGgEsK273mXGGAoToUF7cdQz.jpg",
+    "/aHGarZhNh9Kh2QRJQQeW0nCTKmD.jpg",
+    "/inhNGn5iNS7rGe1lvufcEa06g5q.jpg",
+    "/ehFDoiqSYeEHZVM1xijriLj6xhQ.jpg",
+    "/bAZv8uQ0d1QQnxVhZVush4bOjW3.jpg",
+    "/i0XY749dz3Rb9jtTzh3CNLuHcuf.jpg",
+    "/duyUJPCGJMKXeHAfwVGs92zv209.jpg"
+  ],
+  "trailerKey": "iSxFeBdcqeE",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    4580,
+    1420,
+    625,
+    1556,
+    11545,
+    11546,
+    11547,
+    12339,
+    12394,
+    14895,
+    18035,
+    33874,
+    41207,
+    199524,
+    278235,
+    295907,
+    314730,
+    325743,
+    325766,
+    325818,
+    326381,
+    342626,
+    384154
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Vortex",
+    "Henkel Productions",
+    "Hooper Productions"
+  ],
+  "crew": [
+    {
+      "personId": 10051,
+      "job": "director"
+    },
+    {
+      "personId": 27797,
+      "job": "writer"
+    },
+    {
+      "personId": 10051,
+      "job": "writer"
+    },
+    {
+      "personId": 10051,
+      "job": "producer"
+    },
+    {
+      "personId": 6042,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10051,
+      "job": "composer"
+    },
+    {
+      "personId": 75406,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27798,
+      "character": "Sally",
+      "order": 0
+    },
+    {
+      "personId": 122454,
+      "character": "Jerry",
+      "order": 1
+    },
+    {
+      "personId": 122455,
+      "character": "Franklin",
+      "order": 2
+    },
+    {
+      "personId": 122456,
+      "character": "Kirk",
+      "order": 3
+    },
+    {
+      "personId": 122457,
+      "character": "Pam",
+      "order": 4
+    },
+    {
+      "personId": 27803,
+      "character": "Hitchhiker",
+      "order": 5
+    },
+    {
+      "personId": 104014,
+      "character": "Old Man",
+      "order": 6
+    },
+    {
+      "personId": 27804,
+      "character": "Leatherface",
+      "order": 7
+    },
+    {
+      "personId": 104892,
+      "character": "Grandfather",
+      "order": 8
+    },
+    {
+      "personId": 1453740,
+      "character": "Window Washer",
+      "order": 9
+    },
+    {
+      "personId": 565191,
+      "character": "Bearded Man",
+      "order": 10
+    },
+    {
+      "personId": 1372356,
+      "character": "Storyteller",
+      "order": 11
+    },
+    {
+      "personId": 1453812,
+      "character": "Cowboy",
+      "order": 12
+    },
+    {
+      "personId": 1453813,
+      "character": "Cattle Truck Driver",
+      "order": 13
+    },
+    {
+      "personId": 1453814,
+      "character": "Drunk",
+      "order": 14
+    },
+    {
+      "personId": 1453815,
+      "character": "Pick Up Driver",
+      "order": 15
+    },
+    {
+      "personId": 14101,
+      "character": "Narrator (voice)",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 4046,
+  "sources": [
+    "cult-list"
+  ]
+}

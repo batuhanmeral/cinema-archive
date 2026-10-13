@@ -1,0 +1,73 @@
+{
+  "tmdbId": 64777,
+  "slug": "the-tale-of-the-white-serpent-1958",
+  "year": 1958,
+  "runtime": 79,
+  "originalTitle": "白蛇伝",
+  "title": {
+    "en": "The Tale of the White Serpent",
+    "tr": "白蛇伝"
+  },
+  "overview": {
+    "en": "As a young boy, Xu-Xian is forced to free his pet, a small snake. Unbeknownst to him, the snake is actually a young snake goddess named Bai-Niang and she is in love with him. Many years later, when they are both adults, the princess is magically transformed into a human and sets out to find her love. But the local wizard believes her to be a vampire, and banishes Xu-Xian from the village in order to save him. Xu-Xian's pet pandas Panda and Mimi set out to save him and bring him, in the process becoming leaders of an animal gang.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/iB3xcNkP2kLN6d6elvZbhw4lAf0.jpg",
+    "en": "/yw2uCLVbQauBDLY2vVBCcmAWvD7.jpg"
+  },
+  "backdrops": [
+    "/vAYXaOOjlelRqNy9Hxd2mIkdGXQ.jpg",
+    "/ldeeD1WJFhBoO2MWvgbZoGORFLE.jpg",
+    "/xuUj325WaSPYhUIJ1cOmsvoyKRZ.jpg",
+    "/jnsZDc3XJoyDwVhgd9c0EnOfPcA.jpg",
+    "/pW5zXbWFazDhT5ZXTGZxaIlOToy.jpg",
+    "/gGHcUUxzah60z6Tjhjb1NB0SkdJ.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    16,
+    14
+  ],
+  "keywordIds": [],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "crew": [
+    {
+      "personId": 572297,
+      "job": "writer"
+    },
+    {
+      "personId": 239443,
+      "job": "director"
+    },
+    {
+      "personId": 239443,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20340,
+      "character": "Xu-Xian / Fa-Hai / Panda / Dragon King / Catfish King / Narrator (voice)",
+      "order": 0
+    },
+    {
+      "personId": 278271,
+      "character": "Bai-Niang / Mimi / Xiaoqing / Duck / Weasel (voice)",
+      "order": 1
+    }
+  ],
+  "awards": {},
+  "voteCount": 48,
+  "sources": [
+    "cult-list"
+  ]
+}

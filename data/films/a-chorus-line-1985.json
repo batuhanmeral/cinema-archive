@@ -1,0 +1,191 @@
+{
+  "tmdbId": 1816,
+  "slug": "a-chorus-line-1985",
+  "year": 1985,
+  "runtime": 118,
+  "originalTitle": "A Chorus Line",
+  "title": {
+    "en": "A Chorus Line",
+    "tr": "Dans Tutkunları"
+  },
+  "overview": {
+    "en": "A group of dancers congregate on the stage of a Broadway theatre to audition for a new musical production directed by Zach. After the initial eliminations, seventeen hopefuls remain, among them Cassie, who once had a tempestuous romantic relationship with Zach. She is desperate enough for work to humble herself and audition for him; whether he's willing to let professionalism overcome his personal feelings about their past remains to be seen.",
+    "tr": "Bir grup dansçı, Zach'in yönettiği yeni bir müzik prodüksiyonu için seçmelere katılmak üzere bir Broadway tiyatrosunun sahnesinde toplanır. İlk elemelerden sonra, aralarında bir zamanlar Zach ile fırtınalı romantik bir ilişkisi olan Cassie'nin de bulunduğu on yedi umutlu kaldı. Kendini alçaltmak ve onun için seçmelere katılmak için iş için yeterince çaresizdir"
+  },
+  "poster": {
+    "tr": "/bQzbO6y6gxePrEcU57Su8HJ9UdH.jpg",
+    "en": "/zYRO4J092dZ3BmkPnvvEX1HyrZj.jpg"
+  },
+  "backdrops": [
+    "/AvPLYsn8SyDWFFBzBqmsohZ5p8x.jpg",
+    "/ypzxGigc5BwoHrlaP8xprIGRbvQ.jpg",
+    "/cCUXwSWXbmSsUNH9odwpd1x1p0G.jpg",
+    "/zTpR6hXDuRr2od4b7uVjwTOq685.jpg",
+    "/9G5LlCZ40LSkz7STNS5cmxpXvIX.jpg",
+    "/ct9Le7WSkvKJriT1PZnL8feQOxN.jpg",
+    "/tzi4WZHIpZo87HwR0mzuR50xT2L.jpg"
+  ],
+  "trailerKey": "2QewMK9y4H8",
+  "genreIds": [
+    18,
+    10402
+  ],
+  "keywordIds": [
+    4344,
+    6415,
+    9249,
+    33556,
+    33681,
+    33934,
+    41260,
+    156028,
+    163210,
+    165231,
+    165241,
+    165244,
+    258533
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Polygram Pictures",
+    "Embassy Films Associates"
+  ],
+  "crew": [
+    {
+      "personId": 19250,
+      "job": "producer"
+    },
+    {
+      "personId": 4786,
+      "job": "director"
+    },
+    {
+      "personId": 11847,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 19251,
+      "job": "producer"
+    },
+    {
+      "personId": 19249,
+      "job": "writer"
+    },
+    {
+      "personId": 10468,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3392,
+      "character": "Zach",
+      "order": 0
+    },
+    {
+      "personId": 19262,
+      "character": "Cassie",
+      "order": 1
+    },
+    {
+      "personId": 19260,
+      "character": "Larry",
+      "order": 2
+    },
+    {
+      "personId": 180711,
+      "character": "Richie",
+      "order": 3
+    },
+    {
+      "personId": 19256,
+      "character": "Sheila",
+      "order": 4
+    },
+    {
+      "personId": 155483,
+      "character": "Bebe",
+      "order": 5
+    },
+    {
+      "personId": 100601,
+      "character": "Val",
+      "order": 6
+    },
+    {
+      "personId": 19257,
+      "character": "Judy",
+      "order": 7
+    },
+    {
+      "personId": 2333565,
+      "character": "Maggie",
+      "order": 8
+    },
+    {
+      "personId": 2333563,
+      "character": "Paul",
+      "order": 9
+    },
+    {
+      "personId": 19258,
+      "character": "Morales",
+      "order": 10
+    },
+    {
+      "personId": 2091719,
+      "character": "Kristine",
+      "order": 11
+    },
+    {
+      "personId": 93795,
+      "character": "Al",
+      "order": 12
+    },
+    {
+      "personId": 2333566,
+      "character": "Greg",
+      "order": 13
+    },
+    {
+      "personId": 19259,
+      "character": "Connie",
+      "order": 14
+    },
+    {
+      "personId": 95217,
+      "character": "Kim",
+      "order": 15
+    },
+    {
+      "personId": 19261,
+      "character": "Bobby",
+      "order": 16
+    },
+    {
+      "personId": 19263,
+      "character": "Mike",
+      "order": 17
+    },
+    {
+      "personId": 2333562,
+      "character": "Mark",
+      "order": 18
+    },
+    {
+      "personId": 1242683,
+      "character": "Don",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 210,
+  "sources": [
+    "cult-list"
+  ]
+}

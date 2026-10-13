@@ -1,0 +1,201 @@
+{
+  "tmdbId": 229,
+  "slug": "bride-of-frankenstein-1935",
+  "year": 1935,
+  "runtime": 75,
+  "originalTitle": "Bride of Frankenstein",
+  "title": {
+    "en": "Bride of Frankenstein",
+    "tr": "Frankenstein'ın Gelini"
+  },
+  "overview": {
+    "en": "After recovering from injuries sustained in the mob attack upon himself and his creation, Dr. Henry Frankenstein falls under control of his former mentor, Dr. Pretorius, who insists the now-chastened doctor resume his experiments in creating new life. Meanwhile, the Monster remains on the run from those who wish to destroy him.",
+    "tr": "İki köylüyü öldürdükten sonra ormanda dolaşan canavar, yakalanıp hapse atılır. Zincirlerini kırarak kaçar ve kör bir keşişle (O.P. Heggie) karşılaşır. Keşiş, keman çalarak canavarı sakinleştirir ve konuşmayı öğretir. Ancak iki avcının keşişin kulübesine gelmesiyle canavar mezarlığa kaçar. Burada, eksantrik bilim insanı Dr. Pretorius (Ernest Thesiger) ile karşılaşır. Pretorius, canavara bir eş yaratmak için Dr. Henry Frankenstein'ı (Colin Clive) ikna etmeye çalışır. Frankenstein başta reddetse de, canavarın eşi Elizabeth'i (Valerie Hobson) kaçırmasıyla fikrini değiştirir. Yaratılan eş (Elsa Lanchester), kabarık saçlı grotesk bir güzelliktir, ancak canavarı görünce çığlık atarak reddeder. Canavar, laboratuvarı yok ederek kendini, eşini ve Pretorius'u öldürürken, Frankenstein'ların kaçmasına izin verir. Elsa Lanchester, hem canavarın eşini hem de romanın yazarı Mary Shelley'yi canlandırıyor."
+  },
+  "poster": {
+    "tr": "/79ichUtbRbpyKhTTo1RzuU5SCeP.jpg",
+    "en": "/5241zUwe7rC17MNc2QpCBKKdp1N.jpg"
+  },
+  "backdrops": [
+    "/haPU3dCyYUTRN34ceyJrX4DAjZq.jpg",
+    "/hrED8MSOn4xJP9Cpk7WomUcFKGI.jpg",
+    "/94klpwWYPU6h92WcnhGTi8DLchg.jpg",
+    "/erJDdgAULzB7WsUkZOsiogk9AOR.jpg",
+    "/b3NKknzz9O7vlhcUCyTDEtv6HYJ.jpg",
+    "/fcOGXI06znGBGlOEwpLvg9jQk0A.jpg",
+    "/tQdYq7AQYy3ctG5dmOJD8Hhp1b0.jpg",
+    "/kg1Dbxh5jU0pr4cBeGKaWPBbAoD.jpg",
+    "/5QecQhkpfBbamsw9rpZfb64ALxg.jpg",
+    "/iPxMOud0Op0o5EGkM6ezglgtz6.jpg"
+  ],
+  "trailerKey": "gJoE3AIHTjU",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    4271,
+    1299,
+    952,
+    1227,
+    5314,
+    3335,
+    4232,
+    10125,
+    9663,
+    12999,
+    162810,
+    212737,
+    235810,
+    258464,
+    291153,
+    304301,
+    311315,
+    325804,
+    325813,
+    325854
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "James Whale Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1557,
+      "job": "producer"
+    },
+    {
+      "personId": 8619,
+      "job": "composer"
+    },
+    {
+      "personId": 2940,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2917,
+      "job": "director"
+    },
+    {
+      "personId": 3968975,
+      "job": "writer"
+    },
+    {
+      "personId": 2921,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2922,
+      "character": "The Monster",
+      "order": 0
+    },
+    {
+      "personId": 2923,
+      "character": "Henry Frankenstein",
+      "order": 1
+    },
+    {
+      "personId": 2924,
+      "character": "Elizabeth",
+      "order": 2
+    },
+    {
+      "personId": 2925,
+      "character": "Doctor Pretorius",
+      "order": 3
+    },
+    {
+      "personId": 2926,
+      "character": "Mary Wollstonecraft Shelley / The Monster's Mate",
+      "order": 4
+    },
+    {
+      "personId": 2927,
+      "character": "Lord Byron",
+      "order": 5
+    },
+    {
+      "personId": 2928,
+      "character": "Percy Bysshe Shelley",
+      "order": 6
+    },
+    {
+      "personId": 2929,
+      "character": "Minnie",
+      "order": 7
+    },
+    {
+      "personId": 2930,
+      "character": "Burgomaster",
+      "order": 8
+    },
+    {
+      "personId": 2931,
+      "character": "Butler",
+      "order": 9
+    },
+    {
+      "personId": 2932,
+      "character": "Hermit",
+      "order": 10
+    },
+    {
+      "personId": 1549,
+      "character": "Karl",
+      "order": 11
+    },
+    {
+      "personId": 2933,
+      "character": "Hans",
+      "order": 12
+    },
+    {
+      "personId": 2934,
+      "character": "Hans' Wife",
+      "order": 13
+    },
+    {
+      "personId": 2935,
+      "character": "Shepherdess",
+      "order": 14
+    },
+    {
+      "personId": 2936,
+      "character": "Ludwig",
+      "order": 15
+    },
+    {
+      "personId": 12659,
+      "character": "Baby (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 120456,
+      "character": "Hunter in Woods  (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 2941,
+      "character": "Archbishop (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1125676,
+      "character": "Villager (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1166,
+  "sources": [
+    "cult-list"
+  ]
+}

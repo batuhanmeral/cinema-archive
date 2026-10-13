@@ -1,0 +1,193 @@
+{
+  "tmdbId": 614,
+  "slug": "wild-strawberries-1957",
+  "year": 1957,
+  "runtime": 91,
+  "originalTitle": "Smultronstället",
+  "title": {
+    "en": "Wild Strawberries",
+    "tr": "Yaban Çilekleri"
+  },
+  "overview": {
+    "en": "Crotchety retired doctor Isak Borg travels from Stockholm to Lund, Sweden, with his unhappy daughter-in-law, Marianne, in order to receive an honorary degree from his alma mater. Along the way, they encounter a series of hitchhikers, each of whom causes the elderly doctor to muse upon the pleasures and failures of his own life. These include the vivacious young Sara, a dead ringer for the doctor's own first love.",
+    "tr": "En Uzun Yolculuğun Sonunda Yine Yalnızlık Vardır...  Berlin Film Festivali'nde En İyi Film ödülünü alan \"Yaban Çilekleri\", yaşlı bir profesörün geçmişini ve varoluşunun anlamını sorguladığı bir yol filmidir.  Yetmiş sekiz yaşındaki Profesör Borg, bir onur doktorası almak üzere Stockholm'dan Lund'a doğru arabayla yola çıkar. Yanında gelini Marianne da bulunur. Bu yolculuk sırasında, Borg'a kaybettiği ilk gençlik aşkını anımsatan genç bir otostopçu kızla ve kavgacı bir çiftle karşılaşırlar. Tanıştığı bu farklı karakterler ve gençliğinin geçtiği mekanlar Borg'a kabuslar ve düşler yaşatır."
+  },
+  "poster": {
+    "tr": "/iyTD2QnySNMPUPE3IedZQipSWfz.jpg",
+    "en": "/iyTD2QnySNMPUPE3IedZQipSWfz.jpg"
+  },
+  "backdrops": [
+    "/BBVAUchYvkmPThVIqipgAfabfl.jpg",
+    "/rUQPuvL6O1uqAsCUBGOwDwFdkhm.jpg",
+    "/nM2j18YFScHX5zDFHTqov8vURY9.jpg",
+    "/u0ZO0h6VKLJtOMCZDLP8rZtnAPM.jpg",
+    "/sfq5BW4AeTSRc5FxU0xRPCgwqfk.jpg",
+    "/6GX2O4YB7lJGGWhTsPeLcd6qaCC.jpg",
+    "/jjGXZDOTn1vJUkAXmf9ip8CWhS8.jpg",
+    "/akxfLHjryfjiM0FtzmhPsUOfri9.jpg",
+    "/a4uCuqCmq51egjGeEvXseW5jMhc.jpg",
+    "/s9mxEJclSD1c67Q0zYm2Lpc1Od2.jpg"
+  ],
+  "trailerKey": "EwMgTyVbCS0",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    596,
+    1566,
+    3030,
+    6150,
+    1284,
+    1992,
+    1743,
+    4995,
+    7312,
+    208349,
+    208873
+  ],
+  "countries": [
+    "SE"
+  ],
+  "languages": [
+    "la",
+    "sv"
+  ],
+  "studios": [
+    "SF Studios"
+  ],
+  "crew": [
+    {
+      "personId": 6648,
+      "job": "writer"
+    },
+    {
+      "personId": 6648,
+      "job": "director"
+    },
+    {
+      "personId": 6651,
+      "job": "composer"
+    },
+    {
+      "personId": 6652,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6650,
+      "job": "producer"
+    },
+    {
+      "personId": 8734,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8741,
+      "character": "Professor Isak Borg",
+      "order": 0
+    },
+    {
+      "personId": 6657,
+      "character": "Sara",
+      "order": 1
+    },
+    {
+      "personId": 8742,
+      "character": "Marianne",
+      "order": 2
+    },
+    {
+      "personId": 6649,
+      "character": "Evald",
+      "order": 3
+    },
+    {
+      "personId": 8743,
+      "character": "Agda",
+      "order": 4
+    },
+    {
+      "personId": 1036779,
+      "character": "Anders",
+      "order": 5
+    },
+    {
+      "personId": 550135,
+      "character": "Viktor",
+      "order": 6
+    },
+    {
+      "personId": 550134,
+      "character": "Isak's Mother",
+      "order": 7
+    },
+    {
+      "personId": 589387,
+      "character": "Mrs. Alman",
+      "order": 8
+    },
+    {
+      "personId": 246347,
+      "character": "Karin, Isak's Wife",
+      "order": 9
+    },
+    {
+      "personId": 123464,
+      "character": "Aunt Olga",
+      "order": 10
+    },
+    {
+      "personId": 8744,
+      "character": "Alman",
+      "order": 11
+    },
+    {
+      "personId": 2201,
+      "character": "Åkerman",
+      "order": 12
+    },
+    {
+      "personId": 6665,
+      "character": "Wife's Lover",
+      "order": 13
+    },
+    {
+      "personId": 575501,
+      "character": "Uncle Aron",
+      "order": 14
+    },
+    {
+      "personId": 139052,
+      "character": "Sigfrid",
+      "order": 15
+    },
+    {
+      "personId": 239289,
+      "character": "Sigbritt",
+      "order": 16
+    },
+    {
+      "personId": 6662,
+      "character": "Charlotta",
+      "order": 17
+    },
+    {
+      "personId": 6660,
+      "character": "Angelica",
+      "order": 18
+    },
+    {
+      "personId": 8745,
+      "character": "Åkerman's Wife",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "berlin": 1
+  },
+  "voteCount": 1878,
+  "sources": [
+    "cult-list"
+  ]
+}

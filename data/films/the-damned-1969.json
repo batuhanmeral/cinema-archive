@@ -1,0 +1,227 @@
+{
+  "tmdbId": 41876,
+  "slug": "the-damned-1969",
+  "year": 1969,
+  "runtime": 158,
+  "originalTitle": "La caduta degli dei",
+  "title": {
+    "en": "The Damned",
+    "tr": "Lanetliler"
+  },
+  "overview": {
+    "en": "In the early days of Nazi Germany, a powerful noble family must adjust to life under the new dictatorship regime.",
+    "tr": "Sanayici ve üst tabakadan köklü bir Alman ailesinin nasyonal sosyalizmin yükseliş yıllarındaki hikayesinin anlatıldığı bu filmde ihanet , cinayet , sapkınlık , ensest ...Luchino Visconti'nın unutulmaz ahlaki ve sosyal çöküş hikayesi."
+  },
+  "poster": {
+    "tr": "/ncrB07xLfGzbw10JE1vjQ7gQIT8.jpg",
+    "en": "/bK0FVuLsLNfZ03p8VgvmPRH80OX.jpg"
+  },
+  "backdrops": [
+    "/cM5Uevzpju12Vu4Hx3fOQpfBRR7.jpg",
+    "/9KP9Xgi824gCIdx58HyC2M8pmcg.jpg",
+    "/3crvAmrhUAgoc6k3pSnQmwfNLSU.jpg",
+    "/rGdUhihuLQHtU8pZoywqXpVJTIY.jpg",
+    "/2pEegRXaVCdRYFp0b2CucFhILDn.jpg",
+    "/luPqSk7hNCPJtxVeZ4vwgYjnct7.jpg",
+    "/qbmYJpsN9TT03w7yyz1gKK6mdDo.jpg",
+    "/q6GBM7ejxT011SShsSlF4ldNlsK.jpg",
+    "/xCdIWGVjtXW4yt0w33qxiKhGEtb.jpg",
+    "/uG83qgSKf6N3qAMmfyPQo9YJkp6.jpg"
+  ],
+  "trailerKey": "MFRZZ2k2iGk",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    2652,
+    351,
+    1817,
+    4649,
+    10235,
+    2456,
+    9826,
+    10180,
+    12090,
+    14576,
+    15272,
+    33841,
+    158718,
+    161256,
+    163048,
+    166611,
+    191722,
+    201363,
+    214548,
+    215013,
+    237462,
+    239192,
+    239722,
+    240237,
+    245496,
+    257937,
+    279911,
+    296806,
+    298509,
+    323068
+  ],
+  "countries": [
+    "DE",
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "de"
+  ],
+  "studios": [
+    "Eichberg-Film",
+    "Ital-Noleggio Cinematografico",
+    "Pegaso Cinematografica"
+  ],
+  "crew": [
+    {
+      "personId": 15127,
+      "job": "director"
+    },
+    {
+      "personId": 50933,
+      "job": "writer"
+    },
+    {
+      "personId": 15127,
+      "job": "writer"
+    },
+    {
+      "personId": 32048,
+      "job": "writer"
+    },
+    {
+      "personId": 1857536,
+      "job": "producer"
+    },
+    {
+      "personId": 2704,
+      "job": "composer"
+    },
+    {
+      "personId": 1857535,
+      "job": "producer"
+    },
+    {
+      "personId": 36016,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 24665,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21605,
+      "character": "Frederick Bruckmann",
+      "order": 0
+    },
+    {
+      "personId": 8742,
+      "character": "Sophie Von Essenbeck",
+      "order": 1
+    },
+    {
+      "personId": 32059,
+      "character": "Aschenbach",
+      "order": 2
+    },
+    {
+      "personId": 32058,
+      "character": "Martin Von Essenbeck",
+      "order": 3
+    },
+    {
+      "personId": 39710,
+      "character": "Günther Von Essenbeck",
+      "order": 4
+    },
+    {
+      "personId": 27166,
+      "character": "Herbert Thallman",
+      "order": 5
+    },
+    {
+      "personId": 38171,
+      "character": "Konstantin von Essenbeck",
+      "order": 6
+    },
+    {
+      "personId": 591343,
+      "character": "Baron Joachim Von Essenbeck",
+      "order": 7
+    },
+    {
+      "personId": 83259,
+      "character": "Olga",
+      "order": 8
+    },
+    {
+      "personId": 32066,
+      "character": "Governess",
+      "order": 9
+    },
+    {
+      "personId": 44079,
+      "character": "Elisabeth Thallman",
+      "order": 10
+    },
+    {
+      "personId": 36756,
+      "character": "Lisa Keller",
+      "order": 11
+    },
+    {
+      "personId": 1857537,
+      "character": "Thilde Thallman",
+      "order": 12
+    },
+    {
+      "personId": 3151287,
+      "character": "Erika Thallman",
+      "order": 13
+    },
+    {
+      "personId": 991277,
+      "character": "Janek",
+      "order": 14
+    },
+    {
+      "personId": 29430,
+      "character": "Chief of Police",
+      "order": 15
+    },
+    {
+      "personId": 544153,
+      "character": "Dean of the University",
+      "order": 16
+    },
+    {
+      "personId": 1893740,
+      "character": "Gestapo Officer",
+      "order": 17
+    },
+    {
+      "personId": 557155,
+      "character": "Steelmill Clerk",
+      "order": 18
+    },
+    {
+      "personId": 3151291,
+      "character": "Police Inspector",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 242,
+  "sources": [
+    "cult-list"
+  ]
+}

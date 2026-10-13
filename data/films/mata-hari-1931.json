@@ -1,0 +1,181 @@
+{
+  "tmdbId": 35545,
+  "slug": "mata-hari-1931",
+  "year": 1931,
+  "runtime": 89,
+  "originalTitle": "Mata Hari",
+  "title": {
+    "en": "Mata Hari",
+    "tr": "Mata Hari"
+  },
+  "overview": {
+    "en": "A semi-fictionalized account of the life of Mata Hari, an exotic dancer who was accused of spying for Germany during World War I.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/3HvUY98WbP1HuIFk8W3f1gDLKZX.jpg",
+    "en": "/agS6LAbfWfScBZ8F1pVhtuJ9a2p.jpg"
+  },
+  "backdrops": [
+    "/4mcZo3B8CwMyH8x2W5DpW1oZqqY.jpg",
+    "/mJBRwI2fo29FUL26g9z2kML2rev.jpg",
+    "/wR6WuHvY0URfJwLLQ3dWTAY2jt4.jpg",
+    "/deWRW1jPD62wQHnlFPmCa0gUKHM.jpg",
+    "/2qw0OaekA1LL69AslCtnpvAgouX.jpg",
+    "/gNxGjkGmnvNGOmVhkYParPgzyyd.jpg",
+    "/mN0OuJb5UN1IksL1jUegQ8kc0Mw.jpg",
+    "/yjAx91DoKfSWpXj6cHo7X4awTEw.jpg",
+    "/hCVHwnU2ClERtzehyVyW7XRink9.jpg",
+    "/bjE93rEX1eJGg8PyBbgTSLr08cl.jpg"
+  ],
+  "trailerKey": "THUQX8QvocQ",
+  "genreIds": [
+    80,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    5265,
+    2504,
+    470,
+    18117,
+    156764,
+    170375
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 114337,
+      "job": "director"
+    },
+    {
+      "personId": 98076,
+      "job": "writer"
+    },
+    {
+      "personId": 89045,
+      "job": "writer"
+    },
+    {
+      "personId": 114337,
+      "job": "producer"
+    },
+    {
+      "personId": 3637,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1497,
+      "job": "producer"
+    },
+    {
+      "personId": 29967,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19549,
+      "character": "Mata Hari",
+      "order": 0
+    },
+    {
+      "personId": 85425,
+      "character": "Lt. Alexis Rosanoff",
+      "order": 1
+    },
+    {
+      "personId": 17753,
+      "character": "General Serge Shubin",
+      "order": 2
+    },
+    {
+      "personId": 29259,
+      "character": "Andriani",
+      "order": 3
+    },
+    {
+      "personId": 13356,
+      "character": "Dubois",
+      "order": 4
+    },
+    {
+      "personId": 13354,
+      "character": "Carlotta",
+      "order": 5
+    },
+    {
+      "personId": 145838,
+      "character": "Major Caron",
+      "order": 6
+    },
+    {
+      "personId": 30159,
+      "character": "Sister Angelica",
+      "order": 7
+    },
+    {
+      "personId": 30016,
+      "character": "Warden",
+      "order": 8
+    },
+    {
+      "personId": 34213,
+      "character": "Sister Genevieve",
+      "order": 9
+    },
+    {
+      "personId": 3245,
+      "character": "The Cook - Spy",
+      "order": 10
+    },
+    {
+      "personId": 39801,
+      "character": "Firing Squad Victim (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 2933,
+      "character": "Prosecutor (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 98052,
+      "character": "Ivan (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 77160,
+      "character": "Gambler Selling Ring (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1015322,
+      "character": "Madame Durand (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 34749,
+      "character": "Sister Teresa (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 120755,
+      "character": "Jacques (uncredited)",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 66,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "tmdbId": 10333,
+  "slug": "the-prince-of-tides-1991",
+  "year": 1991,
+  "runtime": 132,
+  "originalTitle": "The Prince of Tides",
+  "title": {
+    "en": "The Prince of Tides",
+    "tr": "Dalgaların Prensi"
+  },
+  "overview": {
+    "en": "A troubled Southern man talks to his suicidal sister's psychiatrist about their family history and falls in love with her (and New York City) in the process.",
+    "tr": "İşsiz futbol koçu Tom, intiharın eşiğindeki ikiz kızkardeşine yardım etmesi için Dr. Susan Lowenstein'in çağrısıyla New York'a gelir. Dr. Lowstein ailenin geçmişini aydınlatmaya çalışırken kendisi de evde oğlu ve snop kocasıyla uğraşmaktadır. Zamanla mutsuz evlilikler sürdüren doktorla Tom arasında duygusal bir yakınlık doğar."
+  },
+  "poster": {
+    "tr": "/oNkPpZe9yJJ5xqoEyPoWhP59jBH.jpg",
+    "en": "/9XnfC64QRUp5HYPtSVasi7L9NGk.jpg"
+  },
+  "backdrops": [
+    "/lrhZ2Zfgsgu078X3EC4XMCTe3Vf.jpg",
+    "/lDYAe8A0aCSgwb9WZW7P5jfsl1F.jpg",
+    "/qpfW09XJncBBzPSJVo46dpU9RAw.jpg",
+    "/7EuA5ZdQqEBY307WGPzBampDZ3j.jpg",
+    "/oqosaCWqrh3geYMksXhBaZQjwOJ.jpg",
+    "/7D8QUMwcatFPAsgAEJq2ytE9KFB.jpg",
+    "/zwjqunfMnHiAaNq8pRFm1Lzv0ie.jpg",
+    "/aAoQZKp3feqi4AUnojYswFAZEui.jpg",
+    "/qFxM7rSrqVaRRX2Fi9ehBI0qvax.jpg",
+    "/cCHsf3oVlfRfY77e9wyw0RDBGoA.jpg"
+  ],
+  "trailerKey": "gyy_A4wNQa8",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    242,
+    818,
+    5809,
+    1252,
+    1660,
+    1482,
+    1608,
+    2299,
+    5933,
+    5707,
+    10041,
+    11527,
+    9627,
+    14903,
+    15106,
+    15208,
+    34094,
+    155794,
+    187056,
+    200685,
+    205276,
+    208370,
+    222314,
+    325799,
+    325801
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Columbia Pictures",
+    "Barwood Films",
+    "Longfellow Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 14588,
+      "job": "writer"
+    },
+    {
+      "personId": 64841,
+      "job": "producer"
+    },
+    {
+      "personId": 10400,
+      "job": "producer"
+    },
+    {
+      "personId": 1213,
+      "job": "composer"
+    },
+    {
+      "personId": 5582,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10400,
+      "job": "director"
+    },
+    {
+      "personId": 64839,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1733,
+      "character": "Tom Wingo",
+      "order": 0
+    },
+    {
+      "personId": 10400,
+      "character": "Susan Lowenstein",
+      "order": 1
+    },
+    {
+      "personId": 10401,
+      "character": "Sally Wingo",
+      "order": 2
+    },
+    {
+      "personId": 18794,
+      "character": "Lila Wingo Newbury",
+      "order": 3
+    },
+    {
+      "personId": 1924,
+      "character": "Herbert Woodruff",
+      "order": 4
+    },
+    {
+      "personId": 4778,
+      "character": "Savannah Wingo",
+      "order": 5
+    },
+    {
+      "personId": 15903,
+      "character": "Eddie Detreville",
+      "order": 6
+    },
+    {
+      "personId": 21064,
+      "character": "Bernard Woodruff",
+      "order": 7
+    },
+    {
+      "personId": 1274,
+      "character": "Henry Wingo",
+      "order": 8
+    },
+    {
+      "personId": 2618226,
+      "character": "Lucy Wingo",
+      "order": 9
+    },
+    {
+      "personId": 113706,
+      "character": "Jennifer Wingo",
+      "order": 10
+    },
+    {
+      "personId": 2618227,
+      "character": "Chandler Wingo",
+      "order": 11
+    },
+    {
+      "personId": 2618228,
+      "character": "Tom Wingo (age 6)",
+      "order": 12
+    },
+    {
+      "personId": 2618229,
+      "character": "Tom Wingo (age 10)",
+      "order": 13
+    },
+    {
+      "personId": 2618230,
+      "character": "Tom Wingo (age 13)",
+      "order": 14
+    },
+    {
+      "personId": 2618231,
+      "character": "Savannah Wingo (age 6)",
+      "order": 15
+    },
+    {
+      "personId": 975134,
+      "character": "Savannah Wingo (age 10)",
+      "order": 16
+    },
+    {
+      "personId": 2618232,
+      "character": "Savannah Wingo (age 13)",
+      "order": 17
+    },
+    {
+      "personId": 1094293,
+      "character": "Luke Wingo (age 9)",
+      "order": 18
+    },
+    {
+      "personId": 2618234,
+      "character": "Luke Wingo (age 13)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 319,
+  "sources": [
+    "cult-list"
+  ]
+}

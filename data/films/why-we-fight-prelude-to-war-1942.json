@@ -1,0 +1,86 @@
+{
+  "tmdbId": 23336,
+  "slug": "why-we-fight-prelude-to-war-1942",
+  "year": 1942,
+  "runtime": 53,
+  "originalTitle": "Why We Fight: Prelude to War",
+  "title": {
+    "en": "Why We Fight: Prelude to War",
+    "tr": "Why We Fight: Prelude to War"
+  },
+  "overview": {
+    "en": "Prelude to War was the first film of Frank Capra's Why We Fight propaganda film series, commissioned by the Pentagon and George C. Marshall. It was made to convince American troops of the necessity of combating the Axis Powers during World War II. This film examines the differences between democratic and fascist states.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vpkCDbVQDXth2lK3Zw5FYcxAvX3.jpg",
+    "en": "/vpkCDbVQDXth2lK3Zw5FYcxAvX3.jpg"
+  },
+  "backdrops": [
+    "/bipcEMQU2P79CdHr1ZStfWDK8Pt.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99,
+    10752
+  ],
+  "keywordIds": [
+    1956
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "War Activities Committee of the Motion Pictures Industry",
+    "U.S. War Department"
+  ],
+  "crew": [
+    {
+      "personId": 2662,
+      "job": "director"
+    },
+    {
+      "personId": 37361,
+      "job": "director"
+    },
+    {
+      "personId": 10092,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8503,
+      "job": "composer"
+    },
+    {
+      "personId": 13571,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19020,
+      "character": "Self - Narrator (voice)",
+      "order": 0
+    },
+    {
+      "personId": 89988,
+      "character": "Self - German paratrooper (archive footage)",
+      "order": 1
+    },
+    {
+      "personId": 10279,
+      "character": "Self",
+      "order": 2
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 76,
+  "sources": [
+    "cult-list"
+  ]
+}

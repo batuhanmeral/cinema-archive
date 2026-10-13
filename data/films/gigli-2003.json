@@ -1,0 +1,191 @@
+{
+  "tmdbId": 8046,
+  "slug": "gigli-2003",
+  "year": 2003,
+  "runtime": 122,
+  "originalTitle": "Gigli",
+  "title": {
+    "en": "Gigli",
+    "tr": "Zor Aşk"
+  },
+  "overview": {
+    "en": "Gigli is ordered to kidnap the psychologically challenged younger brother of a powerful federal prosecutor. When plans go awry, Gigli's boss sends in Ricki, a gorgeous free-spirited female gangster who has her own set of orders to assist with the kidnapping. But Gigli begins falling for the decidedly unavailable Ricki, which could be a hazard to his occupation.",
+    "tr": "Gigli'de Ben Affleck, ana karakter olan \"Larry Gigli\"yi canlandırmaktadır. Filmde Gigli, ünlü bir savcının zihinsel engelli erkek çocuğu Brian'ı(Justin Bartha) kaçırmakla görevlendirilir. Larry Gigli'nin verilmiş olan görevi kendi başına yürütemeyeceğini düşünen patronları, Gigli'ye yardım etmesi için aynı görevlerde kullanılan bayan gangster Ricki'yi (Jennifer Lopez) gönderir. Başlangıçta Larry Gigli, bir kadınla yapılacak çalışma planı fikrinden hoşlanmaz, ancak zaman geçtikçe iki karakter birbirine ilgi duymaya başlayan Affleck ve Lopez arasında romantik bir ilişki başlar. Bir yandan da yavaş yavaş Brian'a acıyan ve ona sempati duymaya başlayan Larry Gigli moron ve duygusuz kötü adam kişiliğinden normal, sıradan bir insana dönüştüğünü farkeder..."
+  },
+  "poster": {
+    "tr": "/qOhAK3WDqdeVTIE59loXvEGU7Lu.jpg",
+    "en": "/7bdljyrk22rhGeHb1g2UJejPgCp.jpg"
+  },
+  "backdrops": [
+    "/ciIVYsDU4F4nCfrE6j6d1kCfStU.jpg",
+    "/xZcYC5WHaTwVtCRMKjEVNDhGUR2.jpg",
+    "/XCVNX7ktNxzau96XDReQN6WjX8.jpg",
+    "/vySfDIL3X9Yap1kBYOUcyvoH4sd.jpg",
+    "/43vM4gRLD6uIHDJqruYFW7yf89B.jpg",
+    "/tv2Mv0sw853iHjFBT7fpX43Dyd2.jpg",
+    "/k7e7D5EsFXDu8gYnJqj5sSi2XDc.jpg",
+    "/cClAMnqrqYYOW3v70kQDEGf0tjv.jpg",
+    "/4XZWA2Dswl2l1rhaR1vJO3lufNj.jpg",
+    "/cmIRKDX5QjYhzIwDthA8oqyubYm.jpg"
+  ],
+  "trailerKey": "qDED4FPmuZo",
+  "genreIds": [
+    35,
+    80,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    791,
+    242,
+    1930,
+    1936,
+    3045,
+    4663,
+    11578
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Casey Silver Productions",
+    "Revolution Studios",
+    "City Light Films"
+  ],
+  "crew": [
+    {
+      "personId": 769,
+      "job": "director"
+    },
+    {
+      "personId": 20802,
+      "job": "producer"
+    },
+    {
+      "personId": 2950,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 769,
+      "job": "producer"
+    },
+    {
+      "personId": 11098,
+      "job": "composer"
+    },
+    {
+      "personId": 769,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 880,
+      "character": "Larry Gigli",
+      "order": 0
+    },
+    {
+      "personId": 16866,
+      "character": "Ricki",
+      "order": 1
+    },
+    {
+      "personId": 21180,
+      "character": "Brian",
+      "order": 2
+    },
+    {
+      "personId": 53647,
+      "character": "Mother",
+      "order": 3
+    },
+    {
+      "personId": 53646,
+      "character": "Robin",
+      "order": 4
+    },
+    {
+      "personId": 1158,
+      "character": "Starkman",
+      "order": 5
+    },
+    {
+      "personId": 37157,
+      "character": "Louis",
+      "order": 6
+    },
+    {
+      "personId": 4690,
+      "character": "Det. Stanley Jacobellis",
+      "order": 7
+    },
+    {
+      "personId": 18359,
+      "character": "Man in Dryer",
+      "order": 8
+    },
+    {
+      "personId": 111243,
+      "character": "Laundry Customer",
+      "order": 9
+    },
+    {
+      "personId": 156185,
+      "character": "Man in Debt",
+      "order": 10
+    },
+    {
+      "personId": 1474435,
+      "character": "Adult Care Resident",
+      "order": 11
+    },
+    {
+      "personId": 138606,
+      "character": "High School Kid #1",
+      "order": 12
+    },
+    {
+      "personId": 1233673,
+      "character": "High School Kid #2",
+      "order": 13
+    },
+    {
+      "personId": 1523090,
+      "character": "High School Kid #3",
+      "order": 14
+    },
+    {
+      "personId": 1523091,
+      "character": "High School Kid #4",
+      "order": 15
+    },
+    {
+      "personId": 1523092,
+      "character": "High School Kid #5",
+      "order": 16
+    },
+    {
+      "personId": 1523093,
+      "character": "High School Kid #6",
+      "order": 17
+    },
+    {
+      "personId": 170680,
+      "character": "Morgue Attendant",
+      "order": 18
+    },
+    {
+      "personId": 1657295,
+      "character": "Packing Store Clerk",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 514,
+  "sources": [
+    "cult-list"
+  ]
+}

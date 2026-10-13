@@ -1,0 +1,142 @@
+{
+  "tmdbId": 42701,
+  "slug": "the-shooting-1966",
+  "year": 1966,
+  "runtime": 82,
+  "originalTitle": "The Shooting",
+  "title": {
+    "en": "The Shooting",
+    "tr": "The Shooting"
+  },
+  "overview": {
+    "en": "Two miners agree to guide a mysterious woman, who has appeared in their camp from nowhere, to a nearby town; but soon, because of her erratic behavior, they begin to suspect that her true purpose is quite different.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/oaySRq49jlCtoYjhoR7IhSga6Vm.jpg",
+    "en": "/oaySRq49jlCtoYjhoR7IhSga6Vm.jpg"
+  },
+  "backdrops": [
+    "/aNzMFezK7s8xeCl5GHKrL69LbBh.jpg",
+    "/bmzxl2sL2TARJCeFagnXDsUFEpc.jpg",
+    "/7zTCQesBquLZ0qAy83eNjrXW0at.jpg",
+    "/bFpYbuTYs7l7392mW0NuhEZlIsE.jpg",
+    "/vZEEzmRK8Ce8bIUIBC6OBSKzMIW.jpg",
+    "/1E2HOahYsaTuEA5QvChve2AZwx3.jpg",
+    "/eaGku1kVlMYMgBiEh0TmnOLX4HK.jpg",
+    "/3uo9pn52sFnNEYiPm91D1RXLm2v.jpg",
+    "/w59m4I50Lx1p8UyOul1dpwHG3eh.jpg",
+    "/tsuSdMxjgOOwmZ4avseng61Y0pm.jpg"
+  ],
+  "trailerKey": "5updNaVyvBU",
+  "genreIds": [
+    37,
+    9648,
+    18
+  ],
+  "keywordIds": [
+    75,
+    3230,
+    10230,
+    160589,
+    172039,
+    208173,
+    209341
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Proteus Films",
+    "Santa Clara Productions"
+  ],
+  "crew": [
+    {
+      "personId": 20921,
+      "job": "producer"
+    },
+    {
+      "personId": 20921,
+      "job": "director"
+    },
+    {
+      "personId": 514,
+      "job": "producer"
+    },
+    {
+      "personId": 95782,
+      "job": "writer"
+    },
+    {
+      "personId": 1038559,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 229862,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8255,
+      "character": "Willett Gashade",
+      "order": 0
+    },
+    {
+      "personId": 34660,
+      "character": "Coley Boyard",
+      "order": 1
+    },
+    {
+      "personId": 26142,
+      "character": "Woman",
+      "order": 2
+    },
+    {
+      "personId": 514,
+      "character": "Billy Spear",
+      "order": 3
+    },
+    {
+      "personId": 131311,
+      "character": "Bearded Man",
+      "order": 4
+    },
+    {
+      "personId": 544142,
+      "character": "Indian",
+      "order": 5
+    },
+    {
+      "personId": 98633,
+      "character": "Sheriff",
+      "order": 6
+    },
+    {
+      "personId": 544143,
+      "character": "Leland Drum",
+      "order": 7
+    },
+    {
+      "personId": 544144,
+      "character": "Deputy",
+      "order": 8
+    },
+    {
+      "personId": 544145,
+      "character": "Crosstree Townsman #1",
+      "order": 9
+    },
+    {
+      "personId": 2350159,
+      "character": "Crosstree Townsman #2",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 146,
+  "sources": [
+    "cult-list"
+  ]
+}

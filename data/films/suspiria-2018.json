@@ -1,0 +1,238 @@
+{
+  "tmdbId": 361292,
+  "slug": "suspiria-2018",
+  "year": 2018,
+  "runtime": 152,
+  "originalTitle": "Suspiria",
+  "title": {
+    "en": "Suspiria",
+    "tr": "Suspiria"
+  },
+  "overview": {
+    "en": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up.",
+    "tr": "Yeniden uyarlama film, 1977 yılının Berlin'inde geçiyor. Amerikalı bir genç kadın olan Susie Bannion, dünyaca ünlü bir dans okulu Markos Tanz Company'e katılır. Tam Susie'nin geldiği sıralarda, okulun başka bir üyesi olan Jessica gizemli bir şekilde ortadan kaybolmuştur. Okulun devrimci sanat yönetmeni olan Madame Blanc'ın rehberliğinde Susie olağanüstü bir ilerleme kaydederken, kendine Sara isimli bir arkadaş da edinir. Zaman içerisinde iki arkadaş bu prestijli okulun ve yöneticilerinin karanlık bir sırrı sakladıklarından şüphelenmeye başlar..."
+  },
+  "poster": {
+    "tr": "/bRpKFPb8CWKRQxVo9NzOuPPlO3Q.jpg",
+    "en": "/qntguRoupnAASFdld8kTDe68fEn.jpg"
+  },
+  "backdrops": [
+    "/AmO8I38bkHwKhgxPNrd6djBQyPU.jpg",
+    "/pDlyQLlCNz022yprr6Sfzg40fRp.jpg",
+    "/k4renoGJzagylgBYWbpjQLYGAfB.jpg",
+    "/2jfCepJmKgFH8eRhlZ5pgpmjglX.jpg",
+    "/dDwzMvjEfzldnPJwOwqYDHTjO4a.jpg",
+    "/9iaDt4ZYuqVlBzwTzPyk9t4GYr7.jpg",
+    "/jgTQoVM4FHtrBFXBhquG2JGOe2P.jpg",
+    "/eSqjfaN8bWWAFfpOYtG6zzcDhc3.jpg",
+    "/tAJ2eUGyE7xbStPq3Ees2F2vRhv.jpg",
+    "/t8BeJR0MqlJ1yQFHdsNNJX7kTWS.jpg"
+  ],
+  "trailerKey": "gh728YmlSFE",
+  "genreIds": [
+    27,
+    9648,
+    18
+  ],
+  "keywordIds": [
+    220,
+    1346,
+    292,
+    1475,
+    1228,
+    1755,
+    11627,
+    5086,
+    9714,
+    10551,
+    11322,
+    15001,
+    33934,
+    40931,
+    156174,
+    157351,
+    162745,
+    163129,
+    163210,
+    165244,
+    176561,
+    186747,
+    197582,
+    203360,
+    210162,
+    238137,
+    269233,
+    316832
+  ],
+  "countries": [
+    "IT",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "studios": [
+    "Frenesy Film",
+    "Videa",
+    "Mythology Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 78160,
+      "job": "director"
+    },
+    {
+      "personId": 74336,
+      "job": "composer"
+    },
+    {
+      "personId": 39725,
+      "job": "writer"
+    },
+    {
+      "personId": 470995,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 78160,
+      "job": "producer"
+    },
+    {
+      "personId": 61122,
+      "job": "producer"
+    },
+    {
+      "personId": 2057957,
+      "job": "producer"
+    },
+    {
+      "personId": 39725,
+      "job": "producer"
+    },
+    {
+      "personId": 2057955,
+      "job": "producer"
+    },
+    {
+      "personId": 20208,
+      "job": "producer"
+    },
+    {
+      "personId": 2057954,
+      "job": "producer"
+    },
+    {
+      "personId": 1110466,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 118545,
+      "character": "Susie",
+      "order": 0
+    },
+    {
+      "personId": 3063,
+      "character": "Madame Blanc / Dr. Klemperer / Helena Markos",
+      "order": 1
+    },
+    {
+      "personId": 1137824,
+      "character": "Sara",
+      "order": 2
+    },
+    {
+      "personId": 10255,
+      "character": "Miss Tanner",
+      "order": 3
+    },
+    {
+      "personId": 45195,
+      "character": "Miss Vendegast",
+      "order": 4
+    },
+    {
+      "personId": 56734,
+      "character": "Patricia",
+      "order": 5
+    },
+    {
+      "personId": 1314208,
+      "character": "Olga",
+      "order": 6
+    },
+    {
+      "personId": 4529,
+      "character": "Miss Griffith",
+      "order": 7
+    },
+    {
+      "personId": 66188,
+      "character": "Miss Huller",
+      "order": 8
+    },
+    {
+      "personId": 1520917,
+      "character": "Miss Balfour",
+      "order": 9
+    },
+    {
+      "personId": 138047,
+      "character": "Susie's Mother / Death",
+      "order": 10
+    },
+    {
+      "personId": 67174,
+      "character": "Pavla",
+      "order": 11
+    },
+    {
+      "personId": 69055,
+      "character": "Anke",
+      "order": 12
+    },
+    {
+      "personId": 2174771,
+      "character": "Miss Mandel",
+      "order": 13
+    },
+    {
+      "personId": 1229590,
+      "character": "Miss Millius",
+      "order": 14
+    },
+    {
+      "personId": 1871540,
+      "character": "Miss Marks",
+      "order": 15
+    },
+    {
+      "personId": 1789600,
+      "character": "Alberta",
+      "order": 16
+    },
+    {
+      "personId": 2039736,
+      "character": "Miss Kaplitt",
+      "order": 17
+    },
+    {
+      "personId": 2174756,
+      "character": "Caroline",
+      "order": 18
+    },
+    {
+      "personId": 2174754,
+      "character": "Sonia",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2871,
+  "sources": [
+    "cult-list"
+  ]
+}

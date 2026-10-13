@@ -1,0 +1,209 @@
+{
+  "tmdbId": 9003,
+  "slug": "hellraiser-1987",
+  "year": 1987,
+  "runtime": 93,
+  "originalTitle": "Hellraiser",
+  "title": {
+    "en": "Hellraiser",
+    "tr": "Hellraiser"
+  },
+  "overview": {
+    "en": "A hedonistic man finds a mysterious puzzle box that summons a group of gruesome beings known as the Cenobites. These otherworldly entities open the doors to a dominion where pain and pleasure are indivisible.",
+    "tr": "Kirsty üvey annesi Julia ve babası Larry ile büyük yeni bir eve taşınmaktadırlar. Kirsty başta karşı çıksa da evi görünce hoşuna gitmiştir. Julia'nın, Larry'nin kardeşi Frank ile bir ilişkisi vardır ve uzun zamandır Frank'ten haber alamamıştır heryerde onu hayal etmektedir. Larry bir gün ev eşyalarını yerleştirirken elini incitmiştir çatı katında Julia'yı bulduğunda yere birkaç damla kan akmıştır oradan ayrıldıklarında ise Frank uğraştığı karabüyünün etkisinden kurtulmuş ve canlanmıştır. Buna sebep olan bir kutu Cehennemin kapılarını açıp Helllraiser'ı çağırmaktadır."
+  },
+  "poster": {
+    "tr": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg",
+    "en": "/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg"
+  },
+  "backdrops": [
+    "/jInJNDIyzlYBV79nx8Qb5s2xjfM.jpg",
+    "/4SxXppJUwjQnd98VLxQEHvH3CfR.jpg",
+    "/j4irvwRLITgGr6vcP8NIKCUA67y.jpg",
+    "/mixj7Le5EXqSS0SKNVfwuIVwFJo.jpg",
+    "/6YnMQyCAxc3Gn8Cor2wrdssyv03.jpg",
+    "/rKjE17ncAGNzeImNWbdGTimzjtk.jpg",
+    "/n2cOcRyui2I3o55O2tfCgHpecbp.jpg",
+    "/2ktTq1Q2Y3qHl9Sj4oRN7XgTS6U.jpg",
+    "/4xztURxmB6QnIFcnOJU6pCqWgqZ.jpg",
+    "/21IugRbDB6dAFeJ7Oav4TN9WaJ9.jpg"
+  ],
+  "trailerKey": "tOcth6-HjPg",
+  "genreIds": [
+    27,
+    53
+  ],
+  "keywordIds": [
+    818,
+    459,
+    4424,
+    4720,
+    6152,
+    3358,
+    3182,
+    10292,
+    9887,
+    10327,
+    5921,
+    9748,
+    10864,
+    13067,
+    15001,
+    17996,
+    155619,
+    156174,
+    158713,
+    161208,
+    162804,
+    166869,
+    174413,
+    186071,
+    208729,
+    225433,
+    272772,
+    287274,
+    335855,
+    346687
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New World Pictures",
+    "Cinemarque Entertainment",
+    "Film Futures"
+  ],
+  "crew": [
+    {
+      "personId": 56548,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9000,
+      "job": "producer"
+    },
+    {
+      "personId": 31211,
+      "job": "director"
+    },
+    {
+      "personId": 31211,
+      "job": "writer"
+    },
+    {
+      "personId": 19155,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14782,
+      "character": "Larry",
+      "order": 0
+    },
+    {
+      "personId": 45588,
+      "character": "Julia",
+      "order": 1
+    },
+    {
+      "personId": 56551,
+      "character": "Kirsty",
+      "order": 2
+    },
+    {
+      "personId": 24737,
+      "character": "Frank the Monster",
+      "order": 3
+    },
+    {
+      "personId": 56552,
+      "character": "Frank",
+      "order": 4
+    },
+    {
+      "personId": 56553,
+      "character": "Steve",
+      "order": 5
+    },
+    {
+      "personId": 73040,
+      "character": "Lead Cenobite",
+      "order": 6
+    },
+    {
+      "personId": 56559,
+      "character": "Chattering Cenobite",
+      "order": 7
+    },
+    {
+      "personId": 56560,
+      "character": "'Butterball' Cenobite",
+      "order": 8
+    },
+    {
+      "personId": 56561,
+      "character": "Female Cenobite",
+      "order": 9
+    },
+    {
+      "personId": 56554,
+      "character": "1st Victim",
+      "order": 10
+    },
+    {
+      "personId": 56555,
+      "character": "2nd Victim",
+      "order": 11
+    },
+    {
+      "personId": 1349468,
+      "character": "3rd Victim",
+      "order": 12
+    },
+    {
+      "personId": 1706797,
+      "character": "Derelict",
+      "order": 13
+    },
+    {
+      "personId": 56557,
+      "character": "Bill",
+      "order": 14
+    },
+    {
+      "personId": 56558,
+      "character": "Evelyn",
+      "order": 15
+    },
+    {
+      "personId": 40043,
+      "character": "Dinner Guest",
+      "order": 16
+    },
+    {
+      "personId": 97172,
+      "character": "Moving Man 1",
+      "order": 17
+    },
+    {
+      "personId": 56710,
+      "character": "Moving Man 2",
+      "order": 18
+    },
+    {
+      "personId": 1026980,
+      "character": "Complaining Customer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3065,
+  "sources": [
+    "cult-list"
+  ]
+}

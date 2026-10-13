@@ -1,0 +1,214 @@
+{
+  "tmdbId": 54433,
+  "slug": "gamera-the-guardian-of-the-universe-1995",
+  "year": 1995,
+  "runtime": 96,
+  "originalTitle": "ガメラ 大怪獣空中決戦",
+  "title": {
+    "en": "Gamera: The Guardian of the Universe",
+    "tr": "ガメラ 大怪獣空中決戦"
+  },
+  "overview": {
+    "en": "A ship runs aground on a mysterious atoll leading to an investigation by insurance representative Kusanagi, who discovers an ancient bead that he gives to his daughter Asagi. Meanwhile, ornithologist Nagamine investigates reports of a new species of large bird named Gyaos. As the Gyaos begin to attack, an ancient guardian with a bond to Asagi emerges.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/iZ8yFxavjqsZXfZhkfPqrc4NauY.jpg",
+    "en": "/m3lRxIoG3AdPZ2y4q9O1yCWI599.jpg"
+  },
+  "backdrops": [
+    "/qB3fLRugWeeIPCe2Z5EtsDtCnRb.jpg",
+    "/cd3oGh0ZuaB794UIz9G4c79OEDY.jpg",
+    "/oaY7U8lgiTEgl1sIhPkSrd8RkL3.jpg",
+    "/vN03Q1CBo7q5n5T029OvS9uo3cW.jpg",
+    "/sdNeouQdzUioDqG7P01ykS12epQ.jpg",
+    "/1Un7cFDgA04xhBChOKEY5yROov8.jpg",
+    "/eBPSSr397MSeiwwuuEWTHVV7WXk.jpg",
+    "/9LaY0WJObRCn7k1Jy8OVngXhyYK.jpg",
+    "/AmDXibzJR2tmMHnB3z7Oydafi2n.jpg",
+    "/6jBGsHA26WlwTe9E5BkRrgUiQVY.jpg"
+  ],
+  "trailerKey": "0uP70EbjFnA",
+  "genreIds": [
+    14,
+    878,
+    28,
+    27
+  ],
+  "keywordIds": [
+    233,
+    1299,
+    955,
+    11100,
+    7038,
+    12369,
+    161791,
+    185952,
+    203502,
+    210619,
+    315402,
+    315403
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [],
+  "studios": [
+    "Nippon Television Network Corporation",
+    "Daiei Film",
+    "Hakuhodo"
+  ],
+  "crew": [
+    {
+      "personId": 46366,
+      "job": "director"
+    },
+    {
+      "personId": 57302,
+      "job": "writer"
+    },
+    {
+      "personId": 550583,
+      "job": "composer"
+    },
+    {
+      "personId": 135014,
+      "job": "producer"
+    },
+    {
+      "personId": 68713,
+      "job": "producer"
+    },
+    {
+      "personId": 1987152,
+      "job": "producer"
+    },
+    {
+      "personId": 1981235,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2890371,
+      "job": "producer"
+    },
+    {
+      "personId": 2890367,
+      "job": "producer"
+    },
+    {
+      "personId": 1258016,
+      "job": "producer"
+    },
+    {
+      "personId": 2885736,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 33516,
+      "character": "Yoshinari Yonemori",
+      "order": 0
+    },
+    {
+      "personId": 82396,
+      "character": "Dr. Mayumi Nagamine",
+      "order": 1
+    },
+    {
+      "personId": 84029,
+      "character": "Asagi Kusanagi",
+      "order": 2
+    },
+    {
+      "personId": 133656,
+      "character": "Inspector Tsutomu Osako",
+      "order": 3
+    },
+    {
+      "personId": 131192,
+      "character": "Masaaki Saito",
+      "order": 4
+    },
+    {
+      "personId": 229504,
+      "character": "Colonel Satake",
+      "order": 5
+    },
+    {
+      "personId": 111948,
+      "character": "Captain of the Nojima",
+      "order": 6
+    },
+    {
+      "personId": 30469,
+      "character": "Captain of the Kairyumaru",
+      "order": 7
+    },
+    {
+      "personId": 97316,
+      "character": "Taxi driver",
+      "order": 8
+    },
+    {
+      "personId": 96569,
+      "character": "Michiya",
+      "order": 9
+    },
+    {
+      "personId": 135376,
+      "character": "Naoya Kusangi",
+      "order": 10
+    },
+    {
+      "personId": 1491674,
+      "character": "Yukino",
+      "order": 11
+    },
+    {
+      "personId": 554073,
+      "character": "Colonel Ono",
+      "order": 12
+    },
+    {
+      "personId": 20335,
+      "character": "Captain at Mt. Fuji",
+      "order": 13
+    },
+    {
+      "personId": 1131872,
+      "character": "Director of the Dome Movement Command Center",
+      "order": 14
+    },
+    {
+      "personId": 119244,
+      "character": "Shopping Housewife",
+      "order": 15
+    },
+    {
+      "personId": 1699983,
+      "character": "TV Reporter",
+      "order": 16
+    },
+    {
+      "personId": 1176976,
+      "character": "Woman in supermarket",
+      "order": 17
+    },
+    {
+      "personId": 2684240,
+      "character": "Lady in Otoko Island Shop",
+      "order": 18
+    },
+    {
+      "personId": 2756784,
+      "character": "NNN News Plus 1 Newscaster #1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 172,
+  "sources": [
+    "cult-list"
+  ]
+}

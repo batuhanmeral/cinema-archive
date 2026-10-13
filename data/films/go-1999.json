@@ -1,0 +1,207 @@
+{
+  "tmdbId": 9430,
+  "slug": "go-1999",
+  "year": 1999,
+  "runtime": 102,
+  "originalTitle": "Go",
+  "title": {
+    "en": "Go",
+    "tr": "Git Başımdan"
+  },
+  "overview": {
+    "en": "A supermarket clerk decides to step in for an absent drug dealer, setting off an explosive, comedic chain of events.",
+    "tr": "18 yaşındaki kasiyer Ronna (Sarah Polley - The Sweet Hereafter), Noel arifesinde evden atılmadan önce kira parasını bulmaya çalışmaktadır. Suça isteksiz ortağı Claire (Katie Holmes - Dawson's Creek) ile birlikte ilk uyuşturucu anlaşmasına girişir... Bu arada, düşüncesiz Simon (Desmond Askew - Grange Hill), çalıntı bir arabayla Vegas'ta sınırsız bir parti gecesi yaşarken, TV yıldızları Adam (Scott Wolf - Party of Five) ve Zack (Jay Mohr - Jerry Maguire), gerçek bir uyuşturucu tuzağının ve tüyler ürpertici bir Noel yemeğinin ortasında bulurlar kendilerini..."
+  },
+  "poster": {
+    "tr": "/7UzD5Dmu3jqb2ls4Lnb4SYQqbYm.jpg",
+    "en": "/kP0OOAa4GTZSUPW8fgPbk1OmKEW.jpg"
+  },
+  "backdrops": [
+    "/6kY0imilYIH7yuxFEQJA7mTlq1H.jpg",
+    "/7R3FCQzVCVuyMtLHPVAthUwjcMn.jpg",
+    "/jllyc0pY7xFYLyjuCEP6pO7hm8t.jpg",
+    "/xnhAMSVodyzpkYxHHgNwVwjdaLo.jpg",
+    "/14GxDm6GJAX04tSWfbMKqnUlPST.jpg",
+    "/fI0kEIsq5MFwmG1y0HJ7VWV6W0n.jpg",
+    "/mmcmK76kp3eI1trEZDmeJEl7imd.jpg",
+    "/40Gm4JfKETYbd8Ua1A9c8s8R15U.jpg",
+    "/eVCdiZEduuY3x4TI6ZXkvfeSqov.jpg",
+    "/aEgdDFiLN8uRLGIjb03QM7xQ63f.jpg"
+  ],
+  "trailerKey": "vt9tm1tdv9A",
+  "genreIds": [
+    80,
+    35,
+    53
+  ],
+  "keywordIds": [
+    2231,
+    1941,
+    2334,
+    3221,
+    10683,
+    10776,
+    11733,
+    12670,
+    14570,
+    14964,
+    155939,
+    158718,
+    168811,
+    168812,
+    168867,
+    171366,
+    180635,
+    182266,
+    195648,
+    258533,
+    260365
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Banner Entertainment",
+    "Saratoga Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 1300,
+      "job": "writer"
+    },
+    {
+      "personId": 48498,
+      "job": "producer"
+    },
+    {
+      "personId": 11694,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 58314,
+      "job": "producer"
+    },
+    {
+      "personId": 11694,
+      "job": "director"
+    },
+    {
+      "personId": 2691344,
+      "job": "producer"
+    },
+    {
+      "personId": 6898,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 98,
+      "character": "Ronna Martin",
+      "order": 0
+    },
+    {
+      "personId": 18082,
+      "character": "Todd Gaines",
+      "order": 1
+    },
+    {
+      "personId": 3897,
+      "character": "Claire Montgomery",
+      "order": 2
+    },
+    {
+      "personId": 59284,
+      "character": "Simon Baines",
+      "order": 3
+    },
+    {
+      "personId": 12217,
+      "character": "Zack",
+      "order": 4
+    },
+    {
+      "personId": 24965,
+      "character": "Adam",
+      "order": 5
+    },
+    {
+      "personId": 17637,
+      "character": "Marcus",
+      "order": 6
+    },
+    {
+      "personId": 886,
+      "character": "Burke",
+      "order": 7
+    },
+    {
+      "personId": 19223,
+      "character": "Mannie",
+      "order": 8
+    },
+    {
+      "personId": 33654,
+      "character": "Tiny",
+      "order": 9
+    },
+    {
+      "personId": 1582,
+      "character": "Singh",
+      "order": 10
+    },
+    {
+      "personId": 5169,
+      "character": "Victor Sr.",
+      "order": 11
+    },
+    {
+      "personId": 58352,
+      "character": "Victor Jr.",
+      "order": 12
+    },
+    {
+      "personId": 13636,
+      "character": "Irene",
+      "order": 13
+    },
+    {
+      "personId": 55536,
+      "character": "Sandra",
+      "order": 14
+    },
+    {
+      "personId": 1217939,
+      "character": "Switterman",
+      "order": 15
+    },
+    {
+      "personId": 19307,
+      "character": "Stringy Haired Woman",
+      "order": 16
+    },
+    {
+      "personId": 88597,
+      "character": "Loop",
+      "order": 17
+    },
+    {
+      "personId": 15012,
+      "character": "Becky",
+      "order": 18
+    },
+    {
+      "personId": 42250,
+      "character": "Noelle",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 876,
+  "sources": [
+    "cult-list"
+  ]
+}

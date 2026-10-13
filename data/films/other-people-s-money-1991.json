@@ -1,0 +1,182 @@
+{
+  "tmdbId": 6463,
+  "slug": "other-people-s-money-1991",
+  "year": 1991,
+  "runtime": 103,
+  "originalTitle": "Other People's Money",
+  "title": {
+    "en": "Other People's Money",
+    "tr": "Başkalarının Parası"
+  },
+  "overview": {
+    "en": "When a corporate raider threatens a hostile takeover of a 'mom and pop' company, the patriarch of the company enlists the help of his wife's attractive daughter—who is a lawyer—to stop the takeover. However, the raider soon becomes infatuated with her, and enjoys the legal manoeuvring as he tries to win her heart.",
+    "tr": "Danny DeVito, Wall Street'e egemen, şirketleri fethetmek ve yok etmek için yaşayan ve her şeyden çok başkalarının parasını seven acımasız bir kapitalist rolünde. Lawrence Garfield (DeVito) hiç başarısız olmamıştır ta ki, gözünü Rhode Island'daki bir şirkete dikene kadar. Her şeyin kesinlikle pazarlık konusu olabildiği ve paranın herkesi baştan çıkardığı hiçbir engel tanımayan bu komedide gösteri başlıyor. Jerry Sterner'ın oyunundan uyarlanmıştır."
+  },
+  "poster": {
+    "tr": "/yCvTt143FNcFGejGTsDCx1s9nUF.jpg",
+    "en": "/obnOuFa2yJRorRM3rab3rXZFfEh.jpg"
+  },
+  "backdrops": [
+    "/ar3lTgQB5yN9B2SlOOANIgEG0uP.jpg",
+    "/mTy8uXEkLS50kwtZYNgEYhPRrNp.jpg",
+    "/dGtTCIvr52McLpwjwky86Vwcdpa.jpg",
+    "/dRNMc168qgjayGYLQCscpHXJYHU.jpg",
+    "/x0rrA2XwhgUGgzRdt1QHGtajmRB.jpg",
+    "/mqhSsnYkxyK1d67SYDNnS8ZU2sd.jpg"
+  ],
+  "trailerKey": "QMNOgmIDle8",
+  "genreIds": [
+    35,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    3431,
+    33672
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 13563,
+      "job": "director"
+    },
+    {
+      "personId": 13563,
+      "job": "producer"
+    },
+    {
+      "personId": 3393,
+      "job": "composer"
+    },
+    {
+      "personId": 7630,
+      "job": "writer"
+    },
+    {
+      "personId": 49831,
+      "job": "producer"
+    },
+    {
+      "personId": 7067,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 518,
+      "character": "Lawrence Garfield",
+      "order": 0
+    },
+    {
+      "personId": 8487,
+      "character": "Andrew Jorgenson",
+      "order": 1
+    },
+    {
+      "personId": 14698,
+      "character": "Kate Sullivan",
+      "order": 2
+    },
+    {
+      "personId": 6721,
+      "character": "Bea Sullivan",
+      "order": 3
+    },
+    {
+      "personId": 40393,
+      "character": "Bill Coles",
+      "order": 4
+    },
+    {
+      "personId": 49832,
+      "character": "Arthur",
+      "order": 5
+    },
+    {
+      "personId": 49833,
+      "character": "Harriet",
+      "order": 6
+    },
+    {
+      "personId": 49834,
+      "character": "Emma",
+      "order": 7
+    },
+    {
+      "personId": 49835,
+      "character": "Ozzie",
+      "order": 8
+    },
+    {
+      "personId": 15044,
+      "character": "Marcia",
+      "order": 9
+    },
+    {
+      "personId": 49836,
+      "character": "Gus",
+      "order": 10
+    },
+    {
+      "personId": 2200733,
+      "character": "Pfeiffer",
+      "order": 11
+    },
+    {
+      "personId": 64236,
+      "character": "Granger",
+      "order": 12
+    },
+    {
+      "personId": 3691751,
+      "character": "Angeli",
+      "order": 13
+    },
+    {
+      "personId": 1065832,
+      "character": "Klein",
+      "order": 14
+    },
+    {
+      "personId": 49831,
+      "character": "Richardson",
+      "order": 15
+    },
+    {
+      "personId": 1763599,
+      "character": "Woody",
+      "order": 16
+    },
+    {
+      "personId": 15536,
+      "character": "Richard",
+      "order": 17
+    },
+    {
+      "personId": 168162,
+      "character": "Elton",
+      "order": 18
+    },
+    {
+      "personId": 1107848,
+      "character": "Ed",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cesar": 1
+  },
+  "voteCount": 159,
+  "sources": [
+    "cult-list"
+  ]
+}

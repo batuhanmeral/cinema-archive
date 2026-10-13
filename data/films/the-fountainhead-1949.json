@@ -1,0 +1,183 @@
+{
+  "tmdbId": 24650,
+  "slug": "the-fountainhead-1949",
+  "year": 1949,
+  "runtime": 112,
+  "originalTitle": "The Fountainhead",
+  "title": {
+    "en": "The Fountainhead",
+    "tr": "The Fountainhead"
+  },
+  "overview": {
+    "en": "An uncompromising, visionary architect struggles to maintain his integrity and individualism despite personal, professional and economic pressures to conform to popular standards.",
+    "tr": "Bireyselci ve idealist mimar Howard Roark, tasarımları mevcut mimari düşünceyle uyuşmadığı için üniversiteden atılır. İş bulamayacak gibi görünse de sonunda benzer düşüncelere sahip Henry Cameron'ın yanında iş bulur; ancak birkaç yıl içinde patronu Cameron kendini içkiye vererek ölür ve ölmeden önce ideallerinden ödün vermediği takdirde aynı kaderin onu beklediği konusunda, Roark'ı uyarır. Roark, ne pahasına olursa olsun sanatsal bütünlüğünü korumaya kararlıdır."
+  },
+  "poster": {
+    "tr": "/2uo8tfSwzrDeRS5YpmLVSXHSjOl.jpg",
+    "en": "/ap4RqpJkWoMn7R2avITeaGZDg2F.jpg"
+  },
+  "backdrops": [
+    "/7AHYt8RanRRMhLpazdlWXh3ehoY.jpg",
+    "/wURxCUqAgsgVooJfrGH8Qxg18hu.jpg",
+    "/9Aa9ZKSUwJwxLbqY6kL2uYTfoPa.jpg",
+    "/xYFkilrG5MgnYn7W6eV9snjRXZo.jpg",
+    "/mQUYi2yMUPw3BiMRTJWK3PBawLJ.jpg",
+    "/9Bpt1vJxNQY5k1n8mqYTguqsGKk.jpg",
+    "/fdS17c453XejhpP8mzg5nub94bi.jpg",
+    "/mYW1x0P9C9BB0OhcNA7vUR968ct.jpg",
+    "/u3OvAxLr3bZ1ojdTw4uxfgw8ZP1.jpg",
+    "/8BZey3ogk38RgJdb8LuIP7Iv8O5.jpg"
+  ],
+  "trailerKey": "UlI24CTWxmE",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    242,
+    918,
+    818,
+    2301,
+    195541,
+    245613,
+    323246
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 109405,
+      "job": "writer"
+    },
+    {
+      "personId": 14446,
+      "job": "producer"
+    },
+    {
+      "personId": 29962,
+      "job": "director"
+    },
+    {
+      "personId": 2654,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3249,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4068,
+      "character": "Howard Roark",
+      "order": 0
+    },
+    {
+      "personId": 1934,
+      "character": "Dominique Francon",
+      "order": 1
+    },
+    {
+      "personId": 2669,
+      "character": "Gail Wynand",
+      "order": 2
+    },
+    {
+      "personId": 51764,
+      "character": "Peter Keating",
+      "order": 3
+    },
+    {
+      "personId": 33484,
+      "character": "Elsworth Toohey",
+      "order": 4
+    },
+    {
+      "personId": 40180,
+      "character": "Henry Cameron",
+      "order": 5
+    },
+    {
+      "personId": 14518,
+      "character": "Roger Enright",
+      "order": 6
+    },
+    {
+      "personId": 18586,
+      "character": "Chairman",
+      "order": 7
+    },
+    {
+      "personId": 14452,
+      "character": "Alvah Scarret",
+      "order": 8
+    },
+    {
+      "personId": 1057892,
+      "character": "Newsboy (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 113704,
+      "character": "Young Intellectual (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 81182,
+      "character": "Prosecutor (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 120799,
+      "character": "Female Party Guest (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 20146,
+      "character": "Judge (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 90074,
+      "character": "Gas Station Executive (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 153263,
+      "character": "Woman (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 164809,
+      "character": "Courtroom Spectator (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 14419,
+      "character": "Pedestrian Onlooker (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 99467,
+      "character": "Society Woman (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 96605,
+      "character": "Toohey's Secretary (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 164,
+  "sources": [
+    "cult-list"
+  ]
+}

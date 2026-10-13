@@ -1,0 +1,209 @@
+{
+  "tmdbId": 1726,
+  "slug": "iron-man-2008",
+  "year": 2008,
+  "runtime": 126,
+  "originalTitle": "Iron Man",
+  "title": {
+    "en": "Iron Man",
+    "tr": "Demir Adam"
+  },
+  "overview": {
+    "en": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+    "tr": "Milyarder bir sanayici ve dâhi bir mucit olan Tony Stark kaçırılır ve yıkıcı bir silah inşa etmeye zorlanır. Zekâsını ve yaratıcılığını kullanarak bunun yerine ileri teknoloji bir zırh inşa eder ve esaretten kaçar. Küresel sonuçları olacak alçak bir plan olduğunu keşfettiğinde güçlü zırhını kuşanır ve Demir Adam olarak dünyayı korumaya yemin eder."
+  },
+  "poster": {
+    "tr": "/r22rJaciB0FSNmcIi4EuQVJEnKM.jpg",
+    "en": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"
+  },
+  "backdrops": [
+    "/s6cQgJSkviamXAXBggT2xmj7JiG.jpg",
+    "/cyecB7godJ6kNHGONFjUyVN9OX5.jpg",
+    "/8EgxSaVRZwcm3pWChyW4j7yPplq.jpg",
+    "/cdsjxSR55VS80IiJfrQ9i9pWqrp.jpg",
+    "/35zMyj13eAXn1X7B27mr9jQSQQb.jpg",
+    "/55RIH0MvyCRKLjx1RjEICF9SvAj.jpg",
+    "/blYGeaU0h8Zl4M8XznEjJ9IMNos.jpg",
+    "/7vMqYIHu2E5CbvWr6tmNhYulDfS.jpg",
+    "/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
+    "/raL07Akg9iTNejmT9X6atebdLBD.jpg"
+  ],
+  "trailerKey": "8ugaeA-nMTc",
+  "genreIds": [
+    28,
+    878,
+    12
+  ],
+  "keywordIds": [
+    539,
+    1930,
+    9715,
+    6163,
+    9717,
+    179430,
+    180547,
+    202371,
+    208630,
+    325766,
+    325778
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fa",
+    "ur",
+    "ar"
+  ],
+  "studios": [
+    "Marvel Studios",
+    "Marvel Entertainment",
+    "Fairview Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 4867,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10851,
+      "job": "composer"
+    },
+    {
+      "personId": 7626,
+      "job": "producer"
+    },
+    {
+      "personId": 10850,
+      "job": "producer"
+    },
+    {
+      "personId": 79209,
+      "job": "writer"
+    },
+    {
+      "personId": 18875,
+      "job": "writer"
+    },
+    {
+      "personId": 18873,
+      "job": "writer"
+    },
+    {
+      "personId": 79207,
+      "job": "writer"
+    },
+    {
+      "personId": 15277,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3223,
+      "character": "Tony Stark",
+      "order": 0
+    },
+    {
+      "personId": 18288,
+      "character": "Rhodey",
+      "order": 1
+    },
+    {
+      "personId": 1229,
+      "character": "Obadiah Stane",
+      "order": 2
+    },
+    {
+      "personId": 12052,
+      "character": "Pepper Potts",
+      "order": 3
+    },
+    {
+      "personId": 57451,
+      "character": "Christine Everhart",
+      "order": 4
+    },
+    {
+      "personId": 17857,
+      "character": "Yinsen",
+      "order": 5
+    },
+    {
+      "personId": 57452,
+      "character": "Raza",
+      "order": 6
+    },
+    {
+      "personId": 9048,
+      "character": "Agent Coulson",
+      "order": 7
+    },
+    {
+      "personId": 17200,
+      "character": "General Gabriel",
+      "order": 8
+    },
+    {
+      "personId": 173810,
+      "character": "Abu Bakaar",
+      "order": 9
+    },
+    {
+      "personId": 6162,
+      "character": "Jarvis (voice)",
+      "order": 10
+    },
+    {
+      "personId": 15277,
+      "character": "Hogan",
+      "order": 11
+    },
+    {
+      "personId": 12708,
+      "character": "William Ginter Riva",
+      "order": 12
+    },
+    {
+      "personId": 40275,
+      "character": "Major Allen",
+      "order": 13
+    },
+    {
+      "personId": 163671,
+      "character": "Award Ceremony Narrator (voice)",
+      "order": 14
+    },
+    {
+      "personId": 78299,
+      "character": "Guard",
+      "order": 15
+    },
+    {
+      "personId": 54809,
+      "character": "Guard",
+      "order": 16
+    },
+    {
+      "personId": 944830,
+      "character": "Guard",
+      "order": 17
+    },
+    {
+      "personId": 1209417,
+      "character": "Guard",
+      "order": 18
+    },
+    {
+      "personId": 95698,
+      "character": "Jimmy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 29092,
+  "sources": [
+    "cult-list"
+  ]
+}

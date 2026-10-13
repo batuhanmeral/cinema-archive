@@ -1,0 +1,189 @@
+{
+  "tmdbId": 18462,
+  "slug": "night-of-the-comet-1984",
+  "year": 1984,
+  "runtime": 95,
+  "originalTitle": "Night of the Comet",
+  "title": {
+    "en": "Night of the Comet",
+    "tr": "Night of the Comet"
+  },
+  "overview": {
+    "en": "After a comet wipes out most of life on Earth, two Valley Girls find themselves fighting against cannibal zombies and a sinister group of scientists.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xNXnLXu73LotJ9APaJZZXflBelQ.jpg",
+    "en": "/xNXnLXu73LotJ9APaJZZXflBelQ.jpg"
+  },
+  "backdrops": [
+    "/4wLJxD1VZLyWNGcHKFo6YnGPMb5.jpg",
+    "/wE1x0OinNZ7RxFOLfXRSHZ91gx8.jpg",
+    "/sbWGQqw5jldGy8znezuEXsEU1Lb.jpg",
+    "/ozxUuhFmdmF0Q2PCzF6bxxLyic1.jpg",
+    "/vQJxa6gagJnV0QNfan2kKIQP94R.jpg",
+    "/xQRbcItCsKswKPJhqCdCRtnOojh.jpg",
+    "/hA1DhgwmnIy3NKuaS0RQlglQpzd.jpg",
+    "/3AHECAaRnCX9FF1VJERAKjrfFQw.jpg",
+    "/xlr1gngBAOLmFz0K6EpP0La5g6V.jpg",
+    "/cs6ffl7X9MPuv3hhxJBwOB0K32Y.jpg"
+  ],
+  "trailerKey": "F13mpUTYS3E",
+  "genreIds": [
+    35,
+    27,
+    878
+  ],
+  "keywordIds": [
+    387,
+    4458,
+    4803,
+    10125,
+    10150,
+    12377,
+    155493,
+    177303,
+    325840
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Thomas Coleman and Michael Rosenblatt Productions",
+    "Film Development Fund"
+  ],
+  "crew": [
+    {
+      "personId": 68381,
+      "job": "director"
+    },
+    {
+      "personId": 58187,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 68381,
+      "job": "writer"
+    },
+    {
+      "personId": 100558,
+      "job": "producer"
+    },
+    {
+      "personId": 100557,
+      "job": "producer"
+    },
+    {
+      "personId": 1551815,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 50880,
+      "character": "Hector",
+      "order": 0
+    },
+    {
+      "personId": 55266,
+      "character": "Regina",
+      "order": 1
+    },
+    {
+      "personId": 83151,
+      "character": "Samantha",
+      "order": 2
+    },
+    {
+      "personId": 19434,
+      "character": "Doris",
+      "order": 3
+    },
+    {
+      "personId": 100552,
+      "character": "Audrey",
+      "order": 4
+    },
+    {
+      "personId": 18071,
+      "character": "Carter",
+      "order": 5
+    },
+    {
+      "personId": 100559,
+      "character": "Wilson",
+      "order": 6
+    },
+    {
+      "personId": 162052,
+      "character": "Oscar",
+      "order": 7
+    },
+    {
+      "personId": 2234,
+      "character": "Larry",
+      "order": 8
+    },
+    {
+      "personId": 160266,
+      "character": "Minder",
+      "order": 9
+    },
+    {
+      "personId": 1199562,
+      "character": "Davenport",
+      "order": 10
+    },
+    {
+      "personId": 292193,
+      "character": "Willy",
+      "order": 11
+    },
+    {
+      "personId": 127386,
+      "character": "Sarah",
+      "order": 12
+    },
+    {
+      "personId": 157909,
+      "character": "Brian",
+      "order": 13
+    },
+    {
+      "personId": 104351,
+      "character": "Rogers",
+      "order": 14
+    },
+    {
+      "personId": 157444,
+      "character": "Mel",
+      "order": 15
+    },
+    {
+      "personId": 55932,
+      "character": "Danny Mason Keener (DMK)",
+      "order": 16
+    },
+    {
+      "personId": 1977831,
+      "character": "Chuck",
+      "order": 17
+    },
+    {
+      "personId": 1216542,
+      "character": "TV Reporter",
+      "order": 18
+    },
+    {
+      "personId": 2292861,
+      "character": "Monster Cop",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 470,
+  "sources": [
+    "cult-list"
+  ]
+}

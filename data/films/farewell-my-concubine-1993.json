@@ -1,0 +1,199 @@
+{
+  "tmdbId": 10997,
+  "slug": "farewell-my-concubine-1993",
+  "year": 1993,
+  "runtime": 171,
+  "originalTitle": "霸王别姬",
+  "title": {
+    "en": "Farewell My Concubine",
+    "tr": "Elveda Cariyem"
+  },
+  "overview": {
+    "en": "In an epic tale of theater, gender, love and class, two Beijing opera actors navigate political turmoil as their friendship evolves over decades.",
+    "tr": "20. yüzyılın başlarında Çin'deyiz. O zaman adet olduğu üzere Pekin Operası'nın sanatçı havuzu, öksüzlerin ya da sokakta suça itilmiş çocukların disipline edilmesinden besleniyor. Tavizsiz Lu Qui tarafından yetiştirilen Duan Xiaolou ve Cheng Dieyi isimli iki yakın arkadaşın durumu da farklı değildir. Bedenlerini ve seslerini kullanmayı sıkı bir disiplin altında öğrenerek büyürler. Fiziği buna müsait olan Dieyi genelde kadın rolleri alırken, Xiaolou onun karşısında iri kıyım savaş beylerini canlandırmaya alışır. Dieyi giderek yakın arkadaşına karşı bir aşk duymaya başlar. Bu duygu en çok kuvvetlendiği sırada eşcinsel aşkı reddeden Xiaolou, kendisine güzel bir sokak kızı olan Juxian'ı gelin olarak alır. Bu tehlikeli aşk üçgeni II. Dünya Savaşı ve Çin Kültür Devrimi'ne kadar devam edecektir."
+  },
+  "poster": {
+    "tr": "/f54hNIiHNINw3JiUJB2XaQl5wCN.jpg",
+    "en": "/nlsYtgAgZMKxpq4TOkGsZuRqBx2.jpg"
+  },
+  "backdrops": [
+    "/bBiZN1epQTu3F8iFLBuMhc4TRzr.jpg",
+    "/9vUXU4tlRAVfopSctuxXycm9aKK.jpg",
+    "/qLgZYDy3sAEHvY5so9wkxNL1ggd.jpg",
+    "/o8W8thcjurUvD2rVhak2KqbWwOL.jpg",
+    "/oSfReuzUq5Yyap9dmbv4oHY6Jak.jpg",
+    "/qNAdKGASw5A7WLPPeEGmMYxUc7G.jpg",
+    "/aMK6Zg11TK2qZvMl3y7tqYpJuCY.jpg",
+    "/9wj11q8vtNwMs72zbhQ5LYyzweN.jpg",
+    "/nIKRGqjJta5E9oo7mqZoLZ5XQRn.jpg",
+    "/uHXnYzODQ6k2BwbewRcNtb4GZJP.jpg"
+  ],
+  "trailerKey": "FFiHfDBt9lE",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    478,
+    3679,
+    640,
+    4004,
+    7439,
+    12392,
+    33683,
+    158718,
+    221307,
+    222233,
+    230999
+  ],
+  "countries": [
+    "CN",
+    "HK"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "studios": [
+    "Beijing Film Studio",
+    "China Film Co-Production",
+    "Tomson (Hong Kong) Films Co., Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 67766,
+      "job": "writer"
+    },
+    {
+      "personId": 20640,
+      "job": "director"
+    },
+    {
+      "personId": 66169,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 27074,
+      "job": "writer"
+    },
+    {
+      "personId": 1192656,
+      "job": "composer"
+    },
+    {
+      "personId": 65285,
+      "job": "composer"
+    },
+    {
+      "personId": 130394,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 69637,
+      "character": "Cheng Dieyi / Xiao Douzi",
+      "order": 0
+    },
+    {
+      "personId": 65277,
+      "character": "Duan Xiaolou / Xiao Shitou",
+      "order": 1
+    },
+    {
+      "personId": 643,
+      "character": "Juxian",
+      "order": 2
+    },
+    {
+      "personId": 67765,
+      "character": "Master Guan",
+      "order": 3
+    },
+    {
+      "personId": 109436,
+      "character": "Manager",
+      "order": 4
+    },
+    {
+      "personId": 76913,
+      "character": "Master Yuan Shiqing",
+      "order": 5
+    },
+    {
+      "personId": 1346210,
+      "character": "Xiao Si",
+      "order": 6
+    },
+    {
+      "personId": 1358828,
+      "character": "Zhang the Eunuch",
+      "order": 7
+    },
+    {
+      "personId": 1358833,
+      "character": "Teenage Douzi",
+      "order": 8
+    },
+    {
+      "personId": 1358831,
+      "character": "Young Douzi",
+      "order": 9
+    },
+    {
+      "personId": 1358832,
+      "character": "Teenage Shitou",
+      "order": 10
+    },
+    {
+      "personId": 1368274,
+      "character": "Young Shitou",
+      "order": 11
+    },
+    {
+      "personId": 1358836,
+      "character": "Young Xiao Laizi",
+      "order": 12
+    },
+    {
+      "personId": 3074434,
+      "character": "Old Master",
+      "order": 13
+    },
+    {
+      "personId": 137917,
+      "character": "Douzi's Mother",
+      "order": 14
+    },
+    {
+      "personId": 1299590,
+      "character": "Aoki Saburo",
+      "order": 15
+    },
+    {
+      "personId": 1358829,
+      "character": "Teenage Xiao Si",
+      "order": 16
+    },
+    {
+      "personId": 187930,
+      "character": "Red Guard",
+      "order": 17
+    },
+    {
+      "personId": 2788928,
+      "character": "Cai Feng",
+      "order": 18
+    },
+    {
+      "personId": 74946,
+      "character": "Little Hooligan",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cannes": 1
+  },
+  "voteCount": 748,
+  "sources": [
+    "cult-list"
+  ]
+}

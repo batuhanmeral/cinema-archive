@@ -1,0 +1,207 @@
+{
+  "tmdbId": 468,
+  "slug": "my-own-private-idaho-1991",
+  "year": 1991,
+  "runtime": 104,
+  "originalTitle": "My Own Private Idaho",
+  "title": {
+    "en": "My Own Private Idaho",
+    "tr": "Benim Güzel Idaho'm"
+  },
+  "overview": {
+    "en": "In this loose adaptation of Shakespeare's \"Henry IV,\" Mike Waters is a hustler afflicted with narcolepsy. Scott Favor is the rebellious son of a mayor. Together, the two travel from Portland, Oregon to Idaho and finally to the coast of Italy in a quest to find Mike's estranged mother. Along the way they turn tricks for money and drugs, eventually attracting the attention of a wealthy benefactor and sexual deviant.",
+    "tr": "Sokaklarda yaşayan iki arkadaşı yol hikayesi. Sık sık uyku atakları yaşayan Mike, rüyalarında kendini hiçbir yere gitmeyen yollarda, kaybettiği annesinin peşinde görür. En yakın arkadaşı Scott ise varlıklı bir ailesi olmasına rağmen ailesini zor durumda bırakmak için sokaklardaki yaşamı seçmiştir. İki genç, uyuşturucu bağımlıları, hırsızlar ve satıcılarla dolu bir dünyada kendilerini bulmaya çalışırlar. Motosikletle Pasifik kıyılarından başladıkları bu arayış yolculuğu onları Roma'ya dek götürecektir"
+  },
+  "poster": {
+    "tr": "/p9TF90Pb5yg2MNb2UztzyXktMm4.jpg",
+    "en": "/7mIoHlFPdjKZ4rRbsaBsSUumIjY.jpg"
+  },
+  "backdrops": [
+    "/stSaFz5CtMXwIj3r4MDjqxqWRot.jpg",
+    "/gEVkzDfCidqcQ6eHBhkdmz3gOc2.jpg",
+    "/63Gp3ALkUBmq5dC1YCrqWaRvM30.jpg",
+    "/cb1EitFMhoxCSw1065vXWWSh06C.jpg",
+    "/7v1yQhAN41xA9TYrQBzUgxtsWSH.jpg",
+    "/dggtpKlnCokt6wJGzm8Jam29Af.jpg",
+    "/6Z2s4sxXs1LcYKYOS5IH294dioU.jpg",
+    "/pB7j5qDlAfH3W3z1O1kxUmdrMka.jpg",
+    "/y1WHrF3JScefUiTwGuwek2PVjgM.jpg",
+    "/jLUIWqCLOGZSkS1Azxtsvpo4D9g.jpg"
+  ],
+  "trailerKey": "cNENMVQfOus",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    30,
+    6054,
+    1454,
+    642,
+    380,
+    588,
+    970,
+    2200,
+    1896,
+    2348,
+    2150,
+    2347,
+    2350,
+    3230,
+    7312,
+    10048,
+    11722,
+    12987,
+    13059,
+    33841,
+    158718,
+    166959,
+    234995,
+    240119,
+    258533
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "de"
+  ],
+  "studios": [
+    "New Line Cinema",
+    "Fine Line Features"
+  ],
+  "crew": [
+    {
+      "personId": 6388,
+      "job": "composer"
+    },
+    {
+      "personId": 512,
+      "job": "producer"
+    },
+    {
+      "personId": 5216,
+      "job": "director"
+    },
+    {
+      "personId": 5216,
+      "job": "writer"
+    },
+    {
+      "personId": 6389,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5227,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 741,
+      "character": "Mike Waters",
+      "order": 0
+    },
+    {
+      "personId": 6384,
+      "character": "Scott Favor",
+      "order": 1
+    },
+    {
+      "personId": 785,
+      "character": "Richard Waters",
+      "order": 2
+    },
+    {
+      "personId": 6385,
+      "character": "Bob Pigeon",
+      "order": 3
+    },
+    {
+      "personId": 6386,
+      "character": "Gary",
+      "order": 4
+    },
+    {
+      "personId": 6405,
+      "character": "Carmella",
+      "order": 5
+    },
+    {
+      "personId": 2018333,
+      "character": "Digger",
+      "order": 6
+    },
+    {
+      "personId": 1221601,
+      "character": "Denise",
+      "order": 7
+    },
+    {
+      "personId": 1237,
+      "character": "Budd",
+      "order": 8
+    },
+    {
+      "personId": 6465,
+      "character": "Alena",
+      "order": 9
+    },
+    {
+      "personId": 6466,
+      "character": "Jack Favor",
+      "order": 10
+    },
+    {
+      "personId": 1646,
+      "character": "Hans",
+      "order": 11
+    },
+    {
+      "personId": 1048023,
+      "character": "Jane Lightwork",
+      "order": 12
+    },
+    {
+      "personId": 5222,
+      "character": "Walt",
+      "order": 13
+    },
+    {
+      "personId": 55959,
+      "character": "Daddy Carroll",
+      "order": 14
+    },
+    {
+      "personId": 2018248,
+      "character": "Wade",
+      "order": 15
+    },
+    {
+      "personId": 2018262,
+      "character": "Coverboy",
+      "order": 16
+    },
+    {
+      "personId": 18515,
+      "character": "Coverboy / Cafe Kid",
+      "order": 17
+    },
+    {
+      "personId": 2018273,
+      "character": "Coverboy",
+      "order": 18
+    },
+    {
+      "personId": 1150461,
+      "character": "Sharon Waters",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1288,
+  "sources": [
+    "cult-list"
+  ]
+}

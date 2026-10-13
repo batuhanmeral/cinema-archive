@@ -1,0 +1,208 @@
+{
+  "tmdbId": 4638,
+  "slug": "hot-fuzz-2007",
+  "year": 2007,
+  "runtime": 121,
+  "originalTitle": "Hot Fuzz",
+  "title": {
+    "en": "Hot Fuzz",
+    "tr": "Sıkı Aynasızlar"
+  },
+  "overview": {
+    "en": "Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.",
+    "tr": "Nicholas Angel, Londra polis teşkilatının gelmiş geçmiş en başarılı polislerinden biridir. Diğer polislerden %400 oranında daha fazla tutuklama yapması ile kırmış olduğu rekor ve üstün çalışma temposu ile en dikkat çekici polistir. Fakat bu durum, bazı sakıncalara da yol açmaktadır. Nicholas'ın bu başarısı, diğer polis memurlarının morallerini ve motivasyonlarını kötü yönden etkilemektedir. Böylece üstleri, Nicholas'ı yeteneklerinin çok dikkat çekmeyeceği bir yere göndermeye karar verirler. İnsanların, neredeyse suç işlemenin ne demek olduğunu bile bilmedikleri, son derece sakin bir Sandford kasabasına gönderilir. İyi niyetli ama bir o kadar da sersem bir polis memuru olan Danny ile de ortak olmak zorunda kalan Nicholas için bu sakin yaşama alışmak son derece zordur. Fakat hiç beklenmedik bir anda patlak veren olaylar, Sandford'un aslında sanıldığı kadar sakin ve suçtan uzak bir yer olmadığının kanıtı mıdır acaba? Nicholas'ın beklediği hareket yeniden ayağına gelmiş gibidir."
+  },
+  "poster": {
+    "tr": "/7iI5tyOKWmoHxUbf5jzyz6GNdvh.jpg",
+    "en": "/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg"
+  },
+  "backdrops": [
+    "/zuskekrfW3gj9ttXNVhfdHe5n22.jpg",
+    "/uFUm3ehg69VwtHf3ryMzPZXqRtd.jpg",
+    "/e1rPzkIcBEJiAd3piGirt7qVux7.jpg",
+    "/s0GxC0QXr2sOVXOokbydC2g0ZhF.jpg",
+    "/9rMSCFH9zhv1vILpEZQlUJs9iUm.jpg",
+    "/sQQHDcY7GMJNZ5cK8qE0sb79QtU.jpg",
+    "/r41cxYfRjFSF0bGBMoin0UuMKT8.jpg",
+    "/7aHa9or0TdQiwddj2PLV67EVOxO.jpg",
+    "/slRtyXH4g0ofPa2kUV8wqU71Mer.jpg",
+    "/3kH0i70IWTDCiVjEIAtqpFvidg0.jpg"
+  ],
+  "trailerKey": "L6PKkxn7pq0",
+  "genreIds": [
+    80,
+    28,
+    35
+  ],
+  "keywordIds": [
+    548,
+    6149,
+    5331,
+    5638,
+    9755,
+    9104,
+    9826,
+    11004,
+    10410,
+    10714,
+    12371,
+    167268,
+    167316,
+    167541,
+    207819,
+    357318
+  ],
+  "countries": [
+    "FR",
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Big Talk Studios",
+    "StudioCanal",
+    "Working Title"
+  ],
+  "crew": [
+    {
+      "personId": 11090,
+      "job": "director"
+    },
+    {
+      "personId": 11090,
+      "job": "writer"
+    },
+    {
+      "personId": 6489,
+      "job": "composer"
+    },
+    {
+      "personId": 11108,
+      "job": "writer"
+    },
+    {
+      "personId": 2238,
+      "job": "producer"
+    },
+    {
+      "personId": 72853,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2236,
+      "job": "producer"
+    },
+    {
+      "personId": 11112,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11108,
+      "character": "Nicholas Angel",
+      "order": 0
+    },
+    {
+      "personId": 11109,
+      "character": "PC Danny Butterman",
+      "order": 1
+    },
+    {
+      "personId": 388,
+      "character": "Inspector Frank Butterman",
+      "order": 2
+    },
+    {
+      "personId": 14887,
+      "character": "DS Andy Wainwright",
+      "order": 3
+    },
+    {
+      "personId": 28847,
+      "character": "DC Andy Cartwright",
+      "order": 4
+    },
+    {
+      "personId": 39185,
+      "character": "Sergeant Tony Fisher",
+      "order": 5
+    },
+    {
+      "personId": 39187,
+      "character": "PC Doris Thatcher",
+      "order": 6
+    },
+    {
+      "personId": 24265,
+      "character": "Sergeant Turner",
+      "order": 7
+    },
+    {
+      "personId": 39186,
+      "character": "PC Bob Walker",
+      "order": 8
+    },
+    {
+      "personId": 10669,
+      "character": "Simon Skinner",
+      "order": 9
+    },
+    {
+      "personId": 39188,
+      "character": "Tom Weaver",
+      "order": 10
+    },
+    {
+      "personId": 8226,
+      "character": "Joyce Cooper",
+      "order": 11
+    },
+    {
+      "personId": 14344,
+      "character": "Dr. Robin Hatcher",
+      "order": 12
+    },
+    {
+      "personId": 652,
+      "character": "Rev. Philip Shooter",
+      "order": 13
+    },
+    {
+      "personId": 3075,
+      "character": "Michael Armstrong",
+      "order": 14
+    },
+    {
+      "personId": 26258,
+      "character": "James Reaper",
+      "order": 15
+    },
+    {
+      "personId": 194899,
+      "character": "Mrs. Reaper",
+      "order": 16
+    },
+    {
+      "personId": 17476,
+      "character": "Roy Porter",
+      "order": 17
+    },
+    {
+      "personId": 137471,
+      "character": "Mary Porter",
+      "order": 18
+    },
+    {
+      "personId": 1229320,
+      "character": "Bernard Cooper",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 8725,
+  "sources": [
+    "cult-list"
+  ]
+}

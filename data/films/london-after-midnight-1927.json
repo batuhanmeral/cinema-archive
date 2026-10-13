@@ -1,0 +1,127 @@
+{
+  "tmdbId": 64852,
+  "slug": "london-after-midnight-1927",
+  "year": 1927,
+  "runtime": 69,
+  "originalTitle": "London After Midnight",
+  "title": {
+    "en": "London After Midnight",
+    "tr": "London After Midnight"
+  },
+  "overview": {
+    "en": "The abandoned Balfour House, the owner of which was found dead five years earlier, comes back to life with the arrival of two suspicious sinister-looking tenants.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/mDgG0R5XDai0960ICbk4GOMltlw.jpg",
+    "en": "/gCqMiX5dbgluLDEZkTzWjoc8Zu4.jpg"
+  },
+  "backdrops": [
+    "/cbg0MTTF1dU5MrLYGxlxlwIBCJI.jpg"
+  ],
+  "trailerKey": "JTuKq6-c5wg",
+  "genreIds": [
+    27,
+    9648
+  ],
+  "keywordIds": [
+    3133,
+    1307,
+    5439,
+    13097,
+    154802,
+    181429,
+    215678
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 1496,
+      "job": "director"
+    },
+    {
+      "personId": 1497,
+      "job": "producer"
+    },
+    {
+      "personId": 29756,
+      "job": "writer"
+    },
+    {
+      "personId": 1496,
+      "job": "producer"
+    },
+    {
+      "personId": 1498,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14481,
+      "character": "Professor Edward C. Burke/The Vampire",
+      "order": 0
+    },
+    {
+      "personId": 122974,
+      "character": "Lucille Balfour",
+      "order": 1
+    },
+    {
+      "personId": 8830,
+      "character": "Sir James Hamlin",
+      "order": 2
+    },
+    {
+      "personId": 1379984,
+      "character": "Williams, Balfour's Butler",
+      "order": 3
+    },
+    {
+      "personId": 141600,
+      "character": "Arthur Hibbs",
+      "order": 4
+    },
+    {
+      "personId": 148513,
+      "character": "Miss Smithson, the New Maid",
+      "order": 5
+    },
+    {
+      "personId": 1362355,
+      "character": "Luna, Bat Girl",
+      "order": 6
+    },
+    {
+      "personId": 100346,
+      "character": "Roger Balfour",
+      "order": 7
+    },
+    {
+      "personId": 1188616,
+      "character": "Bat Girl's Assistant",
+      "order": 8
+    },
+    {
+      "personId": 141029,
+      "character": "Real Estate Broker (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 29267,
+      "character": "Gallagher (uncredited)",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 32,
+  "sources": [
+    "cult-list"
+  ]
+}

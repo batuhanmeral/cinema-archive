@@ -1,0 +1,206 @@
+{
+  "tmdbId": 1900,
+  "slug": "traffic-2000",
+  "year": 2000,
+  "runtime": 147,
+  "originalTitle": "Traffic",
+  "title": {
+    "en": "Traffic",
+    "tr": "Trafik"
+  },
+  "overview": {
+    "en": "An exploration of the United States of America's war on drugs from multiple perspectives. For the new head of the Office of National Drug Control Policy, the war becomes personal when he discovers his well-educated daughter is abusing cocaine within their comfortable suburban home. In Mexico, a flawed, but noble policeman agrees to testify against a powerful general in league with a cartel, and in San Diego, a drug kingpin's sheltered trophy wife must learn her husband's ruthless business after he is arrested, endangering her luxurious lifestyle.",
+    "tr": "Muhafazakar bir yargıç, ABD başkanı tarafından uyuşturucuya karşı verilen savaşa öncülük etmek görevine atanır. Bu yeni misyonu sırasında, savcı kendi kızına ait çarpıcı gerçeklerle de yüzleşecektir.Uyuşturucu trafiğini farklı cephelerden ele alan ve bir biçimde bu işe bulaşmış insanların kendi küçük öykülerini iki saati aşan bir süreçte toplayan TRAFİK, İngiliz Channel 4 televizyonunda dört bölüm halinde yayınlanmış aynı adlı mini diziden esinle Alman - ABD ortak yapımı olarak gerçekleştirildi."
+  },
+  "poster": {
+    "tr": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+    "en": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg"
+  },
+  "backdrops": [
+    "/zgLzOVTsfaLLvopQzyg0F1FCnPE.jpg",
+    "/syapU4X3vYBCdARyAOtz3g90hMt.jpg",
+    "/nkMgY1XFLWr91najzfvwie8LyYF.jpg",
+    "/7qIuxTSpDv5upnE9ofUhaWD91Jl.jpg",
+    "/uidX3bx1lKo8biGOY6B5eubio2F.jpg",
+    "/7DQQkyCEXx8VJ6JBufXVEpnszxq.jpg",
+    "/azk93ZunQfErnnCpjeOFithi8kB.jpg",
+    "/2iqvNZKieLJvZ6QjMtB3aKEPAO2.jpg",
+    "/87Huor6eNlAAYpIwNFeUZpVdMvc.jpg",
+    "/gaPaKTCM1wjvXTK0mvXrU9Roe92.jpg"
+  ],
+  "trailerKey": "sZnOWu68Vw4",
+  "genreIds": [
+    53,
+    18,
+    80
+  ],
+  "keywordIds": [
+    2231,
+    5600,
+    456,
+    726,
+    3391,
+    6212,
+    1601,
+    2149,
+    4436,
+    4668,
+    5905,
+    5616,
+    6782,
+    18026,
+    277166,
+    373184
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ],
+  "studios": [
+    "USA Films",
+    "Initial Entertainment Group",
+    "Bedford Falls Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1884,
+      "job": "director"
+    },
+    {
+      "personId": 2945,
+      "job": "writer"
+    },
+    {
+      "personId": 21706,
+      "job": "producer"
+    },
+    {
+      "personId": 9182,
+      "job": "producer"
+    },
+    {
+      "personId": 9181,
+      "job": "producer"
+    },
+    {
+      "personId": 8377,
+      "job": "composer"
+    },
+    {
+      "personId": 1884,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3392,
+      "character": "Robert Wakefield",
+      "order": 0
+    },
+    {
+      "personId": 1121,
+      "character": "Javier Rodriguez",
+      "order": 1
+    },
+    {
+      "personId": 1922,
+      "character": "Helena Ayala",
+      "order": 2
+    },
+    {
+      "personId": 21711,
+      "character": "Caroline Wakefield",
+      "order": 3
+    },
+    {
+      "personId": 1896,
+      "character": "Montel Gordon",
+      "order": 4
+    },
+    {
+      "personId": 16429,
+      "character": "Manolo Sanchez",
+      "order": 5
+    },
+    {
+      "personId": 15860,
+      "character": "Eduardo Ruiz",
+      "order": 6
+    },
+    {
+      "personId": 40481,
+      "character": "Ray Castro",
+      "order": 7
+    },
+    {
+      "personId": 17052,
+      "character": "Seth Abrahms",
+      "order": 8
+    },
+    {
+      "personId": 21708,
+      "character": "Gen. Arturo Salazar",
+      "order": 9
+    },
+    {
+      "personId": 5365,
+      "character": "Francisco Flores",
+      "order": 10
+    },
+    {
+      "personId": 27563,
+      "character": "Barbara Wakefield",
+      "order": 11
+    },
+    {
+      "personId": 6065,
+      "character": "Arnie Metzger",
+      "order": 12
+    },
+    {
+      "personId": 87956,
+      "character": "Jeff Sheridan",
+      "order": 13
+    },
+    {
+      "personId": 1159,
+      "character": "Carlos Ayala",
+      "order": 14
+    },
+    {
+      "personId": 3926,
+      "character": "Chief of Staff",
+      "order": 15
+    },
+    {
+      "personId": 9274,
+      "character": "General Ralph Landry",
+      "order": 16
+    },
+    {
+      "personId": 12798,
+      "character": "DEA Agent - Trailer",
+      "order": 17
+    },
+    {
+      "personId": 20899,
+      "character": "Attorney Michael Adler",
+      "order": 18
+    },
+    {
+      "personId": 4589,
+      "character": "Juan Obregón",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 4
+  },
+  "voteCount": 2540,
+  "sources": [
+    "cult-list"
+  ]
+}

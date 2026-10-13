@@ -1,0 +1,214 @@
+{
+  "tmdbId": 544,
+  "slug": "there-s-something-about-mary-1998",
+  "year": 1998,
+  "runtime": 120,
+  "originalTitle": "There's Something About Mary",
+  "title": {
+    "en": "There's Something About Mary",
+    "tr": "Ah Mary Vah Mary"
+  },
+  "overview": {
+    "en": "For Ted, prom night went about as bad as it’s possible for any night to go. Thirteen years later, he finally gets another chance with his old prom date, only to run up against other suitors including the sleazy detective he hired to find her.",
+    "tr": "Çekingen, etrafına kızgın genç Ted(Ben Stiller), üçüncü sınıf bir özel dedektifin yardımıyla, tam on üç sene sonra lisede aşık olduğu Mary'nin(Cameran Diaz) peşine düşer. Ne var ki, dedektif de Mary'ye aşık olur. Kısa süre sonra ise, her iki erkek de Mary ile ilgilenen herkesin ona aşık olduğunu ve onu elde etmeye çalıştığının farkına varır."
+  },
+  "poster": {
+    "tr": "/qL6nSO5lGwKOezKtJIbDg2Gxgfr.jpg",
+    "en": "/g03pwohXHOI75InM3zraiaEGguO.jpg"
+  },
+  "backdrops": [
+    "/e1bOKJc2T2JyniivVEFU1fY5ibQ.jpg",
+    "/egJQ3nIon5fT8wyXcKRHzvmtZpD.jpg",
+    "/y3X2jfteXGl9s4kgvjjBZ0VWFPa.jpg",
+    "/y1KbES2Trw9FgwyKZowg4BNRFhF.jpg",
+    "/npPsijUgVxYdzhTqYJpmNLffvoh.jpg",
+    "/vGryShor1iOIT4TuP3AlghYSFwI.jpg",
+    "/ie7hUyGmZDYmR2eDVQRePlSnqBK.jpg",
+    "/siIpNYkGwD0VYl1vGTuvKVJko5t.jpg",
+    "/w58QkFPQaGBPc3zekICJyyLZZGD.jpg",
+    "/aoo1QVtq0OFfJi0FYyTZLTW8ZkH.jpg"
+  ],
+  "trailerKey": "503D8hOfE_8",
+  "genreIds": [
+    10749,
+    35
+  ],
+  "keywordIds": [
+    3262,
+    9799,
+    6844,
+    11223,
+    15027,
+    155457,
+    158502,
+    158505,
+    179431,
+    194413
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 7398,
+      "job": "writer"
+    },
+    {
+      "personId": 7405,
+      "job": "producer"
+    },
+    {
+      "personId": 7397,
+      "job": "writer"
+    },
+    {
+      "personId": 7396,
+      "job": "director"
+    },
+    {
+      "personId": 7413,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7407,
+      "job": "producer"
+    },
+    {
+      "personId": 7408,
+      "job": "producer"
+    },
+    {
+      "personId": 7406,
+      "job": "producer"
+    },
+    {
+      "personId": 7395,
+      "job": "director"
+    },
+    {
+      "personId": 7395,
+      "job": "writer"
+    },
+    {
+      "personId": 7396,
+      "job": "writer"
+    },
+    {
+      "personId": 139767,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6941,
+      "character": "Mary Jensen",
+      "order": 0
+    },
+    {
+      "personId": 2876,
+      "character": "Pat Healy",
+      "order": 1
+    },
+    {
+      "personId": 7399,
+      "character": "Ted Stroehmann",
+      "order": 2
+    },
+    {
+      "personId": 7400,
+      "character": "Tucker",
+      "order": 3
+    },
+    {
+      "personId": 1534,
+      "character": "Dom Woganowski",
+      "order": 4
+    },
+    {
+      "personId": 7401,
+      "character": "Magda",
+      "order": 5
+    },
+    {
+      "personId": 4175,
+      "character": "Sully",
+      "order": 6
+    },
+    {
+      "personId": 7402,
+      "character": "Sheila Jensen",
+      "order": 7
+    },
+    {
+      "personId": 65827,
+      "character": "Charlie Jensen",
+      "order": 8
+    },
+    {
+      "personId": 6951,
+      "character": "Warren Jensen",
+      "order": 9
+    },
+    {
+      "personId": 7404,
+      "character": "Brenda",
+      "order": 10
+    },
+    {
+      "personId": 19265,
+      "character": "Joanie",
+      "order": 11
+    },
+    {
+      "personId": 1754082,
+      "character": "Lisa",
+      "order": 12
+    },
+    {
+      "personId": 1229514,
+      "character": "Boss' Brother",
+      "order": 13
+    },
+    {
+      "personId": 14700,
+      "character": "Detective Krevoy",
+      "order": 14
+    },
+    {
+      "personId": 162924,
+      "character": "Detective Stabler",
+      "order": 15
+    },
+    {
+      "personId": 74934,
+      "character": "South Carolina Police",
+      "order": 16
+    },
+    {
+      "personId": 1853171,
+      "character": "Dom's Wife",
+      "order": 17
+    },
+    {
+      "personId": 1542,
+      "character": "Dr. Zit Face / High School Pal",
+      "order": 18
+    },
+    {
+      "personId": 116908,
+      "character": "Coconut Guy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 5571,
+  "sources": [
+    "cult-list"
+  ]
+}

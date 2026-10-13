@@ -1,0 +1,223 @@
+{
+  "tmdbId": 25508,
+  "slug": "cat-people-1942",
+  "year": 1942,
+  "runtime": 73,
+  "originalTitle": "Cat People",
+  "title": {
+    "en": "Cat People",
+    "tr": "Kedi Kız"
+  },
+  "overview": {
+    "en": "A Serbian émigré in Manhattan believes that, because of an ancient curse, any physical intimacy with the man she loves will turn her into a feline predator.",
+    "tr": "Amerikalı bir adam, memleketinin efsanelerinden olan \"kedi-insan\"a dönüşeceğinden korkan Sırp bir göçmen ile evlenir."
+  },
+  "poster": {
+    "tr": "/xbe5w7MXOdqsu0ZZRiHHAh6oQlc.jpg",
+    "en": "/xbe5w7MXOdqsu0ZZRiHHAh6oQlc.jpg"
+  },
+  "backdrops": [
+    "/dAE4x4BgauvsRkErmLg1L05LNAV.jpg",
+    "/gDgGv0TGkxrFAYgO3q50Hl6ScxU.jpg",
+    "/i5lP5uL8YBc38nR5LR0BxV2h6Yq.jpg",
+    "/jUzYU647bbU4j1BO9e9W3sSEKcn.jpg",
+    "/p4Fqd1YH72MAVdSPLSJiTKUzmbu.jpg",
+    "/lZSNTPydZHfTvYuTRFvKIyG6Ww4.jpg",
+    "/cYo21BdRHVpsz2R5Q4Xn0GpfMXb.jpg",
+    "/t66PqESjRNPc897AUqClWfD5XpP.jpg",
+    "/7S1X9jmSwJaxr6x5feJUhENE12V.jpg",
+    "/qNpULBfHF3JyLbwC8seCraiJmoQ.jpg"
+  ],
+  "trailerKey": "w-MIQyzBWHs",
+  "genreIds": [
+    9648,
+    27,
+    10749
+  ],
+  "keywordIds": [
+    3640,
+    931,
+    128,
+    1533,
+    977,
+    919,
+    1438,
+    2172,
+    4375,
+    2629,
+    6038,
+    5160,
+    3363,
+    4478,
+    7453,
+    8181,
+    9285,
+    9807,
+    10541,
+    12999,
+    13073,
+    15106,
+    40952,
+    41538,
+    155819,
+    158194,
+    161698,
+    161714,
+    172628,
+    178856,
+    188648,
+    207883,
+    215579,
+    218174,
+    232440,
+    238405,
+    238613,
+    238715,
+    241980,
+    274115,
+    283448,
+    291865,
+    304330,
+    339284,
+    340384
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "sr",
+    "en"
+  ],
+  "studios": [
+    "RKO Radio Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 10146,
+      "job": "director"
+    },
+    {
+      "personId": 97047,
+      "job": "producer"
+    },
+    {
+      "personId": 10150,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 48804,
+      "job": "writer"
+    },
+    {
+      "personId": 4345,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 103781,
+      "character": "Irena Dubrovna Reed",
+      "order": 0
+    },
+    {
+      "personId": 51764,
+      "character": "Oliver Reed",
+      "order": 1
+    },
+    {
+      "personId": 48962,
+      "character": "Dr. Louis Judd",
+      "order": 2
+    },
+    {
+      "personId": 30114,
+      "character": "Alice Moore",
+      "order": 3
+    },
+    {
+      "personId": 93910,
+      "character": "The Commodore",
+      "order": 4
+    },
+    {
+      "personId": 6933,
+      "character": "Doc Carver (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 1550939,
+      "character": "Sue Ellen (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 22606,
+      "character": "Zookeeper (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 1230787,
+      "character": "Street Policeman (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 1437089,
+      "character": "Mrs. Plunkett (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 945877,
+      "character": "Mrs. Agnew (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 1421296,
+      "character": "Blondie (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 97042,
+      "character": "Minnie (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 117648,
+      "character": "Bus Driver (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 133230,
+      "character": "Taxi Driver (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 148565,
+      "character": "Neighbor Calling the Police (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 30200,
+      "character": "Sheep Caretaker (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1828609,
+      "character": "Cafe Proprietor (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 141085,
+      "character": "Mrs. Hansen (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 96607,
+      "character": "The Cat Woman (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 708,
+  "sources": [
+    "cult-list"
+  ]
+}

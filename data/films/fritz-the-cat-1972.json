@@ -1,0 +1,145 @@
+{
+  "tmdbId": 12593,
+  "slug": "fritz-the-cat-1972",
+  "year": 1972,
+  "runtime": 78,
+  "originalTitle": "Fritz the Cat",
+  "title": {
+    "en": "Fritz the Cat",
+    "tr": "Fritz the Cat"
+  },
+  "overview": {
+    "en": "In late 1960s New York City, fed up with monotonous college life and police repression, free-spirited Fritz, an impenitent seducer and unrestrained party-animal, decides to explore the world. And just like that, as he flees NYC, heading to San Francisco, Fritz embarks on an endless adventure of illumination. Immersed in a world surrounded by drugs and sex, Fritz participates in mad orgies, brings about a revolution, incites mass urban riots, and crosses paths with drug-addled Nazi bikers.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/q0UOEBPQKZykmB1hz7yzHJNybLn.jpg",
+    "en": "/aZgHOb5QHvLLn4kxxBTVb0BNqW.jpg"
+  },
+  "backdrops": [
+    "/oSuwJWZqrvXdv0b7F32rv87maBV.jpg",
+    "/x96e3Oxmz1Z3y7IjUSTsHyPX0uS.jpg",
+    "/dtbR7PVRJdq6w1QTSkpskMiYRyZ.jpg",
+    "/67UMN65W5nVscrJnjLI5nqFXHKe.jpg",
+    "/x2iyqlwcJsUrZ0JRNiiLRAISVqM.jpg",
+    "/2NxQTtyqnfDdL7rBtEJMoWHeSgh.jpg",
+    "/rZG9kEIOT4tZdKcCfVBo3zJtbSt.jpg",
+    "/lk8R9TxLtV0452MWjJXZxo3nr7G.jpg",
+    "/cCfBzH4NSZctBkAIEGj8OvNR4pX.jpg",
+    "/v6L9ZmN7w1OmSNrBkOXdj3QyWNB.jpg"
+  ],
+  "trailerKey": "SY2qNNvX7kw",
+  "genreIds": [
+    16,
+    35,
+    18
+  ],
+  "keywordIds": [
+    242,
+    5246,
+    1353,
+    977,
+    1817,
+    5436,
+    6782,
+    5927,
+    9717,
+    10209,
+    11477,
+    11528,
+    11530,
+    11532,
+    11534,
+    14964,
+    161919
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "yi"
+  ],
+  "studios": [
+    "Steve Krantz Productions",
+    "Aurica Finance Company",
+    "Fritz Productions"
+  ],
+  "crew": [
+    {
+      "personId": 16384,
+      "job": "director"
+    },
+    {
+      "personId": 73034,
+      "job": "producer"
+    },
+    {
+      "personId": 16384,
+      "job": "writer"
+    },
+    {
+      "personId": 73274,
+      "job": "composer"
+    },
+    {
+      "personId": 73275,
+      "job": "composer"
+    },
+    {
+      "personId": 73276,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 31102,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 73029,
+      "character": "Fritz the Cat (voice)",
+      "order": 0
+    },
+    {
+      "personId": 73030,
+      "character": "Bertha / Additional Female Crows (voice)",
+      "order": 1
+    },
+    {
+      "personId": 73031,
+      "character": "Blue / John / Additional Voices (voice)",
+      "order": 2
+    },
+    {
+      "personId": 73032,
+      "character": "Pig Cop #2 (voice)",
+      "order": 3
+    },
+    {
+      "personId": 4978,
+      "character": "Winston Schwartz / Lizard Leader (voice)",
+      "order": 4
+    },
+    {
+      "personId": 16384,
+      "character": "Narrator / Pig Cop #1 (voice)",
+      "order": 5
+    },
+    {
+      "personId": 1463109,
+      "character": "Girl #1 / Girl #2 / Girl #3 / Harriet (voice)",
+      "order": 6
+    },
+    {
+      "personId": 1924770,
+      "character": "Bar Patron / Duke the Crow (voice)",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 403,
+  "sources": [
+    "cult-list"
+  ]
+}

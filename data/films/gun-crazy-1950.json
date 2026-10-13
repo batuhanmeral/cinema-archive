@@ -1,0 +1,199 @@
+{
+  "tmdbId": 18671,
+  "slug": "gun-crazy-1950",
+  "year": 1950,
+  "runtime": 87,
+  "originalTitle": "Gun Crazy",
+  "title": {
+    "en": "Gun Crazy",
+    "tr": "Ölümcül Kadın"
+  },
+  "overview": {
+    "en": "Bart Tare, an ex-Army man who has a lifelong fixation with guns, meets a kindred spirit in sharpshooter Annie Starr and goes to work at a carnival alongside her. After upsetting the carnival owner who lusts after Starr, they both get fired. Soon, at Starr's behest, the couple embarks on a crime spree for cash.",
+    "tr": "Bart Tare, küçüklüğünden bu yana silahlara tutkundur. O kadar meraklıdır ki 14 yaşında bir dükkandan silah çalar. Bu yüzden birkaç yılını ıslahevinde geçirmek zorunda kalır. Oradaki cezasını bitirir bitirmez orduya yazılır ve verdiği hizmetlerden sonra büyüdüğü kasabaya geri döner. Eski dostu Clayde kasabanın şerifi olmuştur. Bir arkadaşlarını daha yanlarına alan ikili kasabanın sirkine gider. Atıcılık bölümüne geldiklerinde Annie Laurie Starr adlı genç kadının yaptığı atışlar dikkatlerini çeker. Bart, Annie’ye meydan okumaya karar verir ve ikilinin atıcılık yarışını kazanır. Annie ve Bart arasında bir yakınlaşma başlar. Bu sırada Bart’ın yeteneğini fark eden sirkin patronu Packett, onu hemen işe almaya karar verir. Ancak Annie ve Bart arasında filizlenen aşk onun hiç de hoşuna gitmeyecektir."
+  },
+  "poster": {
+    "tr": "/kC1IIitCJTZLwZyuQnKw4zaOaXc.jpg",
+    "en": "/syV56xlpFCRWxjt5PoBDrG58P9P.jpg"
+  },
+  "backdrops": [
+    "/eR9S6iMbk4ycV7DcqvVxFp8lNFV.jpg",
+    "/7At5BSvr22D2QGq8liwk00EQM6q.jpg",
+    "/oRtyhM1nUgsisKllZ7HZa6arWK3.jpg",
+    "/wx9Z1OwwFR1xiKoIXYiMObtHJdU.jpg",
+    "/4Q4RPAG6w83GPJq0xAmaR6IgHts.jpg",
+    "/jnpv7dEhyvkdy04DF1dnlAfbETi.jpg",
+    "/apN0Jx9NGJ3CFwGX13LFtUzdLs8.jpg",
+    "/xWMmxCMaPRrdzqKxQJenVSxeTTN.jpg",
+    "/xrHRk4nTPzu8OWy48Pw9lo1VJbB.jpg",
+    "/r5RvOBdjGusPrOCBaBk09ArzKHT.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    80,
+    10749,
+    18
+  ],
+  "keywordIds": [
+    1419,
+    3473,
+    9807,
+    18105,
+    156119,
+    156866,
+    163656,
+    177695,
+    180199,
+    211365,
+    221657,
+    320537
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "King Brothers Productions"
+  ],
+  "crew": [
+    {
+      "personId": 19099,
+      "job": "producer"
+    },
+    {
+      "personId": 11993,
+      "job": "writer"
+    },
+    {
+      "personId": 41751,
+      "job": "writer"
+    },
+    {
+      "personId": 26026,
+      "job": "composer"
+    },
+    {
+      "personId": 19100,
+      "job": "producer"
+    },
+    {
+      "personId": 86004,
+      "job": "director"
+    },
+    {
+      "personId": 4308,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 13569,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 86001,
+      "character": "Annie Laurie Starr",
+      "order": 0
+    },
+    {
+      "personId": 14504,
+      "character": "Bart Tare",
+      "order": 1
+    },
+    {
+      "personId": 85988,
+      "character": "Packett",
+      "order": 2
+    },
+    {
+      "personId": 31977,
+      "character": "Judge Willoughby",
+      "order": 3
+    },
+    {
+      "personId": 86002,
+      "character": "Ruby Tare Flagler",
+      "order": 4
+    },
+    {
+      "personId": 86003,
+      "character": "Sheriff Clyde Boston",
+      "order": 5
+    },
+    {
+      "personId": 69319,
+      "character": "Dave Allister",
+      "order": 6
+    },
+    {
+      "personId": 110204,
+      "character": "Sheriff Boston",
+      "order": 7
+    },
+    {
+      "personId": 1644224,
+      "character": "Bart Tare (Age 7)",
+      "order": 8
+    },
+    {
+      "personId": 6725,
+      "character": "Bart Tare (Age 14)",
+      "order": 9
+    },
+    {
+      "personId": 1646869,
+      "character": "Clyde Boston (Age 14)",
+      "order": 10
+    },
+    {
+      "personId": 109707,
+      "character": "Dave Allister (Child)",
+      "order": 11
+    },
+    {
+      "personId": 170275,
+      "character": "Bluey-Bluey",
+      "order": 12
+    },
+    {
+      "personId": 98966,
+      "character": "Miss Wynn",
+      "order": 13
+    },
+    {
+      "personId": 144370,
+      "character": "Miss Augustine Sifert",
+      "order": 14
+    },
+    {
+      "personId": 2579264,
+      "character": "Danceland Singer",
+      "order": 15
+    },
+    {
+      "personId": 89661,
+      "character": "Hampton Policeman",
+      "order": 16
+    },
+    {
+      "personId": 81975,
+      "character": "Cab Driver",
+      "order": 17
+    },
+    {
+      "personId": 103068,
+      "character": "Mr. Mallenberg",
+      "order": 18
+    },
+    {
+      "personId": 1466128,
+      "character": "Office Worker (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 321,
+  "sources": [
+    "cult-list"
+  ]
+}

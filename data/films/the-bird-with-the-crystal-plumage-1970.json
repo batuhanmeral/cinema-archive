@@ -1,0 +1,205 @@
+{
+  "tmdbId": 20345,
+  "slug": "the-bird-with-the-crystal-plumage-1970",
+  "year": 1970,
+  "runtime": 96,
+  "originalTitle": "L'uccello dalle piume di cristallo",
+  "title": {
+    "en": "The Bird with the Crystal Plumage",
+    "tr": "Kristal Kanatlı Kuş"
+  },
+  "overview": {
+    "en": "An American writer living in Rome witnesses an attempted murder that is connected to an ongoing killing spree in the city and conducts his own investigation, despite him and his girlfriend being targeted by the killer.",
+    "tr": "Amerikalı bir yazar olan Sam, Roma'da yaşayan ve yazar tıkanıklığıyla boğuşan bir adamdır. Amerika'ya dönmenin eşiğindedir ve bir gün bir sanat galerisinde bulunduğu esnada, galeri sahibinin karısına yapılan cinayet teşebbüsüne tanık olur. Sam neye uğradığını şaşırır, kadını kurtarmak için hiçbir şey yapamaz. Neticede kadın kurtulduğunda polisler bu ünlü seri katilin elinden kurtulan tek kişinin kendisi olduğunu söylerler, ancak davayı yine de çözemezler. Tüm sürece tanık olan Sam, bu davayı kendi başına çözmeye, tehlikeli katili tek başına aramaya karar verir."
+  },
+  "poster": {
+    "tr": "/dpALRkwodEIT7TGX9SqTgwVNn0i.jpg",
+    "en": "/R4kmKsGKvhAQn5xq98zs8JHL8c.jpg"
+  },
+  "backdrops": [
+    "/jT0MXVQiwQeqnueR87jv3f6yjAa.jpg",
+    "/f44PGMz7qPRAmCfb2grzTczL1uh.jpg",
+    "/jCh4lxFGREOf3JHDxxnlbWv2xWq.jpg",
+    "/5vr1QN5Zzxg2zEGsYuYemuu0pmz.jpg",
+    "/x4C52Bl6zOtl0NXsQFdNEPIWDxl.jpg",
+    "/aL7VXlJsu3nnhRhJvp3NhdI4sxM.jpg",
+    "/3Ac35Xhe6vBJT8ZQA3BHjLOhEXZ.jpg",
+    "/4RiDSOF2esoLlOEUy5QYeqOgCAH.jpg",
+    "/uj4vPPQBsD4HXoltTgPysfhm4Qn.jpg",
+    "/oAJuyMkW8AR8nkCmtJZSNPu3j6c.jpg"
+  ],
+  "trailerKey": "UztVF1nJTBo",
+  "genreIds": [
+    27,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    818,
+    588,
+    6259,
+    5918,
+    9826,
+    10714,
+    12570,
+    14676,
+    14805,
+    14861,
+    15127,
+    15155,
+    15478,
+    34061,
+    156063,
+    161982,
+    178649,
+    184807,
+    254318,
+    329744,
+    361094,
+    376929
+  ],
+  "countries": [
+    "DE",
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Seda Spettacoli",
+    "CCC Filmkunst"
+  ],
+  "crew": [
+    {
+      "personId": 4955,
+      "job": "director"
+    },
+    {
+      "personId": 7202,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1259,
+      "job": "composer"
+    },
+    {
+      "personId": 12737,
+      "job": "producer"
+    },
+    {
+      "personId": 4955,
+      "job": "writer"
+    },
+    {
+      "personId": 70886,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20564,
+      "character": "Sam Dalmas",
+      "order": 0
+    },
+    {
+      "personId": 93476,
+      "character": "Julia",
+      "order": 1
+    },
+    {
+      "personId": 32377,
+      "character": "Inspector Morosini",
+      "order": 2
+    },
+    {
+      "personId": 129431,
+      "character": "Monica Ranieri",
+      "order": 3
+    },
+    {
+      "personId": 25816,
+      "character": "Alberto Ranieri",
+      "order": 4
+    },
+    {
+      "personId": 31546,
+      "character": "Professor Carlo Dover",
+      "order": 5
+    },
+    {
+      "personId": 37125,
+      "character": "Monti",
+      "order": 6
+    },
+    {
+      "personId": 10254,
+      "character": "Berto Consalvi",
+      "order": 7
+    },
+    {
+      "personId": 1166735,
+      "character": "Faiena",
+      "order": 8
+    },
+    {
+      "personId": 1139937,
+      "character": "Garullo",
+      "order": 9
+    },
+    {
+      "personId": 102122,
+      "character": "Victim",
+      "order": 10
+    },
+    {
+      "personId": 1326585,
+      "character": "Police Detective",
+      "order": 11
+    },
+    {
+      "personId": 98774,
+      "character": "Police Detective",
+      "order": 12
+    },
+    {
+      "personId": 36839,
+      "character": "Antique Dealer",
+      "order": 13
+    },
+    {
+      "personId": 1906743,
+      "character": "Tina",
+      "order": 14
+    },
+    {
+      "personId": 27390,
+      "character": "Girl Watching TV",
+      "order": 15
+    },
+    {
+      "personId": 3382430,
+      "character": "Police Detective",
+      "order": 16
+    },
+    {
+      "personId": 3382446,
+      "character": "Sandra Roversi (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 99446,
+      "character": "Professor Rinaldi (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 15972,
+      "character": "Needles (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 872,
+  "sources": [
+    "cult-list"
+  ]
+}

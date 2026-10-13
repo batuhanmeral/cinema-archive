@@ -1,0 +1,199 @@
+{
+  "tmdbId": 871,
+  "slug": "planet-of-the-apes-1968",
+  "year": 1968,
+  "runtime": 112,
+  "originalTitle": "Planet of the Apes",
+  "title": {
+    "en": "Planet of the Apes",
+    "tr": "Maymunlar Cehennemi"
+  },
+  "overview": {
+    "en": "Astronaut Taylor crash lands on a distant planet ruled by apes who use a primitive race of humans for experimentation and sport. Soon Taylor finds himself among the hunted, his life in the hands of a benevolent chimpanzee scientist.",
+    "tr": "Bir grup astronot, çok uzun bir yolculuğun sonunda uyanarak, bilinmeyen bir gezegene iniş yapar. Burada konuşmayı bilmeyen ilkel mağara insanları ile, konuşan, avlanan, adeta insanla yer değiştirerek medeniyet kurmuş maymunlar yaşamaktadır. Grup dağılır, astronotlardan George Taylor, insan avcısı maymunlar tarafından esir edilir. Üzerlerinde deney yapılacaktır ki, maymunlardan Dr. Zaius, esir Taylor'ın konuşulanları anlayan, 'maymunlar kadar zeki' bir insan olduğunu fark eder. Bu durumun yerleşik inançlara ters düşüp evrim kuramını altüst edeceğini düşünen tutucu doktor, olan biteni görmezden gelir. O esnada devreye idealist ve sempatik Cornelius ile Dr. Zira girerek Taylor'ı korumaya çalışırlar. Diğer arkadaşlarını bulmak ve esaretten kurtulmak isteyen Taylor, çıkan bir kargaşadan faydalanarak güzel Nova'yla beraber kaçmaya başlar."
+  },
+  "poster": {
+    "tr": "/sAin4IuMKZkNLou2BKOgBxBrLT4.jpg",
+    "en": "/2r9iKnlSYEk4daQadsXfcjHfIjQ.jpg"
+  },
+  "backdrops": [
+    "/zRo7v3syLG19ZaLxZRFRLN1L9iX.jpg",
+    "/dQS3L3USI7Zhcq41abzMZF8dXCm.jpg",
+    "/5t6ImiTApy90YJ2QgYOCkjeav58.jpg",
+    "/gmJOXle5QeOOVFEYOVBOkmIJUWV.jpg",
+    "/p0MY9YkIXj62vtATlE0f4AbhVyh.jpg",
+    "/1i9A7wv3XXWK9cvzJjx056n0C5k.jpg",
+    "/azYxbfLlDPoBSnPjH7Y7Js4DphK.jpg",
+    "/eqQJGLqU4OBCF4MfGeLhIuDfJve.jpg",
+    "/3uq8KoMU0KuBg0jHlpUcXw147D4.jpg",
+    "/pNlDNGmEPx9zt00zoPhP2VUuITv.jpg"
+  ],
+  "trailerKey": "k0-dUM_A-Cg",
+  "genreIds": [
+    878,
+    12,
+    18,
+    28
+  ],
+  "keywordIds": [
+    1826,
+    910,
+    311,
+    818,
+    690,
+    4565,
+    2552,
+    2831,
+    4379,
+    3801,
+    11239,
+    12332,
+    14626,
+    14759,
+    207569,
+    343770
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "APJAC Productions",
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 13265,
+      "job": "director"
+    },
+    {
+      "personId": 13269,
+      "job": "producer"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    },
+    {
+      "personId": 13270,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 13268,
+      "job": "writer"
+    },
+    {
+      "personId": 13267,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10017,
+      "character": "George Taylor",
+      "order": 0
+    },
+    {
+      "personId": 7505,
+      "character": "Cornelius",
+      "order": 1
+    },
+    {
+      "personId": 10539,
+      "character": "Zira",
+      "order": 2
+    },
+    {
+      "personId": 12023,
+      "character": "Dr. Zaius",
+      "order": 3
+    },
+    {
+      "personId": 6577,
+      "character": "President of the Assembly",
+      "order": 4
+    },
+    {
+      "personId": 13259,
+      "character": "Dr. Honorious",
+      "order": 5
+    },
+    {
+      "personId": 13260,
+      "character": "Nova",
+      "order": 6
+    },
+    {
+      "personId": 13261,
+      "character": "Landon",
+      "order": 7
+    },
+    {
+      "personId": 13262,
+      "character": "Lucius",
+      "order": 8
+    },
+    {
+      "personId": 13263,
+      "character": "Dr. Maximus",
+      "order": 9
+    },
+    {
+      "personId": 13264,
+      "character": "Dodge",
+      "order": 10
+    },
+    {
+      "personId": 111489,
+      "character": "Julius",
+      "order": 11
+    },
+    {
+      "personId": 10195,
+      "character": "Hunt Leader",
+      "order": 12
+    },
+    {
+      "personId": 10541,
+      "character": "Dr. Galen",
+      "order": 13
+    },
+    {
+      "personId": 14507,
+      "character": "Minister",
+      "order": 14
+    },
+    {
+      "personId": 2016631,
+      "character": "Human in Cage (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 102932,
+      "character": "Gorilla (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 947974,
+      "character": "Ape (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 2459919,
+      "character": "Gorilla (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1750038,
+      "character": "Human #1 (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4169,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "tmdbId": 10452,
+  "slug": "queen-margot-1994",
+  "year": 1994,
+  "runtime": 138,
+  "originalTitle": "La Reine Margot",
+  "title": {
+    "en": "Queen Margot",
+    "tr": "Kraliçe Margot"
+  },
+  "overview": {
+    "en": "Paris, Kingdom of France, August 18, 1572. To avoid the outbreak of a religious war, the Catholic princess Marguerite de Valois, sister of the feeble King Charles IX, marries the Huguenot King Henry III of Navarre.",
+    "tr": "Ağustos 24, 1572, yaşananlar tarihe St. Bartholomew katliamı olarak geçer. Fransa topraklarını dehşet bir mezhepler savaşı kasıp kavurmaktadır. Barışı sağlamanın olası tek yolu soylular arasında gerçekleştirilecek zoraki bir evlilikten geçmektedir. Kral Charles ın kız kardeşi Margot ile Hugenot kralı Henri nin evlenmesi gerekmektedir."
+  },
+  "poster": {
+    "tr": "/8uGkhBLiJMIkwohGPo3iB9AuwDg.jpg",
+    "en": "/8uGkhBLiJMIkwohGPo3iB9AuwDg.jpg"
+  },
+  "backdrops": [
+    "/hRx2gYJKtNJxtoPcO7SGLamZL3T.jpg",
+    "/5z4P7GKm6SrpcGBP07q9mvmS905.jpg",
+    "/h0lGYUOxXKCM1W7cgvHN1UW1TC4.jpg",
+    "/AuymVs690je99ydNKAhMqchDGUg.jpg",
+    "/xWWz6hAzkvV0Yh5gnVe870VKSs3.jpg",
+    "/gs2q3rX4ywMqKZTCrw4a968SlaE.jpg",
+    "/9axMFG9So5k79mzvyYE8YRHuD1p.jpg",
+    "/vzDdS62AJplOXvrWdLIoaJyxZTt.jpg",
+    "/i4XdWGq0rLGKxBHWyeT9V6Pu8CK.jpg",
+    "/urjpGSNIwK4iVmQMtIMBkO9ZNPr.jpg"
+  ],
+  "trailerKey": "HIBfX5D1Um4",
+  "genreIds": [
+    18,
+    36,
+    10749
+  ],
+  "keywordIds": [
+    90,
+    818,
+    3686,
+    9920,
+    10410,
+    191599,
+    208244,
+    220890,
+    244367,
+    258300
+  ],
+  "countries": [
+    "FR",
+    "DE",
+    "IT"
+  ],
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "studios": [
+    "Renn Productions",
+    "D. A. Films",
+    "WMG Film"
+  ],
+  "crew": [
+    {
+      "personId": 23724,
+      "job": "writer"
+    },
+    {
+      "personId": 20718,
+      "job": "producer"
+    },
+    {
+      "personId": 53908,
+      "job": "composer"
+    },
+    {
+      "personId": 23724,
+      "job": "director"
+    },
+    {
+      "personId": 1301,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1963,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6553,
+      "character": "Margot",
+      "order": 0
+    },
+    {
+      "personId": 6012,
+      "character": "Henri de Navarre",
+      "order": 1
+    },
+    {
+      "personId": 7037,
+      "character": "Charles IX",
+      "order": 2
+    },
+    {
+      "personId": 20239,
+      "character": "La Môle",
+      "order": 3
+    },
+    {
+      "personId": 31895,
+      "character": "Catherine de Médicis",
+      "order": 4
+    },
+    {
+      "personId": 19068,
+      "character": "Henriette de Nevers",
+      "order": 5
+    },
+    {
+      "personId": 16923,
+      "character": "Anjou",
+      "order": 6
+    },
+    {
+      "personId": 23961,
+      "character": "Coconnas",
+      "order": 7
+    },
+    {
+      "personId": 54153,
+      "character": "Guise",
+      "order": 8
+    },
+    {
+      "personId": 18514,
+      "character": "Charlotte de Sauve",
+      "order": 9
+    },
+    {
+      "personId": 583222,
+      "character": "Alençon",
+      "order": 10
+    },
+    {
+      "personId": 3491,
+      "character": "Nançay",
+      "order": 11
+    },
+    {
+      "personId": 24299,
+      "character": "Coligny",
+      "order": 12
+    },
+    {
+      "personId": 49946,
+      "character": "Condé",
+      "order": 13
+    },
+    {
+      "personId": 1609440,
+      "character": "Orthon",
+      "order": 14
+    },
+    {
+      "personId": 53904,
+      "character": "Maurevel",
+      "order": 15
+    },
+    {
+      "personId": 41964,
+      "character": "Marie Touchet",
+      "order": 16
+    },
+    {
+      "personId": 229262,
+      "character": "Nursemaid",
+      "order": 17
+    },
+    {
+      "personId": 149876,
+      "character": "Antoinette",
+      "order": 18
+    },
+    {
+      "personId": 1609441,
+      "character": "Advisor #1",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cesar": 2
+  },
+  "voteCount": 445,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "tmdbId": 3111,
+  "slug": "a-star-is-born-1954",
+  "year": 1954,
+  "runtime": 176,
+  "originalTitle": "A Star Is Born",
+  "title": {
+    "en": "A Star Is Born",
+    "tr": "Bir Yıldız Doğuyor"
+  },
+  "overview": {
+    "en": "A movie star helps a young singer-actress find fame, even as age and alcoholism send his own career into a downward spiral.",
+    "tr": "Norman Maine,artık yıldızı sönmek üzere olan bir film yıldızıdır.Genelde sarhoş gezen aktör,yine davetli olduğu  bir programda,sahnede şovunu sergileyerek,şarkı söyleyen Esther Blodgett`i çok beğenir.Şovdan sonra şarkıcının arkadaşlarıyla kendi aralarında eğlenip,stres atmak için gittikleri kafede Esther`i çok beğendiğini,onda geleceğin yıldızını gördüğünü,ve kendisini yıldız yapmak için yardımcı olacağını söyler.Başta bu söylenenlere inanmakta güçlük çekse de kendisi de günün birinde herkesin seveceği ünlü bir sanatçı olmayı isteyen Esther, aktöre yardımını kabul edeceğini söyler."
+  },
+  "poster": {
+    "tr": "/zpg2SzpYhZk1D1seDfIIlwaqAxT.jpg",
+    "en": "/fAnFb9nzM7x7G2YboZoyvLj1tXt.jpg"
+  },
+  "backdrops": [
+    "/AlvKqnxlkWWYE6ngRLOWfYY3QuI.jpg",
+    "/9JlPawwi8cqgLEM5cof47hUp3UJ.jpg",
+    "/4aatjuzEqGokVkuxZx86e6agwN9.jpg",
+    "/n5lPHC5CTxF4Z9JqM1wg8peasfx.jpg",
+    "/fqgIhvFR0SQU7QN7Pt3TvAzFNDX.jpg",
+    "/iXO4rxcxaKSP7CZAkCK6hfZDFmO.jpg",
+    "/mxnYEWj66aygISrNvGTxqVd77aK.jpg",
+    "/nEcnGA6a4wYN5oSMIHmLSRih4f.jpg",
+    "/mYLCmRiLpr4QLDNF2Ik59wq3vTB.jpg",
+    "/bjtEHMTrZ2rgCLxuP2dQStodwZp.jpg"
+  ],
+  "trailerKey": "K48JkClgYIs",
+  "genreIds": [
+    18,
+    10402,
+    10749
+  ],
+  "keywordIds": [
+    3658,
+    1157,
+    4344,
+    7464,
+    9714,
+    10232,
+    12670,
+    215678,
+    233607
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Transcona Enterprises",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 14674,
+      "job": "director"
+    },
+    {
+      "personId": 30523,
+      "job": "writer"
+    },
+    {
+      "personId": 30525,
+      "job": "producer"
+    },
+    {
+      "personId": 870,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 218437,
+      "job": "composer"
+    },
+    {
+      "personId": 9056,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9066,
+      "character": "Vicki Lester",
+      "order": 0
+    },
+    {
+      "personId": 2091,
+      "character": "Norman Maine",
+      "order": 1
+    },
+    {
+      "personId": 2672,
+      "character": "Matt Libby",
+      "order": 2
+    },
+    {
+      "personId": 30527,
+      "character": "Oliver Niles",
+      "order": 3
+    },
+    {
+      "personId": 11170,
+      "character": "Danny McGuire",
+      "order": 4
+    },
+    {
+      "personId": 30528,
+      "character": "Lola Lavery",
+      "order": 5
+    },
+    {
+      "personId": 30529,
+      "character": "Susan Ettinger",
+      "order": 6
+    },
+    {
+      "personId": 30530,
+      "character": "Graves",
+      "order": 7
+    },
+    {
+      "personId": 30531,
+      "character": "Libby's Secretary",
+      "order": 8
+    },
+    {
+      "personId": 120265,
+      "character": "Glenn Williams (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 1466128,
+      "character": "Academy Awards Attendee (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 190783,
+      "character": "Guitarist (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1421073,
+      "character": "Usher (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 131045,
+      "character": "Mr. Ettinger (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 2399253,
+      "character": "Soundman (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 97835,
+      "character": "Agent (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1172711,
+      "character": "Esther (age 6) (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 141070,
+      "character": "Racetrack Spectator (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 2320586,
+      "character": "Father (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 291778,
+      "character": "Assistant Director (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 343,
+  "sources": [
+    "cult-list"
+  ]
+}

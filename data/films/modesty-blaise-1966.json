@@ -1,0 +1,180 @@
+{
+  "tmdbId": 36645,
+  "slug": "modesty-blaise-1966",
+  "year": 1966,
+  "runtime": 120,
+  "originalTitle": "Modesty Blaise",
+  "title": {
+    "en": "Modesty Blaise",
+    "tr": "Dişi James Bond"
+  },
+  "overview": {
+    "en": "Modesty Blaise, a secret agent whose hair color, hair style, and mod clothing change at a snap of her fingers is being used by the British government as a decoy in an effort to thwart a diamond heist. She is being set up by the feds but is wise to the plot and calls in sidekick Willie Garvin and a few other friends to outsmart them. Meanwhile, at his island hideaway, Gabriel, the diamond thief has his own plans for Blaise and Garvin.",
+    "tr": "Petrol çıkarım haklarını uzatmak için Britanya hükümeti, bir Şeyhe 50 milyon pound değerinde elmas vermeyi kabul eder. Ancak planlanan teslimat hiç de iyi gitmeyecek gibi görünmektedir, çünkü dedikodulara göre, ünlü elmas hırsızı Gabriel çoktan elmaslara göz koymuştur. Her türlü hileye başvuran süper ajan Modesty Blaise, Gabriel'in planını gerçekleştirmesini engellemek için görevlendirilir..."
+  },
+  "poster": {
+    "tr": "/rpQRLEcQeWe2T8TbSJ0zJ0Avqij.jpg",
+    "en": "/rpQRLEcQeWe2T8TbSJ0zJ0Avqij.jpg"
+  },
+  "backdrops": [
+    "/oZANPqYAF1R5fbJcDWlAyDYywpN.jpg",
+    "/7BiDvQY97wiUSrqmrKj1s99QBld.jpg",
+    "/g5m41FHeGtniwIk1HPOlNFLWSbp.jpg",
+    "/fpRi25joqaLUV0ybIGj0j0yYOpH.jpg",
+    "/tdTMHdSddHbmsRXyC6CgEJn5jBY.jpg",
+    "/wwbfcYTXD90VSRNN3kCEMlZ540Z.jpg",
+    "/9ashc8pEd7FTagESQqj3asFB4q7.jpg",
+    "/3jDBufbl926OPyglNeO5cC3LzBy.jpg",
+    "/jQgLUojHLsrIGS76w6f4xD0bckS.jpg",
+    "/7tzo4mXFrC1HByHHeZJUbEZaz0E.jpg"
+  ],
+  "trailerKey": "z7WcmAaSAX4",
+  "genreIds": [
+    35,
+    80,
+    28,
+    53
+  ],
+  "keywordIds": [
+    470,
+    9717,
+    333822
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [],
+  "studios": [
+    "20th Century Fox",
+    "Joseph Janni Production"
+  ],
+  "crew": [
+    {
+      "personId": 39009,
+      "job": "director"
+    },
+    {
+      "personId": 131506,
+      "job": "writer"
+    },
+    {
+      "personId": 132879,
+      "job": "composer"
+    },
+    {
+      "personId": 12242,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 31930,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 41779,
+      "character": "Modesty Blaise",
+      "order": 0
+    },
+    {
+      "personId": 28641,
+      "character": "Willie Garvin",
+      "order": 1
+    },
+    {
+      "personId": 21605,
+      "character": "Gabriel",
+      "order": 2
+    },
+    {
+      "personId": 19463,
+      "character": "Sir Gerald Tarrant",
+      "order": 3
+    },
+    {
+      "personId": 25536,
+      "character": "Paul Hagan",
+      "order": 4
+    },
+    {
+      "personId": 20128,
+      "character": "McWhirter / Sheik Abu Tahir",
+      "order": 5
+    },
+    {
+      "personId": 40529,
+      "character": "Minister",
+      "order": 6
+    },
+    {
+      "personId": 5684,
+      "character": "Mrs. Fothergill",
+      "order": 7
+    },
+    {
+      "personId": 57497,
+      "character": "Melina",
+      "order": 8
+    },
+    {
+      "personId": 21631,
+      "character": "Weng",
+      "order": 9
+    },
+    {
+      "personId": 119431,
+      "character": "Basilio",
+      "order": 10
+    },
+    {
+      "personId": 109142,
+      "character": "Nicole",
+      "order": 11
+    },
+    {
+      "personId": 141246,
+      "character": "Tattooed Man",
+      "order": 12
+    },
+    {
+      "personId": 995598,
+      "character": "Hans",
+      "order": 13
+    },
+    {
+      "personId": 1078657,
+      "character": "Walter",
+      "order": 14
+    },
+    {
+      "personId": 1024364,
+      "character": "Strauss",
+      "order": 15
+    },
+    {
+      "personId": 1078658,
+      "character": "Friar",
+      "order": 16
+    },
+    {
+      "personId": 991277,
+      "character": "Handsome",
+      "order": 17
+    },
+    {
+      "personId": 32314,
+      "character": "Enrico",
+      "order": 18
+    },
+    {
+      "personId": 120613,
+      "character": "Oleg",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 75,
+  "sources": [
+    "cult-list"
+  ]
+}

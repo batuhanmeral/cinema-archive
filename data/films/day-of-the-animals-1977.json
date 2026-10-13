@@ -1,0 +1,187 @@
+{
+  "tmdbId": 64976,
+  "slug": "day-of-the-animals-1977",
+  "year": 1977,
+  "runtime": 97,
+  "originalTitle": "Day of the Animals",
+  "title": {
+    "en": "Day of the Animals",
+    "tr": "Day of the Animals"
+  },
+  "overview": {
+    "en": "The depletion of the earth's ozone layer causes animals above the altitude of 5000 feet to run amok, which is very unfortunate for a group of hikers who get dropped off up there by helicopter just before the quarantine is announced.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/exMoNRUifMyFMUBnZrrghlojvHn.jpg",
+    "en": "/ceU1f2Jg0KCPj3VAPPpsMz36uP2.jpg"
+  },
+  "backdrops": [
+    "/h914VysrTeJz9ZtOwse6ZCvUZml.jpg",
+    "/tB53cLr6MvCmvwSF2XwqxPIKwQ6.jpg",
+    "/9M1bVFLV56uSiujMYlS5AwocMUf.jpg",
+    "/ihb99TOtJSZrAFdvrP4d3MUpzcB.jpg",
+    "/7TJ5Tq1UAFFROfSu6tdtBuavE00.jpg",
+    "/1Jd3DCOQBql7k0YemkxHYkzmvX2.jpg"
+  ],
+  "trailerKey": "XcR6_VphJIs",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    1585,
+    1994,
+    1890,
+    5160,
+    3593,
+    6378,
+    6535,
+    10468,
+    15162,
+    40821,
+    189359
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Montoro Productions Ltd.",
+    "Mid-America Pictures",
+    "Film Ventures International"
+  ],
+  "crew": [
+    {
+      "personId": 112400,
+      "job": "director"
+    },
+    {
+      "personId": 41133,
+      "job": "writer"
+    },
+    {
+      "personId": 72663,
+      "job": "producer"
+    },
+    {
+      "personId": 9217,
+      "job": "composer"
+    },
+    {
+      "personId": 1102552,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1378989,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29312,
+      "character": "Steve Buckner",
+      "order": 0
+    },
+    {
+      "personId": 7633,
+      "character": "Paul Jenson",
+      "order": 1
+    },
+    {
+      "personId": 100633,
+      "character": "Terry Marsh",
+      "order": 2
+    },
+    {
+      "personId": 58423,
+      "character": "Prof. Taylor MacGregor",
+      "order": 3
+    },
+    {
+      "personId": 16074,
+      "character": "Daniel Santee",
+      "order": 4
+    },
+    {
+      "personId": 12498,
+      "character": "Mrs. Shirley Goodwyn",
+      "order": 5
+    },
+    {
+      "personId": 135189,
+      "character": "Frank Young",
+      "order": 6
+    },
+    {
+      "personId": 52590,
+      "character": "Roy Moore",
+      "order": 7
+    },
+    {
+      "personId": 33544,
+      "character": "Ranger Tucker",
+      "order": 8
+    },
+    {
+      "personId": 21479,
+      "character": "Bob Denning",
+      "order": 9
+    },
+    {
+      "personId": 8610,
+      "character": "Mandy Young",
+      "order": 10
+    },
+    {
+      "personId": 1102553,
+      "character": "Beth Hughes",
+      "order": 11
+    },
+    {
+      "personId": 18677,
+      "character": "John Goodwyn",
+      "order": 12
+    },
+    {
+      "personId": 166120,
+      "character": "Little Girl",
+      "order": 13
+    },
+    {
+      "personId": 5310443,
+      "character": "Sheriff",
+      "order": 14
+    },
+    {
+      "personId": 5310447,
+      "character": "Helicopter Pilot",
+      "order": 15
+    },
+    {
+      "personId": 99828,
+      "character": "Old Man in Bar",
+      "order": 16
+    },
+    {
+      "personId": 137189,
+      "character": "TV Announcer",
+      "order": 17
+    },
+    {
+      "personId": 5310451,
+      "character": "Ranger's Wife",
+      "order": 18
+    },
+    {
+      "personId": 1014310,
+      "character": "Sam (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 79,
+  "sources": [
+    "cult-list"
+  ]
+}

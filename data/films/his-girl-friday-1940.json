@@ -1,0 +1,212 @@
+{
+  "tmdbId": 3085,
+  "slug": "his-girl-friday-1940",
+  "year": 1940,
+  "runtime": 92,
+  "originalTitle": "His Girl Friday",
+  "title": {
+    "en": "His Girl Friday",
+    "tr": "Cuma Kızı"
+  },
+  "overview": {
+    "en": "Walter Burns is an irresistibly conniving newspaper publisher desperate to woo back his paper’s star reporter, who also happens to be his estranged wife. She’s threatening to quit and settle down with a new beau, but, as Walter knows, she has a weakness: she can’t resist a juicy scoop.",
+    "tr": "Chicago’da büyük bir gazetenin editörü olan Walter Burns ve onunla çalışan gazeteci Hildy Johnson boşanmıştır. Hildy, nişanlısı olan sigortacı Bruce Baldwin’le evlenip sakin bir aile hayatı sürmek için işten ayrılacağını Walter’a iletir. Fakat Walter’ın yazarını kaybetme gibi bir isteği yoktur. Bu yüzden Bruce’u takibe alıp, onun başını belaya sokma çalışmalarında bulunurken Hildy’i gazeteye döndürmeye ikna etmekle uğraşır. The Front Page filminin yeniden yapımı olan His Girl Friday, Amerikan Film Enstitüsü’nün 100 Yıl, 100 Gülüş kategorisinin 19. sırasında yer alır..."
+  },
+  "poster": {
+    "tr": "/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+    "en": "/fmQLvnDEL9wlE6FzB1S84yskdkT.jpg"
+  },
+  "backdrops": [
+    "/4s4TigvzN3WGqsDJAiiKVMu5Uux.jpg",
+    "/rtoov3RgTji1xtWh3rdwMr7jkq0.jpg",
+    "/s1NAj2MsgG1YK2x344O8g9eKkY4.jpg",
+    "/u5z084qYzGQtZAgsCiD2cAkP1pH.jpg",
+    "/t9BFuJpEJeMd2MBuimzqKDRfHhx.jpg",
+    "/ocoy0fq2dZriU3G05L20sa6gWt4.jpg",
+    "/4zBAO7TswCPwmSeLC1ssAxUXQc1.jpg",
+    "/4d16oMBTUcgRsxpCbDHS5Az0A9m.jpg",
+    "/ybbLMVLp4hFzPpZIPtKp15pkTsB.jpg",
+    "/hWJ5tkNLRSqWeVzQ3tsGlNgonj8.jpg"
+  ],
+  "trailerKey": "FKghQCbQOwY",
+  "genreIds": [
+    35,
+    10749,
+    80
+  ],
+  "keywordIds": [
+    378,
+    736,
+    236,
+    917,
+    10181,
+    11411,
+    10718,
+    12999,
+    155457,
+    156024,
+    156080,
+    159531,
+    165547,
+    180093,
+    181659,
+    184534,
+    184541,
+    209563,
+    236252,
+    237418,
+    237425,
+    324123,
+    325764
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 11435,
+      "job": "director"
+    },
+    {
+      "personId": 11435,
+      "job": "producer"
+    },
+    {
+      "personId": 4358,
+      "job": "writer"
+    },
+    {
+      "personId": 17761,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4341,
+      "job": "writer"
+    },
+    {
+      "personId": 29275,
+      "job": "composer"
+    },
+    {
+      "personId": 30232,
+      "job": "composer"
+    },
+    {
+      "personId": 11435,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2638,
+      "character": "Walter Burns",
+      "order": 0
+    },
+    {
+      "personId": 30233,
+      "character": "Hildy Johnson",
+      "order": 1
+    },
+    {
+      "personId": 1208,
+      "character": "Bruce Baldwin",
+      "order": 2
+    },
+    {
+      "personId": 30234,
+      "character": "Sheriff Hartwell",
+      "order": 3
+    },
+    {
+      "personId": 14975,
+      "character": "Murphy",
+      "order": 4
+    },
+    {
+      "personId": 34419,
+      "character": "Bensinger",
+      "order": 5
+    },
+    {
+      "personId": 30236,
+      "character": "Endicott",
+      "order": 6
+    },
+    {
+      "personId": 30237,
+      "character": "Mayor",
+      "order": 7
+    },
+    {
+      "personId": 30157,
+      "character": "McCue",
+      "order": 8
+    },
+    {
+      "personId": 30238,
+      "character": "Wilson",
+      "order": 9
+    },
+    {
+      "personId": 22093,
+      "character": "Sanders",
+      "order": 10
+    },
+    {
+      "personId": 30239,
+      "character": "Louie",
+      "order": 11
+    },
+    {
+      "personId": 30240,
+      "character": "Duffy",
+      "order": 12
+    },
+    {
+      "personId": 4119,
+      "character": "Earl Williams",
+      "order": 13
+    },
+    {
+      "personId": 30241,
+      "character": "Mollie Malloy",
+      "order": 14
+    },
+    {
+      "personId": 30242,
+      "character": "Mrs. Baldwin",
+      "order": 15
+    },
+    {
+      "personId": 5464,
+      "character": "Joe Pettibone",
+      "order": 16
+    },
+    {
+      "personId": 30243,
+      "character": "Warden Cooley",
+      "order": 17
+    },
+    {
+      "personId": 13361,
+      "character": "Dr. Egelhoffer",
+      "order": 18
+    },
+    {
+      "personId": 30530,
+      "character": "Gus (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 991,
+  "sources": [
+    "cult-list"
+  ]
+}

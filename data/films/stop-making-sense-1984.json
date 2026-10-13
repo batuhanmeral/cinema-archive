@@ -1,0 +1,147 @@
+{
+  "tmdbId": 24128,
+  "slug": "stop-making-sense-1984",
+  "year": 1984,
+  "runtime": 88,
+  "originalTitle": "Stop Making Sense",
+  "title": {
+    "en": "Stop Making Sense",
+    "tr": "Stop Making Sense"
+  },
+  "overview": {
+    "en": "A concert film documenting Talking Heads at the height of their popularity, on tour for their 1983 album \"Speaking in Tongues.\" The band takes the stage one by one and is joined by a cadre of guest musicians for a career-spanning and cinematic performance that features creative choreography and visuals.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/utNpurUe1MMjEaHqvpkfxgfpSnV.jpg",
+    "en": "/uFMsMsk1NGo0QWs9IHknZVHSe4O.jpg"
+  },
+  "backdrops": [
+    "/kdDQn3Oi7iy1VK7GWhMRyPXUf9K.jpg",
+    "/1hQlln9B2G1moBtuhj9adWmBhuk.jpg",
+    "/kPDmoP4BCFaELJVBog4nIV4CPge.jpg",
+    "/onTM7lVy6svGodMxuaEMkvQ6j0x.jpg",
+    "/tCBT2DR8LR0tKMvYj4BXTqPG8yy.jpg",
+    "/neHuJ0x2vzE9Xg73EvTvyxGQC4b.jpg",
+    "/mLebdc53GimubQGGSoNzcxtEe6v.jpg",
+    "/tYQXgdVwqTOAaXSxulq6tJCBcko.jpg",
+    "/mR9xxb1gewZVj86KqbK8TtZbE5Z.jpg",
+    "/sCxBD9aHHW7rFd5JOqSOcjptnBz.jpg"
+  ],
+  "trailerKey": "-rjMwSTeVeo",
+  "genreIds": [
+    99,
+    10402
+  ],
+  "keywordIds": [
+    6029,
+    578,
+    18001,
+    156205,
+    156486,
+    192973,
+    325813,
+    384590
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Talking Heads Films",
+    "Arnold Stiefel Company"
+  ],
+  "crew": [
+    {
+      "personId": 16294,
+      "job": "director"
+    },
+    {
+      "personId": 27098,
+      "job": "producer"
+    },
+    {
+      "personId": 16294,
+      "job": "writer"
+    },
+    {
+      "personId": 3078,
+      "job": "composer"
+    },
+    {
+      "personId": 91230,
+      "job": "composer"
+    },
+    {
+      "personId": 91233,
+      "job": "composer"
+    },
+    {
+      "personId": 91229,
+      "job": "composer"
+    },
+    {
+      "personId": 594,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1192691,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3078,
+      "character": "Self - Vocals, Guitar",
+      "order": 0
+    },
+    {
+      "personId": 91230,
+      "character": "Self - Drums, Vocals",
+      "order": 1
+    },
+    {
+      "personId": 91233,
+      "character": "Self - Guitar, Keyboards, Vocals",
+      "order": 2
+    },
+    {
+      "personId": 91229,
+      "character": "Self - Bass, Percussion, Vocals",
+      "order": 3
+    },
+    {
+      "personId": 1194051,
+      "character": "Self - Backing Vocals",
+      "order": 4
+    },
+    {
+      "personId": 225113,
+      "character": "Self - Backing Vocals",
+      "order": 5
+    },
+    {
+      "personId": 1194050,
+      "character": "Self - Percussion",
+      "order": 6
+    },
+    {
+      "personId": 1084016,
+      "character": "Self - Guitar, Vocals",
+      "order": 7
+    },
+    {
+      "personId": 1192691,
+      "character": "Self - Keyboards",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 403,
+  "sources": [
+    "cult-list"
+  ]
+}

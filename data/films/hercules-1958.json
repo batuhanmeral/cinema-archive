@@ -1,0 +1,192 @@
+{
+  "tmdbId": 39400,
+  "slug": "hercules-1958",
+  "year": 1958,
+  "runtime": 99,
+  "originalTitle": "Le fatiche di Ercole",
+  "title": {
+    "en": "Hercules",
+    "tr": "Le fatiche di Ercole"
+  },
+  "overview": {
+    "en": "In this melange of characters and events from separate mythological stories, Hercules, demigod and superman, arrives in the ancient Greek kingdom of Iolcus to tutor Iphitus, son of king Pelias; immediately on arrival, he falls in love with the king's delectable, briefly clad daughter Iole. Before he can win her, he must succeed in a series of quests, in the course of which he teams up with Jason, true heir of Iolcus, whom he accompanies on the famous voyage of the Argonauts.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/t2HYYuN2PmQtpdO44trWg4ain4d.jpg",
+    "en": "/t2HYYuN2PmQtpdO44trWg4ain4d.jpg"
+  },
+  "backdrops": [
+    "/sV7CgzZi4b4s60ogb6ez0RXiSG9.jpg",
+    "/iGLxT4F6xOwFwCNk03Sel40glTt.jpg",
+    "/rfwUvz7yvlVpMTKIaFKB2zPef88.jpg",
+    "/2C0iEatDFj2jnNt65tlZNSn2CCp.jpg",
+    "/95XoyYP7RFuvU7rnvfq8me8AMMH.jpg",
+    "/7qfAx8QpoGmtswJxgAJeUFXIXsY.jpg",
+    "/wvPulBnF5vVzJPKetcsAVgNxkQ8.jpg",
+    "/lboF4YmGaBHMG5ur7gC8GrVoABu.jpg",
+    "/gKFlQ1qhV8Sv0kUCvabCLAsX1ap.jpg"
+  ],
+  "trailerKey": "nisz2sMQ6d8",
+  "genreIds": [
+    14,
+    12,
+    28
+  ],
+  "keywordIds": [
+    2036,
+    180909,
+    185343,
+    187301,
+    187303,
+    187305
+  ],
+  "countries": [
+    "IT",
+    "ES"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Galatea Film",
+    "O.S.C.A.R. Film"
+  ],
+  "crew": [
+    {
+      "personId": 223791,
+      "job": "director"
+    },
+    {
+      "personId": 1120671,
+      "job": "producer"
+    },
+    {
+      "personId": 931615,
+      "job": "composer"
+    },
+    {
+      "personId": 25316,
+      "job": "writer"
+    },
+    {
+      "personId": 223791,
+      "job": "writer"
+    },
+    {
+      "personId": 1128179,
+      "job": "writer"
+    },
+    {
+      "personId": 25826,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 39162,
+      "character": "Ercole (Hercules)",
+      "order": 0
+    },
+    {
+      "personId": 21606,
+      "character": "Iole, Daugher of Pelias",
+      "order": 1
+    },
+    {
+      "personId": 178402,
+      "character": "Jason",
+      "order": 2
+    },
+    {
+      "personId": 57472,
+      "character": "Antea, Queen of the Amazons",
+      "order": 3
+    },
+    {
+      "personId": 98485,
+      "character": "Eurysteus",
+      "order": 4
+    },
+    {
+      "personId": 22477,
+      "character": "Iphitus, Son of Pelias",
+      "order": 5
+    },
+    {
+      "personId": 9240,
+      "character": "The Sybil",
+      "order": 6
+    },
+    {
+      "personId": 223794,
+      "character": "Ulysses",
+      "order": 7
+    },
+    {
+      "personId": 590558,
+      "character": "Argos",
+      "order": 8
+    },
+    {
+      "personId": 946026,
+      "character": "Laertes",
+      "order": 9
+    },
+    {
+      "personId": 9921,
+      "character": "Iole's Maid",
+      "order": 10
+    },
+    {
+      "personId": 84251,
+      "character": "Pelias, King of Iolcus",
+      "order": 11
+    },
+    {
+      "personId": 33928,
+      "character": "amazzone",
+      "order": 12
+    },
+    {
+      "personId": 1434866,
+      "character": "amazzone",
+      "order": 13
+    },
+    {
+      "personId": 1768025,
+      "character": "Chironi",
+      "order": 14
+    },
+    {
+      "personId": 1508003,
+      "character": "Orpheus",
+      "order": 15
+    },
+    {
+      "personId": 1211167,
+      "character": "Aesculapius",
+      "order": 16
+    },
+    {
+      "personId": 1184382,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 3870438,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 114422,
+      "character": "Tifi",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 73,
+  "sources": [
+    "cult-list"
+  ]
+}

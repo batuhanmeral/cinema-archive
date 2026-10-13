@@ -1,0 +1,133 @@
+{
+  "tmdbId": 43324,
+  "slug": "shack-out-on-101-1955",
+  "year": 1955,
+  "runtime": 80,
+  "originalTitle": "Shack Out on 101",
+  "title": {
+    "en": "Shack Out on 101",
+    "tr": "Shack Out on 101"
+  },
+  "overview": {
+    "en": "A greasy spoon diner provides a base for a spy smuggling nuclear secrets.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/srIdOl0Xa14IE1nUb239vwLImUO.jpg",
+    "en": "/srIdOl0Xa14IE1nUb239vwLImUO.jpg"
+  },
+  "backdrops": [
+    "/3sBu2HnOmaTZXNo9UgFg9kODCLx.jpg",
+    "/xROwP4ebX8e63kGeEi2m0xbFLhr.jpg",
+    "/rVjc1KkdIXapSh8tkuB6Zm2kFrl.jpg",
+    "/rLYfi9NSojZu3TiYhfm0ulEGd4E.jpg",
+    "/ueRzD9OVpATEJG2DkT70c4euh1T.jpg",
+    "/jFz0lO6hCdqLJdqQZ286SphnZxj.jpg",
+    "/1sKeNtvv9k4xf3WceQqEyn1z17Y.jpg",
+    "/n9jBapughmeNLHIButjGdVqcY71.jpg",
+    "/nyM3JJeNDFQM1D3ntiNwPSrgZ3M.jpg",
+    "/ISjX61VXwHRBTLBQ0jghCfVOil.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    80
+  ],
+  "keywordIds": [
+    966,
+    470,
+    10738,
+    155547
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Allied Artists Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 144243,
+      "job": "producer"
+    },
+    {
+      "personId": 4083,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 19965,
+      "job": "composer"
+    },
+    {
+      "personId": 100985,
+      "job": "director"
+    },
+    {
+      "personId": 100985,
+      "job": "writer"
+    },
+    {
+      "personId": 144242,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 33716,
+      "character": "Kotty",
+      "order": 0
+    },
+    {
+      "personId": 81179,
+      "character": "Prof. Sam Bastion",
+      "order": 1
+    },
+    {
+      "personId": 4966,
+      "character": "George",
+      "order": 2
+    },
+    {
+      "personId": 18391,
+      "character": "Slob / Mr. Gregory",
+      "order": 3
+    },
+    {
+      "personId": 13786,
+      "character": "Eddie",
+      "order": 4
+    },
+    {
+      "personId": 81187,
+      "character": "Artie",
+      "order": 5
+    },
+    {
+      "personId": 101741,
+      "character": "Pope",
+      "order": 6
+    },
+    {
+      "personId": 50574,
+      "character": "Prof. Claude Dillon",
+      "order": 7
+    },
+    {
+      "personId": 78087,
+      "character": "Perch",
+      "order": 8
+    },
+    {
+      "personId": 1430478,
+      "character": "Lookout",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 20,
+  "sources": [
+    "cult-list"
+  ]
+}

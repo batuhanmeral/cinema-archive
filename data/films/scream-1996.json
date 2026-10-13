@@ -1,0 +1,202 @@
+{
+  "tmdbId": 4232,
+  "slug": "scream-1996",
+  "year": 1996,
+  "runtime": 112,
+  "originalTitle": "Scream",
+  "title": {
+    "en": "Scream",
+    "tr": "Çığlık"
+  },
+  "overview": {
+    "en": "A year after the murder of her mother, a teenage girl is terrorized by a masked killer who targets her and her friends by using scary movies as part of a deadly game.",
+    "tr": "Küçük kasabalarında bir dizi gizemli ölüm yaşandıktan sonra, Sidney Prescott’ın önderliğindeki sıra dışı bir grup arkadaş, maskeli bir katilin hedefi haline gelir. Ceset sayısı artmaya başlayınca, Sidney ve arkadaşları kendilerini korku filmlerinin “kurallarını” düşünürken bulurlar, çünkü kendileri gerçek hayatta bir korku filmini yaşıyorlardır."
+  },
+  "poster": {
+    "tr": "/smtHlaYfM17BUUpAgDyfOCT4pPY.jpg",
+    "en": "/3O3klyyYpAZBBE4n7IngzTomRDp.jpg"
+  },
+  "backdrops": [
+    "/4w6nQYAY0eb7B0VVRDXilXcgAUV.jpg",
+    "/tdcb0RHusaQxScWORevtKQ0u9NG.jpg",
+    "/4PPC7fKClu0u7NTbo5xgV4vb5VD.jpg",
+    "/dQpyN7YRhvOarXq2x3x1vYTBAjN.jpg",
+    "/vh7np635kDIcfO6x2Y9ElgLJsuI.jpg",
+    "/3NorTzlPNfj6ieU65OhJ7WmQDKP.jpg",
+    "/7ZigA0vEuUMDXeZdo8ltjov8oRB.jpg",
+    "/8m7Qhs1sZF83YLUBSgDd0tmd46j.jpg",
+    "/wT30bGBvr7vseeFNK9m4DFFC9jR.jpg",
+    "/dbjmEAixUUiMA2eZc8DinFzfx2b.jpg"
+  ],
+  "trailerKey": "U0LETmDvuXc",
+  "genreIds": [
+    80,
+    27,
+    9648
+  ],
+  "keywordIds": [
+    6270,
+    1415,
+    387,
+    627,
+    3335,
+    10275,
+    10714,
+    10873,
+    12339,
+    12570,
+    17987,
+    157344,
+    157380,
+    157384,
+    160612,
+    177695,
+    182794,
+    206298,
+    296608,
+    325775
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Dimension Films",
+    "Woods Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 7413,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5505,
+      "job": "producer"
+    },
+    {
+      "personId": 7229,
+      "job": "composer"
+    },
+    {
+      "personId": 5140,
+      "job": "director"
+    },
+    {
+      "personId": 409,
+      "job": "producer"
+    },
+    {
+      "personId": 26458,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9206,
+      "character": "Sidney",
+      "order": 0
+    },
+    {
+      "personId": 22108,
+      "character": "Billy",
+      "order": 1
+    },
+    {
+      "personId": 16850,
+      "character": "Tatum",
+      "order": 2
+    },
+    {
+      "personId": 26457,
+      "character": "Stuart",
+      "order": 3
+    },
+    {
+      "personId": 15234,
+      "character": "Deputy Dewey",
+      "order": 4
+    },
+    {
+      "personId": 14405,
+      "character": "Gale Weathers",
+      "order": 5
+    },
+    {
+      "personId": 6213,
+      "character": "Randy",
+      "order": 6
+    },
+    {
+      "personId": 69597,
+      "character": "Casey",
+      "order": 7
+    },
+    {
+      "personId": 6951,
+      "character": "Kenny",
+      "order": 8
+    },
+    {
+      "personId": 13660,
+      "character": "Sheriff Burke",
+      "order": 9
+    },
+    {
+      "personId": 23626,
+      "character": "Cotton Weary",
+      "order": 10
+    },
+    {
+      "personId": 51957,
+      "character": "Phone Voice (voice)",
+      "order": 11
+    },
+    {
+      "personId": 10827,
+      "character": "Steve",
+      "order": 12
+    },
+    {
+      "personId": 101312,
+      "character": "Casey's Father",
+      "order": 13
+    },
+    {
+      "personId": 2939426,
+      "character": "Casey's Mother",
+      "order": 14
+    },
+    {
+      "personId": 101313,
+      "character": "Mr. Prescott",
+      "order": 15
+    },
+    {
+      "personId": 2939427,
+      "character": "Mrs. Tate",
+      "order": 16
+    },
+    {
+      "personId": 434,
+      "character": "TV Reporter #1",
+      "order": 17
+    },
+    {
+      "personId": 2939429,
+      "character": "TV Reporter #2",
+      "order": 18
+    },
+    {
+      "personId": 2456399,
+      "character": "Hank Loomis",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 8365,
+  "sources": [
+    "cult-list"
+  ]
+}

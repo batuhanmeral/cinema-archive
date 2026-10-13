@@ -1,0 +1,181 @@
+{
+  "tmdbId": 1946,
+  "slug": "existenz-1999",
+  "year": 1999,
+  "runtime": 97,
+  "originalTitle": "eXistenZ",
+  "title": {
+    "en": "eXistenZ",
+    "tr": "Varoluş"
+  },
+  "overview": {
+    "en": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
+    "tr": "En popüler oyunları piyasaya süren Antenna Research şirketi, büyük bir ses getireceğini inandığı yeni oyununu onun yaratıcısı ve birkaç üyesi ile denemek için bir araya gelir. Bu grup arasında en heyecanlı olan oyunun esas yaratıcısı, akıllı ve seksi Allegra Geller'dır. Bir yandan oyundaki yenilikleri keşfederken bir yandan da en çılgın fantezileri ve gerçek arasındaki çizgiyi sonsuza dek yok edecek maceraya hazırdırlar. Existenz'ı gerçeğe bu kadar yakın kılan şey, bağlantılarının oyuncuların sinir sistemine direkt olarak bağlanmasıdır. İnsanın omuriliğinden açılan bir delik ile bağlanan oyunun, oyuncuların hatıralarına, duygularına ve korkularına giriş hakkı vardır. Sonunda büyük an gelir, sabırsız oyuncular hayatlarını en büyük macerasına doğru yola çıkarlar. Fakat bir anda oyun karşıtı bir protestocu silahını çıkarır ve bağırır \"eXistenZ'a ölüm, Allegra Geller'a ölüm!\" Ateş eder ve oyunun yaratıcısını yaralar."
+  },
+  "poster": {
+    "tr": "/kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+    "en": "/kETKF0JhdTPn1knci8CAdYL0d79.jpg"
+  },
+  "backdrops": [
+    "/NmCB4DLe4OZWPeO6aixh3xE3OC.jpg",
+    "/vhOqQ50ITVOkhZHLA9QND5l8zQC.jpg",
+    "/9anT9C53oo92LVFTcJmWRsQXyaS.jpg",
+    "/9YNph8WszWAskJEtTegkFCIyZGR.jpg",
+    "/7uKTs2Rtkja0vGJCHqR18LsGY2j.jpg",
+    "/10ipYv90jBII8J8R3n15VaDdApv.jpg",
+    "/epmwIWdQLouFJ8yx55quVvgnTKu.jpg",
+    "/ah9nUgNYA1xypJn2qPBRuKNFtZj.jpg",
+    "/3zY8jkTYvps3BkiUD0mk3po1b6a.jpg",
+    "/95K9aDX9ShrO6iA8JPW1D4gKnfC.jpg"
+  ],
+  "trailerKey": "DZZJrQc-wtw",
+  "genreIds": [
+    28,
+    53,
+    878
+  ],
+  "keywordIds": [
+    2157,
+    282,
+    4563,
+    3490,
+    3088,
+    4565,
+    5380,
+    244256
+  ],
+  "countries": [
+    "CA",
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Alliance Atlantis",
+    "Serendipity Point Films",
+    "Natural Nylon Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 224,
+      "job": "director"
+    },
+    {
+      "personId": 224,
+      "job": "writer"
+    },
+    {
+      "personId": 20182,
+      "job": "producer"
+    },
+    {
+      "personId": 117,
+      "job": "composer"
+    },
+    {
+      "personId": 307,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 20181,
+      "job": "producer"
+    },
+    {
+      "personId": 224,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10431,
+      "character": "Allegra Geller",
+      "order": 0
+    },
+    {
+      "personId": 9642,
+      "character": "Ted Pikul",
+      "order": 1
+    },
+    {
+      "personId": 65,
+      "character": "Kiri Vinokur",
+      "order": 2
+    },
+    {
+      "personId": 5293,
+      "character": "Gas",
+      "order": 3
+    },
+    {
+      "personId": 20173,
+      "character": "Yevgeny Nourish",
+      "order": 4
+    },
+    {
+      "personId": 540,
+      "character": "Hugo Carlaw",
+      "order": 5
+    },
+    {
+      "personId": 2040,
+      "character": "Seminar Leader",
+      "order": 6
+    },
+    {
+      "personId": 98,
+      "character": "Merle",
+      "order": 7
+    },
+    {
+      "personId": 20175,
+      "character": "D'Arcy Nader",
+      "order": 8
+    },
+    {
+      "personId": 20176,
+      "character": "Noel Dichter",
+      "order": 9
+    },
+    {
+      "personId": 20174,
+      "character": "Chinese Waiter",
+      "order": 10
+    },
+    {
+      "personId": 6623,
+      "character": "Male Assistant",
+      "order": 11
+    },
+    {
+      "personId": 20177,
+      "character": "Female Assistant",
+      "order": 12
+    },
+    {
+      "personId": 20178,
+      "character": "Landry",
+      "order": 13
+    },
+    {
+      "personId": 20179,
+      "character": "Male Volunteer",
+      "order": 14
+    },
+    {
+      "personId": 20180,
+      "character": "Female Volunteer",
+      "order": 15
+    },
+    {
+      "personId": 234,
+      "character": "Trout Farm Worker",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 2321,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "tmdbId": 18148,
+  "slug": "tokyo-story-1953",
+  "year": 1953,
+  "runtime": 137,
+  "originalTitle": "東京物語",
+  "title": {
+    "en": "Tokyo Story",
+    "tr": "Tokyo Hikayesi"
+  },
+  "overview": {
+    "en": "The elderly Shukishi and his wife, Tomi, take the long journey from their small seaside village to visit their adult children in Tokyo. Their elder son, Koichi, a doctor, and their daughter, Shige, a hairdresser, don't have much time to spend with their aged parents, and so it falls to Noriko, the widow of their younger son who was killed in the war, to keep her in-laws company.",
+    "tr": "Müthiş bir dönüşüm ve modernleşmenin pençesinde bölünmekte olan Japonya'dayız. Taşralı, emekli bir karı-koca, Tokyo'da yaşayan evlenmiş çocuklarını ziyarete giderler. Gençler giderek hızlanmakta olan şehir yaşamının meşguliyeti içerisinde, onlarla ilgilenmektense birbirlerine pas edip kurtulma hafifliğindedirler. Sadece savaşta ölmüş oğullarının dul gelini yaşlı çifte şefkat ve ilgi gösterir. Evlerine döndüklerinde kırgın ve kafaları karışıktır. Çocukların titreyip kendilerine gelmesi için dramatik bir olayın gerçekleşmesi gerekecektir.  Ülkesinin 50'li yıllarda geçirdiği kültürel dönüşümün izini sürmekten yorulmayan Japon yönetmen Yasujiro Ozu'nun hem kendi başyapıtı hem de eşsiz ritmiyle, sinema sanatının en güzel filmlerinden biri."
+  },
+  "poster": {
+    "tr": "/g2YbTYKpY7N2yDSk7BfXZ18I5QV.jpg",
+    "en": "/g2YbTYKpY7N2yDSk7BfXZ18I5QV.jpg"
+  },
+  "backdrops": [
+    "/jLq0ol1f0ZKXni9R9GsPBcyPrNN.jpg",
+    "/zbJcTaWAYJt6W1S5W3dUE8D9KTI.jpg",
+    "/9vhdNS6ZWtR2IIHsW8C87kvj2bQ.jpg",
+    "/ipxIpSd5xWIiWW4lNQokjVX5jqC.jpg",
+    "/y9pHdZ3j32cSJMCAgEUC3br5Hh3.jpg",
+    "/H8T7fNWS8Wadf6ERBMEHWYcFp7.jpg",
+    "/sOgLjjfrI7v25KNtardkqQJXidp.jpg",
+    "/yyDtzhEisQrVflYoqNYCro33WNN.jpg",
+    "/vOlIddXsytpaDRqFZWKeQfdtUr.jpg",
+    "/czzFIUa1jZfA5z6QPGUINaBusCx.jpg"
+  ],
+  "trailerKey": "xqO0d3328Do",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1357,
+    966,
+    1566,
+    1009,
+    732,
+    970,
+    6057,
+    1422,
+    5320,
+    1438,
+    1517,
+    6069,
+    2097,
+    2251,
+    6038,
+    4262,
+    3734,
+    4948,
+    6954,
+    10235,
+    10508,
+    10938,
+    9812,
+    10873,
+    12369,
+    12999,
+    210475,
+    249237,
+    296479,
+    309029,
+    361977
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "studios": [
+    "Shochiku"
+  ],
+  "crew": [
+    {
+      "personId": 95501,
+      "job": "director"
+    },
+    {
+      "personId": 552001,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 993587,
+      "job": "composer"
+    },
+    {
+      "personId": 1115028,
+      "job": "producer"
+    },
+    {
+      "personId": 131010,
+      "job": "writer"
+    },
+    {
+      "personId": 95501,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 33135,
+      "character": "Shukichi Hirayama",
+      "order": 0
+    },
+    {
+      "personId": 134307,
+      "character": "Tomi Hirayama",
+      "order": 1
+    },
+    {
+      "personId": 95504,
+      "character": "Noriko Hirayama",
+      "order": 2
+    },
+    {
+      "personId": 131013,
+      "character": "Shige Kaneko",
+      "order": 3
+    },
+    {
+      "personId": 68411,
+      "character": "Koichi Hirayama",
+      "order": 4
+    },
+    {
+      "personId": 131016,
+      "character": "Fumiko Hirayama",
+      "order": 5
+    },
+    {
+      "personId": 34374,
+      "character": "Kyoko Hirayama",
+      "order": 6
+    },
+    {
+      "personId": 106165,
+      "character": "Numata",
+      "order": 7
+    },
+    {
+      "personId": 30772,
+      "character": "Kurazo Kaneko",
+      "order": 8
+    },
+    {
+      "personId": 142469,
+      "character": "Keizo Hirayama",
+      "order": 9
+    },
+    {
+      "personId": 134346,
+      "character": "Osamu Hattori",
+      "order": 10
+    },
+    {
+      "personId": 136381,
+      "character": "Yone Hattori",
+      "order": 11
+    },
+    {
+      "personId": 115655,
+      "character": "Oden Restaurant Woman",
+      "order": 12
+    },
+    {
+      "personId": 131019,
+      "character": "Woman Next Door",
+      "order": 13
+    },
+    {
+      "personId": 83640,
+      "character": "Railway Staff",
+      "order": 14
+    },
+    {
+      "personId": 1203802,
+      "character": "Apartment Owner",
+      "order": 15
+    },
+    {
+      "personId": 1269159,
+      "character": "Beauty Salon Customer",
+      "order": 16
+    },
+    {
+      "personId": 552007,
+      "character": "Policeman",
+      "order": 17
+    },
+    {
+      "personId": 1090917,
+      "character": "Office Worker",
+      "order": 18
+    },
+    {
+      "personId": 1200886,
+      "character": "Inn Maid",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1281,
+  "sources": [
+    "cult-list"
+  ]
+}

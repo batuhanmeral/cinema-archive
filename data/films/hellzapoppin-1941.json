@@ -1,0 +1,188 @@
+{
+  "tmdbId": 19136,
+  "slug": "hellzapoppin-1941",
+  "year": 1941,
+  "runtime": 84,
+  "originalTitle": "Hellzapoppin'",
+  "title": {
+    "en": "Hellzapoppin'",
+    "tr": "Hellzapoppin'"
+  },
+  "overview": {
+    "en": "Olsen and Johnson, a pair of stage comedians, try to turn their play into a movie and bring together a young couple in love, while breaking the fourth wall every step of the way.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/O5Ta3URiRglqt1fPi2APCvnb8x.jpg",
+    "en": "/O5Ta3URiRglqt1fPi2APCvnb8x.jpg"
+  },
+  "backdrops": [
+    "/jEHDsO0Wo1WThOrYM58kPAopbtM.jpg",
+    "/1J9Pq4YUjLktXWtZGafrwmN3u1Z.jpg",
+    "/2PObncWJKxuVmOsK1YIC91ZwRCX.jpg",
+    "/6SV5UOIyAD5pB2LSnzfKusyOBmo.jpg",
+    "/bAj4t7EsN8Hx8c4qrFrwjMWcjhX.jpg",
+    "/h2HfIKRG7thhvIWwdFazWQPPMqc.jpg",
+    "/aGULJI42v2UG3yBsiUr5tXMgiXY.jpg",
+    "/9ikse8Myp9T3sHxJKr1IjdV1u2G.jpg",
+    "/yc0b2w6cYBkR9z7HDsNfUzl4yY.jpg",
+    "/ydMOBrebZEMBLViZoTl70oShRjS.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    10402,
+    35,
+    10749
+  ],
+  "keywordIds": [
+    4630,
+    4344,
+    7644,
+    9253,
+    164218,
+    236316
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Mayfair Productions Inc.",
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 83399,
+      "job": "director"
+    },
+    {
+      "personId": 30011,
+      "job": "writer"
+    },
+    {
+      "personId": 196198,
+      "job": "writer"
+    },
+    {
+      "personId": 88640,
+      "job": "producer"
+    },
+    {
+      "personId": 30104,
+      "job": "composer"
+    },
+    {
+      "personId": 103050,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29031,
+      "character": "Ole Olsen",
+      "order": 0
+    },
+    {
+      "personId": 84129,
+      "character": "Chic Johnson",
+      "order": 1
+    },
+    {
+      "personId": 106572,
+      "character": "Betty Johnson",
+      "order": 2
+    },
+    {
+      "personId": 34347,
+      "character": "Quimby",
+      "order": 3
+    },
+    {
+      "personId": 83396,
+      "character": "Kitty Rand",
+      "order": 4
+    },
+    {
+      "personId": 94217,
+      "character": "Jeff Hunter",
+      "order": 5
+    },
+    {
+      "personId": 39801,
+      "character": "Pepi",
+      "order": 6
+    },
+    {
+      "personId": 111464,
+      "character": "Director",
+      "order": 7
+    },
+    {
+      "personId": 238635,
+      "character": "Woody Taylor",
+      "order": 8
+    },
+    {
+      "personId": 30237,
+      "character": "Andrew Rand",
+      "order": 9
+    },
+    {
+      "personId": 50836,
+      "character": "Mrs. Rand",
+      "order": 10
+    },
+    {
+      "personId": 13967,
+      "character": "Louie",
+      "order": 11
+    },
+    {
+      "personId": 3339,
+      "character": "Harry Selby",
+      "order": 12
+    },
+    {
+      "personId": 116661,
+      "character": "Man Calling for Mrs. Jones",
+      "order": 13
+    },
+    {
+      "personId": 19021,
+      "character": "Lena - Lady Looking for Oscar",
+      "order": 14
+    },
+    {
+      "personId": 33743,
+      "character": "Orchestra Conductor",
+      "order": 15
+    },
+    {
+      "personId": 1233634,
+      "character": "Slim",
+      "order": 16
+    },
+    {
+      "personId": 2442928,
+      "character": "Slam",
+      "order": 17
+    },
+    {
+      "personId": 2452016,
+      "character": "Dancers",
+      "order": 18
+    },
+    {
+      "personId": 1375424,
+      "character": "Water Ballet Specialty",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 115,
+  "sources": [
+    "cult-list"
+  ]
+}

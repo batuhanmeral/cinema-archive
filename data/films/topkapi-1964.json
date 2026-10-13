@@ -1,0 +1,181 @@
+{
+  "tmdbId": 5052,
+  "slug": "topkapi-1964",
+  "year": 1964,
+  "runtime": 119,
+  "originalTitle": "Topkapi",
+  "title": {
+    "en": "Topkapi",
+    "tr": "Topkapı"
+  },
+  "overview": {
+    "en": "Arthur Simon Simpson is a small-time crook biding his time in Greece. One of his potential victims turns out to be a gentleman thief planning to steal the emerald-encrusted dagger of the Mehmed II from Istanbul's Topkapi Museum.",
+    "tr": "Arthur Simon Simpson, Yunanistan Kavala'da yaşayan tembel orta yaşlı adam, havaalanında turistlere ucuz hatıra eşyaları satmaktadır. Sonra onlara araba servisi yapar, aynı zamanda da değerli eşyalarını çalmaya çalışır. Potansiyel kurbanlarından biri ise hırsız Walter Harper'dır. Walter, Topkapı Sarayı'ndan turistlerin görmesi için camlı çerçeve içinde sunulan, Padişah II. Mehmed'in zümrütle kaplı hançerini çalmayı planlamaktadır. Walter ve çekici arkadaşı Elizabeth Lipp, Simpson'ı Amerikan limuzinini Atina'dan İstanbul'a götürmesi için kiralar."
+  },
+  "poster": {
+    "tr": "/pPlJbEkiDjt8opos6Qg0GWLiuSS.jpg",
+    "en": "/aerOhqqUrRv01fvYDilVgyvv5ET.jpg"
+  },
+  "backdrops": [
+    "/lw8GddcSsv9Yl5qc1KP5XvIIa38.jpg",
+    "/jZQwv8GZXsCTXMiMhPylQ8kk7M7.jpg",
+    "/1Np7DrPB1w0UEsp3AWEYL8G2HFe.jpg",
+    "/l2IfaJHV3eHNRKh56tOrRGwnwiC.jpg",
+    "/lIdqA26HbHikPZ3jTHRLIyLwrrh.jpg",
+    "/lwOpeF38bp3Rrd7MuXkQUW8e64S.jpg",
+    "/eYzULJoU4mQbTnjQPoPyYX7f85y.jpg",
+    "/bSKCH3qbPl1IwQ1qjEP3UOpfSrG.jpg"
+  ],
+  "trailerKey": "WFiAWWwh168",
+  "genreIds": [
+    35,
+    80,
+    12
+  ],
+  "keywordIds": [
+    818,
+    6212,
+    1200,
+    2598,
+    9728,
+    14604,
+    46950,
+    207921
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "el",
+    "it",
+    "tr",
+    "de"
+  ],
+  "studios": [
+    "Filmways Pictures",
+    "United Artists"
+  ],
+  "crew": [
+    {
+      "personId": 14227,
+      "job": "producer"
+    },
+    {
+      "personId": 2307,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 41417,
+      "job": "writer"
+    },
+    {
+      "personId": 14227,
+      "job": "director"
+    },
+    {
+      "personId": 17558,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29902,
+      "character": "Elizabeth Lipp",
+      "order": 0
+    },
+    {
+      "personId": 14501,
+      "character": "Arthur Simon Simpson",
+      "order": 1
+    },
+    {
+      "personId": 12150,
+      "character": "Walter Harper",
+      "order": 2
+    },
+    {
+      "personId": 6599,
+      "character": "Cedric Page",
+      "order": 3
+    },
+    {
+      "personId": 33723,
+      "character": "Hans",
+      "order": 4
+    },
+    {
+      "personId": 28182,
+      "character": "Giulio",
+      "order": 5
+    },
+    {
+      "personId": 30719,
+      "character": "Gerven the Cook",
+      "order": 6
+    },
+    {
+      "personId": 140177,
+      "character": "Harback",
+      "order": 7
+    },
+    {
+      "personId": 1953117,
+      "character": "Major Ali Tufan",
+      "order": 8
+    },
+    {
+      "personId": 1323388,
+      "character": "First Shadow",
+      "order": 9
+    },
+    {
+      "personId": 1320694,
+      "character": "Second Shadow",
+      "order": 10
+    },
+    {
+      "personId": 1305851,
+      "character": "Joseph",
+      "order": 11
+    },
+    {
+      "personId": 932751,
+      "character": "Voula",
+      "order": 12
+    },
+    {
+      "personId": 1320932,
+      "character": "Tavla Player at Hilton (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 232655,
+      "character": "Nanny (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 14227,
+      "character": "Turkish Cop (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1584342,
+      "character": "Tavla Player at Hilton (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1784215,
+      "character": "Police Officer (uncredited)",
+      "order": 17
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 228,
+  "sources": [
+    "cult-list"
+  ]
+}

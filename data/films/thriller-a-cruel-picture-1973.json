@@ -1,0 +1,188 @@
+{
+  "tmdbId": 15018,
+  "slug": "thriller-a-cruel-picture-1973",
+  "year": 1973,
+  "runtime": 108,
+  "originalTitle": "Thriller - en grym film",
+  "title": {
+    "en": "Thriller: A Cruel Picture",
+    "tr": "Thriller - en grym film"
+  },
+  "overview": {
+    "en": "Madeleine, rendered mute after being sexually assaulted as a youth, accepts a lift from a wealthy and sadistic pimp who soon enslaves her into his prostitution racket. Despite her limited means, Madeleine embarks on a bloody road to revenge against her captors.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/pMYgdygJZ6oBpnC3dWrluevlZOt.jpg",
+    "en": "/maCNBtSYAgSUdBTNh13sZ5Prhbn.jpg"
+  },
+  "backdrops": [
+    "/8YMq728a1ElZq6tmM0ZI3RrwoOi.jpg",
+    "/8ewmxbrhfcJ1e3JyaaPyRz7WiMI.jpg",
+    "/3mLZqQUYwkn4XDTQYPvzhfKnF9F.jpg",
+    "/jME9x1q2lU9h9aYDUcNakf8zHqZ.jpg",
+    "/AgwAc7HrJxv1zv53nNUFmViwMxc.jpg",
+    "/e56eIm0SzAe5Zr9nEEirjBDjErS.jpg",
+    "/b9c4avZhXamRbcKzmiNCXpebng5.jpg",
+    "/ppEjcnHkpFgy39nj4KVNxh5yPXF.jpg",
+    "/cYXuxWI70Obg3GGG2owJpBAoAIt.jpg",
+    "/nPNXAO3Sugm23v2cWfytv8F29cV.jpg"
+  ],
+  "trailerKey": "Lt8mpuYPcRY",
+  "genreIds": [
+    28,
+    53,
+    80,
+    27,
+    18
+  ],
+  "keywordIds": [
+    570,
+    1664,
+    2804,
+    9748,
+    11322,
+    184352,
+    190370,
+    222769
+  ],
+  "countries": [
+    "SE"
+  ],
+  "languages": [
+    "sv"
+  ],
+  "studios": [
+    "BAV Film",
+    "United Producers"
+  ],
+  "crew": [
+    {
+      "personId": 77709,
+      "job": "director"
+    },
+    {
+      "personId": 590790,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 77709,
+      "job": "producer"
+    },
+    {
+      "personId": 77712,
+      "job": "composer"
+    },
+    {
+      "personId": 77709,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 77707,
+      "character": "Frigga / Madeleine / One Eye",
+      "order": 0
+    },
+    {
+      "personId": 77708,
+      "character": "Tony",
+      "order": 1
+    },
+    {
+      "personId": 133717,
+      "character": "Sally",
+      "order": 2
+    },
+    {
+      "personId": 133716,
+      "character": "The Lesbian Girl",
+      "order": 3
+    },
+    {
+      "personId": 24369,
+      "character": "Madeline's Father (as Per Axel Arosenius)",
+      "order": 4
+    },
+    {
+      "personId": 1065641,
+      "character": "Madeleine's mother",
+      "order": 5
+    },
+    {
+      "personId": 133718,
+      "character": "The Addict",
+      "order": 6
+    },
+    {
+      "personId": 133719,
+      "character": "Woman in Village",
+      "order": 7
+    },
+    {
+      "personId": 133720,
+      "character": "Woman in Village",
+      "order": 8
+    },
+    {
+      "personId": 133723,
+      "character": "Karate Teacher (as Marshal Mc Donagh)",
+      "order": 9
+    },
+    {
+      "personId": 133724,
+      "character": "Driving Teacher",
+      "order": 10
+    },
+    {
+      "personId": 133725,
+      "character": "Young Madeleine",
+      "order": 11
+    },
+    {
+      "personId": 133727,
+      "character": "Sex Buyer",
+      "order": 12
+    },
+    {
+      "personId": 1128119,
+      "character": "Policeman (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 2438137,
+      "character": "Car Driver (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 2181475,
+      "character": "Soldier / Policeman (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 77709,
+      "character": "Hot Dog Vendor (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 133721,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 133722,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 133726,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 225,
+  "sources": [
+    "cult-list"
+  ]
+}

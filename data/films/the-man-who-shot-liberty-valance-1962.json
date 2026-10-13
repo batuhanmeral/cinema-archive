@@ -1,0 +1,198 @@
+{
+  "tmdbId": 11697,
+  "slug": "the-man-who-shot-liberty-valance-1962",
+  "year": 1962,
+  "runtime": 123,
+  "originalTitle": "The Man Who Shot Liberty Valance",
+  "title": {
+    "en": "The Man Who Shot Liberty Valance",
+    "tr": "Kahramanın Sonu"
+  },
+  "overview": {
+    "en": "Questions arise when Senator Stoddard attends the funeral of a local man named Tom Doniphon in a small Western town. Flashing back, we learn Doniphon saved Stoddard, then a lawyer, when he was roughed up by a crew of outlaws terrorizing the town, led by Liberty Valance. As the territory's safety hung in the balance, Doniphon and Stoddard, two of the only people standing up to him, proved to be very important, but different, foes to Valance.",
+    "tr": "Senatör Ranse Stoddard, Vahşi Batı’da bulunan Shinbone şehrine, arkadaşı Tom Doniphon’un cenazesi için geri döner. Shinbone’da senatörün ne yaptığını merak eden bir gazeteciye, kariyerinin “Liberty Valance’ı vuran adam” olarak nasıl başladığını anlatır. Silahların hukuk kurallarının yerine geçtiği Shinbone’a, Batı'ya kanunu getirme amacı bulunan bir avukat olarak gelir. Bir posta arabası kanundışı şekilde zapt edildiğinde Rense, Liberty Valance tarafından vahşice dövülür. Ranse, Valance’ı adalete getirmenin bir yolunu bulmaya çalışırken Shinbone halkına okuma yazma da öğretir. Sonunda bir silah alarak Valance’ın karşısına dikilir."
+  },
+  "poster": {
+    "tr": "/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg",
+    "en": "/cEv3vMnUKreaM16C07ygEXR4u1y.jpg"
+  },
+  "backdrops": [
+    "/tlelEDTnu2bPhDtW1yPSrZ7Lg5X.jpg",
+    "/4iRU0rYEv6qhuxPNFf01W1MrZcI.jpg",
+    "/9mcU6iM9SB7Y9xMjOt2otNwYnwl.jpg",
+    "/6syuBejihUpM5xLCw6KCxc5Wkr0.jpg",
+    "/h1vBJ0uN4QCbBb5WVKxmtfTrHoY.jpg",
+    "/c67QGUmL8gMYS4McmsQKWn1lNqf.jpg",
+    "/g9ZXw6tIIHq2ck8AmkFhxPHP8HC.jpg",
+    "/u8x3rCtNhVM8LtS4UntqyRfv9Xh.jpg",
+    "/b09kUP3NQEJ74Slayy4juTJz06y.jpg",
+    "/f6gTJLQ950dPHfFRnxQdaA6OlXJ.jpg"
+  ],
+  "trailerKey": "GqhRXr2Mhn0",
+  "genreIds": [
+    37
+  ],
+  "keywordIds": [
+    75,
+    797,
+    3739,
+    3754,
+    2752,
+    9503,
+    10909,
+    12999,
+    33600,
+    155291
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "John Ford Productions",
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 8500,
+      "job": "director"
+    },
+    {
+      "personId": 8500,
+      "job": "producer"
+    },
+    {
+      "personId": 40183,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 70037,
+      "job": "writer"
+    },
+    {
+      "personId": 14647,
+      "job": "composer"
+    },
+    {
+      "personId": 1503,
+      "job": "producer"
+    },
+    {
+      "personId": 1503,
+      "job": "writer"
+    },
+    {
+      "personId": 1600049,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4165,
+      "character": "Tom Doniphon",
+      "order": 0
+    },
+    {
+      "personId": 854,
+      "character": "Ransom Stoddard",
+      "order": 1
+    },
+    {
+      "personId": 7303,
+      "character": "Hallie Stoddard",
+      "order": 2
+    },
+    {
+      "personId": 18391,
+      "character": "Liberty Valance",
+      "order": 3
+    },
+    {
+      "personId": 8254,
+      "character": "Dutton Peabody",
+      "order": 4
+    },
+    {
+      "personId": 14966,
+      "character": "Link Appleyard",
+      "order": 5
+    },
+    {
+      "personId": 176543,
+      "character": "Doc Willoughby",
+      "order": 6
+    },
+    {
+      "personId": 8516,
+      "character": "Cassius Starbuckle",
+      "order": 7
+    },
+    {
+      "personId": 7520,
+      "character": "Nora Ericson",
+      "order": 8
+    },
+    {
+      "personId": 4119,
+      "character": "Peter Ericson",
+      "order": 9
+    },
+    {
+      "personId": 83149,
+      "character": "Jason Tully",
+      "order": 10
+    },
+    {
+      "personId": 2098,
+      "character": "Maxwell Scott",
+      "order": 11
+    },
+    {
+      "personId": 4963,
+      "character": "Pompey",
+      "order": 12
+    },
+    {
+      "personId": 6462,
+      "character": "Amos Carruthers",
+      "order": 13
+    },
+    {
+      "personId": 8260,
+      "character": "Floyd",
+      "order": 14
+    },
+    {
+      "personId": 4078,
+      "character": "Reese",
+      "order": 15
+    },
+    {
+      "personId": 106506,
+      "character": "Handy Strong",
+      "order": 16
+    },
+    {
+      "personId": 8520,
+      "character": "Herbert Carruthers",
+      "order": 17
+    },
+    {
+      "personId": 98450,
+      "character": "Mayor Winder",
+      "order": 18
+    },
+    {
+      "personId": 117477,
+      "character": "Charlie Hasbrouck",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1355,
+  "sources": [
+    "cult-list"
+  ]
+}

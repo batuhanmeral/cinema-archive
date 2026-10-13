@@ -1,0 +1,191 @@
+{
+  "tmdbId": 24798,
+  "slug": "true-stories-1986",
+  "year": 1986,
+  "runtime": 89,
+  "originalTitle": "True Stories",
+  "title": {
+    "en": "True Stories",
+    "tr": "True Stories"
+  },
+  "overview": {
+    "en": "A small but growing Texas town, filled with strange and musical characters, celebrates its sesquicentennial and converge on a local parade and talent show.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/sngF8cskFWz2cig7b63ZaDNaQXr.jpg",
+    "en": "/sngF8cskFWz2cig7b63ZaDNaQXr.jpg"
+  },
+  "backdrops": [
+    "/ch5zgxvM7SUw1mJKgTyjaCtYeie.jpg",
+    "/7AKuDLs7ERp4j8qRyNY8gtwAESs.jpg",
+    "/cyLstOZ4mpgHoMdQM43Hxa356y1.jpg",
+    "/4ldDruspGFunOuNn8R8Y4cUVdS4.jpg",
+    "/lhuqyVPpbsenpQfNYF2JGJotAfl.jpg",
+    "/6IhOhT2L3BdYZ4o8ImnHkHbe93P.jpg",
+    "/3vwEt9E9aQO6nM3ZOeXlH0yj7F7.jpg",
+    "/5MgAUJ49u9vtq8F0kZPd9bEHn4i.jpg",
+    "/dIHkktUif9Z9XYK57ewKQXMaCMX.jpg",
+    "/1OLJxCAVNb1I0NqvAcUuvKDdQKm.jpg"
+  ],
+  "trailerKey": "5MIHT9d25wY",
+  "genreIds": [
+    35,
+    10402
+  ],
+  "keywordIds": [
+    1415,
+    1556,
+    11687
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "pt",
+    "es"
+  ],
+  "studios": [
+    "Pressman Film",
+    "Gary Kurfirst Pictures",
+    "True Stories Venture"
+  ],
+  "crew": [
+    {
+      "personId": 3078,
+      "job": "director"
+    },
+    {
+      "personId": 3078,
+      "job": "writer"
+    },
+    {
+      "personId": 537,
+      "job": "writer"
+    },
+    {
+      "personId": 100250,
+      "job": "writer"
+    },
+    {
+      "personId": 3078,
+      "job": "composer"
+    },
+    {
+      "personId": 6345,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1194052,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3078,
+      "character": "Narrator / Lip-Syncher",
+      "order": 0
+    },
+    {
+      "personId": 1230,
+      "character": "Louis Fyne",
+      "order": 1
+    },
+    {
+      "personId": 34535,
+      "character": "Kay Culver",
+      "order": 2
+    },
+    {
+      "personId": 71561,
+      "character": "The Lying Woman",
+      "order": 3
+    },
+    {
+      "personId": 8978,
+      "character": "Earl Culver",
+      "order": 4
+    },
+    {
+      "personId": 37598,
+      "character": "The Cute Woman",
+      "order": 5
+    },
+    {
+      "personId": 76145,
+      "character": "Mr. Tucker",
+      "order": 6
+    },
+    {
+      "personId": 53763,
+      "character": "Ramon",
+      "order": 7
+    },
+    {
+      "personId": 44052,
+      "character": "The Preacher",
+      "order": 8
+    },
+    {
+      "personId": 1219824,
+      "character": "The Computer Guy",
+      "order": 9
+    },
+    {
+      "personId": 12967,
+      "character": "The Lazy Woman",
+      "order": 10
+    },
+    {
+      "personId": 1924219,
+      "character": "Linda Culver",
+      "order": 11
+    },
+    {
+      "personId": 2684229,
+      "character": "Larry Culver",
+      "order": 12
+    },
+    {
+      "personId": 4008447,
+      "character": "The Little Girl on the Road",
+      "order": 13
+    },
+    {
+      "personId": 4008448,
+      "character": "Factory Girl #1",
+      "order": 14
+    },
+    {
+      "personId": 4008449,
+      "character": "Factory Girl #2",
+      "order": 15
+    },
+    {
+      "personId": 4008451,
+      "character": "Laotian Factory Worker",
+      "order": 16
+    },
+    {
+      "personId": 4008453,
+      "character": "Woman at Plant",
+      "order": 17
+    },
+    {
+      "personId": 4008454,
+      "character": "Louis' Date at Chinese Restaurant",
+      "order": 18
+    },
+    {
+      "personId": 4008459,
+      "character": "Moonstone",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 153,
+  "sources": [
+    "cult-list"
+  ]
+}

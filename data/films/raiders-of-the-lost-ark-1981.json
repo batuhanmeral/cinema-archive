@@ -1,0 +1,213 @@
+{
+  "tmdbId": 85,
+  "slug": "raiders-of-the-lost-ark-1981",
+  "year": 1981,
+  "runtime": 115,
+  "originalTitle": "Raiders of the Lost Ark",
+  "title": {
+    "en": "Raiders of the Lost Ark",
+    "tr": "Indiana Jones: Kutsal Hazine Avcıları"
+  },
+  "overview": {
+    "en": "When Dr. Indiana Jones – the tweed-suited professor who just happens to be a celebrated archaeologist – is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.",
+    "tr": "Amerikan Hükümeti Ark of the Conenant’ı bulması için Arkeolog Dr. Indiana Jones'u görevlendirir. Ark’ta ünlü 10 Emir’in varolduğuna ve kutsal güçler olduğuna inanılmaktadır. Üstelik Hitler’in ajanları da Ark’ın peşindedirler. Jones, eski aşkı Marion’la birlikte Nepal’den Kahire’ye kadar tuzak ve tehlikeyle dolu bir maceraya atılır."
+  },
+  "poster": {
+    "tr": "/rOLqXSORXQHWsRd09mJ5ZnaspEB.jpg",
+    "en": "/ceG9VzoRAVGwivFU403Wc3AHRys.jpg"
+  },
+  "backdrops": [
+    "/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg",
+    "/f3XrGXd34Ru7o39LUwWvk5igEV7.jpg",
+    "/ueDw7djPgKPZfph0vC43aD2EMyF.jpg",
+    "/oxK0OlJ5brTZMLQu5AD1oLDgwt3.jpg",
+    "/5VtsgHqFZCTHBFlv9U5khppiG2O.jpg",
+    "/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
+    "/zJkyo2WNqEIXf5hwbIQJlWZ8mTl.jpg",
+    "/odblUdMERDmhQ4ei9Ja8tRZ4br6.jpg",
+    "/6hCliCoQpukRqUacTVBlhHpIyfb.jpg",
+    "/4qcb6OTr7mbx9OmYVBFh3geIEDN.jpg"
+  ],
+  "trailerKey": "0xQSIdSRlAk",
+  "genreIds": [
+    12,
+    28
+  ],
+  "keywordIds": [
+    1160,
+    1454,
+    1456,
+    11105,
+    83,
+    485,
+    486,
+    487,
+    488,
+    2656,
+    1294,
+    2650,
+    2853,
+    2854,
+    2856,
+    2652,
+    9032,
+    483,
+    6956,
+    41586,
+    175428,
+    184134,
+    194034,
+    205333,
+    214548
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "de",
+    "he",
+    "ar",
+    "ne"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Lucasfilm Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 488,
+      "job": "director"
+    },
+    {
+      "personId": 664,
+      "job": "producer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 666,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2922346,
+      "job": "composer"
+    },
+    {
+      "personId": 8844,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3,
+      "character": "Indiana Jones",
+      "order": 0
+    },
+    {
+      "personId": 650,
+      "character": "Marion Ravenwood",
+      "order": 1
+    },
+    {
+      "personId": 652,
+      "character": "Dr. René Belloq",
+      "order": 2
+    },
+    {
+      "personId": 655,
+      "character": "Sallah",
+      "order": 3
+    },
+    {
+      "personId": 653,
+      "character": "Major Arnold Toht",
+      "order": 4
+    },
+    {
+      "personId": 659,
+      "character": "Colonel Dietrich",
+      "order": 5
+    },
+    {
+      "personId": 660,
+      "character": "Gobler",
+      "order": 6
+    },
+    {
+      "personId": 656,
+      "character": "Dr. Marcus Brody",
+      "order": 7
+    },
+    {
+      "personId": 658,
+      "character": "Satipo",
+      "order": 8
+    },
+    {
+      "personId": 661,
+      "character": "Barranca / Monkey Man",
+      "order": 9
+    },
+    {
+      "personId": 662,
+      "character": "Col. Musgrove",
+      "order": 10
+    },
+    {
+      "personId": 663,
+      "character": "Major Eaton",
+      "order": 11
+    },
+    {
+      "personId": 2247,
+      "character": "Katanga",
+      "order": 12
+    },
+    {
+      "personId": 1402695,
+      "character": "Jock",
+      "order": 13
+    },
+    {
+      "personId": 1211876,
+      "character": "Mohan",
+      "order": 14
+    },
+    {
+      "personId": 55909,
+      "character": "Messenger Pirate",
+      "order": 15
+    },
+    {
+      "personId": 1402694,
+      "character": "Bureaucrat",
+      "order": 16
+    },
+    {
+      "personId": 1402696,
+      "character": "Australian Climber",
+      "order": 17
+    },
+    {
+      "personId": 134116,
+      "character": "2nd. Nazi",
+      "order": 18
+    },
+    {
+      "personId": 1402756,
+      "character": "Ratty Nepalese",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 4
+  },
+  "voteCount": 14169,
+  "sources": [
+    "cult-list"
+  ]
+}

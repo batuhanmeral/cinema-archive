@@ -1,0 +1,189 @@
+{
+  "tmdbId": 29336,
+  "slug": "the-cannibal-man-1972",
+  "year": 1972,
+  "runtime": 98,
+  "originalTitle": "La semana del asesino",
+  "title": {
+    "en": "The Cannibal Man",
+    "tr": "La semana del asesino"
+  },
+  "overview": {
+    "en": "A young man, Marco, working as a butcher, accidentally kills a taxi driver. His girlfriend Paula wants to go to the police so he has to kill her too. He then has to kill his brother, his brother’s fiancée and his father, who have become suspicious. He gets rid of the bodies by taking them to a slaughter house.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/A2srdcBbijsL8wzfy9HM87NaVji.jpg",
+    "en": "/p99XB1ZmRdSNxN0XgWU96gV0DdM.jpg"
+  },
+  "backdrops": [
+    "/rJCbWwbFDY3bil4N23N3eSxMmj1.jpg",
+    "/1YAWNhFiqENsahLefpIZNvX0YQ5.jpg",
+    "/xJNcQt7fN3szDIeDTmPQY2JGwLn.jpg",
+    "/3LIK8SLnHi4D37BCbgJJMoIBrRE.jpg",
+    "/bBqZs94rrCxgROjGyuLO2l82B78.jpg",
+    "/sa2k8NP9vZsrq9Xd6zEUA57iKzh.jpg",
+    "/yaoPPM6nDwbKeztp8CGVmdH5ezk.jpg",
+    "/vYLVLoRnmddbDrxA7AqoNt3d3wd.jpg",
+    "/6DjJldJj73pSucfaTZAg8eEk03T.jpg",
+    "/h8omKWUlG6FAW106MtZXdvTilj7.jpg"
+  ],
+  "trailerKey": "P5cLcUcx4E0",
+  "genreIds": [
+    18,
+    27,
+    53
+  ],
+  "keywordIds": [
+    4452,
+    9826,
+    14895,
+    189921
+  ],
+  "countries": [
+    "ES"
+  ],
+  "languages": [
+    "es"
+  ],
+  "studios": [
+    "Atlas International Film"
+  ],
+  "crew": [
+    {
+      "personId": 103518,
+      "job": "producer"
+    },
+    {
+      "personId": 103519,
+      "job": "composer"
+    },
+    {
+      "personId": 103520,
+      "job": "producer"
+    },
+    {
+      "personId": 40885,
+      "job": "writer"
+    },
+    {
+      "personId": 103509,
+      "job": "writer"
+    },
+    {
+      "personId": 103509,
+      "job": "director"
+    },
+    {
+      "personId": 30958,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 103520,
+      "character": "Marcos",
+      "order": 0
+    },
+    {
+      "personId": 97662,
+      "character": "Paula",
+      "order": 1
+    },
+    {
+      "personId": 34629,
+      "character": "Néstor",
+      "order": 2
+    },
+    {
+      "personId": 103522,
+      "character": "Carmen",
+      "order": 3
+    },
+    {
+      "personId": 103523,
+      "character": "Rosa",
+      "order": 4
+    },
+    {
+      "personId": 103525,
+      "character": "Head of Personnel",
+      "order": 5
+    },
+    {
+      "personId": 103517,
+      "character": "Mr. Ambrosio",
+      "order": 6
+    },
+    {
+      "personId": 103513,
+      "character": "Esteban",
+      "order": 7
+    },
+    {
+      "personId": 103524,
+      "character": "Agustín",
+      "order": 8
+    },
+    {
+      "personId": 102093,
+      "character": "Taxi Driver",
+      "order": 9
+    },
+    {
+      "personId": 222597,
+      "character": "Worker",
+      "order": 10
+    },
+    {
+      "personId": 103526,
+      "character": "Shopkeeper",
+      "order": 11
+    },
+    {
+      "personId": 99564,
+      "character": "Waiter",
+      "order": 12
+    },
+    {
+      "personId": 87248,
+      "character": "Worker",
+      "order": 13
+    },
+    {
+      "personId": 97638,
+      "character": "Secretary",
+      "order": 14
+    },
+    {
+      "personId": 1062287,
+      "character": "Worker",
+      "order": 15
+    },
+    {
+      "personId": 1173116,
+      "character": "Guard",
+      "order": 16
+    },
+    {
+      "personId": 1692925,
+      "character": "Worker",
+      "order": 17
+    },
+    {
+      "personId": 1183853,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1913333,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 69,
+  "sources": [
+    "cult-list"
+  ]
+}

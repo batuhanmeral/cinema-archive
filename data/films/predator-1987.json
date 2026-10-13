@@ -1,0 +1,196 @@
+{
+  "tmdbId": 106,
+  "slug": "predator-1987",
+  "year": 1987,
+  "runtime": 107,
+  "originalTitle": "Predator",
+  "title": {
+    "en": "Predator",
+    "tr": "Av"
+  },
+  "overview": {
+    "en": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
+    "tr": "Dutch ve komandoları CIA tarafından Güney Amerika ormanlarında esir tutulan havacıyı bulup getirmekle görevlendirilirler. Görev başarılı olur ama dönüş yolunda gizemli bir yaratığın onları izlediğini fark ederler. Ölüm artık onlara çok yakındır."
+  },
+  "poster": {
+    "tr": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg",
+    "en": "/k3mW4qfJo6SKqe6laRyNGnbB9n5.jpg"
+  },
+  "backdrops": [
+    "/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+    "/x6aNbv9hCgBolIbnwlocwzhS9Eq.jpg",
+    "/qpS5pfZJcirPTDpvckpczKJIsO0.jpg",
+    "/70cezTFUmtijJLqnZw02gQlKVKJ.jpg",
+    "/otkJlfjB7zJ5h34FEIfemenMbCy.jpg",
+    "/cpLGPsm8WPIdEBgLyfvr17knhVf.jpg",
+    "/gIp0L6VRu2xrX4uCnH9jPsmpaCG.jpg",
+    "/59as7ffBNyGMfIOew8CPqO5i0zG.jpg",
+    "/nXiVXsYBCj0lEfFu8V8fYKxLvKY.jpg",
+    "/vvsQe0ksUH001rxFGrnZkL9eBzr.jpg"
+  ],
+  "trailerKey": "SFoQL6gqhFM",
+  "genreIds": [
+    878,
+    28,
+    12,
+    53
+  ],
+  "keywordIds": [
+    1008,
+    1291,
+    1297,
+    11060,
+    9951,
+    10349,
+    10333,
+    13031,
+    14909,
+    14915,
+    15248,
+    202371,
+    228752,
+    312898,
+    314730,
+    321464,
+    325772,
+    325806
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "20th Century Fox",
+    "Lawrence Gordon Productions",
+    "Silver Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1090,
+      "job": "director"
+    },
+    {
+      "personId": 1091,
+      "job": "producer"
+    },
+    {
+      "personId": 1093,
+      "job": "producer"
+    },
+    {
+      "personId": 1095,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 37,
+      "job": "composer"
+    },
+    {
+      "personId": 1092,
+      "job": "writer"
+    },
+    {
+      "personId": 1094,
+      "job": "writer"
+    },
+    {
+      "personId": 2043,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1100,
+      "character": "Major Alan 'Dutch' Schaefer",
+      "order": 0
+    },
+    {
+      "personId": 1101,
+      "character": "Al Dillon",
+      "order": 1
+    },
+    {
+      "personId": 1109,
+      "character": "The Predator / Helicopter Pilot",
+      "order": 2
+    },
+    {
+      "personId": 1102,
+      "character": "Anna Gonsalves",
+      "order": 3
+    },
+    {
+      "personId": 1103,
+      "character": "Mac Eliot",
+      "order": 4
+    },
+    {
+      "personId": 1104,
+      "character": "Blain Cooper",
+      "order": 5
+    },
+    {
+      "personId": 1105,
+      "character": "Billy Sole",
+      "order": 6
+    },
+    {
+      "personId": 1106,
+      "character": "Jorge 'Poncho' Ramirez",
+      "order": 7
+    },
+    {
+      "personId": 1107,
+      "character": "Major General Homer Phillips",
+      "order": 8
+    },
+    {
+      "personId": 1108,
+      "character": "Rick Hawkins",
+      "order": 9
+    },
+    {
+      "personId": 19540,
+      "character": "Predator (voice) (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 72258,
+      "character": "Hostage Executed by the Russian (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1412253,
+      "character": "Guerilla Soldier Shot Down from Tree (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 24969,
+      "character": "Guerilla Soldier Blown Up in Van (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 20761,
+      "character": "Russian Officer (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 176448,
+      "character": "Guerilla Soldier Helicopter Pilot (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 35710,
+      "character": "Medic (uncredited)",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 9634,
+  "sources": [
+    "cult-list"
+  ]
+}

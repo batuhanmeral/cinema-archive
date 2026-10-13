@@ -1,0 +1,117 @@
+{
+  "tmdbId": 51230,
+  "slug": "cinemania-2003",
+  "year": 2003,
+  "runtime": 79,
+  "originalTitle": "Cinemania",
+  "title": {
+    "en": "Cinemania",
+    "tr": "Cinemania"
+  },
+  "overview": {
+    "en": "This documentary about the culture of intense cinephilia in New York City reveals the impassioned world of five obsessed movie buffs. These human encyclopedias of cinema see two to five films a day, and from 600 to 2,000 films per year. This is the story of their lives, their memories, their unbending habits and the films they love.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yDxDCCxuyDx6MrJkLqZwcvPWamq.jpg",
+    "en": "/yDxDCCxuyDx6MrJkLqZwcvPWamq.jpg"
+  },
+  "backdrops": [
+    "/nd5PxedA7J31IgSzmkvwGgSqP6J.jpg"
+  ],
+  "trailerKey": "OjhZ6TRtFB0",
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    242,
+    1523,
+    4295,
+    9818,
+    6224,
+    18062,
+    168346,
+    187056,
+    218048
+  ],
+  "countries": [
+    "US",
+    "DE"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Hanfgarn & Ufer Filmproduktion",
+    "Loop Filmworks",
+    "Winstar Film + Video"
+  ],
+  "crew": [
+    {
+      "personId": 143587,
+      "job": "producer"
+    },
+    {
+      "personId": 143589,
+      "job": "director"
+    },
+    {
+      "personId": 107168,
+      "job": "director"
+    },
+    {
+      "personId": 143589,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 44844,
+      "job": "composer"
+    },
+    {
+      "personId": 1503942,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 143582,
+      "character": "Himself",
+      "order": 0
+    },
+    {
+      "personId": 143583,
+      "character": "Himself",
+      "order": 1
+    },
+    {
+      "personId": 143584,
+      "character": "Himself",
+      "order": 2
+    },
+    {
+      "personId": 143585,
+      "character": "Herself",
+      "order": 3
+    },
+    {
+      "personId": 143586,
+      "character": "Himself",
+      "order": 4
+    },
+    {
+      "personId": 1503938,
+      "character": "Himself",
+      "order": 5
+    },
+    {
+      "personId": 1503939,
+      "character": "Herself",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 53,
+  "sources": [
+    "cult-list"
+  ]
+}

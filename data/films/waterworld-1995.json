@@ -1,0 +1,214 @@
+{
+  "tmdbId": 9804,
+  "slug": "waterworld-1995",
+  "year": 1995,
+  "runtime": 135,
+  "originalTitle": "Waterworld",
+  "title": {
+    "en": "Waterworld",
+    "tr": "Su Dünyası"
+  },
+  "overview": {
+    "en": "In a futuristic world where the polar ice caps have melted and made Earth a liquid planet, a beautiful barmaid rescues a mutant seafarer from a floating island prison. They escape, along with her young charge, Enola, and sail off aboard his ship. But the trio soon becomes the target of a menacing pirate who covets the map to 'Dryland'—which is tattooed on Enola's back.",
+    "tr": "Dünyanın sular altında kaldığı bir gelecekte insan ırkı hayatta kalma mücadelesini köhne sandallarda ve geçici, yerleşik olmayan şehirlerde sürdürmektedir. Sadece birkaç insan ısrarla “Dryland” adı verilen efsanevi bir bölgede yaşamayı sürdürmektedir. Bu gizemli bölgenin nerede olduğunu arayan şeytani Deacon (Dennnis Hopper) genç Enola ve annesi Helen’ın yaşadığı şehre saldırır."
+  },
+  "poster": {
+    "tr": "/39lmOR3sUgl8od6Hbzzjt7sHZuw.jpg",
+    "en": "/f4Q6BKm1lv9u5xoffbIIwrOYf6z.jpg"
+  },
+  "backdrops": [
+    "/hJleEkILmKzJsvzrU8o5d66jbPa.jpg",
+    "/htBqXWWASllSXPmIMXb8hywNpwv.jpg",
+    "/xBu4khAr8wM8uEz3YrceudPcEpw.jpg",
+    "/yaIu82UiD9QZEkKCGrAd8VAmc0V.jpg",
+    "/dAxlTzEktNwCO5vgnPUC5vjwAfL.jpg",
+    "/vHLyDk0uRb72xFeQjU1KJZ3g7hQ.jpg",
+    "/nRGHo5zhXoG35smiF5f7vWkxsnN.jpg",
+    "/k7U6Ikr0sv2x4xWha6myMzBZyea.jpg",
+    "/hy1TNf0dBjfVUU918sr7nGdTDBh.jpg",
+    "/lrbKmL4qkdBVHnTod4hJKdYCbls.jpg"
+  ],
+  "trailerKey": "r4LLyBCz9tw",
+  "genreIds": [
+    12,
+    28
+  ],
+  "keywordIds": [
+    544,
+    311,
+    331,
+    270,
+    1852,
+    4418,
+    12988,
+    166964,
+    175994,
+    186713,
+    204402,
+    214386,
+    215299,
+    217083,
+    227147,
+    232580,
+    233300,
+    300722,
+    344499,
+    351133
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Gordon Company",
+    "Davis Entertainment",
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1093,
+      "job": "producer"
+    },
+    {
+      "personId": 1213,
+      "job": "composer"
+    },
+    {
+      "personId": 1269,
+      "job": "producer"
+    },
+    {
+      "personId": 2043,
+      "job": "producer"
+    },
+    {
+      "personId": 4501,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7681,
+      "job": "producer"
+    },
+    {
+      "personId": 8300,
+      "job": "director"
+    },
+    {
+      "personId": 964306,
+      "job": "writer"
+    },
+    {
+      "personId": 28239,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1269,
+      "character": "Mariner",
+      "order": 0
+    },
+    {
+      "personId": 2778,
+      "character": "Deacon",
+      "order": 1
+    },
+    {
+      "personId": 10478,
+      "character": "Helen",
+      "order": 2
+    },
+    {
+      "personId": 53930,
+      "character": "Enola",
+      "order": 3
+    },
+    {
+      "personId": 49832,
+      "character": "Enforcer",
+      "order": 4
+    },
+    {
+      "personId": 151943,
+      "character": "Nord",
+      "order": 5
+    },
+    {
+      "personId": 2169,
+      "character": "Old Gregor",
+      "order": 6
+    },
+    {
+      "personId": 3432,
+      "character": "Gatesman",
+      "order": 7
+    },
+    {
+      "personId": 8335,
+      "character": "Drifter",
+      "order": 8
+    },
+    {
+      "personId": 59350,
+      "character": "Drifter",
+      "order": 9
+    },
+    {
+      "personId": 85500,
+      "character": "Elder",
+      "order": 10
+    },
+    {
+      "personId": 59352,
+      "character": "Elder / Survivor",
+      "order": 11
+    },
+    {
+      "personId": 41741,
+      "character": "Atoller",
+      "order": 12
+    },
+    {
+      "personId": 70851,
+      "character": "Pilot",
+      "order": 13
+    },
+    {
+      "personId": 47458,
+      "character": "Priam",
+      "order": 14
+    },
+    {
+      "personId": 1240,
+      "character": "Banker",
+      "order": 15
+    },
+    {
+      "personId": 12514,
+      "character": "Elder",
+      "order": 16
+    },
+    {
+      "personId": 3204,
+      "character": "Trader",
+      "order": 17
+    },
+    {
+      "personId": 20175,
+      "character": "Hydroholic",
+      "order": 18
+    },
+    {
+      "personId": 1769284,
+      "character": "Gatesman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4291,
+  "sources": [
+    "cult-list"
+  ]
+}

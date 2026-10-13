@@ -1,0 +1,228 @@
+{
+  "tmdbId": 1690,
+  "slug": "hostel-2006",
+  "year": 2006,
+  "runtime": 94,
+  "originalTitle": "Hostel",
+  "title": {
+    "en": "Hostel",
+    "tr": "Otel"
+  },
+  "overview": {
+    "en": "Three backpackers head to a Slovakian city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.",
+    "tr": "Üniversite mezunu iki gencin sırt çantalarıyla yaptıkları Avrupa gezisini konu alıyor. Paxton ve Josh, sonunda sırt çantalı Amerikalıların nirvanası olarak bilinen öğrenci pansiyonuna gelirler. Bu özel yer bir Slovak kasabasının dışındadır ve güzel oldukları kadar da çaresiz Doğu Avrupalı kadınlarla doludur. İkili çok geçmeden egzotik güzeller Natalya ve Svetlana'yla yakınlaşırlar."
+  },
+  "poster": {
+    "tr": "/fFD7BDcWEvXjZ6g7hxb3NZIkZKF.jpg",
+    "en": "/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg"
+  },
+  "backdrops": [
+    "/mNBgJ1twj8BljYGzBfVrsiGdX8.jpg",
+    "/1nZswHp7O64vga0NpOFoFGyf4GJ.jpg",
+    "/dF6GNQ0TnZkr1t4wBt36Xc0Pccd.jpg",
+    "/iEIuxdO68pfx9hJTalAlWeYdgIr.jpg",
+    "/rE1oDPBn6U4866ssc4x0GB7LdHt.jpg",
+    "/k354Yd92aQ546UaCbi4RhtmVdcB.jpg",
+    "/sNSLUsg92xUvCQofdgOPLYLsn02.jpg",
+    "/eccVyFEP7DKjWoFDvkYEegy3peh.jpg",
+    "/kfkpJdU5tTqVFpO0Iikhy1pUs30.jpg",
+    "/qUIwS9MVvDmmE5zdTudmQJrQqnO.jpg"
+  ],
+  "trailerKey": "R0ShE0EbcCA",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    4426,
+    587,
+    472,
+    1411,
+    2340,
+    6019,
+    3540,
+    3544,
+    10292,
+    7089,
+    5891,
+    5746,
+    1295,
+    9758,
+    11249,
+    11729,
+    12339,
+    13006,
+    13059,
+    14829,
+    155955,
+    156149,
+    156173,
+    157958,
+    165798,
+    193698,
+    198438,
+    290672,
+    321759,
+    325546,
+    325767,
+    381001,
+    384154,
+    384156
+  ],
+  "countries": [
+    "US",
+    "CZ"
+  ],
+  "languages": [
+    "en",
+    "is",
+    "ja",
+    "de",
+    "ru",
+    "sk",
+    "nl",
+    "cs",
+    "es"
+  ],
+  "studios": [
+    "International Production Company",
+    "Raw Nerve",
+    "Next Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 33931,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 16847,
+      "job": "director"
+    },
+    {
+      "personId": 16847,
+      "job": "producer"
+    },
+    {
+      "personId": 6867,
+      "job": "producer"
+    },
+    {
+      "personId": 16847,
+      "job": "writer"
+    },
+    {
+      "personId": 6869,
+      "job": "producer"
+    },
+    {
+      "personId": 19659,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19487,
+      "character": "Paxton",
+      "order": 0
+    },
+    {
+      "personId": 33934,
+      "character": "Josh",
+      "order": 1
+    },
+    {
+      "personId": 33935,
+      "character": "Oli",
+      "order": 2
+    },
+    {
+      "personId": 33936,
+      "character": "Natalya",
+      "order": 3
+    },
+    {
+      "personId": 33937,
+      "character": "Svetlana",
+      "order": 4
+    },
+    {
+      "personId": 3208465,
+      "character": "Kana",
+      "order": 5
+    },
+    {
+      "personId": 33938,
+      "character": "The Dutch Businessman",
+      "order": 6
+    },
+    {
+      "personId": 1265217,
+      "character": "Vala",
+      "order": 7
+    },
+    {
+      "personId": 1265216,
+      "character": "Yuki",
+      "order": 8
+    },
+    {
+      "personId": 1919605,
+      "character": "Monique",
+      "order": 9
+    },
+    {
+      "personId": 1216133,
+      "character": "The American Client",
+      "order": 10
+    },
+    {
+      "personId": 33939,
+      "character": "Alex",
+      "order": 11
+    },
+    {
+      "personId": 47838,
+      "character": "The Friendly Police Officer",
+      "order": 12
+    },
+    {
+      "personId": 1265218,
+      "character": "The German Surgeon",
+      "order": 13
+    },
+    {
+      "personId": 17282,
+      "character": "Miike Takashi",
+      "order": 14
+    },
+    {
+      "personId": 3386181,
+      "character": "Bubble Gum Gang Leader",
+      "order": 15
+    },
+    {
+      "personId": 3386183,
+      "character": "Desk Clerk Jedi",
+      "order": 16
+    },
+    {
+      "personId": 1355960,
+      "character": "The Scarred Cab Driver",
+      "order": 17
+    },
+    {
+      "personId": 2775189,
+      "character": "Yuri",
+      "order": 18
+    },
+    {
+      "personId": 2573567,
+      "character": "Disco Girl",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4131,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "tmdbId": 12101,
+  "slug": "soylent-green-1973",
+  "year": 1973,
+  "runtime": 97,
+  "originalTitle": "Soylent Green",
+  "title": {
+    "en": "Soylent Green",
+    "tr": "Açlık"
+  },
+  "overview": {
+    "en": "In the year 2022, overcrowding, pollution,  and resource depletion have reduced society’s leaders to finding food for the teeming masses. The answer is Soylent Green.",
+    "tr": "Yıl 2022. Aşırı nüfus yüzünden açlık sınırına gelen ve yeni besin kaynakları arayan insanoğlu, New York'lu bir polisin peşine düştüğü karmaşık ilişkiler sayesinde yeni açılımlar yakalayacaktır."
+  },
+  "poster": {
+    "tr": "/f6hOiYDDtHlUpZiWrJgTZD4q5EB.jpg",
+    "en": "/tIQVty3lbBzwuLemEDQic1Axfbd.jpg"
+  },
+  "backdrops": [
+    "/b7ATgNqE84WrGKq7Y8JtrnAuAS8.jpg",
+    "/100DtVKrW33WrLzHm7u7s8LKVtb.jpg",
+    "/zj3EHWUJ1LdpbqGJqIMA6pQVlHO.jpg",
+    "/q4ktrMyDX3NRRrLTyk21cu12TdD.jpg",
+    "/2ffbw5PIhGccmaKjwPplBvqkDEH.jpg",
+    "/m8NHyJklrrg4DxvgSQRLdZQQZNZ.jpg",
+    "/ga4JUb1dGnpesuztsGeMGMjj0fz.jpg",
+    "/ewa8TARxuoISVKLoYK7OKeoC0Di.jpg",
+    "/87WZirHQG4SjSdBpBjGHwmWyDBE.jpg",
+    "/yMR3027DeDjpPp9waCuiXwzfpB0.jpg"
+  ],
+  "trailerKey": "qTsqrniHuhw",
+  "genreIds": [
+    878,
+    80,
+    9648
+  ],
+  "keywordIds": [
+    818,
+    2340,
+    4565,
+    2212,
+    5769,
+    5113,
+    10489,
+    14895,
+    14900,
+    161982,
+    191626,
+    206230,
+    211553,
+    225219,
+    233145,
+    238812,
+    245737,
+    298356,
+    305248,
+    324739,
+    325778,
+    325790,
+    325854,
+    342549
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 1762,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 18591,
+      "job": "producer"
+    },
+    {
+      "personId": 2087,
+      "job": "director"
+    },
+    {
+      "personId": 71238,
+      "job": "writer"
+    },
+    {
+      "personId": 71239,
+      "job": "producer"
+    },
+    {
+      "personId": 58249,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10017,
+      "character": "Detective Robert Thorn",
+      "order": 0
+    },
+    {
+      "personId": 71240,
+      "character": "Shirl",
+      "order": 1
+    },
+    {
+      "personId": 27747,
+      "character": "Tab Fielding",
+      "order": 2
+    },
+    {
+      "personId": 7664,
+      "character": "William R. Simonson",
+      "order": 3
+    },
+    {
+      "personId": 2112,
+      "character": "Chief Hatcher",
+      "order": 4
+    },
+    {
+      "personId": 157439,
+      "character": "Martha Phillips",
+      "order": 5
+    },
+    {
+      "personId": 13566,
+      "character": "Sol Roth",
+      "order": 6
+    },
+    {
+      "personId": 40551,
+      "character": "Gilbert",
+      "order": 7
+    },
+    {
+      "personId": 40595,
+      "character": "Kulozik",
+      "order": 8
+    },
+    {
+      "personId": 104907,
+      "character": "The Priest",
+      "order": 9
+    },
+    {
+      "personId": 12298,
+      "character": "Donovan",
+      "order": 10
+    },
+    {
+      "personId": 3467,
+      "character": "Charles",
+      "order": 11
+    },
+    {
+      "personId": 13786,
+      "character": "Gov. Santini",
+      "order": 12
+    },
+    {
+      "personId": 15942,
+      "character": "The Exchange Leader",
+      "order": 13
+    },
+    {
+      "personId": 14671,
+      "character": "Usher #1",
+      "order": 14
+    },
+    {
+      "personId": 4076,
+      "character": "Book #1",
+      "order": 15
+    },
+    {
+      "personId": 184686,
+      "character": "Book #2",
+      "order": 16
+    },
+    {
+      "personId": 153437,
+      "character": "Book #3",
+      "order": 17
+    },
+    {
+      "personId": 88906,
+      "character": "Book #4",
+      "order": 18
+    },
+    {
+      "personId": 161365,
+      "character": "Attendant",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1516,
+  "sources": [
+    "cult-list"
+  ]
+}

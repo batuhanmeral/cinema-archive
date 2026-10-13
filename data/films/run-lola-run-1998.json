@@ -1,0 +1,199 @@
+{
+  "tmdbId": 104,
+  "slug": "run-lola-run-1998",
+  "year": 1998,
+  "runtime": 80,
+  "originalTitle": "Lola rennt",
+  "title": {
+    "en": "Run Lola Run",
+    "tr": "Koş Lola Koş"
+  },
+  "overview": {
+    "en": "Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. She has 20 minutes to raise this amount and meet Manni. Otherwise, he will rob a store to get the money. Three different alternatives may happen depending on some minor event along Lola's run.",
+    "tr": "Birbirlerine büyük bir tutkuyla aşık olan Lola ve Manni Berlin'de yaşayan iki genç sevgilidir. Bir çete için bazı işler yapan Manni, metroda giderken içinde yüksek miktarda para olan çantayı kaybeder. Parayı bulmak ve çetenin patronuna vermek için sadece 20 dakikası vardır. Bu süre içinde parayı bulamazsa hayatını kaybedecektir. Hemen Lola'ya telefon eder ve durumunu anlatır. Böylece Lola parayı bir şekilde bulmak için koşmaya başlar."
+  },
+  "poster": {
+    "tr": "/2ZDtSb2u3SoBOm3e9VeSe6wya7V.jpg",
+    "en": "/u34YzbFvX067IvJX1ocI4JBvYPa.jpg"
+  },
+  "backdrops": [
+    "/lhsrT0SbPaqmBMHLd5N83j8XAFy.jpg",
+    "/iZMePJtU8wAywFKNsvo46P9dMSi.jpg",
+    "/iYoGs4ywuntCIRmeFT1jCICyCzV.jpg",
+    "/s1YQAR7KkurnNQWNDsnNy1bBBav.jpg",
+    "/bNPx31yMqmBJyXU7qolr9dCidri.jpg",
+    "/wRcm3iwi4BeMN59U4fjO7u3dOVI.jpg",
+    "/4VFG4Z9hZU1w1g4CpnWm3mFORAZ.jpg",
+    "/iKrwK0TsCxM2mbyUFNblrifhUWy.jpg",
+    "/lzlb1fPSzpk7K6eef9zRBzWR1ue.jpg",
+    "/9HJecBTO5TjianzkXjaPZZPaOLH.jpg"
+  ],
+  "trailerKey": "ZCYnsUdO6H0",
+  "genreIds": [
+    28,
+    18,
+    53
+  ],
+  "keywordIds": [
+    4776,
+    220,
+    10855,
+    325811
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de",
+    "en",
+    "ja"
+  ],
+  "studios": [
+    "X Filme Creative Pool"
+  ],
+  "crew": [
+    {
+      "personId": 1071,
+      "job": "director"
+    },
+    {
+      "personId": 1073,
+      "job": "producer"
+    },
+    {
+      "personId": 1071,
+      "job": "composer"
+    },
+    {
+      "personId": 1075,
+      "job": "composer"
+    },
+    {
+      "personId": 1076,
+      "job": "composer"
+    },
+    {
+      "personId": 1077,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1071,
+      "job": "writer"
+    },
+    {
+      "personId": 36175,
+      "job": "producer"
+    },
+    {
+      "personId": 4219,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 679,
+      "character": "Lola",
+      "order": 0
+    },
+    {
+      "personId": 677,
+      "character": "Manni",
+      "order": 1
+    },
+    {
+      "personId": 1081,
+      "character": "Father",
+      "order": 2
+    },
+    {
+      "personId": 1082,
+      "character": "Mrs. Hansen",
+      "order": 3
+    },
+    {
+      "personId": 1083,
+      "character": "Mr. Schuster",
+      "order": 4
+    },
+    {
+      "personId": 1084,
+      "character": "Norbert von Au",
+      "order": 5
+    },
+    {
+      "personId": 1088,
+      "character": "Mr. Meier",
+      "order": 6
+    },
+    {
+      "personId": 142653,
+      "character": "Ms. Jäger",
+      "order": 7
+    },
+    {
+      "personId": 3702,
+      "character": "Mike",
+      "order": 8
+    },
+    {
+      "personId": 3704,
+      "character": "Doris",
+      "order": 9
+    },
+    {
+      "personId": 1087,
+      "character": "Mr. Kruse",
+      "order": 10
+    },
+    {
+      "personId": 3705,
+      "character": "Cleaning Person",
+      "order": 11
+    },
+    {
+      "personId": 3706,
+      "character": "Croupier",
+      "order": 12
+    },
+    {
+      "personId": 3707,
+      "character": "Casino Manager",
+      "order": 13
+    },
+    {
+      "personId": 1032959,
+      "character": "Casino Cashier",
+      "order": 14
+    },
+    {
+      "personId": 3708,
+      "character": "Ambulance Driver",
+      "order": 15
+    },
+    {
+      "personId": 1086,
+      "character": "Ronnie",
+      "order": 16
+    },
+    {
+      "personId": 3703,
+      "character": "Mother",
+      "order": 17
+    },
+    {
+      "personId": 2068073,
+      "character": "Old Woman",
+      "order": 18
+    },
+    {
+      "personId": 16782,
+      "character": "Blind Woman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2717,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "tmdbId": 27327,
+  "slug": "phantom-of-the-paradise-1974",
+  "year": 1974,
+  "runtime": 92,
+  "originalTitle": "Phantom of the Paradise",
+  "title": {
+    "en": "Phantom of the Paradise",
+    "tr": "Cennetteki Hayalet"
+  },
+  "overview": {
+    "en": "Singer-songwriter Winslow Leach seeks revenge on the nefarious music producer Swan, who steals both Winslow's music and his favorite singer for the grand opening of Swan's new rock palace, the Paradise.",
+    "tr": "Bir müzik yapımcısı, bir bestecinin elinden yeni bestesini ve kız arkadaşını alınca besteci, müzik yapımcısının müzik şirketinde hayalet olur ve intikamını almaya çalışır."
+  },
+  "poster": {
+    "tr": "/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg",
+    "en": "/qDOtGWeSQNwB3dG7Amt1K0JW0az.jpg"
+  },
+  "backdrops": [
+    "/mO5rgg8mr4fUIMrZykwP2MjPVmZ.jpg",
+    "/3ZHGDXBx0lfQ8P9WjFOif68AVz0.jpg",
+    "/7A7hAWk85cUUdsJMdaiijCYfUGx.jpg",
+    "/aHIcEjTYc1gzMRUEdu5prrAsFMF.jpg",
+    "/4y84yDfA0VSKlkKBimIu2OBJHnX.jpg",
+    "/8KgVSZglXRO9Z71rUnhVAvYEmu5.jpg",
+    "/lqpEst2fE7fpsl4lHyjUveIabXA.jpg",
+    "/hIzp44vLEz0kkY399qKi0bWSe7R.jpg",
+    "/7J9cGlukXgx6BLFWMSj5ctCAgwr.jpg",
+    "/cufe13DJZnCGxOGLIlu5MjyzKSe.jpg"
+  ],
+  "trailerKey": "ULldW6fU7Vw",
+  "genreIds": [
+    18,
+    27,
+    10402
+  ],
+  "keywordIds": [
+    2546,
+    242,
+    578,
+    1252,
+    5332,
+    3358,
+    3284,
+    3998,
+    4344,
+    8201,
+    9748,
+    11044,
+    11700,
+    14743,
+    14783,
+    15069,
+    33973,
+    41019,
+    155482,
+    155493,
+    155710,
+    155798,
+    190608,
+    191428,
+    195162,
+    207889,
+    233843,
+    236650,
+    239910,
+    254743,
+    302130,
+    305648,
+    323799,
+    324263
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Harbor Productions",
+    "Pressman-Williams"
+  ],
+  "crew": [
+    {
+      "personId": 1150,
+      "job": "director"
+    },
+    {
+      "personId": 1150,
+      "job": "writer"
+    },
+    {
+      "personId": 32035,
+      "job": "producer"
+    },
+    {
+      "personId": 35040,
+      "job": "composer"
+    },
+    {
+      "personId": 1043953,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1038558,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 97561,
+      "character": "Winslow Leach / The Phantom",
+      "order": 0
+    },
+    {
+      "personId": 35040,
+      "character": "Swan",
+      "order": 1
+    },
+    {
+      "personId": 69055,
+      "character": "Phoenix",
+      "order": 2
+    },
+    {
+      "personId": 2563,
+      "character": "Philbin",
+      "order": 3
+    },
+    {
+      "personId": 26283,
+      "character": "Beef",
+      "order": 4
+    },
+    {
+      "personId": 93670,
+      "character": "The Juicy Fruits / The Beach Bums / The Undeads",
+      "order": 5
+    },
+    {
+      "personId": 2007340,
+      "character": "The Juicy Fruits / The Beach Bums / The Undeads",
+      "order": 6
+    },
+    {
+      "personId": 68382,
+      "character": "The Juicy Fruits / The Beach Bums / The Undeads",
+      "order": 7
+    },
+    {
+      "personId": 2007341,
+      "character": "Band",
+      "order": 8
+    },
+    {
+      "personId": 2007342,
+      "character": "Band",
+      "order": 9
+    },
+    {
+      "personId": 2007343,
+      "character": "Band",
+      "order": 10
+    },
+    {
+      "personId": 2007344,
+      "character": "Band",
+      "order": 11
+    },
+    {
+      "personId": 544815,
+      "character": "Swan's Entourage",
+      "order": 12
+    },
+    {
+      "personId": 179206,
+      "character": "Swan's Entourage",
+      "order": 13
+    },
+    {
+      "personId": 200523,
+      "character": "Swan's Entourage",
+      "order": 14
+    },
+    {
+      "personId": 2007346,
+      "character": "Assassin",
+      "order": 15
+    },
+    {
+      "personId": 99831,
+      "character": "Groupie",
+      "order": 16
+    },
+    {
+      "personId": 97594,
+      "character": "Groupie",
+      "order": 17
+    },
+    {
+      "personId": 99062,
+      "character": "Groupie",
+      "order": 18
+    },
+    {
+      "personId": 2007347,
+      "character": "Groupie",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 798,
+  "sources": [
+    "cult-list"
+  ]
+}

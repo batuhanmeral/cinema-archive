@@ -1,0 +1,203 @@
+{
+  "tmdbId": 15660,
+  "slug": "mommie-dearest-1981",
+  "year": 1981,
+  "runtime": 129,
+  "originalTitle": "Mommie Dearest",
+  "title": {
+    "en": "Mommie Dearest",
+    "tr": "Canım Annem"
+  },
+  "overview": {
+    "en": "Renowned film star Joan Crawford's abuse towards Christina, her adopted daughter, intensifies as her professional and romantic relationships turn sour.",
+    "tr": "Çocuk sahibi olamayan Joan Crawford, küçük bir kız evlat edinmeye karar verir. Ancak Joan ile evlatlığı Christina arasında travmatik olaylar yaşanacaktır."
+  },
+  "poster": {
+    "tr": "/3Amv5uQfadEonn7SmYLfNnoeOSu.jpg",
+    "en": "/kyArFTLl7xDbzBbRfE1gRbpcfhS.jpg"
+  },
+  "backdrops": [
+    "/eTZBHFECFVV3gmtEV90CMnq2qa9.jpg",
+    "/2vObOLMqve3TCcrhXZYCtNdg11b.jpg",
+    "/kyXGOxjcRSL9kWXzrgKeKzMOxms.jpg",
+    "/1BmNfZo2iuAiMKCRclwegu7nrTD.jpg",
+    "/2YWIuwGM0kOyve8w6MsdhYpCV2i.jpg",
+    "/78fpoM6uFO71rzF68AzB3DQ11cn.jpg",
+    "/1paHaITEvCuUl1SLHyZHPA6gLzP.jpg",
+    "/wFFoBYsNaWpik6h2255BfzoL8Xl.jpg",
+    "/x5riiSAcdbIC0sbOZU2wclmf16i.jpg",
+    "/snZpiJ1obVeCap3ckuAcS5o9T6L.jpg"
+  ],
+  "trailerKey": "iFOFM0BvTRc",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    516,
+    2393,
+    5565,
+    9740,
+    10909,
+    12396,
+    12545,
+    15061,
+    155493,
+    168196,
+    181109,
+    185927,
+    240315,
+    262826,
+    300433
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "The Irwin Yablans Company"
+  ],
+  "crew": [
+    {
+      "personId": 113799,
+      "job": "director"
+    },
+    {
+      "personId": 64059,
+      "job": "producer"
+    },
+    {
+      "personId": 69878,
+      "job": "writer"
+    },
+    {
+      "personId": 113799,
+      "job": "writer"
+    },
+    {
+      "personId": 989077,
+      "job": "writer"
+    },
+    {
+      "personId": 53810,
+      "job": "writer"
+    },
+    {
+      "personId": 30605,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1938,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6450,
+      "character": "Joan Crawford",
+      "order": 0
+    },
+    {
+      "personId": 2958,
+      "character": "Christina Crawford",
+      "order": 1
+    },
+    {
+      "personId": 44998,
+      "character": "Greg Savitt",
+      "order": 2
+    },
+    {
+      "personId": 79247,
+      "character": "L.B. Mayer",
+      "order": 3
+    },
+    {
+      "personId": 150212,
+      "character": "Christina Crawford as a Child",
+      "order": 4
+    },
+    {
+      "personId": 80135,
+      "character": "Carol Ann",
+      "order": 5
+    },
+    {
+      "personId": 171600,
+      "character": "Al Steele",
+      "order": 6
+    },
+    {
+      "personId": 75027,
+      "character": "Ted Gelber",
+      "order": 7
+    },
+    {
+      "personId": 96283,
+      "character": "Barbara Bennett",
+      "order": 8
+    },
+    {
+      "personId": 11793,
+      "character": "Mrs. Chadwick",
+      "order": 9
+    },
+    {
+      "personId": 274915,
+      "character": "Captain",
+      "order": 10
+    },
+    {
+      "personId": 129665,
+      "character": "Jimmy",
+      "order": 11
+    },
+    {
+      "personId": 152587,
+      "character": "Connie",
+      "order": 12
+    },
+    {
+      "personId": 1168422,
+      "character": "Wedding Guest",
+      "order": 13
+    },
+    {
+      "personId": 3982,
+      "character": "Christopher Crawford",
+      "order": 14
+    },
+    {
+      "personId": 2557429,
+      "character": "Actor in Soap",
+      "order": 15
+    },
+    {
+      "personId": 175066,
+      "character": "Mother Superior",
+      "order": 16
+    },
+    {
+      "personId": 103955,
+      "character": "Radio Interviewer",
+      "order": 17
+    },
+    {
+      "personId": 165370,
+      "character": "Mother Superior",
+      "order": 18
+    },
+    {
+      "personId": 1077695,
+      "character": "Pepsi Executive #1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 253,
+  "sources": [
+    "cult-list"
+  ]
+}

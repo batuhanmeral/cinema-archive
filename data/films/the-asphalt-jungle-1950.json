@@ -1,0 +1,190 @@
+{
+  "tmdbId": 16958,
+  "slug": "the-asphalt-jungle-1950",
+  "year": 1950,
+  "runtime": 113,
+  "originalTitle": "The Asphalt Jungle",
+  "title": {
+    "en": "The Asphalt Jungle",
+    "tr": "Elmas Hırsızları"
+  },
+  "overview": {
+    "en": "Recently paroled from prison, legendary burglar \"Doc\" Riedenschneider, with funding from Alonzo Emmerich, a crooked lawyer, gathers a small group of veteran criminals together in the Midwest for a big jewel heist.",
+    "tr": "Hapisten yeni salıverilmiş ünlü soyguncu, Alman asıllı suç üstadı Doc Erwin Riedenschneider (Sam Jaffe) Cincinnati'ye gelerek vakit kaybetmeden yeni bir soygunun hazırlıklarına başlar. 'İçerde'yken bir mücevher şirketini soymak için kusursuz bir plan yapmıştır, ama bunun için bir ekip toplaması ve para kaynağı bulması gerekir. Para kaynağı için düzenbaz avukat Alonzo D. Emmerich'e (Louis Calhern) başvurur. Ekibin diğer elemanları ise at çiftliği alma hayalleri kuran İrlanda asıllı meteliksiz kabadayı Dix (Sterling Hayden), soygunda şoförlük yapacak olan kafe sahibi kambur Gus (James Whitmore) ve kasa açma uzmanı Louis'dir (Anthony Caruso). Bir de bu kişiler arasında ara buluculuk yapan at yarışı oynatan kumarhane sahibi Cobby (Marc Lawrence) vardır...."
+  },
+  "poster": {
+    "tr": "/5OhFBYn3aDVkjC0EOnJKPjPk8oT.jpg",
+    "en": "/kIkPJnMVvFPt08siIJB5G8h8WDO.jpg"
+  },
+  "backdrops": [
+    "/gD0IJcnDK04ZQFiZMcoLxpybjRe.jpg",
+    "/rsBUAHX3dN47TVc3syjNC0QLF3d.jpg",
+    "/gnu0rtxbrmhgjob4TXvIH8DHxB9.jpg",
+    "/uGSkT2FZw8BWj5WJ9i1mGKJCoHJ.jpg",
+    "/vKRxovEoQYP6iq0iG7gFTs6PZOx.jpg",
+    "/w8Li80e1wrYqGZsGAiXSYTobyBp.jpg",
+    "/pDGkMdMHkl1qRAYmQjdLKVx3euQ.jpg",
+    "/grxCcZKOnla4a7svFhwzSso89eK.jpg",
+    "/gwvzUQxnjp1tSunvNlaEVfkRCR3.jpg",
+    "/49npHHi36sfdv8Tw78X6eNFVOvL.jpg"
+  ],
+  "trailerKey": "tiH8mOrCNSI",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    818,
+    10051,
+    9807,
+    10562,
+    12999
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "de",
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 138407,
+      "job": "producer"
+    },
+    {
+      "personId": 6593,
+      "job": "director"
+    },
+    {
+      "personId": 6593,
+      "job": "writer"
+    },
+    {
+      "personId": 7647,
+      "job": "composer"
+    },
+    {
+      "personId": 50961,
+      "job": "writer"
+    },
+    {
+      "personId": 9057,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6593,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3088,
+      "character": "Dix Handley",
+      "order": 0
+    },
+    {
+      "personId": 4343,
+      "character": "Alonzo D. Emmerich",
+      "order": 1
+    },
+    {
+      "personId": 13296,
+      "character": "Doll Conovan",
+      "order": 2
+    },
+    {
+      "personId": 6577,
+      "character": "Gus Minissi",
+      "order": 3
+    },
+    {
+      "personId": 10024,
+      "character": "Doc Erwin Riedenschneider",
+      "order": 4
+    },
+    {
+      "personId": 53010,
+      "character": "Police Commissioner Hardy",
+      "order": 5
+    },
+    {
+      "personId": 3140,
+      "character": "Cobby",
+      "order": 6
+    },
+    {
+      "personId": 89834,
+      "character": "Lieutenant Ditrich",
+      "order": 7
+    },
+    {
+      "personId": 16004,
+      "character": "Louis Ciavelli",
+      "order": 8
+    },
+    {
+      "personId": 96139,
+      "character": "Maria Ciavelli",
+      "order": 9
+    },
+    {
+      "personId": 3149,
+      "character": "Angela Phinlay",
+      "order": 10
+    },
+    {
+      "personId": 96140,
+      "character": "Timmons",
+      "order": 11
+    },
+    {
+      "personId": 96141,
+      "character": "May Emmerich",
+      "order": 12
+    },
+    {
+      "personId": 14529,
+      "character": "Bob Brannom",
+      "order": 13
+    },
+    {
+      "personId": 89658,
+      "character": "Dr. Swanson",
+      "order": 14
+    },
+    {
+      "personId": 93896,
+      "character": "Police Broadcaster (voice) (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 215709,
+      "character": "Detective in Hardy's Office (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 105572,
+      "character": "Father Sortine (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1208018,
+      "character": "Man at Line-Up (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 120555,
+      "character": "Taxi Driver (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 559,
+  "sources": [
+    "cult-list"
+  ]
+}

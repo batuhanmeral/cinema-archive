@@ -1,0 +1,185 @@
+{
+  "tmdbId": 42134,
+  "slug": "moonlighting-1982",
+  "year": 1982,
+  "runtime": 97,
+  "originalTitle": "Moonlighting",
+  "title": {
+    "en": "Moonlighting",
+    "tr": "Ay Işığı"
+  },
+  "overview": {
+    "en": "A Polish contractor, Nowak, leads a group of workmen to London so they can provide cheap labor for a government official based there. Nowak has to manage the project and the men as they encounter the tempations of the West and loneliness and separation from their families. Nowak is the only one of the group who speaks English, and he uses this as a tool over his team. When the unrest in Poland leads to a military takeover, Nowak is faced with a much more difficult situation than he expected.",
+    "tr": "Nowak adlı bir ustabaşı Polonyalı üç inşaat işçisini, çalıştırmak üzere Warşova'dan İngiltere'ye götürür. Aralarında ingilizce bilen tek kişidir. Warşova'da bir yılda kazandıkları parayı İngiltere'de bir ayda kazanacaklardır. Ancak yıl 1981'dir ve siyasi karışıklık içindeki Polonya'da askeri darbe olur. Patronların Polonya'da olması nedeniyle her şeyi anlamsız kılan bu haberi gizleyen Nowak, son sürat işe devam kararı alır. İşçilerin Nowak'ın yaptıklarından ve gelişmelerden ancak dönüş saatinde haberleri olacaktır..."
+  },
+  "poster": {
+    "tr": "/bCYuIZAVCLVrjmTrSX6NETgIvUT.jpg",
+    "en": "/kFasMNoZBKPvImXomvZfGGpX3jj.jpg"
+  },
+  "backdrops": [
+    "/7DrbZclOmUP2B9Ehmu5JNkrfjsT.jpg",
+    "/idRGgGTYTRu0UVrc8qMyBiJeet8.jpg",
+    "/c6uFxhwimfz3SAghk5GxHaWq8ZO.jpg",
+    "/baOZ0pjFiX3N0ghmoqhy94DxRRT.jpg",
+    "/lK3YosxPt5Zq5XJHSgUwIf3qZSF.jpg",
+    "/yhpm0ZeCWLczbrwKHF56F5OVNbf.jpg",
+    "/a7cEHFvYK1WCFPmFgmxEaKA1SMw.jpg"
+  ],
+  "trailerKey": "Kjf4f7ONltg",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    212,
+    21747,
+    188326,
+    242239
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "pl"
+  ],
+  "studios": [
+    "Michael White Productions"
+  ],
+  "crew": [
+    {
+      "personId": 43553,
+      "job": "director"
+    },
+    {
+      "personId": 43553,
+      "job": "producer"
+    },
+    {
+      "personId": 55982,
+      "job": "producer"
+    },
+    {
+      "personId": 154404,
+      "job": "producer"
+    },
+    {
+      "personId": 3960,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 43553,
+      "job": "writer"
+    },
+    {
+      "personId": 40150,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16940,
+      "character": "Nowak",
+      "order": 0
+    },
+    {
+      "personId": 28871,
+      "character": "Banaszak",
+      "order": 1
+    },
+    {
+      "personId": 932370,
+      "character": "Wolski",
+      "order": 2
+    },
+    {
+      "personId": 1348673,
+      "character": "Kudaj",
+      "order": 3
+    },
+    {
+      "personId": 153226,
+      "character": "Neighbor",
+      "order": 4
+    },
+    {
+      "personId": 10779,
+      "character": "Supermarket Manager",
+      "order": 5
+    },
+    {
+      "personId": 79934,
+      "character": "Hire Shop Man",
+      "order": 6
+    },
+    {
+      "personId": 21431,
+      "character": "Aquascutum Assistant",
+      "order": 7
+    },
+    {
+      "personId": 1419261,
+      "character": "Aquascutum Shoplifter",
+      "order": 8
+    },
+    {
+      "personId": 110072,
+      "character": "Timber Man",
+      "order": 9
+    },
+    {
+      "personId": 1838137,
+      "character": "Chinese Man",
+      "order": 10
+    },
+    {
+      "personId": 97958,
+      "character": "Builders' Merchant",
+      "order": 11
+    },
+    {
+      "personId": 36820,
+      "character": "Anna",
+      "order": 12
+    },
+    {
+      "personId": 121615,
+      "character": "Junk Shop Owner",
+      "order": 13
+    },
+    {
+      "personId": 143530,
+      "character": "Supermarket Supervisor",
+      "order": 14
+    },
+    {
+      "personId": 1633863,
+      "character": "Supermarket Cashier",
+      "order": 15
+    },
+    {
+      "personId": 1981162,
+      "character": "Lady Shoplifter",
+      "order": 16
+    },
+    {
+      "personId": 2004395,
+      "character": "Supermarket Assistant",
+      "order": 17
+    },
+    {
+      "personId": 1862723,
+      "character": "Wrangler Shop Assistant",
+      "order": 18
+    },
+    {
+      "personId": 2471824,
+      "character": "Wrangler Shop Assistant",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 76,
+  "sources": [
+    "cult-list"
+  ]
+}

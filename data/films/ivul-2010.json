@@ -1,0 +1,112 @@
+{
+  "tmdbId": 75364,
+  "slug": "ivul-2010",
+  "year": 2010,
+  "runtime": 100,
+  "originalTitle": "Ivul",
+  "title": {
+    "en": "Ivul",
+    "tr": "Ivul"
+  },
+  "overview": {
+    "en": "IVUL is the extraordinary story of Alex (Jacob Auzanneau), a young man who climbs on to the roof of his house and refuses to ever come back down to earth. His actions devastate his beloved family and we watch as their world falls apart.\r A dark and mysterious gardener (Tchili from This Filthy Earth) keeps watch over the family but is powerless to exorcise the curse that he feels has befallen them. Meanwhile the twin sisters (Manon and Capucine) provide light but sometimes macabre relief.  The world of IVUL is a world of both fairytale and nightmare with the family manor house and forest landscape providing a compelling backdrop to the story.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dTFaZBisDNSAq9kdyS9UGh3KmPx.jpg",
+    "en": "/dTFaZBisDNSAq9kdyS9UGh3KmPx.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": "ndaTawHAyw8",
+  "genreIds": [
+    18,
+    14
+  ],
+  "keywordIds": [
+    160175
+  ],
+  "countries": [
+    "CH",
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Sciapode",
+    "Box Productions",
+    "Le Fresnoy"
+  ],
+  "crew": [
+    {
+      "personId": 79872,
+      "job": "director"
+    },
+    {
+      "personId": 1314519,
+      "job": "writer"
+    },
+    {
+      "personId": 1314520,
+      "job": "writer"
+    },
+    {
+      "personId": 1075934,
+      "job": "producer"
+    },
+    {
+      "personId": 1123119,
+      "job": "composer"
+    },
+    {
+      "personId": 79872,
+      "job": "writer"
+    },
+    {
+      "personId": 219332,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1314516,
+      "character": "Alex",
+      "order": 0
+    },
+    {
+      "personId": 115189,
+      "character": "Freya",
+      "order": 1
+    },
+    {
+      "personId": 38898,
+      "character": "Ivul",
+      "order": 2
+    },
+    {
+      "personId": 4287,
+      "character": "Freya",
+      "order": 3
+    },
+    {
+      "personId": 146280,
+      "character": "Lek",
+      "order": 4
+    },
+    {
+      "personId": 1314517,
+      "character": "Capucine",
+      "order": 5
+    },
+    {
+      "personId": 1314518,
+      "character": "Manon",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "tmdbId": 4191,
+  "slug": "the-bride-wore-black-1968",
+  "year": 1968,
+  "runtime": 107,
+  "originalTitle": "La mariée était en noir",
+  "title": {
+    "en": "The Bride Wore Black",
+    "tr": "La mariée était en noir"
+  },
+  "overview": {
+    "en": "Julie Kohler is prevented from suicide by her mother. She leaves home with the intent to track down, charm and kill five men who do not know her. What is her goal? What is her purpose?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/iP7kuo3tMyR2hJfqBsssiPnEoik.jpg",
+    "en": "/iP7kuo3tMyR2hJfqBsssiPnEoik.jpg"
+  },
+  "backdrops": [
+    "/iEpJt9cx3tBSxjHnRh0OyGn7VsC.jpg",
+    "/zVkewY6kYYiNB6gG5aMyJjoF6yJ.jpg",
+    "/2z7Bh8oKRRHbs8zeMlYTOzp2CHK.jpg",
+    "/6psYipYSM5SLZ0QGzOEWkgLTQrk.jpg",
+    "/narGXa0uyjOqe5yfHk1Ga4l7zB1.jpg",
+    "/a83uGsnOWFPmBQCeYE4UV6hdk99.jpg",
+    "/iDjRE7GAq2fkydIIsjDX03CqHZJ.jpg",
+    "/bIJCidyRBVZSkd3GL6FBwNmvJUl.jpg",
+    "/eLxQ5RPiME3e7AdrScXY4dWmOgf.jpg",
+    "/tjdma4nV2qOfgZXiHvHZLL5mUf4.jpg"
+  ],
+  "trailerKey": "9elbbTIYeJE",
+  "genreIds": [
+    80,
+    18,
+    9648
+  ],
+  "keywordIds": [
+    1522,
+    9016,
+    155845
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "DDL Cinematografica",
+    "Les Films du Carrosse",
+    "Les Productions Artistes Associés"
+  ],
+  "crew": [
+    {
+      "personId": 1650,
+      "job": "director"
+    },
+    {
+      "personId": 3524,
+      "job": "producer"
+    },
+    {
+      "personId": 35954,
+      "job": "producer"
+    },
+    {
+      "personId": 1045,
+      "job": "composer"
+    },
+    {
+      "personId": 3540,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14812,
+      "character": "Julie Kohler",
+      "order": 0
+    },
+    {
+      "personId": 11989,
+      "character": "Coral",
+      "order": 1
+    },
+    {
+      "personId": 24299,
+      "character": "Corey",
+      "order": 2
+    },
+    {
+      "personId": 17028,
+      "character": "Fergus",
+      "order": 3
+    },
+    {
+      "personId": 24903,
+      "character": "Bliss",
+      "order": 4
+    },
+    {
+      "personId": 2369,
+      "character": "Morane",
+      "order": 5
+    },
+    {
+      "personId": 3573,
+      "character": "Delvaux",
+      "order": 6
+    },
+    {
+      "personId": 18765,
+      "character": "Mlle Becker",
+      "order": 7
+    },
+    {
+      "personId": 35248,
+      "character": "Mme Morane",
+      "order": 8
+    },
+    {
+      "personId": 35247,
+      "character": "Mère de Julie",
+      "order": 9
+    },
+    {
+      "personId": 1385605,
+      "character": "Modèle de Fergus",
+      "order": 10
+    },
+    {
+      "personId": 3517,
+      "character": "Mécanicien",
+      "order": 11
+    },
+    {
+      "personId": 3516,
+      "character": "David",
+      "order": 12
+    },
+    {
+      "personId": 3833,
+      "character": "Inspecteur",
+      "order": 13
+    },
+    {
+      "personId": 35246,
+      "character": "Cookie",
+      "order": 14
+    },
+    {
+      "personId": 35249,
+      "character": "Charlie",
+      "order": 15
+    },
+    {
+      "personId": 1083979,
+      "character": "Juge examinateur",
+      "order": 16
+    },
+    {
+      "personId": 39673,
+      "character": "L'ami de Fergus",
+      "order": 17
+    },
+    {
+      "personId": 1681484,
+      "character": "La logeuse de Coral",
+      "order": 18
+    },
+    {
+      "personId": 2515182,
+      "character": "Musicien (non crédité)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 304,
+  "sources": [
+    "cult-list"
+  ]
+}

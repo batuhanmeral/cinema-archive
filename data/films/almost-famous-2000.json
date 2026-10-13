@@ -1,0 +1,216 @@
+{
+  "tmdbId": 786,
+  "slug": "almost-famous-2000",
+  "year": 2000,
+  "runtime": 124,
+  "originalTitle": "Almost Famous",
+  "title": {
+    "en": "Almost Famous",
+    "tr": "Şöhrete İlk Adım"
+  },
+  "overview": {
+    "en": "In 1973, a precocious 15-year-old aspiring rock journalist lands a dream assignment from Rolling Stone to tour with a rising rock band, embarking on a coming-of-age journey as he discovers the exhilarating and heartbreaking realities behind rock stardom.",
+    "tr": "Ergenlik çağında bir genç olan William'ın hayattaki tek tutkusu müziktir. Bu nedenle okulunu da pek umursamayan William, bu durumdan ötürü ailesiyle sürekli çatışmaktadır. Sevdiği müzik grupları üzerine amatör yazılar yazan William, zamanla tanınmaya ve küçük yaşına rağmen önemli mevkilere adım atmaya başlar. Hayallerinde bile göremeyeceği şey artık kapıdadır. Büyük hayranı olduğu Stillwater isimli müzik grubunun yeni turnesine katılması ve turne üzerine Rolling Stones dergisine yazı yazması için seçilmiştir! William, grupla birlikte çıktığı yolculukta bu çok sevdiği insanlara ve müzik piyasasına dair önemli gerçeklere tanık olacaktır."
+  },
+  "poster": {
+    "tr": "/3WGtIQ3uSZSxqDCQk4f6OCpKps0.jpg",
+    "en": "/3rrkyLYbgLj84AYvjhdcJot4JPx.jpg"
+  },
+  "backdrops": [
+    "/xleIwr1wUlWqvFHaU1PItf0YLrZ.jpg",
+    "/8hoAsFysCGVplI1Lyu78OORUVPk.jpg",
+    "/AqLtFRKVX2G0ghMnMnQoSGan4pY.jpg",
+    "/oyvQOgf8sIMkq8lTmi5ZcPabCuY.jpg",
+    "/9vB4Lh7Y6aAjpNEX1QLtJKwCOLB.jpg",
+    "/zJoIUlrukW6uTcfyhpgX30PcOEa.jpg",
+    "/dq3yZZlLhpCudiI3AMq6s8HlOuv.jpg",
+    "/qeQVhNuwWrTIK8DKPHsxaoBl5VW.jpg",
+    "/lPoAuKfnY2a142PYv83SCcwXXZc.jpg",
+    "/rTxn7seKc0DGj08et8FIfjG0KLm.jpg"
+  ],
+  "trailerKey": "4U07rtBNa2g",
+  "genreIds": [
+    18,
+    10402
+  ],
+  "keywordIds": [
+    6029,
+    578,
+    1803,
+    4044,
+    4045,
+    9672,
+    10683,
+    10505,
+    15291,
+    18001,
+    157722,
+    163976,
+    165402,
+    170333,
+    178650,
+    180413,
+    204236,
+    256330,
+    266753,
+    296608,
+    325765,
+    325781,
+    325819,
+    325842
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "DreamWorks Pictures",
+    "Columbia Pictures",
+    "Vinyl Films"
+  ],
+  "crew": [
+    {
+      "personId": 11649,
+      "job": "director"
+    },
+    {
+      "personId": 9987,
+      "job": "producer"
+    },
+    {
+      "personId": 11652,
+      "job": "producer"
+    },
+    {
+      "personId": 11654,
+      "job": "producer"
+    },
+    {
+      "personId": 11656,
+      "job": "composer"
+    },
+    {
+      "personId": 2483,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11649,
+      "job": "producer"
+    },
+    {
+      "personId": 11649,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8289,
+      "character": "Russell Hammond",
+      "order": 0
+    },
+    {
+      "personId": 3910,
+      "character": "Elaine Miller",
+      "order": 1
+    },
+    {
+      "personId": 11661,
+      "character": "Penny Lane",
+      "order": 2
+    },
+    {
+      "personId": 11662,
+      "character": "Jeff Bebe",
+      "order": 3
+    },
+    {
+      "personId": 11663,
+      "character": "William Miller",
+      "order": 4
+    },
+    {
+      "personId": 11664,
+      "character": "Anita Miller",
+      "order": 5
+    },
+    {
+      "personId": 11665,
+      "character": "Young William",
+      "order": 6
+    },
+    {
+      "personId": 10690,
+      "character": "Polexia Aphrodisia",
+      "order": 7
+    },
+    {
+      "personId": 826,
+      "character": "Sapphire",
+      "order": 8
+    },
+    {
+      "personId": 1284,
+      "character": "Dick Roswell",
+      "order": 9
+    },
+    {
+      "personId": 11666,
+      "character": "Ed Vallencourt",
+      "order": 10
+    },
+    {
+      "personId": 11667,
+      "character": "Larry Fellows",
+      "order": 11
+    },
+    {
+      "personId": 1233,
+      "character": "Lester Bangs",
+      "order": 12
+    },
+    {
+      "personId": 11668,
+      "character": "Leslie",
+      "order": 13
+    },
+    {
+      "personId": 11669,
+      "character": "Dennis Hope",
+      "order": 14
+    },
+    {
+      "personId": 11670,
+      "character": "Beth from Denver",
+      "order": 15
+    },
+    {
+      "personId": 11671,
+      "character": "Estrella Starr",
+      "order": 16
+    },
+    {
+      "personId": 11672,
+      "character": "Mrs. Deegan",
+      "order": 17
+    },
+    {
+      "personId": 11673,
+      "character": "Roadie Scully",
+      "order": 18
+    },
+    {
+      "personId": 11674,
+      "character": "Roadie Gregg",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 3278,
+  "sources": [
+    "cult-list"
+  ]
+}

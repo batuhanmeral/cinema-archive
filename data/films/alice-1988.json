@@ -1,0 +1,86 @@
+{
+  "tmdbId": 18917,
+  "slug": "alice-1988",
+  "year": 1988,
+  "runtime": 86,
+  "originalTitle": "Něco z Alenky",
+  "title": {
+    "en": "Alice",
+    "tr": "Alice"
+  },
+  "overview": {
+    "en": "A quiet young English girl named Alice finds herself in an alternate version of her own reality after chasing a white rabbit. She becomes surrounded by living inanimate objects and stuffed dead animals, and must find a way out of this nightmare - no matter how twisted or odd that way must be.",
+    "tr": "Çek yönetmen Jan Svankmajer'den sürreal bir Alice Harikalar Diyarı'nda uyarlaması. Lewis Caroll'ın aynı isimli romanın serbest bir uyarlaması olan filmde, orijinal hikayeye sadık bir şekilde Alice beyaz tavşanın peşine takılarak başka bir dünyaya geçiş yapıyor.  Alıştığımız Alice hikayesindekinden farklı olan bu dünyada, korkutucu karakter ve yaratıklarla karşılaşıyoruz. Yönetmen Jan Svankmajer, sürreal öğeler kullanarak anlattığı Alice'in fantastik hikayesini bir korku masalına dönüştürüyor.  Yönetmenin, animasyon, gerçek çekimler ve kukla kullanarak farklı teknikleri bir araya getirerek çektiği film görmediğimiz bir Alice hikayesi sunuyor; ve kültler arasındaki yerini alıyor."
+  },
+  "poster": {
+    "tr": "/3EcTuXjJT6PnAcJDJYI4WbiupCV.jpg",
+    "en": "/3EcTuXjJT6PnAcJDJYI4WbiupCV.jpg"
+  },
+  "backdrops": [
+    "/jExkMK7bByCh4AjpEa4eOixtnUt.jpg",
+    "/ztUsikFoLgUx4Uce6EqF3l5LEUZ.jpg",
+    "/qPL3e36x9kIVv4AcR0xxBvPKtAM.jpg",
+    "/13JO2PKzSwFXBAK55EmNcqel5Ll.jpg",
+    "/tJElINZ6neDq3HmPgFyPh6Tx1z9.jpg",
+    "/x4mJp9IOKlWw9AmzpYPdsLCDyMr.jpg",
+    "/2YDkdbFwSPZbNXxM91YmKqmi1w2.jpg",
+    "/2aVxWXemKfH26DAnJijq5cNBUV7.jpg",
+    "/n9vS5PfKrC16YMC8t7HpUXMAbkV.jpg"
+  ],
+  "trailerKey": "Nxugr1jEYj8",
+  "genreIds": [
+    16,
+    14,
+    12
+  ],
+  "keywordIds": [
+    3208,
+    3307,
+    10121,
+    15101,
+    234552
+  ],
+  "countries": [
+    "CH",
+    "GB",
+    "DE"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "Condor Films",
+    "HR",
+    "Film Four International"
+  ],
+  "crew": [
+    {
+      "personId": 83784,
+      "job": "director"
+    },
+    {
+      "personId": 557704,
+      "job": "producer"
+    },
+    {
+      "personId": 551675,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 83784,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 83876,
+      "character": "Alice",
+      "order": 0
+    }
+  ],
+  "awards": {},
+  "voteCount": 372,
+  "sources": [
+    "cult-list"
+  ]
+}

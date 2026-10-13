@@ -1,0 +1,217 @@
+{
+  "tmdbId": 285923,
+  "slug": "grindhouse-2007",
+  "year": 2007,
+  "runtime": 191,
+  "originalTitle": "Grindhouse",
+  "title": {
+    "en": "Grindhouse",
+    "tr": "Grindhouse"
+  },
+  "overview": {
+    "en": "Grindhouse combines Robert Rodriguez's Planet Terror, a horror comedy about a group of survivors who battle zombie-like creatures, and Quentin Tarantino's Death Proof, an action thriller about a murderous stuntman who kills young women with modified vehicles. It is presented as a double feature with fictitious exploitation trailers preceding each segment.",
+    "tr": "Senaryosunu Robert Rodriguez ve Quentin Tarantino'nun birlikte yazıp yönettikleri ve yapımcılığını üstlendikleri bu film aslında birbiri ile bağlantısı olmayan iki uzun metrajlı filmin bir arada sunulmasından oluşmuştur. Bunlar Quentin Tarantino'nun yönettiği Ölüm Geçirmez (Death Proof) ile Robert Rodriguez'in yönettiği Dehşet Gezegeni (Planet Terror) filmleridir. Tarantino ve Rodriguez ayrıca filmlerin görüntü yönetmenliğini üstlenmiş ve kurgularını da yapmışlardır. İki film arka arkaya sunulurken araya 4 adet de \"sahte film fragmanı\"konmuştur. 6 Nisan 2007'de bu şekli ile ABD ve Kanada'da gösterime verildiğinde filmler beklenen gişeyi yapmayınca diğer ülkelerde ayrı ayrı iki film halinde gösterilmelerine karar verilmiştir."
+  },
+  "poster": {
+    "tr": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg",
+    "en": "/tvMBwJlmQTIQf5EBjHzzyE9tjcN.jpg"
+  },
+  "backdrops": [
+    "/zhNJ1SQwIh2EpTst9ofaAHRV2UL.jpg",
+    "/gRd7O8TRijlJK81ONZSEZfV4Ubn.jpg",
+    "/7Yaz6dJiwxXh5iyeqgsnNqryv1B.jpg",
+    "/qqDdSuiAQMVfcBbHqEI8a22MID5.jpg",
+    "/AoHMfQykhd05JOlDjaSrRYNqIdq.jpg",
+    "/BAhSyyoJCVemZ6HxXjwdMx60L.jpg",
+    "/pZfLM9cuph211jHsuxmaeAGxmN5.jpg",
+    "/b2U7O4xtusfXKhzjUZJ0qF5Txu2.jpg"
+  ],
+  "trailerKey": "j1cjXKdox0M",
+  "genreIds": [
+    53,
+    28,
+    27
+  ],
+  "keywordIds": [
+    2804,
+    12339,
+    12377,
+    15127,
+    34079
+  ],
+  "countries": [
+    "US",
+    "CA",
+    "GB"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ],
+  "studios": [
+    "Yer Dead",
+    "Dimension Films",
+    "Big Talk Studios"
+  ],
+  "crew": [
+    {
+      "personId": 138,
+      "job": "director"
+    },
+    {
+      "personId": 2294,
+      "job": "director"
+    },
+    {
+      "personId": 138,
+      "job": "writer"
+    },
+    {
+      "personId": 2294,
+      "job": "writer"
+    },
+    {
+      "personId": 2294,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 138,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2294,
+      "job": "producer"
+    },
+    {
+      "personId": 138,
+      "job": "producer"
+    },
+    {
+      "personId": 5911,
+      "job": "producer"
+    },
+    {
+      "personId": 16849,
+      "job": "producer"
+    },
+    {
+      "personId": 5912,
+      "job": "composer"
+    },
+    {
+      "personId": 999284,
+      "job": "composer"
+    },
+    {
+      "personId": 2294,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6856,
+      "character": "Stuntman Mike (segment \"Death Proof\")",
+      "order": 0
+    },
+    {
+      "personId": 16850,
+      "character": "Pam (segment \"Death Proof\") / Cherry (segment \"Planet Terror\")",
+      "order": 1
+    },
+    {
+      "personId": 20494,
+      "character": "Herself (segment \"Death Proof\")",
+      "order": 2
+    },
+    {
+      "personId": 6862,
+      "character": "Wray (segment \"Planet Terror\")",
+      "order": 3
+    },
+    {
+      "personId": 5916,
+      "character": "Abernathy (segment \"Death Proof\")",
+      "order": 4
+    },
+    {
+      "personId": 6407,
+      "character": "Dr. Dakota Block (McGraw) (segment \"Death Proof\") / Dakota (segment \"Planet Terror\")",
+      "order": 5
+    },
+    {
+      "personId": 20491,
+      "character": "Butterfly (segment \"Death Proof\")",
+      "order": 6
+    },
+    {
+      "personId": 16851,
+      "character": "Block (segment \"Planet Terror\")",
+      "order": 7
+    },
+    {
+      "personId": 20493,
+      "character": "Jungle Julia (segment \"Death Proof\")",
+      "order": 8
+    },
+    {
+      "personId": 20495,
+      "character": "JT (segment \"Planet Terror\")",
+      "order": 9
+    },
+    {
+      "personId": 17628,
+      "character": "Lee Montgomery (segment \"Death Proof\")",
+      "order": 10
+    },
+    {
+      "personId": 2712,
+      "character": "Sheriff Hague (segment \"Planet Terror\")",
+      "order": 11
+    },
+    {
+      "personId": 10580,
+      "character": "Kim (segment \"Death Proof\")",
+      "order": 12
+    },
+    {
+      "personId": 20492,
+      "character": "Shanna (segment \"Death Proof\") / Judy (segment \"Thanksgiving\")",
+      "order": 13
+    },
+    {
+      "personId": 62,
+      "character": "Muldoon (segment \"Planet Terror\")",
+      "order": 14
+    },
+    {
+      "personId": 138,
+      "character": "Warren (segment \"Death Proof\") / Rapist #1 (segment \"Planet Terror\")",
+      "order": 15
+    },
+    {
+      "personId": 1237611,
+      "character": "Marcy (segment \"Death Proof\")",
+      "order": 16
+    },
+    {
+      "personId": 16847,
+      "character": "Dov (segment \"Death Proof\") / Tucker (segment \"Thanksgiving\")",
+      "order": 17
+    },
+    {
+      "personId": 23286,
+      "character": "Nate (segment \"Death Proof\")",
+      "order": 18
+    },
+    {
+      "personId": 58744,
+      "character": "Omar (segment \"Death Proof\")",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1973,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "tmdbId": 5638,
+  "slug": "alice-s-restaurant-1969",
+  "year": 1969,
+  "runtime": 111,
+  "originalTitle": "Alice's Restaurant",
+  "title": {
+    "en": "Alice's Restaurant",
+    "tr": "Alice's Restaurant"
+  },
+  "overview": {
+    "en": "After getting kicked out of college, Arlo decides to visit his friend Alice for Thanksgiving dinner. After dinner is over, Arlo volunteers to take the trash to the dump but finds it closed for the holiday, so he dumps the trash in the bottom of a ravine. This act of littering gets him arrested and sends him on a bizarre journey.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/m3xifcmDpyuYfrm1tHuACBaLjlZ.jpg",
+    "en": "/a4X2zGrcohmBmwtIoijbD5ywF5N.jpg"
+  },
+  "backdrops": [
+    "/lgfufoqVHb1de5hVLvK67bi0dEz.jpg",
+    "/7TuP1K77CLnqWlmomz39GQREcfR.jpg",
+    "/1sKQG4K8pfUbzcoNPP0dMNrmlBR.jpg",
+    "/gSxBpt9YVANM9NdLoVeAfZCIot6.jpg",
+    "/6isInAgEmgtrhfrW9a2eyp1Skld.jpg",
+    "/biaZBpNiQi9srzPG9iQstPaWBWN.jpg",
+    "/wlNDroNWwJCoBZ1zbcaQN6f8SmV.jpg",
+    "/itsMzkzEEinEuSfAwMg6QsJPnAG.jpg"
+  ],
+  "trailerKey": "jNBurHDrZwM",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    458,
+    460,
+    2375,
+    2412,
+    1946,
+    5947,
+    13027,
+    14765,
+    14964,
+    163726
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Elkins Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 81541,
+      "job": "producer"
+    },
+    {
+      "personId": 81518,
+      "job": "producer"
+    },
+    {
+      "personId": 44546,
+      "job": "producer"
+    },
+    {
+      "personId": 44544,
+      "job": "writer"
+    },
+    {
+      "personId": 6448,
+      "job": "writer"
+    },
+    {
+      "personId": 81543,
+      "job": "producer"
+    },
+    {
+      "personId": 6448,
+      "job": "director"
+    },
+    {
+      "personId": 44545,
+      "job": "producer"
+    },
+    {
+      "personId": 81542,
+      "job": "producer"
+    },
+    {
+      "personId": 81535,
+      "job": "composer"
+    },
+    {
+      "personId": 44547,
+      "job": "composer"
+    },
+    {
+      "personId": 44548,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 44547,
+      "character": "Arlo Guthrie",
+      "order": 0
+    },
+    {
+      "personId": 1204882,
+      "character": "Alice Brock",
+      "order": 1
+    },
+    {
+      "personId": 14542,
+      "character": "Ray Brock",
+      "order": 2
+    },
+    {
+      "personId": 44550,
+      "character": "Mari-chan",
+      "order": 3
+    },
+    {
+      "personId": 44551,
+      "character": "Roger Crowther",
+      "order": 4
+    },
+    {
+      "personId": 44552,
+      "character": "Shelly",
+      "order": 5
+    },
+    {
+      "personId": 44549,
+      "character": "Himself",
+      "order": 6
+    },
+    {
+      "personId": 44553,
+      "character": "Himself",
+      "order": 7
+    },
+    {
+      "personId": 81547,
+      "character": "Karin",
+      "order": 8
+    },
+    {
+      "personId": 81548,
+      "character": "Himself - Officer Obie",
+      "order": 9
+    },
+    {
+      "personId": 81549,
+      "character": "Evangelist",
+      "order": 10
+    },
+    {
+      "personId": 81550,
+      "character": "Blueglass",
+      "order": 11
+    },
+    {
+      "personId": 81551,
+      "character": "Woody Guthrie",
+      "order": 12
+    },
+    {
+      "personId": 81552,
+      "character": "Draft Clerk",
+      "order": 13
+    },
+    {
+      "personId": 81553,
+      "character": "Marjorie Guthrie",
+      "order": 14
+    },
+    {
+      "personId": 81554,
+      "character": "Private Jacob / Jake",
+      "order": 15
+    },
+    {
+      "personId": 81555,
+      "character": "Ruth",
+      "order": 16
+    },
+    {
+      "personId": 81556,
+      "character": "Dean",
+      "order": 17
+    },
+    {
+      "personId": 81557,
+      "character": "1st Deconsecration Minister",
+      "order": 18
+    },
+    {
+      "personId": 81558,
+      "character": "2nd Deconsecration Minister",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 88,
+  "sources": [
+    "cult-list"
+  ]
+}

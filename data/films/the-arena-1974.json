@@ -1,0 +1,187 @@
+{
+  "tmdbId": 29039,
+  "slug": "the-arena-1974",
+  "year": 1974,
+  "runtime": 81,
+  "originalTitle": "The Arena",
+  "title": {
+    "en": "The Arena",
+    "tr": "Seks Arenası"
+  },
+  "overview": {
+    "en": "Female gladiators fight to the death. Inspired by the story of Spartacus, follow the adventures of a bevy of slave girls who, upon finding themselves thrust into the gladiator ring, mount a vicious rebellion to fight their way to freedom.",
+    "tr": "Dört kadın, Roma askerleri tarafından kaçırılır ve bir daha kendi halklarını göremezler. Gladyatörler için cariye ve \"Arena\"yı sıkça ziyaret eden zengin patronlar için hizmetçi olmaya zorlanırlar. Ancak kalabalık, artık erkeklerin erkeklerle veya aslanlarla dövüşmesinden sıkılmıştır ve Arena yöneticisi, hayranları memnun etmek için daha heyecan verici bir şey bulmalıdır. Bu egzotik kadınların birbirleriyle ölümüne dövüşmesinden daha heyecanlı ne olabilir? Nubialı Mamawi (Pam Grier), Bretonyalı rahibe Bodicia (Margaret Markov) ve diğerleri, birbirlerini öldürmeyi reddeder ve silahlanıp kalabalığa saldırarak kaçarlar. Kült kahraman Grier'in kabile dansları ve bolca genç kadın vücudu içeren \"The Arena\", Roma eğlencelerini tüm ihtişamıyla sergiliyor."
+  },
+  "poster": {
+    "tr": "/rqQlMxVJWPwYM74IhEqDane2FSX.jpg",
+    "en": "/mwnFwF4V3HM37KbIM9uPlSNrIb2.jpg"
+  },
+  "backdrops": [
+    "/jTbbgsAt0Vr8HHOQ2uE7VhFyBpZ.jpg",
+    "/cpP5ibZ7eWLw84MMvcmBQiddEKL.jpg",
+    "/k5RTb7EbuPwWgcU3g9lCarRq1xU.jpg",
+    "/j6lqGdZoXSBdAq39B73HR2j7jC0.jpg",
+    "/lvPCNgdNsKjN9yOyfTPT8VIi2Ti.jpg",
+    "/4cFr3rEmBfwheofYkmMuu4yc5cW.jpg",
+    "/gqYLguspDLpMIPxRCkDAgrmruq1.jpg",
+    "/qMDNlLaI0AQFexyxJwltm1wJf5Q.jpg"
+  ],
+  "trailerKey": "9rUEaCfSHLg",
+  "genreIds": [
+    28,
+    12
+  ],
+  "keywordIds": [
+    1394,
+    1527,
+    5049,
+    9725,
+    11715,
+    258321
+  ],
+  "countries": [
+    "IT",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Rover Film",
+    "New World Pictures",
+    "San Jacinto Productions"
+  ],
+  "crew": [
+    {
+      "personId": 6890,
+      "job": "producer"
+    },
+    {
+      "personId": 102627,
+      "job": "director"
+    },
+    {
+      "personId": 37789,
+      "job": "composer"
+    },
+    {
+      "personId": 31775,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 68684,
+      "job": "writer"
+    },
+    {
+      "personId": 68683,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2230,
+      "character": "Mamawi",
+      "order": 0
+    },
+    {
+      "personId": 102019,
+      "character": "Bodicia",
+      "order": 1
+    },
+    {
+      "personId": 107234,
+      "character": "Deidre",
+      "order": 2
+    },
+    {
+      "personId": 101549,
+      "character": "Lucilius",
+      "order": 3
+    },
+    {
+      "personId": 39020,
+      "character": "Timarchus",
+      "order": 4
+    },
+    {
+      "personId": 101127,
+      "character": "Lucinia",
+      "order": 5
+    },
+    {
+      "personId": 30664,
+      "character": "Cornelia",
+      "order": 6
+    },
+    {
+      "personId": 128676,
+      "character": "Livia",
+      "order": 7
+    },
+    {
+      "personId": 139130,
+      "character": "Marcus",
+      "order": 8
+    },
+    {
+      "personId": 33861,
+      "character": "Priscium",
+      "order": 9
+    },
+    {
+      "personId": 22477,
+      "character": "Rufinius",
+      "order": 10
+    },
+    {
+      "personId": 5818,
+      "character": "Lucan",
+      "order": 11
+    },
+    {
+      "personId": 99195,
+      "character": "Aemilius",
+      "order": 12
+    },
+    {
+      "personId": 240913,
+      "character": "Septimus",
+      "order": 13
+    },
+    {
+      "personId": 6785,
+      "character": "Quintus",
+      "order": 14
+    },
+    {
+      "personId": 2161127,
+      "character": "Wulfstan",
+      "order": 15
+    },
+    {
+      "personId": 1037701,
+      "character": "Gladiator",
+      "order": 16
+    },
+    {
+      "personId": 30901,
+      "character": "Winekeeper",
+      "order": 17
+    },
+    {
+      "personId": 2161128,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 5975039,
+      "character": "Gladiator Girl",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 53,
+  "sources": [
+    "cult-list"
+  ]
+}

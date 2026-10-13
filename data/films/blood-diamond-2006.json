@@ -1,0 +1,240 @@
+{
+  "tmdbId": 1372,
+  "slug": "blood-diamond-2006",
+  "year": 2006,
+  "runtime": 143,
+  "originalTitle": "Blood Diamond",
+  "title": {
+    "en": "Blood Diamond",
+    "tr": "Kanlı Elmas"
+  },
+  "overview": {
+    "en": "An ex-mercenary turned smuggler. A Mende fisherman. Amid the explosive civil war overtaking 1999 Sierra Leone, these men join for two desperate missions: recovering a rare pink diamond of immense value and rescuing the fisherman's son, conscripted as a child soldier into the brutal rebel forces ripping a swath of torture and bloodshed countrywide.",
+    "tr": "1990’larda Sierra Leone’de gelişmekte olan kaos ve iç savaşın fon oluşturduğu Kanlı Elmas, Güney Afrikalı paralı asker Danny Archer ile Mendeli balıkçı Solomon Vandy’nin hikayesi. Her iki adam da Afrikalıdır fakat geçmişleri ve şartları olabildiğince farklıdır. Ne var ki hayatlarını değiştirebilecek pembe bir elması bulmak için çıktıkları serüvende yazgıları kesişir."
+  },
+  "poster": {
+    "tr": "/soDo366iXt77z6DJxXcJlwCr9IY.jpg",
+    "en": "/m6rZ3dmqjcTvVNKtqwQ6hxYQ9nk.jpg"
+  },
+  "backdrops": [
+    "/qrAwMckxNbnEdINi0aYU0608XMy.jpg",
+    "/hzhaUhU8718DjimHvQx2b65yLBk.jpg",
+    "/466zklOlxKDXID4ejaIXu3PN5nV.jpg",
+    "/obKCYv66xyqEi0aswy0A9IWHa5f.jpg",
+    "/kqFahvyWB27A376eVOlhJRBPB1M.jpg",
+    "/9sPga0Jl8plGqZqrBScFzet0Tj7.jpg",
+    "/vffPZUYScdWtGU0UrccFIRX4LbV.jpg",
+    "/pVjWa0eQ80tzbleopgQvowSVH54.jpg",
+    "/i6EHhonMzqwz0XDbbl8zODn8Y0v.jpg",
+    "/dZ8BVgAMxUpM9t5flLeQbtTX7Zq.jpg"
+  ],
+  "trailerKey": "stEtrTrDlrw",
+  "genreIds": [
+    18,
+    53,
+    28
+  ],
+  "keywordIds": [
+    5419,
+    736,
+    6212,
+    697,
+    409,
+    8053,
+    526,
+    917,
+    2831,
+    5420,
+    3070,
+    3379,
+    5417,
+    5422,
+    158455,
+    162810,
+    207372,
+    209817,
+    210608,
+    250163,
+    281585,
+    322255,
+    336061
+  ],
+  "countries": [
+    "DE",
+    "US"
+  ],
+  "languages": [
+    "af",
+    "en"
+  ],
+  "studios": [
+    "Virtual Studios",
+    "Spring Creek Pictures",
+    "Bedford Falls Productions"
+  ],
+  "crew": [
+    {
+      "personId": 9181,
+      "job": "director"
+    },
+    {
+      "personId": 1997,
+      "job": "writer"
+    },
+    {
+      "personId": 16728,
+      "job": "producer"
+    },
+    {
+      "personId": 9182,
+      "job": "producer"
+    },
+    {
+      "personId": 16729,
+      "job": "producer"
+    },
+    {
+      "personId": 16730,
+      "job": "producer"
+    },
+    {
+      "personId": 16731,
+      "job": "producer"
+    },
+    {
+      "personId": 9181,
+      "job": "producer"
+    },
+    {
+      "personId": 1213,
+      "job": "composer"
+    },
+    {
+      "personId": 16732,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1117281,
+      "job": "producer"
+    },
+    {
+      "personId": 75575,
+      "job": "producer"
+    },
+    {
+      "personId": 1117282,
+      "job": "producer"
+    },
+    {
+      "personId": 5409340,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6193,
+      "character": "Danny Archer",
+      "order": 0
+    },
+    {
+      "personId": 938,
+      "character": "Solomon Vandy",
+      "order": 1
+    },
+    {
+      "personId": 6161,
+      "character": "Maddy Bowen",
+      "order": 2
+    },
+    {
+      "personId": 16742,
+      "character": "Dia Vandy",
+      "order": 3
+    },
+    {
+      "personId": 16743,
+      "character": "Colonel Coetzee",
+      "order": 4
+    },
+    {
+      "personId": 16744,
+      "character": "Cordell Brown",
+      "order": 5
+    },
+    {
+      "personId": 16746,
+      "character": "Jassie Vandy",
+      "order": 6
+    },
+    {
+      "personId": 16749,
+      "character": "N'Yanda Vandy",
+      "order": 7
+    },
+    {
+      "personId": 16752,
+      "character": "Captain Poison",
+      "order": 8
+    },
+    {
+      "personId": 16754,
+      "character": "Benjamin Kapanay",
+      "order": 9
+    },
+    {
+      "personId": 16756,
+      "character": "Nabil",
+      "order": 10
+    },
+    {
+      "personId": 3968,
+      "character": "Simmons",
+      "order": 11
+    },
+    {
+      "personId": 16758,
+      "character": "Van De Kaap",
+      "order": 12
+    },
+    {
+      "personId": 1756,
+      "character": "Ambassador Walker",
+      "order": 13
+    },
+    {
+      "personId": 16760,
+      "character": "M'Ed",
+      "order": 14
+    },
+    {
+      "personId": 5377,
+      "character": "Commander Rambo",
+      "order": 15
+    },
+    {
+      "personId": 71078,
+      "character": "Cockney Journalist",
+      "order": 16
+    },
+    {
+      "personId": 13103,
+      "character": "Commander Zero",
+      "order": 17
+    },
+    {
+      "personId": 1332515,
+      "character": "German Minister",
+      "order": 18
+    },
+    {
+      "personId": 67059,
+      "character": "UNCHR Official",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 8640,
+  "sources": [
+    "cult-list"
+  ]
+}

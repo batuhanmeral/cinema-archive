@@ -1,0 +1,172 @@
+{
+  "tmdbId": 198605,
+  "slug": "ludwig-requiem-for-a-virgin-king-1972",
+  "year": 1972,
+  "runtime": 140,
+  "originalTitle": "Ludwig - Requiem für einen jungfräulichen König",
+  "title": {
+    "en": "Ludwig – Requiem for a Virgin King",
+    "tr": "Ludwig - Requiem für einen jungfräulichen König"
+  },
+  "overview": {
+    "en": "Reflected in an artificial and bombastically staged illusory world with Wagnerian compositions, glossy and satirical time references, 19th century German figures and traditions are stripped of their mythology and interpreted by the Germany of 1972.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/y6nY5ZIFMzJwg5OtTGQk7gyHQPz.jpg",
+    "en": "/y6nY5ZIFMzJwg5OtTGQk7gyHQPz.jpg"
+  },
+  "backdrops": [
+    "/x4tSwHNtRbZZ95NGEDNkpom98uj.jpg",
+    "/npVXyY1P54Gk37RPhJBO3y3nfsm.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    5565
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de",
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "ZDF",
+    "TMS Film GmbH"
+  ],
+  "crew": [
+    {
+      "personId": 227824,
+      "job": "writer"
+    },
+    {
+      "personId": 227824,
+      "job": "director"
+    },
+    {
+      "personId": 10616,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 71473,
+      "job": "composer"
+    },
+    {
+      "personId": 227824,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 23668,
+      "character": "Ludwig II",
+      "order": 0
+    },
+    {
+      "personId": 45195,
+      "character": "Lola Montez",
+      "order": 1
+    },
+    {
+      "personId": 73671,
+      "character": "Lakai Mayr / Hoffriseur Hoppe / Röhm",
+      "order": 2
+    },
+    {
+      "personId": 16782,
+      "character": "Elisabeth Ney",
+      "order": 3
+    },
+    {
+      "personId": 26911,
+      "character": "Baron Freyschlag",
+      "order": 4
+    },
+    {
+      "personId": 32863,
+      "character": "Graf Holnstein",
+      "order": 5
+    },
+    {
+      "personId": 1359055,
+      "character": "Sissi",
+      "order": 6
+    },
+    {
+      "personId": 10622,
+      "character": "Mme Bulyowski",
+      "order": 7
+    },
+    {
+      "personId": 1578742,
+      "character": "Richard Wagner #1",
+      "order": 8
+    },
+    {
+      "personId": 1386946,
+      "character": "Richard Wagner #2",
+      "order": 9
+    },
+    {
+      "personId": 53420,
+      "character": "Minissterpräsident Lutz",
+      "order": 10
+    },
+    {
+      "personId": 37108,
+      "character": "Professor Gudden",
+      "order": 11
+    },
+    {
+      "personId": 64219,
+      "character": "Aussenminister von der Pfordten",
+      "order": 12
+    },
+    {
+      "personId": 558960,
+      "character": "Emmanuel Geibel / Hitler",
+      "order": 13
+    },
+    {
+      "personId": 1877193,
+      "character": "Prinz Ludwig",
+      "order": 14
+    },
+    {
+      "personId": 1046782,
+      "character": "Otto",
+      "order": 15
+    },
+    {
+      "personId": 1305854,
+      "character": "Ludwig I / Karl May",
+      "order": 16
+    },
+    {
+      "personId": 1437740,
+      "character": "Hesselschwert",
+      "order": 17
+    },
+    {
+      "personId": 1866279,
+      "character": "Alfons Weber",
+      "order": 18
+    },
+    {
+      "personId": 1350890,
+      "character": "Hoffotograf Albert / Journalist",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 13,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "tmdbId": 32847,
+  "slug": "now-voyager-1942",
+  "year": 1942,
+  "runtime": 117,
+  "originalTitle": "Now, Voyager",
+  "title": {
+    "en": "Now, Voyager",
+    "tr": "Aşk Yolcuları"
+  },
+  "overview": {
+    "en": "A woman suffers a nervous breakdown and from an oppressive mother before being freed by the love of a man she meets on a cruise.",
+    "tr": "Charlotte vale, Boston'da soylu ailelerin oturduğu bir semtte, ev halkını tavizsiz baskı altında tutan annesiyle birlikte yaşamaktadır. Dr. Jaquith'in Sanatoryumunda gördöğü tedavi sonucu, kimsenin beğenmediği rüküş bir kız iken, zarif ve bağımsız bir kadın kimliğine bürünür.  Gemiyle çıktığı Güney Amerika gezisinde,evli bir adam olan Jerry'ye âşık olur. Eve döndüğünde annesiyle hesaplaşması, kadının kalp krizi geçirerek ölmesine neden olur. Kendini bundan sorumlu tutan Charlotte, Sanatoryuma döner. Orada Jerry'nin bunalımdaki kızı Tina ile tanışır. Tina, Charlotte'un ihtimamaı ile bunalımdan çıkar; ikili Boston' döner. Kızının Charlotte ile çok mutlu olduğunu gören Jerry, onun Charlotte'la kalmasına izin verir. Acaba Charlotte ile Jerry evlenebilecek midir? \"Yıldızlar elimizdeyken ayı istemeyelim."
+  },
+  "poster": {
+    "tr": "/kWtJ1C98fQB1fUDSfqb1NGBPPK8.jpg",
+    "en": "/kWtJ1C98fQB1fUDSfqb1NGBPPK8.jpg"
+  },
+  "backdrops": [
+    "/cGzo9UnhhEbUj5qPMhlspmdjmfV.jpg",
+    "/nEgvixrQaGEnxSalaQibinOgSVj.jpg",
+    "/4FmUd8c56H3PW0XirOon5jOaN8z.jpg",
+    "/lAqTraujV7MQUnMZ78XD07Tv5lQ.jpg",
+    "/lqRBiVbA0Uv8IsFKS7wVfZriuMU.jpg",
+    "/kRPOJfwYlKpdsL7SEltRduyQQkR.jpg",
+    "/xZ49zOpKXw7s2V0Fps0gDZJEY91.jpg",
+    "/yoIlicge0JVAor0QG85LujyyQ7T.jpg",
+    "/zALgvCBZ3M5WZlhnd8vHWfWpPEm.jpg",
+    "/wFDUtBl3tiiedjYJrfMQQwg4uOi.jpg"
+  ],
+  "trailerKey": "0cr2sS2WN7w",
+  "genreIds": [
+    10749,
+    18
+  ],
+  "keywordIds": [
+    4375,
+    2799,
+    2900,
+    9673,
+    12999,
+    15106,
+    15274,
+    15320,
+    159313,
+    192391,
+    240315,
+    326020
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "pt"
+  ],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 93904,
+      "job": "director"
+    },
+    {
+      "personId": 4509,
+      "job": "writer"
+    },
+    {
+      "personId": 4123,
+      "job": "producer"
+    },
+    {
+      "personId": 8714,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3249,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3380,
+      "character": "Charlotte Vale",
+      "order": 0
+    },
+    {
+      "personId": 4112,
+      "character": "Jeremiah 'Jerry' Duvaux Durrance",
+      "order": 1
+    },
+    {
+      "personId": 4113,
+      "character": "Dr. Jaquith",
+      "order": 2
+    },
+    {
+      "personId": 3366,
+      "character": "Mrs. Henry Vale",
+      "order": 3
+    },
+    {
+      "personId": 14870,
+      "character": "June Vale",
+      "order": 4
+    },
+    {
+      "personId": 29127,
+      "character": "Elliot Livingston",
+      "order": 5
+    },
+    {
+      "personId": 139926,
+      "character": "Lisa Vale",
+      "order": 6
+    },
+    {
+      "personId": 5740,
+      "character": "Deb McIntyre",
+      "order": 7
+    },
+    {
+      "personId": 13966,
+      "character": "Mr. Thompson",
+      "order": 8
+    },
+    {
+      "personId": 133227,
+      "character": "Miss Trask",
+      "order": 9
+    },
+    {
+      "personId": 234845,
+      "character": "Frank McIntyre",
+      "order": 10
+    },
+    {
+      "personId": 20624,
+      "character": "Dora Pickford",
+      "order": 11
+    },
+    {
+      "personId": 99890,
+      "character": "Dr. Dan Regan (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 115995,
+      "character": "Party Guest (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1133401,
+      "character": "Celestine (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 15978,
+      "character": "Leslie Trotter (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 68653,
+      "character": "Hilda (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 34331,
+      "character": "Aunt Hester (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 108023,
+      "character": "Ship's Passenger (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 115366,
+      "character": "Ship's Passenger (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 247,
+  "sources": [
+    "cult-list"
+  ]
+}

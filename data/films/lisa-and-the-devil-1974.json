@@ -1,0 +1,136 @@
+{
+  "tmdbId": 5483,
+  "slug": "lisa-and-the-devil-1974",
+  "year": 1974,
+  "runtime": 95,
+  "originalTitle": "Lisa e il diavolo",
+  "title": {
+    "en": "Lisa and the Devil",
+    "tr": "Lisa e il diavolo"
+  },
+  "overview": {
+    "en": "Lisa is a tourist in an ancient city. When she gets lost, she finds an old mansion in which to shelter. Soon she is sucked into a vortex of deception, debauchery and evil presided over by housekeeper Leandre.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/kc1bN9JhSqbezrGcMt8lAvpmXnX.jpg",
+    "en": "/ccJkc1DVLgaeMmXx4rrZLzmVG5Y.jpg"
+  },
+  "backdrops": [
+    "/uOLTu64odYcNvS8ouwuzV9bsJnE.jpg",
+    "/jL5S3QcVbUhrMU4TEsoBlOHLF0K.jpg",
+    "/pNQa8f7A0cZNBTIbr1GALBFj3FR.jpg",
+    "/91Ah8ijEQT32wd6LOK3qMcabvsE.jpg",
+    "/8R86odxGcgyrxf2HGlWl5mSnqwI.jpg",
+    "/nuRKyD98XdaOgpCVo3cP94MDnCW.jpg",
+    "/nwLkeeFyTPh6NUZr9xeaAdZCPRZ.jpg",
+    "/e9dN9k3vtq3V9ZWDrjbizIaDIPo.jpg",
+    "/3vvUJSxwFskqtpjSJgAsct16l0V.jpg",
+    "/tKDdPTun8AG7pglQVdp7SGU6EyQ.jpg"
+  ],
+  "trailerKey": "ZwKtmssl2uk",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    65,
+    5159,
+    6876
+  ],
+  "countries": [
+    "DE",
+    "IT",
+    "ES"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Leone International",
+    "Euro America Produzioni Cinematografiche",
+    "Roxy Film"
+  ],
+  "crew": [
+    {
+      "personId": 25826,
+      "job": "director"
+    },
+    {
+      "personId": 25826,
+      "job": "writer"
+    },
+    {
+      "personId": 44965,
+      "job": "writer"
+    },
+    {
+      "personId": 40896,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 44965,
+      "job": "producer"
+    },
+    {
+      "personId": 29389,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10169,
+      "character": "Leandro",
+      "order": 0
+    },
+    {
+      "personId": 17844,
+      "character": "Lisa Reiner",
+      "order": 1
+    },
+    {
+      "personId": 21606,
+      "character": "Sophia Lehar",
+      "order": 2
+    },
+    {
+      "personId": 44972,
+      "character": "Max",
+      "order": 3
+    },
+    {
+      "personId": 100409,
+      "character": "Francis Lehar",
+      "order": 4
+    },
+    {
+      "personId": 33827,
+      "character": "Carlo",
+      "order": 5
+    },
+    {
+      "personId": 15385,
+      "character": "Contessa",
+      "order": 6
+    },
+    {
+      "personId": 31991,
+      "character": "George",
+      "order": 7
+    },
+    {
+      "personId": 106679,
+      "character": "Shopkeeper",
+      "order": 8
+    },
+    {
+      "personId": 1116336,
+      "character": "Lisa's friend",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 165,
+  "sources": [
+    "cult-list"
+  ]
+}

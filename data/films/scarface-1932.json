@@ -1,0 +1,208 @@
+{
+  "tmdbId": 877,
+  "slug": "scarface-1932",
+  "year": 1932,
+  "runtime": 93,
+  "originalTitle": "Scarface",
+  "title": {
+    "en": "Scarface",
+    "tr": "Yaralı Yüz"
+  },
+  "overview": {
+    "en": "In 1920s Chicago, Italian immigrant and notorious thug, Antonio 'Tony' Camonte, aka Scarface, shoots his way to the top of the mobs while trying to protect his sister from the criminal life.",
+    "tr": "Brian De Palma 1980’li yıllarda üç saatlik bir şölene dönüştürdüğü Tony Montanalı SCARFACE hikâyesini yakın tarihe kadar bir gizem olan 1931 yapımı SCARFACE filminden aktarmıştır. Hayatı sinema filmine konu olan Howard Hughes, senaryo yazarı Ben Hecht ve Amerikan sinemasının efsane yönetmenlerinden Howard Hawks’ın 1931 yılında gerçekleştirdikleri bu eser “Klasik” ve “Yön verme” vasıflarını hak eden bir çalışmadır. Eserin ana fikri Tony Guarino isimli karaktere dayandırılan Armitage Trail’in aynı isimli romanına dayanmaktadır.Ufak işlerde pişen Sicilya kökenli serseri Tony Camonte, dağlı teknikleri ve megaloman seviyede ki kazanma hırsıyla Chicago Yeraltı Dünyasının en büyüğü olmaya yemin etmiştir. Bu yolda da kendi patronundan şehri yönetenler kulübünün üyelerine herkes birer araçtır. Sırası gelenler bu hırstan kendine düşen payı alacak ve hastanede ki suikast sahnesinde olduğu gibi bir buket çiçek ve kurşunla şehirden ve hayattan uğurlanacaktır."
+  },
+  "poster": {
+    "tr": "/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg",
+    "en": "/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg"
+  },
+  "backdrops": [
+    "/bIv1kaxb7tsiZYPO27PHfVb5eSF.jpg",
+    "/fX1DFPMZYsRG17BmMPJAKUaBZEz.jpg",
+    "/lybyaFKOOkqIInvhlFVSboQD1yE.jpg",
+    "/q228KqZGqhhuQ03ILu2bFNzv80X.jpg",
+    "/vviOPnjVsFe1wsOi7p8Gr3YK6g8.jpg",
+    "/j3TSfknonDJLwsl28wQFpj8zoXU.jpg",
+    "/3i6H4cVfvWh55sN1iXyeb8Q50nY.jpg",
+    "/a8RgJwAY5vxgwHsQE9cyyeyC3te.jpg",
+    "/3dnjnqvoIIypMyoEHk68wS66EmH.jpg",
+    "/f8oyWQc1qbBn7EG7xBxspjGS8Ya.jpg"
+  ],
+  "trailerKey": "XRmWftEjit0",
+  "genreIds": [
+    80,
+    28,
+    18,
+    53
+  ],
+  "keywordIds": [
+    520,
+    380,
+    818,
+    6149,
+    947,
+    567,
+    3149,
+    2987,
+    4552,
+    3734,
+    9807,
+    9826,
+    11578,
+    12999,
+    156764,
+    325773
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "The Caddo Company",
+    "United Artists"
+  ],
+  "crew": [
+    {
+      "personId": 11435,
+      "job": "producer"
+    },
+    {
+      "personId": 13348,
+      "job": "producer"
+    },
+    {
+      "personId": 4341,
+      "job": "writer"
+    },
+    {
+      "personId": 11435,
+      "job": "director"
+    },
+    {
+      "personId": 13338,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1534110,
+      "job": "composer"
+    },
+    {
+      "personId": 34342,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11435,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13352,
+      "character": "Antonio 'Tony' Camonte",
+      "order": 0
+    },
+    {
+      "personId": 13353,
+      "character": "Francesca 'Cesca' Camonte",
+      "order": 1
+    },
+    {
+      "personId": 13354,
+      "character": "Poppy",
+      "order": 2
+    },
+    {
+      "personId": 13355,
+      "character": "John 'Johnny' Lovo",
+      "order": 3
+    },
+    {
+      "personId": 13356,
+      "character": "Insp. Ben Guarino",
+      "order": 4
+    },
+    {
+      "personId": 3152,
+      "character": "Guino Rinaldo",
+      "order": 5
+    },
+    {
+      "personId": 13357,
+      "character": "Angelo",
+      "order": 6
+    },
+    {
+      "personId": 2922,
+      "character": "Gaffney",
+      "order": 7
+    },
+    {
+      "personId": 13358,
+      "character": "Mr. Garston, publisher",
+      "order": 8
+    },
+    {
+      "personId": 13359,
+      "character": "Managing Editor",
+      "order": 9
+    },
+    {
+      "personId": 13360,
+      "character": "Mrs. Camonte",
+      "order": 10
+    },
+    {
+      "personId": 13361,
+      "character": "Chief of Detectives",
+      "order": 11
+    },
+    {
+      "personId": 82315,
+      "character": "Blonde at Paradise Club",
+      "order": 12
+    },
+    {
+      "personId": 95725,
+      "character": "Pietro, the Barber (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1190761,
+      "character": "Orchestra Leader (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 14288,
+      "character": "Citizens Committee Member (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 101890,
+      "character": "Jim, the Headwaiter (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1208020,
+      "character": "Nightclub Patron (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 9096,
+      "character": "Waiter at Columbia Cafe (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1292781,
+      "character": "Mabel (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 731,
+  "sources": [
+    "cult-list"
+  ]
+}

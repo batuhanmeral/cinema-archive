@@ -1,0 +1,204 @@
+{
+  "tmdbId": 10634,
+  "slug": "friday-1995",
+  "year": 1995,
+  "runtime": 91,
+  "originalTitle": "Friday",
+  "title": {
+    "en": "Friday",
+    "tr": "Cuma"
+  },
+  "overview": {
+    "en": "Craig and Smokey are two guys in Los Angeles hanging out on their porch on a Friday afternoon, smoking and drinking, looking for something to do.",
+    "tr": "Ailesi tarafından sürekli olarak evden atılmakla tehdit edilen Craig, işinden kovulur. Aşk hayatı iyi gitmeyen Craig, en iyi arkadaşı Smokey'nin başı bir uyuşturucu meselesi yüzünden derde girince iyice yıkılır. Gün bitmeden yeni bir iş bulmak zorunda olan Craig, eski sevgilisinin kalbini kazanmak ve arkadaşını düştüğü beladan kurtarmak zorundadır."
+  },
+  "poster": {
+    "tr": "/3Ya1RurP2NqaYoiok4DmfO41rCC.jpg",
+    "en": "/2lReF53F8trkC68piGSfk0JVwWU.jpg"
+  },
+  "backdrops": [
+    "/eDY7eBe5EE2djDGwdTPhfH9ZcdG.jpg",
+    "/gy0CKsdHmU2GRv9TXP4aIj5hAGE.jpg",
+    "/y3E6gIZkRILqNmp7nCLkHPg0WXF.jpg",
+    "/4LOb0oZ8oXcHstAvAOLE5f9kXXk.jpg",
+    "/ftULe7oKgnyftMmKRJwwCAicERV.jpg",
+    "/2D08E4pqE95FM8yOJ3gOy5zWaW0.jpg",
+    "/jsVkY5ts4BB1avbc9bzHuJpofLB.jpg",
+    "/tEGz0nSHMII5LKylIDgNDVK4nfq.jpg",
+    "/yOThUa8dq188pFdhvXrSChIWcAQ.jpg",
+    "/6wKQv3LvBEeikn9v65WFb26KERP.jpg"
+  ],
+  "trailerKey": "umvFBoLOOgo",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    2231,
+    897,
+    970,
+    4562,
+    3230,
+    5768,
+    8631,
+    11488,
+    10624,
+    10776,
+    12670,
+    14964,
+    309974,
+    325813
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New Line Cinema",
+    "Ice Cube/Pat Charbonnet Productions",
+    "Priority Films"
+  ],
+  "crew": [
+    {
+      "personId": 4321104,
+      "job": "producer"
+    },
+    {
+      "personId": 9778,
+      "job": "writer"
+    },
+    {
+      "personId": 37932,
+      "job": "director"
+    },
+    {
+      "personId": 1654408,
+      "job": "composer"
+    },
+    {
+      "personId": 2901356,
+      "job": "composer"
+    },
+    {
+      "personId": 61654,
+      "job": "composer"
+    },
+    {
+      "personId": 65134,
+      "job": "writer"
+    },
+    {
+      "personId": 21394,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9778,
+      "character": "Craig",
+      "order": 0
+    },
+    {
+      "personId": 66,
+      "character": "Smokey",
+      "order": 1
+    },
+    {
+      "personId": 9781,
+      "character": "Debbie",
+      "order": 2
+    },
+    {
+      "personId": 8396,
+      "character": "Deebo",
+      "order": 3
+    },
+    {
+      "personId": 56902,
+      "character": "Mr. Jones",
+      "order": 4
+    },
+    {
+      "personId": 54800,
+      "character": "Mrs. Jones",
+      "order": 5
+    },
+    {
+      "personId": 9788,
+      "character": "Dana",
+      "order": 6
+    },
+    {
+      "personId": 45245,
+      "character": "Joi",
+      "order": 7
+    },
+    {
+      "personId": 62066,
+      "character": "Big Worm",
+      "order": 8
+    },
+    {
+      "personId": 65134,
+      "character": "Red",
+      "order": 9
+    },
+    {
+      "personId": 141827,
+      "character": "Felisha",
+      "order": 10
+    },
+    {
+      "personId": 1218331,
+      "character": "Joann",
+      "order": 11
+    },
+    {
+      "personId": 2991967,
+      "character": "Stanley",
+      "order": 12
+    },
+    {
+      "personId": 1213883,
+      "character": "Mrs. Parker",
+      "order": 13
+    },
+    {
+      "personId": 19754,
+      "character": "Mr. Parker",
+      "order": 14
+    },
+    {
+      "personId": 83101,
+      "character": "Ezal",
+      "order": 15
+    },
+    {
+      "personId": 86988,
+      "character": "Hector",
+      "order": 16
+    },
+    {
+      "personId": 831,
+      "character": "Lil Chris",
+      "order": 17
+    },
+    {
+      "personId": 1897,
+      "character": "Pastor Clever",
+      "order": 18
+    },
+    {
+      "personId": 1937543,
+      "character": "Kid #1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2131,
+  "sources": [
+    "cult-list"
+  ]
+}

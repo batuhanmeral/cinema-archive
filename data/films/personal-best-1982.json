@@ -1,0 +1,189 @@
+{
+  "tmdbId": 27609,
+  "slug": "personal-best-1982",
+  "year": 1982,
+  "runtime": 124,
+  "originalTitle": "Personal Best",
+  "title": {
+    "en": "Personal Best",
+    "tr": "Personal Best"
+  },
+  "overview": {
+    "en": "Young sprinter Chris Cahill is having difficulty reaching her potential as an athlete, until she meets established track star Tory Skinner. As Tory and her coach help Chris with her training, the two women form friendship that evolves into a romantic relationship. Their intimacy, however, becomes complicated when Chris' improvement causes them to be competitors for the Olympic team.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/sQbIDpQ421ioiEhyo1VSXCDp1Si.jpg",
+    "en": "/sQbIDpQ421ioiEhyo1VSXCDp1Si.jpg"
+  },
+  "backdrops": [
+    "/2XnHaeDwoWhWw83C3ElzN3bkcC3.jpg",
+    "/njsZ2rBTKXbwurqmA4h0OKlUnNM.jpg",
+    "/dr7Hi7H9sNQpqXZHn7A52LuUN4m.jpg",
+    "/qjLy2Bo7QBzAlr3Sjr4AreR5kv8.jpg",
+    "/t5x6pJWa3P15DHUPQmKQbmTYlPs.jpg",
+    "/uD3acEYNzaJvnwvvTwssrjAekIV.jpg",
+    "/jpRhHBOFmBOTb44QNp4ofu6WrMX.jpg",
+    "/usGhHOTK1TqnROA3FRauD89TJTC.jpg",
+    "/jwxPm5P38p4yeF3amSFQRThPdIz.jpg",
+    "/xqPxTK5ea9JbLWQRHHW0xduv4Df.jpg"
+  ],
+  "trailerKey": "a5ukNSl3Z5Y",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    6075,
+    9833,
+    15136,
+    156331,
+    158718,
+    206206,
+    208290,
+    208820,
+    264386
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ],
+  "studios": [
+    "Geffen Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 11057,
+      "job": "director"
+    },
+    {
+      "personId": 11057,
+      "job": "producer"
+    },
+    {
+      "personId": 11057,
+      "job": "writer"
+    },
+    {
+      "personId": 7066,
+      "job": "composer"
+    },
+    {
+      "personId": 1044,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1570864,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10447,
+      "character": "Chris Cahill",
+      "order": 0
+    },
+    {
+      "personId": 1164017,
+      "character": "Tory Skinner",
+      "order": 1
+    },
+    {
+      "personId": 349,
+      "character": "Terry Tingloff",
+      "order": 2
+    },
+    {
+      "personId": 588114,
+      "character": "Denny Stites",
+      "order": 3
+    },
+    {
+      "personId": 74828,
+      "character": "Roscoe Travis",
+      "order": 4
+    },
+    {
+      "personId": 58214,
+      "character": "Rick Cahill",
+      "order": 5
+    },
+    {
+      "personId": 77485,
+      "character": "Rita Cahill",
+      "order": 6
+    },
+    {
+      "personId": 23893,
+      "character": "Raoul",
+      "order": 7
+    },
+    {
+      "personId": 1203944,
+      "character": "Penny Brill",
+      "order": 8
+    },
+    {
+      "personId": 1203945,
+      "character": "Nadia \"Pooch\" Anderson",
+      "order": 9
+    },
+    {
+      "personId": 2327872,
+      "character": "Tanya",
+      "order": 10
+    },
+    {
+      "personId": 2327873,
+      "character": "Sheila",
+      "order": 11
+    },
+    {
+      "personId": 1318683,
+      "character": "Maureen",
+      "order": 12
+    },
+    {
+      "personId": 2327874,
+      "character": "Jan",
+      "order": 13
+    },
+    {
+      "personId": 2327875,
+      "character": "Trish",
+      "order": 14
+    },
+    {
+      "personId": 2327876,
+      "character": "Laura",
+      "order": 15
+    },
+    {
+      "personId": 2327877,
+      "character": "Karen",
+      "order": 16
+    },
+    {
+      "personId": 2327878,
+      "character": "Yelovitch",
+      "order": 17
+    },
+    {
+      "personId": 2327879,
+      "character": "Zenk",
+      "order": 18
+    },
+    {
+      "personId": 2327881,
+      "character": "Fern Wadkins",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 57,
+  "sources": [
+    "cult-list"
+  ]
+}

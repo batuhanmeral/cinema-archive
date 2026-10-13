@@ -1,0 +1,183 @@
+{
+  "tmdbId": 14415,
+  "slug": "seraphine-2008",
+  "year": 2008,
+  "runtime": 125,
+  "originalTitle": "Séraphine",
+  "title": {
+    "en": "Séraphine",
+    "tr": "Séraphine"
+  },
+  "overview": {
+    "en": "The tragic story of French naïve painter Séraphine Louis aka Séraphine de Senlis (1864-1942), a humble servant who becomes a gifted self-taught painter. Discovered by prominent critic and collector William Uhde, she came to prominence between the wars grouped with other naïve painters like Henri Rouseau only to descend into madness and obscurity with the onset of the Great Depression and World War II.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/nSA2iRp6BxhqDPzJsdk6CXALgjr.jpg",
+    "en": "/nSA2iRp6BxhqDPzJsdk6CXALgjr.jpg"
+  },
+  "backdrops": [
+    "/fR9Ck2vZqPOiNUKXcxkVOTL8ZKN.jpg",
+    "/rCGNEDqAfzpZtsxWvyGVHEYiFUB.jpg",
+    "/ixMSbJbK429M6bOQ4UotyMQ4JR4.jpg",
+    "/qbKFdawUVaHCR2VMCpRCC5z5fNJ.jpg",
+    "/dpH5SpoDUf9hKktgIuJ1vZYlWWU.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    36,
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "FR",
+    "BE"
+  ],
+  "languages": [
+    "de",
+    "fr",
+    "la"
+  ],
+  "studios": [
+    "TS Productions",
+    "Diaphana Films",
+    "Roissy Films"
+  ],
+  "crew": [
+    {
+      "personId": 225960,
+      "job": "writer"
+    },
+    {
+      "personId": 76832,
+      "job": "writer"
+    },
+    {
+      "personId": 76832,
+      "job": "director"
+    },
+    {
+      "personId": 12454,
+      "job": "composer"
+    },
+    {
+      "personId": 5426,
+      "job": "producer"
+    },
+    {
+      "personId": 50025,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7290,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2415,
+      "character": "Séraphine Louis, dite Séraphine de Senlis",
+      "order": 0
+    },
+    {
+      "personId": 8198,
+      "character": "Wilhelm Uhde",
+      "order": 1
+    },
+    {
+      "personId": 37069,
+      "character": "Anne-Marie Uhde",
+      "order": 2
+    },
+    {
+      "personId": 7280,
+      "character": "Mme Duphot",
+      "order": 3
+    },
+    {
+      "personId": 225959,
+      "character": "Helmut Kolle",
+      "order": 4
+    },
+    {
+      "personId": 115189,
+      "character": "Minouche",
+      "order": 5
+    },
+    {
+      "personId": 236639,
+      "character": "La mère supérieure",
+      "order": 6
+    },
+    {
+      "personId": 2974952,
+      "character": "La propriétaire",
+      "order": 7
+    },
+    {
+      "personId": 586276,
+      "character": "Duval",
+      "order": 8
+    },
+    {
+      "personId": 1162586,
+      "character": "Sœur Marguerite",
+      "order": 9
+    },
+    {
+      "personId": 1988210,
+      "character": "Marie-Louise",
+      "order": 10
+    },
+    {
+      "personId": 2762513,
+      "character": "Berthe",
+      "order": 11
+    },
+    {
+      "personId": 1077904,
+      "character": "Anatole Duphot",
+      "order": 12
+    },
+    {
+      "personId": 1155937,
+      "character": "La bouchère",
+      "order": 13
+    },
+    {
+      "personId": 145333,
+      "character": "Le boucher",
+      "order": 14
+    },
+    {
+      "personId": 1171394,
+      "character": "Le journaliste",
+      "order": 15
+    },
+    {
+      "personId": 7282,
+      "character": "Madame Delonge",
+      "order": 16
+    },
+    {
+      "personId": 1061419,
+      "character": "L'interne",
+      "order": 17
+    },
+    {
+      "personId": 78474,
+      "character": "Le médecin",
+      "order": 18
+    },
+    {
+      "personId": 146498,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 143,
+  "sources": [
+    "cult-list"
+  ]
+}

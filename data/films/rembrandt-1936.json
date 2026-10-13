@@ -1,0 +1,184 @@
+{
+  "tmdbId": 50031,
+  "slug": "rembrandt-1936",
+  "year": 1936,
+  "runtime": 85,
+  "originalTitle": "Rembrandt",
+  "title": {
+    "en": "Rembrandt",
+    "tr": "Rembrandt"
+  },
+  "overview": {
+    "en": "A character study depicting the life of Rembrandt Van Rijn at the height of his fame in the mid 1600s. Beginning with the death of his wife, Rembrandt's work takes a dark turn, which offends many of his patrons.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/mGoJsDTITN1WBCEUzbSQEEUIGzj.jpg",
+    "en": "/mGoJsDTITN1WBCEUzbSQEEUIGzj.jpg"
+  },
+  "backdrops": [
+    "/f87Lsbz3TWb1YaJaYSYU2uUqFHc.jpg",
+    "/b2TZtnUkjJ3zuEswnfH4XkGl2Wg.jpg",
+    "/1AdEb8SJGP8hZNYLCMBpF4gfxNg.jpg",
+    "/urRGhoE9uWNzLUnHZIAWlvxeQdX.jpg",
+    "/aO6bT2wBPZ3GfXXDmtm9BkBmHH0.jpg",
+    "/efTMvToFThUuDCmtNnJ3gcwH3hZ.jpg",
+    "/77MvNCACbHH36Tj4Xq7xuFA5KTW.jpg",
+    "/wSWiXQxkjmMEOz71JIBkkyuhmus.jpg",
+    "/tUM8wunDlSyqKadIIlsSWjHfkPA.jpg"
+  ],
+  "trailerKey": "3jyDh8rk0CI",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    437,
+    5565,
+    6165,
+    13097
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "London Films Productions",
+    "United Artists"
+  ],
+  "crew": [
+    {
+      "personId": 2490,
+      "job": "director"
+    },
+    {
+      "personId": 2900,
+      "job": "writer"
+    },
+    {
+      "personId": 71789,
+      "job": "writer"
+    },
+    {
+      "personId": 2490,
+      "job": "producer"
+    },
+    {
+      "personId": 1626291,
+      "job": "composer"
+    },
+    {
+      "personId": 20136,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10921,
+      "character": "Rembrandt van Rijn",
+      "order": 0
+    },
+    {
+      "personId": 552029,
+      "character": "Geertje Dirx",
+      "order": 1
+    },
+    {
+      "personId": 2926,
+      "character": "Hendrickje Stoffels",
+      "order": 2
+    },
+    {
+      "personId": 33267,
+      "character": "Fabrizius",
+      "order": 3
+    },
+    {
+      "personId": 85936,
+      "character": "Capt. Banning Cocq",
+      "order": 4
+    },
+    {
+      "personId": 83907,
+      "character": "Beggar Saul",
+      "order": 5
+    },
+    {
+      "personId": 1053796,
+      "character": "Titus van Rijn",
+      "order": 6
+    },
+    {
+      "personId": 134269,
+      "character": "Auctioneer",
+      "order": 7
+    },
+    {
+      "personId": 231088,
+      "character": "Harmenzs van Rijn",
+      "order": 8
+    },
+    {
+      "personId": 95027,
+      "character": "Dr. Tulp",
+      "order": 9
+    },
+    {
+      "personId": 65851,
+      "character": "Govaert Flinck",
+      "order": 10
+    },
+    {
+      "personId": 87071,
+      "character": "Ludwick",
+      "order": 11
+    },
+    {
+      "personId": 135066,
+      "character": "Dr. Menasseh",
+      "order": 12
+    },
+    {
+      "personId": 134265,
+      "character": "Heertsbeeke",
+      "order": 13
+    },
+    {
+      "personId": 47662,
+      "character": "Marquis de Grand Coeur",
+      "order": 14
+    },
+    {
+      "personId": 945387,
+      "character": "Jan Six",
+      "order": 15
+    },
+    {
+      "personId": 1026388,
+      "character": "Agelintje",
+      "order": 16
+    },
+    {
+      "personId": 1419073,
+      "character": "Titus (child)",
+      "order": 17
+    },
+    {
+      "personId": 940167,
+      "character": "Adrien van Rijn",
+      "order": 18
+    },
+    {
+      "personId": 1359330,
+      "character": "Peasant Lad",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 38,
+  "sources": [
+    "cult-list"
+  ]
+}

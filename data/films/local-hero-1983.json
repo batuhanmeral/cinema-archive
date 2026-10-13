@@ -1,0 +1,193 @@
+{
+  "tmdbId": 11235,
+  "slug": "local-hero-1983",
+  "year": 1983,
+  "runtime": 111,
+  "originalTitle": "Local Hero",
+  "title": {
+    "en": "Local Hero",
+    "tr": "Yerel Kahraman"
+  },
+  "overview": {
+    "en": "An American oil company sends a man to Scotland to buy up an entire village where they want to build a refinery. But things don't go as expected.",
+    "tr": "Bir petrol firmasının multimilyoner sahibi Happer (Burt Lancaster), Mac (Peter Riegert) adlı genci İskoçya’ya rafineri kurması amacıyla gönderir. Ancak bu rafineriyi kurabilmesi için küçük Ferness kasabasının tamamını almak zorundadır. İşin ilginç tarafı ise, köy sakinleri yaşadıkları yeri elden çıkarmaya dünden razıdır. Satır aralarında, dünyadaki her yerde ve tüm halklar üzerinde inisiyatif kullanabilme hakları olduğunu varsayan Amerikan davranış biçimini \"ti\"ye alan film, yönetmen Forsyth’e festivallarde pek çok ödül kazandırdı."
+  },
+  "poster": {
+    "tr": "/jqxD0H9a1rg5bXftsm6gsNOjt4n.jpg",
+    "en": "/sjT9330olLYuhTSacs4yHbOtRAy.jpg"
+  },
+  "backdrops": [
+    "/tfiFC0pw1ccJFBkYkhP9uWeQ1S1.jpg",
+    "/mj0P4EH7xnwz2p8V3YQput81Bai.jpg",
+    "/z6U6JNTaLqR0Kj3ewK38z9Ph6AH.jpg",
+    "/cSxuzg3jdJ7KZt7zgsvPTl6CQC4.jpg",
+    "/25MXsKTxtwm3OkU8mWMglv3v4t0.jpg",
+    "/qYAZfvFJdAVj2gHdUjrba29mcYi.jpg",
+    "/yqkbBRQDPQUeucgfM5v70kvyEv7.jpg",
+    "/z4F2Jlzj2qlpV0yX5ihSz2ZlH9L.jpg",
+    "/gfCfgjzuU12odADCM1JYkUrfPTD.jpg",
+    "/yb3f01XII72makFBd3AMEZxFyeQ.jpg"
+  ],
+  "trailerKey": "4TLRaiBK688",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    1415,
+    5175,
+    388,
+    1842,
+    5331,
+    6382,
+    9609,
+    10590,
+    15199,
+    33626,
+    155207,
+    187224,
+    226626
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "ru",
+    "ja",
+    "en"
+  ],
+  "studios": [
+    "Enigma Productions",
+    "Goldcrest Films International",
+    "Celandine Films"
+  ],
+  "crew": [
+    {
+      "personId": 8969,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8271,
+      "job": "composer"
+    },
+    {
+      "personId": 68687,
+      "job": "director"
+    },
+    {
+      "personId": 8967,
+      "job": "producer"
+    },
+    {
+      "personId": 68687,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13784,
+      "character": "Felix Happer",
+      "order": 0
+    },
+    {
+      "personId": 20899,
+      "character": "\"Mac\" MacIntyre",
+      "order": 1
+    },
+    {
+      "personId": 47698,
+      "character": "Gordon Urquhart",
+      "order": 2
+    },
+    {
+      "personId": 68686,
+      "character": "Ben Knox",
+      "order": 3
+    },
+    {
+      "personId": 12982,
+      "character": "Danny Oldsen",
+      "order": 4
+    },
+    {
+      "personId": 116125,
+      "character": "Stella Urquhart",
+      "order": 5
+    },
+    {
+      "personId": 36820,
+      "character": "Marina",
+      "order": 6
+    },
+    {
+      "personId": 116123,
+      "character": "Moritz",
+      "order": 7
+    },
+    {
+      "personId": 105964,
+      "character": "Geddes",
+      "order": 8
+    },
+    {
+      "personId": 2451,
+      "character": "Watt",
+      "order": 9
+    },
+    {
+      "personId": 116126,
+      "character": "Victor",
+      "order": 10
+    },
+    {
+      "personId": 116127,
+      "character": "Rev Macpherson",
+      "order": 11
+    },
+    {
+      "personId": 116128,
+      "character": "Cal",
+      "order": 12
+    },
+    {
+      "personId": 116129,
+      "character": "Donaldson",
+      "order": 13
+    },
+    {
+      "personId": 116130,
+      "character": "Roddy",
+      "order": 14
+    },
+    {
+      "personId": 97884,
+      "character": "Ricky",
+      "order": 15
+    },
+    {
+      "personId": 1648907,
+      "character": "Pauline",
+      "order": 16
+    },
+    {
+      "personId": 151797,
+      "character": "Iain",
+      "order": 17
+    },
+    {
+      "personId": 2471536,
+      "character": "Mrs Wyatt",
+      "order": 18
+    },
+    {
+      "personId": 110072,
+      "character": "Skipper",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 424,
+  "sources": [
+    "cult-list"
+  ]
+}

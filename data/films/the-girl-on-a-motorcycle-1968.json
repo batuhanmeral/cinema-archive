@@ -1,0 +1,158 @@
+{
+  "tmdbId": 29722,
+  "slug": "the-girl-on-a-motorcycle-1968",
+  "year": 1968,
+  "runtime": 91,
+  "originalTitle": "The Girl on a Motorcycle",
+  "title": {
+    "en": "The Girl on a Motorcycle",
+    "tr": "The Girl on a Motorcycle"
+  },
+  "overview": {
+    "en": "Newly-married Rebecca leaves her husband's Alsatian bed on her prized motorbike - symbol of freedom and escape - to visit her lover in Heidelberg. En route she indulges in psychedelic reveries as she relives her changing relationship with the two men.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9h6X4oJaEqJsRMVcr03fHiTMdVY.jpg",
+    "en": "/ziAzDCeikJ3fQIMTR9FNTx7UduZ.jpg"
+  },
+  "backdrops": [
+    "/mA6ulj6Nbkx9yVY0Ub5OM9YFvv8.jpg",
+    "/7OcvSgBOqmwCAmmR9DVrR12zEaH.jpg",
+    "/uhxg6es3h5R5kjaRSukjnhq7nSS.jpg",
+    "/bsFWJN6Ke7zstuatNWjW9ewrgz4.jpg",
+    "/M6vrlYBoxc15k7yw4J3CJ09Yyq.jpg",
+    "/fXvy3tsreo0q7QRCE8f1UOzl3La.jpg",
+    "/AoZ30iZsCi2o4khAGCycWgrRLCW.jpg",
+    "/oSeQsDj4xuARZUDeGBwp8Gyl0zG.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    14735
+  ],
+  "countries": [
+    "FR",
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Mid-Atlantic Film",
+    "Arès Productions",
+    "SNC"
+  ],
+  "crew": [
+    {
+      "personId": 6603,
+      "job": "director"
+    },
+    {
+      "personId": 1144921,
+      "job": "producer"
+    },
+    {
+      "personId": 185060,
+      "job": "writer"
+    },
+    {
+      "personId": 1144920,
+      "job": "composer"
+    },
+    {
+      "personId": 6603,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19995,
+      "character": "Rebecca",
+      "order": 0
+    },
+    {
+      "personId": 15135,
+      "character": "Daniel",
+      "order": 1
+    },
+    {
+      "personId": 38037,
+      "character": "Rebecca’s Father",
+      "order": 2
+    },
+    {
+      "personId": 213600,
+      "character": "Raymond",
+      "order": 3
+    },
+    {
+      "personId": 20945,
+      "character": "Catherine",
+      "order": 4
+    },
+    {
+      "personId": 589258,
+      "character": "Jean",
+      "order": 5
+    },
+    {
+      "personId": 26890,
+      "character": "Pump Attendant",
+      "order": 6
+    },
+    {
+      "personId": 47848,
+      "character": "French Superintendent / French Customs Officer",
+      "order": 7
+    },
+    {
+      "personId": 1328616,
+      "character": "French Customs Officer",
+      "order": 8
+    },
+    {
+      "personId": 117300,
+      "character": "French Customs Officer",
+      "order": 9
+    },
+    {
+      "personId": 78092,
+      "character": "German Customs Officer",
+      "order": 10
+    },
+    {
+      "personId": 933564,
+      "character": "German Waitress",
+      "order": 11
+    },
+    {
+      "personId": 1183380,
+      "character": "Student",
+      "order": 12
+    },
+    {
+      "personId": 1641060,
+      "character": "Student",
+      "order": 13
+    },
+    {
+      "personId": 3245088,
+      "character": "Student",
+      "order": 14
+    },
+    {
+      "personId": 1959275,
+      "character": "Student",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 70,
+  "sources": [
+    "cult-list"
+  ]
+}

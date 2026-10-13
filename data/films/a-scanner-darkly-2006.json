@@ -1,0 +1,216 @@
+{
+  "tmdbId": 3509,
+  "slug": "a-scanner-darkly-2006",
+  "year": 2006,
+  "runtime": 100,
+  "originalTitle": "A Scanner Darkly",
+  "title": {
+    "en": "A Scanner Darkly",
+    "tr": "Karanlığı Taramak"
+  },
+  "overview": {
+    "en": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
+    "tr": "Amerika uyuşturucuya karşı verdiği savaşı kaybetmiş durumdadır. Uyuşturucu yüzünden, ajan Fred, Bob isminde uyuşturucu satıcısı olan ikinci bir kişilik geliştirmiştir. Fred'in meslektaşları Bob'u yakalamak üzere bir operasyon başlatırlar ve çözülmesi olanaksız bir yolculuk başlar. Philip K. Dick'in sevilen romanı A Scanner Darkly, gerçek oyuncular üzerine gelişmiş bir animasyon tekniği ile hayat buluyor."
+  },
+  "poster": {
+    "tr": "/xmqHlalDhJHCNAPln5WlZPHtlW.jpg",
+    "en": "/lUKudOpHICDj6A6SO7DdaZM4W48.jpg"
+  },
+  "backdrops": [
+    "/pTZBZsj7hlhIP5UvGFCurhEcRgT.jpg",
+    "/fdrQusLbssk6WEpyZXVDmyRlylE.jpg",
+    "/8e6wpVNmlP2rIwJ1iGCYjicQz7T.jpg",
+    "/do8idarfaUTxxwaarefTNA724Qj.jpg",
+    "/tfe6c8E5KSKOHECIvtDRj4zGgS9.jpg",
+    "/hZeyVsBJjvdn6vbN4bSriyU2A6u.jpg",
+    "/pLaH3BrzeJQXnXTOLzI7bKv5HgY.jpg",
+    "/2at7uHN2tUIdz6zmUwX373UAT5Y.jpg",
+    "/u1OUAWMQO2q5de5IYpwx5jfwaUB.jpg",
+    "/3wdrPAleY9agWJDehLrlXiGCPMY.jpg"
+  ],
+  "trailerKey": "l1-xKcf9Q4s",
+  "genreIds": [
+    16,
+    878,
+    53
+  ],
+  "keywordIds": [
+    2964,
+    387,
+    1566,
+    222,
+    818,
+    1568,
+    703,
+    4565,
+    2150,
+    2866,
+    4967,
+    12190,
+    14964,
+    18420,
+    180440,
+    188950,
+    190531,
+    202550,
+    202553,
+    207268,
+    325803
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Independent Pictures",
+    "Thousand Words",
+    "Detour Filmproduction"
+  ],
+  "crew": [
+    {
+      "personId": 32234,
+      "job": "composer"
+    },
+    {
+      "personId": 10950,
+      "job": "producer"
+    },
+    {
+      "personId": 9539,
+      "job": "producer"
+    },
+    {
+      "personId": 32233,
+      "job": "producer"
+    },
+    {
+      "personId": 564,
+      "job": "director"
+    },
+    {
+      "personId": 564,
+      "job": "writer"
+    },
+    {
+      "personId": 566,
+      "job": "producer"
+    },
+    {
+      "personId": 32235,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9537,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6384,
+      "character": "Bob Arctor",
+      "order": 0
+    },
+    {
+      "personId": 3223,
+      "character": "James Barris",
+      "order": 1
+    },
+    {
+      "personId": 57755,
+      "character": "Ernie Luckman",
+      "order": 2
+    },
+    {
+      "personId": 1920,
+      "character": "Donna Hawthorne",
+      "order": 3
+    },
+    {
+      "personId": 51792,
+      "character": "Charles Freck",
+      "order": 4
+    },
+    {
+      "personId": 32238,
+      "character": "Brown Bear Lodge Host",
+      "order": 5
+    },
+    {
+      "personId": 1235693,
+      "character": "Additional Fred Scramble Suit Voice (voice)",
+      "order": 6
+    },
+    {
+      "personId": 1813368,
+      "character": "Voice from Headquarters (voice)",
+      "order": 7
+    },
+    {
+      "personId": 32239,
+      "character": "Cop",
+      "order": 8
+    },
+    {
+      "personId": 32240,
+      "character": "Waitress",
+      "order": 9
+    },
+    {
+      "personId": 1595122,
+      "character": "Additional Hank Scramble Suit Voice (voice)",
+      "order": 10
+    },
+    {
+      "personId": 32242,
+      "character": "Medical Deputy #2",
+      "order": 11
+    },
+    {
+      "personId": 32241,
+      "character": "Medical Deputy #1",
+      "order": 12
+    },
+    {
+      "personId": 4042219,
+      "character": "Arctor's Daughter #1",
+      "order": 13
+    },
+    {
+      "personId": 4042220,
+      "character": "Arctor's Daughter #2",
+      "order": 14
+    },
+    {
+      "personId": 32243,
+      "character": "Arctor's Wife",
+      "order": 15
+    },
+    {
+      "personId": 4042228,
+      "character": "Freck Suicide Narrator (voice)",
+      "order": 16
+    },
+    {
+      "personId": 157534,
+      "character": "Creature",
+      "order": 17
+    },
+    {
+      "personId": 57970,
+      "character": "Street Prophet",
+      "order": 18
+    },
+    {
+      "personId": 1075540,
+      "character": "Connie",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2049,
+  "sources": [
+    "cult-list"
+  ]
+}

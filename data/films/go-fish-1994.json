@@ -1,0 +1,188 @@
+{
+  "tmdbId": 18620,
+  "slug": "go-fish-1994",
+  "year": 1994,
+  "runtime": 83,
+  "originalTitle": "Go Fish",
+  "title": {
+    "en": "Go Fish",
+    "tr": "Go Fish"
+  },
+  "overview": {
+    "en": "Max is a trendy, pretty, young lesbian, who is having trouble finding love. A friend sets her up with Ely, whom Max likes, but Ely is frumpy, homely, and older. Nor do they have much in common. Can Max learn to look past the packaging?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wWSqWcTQpedYn0ZMJ06PqSmJUxb.jpg",
+    "en": "/4hczdEX2RmQTOmiIKygoOYCy0bI.jpg"
+  },
+  "backdrops": [
+    "/3t5ZtUhv7QECBQeMlUIRPEcLSjS.jpg",
+    "/yu3boJ3VvHGStgCMBxYqzyOaBgA.jpg",
+    "/ijYArKfMmEbUeztbSQfxmzQpmHH.jpg"
+  ],
+  "trailerKey": "qnWt4aMBE6E",
+  "genreIds": [
+    10749,
+    35,
+    18
+  ],
+  "keywordIds": [
+    9833,
+    10180,
+    158718,
+    187056
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Can I Watch",
+    "Islet",
+    "KPVI"
+  ],
+  "crew": [
+    {
+      "personId": 172993,
+      "job": "director"
+    },
+    {
+      "personId": 172993,
+      "job": "writer"
+    },
+    {
+      "personId": 32030,
+      "job": "writer"
+    },
+    {
+      "personId": 172993,
+      "job": "producer"
+    },
+    {
+      "personId": 32030,
+      "job": "producer"
+    },
+    {
+      "personId": 2889150,
+      "job": "composer"
+    },
+    {
+      "personId": 2889151,
+      "job": "composer"
+    },
+    {
+      "personId": 1207493,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32030,
+      "character": "Max",
+      "order": 0
+    },
+    {
+      "personId": 1638928,
+      "character": "Ely",
+      "order": 1
+    },
+    {
+      "personId": 1804391,
+      "character": "Kia",
+      "order": 2
+    },
+    {
+      "personId": 1804392,
+      "character": "Evy",
+      "order": 3
+    },
+    {
+      "personId": 1804393,
+      "character": "Daria",
+      "order": 4
+    },
+    {
+      "personId": 2954493,
+      "character": "Mel",
+      "order": 5
+    },
+    {
+      "personId": 1217971,
+      "character": "Mimi",
+      "order": 6
+    },
+    {
+      "personId": 2954499,
+      "character": "Sam",
+      "order": 7
+    },
+    {
+      "personId": 2954500,
+      "character": "Bella",
+      "order": 8
+    },
+    {
+      "personId": 2954501,
+      "character": "Alice",
+      "order": 9
+    },
+    {
+      "personId": 2954504,
+      "character": "Andy",
+      "order": 10
+    },
+    {
+      "personId": 2954505,
+      "character": "Della",
+      "order": 11
+    },
+    {
+      "personId": 4786599,
+      "character": "Student #1 / Jury Member)",
+      "order": 12
+    },
+    {
+      "personId": 4786600,
+      "character": "Student #2",
+      "order": 13
+    },
+    {
+      "personId": 2490538,
+      "character": "Student #3",
+      "order": 14
+    },
+    {
+      "personId": 4786601,
+      "character": "Student #4 / Jury Member",
+      "order": 15
+    },
+    {
+      "personId": 1804395,
+      "character": "Student #5",
+      "order": 16
+    },
+    {
+      "personId": 2954512,
+      "character": "Angry Student",
+      "order": 17
+    },
+    {
+      "personId": 2954524,
+      "character": "Student #6 / Jury Member",
+      "order": 18
+    },
+    {
+      "personId": 4786602,
+      "character": "Haircutter",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 43,
+  "sources": [
+    "cult-list"
+  ]
+}

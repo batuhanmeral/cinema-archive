@@ -1,0 +1,220 @@
+{
+  "tmdbId": 12208,
+  "slug": "casino-royale-1967",
+  "year": 1967,
+  "runtime": 131,
+  "originalTitle": "Casino Royale",
+  "title": {
+    "en": "Casino Royale",
+    "tr": "Casino Royale"
+  },
+  "overview": {
+    "en": "Sir James Bond is called back out of retirement to stop SMERSH. In order to trick SMERSH, James thinks up the ultimate plan - that every agent will be named 'James Bond'. One of the Bonds, whose real name is Evelyn Tremble is sent to take on Le Chiffre in a game of baccarat, but all the Bonds get more than they can handle.",
+    "tr": "Küresel istikrarı sabotaj etmeye başlayan Smersh, 11'den fazla ajanın kaybolması ve sorunların daha kötüye gitmesi yanında en iyi ajanları 007 emekliliğine doğru ciddi bir şekilde güç kaybetmektedir. KGB'nin ve CIA'nın başındakilerle birlikte olan M'in sadece bir tek umudu vardır. Bay James Bond'u emeklilikten geri getirip işe el koymasını sağlamak. Ordu patlayıcıları ile donanımlı bayan ajanlar, Baccarat oynamayı bilen bir sihirbaz ve sinirli megalomanı karşısında bulan Bond'un zekice bir planı harekete sokması gerekmektedir. Baccarat ustası Evelyn Tremble komplonun kalbine gönderilmek için seçilir. Ancak ilk önce James Bond'un yetiştirme okuluna katılmak zorundadır. Müthiş karışıklık içerisinde sürprizlerle dolu macera başlar."
+  },
+  "poster": {
+    "tr": "/9wdw5H018bgIM8bK2HuDvh8BwOh.jpg",
+    "en": "/9wdw5H018bgIM8bK2HuDvh8BwOh.jpg"
+  },
+  "backdrops": [
+    "/bzd7Uph8qfAB3fi488rIE3x2pWg.jpg",
+    "/3C8FqRRV9dbODt2qMBSjl3YxiLD.jpg",
+    "/bUkb4f3c6iL9pazC0L5HHkWqPgL.jpg",
+    "/wMVKsxaQzZLDZMToGbWTzxBveaD.jpg",
+    "/qFZWeAhjfIHdhu9fJjLLxBZxsUk.jpg",
+    "/zAmYFgMTDAoAwRiH4RIZjgcniIV.jpg",
+    "/oheaGTCue74OG0oB6Uz2PvqJJhi.jpg",
+    "/4d1b3zVajHAjPXnSUFP8LqjiQNA.jpg",
+    "/iI6WQ63ZOFzhOmT8AXzodi5tfy9.jpg",
+    "/cji3ONgtjL0Ae9EkqZIUOucCdbj.jpg"
+  ],
+  "trailerKey": "e_YndB3k170",
+  "genreIds": [
+    12,
+    28,
+    35
+  ],
+  "keywordIds": [
+    585,
+    388,
+    470,
+    2051,
+    2011,
+    3101,
+    3270,
+    11931,
+    14618,
+    184392
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "fr",
+    "gd",
+    "de"
+  ],
+  "studios": [
+    "Famous Artists Productions",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 9580,
+      "job": "composer"
+    },
+    {
+      "personId": 71656,
+      "job": "writer"
+    },
+    {
+      "personId": 10535,
+      "job": "producer"
+    },
+    {
+      "personId": 47792,
+      "job": "director"
+    },
+    {
+      "personId": 8514,
+      "job": "director"
+    },
+    {
+      "personId": 12242,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 29663,
+      "job": "writer"
+    },
+    {
+      "personId": 70308,
+      "job": "director"
+    },
+    {
+      "personId": 39761,
+      "job": "producer"
+    },
+    {
+      "personId": 6593,
+      "job": "director"
+    },
+    {
+      "personId": 39853,
+      "job": "director"
+    },
+    {
+      "personId": 71657,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12446,
+      "character": "Evelyn Tremble",
+      "order": 0
+    },
+    {
+      "personId": 9871,
+      "character": "Vesper Lynd",
+      "order": 1
+    },
+    {
+      "personId": 14261,
+      "character": "James Bond",
+      "order": 2
+    },
+    {
+      "personId": 40,
+      "character": "Le Chiffre",
+      "order": 3
+    },
+    {
+      "personId": 51315,
+      "character": "Mata Bond",
+      "order": 4
+    },
+    {
+      "personId": 39754,
+      "character": "The Detainer",
+      "order": 5
+    },
+    {
+      "personId": 1243,
+      "character": "Jimmy Bond",
+      "order": 6
+    },
+    {
+      "personId": 20141,
+      "character": "Agent Mimi",
+      "order": 7
+    },
+    {
+      "personId": 8252,
+      "character": "Ransome",
+      "order": 8
+    },
+    {
+      "personId": 29519,
+      "character": "Le Grand",
+      "order": 9
+    },
+    {
+      "personId": 6593,
+      "character": "McTarry",
+      "order": 10
+    },
+    {
+      "personId": 40620,
+      "character": "Smernov",
+      "order": 11
+    },
+    {
+      "personId": 3152,
+      "character": "George Raft",
+      "order": 12
+    },
+    {
+      "personId": 3829,
+      "character": "French Legionnaire",
+      "order": 13
+    },
+    {
+      "personId": 136546,
+      "character": "Cooper",
+      "order": 14
+    },
+    {
+      "personId": 16021,
+      "character": "Moneypenny",
+      "order": 15
+    },
+    {
+      "personId": 10171,
+      "character": "Buttercup",
+      "order": 16
+    },
+    {
+      "personId": 240215,
+      "character": "Eliza",
+      "order": 17
+    },
+    {
+      "personId": 240216,
+      "character": "Heather",
+      "order": 18
+    },
+    {
+      "personId": 240217,
+      "character": "Peg",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 872,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "tmdbId": 42722,
+  "slug": "the-nun-1967",
+  "year": 1967,
+  "runtime": 140,
+  "originalTitle": "La Religieuse",
+  "title": {
+    "en": "The Nun",
+    "tr": "La Religieuse"
+  },
+  "overview": {
+    "en": "In eighteenth-century France, a girl is forced against her will to take vows as a nun. Three mothers superior treat her in radically different ways, ranging from maternal concern, to sadistic persecution, to lesbian desire.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gE1DHh2xIKRL7lnZceqThXIaPW3.jpg",
+    "en": "/75EehgZs63K70RODuFLXXgopPl.jpg"
+  },
+  "backdrops": [
+    "/auWpC62GLdB5je6TOOw1a4jGm2F.jpg",
+    "/mKo6wCPTzt9GzFJ8oU18O2AKQqp.jpg",
+    "/j6u5ij2Xc3APO7Y1WbwBC5VezFp.jpg",
+    "/mPkHFLcBG9giPIXa1OKjlALWlie.jpg",
+    "/5qqN6e5FAmR34uATwlmVt3ATQgN.jpg",
+    "/5H5B2AwCK4GcdlJaD0YPEYQAj4Q.jpg",
+    "/rkd5Y1lFZUZI4Kw9SYWJkgvLxXk.jpg",
+    "/66404WyuLFARAHlOVwqUyhBKcir.jpg",
+    "/QRnwx0PWnMrTxPpVDMOpQoO3sd.jpg",
+    "/ikJtZ3POzJp6QOZVlV2hlSyMrOQ.jpg"
+  ],
+  "trailerKey": "kD5Au1sJmjc",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    236,
+    745,
+    9833,
+    10093
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "SNC",
+    "Rome-Paris Films"
+  ],
+  "crew": [
+    {
+      "personId": 73153,
+      "job": "writer"
+    },
+    {
+      "personId": 18213,
+      "job": "writer"
+    },
+    {
+      "personId": 73153,
+      "job": "director"
+    },
+    {
+      "personId": 21168,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1606876,
+      "job": "composer"
+    },
+    {
+      "personId": 3779,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18197,
+      "character": "Suzanne",
+      "order": 0
+    },
+    {
+      "personId": 5793,
+      "character": "Mme de Chelles",
+      "order": 1
+    },
+    {
+      "personId": 34595,
+      "character": "Mme de Moni",
+      "order": 2
+    },
+    {
+      "personId": 146195,
+      "character": "Soeur Sainte-Christine",
+      "order": 3
+    },
+    {
+      "personId": 9768,
+      "character": "Dom Morel",
+      "order": 4
+    },
+    {
+      "personId": 223281,
+      "character": "Mme Simonin",
+      "order": 5
+    },
+    {
+      "personId": 15396,
+      "character": "Soeur Saint-Thérèse",
+      "order": 6
+    },
+    {
+      "personId": 2255528,
+      "character": "L'Archevêque",
+      "order": 7
+    },
+    {
+      "personId": 1576960,
+      "character": "La Domestique",
+      "order": 8
+    },
+    {
+      "personId": 32112,
+      "character": "Monsieur Simonin",
+      "order": 9
+    },
+    {
+      "personId": 37140,
+      "character": "La Père Séraphin",
+      "order": 10
+    },
+    {
+      "personId": 487910,
+      "character": "Soeur Saint-Jean",
+      "order": 11
+    },
+    {
+      "personId": 232140,
+      "character": "Soeur Sainte-Ursule",
+      "order": 12
+    },
+    {
+      "personId": 39676,
+      "character": "Soeur Saint-Jérôme",
+      "order": 13
+    },
+    {
+      "personId": 38903,
+      "character": "Un Vicaire",
+      "order": 14
+    },
+    {
+      "personId": 39953,
+      "character": "Monsieur Hébert",
+      "order": 15
+    },
+    {
+      "personId": 72089,
+      "character": "Monsieur Manouri",
+      "order": 16
+    },
+    {
+      "personId": 26411,
+      "character": "Le Père Lemoine",
+      "order": 17
+    },
+    {
+      "personId": 2537859,
+      "character": "Soeur Saint-Clément",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 108,
+  "sources": [
+    "cult-list"
+  ]
+}

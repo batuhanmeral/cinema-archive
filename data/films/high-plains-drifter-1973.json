@@ -1,0 +1,189 @@
+{
+  "tmdbId": 11901,
+  "slug": "high-plains-drifter-1973",
+  "year": 1973,
+  "runtime": 106,
+  "originalTitle": "High Plains Drifter",
+  "title": {
+    "en": "High Plains Drifter",
+    "tr": "Kasabadaki Yabancı"
+  },
+  "overview": {
+    "en": "A gunfighting stranger comes to the small settlement of Lago. After gunning down three gunmen who tried to kill him, the townsfolk decide to hire the Stranger to hold off three outlaws who are on their way.",
+    "tr": "Bir serseri, çölün sisleri içinden çıkarak eskiden polis müdürlüğü yapan bir kasabalının, ölümüne kırbaçlandığı Lago’ya gelir. Kasabalılar eyalet hapishanesinden yeni serbest bırakılan ve şiddetli bir intikam için kasabaya geri dönmek üzere olan üç kanun kaçağına karşı durması için ona yalvarırlar."
+  },
+  "poster": {
+    "tr": "/AjkJCFkqanK1OZqiHxc6Kl2wPQO.jpg",
+    "en": "/oGLFi7D8PlPYKXzbPtp8qCseJFn.jpg"
+  },
+  "backdrops": [
+    "/hUw44d6NAFd48xSCLkYb6GluXa7.jpg",
+    "/pxwaKSp8x4gL4EAGfpEZml542fi.jpg",
+    "/cV8b1q9AXO5mR4pvPQpB2UsjGFX.jpg",
+    "/teLJilYBEdBiCNwPuiJaJT0p7i8.jpg",
+    "/gDrgpDJHi0ZwH69KfMIiuBMt0Ja.jpg",
+    "/eQHh5mhkEGwYj8dTZY0BnYtz5QL.jpg",
+    "/2ESoKitGun6C5NpI9QojBxZHlVn.jpg",
+    "/j4drM0pPQEhyGD1CV1CPae5hJFt.jpg",
+    "/r84koZCLU75zW19mq6t3UAjc36M.jpg",
+    "/bgqJrbcC05DuWvkWkBtU639gVd6.jpg"
+  ],
+  "trailerKey": "be2mIVxDrr8",
+  "genreIds": [
+    37,
+    18,
+    9648
+  ],
+  "keywordIds": [
+    75,
+    797,
+    9503,
+    163674,
+    246238,
+    283874,
+    343884
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Malpaso Productions",
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 792,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 190,
+      "job": "director"
+    },
+    {
+      "personId": 55319,
+      "job": "composer"
+    },
+    {
+      "personId": 14777,
+      "job": "producer"
+    },
+    {
+      "personId": 6483,
+      "job": "writer"
+    },
+    {
+      "personId": 190,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 190,
+      "character": "The Stranger",
+      "order": 0
+    },
+    {
+      "personId": 55192,
+      "character": "Sarah Belding",
+      "order": 1
+    },
+    {
+      "personId": 15659,
+      "character": "Callie Travers",
+      "order": 2
+    },
+    {
+      "personId": 14312,
+      "character": "Dave Drake",
+      "order": 3
+    },
+    {
+      "personId": 95597,
+      "character": "Morgan Allen",
+      "order": 4
+    },
+    {
+      "personId": 52463,
+      "character": "Mayor Jason Hobart",
+      "order": 5
+    },
+    {
+      "personId": 59641,
+      "character": "Lewis Belding",
+      "order": 6
+    },
+    {
+      "personId": 102426,
+      "character": "Mordecai",
+      "order": 7
+    },
+    {
+      "personId": 18071,
+      "character": "Stacey Bridges",
+      "order": 8
+    },
+    {
+      "personId": 199813,
+      "character": "Bill Borders",
+      "order": 9
+    },
+    {
+      "personId": 33544,
+      "character": "Sheriff Sam Shaw",
+      "order": 10
+    },
+    {
+      "personId": 106611,
+      "character": "Lutie Naylor",
+      "order": 11
+    },
+    {
+      "personId": 31210,
+      "character": "Asa Goodwin",
+      "order": 12
+    },
+    {
+      "personId": 13875,
+      "character": "Preacher",
+      "order": 13
+    },
+    {
+      "personId": 12296,
+      "character": "Bootmaker",
+      "order": 14
+    },
+    {
+      "personId": 3715,
+      "character": "Cole Carlin",
+      "order": 15
+    },
+    {
+      "personId": 15969,
+      "character": "Barber",
+      "order": 16
+    },
+    {
+      "personId": 152701,
+      "character": "Jake Ross",
+      "order": 17
+    },
+    {
+      "personId": 1565948,
+      "character": "Townswoman",
+      "order": 18
+    },
+    {
+      "personId": 37723,
+      "character": "Dan Carlin",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1413,
+  "sources": [
+    "cult-list"
+  ]
+}

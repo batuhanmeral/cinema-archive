@@ -1,0 +1,183 @@
+{
+  "tmdbId": 3122,
+  "slug": "lady-frankenstein-1971",
+  "year": 1971,
+  "runtime": 99,
+  "originalTitle": "La figlia di Frankenstein",
+  "title": {
+    "en": "Lady Frankenstein",
+    "tr": "La figlia di Frankenstein"
+  },
+  "overview": {
+    "en": "When Dr. Frankenstein is killed by a monster he created, his daughter and his lab assistant continue his experiments.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vMZgGVXHzL6Ixy2zy8ac81TQMzt.jpg",
+    "en": "/uJKbpxQ1XZeKBY4nLl8YdrUUIsd.jpg"
+  },
+  "backdrops": [
+    "/BptAeUVnlWgWqxLygABTNL5SBU.jpg",
+    "/pDWy0iiyxPGOSg4D28LYGVbqm5A.jpg",
+    "/6c1HcF3d3hQIo8m7t6fpCjW4IHF.jpg",
+    "/70bUYQMaMzToyX4E8tNhA0wjVmS.jpg",
+    "/6RLpn7Bb4x2ivVYMMbdUAs9F7hV.jpg",
+    "/mAo96m0NTUL7hWxuxWqktNGhYGB.jpg",
+    "/1rACbyrTKwxbOZsZ5xffh4Ermh.jpg",
+    "/capxIffBR3f8c2gNRwmppOcPiDN.jpg",
+    "/jSEATtQXSW9zQMpzWW4meBXkYDs.jpg"
+  ],
+  "trailerKey": "qoMJfEKRJJQ",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    1299,
+    3182,
+    3098,
+    3262,
+    10125,
+    10124,
+    10714,
+    14760,
+    171247,
+    226430,
+    235261,
+    240303,
+    258464
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "studios": [
+    "Condor International Productions",
+    "New World Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 30647,
+      "job": "director"
+    },
+    {
+      "personId": 30650,
+      "job": "writer"
+    },
+    {
+      "personId": 30647,
+      "job": "producer"
+    },
+    {
+      "personId": 30648,
+      "job": "director"
+    },
+    {
+      "personId": 30658,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30657,
+      "job": "composer"
+    },
+    {
+      "personId": 102429,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7664,
+      "character": "Baron Frankenstein",
+      "order": 0
+    },
+    {
+      "personId": 30664,
+      "character": "Tania Frankenstein",
+      "order": 1
+    },
+    {
+      "personId": 101549,
+      "character": "Dr. Charles Marshall",
+      "order": 2
+    },
+    {
+      "personId": 22531,
+      "character": "Tom Lynch",
+      "order": 3
+    },
+    {
+      "personId": 30666,
+      "character": "Julia Black",
+      "order": 4
+    },
+    {
+      "personId": 116839,
+      "character": "Captain Harris",
+      "order": 5
+    },
+    {
+      "personId": 30667,
+      "character": "Harris' assistant",
+      "order": 6
+    },
+    {
+      "personId": 142134,
+      "character": "Jim Turner",
+      "order": 7
+    },
+    {
+      "personId": 147144,
+      "character": "Sara Willis",
+      "order": 8
+    },
+    {
+      "personId": 3774,
+      "character": "John",
+      "order": 9
+    },
+    {
+      "personId": 1713231,
+      "character": "Simon Burke",
+      "order": 10
+    },
+    {
+      "personId": 1209851,
+      "character": "Jack Morgan",
+      "order": 11
+    },
+    {
+      "personId": 44638,
+      "character": "Hunchback",
+      "order": 12
+    },
+    {
+      "personId": 39151,
+      "character": "Thomas Stack (as Peter Whiteman)",
+      "order": 13
+    },
+    {
+      "personId": 1713232,
+      "character": "Child",
+      "order": 14
+    },
+    {
+      "personId": 103617,
+      "character": "The Creature",
+      "order": 15
+    },
+    {
+      "personId": 102121,
+      "character": "Zack",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 78,
+  "sources": [
+    "cult-list"
+  ]
+}

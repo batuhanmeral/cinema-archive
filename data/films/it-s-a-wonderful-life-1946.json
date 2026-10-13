@@ -1,0 +1,214 @@
+{
+  "tmdbId": 1585,
+  "slug": "it-s-a-wonderful-life-1946",
+  "year": 1946,
+  "runtime": 131,
+  "originalTitle": "It's a Wonderful Life",
+  "title": {
+    "en": "It's a Wonderful Life",
+    "tr": "Şahane Hayat"
+  },
+  "overview": {
+    "en": "George Bailey has spent his entire life giving to the people of Bedford Falls.  All that prevents rich skinflint Mr. Potter from taking over the entire town is George's modest building and loan company.  But on Christmas Eve the business's $8,000 is lost and George's troubles begin.",
+    "tr": "İflasın eşiğine gelen George Bailey (James Stewart) bir Noel gecesinde kendini nehre atarak intihar etmek üzeredir. Doğduğundan bu yana aynı küçük kasabada yaşayan Bailey kendisini buraya ve insanlarına adamış, hoşgörülü, güvenilir ve yardımsever bir insandır. Büyük bunalım'ı hasarsız atlatmış,babasından devraldığı konut ve finans şirketi aracılığı ile kasabalıların neredeyse tamamını konut sahibi yapmıştır. Bu arada para kazanmayı, mimar olma fırsatını,dünyayı gezmeyi, kısaca tüm hayallerini ertelemek zorunda kalmıştır. Kasabaya yaptığı bunca iyilik kötü yürekli banker Henry F. Potter (Lionel Barrymore)'ın çıkarları ile çakışır. Potter, Bailey'in sürekli peşindedir artık.Birgün aradığı fırsat çıkar ve Finans şirketine ait önemli bir miktarda para Bailey'in alkolik ve yaşlı amcası Billy Bailey (Thomas Mitchell)'in dalgınlığı sonucunda Potter'ın eline geçer. Banka müfettişlerinin yaptığı bir denetlemeden sonra şirketin açığı ortaya çıkar. Bu iflas ve tutuklanma anlamına gelmektedir..."
+  },
+  "poster": {
+    "tr": "/i5Sh0aNPx1Vxe6yXgwphKipBLrj.jpg",
+    "en": "/mV3VcmMJN6Zwahj42dy9WwPUyRI.jpg"
+  },
+  "backdrops": [
+    "/ch3lDc4xQ9MpsNEpnRhvR8PIxxK.jpg",
+    "/3q35nBLCIdEbxYfsr7D5ocYQXKz.jpg",
+    "/rqmE0aFFerz8E8PkGOKPAoIY5Ax.jpg",
+    "/rUITLSnNLW0JAIkZ99bS8wyCfVb.jpg",
+    "/mxd1UbyWvlmILEdpT09lk81uDmn.jpg",
+    "/rHUafSSt9v15LfufOO7ZSzbVHvQ.jpg",
+    "/7YTCP5La16kEdVRwn6GBHrMcR1V.jpg",
+    "/3u30JNV6XNkBC9XILwRqHNZow1q.jpg",
+    "/whxy3UQrbHswzXH6jfH7IGAIjLa.jpg",
+    "/opqBFpEf5eVeyZzIdUOxinzcMhD.jpg"
+  ],
+  "trailerKey": "iLR3gZrU2Xo",
+  "genreIds": [
+    18,
+    10751,
+    14
+  ],
+  "keywordIds": [
+    1415,
+    290,
+    1252,
+    65,
+    186,
+    974,
+    5571,
+    5683,
+    12999,
+    15274,
+    155733,
+    156578,
+    156597,
+    171826,
+    175629,
+    184559,
+    196664,
+    207317,
+    209792,
+    215325,
+    253695,
+    260365,
+    273060,
+    325762,
+    325765
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Liberty Films"
+  ],
+  "crew": [
+    {
+      "personId": 14431,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 17761,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2662,
+      "job": "producer"
+    },
+    {
+      "personId": 26159,
+      "job": "writer"
+    },
+    {
+      "personId": 4082,
+      "job": "composer"
+    },
+    {
+      "personId": 2662,
+      "job": "writer"
+    },
+    {
+      "personId": 26160,
+      "job": "writer"
+    },
+    {
+      "personId": 2662,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 854,
+      "character": "George Bailey",
+      "order": 0
+    },
+    {
+      "personId": 17752,
+      "character": "Mary Hatch",
+      "order": 1
+    },
+    {
+      "personId": 17753,
+      "character": "Mr. Potter",
+      "order": 2
+    },
+    {
+      "personId": 3383,
+      "character": "Uncle Billy",
+      "order": 3
+    },
+    {
+      "personId": 7666,
+      "character": "Clarence",
+      "order": 4
+    },
+    {
+      "personId": 17755,
+      "character": "Mrs. Bailey",
+      "order": 5
+    },
+    {
+      "personId": 17759,
+      "character": "Ernie",
+      "order": 6
+    },
+    {
+      "personId": 4303,
+      "character": "Bert",
+      "order": 7
+    },
+    {
+      "personId": 77081,
+      "character": "Violet",
+      "order": 8
+    },
+    {
+      "personId": 33278,
+      "character": "Mr. Gower",
+      "order": 9
+    },
+    {
+      "personId": 78902,
+      "character": "Sam Wainwright",
+      "order": 10
+    },
+    {
+      "personId": 17754,
+      "character": "Harry Bailey",
+      "order": 11
+    },
+    {
+      "personId": 17756,
+      "character": "Pa Bailey",
+      "order": 12
+    },
+    {
+      "personId": 106584,
+      "character": "Cousin Tilly",
+      "order": 13
+    },
+    {
+      "personId": 1033185,
+      "character": "Ruth Dakin",
+      "order": 14
+    },
+    {
+      "personId": 120544,
+      "character": "Cousin Eustace",
+      "order": 15
+    },
+    {
+      "personId": 85957,
+      "character": "Mrs. Hatch",
+      "order": 16
+    },
+    {
+      "personId": 95967,
+      "character": "Mr. Martini",
+      "order": 17
+    },
+    {
+      "personId": 150633,
+      "character": "Annie",
+      "order": 18
+    },
+    {
+      "personId": 113726,
+      "character": "Mrs. Martini",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 5137,
+  "sources": [
+    "cult-list"
+  ]
+}

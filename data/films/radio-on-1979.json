@@ -1,0 +1,159 @@
+{
+  "tmdbId": 45945,
+  "slug": "radio-on-1979",
+  "year": 1979,
+  "runtime": 104,
+  "originalTitle": "Radio On",
+  "title": {
+    "en": "Radio On",
+    "tr": "Radio On"
+  },
+  "overview": {
+    "en": "A London radio DJ receives news of his brother's suicide and travels west to Bristol to find out more.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4KHfHnCq0GEEJSHNaKGsFppNQbv.jpg",
+    "en": "/4KHfHnCq0GEEJSHNaKGsFppNQbv.jpg"
+  },
+  "backdrops": [
+    "/pwDuUpAypSJJuNsE4WJ8l0YpSL9.jpg",
+    "/oUb780yz2B4W8nABCFu05pcI8Nc.jpg",
+    "/l6jtGCklPhJgFCCUyGd6Se5fyxC.jpg",
+    "/2vSeQW8nS2IL8DHIxbHXxTMkSd6.jpg"
+  ],
+  "trailerKey": "BjXz4lw_phI",
+  "genreIds": [
+    18,
+    9648,
+    10402
+  ],
+  "keywordIds": [],
+  "countries": [
+    "DE",
+    "GB"
+  ],
+  "languages": [
+    "de",
+    "en"
+  ],
+  "studios": [
+    "BFI",
+    "Road Movies"
+  ],
+  "crew": [
+    {
+      "personId": 1078794,
+      "job": "director"
+    },
+    {
+      "personId": 67044,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1078794,
+      "job": "writer"
+    },
+    {
+      "personId": 229247,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1220108,
+      "character": "Robert",
+      "order": 0
+    },
+    {
+      "personId": 22612,
+      "character": "Ingrid",
+      "order": 1
+    },
+    {
+      "personId": 183159,
+      "character": "Kathy",
+      "order": 2
+    },
+    {
+      "personId": 1111007,
+      "character": "Deserter",
+      "order": 3
+    },
+    {
+      "personId": 10737,
+      "character": "Girl",
+      "order": 4
+    },
+    {
+      "personId": 982,
+      "character": "Just Like Eddie",
+      "order": 5
+    },
+    {
+      "personId": 1111012,
+      "character": "Aunt",
+      "order": 6
+    },
+    {
+      "personId": 1111015,
+      "character": "German Woman",
+      "order": 7
+    },
+    {
+      "personId": 2097694,
+      "character": "Kid",
+      "order": 8
+    },
+    {
+      "personId": 1111026,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 185464,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 218374,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 152014,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1111037,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1111039,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1111040,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1111041,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1111042,
+      "character": "",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 28,
+  "sources": [
+    "cult-list"
+  ]
+}

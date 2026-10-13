@@ -1,0 +1,203 @@
+{
+  "tmdbId": 5817,
+  "slug": "you-the-living-2007",
+  "year": 2007,
+  "runtime": 93,
+  "originalTitle": "Du levande",
+  "title": {
+    "en": "You, the Living",
+    "tr": "Siz, Yaşayanlar"
+  },
+  "overview": {
+    "en": "In the Swedish city of Lethe, people from different walks of life take part in a series of short, deadpan vignettes that rush past. Some are just seconds long, none longer than a couple of minutes. A young woman remembers a fantasy honeymoon with a rock guitarist. A man awakes from a dream about bomber planes. A businessman boasts about success while being robbed by a pickpocket, and so on. The absurdist collection is accompanied by Dixieland jazz and similar music.",
+    "tr": "İsveç sinemasının usta yönetmenlerinden Roy Andersson'un \"İkinci Kattan Şarkılar\" filminin ardından çektiği \"Yaşayanlar\" üçlemesinin ikinci filmi. Çeşitli sıradan gündelik olayları bir araya getiren Siz, Yaşayanlar, yaşarken yaşadığımızın farkında olup olmadığımızı, hayatımızla mı yoksa karşılaştığımız gündelik sıkıntılar mı daha alakadar olduğumuzu sorgulatan gerçekçi ve eleştirel bir gözlem."
+  },
+  "poster": {
+    "tr": "/j4FAPvqjqUvs1YrQi76p6fIDRUB.jpg",
+    "en": "/rFZcNS0fKr0RSM7U3a9UKZAaqNq.jpg"
+  },
+  "backdrops": [
+    "/xksy5U3DXiMhSMskfdQfzQ3LP1E.jpg",
+    "/uMgVikqprjU84eDBTI0dbapX02c.jpg",
+    "/jjbtd1PqoWhJcqm0QXBh8YTBJS3.jpg",
+    "/51bo2KOSY784uRVY5PaNEvScjZ9.jpg",
+    "/9bhRGBM8YzQfO0kCtvbQIufmJdN.jpg",
+    "/cuEJy2RAoEgFBdVoDsshmY0c8CZ.jpg",
+    "/lnfgvlRGGmcrzvtjEUxc8AjNthx.jpg",
+    "/eCXUz3oAGYTWcbZqSgJ8Aty10LX.jpg",
+    "/8QycukZjP6ZvDINRdZbQEeHYwE9.jpg"
+  ],
+  "trailerKey": "vwLBeFyi6b8",
+  "genreIds": [
+    18,
+    35,
+    10402
+  ],
+  "keywordIds": [
+    1605,
+    3800,
+    1416,
+    3430,
+    928,
+    1979,
+    1192,
+    4552,
+    4344,
+    5756,
+    6281,
+    7368,
+    9736,
+    14527,
+    15106,
+    182600,
+    190116,
+    236316
+  ],
+  "countries": [
+    "DK",
+    "FR",
+    "DE",
+    "JP",
+    "NO",
+    "SE"
+  ],
+  "languages": [
+    "sv"
+  ],
+  "studios": [
+    "Roy Andersson Filmproduktion",
+    "Coproduction Office",
+    "Société Parisienne de Production"
+  ],
+  "crew": [
+    {
+      "personId": 45791,
+      "job": "director"
+    },
+    {
+      "personId": 45791,
+      "job": "writer"
+    },
+    {
+      "personId": 45792,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 45793,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 45794,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 45800,
+      "job": "producer"
+    },
+    {
+      "personId": 18824,
+      "job": "producer"
+    },
+    {
+      "personId": 45799,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 45775,
+      "character": "The Psychiatrist",
+      "order": 0
+    },
+    {
+      "personId": 45776,
+      "character": "Micke Larsson",
+      "order": 1
+    },
+    {
+      "personId": 45777,
+      "character": "The Professor",
+      "order": 2
+    },
+    {
+      "personId": 45778,
+      "character": "The Tuba Player",
+      "order": 3
+    },
+    {
+      "personId": 45779,
+      "character": "The Man on the Balcony",
+      "order": 4
+    },
+    {
+      "personId": 45780,
+      "character": "The Carpet Dealer",
+      "order": 5
+    },
+    {
+      "personId": 45781,
+      "character": "Mia",
+      "order": 6
+    },
+    {
+      "personId": 45782,
+      "character": "The Businessman",
+      "order": 7
+    },
+    {
+      "personId": 45783,
+      "character": "The Carpenter",
+      "order": 8
+    },
+    {
+      "personId": 45784,
+      "character": "Anna",
+      "order": 9
+    },
+    {
+      "personId": 45785,
+      "character": "The Teacher",
+      "order": 10
+    },
+    {
+      "personId": 45786,
+      "character": "Uffe",
+      "order": 11
+    },
+    {
+      "personId": 45787,
+      "character": "The Pick-pocket",
+      "order": 12
+    },
+    {
+      "personId": 45788,
+      "character": "The Consultant",
+      "order": 13
+    },
+    {
+      "personId": 45789,
+      "character": "The Barber",
+      "order": 14
+    },
+    {
+      "personId": 45790,
+      "character": "The Fan",
+      "order": 15
+    },
+    {
+      "personId": 1548699,
+      "character": "Man at the psychiatrist (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1947072,
+      "character": "",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 271,
+  "sources": [
+    "cult-list"
+  ]
+}

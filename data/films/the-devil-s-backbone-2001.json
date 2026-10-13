@@ -1,0 +1,183 @@
+{
+  "tmdbId": 1433,
+  "slug": "the-devil-s-backbone-2001",
+  "year": 2001,
+  "runtime": 108,
+  "originalTitle": "El espinazo del diablo",
+  "title": {
+    "en": "The Devil's Backbone",
+    "tr": "Şeytanın Bel Kemiği"
+  },
+  "overview": {
+    "en": "Spain, 1939. In the last days of the Spanish Civil War, the young Carlos arrives at the Santa Lucía orphanage, where he will make friends and enemies as he follows the quiet footsteps of a mysterious presence eager for revenge.",
+    "tr": "1939 yılı, İspanya İç Savaşı'nda Franco'ya karşı savaşan Cumhuriyetçi bir direnişçi, küçük oğlu Carlos'u yetimhaneye bırakır. Franco'ya karşı direnişlerin çocuklarını saklayan bu yetimhanenin başında Carmen ve ona gizli bir aşk besleyen Profesör Casares bulunmaktadır. Yetimhaneye geldiği ilk günden beri, yaşça ondan daha büyük olan çocuklar Carlos ile uğraşmaya başlarlar. Ancak Carlos'la uğraşan yalnız bu çocuklar değildir; Carlos gizemli bir güç tarafından izlenmektedir."
+  },
+  "poster": {
+    "tr": "/iP1z1aJzPnkP8FHg77TS7ukqoEZ.jpg",
+    "en": "/lzQndT3Gv8O3EOMle0LO4koAPyl.jpg"
+  },
+  "backdrops": [
+    "/zKxanXli9hZzP0JylAKZP9R6G5.jpg",
+    "/fZ831hSpFVfsBKKZSgoT7pEjwuL.jpg",
+    "/5wKzJ7I3aDoNEhl6uOvWiE9ekY0.jpg",
+    "/h3TgW7jvJNnJqGekv6qfkExi6wL.jpg",
+    "/9qJm5XhdgFWkHZIAwm7TurLxQIy.jpg",
+    "/1QS8aPC4xwb0a7tZ0CrfWOOuhlN.jpg",
+    "/10MWXM5jD0qDSsqgmA5UNanuO0o.jpg",
+    "/xqIJ3vLow75L8vhzRfX76E0EOSE.jpg",
+    "/9KuaNaiLj1BhIhpLfhRrpah9kCO.jpg",
+    "/iPXc4fu6D4R2fU5tyiijkJo1DtB.jpg"
+  ],
+  "trailerKey": "RZi4geYuSNE",
+  "genreIds": [
+    14,
+    18,
+    27,
+    53
+  ],
+  "keywordIds": [
+    514,
+    6783,
+    5509,
+    15032,
+    162846,
+    211362,
+    214548,
+    238467,
+    250461,
+    256908
+  ],
+  "countries": [
+    "ES",
+    "MX"
+  ],
+  "languages": [
+    "es"
+  ],
+  "studios": [
+    "Tequila Gang",
+    "Anhelo Productions",
+    "El Deseo"
+  ],
+  "crew": [
+    {
+      "personId": 10828,
+      "job": "writer"
+    },
+    {
+      "personId": 10828,
+      "job": "director"
+    },
+    {
+      "personId": 17004,
+      "job": "composer"
+    },
+    {
+      "personId": 3113,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 234825,
+      "job": "writer"
+    },
+    {
+      "personId": 1430330,
+      "job": "writer"
+    },
+    {
+      "personId": 952,
+      "job": "producer"
+    },
+    {
+      "personId": 17001,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 954,
+      "character": "Carmen",
+      "order": 0
+    },
+    {
+      "personId": 17093,
+      "character": "Jacinto",
+      "order": 1
+    },
+    {
+      "personId": 17094,
+      "character": "Dr. Casares",
+      "order": 2
+    },
+    {
+      "personId": 17095,
+      "character": "Carlos",
+      "order": 3
+    },
+    {
+      "personId": 17096,
+      "character": "Jaime",
+      "order": 4
+    },
+    {
+      "personId": 17097,
+      "character": "Conchita",
+      "order": 5
+    },
+    {
+      "personId": 17098,
+      "character": "Marcelo",
+      "order": 6
+    },
+    {
+      "personId": 1605,
+      "character": "'El Puerco'",
+      "order": 7
+    },
+    {
+      "personId": 17099,
+      "character": "Santi",
+      "order": 8
+    },
+    {
+      "personId": 17100,
+      "character": "Alma",
+      "order": 9
+    },
+    {
+      "personId": 17101,
+      "character": "Gálvez",
+      "order": 10
+    },
+    {
+      "personId": 17102,
+      "character": "Marcos",
+      "order": 11
+    },
+    {
+      "personId": 225023,
+      "character": "Domínguez",
+      "order": 12
+    },
+    {
+      "personId": 1089049,
+      "character": "Ayala",
+      "order": 13
+    },
+    {
+      "personId": 966424,
+      "character": "'Búho'",
+      "order": 14
+    },
+    {
+      "personId": 1445669,
+      "character": "Orphan",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 1448,
+  "sources": [
+    "cult-list"
+  ]
+}

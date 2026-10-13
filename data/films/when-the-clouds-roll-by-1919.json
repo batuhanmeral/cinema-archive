@@ -1,0 +1,140 @@
+{
+  "tmdbId": 72497,
+  "slug": "when-the-clouds-roll-by-1919",
+  "year": 1919,
+  "runtime": 85,
+  "originalTitle": "When the Clouds Roll By",
+  "title": {
+    "en": "When the Clouds Roll By",
+    "tr": "When the Clouds Roll By"
+  },
+  "overview": {
+    "en": "Daniel Boone Brown is a pleasure-seeking playboy carousing around New York City without a care in the world – that is, until he becomes the unwitting subject of a series of experiments at the hands of a sadistic psychiatrist.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/jt16vWT6X1UAsKOklmcyxxcFUz3.jpg",
+    "en": "/jt16vWT6X1UAsKOklmcyxxcFUz3.jpg"
+  },
+  "backdrops": [
+    "/eOXLDdMY55zfsoP6wqYRL3k8CQH.jpg",
+    "/pZnMY2odVbEN0leADfEJJpC3WRQ.jpg",
+    "/4V18bBpzkZzxrhdEDKZUUcYByk.jpg",
+    "/mH4UeU7FpwKR47fxYwgteoUGuYJ.jpg",
+    "/umiW1kHrfvh3p2SQoQS3Vpa5dX9.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    10749,
+    28,
+    35
+  ],
+  "keywordIds": [],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Douglas Fairbanks Pictures",
+    "United Artists"
+  ],
+  "crew": [
+    {
+      "personId": 9049,
+      "job": "director"
+    },
+    {
+      "personId": 1375843,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9049,
+      "job": "writer"
+    },
+    {
+      "personId": 109088,
+      "job": "producer"
+    },
+    {
+      "personId": 88664,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 109088,
+      "character": "Daniel Boone Brown",
+      "order": 0
+    },
+    {
+      "personId": 1321419,
+      "character": "Hobson",
+      "order": 1
+    },
+    {
+      "personId": 1581761,
+      "character": "Lucette Bancroft",
+      "order": 2
+    },
+    {
+      "personId": 63383,
+      "character": "Mark Drake",
+      "order": 3
+    },
+    {
+      "personId": 8833,
+      "character": "Curtis Brown",
+      "order": 4
+    },
+    {
+      "personId": 149003,
+      "character": "Dr. Ulrich Metz",
+      "order": 5
+    },
+    {
+      "personId": 1522077,
+      "character": "Bobby De Vere",
+      "order": 6
+    },
+    {
+      "personId": 29265,
+      "character": "The Nightmare",
+      "order": 7
+    },
+    {
+      "personId": 9049,
+      "character": "Himself",
+      "order": 8
+    },
+    {
+      "personId": 1143823,
+      "character": "Himself",
+      "order": 9
+    },
+    {
+      "personId": 88664,
+      "character": "Himself",
+      "order": 10
+    },
+    {
+      "personId": 1375843,
+      "character": "Himself",
+      "order": 11
+    },
+    {
+      "personId": 1058154,
+      "character": "Elevator Operator",
+      "order": 12
+    },
+    {
+      "personId": 141346,
+      "character": "Switchboard Operator",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 22,
+  "sources": [
+    "cult-list"
+  ]
+}

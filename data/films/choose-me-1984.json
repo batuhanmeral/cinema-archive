@@ -1,0 +1,189 @@
+{
+  "tmdbId": 42086,
+  "slug": "choose-me-1984",
+  "year": 1984,
+  "runtime": 106,
+  "originalTitle": "Choose Me",
+  "title": {
+    "en": "Choose Me",
+    "tr": "Choose Me"
+  },
+  "overview": {
+    "en": "Several lost-soul night-owls, including a nightclub owner, a talk radio relationship counselor, and an itinerant stranger have encounters that expose their contradictions and anxieties about love and acceptance.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/koNvG8XTMvKmkEv15PjBKUMNdEc.jpg",
+    "en": "/3JxvPIpdu7HEKt1wAmgYD0gb8fS.jpg"
+  },
+  "backdrops": [
+    "/iojrAYDzS4tyZW6EtiZFYEz8xHD.jpg",
+    "/tEc74NqUNHExvPSYMIp1kYG2nwc.jpg",
+    "/tNkbOrmPkEqBPSQBD5mIPv9UrTK.jpg",
+    "/ehp6suFXW4ilTxfQk70KLZgWsCK.jpg",
+    "/lkvWrsXGYxDfth1qyzylCzPGUXR.jpg",
+    "/p8Mi6eYzaohLrQkxAtjOVoPa1Fi.jpg",
+    "/gmxiVPh6zNg3Lz7bPOYkjFhpeEl.jpg",
+    "/2yPEomdUXHQqBEBwlczpq8NOASY.jpg",
+    "/hrQGIaUiOuNMcqJoBC5XitumOU5.jpg",
+    "/vwNH9kbU6vhuZaDtX4w5vECaupW.jpg"
+  ],
+  "trailerKey": "yFNvRXAt3dE",
+  "genreIds": [
+    10749,
+    35,
+    18
+  ],
+  "keywordIds": [
+    1224,
+    3740,
+    1253,
+    4433,
+    10901,
+    12670,
+    164593,
+    207268,
+    235590,
+    277050,
+    324713
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Island Alive"
+  ],
+  "crew": [
+    {
+      "personId": 43529,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 72427,
+      "job": "director"
+    },
+    {
+      "personId": 72427,
+      "job": "writer"
+    },
+    {
+      "personId": 28154,
+      "job": "producer"
+    },
+    {
+      "personId": 59469,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 35341,
+      "character": "Nancy",
+      "order": 0
+    },
+    {
+      "personId": 30613,
+      "character": "Mickey",
+      "order": 1
+    },
+    {
+      "personId": 21818,
+      "character": "Eve",
+      "order": 2
+    },
+    {
+      "personId": 5274,
+      "character": "Zack Antoine",
+      "order": 3
+    },
+    {
+      "personId": 13312,
+      "character": "Pearl Antoine",
+      "order": 4
+    },
+    {
+      "personId": 14101,
+      "character": "Billy Ace",
+      "order": 5
+    },
+    {
+      "personId": 229552,
+      "character": "Ralph Chomsky",
+      "order": 6
+    },
+    {
+      "personId": 2886,
+      "character": "Mueller",
+      "order": 7
+    },
+    {
+      "personId": 6880,
+      "character": "Lou",
+      "order": 8
+    },
+    {
+      "personId": 74763,
+      "character": "Dr. Ernest Greene",
+      "order": 9
+    },
+    {
+      "personId": 3293835,
+      "character": "Babs",
+      "order": 10
+    },
+    {
+      "personId": 198970,
+      "character": "Ida",
+      "order": 11
+    },
+    {
+      "personId": 10416,
+      "character": "Harve",
+      "order": 12
+    },
+    {
+      "personId": 3293842,
+      "character": "Bradshaw",
+      "order": 13
+    },
+    {
+      "personId": 2719693,
+      "character": "Studio Secretary",
+      "order": 14
+    },
+    {
+      "personId": 16506,
+      "character": "Hospital Administrator",
+      "order": 15
+    },
+    {
+      "personId": 1172117,
+      "character": "Cousin",
+      "order": 16
+    },
+    {
+      "personId": 3258710,
+      "character": "Nurse La Mer",
+      "order": 17
+    },
+    {
+      "personId": 1733395,
+      "character": "Woman on Bus",
+      "order": 18
+    },
+    {
+      "personId": 1729762,
+      "character": "Gida",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 46,
+  "sources": [
+    "cult-list"
+  ]
+}

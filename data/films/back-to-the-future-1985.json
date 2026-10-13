@@ -1,0 +1,215 @@
+{
+  "tmdbId": 105,
+  "slug": "back-to-the-future-1985",
+  "year": 1985,
+  "runtime": 116,
+  "originalTitle": "Back to the Future",
+  "title": {
+    "en": "Back to the Future",
+    "tr": "Geleceğe Dönüş"
+  },
+  "overview": {
+    "en": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+    "tr": "Dönemin özellikle tasarımıyla öne çıkan otomobillerinden olan bir DeLoran'ın içine gizlenmiş icat, Marty'i yanlışlıkla 50'lere geri götürür. Sorumsuz delikanlı bu gösterişsiz Amerikan kasabasında bir kazaya yol açar ve müstakbel anne ve babasının tanışmasına engel olur. Böylece kendisi de hiç doğmamış olacağı için bu durumu düzeltmesi gerekmektedir. Ama hayat sandığından daha karmaşıktır ve sorumluluk kelimesinin anlamını öğrenmek zorundadır."
+  },
+  "poster": {
+    "tr": "/s6pfkJuTFZe7BCfJ5vOCECNmQbW.jpg",
+    "en": "/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg"
+  },
+  "backdrops": [
+    "/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+    "/fq3wyOs1RHyz2yfzsb4sck7aWRG.jpg",
+    "/hxSB02ksqnkXY4hPGAXqgO2fL01.jpg",
+    "/yYCpbgjzbVG6bzEh0dy9zWDnwG4.jpg",
+    "/yz8QL8WFD8yj0LA5zIlNOgcHvZK.jpg",
+    "/viYXIzNaZfXVYjeWmFkSiVfAW7m.jpg",
+    "/qskzmLTbarKnXDbo2HRj4NJ3vcW.jpg",
+    "/cSjoKG6CNQUPArytccI0FmZ6I63.jpg",
+    "/QCqjm2JMaN6qptzMjmPuWXsMFA.jpg",
+    "/mqNU1BytVJnrmMyxalqs9F0vgBf.jpg"
+  ],
+  "trailerKey": "ez6WQ7IX72U",
+  "genreIds": [
+    12,
+    35,
+    878
+  ],
+  "keywordIds": [
+    391,
+    4776,
+    389,
+    830,
+    952,
+    953,
+    1436,
+    1743,
+    3338,
+    4379,
+    6733,
+    5455,
+    10125,
+    9673,
+    11860,
+    13015,
+    18425,
+    40850,
+    163070,
+    186189,
+    206720,
+    206736,
+    208349,
+    208611,
+    288816,
+    325811,
+    325840
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "Amblin Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 1060,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 24,
+      "job": "director"
+    },
+    {
+      "personId": 1058,
+      "job": "producer"
+    },
+    {
+      "personId": 37,
+      "job": "composer"
+    },
+    {
+      "personId": 1059,
+      "job": "producer"
+    },
+    {
+      "personId": 1058,
+      "job": "writer"
+    },
+    {
+      "personId": 24,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 521,
+      "character": "Marty McFly",
+      "order": 0
+    },
+    {
+      "personId": 1062,
+      "character": "Emmett Brown",
+      "order": 1
+    },
+    {
+      "personId": 1064,
+      "character": "George McFly",
+      "order": 2
+    },
+    {
+      "personId": 1063,
+      "character": "Lorraine Baines",
+      "order": 3
+    },
+    {
+      "personId": 1066,
+      "character": "Jennifer Parker",
+      "order": 4
+    },
+    {
+      "personId": 1065,
+      "character": "Biff Tannen",
+      "order": 5
+    },
+    {
+      "personId": 1067,
+      "character": "Dave McFly",
+      "order": 6
+    },
+    {
+      "personId": 1068,
+      "character": "Linda McFly",
+      "order": 7
+    },
+    {
+      "personId": 1069,
+      "character": "Sam Baines",
+      "order": 8
+    },
+    {
+      "personId": 1070,
+      "character": "Stella Baines",
+      "order": 9
+    },
+    {
+      "personId": 1072,
+      "character": "Mr. Strickland",
+      "order": 10
+    },
+    {
+      "personId": 11673,
+      "character": "Skinhead",
+      "order": 11
+    },
+    {
+      "personId": 1953,
+      "character": "3-D",
+      "order": 12
+    },
+    {
+      "personId": 1954,
+      "character": "Match",
+      "order": 13
+    },
+    {
+      "personId": 1074,
+      "character": "Marvin Berry",
+      "order": 14
+    },
+    {
+      "personId": 84494,
+      "character": "Goldie Wilson",
+      "order": 15
+    },
+    {
+      "personId": 97708,
+      "character": "Babs",
+      "order": 16
+    },
+    {
+      "personId": 1116544,
+      "character": "Betty",
+      "order": 17
+    },
+    {
+      "personId": 172280,
+      "character": "Clocktower Lady",
+      "order": 18
+    },
+    {
+      "personId": 97718,
+      "character": "Pa Peabody",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 22669,
+  "sources": [
+    "cult-list"
+  ]
+}

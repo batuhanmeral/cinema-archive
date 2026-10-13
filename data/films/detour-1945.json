@@ -1,0 +1,141 @@
+{
+  "tmdbId": 20367,
+  "slug": "detour-1945",
+  "year": 1945,
+  "runtime": 68,
+  "originalTitle": "Detour",
+  "title": {
+    "en": "Detour",
+    "tr": "Detour"
+  },
+  "overview": {
+    "en": "The life of Al Roberts, a pianist in a New York nightclub, turns into a nightmare when he decides to hitchhike to Los Angeles to visit his girlfriend.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gJb9HRAs1V4bA0VKsWpT6mhv2RT.jpg",
+    "en": "/gJb9HRAs1V4bA0VKsWpT6mhv2RT.jpg"
+  },
+  "backdrops": [
+    "/uGOKN4VeCsf249zypWfaAzfTxAB.jpg",
+    "/ynYcNk44X9uqKh9OcVBD9UMHlV8.jpg",
+    "/abdtYcl62L7PQHwK9DGW5oj44zY.jpg",
+    "/AnomytKsuywtXTQcYT3E3e9D49H.jpg",
+    "/jwLYoQiJ8LRjirviIOkeyFhDqq8.jpg",
+    "/AraZA8oe2fYOP0Gc6gAduFrIUHt.jpg",
+    "/7RCdXT4dNZ8f3379TArdmjmo9mc.jpg",
+    "/4MQ3E3FvE8KlvlL8CgyVAC7YvdS.jpg",
+    "/zh78gA0ZmpMwp6MYWFjAwmSdDGX.jpg",
+    "/j2HVi7K1BsIGFgS5CQgklSRG5Ri.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    818,
+    9807,
+    11546,
+    167043,
+    255656
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "PRC"
+  ],
+  "crew": [
+    {
+      "personId": 5030,
+      "job": "director"
+    },
+    {
+      "personId": 86000,
+      "job": "writer"
+    },
+    {
+      "personId": 96726,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 115450,
+      "job": "producer"
+    },
+    {
+      "personId": 121235,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85993,
+      "character": "Al Roberts",
+      "order": 0
+    },
+    {
+      "personId": 34330,
+      "character": "Vera",
+      "order": 1
+    },
+    {
+      "personId": 85994,
+      "character": "Sue Harvey",
+      "order": 2
+    },
+    {
+      "personId": 85995,
+      "character": "Charles Haskell Jr.",
+      "order": 3
+    },
+    {
+      "personId": 85996,
+      "character": "Diner Owner Gus",
+      "order": 4
+    },
+    {
+      "personId": 85997,
+      "character": "Hedy",
+      "order": 5
+    },
+    {
+      "personId": 85998,
+      "character": "Joe",
+      "order": 6
+    },
+    {
+      "personId": 67369,
+      "character": "Used Car Salesman (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 158015,
+      "character": "Cop (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 120199,
+      "character": "Used Car Mechanic (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 1729575,
+      "character": "Nightclub Patron (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 131003,
+      "character": "California Border Patrolman (uncredited)",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 434,
+  "sources": [
+    "cult-list"
+  ]
+}

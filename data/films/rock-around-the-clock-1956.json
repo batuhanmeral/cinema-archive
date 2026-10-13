@@ -1,0 +1,177 @@
+{
+  "tmdbId": 93061,
+  "slug": "rock-around-the-clock-1956",
+  "year": 1956,
+  "runtime": 77,
+  "originalTitle": "Rock Around the Clock",
+  "title": {
+    "en": "Rock Around the Clock",
+    "tr": "Rock Around the Clock"
+  },
+  "overview": {
+    "en": "A frustrated big-band promoter runs in to rock-and-rollers Bill Haley and the Comets at a small-town dance. He quickly becomes their manager and, with the help of Alan Freed, hopes to bring the new sound to the entire country. But will a conniving booking agent, with a personal ax to grind with the manager, conspire to keep the band from making the big time?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9ARK9a3zovLoNsJIc3T1JCEo8AF.jpg",
+    "en": "/4kPt8bUhr8YL8rIgLiCRJKVf4wi.jpg"
+  },
+  "backdrops": [
+    "/c5BvwEbCrtSkWXKpUEpHhUZD4ml.jpg",
+    "/nB9lo9DbROGQQd8dcQ5UnI2ouQm.jpg",
+    "/aGv0Xsbt6aVkvK5QVFR9jmEnOLb.jpg",
+    "/9jrLAdm5ot9sPGKHSoKzsUZPLZj.jpg",
+    "/s1t44nqBMdl7mJgzYGPiyCSNprx.jpg",
+    "/fZfDt07sjtAXIxSBgKhVxYpZUKd.jpg",
+    "/8TGOQWDU6NvkUh2vBBithxaEivO.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10402,
+    10749,
+    35
+  ],
+  "keywordIds": [
+    11700
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Clover Productions",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 82751,
+      "job": "director"
+    },
+    {
+      "personId": 1163670,
+      "job": "writer"
+    },
+    {
+      "personId": 109704,
+      "job": "writer"
+    },
+    {
+      "personId": 34112,
+      "job": "producer"
+    },
+    {
+      "personId": 96726,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 985266,
+      "character": "Steve Hollis",
+      "order": 0
+    },
+    {
+      "personId": 236479,
+      "character": "Corinne Talbot",
+      "order": 1
+    },
+    {
+      "personId": 103462,
+      "character": "Lisa Johns",
+      "order": 2
+    },
+    {
+      "personId": 78793,
+      "character": "Mike Dodd",
+      "order": 3
+    },
+    {
+      "personId": 130334,
+      "character": "Corny LaSalle",
+      "order": 4
+    },
+    {
+      "personId": 165904,
+      "character": "Jimmy Johns",
+      "order": 5
+    },
+    {
+      "personId": 22866,
+      "character": "Himself",
+      "order": 6
+    },
+    {
+      "personId": 1167198,
+      "character": "Himself",
+      "order": 7
+    },
+    {
+      "personId": 986290,
+      "character": "Himself",
+      "order": 8
+    },
+    {
+      "personId": 1242674,
+      "character": "Himself",
+      "order": 9
+    },
+    {
+      "personId": 105454,
+      "character": "Motel Manager",
+      "order": 10
+    },
+    {
+      "personId": 4235657,
+      "character": "Himself",
+      "order": 11
+    },
+    {
+      "personId": 1824463,
+      "character": "Dancer (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 2976504,
+      "character": "Himself",
+      "order": 13
+    },
+    {
+      "personId": 100993,
+      "character": "Girl at Strawberry Springs Dance (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 4235659,
+      "character": "Dancer (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 4159726,
+      "character": "Dancer (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 4235661,
+      "character": "Himself",
+      "order": 17
+    },
+    {
+      "personId": 191823,
+      "character": "Club Patron (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 4235663,
+      "character": "Dancer (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 19,
+  "sources": [
+    "cult-list"
+  ]
+}

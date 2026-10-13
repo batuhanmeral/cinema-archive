@@ -1,0 +1,115 @@
+{
+  "tmdbId": 31655,
+  "slug": "the-terror-1963",
+  "year": 1963,
+  "runtime": 79,
+  "originalTitle": "The Terror",
+  "title": {
+    "en": "The Terror",
+    "tr": "Dehşet"
+  },
+  "overview": {
+    "en": "Lt. Andre Duvalier awakens on a beach to the sight of a strange woman who leads him to the gothic, towering castle that serves as home to an eerie baron.",
+    "tr": "Napoleon'un ordularında görevli genç teğmen Andre Duvalier (Jack Nicholson), bir çatışma sonrasında birliğinden ayrı düşerek Koblenz adlı küçük bir kasabada, bölgenin soylularından Baron von Leppe'nin (Boris Karloff) şatosuna sığınır. Helene (Sandra Knight) adlı genç bir kızın zaman zaman ortaya çıkıp kaybolmasıyla başlayan gizemli olaylar teğmen Duvalier'in ilgisini çeker ve kendisini bir anda Baron'un karanlık geçmişine doğru birbiri ardına açılan sır perdelerinin arasında bulur."
+  },
+  "poster": {
+    "tr": "/7ls64LquXB0nc5MkJFWyWaXlBLj.jpg",
+    "en": "/8t3Tsij0z8WYDld5j6dvN7eoPHl.jpg"
+  },
+  "backdrops": [
+    "/yZ0dExpNW44xrpOG6qHwLV8pq3P.jpg",
+    "/2YT06gajB1TQjeSj0j1cqbYlwd5.jpg",
+    "/7EPYIzxKBskgBVh1Zv0f5CwkGTw.jpg",
+    "/hvM7ULJ6S3cXZQn9TAtx8tS4yHb.jpg",
+    "/rPvBvDU24xd78qvABtECA0KeEAT.jpg",
+    "/zW1ZeMtnMBARNooV9m6SpiPuJBx.jpg",
+    "/oWsCfVcICDo0gOfME1LHhcWFh0G.jpg",
+    "/xn0aHpEVU5fomIQWhtkoa90UHnq.jpg"
+  ],
+  "trailerKey": "N2YRo6dskac",
+  "genreIds": [
+    27,
+    9648
+  ],
+  "keywordIds": [
+    3098,
+    9552,
+    33505
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Filmgroup"
+  ],
+  "crew": [
+    {
+      "personId": 102429,
+      "job": "director"
+    },
+    {
+      "personId": 99452,
+      "job": "composer"
+    },
+    {
+      "personId": 91999,
+      "job": "composer"
+    },
+    {
+      "personId": 89159,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 102429,
+      "job": "producer"
+    },
+    {
+      "personId": 31310,
+      "job": "writer"
+    },
+    {
+      "personId": 95082,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2922,
+      "character": "Baron Victor Frederick Von Leppe",
+      "order": 0
+    },
+    {
+      "personId": 514,
+      "character": "Lt. Andre Duvalier",
+      "order": 1
+    },
+    {
+      "personId": 102826,
+      "character": "Helene / Ghost of Ilsa The Baroness Von Leppe",
+      "order": 2
+    },
+    {
+      "personId": 102441,
+      "character": "Stefan",
+      "order": 3
+    },
+    {
+      "personId": 87752,
+      "character": "Katrina, Witch / Eric's Mother",
+      "order": 4
+    },
+    {
+      "personId": 98452,
+      "character": "Gustaf",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 192,
+  "sources": [
+    "cult-list"
+  ]
+}

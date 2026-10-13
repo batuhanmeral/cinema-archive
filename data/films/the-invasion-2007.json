@@ -1,0 +1,216 @@
+{
+  "tmdbId": 4858,
+  "slug": "the-invasion-2007",
+  "year": 2007,
+  "runtime": 99,
+  "originalTitle": "The Invasion",
+  "title": {
+    "en": "The Invasion",
+    "tr": "İstila"
+  },
+  "overview": {
+    "en": "Washington, D.C. psychologist Carol Bennell and her colleague Dr. Ben Driscoll are the only two people on Earth who are aware of an epidemic running rampant through the city. They discover an alien virus aboard a crashed space shuttle that transforms anyone who comes into contact with it into unfeeling drones while they sleep. Carol realizes her son holds the key to stopping the spread of the plague and she races to find him before it is too late.",
+    "tr": "Dallas’tan Washington’a kadar semaları aydınlatan devasa bir patlama, Patriot adlı uzay mekiğinin parçalanmasına ve ABD’nin üzerine yağmur gibi yağmasına neden olur. Yetkililer durumu kontrol altına almakta çabuk davransalar da, mekiğin enkazı üzerine bulaşmış bir maddeyle ilgili hikayeler yayılmaya başlar; hem uzayın aşırı soğuğuna, hem de dünya atmosferine girerken ortaya çıkan aşırı ısıya dayanıklı bir maddedir bu. Ve ona ilk temas edenler ilk değişenlerdir…"
+  },
+  "poster": {
+    "tr": "/os63lS3GDN1p3pI0zSsgyt5jL2A.jpg",
+    "en": "/oS5rMuJXwNZZPx0ojhvjgduglD2.jpg"
+  },
+  "backdrops": [
+    "/6XJza0JGv8CDEOd1zktOIfQbCMW.jpg",
+    "/i2qe6LRYUbYIITw5vSH6UlBMrRS.jpg",
+    "/w2nGeWoiOSu3aIShe46CRPiX8rZ.jpg",
+    "/qGESYECZAfbE8p2zVRQYXysXdrx.jpg",
+    "/tp3vxSTL1lZ1Ad02tsRIzjUvT7K.jpg",
+    "/waycGhETegEQTPAQmZQHz9f92WM.jpg",
+    "/nPpIFyRRe33xKUj3nEHZZbz364x.jpg",
+    "/qiCzhx0mu2ojmIL30iXe6H4abTF.jpg",
+    "/vw8dOfZlquq3xwF3xF7NudHb17w.jpg",
+    "/ooDX5L0WMeWl6tjoplwbVRBt9YV.jpg"
+  ],
+  "trailerKey": "QsFHAg9Ij-0",
+  "genreIds": [
+    27,
+    9648,
+    878,
+    53
+  ],
+  "keywordIds": [
+    818,
+    10685,
+    2116,
+    6681,
+    9951,
+    9714,
+    13005,
+    14673,
+    14674,
+    14909,
+    15250,
+    17995,
+    161289,
+    161290,
+    161891,
+    162502,
+    162511,
+    162515,
+    180781,
+    188957,
+    191331,
+    203360,
+    219843,
+    240237,
+    255064,
+    304039,
+    335538
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "ru",
+    "en"
+  ],
+  "studios": [
+    "Village Roadshow Pictures",
+    "Silver Pictures",
+    "Vertigo Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 1091,
+      "job": "producer"
+    },
+    {
+      "personId": 7832,
+      "job": "director"
+    },
+    {
+      "personId": 5135,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 979152,
+      "job": "producer"
+    },
+    {
+      "personId": 39725,
+      "job": "writer"
+    },
+    {
+      "personId": 9039,
+      "job": "composer"
+    },
+    {
+      "personId": 11267,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2227,
+      "character": "Carol Bennell",
+      "order": 0
+    },
+    {
+      "personId": 8784,
+      "character": "Ben Driscoll",
+      "order": 1
+    },
+    {
+      "personId": 39728,
+      "character": "Oliver",
+      "order": 2
+    },
+    {
+      "personId": 18325,
+      "character": "Tucker Kaufman",
+      "order": 3
+    },
+    {
+      "personId": 2954,
+      "character": "Dr. Stephen Galeano",
+      "order": 4
+    },
+    {
+      "personId": 5047,
+      "character": "Wendy Lenk",
+      "order": 5
+    },
+    {
+      "personId": 14792,
+      "character": "Dr. Henryk Belicec",
+      "order": 6
+    },
+    {
+      "personId": 1989,
+      "character": "Ludmilla Belicec",
+      "order": 7
+    },
+    {
+      "personId": 50463,
+      "character": "Autumn",
+      "order": 8
+    },
+    {
+      "personId": 16407,
+      "character": "Yorish",
+      "order": 9
+    },
+    {
+      "personId": 39729,
+      "character": "Gene",
+      "order": 10
+    },
+    {
+      "personId": 39730,
+      "character": "Pam",
+      "order": 11
+    },
+    {
+      "personId": 10693,
+      "character": "Carly",
+      "order": 12
+    },
+    {
+      "personId": 143180,
+      "character": "Belicec's Aide",
+      "order": 13
+    },
+    {
+      "personId": 61607,
+      "character": "Richard Lenk",
+      "order": 14
+    },
+    {
+      "personId": 11903,
+      "character": "Joan Kaufman",
+      "order": 15
+    },
+    {
+      "personId": 1838405,
+      "character": "Butler",
+      "order": 16
+    },
+    {
+      "personId": 1465285,
+      "character": "Sobbing Teen",
+      "order": 17
+    },
+    {
+      "personId": 28049,
+      "character": "Dina Twain",
+      "order": 18
+    },
+    {
+      "personId": 2537599,
+      "character": "Mrs. Cunningham",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1842,
+  "sources": [
+    "cult-list"
+  ]
+}

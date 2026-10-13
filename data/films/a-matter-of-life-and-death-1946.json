@@ -1,0 +1,205 @@
+{
+  "tmdbId": 28162,
+  "slug": "a-matter-of-life-and-death-1946",
+  "year": 1946,
+  "runtime": 104,
+  "originalTitle": "A Matter of Life and Death",
+  "title": {
+    "en": "A Matter of Life and Death",
+    "tr": "Aşk ve Ölüm"
+  },
+  "overview": {
+    "en": "A British wartime aviator who cheats death must argue for his life before a celestial court, hoping to prolong his fledgling romance with an American girl.",
+    "tr": "Pilot Peter Carter, II. Dünya Savaşı'nda bir bombardımandan dönerken kullandığı uçak kontrolden çıkar ve düşer. Paraşütünü açmayı başaramayan pilot sisin içinde kaybolur. Kendisine geldiğinde yaşamla ölüm arasındaki o ince çizgidedir. Yukarıda işler karışmıştır ve öteki dünyaya gitmesi gerekirken Carter'ın eline ikinci bir şans geçer. Araf'tan dünyaya ve aşık olduğu kadına dönme şansı vardır..."
+  },
+  "poster": {
+    "tr": "/H74LWKnhOeIFSk9gNjBcPjIov3.jpg",
+    "en": "/diYVom5WuqNzhlRceem8onA197e.jpg"
+  },
+  "backdrops": [
+    "/bY7DvsYsAODykqUJfkPZA3BHKOd.jpg",
+    "/4ldKYxwtjNjsHZiTHBaqrTqdsIG.jpg",
+    "/1uIRgcVllUKAWRCmM5XaV0cPZm0.jpg",
+    "/buyOmAyKiJt1bMbyF9GB0lFiht0.jpg",
+    "/q1PVGrgfssDNlorOkw6bgW6Lapp.jpg",
+    "/5HPPIHg9lEyH1rvzi5bAAbo2RxW.jpg",
+    "/1Uu7T38ByqvyeT8pQCf2EMShMzf.jpg",
+    "/fWmq2cWWvz86BMzm64J5aRjVgJl.jpg",
+    "/dQP7Qd5AO7JmXn2LegJ4zCfmiou.jpg",
+    "/skhRvYVcfj2lmq0wJO1q8lNMFKa.jpg"
+  ],
+  "trailerKey": "S0veuSLLWZ0",
+  "genreIds": [
+    10749,
+    14,
+    18
+  ],
+  "keywordIds": [
+    3012,
+    392,
+    290,
+    1956,
+    6152,
+    4116,
+    3797,
+    10859,
+    275048,
+    288816,
+    319397,
+    325782,
+    345338
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "ru"
+  ],
+  "studios": [
+    "The Archers",
+    "J. Arthur Rank Organisation"
+  ],
+  "crew": [
+    {
+      "personId": 37846,
+      "job": "writer"
+    },
+    {
+      "personId": 37846,
+      "job": "director"
+    },
+    {
+      "personId": 68424,
+      "job": "writer"
+    },
+    {
+      "personId": 68424,
+      "job": "director"
+    },
+    {
+      "personId": 6603,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1627145,
+      "job": "composer"
+    },
+    {
+      "personId": 68424,
+      "job": "producer"
+    },
+    {
+      "personId": 37846,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14261,
+      "character": "Peter Carter",
+      "order": 0
+    },
+    {
+      "personId": 10539,
+      "character": "June",
+      "order": 1
+    },
+    {
+      "personId": 83907,
+      "character": "Doctor Reeves",
+      "order": 2
+    },
+    {
+      "personId": 38037,
+      "character": "Conductor 71",
+      "order": 3
+    },
+    {
+      "personId": 92908,
+      "character": "Bob Trubshawe",
+      "order": 4
+    },
+    {
+      "personId": 99905,
+      "character": "An Angel",
+      "order": 5
+    },
+    {
+      "personId": 4786,
+      "character": "An English Pilot",
+      "order": 6
+    },
+    {
+      "personId": 132598,
+      "character": "An American Pilot",
+      "order": 7
+    },
+    {
+      "personId": 97246,
+      "character": "Chief Recorder",
+      "order": 8
+    },
+    {
+      "personId": 1007891,
+      "character": "The Vicar",
+      "order": 9
+    },
+    {
+      "personId": 82861,
+      "character": "Dr. Mc.Ewen",
+      "order": 10
+    },
+    {
+      "personId": 1008000,
+      "character": "Mrs. Tucker",
+      "order": 11
+    },
+    {
+      "personId": 135066,
+      "character": "The Judge",
+      "order": 12
+    },
+    {
+      "personId": 2669,
+      "character": "Abraham Farlan",
+      "order": 13
+    },
+    {
+      "personId": 535977,
+      "character": "GI Playing Snout (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 251,
+      "character": "US Crewman (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 4369476,
+      "character": "Goatherd (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 11842,
+      "character": "Patrick Aloyusius Mahoney (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 123900,
+      "character": "ARP Warden (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 7383,
+      "character": "Narrator (voice) (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 494,
+  "sources": [
+    "cult-list"
+  ]
+}

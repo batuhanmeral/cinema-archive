@@ -1,0 +1,230 @@
+{
+  "tmdbId": 473033,
+  "slug": "uncut-gems-2019",
+  "year": 2019,
+  "runtime": 136,
+  "originalTitle": "Uncut Gems",
+  "title": {
+    "en": "Uncut Gems",
+    "tr": "Uncut Gems"
+  },
+  "overview": {
+    "en": "A charismatic New York City jeweler always on the lookout for the next big score makes a series of high-stakes bets that could lead to the windfall of a lifetime. Howard must perform a precarious high-wire act, balancing business, family, and encroaching adversaries on all sides in his relentless pursuit of the ultimate win.",
+    "tr": "Howard Ratner, New York'ta mücevher satıcısı bir adamdır. Ancak Ratner'ın gözü hep daha yükseklerdedir ve yüksek miktarlarda borcu vardır. Ratner diğer yandan ünlüler için yüksek riskli bahis işi de yapıyordur. Bu sırada başına talih kuşu konar. Ancak bu talih kuşunun sahibi olabilmesi için çok iyi bir oyunculuk performansı sergilemesi gerekmektedir. Bu sırada işi ve diğerleriyle olan ilişkisini de dengede tutması gerekmektedir..."
+  },
+  "poster": {
+    "tr": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg",
+    "en": "/6XN1vxHc7kUSqNWtaQKN45J5x2v.jpg"
+  },
+  "backdrops": [
+    "/uzvT6tYrU5SxfHe1ieimIGAqyFm.jpg",
+    "/5qTZGBHJNq6riBliYtOnH4yUN6x.jpg",
+    "/eGljNfNCrPhFYG2RXXmmE0OKu5.jpg",
+    "/gN4ahTRnj0Z5ctYaHpeFTMSKqKD.jpg",
+    "/3gmXCrXHAfsdaNRScoXce6mMBL4.jpg",
+    "/2RnkA0SbmYpy2Ufk3mvTcgLEQ9A.jpg",
+    "/GRI6uqMGqRfuTjN0gXOWucBk7i.jpg",
+    "/u9VTXzFhDWlsKSmr5XxGEAQbX8g.jpg",
+    "/AsLnFcciUqE5Qi30a1dx6QVhsih.jpg",
+    "/jmh2HUoQGqxuirE43uwg0PoGadX.jpg"
+  ],
+  "trailerKey": "sXga1Oy0iRk",
+  "genreIds": [
+    18,
+    53,
+    80
+  ],
+  "keywordIds": [
+    622,
+    1326,
+    242,
+    276,
+    395,
+    2096,
+    5946,
+    10123,
+    6496,
+    9398,
+    10594,
+    11061,
+    33347,
+    156937,
+    163949,
+    164186,
+    199232,
+    206671,
+    207268,
+    251667,
+    256489,
+    257783,
+    281237,
+    289250,
+    314730,
+    325801,
+    383913
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "he"
+  ],
+  "studios": [
+    "A24",
+    "Elara Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 227564,
+      "job": "director"
+    },
+    {
+      "personId": 129561,
+      "job": "director"
+    },
+    {
+      "personId": 227564,
+      "job": "writer"
+    },
+    {
+      "personId": 129561,
+      "job": "writer"
+    },
+    {
+      "personId": 227565,
+      "job": "writer"
+    },
+    {
+      "personId": 2997,
+      "job": "producer"
+    },
+    {
+      "personId": 1462979,
+      "job": "producer"
+    },
+    {
+      "personId": 2240,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1325093,
+      "job": "composer"
+    },
+    {
+      "personId": 1046160,
+      "job": "producer"
+    },
+    {
+      "personId": 2116676,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19292,
+      "character": "Howard Ratner",
+      "order": 0
+    },
+    {
+      "personId": 1200864,
+      "character": "Demany",
+      "order": 1
+    },
+    {
+      "personId": 2371446,
+      "character": "Julia De Flore",
+      "order": 2
+    },
+    {
+      "personId": 1177652,
+      "character": "Kevin Garnett",
+      "order": 3
+    },
+    {
+      "personId": 19394,
+      "character": "Dinah Ratner",
+      "order": 4
+    },
+    {
+      "personId": 10866,
+      "character": "Arno Moradian",
+      "order": 5
+    },
+    {
+      "personId": 6167,
+      "character": "Gooey",
+      "order": 6
+    },
+    {
+      "personId": 2410045,
+      "character": "Phil",
+      "order": 7
+    },
+    {
+      "personId": 1315479,
+      "character": "Gary",
+      "order": 8
+    },
+    {
+      "personId": 2371447,
+      "character": "Eddie Ratner",
+      "order": 9
+    },
+    {
+      "personId": 2371449,
+      "character": "Marcel Ratner",
+      "order": 10
+    },
+    {
+      "personId": 1549008,
+      "character": "The Weeknd",
+      "order": 11
+    },
+    {
+      "personId": 2487790,
+      "character": "Wounded Miner",
+      "order": 12
+    },
+    {
+      "personId": 2487791,
+      "character": "Mine Foreman",
+      "order": 13
+    },
+    {
+      "personId": 2487795,
+      "character": "Mine Management 1",
+      "order": 14
+    },
+    {
+      "personId": 2487798,
+      "character": "Lead Miner 1",
+      "order": 15
+    },
+    {
+      "personId": 2487799,
+      "character": "Lead Miner 2",
+      "order": 16
+    },
+    {
+      "personId": 2487801,
+      "character": "Dr. Blauman",
+      "order": 17
+    },
+    {
+      "personId": 2487806,
+      "character": "Nico",
+      "order": 18
+    },
+    {
+      "personId": 2487810,
+      "character": "Yussi",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 5673,
+  "sources": [
+    "cult-list"
+  ]
+}

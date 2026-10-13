@@ -1,0 +1,176 @@
+{
+  "tmdbId": 756,
+  "slug": "fantasia-1940",
+  "year": 1940,
+  "runtime": 124,
+  "originalTitle": "Fantasia",
+  "title": {
+    "en": "Fantasia",
+    "tr": "Fantasia"
+  },
+  "overview": {
+    "en": "Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.",
+    "tr": "Hikayelerle, tarihle, bilimle, renklerle, müzikle, hayallerle, çizgilerle hazırlanmış ve ikiye bölünmüş harika bir klasik müzik şöleni. Her çocuğa klasik müzik sevgisini aşılayacak harika bir Disney Klasiği."
+  },
+  "poster": {
+    "tr": "/5m9njnidjR0syG2gpVPVgcEMB2X.jpg",
+    "en": "/mSJgxrTaTgDSOoggIPcj3ZoZswT.jpg"
+  },
+  "backdrops": [
+    "/yRDU00odN8kHIFJQobkoCKcL6Le.jpg",
+    "/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg",
+    "/iub3xM3XBUg9gTDr9TgnOjIX3s4.jpg",
+    "/lVqLEj9vxrM6pMjSYFUN7HeI7PO.jpg",
+    "/2HspgJeppUvFHimFs0lN70yOseN.jpg",
+    "/nnL7vunWHE24iU7WGGP84q7FXO9.jpg",
+    "/tF7jkz2061ZIXVI60Uv0LF0cGa0.jpg",
+    "/aMu9Aqvdt7PhDSG7DnDx8yQtIjH.jpg",
+    "/kIGqwHdVVnMM8lgbrz6krIzbpNp.jpg",
+    "/mCiymNGlXWIn8Q1iSbhADuEa8Kv.jpg"
+  ],
+  "trailerKey": "eD8U083gQmY",
+  "genreIds": [
+    16,
+    10751,
+    14
+  ],
+  "keywordIds": [
+    5783,
+    6513,
+    3289,
+    3537,
+    4344,
+    155325,
+    177912,
+    209220,
+    324713,
+    325765,
+    325832
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Walt Disney Productions"
+  ],
+  "crew": [
+    {
+      "personId": 11427,
+      "job": "director"
+    },
+    {
+      "personId": 11428,
+      "job": "director"
+    },
+    {
+      "personId": 11434,
+      "job": "director"
+    },
+    {
+      "personId": 11426,
+      "job": "director"
+    },
+    {
+      "personId": 5690,
+      "job": "director"
+    },
+    {
+      "personId": 11432,
+      "job": "director"
+    },
+    {
+      "personId": 11429,
+      "job": "director"
+    },
+    {
+      "personId": 5691,
+      "job": "director"
+    },
+    {
+      "personId": 2106,
+      "job": "producer"
+    },
+    {
+      "personId": 11430,
+      "job": "director"
+    },
+    {
+      "personId": 226599,
+      "job": "director"
+    },
+    {
+      "personId": 5446,
+      "job": "director"
+    },
+    {
+      "personId": 29798,
+      "job": "composer"
+    },
+    {
+      "personId": 1281066,
+      "job": "composer"
+    },
+    {
+      "personId": 974330,
+      "job": "composer"
+    },
+    {
+      "personId": 1808200,
+      "job": "composer"
+    },
+    {
+      "personId": 67826,
+      "job": "composer"
+    },
+    {
+      "personId": 2522,
+      "job": "composer"
+    },
+    {
+      "personId": 70650,
+      "job": "composer"
+    },
+    {
+      "personId": 1564900,
+      "job": "composer"
+    },
+    {
+      "personId": 1094239,
+      "job": "director"
+    },
+    {
+      "personId": 14569,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 565402,
+      "character": "Narrator - Narrative Introductions",
+      "order": 0
+    },
+    {
+      "personId": 2106,
+      "character": "Mickey Mouse (segment 'The Sorcerer's Apprentice') (voice)",
+      "order": 1
+    },
+    {
+      "personId": 1098082,
+      "character": "Soloist (segment 'Ave Maria') (singing voice)",
+      "order": 2
+    },
+    {
+      "personId": 233471,
+      "character": "Self - Conductor of The Philadelphia Orchestra",
+      "order": 3
+    }
+  ],
+  "awards": {},
+  "voteCount": 3429,
+  "sources": [
+    "cult-list"
+  ]
+}

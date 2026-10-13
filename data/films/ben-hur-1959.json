@@ -1,0 +1,222 @@
+{
+  "tmdbId": 665,
+  "slug": "ben-hur-1959",
+  "year": 1959,
+  "runtime": 212,
+  "originalTitle": "Ben-Hur",
+  "title": {
+    "en": "Ben-Hur",
+    "tr": "Ben Hur"
+  },
+  "overview": {
+    "en": "In ancient Judea, a Jewish aristocrat opposing Roman occupation of his homeland reunites with his childhood friend, now a Roman commander — setting in motion a saga of betrayal, adventure, tragedy, revenge, and faith.",
+    "tr": "Judah Ben Hur zengin yahudi bir prenstir. Bir gün çocukluk arkadaşı Messela ile buluşup konuşurlar ve hasret giderirler. Bu konuşmaların sonunda iki taraf siyasi fikirlerini ortaya döktüklerinde tartışmaya başlarlar. Ben Hur arkadaşına hiç bir koşulda destek vermeyeceğini söyler. Bunun üzerine arkadaşı Messela onu kürek mahkumu olarak sürgüne gönderir. Zengin hayatına veda eden prens bu olay üzerine intikam yemini edecektir."
+  },
+  "poster": {
+    "tr": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+    "en": "/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg"
+  },
+  "backdrops": [
+    "/opC7CvwhOeBWZnhfcZkdtEskIQD.jpg",
+    "/sU3gFo7Gn67zjtKXIvzJ4omcUbH.jpg",
+    "/lFwlZMm91RsjbDrv9Lq4VLExwzt.jpg",
+    "/vAUJooPGm7mNypJbBFYuzayruyI.jpg",
+    "/9a0rUOhu3yZH20UirHNMlCeEZQo.jpg",
+    "/sXDSz7XXHwbgah76IYKnnFaTRFA.jpg",
+    "/9PhjBQjYxIbh1SSfWLjoYZIcnZU.jpg",
+    "/gstw4PWfTerGi6JbgaZK2Zj6JS0.jpg",
+    "/l4JLj2qa4u4g98LtP0ipkPLu0Gv.jpg",
+    "/jKHTbOPFtnAVj2nCqB90BI48oyq.jpg"
+  ],
+  "trailerKey": "f2y1gDeZ230",
+  "genreIds": [
+    36,
+    18,
+    12
+  ],
+  "keywordIds": [
+    5744,
+    539,
+    818,
+    1405,
+    6078,
+    186,
+    2433,
+    2315,
+    3035,
+    2618,
+    3575,
+    3071,
+    3339,
+    3341,
+    11436,
+    10062,
+    5049,
+    9673,
+    9713,
+    9714,
+    9748,
+    11704,
+    11001,
+    12995,
+    15060,
+    18396,
+    34137,
+    154820,
+    158449,
+    168022,
+    182677,
+    191440,
+    192491,
+    209157,
+    215659,
+    222185,
+    230097,
+    239413,
+    272026,
+    276929,
+    278354,
+    311315,
+    325775
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 10001,
+      "job": "director"
+    },
+    {
+      "personId": 10003,
+      "job": "writer"
+    },
+    {
+      "personId": 10004,
+      "job": "producer"
+    },
+    {
+      "personId": 7647,
+      "job": "composer"
+    },
+    {
+      "personId": 10005,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10017,
+      "character": "Judah Ben-Hur",
+      "order": 0
+    },
+    {
+      "personId": 10020,
+      "character": "Messala",
+      "order": 1
+    },
+    {
+      "personId": 10021,
+      "character": "Scheich Ildirim",
+      "order": 2
+    },
+    {
+      "personId": 10018,
+      "character": "Quintus Arrius",
+      "order": 3
+    },
+    {
+      "personId": 10019,
+      "character": "Esther",
+      "order": 4
+    },
+    {
+      "personId": 10022,
+      "character": "Miriam",
+      "order": 5
+    },
+    {
+      "personId": 10023,
+      "character": "Tirzah",
+      "order": 6
+    },
+    {
+      "personId": 10024,
+      "character": "Simonides",
+      "order": 7
+    },
+    {
+      "personId": 10027,
+      "character": "Balthasar",
+      "order": 8
+    },
+    {
+      "personId": 10025,
+      "character": "Pontius Pilatus",
+      "order": 9
+    },
+    {
+      "personId": 10028,
+      "character": "Tiberius Caesar",
+      "order": 10
+    },
+    {
+      "personId": 10029,
+      "character": "Sextus",
+      "order": 11
+    },
+    {
+      "personId": 25687,
+      "character": "Drusus",
+      "order": 12
+    },
+    {
+      "personId": 10026,
+      "character": "Malluch",
+      "order": 13
+    },
+    {
+      "personId": 53660,
+      "character": "Jewish Slave in the Desert (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 15139,
+      "character": "Roman Officer with Messala (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 24602,
+      "character": "Flavia (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 10513,
+      "character": "Chief of Rowers (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1090000,
+      "character": "Guest at Banquet (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 39165,
+      "character": "Galley Officer (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 11
+  },
+  "voteCount": 3320,
+  "sources": [
+    "cult-list"
+  ]
+}

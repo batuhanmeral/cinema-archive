@@ -1,0 +1,82 @@
+{
+  "tmdbId": 127255,
+  "slug": "the-moon-and-the-sledgehammer-1971",
+  "year": 1971,
+  "runtime": 65,
+  "originalTitle": "The Moon and the Sledgehammer",
+  "title": {
+    "en": "The Moon and the Sledgehammer",
+    "tr": "The Moon and the Sledgehammer"
+  },
+  "overview": {
+    "en": "The Page family lives without electricity or running water deep in the Sussex woods. Amidst ever-growing modernity and industrialization, the family carries out chores, hunts pheasants, builds steam engines, and postulates on man's trip to the moon. They demonstrate fine lateral thinking and, through their particular delivery, display fears and concerns about pollution, intensive farming, mechanization, and self-fulfillment during a time of technological advancement.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/uh1BZXkMoRbA6OncRuPZp6nXWaK.jpg",
+    "en": "/uh1BZXkMoRbA6OncRuPZp6nXWaK.jpg"
+  },
+  "backdrops": [
+    "/4bAfQqp3xoRIpWWIUGZ4LYafBIE.jpg",
+    "/foqmcK2NSMWX6XrAcetirUKl1oX.jpg",
+    "/kbYJvPQ3Ut0YsBLOvbJMkU8fVtY.jpg"
+  ],
+  "trailerKey": "FXMYY1QlRtw",
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 1502682,
+      "job": "director"
+    },
+    {
+      "personId": 3821887,
+      "job": "producer"
+    },
+    {
+      "personId": 1418938,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3821896,
+      "character": "Himself",
+      "order": 0
+    },
+    {
+      "personId": 3821897,
+      "character": "Himself",
+      "order": 1
+    },
+    {
+      "personId": 3821898,
+      "character": "Himself",
+      "order": 2
+    },
+    {
+      "personId": 3821899,
+      "character": "Herself",
+      "order": 3
+    },
+    {
+      "personId": 3821901,
+      "character": "Herself",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 9,
+  "sources": [
+    "cult-list"
+  ]
+}

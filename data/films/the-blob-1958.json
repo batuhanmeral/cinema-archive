@@ -1,0 +1,205 @@
+{
+  "tmdbId": 8851,
+  "slug": "the-blob-1958",
+  "year": 1958,
+  "runtime": 82,
+  "originalTitle": "The Blob",
+  "title": {
+    "en": "The Blob",
+    "tr": "The Blob"
+  },
+  "overview": {
+    "en": "A drive-in favorite, this sci-fi classic follows teenagers Steve and his best girl, Jane, as they try to protect their hometown from a gelatinous alien life form that engulfs everything it touches. The first to discover the substance and live to tell about it, Steve and Jane witness the blob destroying an elderly man, then it growing to a terrifying size. But no one else has seen the goo, and policeman Dave refuses to believe the kids without proof.",
+    "tr": "Blob uzaydan dünyaya düşen jölemsi, garip bir canlı türüdür. Ne için geldigi, kim oldugu bilinmemekle beraber tek amacı önüne gelen her canlı organizmayı kendi bünyesine katarak büyümek ve sonunda dünyayı ele geçirmektir."
+  },
+  "poster": {
+    "tr": "/ctOwn1Ibg3SjDG4WulvFvSH0PRT.jpg",
+    "en": "/ctOwn1Ibg3SjDG4WulvFvSH0PRT.jpg"
+  },
+  "backdrops": [
+    "/1TmeWueg6rEzcGF3wipjQJBLGgA.jpg",
+    "/32l2szM3oY7kdI3TMBral5dsc2E.jpg",
+    "/bCUguB5nSt4fCO6Znx3pzIhn8ZS.jpg",
+    "/2GCJBkUWzNcQ1IQc2nL7r13B7Xz.jpg",
+    "/6Ne2ewHwQqfTZEWYXRsA3Wy9Lc5.jpg",
+    "/Adw1NawXpIfOqYg5ubBNpkUfXlt.jpg",
+    "/lwhMvr6SZHFlHJs9P34qBAsl06f.jpg",
+    "/9e9flDypTMqMGZgrlFdyeVzDlOI.jpg",
+    "/56yW6XLX1CqU34Q9JtIHkIg5tjB.jpg",
+    "/yxaYiF1EdGGYds70PjhDviYBliC.jpg"
+  ],
+  "trailerKey": "1dBGk6xFBT8",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    1415,
+    1299,
+    3335,
+    9732,
+    10154,
+    10221,
+    41642,
+    156091,
+    164246,
+    167149,
+    172136,
+    180179,
+    188178,
+    221696,
+    234727,
+    234730,
+    234731,
+    234732,
+    234733,
+    259376,
+    276605,
+    323910,
+    325763
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Tonylyn Productions Inc.",
+    "Valley Forge Films",
+    "Fairview Productions"
+  ],
+  "crew": [
+    {
+      "personId": 56141,
+      "job": "director"
+    },
+    {
+      "personId": 56464,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 56527,
+      "job": "writer"
+    },
+    {
+      "personId": 56528,
+      "job": "writer"
+    },
+    {
+      "personId": 56463,
+      "job": "composer"
+    },
+    {
+      "personId": 222885,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13565,
+      "character": "Steve Andrews",
+      "order": 0
+    },
+    {
+      "personId": 56138,
+      "character": "Jane Martin",
+      "order": 1
+    },
+    {
+      "personId": 56139,
+      "character": "Lt. Dave",
+      "order": 2
+    },
+    {
+      "personId": 34209,
+      "character": "The Old Man",
+      "order": 3
+    },
+    {
+      "personId": 56140,
+      "character": "Dr. T. Hallen",
+      "order": 4
+    },
+    {
+      "personId": 1559631,
+      "character": "Sgt. Jim Bert",
+      "order": 5
+    },
+    {
+      "personId": 1585375,
+      "character": "Officer Ritchie",
+      "order": 6
+    },
+    {
+      "personId": 1585376,
+      "character": "Kate",
+      "order": 7
+    },
+    {
+      "personId": 1585377,
+      "character": "Henry Martin",
+      "order": 8
+    },
+    {
+      "personId": 1545839,
+      "character": "Mr. Andrews",
+      "order": 9
+    },
+    {
+      "personId": 104601,
+      "character": "George",
+      "order": 10
+    },
+    {
+      "personId": 1585378,
+      "character": "Elizabeth Martin",
+      "order": 11
+    },
+    {
+      "personId": 1801650,
+      "character": "Civil Defense Volunteer",
+      "order": 12
+    },
+    {
+      "personId": 1801658,
+      "character": "Fire Chief",
+      "order": 13
+    },
+    {
+      "personId": 1801657,
+      "character": "Mrs. Porter",
+      "order": 14
+    },
+    {
+      "personId": 1698844,
+      "character": "Smooching Teenager",
+      "order": 15
+    },
+    {
+      "personId": 1801661,
+      "character": "Mechanic Under the Car",
+      "order": 16
+    },
+    {
+      "personId": 1801668,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1801669,
+      "character": "Drunk at Door",
+      "order": 18
+    },
+    {
+      "personId": 1801656,
+      "character": "Teenager",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 700,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "tmdbId": 2098,
+  "slug": "viva-las-vegas-1964",
+  "year": 1964,
+  "runtime": 85,
+  "originalTitle": "Viva Las Vegas",
+  "title": {
+    "en": "Viva Las Vegas",
+    "tr": "Las Vegas'ta Aşk"
+  },
+  "overview": {
+    "en": "Lucky Jackson arrives in Las Vegas with his car literally in tow ready for the first Grand Prix — once he has the money for an engine. He gets the cash easily enough but mislays it when the pretty pool manageress takes his mind off things. It seems he'll lose both race and girl, problems complicated by rivalry from womanizing fellow racer Elmo Mancini.",
+    "tr": "Lucky Jackson, Las Vegas Grand Prix'sine katılmak için şehre gelir, ancak arabasının motoru yoktur. Yarışa girebilmek için gereken parayı kısa sürede kazanır, ancak havuz müdiresi güzel ve dikkat dağıtıcı bir kadınla tanışınca parasını kaybeder. Hem yarışı hem de aşkını kazanma şansı tehlikededir. İşler daha da karmaşıklaşır çünkü rakibi Elmo Mancini hem pistte hem de aşkta ona rakip olmaktadır."
+  },
+  "poster": {
+    "tr": "/7YEjLotGpVYVcGGKpqfHX8aDfNJ.jpg",
+    "en": "/mpI1qaQJXmqfuUgrmxczvWLcHqu.jpg"
+  },
+  "backdrops": [
+    "/bywfMRyAQ7Gqw7WsgilWBH79w85.jpg",
+    "/7AP3RLWMnnJDy1fspP3jK7f89RL.jpg",
+    "/2CUwDRG8TUL2WwcaC5P5Tb8OTeU.jpg",
+    "/ilSE4h9XUfpodSWJCPpih5Y5XTi.jpg",
+    "/uUxRXn6gL1QNqnyt4byIl7pl56c.jpg",
+    "/eQcvQjTFDF8cRl8sOPeT8lDYMBJ.jpg",
+    "/k7u9cSEUa0otAMz85D15xED4dXV.jpg",
+    "/wDvvn2Yy9dzQhIWpPwOUQ5HNPuz.jpg",
+    "/1JdFlsSIiSKIiGzKiUn2PRpLicp.jpg",
+    "/ySfSxMXOVxJi60bJEAPutbAQ6dA.jpg"
+  ],
+  "trailerKey": "4CUpdmvx9Ok",
+  "genreIds": [
+    10402,
+    10749,
+    35
+  ],
+  "keywordIds": [
+    246,
+    578,
+    720,
+    395,
+    1003,
+    9844,
+    8181,
+    8290,
+    10229,
+    10850,
+    14570,
+    14725,
+    156221,
+    158345,
+    191279,
+    229429,
+    361867
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Jack Cummings Productions",
+    "Winters Hollywood Entertainment Holdings Corporation",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 21506,
+      "job": "producer"
+    },
+    {
+      "personId": 14431,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 21506,
+      "job": "director"
+    },
+    {
+      "personId": 13983,
+      "job": "composer"
+    },
+    {
+      "personId": 7662,
+      "job": "writer"
+    },
+    {
+      "personId": 21507,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21457,
+      "character": "Lucky Jackson",
+      "order": 0
+    },
+    {
+      "personId": 13567,
+      "character": "Rusty Martin",
+      "order": 1
+    },
+    {
+      "personId": 2558,
+      "character": "Count Elmo Mancini",
+      "order": 2
+    },
+    {
+      "personId": 21510,
+      "character": "Mr. Martin",
+      "order": 3
+    },
+    {
+      "personId": 16669,
+      "character": "Shorty Fansworth",
+      "order": 4
+    },
+    {
+      "personId": 45104,
+      "character": "Driver (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 1541923,
+      "character": "Wedding Guest (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 1757527,
+      "character": "Son of the Lone Star State (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 8964,
+      "character": "Dancer (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 3255480,
+      "character": "Casino Patron (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 2919561,
+      "character": "Son of the Lone Star State (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 2295020,
+      "character": "Juggler (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 3255481,
+      "character": "Juggler (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 102971,
+      "character": "Showgirl (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 191823,
+      "character": "Maitre 'd (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 40429,
+      "character": "Casino Performer (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 197436,
+      "character": "Guard (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 153387,
+      "character": "Manager of Swingers (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1745148,
+      "character": "Starter (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 227974,
+      "character": "Bartender (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 167,
+  "sources": [
+    "cult-list"
+  ]
+}

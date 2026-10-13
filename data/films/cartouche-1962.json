@@ -1,0 +1,195 @@
+{
+  "tmdbId": 26866,
+  "slug": "cartouche-1962",
+  "year": 1962,
+  "runtime": 114,
+  "originalTitle": "Cartouche",
+  "title": {
+    "en": "Cartouche",
+    "tr": "Cartouche"
+  },
+  "overview": {
+    "en": "In the 18th century, Louis de Bourguignon is working with the Malichot's gang, but their ways are too 'unethical' for him. He creates his own band, acting under the name of Cartouche, making audacious robberies of the rich people, and even distributing the takings with the poor. Thus, cartouche attracts the people's sympathies, Venus's love, and hate from the Police and Malichot... Cartouche can escape all the traps they set at him - except the entrapments of love. Eventually, he will be saved by a woman, at her own cost.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5j6hcUIXzG8ltLk2yQeFdhJx6jA.jpg",
+    "en": "/5j6hcUIXzG8ltLk2yQeFdhJx6jA.jpg"
+  },
+  "backdrops": [
+    "/aeNAF2tnhgjEyaFVjLxthCYvUn5.jpg",
+    "/1Oe9BP9Fvqt1SK0BJaNN0EG71pa.jpg",
+    "/uneEgRwC8CvMmyL6RS23XJOpJxd.jpg",
+    "/drpofhneoauB2tTK1vRsfq3Nx5u.jpg",
+    "/khi1qsq9fWHx3EOYsL4G73X7oX4.jpg",
+    "/77QJzuBCgQPw1dJtFItE9c6n0G9.jpg",
+    "/znHkO9PxdgT3Kz5MVayU8KgJe3f.jpg",
+    "/949wMy3UjkcSQH03qusDcbTo4F6.jpg",
+    "/1nbFlqeraEMiBE9O6cPBQ9Agegm.jpg"
+  ],
+  "trailerKey": "pEQDc6T-sak",
+  "genreIds": [
+    12,
+    35,
+    10749,
+    28
+  ],
+  "keywordIds": [
+    9503,
+    13065,
+    186831
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Filmsonor",
+    "Les Films Ariane",
+    "Mondex Films"
+  ],
+  "crew": [
+    {
+      "personId": 34613,
+      "job": "director"
+    },
+    {
+      "personId": 2379,
+      "job": "producer"
+    },
+    {
+      "personId": 36515,
+      "job": "producer"
+    },
+    {
+      "personId": 11556,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 39206,
+      "job": "writer"
+    },
+    {
+      "personId": 34613,
+      "job": "writer"
+    },
+    {
+      "personId": 3573,
+      "job": "writer"
+    },
+    {
+      "personId": 3535,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3829,
+      "character": "Louis-Dominique Bourguignon alias Cartouche",
+      "order": 0
+    },
+    {
+      "personId": 4959,
+      "character": "Vénus",
+      "order": 1
+    },
+    {
+      "personId": 33723,
+      "character": "La Douceur",
+      "order": 2
+    },
+    {
+      "personId": 4121,
+      "character": "Malichot",
+      "order": 3
+    },
+    {
+      "personId": 24421,
+      "character": "La Taupe",
+      "order": 4
+    },
+    {
+      "personId": 37727,
+      "character": "Gaston de Ferrussac",
+      "order": 5
+    },
+    {
+      "personId": 12272,
+      "character": "Le sergent recruteur",
+      "order": 6
+    },
+    {
+      "personId": 116522,
+      "character": "Isabelle de Ferrussac",
+      "order": 7
+    },
+    {
+      "personId": 584304,
+      "character": "Le colonel",
+      "order": 8
+    },
+    {
+      "personId": 34619,
+      "character": "Le maréchal",
+      "order": 9
+    },
+    {
+      "personId": 33645,
+      "character": "Le moine Capucine",
+      "order": 10
+    },
+    {
+      "personId": 1662,
+      "character": "Le marquis de Griffe",
+      "order": 11
+    },
+    {
+      "personId": 55620,
+      "character": "L'aubergiste",
+      "order": 12
+    },
+    {
+      "personId": 24500,
+      "character": "Un gendarme",
+      "order": 13
+    },
+    {
+      "personId": 1983804,
+      "character": "Petit Oncle, le tavernier",
+      "order": 14
+    },
+    {
+      "personId": 57491,
+      "character": "Pierette la duègne",
+      "order": 15
+    },
+    {
+      "personId": 39179,
+      "character": "Un complice de Cartouche",
+      "order": 16
+    },
+    {
+      "personId": 1482978,
+      "character": "Louison",
+      "order": 17
+    },
+    {
+      "personId": 83146,
+      "character": "Un bandit",
+      "order": 18
+    },
+    {
+      "personId": 24543,
+      "character": "Perroquet (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 207,
+  "sources": [
+    "cult-list"
+  ]
+}

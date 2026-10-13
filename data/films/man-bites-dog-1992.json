@@ -1,0 +1,206 @@
+{
+  "tmdbId": 10086,
+  "slug": "man-bites-dog-1992",
+  "year": 1992,
+  "runtime": 96,
+  "originalTitle": "C'est arrivé près de chez vous",
+  "title": {
+    "en": "Man Bites Dog",
+    "tr": "Köpeği Isıran Adam"
+  },
+  "overview": {
+    "en": "The activities of rampaging, indiscriminate serial killer Ben are recorded by a willingly complicit documentary team, who eventually become his accomplices and active participants. Ben provides casual commentary on the nature of his work and arbitrary musings on topics of interest to him, such as music or the conditions of low-income housing, and even goes so far as to introduce the documentary crew to his family. But their reckless indulgences soon get the better of them.",
+    "tr": "Belçikalı 3 sinema öğrencisinin yönettiği “C’est arrivé près de chez vous”, bir katil olan Benoit’nın hayatından kesitler sunan bir kurmaca belgeseldir (mockumentary). Remy, Andre ve Patrick adında üç sinema öğrencisi ödev olarak Benoit’nın günlük yaşamını ve günlük yaşamın parçası olan cinayet alışkanlığını filme almak isterler.\r Zaman ilerledikçe farkederler ki Benoit, diğer katillerden farklıdır. Zeki, entelektüel ve sosyal bir insandır, oldukça normal bir yaşamı ve mutlu bir ailesi vardır. Bir yandan bütün olağanlığı ile Benoit'nın günlerini ve işlediği cinayetleri filme alan ekip, diğer yandan bu cinayetlerin bazılarına yardım ederler..."
+  },
+  "poster": {
+    "tr": "/uRVI98a6MxdLkpsXM8LqIM9W7XZ.jpg",
+    "en": "/cT8XcigfWuD2hMZJJg6cXewv96F.jpg"
+  },
+  "backdrops": [
+    "/yXutb8wJ2ngurIsiPkKgT42hXL5.jpg",
+    "/cmi0NSiCVxSoT95ez4Aa6NqF1df.jpg",
+    "/sJpxkWgxWBXMKWyak7NQPPlePXq.jpg",
+    "/7QLGk7qKm66dtjTtpVeAIRocoan.jpg",
+    "/apwXEnVD4tl98weTM0ZJ9XsPhAT.jpg",
+    "/gaTO3416TGEZPQO6fF8QmOzbKoG.jpg",
+    "/7aoLhmBLgFGsPSoKInKwjshaDar.jpg",
+    "/t5PxELeqvFICK4JnYpo6h81uQ6R.jpg"
+  ],
+  "trailerKey": "3HFuTY3HpV8",
+  "genreIds": [
+    35,
+    80
+  ],
+  "keywordIds": [
+    886,
+    10123,
+    11800,
+    10714,
+    14707,
+    163053,
+    173259,
+    323114,
+    365923
+  ],
+  "countries": [
+    "BE"
+  ],
+  "languages": [
+    "fr",
+    "it"
+  ],
+  "studios": [
+    "Les Artistes Anonymes"
+  ],
+  "crew": [
+    {
+      "personId": 63174,
+      "job": "producer"
+    },
+    {
+      "personId": 47820,
+      "job": "writer"
+    },
+    {
+      "personId": 45774,
+      "job": "writer"
+    },
+    {
+      "personId": 63174,
+      "job": "director"
+    },
+    {
+      "personId": 63230,
+      "job": "composer"
+    },
+    {
+      "personId": 63175,
+      "job": "writer"
+    },
+    {
+      "personId": 63175,
+      "job": "producer"
+    },
+    {
+      "personId": 63219,
+      "job": "composer"
+    },
+    {
+      "personId": 47820,
+      "job": "producer"
+    },
+    {
+      "personId": 63175,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 63175,
+      "job": "director"
+    },
+    {
+      "personId": 47820,
+      "job": "director"
+    },
+    {
+      "personId": 1021787,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 47820,
+      "character": "Ben",
+      "order": 0
+    },
+    {
+      "personId": 63174,
+      "character": "Rémy",
+      "order": 1
+    },
+    {
+      "personId": 63175,
+      "character": "André",
+      "order": 2
+    },
+    {
+      "personId": 63242,
+      "character": "Ben's Mother",
+      "order": 3
+    },
+    {
+      "personId": 1117728,
+      "character": "Valerie",
+      "order": 4
+    },
+    {
+      "personId": 358432,
+      "character": "Nurse",
+      "order": 5
+    },
+    {
+      "personId": 63243,
+      "character": "Jenny",
+      "order": 6
+    },
+    {
+      "personId": 63248,
+      "character": "Malou",
+      "order": 7
+    },
+    {
+      "personId": 63262,
+      "character": "Boby",
+      "order": 8
+    },
+    {
+      "personId": 1117722,
+      "character": "Ben's Grandmother",
+      "order": 9
+    },
+    {
+      "personId": 1117723,
+      "character": "Ben's Grandfather",
+      "order": 10
+    },
+    {
+      "personId": 1117724,
+      "character": "Mamie Tromblon",
+      "order": 11
+    },
+    {
+      "personId": 1117725,
+      "character": "Bed-ridden Old Man",
+      "order": 12
+    },
+    {
+      "personId": 1117726,
+      "character": "Rape Victim",
+      "order": 13
+    },
+    {
+      "personId": 1117727,
+      "character": "Rape Victim's Husband",
+      "order": 14
+    },
+    {
+      "personId": 1117729,
+      "character": "Kalifa",
+      "order": 15
+    },
+    {
+      "personId": 1117730,
+      "character": "Benichou",
+      "order": 16
+    },
+    {
+      "personId": 105752,
+      "character": "Journalist",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 1045,
+  "sources": [
+    "cult-list"
+  ]
+}

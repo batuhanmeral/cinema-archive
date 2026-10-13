@@ -1,0 +1,213 @@
+{
+  "tmdbId": 445,
+  "slug": "cache-2005",
+  "year": 2005,
+  "runtime": 118,
+  "originalTitle": "Caché",
+  "title": {
+    "en": "Caché",
+    "tr": "Saklı"
+  },
+  "overview": {
+    "en": "As the host of a literary TV show, Georges begins receiving anonymously filmed videos of his family alongside cryptic, disturbing drawings, but as the tapes become increasingly intimate, they reveal a stalker who has known him for a very long time.",
+    "tr": "Georges, bir televizyon kanalı için edebiyat programı hazırlayıp sunuyor. Karısı ile birlikte son derece rahat ve huzurlu bir yaşamı var. Bir gün kaynağı belirsiz bir paket alıyor. İçinden, Georges'un ailesiyle birlikteyken gizlice çekilmiş görüntülerinin olduğu bir video kaset çıkıyor! Zamanla, yeni paketler gelmeye başlıyor ve Georges, paketleri yollayan kişinin kendisini yakından tanıdığını anlıyor. Artık sadece karısı ile birlikte polise gidip gitmeme konusunda karar vermek kalıyor. Ve zaman geçtikçe Georges'un geçmişindeki bazı olaylar ile paketler arasındaki ilişki belirginleşmeye başlıyor... Yaşayan en önemli sinemacılardan birisi olan Michael Haneke imzasını taşıyan, sıkı bir gerilim filmi. Klasik bir gerilim filmi bekleyenlere, politik yönü ağır basan bir Haneke filmi olduğunu hatırlatalım."
+  },
+  "poster": {
+    "tr": "/vTzjRi0Uhy0tt3Rjw8SARZZJHlX.jpg",
+    "en": "/IC2BPYDSsNPP1Q1VuXUiKrRwbU.jpg"
+  },
+  "backdrops": [
+    "/2LDz3KmQ83EggYIiTwLvrZwWdA5.jpg",
+    "/5CmuxqxyHMRjuHDyx76wSu26wjw.jpg",
+    "/8GAZVvFGy9xVPwNLPLqBAn2rgJ1.jpg",
+    "/mOYIUiSdoLWynoZIGDZSAAUZ3ss.jpg",
+    "/fdmn0qcQA5narSHmz0h7p1gQvPr.jpg",
+    "/6Luzh2yoVGyp2m2nX8eHNLPO8Mw.jpg",
+    "/sB795KpXHwEniJ3txBnVeWD0QNO.jpg",
+    "/hA0d9EYO0Gi2vZYBMc7bjnhOlIs.jpg",
+    "/nzrgjj80MH0emvbTvvmt8X3cEle.jpg",
+    "/5xuL7rBmYJwjZ8v8n9V0vphss5h.jpg"
+  ],
+  "trailerKey": "pvT_9TqIEtM",
+  "genreIds": [
+    9648,
+    18,
+    53
+  ],
+  "keywordIds": [
+    1566,
+    90,
+    213,
+    1660,
+    2340,
+    1596,
+    2246,
+    2250,
+    2251,
+    2263,
+    6258,
+    3979,
+    10235,
+    9856,
+    13028,
+    33674,
+    33720,
+    156661,
+    177185,
+    188994,
+    191527,
+    207268,
+    286239
+  ],
+  "countries": [
+    "FR",
+    "AT",
+    "DE",
+    "IT"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Les Films du Losange",
+    "Wega Film",
+    "BiM Distribuzione"
+  ],
+  "crew": [
+    {
+      "personId": 6011,
+      "job": "writer"
+    },
+    {
+      "personId": 6011,
+      "job": "director"
+    },
+    {
+      "personId": 6027,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 32463,
+      "job": "producer"
+    },
+    {
+      "personId": 6098,
+      "job": "producer"
+    },
+    {
+      "personId": 2335,
+      "job": "producer"
+    },
+    {
+      "personId": 6099,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6012,
+      "character": "Georges Laurent",
+      "order": 0
+    },
+    {
+      "personId": 1137,
+      "character": "Anne Laurent",
+      "order": 1
+    },
+    {
+      "personId": 6014,
+      "character": "Georges's Mother",
+      "order": 2
+    },
+    {
+      "personId": 6015,
+      "character": "Georges's Editor-In-Chief",
+      "order": 3
+    },
+    {
+      "personId": 6018,
+      "character": "Pierre",
+      "order": 4
+    },
+    {
+      "personId": 2417,
+      "character": "Majid",
+      "order": 5
+    },
+    {
+      "personId": 6016,
+      "character": "Majid's Son",
+      "order": 6
+    },
+    {
+      "personId": 6017,
+      "character": "Pierrot Laurent",
+      "order": 7
+    },
+    {
+      "personId": 6019,
+      "character": "Mathilde",
+      "order": 8
+    },
+    {
+      "personId": 6020,
+      "character": "Yvon",
+      "order": 9
+    },
+    {
+      "personId": 6022,
+      "character": "Nurse",
+      "order": 10
+    },
+    {
+      "personId": 6023,
+      "character": "Georges's Father",
+      "order": 11
+    },
+    {
+      "personId": 6024,
+      "character": "Police Officer No. 2",
+      "order": 12
+    },
+    {
+      "personId": 132429,
+      "character": "Chantal",
+      "order": 13
+    },
+    {
+      "personId": 2879585,
+      "character": "TV Guest",
+      "order": 14
+    },
+    {
+      "personId": 231608,
+      "character": "The Orphanage Attendant",
+      "order": 15
+    },
+    {
+      "personId": 230401,
+      "character": "Bookstore Owner",
+      "order": 16
+    },
+    {
+      "personId": 1377432,
+      "character": "Young Georges's Mother",
+      "order": 17
+    },
+    {
+      "personId": 2879586,
+      "character": "Young Georges",
+      "order": 18
+    },
+    {
+      "personId": 1953032,
+      "character": "Writer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1327,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "tmdbId": 5961,
+  "slug": "fanny-and-alexander-1982",
+  "year": 1982,
+  "runtime": 188,
+  "originalTitle": "Fanny och Alexander",
+  "title": {
+    "en": "Fanny and Alexander",
+    "tr": "Fanny ve Alexandre"
+  },
+  "overview": {
+    "en": "As children in the loving Ekdahl family, Fanny and Alexander enjoy a happy life with their parents, who run a theater company. After their father dies unexpectedly, however, the siblings end up in a joyless home when their mother, Emilie, marries a stern bishop. The bleak situation gradually grows worse as the bishop becomes more controlling, but dedicated relatives make a valiant attempt to aid Emilie, Fanny and Alexander.",
+    "tr": "1907 yılında İsveç'te geçen filmde Fanny ve Alexander isminde iki kardeşin babaları öldükten sonra değişen hayatları anlatılıyor. Babaları ölünce, anneleri Emily bir pederle evlenir. Katı bir adam olan üvey babalarının kontrolü altında hapis hayatı süren Ekdahl Ailesi, aile büyükleri ve dostları müdahale edene kadar zor günler geçireceklerdir. 5 Saatlik bir TV dizisi olarak planlanan sonradan kısaltılarak sinemaya aktarılan Ingmar Bergman'ın bu 3,5 saatlik yapıtı, 84 yılında En İyi Yabancı Film Oscarı'nı da evine götürdü."
+  },
+  "poster": {
+    "tr": "/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg",
+    "en": "/mNlZjk8RYA93AdCGZ32D2SErNYb.jpg"
+  },
+  "backdrops": [
+    "/gW6RObeIT51uCTb5DvfU39cDusF.jpg",
+    "/OLAdunXj6E3UaTdBpWBGHUK7VK.jpg",
+    "/cSEEx6OXjMy5hMYgFTvKWK1Xv5u.jpg",
+    "/6rV9pGWO4WnwbjbCj3xDNMAu5hk.jpg",
+    "/nDajpeNEaWyzc9kM8nSKKHdW4Nn.jpg",
+    "/5qkOCfAH3Rf23dACMQyHGiBPgZ0.jpg",
+    "/oW1fQVgqxaJdxofibWXlNaPyBG8.jpg",
+    "/8reX3CMog1QHqGoym2Esvuk5MnK.jpg",
+    "/t1hc0wmK9ZsHYW9z9CIWKiuNA0e.jpg",
+    "/eSNUGR6f2ew6R33ppumpMq077eo.jpg"
+  ],
+  "trailerKey": "UCXoXFdNa1o",
+  "genreIds": [
+    14,
+    18,
+    9648
+  ],
+  "keywordIds": [
+    3737,
+    516,
+    380,
+    3739,
+    697,
+    1192,
+    2637,
+    4333,
+    5561,
+    10041,
+    162846,
+    185011,
+    200234,
+    205850,
+    207317,
+    236170,
+    285398,
+    311315,
+    314730,
+    325823,
+    325824
+  ],
+  "countries": [
+    "SE",
+    "FR",
+    "DE"
+  ],
+  "languages": [
+    "en",
+    "de",
+    "sv",
+    "yi"
+  ],
+  "studios": [
+    "Cinematograph AB",
+    "Svenska Filminstitutet",
+    "SVT"
+  ],
+  "crew": [
+    {
+      "personId": 46874,
+      "job": "composer"
+    },
+    {
+      "personId": 11905,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 46873,
+      "job": "composer"
+    },
+    {
+      "personId": 46875,
+      "job": "composer"
+    },
+    {
+      "personId": 46870,
+      "job": "composer"
+    },
+    {
+      "personId": 47061,
+      "job": "producer"
+    },
+    {
+      "personId": 46872,
+      "job": "composer"
+    },
+    {
+      "personId": 6648,
+      "job": "director"
+    },
+    {
+      "personId": 6648,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 46865,
+      "character": "Fanny Ekdahl",
+      "order": 0
+    },
+    {
+      "personId": 46864,
+      "character": "Alexander Ekdahl",
+      "order": 1
+    },
+    {
+      "personId": 46867,
+      "character": "Bishop Edvard Vergérus",
+      "order": 2
+    },
+    {
+      "personId": 46866,
+      "character": "Emilie Ekdahl",
+      "order": 3
+    },
+    {
+      "personId": 46868,
+      "character": "Helena Ekdahl",
+      "order": 4
+    },
+    {
+      "personId": 3853,
+      "character": "Carl Ekdahl",
+      "order": 5
+    },
+    {
+      "personId": 201337,
+      "character": "Hanna Schwartz",
+      "order": 6
+    },
+    {
+      "personId": 231927,
+      "character": "Siri",
+      "order": 7
+    },
+    {
+      "personId": 38127,
+      "character": "Isak Jacobi",
+      "order": 8
+    },
+    {
+      "personId": 93138,
+      "character": "Aron Retzinsky",
+      "order": 9
+    },
+    {
+      "personId": 1022633,
+      "character": "Gustav Adolf Ekdahl",
+      "order": 10
+    },
+    {
+      "personId": 3857,
+      "character": "Oscar Ekdahl",
+      "order": 11
+    },
+    {
+      "personId": 7569,
+      "character": "Justina",
+      "order": 12
+    },
+    {
+      "personId": 6649,
+      "character": "Filip Landahl",
+      "order": 13
+    },
+    {
+      "personId": 55887,
+      "character": "Ismael Retzinsky",
+      "order": 14
+    },
+    {
+      "personId": 33190,
+      "character": "Maj",
+      "order": 15
+    },
+    {
+      "personId": 32729,
+      "character": "Alma Ekdahl",
+      "order": 16
+    },
+    {
+      "personId": 249917,
+      "character": "Lydia Ekdahl",
+      "order": 17
+    },
+    {
+      "personId": 934978,
+      "character": "Henrietta Vergérus",
+      "order": 18
+    },
+    {
+      "personId": 231934,
+      "character": "Lisen",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "golden-globe": 1,
+    "oscar": 4,
+    "cesar": 1,
+    "bafta": 1
+  },
+  "voteCount": 927,
+  "sources": [
+    "cult-list"
+  ]
+}

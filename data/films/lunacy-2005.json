@@ -1,0 +1,173 @@
+{
+  "tmdbId": 21156,
+  "slug": "lunacy-2005",
+  "year": 2005,
+  "runtime": 117,
+  "originalTitle": "Šílení",
+  "title": {
+    "en": "Lunacy",
+    "tr": "Šílení"
+  },
+  "overview": {
+    "en": "A man takes up residence with a mysterious marquis and is soon persuaded to enter into an asylum for preventative therapy. Things are not what they seem, and the marquis may be even more sinister than what the young man might have predicted.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/n03zXfOnaMvv3m9F2Y2Hp9jRZCE.jpg",
+    "en": "/gDVAn4rnuXqwuscLBmJYYF5Cukq.jpg"
+  },
+  "backdrops": [
+    "/4SFf9Fo5Y2mwjSh8j3ouZY00L9N.jpg",
+    "/5nPOksZLrG7OAiIDA8fUR8d68R.jpg"
+  ],
+  "trailerKey": "TZyfIkXrblM",
+  "genreIds": [
+    35,
+    27
+  ],
+  "keywordIds": [
+    2884,
+    4924,
+    161214,
+    161216
+  ],
+  "countries": [
+    "BE",
+    "CZ",
+    "FR",
+    "SK"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "ATHANOR",
+    "Barrandov Studio",
+    "Ministry of Culture of the Slovak Republic"
+  ],
+  "crew": [
+    {
+      "personId": 83784,
+      "job": "director"
+    },
+    {
+      "personId": 83784,
+      "job": "writer"
+    },
+    {
+      "personId": 1082422,
+      "job": "producer"
+    },
+    {
+      "personId": 133553,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 111217,
+      "character": "Jean Berlot",
+      "order": 0
+    },
+    {
+      "personId": 61151,
+      "character": "Marquis",
+      "order": 1
+    },
+    {
+      "personId": 72865,
+      "character": "Charlota",
+      "order": 2
+    },
+    {
+      "personId": 135680,
+      "character": "Dr. Murlloppe",
+      "order": 3
+    },
+    {
+      "personId": 72794,
+      "character": "Dr. Coulmiere",
+      "order": 4
+    },
+    {
+      "personId": 1721292,
+      "character": "Feeble-minded Warden",
+      "order": 5
+    },
+    {
+      "personId": 83880,
+      "character": "Servant Dominik",
+      "order": 6
+    },
+    {
+      "personId": 1714418,
+      "character": "Innkeeper",
+      "order": 7
+    },
+    {
+      "personId": 77383,
+      "character": "Reciting Madman",
+      "order": 8
+    },
+    {
+      "personId": 2574018,
+      "character": "Asylum Inmate",
+      "order": 9
+    },
+    {
+      "personId": 3915794,
+      "character": "Asylum Inmate",
+      "order": 10
+    },
+    {
+      "personId": 3915796,
+      "character": "Asylum Inmate",
+      "order": 11
+    },
+    {
+      "personId": 3915797,
+      "character": "Insane Erotomaniac",
+      "order": 12
+    },
+    {
+      "personId": 1425317,
+      "character": "Dream Warden",
+      "order": 13
+    },
+    {
+      "personId": 25734,
+      "character": "Dream Warden",
+      "order": 14
+    },
+    {
+      "personId": 35117,
+      "character": "Ostler",
+      "order": 15
+    },
+    {
+      "personId": 3915798,
+      "character": "Naked Madman / Homeless",
+      "order": 16
+    },
+    {
+      "personId": 3915800,
+      "character": "Naked Madman",
+      "order": 17
+    },
+    {
+      "personId": 3915802,
+      "character": "Woman in Art Therapy",
+      "order": 18
+    },
+    {
+      "personId": 2724072,
+      "character": "Warden",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 78,
+  "sources": [
+    "cult-list"
+  ]
+}

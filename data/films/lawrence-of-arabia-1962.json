@@ -1,0 +1,206 @@
+{
+  "tmdbId": 947,
+  "slug": "lawrence-of-arabia-1962",
+  "year": 1962,
+  "runtime": 228,
+  "originalTitle": "Lawrence of Arabia",
+  "title": {
+    "en": "Lawrence of Arabia",
+    "tr": "Arabistanlı Lawrence"
+  },
+  "overview": {
+    "en": "During World War I, English officer Thomas Edward 'T.E.' Lawrence sets out to unite and lead the diverse, often warring, Arab tribes to fight the Turks.",
+    "tr": "T.E. Lawrence, Kuzey Afrika’da konuşlanmış İngiliz ordusunda görevli genç bir teğmendir. İstihbarat bölümünün harita kısmındaki pozisyonundan mutsuz olan Lawrence, bugün Suudi Arabistan olan bölgede araştırma görevi teklif edilince heyecanla kabul eder. Bölgede savaşmakta olan Arap ordusunun komutanı olan Prens Feisal’ı gözlemlemekte olan Lawrence, bir süre sonra bölgede kalarak Prens’e yardım etmeye karar verir. Tarihin en ünlü casuslarından biri olan Lawrence, Araplar’ı Osmanlılar’a karşı kışkırtıp, Arap topraklarına batılı medeniyetlerin girmesine ön ayak olmuştu."
+  },
+  "poster": {
+    "tr": "/vObizdg0Hepg8nMBfdmVMHSQH5V.jpg",
+    "en": "/AiAm0EtDvyGqNpVoieRw4u65vD1.jpg"
+  },
+  "backdrops": [
+    "/6wmemKdbkOIaWfzz607K21R6qOh.jpg",
+    "/mx2jS5Kaa5rmaldEFzKeKpDN9Q2.jpg",
+    "/nKwGUiqPdNf47XFjlbR5IFwAaOL.jpg",
+    "/9Yht6Ho4y213OqeHBIQyuI919fT.jpg",
+    "/z30x999Uku15xcFbe5s3hLvQPDl.jpg",
+    "/v1MGuvJstnhVsBL3rM8zkUpXLLG.jpg",
+    "/pLdU1ftzhyryAdonI1rq2zXsyJd.jpg",
+    "/49EQNQuFY9YqBZaJuXtVVOiwYF5.jpg",
+    "/AbIL5ZA3RPrMgppdhhqZ4lDjM5k.jpg",
+    "/dvMPSliyz58UAIEG29TqPE9sZfg.jpg"
+  ],
+  "trailerKey": "KR1yTI8zFJk",
+  "genreIds": [
+    12,
+    36,
+    10752
+  ],
+  "keywordIds": [
+    487,
+    2504,
+    1975,
+    2673,
+    3575,
+    4100,
+    4107,
+    4535,
+    4717,
+    9672,
+    12995,
+    15140,
+    18034,
+    173259,
+    210434,
+    214410
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "pt",
+    "tr"
+  ],
+  "studios": [
+    "Horizon Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 12238,
+      "job": "director"
+    },
+    {
+      "personId": 13317,
+      "job": "writer"
+    },
+    {
+      "personId": 13267,
+      "job": "writer"
+    },
+    {
+      "personId": 6594,
+      "job": "producer"
+    },
+    {
+      "personId": 2704,
+      "job": "composer"
+    },
+    {
+      "personId": 10079,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12238,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11390,
+      "character": "T.E. Lawrence",
+      "order": 0
+    },
+    {
+      "personId": 12248,
+      "character": "Prince Feisal",
+      "order": 1
+    },
+    {
+      "personId": 5401,
+      "character": "Auda abu Tayi",
+      "order": 2
+    },
+    {
+      "personId": 10018,
+      "character": "General Edmund Allenby",
+      "order": 3
+    },
+    {
+      "personId": 5004,
+      "character": "Sherif Ali",
+      "order": 4
+    },
+    {
+      "personId": 12515,
+      "character": "Turkish Bey",
+      "order": 5
+    },
+    {
+      "personId": 14371,
+      "character": "Colonel Harry Brighton",
+      "order": 6
+    },
+    {
+      "personId": 4113,
+      "character": "Mr. Dryden",
+      "order": 7
+    },
+    {
+      "personId": 11128,
+      "character": "Jackson Bentley",
+      "order": 8
+    },
+    {
+      "personId": 14372,
+      "character": "General Archibald Murray",
+      "order": 9
+    },
+    {
+      "personId": 35250,
+      "character": "Gasim",
+      "order": 10
+    },
+    {
+      "personId": 105634,
+      "character": "Majid",
+      "order": 11
+    },
+    {
+      "personId": 105633,
+      "character": "Farraj",
+      "order": 12
+    },
+    {
+      "personId": 105635,
+      "character": "Daud",
+      "order": 13
+    },
+    {
+      "personId": 14373,
+      "character": "Tafas",
+      "order": 14
+    },
+    {
+      "personId": 32119,
+      "character": "Medical Officer",
+      "order": 15
+    },
+    {
+      "personId": 13331,
+      "character": "Club Secretary",
+      "order": 16
+    },
+    {
+      "personId": 148872,
+      "character": "R.A.M.C. Colonel",
+      "order": 17
+    },
+    {
+      "personId": 1152423,
+      "character": "MP in Map Room (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 199917,
+      "character": "Captain at Officer's Club (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 7
+  },
+  "voteCount": 3645,
+  "sources": [
+    "cult-list"
+  ]
+}

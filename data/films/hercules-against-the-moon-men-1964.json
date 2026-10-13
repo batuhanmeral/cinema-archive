@@ -1,0 +1,123 @@
+{
+  "tmdbId": 31396,
+  "slug": "hercules-against-the-moon-men-1964",
+  "year": 1964,
+  "runtime": 90,
+  "originalTitle": "Maciste e la regina di Samar",
+  "title": {
+    "en": "Hercules Against the Moon Men",
+    "tr": "Maciste e la regina di Samar"
+  },
+  "overview": {
+    "en": "Hercules is summoned to oppose the evil Queen Samara, who has allied herself with aliens and is sacrificing her own people in a bid to awaken a moon goddess.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lQSDjwoJUr7uxmHYcrUHxVA2Roq.jpg",
+    "en": "/lQSDjwoJUr7uxmHYcrUHxVA2Roq.jpg"
+  },
+  "backdrops": [
+    "/9qwC63drOWfYz8SEcc2ic1HnmOO.jpg"
+  ],
+  "trailerKey": "6dRByEh6qlo",
+  "genreIds": [
+    12,
+    14
+  ],
+  "keywordIds": [
+    7376,
+    305,
+    2858,
+    2673,
+    2035,
+    9951,
+    9725,
+    157681,
+    169343,
+    187301
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Nike Cinematografica",
+    "Comptoir Français de Productions Cinématographiques (CFPC)"
+  ],
+  "crew": [
+    {
+      "personId": 223398,
+      "job": "director"
+    },
+    {
+      "personId": 223399,
+      "job": "writer"
+    },
+    {
+      "personId": 1291724,
+      "job": "writer"
+    },
+    {
+      "personId": 953317,
+      "job": "producer"
+    },
+    {
+      "personId": 1366052,
+      "job": "composer"
+    },
+    {
+      "personId": 52257,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1034608,
+      "character": "Maciste / Hercules",
+      "order": 0
+    },
+    {
+      "personId": 223402,
+      "character": "Queen Samara",
+      "order": 1
+    },
+    {
+      "personId": 223403,
+      "character": "Agar",
+      "order": 2
+    },
+    {
+      "personId": 98789,
+      "character": "Chancellor Gladius",
+      "order": 3
+    },
+    {
+      "personId": 223405,
+      "character": "Princess Billis / Selene",
+      "order": 4
+    },
+    {
+      "personId": 100956,
+      "character": "Remar",
+      "order": 5
+    },
+    {
+      "personId": 2357873,
+      "character": "Taris - Tirteo's Wife",
+      "order": 6
+    },
+    {
+      "personId": 1354970,
+      "character": "Tirteo's Daughter",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 35,
+  "sources": [
+    "cult-list"
+  ]
+}

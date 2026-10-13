@@ -1,0 +1,187 @@
+{
+  "tmdbId": 11075,
+  "slug": "audition-2000",
+  "year": 2000,
+  "runtime": 115,
+  "originalTitle": "オーディション",
+  "title": {
+    "en": "Audition",
+    "tr": "Ölüm Provası"
+  },
+  "overview": {
+    "en": "Seven years after the death of his wife, widower Shigeharu seeks advice on how to find a new wife from a colleague. Taking advantage of their position as a film company, they stage an audition. Interviewing a series of women, Shigeharu is enchanted by the quiet Asami. But soon things take a twisted turn as Asami isn’t what she seems to be.",
+    "tr": "Aoyama, 7 yıl önce karısını kaybetmiş ve o günden beri bir kadınla flört etmemiştir. Onun kederli yaşantısına bir kadının girmesi gerektiğine inanan tv yapımcısı arkadaşı, ilginç bir plan yapar. TV şovunun içinde bir bölüm yaparak, sözde oyuncu seçmeleri yapacak ve bu sayede Aoyama'ya uygun bir eş bulacaklardır.  Başarısız ve komik pek çok aday sonrasında, Asami adlı çok çekici bir kadın çıkar karşılarına. Onun ideal eşi olacağına inanan Aoyama, kısa zamanda kadının geçmişi hakkında garip şeyler öğrenir. Genç kadın, unutulmayacak bir intikam peşindedir."
+  },
+  "poster": {
+    "tr": "/zwGaUMm0wAqi0wkO7LJDlwoA5LP.jpg",
+    "en": "/d6P8hGLpPFmVmAcBDLySD3Wzs0b.jpg"
+  },
+  "backdrops": [
+    "/xmtmZc5aylqDMRKYlU8pmsgG0HF.jpg",
+    "/aKsWYFgY3p8b4TvFGdCsJgkMA3A.jpg",
+    "/4lrtdOMClphs6RpkslKp6gTr5LZ.jpg",
+    "/6BDd8O1eHNdYFLzUGTf38OVI326.jpg",
+    "/j1Aes9dUs77UEJrj5a0yVOL1Vlo.jpg",
+    "/oBLPQO2O9Ioa7r60lAhrguEiJo4.jpg",
+    "/pdVHYLJfZ1RIfLgE5Be9Wej0zz1.jpg",
+    "/gSzl1Fqk2NPc63S9x34OyKadStt.jpg",
+    "/p7VTWcJanaw8lekSBk9RWbLDvEJ.jpg",
+    "/kAxHfcm7TZu807KrrrdZcvIxvR8.jpg"
+  ],
+  "trailerKey": "2wr_om5LsuI",
+  "genreIds": [
+    27,
+    18
+  ],
+  "keywordIds": [
+    4426,
+    7690,
+    12565,
+    13006,
+    156322
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Basara Pictures",
+    "Creators Company Connection",
+    "Omega Project"
+  ],
+  "crew": [
+    {
+      "personId": 68112,
+      "job": "producer"
+    },
+    {
+      "personId": 68114,
+      "job": "writer"
+    },
+    {
+      "personId": 1262010,
+      "job": "producer"
+    },
+    {
+      "personId": 17282,
+      "job": "director"
+    },
+    {
+      "personId": 35633,
+      "job": "composer"
+    },
+    {
+      "personId": 135383,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4994,
+      "character": "Shigeharu Aoyama",
+      "order": 0
+    },
+    {
+      "personId": 57455,
+      "character": "Asami Yamazaki",
+      "order": 1
+    },
+    {
+      "personId": 2541,
+      "character": "Yasuhisa Yoshikawa",
+      "order": 2
+    },
+    {
+      "personId": 68111,
+      "character": "Shigehiko Aoyama",
+      "order": 3
+    },
+    {
+      "personId": 63706,
+      "character": "Mr Shimada",
+      "order": 4
+    },
+    {
+      "personId": 1171071,
+      "character": "Ryoko Aoyama",
+      "order": 5
+    },
+    {
+      "personId": 72606,
+      "character": "Rie",
+      "order": 6
+    },
+    {
+      "personId": 551590,
+      "character": "Michiyo Yanagida",
+      "order": 7
+    },
+    {
+      "personId": 1089922,
+      "character": "Toastmaster",
+      "order": 8
+    },
+    {
+      "personId": 120351,
+      "character": "Director",
+      "order": 9
+    },
+    {
+      "personId": 137029,
+      "character": "Shibata",
+      "order": 10
+    },
+    {
+      "personId": 13256,
+      "character": "Bartender",
+      "order": 11
+    },
+    {
+      "personId": 58449,
+      "character": "TV Station Presenter",
+      "order": 12
+    },
+    {
+      "personId": 3477223,
+      "character": "Misuzu Takagi",
+      "order": 13
+    },
+    {
+      "personId": 3477224,
+      "character": "Young Shigehiko",
+      "order": 14
+    },
+    {
+      "personId": 3477225,
+      "character": "Young Asami",
+      "order": 15
+    },
+    {
+      "personId": 134392,
+      "character": "FM Announcer",
+      "order": 16
+    },
+    {
+      "personId": 83205,
+      "character": "Doctor",
+      "order": 17
+    },
+    {
+      "personId": 3477229,
+      "character": "Nurse",
+      "order": 18
+    },
+    {
+      "personId": 132771,
+      "character": "Nurse",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1886,
+  "sources": [
+    "cult-list"
+  ]
+}

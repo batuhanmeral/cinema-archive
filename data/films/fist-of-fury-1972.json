@@ -1,0 +1,195 @@
+{
+  "tmdbId": 11713,
+  "slug": "fist-of-fury-1972",
+  "year": 1972,
+  "runtime": 108,
+  "originalTitle": "精武門",
+  "title": {
+    "en": "Fist of Fury",
+    "tr": "Öfkenin Yumruğu"
+  },
+  "overview": {
+    "en": "During the Japanese occupation of Shanghai, Chen Zhen, the star pupil of a recently-deceased martial arts teacher battles a Japanese dojo which seeks the demise of his fighting school.",
+    "tr": "Chen Zhen, yalnızca sevgili öğretmeninin ölümünü öğrenmek için Çin'in uluslararası yerleşkesine döner. Bu bölgedeki Japon nüfusu tarafından sürekli ırkçı tacizle karşılaşan Chen Zhen, arkadaşlarının aksine öğretmeninin cinayetini araştırırken dövüş sanatlarındaki ustalığıyla yüzleşir."
+  },
+  "poster": {
+    "tr": "/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
+    "en": "/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg"
+  },
+  "backdrops": [
+    "/gA4qAcpyrkg8CWcRlf3bhgHyDv2.jpg",
+    "/8z9vDt4UhRhGAceYA0l2zN0ncyr.jpg",
+    "/AddgRVGaQg3FCFS0Ew8yixzjG1t.jpg",
+    "/fksnOUqmwTvYW3G7lkLkhreIHBu.jpg",
+    "/lgk1ptAoo8L5sMtVSadkBcnEUqs.jpg",
+    "/fHyRU5P5vDsN62NvBMQrXLf6Yso.jpg",
+    "/cfHOyfVY8mv7cEeZNAWwPpIC1iV.jpg",
+    "/4EUxVOhlHGolvrvpopDvZhFbzjf.jpg",
+    "/p9NlJhgRvTkwHVM5vFjrFNFZRow.jpg",
+    "/q0scLxJvX89hh1NcHJwo1Ke7s0e.jpg"
+  ],
+  "trailerKey": "oO9PVJdgu4M",
+  "genreIds": [
+    18,
+    28,
+    53
+  ],
+  "keywordIds": [
+    779,
+    780,
+    10508,
+    9748,
+    9812,
+    9826,
+    10044,
+    13116,
+    13119,
+    13159,
+    14707,
+    14988,
+    174244,
+    175510,
+    185466,
+    192498,
+    278132
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "studios": [
+    "Orange Sky Golden Harvest",
+    "Concord Productions"
+  ],
+  "crew": [
+    {
+      "personId": 70334,
+      "job": "director"
+    },
+    {
+      "personId": 70334,
+      "job": "writer"
+    },
+    {
+      "personId": 46323,
+      "job": "producer"
+    },
+    {
+      "personId": 57724,
+      "job": "composer"
+    },
+    {
+      "personId": 70335,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19429,
+      "character": "Chen Zhen",
+      "order": 0
+    },
+    {
+      "personId": 57723,
+      "character": "Yuan Le-erh",
+      "order": 1
+    },
+    {
+      "personId": 70332,
+      "character": "Yen",
+      "order": 2
+    },
+    {
+      "personId": 62427,
+      "character": "Fan Chun-hsia",
+      "order": 3
+    },
+    {
+      "personId": 121394,
+      "character": "Fan",
+      "order": 4
+    },
+    {
+      "personId": 143191,
+      "character": "Tien",
+      "order": 5
+    },
+    {
+      "personId": 72432,
+      "character": "Feng Kwai-sher",
+      "order": 6
+    },
+    {
+      "personId": 143190,
+      "character": "Interpreter Wu",
+      "order": 7
+    },
+    {
+      "personId": 70334,
+      "character": "Inspector Lo",
+      "order": 8
+    },
+    {
+      "personId": 125288,
+      "character": "Hsu",
+      "order": 9
+    },
+    {
+      "personId": 240168,
+      "character": "Chin",
+      "order": 10
+    },
+    {
+      "personId": 1164880,
+      "character": "Yoshida",
+      "order": 11
+    },
+    {
+      "personId": 1122045,
+      "character": "Petrov",
+      "order": 12
+    },
+    {
+      "personId": 111959,
+      "character": "Hiroshi Suzuki",
+      "order": 13
+    },
+    {
+      "personId": 150254,
+      "character": "Suzuki's Bodyguard",
+      "order": 14
+    },
+    {
+      "personId": 554623,
+      "character": "Chao",
+      "order": 15
+    },
+    {
+      "personId": 1361023,
+      "character": "Tung",
+      "order": 16
+    },
+    {
+      "personId": 1122047,
+      "character": "Li",
+      "order": 17
+    },
+    {
+      "personId": 1173757,
+      "character": "(uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 18897,
+      "character": "Student (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1128,
+  "sources": [
+    "cult-list"
+  ]
+}

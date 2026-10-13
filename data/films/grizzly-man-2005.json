@@ -1,0 +1,195 @@
+{
+  "tmdbId": 501,
+  "slug": "grizzly-man-2005",
+  "year": 2005,
+  "runtime": 103,
+  "originalTitle": "Grizzly Man",
+  "title": {
+    "en": "Grizzly Man",
+    "tr": "Ayı Adam"
+  },
+  "overview": {
+    "en": "Follows the story of \"Grizzly Man\" Timothy Treadwell and what the thirteen summers in a National Park in Alaska were like in his attempt to protect the grizzly bears. The film is full of unique images and a look into the spirit of a man who sacrificed himself for nature.",
+    "tr": "Usta yönetmen Werner Herzog son filminde, amatör boz ayı uzmanı ve vahşi doğa eylemcisi Timothy Treadwell’in yaşamını ve ölümünün ardındaki gerçekleri gözler önüne seriyor. Treadwell, Alaska’daki bir Ulusal Park’ta, ayılar arasında silahsız olarak on üç yaz boyunca yaşadı ve deneyimlerini filme çekti.Ekim 2003’te, Treadwell’in ve kız arkadaşının bir boz ayı tarafından parçalanıp yenmiş cesetleri bulundu. Herzog’un hayvanlara duygusal açıdan yaklaşmayan bu alışılmadık belgeselinde Treadwell’in kendi belgesel filminden parçalar da kullanılarak doğa ve insan arasındaki hassas ilişkinin sınırları sorgulanıyor."
+  },
+  "poster": {
+    "tr": "/yKxIOSiOhEOL0odl7sbfze4SQhY.jpg",
+    "en": "/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg"
+  },
+  "backdrops": [
+    "/CemU4TsKJv5tmVy1eLfs8oroEh.jpg",
+    "/hAlB9MaamrP1eDhGA4AkjSAPxAf.jpg",
+    "/sASIQUbfDFbHufCXld34yWQW8nq.jpg",
+    "/hsWGeeLA5heZP8RC8yNbdns7k1I.jpg",
+    "/yvPsQ5A5eDHBV3bBmAWn2qDawJX.jpg",
+    "/tumlyPiR9wepxaBUPTJ25jYtjD3.jpg",
+    "/fTEvG1sGTVKHgiz4NyZBqPetM3i.jpg",
+    "/zKS1c2h32l3vhHe17IsrTrXBN1d.jpg",
+    "/3uSVCw74GmUvCodULXnmCzKaoBr.jpg",
+    "/ryIHK4HxC1ibdrg7buZzYGQ2bn0.jpg"
+  ],
+  "trailerKey": "uWA7GtDmNFU",
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    2488,
+    314,
+    6059,
+    2522,
+    2526,
+    4434,
+    5565,
+    9672,
+    6310,
+    6165,
+    9880,
+    9898,
+    9902,
+    15061,
+    15174,
+    18330,
+    154866,
+    234765,
+    240461,
+    255763,
+    272472,
+    290279
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Discovery Docs",
+    "Real Big Production",
+    "Lions Gate Films"
+  ],
+  "crew": [
+    {
+      "personId": 6825,
+      "job": "composer"
+    },
+    {
+      "personId": 6824,
+      "job": "producer"
+    },
+    {
+      "personId": 6818,
+      "job": "director"
+    },
+    {
+      "personId": 6826,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6819,
+      "character": "Self (archive footage)",
+      "order": 0
+    },
+    {
+      "personId": 6818,
+      "character": "Self / Narrator (voice)",
+      "order": 1
+    },
+    {
+      "personId": 6821,
+      "character": "Self - Actor, Close Friend",
+      "order": 2
+    },
+    {
+      "personId": 6822,
+      "character": "Self - Pilot, Former Rodeo Rider",
+      "order": 3
+    },
+    {
+      "personId": 6823,
+      "character": "Self - Egli Air Haul",
+      "order": 4
+    },
+    {
+      "personId": 4829530,
+      "character": "Self - Ecologist",
+      "order": 5
+    },
+    {
+      "personId": 4829535,
+      "character": "Self - Ecologist",
+      "order": 6
+    },
+    {
+      "personId": 4829549,
+      "character": "Self - Bear Biologist",
+      "order": 7
+    },
+    {
+      "personId": 4829556,
+      "character": "Self - Alutiiq",
+      "order": 8
+    },
+    {
+      "personId": 4829569,
+      "character": "Self - Coroner",
+      "order": 9
+    },
+    {
+      "personId": 1687263,
+      "character": "Self - Grizzly People",
+      "order": 10
+    },
+    {
+      "personId": 4829605,
+      "character": "Self (archive footage)",
+      "order": 11
+    },
+    {
+      "personId": 4829641,
+      "character": "Self - Timothy's Mother",
+      "order": 12
+    },
+    {
+      "personId": 4829639,
+      "character": "Self - Timothy's Father",
+      "order": 13
+    },
+    {
+      "personId": 6820,
+      "character": "Self - Close Friend",
+      "order": 14
+    },
+    {
+      "personId": 6149653,
+      "character": "Self (archive footage)",
+      "order": 15
+    },
+    {
+      "personId": 6149683,
+      "character": "Self (archive footage) - Journalist",
+      "order": 16
+    },
+    {
+      "personId": 6149605,
+      "character": "Self (archive footage)",
+      "order": 17
+    },
+    {
+      "personId": 6149607,
+      "character": "Self (archive footage)",
+      "order": 18
+    },
+    {
+      "personId": 6149616,
+      "character": "Self (archive footage)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1001,
+  "sources": [
+    "cult-list"
+  ]
+}

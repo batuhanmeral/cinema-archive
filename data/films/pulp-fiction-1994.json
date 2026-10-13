@@ -1,0 +1,197 @@
+{
+  "tmdbId": 680,
+  "slug": "pulp-fiction-1994",
+  "year": 1994,
+  "runtime": 154,
+  "originalTitle": "Pulp Fiction",
+  "title": {
+    "en": "Pulp Fiction",
+    "tr": "Ucuz Roman"
+  },
+  "overview": {
+    "en": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+    "tr": "Jules Winnfield ve Vincent Vega, mafya babası patronları Marsellus Wallace’tan çalınan bir çantayı geri almaya giden iki profesyonel tetikçidir. Wallace aynı zamanda Vincent’a, kendisi birkaç gün sonra şehir dışındayken karısını dışarı çıkarmasını söyler. Butch Coolidge, bir sonraki maçını kaybetmesi için Wallace’tan para alan yaşlı bir boksördür. Honey Bunny ve Pumpkin, yer değişikliğine ihtiyaçları olduğuna karar veren soyguncu bir çifttir. Görünüşte birbirleriyle alakası olmayan bu insanların hayatları, hem heyecanlı hem de eğlendirici bir sinema filmi macerasında nefes kesici bir şekilde birleşecektir."
+  },
+  "poster": {
+    "tr": "/AgY33Wtg4737MhYopJSFyKWhKsO.jpg",
+    "en": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg"
+  },
+  "backdrops": [
+    "/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+    "/w7RDIgQM6bLT7JXtH4iUQd3Iwxm.jpg",
+    "/52StM7zDmcjeKxWkW55X5LtoLQi.jpg",
+    "/eDMZmfnH50DDboUxTRnOYYpE9aY.jpg",
+    "/9pGM43a9VmXxwIxmhJoiDkcB2hT.jpg",
+    "/19joFuQ6YTkcru4rvOf8b9CIjjg.jpg",
+    "/ih6mIvRzQ9uayDZ5R4rfRWq1Cm4.jpg",
+    "/7AR20EehD6HxHU0mUTetQKHCxUd.jpg",
+    "/cOGysF4SXauEKz18mFGmkZW6O2T.jpg",
+    "/zlHyF5q27hyA5T6IwlJp0rcyW3R.jpg"
+  ],
+  "trailerKey": "tGpTpVyI_OQ",
+  "genreIds": [
+    53,
+    80,
+    35
+  ],
+  "keywordIds": [
+    2231,
+    2151,
+    3149,
+    10123,
+    8627,
+    9730,
+    11436,
+    12670,
+    14604,
+    33494,
+    157171,
+    171366,
+    199524,
+    202371,
+    207268
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "fr"
+  ],
+  "studios": [
+    "Miramax",
+    "A Band Apart",
+    "Jersey Films"
+  ],
+  "crew": [
+    {
+      "personId": 2545,
+      "job": "producer"
+    },
+    {
+      "personId": 3115,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 138,
+      "job": "director"
+    },
+    {
+      "personId": 138,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8891,
+      "character": "Vincent Vega",
+      "order": 0
+    },
+    {
+      "personId": 2231,
+      "character": "Jules Winnfield",
+      "order": 1
+    },
+    {
+      "personId": 139,
+      "character": "Mia Wallace",
+      "order": 2
+    },
+    {
+      "personId": 62,
+      "character": "Butch Coolidge",
+      "order": 3
+    },
+    {
+      "personId": 10182,
+      "character": "Marsellus Wallace",
+      "order": 4
+    },
+    {
+      "personId": 1037,
+      "character": "The Wolf",
+      "order": 5
+    },
+    {
+      "personId": 7036,
+      "character": "Lance",
+      "order": 6
+    },
+    {
+      "personId": 3129,
+      "character": "Pumpkin",
+      "order": 7
+    },
+    {
+      "personId": 99,
+      "character": "Honey Bunny",
+      "order": 8
+    },
+    {
+      "personId": 2319,
+      "character": "Fabienne",
+      "order": 9
+    },
+    {
+      "personId": 138,
+      "character": "Jimmie Dimmick",
+      "order": 10
+    },
+    {
+      "personId": 4690,
+      "character": "Captain Koons",
+      "order": 11
+    },
+    {
+      "personId": 2165,
+      "character": "Jody",
+      "order": 12
+    },
+    {
+      "personId": 11803,
+      "character": "Zed",
+      "order": 13
+    },
+    {
+      "personId": 11804,
+      "character": "Maynard",
+      "order": 14
+    },
+    {
+      "personId": 71836,
+      "character": "Esmarelda Villalobos",
+      "order": 15
+    },
+    {
+      "personId": 31549,
+      "character": "Marvin",
+      "order": 16
+    },
+    {
+      "personId": 884,
+      "character": "Buddy Holly",
+      "order": 17
+    },
+    {
+      "personId": 33399,
+      "character": "Trudi",
+      "order": 18
+    },
+    {
+      "personId": 11807,
+      "character": "Waitress",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "bafta": 2,
+    "oscar": 1,
+    "golden-globe": 1,
+    "cannes": 1
+  },
+  "voteCount": 31209,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "tmdbId": 132030,
+  "slug": "the-green-elephant-1999",
+  "year": 1999,
+  "runtime": 87,
+  "originalTitle": "Зелёный слоник",
+  "title": {
+    "en": "The Green Elephant",
+    "tr": "Зелёный слоник"
+  },
+  "overview": {
+    "en": "Two Russian prisoners are abused mentally and physically.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ziIQkTkfG2kSBFDWDva7XAao47.jpg",
+    "en": "/ziIQkTkfG2kSBFDWDva7XAao47.jpg"
+  },
+  "backdrops": [
+    "/evUhOMCfzM6fGhGnpcUYHnYyshJ.jpg",
+    "/cZ9FI4oDP3xORx4vCrQovd6nukx.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    53,
+    27,
+    35
+  ],
+  "keywordIds": [
+    378,
+    625,
+    2804,
+    11130,
+    295420,
+    344603
+  ],
+  "countries": [
+    "RU"
+  ],
+  "languages": [
+    "ru"
+  ],
+  "studios": [
+    "Supernova Group"
+  ],
+  "crew": [
+    {
+      "personId": 1094077,
+      "job": "director"
+    },
+    {
+      "personId": 1094077,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1158713,
+      "job": "producer"
+    },
+    {
+      "personId": 1094077,
+      "job": "producer"
+    },
+    {
+      "personId": 1094077,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 143709,
+      "character": "Братишка",
+      "order": 0
+    },
+    {
+      "personId": 1094078,
+      "character": "Полковник",
+      "order": 1
+    },
+    {
+      "personId": 1094079,
+      "character": "Капитан",
+      "order": 2
+    },
+    {
+      "personId": 1094080,
+      "character": "Поехавший",
+      "order": 3
+    },
+    {
+      "personId": 1158713,
+      "character": "Капитан (озвучка)",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 111,
+  "sources": [
+    "cult-list"
+  ]
+}

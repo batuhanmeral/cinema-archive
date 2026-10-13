@@ -1,0 +1,153 @@
+{
+  "tmdbId": 19072,
+  "slug": "blithe-spirit-1945",
+  "year": 1945,
+  "runtime": 96,
+  "originalTitle": "Blithe Spirit",
+  "title": {
+    "en": "Blithe Spirit",
+    "tr": "Ben Çağırmadım"
+  },
+  "overview": {
+    "en": "While holding a séance for skeptical novelist Charles Condomine, self-proclaimed 'spiritualist medium' Madame Arcati inadvertently summons the spirit of his deceased first wife Elvira, leading to an increasingly complex love triangle with Ruth, his current wife of five years.",
+    "tr": "Medyumlarla ilgili kitap yazan Charles ile komşusu \"emekli medyum\" Madam Arcati’nin öyküsü. Araya yazarın ikinci eşi girince işler karışacak."
+  },
+  "poster": {
+    "tr": "/mBKB90yS8Gti4QhcYGuUeJmeOoC.jpg",
+    "en": "/fXlaFXwrqUQxX7RbyRbCQO3o4Sp.jpg"
+  },
+  "backdrops": [
+    "/mp5q3F8rq5mGR3TtKgEJ8fTpqUc.jpg",
+    "/xFqLWRaYqxNC2KfqvUcj5Ln4gmB.jpg",
+    "/jAstdwNnDBtgM0DU0DmhAfNNvXo.jpg",
+    "/6mURXaUsflo3zcwr7PugwhvFjRT.jpg",
+    "/n06hIbJ8fjdW39kmV03BkjApkau.jpg",
+    "/3A8KUwrAtGOPvCFWMIYIoWP0LXK.jpg"
+  ],
+  "trailerKey": "wu-kkkiDnT0",
+  "genreIds": [
+    35,
+    14
+  ],
+  "keywordIds": [
+    128,
+    2587,
+    2626,
+    2723,
+    10181,
+    9826,
+    10414,
+    10818,
+    13097,
+    33476,
+    155251,
+    155457,
+    162846,
+    163186,
+    190621
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Noel Coward-Cineguild",
+    "Two Cities Films",
+    "J. Arthur Rank Organisation"
+  ],
+  "crew": [
+    {
+      "personId": 12238,
+      "job": "director"
+    },
+    {
+      "personId": 12718,
+      "job": "writer"
+    },
+    {
+      "personId": 12718,
+      "job": "producer"
+    },
+    {
+      "personId": 37467,
+      "job": "composer"
+    },
+    {
+      "personId": 7501,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12238,
+      "job": "writer"
+    },
+    {
+      "personId": 7501,
+      "job": "writer"
+    },
+    {
+      "personId": 12719,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 35321,
+      "character": "Charles Condomine",
+      "order": 0
+    },
+    {
+      "personId": 19022,
+      "character": "Ruth Condomine",
+      "order": 1
+    },
+    {
+      "personId": 87858,
+      "character": "Elvira Condomine",
+      "order": 2
+    },
+    {
+      "personId": 11127,
+      "character": "Madame Arcati",
+      "order": 3
+    },
+    {
+      "personId": 54035,
+      "character": "Dr. George Bradman",
+      "order": 4
+    },
+    {
+      "personId": 12728,
+      "character": "Violet Bradman",
+      "order": 5
+    },
+    {
+      "personId": 87859,
+      "character": "Edith",
+      "order": 6
+    },
+    {
+      "personId": 27911,
+      "character": "Cook (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 938201,
+      "character": "R.A.C. Man Directing Traffic (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 12718,
+      "character": "Narrator (uncredited)",
+      "order": 9
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 176,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "tmdbId": 597,
+  "slug": "titanic-1997",
+  "year": 1997,
+  "runtime": 194,
+  "originalTitle": "Titanic",
+  "title": {
+    "en": "Titanic",
+    "tr": "Titanik"
+  },
+  "overview": {
+    "en": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+    "tr": "Teknolojinin son sürat ilerlediği bir dönemde, insanlar üstesinden gelemeyecekleri hiçbir sorun olamayacağına inanmaya başlamışlardır. 'Titanic' adlı dev transatlantik ise, insanlığın doğaya karşı gövde gösterisi gibidir. Bu Düşler Gemisi'nin yolcuları arasında Avrupa'da birkaç yıl geçirdikten sonra Amerika'ya dönmekte olan, Jack Dawson adlı genç ve fakir bir ressam ile nişanlısı ve annesiyle Philadelphia'ya giden Rose DeWitt Bukater adlı zengin bir genç kız da vardır. İki genç şans eseri tanışacak, aralarındaki sınıf farkına aldırmaksızın birbirlerine yakınlaşacaktır. Yola çıkılmasından dört buçuk gün sonra, 10 Nisan 1912'de, Titanic iki saat kırk dakika süren ve sulara gömülmesiyle son bulan, hazin olayların başlamasına neden olacak buz dağına çarpacaktır."
+  },
+  "poster": {
+    "tr": "/hEntfzxB8yUXIxqZY929dELjLsi.jpg",
+    "en": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+  },
+  "backdrops": [
+    "/rzdPqYx7Um4FUZeD8wpXqjAUcEm.jpg",
+    "/sCzcYW9h55WcesOqA12cgEr9Exw.jpg",
+    "/AjoaBmNAmEPkAcQyhOk08u0mCcu.jpg",
+    "/tupgjqhWx5oieQrdyesO3aclUX9.jpg",
+    "/xnHVX37XZEp33hhCbYlQFq7ux1J.jpg",
+    "/wOFY2xA3D3VHi3G6DPtrXXhPrqQ.jpg",
+    "/sDH1LkdFOkQmTJaF1sIIniQyFOk.jpg",
+    "/4eylxg940ocgdkHjab2Tm8jv2hb.jpg",
+    "/xXCuto8YVp5RFqBJ7yKmVmLOWpF.jpg",
+    "/4MS3PY7syZUULFGlujYeqQqnIoG.jpg"
+  ],
+  "trailerKey": "wO44qBPBG4c",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    3799,
+    815,
+    2580,
+    1913,
+    2227,
+    2984,
+    4388,
+    3691,
+    4953,
+    9672,
+    7579,
+    10614,
+    10703,
+    12995,
+    14514,
+    14720,
+    159289,
+    180100,
+    182625,
+    186956,
+    189411,
+    210184
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "sv",
+    "it",
+    "ru"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "20th Century Fox",
+    "Lightstorm Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 2710,
+      "job": "director"
+    },
+    {
+      "personId": 1729,
+      "job": "composer"
+    },
+    {
+      "personId": 8523,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2710,
+      "job": "producer"
+    },
+    {
+      "personId": 8529,
+      "job": "producer"
+    },
+    {
+      "personId": 2710,
+      "job": "writer"
+    },
+    {
+      "personId": 3997537,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6193,
+      "character": "Jack Dawson",
+      "order": 0
+    },
+    {
+      "personId": 204,
+      "character": "Rose DeWitt Bukater",
+      "order": 1
+    },
+    {
+      "personId": 1954,
+      "character": "Cal Hockley",
+      "order": 2
+    },
+    {
+      "personId": 8534,
+      "character": "Molly Brown",
+      "order": 3
+    },
+    {
+      "personId": 3713,
+      "character": "Ruth DeWitt Bukater",
+      "order": 4
+    },
+    {
+      "personId": 8535,
+      "character": "Old Rose",
+      "order": 5
+    },
+    {
+      "personId": 2053,
+      "character": "Brock Lovett",
+      "order": 6
+    },
+    {
+      "personId": 1369,
+      "character": "Captain Smith",
+      "order": 7
+    },
+    {
+      "personId": 2076,
+      "character": "Spicer Lovejoy",
+      "order": 8
+    },
+    {
+      "personId": 8536,
+      "character": "Thomas Andrews",
+      "order": 9
+    },
+    {
+      "personId": 8537,
+      "character": "Bruce Ismay",
+      "order": 10
+    },
+    {
+      "personId": 2179,
+      "character": "Lizzy Calvert",
+      "order": 11
+    },
+    {
+      "personId": 8538,
+      "character": "Lewis Bodine",
+      "order": 12
+    },
+    {
+      "personId": 8539,
+      "character": "Bobby Buell",
+      "order": 13
+    },
+    {
+      "personId": 93215,
+      "character": "Anatoly Milkailavich",
+      "order": 14
+    },
+    {
+      "personId": 8540,
+      "character": "Fabrizio",
+      "order": 15
+    },
+    {
+      "personId": 8541,
+      "character": "Tommy Ryan",
+      "order": 16
+    },
+    {
+      "personId": 3071,
+      "character": "1st Officer Murdoch",
+      "order": 17
+    },
+    {
+      "personId": 65524,
+      "character": "Fifth Officer Lowe",
+      "order": 18
+    },
+    {
+      "personId": 8547,
+      "character": "2nd Officer Lightoller",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "golden-globe": 4,
+    "oscar": 11
+  },
+  "voteCount": 27988,
+  "sources": [
+    "cult-list"
+  ]
+}

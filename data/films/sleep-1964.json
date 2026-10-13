@@ -1,0 +1,53 @@
+{
+  "tmdbId": 256222,
+  "slug": "sleep-1964",
+  "year": 1964,
+  "runtime": 321,
+  "originalTitle": "Sleep",
+  "title": {
+    "en": "Sleep",
+    "tr": "Sleep"
+  },
+  "overview": {
+    "en": "Footage of John Giorno sleeping for five hours.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wdycadfJt5PLhTmWPLZpOVK45ur.jpg",
+    "en": "/wdycadfJt5PLhTmWPLZpOVK45ur.jpg"
+  },
+  "backdrops": [
+    "/96cDKGdE8M2tXkQ5UmB2H1QL2TZ.jpg"
+  ],
+  "trailerKey": "_KHdXhyKqTk",
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    2116,
+    161290
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 18626,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1091965,
+      "character": "Himself",
+      "order": 0
+    }
+  ],
+  "awards": {},
+  "voteCount": 24,
+  "sources": [
+    "cult-list"
+  ]
+}

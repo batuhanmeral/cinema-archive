@@ -1,0 +1,189 @@
+{
+  "tmdbId": 9538,
+  "slug": "scanners-1981",
+  "year": 1981,
+  "runtime": 103,
+  "originalTitle": "Scanners",
+  "title": {
+    "en": "Scanners",
+    "tr": "Tarayıcılar"
+  },
+  "overview": {
+    "en": "A scientist trains a man with an advanced telepathic ability called 'scanning' to stop a dangerous Scanner with extraordinary psychic powers from waging war against non-Scanners.",
+    "tr": "Tarayıcılar insan üstü telekinetik güçlere sahip kişilerdir. Yıllar önce bir ilacın hamile kadınlar üzerinde denenmesi sırasında ortaya istemeden çıkmış bir türdür onlar. Yaşamlarını, insanlığın geri kalanından güçlerini gizleyerek ama nimetlerinden de yararlanarak sürdürmektedirler. Ancak aralarından biri, Darryl Revok, telepatik yetenekleri daha da gelişmiş bir ırk yaratarak dünyaya hükmetmeye kalktığında karşısında hümanist tarayıcı Cameron Vale’i bulacaktır."
+  },
+  "poster": {
+    "tr": "/VTqLdveNXxGsIAZL5I4RliTTt7.jpg",
+    "en": "/dyF8SNSv0CEG8gAZZA0vdmvC7tr.jpg"
+  },
+  "backdrops": [
+    "/1qxQvGJXlkFRqfGallca9DXmynS.jpg",
+    "/1BsQUBeYD51ZaI92CHQBhciRkZ7.jpg",
+    "/aKpyszOe1taERPEqZJRtLF6D8YM.jpg",
+    "/weKhPC9dCbKOl633anVJFer44sF.jpg",
+    "/d02qjDEc846h7z4AUFUiI6ROZSy.jpg",
+    "/euf1sWf03Hl62n4LqEGUp1pX6Ph.jpg",
+    "/dShy8qolA7BzUfTagmSAmJBNdaV.jpg",
+    "/eC0tkK23G6Hj2krOJ0ZoVtRM3nK.jpg",
+    "/wBbSNWC9rrsESB76QMb8SJaezsg.jpg",
+    "/hpGnwYSdW9WYlVY9Xg2btpdaXoJ.jpg"
+  ],
+  "trailerKey": "UveLSA7Hoj8",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    9678,
+    1475,
+    11627,
+    5086,
+    9826,
+    9815,
+    11265,
+    14760,
+    14811,
+    14964,
+    283085
+  ],
+  "countries": [
+    "CA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Filmplan International",
+    "Canadian Film Development Corporation",
+    "Montreal Trust Company of Canada"
+  ],
+  "crew": [
+    {
+      "personId": 224,
+      "job": "director"
+    },
+    {
+      "personId": 7413,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 224,
+      "job": "writer"
+    },
+    {
+      "personId": 12476,
+      "job": "producer"
+    },
+    {
+      "personId": 117,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57880,
+      "character": "Cameron Vale",
+      "order": 0
+    },
+    {
+      "personId": 26662,
+      "character": "Kim Obrist",
+      "order": 1
+    },
+    {
+      "personId": 11086,
+      "character": "Darryl Revok",
+      "order": 2
+    },
+    {
+      "personId": 2463,
+      "character": "Dr. Paul Ruth",
+      "order": 3
+    },
+    {
+      "personId": 36173,
+      "character": "Braedon Keller",
+      "order": 4
+    },
+    {
+      "personId": 20175,
+      "character": "Benjamin Pierce",
+      "order": 5
+    },
+    {
+      "personId": 224076,
+      "character": "Security One",
+      "order": 6
+    },
+    {
+      "personId": 175213,
+      "character": "Trevellyan",
+      "order": 7
+    },
+    {
+      "personId": 1081825,
+      "character": "Arno Crostic",
+      "order": 8
+    },
+    {
+      "personId": 44165,
+      "character": "Programmer 1",
+      "order": 9
+    },
+    {
+      "personId": 1383289,
+      "character": "Dieter Tautz",
+      "order": 10
+    },
+    {
+      "personId": 1081827,
+      "character": "Killer in Record Store",
+      "order": 11
+    },
+    {
+      "personId": 1081828,
+      "character": "Killer in Attic",
+      "order": 12
+    },
+    {
+      "personId": 1081829,
+      "character": "Killer in Attic",
+      "order": 13
+    },
+    {
+      "personId": 199835,
+      "character": "Killer in Barn",
+      "order": 14
+    },
+    {
+      "personId": 2714966,
+      "character": "Killer in Barn",
+      "order": 15
+    },
+    {
+      "personId": 103875,
+      "character": "Dr. Gatineau",
+      "order": 16
+    },
+    {
+      "personId": 175302,
+      "character": "First Scanner",
+      "order": 17
+    },
+    {
+      "personId": 62126,
+      "character": "Scanner in Attic",
+      "order": 18
+    },
+    {
+      "personId": 2923786,
+      "character": "Scanner in Attic",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1453,
+  "sources": [
+    "cult-list"
+  ]
+}

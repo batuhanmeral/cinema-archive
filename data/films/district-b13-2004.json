@@ -1,0 +1,201 @@
+{
+  "tmdbId": 10045,
+  "slug": "district-b13-2004",
+  "year": 2004,
+  "runtime": 84,
+  "originalTitle": "Banlieue 13",
+  "title": {
+    "en": "District B13",
+    "tr": "Banliyö 13"
+  },
+  "overview": {
+    "en": "Set in the ghettos of Paris in 2010, an undercover cop and ex-thug try to infiltrate a gang in order to defuse a neutron bomb.",
+    "tr": "Damien özel bir müdahale timinde görev alan seçkin bir polistir. Dövüş sanatlarında uzman olan Damien, gizli soruşturmalar konusunda tam bir uzmandır. Sorunları kısa sürede etkili ve kesin bir şekilde çözme konusunda da oldukça yeteneklidir.  Bu yetenekli adam kariyerinin en zorlu göreviyle karşı karşıyadır. Banliyönün en belalı çetesi tarafından hazırlanmakta olan bir kitle imha aracı insanlığı tehdit etmektedir."
+  },
+  "poster": {
+    "tr": "/uYIDJ15RLBsFFBSAkqjIirZCgVi.jpg",
+    "en": "/u9gOfYelDwmvAmXWC1jgCFIY8RB.jpg"
+  },
+  "backdrops": [
+    "/iyUT1zRAvbwScG1sPHqQI7nFwCy.jpg",
+    "/dSbXXdDcnQFimUf1mhkPk5dkQU3.jpg",
+    "/c0XgpQURus7xprAhAwtkkyf3iwd.jpg",
+    "/uVrkXUz9ExuO6qc7Ar4YIepamxu.jpg"
+  ],
+  "trailerKey": "BJPy7e5hvSg",
+  "genreIds": [
+    28,
+    53,
+    878
+  ],
+  "keywordIds": [
+    779,
+    542,
+    90,
+    258,
+    4565,
+    2394,
+    6955,
+    11199,
+    10726,
+    11733,
+    14632,
+    14955,
+    188955
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "EuropaCorp",
+    "TF1 Films Production"
+  ],
+  "crew": [
+    {
+      "personId": 35453,
+      "job": "director"
+    },
+    {
+      "personId": 59,
+      "job": "producer"
+    },
+    {
+      "personId": 57279,
+      "job": "producer"
+    },
+    {
+      "personId": 62432,
+      "job": "composer"
+    },
+    {
+      "personId": 62431,
+      "job": "composer"
+    },
+    {
+      "personId": 42305,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 62433,
+      "job": "composer"
+    },
+    {
+      "personId": 59,
+      "job": "writer"
+    },
+    {
+      "personId": 62442,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62439,
+      "character": "Leïto",
+      "order": 0
+    },
+    {
+      "personId": 21946,
+      "character": "Capt. Damien Tomaso",
+      "order": 1
+    },
+    {
+      "personId": 62441,
+      "character": "K2",
+      "order": 2
+    },
+    {
+      "personId": 62443,
+      "character": "Lola",
+      "order": 3
+    },
+    {
+      "personId": 62442,
+      "character": "Taha Bemamud",
+      "order": 4
+    },
+    {
+      "personId": 62445,
+      "character": "Corsini",
+      "order": 5
+    },
+    {
+      "personId": 62444,
+      "character": "Krüger",
+      "order": 6
+    },
+    {
+      "personId": 62446,
+      "character": "Le colonel",
+      "order": 7
+    },
+    {
+      "personId": 62447,
+      "character": "Jamel",
+      "order": 8
+    },
+    {
+      "personId": 62453,
+      "character": "Tarik",
+      "order": 9
+    },
+    {
+      "personId": 62455,
+      "character": "Gorille entrée Marronniers",
+      "order": 10
+    },
+    {
+      "personId": 62452,
+      "character": "Le gros mercenaire",
+      "order": 11
+    },
+    {
+      "personId": 62449,
+      "character": "Yoyo (Para 1)",
+      "order": 12
+    },
+    {
+      "personId": 62450,
+      "character": "Para 2",
+      "order": 13
+    },
+    {
+      "personId": 62451,
+      "character": "Para 3",
+      "order": 14
+    },
+    {
+      "personId": 62458,
+      "character": "Le Chinois",
+      "order": 15
+    },
+    {
+      "personId": 62454,
+      "character": "Cerbère Taha",
+      "order": 16
+    },
+    {
+      "personId": 62457,
+      "character": "Garde 1",
+      "order": 17
+    },
+    {
+      "personId": 62456,
+      "character": "Garde 2",
+      "order": 18
+    },
+    {
+      "personId": 62448,
+      "character": "K2 boy 1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2081,
+  "sources": [
+    "cult-list"
+  ]
+}

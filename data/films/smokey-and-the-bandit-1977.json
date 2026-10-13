@@ -1,0 +1,215 @@
+{
+  "tmdbId": 11006,
+  "slug": "smokey-and-the-bandit-1977",
+  "year": 1977,
+  "runtime": 96,
+  "originalTitle": "Smokey and the Bandit",
+  "title": {
+    "en": "Smokey and the Bandit",
+    "tr": "Çılgın"
+  },
+  "overview": {
+    "en": "A race car driver tries to transport an illegal beer shipment from Texas to Atlanta in under 28 hours, picking up a reluctant bride-to-be on the way.",
+    "tr": "Teksaslı milyoner Big Enos Burdette ve oğlu Little Enos, imal ettikleri Coors biralarının taşınması için kamyon şoförleri aramaktadırlar. Son taşıma işlemi sırasında girdikleri bir bahis nedeniyle yetenekli bir şoföre ihtiyaçları vardır. Bu esnada karşılarına Bo Bandit çıkar. Bandit'e 28 saat içinde biraları Gorgia'ya taşıması karşılığında 80.000 dolar teklif ederler. Teklifi kabul eden Bandit eğlenceli bir yarışın içine düşer."
+  },
+  "poster": {
+    "tr": "/w4RqNZtVHB5Uzlnl6zQlMHft7QI.jpg",
+    "en": "/w4RqNZtVHB5Uzlnl6zQlMHft7QI.jpg"
+  },
+  "backdrops": [
+    "/5P7uWjqxprRWVbKJFgxZs4iJOrU.jpg",
+    "/cIK6eSVbzBCxLFM5pTjM8KCexu1.jpg",
+    "/xvxOcQ4PN3xq3dYAj72hUf8Fpqh.jpg",
+    "/6W27QtVWloCqXpShc0UEYRPeqd6.jpg",
+    "/xRmqQWSTg506ld92D0FlcX7BbwG.jpg",
+    "/4JO9RExaH9n12DfgZBsEsqMo1CT.jpg",
+    "/vDtZP3J1F8vRxsCCetjwS3PI7mN.jpg",
+    "/87sWLESPBqz8h6tcSOaduVfxUch.jpg",
+    "/2Ug61P6EFXdBhwctTht2pUL75lt.jpg",
+    "/dHzAHgxDPz2qCldIcd4PoSFKxdK.jpg"
+  ],
+  "trailerKey": "3U7j296Nxcs",
+  "genreIds": [
+    28,
+    12,
+    35
+  ],
+  "keywordIds": [
+    6054,
+    798,
+    733,
+    6212,
+    10685,
+    1228,
+    1556,
+    2095,
+    3428,
+    6746,
+    3582,
+    4552,
+    6951,
+    7312,
+    8015,
+    9276,
+    10594,
+    33456,
+    155963,
+    167043,
+    214655,
+    241103
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 67767,
+      "job": "director"
+    },
+    {
+      "personId": 24792,
+      "job": "writer"
+    },
+    {
+      "personId": 56106,
+      "job": "writer"
+    },
+    {
+      "personId": 36546,
+      "job": "writer"
+    },
+    {
+      "personId": 27239,
+      "job": "producer"
+    },
+    {
+      "personId": 41135,
+      "job": "producer"
+    },
+    {
+      "personId": 67770,
+      "job": "composer"
+    },
+    {
+      "personId": 4056,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 67764,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16475,
+      "character": "Bandit",
+      "order": 0
+    },
+    {
+      "personId": 35,
+      "character": "Carrie",
+      "order": 1
+    },
+    {
+      "personId": 67764,
+      "character": "Cledus",
+      "order": 2
+    },
+    {
+      "personId": 40595,
+      "character": "Junior",
+      "order": 3
+    },
+    {
+      "personId": 35040,
+      "character": "Little Enos",
+      "order": 4
+    },
+    {
+      "personId": 45611,
+      "character": "Big Enos",
+      "order": 5
+    },
+    {
+      "personId": 14882,
+      "character": "Buford T. Justice",
+      "order": 6
+    },
+    {
+      "personId": 92757,
+      "character": "Patrolman Traffic Jam",
+      "order": 7
+    },
+    {
+      "personId": 5206754,
+      "character": "Branford",
+      "order": 8
+    },
+    {
+      "personId": 152943,
+      "character": "Mr. B.",
+      "order": 9
+    },
+    {
+      "personId": 1449359,
+      "character": "Waynette",
+      "order": 10
+    },
+    {
+      "personId": 103770,
+      "character": "Hot Pants",
+      "order": 11
+    },
+    {
+      "personId": 166108,
+      "character": "Little Beaver",
+      "order": 12
+    },
+    {
+      "personId": 1470740,
+      "character": "Branford's Deputy",
+      "order": 13
+    },
+    {
+      "personId": 1416084,
+      "character": "Sugar Bear",
+      "order": 14
+    },
+    {
+      "personId": 1470741,
+      "character": "Georgia Trooper",
+      "order": 15
+    },
+    {
+      "personId": 1470742,
+      "character": "Alabama Trooper",
+      "order": 16
+    },
+    {
+      "personId": 951972,
+      "character": "Foxy Lady (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 157770,
+      "character": "Trucker with Redhead (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 151479,
+      "character": "Truck Driver (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 844,
+  "sources": [
+    "cult-list"
+  ]
+}

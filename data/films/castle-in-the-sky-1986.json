@@ -1,0 +1,201 @@
+{
+  "tmdbId": 10515,
+  "slug": "castle-in-the-sky-1986",
+  "year": 1986,
+  "runtime": 125,
+  "originalTitle": "天空の城ラピュタ",
+  "title": {
+    "en": "Castle in the Sky",
+    "tr": "Gökteki Kale"
+  },
+  "overview": {
+    "en": "A young boy and a girl with a magic crystal must race against pirates and foreign agents in a search for a legendary floating castle.",
+    "tr": "Özel olarak görevlendirilmiş bir devlet kuruluşu tarafından hava gemisinde esir tutulan kız Sheeta, geminin korsanlar tarafından saldırıya uğradığı anda bir fırsatını bulup kaçmaya kalkar ama gemiden aşağıya düşer. Bulutlar arasında hızla düşerken, bilincini kaybeden Sheeta'nın boynundaki mavi taşlı kristal bir kolye ansızın çevreye ışık saçar ve Sheeta bu mavi taş sayesinde yavaşça yere doğru inmeye başlar. Maden kasabasında işçi olarak çalışan Pazu adlı bir çocuk, gökyüzünden iniş yapan Sheeta'yı tesadüfen görerek kurtarır ve kendi evinde saklar… İki çocuk bundan sonra, gökte uçan \"Laputa\" adlı efsanevi son kaleyi bulmak ve kötülerin oyununu bozmak zorundadırlar."
+  },
+  "poster": {
+    "tr": "/Arvun2opqP4XFLya1FI02YYXMZW.jpg",
+    "en": "/npOnzAbLh6VOIu3naU5QaEcTepo.jpg"
+  },
+  "backdrops": [
+    "/3cyjYtLWCBE1uvWINHFsFnE8LUK.jpg",
+    "/j2ZvLJyz163MlmBFsoaDYOwxgws.jpg",
+    "/syCMqs6Bp9bNzgBawnWAd1QvR1U.jpg",
+    "/xXGkDSEJmaRAufTXeGxWQX1yEGy.jpg",
+    "/o2LJwxLRFgp7qhUg0c8f0CTXdRd.jpg",
+    "/z6UoEvtiZC5VRZrX2piM1A82wCj.jpg",
+    "/bJDm9I4C7i8JHTh1guR1YH7vgHb.jpg",
+    "/bAkOVkZXat1Ocv2pZmY1Z3cr28h.jpg",
+    "/d2zrzHag9LTHJW56BJlCHDy5eaR.jpg",
+    "/tvau8kOtqsFqDnWuhpOTvdr98u4.jpg"
+  ],
+  "trailerKey": "6s_wR3uuWec",
+  "genreIds": [
+    12,
+    14,
+    16,
+    28,
+    10751
+  ],
+  "keywordIds": [
+    6092,
+    334,
+    2343,
+    1960,
+    3098,
+    4190,
+    12988,
+    13014,
+    163049,
+    165455,
+    169362,
+    182600,
+    188747,
+    188847,
+    210024,
+    315323,
+    322942
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Studio Ghibli",
+    "Tokuma Shoten"
+  ],
+  "crew": [
+    {
+      "personId": 608,
+      "job": "director"
+    },
+    {
+      "personId": 636,
+      "job": "composer"
+    },
+    {
+      "personId": 628,
+      "job": "producer"
+    },
+    {
+      "personId": 78368,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1417,
+      "job": "producer"
+    },
+    {
+      "personId": 608,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 65509,
+      "character": "Sheeta (voice)",
+      "order": 0
+    },
+    {
+      "personId": 65510,
+      "character": "Pazu (voice)",
+      "order": 1
+    },
+    {
+      "personId": 65511,
+      "character": "Muska (voice)",
+      "order": 2
+    },
+    {
+      "personId": 65512,
+      "character": "Dola (voice)",
+      "order": 3
+    },
+    {
+      "personId": 142455,
+      "character": "Uncle Pomme (voice)",
+      "order": 4
+    },
+    {
+      "personId": 617,
+      "character": "Shogun Mouro (voice)",
+      "order": 5
+    },
+    {
+      "personId": 551814,
+      "character": "Oyakata (voice)",
+      "order": 6
+    },
+    {
+      "personId": 105818,
+      "character": "Okami (voice)",
+      "order": 7
+    },
+    {
+      "personId": 552678,
+      "character": "Charles / Shalulu (voice)",
+      "order": 8
+    },
+    {
+      "personId": 142701,
+      "character": "Louis (voice)",
+      "order": 9
+    },
+    {
+      "personId": 552679,
+      "character": "Henri (voice)",
+      "order": 10
+    },
+    {
+      "personId": 552680,
+      "character": "Underling (voice)",
+      "order": 11
+    },
+    {
+      "personId": 100127,
+      "character": "Madge (voice)",
+      "order": 12
+    },
+    {
+      "personId": 222339,
+      "character": "Underling (voice)",
+      "order": 13
+    },
+    {
+      "personId": 552681,
+      "character": "Sheeta's Grandmother (voice)",
+      "order": 14
+    },
+    {
+      "personId": 552683,
+      "character": "Man in Black Glasses (voice)",
+      "order": 15
+    },
+    {
+      "personId": 81859,
+      "character": "Train Operator (voice)",
+      "order": 16
+    },
+    {
+      "personId": 553057,
+      "character": "Old Engineer (voice)",
+      "order": 17
+    },
+    {
+      "personId": 1630887,
+      "character": "Chinese Minion (voice)",
+      "order": 18
+    },
+    {
+      "personId": 40325,
+      "character": "Woman in Blue (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4862,
+  "sources": [
+    "cult-list"
+  ]
+}

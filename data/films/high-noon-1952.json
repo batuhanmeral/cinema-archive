@@ -1,0 +1,189 @@
+{
+  "tmdbId": 288,
+  "slug": "high-noon-1952",
+  "year": 1952,
+  "runtime": 85,
+  "originalTitle": "High Noon",
+  "title": {
+    "en": "High Noon",
+    "tr": "Kahraman Şerif"
+  },
+  "overview": {
+    "en": "Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.",
+    "tr": "Hadleyvile kasabasının başarılı şerifi Will Kane, Amy ile evlendikten sonra tehlikeli işini bırakıp, karısıyla kasabadan ayrılmaya karar vermiştir. Aynı gün, yıllar önce hapse attırdığı bir haydut olan Frank Miller'ın hapisten çıktığını ve intikam almak için kasabaya dönmekte olduğunu öğrenir. Kasaba halkının ve karısının ısrarlarına rağmen onunla yüzleşmeye karar verir. Fakat kimse destek olmaz.  Bir anda yalnız kalan şerif, Frank ve çetesiyle tek başına yüzleşmek zorunda kalır. Tek yardımcısı eski sevgilisi Helen Ramirez'dir. Son anda karısının desteğine kavuşan Will, dört haydutla savaşır ve kötü anında yalnız bırakan kasabasını onurlu bir şekilde terk eder."
+  },
+  "poster": {
+    "tr": "/qETSMQ4IXBSAS409Z9OL0ppXWTW.jpg",
+    "en": "/bc1x6kIO9oF30y3IMFuKMJV2uOj.jpg"
+  },
+  "backdrops": [
+    "/6S4gjpkd359UuMLfrnUV1M695DF.jpg",
+    "/jyUcUMvLdUon3HPjbUdAsm754G6.jpg",
+    "/raYHhtIDyh3qDS6WdyRzeqjLyIK.jpg",
+    "/qsDcQVqok01YIcT0zWhe1CNNz1h.jpg",
+    "/rexJhzo60fzA7ie1RbXyFbujr9A.jpg",
+    "/qh6RiuakrZFRkoAkSgu8yOmNrt7.jpg",
+    "/keyICocrAYLQrCJllaBWvxRRuWM.jpg",
+    "/kgK7buNr53ypHu1gpe9NjL92B17.jpg",
+    "/2nP5QIJowoohQQBNhdZVxynqo5r.jpg",
+    "/nzhFZv0EHOStXYUsh0urbp8DzXQ.jpg"
+  ],
+  "trailerKey": "vFRm6xPDLFc",
+  "genreIds": [
+    37
+  ],
+  "keywordIds": [
+    1415,
+    75,
+    797,
+    5572,
+    11207,
+    10950,
+    11011,
+    12999,
+    14643,
+    15108,
+    18522,
+    166552,
+    174244,
+    241602
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Stanley Kramer Productions"
+  ],
+  "crew": [
+    {
+      "personId": 4065,
+      "job": "director"
+    },
+    {
+      "personId": 4066,
+      "job": "writer"
+    },
+    {
+      "personId": 4081,
+      "job": "producer"
+    },
+    {
+      "personId": 4082,
+      "job": "composer"
+    },
+    {
+      "personId": 4083,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4068,
+      "character": "Marshal Will Kane",
+      "order": 0
+    },
+    {
+      "personId": 3383,
+      "character": "Mayor Jonas Henderson",
+      "order": 1
+    },
+    {
+      "personId": 2177,
+      "character": "Deputy Marshal Harvey Pell",
+      "order": 2
+    },
+    {
+      "personId": 4069,
+      "character": "Helen Ramírez",
+      "order": 3
+    },
+    {
+      "personId": 4070,
+      "character": "Amy Fowler Kane",
+      "order": 4
+    },
+    {
+      "personId": 4071,
+      "character": "Judge Percy Mettrick",
+      "order": 5
+    },
+    {
+      "personId": 4072,
+      "character": "Martin Howe",
+      "order": 6
+    },
+    {
+      "personId": 4073,
+      "character": "Sam Fuller",
+      "order": 7
+    },
+    {
+      "personId": 4074,
+      "character": "Frank Miller",
+      "order": 8
+    },
+    {
+      "personId": 4075,
+      "character": "Mildred Fuller",
+      "order": 9
+    },
+    {
+      "personId": 4076,
+      "character": "Dr. Mahin",
+      "order": 10
+    },
+    {
+      "personId": 4077,
+      "character": "Cooper",
+      "order": 11
+    },
+    {
+      "personId": 4078,
+      "character": "Jack Colby",
+      "order": 12
+    },
+    {
+      "personId": 2096,
+      "character": "Jim Pierce",
+      "order": 13
+    },
+    {
+      "personId": 4080,
+      "character": "Ben Miller",
+      "order": 14
+    },
+    {
+      "personId": 50306,
+      "character": "Boy (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 5633744,
+      "character": "Townsman (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 2149411,
+      "character": "Church Member (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 103099,
+      "character": "Fred - Coffinmaker (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1601647,
+      "character": "Townsman (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 1657,
+  "sources": [
+    "cult-list"
+  ]
+}

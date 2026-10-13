@@ -1,0 +1,198 @@
+{
+  "tmdbId": 10536,
+  "slug": "the-italian-job-1969",
+  "year": 1969,
+  "runtime": 100,
+  "originalTitle": "The Italian Job",
+  "title": {
+    "en": "The Italian Job",
+    "tr": "İtalyan Usulü Soygun"
+  },
+  "overview": {
+    "en": "Charlie's got a 'job' to do. Having just left prison he finds one of his friends has attempted a high-risk job in Torino, Italy, right under the nose of the mafia. Charlie's friend doesn't get very far, so Charlie takes over the 'job'. Using three Mini Coopers, a couple of Jaguars, and a bus, he hopes to bring Torino to a standstill, steal a fortune in gold and escape in the chaos.",
+    "tr": "Film, kendi alanında kariyer sahibi diye nitelendirilebilecek bir suçlu olan Charlie Croker’ın liderliğindeki bir soyguncu çetesinin macerasını konu almaktadır. Çete, Los Angeles tarihindeki en büyük trafik sıkışlığını yaratarak yapmayı planladıkları altın soygunu için zaman kazanmak ister. Oluşturdukları kargaşadan kendi paçalarını sıyırabilmek adına kaldırımdan gidebilecek kadar küçük olan Mini Cooper’ı kullanırlar. Hedefleri, trafik açılana dek ortadan kaybolmayı başarmaktır."
+  },
+  "poster": {
+    "tr": "/uCn9JfcQqS82Jfs4ElMyyt3LZTv.jpg",
+    "en": "/pnmzcXWMY1vgbxrMEmaXnbtIaUb.jpg"
+  },
+  "backdrops": [
+    "/c7meU9vC9q4umxBUKHpkazP72Wq.jpg",
+    "/whShrongfHvdSTPfpcN0NbGpXKF.jpg",
+    "/i82tCecM6ywNPkrS2bPLa497t7D.jpg",
+    "/nrMPI8EQiW5YRImnW2AvanusDXu.jpg",
+    "/jkYdRAhshaRwiRAB4KdDz1Ocj4e.jpg",
+    "/vkoSPzU9FTkT6ZOg4xfWkKNH6Lf.jpg",
+    "/zOOWc5WGffGuZ7Su8Pg8jxQHQ8n.jpg",
+    "/4fgu08MnaYkWoOYJQbGxygLFye.jpg",
+    "/60SToPPgb1XaS19kuUMoBOCzxH4.jpg",
+    "/xBJZOcIUDKPekGuvkVNmLoNUngX.jpg"
+  ],
+  "trailerKey": "Z0uN32GV1_c",
+  "genreIds": [
+    80,
+    35,
+    53
+  ],
+  "keywordIds": [
+    378,
+    1321,
+    642,
+    1563,
+    392,
+    3713,
+    992,
+    6168,
+    3612,
+    9727,
+    9728,
+    10391,
+    41412,
+    155163,
+    157232,
+    177958
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Oakhurst Productions"
+  ],
+  "crew": [
+    {
+      "personId": 39779,
+      "job": "director"
+    },
+    {
+      "personId": 581,
+      "job": "producer"
+    },
+    {
+      "personId": 666,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 67449,
+      "job": "producer"
+    },
+    {
+      "personId": 13301,
+      "job": "composer"
+    },
+    {
+      "personId": 58152,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3895,
+      "character": "Charlie Croker",
+      "order": 0
+    },
+    {
+      "personId": 12718,
+      "character": "Mr. Bridger",
+      "order": 1
+    },
+    {
+      "personId": 55879,
+      "character": "Professor Simon Peach",
+      "order": 2
+    },
+    {
+      "personId": 65552,
+      "character": "Lorna",
+      "order": 3
+    },
+    {
+      "personId": 3268,
+      "character": "Altabani",
+      "order": 4
+    },
+    {
+      "personId": 14816,
+      "character": "Camp Freddie",
+      "order": 5
+    },
+    {
+      "personId": 29327,
+      "character": "Beckerman",
+      "order": 6
+    },
+    {
+      "personId": 79641,
+      "character": "Miss Peach",
+      "order": 7
+    },
+    {
+      "personId": 14264,
+      "character": "Governor",
+      "order": 8
+    },
+    {
+      "personId": 980345,
+      "character": "Birkinshaw",
+      "order": 9
+    },
+    {
+      "personId": 117548,
+      "character": "Garage Manager",
+      "order": 10
+    },
+    {
+      "personId": 1127186,
+      "character": "Keats",
+      "order": 11
+    },
+    {
+      "personId": 199884,
+      "character": "Arthur",
+      "order": 12
+    },
+    {
+      "personId": 1127187,
+      "character": "Coco",
+      "order": 13
+    },
+    {
+      "personId": 1127188,
+      "character": "Chris",
+      "order": 14
+    },
+    {
+      "personId": 24682,
+      "character": "Yellow",
+      "order": 15
+    },
+    {
+      "personId": 184951,
+      "character": "Big William",
+      "order": 16
+    },
+    {
+      "personId": 26131,
+      "character": "Bill Bailey",
+      "order": 17
+    },
+    {
+      "personId": 61584,
+      "character": "Frank",
+      "order": 18
+    },
+    {
+      "personId": 199057,
+      "character": "Rozzer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 910,
+  "sources": [
+    "cult-list"
+  ]
+}

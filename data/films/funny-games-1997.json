@@ -1,0 +1,162 @@
+{
+  "tmdbId": 10234,
+  "slug": "funny-games-1997",
+  "year": 1997,
+  "runtime": 109,
+  "originalTitle": "Funny Games",
+  "title": {
+    "en": "Funny Games",
+    "tr": "Ölümcül Oyunlar"
+  },
+  "overview": {
+    "en": "Two psychotic young men take a mother, father, and son hostage in their vacation cabin and force them to play sadistic \"games\" with one another for their own amusement.",
+    "tr": "Ann, George ve oğulları Georgie kısa bir tatil için göl kenarındaki yazlık evlerine giderler. Vardıklarında komşuları Fred ve Eva'da bir gariplik sezerler. Ertesi sabah golf oynamak üzere sözleşirler. George ve Georgie, yelkenli teknelerini tamir ederken Ann de yemek yapmaya koyulur. Bu sırada Eva'ların misafiri olarak tanıştıkları genç ve kibar görünümlü Peter, Ann'den yumurta istemeye gelir. Birden Peter'ın içeriye nasıl girdiği konusunda şüpheye düşen Ann, yumurtaları vermekte tereddüt yaşar ve bu, aile için gerilim dolu saatlerin başlangıcı olur."
+  },
+  "poster": {
+    "tr": "/4omhvxdmXA0vpO3SYeuBHIVtt6s.jpg",
+    "en": "/opkH1A4RFh7bWkVzJSV2Uq3Fh5F.jpg"
+  },
+  "backdrops": [
+    "/z0VWyPOtmlmYiGi3bGYh5WAEnVQ.jpg",
+    "/79SBe1bU30Dy6QPwJ2KQ3LTr1lr.jpg",
+    "/yUmtjm5eLK7WohDtt5E2lHXx84P.jpg",
+    "/piylt6C91KukjOGEF7wAsvIPVfJ.jpg",
+    "/9cOWevA6ofoGGcZbQ7PUqUav2YK.jpg",
+    "/9V4CYXdqoL3wblvxoKCZrrPvdmF.jpg",
+    "/fnXQqq0PjMxwtMoD3KWYc52Omd7.jpg",
+    "/6FdRgQDTxGJNthspHna8Q9EbTbK.jpg",
+    "/f8yqzadFzHffQb34tJb2YCzmcA1.jpg",
+    "/wFq0JviwtYVw57i2hOTKCSOTZtf.jpg"
+  ],
+  "trailerKey": "bH2HS6uWIhQ",
+  "genreIds": [
+    18,
+    27,
+    53
+  ],
+  "keywordIds": [
+    1889,
+    4426,
+    6259,
+    7188,
+    8506,
+    9740,
+    11687,
+    10714,
+    12565,
+    33694,
+    162461,
+    173977,
+    178649,
+    210162,
+    237462,
+    238752,
+    279542,
+    280188,
+    295907,
+    322255,
+    325846
+  ],
+  "countries": [
+    "AT"
+  ],
+  "languages": [
+    "de",
+    "fr"
+  ],
+  "studios": [
+    "Wega Film",
+    "ORF"
+  ],
+  "crew": [
+    {
+      "personId": 6011,
+      "job": "director"
+    },
+    {
+      "personId": 6098,
+      "job": "producer"
+    },
+    {
+      "personId": 6011,
+      "job": "writer"
+    },
+    {
+      "personId": 5639,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 73599,
+      "job": "composer"
+    },
+    {
+      "personId": 17657,
+      "job": "composer"
+    },
+    {
+      "personId": 18170,
+      "job": "composer"
+    },
+    {
+      "personId": 1013860,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19123,
+      "character": "Anna",
+      "order": 0
+    },
+    {
+      "personId": 8196,
+      "character": "Georg",
+      "order": 1
+    },
+    {
+      "personId": 20449,
+      "character": "Paul",
+      "order": 2
+    },
+    {
+      "personId": 18490,
+      "character": "Peter",
+      "order": 3
+    },
+    {
+      "personId": 551782,
+      "character": "Georgie",
+      "order": 4
+    },
+    {
+      "personId": 45699,
+      "character": "Gerda",
+      "order": 5
+    },
+    {
+      "personId": 551783,
+      "character": "Fred",
+      "order": 6
+    },
+    {
+      "personId": 221293,
+      "character": "Robert",
+      "order": 7
+    },
+    {
+      "personId": 551784,
+      "character": "Gerda's Sister",
+      "order": 8
+    },
+    {
+      "personId": 551785,
+      "character": "Eva",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 2213,
+  "sources": [
+    "cult-list"
+  ]
+}

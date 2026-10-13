@@ -1,0 +1,217 @@
+{
+  "tmdbId": 1103,
+  "slug": "escape-from-new-york-1981",
+  "year": 1981,
+  "runtime": 99,
+  "originalTitle": "Escape from New York",
+  "title": {
+    "en": "Escape from New York",
+    "tr": "New York'tan Kaçış"
+  },
+  "overview": {
+    "en": "In a world ravaged by crime, the entire island of Manhattan has been converted into a walled prison where brutal prisoners roam free. After the US president crash-lands inside, war hero Snake Plissken has 24 hours to bring him back.",
+    "tr": "1997 yılında suçun artması sonucu duvarlar ve dikenli tellerle çevrilen New York, ABD'nin geri kalanından yalıtılarak adeta dev bir açık hava cezaevine dönüştürülmüştür. En iflah olmaz suçlular oraya atılıp anarşik ve vahşi bir yaşama mahkum edilirken kaçmaya çalışanlar vurulmaktadır. Manhattan'ı anakaraya bağlayan köprüler havaya uçurulmuş ve mayınlanmıştır. ABD başkanının uçağı teröristlerce kaçırılır ve başkan kaçış kapsülüyle New York'a düşer. Onu kurtarmak için eski asker ve şimdinin dik başlı mahkumu katil Snake Pliskin bir anlaşmaya zorlanır. Snake'in koluna 24 saat içerisinde infilak edecek bir patlayıcı yerleştirilip New York'a gönderilecek ve başkanı bulup getirecektir. Zamanında ve bu imkansız görevi tamamlamış olarak dönerse Snake'in hayatı da kurtulacaktır."
+  },
+  "poster": {
+    "tr": "/m2O6bkfQTSFjVkr7LEdNVWTZUSH.jpg",
+    "en": "/yreqWiQ7IOkXWVB2Tz4LJIs7xqA.jpg"
+  },
+  "backdrops": [
+    "/3t3fQ1wfyfWNtWDX2Gh6OAUkck9.jpg",
+    "/9wikoVN8eheqNpUpFIEIeyvoN4g.jpg",
+    "/hWHBN1Y4NtqWZoMshAnfWmWfewb.jpg",
+    "/7GIbWGqgPk8elKNLgmbpAc3OZ1t.jpg",
+    "/aXPCXYFzFzdveVVk1HjVf9fHUcn.jpg",
+    "/dw3UNeXAmePNG6f4AeyVhLb99y5.jpg",
+    "/e3zZh5TL2oYC8mmE05vCGyexAA1.jpg",
+    "/cnMmGDQncbkAR9z0xC0hlQXhGSt.jpg",
+    "/A8aQkhteHdelPksFpM4DJfJsgC4.jpg",
+    "/iukXiB3Guz5VyTlraZiBnHT8Y0B.jpg"
+  ],
+  "trailerKey": "bqT09APfNKI",
+  "genreIds": [
+    28,
+    53,
+    878
+  ],
+  "keywordIds": [
+    242,
+    444,
+    779,
+    542,
+    840,
+    1543,
+    1930,
+    1562,
+    2019,
+    3149,
+    4565,
+    2095,
+    4458,
+    5970,
+    3289,
+    5034,
+    11107,
+    4668,
+    12190,
+    33556,
+    202371,
+    210434,
+    217083,
+    314730
+  ],
+  "countries": [
+    "GB",
+    "DE",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "AVCO Embassy Pictures",
+    "Goldcrest Films International",
+    "International Film Investors"
+  ],
+  "crew": [
+    {
+      "personId": 15445,
+      "job": "composer"
+    },
+    {
+      "personId": 11770,
+      "job": "composer"
+    },
+    {
+      "personId": 1060,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2161,
+      "job": "producer"
+    },
+    {
+      "personId": 11770,
+      "job": "writer"
+    },
+    {
+      "personId": 14692,
+      "job": "writer"
+    },
+    {
+      "personId": 511,
+      "job": "producer"
+    },
+    {
+      "personId": 11770,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6856,
+      "character": "Snake Plissken",
+      "order": 0
+    },
+    {
+      "personId": 4078,
+      "character": "Police Commissioner Bob Hauk",
+      "order": 1
+    },
+    {
+      "personId": 7502,
+      "character": "Cabbie",
+      "order": 2
+    },
+    {
+      "personId": 9221,
+      "character": "President of the United States",
+      "order": 3
+    },
+    {
+      "personId": 6542,
+      "character": "The Duke of New York",
+      "order": 4
+    },
+    {
+      "personId": 47456,
+      "character": "Girl in Chock Full O'Nuts",
+      "order": 5
+    },
+    {
+      "personId": 5048,
+      "character": "Harold 'Brain' Helman",
+      "order": 6
+    },
+    {
+      "personId": 11782,
+      "character": "Maggie",
+      "order": 7
+    },
+    {
+      "personId": 11784,
+      "character": "Rehme",
+      "order": 8
+    },
+    {
+      "personId": 11786,
+      "character": "Secretary of State",
+      "order": 9
+    },
+    {
+      "personId": 15449,
+      "character": "Romero",
+      "order": 10
+    },
+    {
+      "personId": 15450,
+      "character": "Cronenberg",
+      "order": 11
+    },
+    {
+      "personId": 54564,
+      "character": "Drunk",
+      "order": 12
+    },
+    {
+      "personId": 9785,
+      "character": "Gypsy #1",
+      "order": 13
+    },
+    {
+      "personId": 15508,
+      "character": "Stewardess",
+      "order": 14
+    },
+    {
+      "personId": 9258,
+      "character": "Secret Service #2",
+      "order": 15
+    },
+    {
+      "personId": 11770,
+      "character": "Secret Service #2 / Helicopter Pilot / Violin Player",
+      "order": 16
+    },
+    {
+      "personId": 8944,
+      "character": "Narrator / Prison Recording Voice (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 14692,
+      "character": "Pianist",
+      "order": 18
+    },
+    {
+      "personId": 2161,
+      "character": "Computer (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3707,
+  "sources": [
+    "cult-list"
+  ]
+}

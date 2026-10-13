@@ -1,0 +1,201 @@
+{
+  "tmdbId": 895,
+  "slug": "andrei-rublev-1966",
+  "year": 1966,
+  "runtime": 183,
+  "originalTitle": "Андрей Рублёв",
+  "title": {
+    "en": "Andrei Rublev",
+    "tr": "Andrei Rublev"
+  },
+  "overview": {
+    "en": "An expansive Russian drama, this film focuses on the life of revered religious icon painter Andrei Rublev. Drifting from place to place in a tumultuous era, the peace-seeking monk eventually gains a reputation for his art. But after Rublev witnesses a brutal battle and unintentionally becomes involved, he takes a vow of silence and spends time away from his work. As he begins to ease his troubled soul, he takes steps towards becoming a painter once again.",
+    "tr": "15. yüzyılda Tatarların saldırıları altında inleyen Rusya'dayız. Andrei Rublev hem bir keşiş hem de ikona ressamıdır. Barbarlık, şiddet ve kana kontrast olarak doğanın mucizevi güzelliği ve inanç Rublev'in beslendiği kaynaktır. Ne var ki bir köylü kızını tecavüzden kurtarmak için bir adamı öldürmek zorunda kaldığında hayatı ve Tanrı inancını yeniden sorgular.  Yaratıcılık ateşinin, konuşmama ve resim yapmama yemini eden Rublev'in içinde yeniden yanmaya başlaması için toy bir delikanlının dev bir çan imal etmesini seyretmesi gerekecektir. Bu aslında sanatçı keşişin eserlerine gerçek renk ve hayatın da gelmesinin işaretidir."
+  },
+  "poster": {
+    "tr": "/jUihkn16SwPPIjuOyo6orHWUep6.jpg",
+    "en": "/jUihkn16SwPPIjuOyo6orHWUep6.jpg"
+  },
+  "backdrops": [
+    "/jqha8JCXm0aJ5SJ03Jd0JmGgWRs.jpg",
+    "/grjCFhk7pRxMwqyylduIOnl94je.jpg",
+    "/fKa8Jy2ge1O0IU6zZXnJ2sxUzdU.jpg",
+    "/alzI27dPgb0n6RWb87MbFq98DFx.jpg",
+    "/6nPNNvd62sAxRG0at0beusPFsIU.jpg",
+    "/YZxvoXswDvecvTs6FCo5UZp8MW.jpg",
+    "/h9wolPFFGHqYnC8y3KniKkq4ht6.jpg",
+    "/3ecnyl5vamqoV6STDSN4kBqfIW8.jpg",
+    "/bUEd2SzR9oMAvgiUdbi5jg2IIgN.jpg",
+    "/x8EIoCgIPc8UyJR0tMWjGlTscuQ.jpg"
+  ],
+  "trailerKey": "t1d5FSyMEd8",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    570,
+    186,
+    345,
+    2679,
+    2638,
+    3571,
+    4337,
+    437,
+    4463,
+    5565,
+    7154,
+    10508,
+    9995,
+    12999,
+    13006,
+    14546,
+    14707,
+    41406,
+    41592,
+    163434,
+    203999,
+    213097,
+    233276
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [
+    "tt",
+    "ru",
+    "it"
+  ],
+  "studios": [
+    "Mosfilm"
+  ],
+  "crew": [
+    {
+      "personId": 8461,
+      "job": "composer"
+    },
+    {
+      "personId": 8452,
+      "job": "director"
+    },
+    {
+      "personId": 8452,
+      "job": "writer"
+    },
+    {
+      "personId": 58728,
+      "job": "writer"
+    },
+    {
+      "personId": 8462,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8475,
+      "character": "Andrei Rublev",
+      "order": 0
+    },
+    {
+      "personId": 13706,
+      "character": "Kirill",
+      "order": 1
+    },
+    {
+      "personId": 1190992,
+      "character": "Daniil Chornyy",
+      "order": 2
+    },
+    {
+      "personId": 13707,
+      "character": "Theophanus the Greek",
+      "order": 3
+    },
+    {
+      "personId": 13708,
+      "character": "God's Fool",
+      "order": 4
+    },
+    {
+      "personId": 13709,
+      "character": "Boriska",
+      "order": 5
+    },
+    {
+      "personId": 13710,
+      "character": "Grand Duke / Minor Duke",
+      "order": 6
+    },
+    {
+      "personId": 86680,
+      "character": "Patrikey",
+      "order": 7
+    },
+    {
+      "personId": 1191198,
+      "character": "Buffoon",
+      "order": 8
+    },
+    {
+      "personId": 1119765,
+      "character": "Stepan, Centurion of the Grand Duke",
+      "order": 9
+    },
+    {
+      "personId": 13713,
+      "character": "Foma",
+      "order": 10
+    },
+    {
+      "personId": 119568,
+      "character": "Senior Foundry Worker",
+      "order": 11
+    },
+    {
+      "personId": 1363814,
+      "character": "Tatar Khan",
+      "order": 12
+    },
+    {
+      "personId": 2024421,
+      "character": "Pyotr",
+      "order": 13
+    },
+    {
+      "personId": 1719621,
+      "character": "Aleksey",
+      "order": 14
+    },
+    {
+      "personId": 3485216,
+      "character": "Sergey",
+      "order": 15
+    },
+    {
+      "personId": 1470662,
+      "character": "Yefim",
+      "order": 16
+    },
+    {
+      "personId": 3485231,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 2354364,
+      "character": "Hut Owner",
+      "order": 18
+    },
+    {
+      "personId": 3485249,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 993,
+  "sources": [
+    "cult-list"
+  ]
+}

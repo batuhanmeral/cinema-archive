@@ -1,0 +1,191 @@
+{
+  "tmdbId": 14443,
+  "slug": "the-garbage-pail-kids-movie-1987",
+  "year": 1987,
+  "runtime": 96,
+  "originalTitle": "The Garbage Pail Kids Movie",
+  "title": {
+    "en": "The Garbage Pail Kids Movie",
+    "tr": "The Garbage Pail Kids Movie"
+  },
+  "overview": {
+    "en": "Crude, grotesque, pint-sized aliens known as the Garbage Pail Kids® help a young boy exact revenge on his bullies and win the girl of his dreams.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/v6PqKUptGhQjTTgqN2s2uPdNW0h.jpg",
+    "en": "/kbD2KozECCF1rvVNc9HYRSM92gR.jpg"
+  },
+  "backdrops": [
+    "/s7211hg6ChdabX20mXm5K8NQPC1.jpg",
+    "/5dfV3xVUO5WFfpzWWT16qn7GEm3.jpg",
+    "/1D7zmoM11ydkL5Ml1TKYPWcOaYs.jpg",
+    "/mAK5zEbNOywTkeEede23QwyZPUg.jpg",
+    "/phT3n5zEl7iODU5Id3riZop4CH9.jpg",
+    "/597QKMizVI2keP52WjwQpZ4d1BM.jpg",
+    "/d7t9vPVt6lBYnttzUuor7L2FGOD.jpg"
+  ],
+  "trailerKey": "VotzSOJYcOI",
+  "genreIds": [
+    12,
+    35,
+    10751,
+    878
+  ],
+  "keywordIds": [
+    6054,
+    3700,
+    1299,
+    4344,
+    9964,
+    155493,
+    227887,
+    309974,
+    324713,
+    325798,
+    326180
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Topps Chewing Gum",
+    "Atlantic Entertainment Group"
+  ],
+  "crew": [
+    {
+      "personId": 51809,
+      "job": "director"
+    },
+    {
+      "personId": 14749,
+      "job": "composer"
+    },
+    {
+      "personId": 51809,
+      "job": "producer"
+    },
+    {
+      "personId": 110718,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 51809,
+      "job": "writer"
+    },
+    {
+      "personId": 81408,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 81409,
+      "character": "Captain Manzini",
+      "order": 0
+    },
+    {
+      "personId": 60060,
+      "character": "Dodger",
+      "order": 1
+    },
+    {
+      "personId": 81410,
+      "character": "Tangerine",
+      "order": 2
+    },
+    {
+      "personId": 12662,
+      "character": "Greaser Greg - Suit",
+      "order": 3
+    },
+    {
+      "personId": 81411,
+      "character": "Juice",
+      "order": 4
+    },
+    {
+      "personId": 81412,
+      "character": "Wally",
+      "order": 5
+    },
+    {
+      "personId": 81413,
+      "character": "Blythe",
+      "order": 6
+    },
+    {
+      "personId": 19753,
+      "character": "Valerie Vomit - Suit (voice)",
+      "order": 7
+    },
+    {
+      "personId": 53760,
+      "character": "Ali Gator - Suit (voice)",
+      "order": 8
+    },
+    {
+      "personId": 81414,
+      "character": "Foul Phil - Suit",
+      "order": 9
+    },
+    {
+      "personId": 81415,
+      "character": "Nat Nerd - Suit",
+      "order": 10
+    },
+    {
+      "personId": 81416,
+      "character": "Windy Winston - Suit (voice)",
+      "order": 11
+    },
+    {
+      "personId": 81417,
+      "character": "Messy Tessie - Suit",
+      "order": 12
+    },
+    {
+      "personId": 1436539,
+      "character": "Bartender",
+      "order": 13
+    },
+    {
+      "personId": 98166,
+      "character": "Fashion Show Host",
+      "order": 14
+    },
+    {
+      "personId": 1537778,
+      "character": "Sandalfoot Biker",
+      "order": 15
+    },
+    {
+      "personId": 2900767,
+      "character": "Foster Mother",
+      "order": 16
+    },
+    {
+      "personId": 95082,
+      "character": "Guard #1",
+      "order": 17
+    },
+    {
+      "personId": 2900769,
+      "character": "Guard #2",
+      "order": 18
+    },
+    {
+      "personId": 2900770,
+      "character": "Girl with Mask / Blonde Boy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 126,
+  "sources": [
+    "cult-list"
+  ]
+}

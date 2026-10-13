@@ -1,0 +1,195 @@
+{
+  "tmdbId": 31685,
+  "slug": "the-hunchback-of-notre-dame-1939",
+  "year": 1939,
+  "runtime": 117,
+  "originalTitle": "The Hunchback of Notre Dame",
+  "title": {
+    "en": "The Hunchback of Notre Dame",
+    "tr": "The Hunchback of Notre Dame"
+  },
+  "overview": {
+    "en": "Paris, France, 1482. Frollo, Chief Justice of benevolent King Louis XI, gets infatuated by the beauty of Esmeralda, a young Romani girl. The hunchback Quasimodo, Frollo's protege and bell-ringer of Notre Dame, lives in peace among the bells in the heights of the immense cathedral until he is involved by the twisted magistrate in his malicious plans to free himself from Esmeralda's alleged spell, which he believes to be the devil's work.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/m6fsyHeqSQs4tktk9q3awgo7IzF.jpg",
+    "en": "/tg6RK6gke7QUY7zSitgmGukUHYO.jpg"
+  },
+  "backdrops": [
+    "/n8kg5vujMWLBSwyILcLbhlWZxPo.jpg",
+    "/mt1RJGw7LvAoIGflIqYG87u84Xq.jpg",
+    "/s2nUzDxOywYmi7n6YF3oX07c2RX.jpg",
+    "/siufcNlPS1TUfrNAJsUtUMMnqHO.jpg",
+    "/nOnfDXWjlLFRoVYussZZhybiZ34.jpg",
+    "/jlD9XOH5DfbeU6d5g0xHgan02an.jpg",
+    "/5kqweGwMRmM55iHAns2iNu8F1Rp.jpg",
+    "/airLtLVulyRpJWCWsr9nHwVN9vd.jpg",
+    "/zwDIdcauKzE2zoB3Zt2mBE8b4RQ.jpg",
+    "/mBN6PPiu4FGtaiyOoXFSEgLOsra.jpg"
+  ],
+  "trailerKey": "QoHbHMhRXJA",
+  "genreIds": [
+    18,
+    10749,
+    27
+  ],
+  "keywordIds": [
+    380,
+    90,
+    818,
+    10048,
+    12425,
+    12999,
+    15120,
+    157943,
+    163138,
+    170578,
+    195819,
+    203624,
+    206952,
+    209426,
+    213097,
+    247688,
+    253705
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "la"
+  ],
+  "studios": [
+    "RKO Radio Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 49214,
+      "job": "director"
+    },
+    {
+      "personId": 70045,
+      "job": "writer"
+    },
+    {
+      "personId": 30174,
+      "job": "producer"
+    },
+    {
+      "personId": 8503,
+      "job": "composer"
+    },
+    {
+      "personId": 103020,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10921,
+      "character": "The Hunchback Quasimodo",
+      "order": 0
+    },
+    {
+      "personId": 99461,
+      "character": "Frollo",
+      "order": 1
+    },
+    {
+      "personId": 3383,
+      "character": "Clopin",
+      "order": 2
+    },
+    {
+      "personId": 70035,
+      "character": "Esmeralda",
+      "order": 3
+    },
+    {
+      "personId": 8254,
+      "character": "Gringoire",
+      "order": 4
+    },
+    {
+      "personId": 78854,
+      "character": "Phoebus",
+      "order": 5
+    },
+    {
+      "personId": 50833,
+      "character": "Archdeacon",
+      "order": 6
+    },
+    {
+      "personId": 11502,
+      "character": "King Louis XI",
+      "order": 7
+    },
+    {
+      "personId": 133227,
+      "character": "Madame de Lys",
+      "order": 8
+    },
+    {
+      "personId": 30417,
+      "character": "Procurator",
+      "order": 9
+    },
+    {
+      "personId": 103176,
+      "character": "Old Nobleman",
+      "order": 10
+    },
+    {
+      "personId": 104805,
+      "character": "Doctor",
+      "order": 11
+    },
+    {
+      "personId": 127519,
+      "character": "Fleur de Lys",
+      "order": 12
+    },
+    {
+      "personId": 32431,
+      "character": "Queen of Beggars",
+      "order": 13
+    },
+    {
+      "personId": 25176,
+      "character": "Olivier",
+      "order": 14
+    },
+    {
+      "personId": 2313,
+      "character": "Student",
+      "order": 15
+    },
+    {
+      "personId": 30272,
+      "character": "Beggar",
+      "order": 16
+    },
+    {
+      "personId": 108076,
+      "character": "Phillippe",
+      "order": 17
+    },
+    {
+      "personId": 34280,
+      "character": "Court Clerk",
+      "order": 18
+    },
+    {
+      "personId": 100767,
+      "character": "Fleur's Companion #1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 232,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "tmdbId": 27658,
+  "slug": "cockfighter-1974",
+  "year": 1974,
+  "runtime": 83,
+  "originalTitle": "Cockfighter",
+  "title": {
+    "en": "Cockfighter",
+    "tr": "Cockfighter"
+  },
+  "overview": {
+    "en": "A man who trains fighting cocks vows to remain silent until one of his birds wins a championship.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rfOLlxDwhnaXQ2NWOG8qYsOrEnr.jpg",
+    "en": "/wpj24zHCyf1ZEixI5lFX4YKvY1w.jpg"
+  },
+  "backdrops": [
+    "/dGjxDit73Waq8D2M6sKrDzsx4Uh.jpg",
+    "/ck86W17MC7Y3ynzLGy72YFz0SR1.jpg",
+    "/3Jdee4X4tiuruR6aMQrw50jQ6F5.jpg",
+    "/uqTpDJ59IENOXtEYN5QylKJchYE.jpg",
+    "/duQNSDi8dJHdC5X9fMRgONkAYyp.jpg",
+    "/bf0Qb9ZtRwPFYeDvD2HpljVIAVF.jpg",
+    "/b4hMKyvTC5lXYLrzL3hbfLsfuKN.jpg"
+  ],
+  "trailerKey": "nJ40oo1sMRc",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    395,
+    5305,
+    2479,
+    155701
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Artists Entertainment Complex",
+    "New World Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 20921,
+      "job": "director"
+    },
+    {
+      "personId": 98925,
+      "job": "writer"
+    },
+    {
+      "personId": 102429,
+      "job": "producer"
+    },
+    {
+      "personId": 3569,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1369258,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8255,
+      "character": "Frank Mansfield",
+      "order": 0
+    },
+    {
+      "personId": 27515,
+      "character": "Omar Baradansky",
+      "order": 1
+    },
+    {
+      "personId": 5048,
+      "character": "Jack Burke",
+      "order": 2
+    },
+    {
+      "personId": 42157,
+      "character": "Tom Peeples",
+      "order": 3
+    },
+    {
+      "personId": 97352,
+      "character": "Dody White Burke",
+      "order": 4
+    },
+    {
+      "personId": 45363,
+      "character": "Randall Mansfield",
+      "order": 5
+    },
+    {
+      "personId": 98204,
+      "character": "Sanders",
+      "order": 6
+    },
+    {
+      "personId": 98927,
+      "character": "Buford",
+      "order": 7
+    },
+    {
+      "personId": 77228,
+      "character": "Mary Elizabeth",
+      "order": 8
+    },
+    {
+      "personId": 26142,
+      "character": "Frances Mansfield",
+      "order": 9
+    },
+    {
+      "personId": 52023,
+      "character": "Junior",
+      "order": 10
+    },
+    {
+      "personId": 98928,
+      "character": "Mister Peeples",
+      "order": 11
+    },
+    {
+      "personId": 98925,
+      "character": "Ed Middleton",
+      "order": 12
+    },
+    {
+      "personId": 98929,
+      "character": "Packard",
+      "order": 13
+    },
+    {
+      "personId": 98930,
+      "character": "Fred Reed",
+      "order": 14
+    },
+    {
+      "personId": 2471330,
+      "character": "Whipple",
+      "order": 15
+    },
+    {
+      "personId": 558599,
+      "character": "Buddy Waggoner",
+      "order": 16
+    },
+    {
+      "personId": 1688132,
+      "character": "Hansen",
+      "order": 17
+    },
+    {
+      "personId": 2471335,
+      "character": "Lucille",
+      "order": 18
+    },
+    {
+      "personId": 2317923,
+      "character": "Peach Owen",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 64,
+  "sources": [
+    "cult-list"
+  ]
+}

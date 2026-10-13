@@ -1,0 +1,215 @@
+{
+  "tmdbId": 1091,
+  "slug": "the-thing-1982",
+  "year": 1982,
+  "runtime": 109,
+  "originalTitle": "The Thing",
+  "title": {
+    "en": "The Thing",
+    "tr": "Şey"
+  },
+  "overview": {
+    "en": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "tr": "Antarktika'da bir grup ABD'li bilim insanı Norveçli meslekdaşlarının boş ve yıkık araştırma üssünü incelerler, ancak buldukları avının şeklini alabilen dehşet verici bir canlıdan başka bir şey değildir."
+  },
+  "poster": {
+    "tr": "/9bpMNsWNouFdHAl25Bm8J3wy9jC.jpg",
+    "en": "/tzGY49kseSE9QAKk47uuDGwnSCu.jpg"
+  },
+  "backdrops": [
+    "/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg",
+    "/oVa4o0C5Fa7G36qHY48n3KHGBDX.jpg",
+    "/ypWFqKVspqQvh3zzRfa5ta0lj7A.jpg",
+    "/fOl0FJ81VoQU0BlRgXA3aVeNlXE.jpg",
+    "/add3EGc4JDljt0lTvKjbX760KSJ.jpg",
+    "/jaO8WurWoUBE55nskqtFqPZFFaO.jpg",
+    "/lS9oEknIMaNvIm2zpXg5MXDDmZx.jpg",
+    "/gl8jhRWV8k7yDEJLp51qtrV9FM0.jpg",
+    "/2AaztbdbQQZs3JqD3GM4DGrniLw.jpg",
+    "/7yjCaRXAIrwRN4EajGjvGe4CiGB.jpg"
+  ],
+  "trailerKey": "ySvzHdtCiWE",
+  "genreIds": [
+    27,
+    9648,
+    878
+  ],
+  "keywordIds": [
+    1612,
+    720,
+    1826,
+    5198,
+    818,
+    1533,
+    2766,
+    2340,
+    3335,
+    3373,
+    4713,
+    4862,
+    9951,
+    9714,
+    10349,
+    13031,
+    14605,
+    14728,
+    14729,
+    15250,
+    50009,
+    155821,
+    183787,
+    220392,
+    238467,
+    254703,
+    270023,
+    283085,
+    286954,
+    287274,
+    316832,
+    325825
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "no"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "The Turman-Foster Company"
+  ],
+  "crew": [
+    {
+      "personId": 11770,
+      "job": "director"
+    },
+    {
+      "personId": 15406,
+      "job": "writer"
+    },
+    {
+      "personId": 11813,
+      "job": "producer"
+    },
+    {
+      "personId": 1259,
+      "job": "composer"
+    },
+    {
+      "personId": 1060,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10770,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6856,
+      "character": "MacReady",
+      "order": 0
+    },
+    {
+      "personId": 11065,
+      "character": "Blair",
+      "order": 1
+    },
+    {
+      "personId": 15411,
+      "character": "Nauls",
+      "order": 2
+    },
+    {
+      "personId": 15412,
+      "character": "Palmer",
+      "order": 3
+    },
+    {
+      "personId": 65827,
+      "character": "Childs",
+      "order": 4
+    },
+    {
+      "personId": 15413,
+      "character": "Dr. Copper",
+      "order": 5
+    },
+    {
+      "personId": 15414,
+      "character": "Norris",
+      "order": 6
+    },
+    {
+      "personId": 15415,
+      "character": "Bennings",
+      "order": 7
+    },
+    {
+      "personId": 15416,
+      "character": "Clark",
+      "order": 8
+    },
+    {
+      "personId": 15417,
+      "character": "Garry",
+      "order": 9
+    },
+    {
+      "personId": 15418,
+      "character": "Fuchs",
+      "order": 10
+    },
+    {
+      "personId": 15419,
+      "character": "Windows",
+      "order": 11
+    },
+    {
+      "personId": 6701,
+      "character": "Norwegian",
+      "order": 12
+    },
+    {
+      "personId": 511,
+      "character": "Norwegian Passenger with Rifle",
+      "order": 13
+    },
+    {
+      "personId": 1752055,
+      "character": "Helicopter Pilot",
+      "order": 14
+    },
+    {
+      "personId": 2165957,
+      "character": "Pilot",
+      "order": 15
+    },
+    {
+      "personId": 11770,
+      "character": "Norwegian (video footage) (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 11782,
+      "character": "Computer (voice) (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 6199551,
+      "character": "Dog Thing (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 15406,
+      "character": "Norwegian (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 8399,
+  "sources": [
+    "cult-list"
+  ]
+}

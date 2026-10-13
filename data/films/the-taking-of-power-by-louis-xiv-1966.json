@@ -1,0 +1,183 @@
+{
+  "tmdbId": 69912,
+  "slug": "the-taking-of-power-by-louis-xiv-1966",
+  "year": 1966,
+  "runtime": 95,
+  "originalTitle": "La Prise de pouvoir par Louis XIV",
+  "title": {
+    "en": "The Taking of Power by Louis XIV",
+    "tr": "La Prise de pouvoir par Louis XIV"
+  },
+  "overview": {
+    "en": "Cardinal Mazarin dies, leaving a power vacuum in which the young Louis asserts his intention to govern as well as rule. Mazarin's fiscal advisor, Colbert, warns against Fouquet, the Superintendant who has been systematically looting the treasury and wants to be prime minister. Fouquet believes Louis will soon tire of exercizing power and overplays his hand by offering a bribe to Louis' mistress to be his ally. She reports this to the king who arrests Fouquet. Louis and Colbert design a brilliant strategy to keep merchants making money, nobles in debt, the urban poor working and fed, and peasants untaxed.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/1cwIWZFiJc10CSb8aElC9FtpTx7.jpg",
+    "en": "/1cwIWZFiJc10CSb8aElC9FtpTx7.jpg"
+  },
+  "backdrops": [
+    "/z7Wq5zsMLZGZ90QIy2yTbmouOSi.jpg",
+    "/v0mb8TMFhN9u7flnf6TafM039F6.jpg",
+    "/crbiHcRtXsn6CNHDWNzhXmVieUq.jpg",
+    "/rXaM2EVnBuAHJQXSbyveuGmRxLl.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    2471,
+    207941,
+    250053,
+    258300,
+    360939
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "ORTF"
+  ],
+  "crew": [
+    {
+      "personId": 1913015,
+      "job": "producer"
+    },
+    {
+      "personId": 4410,
+      "job": "director"
+    },
+    {
+      "personId": 1386077,
+      "job": "writer"
+    },
+    {
+      "personId": 18213,
+      "job": "writer"
+    },
+    {
+      "personId": 4410,
+      "job": "writer"
+    },
+    {
+      "personId": 29678,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 24874,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1014882,
+      "character": "Louis XIV",
+      "order": 0
+    },
+    {
+      "personId": 25152,
+      "character": "Jean Baptiste Colbert",
+      "order": 1
+    },
+    {
+      "personId": 1386073,
+      "character": "Cardinal Mazarin",
+      "order": 2
+    },
+    {
+      "personId": 1305764,
+      "character": "Anne d'Autriche",
+      "order": 3
+    },
+    {
+      "personId": 1207935,
+      "character": "Madame Du Plessis",
+      "order": 4
+    },
+    {
+      "personId": 1386074,
+      "character": "Nicolas Fouquet",
+      "order": 5
+    },
+    {
+      "personId": 39094,
+      "character": "Michel Le Tellier",
+      "order": 6
+    },
+    {
+      "personId": 1386075,
+      "character": "Louise de la Vallière",
+      "order": 7
+    },
+    {
+      "personId": 1386076,
+      "character": "Marie-Thérèse",
+      "order": 8
+    },
+    {
+      "personId": 38499,
+      "character": "D'Artagnan",
+      "order": 9
+    },
+    {
+      "personId": 37463,
+      "character": "Le Père Joly",
+      "order": 10
+    },
+    {
+      "personId": 2630205,
+      "character": "M. de Brienne",
+      "order": 11
+    },
+    {
+      "personId": 2630207,
+      "character": "L'apothicaire",
+      "order": 12
+    },
+    {
+      "personId": 2541953,
+      "character": "Le premier médecin",
+      "order": 13
+    },
+    {
+      "personId": 2630209,
+      "character": "Le deuxième médecin",
+      "order": 14
+    },
+    {
+      "personId": 2630210,
+      "character": "M. de Gesvres",
+      "order": 15
+    },
+    {
+      "personId": 1950461,
+      "character": "Le chef-cuisinier",
+      "order": 16
+    },
+    {
+      "personId": 229262,
+      "character": "Mme de Motteville",
+      "order": 17
+    },
+    {
+      "personId": 2630215,
+      "character": "M. de Vardes",
+      "order": 18
+    },
+    {
+      "personId": 2261754,
+      "character": "M. de Soyecourt",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 54,
+  "sources": [
+    "cult-list"
+  ]
+}

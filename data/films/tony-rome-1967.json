@@ -1,0 +1,181 @@
+{
+  "tmdbId": 26204,
+  "slug": "tony-rome-1967",
+  "year": 1967,
+  "runtime": 110,
+  "originalTitle": "Tony Rome",
+  "title": {
+    "en": "Tony Rome",
+    "tr": "Tony Rome"
+  },
+  "overview": {
+    "en": "Tony Rome, a tough Miami PI living on a houseboat, is hired by a local millionaire to find jewelry stolen from his daughter, and in the process has several encounters with local hoods as well as the Miami Beach PD.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5QQjTAxHBAY8RiHdeZcVZ3T0tVk.jpg",
+    "en": "/5QQjTAxHBAY8RiHdeZcVZ3T0tVk.jpg"
+  },
+  "backdrops": [
+    "/hT5Zkm1s8E6duzUKdIZQ025Y071.jpg",
+    "/iojd4gBygzTtMeLyM8VmtVrlKWY.jpg",
+    "/1NKeeb2FpVv3EwtsJyTFzNg1ETP.jpg",
+    "/fFMLHkSRsWHZF582hB5EB1F1WwW.jpg",
+    "/sy3LYvPIVHNTXgTBvWPc5vfXFvb.jpg",
+    "/m2kp2h9E05sb6nYiup3GZkRkb8T.jpg"
+  ],
+  "trailerKey": "d17ak2hF9ko",
+  "genreIds": [
+    80,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    549,
+    966,
+    818,
+    416,
+    703,
+    9826
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Arcola Pictures",
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 51677,
+      "job": "director"
+    },
+    {
+      "personId": 80601,
+      "job": "writer"
+    },
+    {
+      "personId": 68083,
+      "job": "producer"
+    },
+    {
+      "personId": 14431,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1535820,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4347,
+      "character": "Tony Rome",
+      "order": 0
+    },
+    {
+      "personId": 10190,
+      "character": "Ann Archer",
+      "order": 1
+    },
+    {
+      "personId": 3090,
+      "character": "Lt. Dave Santini",
+      "order": 2
+    },
+    {
+      "personId": 4800,
+      "character": "Rita Kosterman",
+      "order": 3
+    },
+    {
+      "personId": 14063,
+      "character": "Rudy Kosterman",
+      "order": 4
+    },
+    {
+      "personId": 2096,
+      "character": "Ralph Turpin",
+      "order": 5
+    },
+    {
+      "personId": 12445,
+      "character": "Diana Pines",
+      "order": 6
+    },
+    {
+      "personId": 90517,
+      "character": "Adam Boyd",
+      "order": 7
+    },
+    {
+      "personId": 13399,
+      "character": "Vic Rood",
+      "order": 8
+    },
+    {
+      "personId": 101768,
+      "character": "Sally Bullock",
+      "order": 9
+    },
+    {
+      "personId": 3161,
+      "character": "Fat Candy",
+      "order": 10
+    },
+    {
+      "personId": 198055,
+      "character": "Donald Pines",
+      "order": 11
+    },
+    {
+      "personId": 8633,
+      "character": "Jules Langley",
+      "order": 12
+    },
+    {
+      "personId": 86346,
+      "character": "Irene (misidentified as \"Irma\" in credits)",
+      "order": 13
+    },
+    {
+      "personId": 96498,
+      "character": "Lorna Boyd",
+      "order": 14
+    },
+    {
+      "personId": 27514,
+      "character": "Catleg",
+      "order": 15
+    },
+    {
+      "personId": 99371,
+      "character": "Packy",
+      "order": 16
+    },
+    {
+      "personId": 2053620,
+      "character": "Sam Boyd",
+      "order": 17
+    },
+    {
+      "personId": 198065,
+      "character": "Bartender",
+      "order": 18
+    },
+    {
+      "personId": 166044,
+      "character": "Georgia Mckay",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 75,
+  "sources": [
+    "cult-list"
+  ]
+}

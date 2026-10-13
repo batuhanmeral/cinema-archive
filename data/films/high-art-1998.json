@@ -1,0 +1,204 @@
+{
+  "tmdbId": 37636,
+  "slug": "high-art-1998",
+  "year": 1998,
+  "runtime": 101,
+  "originalTitle": "High Art",
+  "title": {
+    "en": "High Art",
+    "tr": "High Art"
+  },
+  "overview": {
+    "en": "When Syd, a young editor at an influential art magazine,  becomes involved with her neighbor, a drug-addicted lesbian photographer, both seek to exploit each other for their respective careers while slowly falling in love with each other.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lMXSGQIKTaM4bDkshmEHXHtfa7l.jpg",
+    "en": "/qTg05RNJIvb9w4Z7XIcAZxuZmTn.jpg"
+  },
+  "backdrops": [
+    "/yTYR92DqJ9HgBvvRy7GL4P4Bx0G.jpg",
+    "/z6Cxs29a2vX2Oq79sLCZ5BOZMJ7.jpg",
+    "/fvAAdxXdYxYdS43N7hioA3isnEb.jpg",
+    "/zeWNtAyhXnXptVVpQudLmwshjdj.jpg",
+    "/uOz1FpcXtpiAP9RJ3d1aNUd6ESc.jpg",
+    "/xlqH0aFIf4zAtTczF3lce6NXnEf.jpg",
+    "/2vgrfpl17F34SkZIRqJ8betJnS.jpg",
+    "/jK7O5U2W5p4Dt8IS53nTOfyZDpH.jpg",
+    "/aBG0F6eN9MWPjPqbDmfs9TGAsxG.jpg",
+    "/1RMdu0KQWJFwQTsIeM472sSQQhj.jpg"
+  ],
+  "trailerKey": "GOpsWJN_SHM",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    3658,
+    242,
+    726,
+    1003,
+    6025,
+    2671,
+    1803,
+    2804,
+    6782,
+    4620,
+    9673,
+    9833,
+    14964,
+    158718,
+    174420,
+    186107,
+    187056,
+    264386
+  ],
+  "countries": [
+    "CA",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Antidote Films",
+    "October Films",
+    "391 Productions"
+  ],
+  "crew": [
+    {
+      "personId": 75699,
+      "job": "writer"
+    },
+    {
+      "personId": 75699,
+      "job": "director"
+    },
+    {
+      "personId": 33650,
+      "job": "producer"
+    },
+    {
+      "personId": 65613,
+      "job": "producer"
+    },
+    {
+      "personId": 75702,
+      "job": "producer"
+    },
+    {
+      "personId": 958706,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 17748,
+      "job": "composer"
+    },
+    {
+      "personId": 2863,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8329,
+      "character": "Syd",
+      "order": 0
+    },
+    {
+      "personId": 12851,
+      "character": "Lucy Berliner",
+      "order": 1
+    },
+    {
+      "personId": 32458,
+      "character": "James",
+      "order": 2
+    },
+    {
+      "personId": 1276,
+      "character": "Greta",
+      "order": 3
+    },
+    {
+      "personId": 76526,
+      "character": "Harry",
+      "order": 4
+    },
+    {
+      "personId": 1137641,
+      "character": "Dominique",
+      "order": 5
+    },
+    {
+      "personId": 32029,
+      "character": "Arnie",
+      "order": 6
+    },
+    {
+      "personId": 63998,
+      "character": "Vera",
+      "order": 7
+    },
+    {
+      "personId": 20275,
+      "character": "Joan",
+      "order": 8
+    },
+    {
+      "personId": 44905,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1568203,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1568204,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 171522,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1568205,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 25848,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1568206,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 17748,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 46395,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 928606,
+      "character": "",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 159,
+  "sources": [
+    "cult-list"
+  ]
+}

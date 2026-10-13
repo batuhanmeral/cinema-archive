@@ -1,0 +1,66 @@
+{
+  "tmdbId": 77552,
+  "slug": "gallivant-1996",
+  "year": 1996,
+  "runtime": 100,
+  "originalTitle": "Gallivant",
+  "title": {
+    "en": "Gallivant",
+    "tr": "Gallivant"
+  },
+  "overview": {
+    "en": "Part home movie, part road movie, Kötting's riveting and eccentric film stars his 85-year-old grandmother Gladys - opinionated, bursting with anecdotes and contradictory reminiscences – and Eden, his eight-year-old daughter with Joubert syndrome, as they take a zig-zagging 6,000 mile trip in their campervan around Britain's coastline.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ctFCx0LLKm9uXLpjEmk32GfIhnO.jpg",
+    "en": "/ctFCx0LLKm9uXLpjEmk32GfIhnO.jpg"
+  },
+  "backdrops": [
+    "/xPX89KLtjq9bhGr0p8o035N6Gzg.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Arts Council of England",
+    "BFI",
+    "Channel Four Films"
+  ],
+  "crew": [
+    {
+      "personId": 79872,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 582243,
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "personId": 582244,
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "personId": 79872,
+      "character": "Self",
+      "order": 2
+    }
+  ],
+  "awards": {},
+  "voteCount": 11,
+  "sources": [
+    "cult-list"
+  ]
+}

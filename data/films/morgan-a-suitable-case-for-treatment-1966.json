@@ -1,0 +1,161 @@
+{
+  "tmdbId": 42724,
+  "slug": "morgan-a-suitable-case-for-treatment-1966",
+  "year": 1966,
+  "runtime": 97,
+  "originalTitle": "Morgan: A Suitable Case for Treatment",
+  "title": {
+    "en": "Morgan: A Suitable Case for Treatment",
+    "tr": "Morgan: A Suitable Case for Treatment"
+  },
+  "overview": {
+    "en": "Morgan, an aggressive and self-admitted dreamer, a fantasist who uses his flights of fancy as refuge from external reality, where his unconventional behavior lands him in a divorce from his wife, Leonie, trouble with the police and, ultimately, incarceration in a lunatic asylum.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xu4awPUFmrFUaX2qk12Lv4QhJSF.jpg",
+    "en": "/xu4awPUFmrFUaX2qk12Lv4QhJSF.jpg"
+  },
+  "backdrops": [
+    "/1d6wE08ywDeUTqlPRbLjSYRcmEe.jpg",
+    "/2rQ9NBy6t3SzDHUvLgkh2Ib7m3E.jpg"
+  ],
+  "trailerKey": "iyuHkMweWO4",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    212,
+    15160,
+    197950
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Quintra",
+    "British Lion Films"
+  ],
+  "crew": [
+    {
+      "personId": 72709,
+      "job": "director"
+    },
+    {
+      "personId": 150011,
+      "job": "writer"
+    },
+    {
+      "personId": 72711,
+      "job": "producer"
+    },
+    {
+      "personId": 132879,
+      "job": "composer"
+    },
+    {
+      "personId": 1043953,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2076,
+      "character": "Morgan Delt",
+      "order": 0
+    },
+    {
+      "personId": 13333,
+      "character": "Leonie Delt",
+      "order": 1
+    },
+    {
+      "personId": 41957,
+      "character": "Charles Napier",
+      "order": 2
+    },
+    {
+      "personId": 79641,
+      "character": "Mrs. Delt",
+      "order": 3
+    },
+    {
+      "personId": 12815,
+      "character": "Policeman",
+      "order": 4
+    },
+    {
+      "personId": 132102,
+      "character": "Wally",
+      "order": 5
+    },
+    {
+      "personId": 1000152,
+      "character": "Mr Henderson",
+      "order": 6
+    },
+    {
+      "personId": 1200463,
+      "character": "Mrs Henderson",
+      "order": 7
+    },
+    {
+      "personId": 1605162,
+      "character": "Geoffrey",
+      "order": 8
+    },
+    {
+      "personId": 10654,
+      "character": "Counsel",
+      "order": 9
+    },
+    {
+      "personId": 1733962,
+      "character": "Tipstaff",
+      "order": 10
+    },
+    {
+      "personId": 104306,
+      "character": "Judge",
+      "order": 11
+    },
+    {
+      "personId": 176101,
+      "character": "Best Man",
+      "order": 12
+    },
+    {
+      "personId": 3637358,
+      "character": "Maid",
+      "order": 13
+    },
+    {
+      "personId": 44419,
+      "character": "Second Counsel",
+      "order": 14
+    },
+    {
+      "personId": 172953,
+      "character": "Ticket Collector",
+      "order": 15
+    },
+    {
+      "personId": 1232334,
+      "character": "Workman (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 49998,
+      "character": "Mr. Gilbert (uncredited)",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 38,
+  "sources": [
+    "cult-list"
+  ]
+}

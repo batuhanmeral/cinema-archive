@@ -1,0 +1,205 @@
+{
+  "tmdbId": 9343,
+  "slug": "fitzcarraldo-1982",
+  "year": 1982,
+  "runtime": 157,
+  "originalTitle": "Fitzcarraldo",
+  "title": {
+    "en": "Fitzcarraldo",
+    "tr": "Fitzcarraldo"
+  },
+  "overview": {
+    "en": "Fitzcarraldo is a dreamer who plans to build an opera house in Iquitos, in the Peruvian Amazon, so, in order to finance his project, he embarks on an epic adventure to collect rubber, a very profitable product, in a remote and unexplored region of the rainforest.",
+    "tr": "Takıntılı derecede bir opera sever olan Fitzcarraldo, Peru'nun küçük bir şehrinde bir opera binası inşa etmek ister. Fakat bunu başarmak için önce kauçuk işinde bir servet kazanması gerekir. Bu amaç dahilindeki planında büyük bir nehir botunu yerli Kızılderili'lerle birlikte küçük bir dağdan geçirmek vardır.  Konusunu gerçek bir hikayeden alan bu film yönetmenine Cannes Film Festivali'nde en iyi yönetmen ödülünü kazandırmıştır."
+  },
+  "poster": {
+    "tr": "/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg",
+    "en": "/1xGDGBNOjVU63fuDjmJwxEwpWYV.jpg"
+  },
+  "backdrops": [
+    "/rJTvp1rUp1NWODDOGJj06z0ZSZv.jpg",
+    "/zBM5BMt82CcuRI0gtu9IrlKGyo2.jpg",
+    "/dfMIn5yWu2Ubq0qABwOYm6xUPmL.jpg",
+    "/9s74XdRPIlWpEym5kYiKIk4D6uT.jpg",
+    "/l7VvN3N2lNh9OufbExS9rHCLgwO.jpg",
+    "/1pmDN1NBjjtXzwf1jBMFQKs13U4.jpg",
+    "/46iMqI1qzAtnXJxGRNCFwYNYqOo.jpg",
+    "/oeVCEZ3ppb6opOKVoUSaa3keGoD.jpg",
+    "/5nrGTktImmtoiqpAo8cCPXIOzJf.jpg",
+    "/qyeOKowkZJLrFEHM7BnJmaODvh5.jpg"
+  ],
+  "trailerKey": "H_OgtTZMSXI",
+  "genreIds": [
+    18,
+    12
+  ],
+  "keywordIds": [
+    5967,
+    3136,
+    3734,
+    5968,
+    11073,
+    18266,
+    156034,
+    158244,
+    207372,
+    207928,
+    208067,
+    208576,
+    217120,
+    224337,
+    233153,
+    239845,
+    250380,
+    280884,
+    320090
+  ],
+  "countries": [
+    "DE",
+    "PE"
+  ],
+  "languages": [
+    "en",
+    "de",
+    "it",
+    "es"
+  ],
+  "studios": [
+    "Werner Herzog Filmproduktion",
+    "Pro-ject Filmproduktion",
+    "ZDF"
+  ],
+  "crew": [
+    {
+      "personId": 6818,
+      "job": "director"
+    },
+    {
+      "personId": 6818,
+      "job": "producer"
+    },
+    {
+      "personId": 27042,
+      "job": "producer"
+    },
+    {
+      "personId": 20552,
+      "job": "composer"
+    },
+    {
+      "personId": 20553,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6818,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14277,
+      "character": "Fitzcarraldo",
+      "order": 0
+    },
+    {
+      "personId": 4959,
+      "character": "Molly",
+      "order": 1
+    },
+    {
+      "personId": 57379,
+      "character": "Don Aquilino",
+      "order": 2
+    },
+    {
+      "personId": 57380,
+      "character": "Cholo",
+      "order": 3
+    },
+    {
+      "personId": 57381,
+      "character": "Orinoco Paul",
+      "order": 4
+    },
+    {
+      "personId": 1101308,
+      "character": "Huerequeque",
+      "order": 5
+    },
+    {
+      "personId": 271982,
+      "character": "Station Master",
+      "order": 6
+    },
+    {
+      "personId": 18405,
+      "character": "Opera Manager",
+      "order": 7
+    },
+    {
+      "personId": 1101309,
+      "character": "Campa Chief",
+      "order": 8
+    },
+    {
+      "personId": 1101310,
+      "character": "Opera House Blackman",
+      "order": 9
+    },
+    {
+      "personId": 229254,
+      "character": "Rubber Baron",
+      "order": 10
+    },
+    {
+      "personId": 1101311,
+      "character": "Old Missionary",
+      "order": 11
+    },
+    {
+      "personId": 1101312,
+      "character": "Young Missionary",
+      "order": 12
+    },
+    {
+      "personId": 1196127,
+      "character": "Notary",
+      "order": 13
+    },
+    {
+      "personId": 1101317,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 2165905,
+      "character": "Opera 'Ernani' - Ernani (voice)",
+      "order": 15
+    },
+    {
+      "personId": 2793316,
+      "character": "Opera 'Ernani' - Ernani",
+      "order": 16
+    },
+    {
+      "personId": 1540199,
+      "character": "Opera 'Ernani' - Silva",
+      "order": 17
+    },
+    {
+      "personId": 2793320,
+      "character": "Opera 'Ernani' - Elvira (voice)",
+      "order": 18
+    },
+    {
+      "personId": 2793323,
+      "character": "Opera 'Ernani' - Orchestra Pit Singer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 934,
+  "sources": [
+    "cult-list"
+  ]
+}

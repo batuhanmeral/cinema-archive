@@ -1,0 +1,217 @@
+{
+  "tmdbId": 10907,
+  "slug": "the-adventures-of-robin-hood-1938",
+  "year": 1938,
+  "runtime": 102,
+  "originalTitle": "The Adventures of Robin Hood",
+  "title": {
+    "en": "The Adventures of Robin Hood",
+    "tr": "Robin Hood'un Maceraları"
+  },
+  "overview": {
+    "en": "Robin Hood fights nobly for justice against the evil Sir Guy of Gisbourne while striving to win the hand of the beautiful Maid Marian.",
+    "tr": "Locksley'le Sir Robin, Norman'lılar tarafından baskı altına alınan Saksonluların sevilen kahramanı, Norman otoritesine karşı gelerek kanunsuz bir asi konumuna geliyor. Zenginlerden çalıp yoksullara veren Robin Hood kendi düşündüğü adalet sistemini bu şekilde koruyor. Bu arada Sherwood'un valisi Sir Guy Gisbourne ile zorla evlendirilecek olan Bakire Marian'a da aşık olan Robin böylece Gisbourne'un kendisine daha da düşman olmasını sağlıyor. Zamanın en popüler aksiyon starlarından Errol Flynn'dan taytlı ve bol kılıç şıkırtılı bir Robin Hood filmi."
+  },
+  "poster": {
+    "tr": "/eb5zLfR3TrcmR6K8LuZ4AdOZ5Wm.jpg",
+    "en": "/lWdo53h9tmSnlCY9JxeRWPozoPN.jpg"
+  },
+  "backdrops": [
+    "/yjnfM8QmrXQkWl8dUimsDGl73el.jpg",
+    "/vrl6pkg7xNBS9gS7emh5nBqOiui.jpg",
+    "/ifxyUSC5QDnjWaCmSgEJ7DhLt5Y.jpg",
+    "/h8uoKyYoNfgrb5gf4Nddh5Y2UNp.jpg",
+    "/gxmL7J38OiAWO6xvcOI7IXhGAJ.jpg",
+    "/5opyahPTL4Xbm0pYXOUfbrX5R9j.jpg",
+    "/g3Z2mTvswZfc23ZYKZVHIRK30GS.jpg",
+    "/3UupRnYutWI5hLuS6Rv0YABmORa.jpg",
+    "/gF5PedNJc27V8fQeoZCn1FEogK1.jpg",
+    "/dt9lRybdiTyupd9wQLeiAybF33O.jpg"
+  ],
+  "trailerKey": "bU6rh7nRDgY",
+  "genreIds": [
+    12,
+    10749,
+    28
+  ],
+  "keywordIds": [
+    1938,
+    1522,
+    4147,
+    4393,
+    3024,
+    11525,
+    9725,
+    10587,
+    12995,
+    18118,
+    157186,
+    161257,
+    185343,
+    207374,
+    219404,
+    220707,
+    266013,
+    325766
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 8714,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 67429,
+      "job": "composer"
+    },
+    {
+      "personId": 4123,
+      "job": "producer"
+    },
+    {
+      "personId": 2663,
+      "job": "producer"
+    },
+    {
+      "personId": 4109,
+      "job": "director"
+    },
+    {
+      "personId": 14446,
+      "job": "producer"
+    },
+    {
+      "personId": 67426,
+      "job": "director"
+    },
+    {
+      "personId": 67428,
+      "job": "writer"
+    },
+    {
+      "personId": 67427,
+      "job": "writer"
+    },
+    {
+      "personId": 8713,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8724,
+      "character": "Robin Hood",
+      "order": 0
+    },
+    {
+      "personId": 8725,
+      "character": "Maid Marian",
+      "order": 1
+    },
+    {
+      "personId": 8727,
+      "character": "Sir Guy of Gisbourne",
+      "order": 2
+    },
+    {
+      "personId": 4113,
+      "character": "Prince John",
+      "order": 3
+    },
+    {
+      "personId": 8726,
+      "character": "Will Scarlett",
+      "order": 4
+    },
+    {
+      "personId": 8728,
+      "character": "Friar Tuck",
+      "order": 5
+    },
+    {
+      "personId": 8729,
+      "character": "Little John",
+      "order": 6
+    },
+    {
+      "personId": 8730,
+      "character": "High Sheriff of Nottingham",
+      "order": 7
+    },
+    {
+      "personId": 8731,
+      "character": "King Richard the Lion-Heart",
+      "order": 8
+    },
+    {
+      "personId": 2929,
+      "character": "Bess",
+      "order": 9
+    },
+    {
+      "personId": 72060,
+      "character": "Much",
+      "order": 10
+    },
+    {
+      "personId": 92907,
+      "character": "Bishop of the Black Canons",
+      "order": 11
+    },
+    {
+      "personId": 125844,
+      "character": "Sir Essex",
+      "order": 12
+    },
+    {
+      "personId": 82583,
+      "character": "Sir Ralf",
+      "order": 13
+    },
+    {
+      "personId": 951488,
+      "character": "Sir Mortimer",
+      "order": 14
+    },
+    {
+      "personId": 33007,
+      "character": "Sir Geoffrey",
+      "order": 15
+    },
+    {
+      "personId": 120445,
+      "character": "Sir Baldwin",
+      "order": 16
+    },
+    {
+      "personId": 82488,
+      "character": "Sir Ivor",
+      "order": 17
+    },
+    {
+      "personId": 98052,
+      "character": "Dickon Malbete",
+      "order": 18
+    },
+    {
+      "personId": 1040010,
+      "character": "Captain of Archers (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 891,
+  "sources": [
+    "cult-list"
+  ]
+}

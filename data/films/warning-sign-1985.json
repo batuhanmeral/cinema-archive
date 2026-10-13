@@ -1,0 +1,185 @@
+{
+  "tmdbId": 34028,
+  "slug": "warning-sign-1985",
+  "year": 1985,
+  "runtime": 99,
+  "originalTitle": "Warning Sign",
+  "title": {
+    "en": "Warning Sign",
+    "tr": "Warning Sign"
+  },
+  "overview": {
+    "en": "An accident occurs in an ultra-secret government biological weapons laboratory spreading a sinister bacteria.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/fILeip7L7fd8CWgizhIma2euFgg.jpg",
+    "en": "/6hRA9zNbMG1QqQnMS6BrEGPQ6HH.jpg"
+  },
+  "backdrops": [
+    "/9SSPezaZ3VrilgXmSvYuuTnzF8R.jpg",
+    "/aTr3iZfLtTMD8ofRDQTwul8uaYF.jpg",
+    "/9bSlCFcWCp4CDlepdK04goD35h3.jpg",
+    "/sTgFTp8Hc23LHAtnTxFCOxDwHI8.jpg",
+    "/3RMGabySctEO2V2HGniadzYSbFa.jpg"
+  ],
+  "trailerKey": "_sINnqU6Jf0",
+  "genreIds": [
+    18,
+    878,
+    53
+  ],
+  "keywordIds": [
+    12377,
+    180447,
+    188351,
+    188957
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox",
+    "SLM Production Group"
+  ],
+  "crew": [
+    {
+      "personId": 12678,
+      "job": "writer"
+    },
+    {
+      "personId": 12678,
+      "job": "director"
+    },
+    {
+      "personId": 12677,
+      "job": "writer"
+    },
+    {
+      "personId": 63923,
+      "job": "composer"
+    },
+    {
+      "personId": 1060,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12678,
+      "job": "producer"
+    },
+    {
+      "personId": 948389,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8975,
+      "character": "Cal Morse",
+      "order": 0
+    },
+    {
+      "personId": 8183,
+      "character": "Joanie Morse",
+      "order": 1
+    },
+    {
+      "personId": 5050,
+      "character": "Major Connolly",
+      "order": 2
+    },
+    {
+      "personId": 12645,
+      "character": "Dr. Dan Fairchild",
+      "order": 3
+    },
+    {
+      "personId": 15413,
+      "character": "Dr. Nielsen",
+      "order": 4
+    },
+    {
+      "personId": 27237,
+      "character": "Tom Schmidt",
+      "order": 5
+    },
+    {
+      "personId": 89141,
+      "character": "Vic Flint",
+      "order": 6
+    },
+    {
+      "personId": 2717,
+      "character": "Bob",
+      "order": 7
+    },
+    {
+      "personId": 111709,
+      "character": "Dana",
+      "order": 8
+    },
+    {
+      "personId": 48810,
+      "character": "Captain Walston",
+      "order": 9
+    },
+    {
+      "personId": 111710,
+      "character": "Dr. Ramesh Kapoor",
+      "order": 10
+    },
+    {
+      "personId": 87957,
+      "character": "Tippett",
+      "order": 11
+    },
+    {
+      "personId": 12439,
+      "character": "Connolly's Aide",
+      "order": 12
+    },
+    {
+      "personId": 58494,
+      "character": "Deputy Grazie",
+      "order": 13
+    },
+    {
+      "personId": 14320,
+      "character": "Pisarczyk",
+      "order": 14
+    },
+    {
+      "personId": 31115,
+      "character": "Video Technician #1",
+      "order": 15
+    },
+    {
+      "personId": 101784,
+      "character": "Video Technician #2",
+      "order": 16
+    },
+    {
+      "personId": 44203,
+      "character": "TV Reporter",
+      "order": 17
+    },
+    {
+      "personId": 91782,
+      "character": "Woman on Video Screen",
+      "order": 18
+    },
+    {
+      "personId": 55155,
+      "character": "(uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 81,
+  "sources": [
+    "cult-list"
+  ]
+}

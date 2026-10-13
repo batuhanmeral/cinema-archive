@@ -1,0 +1,211 @@
+{
+  "tmdbId": 6106,
+  "slug": "salvador-1986",
+  "year": 1986,
+  "runtime": 123,
+  "originalTitle": "Salvador",
+  "title": {
+    "en": "Salvador",
+    "tr": "Salvador"
+  },
+  "overview": {
+    "en": "In 1980, an American journalist covering the Salvadoran Civil War becomes entangled with both the leftist guerrilla groups and the right-wing military dictatorship while trying to rescue his girlfriend and her children.",
+    "tr": "Oliver Stone'un 1986 tarihli filmi Salvador, yönetmenin en başarılı filmlerinden biri olarak kabul ediliyor. Salvador'da hayatını dünyanın dört bir yanında haber kovalayarak kazanan bir savaş muhabirinin El Salvador'da yaşadıklarını anlatılıyor. 20 yıldır nerede olay çıkarsa soluğu orada alan foto muhabiri Boyle, içkiye ve uyuşturucuya olan düşkünlüğü yüzünden işsizlikle yüzyüze kalmıştır. El Salvador'da yaşanan iç savaşı izlemenin bir çözüm olabileceğini düşünen Boyle yola çıkar..."
+  },
+  "poster": {
+    "tr": "/c5JgUmzN7syTFy9suwoHF3vhNsN.jpg",
+    "en": "/c5JgUmzN7syTFy9suwoHF3vhNsN.jpg"
+  },
+  "backdrops": [
+    "/tGXGhOirZdLKZ39TpW9XAbelo0.jpg",
+    "/6DSXD0cSOOQJd9YX7KUekv6bKLr.jpg",
+    "/sSoJdxVADNNNvXpNGO7HWJC44IN.jpg",
+    "/7k6EVeZDKqHiCGtEhEpgEGECYaO.jpg",
+    "/74MBd6oga6XuvxAJ6YFXN3BHW8s.jpg",
+    "/6l5xSBfWhiX9obwdZdgcgUH8rFU.jpg",
+    "/aHRwWAX7E9ex3dHC2AXRxQ3RNwo.jpg",
+    "/9Kg5g76V99yWUsgBo8BLhjxnLh9.jpg",
+    "/4vaBwLqvlY7lk5uVQTk01qiYkj7.jpg",
+    "/3M3ke186AC6lOvqXC78lgkz5ji5.jpg"
+  ],
+  "trailerKey": "JyRHCEt4JHs",
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    1008,
+    736,
+    441,
+    393,
+    697,
+    407,
+    5299,
+    2020,
+    4098,
+    7606,
+    2134,
+    9672,
+    7312,
+    7605,
+    12193,
+    13129,
+    14546,
+    33457,
+    208289,
+    217989,
+    310394,
+    312898
+  ],
+  "countries": [
+    "GB",
+    "US",
+    "MX"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ],
+  "studios": [
+    "Hemdale",
+    "Cinema '85",
+    "Estudios Churubusco Azteca"
+  ],
+  "crew": [
+    {
+      "personId": 1152,
+      "job": "director"
+    },
+    {
+      "personId": 1152,
+      "job": "producer"
+    },
+    {
+      "personId": 3535,
+      "job": "composer"
+    },
+    {
+      "personId": 1152,
+      "job": "writer"
+    },
+    {
+      "personId": 47889,
+      "job": "writer"
+    },
+    {
+      "personId": 149,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1350049,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4512,
+      "character": "Richard Boyle",
+      "order": 0
+    },
+    {
+      "personId": 26485,
+      "character": "Doctor Rock",
+      "order": 1
+    },
+    {
+      "personId": 4776,
+      "character": "Ambassador Thomas Kelly",
+      "order": 2
+    },
+    {
+      "personId": 47879,
+      "character": "John Cassady",
+      "order": 3
+    },
+    {
+      "personId": 1102,
+      "character": "Maria",
+      "order": 4
+    },
+    {
+      "personId": 41737,
+      "character": "Major Maximilliano Casanova",
+      "order": 5
+    },
+    {
+      "personId": 47881,
+      "character": "Jack Morgan",
+      "order": 6
+    },
+    {
+      "personId": 47882,
+      "character": "Cathy Moore",
+      "order": 7
+    },
+    {
+      "personId": 47883,
+      "character": "Colonel Bentley Hyde Sr.",
+      "order": 8
+    },
+    {
+      "personId": 47884,
+      "character": "Pauline Axelrod",
+      "order": 9
+    },
+    {
+      "personId": 47885,
+      "character": "Archbishop Romero",
+      "order": 10
+    },
+    {
+      "personId": 47886,
+      "character": "Colonel Julio Figueroa",
+      "order": 11
+    },
+    {
+      "personId": 1607,
+      "character": "Army Lieutenant",
+      "order": 12
+    },
+    {
+      "personId": 1070128,
+      "character": "Human Rights Leader",
+      "order": 13
+    },
+    {
+      "personId": 47888,
+      "character": "Human Rights Assistant",
+      "order": 14
+    },
+    {
+      "personId": 1382319,
+      "character": "French Reporter",
+      "order": 15
+    },
+    {
+      "personId": 42746,
+      "character": "Roberto, Restaurant Owner",
+      "order": 16
+    },
+    {
+      "personId": 1050187,
+      "character": "Woman Rebel",
+      "order": 17
+    },
+    {
+      "personId": 61059,
+      "character": "Rebel Youth",
+      "order": 18
+    },
+    {
+      "personId": 1051939,
+      "character": "Boyle's Wife",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 434,
+  "sources": [
+    "cult-list"
+  ]
+}

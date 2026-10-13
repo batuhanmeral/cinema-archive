@@ -1,0 +1,222 @@
+{
+  "tmdbId": 439,
+  "slug": "la-dolce-vita-1960",
+  "year": 1960,
+  "runtime": 174,
+  "originalTitle": "La dolce vita",
+  "title": {
+    "en": "La Dolce Vita",
+    "tr": "Tatlı Hayat"
+  },
+  "overview": {
+    "en": "Episodic journey of journalist Marcello who struggles to find his place in the world, torn between the allure of Rome's elite social scene and the stifling domesticity offered by his girlfriend, all the while searching for a way to become a serious writer.",
+    "tr": "Tatlı Hayat, Roma şehir yaşantısının modern yozluğunu ve sofistike ahlak çöküntüsünü yüksek sosyetenin peşinde koşan bir gazetecinin gözünden anlatır. Genç gazeteci Marcello Rubini gerçek bir eser yaratmanın düşüyle yaşar; ancak çalıştığı bulvar gazetesinin ona sağladığı para ve prestijden de vazgeçemez. Filmde Marcello'nun yedi günü ve gecesini, birlikte olduğu farklı kadınlarla ilişkilerini, arka planda 1960'ların gençlik ve heyecanıyla kaynayan Roma sokakları ve sosyete yaşantısından kesitlerle izleriz. Marcello seks, içki, partiler ve alemlerle dolu bir dünyada savrulurken bile aslında haz almadığı bu \"tatlı hayat\"ı sonuna kadar yaşamaya devam eder. Onunki ruhsuz ve heyecansız bir varoluştur. İtalyan sinemasının ilk 3,5 saatlik filmi olan \"Tatlı Hayat\" gösterime girmesiyle birlikte büyük skandallara ve polemiklere yol açmış, Vatikan tarafından yasaklanmaya çalışılmış, halk tarafından kucaklanmıştır * Yapılmış en muhteşem İtalyan filmi."
+  },
+  "poster": {
+    "tr": "/dZ2v0DAX4aCZartCzZdg4ZinSW2.jpg",
+    "en": "/2KU52apQyvyZuPsqEGMcWb4BKu2.jpg"
+  },
+  "backdrops": [
+    "/zPbu0CFnAT2kYfbGWjgZBTajmzi.jpg",
+    "/b2JhzsBz7FRKwQ672ABqIBK07b.jpg",
+    "/5H8K81Q4lr7QxmDOi5d9P81W0K9.jpg",
+    "/eN2NdMeJLNzLYzWIEEoaGzZAsiD.jpg",
+    "/uaEfEkb2tjl4hN1oaSyzcxt4cEg.jpg",
+    "/3lRyumrACuEehZzF9KXER94OTKS.jpg",
+    "/w7nKllSyMYsE0fquyXNre0kCuLl.jpg",
+    "/fvBjUM14FCT8JI2zqQLUbkfyAEn.jpg",
+    "/yy5rHuEnGqGB5T6zWH3Sq3tN8ra.jpg",
+    "/dOxQ8ua7m31f2CXFu2v5uowMzd3.jpg"
+  ],
+  "trailerKey": "yg3--NK-Xzo",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    3737,
+    658,
+    918,
+    725,
+    813,
+    6059,
+    588,
+    1003,
+    697,
+    1647,
+    1759,
+    2098,
+    12999,
+    13001,
+    162846,
+    311315,
+    361925
+  ],
+  "countries": [
+    "IT",
+    "FR"
+  ],
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "it"
+  ],
+  "studios": [
+    "Cinecittà Studios",
+    "Pathé Consortium Cinéma",
+    "Riama Film"
+  ],
+  "crew": [
+    {
+      "personId": 3098,
+      "job": "composer"
+    },
+    {
+      "personId": 5399,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5678,
+      "job": "writer"
+    },
+    {
+      "personId": 5970,
+      "job": "writer"
+    },
+    {
+      "personId": 4415,
+      "job": "director"
+    },
+    {
+      "personId": 5397,
+      "job": "writer"
+    },
+    {
+      "personId": 5679,
+      "job": "producer"
+    },
+    {
+      "personId": 5396,
+      "job": "writer"
+    },
+    {
+      "personId": 4415,
+      "job": "writer"
+    },
+    {
+      "personId": 4411,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5676,
+      "character": "Marcello Rubini",
+      "order": 0
+    },
+    {
+      "personId": 5961,
+      "character": "Sylvia",
+      "order": 1
+    },
+    {
+      "personId": 5682,
+      "character": "Maddalena",
+      "order": 2
+    },
+    {
+      "personId": 5962,
+      "character": "Emma",
+      "order": 3
+    },
+    {
+      "personId": 5963,
+      "character": "Fanny",
+      "order": 4
+    },
+    {
+      "personId": 5964,
+      "character": "Steiner",
+      "order": 5
+    },
+    {
+      "personId": 5965,
+      "character": "Marcello's father",
+      "order": 6
+    },
+    {
+      "personId": 5966,
+      "character": "Paparazzo",
+      "order": 7
+    },
+    {
+      "personId": 5967,
+      "character": "Paola",
+      "order": 8
+    },
+    {
+      "personId": 5968,
+      "character": "Riccardo",
+      "order": 9
+    },
+    {
+      "personId": 5969,
+      "character": "Debutante of the year",
+      "order": 10
+    },
+    {
+      "personId": 1736893,
+      "character": "Jane",
+      "order": 11
+    },
+    {
+      "personId": 1171344,
+      "character": "Pagliaccio",
+      "order": 12
+    },
+    {
+      "personId": 114417,
+      "character": "Frankie Stout",
+      "order": 13
+    },
+    {
+      "personId": 99514,
+      "character": "Lover of Nadia",
+      "order": 14
+    },
+    {
+      "personId": 239910,
+      "character": "Police commissioner",
+      "order": 15
+    },
+    {
+      "personId": 7710,
+      "character": "Laura",
+      "order": 16
+    },
+    {
+      "personId": 938895,
+      "character": "Nico",
+      "order": 17
+    },
+    {
+      "personId": 2462217,
+      "character": "Transvestite",
+      "order": 18
+    },
+    {
+      "personId": 83146,
+      "character": "Photographer",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1,
+    "cannes": 1
+  },
+  "voteCount": 2099,
+  "sources": [
+    "cult-list"
+  ]
+}

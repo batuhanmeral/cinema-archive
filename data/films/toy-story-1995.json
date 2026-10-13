@@ -1,0 +1,213 @@
+{
+  "tmdbId": 862,
+  "slug": "toy-story-1995",
+  "year": 1995,
+  "runtime": 81,
+  "originalTitle": "Toy Story",
+  "title": {
+    "en": "Toy Story",
+    "tr": "Oyuncak Hikayesi"
+  },
+  "overview": {
+    "en": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+    "tr": "Buzz Lightyear adlı yeni çıkan oyuncak, Andy'e hediye edilir. Oyuncağı çok seven Andy, eski gözdesi Şerif Woody'e olan ilgisini yitirir. Bir gün Buzz yanlışlıkla pencereden aşağı uçunca, herkes Woody'nin onu öldürdüğüne inanır. Woody, kendisini kurtarabilmek için Buzz'ın arkasından giderek onu geri getirmeye karar verir. Fakat ikiliyi dış dünyada büyük tehlikelerle dolu maceralar beklemektedir."
+  },
+  "poster": {
+    "tr": "/4KAtscEx3Pt9YPpNuK3BO6irQn1.jpg",
+    "en": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg"
+  },
+  "backdrops": [
+    "/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+    "/lxD5ak7BOoinRNehOCA85CQ8ubr.jpg",
+    "/bSoOThXLrbgtphS2eZjwy2xYwVt.jpg",
+    "/fAfOiNG0t0Sn1wCGLcHOj62AZWU.jpg",
+    "/1pFGRMwuVPcbk0fHeV5IFCj7w8W.jpg",
+    "/8hhkIgAA6JDAbqqucsnuR7JlccV.jpg",
+    "/XLwjO1NSCIaLznh58OQtmSFl0N.jpg",
+    "/8AqWECiUHnz1Crj69uB9vhiK9Le.jpg",
+    "/wXTMod0lcLMtQy6Tz9yBP2wF4F1.jpg",
+    "/lsBVZG2y2reRzVi9aTQRWHk9Voj.jpg"
+  ],
+  "trailerKey": "CxwTLktovTU",
+  "genreIds": [
+    10751,
+    35,
+    16,
+    12
+  ],
+  "keywordIds": [
+    10084,
+    6054,
+    10364,
+    931,
+    3289,
+    6733,
+    8102,
+    9823,
+    11477,
+    9713,
+    10159,
+    15214,
+    33553,
+    158141,
+    165503,
+    170722,
+    180523,
+    187065,
+    242792,
+    265589,
+    278823
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Pixar"
+  ],
+  "crew": [
+    {
+      "personId": 7879,
+      "job": "director"
+    },
+    {
+      "personId": 12891,
+      "job": "writer"
+    },
+    {
+      "personId": 7,
+      "job": "writer"
+    },
+    {
+      "personId": 12892,
+      "job": "writer"
+    },
+    {
+      "personId": 12893,
+      "job": "writer"
+    },
+    {
+      "personId": 12894,
+      "job": "producer"
+    },
+    {
+      "personId": 12896,
+      "job": "producer"
+    },
+    {
+      "personId": 7885,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 31,
+      "character": "Woody (voice)",
+      "order": 0
+    },
+    {
+      "personId": 12898,
+      "character": "Buzz Lightyear (voice)",
+      "order": 1
+    },
+    {
+      "personId": 7167,
+      "character": "Mr. Potato Head (voice)",
+      "order": 2
+    },
+    {
+      "personId": 12899,
+      "character": "Slinky Dog (voice)",
+      "order": 3
+    },
+    {
+      "personId": 12900,
+      "character": "Rex (voice)",
+      "order": 4
+    },
+    {
+      "personId": 7907,
+      "character": "Hamm (voice)",
+      "order": 5
+    },
+    {
+      "personId": 8873,
+      "character": "Bo Peep (voice)",
+      "order": 6
+    },
+    {
+      "personId": 1116442,
+      "character": "Andy (voice)",
+      "order": 7
+    },
+    {
+      "personId": 12901,
+      "character": "Sid (voice)",
+      "order": 8
+    },
+    {
+      "personId": 12133,
+      "character": "Mrs. Davis (voice)",
+      "order": 9
+    },
+    {
+      "personId": 8655,
+      "character": "Sergeant (voice)",
+      "order": 10
+    },
+    {
+      "personId": 12903,
+      "character": "Hannah (voice)",
+      "order": 11
+    },
+    {
+      "personId": 37221,
+      "character": "TV Announcer (voice)",
+      "order": 12
+    },
+    {
+      "personId": 19545,
+      "character": "Shark / Rocky Gibraltar (voice)",
+      "order": 13
+    },
+    {
+      "personId": 1266092,
+      "character": "Wounded Soldier (voice)",
+      "order": 14
+    },
+    {
+      "personId": 94038,
+      "character": "Local Announcer (voice)",
+      "order": 15
+    },
+    {
+      "personId": 1202809,
+      "character": "Kid (voice)",
+      "order": 16
+    },
+    {
+      "personId": 134713,
+      "character": "Kid (voice)",
+      "order": 17
+    },
+    {
+      "personId": 73016,
+      "character": "Aliens / Pizza Planet Announcer (voice)",
+      "order": 18
+    },
+    {
+      "personId": 186614,
+      "character": "Kid (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 20758,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "tmdbId": 11167,
+  "slug": "peeping-tom-1960",
+  "year": 1960,
+  "runtime": 101,
+  "originalTitle": "Peeping Tom",
+  "title": {
+    "en": "Peeping Tom",
+    "tr": "Röntgenci"
+  },
+  "overview": {
+    "en": "Loner Mark Lewis works at a film studio during the day and, at night, takes racy photographs of women. Also he's making a documentary on fear, which involves recording the reactions of victims as he murders them. He befriends Helen, the daughter of the family living in the apartment below his, and he tells her vaguely about the movie he is making.",
+    "tr": "Michael Powell'in kariyerini mahveden kötü şöhretli filmi Peeping Tom'da (Röntgenci), kameranın saldırgan bir obje olarak kullanımı filme rahatsız edici bir hava katmıştır. Mark Lewis (Carl Boehm) isimli bir genç, kendisini kadınlara belgesel yönetmeni olarak tanıtır. Ancak kamerasının içinde, filme aldığı kişiyi öldürmek için kullandığı sivri uçlu bir metal vardır. Bu durumu, filmin başında kameranın vizöründen görerek tanık olduğumuz sinir bozucu cinayet kaydıyla öğreniriz."
+  },
+  "poster": {
+    "tr": "/kM4AfLIlbcuRZ621vYjyeBFkuba.jpg",
+    "en": "/rrjg1LQ0C6yBfdguQuTPTWuSP6.jpg"
+  },
+  "backdrops": [
+    "/to2l5XjusKTekMnVOC0SdplssHR.jpg",
+    "/ma4EFMFgkez3k8uDTngzXdokfCU.jpg",
+    "/zNUr47uEO6eWCe0FNMiDVFFbpdw.jpg",
+    "/rLm66DbLwxHeRB34oJ1mhsu0urc.jpg",
+    "/at7MKqaEIPJQCJa91umTLSJAiKE.jpg",
+    "/hGqhT4S7LpivFv3DwPmpiZATTrl.jpg",
+    "/n8MZPsqHpqIOXDkuRHvHjy1H8tw.jpg",
+    "/j4XvWlkhcSmxCE7aezIZbr3oahO.jpg",
+    "/vpsSS0wfqYIJuvULKL3s2ViwdFm.jpg",
+    "/dHCaK1kK234qtsUkBlYgnIGnm8c.jpg"
+  ],
+  "trailerKey": "0pOdgj4zKKA",
+  "genreIds": [
+    53,
+    27
+  ],
+  "keywordIds": [
+    212,
+    5251,
+    6025,
+    1523,
+    5707,
+    10714,
+    11318,
+    12390,
+    12565,
+    33490,
+    33625,
+    156391,
+    167104,
+    178649,
+    187299,
+    208370,
+    213833,
+    232090,
+    233450,
+    244775,
+    266503,
+    273121,
+    295907,
+    309029,
+    319638,
+    346510,
+    351071
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Michael Powell (Theatre)"
+  ],
+  "crew": [
+    {
+      "personId": 68424,
+      "job": "producer"
+    },
+    {
+      "personId": 68425,
+      "job": "writer"
+    },
+    {
+      "personId": 68427,
+      "job": "composer"
+    },
+    {
+      "personId": 29893,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 68424,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6251,
+      "character": "Mark Lewis",
+      "order": 0
+    },
+    {
+      "personId": 68422,
+      "character": "Vivian",
+      "order": 1
+    },
+    {
+      "personId": 8227,
+      "character": "Helen Stephens",
+      "order": 2
+    },
+    {
+      "personId": 30141,
+      "character": "Mrs. Stephens",
+      "order": 3
+    },
+    {
+      "personId": 35315,
+      "character": "Dora",
+      "order": 4
+    },
+    {
+      "personId": 47395,
+      "character": "Elderly Gentleman Customer",
+      "order": 5
+    },
+    {
+      "personId": 56875,
+      "character": "Arthur Baden",
+      "order": 6
+    },
+    {
+      "personId": 105824,
+      "character": "Dr. Rosen",
+      "order": 7
+    },
+    {
+      "personId": 78940,
+      "character": "Don Jarvis",
+      "order": 8
+    },
+    {
+      "personId": 47549,
+      "character": "Chief Insp. Gregg",
+      "order": 9
+    },
+    {
+      "personId": 83909,
+      "character": "Pauline Shields",
+      "order": 10
+    },
+    {
+      "personId": 1135040,
+      "character": "Milly",
+      "order": 11
+    },
+    {
+      "personId": 1567845,
+      "character": "Small Man (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 199885,
+      "character": "Shop Assistant on Film Set (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 13327,
+      "character": "Det. Sgt. Miller (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 68424,
+      "character": "Mark's Father - A.N. Lewis (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1063404,
+      "character": "Lorraine the Model (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 14819,
+      "character": "Det. Baxter (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 3152899,
+      "character": "Clapper Boy (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 575814,
+      "character": "Young Man in Sports Car (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 944,
+  "sources": [
+    "cult-list"
+  ]
+}

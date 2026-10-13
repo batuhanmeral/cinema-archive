@@ -1,0 +1,142 @@
+{
+  "tmdbId": 42088,
+  "slug": "the-wannsee-conference-1984",
+  "year": 1984,
+  "runtime": 87,
+  "originalTitle": "Die Wannseekonferenz",
+  "title": {
+    "en": "The Wannsee Conference",
+    "tr": "Die Wannseekonferenz"
+  },
+  "overview": {
+    "en": "A real time recreation of the 1942 Wannsee Conference, in which leading SS and Nazi Party officals gathered to discuss the \"Final Solution to the Jewish Question\". Led by SS-General Reinhard Heydrich, the Wannsee Conference was the starting point for the Jewish Holcaust which led to the mass murder of six million people.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wZno9DqrpOYJYnAHlg8Cq2s2EC3.jpg",
+    "en": "/wZno9DqrpOYJYnAHlg8Cq2s2EC3.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    1739,
+    1956
+  ],
+  "countries": [
+    "AT",
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Infafilm",
+    "ORF",
+    "BR"
+  ],
+  "crew": [
+    {
+      "personId": 221230,
+      "job": "director"
+    },
+    {
+      "personId": 236924,
+      "job": "writer"
+    },
+    {
+      "personId": 26523,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 231018,
+      "character": "SS-Obergruppenführer Reinhard Heydrich",
+      "order": 0
+    },
+    {
+      "personId": 38015,
+      "character": "Gauleiter Dr. Alfred Meyer",
+      "order": 1
+    },
+    {
+      "personId": 39280,
+      "character": "Dr. Georg Leibbrandt",
+      "order": 2
+    },
+    {
+      "personId": 17546,
+      "character": "Dr. Wilhelm Stuckart",
+      "order": 3
+    },
+    {
+      "personId": 236925,
+      "character": "Dr. Erich Neumann",
+      "order": 4
+    },
+    {
+      "personId": 1226527,
+      "character": "Dr. Josef Bühler",
+      "order": 5
+    },
+    {
+      "personId": 939596,
+      "character": "Friedrich Wilhelm Kritzinger",
+      "order": 6
+    },
+    {
+      "personId": 233397,
+      "character": "Otto Hofmann",
+      "order": 7
+    },
+    {
+      "personId": 36433,
+      "character": "Heinrich Müller",
+      "order": 8
+    },
+    {
+      "personId": 1308441,
+      "character": "Adolf Eichmann",
+      "order": 9
+    },
+    {
+      "personId": 46771,
+      "character": "Dr. Rudolf Lange",
+      "order": 10
+    },
+    {
+      "personId": 1490164,
+      "character": "The Secretary",
+      "order": 11
+    },
+    {
+      "personId": 1731231,
+      "character": "Roland Freisler",
+      "order": 12
+    },
+    {
+      "personId": 589773,
+      "character": "Martin Luther",
+      "order": 13
+    },
+    {
+      "personId": 1196888,
+      "character": "Gerhard Klopfer",
+      "order": 14
+    },
+    {
+      "personId": 36895,
+      "character": "Karl Schöngarth",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 26,
+  "sources": [
+    "cult-list"
+  ]
+}

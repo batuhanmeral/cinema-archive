@@ -1,0 +1,209 @@
+{
+  "tmdbId": 15739,
+  "slug": "annie-1982",
+  "year": 1982,
+  "runtime": 127,
+  "originalTitle": "Annie",
+  "title": {
+    "en": "Annie",
+    "tr": "Annie"
+  },
+  "overview": {
+    "en": "An orphan in a facility run by the mean Miss Hannigan, Annie believes that her parents left her there by mistake. When a rich man named Oliver \"Daddy\" Warbucks decides to let an orphan live at his home to promote his image, Annie is selected. While Annie gets accustomed to living in Warbucks' mansion, she still longs to meet her parents. So Warbucks announces a search for them and a reward, which brings out many frauds.",
+    "tr": "Annie 1930'lu yıllarda, Bayan Hannigan adında gaddar bir kadın tarafından idare edilen berbat bir yetimhanede yaşayan bir kız çocuğudur. Tek hayali yetimhaneden kaçıp, orayı terk etmektir. Yetimhanedeki diğer çocuklar arasından, Oliver Warbucks isimli zengin bir iş adamının malikanesinde birkaç gün geçirmek için seçilince dünyası bir anda değişir. Kısa sürede malikanedeki herkesin kalbini kazanan Annie, soğuk görünümlü Warbucks'ın gönlünü yumuşatır. Warbucks, Annie'nin kayıp ailesini bulmak için ona yardım etmeye karar verir; ortaya çıktıkları takdirde ödüllendirileceklerini ilan eder. Fakat Bayan Hannigan ve kötü erkek kardeşi Rooster, ödülü almak için ortaya çıkan aileyi kaçırmayı planlarlar..."
+  },
+  "poster": {
+    "tr": "/xopqD99S1GqQOG8UAeSElsX9MeP.jpg",
+    "en": "/xopqD99S1GqQOG8UAeSElsX9MeP.jpg"
+  },
+  "backdrops": [
+    "/iG6KLIMb7eHrAsKE5QVEM9OCVB7.jpg",
+    "/omvnhpsp7nmW2HUgmrPrFcmUWIk.jpg",
+    "/Aa6DmHL6pOj7gNN1xK3qYW6QIPD.jpg",
+    "/f2JZJwiApsiwlgNJl5Ic4inmiHU.jpg",
+    "/uP8eElA1j4I2lE0V67bhQaUipkc.jpg",
+    "/50OnFSs2WSeXk4jBWu4oNc1Iyrr.jpg",
+    "/mBO6RwI2syagQpPV3ckfK7V2oLX.jpg",
+    "/tJWJrInM99SAcKRwZcXYjd8ZmX5.jpg",
+    "/q4yVsWztrCFTTZeDdYhigCSAskU.jpg",
+    "/n1WuOVF03zePp2a6WXOmBvsdXCI.jpg"
+  ],
+  "trailerKey": "I78xulb-l0s",
+  "genreIds": [
+    35,
+    18,
+    10751
+  ],
+  "keywordIds": [
+    516,
+    4344,
+    10181,
+    9717,
+    12547,
+    12663,
+    13014,
+    41328,
+    161868,
+    162632,
+    165113,
+    165114,
+    229809,
+    325763,
+    325765
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Columbia Pictures",
+    "Rastar Productions"
+  ],
+  "crew": [
+    {
+      "personId": 6593,
+      "job": "director"
+    },
+    {
+      "personId": 18253,
+      "job": "writer"
+    },
+    {
+      "personId": 14640,
+      "job": "writer"
+    },
+    {
+      "personId": 49358,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6459,
+      "job": "composer"
+    },
+    {
+      "personId": 79464,
+      "job": "producer"
+    },
+    {
+      "personId": 18253,
+      "job": "producer"
+    },
+    {
+      "personId": 32790,
+      "job": "producer"
+    },
+    {
+      "personId": 69343,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 87933,
+      "character": "Annie",
+      "order": 0
+    },
+    {
+      "personId": 3926,
+      "character": "'Daddy' Oliver Warbucks",
+      "order": 1
+    },
+    {
+      "personId": 14837,
+      "character": "Miss Hannigan",
+      "order": 2
+    },
+    {
+      "personId": 80928,
+      "character": "Grace Farrell",
+      "order": 3
+    },
+    {
+      "personId": 13472,
+      "character": "Rooster Hannigan",
+      "order": 4
+    },
+    {
+      "personId": 40389,
+      "character": "Lily St. Regis",
+      "order": 5
+    },
+    {
+      "personId": 10225,
+      "character": "Punjab",
+      "order": 6
+    },
+    {
+      "personId": 1073588,
+      "character": "Asp",
+      "order": 7
+    },
+    {
+      "personId": 1073589,
+      "character": "Molly",
+      "order": 8
+    },
+    {
+      "personId": 1073590,
+      "character": "Pepper",
+      "order": 9
+    },
+    {
+      "personId": 1073591,
+      "character": "Tessie",
+      "order": 10
+    },
+    {
+      "personId": 158698,
+      "character": "Kate",
+      "order": 11
+    },
+    {
+      "personId": 174661,
+      "character": "Duffy",
+      "order": 12
+    },
+    {
+      "personId": 1073592,
+      "character": "July",
+      "order": 13
+    },
+    {
+      "personId": 52995,
+      "character": "FDR",
+      "order": 14
+    },
+    {
+      "personId": 159747,
+      "character": "Eleanor Roosevelt",
+      "order": 15
+    },
+    {
+      "personId": 123538,
+      "character": "Bert Healy",
+      "order": 16
+    },
+    {
+      "personId": 1251838,
+      "character": "Boylan Sister",
+      "order": 17
+    },
+    {
+      "personId": 1374926,
+      "character": "Boylan Sister",
+      "order": 18
+    },
+    {
+      "personId": 1859067,
+      "character": "Boylan Sister",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 814,
+  "sources": [
+    "cult-list"
+  ]
+}

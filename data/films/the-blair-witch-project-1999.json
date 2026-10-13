@@ -1,0 +1,168 @@
+{
+  "tmdbId": 2667,
+  "slug": "the-blair-witch-project-1999",
+  "year": 1999,
+  "runtime": 81,
+  "originalTitle": "The Blair Witch Project",
+  "title": {
+    "en": "The Blair Witch Project",
+    "tr": "Blair Cadısı"
+  },
+  "overview": {
+    "en": "In October of 1994 three student filmmakers disappeared in the woods near Burkittsville, Maryland, while shooting a documentary. A year later their footage was found.",
+    "tr": "Maryland ormanlarında 1940'larda birçok çocuk ortadan kaybolmuştur. Üç Sinema öğrenciside Blair Witch adıyla bilinen bu efsane hakkında araştırma yapmak için ormana giderler. Yanlarında bir fotoğraf makinası, bir video kamera ve ses kaydedicisi vardır. Her adımda sesi ve görüntüyü kaydederek araştırmaya devam ederler. Günler sonra ormanda kaybolduklarını anlarlar ve ormana ulaşan son güneş ışığı da kaybolup akşam olunca üç öğrenciden bir daha haber alınamaz.Aradan bir yıl geçmiştir ve ormanda bir çantanın içinde film ve ses kayıtları bulunur. Bu kayıtlar öğrencilere ne olduğunu göstermektedir."
+  },
+  "poster": {
+    "tr": "/zgY3D9Ih5LL7C61H62eggy7OkvB.jpg",
+    "en": "/hyaOKmxuF8YJKHqWlwpiZU5QsAr.jpg"
+  },
+  "backdrops": [
+    "/4enK0hfkyqljQvFqACcx74c007e.jpg",
+    "/ghPJw3XfhELokIf6V5QL0VpsXtK.jpg",
+    "/cvGHaerSLEkpiofkxL4CIP4C2Nv.jpg",
+    "/xpTHHojJnJQgavgMw5OQYUzuNIU.jpg",
+    "/hSLJKdgzRRvVTOHTwr1qafHpw4n.jpg",
+    "/bAemQZumJz7ky102nPcXEdzrrRD.jpg",
+    "/bxId3YhIb92GMWOaqUHHm9ptNBH.jpg",
+    "/1JnemtgRmn3vcVE4GEzUkJVuL8B.jpg",
+    "/4kSBmvbzdU2xM0t0JLbRozWWIc9.jpg",
+    "/otizJuUqGNUPq1wuB7QveMLoEZN.jpg"
+  ],
+  "trailerKey": "AcTh2YItSaM",
+  "genreIds": [
+    27,
+    9648
+  ],
+  "keywordIds": [
+    616,
+    3754,
+    1890,
+    1969,
+    6152,
+    3335,
+    3593,
+    5774,
+    5729,
+    9853,
+    9713,
+    10349,
+    9955,
+    13073,
+    40931,
+    156075,
+    163053,
+    177185,
+    202760,
+    207082,
+    209568,
+    223620,
+    276164,
+    322255,
+    323809,
+    325763,
+    325800,
+    365784,
+    377915
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Haxan Films",
+    "Artisan Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 26849,
+      "job": "director"
+    },
+    {
+      "personId": 27758,
+      "job": "composer"
+    },
+    {
+      "personId": 26849,
+      "job": "writer"
+    },
+    {
+      "personId": 27757,
+      "job": "producer"
+    },
+    {
+      "personId": 27756,
+      "job": "producer"
+    },
+    {
+      "personId": 26850,
+      "job": "director"
+    },
+    {
+      "personId": 26850,
+      "job": "writer"
+    },
+    {
+      "personId": 27759,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 26851,
+      "character": "Heather Donahue",
+      "order": 0
+    },
+    {
+      "personId": 26852,
+      "character": "Joshua Leonard",
+      "order": 1
+    },
+    {
+      "personId": 26853,
+      "character": "Michael Williams",
+      "order": 2
+    },
+    {
+      "personId": 3653054,
+      "character": "Short Fisherman",
+      "order": 3
+    },
+    {
+      "personId": 81062,
+      "character": "Interviewee (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 1724341,
+      "character": "Waitress",
+      "order": 5
+    },
+    {
+      "personId": 81064,
+      "character": "Fisherman With Glasses (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 3653055,
+      "character": "Mary Brown",
+      "order": 7
+    },
+    {
+      "personId": 81066,
+      "character": "Man in Yellow Hat (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 81067,
+      "character": "Interviewee with Child (uncredited)",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 5757,
+  "sources": [
+    "cult-list"
+  ]
+}

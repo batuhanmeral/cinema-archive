@@ -1,0 +1,149 @@
+{
+  "tmdbId": 1387,
+  "slug": "superstar-the-karen-carpenter-story-1987",
+  "year": 1987,
+  "runtime": 43,
+  "originalTitle": "Superstar: The Karen Carpenter Story",
+  "title": {
+    "en": "Superstar: The Karen Carpenter Story",
+    "tr": "Superstar: The Karen Carpenter Story"
+  },
+  "overview": {
+    "en": "The final 17 years of American singer and musician Karen Carpenter, performed almost entirely by modified Barbie dolls.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/8kMRTa9K442K1D5d0tQYqyFsZh9.jpg",
+    "en": "/73QsiL62TmhBw377AwixrVkd1JK.jpg"
+  },
+  "backdrops": [
+    "/8Mv3ldkLTo9w7cHvG1fwZxsVaAw.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10402,
+    36
+  ],
+  "keywordIds": [
+    2324,
+    6438,
+    7335,
+    11691
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Iced Tea Productions"
+  ],
+  "crew": [
+    {
+      "personId": 16863,
+      "job": "writer"
+    },
+    {
+      "personId": 1194207,
+      "job": "writer"
+    },
+    {
+      "personId": 16863,
+      "job": "director"
+    },
+    {
+      "personId": 1194207,
+      "job": "producer"
+    },
+    {
+      "personId": 16863,
+      "job": "producer"
+    },
+    {
+      "personId": 1643458,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1381550,
+      "job": "composer"
+    },
+    {
+      "personId": 152397,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1539681,
+      "character": "Karen (voice)",
+      "order": 0
+    },
+    {
+      "personId": 75027,
+      "character": "Richard (voice)",
+      "order": 1
+    },
+    {
+      "personId": 1539683,
+      "character": "Mother (voice)",
+      "order": 2
+    },
+    {
+      "personId": 42708,
+      "character": "Dad / Mr. A&M (voice)",
+      "order": 3
+    },
+    {
+      "personId": 1194207,
+      "character": "Dionne Warwick (voice)",
+      "order": 4
+    },
+    {
+      "personId": 16863,
+      "character": "Todd Donovan",
+      "order": 5
+    },
+    {
+      "personId": 2124443,
+      "character": "Narrator (voice)",
+      "order": 6
+    },
+    {
+      "personId": 2568669,
+      "character": "Narrator (voice)",
+      "order": 7
+    },
+    {
+      "personId": 2568675,
+      "character": "Cherry Boone",
+      "order": 8
+    },
+    {
+      "personId": 2568676,
+      "character": "Announcer",
+      "order": 9
+    },
+    {
+      "personId": 2568678,
+      "character": "Self-Singer",
+      "order": 10
+    },
+    {
+      "personId": 2568680,
+      "character": "Michelle Hoyt, Musician",
+      "order": 11
+    },
+    {
+      "personId": 2568682,
+      "character": "(voice)",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 67,
+  "sources": [
+    "cult-list"
+  ]
+}

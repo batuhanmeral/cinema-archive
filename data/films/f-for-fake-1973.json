@@ -1,0 +1,198 @@
+{
+  "tmdbId": 43003,
+  "slug": "f-for-fake-1973",
+  "year": 1973,
+  "runtime": 89,
+  "originalTitle": "Vérités et Mensonges",
+  "title": {
+    "en": "F for Fake",
+    "tr": "Hakikatler ve Düzmeceler"
+  },
+  "overview": {
+    "en": "Documents the lives of infamous fakers Elmyr de Hory and Clifford Irving. De Hory, who later committed suicide to avoid more prison time, made his name by selling forged works of art by painters like Picasso and Matisse. Irving was infamous for writing a fake autobiography of Howard Hughes. Welles moves between documentary and fiction as he examines the fundamental elements of fraud and the people who commit fraud at the expense of others.",
+    "tr": "Orson Welles sanat, sinema dünyası ve gerçek hayatla ilgili izlenimlerine resmi geçit yaptırıyor..."
+  },
+  "poster": {
+    "tr": "/fVeIDxS73CrosoeVOaefQuCUGZg.jpg",
+    "en": "/qe6uEkCFGzY4j3nBLIEfEibubzC.jpg"
+  },
+  "backdrops": [
+    "/5oSp4F0nAOcRST43vZGQWdhxDoI.jpg",
+    "/oUnmsXgySUgadPXdFqaEU8RTObC.jpg",
+    "/kwwuAQpPvewf4voKVMN98KcXEPM.jpg",
+    "/28a0wvZb8kyjVBd6BcPEnrHbrhm.jpg",
+    "/wmOOhCqUlCZH3Fz6xyLsZUJ8Pkl.jpg",
+    "/h0e87R3ynruhWeP4jYr7z7vFUuM.jpg",
+    "/Zo0EKlYAAxkH3135H3lRENzpnu.jpg",
+    "/fKun8gzFfNUWeZtjQeMEfypMPia.jpg",
+    "/AroxfLZwlIqDq4jPZiqP3NWOnVN.jpg",
+    "/xWnD1JoCgzFd1otKuoXRLPckDqb.jpg"
+  ],
+  "trailerKey": "ic0BI8L-spQ",
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    2679,
+    2887,
+    4662,
+    9758,
+    6814,
+    170487,
+    195537,
+    209096,
+    225161
+  ],
+  "countries": [
+    "FR",
+    "DE",
+    "IR"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "studios": [
+    "SACI",
+    "Les Films de l'Astrophore",
+    "Janus Film und Fernsehen"
+  ],
+  "crew": [
+    {
+      "personId": 40,
+      "job": "director"
+    },
+    {
+      "personId": 985617,
+      "job": "producer"
+    },
+    {
+      "personId": 40,
+      "job": "writer"
+    },
+    {
+      "personId": 10934,
+      "job": "composer"
+    },
+    {
+      "personId": 1146725,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1146725,
+      "job": "writer"
+    },
+    {
+      "personId": 1146725,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 40,
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "personId": 143081,
+      "character": "The Girl",
+      "order": 1
+    },
+    {
+      "personId": 143085,
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "personId": 60188,
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "personId": 14729,
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "personId": 2171877,
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "personId": 2171879,
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "personId": 11033,
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "personId": 96159,
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "personId": 7664,
+      "character": "Self",
+      "order": 9
+    },
+    {
+      "personId": 13348,
+      "character": "Self (archive footage)",
+      "order": 10
+    },
+    {
+      "personId": 1256010,
+      "character": "Self",
+      "order": 11
+    },
+    {
+      "personId": 1379251,
+      "character": "Self",
+      "order": 12
+    },
+    {
+      "personId": 30683,
+      "character": "Self",
+      "order": 13
+    },
+    {
+      "personId": 13159,
+      "character": "Self",
+      "order": 14
+    },
+    {
+      "personId": 2171884,
+      "character": "Self",
+      "order": 15
+    },
+    {
+      "personId": 1624784,
+      "character": "Self",
+      "order": 16
+    },
+    {
+      "personId": 2171887,
+      "character": "Self",
+      "order": 17
+    },
+    {
+      "personId": 39012,
+      "character": "Self",
+      "order": 18
+    },
+    {
+      "personId": 11030,
+      "character": "Self",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 387,
+  "sources": [
+    "cult-list"
+  ]
+}

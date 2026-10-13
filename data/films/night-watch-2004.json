@@ -1,0 +1,194 @@
+{
+  "tmdbId": 3040,
+  "slug": "night-watch-2004",
+  "year": 2004,
+  "runtime": 114,
+  "originalTitle": "Ночной дозор",
+  "title": {
+    "en": "Night Watch",
+    "tr": "Gece Nöbeti"
+  },
+  "overview": {
+    "en": "Among normal humans live the \"Others\" possessing various supernatural powers. They are divided up into the forces of light and the forces of the dark, who signed a truce several centuries ago to end a devastating battle. Ever since, the forces of light govern the day while the night belongs to their dark opponents. In modern day Moscow the dark Others actually roam the night as vampires while a \"Night Watch\" of light forces, among them Anton, the movie's protagonist, try to control them and limit their outrage",
+    "tr": "Film günümüz Moskovası'nda geçiyor. Her anlamda eşit güçlere sahip aydınlık güçlerle karanlık güçlerin mücadelesinde bir kazanan çıkmamış ve sonunda ateşkes ilan edilmiştir. Ateşkesin en önemli koşulu, bir tarafta yer alan bir kişinin zorla diğer tarafa geçirilmemesidir. Anlaşmanın denetlenmesi için Karanlık taraf gündüz, Aydınlık taraf ise gece nöbet tutacaktır. Bir gün Anton'un o kapının zilini çalmasıyla hersey değişir * Timur Bekmambetov 'un dünya sinemasında adının bilinmesini sağlayan filmlerden biri. Hatta Rus sinemasının Matrix'i deniyor film için"
+  },
+  "poster": {
+    "tr": "/ob2T29mdSBN8g2jSfBPAQ9Lxmvj.jpg",
+    "en": "/hRDJRgb7wEubLhPWFrl6sS816Tm.jpg"
+  },
+  "backdrops": [
+    "/d959xD2LkBztDnssJKR7M679SJ7.jpg",
+    "/iRZoKxy1melVPShMczYH2gWPZRV.jpg",
+    "/91OB1BB6I14cuicAHqZYbu2UsAk.jpg",
+    "/2f6La6ZJDIQTNPcn2WSR6qdXy8Q.jpg",
+    "/ubf0lJ1mNwE2nSyccGPjeRObaBQ.jpg",
+    "/vx4zhx6tfzjqxvxrppavG5qMeuK.jpg",
+    "/wvNzf1qyRNyWU4uTmcasLg9Dw2z.jpg",
+    "/1iN1OSRbEuJlfhTehbLlabYY2n1.jpg",
+    "/uhLw4x7Bp5sY4lZZUNMtdt98pdU.jpg",
+    "/8LBYk8rX3M4a2b56IJ9abMJMtB6.jpg"
+  ],
+  "trailerKey": "SU-7ZwbH7Fc",
+  "genreIds": [
+    14,
+    28,
+    53
+  ],
+  "keywordIds": [
+    616,
+    3800,
+    1721,
+    1552,
+    5369,
+    186450
+  ],
+  "countries": [
+    "RU"
+  ],
+  "languages": [
+    "de",
+    "ru"
+  ],
+  "studios": [
+    "Bazelevs",
+    "Tabbak",
+    "Channel One"
+  ],
+  "crew": [
+    {
+      "personId": 20294,
+      "job": "writer"
+    },
+    {
+      "personId": 23430,
+      "job": "director"
+    },
+    {
+      "personId": 23438,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 23430,
+      "job": "writer"
+    },
+    {
+      "personId": 23437,
+      "job": "composer"
+    },
+    {
+      "personId": 1539698,
+      "job": "producer"
+    },
+    {
+      "personId": 23435,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 23440,
+      "character": "Anton Gorodetsky",
+      "order": 0
+    },
+    {
+      "personId": 23442,
+      "character": "Geser",
+      "order": 1
+    },
+    {
+      "personId": 23443,
+      "character": "Olga",
+      "order": 2
+    },
+    {
+      "personId": 23441,
+      "character": "Svetlana",
+      "order": 3
+    },
+    {
+      "personId": 23444,
+      "character": "Alice Donnikova",
+      "order": 4
+    },
+    {
+      "personId": 29832,
+      "character": "Zavulon",
+      "order": 5
+    },
+    {
+      "personId": 29843,
+      "character": "Witch Darya",
+      "order": 6
+    },
+    {
+      "personId": 29847,
+      "character": "Egor's Mother",
+      "order": 7
+    },
+    {
+      "personId": 31859,
+      "character": "Egor",
+      "order": 8
+    },
+    {
+      "personId": 1190182,
+      "character": "Kostya’s Father",
+      "order": 9
+    },
+    {
+      "personId": 29848,
+      "character": "Larisa",
+      "order": 10
+    },
+    {
+      "personId": 31861,
+      "character": "Tiger",
+      "order": 11
+    },
+    {
+      "personId": 31899,
+      "character": "Andrej",
+      "order": 12
+    },
+    {
+      "personId": 29839,
+      "character": "Ignat",
+      "order": 13
+    },
+    {
+      "personId": 101433,
+      "character": "Kostja",
+      "order": 14
+    },
+    {
+      "personId": 29838,
+      "character": "Bear",
+      "order": 15
+    },
+    {
+      "personId": 29837,
+      "character": "Simeon",
+      "order": 16
+    },
+    {
+      "personId": 83831,
+      "character": "Subway Guy",
+      "order": 17
+    },
+    {
+      "personId": 1475855,
+      "character": "Rabotnik TETs",
+      "order": 18
+    },
+    {
+      "personId": 223528,
+      "character": "Maksim Ivanovich",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 870,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "tmdbId": 170259,
+  "slug": "in-the-dark-2004",
+  "year": 2004,
+  "runtime": 100,
+  "originalTitle": "In the Dark",
+  "title": {
+    "en": "In the Dark",
+    "tr": "In the Dark"
+  },
+  "overview": {
+    "en": "Armed with a camcorder, a circle of friends parties at an abandoned insane asylum where, five years earlier, they caused a young patient's death. But their fun turns to fright when the consequences of their heinous crime catch up with them. Will they get out alive, or are they doomed? And what will the tapes reveal?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/8QyGywHGxglz4BoLuVpIpTXD1Da.jpg",
+    "en": "/8QyGywHGxglz4BoLuVpIpTXD1Da.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": "nD_VXJHHfi8",
+  "genreIds": [
+    27,
+    53,
+    9648
+  ],
+  "keywordIds": [
+    163053
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Megalomania Films"
+  ],
+  "crew": [
+    {
+      "personId": 1152377,
+      "job": "director"
+    },
+    {
+      "personId": 1152377,
+      "job": "writer"
+    },
+    {
+      "personId": 1152377,
+      "job": "composer"
+    },
+    {
+      "personId": 1152377,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1152377,
+      "character": "Himself",
+      "order": 0
+    },
+    {
+      "personId": 1194120,
+      "character": "Drako",
+      "order": 1
+    },
+    {
+      "personId": 104366,
+      "character": "Max",
+      "order": 2
+    },
+    {
+      "personId": 100392,
+      "character": "Blair",
+      "order": 3
+    },
+    {
+      "personId": 1278875,
+      "character": "Nurse Maggie",
+      "order": 4
+    },
+    {
+      "personId": 3771501,
+      "character": "Mrs. Potter",
+      "order": 5
+    },
+    {
+      "personId": 3794749,
+      "character": "Mikey",
+      "order": 6
+    },
+    {
+      "personId": 3794750,
+      "character": "Barry",
+      "order": 7
+    },
+    {
+      "personId": 3794752,
+      "character": "Serena",
+      "order": 8
+    },
+    {
+      "personId": 3680585,
+      "character": "Dalton",
+      "order": 9
+    },
+    {
+      "personId": 210810,
+      "character": "Detective Frank Carlson",
+      "order": 10
+    },
+    {
+      "personId": 98276,
+      "character": "Reese Gentry",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 2,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "tmdbId": 10236,
+  "slug": "the-way-we-were-1973",
+  "year": 1973,
+  "runtime": 118,
+  "originalTitle": "The Way We Were",
+  "title": {
+    "en": "The Way We Were",
+    "tr": "Bulunduğumuz Yol"
+  },
+  "overview": {
+    "en": "Opposites attract when, during their college days, Katie Morosky, a politically active Jew, meets Hubbell Gardiner, a feckless WASP. Years later, in the wake of World War II, they meet once again and, despite their obvious differences, attempt to make their love for each other work.",
+    "tr": "2. Dünya Savaşı sonrası ABD'nde Marksist bir yahudi olan Katie Morosky (Barbra Streisand), bir radyo istasyonunun yanısıra değişik birkaç işte birden çalışarak yaşamını sürdürürken bir yandan da politik inançları doğrultusunda üniversitede ve sokakta aktif eylemlere katılmaktadır. 1930'ların başında okulda tanıştığı deniz subayı Hubbell Gardiner'le (Robert Redford) yıllar sonra tekrar karşılaştıklarında ilk aşklarının canlandığını farkederek birlikte yaşamaya başlarlar. Hubbell, Hollywood için çalışan ve McCarthyciliğin etkisiyle kara listeye alınan bir senaristtir. Olayların gelişimi iki sevgilinin duygu yüklü yollarını ayıracaktır; üstelik Katie hamiledir."
+  },
+  "poster": {
+    "tr": "/o5x563ze56iI4iNsCBxTnDkt28i.jpg",
+    "en": "/p2R8CjUEsjJ3hYi5omQXK24Nyj2.jpg"
+  },
+  "backdrops": [
+    "/ddY4pLycuL8nZKuZqq3vW2fIxr9.jpg",
+    "/kFMXC7cJkedHS6DK2mjnPTGE7lp.jpg",
+    "/vlRM08PYR5ADZo1lGXuVhMVKMLz.jpg",
+    "/mfxPtogh67rKs2v1WFaGsaXstRZ.jpg",
+    "/nN2VfVwX5Fs5As8SqwscNDMtpLZ.jpg",
+    "/wZR25XwcXuZFJG9POq2I1YM6asI.jpg",
+    "/fgaWVJzuEn0b1kSG9RT4NNIfrBf.jpg",
+    "/u9HLnEYUqRb2UqOaPFXB16Vlhv0.jpg",
+    "/7vimZ6QHXM1b3TypD9eA7wKGvba.jpg",
+    "/cJbMTBIfO89kz62eLimVAkKKtD2.jpg"
+  ],
+  "trailerKey": "YFc1oZv4vL4",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    818,
+    6078,
+    4232,
+    7059,
+    194595,
+    207883,
+    208611,
+    324429
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Tom Ward Enterprises",
+    "Columbia Pictures",
+    "Rastar Productions"
+  ],
+  "crew": [
+    {
+      "personId": 14094,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2226,
+      "job": "director"
+    },
+    {
+      "personId": 10468,
+      "job": "composer"
+    },
+    {
+      "personId": 32790,
+      "job": "producer"
+    },
+    {
+      "personId": 17665,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10400,
+      "character": "Katie Morosky",
+      "order": 0
+    },
+    {
+      "personId": 4135,
+      "character": "Hubbell Gardner",
+      "order": 1
+    },
+    {
+      "personId": 18647,
+      "character": "J.J.",
+      "order": 2
+    },
+    {
+      "personId": 10475,
+      "character": "Carol Ann",
+      "order": 3
+    },
+    {
+      "personId": 54123,
+      "character": "George Bissinger",
+      "order": 4
+    },
+    {
+      "personId": 22137,
+      "character": "Paula Reisner",
+      "order": 5
+    },
+    {
+      "personId": 76382,
+      "character": "Rhea Edwards",
+      "order": 6
+    },
+    {
+      "personId": 8608,
+      "character": "Brooks Carpenter",
+      "order": 7
+    },
+    {
+      "personId": 14832,
+      "character": "Bill Verso",
+      "order": 8
+    },
+    {
+      "personId": 179145,
+      "character": "Vicki Bissinger",
+      "order": 9
+    },
+    {
+      "personId": 12134,
+      "character": "Pony Dunbar",
+      "order": 10
+    },
+    {
+      "personId": 95627,
+      "character": "Peggy Vanderbilt",
+      "order": 11
+    },
+    {
+      "personId": 104630,
+      "character": "Actor",
+      "order": 12
+    },
+    {
+      "personId": 57351,
+      "character": "El Morocco Captain",
+      "order": 13
+    },
+    {
+      "personId": 151325,
+      "character": "Army Corporal",
+      "order": 14
+    },
+    {
+      "personId": 3662351,
+      "character": "Ashe Blonde",
+      "order": 15
+    },
+    {
+      "personId": 12298,
+      "character": "Army Captain",
+      "order": 16
+    },
+    {
+      "personId": 1468322,
+      "character": "Rally Speaker",
+      "order": 17
+    },
+    {
+      "personId": 4512,
+      "character": "Frankie McVeigh",
+      "order": 18
+    },
+    {
+      "personId": 61149,
+      "character": "Jenny",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 533,
+  "sources": [
+    "cult-list"
+  ]
+}

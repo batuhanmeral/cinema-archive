@@ -1,0 +1,198 @@
+{
+  "tmdbId": 9806,
+  "slug": "the-incredibles-2004",
+  "year": 2004,
+  "runtime": 115,
+  "originalTitle": "The Incredibles",
+  "title": {
+    "en": "The Incredibles",
+    "tr": "İnanılmaz Aile"
+  },
+  "overview": {
+    "en": "Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.",
+    "tr": "Animasyon kahramanı Mr Incredible adı altında dünyada var olan kötülüklerle mücadele eden ve insanları kötücül şeylerden korumaya çalışan Bob Parr, dünyaca meşhurdur. Bir süre sonra hayatının bu denli yorucu olmasından yana şikayetçi olup emekliye ayrılmak ister. Eşi ve çocukları ile beraber daha sakin ve sıradan bir yaşam düzenine geçer. Çok geçmeden bu düzenden de sıkılır çünkü sigortacılık gibi bir iş onu pek kesmemektedir. Evren niyet ve isteklerini duyar ve ona bir mesaj iletilir. Bir adada artık gizli bir görevin sahibidir."
+  },
+  "poster": {
+    "tr": "/lYO0iRJIqRcqO7lWS5jYDc8mvLo.jpg",
+    "en": "/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg"
+  },
+  "backdrops": [
+    "/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg",
+    "/7bQNyDNvnBMAkRw5Hq9An0CUh0r.jpg",
+    "/lxwzY9vNwjDgxWKt3zZ6zcU6rEJ.jpg",
+    "/qEqrnYQWxHFBss0ugQsLORAI6aL.jpg",
+    "/lBVEPGbt7Z83VP0QdLRAfAlexh9.jpg",
+    "/oj5aJQ29VB8SWljB5dhgeztDz3d.jpg",
+    "/qQRfIjYKLRiUMr6Lngrxq7rH1Zk.jpg",
+    "/3BzsK5fa6QF9m4p7SSV6DaaRmxx.jpg",
+    "/1t1NivpvWQgNwJTxt7hMJNfq3tf.jpg",
+    "/cnORTKYtAzPXIY6lizTJspfoXnd.jpg"
+  ],
+  "trailerKey": "sJCjKQQOqT0",
+  "genreIds": [
+    28,
+    12,
+    16,
+    10751
+  ],
+  "keywordIds": [
+    1701,
+    1308,
+    9715,
+    3289,
+    10235,
+    33637,
+    194404,
+    278823
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Pixar"
+  ],
+  "crew": [
+    {
+      "personId": 7087,
+      "job": "director"
+    },
+    {
+      "personId": 7975,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 15347,
+      "job": "composer"
+    },
+    {
+      "personId": 59362,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 33340,
+      "job": "producer"
+    },
+    {
+      "personId": 8104,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7087,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8977,
+      "character": "Bob Parr / Mr. Incredible (voice)",
+      "order": 0
+    },
+    {
+      "personId": 18686,
+      "character": "Helen Parr / Elastigirl (voice)",
+      "order": 1
+    },
+    {
+      "personId": 59361,
+      "character": "Violet Parr (voice)",
+      "order": 2
+    },
+    {
+      "personId": 59360,
+      "character": "Dashiell 'Dash' Parr (voice)",
+      "order": 3
+    },
+    {
+      "personId": 11662,
+      "character": "Buddy Pine / Syndrome (voice)",
+      "order": 4
+    },
+    {
+      "personId": 2231,
+      "character": "Lucius Best / Frozone (voice)",
+      "order": 5
+    },
+    {
+      "personId": 7430,
+      "character": "Mirage (voice)",
+      "order": 6
+    },
+    {
+      "personId": 59358,
+      "character": "Jack-Jack Parr (voice)",
+      "order": 7
+    },
+    {
+      "personId": 59359,
+      "character": "Jack-Jack Parr (voice)",
+      "order": 8
+    },
+    {
+      "personId": 7087,
+      "character": "Edna 'E' Mode (voice)",
+      "order": 9
+    },
+    {
+      "personId": 7891,
+      "character": "Bomb Voyage (voice)",
+      "order": 10
+    },
+    {
+      "personId": 59357,
+      "character": "Newsreel Narrator (voice)",
+      "order": 11
+    },
+    {
+      "personId": 155917,
+      "character": "Mrs. Hogenson (voice)",
+      "order": 12
+    },
+    {
+      "personId": 12900,
+      "character": "Gilbert Huph (voice)",
+      "order": 13
+    },
+    {
+      "personId": 7962,
+      "character": "Bernie Kropp (voice)",
+      "order": 14
+    },
+    {
+      "personId": 1075147,
+      "character": "Principal (voice)",
+      "order": 15
+    },
+    {
+      "personId": 1075148,
+      "character": "Tony Rydinger (voice)",
+      "order": 16
+    },
+    {
+      "personId": 7918,
+      "character": "Rick Dicker (voice)",
+      "order": 17
+    },
+    {
+      "personId": 7998,
+      "character": "Kari (voice)",
+      "order": 18
+    },
+    {
+      "personId": 1338319,
+      "character": "Honey (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2,
+    "bafta": 1
+  },
+  "voteCount": 19478,
+  "sources": [
+    "cult-list"
+  ]
+}

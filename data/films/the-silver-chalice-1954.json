@@ -1,0 +1,176 @@
+{
+  "tmdbId": 65212,
+  "slug": "the-silver-chalice-1954",
+  "year": 1954,
+  "runtime": 142,
+  "originalTitle": "The Silver Chalice",
+  "title": {
+    "en": "The Silver Chalice",
+    "tr": "The Silver Chalice"
+  },
+  "overview": {
+    "en": "A Greek artisan is commissioned to cast the cup of Christ in silver and sculpt around its rim the faces of the disciples and Jesus himself. He travels to Jerusalem and eventually to Rome to complete the task. Meanwhile, a nefarious interloper is trying to convince the crowds that he is the new Messiah by using nothing more than cheap parlor tricks.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dwcpH7EX5glxxAvRmuiCVtBNBDN.jpg",
+    "en": "/dwcpH7EX5glxxAvRmuiCVtBNBDN.jpg"
+  },
+  "backdrops": [
+    "/i4fGmfpUG6DrUn8PkKTTiHaguwl.jpg",
+    "/cIumTRvfiuGbk3TaFOPOAKXm82F.jpg",
+    "/7ec18UIshhk8LzJHj5RNBrt2kKu.jpg"
+  ],
+  "trailerKey": "tkueAHXEQtw",
+  "genreIds": [
+    18,
+    10749,
+    36
+  ],
+  "keywordIds": [
+    4988,
+    8011,
+    163163,
+    194063
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "studios": [
+    "Victor Saville Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 93631,
+      "job": "writer"
+    },
+    {
+      "personId": 14860,
+      "job": "director"
+    },
+    {
+      "personId": 8619,
+      "job": "composer"
+    },
+    {
+      "personId": 17668,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 14860,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13579,
+      "character": "Helena",
+      "order": 0
+    },
+    {
+      "personId": 99374,
+      "character": "Deborra",
+      "order": 1
+    },
+    {
+      "personId": 3785,
+      "character": "Simon The Magician",
+      "order": 2
+    },
+    {
+      "personId": 3636,
+      "character": "Basil",
+      "order": 3
+    },
+    {
+      "personId": 50833,
+      "character": "Joseph of Arimathea",
+      "order": 4
+    },
+    {
+      "personId": 9872,
+      "character": "Mijamin",
+      "order": 5
+    },
+    {
+      "personId": 96284,
+      "character": "Luke",
+      "order": 6
+    },
+    {
+      "personId": 40181,
+      "character": "Peter",
+      "order": 7
+    },
+    {
+      "personId": 126900,
+      "character": "Adam",
+      "order": 8
+    },
+    {
+      "personId": 50573,
+      "character": "Linus",
+      "order": 9
+    },
+    {
+      "personId": 84559,
+      "character": "Nero",
+      "order": 10
+    },
+    {
+      "personId": 5249,
+      "character": "Ignatius",
+      "order": 11
+    },
+    {
+      "personId": 50303,
+      "character": "Aaron Ben Joseph",
+      "order": 12
+    },
+    {
+      "personId": 2769,
+      "character": "Helena as a Girl",
+      "order": 13
+    },
+    {
+      "personId": 2101348,
+      "character": "Basil as a Boy",
+      "order": 14
+    },
+    {
+      "personId": 114429,
+      "character": "Benjie",
+      "order": 15
+    },
+    {
+      "personId": 105390,
+      "character": "Hiram",
+      "order": 16
+    },
+    {
+      "personId": 100790,
+      "character": "Sosthene",
+      "order": 17
+    },
+    {
+      "personId": 29363,
+      "character": "Idbash",
+      "order": 18
+    },
+    {
+      "personId": 2782,
+      "character": "Theron",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 40,
+  "sources": [
+    "cult-list"
+  ]
+}

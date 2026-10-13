@@ -1,0 +1,194 @@
+{
+  "tmdbId": 246,
+  "slug": "zatoichi-2003",
+  "year": 2003,
+  "runtime": 116,
+  "originalTitle": "座頭市",
+  "title": {
+    "en": "Zatoichi",
+    "tr": "Kör Samuray"
+  },
+  "overview": {
+    "en": "Blind traveler Zatoichi is a master swordsman and a masseur with a fondness for gambling on dice games. When he arrives in a village torn apart by warring gangs, he sets out to protect the townspeople.",
+    "tr": "Kör bir gezgin olan Zatoichi kumar oynarak ve masaj yaparak geçimini sağlar. Aynı zamanda usta kılıç kullanışıyla ünü dört bir yana yayılmıştır.  Bir dağ kasabasına gelen Zatoichi burada Ginzo denilen bir çete ile karşılaşır. Çete bütün kasabayı esir almış, karşı koymaya çalışan herkesi de öldürmektedir. Hattori adındaki samuray bu cinayetlerin baş kahramınıdır.  Arkadaşı Şinkiçi ile beraber iki geyşayla tanışırlar. Kardeş olan bu geyşalar intikam hırsıyla dolmuş, güzel ama bir o kadar tehlikeli kızlardır. Ailelerinin öldürülmesinin öcünü almak için bu kasabaya gelmişlerdir.  Zorlu bir mücadeleye giren Zatoichi meşhur kılıcıyla ve usta figürleriyle bu çete ile karşı karşıyadır."
+  },
+  "poster": {
+    "tr": "/iCIycswWbX1EDS6PYYBcR9ohrC.jpg",
+    "en": "/iCIycswWbX1EDS6PYYBcR9ohrC.jpg"
+  },
+  "backdrops": [
+    "/eRMs3DYsJKO9d6fhLceS1tvIP0y.jpg",
+    "/kP6WiYHQUUXo6ZaXI06enkMsxkF.jpg",
+    "/nQjXlfSElhRidismqQcETmCxZFM.jpg",
+    "/pfbWQG6lzTYp47nfbQqeCWU6IU4.jpg",
+    "/vRO1PHoeXuzFnavvjPR6C9sSa4i.jpg",
+    "/c5ePMSSECALlL1o7kuNwfHEIvM1.jpg",
+    "/gJThpaP7AvKSTarptCptHgtxN2L.jpg"
+  ],
+  "trailerKey": "hfMSfvmUPH8",
+  "genreIds": [
+    12,
+    18,
+    28
+  ],
+  "keywordIds": [
+    779,
+    233,
+    1462,
+    1938,
+    4342,
+    1936,
+    9748,
+    12660,
+    186753,
+    202371
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Office Kitano",
+    "Saito Entertainment",
+    "Tokyo FM"
+  ],
+  "crew": [
+    {
+      "personId": 13272,
+      "job": "producer"
+    },
+    {
+      "personId": 3436,
+      "job": "composer"
+    },
+    {
+      "personId": 4998,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3317,
+      "job": "writer"
+    },
+    {
+      "personId": 3317,
+      "job": "director"
+    },
+    {
+      "personId": 544325,
+      "job": "producer"
+    },
+    {
+      "personId": 13246,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3317,
+      "character": "Zatoichi / Ichi",
+      "order": 0
+    },
+    {
+      "personId": 13275,
+      "character": "Hattori Genosuke",
+      "order": 1
+    },
+    {
+      "personId": 13276,
+      "character": "Tante Oume",
+      "order": 2
+    },
+    {
+      "personId": 13280,
+      "character": "Oshino",
+      "order": 3
+    },
+    {
+      "personId": 13277,
+      "character": "Shinkichi",
+      "order": 4
+    },
+    {
+      "personId": 13278,
+      "character": "Geisha Seitaro O-Sei Naruto",
+      "order": 5
+    },
+    {
+      "personId": 13257,
+      "character": "Geisha Okinu Naruto",
+      "order": 6
+    },
+    {
+      "personId": 13281,
+      "character": "Boss Inosuke Ginzo",
+      "order": 7
+    },
+    {
+      "personId": 13282,
+      "character": "Ogi",
+      "order": 8
+    },
+    {
+      "personId": 13283,
+      "character": "Pub Owner",
+      "order": 9
+    },
+    {
+      "personId": 3883626,
+      "character": "Dancing Farmer",
+      "order": 10
+    },
+    {
+      "personId": 3883635,
+      "character": "Dancing Farmer",
+      "order": 11
+    },
+    {
+      "personId": 3883637,
+      "character": "Dancing Farmer",
+      "order": 12
+    },
+    {
+      "personId": 20341,
+      "character": "Carpenter",
+      "order": 13
+    },
+    {
+      "personId": 1124465,
+      "character": "Carpenter",
+      "order": 14
+    },
+    {
+      "personId": 2367513,
+      "character": "Carpenter",
+      "order": 15
+    },
+    {
+      "personId": 79458,
+      "character": "Carpenter",
+      "order": 16
+    },
+    {
+      "personId": 133886,
+      "character": "Yakuza Boss on the Country Road",
+      "order": 17
+    },
+    {
+      "personId": 227616,
+      "character": "Tavern Gramps",
+      "order": 18
+    },
+    {
+      "personId": 2094493,
+      "character": "Rival Swordsman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1006,
+  "sources": [
+    "cult-list"
+  ]
+}

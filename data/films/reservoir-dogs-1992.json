@@ -1,0 +1,193 @@
+{
+  "tmdbId": 500,
+  "slug": "reservoir-dogs-1992",
+  "year": 1992,
+  "runtime": 99,
+  "originalTitle": "Reservoir Dogs",
+  "title": {
+    "en": "Reservoir Dogs",
+    "tr": "Rezervuar Köpekleri"
+  },
+  "overview": {
+    "en": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
+    "tr": "Bir grup suçlu, bir mücevher deposunu soyarlar. Polis o kadar çabuk peşlerine düşer ki aralarında bir muhbir olduğundan şüphelenirler. Soygundan hemen sonrasıyla başlayan film, olayın öncesine dönüp soygunun planlanması aşamasını anlatıyor. Ünlü karakter oyuncularından oluşan kadroyu da bu bölümde tanıyoruz.Bol aksiyon, kan ve şiddet içeren, klasikleşmiş bir Tarantino yapımı..."
+  },
+  "poster": {
+    "tr": "/s20CFCa4rlkL2l3uDJyljkZwB90.jpg",
+    "en": "/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg"
+  },
+  "backdrops": [
+    "/jqFjgNnxpXIXWuPsyfqmcLXRo9p.jpg",
+    "/g6R1OT7ETBLGLeUJOE0pOiAFHcI.jpg",
+    "/jwt159hXWA9Q5xpBo8hWb3zwLi7.jpg",
+    "/xPMbNZwn1nQzc5fsjnhuu3fDndA.jpg",
+    "/eohMDv8x1XRSkPdjWv5xsFct4Dj.jpg",
+    "/lKIUljxDALoiL82sNfBiyqPYDnV.jpg",
+    "/t4FHFL6hckU9vohbqO2k7rYGWhF.jpg",
+    "/oztneebJ4hne6Kz0pFpz4qmwjMu.jpg",
+    "/bwsSUHRQKRLkD32IdnKiNOcbDKt.jpg",
+    "/7JQjyIhndLuQsBgAjT6fWeVtugh.jpg"
+  ],
+  "trailerKey": "2KLZ4fSXtgI",
+  "genreIds": [
+    80,
+    53
+  ],
+  "keywordIds": [
+    10685,
+    6099,
+    6259,
+    2052,
+    4075,
+    10051,
+    9727,
+    10085,
+    11071,
+    10726,
+    157171,
+    157892,
+    171826,
+    177438,
+    188665,
+    200918,
+    232076,
+    268132,
+    314730,
+    325766
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Live Entertainment",
+    "Dog Eat Dog Productions"
+  ],
+  "crew": [
+    {
+      "personId": 2545,
+      "job": "producer"
+    },
+    {
+      "personId": 3115,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 138,
+      "job": "writer"
+    },
+    {
+      "personId": 138,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1037,
+      "character": "Mr. White / Larry Dimmick",
+      "order": 0
+    },
+    {
+      "personId": 3129,
+      "character": "Mr. Orange / Freddy Newandyke",
+      "order": 1
+    },
+    {
+      "personId": 147,
+      "character": "Mr. Blonde / Vic Vega",
+      "order": 2
+    },
+    {
+      "personId": 2969,
+      "character": "\"Nice Guy\" Eddie Cabot",
+      "order": 3
+    },
+    {
+      "personId": 884,
+      "character": "Mr. Pink",
+      "order": 4
+    },
+    {
+      "personId": 6937,
+      "character": "Joe Cabot",
+      "order": 5
+    },
+    {
+      "personId": 6938,
+      "character": "Detective Holdaway",
+      "order": 6
+    },
+    {
+      "personId": 3206,
+      "character": "Officer Marvin Nash",
+      "order": 7
+    },
+    {
+      "personId": 6939,
+      "character": "Mr. Blue",
+      "order": 8
+    },
+    {
+      "personId": 138,
+      "character": "Mr. Brown",
+      "order": 9
+    },
+    {
+      "personId": 46346,
+      "character": "Sheriff #1",
+      "order": 10
+    },
+    {
+      "personId": 1067187,
+      "character": "Sheriff #2",
+      "order": 11
+    },
+    {
+      "personId": 1287673,
+      "character": "Sheriff #3",
+      "order": 12
+    },
+    {
+      "personId": 65908,
+      "character": "Sheriff #4",
+      "order": 13
+    },
+    {
+      "personId": 271738,
+      "character": "Teddy",
+      "order": 14
+    },
+    {
+      "personId": 1173999,
+      "character": "Shot Cop",
+      "order": 15
+    },
+    {
+      "personId": 2545,
+      "character": "Young Cop",
+      "order": 16
+    },
+    {
+      "personId": 65907,
+      "character": "Shocked Woman",
+      "order": 17
+    },
+    {
+      "personId": 1878558,
+      "character": "Shot Woman",
+      "order": 18
+    },
+    {
+      "personId": 3214,
+      "character": "K-Billy DJ (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 15973,
+  "sources": [
+    "cult-list"
+  ]
+}

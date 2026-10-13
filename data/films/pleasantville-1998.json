@@ -1,0 +1,202 @@
+{
+  "tmdbId": 2657,
+  "slug": "pleasantville-1998",
+  "year": 1998,
+  "runtime": 124,
+  "originalTitle": "Pleasantville",
+  "title": {
+    "en": "Pleasantville",
+    "tr": "Yaşamın Renkleri"
+  },
+  "overview": {
+    "en": "Geeky teenager David and his popular twin sister, Jennifer, get sucked into the black-and-white world of a 1950s TV sitcom called \"Pleasantville,\" and find a world where everything is peachy keen all the time. But when Jennifer's modern attitude disrupts Pleasantville's peaceful but boring routine, she literally brings color into its life.",
+    "tr": "Pleasantville, siyah-beyaz tonların egemenliğindeki, küçük ve kendine yeten bir kasabadır. Kasabanın insanları müthiş bir ahenk ile birbirlerine bağlıdırlar. Bu kasabada asla kötülük hüküm sürmeyecek gibidir. Ancak ortada bir problem vardır: Pleasantville, bir televizyon dizisinin kurguladığı bir kasabadır. David ise bir 90’lar çocuğudur. Hayatına dair en büyük hobisi Pleasantville’i izlemek ve dizi hakkındaki her şeyi bilmektir. Bir gün esrarengiz bir televizyon tamircisi, David’in evine tuhaf bir televizyon kumandası bırakır. David, bu kumanda sayesinde ablası Jennifer’ı da yanlışlıkla yanına alarak Pleasantville’in içerisine girmeyi başaracaktır. Gary Ross’un özellikle teknik dallarda Oscar’a aday olan filmi büyük bir beğeni toplayıp kült mertebesine ulaşmıştı. Filmin başrollerinde ise Tobey Maguire, Reese Witherspoon, Jeff Daniels, William H. Macy ve Joan Allen gibi ünlü simaları görmek mümkün."
+  },
+  "poster": {
+    "tr": "/sjnRihb0OdmtD5GBe5lfdfBjSxo.jpg",
+    "en": "/m1hhYP6OScjKU5Z9iZaWirSn4I6.jpg"
+  },
+  "backdrops": [
+    "/kYRMXDkV9cZO7xeuSzMvsyky8EK.jpg",
+    "/vft46ewuQqbxGbruSOPculy5qk6.jpg",
+    "/8RqsaHumdAljcG19boBq0Rzb6Qz.jpg",
+    "/7QBLrVAm3nb5Tvv8w9cRx0MhY39.jpg",
+    "/8sf7q8OlZLl7OVhTdYjz1vsFr5v.jpg",
+    "/yPmLNEl9tC9RBO5c95L2R67uxGR.jpg",
+    "/hhgoS2FfEGtmiBILYfVn8GS1se2.jpg",
+    "/dbAZUbjexbuvrfWfkyb3a7iGzTO.jpg",
+    "/d4HBRFTCekhmmpa3imZfUAM2yTD.jpg",
+    "/vJ3OVdqkgg7hFvVPYXxX3KVhxo7.jpg"
+  ],
+  "trailerKey": "Q-4pnXcqyt0",
+  "genreIds": [
+    14,
+    35,
+    18
+  ],
+  "keywordIds": [
+    380,
+    4565,
+    10738,
+    8201,
+    5737,
+    10683,
+    12425,
+    12999,
+    14558,
+    18298,
+    33451,
+    156597,
+    175629,
+    208611,
+    233932
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New Line Cinema",
+    "Larger Than Life Productions",
+    "Juno Pix"
+  ],
+  "crew": [
+    {
+      "personId": 23964,
+      "job": "director"
+    },
+    {
+      "personId": 1884,
+      "job": "producer"
+    },
+    {
+      "personId": 4446,
+      "job": "producer"
+    },
+    {
+      "personId": 7885,
+      "job": "composer"
+    },
+    {
+      "personId": 23969,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 23964,
+      "job": "writer"
+    },
+    {
+      "personId": 23964,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2219,
+      "character": "David",
+      "order": 0
+    },
+    {
+      "personId": 368,
+      "character": "Jennifer",
+      "order": 1
+    },
+    {
+      "personId": 3905,
+      "character": "George Parker",
+      "order": 2
+    },
+    {
+      "personId": 11148,
+      "character": "Betty Parker",
+      "order": 3
+    },
+    {
+      "personId": 8447,
+      "character": "Mr. Johnson",
+      "order": 4
+    },
+    {
+      "personId": 22131,
+      "character": "Big Bob",
+      "order": 5
+    },
+    {
+      "personId": 8167,
+      "character": "Skip",
+      "order": 6
+    },
+    {
+      "personId": 27726,
+      "character": "TV Repairman",
+      "order": 7
+    },
+    {
+      "personId": 6407,
+      "character": "Margaret Henderson",
+      "order": 8
+    },
+    {
+      "personId": 27725,
+      "character": "David's Mom",
+      "order": 9
+    },
+    {
+      "personId": 4133,
+      "character": "Howard",
+      "order": 10
+    },
+    {
+      "personId": 91415,
+      "character": "Christin",
+      "order": 11
+    },
+    {
+      "personId": 27727,
+      "character": "Kimmy",
+      "order": 12
+    },
+    {
+      "personId": 23970,
+      "character": "Health Teacher",
+      "order": 13
+    },
+    {
+      "personId": 148632,
+      "character": "Science Teacher",
+      "order": 14
+    },
+    {
+      "personId": 1914802,
+      "character": "College Counselor",
+      "order": 15
+    },
+    {
+      "personId": 79582,
+      "character": "Bud Parker",
+      "order": 16
+    },
+    {
+      "personId": 43446,
+      "character": "Mary Sue Parker",
+      "order": 17
+    },
+    {
+      "personId": 1236103,
+      "character": "Mark Davis",
+      "order": 18
+    },
+    {
+      "personId": 21633,
+      "character": "Mark's Lackey #1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1987,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "tmdbId": 63100,
+  "slug": "psych-out-1968",
+  "year": 1968,
+  "runtime": 101,
+  "originalTitle": "Psych-Out",
+  "title": {
+    "en": "Psych-Out",
+    "tr": "Psych-Out"
+  },
+  "overview": {
+    "en": "Jenny, a deaf runaway who has just arrived in San Francisco's Haight-Ashbury district to find her long-lost brother, a mysterious bearded sculptor known around town as The Seeker. She falls in with a psychedelic band, Mumblin' Jim, whose members include Stoney, Ben, and Elwood. They hide her from the fuzz in their crash pad, a Victorian house crowded with love beads and necking couples. Mumblin' Jim's truth-seeking friend Dave considers the band's pursuit of success \"playing games,\" but he agrees to help Jennie anyway.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gl0waHdQJkcP7TxjPl4V8jeduI4.jpg",
+    "en": "/sUEOJDfSEjoba3xLuOSQiv9tGlB.jpg"
+  },
+  "backdrops": [
+    "/aM6IxzEuU4A5vUS2PbMYs90jNvS.jpg",
+    "/unBkTldkgNuw0iBf2g7wRI6EDff.jpg",
+    "/o3ujllK4ulmxYlStRzgdFvTr5Sb.jpg",
+    "/oeO1cIY4Xg0Yyvn5dqMV5M8GHun.jpg",
+    "/4qIl9gQZpLHxFl4sauqoy4tYrPk.jpg",
+    "/aajxhTQptJedh0qUlF4vQ7XasYk.jpg",
+    "/r4QWt08j1RHzaUo4TMJlvSlBDMp.jpg",
+    "/gcpl4dlClX78Sfwfzn0Qz8x7daA.jpg",
+    "/yiN1P96PURdR6eAFqhGCf3PRl3g.jpg",
+    "/g8gbQLlhAxgHGSBVX5ZV8H2AGcr.jpg"
+  ],
+  "trailerKey": "NMtEdSelV4c",
+  "genreIds": [
+    18,
+    53,
+    10402
+  ],
+  "keywordIds": [
+    708,
+    5498,
+    11660,
+    10776,
+    18001,
+    208298,
+    213106,
+    248210,
+    258321,
+    335375,
+    335376,
+    335377
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "American International Pictures",
+    "Dick Clark Productions"
+  ],
+  "crew": [
+    {
+      "personId": 21806,
+      "job": "director"
+    },
+    {
+      "personId": 46433,
+      "job": "producer"
+    },
+    {
+      "personId": 79920,
+      "job": "producer"
+    },
+    {
+      "personId": 8862,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2842753,
+      "job": "writer"
+    },
+    {
+      "personId": 190155,
+      "job": "writer"
+    },
+    {
+      "personId": 91999,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30043,
+      "character": "Jennie Davis",
+      "order": 0
+    },
+    {
+      "personId": 923,
+      "character": "Dave",
+      "order": 1
+    },
+    {
+      "personId": 514,
+      "character": "Stoney",
+      "order": 2
+    },
+    {
+      "personId": 6905,
+      "character": "Steve Davis",
+      "order": 3
+    },
+    {
+      "personId": 39770,
+      "character": "Ben",
+      "order": 4
+    },
+    {
+      "personId": 92036,
+      "character": "Elwood",
+      "order": 5
+    },
+    {
+      "personId": 117075,
+      "character": "Warren",
+      "order": 6
+    },
+    {
+      "personId": 24322,
+      "character": "Lynn",
+      "order": 7
+    },
+    {
+      "personId": 1201,
+      "character": "Plainclothesman",
+      "order": 8
+    },
+    {
+      "personId": 45634,
+      "character": "Thug's Leader",
+      "order": 9
+    },
+    {
+      "personId": 86392,
+      "character": "Jimi Hendrix",
+      "order": 10
+    },
+    {
+      "personId": 1115083,
+      "character": "Minister (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 3873798,
+      "character": "(uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 123530,
+      "character": "Pandora",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 41,
+  "sources": [
+    "cult-list"
+  ]
+}

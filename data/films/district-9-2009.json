@@ -1,0 +1,217 @@
+{
+  "tmdbId": 17654,
+  "slug": "district-9-2009",
+  "year": 2009,
+  "runtime": 112,
+  "originalTitle": "District 9",
+  "title": {
+    "en": "District 9",
+    "tr": "Yasak Bölge 9"
+  },
+  "overview": {
+    "en": "Thirty years ago, aliens arrive on Earth. Not to conquer or give aid, but to find refuge from their dying planet. Separated from humans in a South African area called District 9, the aliens are managed by Multi-National United, which is unconcerned with the aliens' welfare but will do anything to master their advanced technology. When a company field agent contracts a mysterious virus that begins to alter his DNA, there is only one place he can hide: District 9.",
+    "tr": "1982 yılında hayatta kalan son uzaylılar, hayatta kalabilmek için dünyayı seçerler. Güney Afrika'nın bir gölgesine yerleşen uzaylılar çok geçmeden bir araştırma ekibi tarafından keşfedilirler. MNU isimli özel bir şirketin gözetimi altında tutulan uzaylılar, District 9 isimli bir bölgeye yerleştirilirler. Bu şirketin yetkilileri uzaylıların teknolojisinin sırlarını öğrenip uygulamayı, böylece de muazzam paralar kazanma peşindedir. Bunun için gerekli olan şey ise uzaylı DNA'sıdır. MNU çalışanı Wikus van der Merwe esrarengiz bir virüs tarafından saldırıya uğrar ve uzaylılara benzemeye başlar. Şirket şimdi kendi çalışanının peşine düşecek, Merwe ise tek sığınabileceği yer olan District 9'a doğru yola çıkacaktır..."
+  },
+  "poster": {
+    "tr": "/vA59Uw42niTKjr1r0fzE0273WpJ.jpg",
+    "en": "/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg"
+  },
+  "backdrops": [
+    "/jhM3wgWUrrOkz9r4xwV5cV5RhI4.jpg",
+    "/4Zi5RbM8RnCzLxBEasXBtEODPk9.jpg",
+    "/sRP9iWnygnfvTlXCwsaZLXRzhuh.jpg",
+    "/vR5aTnCCnBrHY33E4robIUmJ4nN.jpg",
+    "/xIZSUw20iG52oaHo6Mds9EF7OK9.jpg",
+    "/3EruKzsOgX0VJrxwM1JE9geZlSS.jpg",
+    "/nSgVaWumQ6eECPy289TOF3rTxeI.jpg",
+    "/zXLiT34gAeWuM6OAh4KY5sUfTVu.jpg",
+    "/lMNXxbyB8tRchB8OGns4jmwD86z.jpg",
+    "/zy0AklzYFDO3VDBcOgaL8DbX3p3.jpg"
+  ],
+  "trailerKey": "_BjWEn5yvmw",
+  "genreIds": [
+    878
+  ],
+  "keywordIds": [
+    542,
+    6086,
+    6017,
+    100,
+    2766,
+    4565,
+    4375,
+    3644,
+    4339,
+    8201,
+    9951,
+    10650,
+    12026,
+    12425,
+    158276,
+    160910,
+    163053,
+    191794,
+    195139,
+    231277,
+    233016,
+    244949,
+    250163,
+    268132,
+    365923
+  ],
+  "countries": [
+    "NZ",
+    "ZA",
+    "US"
+  ],
+  "languages": [
+    "af",
+    "ny",
+    "st",
+    "xh",
+    "zu",
+    "en"
+  ],
+  "studios": [
+    "TriStar Pictures",
+    "Block / Hanson",
+    "WingNut Films"
+  ],
+  "crew": [
+    {
+      "personId": 967026,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 108,
+      "job": "producer"
+    },
+    {
+      "personId": 82194,
+      "job": "director"
+    },
+    {
+      "personId": 3506,
+      "job": "producer"
+    },
+    {
+      "personId": 62908,
+      "job": "composer"
+    },
+    {
+      "personId": 82194,
+      "job": "writer"
+    },
+    {
+      "personId": 82195,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 82191,
+      "character": "Wikus van de Merwe",
+      "order": 0
+    },
+    {
+      "personId": 82193,
+      "character": "Christopher Johnson / Grey Bradnam / Trent",
+      "order": 1
+    },
+    {
+      "personId": 97599,
+      "character": "Sarah Livingstone - Sociologist",
+      "order": 2
+    },
+    {
+      "personId": 230818,
+      "character": "Dr Katrina McKenzie",
+      "order": 3
+    },
+    {
+      "personId": 1086505,
+      "character": "Interviewee",
+      "order": 4
+    },
+    {
+      "personId": 3495,
+      "character": "Les Feldman - MIL Engineer",
+      "order": 5
+    },
+    {
+      "personId": 53087,
+      "character": "Dirk Michaels",
+      "order": 6
+    },
+    {
+      "personId": 240024,
+      "character": "Francois Moraneu - CIV Engineer Team",
+      "order": 7
+    },
+    {
+      "personId": 1029046,
+      "character": "Interviewer",
+      "order": 8
+    },
+    {
+      "personId": 82190,
+      "character": "Ross Pienaar",
+      "order": 9
+    },
+    {
+      "personId": 82192,
+      "character": "Tania van de Merwe",
+      "order": 10
+    },
+    {
+      "personId": 1086506,
+      "character": "Interviewee",
+      "order": 11
+    },
+    {
+      "personId": 1086507,
+      "character": "Interviewee",
+      "order": 12
+    },
+    {
+      "personId": 1086508,
+      "character": "Interviewee",
+      "order": 13
+    },
+    {
+      "personId": 1086509,
+      "character": "Interviewee",
+      "order": 14
+    },
+    {
+      "personId": 173451,
+      "character": "James Hope - Police Officer",
+      "order": 15
+    },
+    {
+      "personId": 967456,
+      "character": "Piet Smit",
+      "order": 16
+    },
+    {
+      "personId": 967457,
+      "character": "Sandra van de Merwe",
+      "order": 17
+    },
+    {
+      "personId": 967458,
+      "character": "Michael Bloemstein - MNU Alien Civil Affairs",
+      "order": 18
+    },
+    {
+      "personId": 1073473,
+      "character": "MNU Doctor",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 10779,
+  "sources": [
+    "cult-list"
+  ]
+}

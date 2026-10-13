@@ -1,0 +1,207 @@
+{
+  "tmdbId": 13820,
+  "slug": "repo-man-1984",
+  "year": 1984,
+  "runtime": 92,
+  "originalTitle": "Repo Man",
+  "title": {
+    "en": "Repo Man",
+    "tr": "Zorlu Yarış"
+  },
+  "overview": {
+    "en": "A down and out young punk gets a job working with a seasoned repo man, but what awaits him in his new career is a series of outlandish adventures revolving around aliens, the CIA, and a most wanted '64 Chevy.",
+    "tr": "Repo Man nedir? Yasadışı bir suç örgütü müdür? Ya da \"punk hayat tarzı\" yaşamayı seçen gençler için en münasip bir meslek midir? Otto'ya sorarsanız ikinci şıktır. Otto, alternatif hayat tarzıyla en uyumlu işi idame ettirmektedir: Oto hırsızlığı! En az kendisi kadar \"pislik\" arkadaşı Bud'ın önerisiyle girdiği bu yol, kentte aynı mesleği paylaştığı diğer Repo Man'ler ile gireceği rekabet ile giderek hızlanır. Ancak 1964 model bir Chevrolet Malibu arayan Bud ve Otto'yu bir sürpriz beklemektedir. Ayrıca araba, FBI ajanı bir kadın ve ekibi tarafından da aranmaktadır."
+  },
+  "poster": {
+    "tr": "/bjuu5UceuVUNUjnOC2fBzL3hZKC.jpg",
+    "en": "/9xsOilxwYiaYg2Bjbdf2fkGVwTG.jpg"
+  },
+  "backdrops": [
+    "/hsNjq0tU8pXEdKeDTNDoYXvvYVB.jpg",
+    "/koWJdu2Yi7craMPUhgc8l5qO0gc.jpg",
+    "/5K5oPo1NJrAVUeaPzcXFH13Xplo.jpg",
+    "/hzQ5k4NrwjafVCWSHG8r6wjEfSE.jpg",
+    "/kLuQg6sHBiXSjVvVrHCWeXiXhAi.jpg",
+    "/p8dOn15Km28pjPwxyfwKwIwmkfL.jpg",
+    "/xoPFmvBGycoksXIjUlbevFUYhXD.jpg",
+    "/d3Gq3mzNbwVngLwuq3K1FXZObWg.jpg",
+    "/2F9zQDXdhJ6xfbyMMVSgY7vc0GC.jpg",
+    "/sd6B6Ec67nRP40VLe57vpnbvgN1.jpg"
+  ],
+  "trailerKey": "NK8ETgSLRpA",
+  "genreIds": [
+    35,
+    878
+  ],
+  "keywordIds": [
+    6149,
+    592,
+    10123,
+    4470,
+    8201,
+    9887,
+    9951,
+    9741,
+    3681,
+    9738,
+    10410,
+    10907,
+    12670,
+    14760,
+    160327,
+    164861,
+    183573,
+    208289,
+    225012,
+    303822,
+    309974,
+    331608
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Edge City Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1632,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 31493,
+      "job": "director"
+    },
+    {
+      "personId": 196769,
+      "job": "producer"
+    },
+    {
+      "personId": 1017996,
+      "job": "producer"
+    },
+    {
+      "personId": 1017998,
+      "job": "composer"
+    },
+    {
+      "personId": 31493,
+      "job": "writer"
+    },
+    {
+      "personId": 53763,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2880,
+      "character": "Otto Maddox",
+      "order": 0
+    },
+    {
+      "personId": 5048,
+      "character": "Bud",
+      "order": 1
+    },
+    {
+      "personId": 3801,
+      "character": "Miller",
+      "order": 2
+    },
+    {
+      "personId": 65554,
+      "character": "Leila",
+      "order": 3
+    },
+    {
+      "personId": 58623,
+      "character": "Lite",
+      "order": 4
+    },
+    {
+      "personId": 104059,
+      "character": "Agent Rogersz",
+      "order": 5
+    },
+    {
+      "personId": 97701,
+      "character": "J. Frank Parnell",
+      "order": 6
+    },
+    {
+      "personId": 154713,
+      "character": "Oly",
+      "order": 7
+    },
+    {
+      "personId": 100062,
+      "character": "Lagarto",
+      "order": 8
+    },
+    {
+      "personId": 88031,
+      "character": "Napo",
+      "order": 9
+    },
+    {
+      "personId": 99404,
+      "character": "Kevin",
+      "order": 10
+    },
+    {
+      "personId": 58629,
+      "character": "Debbi",
+      "order": 11
+    },
+    {
+      "personId": 58622,
+      "character": "Duke",
+      "order": 12
+    },
+    {
+      "personId": 30488,
+      "character": "Archie",
+      "order": 13
+    },
+    {
+      "personId": 6780,
+      "character": "Marlene",
+      "order": 14
+    },
+    {
+      "personId": 47771,
+      "character": "Plettschner",
+      "order": 15
+    },
+    {
+      "personId": 1018001,
+      "character": "Reverend Larry",
+      "order": 16
+    },
+    {
+      "personId": 42525,
+      "character": "Ms. Magruder",
+      "order": 17
+    },
+    {
+      "personId": 111872,
+      "character": "Mrs. Parks",
+      "order": 18
+    },
+    {
+      "personId": 98241,
+      "character": "Repo Wife #2",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 720,
+  "sources": [
+    "cult-list"
+  ]
+}

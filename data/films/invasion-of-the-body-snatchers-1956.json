@@ -1,0 +1,204 @@
+{
+  "tmdbId": 11549,
+  "slug": "invasion-of-the-body-snatchers-1956",
+  "year": 1956,
+  "runtime": 80,
+  "originalTitle": "Invasion of the Body Snatchers",
+  "title": {
+    "en": "Invasion of the Body Snatchers",
+    "tr": "Merihten Saldıranlar"
+  },
+  "overview": {
+    "en": "A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.",
+    "tr": "Kaliforniya'nın küçük bir yerleşimi olan Santa Mira'nın sakinleri, bir süredir yakınlarının tuhaf davranışlar göstermesinden şikayetçidir. Doktor Miles Bennell olayı soğukkanlılıkla araştırmaya başlar. Mantıklı bir adam olan doktorun ilk başlardaki kuşkucu tavırları, kaçınılmaz gerçeğe yaklaştıkça yerini panik ve dehşete bırakır. Zira tüm işaretler, uzak bir gezegenden gelen bitkisel bir takım istilacıların, insanların vücutlarını yok ederek onların yerini almaya başladığını göstermektedir.  Santa Miralıların çoğu uykudayken, uzaylı taklitleriyle değiştirilmektedirler. Üstelik artık uzaylılar çoğunlukta olduklarından, kimin gerçek kimin taklit olduğunu anlamanın mümkün olmadığı bir kaos başlamıştır. İnsanlık için hiç umut yoktur..."
+  },
+  "poster": {
+    "tr": "/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg",
+    "en": "/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg"
+  },
+  "backdrops": [
+    "/1qG8TfiE5mCMdaqrFioaGmhBrpY.jpg",
+    "/iBBrxUMwfEfF10kYclWuuaAhRnq.jpg",
+    "/hCqWCdZsGMmPkEmlqDDKD4pPa00.jpg",
+    "/hEOOqvdqvqrhxLYv1OGutmR3v1p.jpg",
+    "/nShxMuF04nA9m4FXYtyek6OzLH5.jpg",
+    "/ntODMsZ4OFeBANcV9VHuxrlYcLp.jpg",
+    "/qcLHMO01oECjbL8MUPRXsLOMFhx.jpg",
+    "/5N7PWxLSWhUbBgDRekEJbRxoXYj.jpg",
+    "/vBtpDxP2Figfqq3gskD741azA9X.jpg",
+    "/z7WGTQceKT50SXxAoFPnEDhXUFh.jpg"
+  ],
+  "trailerKey": "9SqN8wHry2M",
+  "genreIds": [
+    878,
+    27,
+    53
+  ],
+  "keywordIds": [
+    1415,
+    818,
+    9951,
+    12999,
+    13005,
+    14781,
+    14909,
+    15106,
+    15250,
+    160274,
+    161891,
+    190621,
+    191331,
+    200054,
+    215861,
+    240429,
+    316832,
+    320130,
+    321464,
+    362297
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Allied Artists Pictures",
+    "Walter Wanger Productions"
+  ],
+  "crew": [
+    {
+      "personId": 14773,
+      "job": "director"
+    },
+    {
+      "personId": 10147,
+      "job": "writer"
+    },
+    {
+      "personId": 69812,
+      "job": "writer"
+    },
+    {
+      "personId": 69813,
+      "job": "composer"
+    },
+    {
+      "personId": 69814,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7646,
+      "job": "producer"
+    },
+    {
+      "personId": 14773,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 34597,
+      "character": "Dr. Miles J. Bennell",
+      "order": 0
+    },
+    {
+      "personId": 69810,
+      "character": "Becky Driscoll",
+      "order": 1
+    },
+    {
+      "personId": 69811,
+      "character": "Jack Belicec",
+      "order": 2
+    },
+    {
+      "personId": 19109,
+      "character": "Theodora 'Teddy' Belicec",
+      "order": 3
+    },
+    {
+      "personId": 3640,
+      "character": "Dr. Dan 'Danny' Kauffman",
+      "order": 4
+    },
+    {
+      "personId": 101483,
+      "character": "Stanley Driscoll",
+      "order": 5
+    },
+    {
+      "personId": 101481,
+      "character": "Wilma Lentz",
+      "order": 6
+    },
+    {
+      "personId": 101479,
+      "character": "Nurse Sally Withers",
+      "order": 7
+    },
+    {
+      "personId": 83801,
+      "character": "Police Chief Nick Grivett",
+      "order": 8
+    },
+    {
+      "personId": 101484,
+      "character": "Officer Sam Janzek",
+      "order": 9
+    },
+    {
+      "personId": 170573,
+      "character": "Jimmy Grimaldi",
+      "order": 10
+    },
+    {
+      "personId": 1489284,
+      "character": "Grandma Grimaldi",
+      "order": 11
+    },
+    {
+      "personId": 13786,
+      "character": "Emergency Room Psychiatrist",
+      "order": 12
+    },
+    {
+      "personId": 80206,
+      "character": "Emergency Room Doctor (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 89661,
+      "character": "Ambulance Attendant",
+      "order": 14
+    },
+    {
+      "personId": 184619,
+      "character": "Restaurant Owner",
+      "order": 15
+    },
+    {
+      "personId": 1137031,
+      "character": "Anne Grimaldi",
+      "order": 16
+    },
+    {
+      "personId": 83623,
+      "character": "Uncle Ira Lentz",
+      "order": 17
+    },
+    {
+      "personId": 1045645,
+      "character": "Eleda Lentz",
+      "order": 18
+    },
+    {
+      "personId": 179352,
+      "character": "Dr. Ed Pursey",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1257,
+  "sources": [
+    "cult-list"
+  ]
+}

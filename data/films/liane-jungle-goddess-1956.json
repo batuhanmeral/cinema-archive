@@ -1,0 +1,105 @@
+{
+  "tmdbId": 96509,
+  "slug": "liane-jungle-goddess-1956",
+  "year": 1956,
+  "runtime": 88,
+  "originalTitle": "Liane, das Mädchen aus dem Urwald",
+  "title": {
+    "en": "Liane, Jungle Goddess",
+    "tr": "Liane, das Mädchen aus dem Urwald"
+  },
+  "overview": {
+    "en": "Researchers in the African jungle find a young white woman living with a tribe, that adores her as goddess. They carry her off and proudly report to the press. It turns out that she may be Liane, the long lost daughter of the rich shipowner Amelongen. So Toren starts civilizing her and takes her to Germany, where she - now in love with Toren - has to defend herself against accusations of legacy-hunting. Will she fit into her new society?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/sk8PVg6jT6bqeewgMHiHRwzUbdO.jpg",
+    "en": "/sk8PVg6jT6bqeewgMHiHRwzUbdO.jpg"
+  },
+  "backdrops": [
+    "/rRw98u1qhCQlY0AfmjkWOGHO34R.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    12
+  ],
+  "keywordIds": [
+    409,
+    2043,
+    10787,
+    209893
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Arca-Filmproduktion"
+  ],
+  "crew": [
+    {
+      "personId": 1193299,
+      "job": "director"
+    },
+    {
+      "personId": 1300833,
+      "job": "writer"
+    },
+    {
+      "personId": 38263,
+      "job": "producer"
+    },
+    {
+      "personId": 32578,
+      "job": "composer"
+    },
+    {
+      "personId": 48332,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 48198,
+      "character": "Liane",
+      "order": 0
+    },
+    {
+      "personId": 37777,
+      "character": "Thoren",
+      "order": 1
+    },
+    {
+      "personId": 818598,
+      "character": "Dr. Jacqueline Goddard",
+      "order": 2
+    },
+    {
+      "personId": 46115,
+      "character": "Tibor Teleky",
+      "order": 3
+    },
+    {
+      "personId": 37675,
+      "character": "Theo Amelongen",
+      "order": 4
+    },
+    {
+      "personId": 15972,
+      "character": "Viktor Schöninck",
+      "order": 5
+    },
+    {
+      "personId": 46516,
+      "character": "Prof. Danner",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 18,
+  "sources": [
+    "cult-list"
+  ]
+}

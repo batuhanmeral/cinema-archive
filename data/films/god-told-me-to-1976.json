@@ -1,0 +1,184 @@
+{
+  "tmdbId": 31579,
+  "slug": "god-told-me-to-1976",
+  "year": 1976,
+  "runtime": 90,
+  "originalTitle": "God Told Me To",
+  "title": {
+    "en": "God Told Me To",
+    "tr": "God Told Me To"
+  },
+  "overview": {
+    "en": "A New York detective investigates a series of murders committed by random citizens who claim that 'God told them to'.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/nbUjhJGCuSiDiMaNJs2kCtTL7ag.jpg",
+    "en": "/bHS1seNvS4A6tJMbCL7sc8jBvDs.jpg"
+  },
+  "backdrops": [
+    "/iwofDzCRPeARFnT27GzhQtlkPe7.jpg",
+    "/lROocFe9RbTlOEHUU29AGH7KgWF.jpg",
+    "/bJLbFDrUOASkPoUeDOX0UdFE7TD.jpg",
+    "/wlT03mQsefh8eYLrkespbQUAVkW.jpg",
+    "/dLoHSSQgPmEQ8A3DHaHbRchwTII.jpg",
+    "/6NjmEjNN7SBJ8Pt65XNKVTYXSxF.jpg",
+    "/eIlW0wN6R8q7iImhIhyabS61BPR.jpg",
+    "/i8KEUwGMUQ5zJrZl1iY1HNgNISX.jpg",
+    "/aThZlBN5GzyEV0Bu5exy9CqaIsD.jpg"
+  ],
+  "trailerKey": "dllpA8oTG6o",
+  "genreIds": [
+    53,
+    878,
+    80,
+    27,
+    9648
+  ],
+  "keywordIds": [
+    242,
+    703
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Larco Productions"
+  ],
+  "crew": [
+    {
+      "personId": 19266,
+      "job": "director"
+    },
+    {
+      "personId": 104767,
+      "job": "composer"
+    },
+    {
+      "personId": 19266,
+      "job": "writer"
+    },
+    {
+      "personId": 19266,
+      "job": "producer"
+    },
+    {
+      "personId": 30682,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 102429,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15183,
+      "character": "Peter J. Nicholas",
+      "order": 0
+    },
+    {
+      "personId": 87120,
+      "character": "Casey Forster",
+      "order": 1
+    },
+    {
+      "personId": 18365,
+      "character": "Martha Nicholas",
+      "order": 2
+    },
+    {
+      "personId": 528,
+      "character": "Elizabeth Mullin",
+      "order": 3
+    },
+    {
+      "personId": 14574,
+      "character": "Everett Lukas",
+      "order": 4
+    },
+    {
+      "personId": 13872,
+      "character": "David Morten",
+      "order": 5
+    },
+    {
+      "personId": 50762,
+      "character": "Deputy Commissioner",
+      "order": 6
+    },
+    {
+      "personId": 97878,
+      "character": "Bernard Phillips",
+      "order": 7
+    },
+    {
+      "personId": 1672669,
+      "character": "Harold Gorman",
+      "order": 8
+    },
+    {
+      "personId": 1431600,
+      "character": "Mrs. Gorman",
+      "order": 9
+    },
+    {
+      "personId": 98163,
+      "character": "Richards",
+      "order": 10
+    },
+    {
+      "personId": 1225450,
+      "character": "Board Chairman",
+      "order": 11
+    },
+    {
+      "personId": 69026,
+      "character": "Cookie",
+      "order": 12
+    },
+    {
+      "personId": 105032,
+      "character": "Zero",
+      "order": 13
+    },
+    {
+      "personId": 1431601,
+      "character": "Junkie",
+      "order": 14
+    },
+    {
+      "personId": 171056,
+      "character": "Bramwell",
+      "order": 15
+    },
+    {
+      "personId": 1286376,
+      "character": "Bramwell as a Youth",
+      "order": 16
+    },
+    {
+      "personId": 12357,
+      "character": "Fletcher",
+      "order": 17
+    },
+    {
+      "personId": 164653,
+      "character": "Police Assassin",
+      "order": 18
+    },
+    {
+      "personId": 33833,
+      "character": "Detective Squad",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 168,
+  "sources": [
+    "cult-list"
+  ]
+}

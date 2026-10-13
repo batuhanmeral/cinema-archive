@@ -1,0 +1,202 @@
+{
+  "tmdbId": 88,
+  "slug": "dirty-dancing-1987",
+  "year": 1987,
+  "runtime": 100,
+  "originalTitle": "Dirty Dancing",
+  "title": {
+    "en": "Dirty Dancing",
+    "tr": "İlk Aşk, İlk Dans"
+  },
+  "overview": {
+    "en": "Expecting the usual tedium that accompanies a summer in the Catskills with her family, 17-year-old Frances 'Baby' Houseman is surprised to find herself stepping into the shoes of a professional hoofer—and unexpectedly falling in love.",
+    "tr": "Amerika... 1963 yazı... Catskill Dağları'nda bir yaz kampında dans öğretmenliği yapmakta olan yakışıklı Johnny Castle, iş dışında kalan vakitlerinde diğer dansçılarla dans etmektedir. Kampta ablası ve ailesi ile beraber tatil yapmakta olan ve \"Baby\" olarak tanınan genç bir kız kendisine eğlence aramaktadır. Gerçekleşen büyük tesadüflerin de yardımıyla Baby, Johnny'e aşık olur ve zamanla onun hem sevgilisi hem de dans partneri olur."
+  },
+  "poster": {
+    "tr": "/sSgZEboH3345O8y1hPKVyQdstDG.jpg",
+    "en": "/47sA6jDlm8NgbWgS9lB9EXNrTZ6.jpg"
+  },
+  "backdrops": [
+    "/6iDQCBUSZKzY8Rnu8ECwl2gXcfG.jpg",
+    "/qpT6j1PvpkqYwPHvPpdy4XgtjYj.jpg",
+    "/tNx3lrLMhdMRm9LdvR6U9UhnuJo.jpg",
+    "/fTtyPlquRgRuq0vHzk47fgHubmX.jpg",
+    "/yJ3Mmr4m9TVUZTbWWfWBK0XTZ8.jpg",
+    "/vHm1Yexl3hDZGlMticd8lS9cMef.jpg",
+    "/A1JpfEKuaUcRvzSNinv2iEJnMaj.jpg",
+    "/zPdii5qGiMNfMbioUzOKfKeQSrm.jpg",
+    "/3TJo5DxohNKQGBghxa39ADqVFSJ.jpg",
+    "/oPrYellfvZK3opbvlWgFKv0UbV2.jpg"
+  ],
+  "trailerKey": "0rzsa_KEoKs",
+  "genreIds": [
+    18,
+    10402,
+    10749
+  ],
+  "keywordIds": [
+    612,
+    5600,
+    246,
+    7879,
+    642,
+    380,
+    5767,
+    1342,
+    1343,
+    1346,
+    10683,
+    10791,
+    10809,
+    13005,
+    14514,
+    33694,
+    41260,
+    200129,
+    226861,
+    259376,
+    325773
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Great American Films Limited Partnership",
+    "Vestron Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 716,
+      "job": "director"
+    },
+    {
+      "personId": 718,
+      "job": "producer"
+    },
+    {
+      "personId": 719,
+      "job": "composer"
+    },
+    {
+      "personId": 720,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 717,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 722,
+      "character": "Baby Houseman",
+      "order": 0
+    },
+    {
+      "personId": 723,
+      "character": "Johnny Castle",
+      "order": 1
+    },
+    {
+      "personId": 725,
+      "character": "Jake Houseman",
+      "order": 2
+    },
+    {
+      "personId": 724,
+      "character": "Penny Johnson",
+      "order": 3
+    },
+    {
+      "personId": 726,
+      "character": "Max Kellerman",
+      "order": 4
+    },
+    {
+      "personId": 727,
+      "character": "Lisa Houseman",
+      "order": 5
+    },
+    {
+      "personId": 728,
+      "character": "Marjorie Houseman",
+      "order": 6
+    },
+    {
+      "personId": 729,
+      "character": "Neil Kellerman",
+      "order": 7
+    },
+    {
+      "personId": 730,
+      "character": "Robbie Gould",
+      "order": 8
+    },
+    {
+      "personId": 4198,
+      "character": "Tito Suarez",
+      "order": 9
+    },
+    {
+      "personId": 4199,
+      "character": "Billy Kostecki",
+      "order": 10
+    },
+    {
+      "personId": 4200,
+      "character": "Magician",
+      "order": 11
+    },
+    {
+      "personId": 4201,
+      "character": "Stan",
+      "order": 12
+    },
+    {
+      "personId": 734,
+      "character": "Mrs. Schumacher",
+      "order": 13
+    },
+    {
+      "personId": 733,
+      "character": "Mr. Schumacher",
+      "order": 14
+    },
+    {
+      "personId": 4202,
+      "character": "Vivian Pressman",
+      "order": 15
+    },
+    {
+      "personId": 4203,
+      "character": "Moe Pressman",
+      "order": 16
+    },
+    {
+      "personId": 4204,
+      "character": "Staff Kid",
+      "order": 17
+    },
+    {
+      "personId": 4205,
+      "character": "Bus Boy",
+      "order": 18
+    },
+    {
+      "personId": 4208,
+      "character": "Dirty Dancer",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "golden-globe": 1,
+    "oscar": 1
+  },
+  "voteCount": 6732,
+  "sources": [
+    "cult-list"
+  ]
+}

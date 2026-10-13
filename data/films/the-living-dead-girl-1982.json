@@ -1,0 +1,116 @@
+{
+  "tmdbId": 77010,
+  "slug": "the-living-dead-girl-1982",
+  "year": 1982,
+  "runtime": 86,
+  "originalTitle": "La morte vivante",
+  "title": {
+    "en": "The Living Dead Girl",
+    "tr": "La morte vivante"
+  },
+  "overview": {
+    "en": "A toxic spill revives a beautiful, dead heiress who, with the help of her childhood friend, must quench her insatiable thirst for blood.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/42tNjk8Y9tqu1ooIzPO7UwuviEq.jpg",
+    "en": "/42tNjk8Y9tqu1ooIzPO7UwuviEq.jpg"
+  },
+  "backdrops": [
+    "/s6wg0hdWZsYGwqJeRD2yqZBCpjv.jpg",
+    "/i9XwKK6jBJg0ofGhey1scahuBH2.jpg",
+    "/txDvoUUIlRZHWCcqNzbd9hx4l6G.jpg",
+    "/u5wxj7sCZpv5LpERdMrxEtZIyr8.jpg",
+    "/A7v02lWsXVT1OWLmdKmOUTH5QWW.jpg",
+    "/3U806LaIHeY8fdtnxkBFWlnhSRd.jpg",
+    "/pcbHrFR1bcQD5TTvVVl1r4WsYbr.jpg",
+    "/aDZ9Sx5ogrDenyWawqzW8ynRUzO.jpg",
+    "/m6Fvwz2tJ2kjA9ghflD33hOiOqb.jpg",
+    "/kMIDyXZy1ziJP5QBdUAo0BOiMCG.jpg"
+  ],
+  "trailerKey": "1-94q5kFX7M",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    3133,
+    852,
+    3098,
+    157351
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Les Films du Yaka",
+    "Films A.B.C.",
+    "Les Films Aleriaz"
+  ],
+  "crew": [
+    {
+      "personId": 88820,
+      "job": "director"
+    },
+    {
+      "personId": 88820,
+      "job": "writer"
+    },
+    {
+      "personId": 581062,
+      "job": "writer"
+    },
+    {
+      "personId": 1377456,
+      "job": "producer"
+    },
+    {
+      "personId": 1053067,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 104250,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 239337,
+      "character": "Hélène",
+      "order": 0
+    },
+    {
+      "personId": 102104,
+      "character": "Catherine Valmont",
+      "order": 1
+    },
+    {
+      "personId": 19613,
+      "character": "Greg",
+      "order": 2
+    },
+    {
+      "personId": 581063,
+      "character": "Barbara Simon",
+      "order": 3
+    },
+    {
+      "personId": 104256,
+      "character": "6th Victim",
+      "order": 4
+    },
+    {
+      "personId": 581064,
+      "character": "",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 100,
+  "sources": [
+    "cult-list"
+  ]
+}

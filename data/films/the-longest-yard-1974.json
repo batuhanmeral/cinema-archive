@@ -1,0 +1,183 @@
+{
+  "tmdbId": 4985,
+  "slug": "the-longest-yard-1974",
+  "year": 1974,
+  "runtime": 121,
+  "originalTitle": "The Longest Yard",
+  "title": {
+    "en": "The Longest Yard",
+    "tr": "Buldozer"
+  },
+  "overview": {
+    "en": "A football player-turned-convict organizes a team of inmates to play against a team of prison guards. His dilemma is that the warden asks him to throw the game in return for an early release, but he is also concerned about the inmates' lack of self-esteem.",
+    "tr": "Eski bir futbol yıldızının hayatı yanlış yola sapar ve sonunda hapishaneye düşer. Hapishane müdürü, sadist bir spor manyağıdır ve yeni mahkûma ilk günden itibaren kötü gözle bakar. Futbol yıldızı, mahkûmların monoton hayatını renklendirmeye karar verir ve onlardan bir futbol takımı kurar. Mahkûmlar, gardiyanlar takımını yenerek en azından sporda intikam alma fikrinden giderek daha fazla heyecan duymaya başlar. Ancak büyük maçtan önceki gece, hapishane müdürü eski futbol yıldızını çağırır ve ona bir tehditte bulunur: Eğer mahkûmlar ertesi günkü maçı kazanırsa, erken tahliye umutlarına veda edebilir!"
+  },
+  "poster": {
+    "tr": "/2qtpPGRpMEnwhRRoq3iqyQm238V.jpg",
+    "en": "/h8Jrhr2pZowu8CO5lXXEdhkRQ76.jpg"
+  },
+  "backdrops": [
+    "/bLAZhVqjrsqq6xy46W33nQyXLtF.jpg",
+    "/tIXJy1WbgtILBrD1HALZiBhlfAD.jpg",
+    "/f2YjOcISgr6JVZC4c6TOVcUPfE2.jpg",
+    "/dC8ohgdy6PRqPEweGDWSoDv9ZBx.jpg",
+    "/aai7fA4d0EDwKDXnvJ7ANhxwDd1.jpg",
+    "/xKZCOLKApSChbX2brUnZRDtyAWx.jpg",
+    "/kcb46hxOjhI6muwOLbKbNOgXeaZ.jpg",
+    "/aqD2pgf7dknQRIPKTmD7Rniz6Jp.jpg",
+    "/bqriDSUGHjqlgIctaPpPZ09Rafu.jpg",
+    "/ncFUBkzMJh4CxQ09DwhHxZYYm5L.jpg"
+  ],
+  "trailerKey": "axYnHBSnNTk",
+  "genreIds": [
+    35,
+    18,
+    80
+  ],
+  "keywordIds": [
+    378,
+    6075,
+    579,
+    2495,
+    168930,
+    221044
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 14431,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 18392,
+      "job": "director"
+    },
+    {
+      "personId": 41139,
+      "job": "writer"
+    },
+    {
+      "personId": 457,
+      "job": "producer"
+    },
+    {
+      "personId": 21011,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16475,
+      "character": "Paul Crewe",
+      "order": 0
+    },
+    {
+      "personId": 11998,
+      "character": "Warden Hazen",
+      "order": 1
+    },
+    {
+      "personId": 21523,
+      "character": "Captain Knauer",
+      "order": 2
+    },
+    {
+      "personId": 40390,
+      "character": "Nate Scarboro",
+      "order": 3
+    },
+    {
+      "personId": 14848,
+      "character": "Caretaker",
+      "order": 4
+    },
+    {
+      "personId": 18894,
+      "character": "Granville",
+      "order": 5
+    },
+    {
+      "personId": 101765,
+      "character": "Pop",
+      "order": 6
+    },
+    {
+      "personId": 4974,
+      "character": "Unger",
+      "order": 7
+    },
+    {
+      "personId": 40595,
+      "character": "Rassmeusen",
+      "order": 8
+    },
+    {
+      "personId": 10460,
+      "character": "Samson",
+      "order": 9
+    },
+    {
+      "personId": 1666329,
+      "character": "Mawabe",
+      "order": 10
+    },
+    {
+      "personId": 40389,
+      "character": "Miss Toot",
+      "order": 11
+    },
+    {
+      "personId": 2218436,
+      "character": "Ice Man",
+      "order": 12
+    },
+    {
+      "personId": 2218472,
+      "character": "Rotka",
+      "order": 13
+    },
+    {
+      "personId": 89567,
+      "character": "Melissa",
+      "order": 14
+    },
+    {
+      "personId": 2685680,
+      "character": "Levitt",
+      "order": 15
+    },
+    {
+      "personId": 51230,
+      "character": "Announcer",
+      "order": 16
+    },
+    {
+      "personId": 1772612,
+      "character": "Mason",
+      "order": 17
+    },
+    {
+      "personId": 2939149,
+      "character": "Big George",
+      "order": 18
+    },
+    {
+      "personId": 114232,
+      "character": "Trooper I",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 342,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "tmdbId": 19,
+  "slug": "metropolis-1927",
+  "year": 1927,
+  "runtime": 148,
+  "originalTitle": "Metropolis",
+  "title": {
+    "en": "Metropolis",
+    "tr": "Metropolis"
+  },
+  "overview": {
+    "en": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
+    "tr": "Gelecek zaman… İnsanlar iki gruba ayrılmış durumdadır: düşünenler (ancak hiçbir makinenin nasıl çalıştığını bilmiyorlar) ve çalışanlar (fikir sahibi değiller). Düşünenler planları yapıyor, çalışanlar da bunları uyguluyorlar. İki grup da tam değildir ama birleşince bir bütün oluyorlar. Bir gün düşünenlerden biri yeraltına çalışanların yanına iner. Gördükleriyle birlikte hayatın akışı değişmeye başlar…"
+  },
+  "poster": {
+    "tr": "/kr9wXRN23zLuWJIelahas1mtnYj.jpg",
+    "en": "/vuWTZrqWpEeQSaqZhq7sDO2CQZF.jpg"
+  },
+  "backdrops": [
+    "/r8pUcom5Mw8igtBpj3AHSAUvH0R.jpg",
+    "/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg",
+    "/f0oDtB2JCMlPKjphBJ90GcfVzWg.jpg",
+    "/e5kr5W12zgJneQvOJGBbxYLr5eo.jpg",
+    "/rnN9yJfwso6JA64wIPqK1m6K6e1.jpg",
+    "/GatEipZTKah0TRHuLLhwTykt6h.jpg",
+    "/maEGU1EpSPIXNh02p9fzsUy26Q0.jpg",
+    "/aDI13YRIeO0vTeGg2Obzd6PHiSG.jpg",
+    "/tABrxmrXmtdifAlSWKZk3DhK9ZH.jpg",
+    "/7hLkbos5YNoFE3qmrvaHYpw9pnH.jpg"
+  ],
+  "trailerKey": "ZAvzaOxDt2c",
+  "genreIds": [
+    18,
+    878
+  ],
+  "keywordIds": [
+    2964,
+    1761,
+    4034,
+    312,
+    1001,
+    5966,
+    818,
+    1436,
+    4565,
+    6662,
+    10125,
+    11222,
+    10028,
+    11187,
+    12999,
+    14544,
+    14796,
+    154802,
+    179874,
+    185459,
+    201028,
+    215678,
+    232988,
+    234109,
+    234110,
+    239175,
+    244516,
+    255786,
+    325791
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "UFA"
+  ],
+  "crew": [
+    {
+      "personId": 67,
+      "job": "producer"
+    },
+    {
+      "personId": 68,
+      "job": "director"
+    },
+    {
+      "personId": 69,
+      "job": "composer"
+    },
+    {
+      "personId": 70,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 71,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2798,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 68,
+      "job": "writer"
+    },
+    {
+      "personId": 157,
+      "job": "writer"
+    },
+    {
+      "personId": 1899458,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 74,
+      "character": "Freder Fredersen",
+      "order": 0
+    },
+    {
+      "personId": 75,
+      "character": "Maria / The Machine Man",
+      "order": 1
+    },
+    {
+      "personId": 73,
+      "character": "Johann 'Joh' Fredersen",
+      "order": 2
+    },
+    {
+      "personId": 77,
+      "character": "C.A. Rotwang",
+      "order": 3
+    },
+    {
+      "personId": 79,
+      "character": "Josaphat",
+      "order": 4
+    },
+    {
+      "personId": 78,
+      "character": "The Thin Man",
+      "order": 5
+    },
+    {
+      "personId": 80,
+      "character": "No. 11811 - Georgy",
+      "order": 6
+    },
+    {
+      "personId": 81,
+      "character": "Grot",
+      "order": 7
+    },
+    {
+      "personId": 20535,
+      "character": "Creative Human - Man Who Convinces Babel (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 47173,
+      "character": "Working Woman (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 2535176,
+      "character": "Working Woman (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 20533,
+      "character": "Master of Ceremonies (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 69,
+      "character": "Man Playing Violin (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 29129,
+      "character": "Working Man Who Causes Explosion of M-Machine (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 20534,
+      "character": "Woman of Eternal Gardens / Lady in Car (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 2190565,
+      "character": "Working Woman (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 83,
+      "character": "Marinus (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1531781,
+      "character": "Working Man (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 5028,
+      "character": "Working Man (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1689706,
+      "character": "Working Woman (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3247,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "tmdbId": 37403,
+  "slug": "agneepath-1990",
+  "year": 1990,
+  "runtime": 174,
+  "originalTitle": "अग्निपथ",
+  "title": {
+    "en": "Agneepath",
+    "tr": "अग्निपथ"
+  },
+  "overview": {
+    "en": "A young boy's father is lynched before his eyes; fifteen years later he returns home for revenge.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/kKCWrcIi6pAXNvPnC1LWtV4hB8u.jpg",
+    "en": "/kKCWrcIi6pAXNvPnC1LWtV4hB8u.jpg"
+  },
+  "backdrops": [
+    "/aYiCymYGLrSElxiK6qCxSqGKtmY.jpg",
+    "/hMNyso2DYCjs0U8GdyHkhBk5zDi.jpg",
+    "/3C4JrnMcA2XhWQLMV7bgPvkLFUD.jpg",
+    "/A6ZrH0tQOyRKKuV53JrpmTNtVr5.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    28,
+    80,
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "IN"
+  ],
+  "languages": [
+    "hi"
+  ],
+  "studios": [
+    "Dharma Productions"
+  ],
+  "crew": [
+    {
+      "personId": 585261,
+      "job": "director"
+    },
+    {
+      "personId": 3939035,
+      "job": "producer"
+    },
+    {
+      "personId": 1032631,
+      "job": "writer"
+    },
+    {
+      "personId": 174606,
+      "job": "writer"
+    },
+    {
+      "personId": 565164,
+      "job": "composer"
+    },
+    {
+      "personId": 565165,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 35780,
+      "character": "Vijay Dinanath Chauhan",
+      "order": 0
+    },
+    {
+      "personId": 85450,
+      "character": "Krishnan Iyer MA",
+      "order": 1
+    },
+    {
+      "personId": 14596,
+      "character": "Kancha Cheena",
+      "order": 2
+    },
+    {
+      "personId": 117533,
+      "character": "Mary Matthew",
+      "order": 3
+    },
+    {
+      "personId": 117534,
+      "character": "Siksha Chauhan",
+      "order": 4
+    },
+    {
+      "personId": 11849,
+      "character": "Suhasini Chauhan",
+      "order": 5
+    },
+    {
+      "personId": 86784,
+      "character": "Master Dinanath Chauhan",
+      "order": 6
+    },
+    {
+      "personId": 1013138,
+      "character": "Dinkar Rao",
+      "order": 7
+    },
+    {
+      "personId": 228295,
+      "character": "Young Vijay",
+      "order": 8
+    },
+    {
+      "personId": 85733,
+      "character": "Nathu (Kaka)",
+      "order": 9
+    },
+    {
+      "personId": 87304,
+      "character": "Shanti / Laila",
+      "order": 10
+    },
+    {
+      "personId": 43413,
+      "character": "Commissioner M. S. Gaitonde",
+      "order": 11
+    },
+    {
+      "personId": 55066,
+      "character": "Terelin",
+      "order": 12
+    },
+    {
+      "personId": 140683,
+      "character": "Usman",
+      "order": 13
+    },
+    {
+      "personId": 86055,
+      "character": "Police Constable",
+      "order": 14
+    },
+    {
+      "personId": 1087345,
+      "character": "Gora",
+      "order": 15
+    },
+    {
+      "personId": 110089,
+      "character": "Tara Bai",
+      "order": 16
+    },
+    {
+      "personId": 584887,
+      "character": "Vijays Henchman",
+      "order": 17
+    },
+    {
+      "personId": 86017,
+      "character": "Himself",
+      "order": 18
+    },
+    {
+      "personId": 105443,
+      "character": "Anna Shetty",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 67,
+  "sources": [
+    "cult-list"
+  ]
+}

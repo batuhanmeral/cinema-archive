@@ -1,0 +1,211 @@
+{
+  "tmdbId": 679,
+  "slug": "aliens-1986",
+  "year": 1986,
+  "runtime": 137,
+  "originalTitle": "Aliens",
+  "title": {
+    "en": "Aliens",
+    "tr": "Yaratığın Dönüşü"
+  },
+  "overview": {
+    "en": "Ripley, the sole survivor of the Nostromo's deadly encounter with the monstrous Alien, returns to Earth after drifting through space in hypersleep for 57 years. Although her story is initially met with skepticism, she agrees to accompany a team of Colonial Marines back to LV-426.",
+    "tr": "Nostromo'dan kurtulan tek kişi olan Teğmen Ellen Ripley, yarım yüzyıllık derin uykusundan uyandırılarak dünyaya getirilir. Bu sırada yaratıkları buldukları gezegenin sonradan kolonileştirildiği ve insanların yaşadığını öğrenir. Söz konusu koloniden bir süredir haber alınamamaktadır ve Ripley, uzman bir komando ekibi ile yaratıkları yok etmeye ve sağ kalanları kurtarmaya gider."
+  },
+  "poster": {
+    "tr": "/vhtEL7itK7BErXTWtcKSspUuIdE.jpg",
+    "en": "/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg"
+  },
+  "backdrops": [
+    "/3NZ5y4oLwvm1KF99m0DPQoqpEAP.jpg",
+    "/zFKPAMN9kWr1hJF4owR83DrwjK6.jpg",
+    "/a1m0OVUMaGrQAfLVJya2HTRp3SE.jpg",
+    "/gXUdQLbo6eqaTby2cEjFQW1jyVV.jpg",
+    "/tMnJEVCOn8wuD95afeBSdeZqWfg.jpg",
+    "/4kix6fAblJIH6eMs0Ku2loyZJXK.jpg",
+    "/3AmpITDuCHqmBdbFkKMsFv6yMzB.jpg",
+    "/zA5qGOQAgKhn3PLazgFmyMI4esc.jpg",
+    "/4NuKXwivH4Kct6qz33Xl0EFCdcd.jpg",
+    "/v1Y0arzRV2zqEn9nswNkZI8F13X.jpg"
+  ],
+  "trailerKey": "8OxirbuHsBA",
+  "genreIds": [
+    28,
+    53,
+    878
+  ],
+  "keywordIds": [
+    803,
+    1826,
+    1603,
+    2345,
+    3801,
+    3591,
+    4090,
+    3385,
+    3387,
+    3388,
+    3389,
+    9663,
+    9951,
+    9882,
+    11322,
+    13031,
+    17937,
+    160137,
+    298591,
+    301079,
+    315053,
+    322255,
+    323910,
+    325772,
+    325785,
+    325806,
+    325812,
+    367182,
+    367183
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "SLM Production Group",
+    "20th Century Fox",
+    "Brandywine Productions"
+  ],
+  "crew": [
+    {
+      "personId": 2710,
+      "job": "director"
+    },
+    {
+      "personId": 869,
+      "job": "producer"
+    },
+    {
+      "personId": 1729,
+      "job": "composer"
+    },
+    {
+      "personId": 7783,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2710,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10205,
+      "character": "Ripley",
+      "order": 0
+    },
+    {
+      "personId": 10206,
+      "character": "Newt",
+      "order": 1
+    },
+    {
+      "personId": 2712,
+      "character": "Corporal Hicks",
+      "order": 2
+    },
+    {
+      "personId": 781,
+      "character": "Burke",
+      "order": 3
+    },
+    {
+      "personId": 2714,
+      "character": "Bishop",
+      "order": 4
+    },
+    {
+      "personId": 2053,
+      "character": "Private Hudson",
+      "order": 5
+    },
+    {
+      "personId": 10207,
+      "character": "Lieutenant Gorman",
+      "order": 6
+    },
+    {
+      "personId": 3981,
+      "character": "Private Vasquez",
+      "order": 7
+    },
+    {
+      "personId": 10208,
+      "character": "Sergeant Apone",
+      "order": 8
+    },
+    {
+      "personId": 6576,
+      "character": "Private Drake",
+      "order": 9
+    },
+    {
+      "personId": 10212,
+      "character": "Private Frost",
+      "order": 10
+    },
+    {
+      "personId": 10209,
+      "character": "Corporal Ferro",
+      "order": 11
+    },
+    {
+      "personId": 10210,
+      "character": "Private Spunkmeyer",
+      "order": 12
+    },
+    {
+      "personId": 10211,
+      "character": "Corporal Dietrich",
+      "order": 13
+    },
+    {
+      "personId": 10213,
+      "character": "Private Crowe",
+      "order": 14
+    },
+    {
+      "personId": 1340211,
+      "character": "Private Wierzbowski",
+      "order": 15
+    },
+    {
+      "personId": 748,
+      "character": "Van Leuwen",
+      "order": 16
+    },
+    {
+      "personId": 1653085,
+      "character": "ECA Rep",
+      "order": 17
+    },
+    {
+      "personId": 84890,
+      "character": "Insurance Man",
+      "order": 18
+    },
+    {
+      "personId": 190455,
+      "character": "Med Tech",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2,
+    "bafta": 1
+  },
+  "voteCount": 11330,
+  "sources": [
+    "cult-list"
+  ]
+}

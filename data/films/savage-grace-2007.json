@@ -1,0 +1,192 @@
+{
+  "tmdbId": 10822,
+  "slug": "savage-grace-2007",
+  "year": 2007,
+  "runtime": 97,
+  "originalTitle": "Savage Grace",
+  "title": {
+    "en": "Savage Grace",
+    "tr": "Vahşi Zarafet"
+  },
+  "overview": {
+    "en": "This examination of a famous scandal from the 1970s explores the relationship between Barbara Baekeland and her only son, Antony. Barbara, a lonely social climber unhappily married to the wealthy but remote plastics heir Brooks Baekeland, dotes on Antony, who is homosexual. As Barbara tries to \"cure\" Antony of his sexuality -- sometimes by seducing him herself -- the groundwork is laid for a murderous tragedy.",
+    "tr": "Aynı adlı ödüllü romandan uyarlama olan \"Vahşi Zarafet\"te, Bakelite plastik firmasının veliahtı Brooks Baekeland ile evli olan Barbara Daly (Julianne Moore)nin hikayesi anlatılmakta.  Kızıl saçlı, alımlı ve karizmatikbu kadın, kocasının şaşaalı ve asil hayatına hiçbir zaman tam olarak uyum sağlayamamıştır. Aralarındaki bu dengesizliğe bir de çocuk sahibi olmaları eklenince ilişkileri iyiden iyiye sarsılır. Oğulları Tony (Eddie Redmaine), babasının gözüne girmeyi hiçbir zaman başaramamıştır. Babasıyla arasındaki aşılmaz mesafe, Tony'yi gittikçe annesine yaklaştırır. Bu yakınlaşma aynı zamanda bir trajedinin de doğuşu olacaktır. Bu aile trajedisinin yanı sıra Baekeland'ların \"parıldayan\" yaşamları ardındaki toplumsal farklara da şahit oluyoruz. \"Vahşi Zarafet\", bir ailenin yükselişi ve dibe vuruşunu arka planına New York, Paris, Cadaques, Mallorca ve Londra gibi efsane güzellikteki mekanları alarak anlatmaktadır."
+  },
+  "poster": {
+    "tr": "/rtJp4ulwC1SvSYAUFGUa1pWV7nk.jpg",
+    "en": "/z83ExVvReRTMuwxRqatzUaHwIYR.jpg"
+  },
+  "backdrops": [
+    "/xDVLCGKjJK8wRgTQKZLOevlFoTp.jpg",
+    "/p5v1vsjqKbE857r9cpi9ESpvVpV.jpg",
+    "/g8NV5fppBITJdoIKZSnviVujXNq.jpg",
+    "/lPaccvnbWxjA6GdemUeFmrbJNv2.jpg",
+    "/2hxZYjV8pzpW0X7H5NnPDPWp6Xl.jpg",
+    "/4SBdv7hoEGwywthbxGqRXNHU9Eq.jpg",
+    "/oZZ1zng3HIjUWTQ3wsmL8TEEVJv.jpg"
+  ],
+  "trailerKey": "ZrJB48uTSeA",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    596,
+    1326,
+    456,
+    5153,
+    3692,
+    9433,
+    9673,
+    9826,
+    33841,
+    34094,
+    156037,
+    156153,
+    163048,
+    239920
+  ],
+  "countries": [
+    "US",
+    "ES",
+    "FR"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Montfort Producciones",
+    "Killer Films",
+    "Celluloid Dreams"
+  ],
+  "crew": [
+    {
+      "personId": 51897,
+      "job": "composer"
+    },
+    {
+      "personId": 66984,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 65151,
+      "job": "writer"
+    },
+    {
+      "personId": 66983,
+      "job": "director"
+    },
+    {
+      "personId": 57427,
+      "job": "producer"
+    },
+    {
+      "personId": 2862,
+      "job": "producer"
+    },
+    {
+      "personId": 53227,
+      "job": "producer"
+    },
+    {
+      "personId": 1357087,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1231,
+      "character": "Barbara Baekeland",
+      "order": 0
+    },
+    {
+      "personId": 8435,
+      "character": "Brooks Baekeland",
+      "order": 1
+    },
+    {
+      "personId": 37632,
+      "character": "Tony Baekeland",
+      "order": 2
+    },
+    {
+      "personId": 77287,
+      "character": "Nini Daly",
+      "order": 3
+    },
+    {
+      "personId": 3623,
+      "character": "Blanca",
+      "order": 4
+    },
+    {
+      "personId": 12791,
+      "character": "Sam Green",
+      "order": 5
+    },
+    {
+      "personId": 933278,
+      "character": "Aschwin Lippe",
+      "order": 6
+    },
+    {
+      "personId": 1034509,
+      "character": "Midge Vanden Heuvel",
+      "order": 7
+    },
+    {
+      "personId": 1322269,
+      "character": "Joost Vanden Heuvel",
+      "order": 8
+    },
+    {
+      "personId": 103119,
+      "character": "Simone Lippe",
+      "order": 9
+    },
+    {
+      "personId": 133525,
+      "character": "Carlos Durán",
+      "order": 10
+    },
+    {
+      "personId": 19907,
+      "character": "Pilar Durán",
+      "order": 11
+    },
+    {
+      "personId": 24496,
+      "character": "Jean Pierre Souvestre",
+      "order": 12
+    },
+    {
+      "personId": 50994,
+      "character": "Black Jake Martínez",
+      "order": 13
+    },
+    {
+      "personId": 1289925,
+      "character": "Lorna Moffat",
+      "order": 14
+    },
+    {
+      "personId": 1724456,
+      "character": "Teeny Duchamp",
+      "order": 15
+    },
+    {
+      "personId": 1863035,
+      "character": "Missy Harnden",
+      "order": 16
+    },
+    {
+      "personId": 484391,
+      "character": "Mishka Harnden",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 228,
+  "sources": [
+    "cult-list"
+  ]
+}

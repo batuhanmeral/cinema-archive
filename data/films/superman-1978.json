@@ -1,0 +1,216 @@
+{
+  "tmdbId": 1924,
+  "slug": "superman-1978",
+  "year": 1978,
+  "runtime": 144,
+  "originalTitle": "Superman",
+  "title": {
+    "en": "Superman",
+    "tr": "Superman"
+  },
+  "overview": {
+    "en": "Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.",
+    "tr": "Krypton gezegeni yok olmak üzeredir. Gezegeni terkedecek kadar aracı olmayan sakinleri, küçük bir bebeği bir kapsülle uzaya yollarlar. Kapsül uzun bir seyahat sonrası dünyaya, küçük bir Kansas kasabasına düşer. Kapsülü ve içindeki bebeği yaşlı ve çocuksuz bir çift olan Kent'ler bulur. Clark adını verdikleri ve kendi öz çocukları gibi sevdikleri çocuğun büyüdükçe inanılmaz güçlere sahip olduğunu keşfederler."
+  },
+  "poster": {
+    "tr": "/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+    "en": "/sSreY644BSjyxLwPqdqjW1J8ial.jpg"
+  },
+  "backdrops": [
+    "/5PfHGXosySGs0l1JfeREspy3v6G.jpg",
+    "/p2zBTOd4JdmNhkRWHmjKg7hk3s1.jpg",
+    "/v6MVBFnQOscITvmAy5N5ras2JKZ.jpg",
+    "/tVXlXv8lLaNEjuIuwxHObwiscJa.jpg",
+    "/3yciat9FYcJhqCCiLp6cV7AhMFP.jpg",
+    "/w7EYWQDKyLYgBb4MY7buX7m2GDd.jpg",
+    "/fFz3SxUb5sYsss88sjMUWxubQXu.jpg",
+    "/t2XbJWVcZkNMyv93DStA0PB7Ub7.jpg",
+    "/opZbV9KwwLgU5qMWjw9hWp97Yt5.jpg",
+    "/wQZrtKXpVsCHiIMtUpdNJEwl0YQ.jpg"
+  ],
+  "trailerKey": "xXyuUbtpmxE",
+  "genreIds": [
+    878,
+    28,
+    12
+  ],
+  "keywordIds": [
+    4270,
+    736,
+    83,
+    1308,
+    853,
+    9715,
+    3312,
+    9717,
+    14756,
+    15009,
+    15246,
+    33637,
+    34154,
+    156230,
+    158940,
+    179102,
+    179430,
+    193544,
+    211712,
+    255834
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Dovemead Films",
+    "Alexander and Ilya Salkind Productions",
+    "International Film Production"
+  ],
+  "crew": [
+    {
+      "personId": 55279,
+      "job": "writer"
+    },
+    {
+      "personId": 6729,
+      "job": "writer"
+    },
+    {
+      "personId": 3083,
+      "job": "writer"
+    },
+    {
+      "personId": 7187,
+      "job": "director"
+    },
+    {
+      "personId": 6728,
+      "job": "writer"
+    },
+    {
+      "personId": 20010,
+      "job": "producer"
+    },
+    {
+      "personId": 243,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7190,
+      "job": "writer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20006,
+      "character": "Superman / Clark Kent",
+      "order": 0
+    },
+    {
+      "personId": 20011,
+      "character": "Lois Lane",
+      "order": 1
+    },
+    {
+      "personId": 193,
+      "character": "Lex Luthor",
+      "order": 2
+    },
+    {
+      "personId": 3084,
+      "character": "Jor-El",
+      "order": 3
+    },
+    {
+      "personId": 13726,
+      "character": "Otis",
+      "order": 4
+    },
+    {
+      "personId": 55278,
+      "character": "Perry White",
+      "order": 5
+    },
+    {
+      "personId": 3381,
+      "character": "Pa Kent",
+      "order": 6
+    },
+    {
+      "personId": 12726,
+      "character": "1st Elder",
+      "order": 7
+    },
+    {
+      "personId": 41224,
+      "character": "Non",
+      "order": 8
+    },
+    {
+      "personId": 26483,
+      "character": "Eve Teschmacher",
+      "order": 9
+    },
+    {
+      "personId": 40954,
+      "character": "Vond-Ah",
+      "order": 10
+    },
+    {
+      "personId": 28641,
+      "character": "General Zod",
+      "order": 11
+    },
+    {
+      "personId": 85042,
+      "character": "Ma Kent",
+      "order": 12
+    },
+    {
+      "personId": 13326,
+      "character": "Lara",
+      "order": 13
+    },
+    {
+      "personId": 53088,
+      "character": "Young Clark Kent",
+      "order": 14
+    },
+    {
+      "personId": 1067,
+      "character": "Jimmy Olsen",
+      "order": 15
+    },
+    {
+      "personId": 31364,
+      "character": "Ursa",
+      "order": 16
+    },
+    {
+      "personId": 19463,
+      "character": "2nd Elder",
+      "order": 17
+    },
+    {
+      "personId": 1246209,
+      "character": "Lana Lang",
+      "order": 18
+    },
+    {
+      "personId": 101919,
+      "character": "3rd Elder",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4482,
+  "sources": [
+    "cult-list"
+  ]
+}

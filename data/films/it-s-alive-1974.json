@@ -1,0 +1,166 @@
+{
+  "tmdbId": 28153,
+  "slug": "it-s-alive-1974",
+  "year": 1974,
+  "runtime": 91,
+  "originalTitle": "It's Alive",
+  "title": {
+    "en": "It's Alive",
+    "tr": "It's Alive"
+  },
+  "overview": {
+    "en": "The Davises are expecting a baby, which turns out to be a monster with a nasty habit of killing people whenever scared. And it's easily scared.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/jRxJV0N5nox3IVwkculuytkzSjt.jpg",
+    "en": "/bhgCVGl6BDXS8BfcUGzWU5EWnMb.jpg"
+  },
+  "backdrops": [
+    "/gdD6776xzz6UZKQMDiDvdHoGzrB.jpg",
+    "/j9K1GIiWjspuHKlxCxyieOAUqCI.jpg",
+    "/kFvYxPJTGfIhJMduy8nrN6CwS3W.jpg",
+    "/xeNxlB5OpSePuMGe5WXi6ojHK3S.jpg",
+    "/rXV8DwGrrOMxJaKx85TriZjzyFI.jpg",
+    "/pTZH1JvMa0Syp3uRw9xZaIpZw5x.jpg",
+    "/8ee73atSMIu56AxY2DPHSFSTfs7.jpg"
+  ],
+  "trailerKey": "cDQmOcV53wY",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    1009,
+    3725,
+    1852,
+    10042,
+    14999,
+    244917,
+    309974,
+    325821
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Larco Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 19266,
+      "job": "director"
+    },
+    {
+      "personId": 19266,
+      "job": "writer"
+    },
+    {
+      "personId": 19266,
+      "job": "producer"
+    },
+    {
+      "personId": 1045,
+      "job": "composer"
+    },
+    {
+      "personId": 133584,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15213,
+      "character": "Frank Davis",
+      "order": 0
+    },
+    {
+      "personId": 19434,
+      "character": "Lenore Davis",
+      "order": 1
+    },
+    {
+      "personId": 86368,
+      "character": "The Professor",
+      "order": 2
+    },
+    {
+      "personId": 93655,
+      "character": "Bob Clayton",
+      "order": 3
+    },
+    {
+      "personId": 99880,
+      "character": "Lt. Perkins",
+      "order": 4
+    },
+    {
+      "personId": 16074,
+      "character": "The Captain",
+      "order": 5
+    },
+    {
+      "personId": 83826,
+      "character": "The Executive",
+      "order": 6
+    },
+    {
+      "personId": 96308,
+      "character": "Charley",
+      "order": 7
+    },
+    {
+      "personId": 99881,
+      "character": "The Doctor",
+      "order": 8
+    },
+    {
+      "personId": 3154923,
+      "character": "Nurse",
+      "order": 9
+    },
+    {
+      "personId": 2760503,
+      "character": "Chris",
+      "order": 10
+    },
+    {
+      "personId": 1742078,
+      "character": "Secretary",
+      "order": 11
+    },
+    {
+      "personId": 1314029,
+      "character": "Expectant Father",
+      "order": 12
+    },
+    {
+      "personId": 4760846,
+      "character": "Expectant Father",
+      "order": 13
+    },
+    {
+      "personId": 107312,
+      "character": "Expectant Father",
+      "order": 14
+    },
+    {
+      "personId": 2278626,
+      "character": "Expectant Father",
+      "order": 15
+    },
+    {
+      "personId": 2473478,
+      "character": "Expectant Father",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 235,
+  "sources": [
+    "cult-list"
+  ]
+}

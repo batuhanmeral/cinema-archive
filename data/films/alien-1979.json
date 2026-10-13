@@ -1,0 +1,152 @@
+{
+  "tmdbId": 348,
+  "slug": "alien-1979",
+  "year": 1979,
+  "runtime": 117,
+  "originalTitle": "Alien",
+  "title": {
+    "en": "Alien",
+    "tr": "Yaratık"
+  },
+  "overview": {
+    "en": "During its return to the earth, commercial spaceship Nostromo intercepts a distress signal from a distant planet. When a three-member team of the crew discovers a chamber containing thousands of eggs on the planet, a creature inside one of the eggs attacks an explorer. The entire crew is unaware of the impending nightmare set to descend upon them when the alien parasite planted inside its unfortunate host is birthed.",
+    "tr": "Görevini tamamlayarak Dünya'ya dönmeye hazırlanan kargo gemisi Nostromo'nun beş erkek, iki kadın ve bir kediden oluşan mürettebatı özel kabinlerinde uykudadır. Bilgisayarların çevredeki bir gezegende yabancı bir yaşam türü tespit etmeleri üzerine uyandırılırlar. Yasalar, akıllı olabilecek her canlının araştırılmasını emretmektedir. Dallas, Lambert ve Kane'den oluşan ekip, gezegene gittiğinde terk edilmiş bir uzay gemisiyle karşılaşır. Buldukları yumurta benzeri organizmaları incelerken, bir tanesi kırılır ve yengeç benzeri bir yaratık Kane'in yüzüne yapışır. Ekip gemiye döndüğünde Ripley, Kane'i içeri almakta tereddüt eder. Karantina kuralları çok açıktır. Fakat mürettebat, arkadaşlarını kurtarmak için bu sorumluluğu alır."
+  },
+  "poster": {
+    "tr": "/dH1emjWR6ZsYsnsetlFU65KaCnb.jpg",
+    "en": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg"
+  },
+  "backdrops": [
+    "/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+    "/3BNbh8ODH68JRLEc4YveMHuTcH1.jpg",
+    "/cEobq5QrnOJjO6giDs8q4RxmMKh.jpg",
+    "/3epzWQQbtQWWY8Lq8tJ0GTrhjls.jpg",
+    "/pKqFaIq5LpqZcB8CLrM1UAkjEO1.jpg",
+    "/bJQ7zl9VtY4UUwTfOlMddwdrdhL.jpg",
+    "/iIc9tyskQedMEJpa7S4w4HkTBZz.jpg",
+    "/usJ4KU5MI3J2T1XImo8tbsmyTJU.jpg",
+    "/yP7bSdSNu9gwmv2UtfMqDOiILcf.jpg",
+    "/gZbcm1ADEXuxs1TsBVOBdk4heGI.jpg"
+  ],
+  "trailerKey": "sVwH0hIvV5k",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    803,
+    1612,
+    1826,
+    6016,
+    4565,
+    1825,
+    1828,
+    1829,
+    3801,
+    7956,
+    9951,
+    9882,
+    11322,
+    157634,
+    161176,
+    204390
+  ],
+  "countries": [
+    "US",
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Brandywine Productions",
+    "Twentieth Century-Fox Productions",
+    "Ronald Shusett Productions"
+  ],
+  "crew": [
+    {
+      "personId": 5053,
+      "job": "producer"
+    },
+    {
+      "personId": 578,
+      "job": "director"
+    },
+    {
+      "personId": 915,
+      "job": "producer"
+    },
+    {
+      "personId": 1723,
+      "job": "producer"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    },
+    {
+      "personId": 5055,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5045,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4139,
+      "character": "Dallas",
+      "order": 0
+    },
+    {
+      "personId": 10205,
+      "character": "Ripley",
+      "order": 1
+    },
+    {
+      "personId": 5047,
+      "character": "Lambert",
+      "order": 2
+    },
+    {
+      "personId": 5048,
+      "character": "Brett",
+      "order": 3
+    },
+    {
+      "personId": 5049,
+      "character": "Kane",
+      "order": 4
+    },
+    {
+      "personId": 65,
+      "character": "Ash",
+      "order": 5
+    },
+    {
+      "personId": 5050,
+      "character": "Parker",
+      "order": 6
+    },
+    {
+      "personId": 5051,
+      "character": "Alien",
+      "order": 7
+    },
+    {
+      "personId": 5052,
+      "character": "Mother (voice)",
+      "order": 8
+    }
+  ],
+  "awards": {
+    "oscar": 1,
+    "bafta": 1
+  },
+  "voteCount": 17053,
+  "sources": [
+    "cult-list"
+  ]
+}

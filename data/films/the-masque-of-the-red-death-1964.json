@@ -1,0 +1,188 @@
+{
+  "tmdbId": 25319,
+  "slug": "the-masque-of-the-red-death-1964",
+  "year": 1964,
+  "runtime": 90,
+  "originalTitle": "The Masque of the Red Death",
+  "title": {
+    "en": "The Masque of the Red Death",
+    "tr": "The Masque of the Red Death"
+  },
+  "overview": {
+    "en": "A European prince terrorizes the local peasantry while using his castle as a refuge against the \"Red Death\" plague that stalks the land.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/sSYceyGZrWskWDsn3MHtipJ1wFM.jpg",
+    "en": "/pPHVp6XVaSK5Hkbmf7HYdrts9kJ.jpg"
+  },
+  "backdrops": [
+    "/9vrp7zbzySjK7xFZtL683fNLOnA.jpg",
+    "/oHVfPPSlii66NTQpOrRurivfrDW.jpg",
+    "/vrIYDpzFsjgDQMhb1WaYVpY6ME7.jpg",
+    "/ePSBpo8lvt8quJSQR8KqXYb3v3c.jpg",
+    "/2GvITgv9It0mWjmUKNCd8yuIKgL.jpg",
+    "/jmOt1jc3h35RWLmQVk8v0qBmEot.jpg",
+    "/vczzmH8ISlsMUCYFR6qCcchR9Ar.jpg",
+    "/vhnYnwmdHlMcNSiTLgQmit9qTP4.jpg",
+    "/v43JoWnaJ9oDRG5In0Mk9SAcISb.jpg",
+    "/jvy3sjmKquAZFmAqt6KLAP4LyFq.jpg"
+  ],
+  "trailerKey": "clT8P-v9uso",
+  "genreIds": [
+    18,
+    27
+  ],
+  "keywordIds": [
+    2858,
+    5331,
+    3071,
+    3098,
+    3099,
+    9748,
+    9826,
+    10045,
+    14546,
+    41406,
+    160350,
+    161257,
+    161270,
+    188959,
+    190396
+  ],
+  "countries": [
+    "US",
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "la"
+  ],
+  "studios": [
+    "Alta Vista Productions",
+    "American International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 102429,
+      "job": "director"
+    },
+    {
+      "personId": 46443,
+      "job": "writer"
+    },
+    {
+      "personId": 111486,
+      "job": "writer"
+    },
+    {
+      "personId": 102429,
+      "job": "producer"
+    },
+    {
+      "personId": 14132,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1438739,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1905,
+      "character": "Prince Prospero",
+      "order": 0
+    },
+    {
+      "personId": 101499,
+      "character": "Juliana",
+      "order": 1
+    },
+    {
+      "personId": 22969,
+      "character": "Francesca",
+      "order": 2
+    },
+    {
+      "personId": 101504,
+      "character": "Gino",
+      "order": 3
+    },
+    {
+      "personId": 29909,
+      "character": "Ludovico",
+      "order": 4
+    },
+    {
+      "personId": 2264,
+      "character": "Alfredo",
+      "order": 5
+    },
+    {
+      "personId": 101506,
+      "character": "Scarlatti",
+      "order": 6
+    },
+    {
+      "personId": 10513,
+      "character": "Guard",
+      "order": 7
+    },
+    {
+      "personId": 89039,
+      "character": "Señor Veronese",
+      "order": 8
+    },
+    {
+      "personId": 153212,
+      "character": "Lead Villager",
+      "order": 9
+    },
+    {
+      "personId": 44350,
+      "character": "Hop Toad",
+      "order": 10
+    },
+    {
+      "personId": 13483,
+      "character": "Señora Escobar",
+      "order": 11
+    },
+    {
+      "personId": 101510,
+      "character": "Esmeralda",
+      "order": 12
+    },
+    {
+      "personId": 2153286,
+      "character": "Anna-Marie (as Doreen Dawne)",
+      "order": 13
+    },
+    {
+      "personId": 1354093,
+      "character": "Grandmother",
+      "order": 14
+    },
+    {
+      "personId": 2153287,
+      "character": "Senor Lampredi",
+      "order": 15
+    },
+    {
+      "personId": 101511,
+      "character": "Dancer",
+      "order": 16
+    },
+    {
+      "personId": 101512,
+      "character": "The Man in Red",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 386,
+  "sources": [
+    "cult-list"
+  ]
+}

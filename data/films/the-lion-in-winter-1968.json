@@ -1,0 +1,178 @@
+{
+  "tmdbId": 18988,
+  "slug": "the-lion-in-winter-1968",
+  "year": 1968,
+  "runtime": 134,
+  "originalTitle": "The Lion in Winter",
+  "title": {
+    "en": "The Lion in Winter",
+    "tr": "Kış Aslanı"
+  },
+  "overview": {
+    "en": "Christmas 1183, Angevin Empire: King Henry II plans to announce his successor to the throne. Jockeying for the crown, though, is complex. Henry has three sons and wants his boy Prince John to take over. Henry's wife, Queen Eleanor, believes their son Prince Richard should be king. As family and various schemers gather for the holiday, each tries to make the indecisive king choose their option.",
+    "tr": "Yıl 1183. Her modern-zaman politikacısı gibi, Britanya'nın Kralı 2. Henry (Peter O'Toole) de, karısını balolara götürmeyi ve onu halka teşhir etmeyi yalnızca zaman zaman faydalı bulur. Henry'nin uzak bir kalede sürgündeki kraliçesi Eleanor (Katharine Hepburn), Henry'ye ve üç oğluna, bir aile toplantısında katılmak için davet edilir. Bu şekilde Henry, İmparatorluk'un birliğini güçlendirmeyi ve güç dengelerinin Eleanor'a ya da üç oğlundan birine kaymasını engellemeyi ummaktadır. Diğer yanda da Kral'ın gücüne imrenmekte olan metresi Prenses Alais (Jane Merrow) ve prensesin erkek kardeşi Fransa Kralı Philip (Timothy Dalton) vardır. Henry'nin bütün bu çabalarına rağmen, Eleanor başarılı bir şekilde, aileyi yeniden bir araya getirir. Bunu yaparken de yalnızca kendi gücünü yeniden garantilemekle kalmayacak, ölümünden sonra bile bu gücün yaşamasını sağlayacaktır."
+  },
+  "poster": {
+    "tr": "/yMgJnZADJObzfjA70ygXJkjnrFX.jpg",
+    "en": "/xcOcwbejB0T8HzapOizUwi6HZTi.jpg"
+  },
+  "backdrops": [
+    "/u8EQqjCeaYDkgACV4mMfkPHLqpP.jpg",
+    "/xlqAvgKXMWBfJFHDz9NXw9c5JZn.jpg",
+    "/nN80lTdvFjDxmrmhd42dH6teraV.jpg",
+    "/1vCvQ0dj7oZRKztwzKAfRnMektt.jpg",
+    "/bVPMGvYxLNICACjBEEOIuNNOgum.jpg",
+    "/zlrMWHhCPTMGKPMbLs7QzG6APVH.jpg",
+    "/1vkNICljd9SOg64gQsqwzYtfPxf.jpg",
+    "/jPThizV1bw4KtaXlX0T2UoNif5Y.jpg",
+    "/8n9HzEohQrukrapLmylgZgwGOhv.jpg",
+    "/zMmULbegWZWKOcLSARuev0v1aa8.jpg"
+  ],
+  "trailerKey": "Pqz3gkrmBbo",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    1326,
+    254,
+    392,
+    2011,
+    3098,
+    10181,
+    3024,
+    11510,
+    11869,
+    13084,
+    18096,
+    157096,
+    207317,
+    220707,
+    242003,
+    258533
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Haworth Productions"
+  ],
+  "crew": [
+    {
+      "personId": 12009,
+      "job": "director"
+    },
+    {
+      "personId": 66787,
+      "job": "writer"
+    },
+    {
+      "personId": 70259,
+      "job": "producer"
+    },
+    {
+      "personId": 2289,
+      "job": "composer"
+    },
+    {
+      "personId": 666,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 29056,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11390,
+      "character": "Henry II",
+      "order": 0
+    },
+    {
+      "personId": 6598,
+      "character": "Eleanor of Aquitaine",
+      "order": 1
+    },
+    {
+      "personId": 4173,
+      "character": "Richard",
+      "order": 2
+    },
+    {
+      "personId": 15198,
+      "character": "Geoffrey",
+      "order": 3
+    },
+    {
+      "personId": 31431,
+      "character": "John",
+      "order": 4
+    },
+    {
+      "personId": 10669,
+      "character": "Philip II",
+      "order": 5
+    },
+    {
+      "personId": 102858,
+      "character": "Alais",
+      "order": 6
+    },
+    {
+      "personId": 108637,
+      "character": "William Marshall",
+      "order": 7
+    },
+    {
+      "personId": 8520,
+      "character": "Bishop of Durham",
+      "order": 8
+    },
+    {
+      "personId": 143394,
+      "character": "Queen Eleanor's Guard",
+      "order": 9
+    },
+    {
+      "personId": 51879,
+      "character": "Strolling Player",
+      "order": 10
+    },
+    {
+      "personId": 135182,
+      "character": "Strolling Player",
+      "order": 11
+    },
+    {
+      "personId": 1403182,
+      "character": "Strolling Player",
+      "order": 12
+    },
+    {
+      "personId": 203527,
+      "character": "Strolling Player",
+      "order": 13
+    },
+    {
+      "personId": 5245240,
+      "character": "Lady in Waiting",
+      "order": 14
+    },
+    {
+      "personId": 5245242,
+      "character": "Lady in Waiting",
+      "order": 15
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 422,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "tmdbId": 9922,
+  "slug": "the-postman-1997",
+  "year": 1997,
+  "runtime": 178,
+  "originalTitle": "The Postman",
+  "title": {
+    "en": "The Postman",
+    "tr": "Haberci"
+  },
+  "overview": {
+    "en": "In 2013, there are no highways, no I-ways, no dreams of a better tomorrow, only scattered survivors across what was once the United States. Into this apocalyptic wasteland comes an enigmatic drifter with a mule, a knack for Shakespeare, and something yet undiscovered: the power to inspire hope.",
+    "tr": "Çekildiği dönemden uzak bir gelecekte, 2013 yılında geçen film nükleer savaşın yıkıcı etkilerini gösterdiği ve yaşamı neredeyse sonlandırdığı bir dünyada geçer. Teknoloji namına hiçbir şey kalmayan bu dünya düzeni içerisinde hayatta kalan insan sayısı oldukça azdır. Bu hayatta kalan insanlar da ordu tarafından tehdit edilmekte, özgürlük kavramından çok uzakta bir yerlerde yaşamaktadırlar. Ancak aralarından doğacak kahraman tüm bu esareti ve zulmü durdurabilecek güçtedir.  David Brin’in Postacı isimli ünlü bilim kurgu romanından uyarlanan film, uyarlandığı yapıt kadar post apokaliptik ve distopik bir atmosfere sahiptir. Film oyuncu kadrosunda da gördüğümüz ünlü oyuncu Kevin Costner tarafından yönetilmişti."
+  },
+  "poster": {
+    "tr": "/piVzOuKFLHNGLxnjwNtibC26lTy.jpg",
+    "en": "/piVzOuKFLHNGLxnjwNtibC26lTy.jpg"
+  },
+  "backdrops": [
+    "/5LNKhG1q8T3qbYZPslYUReLlzGW.jpg",
+    "/2im7dn3uq7Wqfu3bo9NCBTxrFF6.jpg",
+    "/5mwd1quVNkdwImOF2RGm90hKZ5P.jpg",
+    "/eaOIcjXXMXvwUsxcUn8i78hpjf7.jpg",
+    "/dvihiaEiBuwJN9UcoOOd3YIEETs.jpg",
+    "/aKcCr6gaXamKBvSW37W16wcTy8m.jpg",
+    "/lcRqS0CecKaJs3a8mYe7PsgfVSG.jpg",
+    "/wb5VXSMapJ1eKk1t3XqVJHHW6NM.jpg",
+    "/eXPaimM2WqRrHUNdBF4fkFaPdWS.jpg",
+    "/vd9pq9zEfnnytOWnCOjxEBu6r6h.jpg"
+  ],
+  "trailerKey": "V43K5yFn5GM",
+  "genreIds": [
+    12,
+    28,
+    18
+  ],
+  "keywordIds": [
+    6092,
+    818,
+    2284,
+    2095,
+    6144,
+    3993,
+    10689,
+    13017,
+    14946,
+    14955,
+    175629,
+    189433,
+    194418,
+    217083,
+    237565,
+    257783
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Tig Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 27,
+      "job": "writer"
+    },
+    {
+      "personId": 1269,
+      "job": "producer"
+    },
+    {
+      "personId": 7847,
+      "job": "producer"
+    },
+    {
+      "personId": 29,
+      "job": "producer"
+    },
+    {
+      "personId": 58192,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1213,
+      "job": "composer"
+    },
+    {
+      "personId": 1269,
+      "job": "director"
+    },
+    {
+      "personId": 4723,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1269,
+      "character": "The Postman",
+      "order": 0
+    },
+    {
+      "personId": 883,
+      "character": "Bethlehem",
+      "order": 1
+    },
+    {
+      "personId": 18291,
+      "character": "Ford",
+      "order": 2
+    },
+    {
+      "personId": 11616,
+      "character": "Abby",
+      "order": 3
+    },
+    {
+      "personId": 785,
+      "character": "Idaho",
+      "order": 4
+    },
+    {
+      "personId": 1473,
+      "character": "Sheriff Briscoe",
+      "order": 5
+    },
+    {
+      "personId": 60642,
+      "character": "Bridge City Mayor",
+      "order": 6
+    },
+    {
+      "personId": 82519,
+      "character": "Luke",
+      "order": 7
+    },
+    {
+      "personId": 1771,
+      "character": "Bandit #20",
+      "order": 8
+    },
+    {
+      "personId": 10362,
+      "character": "Irene March",
+      "order": 9
+    },
+    {
+      "personId": 6774,
+      "character": "Getty",
+      "order": 10
+    },
+    {
+      "personId": 167565,
+      "character": "Old George",
+      "order": 11
+    },
+    {
+      "personId": 152759,
+      "character": "Ellen March",
+      "order": 12
+    },
+    {
+      "personId": 127070,
+      "character": "Woody",
+      "order": 13
+    },
+    {
+      "personId": 21484,
+      "character": "Gibbs",
+      "order": 14
+    },
+    {
+      "personId": 16937,
+      "character": "Mercer",
+      "order": 15
+    },
+    {
+      "personId": 52647,
+      "character": "Billy",
+      "order": 16
+    },
+    {
+      "personId": 43858,
+      "character": "Eddie",
+      "order": 17
+    },
+    {
+      "personId": 157412,
+      "character": "Michael",
+      "order": 18
+    },
+    {
+      "personId": 1080276,
+      "character": "Ponytail",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1255,
+  "sources": [
+    "cult-list"
+  ]
+}

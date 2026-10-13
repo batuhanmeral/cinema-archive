@@ -1,0 +1,105 @@
+{
+  "tmdbId": 183586,
+  "slug": "katha-1982",
+  "year": 1982,
+  "runtime": 141,
+  "originalTitle": "कथा",
+  "title": {
+    "en": "Katha",
+    "tr": "कथा"
+  },
+  "overview": {
+    "en": "A modern retelling of the classic folktale about the hare and the tortoise. Hard-working yet timid Rajaram has a secret crush on his neighbor. Before he gets the courage to tell her how he feels, fast-talking Bashu swoops in.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/7SeKSNKZgg51U9QaPuCvYl3HZml.jpg",
+    "en": "/7SeKSNKZgg51U9QaPuCvYl3HZml.jpg"
+  },
+  "backdrops": [
+    "/y5uFrW2b4qr87D7b7ZUKQOvuxIo.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    187056
+  ],
+  "countries": [
+    "IN"
+  ],
+  "languages": [
+    "hi"
+  ],
+  "studios": [
+    "Devki Chitra"
+  ],
+  "crew": [
+    {
+      "personId": 1003649,
+      "job": "producer"
+    },
+    {
+      "personId": 1199565,
+      "job": "composer"
+    },
+    {
+      "personId": 230978,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6497,
+      "character": "Rajaram Purshotam Joshi",
+      "order": 0
+    },
+    {
+      "personId": 109738,
+      "character": "Bashudev",
+      "order": 1
+    },
+    {
+      "personId": 150220,
+      "character": "Sandhya Sabnis",
+      "order": 2
+    },
+    {
+      "personId": 630988,
+      "character": "Dadi Amma",
+      "order": 3
+    },
+    {
+      "personId": 85973,
+      "character": "Dancer",
+      "order": 4
+    },
+    {
+      "personId": 1172719,
+      "character": "Anuradha Dhindhoria",
+      "order": 5
+    },
+    {
+      "personId": 1009518,
+      "character": "Himself",
+      "order": 6
+    },
+    {
+      "personId": 110223,
+      "character": "Herself",
+      "order": 7
+    },
+    {
+      "personId": 85733,
+      "character": "Himself",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 8,
+  "sources": [
+    "cult-list"
+  ]
+}

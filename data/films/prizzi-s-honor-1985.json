@@ -1,0 +1,187 @@
+{
+  "tmdbId": 2075,
+  "slug": "prizzi-s-honor-1985",
+  "year": 1985,
+  "runtime": 124,
+  "originalTitle": "Prizzi's Honor",
+  "title": {
+    "en": "Prizzi's Honor",
+    "tr": "Prizzi's Honor"
+  },
+  "overview": {
+    "en": "Charley Partanna is a hitman who works for the Prizzis, one of the richest crime families in the US. When he sees Irene Walker, it's love at first sight. But he soon finds that she, too, is a killer for hire. Charley can overlook his suspicions, but he can't turn off his heart. And the couple must remember that even if they love each other, the Prizzis love only money.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5azGfZXuUFYjYfz6etYOdlyLXwL.jpg",
+    "en": "/dRUftPJR0M6yMAOlwlwaPlB9p86.jpg"
+  },
+  "backdrops": [
+    "/rG7onCWPZpFGP1cNvMy4jRnsCnm.jpg",
+    "/qWST3wj27YRZH9yDgihKpkNC6xc.jpg",
+    "/lW4nIRGJAglS6Pt7gTgRIrmSHA2.jpg",
+    "/nWuMujweJPPuvwakC5Y6wyrZmfp.jpg",
+    "/2N8U92NiLmfdJ0Enz74lJvBPtdT.jpg",
+    "/upkMxCHS22p9jKhoacaZ5J9jQcW.jpg",
+    "/2KWUR87bUjCfk5HGQCUTbpYFBnd.jpg",
+    "/vihJ3jgEkRLUhDHa8HXSTE08CSf.jpg"
+  ],
+  "trailerKey": "VEz13l-ULX0",
+  "genreIds": [
+    10749,
+    35,
+    80
+  ],
+  "keywordIds": [
+    2708,
+    3149,
+    4663,
+    15127,
+    232076
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox",
+    "ABC Motion Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 6593,
+      "job": "director"
+    },
+    {
+      "personId": 21279,
+      "job": "writer"
+    },
+    {
+      "personId": 10536,
+      "job": "composer"
+    },
+    {
+      "personId": 10765,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9578,
+      "job": "producer"
+    },
+    {
+      "personId": 14724,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 514,
+      "character": "Charley Partanna",
+      "order": 0
+    },
+    {
+      "personId": 3391,
+      "character": "Irene Walker",
+      "order": 1
+    },
+    {
+      "personId": 1162,
+      "character": "Eduardo Prizzi",
+      "order": 2
+    },
+    {
+      "personId": 18649,
+      "character": "Angelo 'Pop' Partanna",
+      "order": 3
+    },
+    {
+      "personId": 21282,
+      "character": "Don Corrado Prizzi",
+      "order": 4
+    },
+    {
+      "personId": 21283,
+      "character": "Dominic Prizzi",
+      "order": 5
+    },
+    {
+      "personId": 13938,
+      "character": "Rosario Filargi \" Finlay \"",
+      "order": 6
+    },
+    {
+      "personId": 5657,
+      "character": "Maerose Prizzi",
+      "order": 7
+    },
+    {
+      "personId": 6937,
+      "character": "Lt. Hanley",
+      "order": 8
+    },
+    {
+      "personId": 30485,
+      "character": "Peaches Altamont",
+      "order": 9
+    },
+    {
+      "personId": 21284,
+      "character": "Amalia Prizzi",
+      "order": 10
+    },
+    {
+      "personId": 149214,
+      "character": "Phil Vittimizzare",
+      "order": 11
+    },
+    {
+      "personId": 14835,
+      "character": "Bluestone",
+      "order": 12
+    },
+    {
+      "personId": 14545,
+      "character": "Casco Vascone",
+      "order": 13
+    },
+    {
+      "personId": 2342611,
+      "character": "Theresa Prizzi",
+      "order": 14
+    },
+    {
+      "personId": 1758648,
+      "character": "Opera Singer",
+      "order": 15
+    },
+    {
+      "personId": 2342699,
+      "character": "Don's Bodyguard",
+      "order": 16
+    },
+    {
+      "personId": 2342700,
+      "character": "Gallagher",
+      "order": 17
+    },
+    {
+      "personId": 15998,
+      "character": "Marxie Heller",
+      "order": 18
+    },
+    {
+      "personId": 191557,
+      "character": "Bocca",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 449,
+  "sources": [
+    "cult-list"
+  ]
+}

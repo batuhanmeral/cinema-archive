@@ -1,0 +1,201 @@
+{
+  "tmdbId": 12622,
+  "slug": "violent-cop-1989",
+  "year": 1989,
+  "runtime": 103,
+  "originalTitle": "その男、凶暴につき",
+  "title": {
+    "en": "Violent Cop",
+    "tr": "その男、凶暴につき"
+  },
+  "overview": {
+    "en": "A detective breaks all rules of ethical conduct while investigating a colleague’s involvement in drug pushing and yakuza activities.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5tLNkaPeDgtcet3uzHvJEpWrOcb.jpg",
+    "en": "/9MmLBW1xFlSBu0xcv5KZOKp89OC.jpg"
+  },
+  "backdrops": [
+    "/5iVabNRj6ukaNj1xGOT2HLEVCoe.jpg",
+    "/pke5AwrVUHqHlhNqFwE70haXYCP.jpg",
+    "/eZ0cccq7WFsmu4Q0BIg4WNeMDsD.jpg",
+    "/52Lu2SxYuckF0f1Bz9yDvy1cVLa.jpg",
+    "/hCkyV6hNYpNRVCyqPNKUwtUa9s2.jpg",
+    "/itw0T8S4g86G0x9y7X10tzZa63g.jpg",
+    "/lXbptsW29rWrHNyKq2CuxHPIk3l.jpg",
+    "/wGS5EBIOwMSO75p43Jcoyv698Zn.jpg",
+    "/3SwnP1KulvYSW2vSuGitUBdHjsP.jpg",
+    "/betGO1SStmBdCAHPRTXfSIy7eWx.jpg"
+  ],
+  "trailerKey": "kRHYNiWJx9U",
+  "genreIds": [
+    80,
+    53,
+    28,
+    18
+  ],
+  "keywordIds": [
+    2231,
+    796,
+    417,
+    6149,
+    2149,
+    3230,
+    11148,
+    33699,
+    157504,
+    312898
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Bandaï Media Department",
+    "Shochiku-Fuji Company"
+  ],
+  "crew": [
+    {
+      "personId": 3317,
+      "job": "director"
+    },
+    {
+      "personId": 73141,
+      "job": "producer"
+    },
+    {
+      "personId": 13246,
+      "job": "producer"
+    },
+    {
+      "personId": 73144,
+      "job": "composer"
+    },
+    {
+      "personId": 73145,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 31077,
+      "job": "producer"
+    },
+    {
+      "personId": 73140,
+      "job": "writer"
+    },
+    {
+      "personId": 3317,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3317,
+      "character": "Azuma Ryosuke",
+      "order": 0
+    },
+    {
+      "personId": 73138,
+      "character": "Akari Ryosuke",
+      "order": 1
+    },
+    {
+      "personId": 20341,
+      "character": "Kikuchi",
+      "order": 2
+    },
+    {
+      "personId": 73139,
+      "character": "Yoshinari",
+      "order": 3
+    },
+    {
+      "personId": 85939,
+      "character": "Iwaki",
+      "order": 4
+    },
+    {
+      "personId": 555191,
+      "character": "Iwaki's Wife",
+      "order": 5
+    },
+    {
+      "personId": 46582,
+      "character": "Kiyohiro",
+      "order": 6
+    },
+    {
+      "personId": 13281,
+      "character": "Nito",
+      "order": 7
+    },
+    {
+      "personId": 134813,
+      "character": "Shinkai",
+      "order": 8
+    },
+    {
+      "personId": 1285173,
+      "character": "Deputy Police Chief Higuchi",
+      "order": 9
+    },
+    {
+      "personId": 555193,
+      "character": "Chief Detective Araki",
+      "order": 10
+    },
+    {
+      "personId": 555194,
+      "character": "Detective Honma",
+      "order": 11
+    },
+    {
+      "personId": 555195,
+      "character": "Honma's Fiancee",
+      "order": 12
+    },
+    {
+      "personId": 58158,
+      "character": "Detective Tashiro",
+      "order": 13
+    },
+    {
+      "personId": 555196,
+      "character": "Deputy Commissioner Anan",
+      "order": 14
+    },
+    {
+      "personId": 35642,
+      "character": "Emoto",
+      "order": 15
+    },
+    {
+      "personId": 555197,
+      "character": "Hashizume",
+      "order": 16
+    },
+    {
+      "personId": 555198,
+      "character": "Sakai",
+      "order": 17
+    },
+    {
+      "personId": 555199,
+      "character": "Psychiatrist Izumi",
+      "order": 18
+    },
+    {
+      "personId": 552027,
+      "character": "Kiyohiro's Henchman #1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 431,
+  "sources": [
+    "cult-list"
+  ]
+}

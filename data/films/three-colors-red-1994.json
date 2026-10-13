@@ -1,0 +1,200 @@
+{
+  "tmdbId": 110,
+  "slug": "three-colors-red-1994",
+  "year": 1994,
+  "runtime": 100,
+  "originalTitle": "Trois couleurs : Rouge",
+  "title": {
+    "en": "Three Colors: Red",
+    "tr": "Üç Renk: Kırmızı"
+  },
+  "overview": {
+    "en": "Part-time model Valentine unexpectedly befriends a retired judge after she runs over his dog. At first, the grumpy man shows no concern about the dog, and Valentine decides to keep it. But the two form a bond when she returns to his house and catches him listening to his neighbors’ phone calls.",
+    "tr": "Genç ve güzel manken Valentine arabasıyla emekli bir yargıcın köpeğine çarpar. Yargıcın evine giden Valentin, onun gizlice komşularının telefonlarını dinlediğine tanık olur. Bu rahatsız edici duruma rağmen aralarında beklenmedik bir dostluk gelişir ve yaşamları rastlantıların gizemi ile şekillenir. Aşkı kaybeden yaşlı bir adam ve aşkı arayan genç bir kadın, olası bir birlikteliği belki de 40 yıl farkla kaçırmışlardır. Ama paralel bir öyküde Valentin’in henüz varlığından haberdar olmadığı bir başka erkeğin, genç yargıç Auguste’ün öyküsü de devam etmektedir. Aslında birbirleri için yaratılmış bu iki genç insanın yolları asla kesişmez, ya da öyle zannederiz."
+  },
+  "poster": {
+    "tr": "/8Gb5X6Irm4GN9ZCv6pijIqDFe0i.jpg",
+    "en": "/5YIzZaQlwYJY5ZEqHRs9dG9DduB.jpg"
+  },
+  "backdrops": [
+    "/A9IY3j3Hwf4Q8Q9w5QxSQPYSvCu.jpg",
+    "/5pZEn16rAMc1geDMxHB5EbACpKn.jpg",
+    "/mMg4GMSPk4zjb3s6NSNPTriywJX.jpg",
+    "/b1knvjeBQtpfYXytaFbuTrt6tuv.jpg",
+    "/u9Aj45hD1Qs43AU0q8YnsfbWYKx.jpg",
+    "/vZp89vohIDWXixBpQuOTx7I5Eyb.jpg",
+    "/5XaObjhATA67yOlQNfoyjv6unvi.jpg",
+    "/pZcoSJUb3Lgr9Rzg2shg1PtTBP9.jpg",
+    "/88HAPCIgQ4Bd20hJKwwwsKjCNxs.jpg",
+    "/uwwUZBmEGVst2dVCuYEQ9MVUJZW.jpg"
+  ],
+  "trailerKey": "1fQQBbcfL5E",
+  "genreIds": [
+    18,
+    9648,
+    10749
+  ],
+  "keywordIds": [
+    1326,
+    934,
+    1533,
+    4918,
+    5259,
+    5260,
+    4193,
+    15162,
+    18420,
+    157984,
+    167982,
+    245727,
+    248512,
+    275133,
+    325806
+  ],
+  "countries": [
+    "FR",
+    "PL",
+    "CH"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "France 3 Cinéma",
+    "CAB Productions",
+    "Studio Filmowe Tor"
+  ],
+  "crew": [
+    {
+      "personId": 1126,
+      "job": "director"
+    },
+    {
+      "personId": 1134,
+      "job": "producer"
+    },
+    {
+      "personId": 1135,
+      "job": "composer"
+    },
+    {
+      "personId": 33238,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1126,
+      "job": "writer"
+    },
+    {
+      "personId": 1132,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1350,
+      "character": "Valentine",
+      "order": 0
+    },
+    {
+      "personId": 1352,
+      "character": "The Judge",
+      "order": 1
+    },
+    {
+      "personId": 1354,
+      "character": "Karin",
+      "order": 2
+    },
+    {
+      "personId": 1356,
+      "character": "Auguste",
+      "order": 3
+    },
+    {
+      "personId": 49025,
+      "character": "Photographer",
+      "order": 4
+    },
+    {
+      "personId": 27983,
+      "character": "Veterinarian",
+      "order": 5
+    },
+    {
+      "personId": 73873,
+      "character": "Bartender",
+      "order": 6
+    },
+    {
+      "personId": 2276196,
+      "character": "Record Dealer",
+      "order": 7
+    },
+    {
+      "personId": 2287855,
+      "character": "Neighbor",
+      "order": 8
+    },
+    {
+      "personId": 2287856,
+      "character": "Woman",
+      "order": 9
+    },
+    {
+      "personId": 4852149,
+      "character": "Karin's Friend",
+      "order": 10
+    },
+    {
+      "personId": 63407,
+      "character": "Theater Keeper",
+      "order": 11
+    },
+    {
+      "personId": 1140941,
+      "character": "Dealer",
+      "order": 12
+    },
+    {
+      "personId": 3850372,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 4852155,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1154333,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1146823,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 2195066,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 28460,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 4852160,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1618,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "tmdbId": 9451,
+  "slug": "election-1999",
+  "year": 1999,
+  "runtime": 103,
+  "originalTitle": "Election",
+  "title": {
+    "en": "Election",
+    "tr": "Seçimler"
+  },
+  "overview": {
+    "en": "A high school teacher meets his match in an over-achieving student politician.",
+    "tr": "Tracy başarılı ve hırslı bir öğrencidir. Son hedefi ise Carver Koleji öğrenci başkanı olmaktır. Okulun sevilen öğretmeni Jim ise Tracy'nin başarıyı bir saplantı haline getirdiği düşüncesiyle onun karşısına bir rakip çıkarır. Öğrencilerden birini başkanlığa adaylığını koyması ve çalışması için ikna eder. Ancak Tracy'yi durdurmaya çalışmasının diş macunu tüpe geri doldurmaya çalışmaktan pek bir farkı yoktur."
+  },
+  "poster": {
+    "tr": "/fbo0IYzBc32dD5SjFzKIgfp4O4F.jpg",
+    "en": "/5gPOFU6IPvDrx50XaPCK4twNw79.jpg"
+  },
+  "backdrops": [
+    "/AnWx27hbrHlx9EafxEAj5Iifyjx.jpg",
+    "/kiOvjBqMrWv7sUSx1NRmKExvgpW.jpg",
+    "/xbNioOAjJ32kbVAwgQawzwfTsRP.jpg",
+    "/4Gj0Mj5L5jMSpUaIwhG43PdfbSQ.jpg",
+    "/oG45axYUYLjyzkqZbV7jmvKeUo7.jpg",
+    "/A6vwykyqHEGB8e9EeG6aQ95eeNJ.jpg",
+    "/lNPPNnYM3j0cb8IZ9CsJiDt0BK9.jpg",
+    "/whArgj3MLU5L9UnHr9JG2RzkLg8.jpg",
+    "/rajtaWbOStT5qPrMMNEsXAbNIJ8.jpg",
+    "/gBWWBfDijyit26cD7IWujsROVRD.jpg"
+  ],
+  "trailerKey": "XaQvqhtCYW0",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    1326,
+    6270,
+    931,
+    6078,
+    2598,
+    2669,
+    10123,
+    2016,
+    3734,
+    3687,
+    8201,
+    6324,
+    3692,
+    9932,
+    10508,
+    12095,
+    9986,
+    11011,
+    14782,
+    15134,
+    178452,
+    191008
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "MTV Films",
+    "Bona Fide Productions"
+  ],
+  "crew": [
+    {
+      "personId": 13235,
+      "job": "writer"
+    },
+    {
+      "personId": 35511,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 13235,
+      "job": "director"
+    },
+    {
+      "personId": 4948,
+      "job": "writer"
+    },
+    {
+      "personId": 17173,
+      "job": "producer"
+    },
+    {
+      "personId": 17172,
+      "job": "producer"
+    },
+    {
+      "personId": 65115,
+      "job": "producer"
+    },
+    {
+      "personId": 1746321,
+      "job": "producer"
+    },
+    {
+      "personId": 24190,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4756,
+      "character": "Jim McAllister",
+      "order": 0
+    },
+    {
+      "personId": 368,
+      "character": "Tracy Flick",
+      "order": 1
+    },
+    {
+      "personId": 21594,
+      "character": "Paul Metzler",
+      "order": 2
+    },
+    {
+      "personId": 58032,
+      "character": "Tammy Metzler",
+      "order": 3
+    },
+    {
+      "personId": 88949,
+      "character": "Dave Novotny",
+      "order": 4
+    },
+    {
+      "personId": 58741,
+      "character": "Walt Hendricks",
+      "order": 5
+    },
+    {
+      "personId": 58045,
+      "character": "Diane McAllister",
+      "order": 6
+    },
+    {
+      "personId": 996758,
+      "character": "Linda Novotny",
+      "order": 7
+    },
+    {
+      "personId": 13023,
+      "character": "Judith Flick",
+      "order": 8
+    },
+    {
+      "personId": 1015780,
+      "character": "Lisa Flanagan",
+      "order": 9
+    },
+    {
+      "personId": 19208,
+      "character": "Vice-Principal Bell",
+      "order": 10
+    },
+    {
+      "personId": 152355,
+      "character": "Jo Metzler",
+      "order": 11
+    },
+    {
+      "personId": 1578,
+      "character": "Dick Metzler",
+      "order": 12
+    },
+    {
+      "personId": 2356470,
+      "character": "Custodian",
+      "order": 13
+    },
+    {
+      "personId": 2682353,
+      "character": "Girl in Crisis",
+      "order": 14
+    },
+    {
+      "personId": 2682354,
+      "character": "Classroom Student",
+      "order": 15
+    },
+    {
+      "personId": 2682355,
+      "character": "Classroom Student",
+      "order": 16
+    },
+    {
+      "personId": 2682356,
+      "character": "Eat Me Boy",
+      "order": 17
+    },
+    {
+      "personId": 2682357,
+      "character": "Eat Me Boy's Buddy",
+      "order": 18
+    },
+    {
+      "personId": 2682358,
+      "character": "Adult Video Actor",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1254,
+  "sources": [
+    "cult-list"
+  ]
+}

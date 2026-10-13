@@ -1,0 +1,179 @@
+{
+  "tmdbId": 760104,
+  "slug": "x-2022",
+  "year": 2022,
+  "runtime": 106,
+  "originalTitle": "X",
+  "title": {
+    "en": "X",
+    "tr": "X"
+  },
+  "overview": {
+    "en": "In 1979, a group of young filmmakers set out to make an adult film in rural Texas, but when their reclusive, elderly hosts catch them in the act, the cast find themselves fighting for their lives.",
+    "tr": "Hollywood hayalleri olan bir grup gençten oluşan bir film ekibi, yetişkin filmi çekmek için Teksas'ın derinliklerindeki uzak bir çiftlik evine gider. Ekip, yaşlı bir çiftin evinde çekime başlar. Ancak çok geçmeden kendilerini hayatları için verdikleri umutsuz bir mücadelenin içinde bulurlar."
+  },
+  "poster": {
+    "tr": "/vWjXZ1o864XjEMolycNRDfxiTMz.jpg",
+    "en": "/woTQx9Q4b8aO13jR9dsj8C9JESy.jpg"
+  },
+  "backdrops": [
+    "/21ldFAokKVjwzi1SHXoPb5gc7md.jpg",
+    "/cGWgDsLlun3tlfhpa2VeUEPhxAV.jpg",
+    "/70Rm9ItxKuEKN8iu6rNjfwAYUCJ.jpg",
+    "/o375tDNib7tihlkWdtLW1fQhNL1.jpg",
+    "/w4UZMxjTsNtGwb62iYJNThusq2s.jpg",
+    "/1AjHJ0NP7BTI4zOVvmrmTXwGwvv.jpg",
+    "/cn8eekmlnmuFhzw84yRCPZuFOmC.jpg",
+    "/3ifCxk3fb0vSEatBx2Iofr7Ms2H.jpg",
+    "/rtyYEeDXBNsuvYlbZnX3EtZ9p7S.jpg",
+    "/hHtv1I73l040wERu7o9U8B5JTcN.jpg"
+  ],
+  "trailerKey": "Awg3cWuHfoc",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    445,
+    798,
+    1543,
+    1420,
+    1228,
+    1556,
+    7344,
+    10714,
+    12339,
+    14690,
+    158436,
+    160963,
+    161196,
+    178848,
+    181324,
+    195997,
+    199524,
+    220389,
+    306600,
+    325786,
+    345933
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "A24",
+    "Little Lamb Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1324658,
+      "job": "composer"
+    },
+    {
+      "personId": 101542,
+      "job": "producer"
+    },
+    {
+      "personId": 15221,
+      "job": "composer"
+    },
+    {
+      "personId": 101542,
+      "job": "writer"
+    },
+    {
+      "personId": 1025921,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 101542,
+      "job": "director"
+    },
+    {
+      "personId": 1279839,
+      "job": "producer"
+    },
+    {
+      "personId": 74534,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1137824,
+      "character": "Maxine / Pearl",
+      "order": 0
+    },
+    {
+      "personId": 974169,
+      "character": "Lorraine",
+      "order": 1
+    },
+    {
+      "personId": 29221,
+      "character": "Bobby-Lynne",
+      "order": 2
+    },
+    {
+      "personId": 484359,
+      "character": "Jackson",
+      "order": 3
+    },
+    {
+      "personId": 26291,
+      "character": "Wayne",
+      "order": 4
+    },
+    {
+      "personId": 132220,
+      "character": "RJ",
+      "order": 5
+    },
+    {
+      "personId": 1440014,
+      "character": "Howard",
+      "order": 6
+    },
+    {
+      "personId": 54492,
+      "character": "Sheriff Dentler",
+      "order": 7
+    },
+    {
+      "personId": 1238425,
+      "character": "Televangelist",
+      "order": 8
+    },
+    {
+      "personId": 197767,
+      "character": "Deputy",
+      "order": 9
+    },
+    {
+      "personId": 1340023,
+      "character": "Officer Mitchell",
+      "order": 10
+    },
+    {
+      "personId": 3079266,
+      "character": "Store Clerk",
+      "order": 11
+    },
+    {
+      "personId": 543261,
+      "character": "Radio Steak Seller (voice) (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 31268,
+      "character": "Howard (voice) (uncredited)",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 4215,
+  "sources": [
+    "cult-list"
+  ]
+}

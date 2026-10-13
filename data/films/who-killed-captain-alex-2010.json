@@ -1,0 +1,137 @@
+{
+  "tmdbId": 316776,
+  "slug": "who-killed-captain-alex-2010",
+  "year": 2010,
+  "runtime": 68,
+  "originalTitle": "Who Killed Captain Alex?",
+  "title": {
+    "en": "Who Killed Captain Alex?",
+    "tr": "Yüzbaşı Alex'i Kim Öldürdü?"
+  },
+  "overview": {
+    "en": "War erupts between a mafia group and soldiers.",
+    "tr": "Uganda Cumhurbaşkanı Kaptan Alex'e Tiger Mafyasını alt etme görevini verir, ancak Alex bu yolda öldürülür. Bunun üzerine kardeşi, intikam için Alex'i öldüren kişinin kim olduğuna dair araştırmaya başlar."
+  },
+  "poster": {
+    "tr": "/2GYBwJJMOrWsEmJRvRl48mQDyTI.jpg",
+    "en": "/2GYBwJJMOrWsEmJRvRl48mQDyTI.jpg"
+  },
+  "backdrops": [
+    "/A27LoDmoFTyGsfOFGehzvuNLWeH.jpg",
+    "/j8gyO4DRu0BBw2HtaX3Q05HBKO1.jpg",
+    "/sOZMaPqz8Y0ePy1nZz4sLuYWiLG.jpg",
+    "/bkgYmBnG5ZGnROFf83WvPLNhzqA.jpg",
+    "/dezFPyUmRguvXr8ot6HSXGaCGrV.jpg"
+  ],
+  "trailerKey": "BymeLkZ7GqM",
+  "genreIds": [
+    28,
+    35,
+    18
+  ],
+  "keywordIds": [
+    409,
+    10175,
+    11522,
+    169590,
+    325768,
+    325775
+  ],
+  "countries": [
+    "UG"
+  ],
+  "languages": [
+    "en",
+    "lg",
+    "sw"
+  ],
+  "studios": [
+    "Ramon Film Productions",
+    "Wakaliwood"
+  ],
+  "crew": [
+    {
+      "personId": 1436388,
+      "job": "director"
+    },
+    {
+      "personId": 1436388,
+      "job": "writer"
+    },
+    {
+      "personId": 1436388,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6577218,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4224732,
+      "character": "Alex",
+      "order": 0
+    },
+    {
+      "personId": 1436390,
+      "character": "Richard",
+      "order": 1
+    },
+    {
+      "personId": 1436391,
+      "character": "Puffs",
+      "order": 2
+    },
+    {
+      "personId": 2056164,
+      "character": "Bruce U",
+      "order": 3
+    },
+    {
+      "personId": 1436392,
+      "character": "Sergeant",
+      "order": 4
+    },
+    {
+      "personId": 1436393,
+      "character": "Lieutenant",
+      "order": 5
+    },
+    {
+      "personId": 4224774,
+      "character": "Ritah",
+      "order": 6
+    },
+    {
+      "personId": 1436394,
+      "character": "Natasha",
+      "order": 7
+    },
+    {
+      "personId": 1775592,
+      "character": "Rock",
+      "order": 8
+    },
+    {
+      "personId": 2056138,
+      "character": "Tom Cruise",
+      "order": 9
+    },
+    {
+      "personId": 2481754,
+      "character": "Commentator (voice)",
+      "order": 10
+    },
+    {
+      "personId": 1436388,
+      "character": "Self",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 185,
+  "sources": [
+    "cult-list"
+  ]
+}

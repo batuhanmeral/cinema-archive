@@ -1,0 +1,198 @@
+{
+  "tmdbId": 967,
+  "slug": "spartacus-1960",
+  "year": 1960,
+  "runtime": 197,
+  "originalTitle": "Spartacus",
+  "title": {
+    "en": "Spartacus",
+    "tr": "Spartaküs"
+  },
+  "overview": {
+    "en": "The rebellious Thracian Spartacus, born and raised a slave, is sold to Gladiator trainer Batiatus. After weeks of being trained to kill for the arena, Spartacus turns on his owners and leads the other slaves in rebellion. As the rebels move from town to town, their numbers swell as escaped slaves join their ranks. Under the leadership of Spartacus, they make their way to southern Italy, where they will cross the sea and return to their homes.",
+    "tr": "Trakyalı bir köle olan Spartaküs'ün asi yaradılışı gladyatör okulu işleten Lentulus Brutus'ün dikkatini çeker. Böylelikle Spartaküs'ün gladyatörlük yaşamı başlar. Eğitim süresi sonunda gladyatörler birer kadınla birlikte olma şansı bulur. Spartaküs kendisine sunulan Varinia'ya dokunmaz. Okulu ziyaret eden senatör Marcus Crassus'un şerefine tertiplenen oyunlarda Spartaküs Romalı politikacının zalim yanını görme fırsatı bulur ve Varinia'nın ona hediye edilmesi üzerine bir isyan başlatır.İsyan kısa sürede tüm bölgeye yayılır. Varinia ve Crassus'un evinden bir başka köle, romantik şair Antonius da sayıları giderek artan isyancılara katılırlar. Karşılarına çıkan bir kaç lejyonu yenilgiye uğratan isyancıların amacı İtalya'nın güney ucuna ulaşıp oradan gemilerle anavatanlarına dönmektir. Oysa Roma'da isyancıların üzerinden büyük politik oyunlar oynanmaktadır ve Crassus da bu oyunun bir parçasıdır."
+  },
+  "poster": {
+    "tr": "/xLPpQlFWE12cbqNJQ5Vf4eJU8ij.jpg",
+    "en": "/prdCmV8GkDLpguwoxBQczFAwvci.jpg"
+  },
+  "backdrops": [
+    "/aheSIG4h3JNxWeDvdb1NxKzgjaM.jpg",
+    "/9caD0fGCrp96JTFFeGyI0CGNj7.jpg",
+    "/7XmEhgkSglzMXck0aw6uHkdsRkr.jpg",
+    "/kJaisj9uNIzjHum6XM9HD9yI8vu.jpg",
+    "/5M0IxNneSK9K1K5fvB5ra4YIyy6.jpg",
+    "/rb8kgb8JaZBuCArvvCzBN9FGyEO.jpg",
+    "/4tqCuMZzxRgVQEdHM9z93HSWNam.jpg",
+    "/rQ9unGmqoAiAzFQq5c0hPVIRoo.jpg",
+    "/79W0SXzqonnF12LZK0mGDZfYm7r.jpg",
+    "/7tlMNAUwTbWQn7nvcV739MiBQyk.jpg"
+  ],
+  "trailerKey": "R8aWcZa18pc",
+  "genreIds": [
+    36,
+    18,
+    12
+  ],
+  "keywordIds": [
+    1394,
+    1405,
+    1527,
+    2831,
+    3074,
+    5049,
+    12995,
+    13006,
+    14704,
+    14906,
+    187340,
+    222185,
+    272026
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Bryna Productions",
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 13809,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 14490,
+      "job": "producer"
+    },
+    {
+      "personId": 240,
+      "job": "director"
+    },
+    {
+      "personId": 11993,
+      "job": "writer"
+    },
+    {
+      "personId": 10536,
+      "job": "composer"
+    },
+    {
+      "personId": 14501,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2090,
+      "character": "Spartacus",
+      "order": 0
+    },
+    {
+      "personId": 3359,
+      "character": "Marcus Licinius Crassus",
+      "order": 1
+    },
+    {
+      "personId": 14500,
+      "character": "Varinia",
+      "order": 2
+    },
+    {
+      "personId": 10921,
+      "character": "Sempronius Gracchus",
+      "order": 3
+    },
+    {
+      "personId": 14501,
+      "character": "Lentulus Batiatus",
+      "order": 4
+    },
+    {
+      "personId": 7304,
+      "character": "Julius Caesar",
+      "order": 5
+    },
+    {
+      "personId": 3150,
+      "character": "Antoninus",
+      "order": 6
+    },
+    {
+      "personId": 13026,
+      "character": "Helena Glabrus",
+      "order": 7
+    },
+    {
+      "personId": 14502,
+      "character": "Crixus",
+      "order": 8
+    },
+    {
+      "personId": 14503,
+      "character": "Tigranes Levantus",
+      "order": 9
+    },
+    {
+      "personId": 14504,
+      "character": "Marcus Publius Glabrus",
+      "order": 10
+    },
+    {
+      "personId": 4963,
+      "character": "Draba",
+      "order": 11
+    },
+    {
+      "personId": 14505,
+      "character": "David",
+      "order": 12
+    },
+    {
+      "personId": 8233,
+      "character": "Marcellus",
+      "order": 13
+    },
+    {
+      "personId": 14506,
+      "character": "Claudia Marius",
+      "order": 14
+    },
+    {
+      "personId": 7074,
+      "character": "Ramon",
+      "order": 15
+    },
+    {
+      "personId": 14507,
+      "character": "Gannicus",
+      "order": 16
+    },
+    {
+      "personId": 2096,
+      "character": "Guard captain",
+      "order": 17
+    },
+    {
+      "personId": 2757,
+      "character": "Dionysius",
+      "order": 18
+    },
+    {
+      "personId": 14508,
+      "character": "Caius",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "golden-globe": 1,
+    "oscar": 4
+  },
+  "voteCount": 2479,
+  "sources": [
+    "cult-list"
+  ]
+}

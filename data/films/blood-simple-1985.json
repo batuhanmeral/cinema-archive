@@ -1,0 +1,180 @@
+{
+  "tmdbId": 11368,
+  "slug": "blood-simple-1985",
+  "year": 1985,
+  "runtime": 97,
+  "originalTitle": "Blood Simple",
+  "title": {
+    "en": "Blood Simple",
+    "tr": "Kansız"
+  },
+  "overview": {
+    "en": "The owner of a seedy small-town Texas bar discovers that one of his employees is having an affair with his wife. A chaotic chain of misunderstandings, lies and mischief ensues after he devises a plot to have them murdered.",
+    "tr": "Teksas'ın ücra bir kasabasında bar işletmeciliği yapan Julian Marty, karısı Abby'nin kendisini aldattığını düşünmektedir. Kiraladığı özel dedektifin çektiği fotoğraflar, bu şüphelerini haklı çıkarır. Abby'nin evi terk ederek barda çalışan Ray'in yanına yerleşmesi ile iki adamın arasında, kimin galip geleceği son âna kadar belli olmayan bir mücadele başlayacaktır."
+  },
+  "poster": {
+    "tr": "/rwdByZqBoR47SAFesLpuCIkBFsT.jpg",
+    "en": "/n8D1gVXUgmW4kkDzUzzoezAmUUa.jpg"
+  },
+  "backdrops": [
+    "/rGPoNNk4fvgG2mvkNAxJJPlszOu.jpg",
+    "/1SXmeSZMAztwQuo6QirDfUApcsC.jpg",
+    "/1Duj07S5PPbOWBqso4hyb9zKvko.jpg",
+    "/zsBknWXdxepgWDC5Uehrgqr0kPK.jpg",
+    "/xnazxzuKWHR0MGckF8Nidr0qhr0.jpg",
+    "/i7ZnwVVUZtdXnr9uw1HECDYrYXh.jpg",
+    "/qDoYSKJ72jYNwf6Vi0Uh5a3EjQz.jpg",
+    "/r5JVQBakLoAbFYPSpbFogwTz1kx.jpg",
+    "/vpfzNPPAPoH0ABJG36d3LEbV3O8.jpg",
+    "/f0t4MFD8akV3iarbeyNdm6rqZSU.jpg"
+  ],
+  "trailerKey": "CO54LvO26zs",
+  "genreIds": [
+    80,
+    18,
+    53
+  ],
+  "keywordIds": [
+    1157,
+    5306,
+    1556,
+    4320,
+    6021,
+    10594,
+    15127,
+    33456,
+    34094,
+    155704,
+    155790,
+    166571,
+    207268
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "River Road Productions",
+    "Foxton Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 1224,
+      "job": "producer"
+    },
+    {
+      "personId": 1223,
+      "job": "director"
+    },
+    {
+      "personId": 5174,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1225,
+      "job": "composer"
+    },
+    {
+      "personId": 1223,
+      "job": "writer"
+    },
+    {
+      "personId": 1224,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20211,
+      "character": "Ray",
+      "order": 0
+    },
+    {
+      "personId": 3910,
+      "character": "Abby",
+      "order": 1
+    },
+    {
+      "personId": 6486,
+      "character": "Julian Marty",
+      "order": 2
+    },
+    {
+      "personId": 3017,
+      "character": "Meurice",
+      "order": 3
+    },
+    {
+      "personId": 588,
+      "character": "Private Detective",
+      "order": 4
+    },
+    {
+      "personId": 565188,
+      "character": "Debra",
+      "order": 5
+    },
+    {
+      "personId": 54764,
+      "character": "Landlady",
+      "order": 6
+    },
+    {
+      "personId": 565189,
+      "character": "Man from Lubbock",
+      "order": 7
+    },
+    {
+      "personId": 565190,
+      "character": "Mr. Garcia",
+      "order": 8
+    },
+    {
+      "personId": 565191,
+      "character": "Old Cracker",
+      "order": 9
+    },
+    {
+      "personId": 565192,
+      "character": "Strip Bar Exhorter",
+      "order": 10
+    },
+    {
+      "personId": 565193,
+      "character": "Strip Bar Senator",
+      "order": 11
+    },
+    {
+      "personId": 565194,
+      "character": "Stripper",
+      "order": 12
+    },
+    {
+      "personId": 565195,
+      "character": "Girl on Overlook",
+      "order": 13
+    },
+    {
+      "personId": 565196,
+      "character": "Radio Evangelist (voice)",
+      "order": 14
+    },
+    {
+      "personId": 18686,
+      "character": "Helene Trend (voice) (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 5174,
+      "character": "Marty's Vomiting (voice) (uncredited)",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 1711,
+  "sources": [
+    "cult-list"
+  ]
+}

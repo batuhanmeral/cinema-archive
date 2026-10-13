@@ -1,0 +1,192 @@
+{
+  "tmdbId": 27717,
+  "slug": "the-phantom-planet-1961",
+  "year": 1961,
+  "runtime": 82,
+  "originalTitle": "The Phantom Planet",
+  "title": {
+    "en": "The Phantom Planet",
+    "tr": "The Phantom Planet"
+  },
+  "overview": {
+    "en": "After an asteroid draws an astronaut and his ship to its surface, he is miniaturized by the phantom planet's exotic atmosphere.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tqXs9OlNv09D3AIkl14Rlw9pTJT.jpg",
+    "en": "/tqXs9OlNv09D3AIkl14Rlw9pTJT.jpg"
+  },
+  "backdrops": [
+    "/rgDMsPdrhRVzTCBkL5la1f5GGF6.jpg",
+    "/vUAt2zmFNApylTuNSm7oUKo6qm4.jpg",
+    "/kSsdSBt0wyWWqXkQjpxcBXgqhia.jpg",
+    "/bmsxjQ7W20AURQ3bkUK4SZunRZw.jpg",
+    "/oQN1cjaQeAfnLprwKCGEhydzztr.jpg",
+    "/8ZQPrvC7WP2QwARfPc02h5k6sJs.jpg",
+    "/rJ4q4nWoHdrKYsbnoxrjwh70dHB.jpg",
+    "/p0lGmv61RaTQMWYG1yejKKTvw3Y.jpg",
+    "/2tyMK0f70Eba0HObk1ofqMImlzc.jpg",
+    "/eGHQU4JwY9zwA6907t87TkhY4uF.jpg"
+  ],
+  "trailerKey": "9VG7Elw9TDA",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    305,
+    1423,
+    3801,
+    9951,
+    9882,
+    12101,
+    155493
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Four Crown Productions",
+    "American International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 98825,
+      "job": "writer"
+    },
+    {
+      "personId": 98826,
+      "job": "writer"
+    },
+    {
+      "personId": 233714,
+      "job": "writer"
+    },
+    {
+      "personId": 96716,
+      "job": "director"
+    },
+    {
+      "personId": 233714,
+      "job": "producer"
+    },
+    {
+      "personId": 2175519,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 100146,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 98827,
+      "character": "Captain Frank Chapman",
+      "order": 0
+    },
+    {
+      "personId": 3336,
+      "character": "Liara",
+      "order": 1
+    },
+    {
+      "personId": 98828,
+      "character": "Herron",
+      "order": 2
+    },
+    {
+      "personId": 225520,
+      "character": "Zetha",
+      "order": 3
+    },
+    {
+      "personId": 50837,
+      "character": "Sessom",
+      "order": 4
+    },
+    {
+      "personId": 98829,
+      "character": "Lt. Ray Makonnen",
+      "order": 5
+    },
+    {
+      "personId": 98830,
+      "character": "Judge Eden",
+      "order": 6
+    },
+    {
+      "personId": 98831,
+      "character": "Col. Lansfield",
+      "order": 7
+    },
+    {
+      "personId": 2175521,
+      "character": "Capt. Leonard",
+      "order": 8
+    },
+    {
+      "personId": 19613,
+      "character": "Lt. White",
+      "order": 9
+    },
+    {
+      "personId": 98833,
+      "character": "Captain Beecher",
+      "order": 10
+    },
+    {
+      "personId": 290424,
+      "character": "Lt. Cutler",
+      "order": 11
+    },
+    {
+      "personId": 160697,
+      "character": "Lt. Webb",
+      "order": 12
+    },
+    {
+      "personId": 2175522,
+      "character": "Communications Officer",
+      "order": 13
+    },
+    {
+      "personId": 2175523,
+      "character": "Radar Officer",
+      "order": 14
+    },
+    {
+      "personId": 10460,
+      "character": "The Solarite",
+      "order": 15
+    },
+    {
+      "personId": 1529060,
+      "character": "Juror",
+      "order": 16
+    },
+    {
+      "personId": 102825,
+      "character": "Juror",
+      "order": 17
+    },
+    {
+      "personId": 2175524,
+      "character": "Juror",
+      "order": 18
+    },
+    {
+      "personId": 2175525,
+      "character": "Juror",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 74,
+  "sources": [
+    "cult-list"
+  ]
+}

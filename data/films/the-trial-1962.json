@@ -1,0 +1,223 @@
+{
+  "tmdbId": 3009,
+  "slug": "the-trial-1962",
+  "year": 1962,
+  "runtime": 119,
+  "originalTitle": "Le Procès",
+  "title": {
+    "en": "The Trial",
+    "tr": "Dava"
+  },
+  "overview": {
+    "en": "Arrested for an unnamed crime, Josef K. is trapped in a surreal bureaucratic maze where justice is unknowable and guilt is assumed.",
+    "tr": "Bir sabah odasında uyandığında karşısında polisleri bulan ve onlardan hakkında bir dava açılmış olduğunu öğrenen, ancak ne ile suçlandığını bir türlü öğrenemeyen banka memuru Josef K.'nın gerçek dışı ve absürd durumunun anlatıldığı film, toplum içinde bireyin var oluş yalnızlığını ve paranoyak kâbuslarını romana sadık kalarak yansıtmaktadır. Bir yandan insanın gizli kalmış korkuları, diğer yandan da bürokrasinin çıldırtan yapısı gözler önüne serilmektedir."
+  },
+  "poster": {
+    "tr": "/4qDUe5HqB8pXNplSBlsoyVjNP3r.jpg",
+    "en": "/sl3sO7rwfNsVHeH3UHKaIV3A3MW.jpg"
+  },
+  "backdrops": [
+    "/yhfHeIsR5Ki02b5SqBuLqAsLDCk.jpg",
+    "/yu9qGxtYX4cVFWWVcrdvIcTjf96.jpg",
+    "/ciC1MRPPcvCpULFRh0FvSvdgKeX.jpg",
+    "/1LyLZcfa3EHy5nJaG0rWUHzJdCT.jpg",
+    "/h0Hsa8wMGsBSfNgBGrMi11Vl5Qu.jpg",
+    "/ijcjdvBn9XKdJ9nqxAl26iQb4Ym.jpg",
+    "/qpG5NdGILu1c2anz7FQKi4zYQFQ.jpg",
+    "/vefJ78IUtZLcAwd7j9uAZiQpZ7b.jpg",
+    "/u3wJfbyrAjaaatEBBAkv3KILNb0.jpg",
+    "/oprtwCkHcHcIQyIxngdNCa8uFxO.jpg"
+  ],
+  "trailerKey": "ae3-01zSQOs",
+  "genreIds": [
+    80,
+    18,
+    9648
+  ],
+  "keywordIds": [
+    211,
+    818,
+    6148,
+    3679,
+    738,
+    2340,
+    4565,
+    1755,
+    3307,
+    9887,
+    11038,
+    10705,
+    11297,
+    10507,
+    14765,
+    15271,
+    33519,
+    158455,
+    164193,
+    173083,
+    186782,
+    189931,
+    193554,
+    201064,
+    211823,
+    221188,
+    222519,
+    241779,
+    251667,
+    268806,
+    281363,
+    284631,
+    286954,
+    302211,
+    310107,
+    310331,
+    325763,
+    339700
+  ],
+  "countries": [
+    "FR",
+    "DE",
+    "IT"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Hisa-Film",
+    "Paris-Europa Productions",
+    "Finanziaria Cinematografica Italiana (FICIT)"
+  ],
+  "crew": [
+    {
+      "personId": 40,
+      "job": "director"
+    },
+    {
+      "personId": 40,
+      "job": "writer"
+    },
+    {
+      "personId": 29537,
+      "job": "producer"
+    },
+    {
+      "personId": 19529,
+      "job": "composer"
+    },
+    {
+      "personId": 14808,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 72058,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7301,
+      "character": "Josef K.",
+      "order": 0
+    },
+    {
+      "personId": 6250,
+      "character": "Leni",
+      "order": 1
+    },
+    {
+      "personId": 40,
+      "character": "Albert Hastler",
+      "order": 2
+    },
+    {
+      "personId": 30719,
+      "character": "Bloch",
+      "order": 3
+    },
+    {
+      "personId": 14812,
+      "character": "Marika Burstner",
+      "order": 4
+    },
+    {
+      "personId": 29428,
+      "character": "Hilda",
+      "order": 5
+    },
+    {
+      "personId": 30720,
+      "character": "Miss Pittl",
+      "order": 6
+    },
+    {
+      "personId": 30721,
+      "character": "Mrs. Grubach",
+      "order": 7
+    },
+    {
+      "personId": 30722,
+      "character": "Uncle Max",
+      "order": 8
+    },
+    {
+      "personId": 1171151,
+      "character": "Examining Magistrate",
+      "order": 9
+    },
+    {
+      "personId": 84250,
+      "character": "Inspector A",
+      "order": 10
+    },
+    {
+      "personId": 33723,
+      "character": "Assistant Inspector #2",
+      "order": 11
+    },
+    {
+      "personId": 35958,
+      "character": "Assistant Inspector #1",
+      "order": 12
+    },
+    {
+      "personId": 39177,
+      "character": "Deputy Manager",
+      "order": 13
+    },
+    {
+      "personId": 2056464,
+      "character": "Irmie",
+      "order": 14
+    },
+    {
+      "personId": 38172,
+      "character": "Policeman",
+      "order": 15
+    },
+    {
+      "personId": 582274,
+      "character": "Policeman",
+      "order": 16
+    },
+    {
+      "personId": 112757,
+      "character": "Man In Leather",
+      "order": 17
+    },
+    {
+      "personId": 34583,
+      "character": "Chief Clerk of the Law Court",
+      "order": 18
+    },
+    {
+      "personId": 237033,
+      "character": "Bert the Law Student",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 596,
+  "sources": [
+    "cult-list"
+  ]
+}

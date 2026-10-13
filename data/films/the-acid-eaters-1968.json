@@ -1,0 +1,156 @@
+{
+  "tmdbId": 88580,
+  "slug": "the-acid-eaters-1968",
+  "year": 1968,
+  "runtime": 62,
+  "originalTitle": "The Acid Eaters",
+  "title": {
+    "en": "The Acid Eaters",
+    "tr": "The Acid Eaters"
+  },
+  "overview": {
+    "en": "A group of office workers go every Friday afternoon to the White Pyramid, a 50-foot tower of LSD.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/p3iC9eFrbOlSkLJvLN8tf0A005Z.jpg",
+    "en": "/p3iC9eFrbOlSkLJvLN8tf0A005Z.jpg"
+  },
+  "backdrops": [
+    "/m8CqqaRSRuIaXJkTvmP2FHtwcxP.jpg"
+  ],
+  "trailerKey": "UcahTADNsAQ",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1817,
+    2804,
+    5498,
+    14964,
+    184392,
+    308523
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "III Lions"
+  ],
+  "crew": [
+    {
+      "personId": 995608,
+      "job": "writer"
+    },
+    {
+      "personId": 105085,
+      "job": "director"
+    },
+    {
+      "personId": 99934,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 105085,
+      "job": "producer"
+    },
+    {
+      "personId": 99934,
+      "job": "producer"
+    },
+    {
+      "personId": 45496,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 112572,
+      "character": "Ollie",
+      "order": 0
+    },
+    {
+      "personId": 1078820,
+      "character": "Genna",
+      "order": 1
+    },
+    {
+      "personId": 111489,
+      "character": "Artie / The Devil",
+      "order": 2
+    },
+    {
+      "personId": 45170,
+      "character": "Chickie",
+      "order": 3
+    },
+    {
+      "personId": 1078821,
+      "character": "Girl",
+      "order": 4
+    },
+    {
+      "personId": 3161252,
+      "character": "Fran",
+      "order": 5
+    },
+    {
+      "personId": 3161253,
+      "character": "Smiley",
+      "order": 6
+    },
+    {
+      "personId": 3161255,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 3161256,
+      "character": "Big Jack",
+      "order": 8
+    },
+    {
+      "personId": 3161257,
+      "character": "Marsha",
+      "order": 9
+    },
+    {
+      "personId": 3161258,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 3161259,
+      "character": "Miner",
+      "order": 11
+    },
+    {
+      "personId": 3161260,
+      "character": "Indian Chief",
+      "order": 12
+    },
+    {
+      "personId": 3161261,
+      "character": "John",
+      "order": 13
+    },
+    {
+      "personId": 121344,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1420742,
+      "character": "Norma (uncredited)",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 14,
+  "sources": [
+    "cult-list"
+  ]
+}

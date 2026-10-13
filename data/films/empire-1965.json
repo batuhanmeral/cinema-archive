@@ -1,0 +1,65 @@
+{
+  "tmdbId": 108419,
+  "slug": "empire-1965",
+  "year": 1965,
+  "runtime": 479,
+  "originalTitle": "Empire",
+  "title": {
+    "en": "Empire",
+    "tr": "Empire"
+  },
+  "overview": {
+    "en": "Filmed by Jonas Mekas from the 44th floor of the Time-Life Building, “Empire” explores the passage of time without the use of characters or a traditional narrative. The film, that consists of one stationary shot of the Empire State Building, was made from standard 1,200-foot rolls of 16mm film with a more than eight-hour runtime.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qPV0RWUAZFMsNNSJtqA8pXU5xfW.jpg",
+    "en": "/jUgvqafSJBLOQTrshFUaYAJK9LP.jpg"
+  },
+  "backdrops": [
+    "/4MZwxXhz4iGPsm5t3gcMrBVQYWS.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    15216,
+    189008,
+    285787
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Andy Warhol Films"
+  ],
+  "crew": [
+    {
+      "personId": 18626,
+      "job": "director"
+    },
+    {
+      "personId": 18626,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1092208,
+      "character": "Self (uncredited)",
+      "order": 0
+    },
+    {
+      "personId": 18626,
+      "character": "Self (uncredited)",
+      "order": 1
+    }
+  ],
+  "awards": {},
+  "voteCount": 46,
+  "sources": [
+    "cult-list"
+  ]
+}

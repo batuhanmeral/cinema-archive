@@ -1,0 +1,205 @@
+{
+  "tmdbId": 187,
+  "slug": "sin-city-2005",
+  "year": 2005,
+  "runtime": 124,
+  "originalTitle": "Sin City",
+  "title": {
+    "en": "Sin City",
+    "tr": "Günah Şehri"
+  },
+  "overview": {
+    "en": "Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark… Hard-boiled. Then there are those who call it home — Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.",
+    "tr": "Marv, aşık olduğu kadınla ilk kez bir geceyi beraber geçirdikten sonra ne yazık ki ertesi sabah onun, yanı başında öldüğünü görür. Ancak konumları gereğince söz konusu cinayetin esas zanlısı pozisyonuna düşen Marv, polis tarafından aranırken kendisi de esas katilin peşine düşmüştür. Bir yandan kaçıp diğer yandan kovalarken yeterince zor bir işin içine girmiştir bile."
+  },
+  "poster": {
+    "tr": "/uKYgWTU2CyRXtDN6Opph104V29H.jpg",
+    "en": "/i66G50wATMmPrvpP95f0XP6ZdVS.jpg"
+  },
+  "backdrops": [
+    "/t9kQnqiaxQ8TLB25rTzDKLd0fdM.jpg",
+    "/lt1rGQSqhk2T2T4lHo6CTQYvoWP.jpg",
+    "/9DDFF4b2XxskclBl0ebcBWb1qLN.jpg",
+    "/qjXy684kUH0li4SSBIzkTtOOSo6.jpg",
+    "/oBIrbJwI096DPTpikPcBtYb8mpg.jpg",
+    "/4WzA3i3gGWpqSe88pTs7wCSx070.jpg",
+    "/wPhp5s5Ikp2EegfjlvuFG3KO6mV.jpg",
+    "/p6GFLw0I9nvFpfygnHulkguP1vq.jpg",
+    "/cZZgguD5OQX3YZEj13nzkHryyAT.jpg",
+    "/bsFSDTbSCYVP9WNgpJ5JNbJWxYc.jpg"
+  ],
+  "trailerKey": "0p0h_YCinMs",
+  "genreIds": [
+    80,
+    53
+  ],
+  "keywordIds": [
+    4565,
+    9717,
+    9706,
+    12999,
+    15365,
+    18712,
+    175593,
+    175600,
+    175610,
+    207268,
+    309974
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Dimension Films",
+    "Troublemaker Studios",
+    "Miramax"
+  ],
+  "crew": [
+    {
+      "personId": 4500,
+      "job": "composer"
+    },
+    {
+      "personId": 2294,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5912,
+      "job": "composer"
+    },
+    {
+      "personId": 2294,
+      "job": "director"
+    },
+    {
+      "personId": 5911,
+      "job": "producer"
+    },
+    {
+      "personId": 2294,
+      "job": "composer"
+    },
+    {
+      "personId": 2293,
+      "job": "director"
+    },
+    {
+      "personId": 2293,
+      "job": "writer"
+    },
+    {
+      "personId": 2294,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62,
+      "character": "Hartigan",
+      "order": 0
+    },
+    {
+      "personId": 56731,
+      "character": "Nancy",
+      "order": 1
+    },
+    {
+      "personId": 2296,
+      "character": "Dwight",
+      "order": 2
+    },
+    {
+      "personId": 2295,
+      "character": "Marv",
+      "order": 3
+    },
+    {
+      "personId": 585,
+      "character": "Cardinal Roark",
+      "order": 4
+    },
+    {
+      "personId": 1121,
+      "character": "Jackie Boy",
+      "order": 5
+    },
+    {
+      "personId": 6279,
+      "character": "Becky",
+      "order": 6
+    },
+    {
+      "personId": 147,
+      "character": "Bob",
+      "order": 7
+    },
+    {
+      "personId": 6280,
+      "character": "Senator Roark",
+      "order": 8
+    },
+    {
+      "personId": 6408,
+      "character": "Roark Jr. / Yellow Bastard",
+      "order": 9
+    },
+    {
+      "personId": 6278,
+      "character": "Miho",
+      "order": 10
+    },
+    {
+      "personId": 61981,
+      "character": "Manute",
+      "order": 11
+    },
+    {
+      "personId": 5916,
+      "character": "Gail",
+      "order": 12
+    },
+    {
+      "personId": 17832,
+      "character": "Lucille",
+      "order": 13
+    },
+    {
+      "personId": 2299,
+      "character": "The Man",
+      "order": 14
+    },
+    {
+      "personId": 5915,
+      "character": "Goldie / Wendy",
+      "order": 15
+    },
+    {
+      "personId": 328,
+      "character": "Shellie",
+      "order": 16
+    },
+    {
+      "personId": 109,
+      "character": "Kevin",
+      "order": 17
+    },
+    {
+      "personId": 8693,
+      "character": "Liebowitz",
+      "order": 18
+    },
+    {
+      "personId": 23285,
+      "character": "Motorcycle Cop",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 9182,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "tmdbId": 28536,
+  "slug": "the-blancheville-monster-1963",
+  "year": 1963,
+  "runtime": 87,
+  "originalTitle": "Horror",
+  "title": {
+    "en": "The Blancheville Monster",
+    "tr": "Horror"
+  },
+  "overview": {
+    "en": "The beautiful young daughter of a crazed count fears that she will fall victim to the family curse - to be sacrificed to fulfill an ancient family legend.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/w7MNu0IkuW7czFyDgbrvY2ne4Yb.jpg",
+    "en": "/syEYu57XNddYDH4erblkKWr83w3.jpg"
+  },
+  "backdrops": [
+    "/90XLlpZPt2shuJ0QxQkAIg3oqBs.jpg",
+    "/bF92SVrs6228evVTXPwAgA8Jg7I.jpg",
+    "/zR8DmqRLqIzIoho9c3l4SRo1e6H.jpg"
+  ],
+  "trailerKey": "Cs3Fdce9Wo0",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    15032
+  ],
+  "countries": [
+    "ES",
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Llama Films",
+    "Film Columbus"
+  ],
+  "crew": [
+    {
+      "personId": 101108,
+      "job": "director"
+    },
+    {
+      "personId": 98746,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 56742,
+      "job": "writer"
+    },
+    {
+      "personId": 101110,
+      "job": "writer"
+    },
+    {
+      "personId": 49450,
+      "job": "writer"
+    },
+    {
+      "personId": 101111,
+      "job": "writer"
+    },
+    {
+      "personId": 101112,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14014,
+      "character": "Rodrigue De Blancheville",
+      "order": 0
+    },
+    {
+      "personId": 101113,
+      "character": "Dr. Lerouge",
+      "order": 1
+    },
+    {
+      "personId": 101114,
+      "character": "Emily De Blancheville",
+      "order": 2
+    },
+    {
+      "personId": 31700,
+      "character": "Miss Eleonore",
+      "order": 3
+    },
+    {
+      "personId": 101115,
+      "character": "Alice Taylor",
+      "order": 4
+    },
+    {
+      "personId": 101116,
+      "character": "John Taylor",
+      "order": 5
+    },
+    {
+      "personId": 101117,
+      "character": "Alistair",
+      "order": 6
+    },
+    {
+      "personId": 101118,
+      "character": "Cook",
+      "order": 7
+    },
+    {
+      "personId": 101119,
+      "character": "Gamekeeper",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 28,
+  "sources": [
+    "cult-list"
+  ]
+}

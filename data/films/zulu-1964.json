@@ -1,0 +1,197 @@
+{
+  "tmdbId": 14433,
+  "slug": "zulu-1964",
+  "year": 1964,
+  "runtime": 138,
+  "originalTitle": "Zulu",
+  "title": {
+    "en": "Zulu",
+    "tr": "Canlı Kafa Avcıları"
+  },
+  "overview": {
+    "en": "In 1879, during the Anglo-Zulu War, man-of-the-people Lt. Chard and snooty Lt. Bromhead are in charge of defending the isolated and vastly outnumbered Natal outpost of Rorke's Drift from tribal hordes.",
+    "tr": "Güney Afrika'da gerçekten yaşanmış tarihi bir olaya dayanan film, 100 İngiliz askerinin 1879 yılında Rorke's Geçidi'nde yer alan İngiliz ileri karakolu savunmasında 4.000 Zulu savaşçısına karşı verdiği mücadeleyi anlatmaktadır."
+  },
+  "poster": {
+    "tr": "/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg",
+    "en": "/43ddKmYjzNrvS7xvHVwtq03N6xP.jpg"
+  },
+  "backdrops": [
+    "/41ZWAGMttCr74dq7sAeh44QSJTQ.jpg",
+    "/of7SYTvbdo3iXWM2aGs9xtwFJp1.jpg",
+    "/oboNmxMuJ3V511qUHgiEsJwwYhw.jpg",
+    "/dx3vVBhbVwMoK6tNyr3qzgHPlQr.jpg",
+    "/uZVuJZIMsuIrAuaoKOP3CpG7vs6.jpg",
+    "/5jDL4AyxDoU4ImwzGd35ETbCqSX.jpg",
+    "/ekeiPXen0eZpucChwublG627yjX.jpg",
+    "/31a6LOGTnczJbRhm3RKJjbESwAK.jpg",
+    "/qRAvzAKutIpSQn5xewTpw2K2nIN.jpg",
+    "/vycOJQyQJvsr3nxBPN1xE53R1e7.jpg"
+  ],
+  "trailerKey": "6WuoiR0I8Es",
+  "genreIds": [
+    18,
+    36,
+    10752
+  ],
+  "keywordIds": [
+    409,
+    3644,
+    4100,
+    4107,
+    9672,
+    9917,
+    15060,
+    18087,
+    173453,
+    173455,
+    207928
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "zu"
+  ],
+  "studios": [
+    "Diamond Films UK"
+  ],
+  "crew": [
+    {
+      "personId": 76882,
+      "job": "director"
+    },
+    {
+      "personId": 2289,
+      "job": "composer"
+    },
+    {
+      "personId": 76882,
+      "job": "producer"
+    },
+    {
+      "personId": 67449,
+      "job": "producer"
+    },
+    {
+      "personId": 27926,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 76882,
+      "job": "writer"
+    },
+    {
+      "personId": 76884,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 67449,
+      "character": "Lt. John Chard R.E.",
+      "order": 0
+    },
+    {
+      "personId": 10018,
+      "character": "Rev. Otto Witt",
+      "order": 1
+    },
+    {
+      "personId": 25888,
+      "character": "Margareta Witt",
+      "order": 2
+    },
+    {
+      "personId": 15857,
+      "character": "Pte. Henry Hook",
+      "order": 3
+    },
+    {
+      "personId": 3895,
+      "character": "Lt. Gonville Bromhead",
+      "order": 4
+    },
+    {
+      "personId": 29909,
+      "character": "Colour Sgt. Frank Bourne",
+      "order": 5
+    },
+    {
+      "personId": 153078,
+      "character": "Sgt. Maxfield",
+      "order": 6
+    },
+    {
+      "personId": 2264,
+      "character": "Surgeon Reynolds",
+      "order": 7
+    },
+    {
+      "personId": 175965,
+      "character": "Cpl. Allen",
+      "order": 8
+    },
+    {
+      "personId": 2601,
+      "character": "Pvt. Thomas",
+      "order": 9
+    },
+    {
+      "personId": 1034794,
+      "character": "Pvt. Hitch",
+      "order": 10
+    },
+    {
+      "personId": 131507,
+      "character": "Pvt. Cole",
+      "order": 11
+    },
+    {
+      "personId": 5341,
+      "character": "Narration spoken (voice)",
+      "order": 12
+    },
+    {
+      "personId": 1474597,
+      "character": "Cetewayo",
+      "order": 13
+    },
+    {
+      "personId": 1296245,
+      "character": "Company cook",
+      "order": 14
+    },
+    {
+      "personId": 1120183,
+      "character": "Commissary Dalton",
+      "order": 15
+    },
+    {
+      "personId": 88921,
+      "character": "Adendorff",
+      "order": 16
+    },
+    {
+      "personId": 26120,
+      "character": "Stickman",
+      "order": 17
+    },
+    {
+      "personId": 1288562,
+      "character": "Stephenson",
+      "order": 18
+    },
+    {
+      "personId": 1580388,
+      "character": "Sergeant Windridge",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 592,
+  "sources": [
+    "cult-list"
+  ]
+}

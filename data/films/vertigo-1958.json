@@ -1,0 +1,206 @@
+{
+  "tmdbId": 426,
+  "slug": "vertigo-1958",
+  "year": 1958,
+  "runtime": 128,
+  "originalTitle": "Vertigo",
+  "title": {
+    "en": "Vertigo",
+    "tr": "Ölüm Korkusu"
+  },
+  "overview": {
+    "en": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+    "tr": "Vertigo, Hitchcock’un teknik ve işlediği konu itibariyle sinema tarihinin en önemli yapıtlarından biri olarak kabul edilir. Bir suçluyu kovalarken çatıdan düşen ortağını kurtaramayan dedektif Scottie Ferguson’da, bu olayın ardından yükseklik korkusu başgösterir. “Vertigo” hastalığına dönüşen bu korku nedeniyle mesleğini bırakıp emekli olan dedektir, eski bir arkadaşı tarafından, ruhsal sağlığından şüphe ettiği karısı Madeleine’ni izlemesi için kiralanır. Scottie de kadını daha yakından izledikçe bir şeylerin yolunda gitmediğini fark eder; dahası kadının intihara meyilli olduğunu görür. Artık işleri yoluna koymak için uzaktan takip etmek yetersiz kalacak, Scottie’yi kendi korkularıyla da yüzleşeceği bir mücadelenin içerisine sürükleyecektir."
+  },
+  "poster": {
+    "tr": "/yM6kRGeXo8feWDjNEO7hZBln8TK.jpg",
+    "en": "/15uOEfqBNTVtDUT7hGBVCka0rZz.jpg"
+  },
+  "backdrops": [
+    "/77aHwg1SCy89rfvQtiruPU58qEV.jpg",
+    "/rtVwkTqllcmyY4TVOycgVBHppWf.jpg",
+    "/7wt1DA7duYtUitwZs4ChV3VYGRx.jpg",
+    "/nbuxx2Vfl4SK6rRKOeHyVjXg6uE.jpg",
+    "/hHPOXC2DjG5OJkydhhnLy3OGPYB.jpg",
+    "/s3Eeszg2RVAnrB9XqtB83VI1Ogp.jpg",
+    "/oVDkfWqMMTNryxq60eQdVMMYaw7.jpg",
+    "/tsoBXSRD34TTvgOnS3EAtBCDMCN.jpg",
+    "/AtSpl8N9TbDB9nVXkEBTKFv72yj.jpg",
+    "/4udTK6mZ8zR2aCE0b0spddWWzMZ.jpg"
+  ],
+  "trailerKey": "UHhsEYDg8GI",
+  "genreIds": [
+    9648,
+    10749,
+    53
+  ],
+  "keywordIds": [
+    4812,
+    2038,
+    1335,
+    582,
+    1252,
+    1523,
+    1338,
+    703,
+    2599,
+    2567,
+    2598,
+    5918,
+    4617,
+    9807,
+    12393,
+    12565,
+    34268,
+    201456,
+    207268,
+    208251,
+    214746,
+    223521,
+    325787,
+    361716
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Alfred J. Hitchcock Productions"
+  ],
+  "crew": [
+    {
+      "personId": 2636,
+      "job": "producer"
+    },
+    {
+      "personId": 1045,
+      "job": "composer"
+    },
+    {
+      "personId": 2654,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5736,
+      "job": "writer"
+    },
+    {
+      "personId": 5735,
+      "job": "writer"
+    },
+    {
+      "personId": 2636,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 854,
+      "character": "Det. John 'Scottie' Ferguson",
+      "order": 0
+    },
+    {
+      "personId": 5729,
+      "character": "Madeleine Elster / Judy Barton",
+      "order": 1
+    },
+    {
+      "personId": 5730,
+      "character": "Marjorie 'Midge' Wood",
+      "order": 2
+    },
+    {
+      "personId": 5731,
+      "character": "Gavin Elster",
+      "order": 3
+    },
+    {
+      "personId": 5732,
+      "character": "Coroner",
+      "order": 4
+    },
+    {
+      "personId": 5737,
+      "character": "Scottie's Doctor",
+      "order": 5
+    },
+    {
+      "personId": 5738,
+      "character": "Manager of McKittrick Hotel",
+      "order": 6
+    },
+    {
+      "personId": 5739,
+      "character": "Pop Leibel",
+      "order": 7
+    },
+    {
+      "personId": 5740,
+      "character": "Car Owner Mistaken for Madeleine",
+      "order": 8
+    },
+    {
+      "personId": 121323,
+      "character": "Diner at Ernie's (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 2636,
+      "character": "Man Walking Past Elster's Office (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 2953170,
+      "character": "Priest (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1620078,
+      "character": "Nun (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1358454,
+      "character": "Older Mistaken Identity (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1559631,
+      "character": "Salesman (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 34609,
+      "character": "Captain Hansen (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 114497,
+      "character": "Burglar (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 111827,
+      "character": "Policeman on Rooftop (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 141067,
+      "character": "Diner at Ernie's (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1420897,
+      "character": "Diner at Ernie's (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 6589,
+  "sources": [
+    "cult-list"
+  ]
+}

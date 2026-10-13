@@ -1,0 +1,178 @@
+{
+  "tmdbId": 107199,
+  "slug": "the-delta-1997",
+  "year": 1997,
+  "runtime": 85,
+  "originalTitle": "The Delta",
+  "title": {
+    "en": "The Delta",
+    "tr": "The Delta"
+  },
+  "overview": {
+    "en": "In Memphis, a middle-class white teenager and a black Vietnamese immigrant meet in a gay cruising spot and discover what they don't have in common.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/a6qkTkU5B14VDuEnTHp9h71EZ6y.jpg",
+    "en": "/3IXYZz6wL6FgaYVs3NNEdScZH1d.jpg"
+  },
+  "backdrops": [
+    "/nkwEwThrYpNsFxh61PTz3Vz47XK.jpg",
+    "/jSXkVoiUxUtrUSEQRp8tzEN4Q9Q.jpg",
+    "/6EznO6NRExPSvOB7H2nobrBcKhD.jpg",
+    "/sTHKyv3P8ob0l3aMcekwWcsK5Ok.jpg",
+    "/gEN76FIO1hoNjzCj3A34tkdUUYN.jpg",
+    "/cSndg4NXpwUMqETCdQS3UV9sVTd.jpg",
+    "/vaRpK2q5sIwQ2c3VAbLc9KsKRT3.jpg",
+    "/gPOYx3kF6wZ58zv4XNTsudHsEmG.jpg",
+    "/yrE8OQRIADjOswZpwCnm6ldMKNd.jpg",
+    "/8a2Vi1utmuRWfvAslOVRSX6QHVh.jpg"
+  ],
+  "trailerKey": "Y65tTy6vs98",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    10131,
+    163037
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "vi"
+  ],
+  "studios": [
+    "Charlie Guidance Productions"
+  ],
+  "crew": [
+    {
+      "personId": 53708,
+      "job": "director"
+    },
+    {
+      "personId": 53708,
+      "job": "writer"
+    },
+    {
+      "personId": 1470187,
+      "job": "producer"
+    },
+    {
+      "personId": 105669,
+      "job": "composer"
+    },
+    {
+      "personId": 1684080,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1041375,
+      "character": "Lincoln Bloom",
+      "order": 0
+    },
+    {
+      "personId": 1041376,
+      "character": "Minh Nguyen (John)",
+      "order": 1
+    },
+    {
+      "personId": 1041377,
+      "character": "Monica Rachel",
+      "order": 2
+    },
+    {
+      "personId": 1041378,
+      "character": "Ricky Little",
+      "order": 3
+    },
+    {
+      "personId": 1041379,
+      "character": "Gary Bloom",
+      "order": 4
+    },
+    {
+      "personId": 4213885,
+      "character": "Cece Bloom",
+      "order": 5
+    },
+    {
+      "personId": 4213886,
+      "character": "Sam Bloom",
+      "order": 6
+    },
+    {
+      "personId": 2169125,
+      "character": "Ken Bloom",
+      "order": 7
+    },
+    {
+      "personId": 4213888,
+      "character": "Denise Bloom",
+      "order": 8
+    },
+    {
+      "personId": 4213892,
+      "character": "Debbie Bloom",
+      "order": 9
+    },
+    {
+      "personId": 4213889,
+      "character": "Man in Park",
+      "order": 10
+    },
+    {
+      "personId": 4213891,
+      "character": "Donut Shop Clerk",
+      "order": 11
+    },
+    {
+      "personId": 2884277,
+      "character": "Bernice",
+      "order": 12
+    },
+    {
+      "personId": 4213894,
+      "character": "Danny",
+      "order": 13
+    },
+    {
+      "personId": 4213895,
+      "character": "Tina Clifton",
+      "order": 14
+    },
+    {
+      "personId": 4213896,
+      "character": "Jacquie Clifton",
+      "order": 15
+    },
+    {
+      "personId": 4213898,
+      "character": "Gloria Clifton",
+      "order": 16
+    },
+    {
+      "personId": 4213899,
+      "character": "Club Bouncer",
+      "order": 17
+    },
+    {
+      "personId": 4213900,
+      "character": "Michael (kid on bike)",
+      "order": 18
+    },
+    {
+      "personId": 4213901,
+      "character": "2nd kid on bike",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 29,
+  "sources": [
+    "cult-list"
+  ]
+}

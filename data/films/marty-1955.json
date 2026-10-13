@@ -1,0 +1,195 @@
+{
+  "tmdbId": 15919,
+  "slug": "marty-1955",
+  "year": 1955,
+  "runtime": 90,
+  "originalTitle": "Marty",
+  "title": {
+    "en": "Marty",
+    "tr": "Marty"
+  },
+  "overview": {
+    "en": "Marty, a butcher who lives in the Bronx with his mother, is unmarried at 34. Good-natured but socially awkward, he faces constant badgering from family and friends to get married but has reluctantly resigned himself to bachelorhood. He then meets Clara, an unattractive school teacher. Realising their emotional connection, Marty promises to call, but family and friends try to convince him not to.",
+    "tr": "\"İsimsiz bir kahramanın aşk hikâyesi!\" olarak nitelendirilen Marty, İtalyan tipi baskın kadın karakterine sahip annesiyle birlikte yaşayan bir adamı anlatan öyküsüyle izleyicileri etkiledi. En iyi arkadaşı Angie'yle (Joe Mantell) beraber kendisine uygun birilerini arayıp duran Marty, Clara'yla (Betsy Blair) tanışır ve kısa süre içinde flört etmeye başlarlar. Angie derhal kıskançlığa kapılır ve Bayan Pilletti (Esther Minciotti) terk edilmişlik bunalımları yaşayarak meseleyi daha da karmaşık hale getirir ama Marty sonunda Clara'nın peşinden gider çünkü onu sevmektedir.  Özet olarak Annesiyle yaşayan orta yaşlı bir kasapla bir öğretmenin aşkını anlatan film, sıradan insanın duygusallığını yansıtıyor."
+  },
+  "poster": {
+    "tr": "/8tnGO5VoAQII4DbE3hozWKhV4BY.jpg",
+    "en": "/8tnGO5VoAQII4DbE3hozWKhV4BY.jpg"
+  },
+  "backdrops": [
+    "/zhZtaNcjtc6VgV8SC4VlokiaeNt.jpg",
+    "/ukDLiI19ZuMrlIcd9M9erv3PGKZ.jpg",
+    "/ij5qd8DIcbl2xw5S6xPKzpjJzy.jpg",
+    "/3jwCewlvuiFyQkeM4plUu2usipA.jpg",
+    "/uOHoIVsmdWV1cslPJ0tekzTdSIv.jpg",
+    "/koDwYen6IzKIUDBCJFMEY0040H2.jpg",
+    "/9OuxEOzbtFhCMTE0idPavOLpZwH.jpg",
+    "/lKt8xkVhScMdso8W3k8lp6ZgiwA.jpg",
+    "/2zpDSVVuxfSJRjimdOTJSlBx8F2.jpg",
+    "/ntg6UEBoHwSbI7bbJKk5rpLQIow.jpg"
+  ],
+  "trailerKey": "nchN0nEsXnA",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    700,
+    1338,
+    6038,
+    4452,
+    10508,
+    9673,
+    12544,
+    13043,
+    14646,
+    186403,
+    197823,
+    210019
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Hecht-Lancaster Productions"
+  ],
+  "crew": [
+    {
+      "personId": 67451,
+      "job": "director"
+    },
+    {
+      "personId": 31498,
+      "job": "writer"
+    },
+    {
+      "personId": 13780,
+      "job": "producer"
+    },
+    {
+      "personId": 13784,
+      "job": "producer"
+    },
+    {
+      "personId": 4345,
+      "job": "composer"
+    },
+    {
+      "personId": 4101,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7502,
+      "character": "Marty",
+      "order": 0
+    },
+    {
+      "personId": 78934,
+      "character": "Clara",
+      "order": 1
+    },
+    {
+      "personId": 78935,
+      "character": "Mrs. Piletti",
+      "order": 2
+    },
+    {
+      "personId": 78936,
+      "character": "Aunt Catherine",
+      "order": 3
+    },
+    {
+      "personId": 78937,
+      "character": "Angie",
+      "order": 4
+    },
+    {
+      "personId": 15644,
+      "character": "Virginia",
+      "order": 5
+    },
+    {
+      "personId": 41720,
+      "character": "Tommy",
+      "order": 6
+    },
+    {
+      "personId": 84935,
+      "character": "Mr. Snyder (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 133738,
+      "character": "Man in Bar (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 86402,
+      "character": "Lou (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 31498,
+      "character": "Leo (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 134613,
+      "character": "Andy (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 67064,
+      "character": "Kid (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 215618,
+      "character": "(uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 151547,
+      "character": "(uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 111579,
+      "character": "Butcher (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 85776,
+      "character": "Joe (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 140276,
+      "character": "Irish Lady Talking in Bar (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 148853,
+      "character": "Bar Patron (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 725,
+      "character": "Ballroom Patron (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 4,
+    "cannes": 1
+  },
+  "voteCount": 483,
+  "sources": [
+    "cult-list"
+  ]
+}

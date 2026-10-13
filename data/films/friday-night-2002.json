@@ -1,0 +1,159 @@
+{
+  "tmdbId": 45044,
+  "slug": "friday-night-2002",
+  "year": 2002,
+  "runtime": 86,
+  "originalTitle": "Vendredi soir",
+  "title": {
+    "en": "Friday Night",
+    "tr": "Vendredi soir"
+  },
+  "overview": {
+    "en": "The night before she is to move in with her boyfriend, a young Parisian woman picks up a male hitchhiker, leading to a highly charged and impossibly erotic detour.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/oBLkiNfPaXGKQHwSd8I9Ta36UTZ.jpg",
+    "en": "/hiL154PbxQyblGHBZfUWvyewsrL.jpg"
+  },
+  "backdrops": [
+    "/pGhhVEI5s7b7fVOqswYz0p5TviB.jpg",
+    "/4TwBMvs4CUWU7U79KwgFs0JRQXY.jpg",
+    "/3qbjZMXjUe397QVp1z23sFjDlTK.jpg",
+    "/fsryUBrg3tsUgZWtONpO5wvJYNT.jpg",
+    "/a7hm2Eae90OMbcbenkHE6ix8n4j.jpg",
+    "/uqlpTKwGXZBcUUvnH6shGAggPUW.jpg",
+    "/vb0tqwa5opwuxDK9zPVtKpUIKmH.jpg",
+    "/u2pAqU6bP58OzNPMsiOEU7CbRiT.jpg",
+    "/3vh8I8e7QRbjcDwsnFamel6tsCJ.jpg",
+    "/diTeekHcjBNaLJZgHysrGUYAerK.jpg"
+  ],
+  "trailerKey": "zmAjqA35KhY",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    187056,
+    190370
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Arena Films",
+    "France 2 Cinéma",
+    "France Télévision Images"
+  ],
+  "crew": [
+    {
+      "personId": 9888,
+      "job": "director"
+    },
+    {
+      "personId": 9888,
+      "job": "writer"
+    },
+    {
+      "personId": 4388,
+      "job": "writer"
+    },
+    {
+      "personId": 14196,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 53712,
+      "job": "composer"
+    },
+    {
+      "personId": 71400,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62531,
+      "character": "Laure",
+      "order": 0
+    },
+    {
+      "personId": 5443,
+      "character": "Jean",
+      "order": 1
+    },
+    {
+      "personId": 32513,
+      "character": "The Tired Woman",
+      "order": 2
+    },
+    {
+      "personId": 146170,
+      "character": "Marie",
+      "order": 3
+    },
+    {
+      "personId": 136170,
+      "character": "Young Man in Parka",
+      "order": 4
+    },
+    {
+      "personId": 77310,
+      "character": "Pinball Girl",
+      "order": 5
+    },
+    {
+      "personId": 3453580,
+      "character": "Husband of The Tired Woman",
+      "order": 6
+    },
+    {
+      "personId": 81144,
+      "character": "Receptionist",
+      "order": 7
+    },
+    {
+      "personId": 1188528,
+      "character": "Hotel Manager",
+      "order": 8
+    },
+    {
+      "personId": 1739576,
+      "character": "Server",
+      "order": 9
+    },
+    {
+      "personId": 151976,
+      "character": "Buyer",
+      "order": 10
+    },
+    {
+      "personId": 233287,
+      "character": "Van Driver",
+      "order": 11
+    },
+    {
+      "personId": 3075949,
+      "character": "Man of the Collision",
+      "order": 12
+    },
+    {
+      "personId": 563375,
+      "character": "Second Man of the Collision",
+      "order": 13
+    },
+    {
+      "personId": 3453583,
+      "character": "Woman of the Collision",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 38,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "tmdbId": 4202,
+  "slug": "danton-1983",
+  "year": 1983,
+  "runtime": 136,
+  "originalTitle": "Danton",
+  "title": {
+    "en": "Danton",
+    "tr": "Danton"
+  },
+  "overview": {
+    "en": "Danton and Robespierre were close friends and fought together in the French Revolution, but by 1793 Robespierre was France's ruler, determined to wipe out opposition with a series of mass executions that became known as the Reign of Terror. Danton, well known as a spokesman of the people, had been living in relative solitude in the French countryside, but he returned to Paris to challenge Robespierre's violent rule and call for the people to demand their rights. Robespierre, however, could not accept such a challenge, even from a friend and colleague, and he blocked out a plan for the capture and execution of Danton and his allies.",
+    "tr": "1789'da gerçekleşen devrim tüm Fransa'yı kana bular. Devrimin Paris'teki önderleri arasında Danton ve Robespierre de vardır. Bu iki dost, temellerini attıkları cumhuriyetin üzerinden dört yıl geçmeden birbirlerine düşman olur ve sonunda Danton gönüllü bir sürgüne çıkar. Ancak çevresindeki herkesi rejim düşmanı olarak gören ve vatana ihanetten giyotine gönderen Robespierre'in aşırı sert politikalarına daha fazla dayanamaz. Ölümü göze alarak Paris’e döner ve Terör Dönemi denen çılgınlığa son vermeyi dener."
+  },
+  "poster": {
+    "tr": "/az5XParmpea0fxAjwEgHpUrXzw0.jpg",
+    "en": "/fR3MujUz2AX3iFWKlLEDEKvoW4L.jpg"
+  },
+  "backdrops": [
+    "/azsdBXsRuGPZNgAEYrpnfaPVDWg.jpg",
+    "/ydVjYOjS1wTFNbPgjUmCw9gT8U5.jpg",
+    "/7ATY528SILCvAq7vQsllZPK5PI9.jpg",
+    "/faYFSE7RPIIHJK894CNWHRmLEXO.jpg",
+    "/zFzOt7GsjgqLAq09Z6C2XUKAaeN.jpg",
+    "/zAsmSVS5DUw31hsVLbn3M8EeI0B.jpg",
+    "/bnzN6cGxDMGboBB5Pq9L7nRnPGy.jpg",
+    "/nnjgnGsttmHsxuDVL4nxObvNDYc.jpg",
+    "/qnvgSmT6lAr1jRUQxw7ym2SeveF.jpg",
+    "/vFOp4BHGHaEsVNUcGMOeJBjXasg.jpg"
+  ],
+  "trailerKey": "zT4e8D80xXI",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    254,
+    1829,
+    4098,
+    4319,
+    5565,
+    6317,
+    11038,
+    6079,
+    15060,
+    18074,
+    18339,
+    33519,
+    33640,
+    160279,
+    187293,
+    227888,
+    236246,
+    236263,
+    250107,
+    255530,
+    273124,
+    296806,
+    307897,
+    330439,
+    342760,
+    361948
+  ],
+  "countries": [
+    "FR",
+    "PL"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Gaumont",
+    "Zespół Filmowy \"X\""
+  ],
+  "crew": [
+    {
+      "personId": 2801,
+      "job": "director"
+    },
+    {
+      "personId": 9747,
+      "job": "writer"
+    },
+    {
+      "personId": 1128,
+      "job": "writer"
+    },
+    {
+      "personId": 6100,
+      "job": "producer"
+    },
+    {
+      "personId": 7103,
+      "job": "producer"
+    },
+    {
+      "personId": 36125,
+      "job": "composer"
+    },
+    {
+      "personId": 10253,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2801,
+      "job": "writer"
+    },
+    {
+      "personId": 23554,
+      "job": "writer"
+    },
+    {
+      "personId": 267339,
+      "job": "writer"
+    },
+    {
+      "personId": 6313,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16927,
+      "character": "Georges Danton",
+      "order": 0
+    },
+    {
+      "personId": 7108,
+      "character": "Maximilien Robespierre",
+      "order": 1
+    },
+    {
+      "personId": 23724,
+      "character": "Camille Desmoulins",
+      "order": 2
+    },
+    {
+      "personId": 10255,
+      "character": "Lucile Desmoulins",
+      "order": 3
+    },
+    {
+      "personId": 24763,
+      "character": "Lacroix of Eure-et-Loir",
+      "order": 4
+    },
+    {
+      "personId": 24382,
+      "character": "François Héron",
+      "order": 5
+    },
+    {
+      "personId": 35323,
+      "character": "François-Joseph Westermann",
+      "order": 6
+    },
+    {
+      "personId": 35324,
+      "character": "Eléonore Duplay",
+      "order": 7
+    },
+    {
+      "personId": 144972,
+      "character": "Antoine de Saint-Just",
+      "order": 8
+    },
+    {
+      "personId": 589164,
+      "character": "Louison Danton",
+      "order": 9
+    },
+    {
+      "personId": 66460,
+      "character": "André Amar",
+      "order": 10
+    },
+    {
+      "personId": 47085,
+      "character": "Martial Herman",
+      "order": 11
+    },
+    {
+      "personId": 80168,
+      "character": "Robert Lindet",
+      "order": 12
+    },
+    {
+      "personId": 1083400,
+      "character": "Georges Couthon",
+      "order": 13
+    },
+    {
+      "personId": 130450,
+      "character": "Étienne-Jean Panis",
+      "order": 14
+    },
+    {
+      "personId": 2830,
+      "character": "Bertrand Barère de Vieuzac",
+      "order": 15
+    },
+    {
+      "personId": 2410,
+      "character": "Pierre Philippeaux",
+      "order": 16
+    },
+    {
+      "personId": 1364697,
+      "character": "Jean-Marie Collot d'Herbois",
+      "order": 17
+    },
+    {
+      "personId": 88536,
+      "character": "Lazare Carnot",
+      "order": 18
+    },
+    {
+      "personId": 38504,
+      "character": "Antoine Fouquier-Tinville",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "bafta": 1,
+    "cesar": 1
+  },
+  "voteCount": 182,
+  "sources": [
+    "cult-list"
+  ]
+}

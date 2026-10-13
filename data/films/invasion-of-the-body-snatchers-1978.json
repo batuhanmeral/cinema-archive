@@ -1,0 +1,193 @@
+{
+  "tmdbId": 11850,
+  "slug": "invasion-of-the-body-snatchers-1978",
+  "year": 1978,
+  "runtime": 116,
+  "originalTitle": "Invasion of the Body Snatchers",
+  "title": {
+    "en": "Invasion of the Body Snatchers",
+    "tr": "Beden Kemiricilerin İstılası"
+  },
+  "overview": {
+    "en": "The residents of San Francisco are becoming drone-like shadows of their former selves, and as the phenomenon spreads, two Department of Health workers uncover the horrifying truth.",
+    "tr": "San Fransisco'da gökyüzünden yağan sporlar birbirinden güzel çiçekler açmasına sebep olur. Bunlardan birini incelemek için eve getiren araştırmacı Elizabeth Driscoll, bir süre sonra erkek arkadaşının tuhaf davranışlarından rahatsız olur. Soğuk ve mesafeli davranmaya başlayan Geoffrey'deki değişim karşısında dehşete kapılarak Sağlık Bakanlığı'ndaki iş arkadaşı Matthew Bennel'den yardım ister. Aslında sporların, uzaydan gelen, kurbanlarını uykuda avlayarak bedenlerini kopyalayan yarı bitkisel istilacılar olduğu ortaya çıkar. Elizabeth ve Matthew, arkadaşları Jack ve Nancy'nin de yardımıyla, giderek herkesin birer \"kopya\"ya dönüştüğü şehirde, umutsuz bir savaşa girişirler."
+  },
+  "poster": {
+    "tr": "/mICqfc6Sy7vrMJPVKV5QgtzTU7C.jpg",
+    "en": "/5oNHdVo0vTsaC47Jv2Wb4eeo4V4.jpg"
+  },
+  "backdrops": [
+    "/qBsQzHPQZIiSr57jQmc3T0QcD9j.jpg",
+    "/lyHnFsWafILUlizalpCSikJT7Ui.jpg",
+    "/4P5fQ8EOEshYNaUd6loZ0okecAY.jpg",
+    "/elJfyurIhgPaS1pRQbexsAXoDHF.jpg",
+    "/m4Pmn6bcezdY8a5fnubwr0OzFdm.jpg",
+    "/j0AZ67brlWze2Owv47z1E27LQQy.jpg",
+    "/4h3xWMY40I881T6m9GqureeN5Y9.jpg",
+    "/zEt7zSzqpgxky9VDNsVGrebb4Ow.jpg",
+    "/kiBKEPIjmkkCGTM0Y3Muy9dHPXX.jpg",
+    "/1sC8JU9su96KCKW3SIKagmQY0we.jpg"
+  ],
+  "trailerKey": "e_brmjvATLc",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    818,
+    582,
+    1228,
+    2833,
+    9951,
+    9714,
+    12332,
+    14909,
+    15250,
+    17995,
+    161294,
+    161891,
+    191331,
+    202760,
+    323809,
+    325761
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "United Artists"
+  ],
+  "crew": [
+    {
+      "personId": 39106,
+      "job": "producer"
+    },
+    {
+      "personId": 18179,
+      "job": "writer"
+    },
+    {
+      "personId": 648,
+      "job": "director"
+    },
+    {
+      "personId": 1044,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 70725,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 55636,
+      "character": "Matthew Bennell",
+      "order": 0
+    },
+    {
+      "personId": 69054,
+      "character": "Elizabeth Driscoll",
+      "order": 1
+    },
+    {
+      "personId": 1749,
+      "character": "Dr. David Kibner",
+      "order": 2
+    },
+    {
+      "personId": 4785,
+      "character": "Jack Bellicec",
+      "order": 3
+    },
+    {
+      "personId": 5047,
+      "character": "Nancy Bellicec",
+      "order": 4
+    },
+    {
+      "personId": 41256,
+      "character": "Dr. Geoffrey Howell",
+      "order": 5
+    },
+    {
+      "personId": 41284,
+      "character": "Katherine Hendley",
+      "order": 6
+    },
+    {
+      "personId": 34597,
+      "character": "Running Man (Cameo)",
+      "order": 7
+    },
+    {
+      "personId": 14773,
+      "character": "Taxi Driver",
+      "order": 8
+    },
+    {
+      "personId": 50871,
+      "character": "Ted Hendley",
+      "order": 9
+    },
+    {
+      "personId": 1081857,
+      "character": "Stan",
+      "order": 10
+    },
+    {
+      "personId": 184712,
+      "character": "Mr. Gianni",
+      "order": 11
+    },
+    {
+      "personId": 1212995,
+      "character": "Detective",
+      "order": 12
+    },
+    {
+      "personId": 4203,
+      "character": "Dr. Boccardo",
+      "order": 13
+    },
+    {
+      "personId": 161301,
+      "character": "Restaurant Owner",
+      "order": 14
+    },
+    {
+      "personId": 1339265,
+      "character": "Chef",
+      "order": 15
+    },
+    {
+      "personId": 2720864,
+      "character": "Street Barker",
+      "order": 16
+    },
+    {
+      "personId": 123175,
+      "character": "Mr. Tong",
+      "order": 17
+    },
+    {
+      "personId": 2720865,
+      "character": "Mrs. Tong",
+      "order": 18
+    },
+    {
+      "personId": 2990,
+      "character": "Outraged Woman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1419,
+  "sources": [
+    "cult-list"
+  ]
+}

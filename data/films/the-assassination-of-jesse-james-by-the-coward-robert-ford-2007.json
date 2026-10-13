@@ -1,0 +1,210 @@
+{
+  "tmdbId": 4512,
+  "slug": "the-assassination-of-jesse-james-by-the-coward-robert-ford-2007",
+  "year": 2007,
+  "runtime": 160,
+  "originalTitle": "The Assassination of Jesse James by the Coward Robert Ford",
+  "title": {
+    "en": "The Assassination of Jesse James by the Coward Robert Ford",
+    "tr": "Korkak Robert Ford’un Jesse James Suikastı"
+  },
+  "overview": {
+    "en": "Outlaw Jesse James is rumored to be the 'fastest gun in the West'. An eager recruit into James' notorious gang, Robert Ford eventually grows jealous of the famed outlaw and, when Robert and his brother sense an opportunity to kill James, their murderous action elevates their target to near mythical status.",
+    "tr": "Yıl 1881’dir. 34 yaşındaki Jesse James, hem soygun planlamakta, hem de onu yakalayarak ödül kazanmak isteyen düşmanlarına savaş açmaktadır. Fakat kimin dost kimin düşman olduğunun belirsizliği onu şaşırtacaktır.Ron Hansen’ın romanından uyarlama olan “Korkak Robert Ford’un Jesse James Suikasti”, Amerika’nın en ünlü kanun kaçağının ve onun katilinin özel hayatlarını irdeleyen ve bu cinayet öncesi neler yaşanmış olabileceğini sorgulayan, western görünümlü, dramatik altyapılı bir film."
+  },
+  "poster": {
+    "tr": "/lqYJlUrjrRKm71dT2ndExCo1b0Z.jpg",
+    "en": "/2d1S6fJS80fvseg6mJE8eq5o7Kx.jpg"
+  },
+  "backdrops": [
+    "/5r2BZajlRZqnOc6s2BS0aiFDcne.jpg",
+    "/3HvQ5PaxwQJEiRSZD5AyVuqEiNn.jpg",
+    "/pRoDlfOgt4f0KjJv0Cs89BhFmPI.jpg",
+    "/oAu8V25rIdGxdgOpPnl7MvB1YS8.jpg",
+    "/lTBp51psHjokgVuhBHiAgx56YYb.jpg",
+    "/udlauJ2JYITMFUAbgq1Q8nCN0l3.jpg",
+    "/61GawZV7tqMIrHbbbEirwCfs8NB.jpg",
+    "/8mQgbBK3OuxgiDbXEvRaI76qZ9K.jpg",
+    "/u73XutyreSvleJLjUZyedgisAgY.jpg",
+    "/xVDztGuf3xpSeOjrz8iULkal9KF.jpg"
+  ],
+  "trailerKey": "SrGmmitc62Q",
+  "genreIds": [
+    18,
+    37
+  ],
+  "keywordIds": [
+    6007,
+    627,
+    5900,
+    3494,
+    3607,
+    9910,
+    13001,
+    18035,
+    18036,
+    256930
+  ],
+  "countries": [
+    "CA",
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Plan B Entertainment",
+    "Virtual Studios",
+    "Scott Free Productions"
+  ],
+  "crew": [
+    {
+      "personId": 37618,
+      "job": "director"
+    },
+    {
+      "personId": 578,
+      "job": "producer"
+    },
+    {
+      "personId": 39515,
+      "job": "producer"
+    },
+    {
+      "personId": 287,
+      "job": "producer"
+    },
+    {
+      "personId": 37618,
+      "job": "writer"
+    },
+    {
+      "personId": 3718,
+      "job": "producer"
+    },
+    {
+      "personId": 151,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 20458,
+      "job": "producer"
+    },
+    {
+      "personId": 39517,
+      "job": "composer"
+    },
+    {
+      "personId": 39516,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 287,
+      "character": "Jesse James",
+      "order": 0
+    },
+    {
+      "personId": 1893,
+      "character": "Robert Ford",
+      "order": 1
+    },
+    {
+      "personId": 6807,
+      "character": "Charley Ford",
+      "order": 2
+    },
+    {
+      "personId": 15684,
+      "character": "Dick Liddil",
+      "order": 3
+    },
+    {
+      "personId": 17604,
+      "character": "Wood Hite",
+      "order": 4
+    },
+    {
+      "personId": 39520,
+      "character": "Ed Miller",
+      "order": 5
+    },
+    {
+      "personId": 9880,
+      "character": "Frank James",
+      "order": 6
+    },
+    {
+      "personId": 18248,
+      "character": "Zee James",
+      "order": 7
+    },
+    {
+      "personId": 11664,
+      "character": "Dorothy Evans",
+      "order": 8
+    },
+    {
+      "personId": 15854,
+      "character": "Sheriff Timberlake",
+      "order": 9
+    },
+    {
+      "personId": 2536,
+      "character": "Henry Craig",
+      "order": 10
+    },
+    {
+      "personId": 15675,
+      "character": "Martha Bolton",
+      "order": 11
+    },
+    {
+      "personId": 60093,
+      "character": "Governor Crittenden",
+      "order": 12
+    },
+    {
+      "personId": 49835,
+      "character": "Major George Hite",
+      "order": 13
+    },
+    {
+      "personId": 1638387,
+      "character": "Narrator (voice)",
+      "order": 14
+    },
+    {
+      "personId": 39518,
+      "character": "Mary James",
+      "order": 15
+    },
+    {
+      "personId": 39519,
+      "character": "Tim James",
+      "order": 16
+    },
+    {
+      "personId": 39521,
+      "character": "Express Messenger",
+      "order": 17
+    },
+    {
+      "personId": 39522,
+      "character": "Baggagemaster",
+      "order": 18
+    },
+    {
+      "personId": 1149455,
+      "character": "Engineer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2906,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "tmdbId": 11976,
+  "slug": "legend-1985",
+  "year": 1985,
+  "runtime": 94,
+  "originalTitle": "Legend",
+  "title": {
+    "en": "Legend",
+    "tr": "Efsane"
+  },
+  "overview": {
+    "en": "Set in a timeless mythical forest inhabited by fairies, goblins, unicorns and mortals, this fantastic story follows a mystical forest dweller, chosen by fate, to undertake a heroic quest. He must save the beautiful Princess  Lili and defeat the demonic Lord of Darkness, or the world will be plunged into a never-ending ice age.",
+    "tr": "Bütün sihirli yaratıkların barış içinde yaşadığı ve tek boynuzlu atların ışığın sırrını taşıdığı bir ülkede, iyiyle kötü arasında geçen ebedi mücadelenin hikâyesi. Ama ışık, Karanlığın Efendisi için ölümcül ve o, bu sırrı çaldığında Jack adlı bir insan ve güzeller güzeli bir prenses tek boynuzlu atları kurtarmak ve karanlığı yok etmek için onun yeraltındaki kalesinin dehşetiyle yüzleşmek zorunda kalacak."
+  },
+  "poster": {
+    "tr": "/50SGYKqoCEd6FnPcIaYPpBclOkN.jpg",
+    "en": "/8a5Fd1UGwwC45gvMoDBbEnTPcNT.jpg"
+  },
+  "backdrops": [
+    "/3g8rLMw0SbA0h2GHiOCBoqFTXVq.jpg",
+    "/np5BLAdBZimM9sbhl11NtsVryQQ.jpg",
+    "/l9FHVDwTkW6se9DRCooNONURLmn.jpg",
+    "/36YkKuUQQuSveMAjC23UGNuqGX6.jpg",
+    "/4T6bvKgTf8cJiWsmScDkYlBkAV9.jpg",
+    "/99trHUjOkmeNZdNVII8XzDGviFE.jpg",
+    "/u948m66VLsnxXBMrdLXmTf7mQEe.jpg",
+    "/orOV4infHm5wQe4bUJFagSDU6do.jpg",
+    "/1bikUtAHF423GJAm1xlcQbVHnfc.jpg",
+    "/sBbV3rjsPrsx2Jl3dc7kITAiwKN.jpg"
+  ],
+  "trailerKey": "ybnoJErfDas",
+  "genreIds": [
+    12,
+    14
+  ],
+  "keywordIds": [
+    616,
+    7376,
+    1299,
+    2343,
+    1442,
+    1938,
+    6154,
+    2035,
+    9840,
+    10794,
+    10821,
+    12965,
+    14999,
+    15001,
+    156075,
+    157186,
+    163227,
+    192913,
+    325814
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Embassy International Pictures",
+    "Legend Production Company"
+  ],
+  "crew": [
+    {
+      "personId": 578,
+      "job": "director"
+    },
+    {
+      "personId": 376,
+      "job": "producer"
+    },
+    {
+      "personId": 21516,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9167,
+      "job": "writer"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    },
+    {
+      "personId": 69601,
+      "job": "composer"
+    },
+    {
+      "personId": 69600,
+      "job": "composer"
+    },
+    {
+      "personId": 47927,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 500,
+      "character": "Jack",
+      "order": 0
+    },
+    {
+      "personId": 29091,
+      "character": "Princess Lili",
+      "order": 1
+    },
+    {
+      "personId": 13472,
+      "character": "Lord of \"Darkness\"",
+      "order": 2
+    },
+    {
+      "personId": 10256,
+      "character": "Honeythorn Gump",
+      "order": 3
+    },
+    {
+      "personId": 80165,
+      "character": "Blix",
+      "order": 4
+    },
+    {
+      "personId": 12659,
+      "character": "Screwball",
+      "order": 5
+    },
+    {
+      "personId": 83839,
+      "character": "Brown Tom",
+      "order": 6
+    },
+    {
+      "personId": 94020,
+      "character": "Pox",
+      "order": 7
+    },
+    {
+      "personId": 5531,
+      "character": "Blunder",
+      "order": 8
+    },
+    {
+      "personId": 126533,
+      "character": "Oona",
+      "order": 9
+    },
+    {
+      "personId": 16180,
+      "character": "Meg Mucklebones",
+      "order": 10
+    },
+    {
+      "personId": 550794,
+      "character": "Nell",
+      "order": 11
+    },
+    {
+      "personId": 1077322,
+      "character": "Demon Cook",
+      "order": 12
+    },
+    {
+      "personId": 1183422,
+      "character": "Demon Cook",
+      "order": 13
+    },
+    {
+      "personId": 1077324,
+      "character": "Dancing Black Dress",
+      "order": 14
+    },
+    {
+      "personId": 1077325,
+      "character": "Mummified Guard",
+      "order": 15
+    },
+    {
+      "personId": 219382,
+      "character": "Tic (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 5560274,
+      "character": "Faerie Firelight Dancer (Director's Cut)",
+      "order": 17
+    },
+    {
+      "personId": 95217,
+      "character": "Faerie Firelight Dancer (Director's Cut)",
+      "order": 18
+    },
+    {
+      "personId": 6447413,
+      "character": "Faerie Firelight Dancer (Director's Cut)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1465,
+  "sources": [
+    "cult-list"
+  ]
+}

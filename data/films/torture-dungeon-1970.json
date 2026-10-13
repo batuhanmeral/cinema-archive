@@ -1,0 +1,140 @@
+{
+  "tmdbId": 114584,
+  "slug": "torture-dungeon-1970",
+  "year": 1970,
+  "runtime": 80,
+  "originalTitle": "Torture Dungeon",
+  "title": {
+    "en": "Torture Dungeon",
+    "tr": "Torture Dungeon"
+  },
+  "overview": {
+    "en": "In Medieval England, the sadistic Duke of Norwich plots to eliminate all heirs to the throne so he can claim the crown for himself.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5ezQCdtHwzAfQ3L19tWsQqpt4C9.jpg",
+    "en": "/5ezQCdtHwzAfQ3L19tWsQqpt4C9.jpg"
+  },
+  "backdrops": [
+    "/rYHbGzzJEaywExgfL4xFhlhgKzA.jpg",
+    "/vhf9PC3BRl8gd1Z6XGDveyt1oA2.jpg"
+  ],
+  "trailerKey": "ADlrf2lQIpc",
+  "genreIds": [
+    18,
+    27
+  ],
+  "keywordIds": [
+    392,
+    9826,
+    13006,
+    235489
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Constitution Films"
+  ],
+  "crew": [
+    {
+      "personId": 103188,
+      "job": "writer"
+    },
+    {
+      "personId": 103188,
+      "job": "director"
+    },
+    {
+      "personId": 103189,
+      "job": "producer"
+    },
+    {
+      "personId": 1059027,
+      "job": "writer"
+    },
+    {
+      "personId": 103188,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1032114,
+      "character": "Norman, Duke of Norwich",
+      "order": 0
+    },
+    {
+      "personId": 1059029,
+      "character": "Heather MacGregor",
+      "order": 1
+    },
+    {
+      "personId": 1059030,
+      "character": "Lady Jane",
+      "order": 2
+    },
+    {
+      "personId": 101953,
+      "character": "Peter the Eye",
+      "order": 3
+    },
+    {
+      "personId": 3068946,
+      "character": "Ivan the Hunchback",
+      "order": 4
+    },
+    {
+      "personId": 1154819,
+      "character": "Margaret, the One-Eyed Hag",
+      "order": 5
+    },
+    {
+      "personId": 1154820,
+      "character": "Albert, Duke of Aberthy",
+      "order": 6
+    },
+    {
+      "personId": 1368722,
+      "character": "Lady Agatha",
+      "order": 7
+    },
+    {
+      "personId": 1820573,
+      "character": "Marvin",
+      "order": 8
+    },
+    {
+      "personId": 1820574,
+      "character": "Rosemary",
+      "order": 9
+    },
+    {
+      "personId": 1820575,
+      "character": "William",
+      "order": 10
+    },
+    {
+      "personId": 1220609,
+      "character": "Magda",
+      "order": 11
+    },
+    {
+      "personId": 1820576,
+      "character": "Mister MacGregor",
+      "order": 12
+    },
+    {
+      "personId": 1394709,
+      "character": "Torture Dungeon Victim (uncredited)",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 18,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "tmdbId": 2108,
+  "slug": "the-breakfast-club-1985",
+  "year": 1985,
+  "runtime": 98,
+  "originalTitle": "The Breakfast Club",
+  "title": {
+    "en": "The Breakfast Club",
+    "tr": "Kahvaltı Kulübü"
+  },
+  "overview": {
+    "en": "Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.",
+    "tr": "Cumartesi günü kaldıkları cezada okulun sporcusu, dâhisi, zorbası, prensesi ve yalnız genci, sosyal engelleri ezip geçer."
+  },
+  "poster": {
+    "tr": "/jbKof9flJpS85uvse8mCUHDq3tU.jpg",
+    "en": "/gp4zlj7wgbiofLMNsTPndMuO3PN.jpg"
+  },
+  "backdrops": [
+    "/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg",
+    "/s5HDOmFZaPVQFjk9BxxDrLu1T0g.jpg",
+    "/kjVgUMsG0PKBXzlP8HGNQpWDxAX.jpg",
+    "/tzht1zMSSzdYnNhgpPxlPQabFYB.jpg",
+    "/jpmYhiyVIRFmR5lCA9oicnGVKdU.jpg",
+    "/9H419o9Gem5K5mb1JotHIwropDz.jpg",
+    "/qY3CCTCcWV8OkYXRSxfcapJNYlj.jpg",
+    "/q19zxMuMSdPVSfE0aQMZ4Zp8Jak.jpg",
+    "/x6CBvIUZ5NtBMNQS7BYyGYPzRAG.jpg",
+    "/u3498BIsLcqckG0458wsIgIxF41.jpg"
+  ],
+  "trailerKey": "c7VUZ29Ezcc",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    6270,
+    10683,
+    10049,
+    15299,
+    155722,
+    163242,
+    168567,
+    208289,
+    296608,
+    320420,
+    325772,
+    325786
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "A&M Films",
+    "Channel Productions"
+  ],
+  "crew": [
+    {
+      "personId": 21643,
+      "job": "producer"
+    },
+    {
+      "personId": 11505,
+      "job": "producer"
+    },
+    {
+      "personId": 11505,
+      "job": "director"
+    },
+    {
+      "personId": 3031,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11505,
+      "job": "writer"
+    },
+    {
+      "personId": 21644,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2880,
+      "character": "Andrew Clark",
+      "order": 0
+    },
+    {
+      "personId": 21624,
+      "character": "John Bender",
+      "order": 1
+    },
+    {
+      "personId": 21625,
+      "character": "Claire Standish",
+      "order": 2
+    },
+    {
+      "personId": 1904,
+      "character": "Brian Johnson",
+      "order": 3
+    },
+    {
+      "personId": 12851,
+      "character": "Allison Reynolds",
+      "order": 4
+    },
+    {
+      "personId": 7675,
+      "character": "Richard Vernon",
+      "order": 5
+    },
+    {
+      "personId": 55554,
+      "character": "Carl",
+      "order": 6
+    },
+    {
+      "personId": 1073863,
+      "character": "Allison's Father",
+      "order": 7
+    },
+    {
+      "personId": 1073864,
+      "character": "Brian's Sister",
+      "order": 8
+    },
+    {
+      "personId": 57597,
+      "character": "Andy's Father",
+      "order": 9
+    },
+    {
+      "personId": 987357,
+      "character": "Claire's Father",
+      "order": 10
+    },
+    {
+      "personId": 1073865,
+      "character": "Allison's Mom",
+      "order": 11
+    },
+    {
+      "personId": 1073866,
+      "character": "Brian's Mom",
+      "order": 12
+    },
+    {
+      "personId": 11505,
+      "character": "Brian’s Father (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 173192,
+      "character": "Janitor (uncredited)",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 8809,
+  "sources": [
+    "cult-list"
+  ]
+}

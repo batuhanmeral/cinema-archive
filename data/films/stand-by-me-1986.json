@@ -1,0 +1,208 @@
+{
+  "tmdbId": 235,
+  "slug": "stand-by-me-1986",
+  "year": 1986,
+  "runtime": 89,
+  "originalTitle": "Stand by Me",
+  "title": {
+    "en": "Stand by Me",
+    "tr": "Benimle Kal"
+  },
+  "overview": {
+    "en": "After learning that a boy their age has been accidentally killed near their rural homes, four boys decide to go see the body. Gordie, Vern, Chris, and Teddy encounter a mean junk man and a marsh full of leeches, but they also learn more about one another and their very different home lives. Just a lark at first, the boys' adventure evolves into a defining event in their lives.",
+    "tr": "Stephen King'in küçük bir romanından uyarlanan bu filmde, yazar (Richard Dreyfuss) kendi ve üç diğer arkadaşının yaşadığı macerayı ve kahramanlıklarını anlatıyor. Bu çocuklar, 1950'lerde Oregon ormanlığında kayıp bir çocuğun cesedini aramaya koyulurlar. Yol boyunca daha da yakınlaşan çocuklar birbirleri hakkında da çok şey keşfederler..."
+  },
+  "poster": {
+    "tr": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg",
+    "en": "/vz0w9BSehcqjDcJOjRaCk7fgJe7.jpg"
+  },
+  "backdrops": [
+    "/ljIF1JjdUUJtVW55x77vWSJxizQ.jpg",
+    "/7sFjHJSPMjWS7OdeceTzz2ojKB7.jpg",
+    "/yjGllQUm28R4X9xD9T5xMszirgw.jpg",
+    "/bTvvPSjOCaoMKq8dO8qwCm0924Y.jpg",
+    "/pwsuzIYMlA8GI8KiHVwwG30yCw8.jpg",
+    "/lJn5qkHNpXWdsAENaXtTjS6pJ9J.jpg",
+    "/aTg5HRqiZVLOcJcAR8sL1boElCl.jpg",
+    "/drxzuM7v82JJwXTPSbsCl6U7Ano.jpg",
+    "/w3Utg4rR27hH2tiOw6Sco978yLC.jpg",
+    "/yj14xWASSwNwRWF1E4r80tVIz0f.jpg"
+  ],
+  "trailerKey": "2rBenGsz23E",
+  "genreIds": [
+    18,
+    12
+  ],
+  "keywordIds": [
+    6054,
+    818,
+    2517,
+    10123,
+    6733,
+    7312,
+    1897,
+    10683,
+    169875,
+    169878,
+    169885,
+    169886,
+    171387,
+    171826,
+    208349,
+    208611,
+    216919,
+    255356,
+    305164,
+    325814
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Act III Productions"
+  ],
+  "crew": [
+    {
+      "personId": 7066,
+      "job": "composer"
+    },
+    {
+      "personId": 3029,
+      "job": "writer"
+    },
+    {
+      "personId": 3028,
+      "job": "writer"
+    },
+    {
+      "personId": 3026,
+      "job": "director"
+    },
+    {
+      "personId": 3031,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3028,
+      "job": "producer"
+    },
+    {
+      "personId": 3029,
+      "job": "producer"
+    },
+    {
+      "personId": 3030,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3033,
+      "character": "Gordie Lachance",
+      "order": 0
+    },
+    {
+      "personId": 741,
+      "character": "Chris Chambers",
+      "order": 1
+    },
+    {
+      "personId": 3034,
+      "character": "Teddy Duchamp",
+      "order": 2
+    },
+    {
+      "personId": 3035,
+      "character": "Vern Tessio",
+      "order": 3
+    },
+    {
+      "personId": 2628,
+      "character": "Ace Merrill",
+      "order": 4
+    },
+    {
+      "personId": 1953,
+      "character": "Billy Tessio",
+      "order": 5
+    },
+    {
+      "personId": 3038,
+      "character": "Charlie Hogan",
+      "order": 6
+    },
+    {
+      "personId": 3039,
+      "character": "Eyeball Chambers",
+      "order": 7
+    },
+    {
+      "personId": 3040,
+      "character": "Vince Desjardins",
+      "order": 8
+    },
+    {
+      "personId": 3041,
+      "character": "Mr. Lachance",
+      "order": 9
+    },
+    {
+      "personId": 1070,
+      "character": "Mrs. Lachance",
+      "order": 10
+    },
+    {
+      "personId": 3042,
+      "character": "Mr. Quidacioluo",
+      "order": 11
+    },
+    {
+      "personId": 3043,
+      "character": "Milo Pressman",
+      "order": 12
+    },
+    {
+      "personId": 3044,
+      "character": "Mayor Grundy",
+      "order": 13
+    },
+    {
+      "personId": 3037,
+      "character": "The Writer",
+      "order": 14
+    },
+    {
+      "personId": 3036,
+      "character": "Denny Lachance",
+      "order": 15
+    },
+    {
+      "personId": 1954114,
+      "character": "Waitress",
+      "order": 16
+    },
+    {
+      "personId": 1954116,
+      "character": "Mayor's Wife",
+      "order": 17
+    },
+    {
+      "personId": 997822,
+      "character": "Principal Wiggins",
+      "order": 18
+    },
+    {
+      "personId": 1954117,
+      "character": "Bob Cormier",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 6823,
+  "sources": [
+    "cult-list"
+  ]
+}

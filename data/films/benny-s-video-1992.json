@@ -1,0 +1,162 @@
+{
+  "tmdbId": 1987,
+  "slug": "benny-s-video-1992",
+  "year": 1992,
+  "runtime": 110,
+  "originalTitle": "Benny's Video",
+  "title": {
+    "en": "Benny's Video",
+    "tr": "Benny’nin Videosu"
+  },
+  "overview": {
+    "en": "A 14-year-old video enthusiast obsessed with violent films decides to make one of his own and show it to his parents, with tragic results.",
+    "tr": "Avusturyalı yönetmen Michael Haneke'nin 'Kent Üçlemesi'nin ikinci ayağı olan 'Benny's Video', 14 yaşındaki bir delikanlının çektiği videolarla kendisine yarattığı alternatif gerçeklik içinde nasıl kaybolduğunu anlatan, hazmı güç bir film. Modern burjuvazinin duygusal buzullaşması üzerine yoğunlaşan film şiddetin anlamsızlaştığı bir dünyada bireyler arasında gelişen ilişkilerin şiddetle sınandığı bir öyküyü anlatıyor. Genç Benny'nin akranı bir genç kıza yaşattığı şiddet dolu deneyim ise sinemada çekilmiş en sert sahnelerden bazılarına zemin hazırlıyor."
+  },
+  "poster": {
+    "tr": "/gCjViGVeChg4TAJqPEbeVHrTpGB.jpg",
+    "en": "/uKRniIOsJvWJkRvqlSMlHHvZnOG.jpg"
+  },
+  "backdrops": [
+    "/uH7zKI0YsvZhEju7f9NpVNhtjHw.jpg",
+    "/o1RKOVPdTa81Hq2dJVCgu9MBgV1.jpg",
+    "/AqsF2jW9HmxrbbFmsBsoRv4FxjT.jpg",
+    "/3u69H2FTJWfNwc5Y1WEdMdNtI0f.jpg",
+    "/xQOa2g8M3Oe1lYPRQARroZIe3kI.jpg",
+    "/58TMkA9Bc3CW9g4zO1B0fxOgf8S.jpg"
+  ],
+  "trailerKey": "18X_kyHW3G0",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    970,
+    4029,
+    1201,
+    5952,
+    5955,
+    10329,
+    34053,
+    34079,
+    177185,
+    211461
+  ],
+  "countries": [
+    "AT",
+    "CH"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "fr",
+    "de"
+  ],
+  "studios": [
+    "Wega Film",
+    "Langfilm",
+    "Bernard Lang AG"
+  ],
+  "crew": [
+    {
+      "personId": 6011,
+      "job": "writer"
+    },
+    {
+      "personId": 6027,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 20451,
+      "job": "producer"
+    },
+    {
+      "personId": 6011,
+      "job": "director"
+    },
+    {
+      "personId": 6098,
+      "job": "producer"
+    },
+    {
+      "personId": 67826,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20449,
+      "character": "Benny",
+      "order": 0
+    },
+    {
+      "personId": 10255,
+      "character": "Anna, Benny's Mother",
+      "order": 1
+    },
+    {
+      "personId": 8196,
+      "character": "Georg, Benny's Father",
+      "order": 2
+    },
+    {
+      "personId": 1520620,
+      "character": "Evi, Benny's Sister",
+      "order": 3
+    },
+    {
+      "personId": 1520621,
+      "character": "Ricci",
+      "order": 4
+    },
+    {
+      "personId": 20450,
+      "character": "Girl",
+      "order": 5
+    },
+    {
+      "personId": 5926463,
+      "character": "Sales manager in videostore (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 5926464,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 3972453,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1303084,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 49444,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 48081,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 5926467,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 14635,
+      "character": "",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 410,
+  "sources": [
+    "cult-list"
+  ]
+}

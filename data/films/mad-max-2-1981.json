@@ -1,0 +1,223 @@
+{
+  "tmdbId": 8810,
+  "slug": "mad-max-2-1981",
+  "year": 1981,
+  "runtime": 96,
+  "originalTitle": "Mad Max 2",
+  "title": {
+    "en": "Mad Max 2",
+    "tr": "Mad Max 2: Yol Savaşcısı"
+  },
+  "overview": {
+    "en": "Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.",
+    "tr": "Mel Gibson’un Max Rockatansky adında bıkkın bir polisi canlandırdığı film, peşine düştüğü çetenin yardımcısını öldürmesinden sonra kendisini ve ailesini hayatta tutmak için harekete geçen bir polisin hikayesini anlatıyor."
+  },
+  "poster": {
+    "tr": "/2jWjLUStF0qryXkcbereffCLLHn.jpg",
+    "en": "/ffzRLeZaKP6YCaTVieWeSLccC4y.jpg"
+  },
+  "backdrops": [
+    "/MMSI9WzRmOdqXarevQ3Kqnytrx.jpg",
+    "/jEuwsmFS8JPzkDIhRL3B2BVYbU4.jpg",
+    "/lVc0lkHZmkXlat3AuAstK49ClBu.jpg",
+    "/2rMRP9Dhb5mnA1lNfvwLl1PpYBu.jpg",
+    "/ajMpZku3Zs5MIKX5btRaSqA76lo.jpg",
+    "/uIXfkmfpKw0e9BNSiNiArzDDxNP.jpg",
+    "/iwRCuHyaXLaG723n6RWbBGXgU29.jpg",
+    "/xkxUL1BjDelwbY81dvJx59Nk8bp.jpg",
+    "/h5RJ1qjmozIqqCOrJC4i0XWYWwi.jpg",
+    "/rK8Ad18y6VdC6CwFIe4wpdM6FGI.jpg"
+  ],
+  "trailerKey": "bwcADuJZDNA",
+  "genreIds": [
+    28,
+    53,
+    878
+  ],
+  "keywordIds": [
+    2546,
+    5657,
+    3713,
+    1653,
+    4565,
+    1789,
+    5011,
+    4458,
+    2804,
+    3203,
+    3289,
+    5650,
+    5890,
+    8440,
+    9663,
+    9276,
+    10614,
+    10590,
+    10689,
+    12365,
+    14736,
+    15162,
+    17937,
+    158269,
+    172841,
+    175428,
+    175994,
+    192213,
+    200918,
+    208156,
+    210162,
+    219404,
+    269233,
+    325766,
+    325816,
+    325823,
+    325839,
+    325855
+  ],
+  "countries": [
+    "AU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Kennedy Miller Productions"
+  ],
+  "crew": [
+    {
+      "personId": 20629,
+      "job": "writer"
+    },
+    {
+      "personId": 11452,
+      "job": "writer"
+    },
+    {
+      "personId": 20629,
+      "job": "director"
+    },
+    {
+      "personId": 951895,
+      "job": "producer"
+    },
+    {
+      "personId": 58438,
+      "job": "composer"
+    },
+    {
+      "personId": 4501,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 55992,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2461,
+      "character": "Max Rockatansky",
+      "order": 0
+    },
+    {
+      "personId": 27752,
+      "character": "The Gyro Captain",
+      "order": 1
+    },
+    {
+      "personId": 47461,
+      "character": "Pappagallo",
+      "order": 2
+    },
+    {
+      "personId": 121417,
+      "character": "The Toadie",
+      "order": 3
+    },
+    {
+      "personId": 26491,
+      "character": "Wez",
+      "order": 4
+    },
+    {
+      "personId": 933020,
+      "character": "The Humungus",
+      "order": 5
+    },
+    {
+      "personId": 933021,
+      "character": "The Feral Kid",
+      "order": 6
+    },
+    {
+      "personId": 26055,
+      "character": "Warrior Woman",
+      "order": 7
+    },
+    {
+      "personId": 83771,
+      "character": "Zetta",
+      "order": 8
+    },
+    {
+      "personId": 94785,
+      "character": "The Captain's Girl",
+      "order": 9
+    },
+    {
+      "personId": 181831,
+      "character": "Mechanic",
+      "order": 10
+    },
+    {
+      "personId": 933022,
+      "character": "Curmudgeon",
+      "order": 11
+    },
+    {
+      "personId": 220357,
+      "character": "Big Rebecca",
+      "order": 12
+    },
+    {
+      "personId": 152565,
+      "character": "Nathan",
+      "order": 13
+    },
+    {
+      "personId": 933023,
+      "character": "Quiet Man",
+      "order": 14
+    },
+    {
+      "personId": 118933,
+      "character": "Mechanic's Assistant",
+      "order": 15
+    },
+    {
+      "personId": 187073,
+      "character": "Broken Victim",
+      "order": 16
+    },
+    {
+      "personId": 152548,
+      "character": "Defiant Victim",
+      "order": 17
+    },
+    {
+      "personId": 4039265,
+      "character": "Golden Youth",
+      "order": 18
+    },
+    {
+      "personId": 3076122,
+      "character": "Grinning Mohawker",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4383,
+  "sources": [
+    "cult-list"
+  ]
+}

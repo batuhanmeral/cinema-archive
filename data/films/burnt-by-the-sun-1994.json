@@ -1,0 +1,182 @@
+{
+  "tmdbId": 50797,
+  "slug": "burnt-by-the-sun-1994",
+  "year": 1994,
+  "runtime": 135,
+  "originalTitle": "Утомлённые солнцем",
+  "title": {
+    "en": "Burnt by the Sun",
+    "tr": "Güneş Yanığı"
+  },
+  "overview": {
+    "en": "Russia, 1936: revolutionary hero Colonel Kotov is spending an idyllic summer in his dacha with his young wife and six-year-old daughter Nadia and other assorted family and friends. Things change dramatically with the unheralded arrival of Cousin Dmitri from Moscow, who charms the women and little Nadia with his games and pianistic bravura. But Kotov isn't fooled: this is the time of Stalin's repression, with telephone calls in the middle of the night spelling doom - and he knows that Dmitri isn't paying a social call...",
+    "tr": "1936 yılının Rusya'sında Bolşevik İhtilali kahramanlarından Sergei Kotov, günün Stalin zorbalığına gözlerini kapamış, güzel eşi Marusia ve kızı Nadia ile huzur dolu bir yaz geçirmektedir. Bu huzur karısının eski sevgilisi Dimitri'nin ziyaretiyle son bulur. Kotov, Dimitri'den şüphelenir ve evliliğinin bozulacağını düşünür. Ama bilmez ki Dimitri Stalin hükümeti polisine çalışan bir adamdır ve Kotov için daha farklı planları vardır."
+  },
+  "poster": {
+    "tr": "/jcpvnPSuRrynrgY7menuyZe7X4r.jpg",
+    "en": "/4zsq30Zj9iAeqejEkkmclL7VnwV.jpg"
+  },
+  "backdrops": [
+    "/dR6oO0xtzUhRy9pGe5aL0yLARCu.jpg",
+    "/bNwMD8eWWOO5kSlihjuqsCIA7Nj.jpg",
+    "/atFqzZvE2GV6anZxpL5HAgnNec6.jpg"
+  ],
+  "trailerKey": "1gPzpr08hFk",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1157,
+    10786
+  ],
+  "countries": [
+    "RU",
+    "FR"
+  ],
+  "languages": [
+    "ru"
+  ],
+  "studios": [
+    "Studio Trite",
+    "Camera One"
+  ],
+  "crew": [
+    {
+      "personId": 82796,
+      "job": "director"
+    },
+    {
+      "personId": 82796,
+      "job": "writer"
+    },
+    {
+      "personId": 1272365,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 82796,
+      "job": "producer"
+    },
+    {
+      "personId": 70181,
+      "job": "producer"
+    },
+    {
+      "personId": 82798,
+      "job": "writer"
+    },
+    {
+      "personId": 560802,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 82795,
+      "character": "Dmitry",
+      "order": 0
+    },
+    {
+      "personId": 82796,
+      "character": "Sergey",
+      "order": 1
+    },
+    {
+      "personId": 14593,
+      "character": "Marusya",
+      "order": 2
+    },
+    {
+      "personId": 500625,
+      "character": "Nadya",
+      "order": 3
+    },
+    {
+      "personId": 99311,
+      "character": "Vsevolod Konstantinovich",
+      "order": 4
+    },
+    {
+      "personId": 240540,
+      "character": "Mokhova",
+      "order": 5
+    },
+    {
+      "personId": 240563,
+      "character": "Kirik",
+      "order": 6
+    },
+    {
+      "personId": 238702,
+      "character": "Lidia Stepanovna",
+      "order": 7
+    },
+    {
+      "personId": 1375958,
+      "character": "Elena Mikhailovna",
+      "order": 8
+    },
+    {
+      "personId": 545809,
+      "character": "chauffeur",
+      "order": 9
+    },
+    {
+      "personId": 17482,
+      "character": "Filipp",
+      "order": 10
+    },
+    {
+      "personId": 271091,
+      "character": "Olga Nikolaevna",
+      "order": 11
+    },
+    {
+      "personId": 125869,
+      "character": "Lyuba",
+      "order": 12
+    },
+    {
+      "personId": 6058826,
+      "character": "NKVD officer",
+      "order": 13
+    },
+    {
+      "personId": 99298,
+      "character": "NKVD employee",
+      "order": 14
+    },
+    {
+      "personId": 6058829,
+      "character": "2nd NKVD officer",
+      "order": 15
+    },
+    {
+      "personId": 116005,
+      "character": "lieutenant",
+      "order": 16
+    },
+    {
+      "personId": 6058841,
+      "character": "episode",
+      "order": 17
+    },
+    {
+      "personId": 29852,
+      "character": "episode",
+      "order": 18
+    },
+    {
+      "personId": 6058842,
+      "character": "episode",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 218,
+  "sources": [
+    "cult-list"
+  ]
+}

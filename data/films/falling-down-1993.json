@@ -1,0 +1,216 @@
+{
+  "tmdbId": 37094,
+  "slug": "falling-down-1993",
+  "year": 1993,
+  "runtime": 113,
+  "originalTitle": "Falling Down",
+  "title": {
+    "en": "Falling Down",
+    "tr": "Sonun Başlangıcı"
+  },
+  "overview": {
+    "en": "An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.",
+    "tr": "Trafik tıkanmış. Terör şehri donatmış. Dükkanlarda ve restoranlarda müşterilere saygı kalmamış. Büyük şehirde hayat, herkesi çileden çıkarabilir. Fakat Bill Foster çileden çıkmıştan da öte. Sıcak bir yaz gününde, tıkanmış bir trafikte, fırın gibi sıcak arabasında evine gitmeye çalışan sıradan bir adam, arabasını trafiğin ortasında bırakıp, kentin içine dalarak vahşet saçmaya başlar."
+  },
+  "poster": {
+    "tr": "/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg",
+    "en": "/7ujqyF96Zg3rfrsh9M0cEF0Yzqj.jpg"
+  },
+  "backdrops": [
+    "/cS45swrlrTJijH1RblBLe8LlW2p.jpg",
+    "/AbwWAirUfkWP5xpA84qRulgVSCL.jpg",
+    "/pIJYN2mi2G2RUpAaMZNdhiDUkxM.jpg",
+    "/9DwDjFQlesWZ3OZe7p6XsY18BM9.jpg",
+    "/aFIIuumMJODTt1omtAKX2aYgbm6.jpg",
+    "/1YF5LqkUV4vH598kf5qm6EinA7K.jpg",
+    "/6RKerDMx2wYzuUdpyXKQZAqhi4u.jpg",
+    "/aySWH498sknBeed2IuOEt1dp6PC.jpg",
+    "/6PJhLr1lkxsQPliS1XmFxylQDj8.jpg",
+    "/orI3wWbTV2pbd9AbCQ3lQu5Zra.jpg"
+  ],
+  "trailerKey": "IBLKb8GSjW4",
+  "genreIds": [
+    80,
+    18,
+    53
+  ],
+  "keywordIds": [
+    703,
+    2732,
+    3015,
+    4948,
+    3612,
+    10726,
+    12670,
+    15160,
+    18047,
+    33424,
+    157701,
+    159930,
+    159931,
+    161728,
+    194287,
+    199524,
+    202371,
+    212737,
+    220815,
+    227588,
+    233462,
+    314730,
+    315053,
+    321464,
+    325766,
+    325815
+  ],
+  "countries": [
+    "US",
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ko"
+  ],
+  "studios": [
+    "Arnold Kopelson Productions",
+    "Le Studio Canal+",
+    "Regency Enterprises"
+  ],
+  "crew": [
+    {
+      "personId": 5572,
+      "job": "director"
+    },
+    {
+      "personId": 116778,
+      "job": "writer"
+    },
+    {
+      "personId": 14711,
+      "job": "producer"
+    },
+    {
+      "personId": 10764,
+      "job": "producer"
+    },
+    {
+      "personId": 14710,
+      "job": "producer"
+    },
+    {
+      "personId": 10765,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1213,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3392,
+      "character": "D-Fens",
+      "order": 0
+    },
+    {
+      "personId": 3087,
+      "character": "Prendergast",
+      "order": 1
+    },
+    {
+      "personId": 10767,
+      "character": "Beth",
+      "order": 2
+    },
+    {
+      "personId": 10768,
+      "character": "Sandra",
+      "order": 3
+    },
+    {
+      "personId": 4514,
+      "character": "Mrs. Prendergast",
+      "order": 4
+    },
+    {
+      "personId": 8351,
+      "character": "Surplus Store Owner",
+      "order": 5
+    },
+    {
+      "personId": 2207,
+      "character": "D-Fens' Mother",
+      "order": 6
+    },
+    {
+      "personId": 1402302,
+      "character": "Adele (Beth's Child)",
+      "order": 7
+    },
+    {
+      "personId": 116778,
+      "character": "Guy on Freeway",
+      "order": 8
+    },
+    {
+      "personId": 17355,
+      "character": "Mr. Lee",
+      "order": 9
+    },
+    {
+      "personId": 10361,
+      "character": "Captain Yardley",
+      "order": 10
+    },
+    {
+      "personId": 87956,
+      "character": "Detective Lydecker",
+      "order": 11
+    },
+    {
+      "personId": 4025,
+      "character": "Detective Brian",
+      "order": 12
+    },
+    {
+      "personId": 1984,
+      "character": "Detective Jones",
+      "order": 13
+    },
+    {
+      "personId": 1739,
+      "character": "Detective Keene",
+      "order": 14
+    },
+    {
+      "personId": 152943,
+      "character": "Detective Graham",
+      "order": 15
+    },
+    {
+      "personId": 57414,
+      "character": "Detective Sanchez",
+      "order": 16
+    },
+    {
+      "personId": 156532,
+      "character": "Police Clerk",
+      "order": 17
+    },
+    {
+      "personId": 1406720,
+      "character": "Officer at Station",
+      "order": 18
+    },
+    {
+      "personId": 41740,
+      "character": "Gang Member One",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4321,
+  "sources": [
+    "cult-list"
+  ]
+}

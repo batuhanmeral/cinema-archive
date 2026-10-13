@@ -1,0 +1,204 @@
+{
+  "tmdbId": 2756,
+  "slug": "the-abyss-1989",
+  "year": 1989,
+  "runtime": 140,
+  "originalTitle": "The Abyss",
+  "title": {
+    "en": "The Abyss",
+    "tr": "Işığın Bittiği Yer"
+  },
+  "overview": {
+    "en": "A civilian oil rig crew is recruited to conduct a search and rescue effort when a nuclear submarine mysteriously sinks. One diver soon finds himself on a spectacular odyssey 25,000 feet below the ocean's surface where he confronts a mysterious force that has the power to change the world or destroy it.",
+    "tr": "Soğuk Savaş dönemi sırasında bir Amerikan nükleer denizaltısı bilinmeyen bir düşmanın saldırısına uğrar ve deniz tabanına oturur. Amerikan donanması yakınlardaki bir petrol istasyonunun çalışanlarından olayın sebebini araştırmalarını ister ve onlara destek olarak bir özel ekip ve yüksek teknolojiyle donatılmış bir araştırma denizaltısı gönderir. Elde ettikleri veriler ve tespitleri sonucunda ekip, kazanın sebebinin dünya dışı varlıkların saldırısı olabileceği yargısına varır fakat araştırmalarını ilerletebilmek için \"Abyss\" adı verilen derin sualtı kanyonuna girmek zorundalardır."
+  },
+  "poster": {
+    "tr": "/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+    "en": "/8NMEf8D2v85bQ6VNvexTqI9tVvG.jpg"
+  },
+  "backdrops": [
+    "/xLzkWj2C6zCWyFT8Z7tKKtfrwcR.jpg",
+    "/mW6XzxelLY8T2oW2NjciG9LpZT5.jpg",
+    "/aPB3jFuMSoNFk2uDZ5tX5CIGaSX.jpg",
+    "/mvyXAeLtrOa2xjNQsVF5UyR37El.jpg",
+    "/teyJzKFKzzhg9nyPZpMAdOSISrC.jpg",
+    "/zn7sZdHsKl0RasCRk7YLXV1HUTa.jpg",
+    "/hLfWygtjsAIXuyxZuumf4dexzYo.jpg",
+    "/or1MRhqGfcrX58UwAAnvIyzW9OZ.jpg",
+    "/jFgto0r4FBKuIqfy60sHm8igzAs.jpg",
+    "/5GC485jVntz4UENbw9bOb5gI8mP.jpg"
+  ],
+  "trailerKey": "7cCVYAcIIAo",
+  "genreIds": [
+    12,
+    53,
+    878
+  ],
+  "keywordIds": [
+    658,
+    3243,
+    339,
+    270,
+    2772,
+    3269,
+    6255,
+    3312,
+    4410,
+    4862,
+    9738,
+    4949,
+    10503,
+    14785,
+    155334,
+    161293,
+    162351,
+    177406,
+    185477,
+    233020
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox",
+    "Pacific Western"
+  ],
+  "crew": [
+    {
+      "personId": 2710,
+      "job": "director"
+    },
+    {
+      "personId": 869,
+      "job": "producer"
+    },
+    {
+      "personId": 30148,
+      "job": "producer"
+    },
+    {
+      "personId": 37,
+      "job": "composer"
+    },
+    {
+      "personId": 30149,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2710,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 228,
+      "character": "Virgil 'Bud' Brigman",
+      "order": 0
+    },
+    {
+      "personId": 1161,
+      "character": "Lindsey Brigman",
+      "order": 1
+    },
+    {
+      "personId": 2712,
+      "character": "Lieutenant Hiram Coffey",
+      "order": 2
+    },
+    {
+      "personId": 30151,
+      "character": "Catton ‘Catfish’ De Vries",
+      "order": 3
+    },
+    {
+      "personId": 18342,
+      "character": "Alan 'Hippy' Carnes",
+      "order": 4
+    },
+    {
+      "personId": 60118,
+      "character": "Jammer Willis",
+      "order": 5
+    },
+    {
+      "personId": 1984,
+      "character": "Lisa 'One Night' Standing",
+      "order": 6
+    },
+    {
+      "personId": 1534,
+      "character": "Bendix",
+      "order": 7
+    },
+    {
+      "personId": 21757,
+      "character": "Arliss 'Sonny' Dawson",
+      "order": 8
+    },
+    {
+      "personId": 948563,
+      "character": "Lew Finler",
+      "order": 9
+    },
+    {
+      "personId": 951985,
+      "character": "Wilhite",
+      "order": 10
+    },
+    {
+      "personId": 551894,
+      "character": "Schoenick",
+      "order": 11
+    },
+    {
+      "personId": 4732,
+      "character": "Ensign Monk",
+      "order": 12
+    },
+    {
+      "personId": 14663,
+      "character": "Dwight Perry",
+      "order": 13
+    },
+    {
+      "personId": 15442,
+      "character": "Leland McBride",
+      "order": 14
+    },
+    {
+      "personId": 97944,
+      "character": "DeMarco",
+      "order": 15
+    },
+    {
+      "personId": 156819,
+      "character": "Captain",
+      "order": 16
+    },
+    {
+      "personId": 87118,
+      "character": "Barnes",
+      "order": 17
+    },
+    {
+      "personId": 38570,
+      "character": "Gerard Kirkhill",
+      "order": 18
+    },
+    {
+      "personId": 1044,
+      "character": "Dr. Berg",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 3648,
+  "sources": [
+    "cult-list"
+  ]
+}

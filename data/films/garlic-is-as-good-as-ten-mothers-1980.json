@@ -1,0 +1,86 @@
+{
+  "tmdbId": 85642,
+  "slug": "garlic-is-as-good-as-ten-mothers-1980",
+  "year": 1980,
+  "runtime": 51,
+  "originalTitle": "Garlic Is as Good as Ten Mothers",
+  "title": {
+    "en": "Garlic Is as Good as Ten Mothers",
+    "tr": "Garlic Is as Good as Ten Mothers"
+  },
+  "overview": {
+    "en": "A zesty paean of praise to the greater glories of garlic. This lip-smacking foray into the history, consumption, cultivation and culinary/curative powers of the stinking rose features chef Alice Waters of Chez Panisse, and a flavorful musical soundtrack.  Preserved by the Academy Film Archive in 1999.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gcgRpoF7WKcGAXpEGtqRdVo9b7u.jpg",
+    "en": "/rrUnwXafmZzPdSqmVzx1gQACCRf.jpg"
+  },
+  "backdrops": [
+    "/3AegcWInyPmfnsK4qnDU66Xrac9.jpg",
+    "/8R5O9zdkUkkQ9T79XOsoz4seZhL.jpg"
+  ],
+  "trailerKey": "HQzDhqyKUDY",
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    210371
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Flower Films"
+  ],
+  "crew": [
+    {
+      "personId": 142594,
+      "job": "director"
+    },
+    {
+      "personId": 142594,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 142594,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1018908,
+      "character": "Self - Chez Panisse Restaurant, Berkeley",
+      "order": 0
+    },
+    {
+      "personId": 6818,
+      "character": "Self - Film Director: Nosferatu",
+      "order": 1
+    },
+    {
+      "personId": 320973,
+      "character": "Self - Youth Saved From Dysentery",
+      "order": 2
+    },
+    {
+      "personId": 1314064,
+      "character": "Self - Interviewer, Recordist, Writer, Garlic Peeler",
+      "order": 3
+    },
+    {
+      "personId": 1379113,
+      "character": "Narrator (voice)",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 26,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "tmdbId": 7348,
+  "slug": "robinson-crusoe-on-mars-1964",
+  "year": 1964,
+  "runtime": 110,
+  "originalTitle": "Robinson Crusoe on Mars",
+  "title": {
+    "en": "Robinson Crusoe on Mars",
+    "tr": "Robinson Crusoe on Mars"
+  },
+  "overview": {
+    "en": "Stranded on Mars with only a monkey as a companion, an astronaut must figure out how to find oxygen, water, and food and companionship on the lifeless planet.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/a3MBNEoquGKZT5UYbq9o509dzTV.jpg",
+    "en": "/kzs1HUxP1HzLNdtNQrulZOC69hR.jpg"
+  },
+  "backdrops": [
+    "/ay8Sl3esPX1MyuBOLjl0xI2TiXX.jpg",
+    "/cDD9zLovzH67u2sWW0I1veUQCBA.jpg",
+    "/lT5YohuHct1YEDXf1R99RmUoQf8.jpg",
+    "/aQFBJa0kVyRwYHQGOv4O6G97Zsg.jpg",
+    "/k3XkHRKXL8tvwk5ieRqeMoizaH3.jpg",
+    "/aRvBxoEOCU5fDmxPevmeNMBKMxZ.jpg",
+    "/9QRsjUsuvnC4mHsx7QaCN9ynlXv.jpg",
+    "/uGK2Pz5jrPZW8nHgmAigX8YvRoi.jpg",
+    "/gh4hi1rvBNLTVbvgqtLrgQ3pF4X.jpg"
+  ],
+  "trailerKey": "Twa8jKrIWE0",
+  "genreIds": [
+    878,
+    12
+  ],
+  "keywordIds": [
+    839,
+    4040,
+    14626,
+    15149,
+    177178
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Aubrey Schenck Productions",
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 51000,
+      "job": "director"
+    },
+    {
+      "personId": 52589,
+      "job": "writer"
+    },
+    {
+      "personId": 51715,
+      "job": "writer"
+    },
+    {
+      "personId": 30968,
+      "job": "producer"
+    },
+    {
+      "personId": 52593,
+      "job": "composer"
+    },
+    {
+      "personId": 22085,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 52590,
+      "character": "Commander Christopher Draper",
+      "order": 0
+    },
+    {
+      "personId": 1090742,
+      "character": "Friday",
+      "order": 1
+    },
+    {
+      "personId": 26847,
+      "character": "Colonel Dan McReady",
+      "order": 2
+    },
+    {
+      "personId": 4402106,
+      "character": "Mona",
+      "order": 3
+    }
+  ],
+  "awards": {},
+  "voteCount": 161,
+  "sources": [
+    "cult-list"
+  ]
+}

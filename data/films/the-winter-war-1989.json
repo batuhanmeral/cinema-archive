@@ -1,0 +1,179 @@
+{
+  "tmdbId": 29383,
+  "slug": "the-winter-war-1989",
+  "year": 1989,
+  "runtime": 189,
+  "originalTitle": "Talvisota",
+  "title": {
+    "en": "The Winter War",
+    "tr": "Talvisota"
+  },
+  "overview": {
+    "en": "After Nazi Germany invades Poland in September 1939, Russia attacks Finland two months later. Finnish reservists leave home and go to war. Brothers Martti and Paavo Hakala, farmers from the municipality of Kauhava in the province of Pohjanmaa/Ostrobothnia, serve in a Finnish platoon.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/m2sZm9bl4J0q2pIoSxXcDLX2U9E.jpg",
+    "en": "/hoXzrghg8RMtw9ErlWZ6lfixOR9.jpg"
+  },
+  "backdrops": [
+    "/2yzsv6n5uM15gpYmYukiUMNuyha.jpg",
+    "/py2Z4bU5RNfMKdmXJ01SpddwWzi.jpg"
+  ],
+  "trailerKey": "A1EfoFiJBX4",
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    818,
+    1956,
+    191010
+  ],
+  "countries": [
+    "FI"
+  ],
+  "languages": [
+    "fi"
+  ],
+  "studios": [
+    "National-Filmi"
+  ],
+  "crew": [
+    {
+      "personId": 222545,
+      "job": "director"
+    },
+    {
+      "personId": 141979,
+      "job": "writer"
+    },
+    {
+      "personId": 238473,
+      "job": "producer"
+    },
+    {
+      "personId": 1326067,
+      "job": "composer"
+    },
+    {
+      "personId": 936898,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1326069,
+      "job": "composer"
+    },
+    {
+      "personId": 222545,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 124262,
+      "character": "Martti Hakala",
+      "order": 0
+    },
+    {
+      "personId": 53509,
+      "character": "Jussi Kantola",
+      "order": 1
+    },
+    {
+      "personId": 228650,
+      "character": "Pentti Saari",
+      "order": 2
+    },
+    {
+      "personId": 994246,
+      "character": "Vilho Erkkilä",
+      "order": 3
+    },
+    {
+      "personId": 124857,
+      "character": "Erkki Somppi",
+      "order": 4
+    },
+    {
+      "personId": 1245289,
+      "character": "Juho Pernaa",
+      "order": 5
+    },
+    {
+      "personId": 89502,
+      "character": "Arvi Huhtala",
+      "order": 6
+    },
+    {
+      "personId": 936894,
+      "character": "Aatos Laitila",
+      "order": 7
+    },
+    {
+      "personId": 89503,
+      "character": "Veikko Korpela",
+      "order": 8
+    },
+    {
+      "personId": 89514,
+      "character": "Paavo Hakala",
+      "order": 9
+    },
+    {
+      "personId": 4829,
+      "character": "Matti Ylinen",
+      "order": 10
+    },
+    {
+      "personId": 92428,
+      "character": "Mauri Haapasalo",
+      "order": 11
+    },
+    {
+      "personId": 148293,
+      "character": "Yrjö Haavisto",
+      "order": 12
+    },
+    {
+      "personId": 150978,
+      "character": "Sihvo",
+      "order": 13
+    },
+    {
+      "personId": 2237596,
+      "character": "Jorma Potila",
+      "order": 14
+    },
+    {
+      "personId": 56273,
+      "character": "Matti Laurila",
+      "order": 15
+    },
+    {
+      "personId": 1034492,
+      "character": "Hannu Jutila",
+      "order": 16
+    },
+    {
+      "personId": 992848,
+      "character": "Ahti Saari",
+      "order": 17
+    },
+    {
+      "personId": 53508,
+      "character": "Yrjö 'Ylli' Alanen",
+      "order": 18
+    },
+    {
+      "personId": 79757,
+      "character": "Jaakko Rajala",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 102,
+  "sources": [
+    "cult-list"
+  ]
+}

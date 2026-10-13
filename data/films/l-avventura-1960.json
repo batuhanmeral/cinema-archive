@@ -1,0 +1,195 @@
+{
+  "tmdbId": 5165,
+  "slug": "l-avventura-1960",
+  "year": 1960,
+  "runtime": 144,
+  "originalTitle": "L'avventura",
+  "title": {
+    "en": "L'Avventura",
+    "tr": "Serüven"
+  },
+  "overview": {
+    "en": "Claudia and Anna join Anna's lover, Sandro, on a boat trip to a remote volcanic island. When Anna goes missing, a search is launched. In the meantime, Sandro and Claudia become involved in a romance despite Anna's disappearance, though the relationship suffers from guilt and tension.",
+    "tr": "Anna, sevgilisi Sandro ve en yakın arkadaşı Claudia'nın da dahil olduğu bir grupla beraber bir yat gezisine çıkar. Yat Akdenize doğru açılırken, Anna sevgilisine karşı hissettiği duygularını sorgulamaya başlar. Yat bir adaya yaklaştıktan kısa bir süre sonra Anna gizemli bir şekilde kaybolur. Anna'yı arayamaya başlayan Sandro ve Claudia'nın arasında ise bir aşk başlar. Çok az dialog içeren film, gücünü yönetmenin hikayeyi anlatış tarzından ve filmdeki gizemi sürekli korumasından alıyor. Film bu sayede verdiği aşk hikayesinin yanı sıra gerilimi de koruyup tansiyonu arttırıyor. Michelangelo Antonioni'nin en yetkin filmlerinden olan L'Avventura, Akdeniz'in muhteşem güzelliğini de siyah beyaz estetikle bizlere verir."
+  },
+  "poster": {
+    "tr": "/zB4fTkCrPgNhbysPMJkkSUifGeo.jpg",
+    "en": "/7kUXAS8K7Ihw1T1mhARjnLuMVk3.jpg"
+  },
+  "backdrops": [
+    "/nJT9XUVgvjWwZ1xhUt890V1uiwW.jpg",
+    "/rhaIChs3xgdlBXrP7AaZmzFAfHx.jpg",
+    "/hjugCSVS3vrWnwVdKWKOe7CHP8g.jpg",
+    "/kF5AeKG5XIZkAXY0kRgm57qEbJI.jpg",
+    "/xrlfjMkyvsRQsnPcCAou9l9AO53.jpg",
+    "/vyTZhOfmIb480RYneAIhhzPh8Zx.jpg",
+    "/sJkHCYbUn9IvCtizNlg00uYlZIg.jpg",
+    "/3VI2XYtodMoFtebCGRGbzu0hx6z.jpg",
+    "/1A6sTrroH0y1UCNVXCqITQp44hr.jpg",
+    "/gznwOQyJRYX2LxNvNsNkIPr5iAF.jpg"
+  ],
+  "trailerKey": "N6ShLDfjnzw",
+  "genreIds": [
+    18,
+    9648,
+    10749
+  ],
+  "keywordIds": [
+    2041,
+    2853,
+    6149,
+    2301,
+    12999,
+    208802
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "studios": [
+    "Cino del Duca",
+    "Societé Cinématographique Lyre",
+    "Produzioni Cinematografiche Europee (P.C.E.)"
+  ],
+  "crew": [
+    {
+      "personId": 15189,
+      "job": "writer"
+    },
+    {
+      "personId": 15191,
+      "job": "writer"
+    },
+    {
+      "personId": 15189,
+      "job": "director"
+    },
+    {
+      "personId": 41777,
+      "job": "writer"
+    },
+    {
+      "personId": 27861,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 39161,
+      "job": "composer"
+    },
+    {
+      "personId": 3289504,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 41779,
+      "character": "Claudia",
+      "order": 0
+    },
+    {
+      "personId": 4961,
+      "character": "Sandro",
+      "order": 1
+    },
+    {
+      "personId": 20882,
+      "character": "Anna",
+      "order": 2
+    },
+    {
+      "personId": 38243,
+      "character": "Giulia",
+      "order": 3
+    },
+    {
+      "personId": 231979,
+      "character": "Anna's Father",
+      "order": 4
+    },
+    {
+      "personId": 41781,
+      "character": "Corrado",
+      "order": 5
+    },
+    {
+      "personId": 1184827,
+      "character": "Gloria Perkins",
+      "order": 6
+    },
+    {
+      "personId": 544823,
+      "character": "Raimondo",
+      "order": 7
+    },
+    {
+      "personId": 557158,
+      "character": "Prince Godfrey",
+      "order": 8
+    },
+    {
+      "personId": 41780,
+      "character": "Patrizia",
+      "order": 9
+    },
+    {
+      "personId": 1184833,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1184829,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1184831,
+      "character": "Photographer",
+      "order": 12
+    },
+    {
+      "personId": 1184832,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1074055,
+      "character": "Zuria, the Journalist",
+      "order": 14
+    },
+    {
+      "personId": 1184828,
+      "character": "Princess",
+      "order": 15
+    },
+    {
+      "personId": 1184834,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 2184742,
+      "character": "Martina",
+      "order": 17
+    },
+    {
+      "personId": 1184830,
+      "character": "Ettore (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 523675,
+      "character": "Old Man on the Island (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 780,
+  "sources": [
+    "cult-list"
+  ]
+}

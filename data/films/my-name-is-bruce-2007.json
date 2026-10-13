@@ -1,0 +1,176 @@
+{
+  "tmdbId": 1961,
+  "slug": "my-name-is-bruce-2007",
+  "year": 2007,
+  "runtime": 84,
+  "originalTitle": "My Name Is Bruce",
+  "title": {
+    "en": "My Name Is Bruce",
+    "tr": "My Name Is Bruce"
+  },
+  "overview": {
+    "en": "B-movie Legend Bruce Campbell is mistaken for his character Ash from the Evil Dead trilogy and forced to fight a real monster in a small town in Oregon.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/et2f1JBW533ZzYiCEA2T7nwzcs1.jpg",
+    "en": "/et2f1JBW533ZzYiCEA2T7nwzcs1.jpg"
+  },
+  "backdrops": [
+    "/snPM5sBGoZSm8g81yyqxsXmyzP6.jpg",
+    "/kaQuODC9IWpvVRFqrXwHnqXniAg.jpg",
+    "/30eCX5BqWp6DiypuT4TSMti2CDg.jpg",
+    "/4U2sPKtmaqe6P9YWBDzmQCs3n3U.jpg"
+  ],
+  "trailerKey": "I8ny7K9bq68",
+  "genreIds": [
+    35,
+    27,
+    14
+  ],
+  "keywordIds": [
+    9755,
+    33465
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Dark Horse Entertainment",
+    "Image Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 20249,
+      "job": "writer"
+    },
+    {
+      "personId": 11357,
+      "job": "producer"
+    },
+    {
+      "personId": 11357,
+      "job": "director"
+    },
+    {
+      "personId": 40832,
+      "job": "producer"
+    },
+    {
+      "personId": 2417365,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11468,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11357,
+      "character": "Bruce Campbell",
+      "order": 0
+    },
+    {
+      "personId": 2622412,
+      "character": "Jeff",
+      "order": 1
+    },
+    {
+      "personId": 112543,
+      "character": "Kelly",
+      "order": 2
+    },
+    {
+      "personId": 11769,
+      "character": "Mills Toddner / Wing",
+      "order": 3
+    },
+    {
+      "personId": 11462,
+      "character": "Cheryl",
+      "order": 4
+    },
+    {
+      "personId": 239300,
+      "character": "Mayor",
+      "order": 5
+    },
+    {
+      "personId": 11766,
+      "character": "Frank",
+      "order": 6
+    },
+    {
+      "personId": 2622414,
+      "character": "Clayton",
+      "order": 7
+    },
+    {
+      "personId": 2622415,
+      "character": "Little Debbie",
+      "order": 8
+    },
+    {
+      "personId": 2622417,
+      "character": "Big Debbie",
+      "order": 9
+    },
+    {
+      "personId": 2622418,
+      "character": "Guan-Di / Cavealien Monster",
+      "order": 10
+    },
+    {
+      "personId": 2622422,
+      "character": "Petra",
+      "order": 11
+    },
+    {
+      "personId": 2417365,
+      "character": "Cinematographer",
+      "order": 12
+    },
+    {
+      "personId": 20250,
+      "character": "Tiny",
+      "order": 13
+    },
+    {
+      "personId": 2622425,
+      "character": "Fan #1",
+      "order": 14
+    },
+    {
+      "personId": 20251,
+      "character": "Fan #2",
+      "order": 15
+    },
+    {
+      "personId": 2622427,
+      "character": "Fan #3",
+      "order": 16
+    },
+    {
+      "personId": 227232,
+      "character": "Wheelchair Fan",
+      "order": 17
+    },
+    {
+      "personId": 20252,
+      "character": "Kasey",
+      "order": 18
+    },
+    {
+      "personId": 2622431,
+      "character": "Charlene",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 384,
+  "sources": [
+    "cult-list"
+  ]
+}

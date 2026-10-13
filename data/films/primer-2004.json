@@ -1,0 +1,185 @@
+{
+  "tmdbId": 14337,
+  "slug": "primer-2004",
+  "year": 2004,
+  "runtime": 77,
+  "originalTitle": "Primer",
+  "title": {
+    "en": "Primer",
+    "tr": "Kapsül"
+  },
+  "overview": {
+    "en": "A group of fledgling inventors discover a complex method to manipulate reality. At first, they successfully game the stock market with it, but the consequences of the invention start to catch up with them.",
+    "tr": "Yetenekli iki genç mühendis, bir garajda yürüttükleri deneyler sırasında kazara müthiş bir keşifte bulunurlar. Üzerinde çalıştıkları proje, onları zamanda geriye doğru yolculuğa çıkarabilmektedir. Sonsuz merakları nedeniyle, yolculuk deneylerini birbirlerinden habersiz yürüten mühendislerin bu deneyi çok ciddi sorunlara yol açacaktır."
+  },
+  "poster": {
+    "tr": "/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg",
+    "en": "/xEoq2WmDzpzxhkHEsmOYOg6BPg6.jpg"
+  },
+  "backdrops": [
+    "/yxlGeAK6BrbKng8VSJSKTpSXSsL.jpg",
+    "/yOF42AWuF9Nz8nGLFpdGACSUwao.jpg",
+    "/AbQ209CbzbL168DBXRhUcfpXF5G.jpg",
+    "/blSQbKAreIqcu2AWGDNjR8k3fAy.jpg",
+    "/4oktpwny9qYdNWA4FvciJZjFAVh.jpg",
+    "/pyToDPOQqb9ue7ntE2IP3IddM7y.jpg",
+    "/fHjafsBNWMAivHprT1eTDsIhA6d.jpg",
+    "/gIFbfh9O4HBrO6numxVBxtZ9fTL.jpg",
+    "/kM9PTZSQCcEOAO5jueKqWWI9MJm.jpg",
+    "/9khvcluLJs40bi6rRvMFB5m5JEs.jpg"
+  ],
+  "trailerKey": "-vD-yj9o664",
+  "genreIds": [
+    878,
+    18,
+    53
+  ],
+  "keywordIds": [
+    1448,
+    2101,
+    6009,
+    3394,
+    4379,
+    5455,
+    14779,
+    162356,
+    260150,
+    315323
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "erbp"
+  ],
+  "crew": [
+    {
+      "personId": 76624,
+      "job": "director"
+    },
+    {
+      "personId": 76624,
+      "job": "composer"
+    },
+    {
+      "personId": 76624,
+      "job": "writer"
+    },
+    {
+      "personId": 76624,
+      "job": "producer"
+    },
+    {
+      "personId": 2139514,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 76624,
+      "character": "Aaron",
+      "order": 0
+    },
+    {
+      "personId": 76625,
+      "character": "Abe",
+      "order": 1
+    },
+    {
+      "personId": 110171,
+      "character": "Robert",
+      "order": 2
+    },
+    {
+      "personId": 110172,
+      "character": "Philip",
+      "order": 3
+    },
+    {
+      "personId": 110173,
+      "character": "Kara",
+      "order": 4
+    },
+    {
+      "personId": 1080287,
+      "character": "Metalshop Worker",
+      "order": 5
+    },
+    {
+      "personId": 1080288,
+      "character": "Man On Couch #1",
+      "order": 6
+    },
+    {
+      "personId": 1080289,
+      "character": "Man On Couch #2",
+      "order": 7
+    },
+    {
+      "personId": 1080290,
+      "character": "Hostess",
+      "order": 8
+    },
+    {
+      "personId": 1080291,
+      "character": "Rachel Granger",
+      "order": 9
+    },
+    {
+      "personId": 1080292,
+      "character": "Thomas Granger",
+      "order": 10
+    },
+    {
+      "personId": 1080293,
+      "character": "Laney",
+      "order": 11
+    },
+    {
+      "personId": 1080294,
+      "character": "Aaron's Co-worker",
+      "order": 12
+    },
+    {
+      "personId": 1080295,
+      "character": "Clean Room Technician",
+      "order": 13
+    },
+    {
+      "personId": 1080296,
+      "character": "Laboratory Technician",
+      "order": 14
+    },
+    {
+      "personId": 1080297,
+      "character": "Will",
+      "order": 15
+    },
+    {
+      "personId": 1080298,
+      "character": "Will's Cousin",
+      "order": 16
+    },
+    {
+      "personId": 203260,
+      "character": "Rachel's Date",
+      "order": 17
+    },
+    {
+      "personId": 1080299,
+      "character": "Translator",
+      "order": 18
+    },
+    {
+      "personId": 2343989,
+      "character": "Seth Pool Party Guest",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2585,
+  "sources": [
+    "cult-list"
+  ]
+}

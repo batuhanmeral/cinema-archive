@@ -1,0 +1,171 @@
+{
+  "tmdbId": 442631,
+  "slug": "the-pyramid-1976",
+  "year": 1976,
+  "runtime": 90,
+  "originalTitle": "The Pyramid",
+  "title": {
+    "en": "The Pyramid",
+    "tr": "The Pyramid"
+  },
+  "overview": {
+    "en": "A young TV news reporter grows tired of commercial programming and decides to cover more positive stories. He is fired for his troubles, and goes on a personal search for truth and beauty in the media. A voyage in consciousness for the millennium.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/96X2v9QyhnnrnnDt3yWeBBbUj8z.jpg",
+    "en": "/96X2v9QyhnnrnnDt3yWeBBbUj8z.jpg"
+  },
+  "backdrops": [
+    "/uDGEDggo6fRB9xCk6lDM5qSRGAu.jpg",
+    "/xHcRZGCQeEZ8hkDQfFZC7DQqkIw.jpg",
+    "/jsaMYP9ASl23RZguKA98M89HYjw.jpg",
+    "/zftiiKy9lrQ4ckidIocTY0rJuJR.jpg",
+    "/vpDFjXr8fQpzTbggnCZoDTRNi9K.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    10902,
+    13424,
+    18256
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 45634,
+      "job": "writer"
+    },
+    {
+      "personId": 45634,
+      "job": "director"
+    },
+    {
+      "personId": 2242300,
+      "job": "composer"
+    },
+    {
+      "personId": 2632338,
+      "job": "producer"
+    },
+    {
+      "personId": 1379252,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1761318,
+      "character": "Chris Lowe (as C.W. Brown)",
+      "order": 0
+    },
+    {
+      "personId": 62074,
+      "character": "LaMoine \"L.A.\" Peabody",
+      "order": 1
+    },
+    {
+      "personId": 1266877,
+      "character": "Merleen",
+      "order": 2
+    },
+    {
+      "personId": 172696,
+      "character": "Iris",
+      "order": 3
+    },
+    {
+      "personId": 177891,
+      "character": "Dick Hogarty (as John Stoglin Parker)",
+      "order": 4
+    },
+    {
+      "personId": 102451,
+      "character": "Phil",
+      "order": 5
+    },
+    {
+      "personId": 2632313,
+      "character": "Young Mother",
+      "order": 6
+    },
+    {
+      "personId": 2632314,
+      "character": "Actress",
+      "order": 7
+    },
+    {
+      "personId": 1577063,
+      "character": "Station Employee",
+      "order": 8
+    },
+    {
+      "personId": 2632316,
+      "character": "Marinen",
+      "order": 9
+    },
+    {
+      "personId": 2632317,
+      "character": "Trippy",
+      "order": 10
+    },
+    {
+      "personId": 2447987,
+      "character": "Oracle",
+      "order": 11
+    },
+    {
+      "personId": 2632321,
+      "character": "Bubba",
+      "order": 12
+    },
+    {
+      "personId": 2632322,
+      "character": "A.C. VanHEE",
+      "order": 13
+    },
+    {
+      "personId": 2629937,
+      "character": "Robin Quayle",
+      "order": 14
+    },
+    {
+      "personId": 87488,
+      "character": "Self",
+      "order": 15
+    },
+    {
+      "personId": 2629939,
+      "character": "Reporter Larry Swain",
+      "order": 16
+    },
+    {
+      "personId": 2632326,
+      "character": "Detective",
+      "order": 17
+    },
+    {
+      "personId": 2632327,
+      "character": "Lady Chef",
+      "order": 18
+    },
+    {
+      "personId": 2632328,
+      "character": "Theatre Owner",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 8,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "tmdbId": 25389,
+  "slug": "matinee-1993",
+  "year": 1993,
+  "runtime": 99,
+  "originalTitle": "Matinee",
+  "title": {
+    "en": "Matinee",
+    "tr": "Matine"
+  },
+  "overview": {
+    "en": "A showman introduces a small coastal town to a unique movie experience and capitalizes on the Cuban Missile crisis hysteria with a kitschy horror extravaganza combining film effects, stage props and actors in rubber suits in this salute to the B-movie.",
+    "tr": "Bir şovmen, benzersiz bir film tecrübesine sahip küçük bir sahil kasabası ile Kübalı Füze krizi histerisini, film efektlerini, sahne aksesuarlarını ve kauçuk kıyafetlerini B filminde birleştiren kitschy korku şaşkınlığını kullanarak harcar."
+  },
+  "poster": {
+    "tr": "/2S6FEhl4dpr5E0mj3sth0XxJQAu.jpg",
+    "en": "/AkRirG44JdKb4UKxqf92DOYeNEB.jpg"
+  },
+  "backdrops": [
+    "/nfTkAIHLQ0XGVAxJefC8zX5yYrr.jpg",
+    "/8Gh8Dsqo2BqS3DSOjum9C4bvl5.jpg",
+    "/yGoTOlPUgtcYwfQ8525RDqpVROh.jpg",
+    "/3sW58JNAZmoIgHyZ7MH8WVwr0mx.jpg",
+    "/x2ExcthET1wt1nr2bRu79xVB5Ek.jpg",
+    "/yF5wqlqxR6dOXZ6vDBeYKpub8TX.jpg",
+    "/izuw34SHTw0zHdlo9FBhSOuc9R.jpg",
+    "/74FYmLUeBqOmisoxz7KBNujLoL2.jpg"
+  ],
+  "trailerKey": "0GmhD-MnoQM",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    1196,
+    2106,
+    4409,
+    9732,
+    181558,
+    208992,
+    217421,
+    227169,
+    235736,
+    242689
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Falcon Productions",
+    "Renfield Productions"
+  ],
+  "crew": [
+    {
+      "personId": 16174,
+      "job": "writer"
+    },
+    {
+      "personId": 4600,
+      "job": "director"
+    },
+    {
+      "personId": 16156,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 16154,
+      "job": "producer"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1230,
+      "character": "Lawrence Woolsey",
+      "order": 0
+    },
+    {
+      "personId": 14702,
+      "character": "Ruth Corday / Carole",
+      "order": 1
+    },
+    {
+      "personId": 75789,
+      "character": "Gene Loomis",
+      "order": 2
+    },
+    {
+      "personId": 65309,
+      "character": "Stan",
+      "order": 3
+    },
+    {
+      "personId": 8987,
+      "character": "Sandra",
+      "order": 4
+    },
+    {
+      "personId": 93663,
+      "character": "Sherry",
+      "order": 5
+    },
+    {
+      "personId": 1011102,
+      "character": "Dennis Loomis",
+      "order": 6
+    },
+    {
+      "personId": 5148,
+      "character": "Anne Loomis",
+      "order": 7
+    },
+    {
+      "personId": 54888,
+      "character": "Harvey Starkweather",
+      "order": 8
+    },
+    {
+      "personId": 16180,
+      "character": "Howard",
+      "order": 9
+    },
+    {
+      "personId": 93664,
+      "character": "Mr. Spector",
+      "order": 10
+    },
+    {
+      "personId": 102441,
+      "character": "Herb",
+      "order": 11
+    },
+    {
+      "personId": 102445,
+      "character": "Bob",
+      "order": 12
+    },
+    {
+      "personId": 15412,
+      "character": "Jack",
+      "order": 13
+    },
+    {
+      "personId": 9300,
+      "character": "Rhonda",
+      "order": 14
+    },
+    {
+      "personId": 93665,
+      "character": "Dwight",
+      "order": 15
+    },
+    {
+      "personId": 93666,
+      "character": "Andy",
+      "order": 16
+    },
+    {
+      "personId": 93667,
+      "character": "Stan's Friend",
+      "order": 17
+    },
+    {
+      "personId": 93668,
+      "character": "Stan's Friend",
+      "order": 18
+    },
+    {
+      "personId": 93669,
+      "character": "Stan's Friend",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 346,
+  "sources": [
+    "cult-list"
+  ]
+}

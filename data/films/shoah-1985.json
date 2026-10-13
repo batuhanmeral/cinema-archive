@@ -1,0 +1,187 @@
+{
+  "tmdbId": 42044,
+  "slug": "shoah-1985",
+  "year": 1985,
+  "runtime": 566,
+  "originalTitle": "Shoah",
+  "title": {
+    "en": "Shoah",
+    "tr": "Shoah"
+  },
+  "overview": {
+    "en": "Director Claude Lanzmann spent 11 years on this sprawling documentary about the Holocaust, conducting his own interviews and refusing to use a single frame of archival footage. Dividing Holocaust witnesses into three categories – survivors, bystanders, and perpetrators – Lanzmann presents testimonies from survivors of the Chelmno concentration camp, an Auschwitz escapee, and witnesses of the Warsaw Ghetto Uprising, as well as a chilling report of gas chambers from an SS officer at Treblinka.",
+    "tr": "Yahudi soykırımıyla ilgili röportajlardan ve tanıklıklardan oluşan Shoah, Polonya’da felaketten kurtulanları, felakete seyirci kalanları ve soykırımın faillerini sorgulayarak görsel bir şiir kuruyor. Herhangi bir arşiv görüntüsünün yer almadığı bu dokuz saatlik film, 1974-1981 arasında çekilmiş 350 saatlik ham görüntüden kurgulandı. Derviş Zaim’in seçtiği filmin dört ana konusu var: Chelmno, Treblinka ve Auschwitz-Birkenau ölüm kampları ve Varşova Gettosu. Lanzmann’a göre Shoah “unutuşa karşı duran kati bir siper, gerçek bir duvar.”"
+  },
+  "poster": {
+    "tr": "/8hr8NdnMygKF2Mbu3eDDQCB5lKg.jpg",
+    "en": "/yvwF7dfSCybFcBOklUzKpE46bHM.jpg"
+  },
+  "backdrops": [
+    "/bJolDsqM8vnlusFJdnCi9rg1nX7.jpg",
+    "/4cVWQvHupI3jlSricUUdMeA4y8h.jpg",
+    "/lPAradpmZoY4M7imxvYqBN3Wf0H.jpg",
+    "/4FDnmwZAakiBrdFhgftiG6fAXzt.jpg",
+    "/iWw2Ld6cr6lF20OsEx4mcDuW5rW.jpg",
+    "/v2mX6EUyunhOqgRnGMdiBI9q8xZ.jpg",
+    "/Au2FXVrlS9gk2EYaXVXszHmlTG3.jpg",
+    "/9JLPuMEHKLmbBYEoVN6a6wx7a3y.jpg",
+    "/bhdZ58mRvuMPR5H5AomaexLM4ww.jpg"
+  ],
+  "trailerKey": "2g-Lc2ZSutA",
+  "genreIds": [
+    99,
+    36
+  ],
+  "keywordIds": [
+    1739,
+    1956,
+    255652,
+    280999,
+    321490
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "yi",
+    "he",
+    "de",
+    "fr",
+    "pl",
+    "en"
+  ],
+  "studios": [
+    "Historia",
+    "Les Films Aleph",
+    "Ministère de la Culture"
+  ],
+  "crew": [
+    {
+      "personId": 127491,
+      "job": "director"
+    },
+    {
+      "personId": 35921,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2038681,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1265224,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 24822,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 127491,
+      "character": "Self - Interviewer",
+      "order": 0
+    },
+    {
+      "personId": 1197444,
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "personId": 1197445,
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "personId": 1197446,
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "personId": 1182964,
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "personId": 2067223,
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "personId": 2697960,
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "personId": 2697962,
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "personId": 2067222,
+      "character": "Self",
+      "order": 8
+    },
+    {
+      "personId": 2697964,
+      "character": "Self",
+      "order": 9
+    },
+    {
+      "personId": 2697965,
+      "character": "Self",
+      "order": 10
+    },
+    {
+      "personId": 2697966,
+      "character": "Self",
+      "order": 11
+    },
+    {
+      "personId": 2697967,
+      "character": "Self",
+      "order": 12
+    },
+    {
+      "personId": 3854379,
+      "character": "Self",
+      "order": 13
+    },
+    {
+      "personId": 3854380,
+      "character": "Self",
+      "order": 14
+    },
+    {
+      "personId": 3854381,
+      "character": "Self",
+      "order": 15
+    },
+    {
+      "personId": 3854382,
+      "character": "Self",
+      "order": 16
+    },
+    {
+      "personId": 3854383,
+      "character": "Self",
+      "order": 17
+    },
+    {
+      "personId": 3854384,
+      "character": "Self",
+      "order": 18
+    },
+    {
+      "personId": 3854385,
+      "character": "Self",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 228,
+  "sources": [
+    "cult-list"
+  ]
+}

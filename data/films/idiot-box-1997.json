@@ -1,0 +1,164 @@
+{
+  "tmdbId": 23239,
+  "slug": "idiot-box-1997",
+  "year": 1997,
+  "runtime": 85,
+  "originalTitle": "Idiot Box",
+  "title": {
+    "en": "Idiot Box",
+    "tr": "Idiot Box"
+  },
+  "overview": {
+    "en": "Mick and Kev – bored, unemployed and aimless in the western suburbs of Sydney – decide to rob a bank, more or less for the fun of it.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/p91Kz3u2p0x37c9M21zVQpyNCJ.jpg",
+    "en": "/p91Kz3u2p0x37c9M21zVQpyNCJ.jpg"
+  },
+  "backdrops": [
+    "/lpCNHPsdacY27YreXTjW5i5Zcfy.jpg"
+  ],
+  "trailerKey": "J3KuPjYTrqU",
+  "genreIds": [
+    35,
+    18,
+    53,
+    80
+  ],
+  "keywordIds": [],
+  "countries": [
+    "AU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Australian Film Finance Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 108022,
+      "job": "director"
+    },
+    {
+      "personId": 108022,
+      "job": "writer"
+    },
+    {
+      "personId": 544966,
+      "job": "producer"
+    },
+    {
+      "personId": 1168344,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 77335,
+      "character": "Kev",
+      "order": 0
+    },
+    {
+      "personId": 75544,
+      "character": "Mick",
+      "order": 1
+    },
+    {
+      "personId": 15337,
+      "character": "Jonah",
+      "order": 2
+    },
+    {
+      "personId": 85351,
+      "character": "Detective Eric",
+      "order": 3
+    },
+    {
+      "personId": 96460,
+      "character": "Detective Leanne",
+      "order": 4
+    },
+    {
+      "personId": 544968,
+      "character": "Lani",
+      "order": 5
+    },
+    {
+      "personId": 1236236,
+      "character": "Mum",
+      "order": 6
+    },
+    {
+      "personId": 1371,
+      "character": "Bank Teller with a History",
+      "order": 7
+    },
+    {
+      "personId": 51671,
+      "character": "Betty",
+      "order": 8
+    },
+    {
+      "personId": 5347812,
+      "character": "Scary TV Crim",
+      "order": 9
+    },
+    {
+      "personId": 58137,
+      "character": "Scary TV Crim",
+      "order": 10
+    },
+    {
+      "personId": 2559117,
+      "character": "Scary TV Crim",
+      "order": 11
+    },
+    {
+      "personId": 5347813,
+      "character": "Scary TV Crim",
+      "order": 12
+    },
+    {
+      "personId": 5347814,
+      "character": "TV Gangster Moll",
+      "order": 13
+    },
+    {
+      "personId": 79695,
+      "character": "Greg / Laughing Boy",
+      "order": 14
+    },
+    {
+      "personId": 4981203,
+      "character": "Bank Clerk",
+      "order": 15
+    },
+    {
+      "personId": 5347816,
+      "character": "Bank Teller",
+      "order": 16
+    },
+    {
+      "personId": 55866,
+      "character": "Terry",
+      "order": 17
+    },
+    {
+      "personId": 4554048,
+      "character": "Accomplice",
+      "order": 18
+    },
+    {
+      "personId": 76069,
+      "character": "Luce",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 9,
+  "sources": [
+    "cult-list"
+  ]
+}

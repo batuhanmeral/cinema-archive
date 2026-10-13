@@ -1,0 +1,175 @@
+{
+  "tmdbId": 23516,
+  "slug": "frownland-2008",
+  "year": 2008,
+  "runtime": 107,
+  "originalTitle": "Frownland",
+  "title": {
+    "en": "Frownland",
+    "tr": "Frownland"
+  },
+  "overview": {
+    "en": "Keith is a disturbingly maladjusted social outcast and self-described “troll” whose neuroses plunge him into an unstoppable spiral of self-obliteration as his crummy coupon-selling job, pitiful living situation and last remaining human relationships disintegrate around him.",
+    "tr": "Frownland (2007) – Sinemada Sosyal Çöküşün En Sarsıcı Temsillerinden Biri  Ronald Bronstein’in Frownland’i, modern sinemanın en rahatsız edici yabancılaşma portrelerinden biridir. Film, sosyal uyum yetisinden yoksun, iletişim kurmakta zorlanan Keith’in varoluşsal sıkışmışlığını ele alır. Bronstein, el kamerası estetiğiyle karakterin içsel dağınıklığını görsel dile çevirirken, kasvetli atmosferi ve lo-fi görüntüleriyle izleyiciyi Keith’in zihinsel kaosunun içine çeker.  Geleneksel dramatik yapıyı reddeden film, keskin diyalogları ve kesintili anlatımıyla gerçekçilikten beslenir. Oyunculukların rahatsız edici doğallığı, karakterin çaresizliğini ve dış dünyayla olan uyumsuzluğunu daha da belirginleştirir. Frownland, sinemanın sınırlarını zorlayan, seyirciyi aktif bir katılımcı haline getiren, derinlemesine bir yabancılaşma deneyimi sunarak Amerikan bağımsız sinemasında kendine özgü bir yere sahip olmuştur."
+  },
+  "poster": {
+    "tr": "/2hHg1HNV7vIOJ3gsuGYzAjDP5ph.jpg",
+    "en": "/3atxidUPnUNVGycreb30aHhk0ZC.jpg"
+  },
+  "backdrops": [
+    "/sijyf7g2plbKAEMamDS6gs2Wydh.jpg",
+    "/vPfRJXF1giRWYjYg6a25SjH5haQ.jpg",
+    "/nsLEpmslCRQEKQNNBLD8wOsMm7J.jpg",
+    "/lay1yU7w1LWBjTgDsjDxJSrEu5o.jpg",
+    "/4pAu7ZQNsthvlqBXP9mo91LWY5p.jpg",
+    "/q19ZA8v7pDQHEO6PefaVpVccEvA.jpg",
+    "/s7Jvpm0QTxW6dJNUujC3raqYMii.jpg",
+    "/aUbl46wDT59e5uTedMKSXKHTZJI.jpg",
+    "/59raJD88pRnUYUVpVcQCn4Hi64p.jpg",
+    "/9yjajOh7TU62fmsB0QbNDKjloLh.jpg"
+  ],
+  "trailerKey": "ixiHxxvfdGQ",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Frownland"
+  ],
+  "crew": [
+    {
+      "personId": 227565,
+      "job": "director"
+    },
+    {
+      "personId": 227565,
+      "job": "writer"
+    },
+    {
+      "personId": 2943208,
+      "job": "producer"
+    },
+    {
+      "personId": 239580,
+      "job": "composer"
+    },
+    {
+      "personId": 1073579,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 239579,
+      "character": "Keith",
+      "order": 0
+    },
+    {
+      "personId": 935669,
+      "character": "Laura",
+      "order": 1
+    },
+    {
+      "personId": 5782377,
+      "character": "Van kid 1",
+      "order": 2
+    },
+    {
+      "personId": 5782380,
+      "character": "Van kid 2",
+      "order": 3
+    },
+    {
+      "personId": 4971562,
+      "character": "Van kid 3",
+      "order": 4
+    },
+    {
+      "personId": 3135721,
+      "character": "Van kid 4",
+      "order": 5
+    },
+    {
+      "personId": 239582,
+      "character": "Carmine",
+      "order": 6
+    },
+    {
+      "personId": 5782386,
+      "character": "MSA customer 1",
+      "order": 7
+    },
+    {
+      "personId": 5782388,
+      "character": "Copy shop lady",
+      "order": 8
+    },
+    {
+      "personId": 5782391,
+      "character": "Copy shop lady",
+      "order": 9
+    },
+    {
+      "personId": 5782393,
+      "character": "Copy shop customer",
+      "order": 10
+    },
+    {
+      "personId": 239580,
+      "character": "Charles",
+      "order": 11
+    },
+    {
+      "personId": 239581,
+      "character": "Sandy",
+      "order": 12
+    },
+    {
+      "personId": 5782396,
+      "character": "MSA customer 2",
+      "order": 13
+    },
+    {
+      "personId": 5782397,
+      "character": "MSA customer 3",
+      "order": 14
+    },
+    {
+      "personId": 1993736,
+      "character": "Busboy",
+      "order": 15
+    },
+    {
+      "personId": 2943208,
+      "character": "Test administrator",
+      "order": 16
+    },
+    {
+      "personId": 2139911,
+      "character": "Exam man",
+      "order": 17
+    },
+    {
+      "personId": 5782403,
+      "character": "Party man 1",
+      "order": 18
+    },
+    {
+      "personId": 5782406,
+      "character": "Party man 2",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 24,
+  "sources": [
+    "cult-list"
+  ]
+}

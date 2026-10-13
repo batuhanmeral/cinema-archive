@@ -1,0 +1,198 @@
+{
+  "tmdbId": 11216,
+  "slug": "cinema-paradiso-1988",
+  "year": 1988,
+  "runtime": 124,
+  "originalTitle": "Nuovo Cinema Paradiso",
+  "title": {
+    "en": "Cinema Paradiso",
+    "tr": "Cennet Sineması"
+  },
+  "overview": {
+    "en": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
+    "tr": "Artık ünlü bir yönetmen olmuş Salvatore, 30 yıl sonra bir arkadaşının öldüğü haberi üzerine doğduğu kasabaya geri döner. Kasabaya geldiğinde eski anıları canlanan Salvatore, Cinema Paradiso adlı sinemada projeksiyoncu olarak çalışan Alfred ile ilişkilerini hatırlar. Küçük bir çocuk olan Salvatore, günlerini Alfred'in yanında geçirmekte, filmlerle ilgili konuşmakta ve Alfred'in sinema konusunda deneyim ve bilgilerinden yararlanmaktadır. Babacan tavırlarıyla Salvatore'nin hayatında önemli bir yere sahip olacak Alfred sayesinde sinemaya olan aşkını ve tutkusu keşfedecektir."
+  },
+  "poster": {
+    "tr": "/aRgPnx4aPS96f7CnhJH7IG5dN1A.jpg",
+    "en": "/9JhfVOveaY00o8njQu2Xrp4YWud.jpg"
+  },
+  "backdrops": [
+    "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+    "/LQbept4Ix8zlv1BtUhwSpOeImb.jpg",
+    "/k3SBILYxHRgjORb5tbvA5dm2N4h.jpg",
+    "/jOAXZ76GF1lbJ5kX4JIqruS0scC.jpg",
+    "/yLzX0GTF5w4D5E0657gQlUhb7ko.jpg",
+    "/mF4hiRmVBMr6QCgYjvseWR1zjIi.jpg",
+    "/tj5WAcjGJYtuF6dbbeJyOpF17gC.jpg",
+    "/7oHi3ZVKSFXuLH1UCZzAFIARycr.jpg",
+    "/3sQS0JXPeEKPfpkpTLluGQJTuCK.jpg",
+    "/46DXB3mI25igpJcSX8VbOtIeGAu.jpg"
+  ],
+  "trailerKey": "JMyVSD6OvO8",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    970,
+    629,
+    886,
+    5091,
+    10683,
+    9856,
+    156597,
+    164246,
+    173719,
+    179428,
+    246529,
+    274951,
+    325832
+  ],
+  "countries": [
+    "IT",
+    "FR"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Cristaldifilm",
+    "Les Films Ariane",
+    "Rai 3"
+  ],
+  "crew": [
+    {
+      "personId": 65314,
+      "job": "director"
+    },
+    {
+      "personId": 65314,
+      "job": "writer"
+    },
+    {
+      "personId": 2378,
+      "job": "producer"
+    },
+    {
+      "personId": 68633,
+      "job": "producer"
+    },
+    {
+      "personId": 1259,
+      "job": "composer"
+    },
+    {
+      "personId": 39614,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24366,
+      "character": "Alfredo",
+      "order": 0
+    },
+    {
+      "personId": 20030,
+      "character": "Salvatore 'Totò' Di Vita (adult)",
+      "order": 1
+    },
+    {
+      "personId": 27643,
+      "character": "Salvatore 'Totò' Di Vita (teen)",
+      "order": 2
+    },
+    {
+      "personId": 68635,
+      "character": "Salvatore 'Totò' Di Vita (child)",
+      "order": 3
+    },
+    {
+      "personId": 120152,
+      "character": "Elena Mendola (teen) / Elena's daughter (in Director's cut)",
+      "order": 4
+    },
+    {
+      "personId": 70083,
+      "character": "Maria Di Vita (young)",
+      "order": 5
+    },
+    {
+      "personId": 25780,
+      "character": "Maria Di Vita (aged)",
+      "order": 6
+    },
+    {
+      "personId": 1959,
+      "character": "Elena Mendola (adult)",
+      "order": 7
+    },
+    {
+      "personId": 52657,
+      "character": "Spaccafico",
+      "order": 8
+    },
+    {
+      "personId": 1014911,
+      "character": "Anna",
+      "order": 9
+    },
+    {
+      "personId": 119992,
+      "character": "Ignazio, usher",
+      "order": 10
+    },
+    {
+      "personId": 14151,
+      "character": "Father Adelfio",
+      "order": 11
+    },
+    {
+      "personId": 103627,
+      "character": "Fabbro, blacksmith",
+      "order": 12
+    },
+    {
+      "personId": 39618,
+      "character": "Village idiot",
+      "order": 13
+    },
+    {
+      "personId": 1077256,
+      "character": "Lia",
+      "order": 14
+    },
+    {
+      "personId": 134215,
+      "character": "Peppino's Father",
+      "order": 15
+    },
+    {
+      "personId": 2102251,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1604213,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1479493,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1878431,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 5033,
+  "sources": [
+    "cult-list"
+  ]
+}

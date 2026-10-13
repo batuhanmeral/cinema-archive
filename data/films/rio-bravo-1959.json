@@ -1,0 +1,200 @@
+{
+  "tmdbId": 301,
+  "slug": "rio-bravo-1959",
+  "year": 1959,
+  "runtime": 141,
+  "originalTitle": "Rio Bravo",
+  "title": {
+    "en": "Rio Bravo",
+    "tr": "Kahramanlar Şehri"
+  },
+  "overview": {
+    "en": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+    "tr": "Gelmiş geçmiş en iyi western filmleri arasında gösterilen filmde, Şerif John T. Chance ve iki yardımcısı kasabada işlenen cinayetlerin peşine düşerler. Ancak yardımcılarının birinin çok genç, birinin de alkolik olması onun başına türlü belalar açar..."
+  },
+  "poster": {
+    "tr": "/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+    "en": "/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg"
+  },
+  "backdrops": [
+    "/cPDKIvdYJ4TLT3KU0fpGDVpdhfd.jpg",
+    "/4RZm5LRJCXNbIo8dGhxMvQeYnxJ.jpg",
+    "/tPuy7iSV0dx4bpPcgUWZOYvXsGD.jpg",
+    "/aZD1nLaDmmLXvtI2QyPL5rIBsnW.jpg",
+    "/q01LCzLJfXC8ruKdiWDk1HhFhZ5.jpg",
+    "/eNVxlUQsv2KVBs42pKNxHit4AC0.jpg",
+    "/oVNwhjMRXgzATvuiJ8K5a77LqiZ.jpg",
+    "/7j8p0nzqO4psgz5Bh8C0tlf2Nk8.jpg",
+    "/7lxaOrXF9D4HMY5JzC1S4adIC6R.jpg",
+    "/8KNrWciYtKx6qgvkrHZrIoa7zns.jpg"
+  ],
+  "trailerKey": "VD55fwjvJlw",
+  "genreIds": [
+    37,
+    18
+  ],
+  "keywordIds": [
+    1415,
+    798,
+    1419,
+    1502,
+    1556,
+    4204,
+    9826,
+    9890,
+    33457,
+    33600,
+    155841,
+    156866,
+    163674,
+    222782,
+    305941
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Armada Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 4297,
+      "job": "writer"
+    },
+    {
+      "personId": 11435,
+      "job": "director"
+    },
+    {
+      "personId": 4308,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11435,
+      "job": "producer"
+    },
+    {
+      "personId": 4082,
+      "job": "composer"
+    },
+    {
+      "personId": 4298,
+      "job": "writer"
+    },
+    {
+      "personId": 11435,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4165,
+      "character": "Sheriff John T. Chance",
+      "order": 0
+    },
+    {
+      "personId": 4299,
+      "character": "Dude",
+      "order": 1
+    },
+    {
+      "personId": 4300,
+      "character": "Colorado Ryan",
+      "order": 2
+    },
+    {
+      "personId": 4301,
+      "character": "Feathers",
+      "order": 3
+    },
+    {
+      "personId": 4302,
+      "character": "Stumpy",
+      "order": 4
+    },
+    {
+      "personId": 4303,
+      "character": "Pat Wheeler",
+      "order": 5
+    },
+    {
+      "personId": 4304,
+      "character": "Nathan Burdette",
+      "order": 6
+    },
+    {
+      "personId": 4305,
+      "character": "Carlos Robante",
+      "order": 7
+    },
+    {
+      "personId": 4306,
+      "character": "Consuela Robante",
+      "order": 8
+    },
+    {
+      "personId": 4307,
+      "character": "Joe Burdette",
+      "order": 9
+    },
+    {
+      "personId": 115460,
+      "character": "Jake",
+      "order": 10
+    },
+    {
+      "personId": 4316,
+      "character": "Harold",
+      "order": 11
+    },
+    {
+      "personId": 33544,
+      "character": "Charlie (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1601647,
+      "character": "Barfly (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1543059,
+      "character": "Barfly (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1601648,
+      "character": "Barfly (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 116845,
+      "character": "Barfly (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1179586,
+      "character": "Barfly (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1208031,
+      "character": "Barfly (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 47001,
+      "character": "Barfly (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "golden-globe": 1
+  },
+  "voteCount": 1314,
+  "sources": [
+    "cult-list"
+  ]
+}

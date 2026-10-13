@@ -1,0 +1,184 @@
+{
+  "tmdbId": 57684,
+  "slug": "roxie-hart-1942",
+  "year": 1942,
+  "runtime": 72,
+  "originalTitle": "Roxie Hart",
+  "title": {
+    "en": "Roxie Hart",
+    "tr": "Roxie Hart"
+  },
+  "overview": {
+    "en": "A café in Chicago, 1942. On a rainy night, veteran reporter Homer Howard tells an increasing audience the story of Roxie Hart and the crime she was judged for in 1927.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/hBCSkYj3xMsWcbEzG2kD3dhF3sM.jpg",
+    "en": "/tFqCHgM3CxbFOIPmvP5PRTQYao1.jpg"
+  },
+  "backdrops": [
+    "/fDSB29qzVgVjllR5bXjEZYqv4Oh.jpg",
+    "/8MzkfEzx4aJC75elYU3dk6jdLr9.jpg",
+    "/1gPaJOixx0Ny2Cnhb2a0oi94bKM.jpg",
+    "/8DHLoML67B76JM4vLeJrRtZxS96.jpg",
+    "/rkZeVMkt9jUYmAdJYBUdHILJL0e.jpg",
+    "/cLr5c4RMKHAI171qvJIAtdzV26Y.jpg",
+    "/6xWVsbQE53G0WGW2kANCNDU0iL9.jpg",
+    "/l7g87DQr9NphstGP7culfFI1Hp0.jpg",
+    "/7d1x444A9bJlWbgIjSqutH3D8q6.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    520,
+    10181,
+    11514,
+    11412,
+    193206,
+    207240,
+    207876,
+    229609,
+    257342
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 14643,
+      "job": "director"
+    },
+    {
+      "personId": 13270,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8503,
+      "job": "composer"
+    },
+    {
+      "personId": 8501,
+      "job": "writer"
+    },
+    {
+      "personId": 8501,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30003,
+      "character": "Roxie Hart",
+      "order": 0
+    },
+    {
+      "personId": 14563,
+      "character": "Billy Flynn",
+      "order": 1
+    },
+    {
+      "personId": 19401,
+      "character": "Homer Howard",
+      "order": 2
+    },
+    {
+      "personId": 102064,
+      "character": "Jake Callahan",
+      "order": 3
+    },
+    {
+      "personId": 3363,
+      "character": "E. Clay Benham",
+      "order": 4
+    },
+    {
+      "personId": 40178,
+      "character": "Babe",
+      "order": 5
+    },
+    {
+      "personId": 7381,
+      "character": "Mrs. Morton",
+      "order": 6
+    },
+    {
+      "personId": 34285,
+      "character": "O'Malley",
+      "order": 7
+    },
+    {
+      "personId": 20369,
+      "character": "Mary Sunshine",
+      "order": 8
+    },
+    {
+      "personId": 103051,
+      "character": "Stuart Chapman",
+      "order": 9
+    },
+    {
+      "personId": 127519,
+      "character": "Velma Wall",
+      "order": 10
+    },
+    {
+      "personId": 33178,
+      "character": "Amos Hart",
+      "order": 11
+    },
+    {
+      "personId": 13977,
+      "character": "Charles E. Murdock",
+      "order": 12
+    },
+    {
+      "personId": 81182,
+      "character": "Martin S. Harrison",
+      "order": 13
+    },
+    {
+      "personId": 141510,
+      "character": "Judge",
+      "order": 14
+    },
+    {
+      "personId": 34509,
+      "character": "Gertie",
+      "order": 15
+    },
+    {
+      "personId": 103503,
+      "character": "Announcer",
+      "order": 16
+    },
+    {
+      "personId": 95728,
+      "character": "Mr. Wadsworth (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 30117,
+      "character": "Bald Juror (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 95054,
+      "character": "Ritz Waiter (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 28,
+  "sources": [
+    "cult-list"
+  ]
+}

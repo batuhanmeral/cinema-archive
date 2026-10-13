@@ -1,0 +1,215 @@
+{
+  "tmdbId": 143,
+  "slug": "all-quiet-on-the-western-front-1930",
+  "year": 1930,
+  "runtime": 133,
+  "originalTitle": "All Quiet on the Western Front",
+  "title": {
+    "en": "All Quiet on the Western Front",
+    "tr": "Batı Cephesinde Yeni Bir Şey Yok"
+  },
+  "overview": {
+    "en": "When a group of idealistic young men join the German Army during the Great War, they are assigned to the Western Front, where their patriotism is destroyed by the harsh realities of combat.",
+    "tr": "Bir grup acemi genç Alman askerinin, 1.Dünya Savaşı sırasında büyük bir idealizmle başlayan hikayelerinin, hayal kırıklığıyla sonuçlanmasını anlatıyor. Başrol oyuncusu Lew Ayres’in canlandırdığı Paul Baumer’in repliği, filmin konusunu da özetliyor: “Siperlerde yaşıyor ve savaşıyoruz. Ölmemeye çalışıyoruz, tek yaptığımız bu” Modası çabuk geçen pek çok mesaj filmlerinin aksine, Erich maria Remarque’nin savaş karşıtı romanından uyarlanan filmin etkisi yıllar sonra bile hiç azalmamıştır. Lewis Milestone’nun ölçülü, sade ve insanı derinden etkileyen çalışması, yıllar sonra bile pek çok ülkede yasaklıydı."
+  },
+  "poster": {
+    "tr": "/dJWgBPBxDy95Ts3oIYmQpJakoF9.jpg",
+    "en": "/yAU6jklJLUjZot3WyvyJrxVdLKb.jpg"
+  },
+  "backdrops": [
+    "/yeQGyB8MjpX8KR7rUrP0E3gaviC.jpg",
+    "/hSRb0YhB4TaeIKgZtQbFuY3l0XM.jpg",
+    "/xqLnq7Yge5r8acUdXnMpqnriB0x.jpg",
+    "/8PwJKUdHUIqrwYpTEKEjw8DrG9X.jpg",
+    "/7HLTNKtbIOSCyfjnWShKhSYNsG1.jpg",
+    "/mjRhliIJpMoJQxiIeZWlX4rBBvd.jpg",
+    "/lZIJc6UWyCyw7mebZMEzqznQnxU.jpg",
+    "/abY9xORfOsYDYtSuJcbm1vyoQm4.jpg",
+    "/vweq8kPq7wneAwEd19pLUiwJ4Eh.jpg",
+    "/mvCvLHEOkXzmUheyIxLqgRkxXyF.jpg"
+  ],
+  "trailerKey": "Qeh3DlBEjAc",
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    6054,
+    6092,
+    818,
+    74,
+    260,
+    2504,
+    11139,
+    1627,
+    10075,
+    10141,
+    11872,
+    12999,
+    13065,
+    18543,
+    33638,
+    34079,
+    156764,
+    165431,
+    177094,
+    188725,
+    227807,
+    230915,
+    235080,
+    241217,
+    323809,
+    341637
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "la",
+    "de"
+  ],
+  "studios": [
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1557,
+      "job": "producer"
+    },
+    {
+      "personId": 2000,
+      "job": "director"
+    },
+    {
+      "personId": 2004,
+      "job": "writer"
+    },
+    {
+      "personId": 2005,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 70,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2085,
+      "job": "composer"
+    },
+    {
+      "personId": 14475,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2010,
+      "character": "Stanislaus 'Kat' Katczinsky",
+      "order": 0
+    },
+    {
+      "personId": 2007,
+      "character": "Paul Bäumer",
+      "order": 1
+    },
+    {
+      "personId": 2009,
+      "character": "Himmelstoss",
+      "order": 2
+    },
+    {
+      "personId": 2008,
+      "character": "Kantorek",
+      "order": 3
+    },
+    {
+      "personId": 2011,
+      "character": "Franz Kemmerich",
+      "order": 4
+    },
+    {
+      "personId": 2012,
+      "character": "Leer",
+      "order": 5
+    },
+    {
+      "personId": 2013,
+      "character": "Peter",
+      "order": 6
+    },
+    {
+      "personId": 2014,
+      "character": "Behn",
+      "order": 7
+    },
+    {
+      "personId": 2015,
+      "character": "Albert Kropp",
+      "order": 8
+    },
+    {
+      "personId": 240667,
+      "character": "Mueller",
+      "order": 9
+    },
+    {
+      "personId": 30197,
+      "character": "Westhus",
+      "order": 10
+    },
+    {
+      "personId": 80545,
+      "character": "Detering",
+      "order": 11
+    },
+    {
+      "personId": 2016,
+      "character": "Tjaden",
+      "order": 12
+    },
+    {
+      "personId": 98972,
+      "character": "Bertinck",
+      "order": 13
+    },
+    {
+      "personId": 2018,
+      "character": "Paul's Mother",
+      "order": 14
+    },
+    {
+      "personId": 30016,
+      "character": "Herr Meyer",
+      "order": 15
+    },
+    {
+      "personId": 34098,
+      "character": "2nd Medic Orderly (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1271202,
+      "character": "Anna Bäumer (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 2449263,
+      "character": "French Girl (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 13357,
+      "character": "Assistant Cook (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 990,
+  "sources": [
+    "cult-list"
+  ]
+}

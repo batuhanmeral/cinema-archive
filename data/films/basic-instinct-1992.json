@@ -1,0 +1,202 @@
+{
+  "tmdbId": 402,
+  "slug": "basic-instinct-1992",
+  "year": 1992,
+  "runtime": 128,
+  "originalTitle": "Basic Instinct",
+  "title": {
+    "en": "Basic Instinct",
+    "tr": "Temel İçgüdü"
+  },
+  "overview": {
+    "en": "Catherine, a novelist with an insatiable sexual appetite, becomes a prime suspect when her boyfriend is brutally murdered -- a crime she had described in her latest story.",
+    "tr": "Eski bir rock yıldızı olan Johnny Boz, seks sırasında acımasızca katledilir ve dava San Francisco Emniyeti'nden dedektif Nick Curran'a verilir. Soruşturma sırasında Nick, Boz'un ölmeden önce en son yanında görülen polisiye roman yazarı kız arkadaşı Catherine Tramell ile tanışır. Catherine çok zeki ve manipülatif bir kadındır ve Nick onun Boz'u öldürdüğüne aşağı yukarı ikna olmasına rağmen, herhangi bir kanıt bulamaz.  Daha sonra Catherine ile tehlikeli ve şehvet dolu bir akıl oyunu oynamaya başlar. Ancak ilişkileri ilerledikçe birbirlerine iyice kapılırlar ve çelişen kanıtlar, Nick'i Catherine'in masumiyeti konusundaki şüphelerini sorgulamaya iter."
+  },
+  "poster": {
+    "tr": "/y55OWp7hi7XoEkXdFBz39HMHM3j.jpg",
+    "en": "/1U8hf6gqgS0IwYceYEVcQOTVJ4F.jpg"
+  },
+  "backdrops": [
+    "/7FRraud59N3s10bbf9bfYjvwx3v.jpg",
+    "/lBZlIW0xg1AP66IkvCL0X4IuXfY.jpg",
+    "/oWg0GthfAmuTwZJBvNExpqtRhr8.jpg",
+    "/dlfCDdARTKVnQzYcc4yyyXMnD7u.jpg",
+    "/znOloj5rGchqtatUgBrF5PapOQ5.jpg",
+    "/AjdsT3TdXc6f6lWbC9ZQZ4R4Sbg.jpg",
+    "/wCDwwsAqTbnQC57LEQHHkzhFpGv.jpg",
+    "/4YP23Bq9m0q3BPDtdSSiqn4R8FM.jpg",
+    "/xATsn5CGxCrh13kS3Wr2Cm3qalV.jpg",
+    "/1x72FgKgh20XEZ2u3hzwHhGY1DY.jpg"
+  ],
+  "trailerKey": "cvktbdKzsq4",
+  "genreIds": [
+    53,
+    9648
+  ],
+  "keywordIds": [
+    3737,
+    387,
+    931,
+    459,
+    6149,
+    582,
+    4426,
+    6259,
+    703,
+    1664,
+    3183,
+    2619,
+    4320,
+    4378,
+    6562,
+    9016,
+    9740,
+    160153,
+    207268,
+    207767,
+    237460,
+    250164,
+    273123,
+    323449
+  ],
+  "countries": [
+    "US",
+    "FR"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Carolco Pictures",
+    "Le Studio Canal+"
+  ],
+  "crew": [
+    {
+      "personId": 7726,
+      "job": "producer"
+    },
+    {
+      "personId": 10492,
+      "job": "writer"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    },
+    {
+      "personId": 2209,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10491,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3392,
+      "character": "Detective Nick Curran",
+      "order": 0
+    },
+    {
+      "personId": 4430,
+      "character": "Catherine Tramell",
+      "order": 1
+    },
+    {
+      "personId": 10477,
+      "character": "Gus",
+      "order": 2
+    },
+    {
+      "personId": 10478,
+      "character": "Dr. Beth Garner",
+      "order": 3
+    },
+    {
+      "personId": 10480,
+      "character": "Lieutenant Walker",
+      "order": 4
+    },
+    {
+      "personId": 10485,
+      "character": "Roxy",
+      "order": 5
+    },
+    {
+      "personId": 4943,
+      "character": "Andrews",
+      "order": 6
+    },
+    {
+      "personId": 10486,
+      "character": "Captain Talcott",
+      "order": 7
+    },
+    {
+      "personId": 10487,
+      "character": "Hazel Dobkins",
+      "order": 8
+    },
+    {
+      "personId": 4201,
+      "character": "John Correli",
+      "order": 9
+    },
+    {
+      "personId": 1473,
+      "character": "Lieutenant Nilsen",
+      "order": 10
+    },
+    {
+      "personId": 537,
+      "character": "Dr. Lamott",
+      "order": 11
+    },
+    {
+      "personId": 10488,
+      "character": "Harrigan",
+      "order": 12
+    },
+    {
+      "personId": 10489,
+      "character": "Sheriff",
+      "order": 13
+    },
+    {
+      "personId": 10490,
+      "character": "Johnny Boz",
+      "order": 14
+    },
+    {
+      "personId": 163742,
+      "character": "Internal Affairs Investigator",
+      "order": 15
+    },
+    {
+      "personId": 12644,
+      "character": "Internal Affairs Investigator",
+      "order": 16
+    },
+    {
+      "personId": 62595,
+      "character": "Juvenile Officer",
+      "order": 17
+    },
+    {
+      "personId": 51754,
+      "character": "Berkeley Registrar",
+      "order": 18
+    },
+    {
+      "personId": 21383,
+      "character": "Dr. Myron",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4600,
+  "sources": [
+    "cult-list"
+  ]
+}

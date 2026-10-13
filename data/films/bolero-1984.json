@@ -1,0 +1,140 @@
+{
+  "tmdbId": 5896,
+  "slug": "bolero-1984",
+  "year": 1984,
+  "runtime": 105,
+  "originalTitle": "Bolero",
+  "title": {
+    "en": "Bolero",
+    "tr": "Bolero"
+  },
+  "overview": {
+    "en": "Follows the tale of a young woman’s sexual awakening and subsequent journey around the world in pursuit of her ideal lover. Encounters include an Arabian sheik and a Spanish bullfighter. Her friend and butler accompany her and help to arrange her couplings.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/pQNjzG51FB9ngy8pi2HVELeFEkS.jpg",
+    "en": "/yJCByYyAFOXUMMugcXa9sjJOc8K.jpg"
+  },
+  "backdrops": [
+    "/quj4bAr6nLiB4d7lskSCY4BKLY6.jpg",
+    "/nbvzXhZ0jFQjyK8LNcbw9tCRo21.jpg",
+    "/z9icyxCA3aMP2KAREOVFXhyLkob.jpg",
+    "/vrupVw1MXdoa91KXEaGdXxksYyZ.jpg",
+    "/bCwnbmIVaR4XQv3iCSpQ7HMa8Ej.jpg",
+    "/wvO1a7UeMRM06t3CVZbXA0yl38F.jpg",
+    "/54Vt6rAbkZXcD4FKgIp9DlmKhii.jpg",
+    "/tcjxxpz3lEAQ4sKOZ3AtId8bOE0.jpg",
+    "/kKaauGmzDhpKLCTeiYgbIsVshtq.jpg",
+    "/mANLuh51IEM1gu8K3Uk1UrMhUd.jpg"
+  ],
+  "trailerKey": "PpAk1A04gng",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    1307,
+    6377,
+    7965,
+    189092
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Golan-Globus Productions",
+    "The Cannon Group"
+  ],
+  "crew": [
+    {
+      "personId": 39608,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 37995,
+      "job": "producer"
+    },
+    {
+      "personId": 46421,
+      "job": "producer"
+    },
+    {
+      "personId": 39608,
+      "job": "director"
+    },
+    {
+      "personId": 39608,
+      "job": "writer"
+    },
+    {
+      "personId": 19746,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 37995,
+      "character": "Ayre MacGillivery",
+      "order": 0
+    },
+    {
+      "personId": 31011,
+      "character": "Angel Contreras",
+      "order": 1
+    },
+    {
+      "personId": 46422,
+      "character": "Catalina",
+      "order": 2
+    },
+    {
+      "personId": 46425,
+      "character": "Robert Stewart",
+      "order": 3
+    },
+    {
+      "personId": 46426,
+      "character": "Evita",
+      "order": 4
+    },
+    {
+      "personId": 12950,
+      "character": "Cotton",
+      "order": 5
+    },
+    {
+      "personId": 46423,
+      "character": "Paloma",
+      "order": 6
+    },
+    {
+      "personId": 46424,
+      "character": "Sheik",
+      "order": 7
+    },
+    {
+      "personId": 46418,
+      "character": "Sleazy Maroccan Guide",
+      "order": 8
+    },
+    {
+      "personId": 46427,
+      "character": "Young Valentino",
+      "order": 9
+    },
+    {
+      "personId": 46428,
+      "character": "Young Valentino",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 116,
+  "sources": [
+    "cult-list"
+  ]
+}

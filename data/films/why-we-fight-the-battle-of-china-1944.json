@@ -1,0 +1,72 @@
+{
+  "tmdbId": 86084,
+  "slug": "why-we-fight-the-battle-of-china-1944",
+  "year": 1944,
+  "runtime": 65,
+  "originalTitle": "Why We Fight: The Battle of China",
+  "title": {
+    "en": "Why We Fight: The Battle of China",
+    "tr": "Why We Fight: The Battle of China"
+  },
+  "overview": {
+    "en": "The sixth film of Frank Capra's Why We Fight propaganda film series illustrates Japan's occupation of China, including Madame Chiang Kai-Shek's stirring address before congress, the rape of Nanking, the great 2,000 mile migration, and Claire Chennault's Flying Tigers.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6O8iJ5AiTewW9fuBEHlCYND8Yfa.jpg",
+    "en": "/tdI7MIOlMpo1qUUVGclehRRfecN.jpg"
+  },
+  "backdrops": [
+    "/dOoY7M7NFJgjYIf0ktYImEkngc3.jpg",
+    "/vwEgzDMzzwLxSN6mQI7ufF5D3fE.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    10752,
+    99
+  ],
+  "keywordIds": [
+    1956
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "War Activities Committee of the Motion Pictures Industry",
+    "U.S. War Department"
+  ],
+  "crew": [
+    {
+      "personId": 2662,
+      "job": "director"
+    },
+    {
+      "personId": 37361,
+      "job": "director"
+    },
+    {
+      "personId": 4082,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 67447,
+      "character": "Narrator",
+      "order": 0
+    },
+    {
+      "personId": 19020,
+      "character": "Abraham Lincoln",
+      "order": 1
+    }
+  ],
+  "awards": {},
+  "voteCount": 16,
+  "sources": [
+    "cult-list"
+  ]
+}

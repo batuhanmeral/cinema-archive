@@ -1,0 +1,136 @@
+{
+  "tmdbId": 21323,
+  "slug": "more-1969",
+  "year": 1969,
+  "runtime": 117,
+  "originalTitle": "More",
+  "title": {
+    "en": "More",
+    "tr": "More"
+  },
+  "overview": {
+    "en": "A German student, Stefan, now finished with his studies, hitchhikes to Paris. There he meets a free-spirited American girl, Estelle, who he follows to Ibiza. The two begin a sad and dark path into heroin addiction.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/kUwWvHuqJFWfYAREKQ52KNbHOxV.jpg",
+    "en": "/kUwWvHuqJFWfYAREKQ52KNbHOxV.jpg"
+  },
+  "backdrops": [
+    "/eaIxmSxWE00HkLbQgf0sqWMbLeS.jpg",
+    "/8suRa3gYsZo2sG6jxZ2oYK93yB7.jpg",
+    "/sh23Zs8ZTljkk9VlcxZv8GZcAOU.jpg",
+    "/e6jbwnuc4oEa0xmd0bAMbZ7JEpr.jpg",
+    "/egfC5s8L08cPRhFlFKElLDVkBcO.jpg",
+    "/rcCpjIhrCZBkCHuW8ZObTWPUHnR.jpg",
+    "/2FkUReGzwVZ1JDgVHHqHLtnMIY.jpg",
+    "/pFOftGNSjEgyDXG4g87qw20HQMg.jpg",
+    "/37HRXyUIzW9PPakaVQLp2qCQh59.jpg",
+    "/2zG0EKPJBMYoFd0gHNiTEYvqlbm.jpg"
+  ],
+  "trailerKey": "RV-M-ryiDJw",
+  "genreIds": [
+    10749,
+    18,
+    80
+  ],
+  "keywordIds": [
+    176104,
+    294665
+  ],
+  "countries": [
+    "DE",
+    "FR",
+    "LU"
+  ],
+  "languages": [
+    "de",
+    "en",
+    "es",
+    "fr"
+  ],
+  "studios": [
+    "Jet Films",
+    "Les Films du Losange"
+  ],
+  "crew": [
+    {
+      "personId": 23393,
+      "job": "director"
+    },
+    {
+      "personId": 23393,
+      "job": "writer"
+    },
+    {
+      "personId": 19084,
+      "job": "writer"
+    },
+    {
+      "personId": 23393,
+      "job": "producer"
+    },
+    {
+      "personId": 3569,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 67273,
+      "job": "composer"
+    },
+    {
+      "personId": 108126,
+      "job": "composer"
+    },
+    {
+      "personId": 108122,
+      "job": "composer"
+    },
+    {
+      "personId": 71252,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 36938,
+      "character": "Estelle Miller",
+      "order": 0
+    },
+    {
+      "personId": 48467,
+      "character": "Stefan Brückner",
+      "order": 1
+    },
+    {
+      "personId": 36351,
+      "character": "Dr. Ernesto Wolf",
+      "order": 2
+    },
+    {
+      "personId": 1196805,
+      "character": "Charlie",
+      "order": 3
+    },
+    {
+      "personId": 1498377,
+      "character": "Henry",
+      "order": 4
+    },
+    {
+      "personId": 1498378,
+      "character": "Cathy",
+      "order": 5
+    },
+    {
+      "personId": 580216,
+      "character": "Seller (uncredited)",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 91,
+  "sources": [
+    "cult-list"
+  ]
+}

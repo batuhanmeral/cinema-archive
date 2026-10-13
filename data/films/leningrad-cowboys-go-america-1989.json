@@ -1,0 +1,198 @@
+{
+  "tmdbId": 11475,
+  "slug": "leningrad-cowboys-go-america-1989",
+  "year": 1989,
+  "runtime": 79,
+  "originalTitle": "Leningrad Cowboys Go America",
+  "title": {
+    "en": "Leningrad Cowboys Go America",
+    "tr": "Leningrad Cowboys Go America"
+  },
+  "overview": {
+    "en": "The Leningrad Cowboys, a group of Siberian musicians, and their manager, travel to America seeking fame and fortune. As they cross the country, trying to get to a wedding in Mexico, they are followed by the village idiot, who wishes to join the band.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rYI5IAKwqOl6nPcAYL58VzI0EXN.jpg",
+    "en": "/rYI5IAKwqOl6nPcAYL58VzI0EXN.jpg"
+  },
+  "backdrops": [
+    "/kevyDBlyEJvQOPGd0b3BbtPKqrK.jpg",
+    "/uOyS7er64OGFj8oaXrVKuiX6yEu.jpg",
+    "/xlsbD0bFHApuJNjQqqZmjkRpPXe.jpg",
+    "/odhc6kTFtYz9zfIDmk4mMnJCYEb.jpg",
+    "/3nBCWm0dChIVJfA1SjaeXOOgq1Y.jpg",
+    "/8EvE3R1rY6AHmjCiX2Ov4n9qNMg.jpg",
+    "/5NlEb5ZpLUOLpjzfXTz00rRMVxH.jpg",
+    "/4zMPiGwcaHAeeRecZzv0FQyGj6m.jpg",
+    "/iXQIiQeYohYGVCoiLh3ymTHxly1.jpg",
+    "/dSPix7xFvxyhrX0hVsvfXzy103C.jpg"
+  ],
+  "trailerKey": "hwkyuWcLfJ0",
+  "genreIds": [
+    35,
+    10402
+  ],
+  "keywordIds": [
+    3658,
+    578,
+    1566,
+    2355,
+    2411,
+    3836,
+    4344,
+    9267,
+    163080,
+    167043
+  ],
+  "countries": [
+    "FI",
+    "SE"
+  ],
+  "languages": [
+    "en",
+    "fi"
+  ],
+  "studios": [
+    "Villealfa Filmproductions",
+    "Finnkino",
+    "Megamania"
+  ],
+  "crew": [
+    {
+      "personId": 16767,
+      "job": "director"
+    },
+    {
+      "personId": 16767,
+      "job": "writer"
+    },
+    {
+      "personId": 69554,
+      "job": "composer"
+    },
+    {
+      "personId": 5983,
+      "job": "producer"
+    },
+    {
+      "personId": 16769,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 53835,
+      "job": "producer"
+    },
+    {
+      "personId": 16767,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4826,
+      "character": "Vladimir (Manager)",
+      "order": 0
+    },
+    {
+      "personId": 122402,
+      "character": "Igor (Village Idiot)",
+      "order": 1
+    },
+    {
+      "personId": 69552,
+      "character": "The Leningrad Cowboys",
+      "order": 2
+    },
+    {
+      "personId": 69553,
+      "character": "The Leningrad Cowboys",
+      "order": 3
+    },
+    {
+      "personId": 1076413,
+      "character": "The Leningrad Cowboys",
+      "order": 4
+    },
+    {
+      "personId": 4828,
+      "character": "The Leningrad Cowboys",
+      "order": 5
+    },
+    {
+      "personId": 1076415,
+      "character": "The Leningrad Cowboys",
+      "order": 6
+    },
+    {
+      "personId": 53510,
+      "character": "The Leningrad Cowboys",
+      "order": 7
+    },
+    {
+      "personId": 69554,
+      "character": "The Leningrad Cowboys",
+      "order": 8
+    },
+    {
+      "personId": 106172,
+      "character": "The Leningrad Cowboys",
+      "order": 9
+    },
+    {
+      "personId": 1076419,
+      "character": "The Leningrad Cowboys",
+      "order": 10
+    },
+    {
+      "personId": 53489,
+      "character": "Lost Cousin",
+      "order": 11
+    },
+    {
+      "personId": 1034490,
+      "character": "Siberian Svengali",
+      "order": 12
+    },
+    {
+      "personId": 2510950,
+      "character": "Siberian Chauffeur",
+      "order": 13
+    },
+    {
+      "personId": 2652883,
+      "character": "Father of the Cowboys",
+      "order": 14
+    },
+    {
+      "personId": 4811,
+      "character": "Rockpromotor",
+      "order": 15
+    },
+    {
+      "personId": 4429,
+      "character": "Car Dealer | New York",
+      "order": 16
+    },
+    {
+      "personId": 2652884,
+      "character": "Banjo Player",
+      "order": 17
+    },
+    {
+      "personId": 2652885,
+      "character": "Barber",
+      "order": 18
+    },
+    {
+      "personId": 4811550,
+      "character": "Bartender | Memphis",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 222,
+  "sources": [
+    "cult-list"
+  ]
+}

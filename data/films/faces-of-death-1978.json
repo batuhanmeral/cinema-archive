@@ -1,0 +1,141 @@
+{
+  "tmdbId": 12237,
+  "slug": "faces-of-death-1978",
+  "year": 1978,
+  "runtime": 109,
+  "originalTitle": "Faces of Death",
+  "title": {
+    "en": "Faces of Death",
+    "tr": "Faces of Death"
+  },
+  "overview": {
+    "en": "A collection of death scenes, ranging from TV material to homemade super 8 movies.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/fhHzqDrdHLqjawXLXoV3w4FDOUd.jpg",
+    "en": "/fhHzqDrdHLqjawXLXoV3w4FDOUd.jpg"
+  },
+  "backdrops": [
+    "/lgWat1xjBURVHF8a7OOrOcyCzN1.jpg",
+    "/f81NvyLKg23gv5Rw3o7uHmupyte.jpg",
+    "/gzTmBIZD5UzCRSSxrEKXipaM5UZ.jpg",
+    "/6wP0jepNJF932d8bXg77Ekt6qYj.jpg",
+    "/sj4lSRVXXm5q2xtb1xtzzr0A71.jpg",
+    "/mWfK7CWZqGNSV5oH2IvzDOyaeV3.jpg",
+    "/jUYpAJZqwlyG75ybQMHDJVP2hj6.jpg",
+    "/gPS8qy5YHa5qYPzVanuNxZCl7WG.jpg",
+    "/96OtkjPmhHpjjcysKOeApzZasuN.jpg",
+    "/7qBp3sbkI0XR20dGR8kdYLCjWZt.jpg"
+  ],
+  "trailerKey": "TXH7T74xdIQ",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    3737,
+    236,
+    3440,
+    10292,
+    4715,
+    14895,
+    34079,
+    156175,
+    173162,
+    188952,
+    189401,
+    189921,
+    200234,
+    203063,
+    208177,
+    262404,
+    280044,
+    281822,
+    286966,
+    293649,
+    310003,
+    328270,
+    381001,
+    384154,
+    384156
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "studios": [
+    "F.O.D. Productions"
+  ],
+  "crew": [
+    {
+      "personId": 167407,
+      "job": "writer"
+    },
+    {
+      "personId": 72175,
+      "job": "composer"
+    },
+    {
+      "personId": 167407,
+      "job": "director"
+    },
+    {
+      "personId": 72174,
+      "job": "producer"
+    },
+    {
+      "personId": 6221937,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 70075,
+      "character": "Dr. Frances B. Gröss",
+      "order": 0
+    },
+    {
+      "personId": 72170,
+      "character": "Samuel Berkowitz",
+      "order": 1
+    },
+    {
+      "personId": 72171,
+      "character": "Suicide Victim",
+      "order": 2
+    },
+    {
+      "personId": 1304260,
+      "character": "Thomas Noguchi",
+      "order": 3
+    },
+    {
+      "personId": 167407,
+      "character": "Leader of Flesh Eating Cult (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 10279,
+      "character": "Self (archive footage) (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 1095786,
+      "character": "Self (archive footage) (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 1191409,
+      "character": "Narrator (voice)",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 234,
+  "sources": [
+    "cult-list"
+  ]
+}

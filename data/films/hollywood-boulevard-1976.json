@@ -1,0 +1,183 @@
+{
+  "tmdbId": 29856,
+  "slug": "hollywood-boulevard-1976",
+  "year": 1976,
+  "runtime": 83,
+  "originalTitle": "Hollywood Boulevard",
+  "title": {
+    "en": "Hollywood Boulevard",
+    "tr": "Hollywood Boulevard"
+  },
+  "overview": {
+    "en": "A Midwestern ingenue arrives in Hollywood to try her luck as an actress. An incompetent agent hooks her up with a production company which specializes in low budget B-movie fare, which starts being plagued by strange, deadly accidents.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/fPvzlPpaXcnj8QmQjqevyxZNcVi.jpg",
+    "en": "/1sUZcK3wrgjAW4LWZOu15WRcrHX.jpg"
+  },
+  "backdrops": [
+    "/eFLY9Hn2Oz8dJrBBgCbwIiNpa1q.jpg",
+    "/2fWPR6YBv4M6xcYkoiS7OAhDUzw.jpg",
+    "/qaSiClJ13QBS48zQVUrzKBgIu3B.jpg",
+    "/xyoBnF8E9hVHQjIA7cNQR7W0TT9.jpg",
+    "/2ITRNvpJYsK6lbMGikWrA7IJvIw.jpg"
+  ],
+  "trailerKey": "0BkjA_zwr4Q",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    570,
+    3880,
+    9844,
+    6895,
+    9826,
+    12396,
+    14601,
+    33490,
+    235736
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New World Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 105071,
+      "job": "writer"
+    },
+    {
+      "personId": 4600,
+      "job": "director"
+    },
+    {
+      "personId": 7723,
+      "job": "producer"
+    },
+    {
+      "personId": 83198,
+      "job": "director"
+    },
+    {
+      "personId": 1343627,
+      "job": "composer"
+    },
+    {
+      "personId": 13622,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 105072,
+      "character": "Candy Wednesday",
+      "order": 0
+    },
+    {
+      "personId": 100552,
+      "character": "Mary McQueen",
+      "order": 1
+    },
+    {
+      "personId": 1125686,
+      "character": "Bobbi Quackenbush",
+      "order": 2
+    },
+    {
+      "personId": 8609,
+      "character": "Patrick Hobby",
+      "order": 3
+    },
+    {
+      "personId": 102441,
+      "character": "Walter Paisley",
+      "order": 4
+    },
+    {
+      "personId": 43004,
+      "character": "P.G.",
+      "order": 5
+    },
+    {
+      "personId": 105074,
+      "character": "Jill McBain",
+      "order": 6
+    },
+    {
+      "personId": 101377,
+      "character": "Eric Von Leppe",
+      "order": 7
+    },
+    {
+      "personId": 105075,
+      "character": "Duke Mantee",
+      "order": 8
+    },
+    {
+      "personId": 42171,
+      "character": "Scotty",
+      "order": 9
+    },
+    {
+      "personId": 105076,
+      "character": "Commander Cody",
+      "order": 10
+    },
+    {
+      "personId": 1755644,
+      "character": "Cameraman",
+      "order": 11
+    },
+    {
+      "personId": 1701777,
+      "character": "Rico Bandello",
+      "order": 12
+    },
+    {
+      "personId": 3101059,
+      "character": "Obnoxious Kid",
+      "order": 13
+    },
+    {
+      "personId": 2111227,
+      "character": "Ubiqutious Filipino",
+      "order": 14
+    },
+    {
+      "personId": 1204324,
+      "character": "Drive-In Rapist",
+      "order": 15
+    },
+    {
+      "personId": 103566,
+      "character": "Drive-In Mother",
+      "order": 16
+    },
+    {
+      "personId": 2111226,
+      "character": "Drive-In Kid",
+      "order": 17
+    },
+    {
+      "personId": 4465490,
+      "character": "Drive-In Dyke",
+      "order": 18
+    },
+    {
+      "personId": 52140,
+      "character": "Mark Dentine",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 50,
+  "sources": [
+    "cult-list"
+  ]
+}

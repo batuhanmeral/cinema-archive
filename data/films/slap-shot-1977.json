@@ -1,0 +1,181 @@
+{
+  "tmdbId": 11590,
+  "slug": "slap-shot-1977",
+  "year": 1977,
+  "runtime": 123,
+  "originalTitle": "Slap Shot",
+  "title": {
+    "en": "Slap Shot",
+    "tr": "Müthiş Vuruş"
+  },
+  "overview": {
+    "en": "To build up attendance at their games, the management of a struggling minor-league hockey team signs up the Hanson Brothers, three hard-charging players whose job is to demolish the opposition.",
+    "tr": "\"Charlestown Chiefs\" için spor tam anlamıyla hüzünlü bir mesele: Bu köhne sanayi kentinin buz hokeyi takımı, kelimenin tam anlamıyla ligin en dip noktasında yer alıyor. Maç üstüne maç kaybediyorlar ve puan tablosunda adları bile anılmıyor. Taraftarlar onları ıslıklarla protesto ederken, oyuncuların eşleri bile bu sefalete gözlerini kapatıp başka yönlere bakıyor. Ancak işler değişmeye başlar. Antrenör Reggie (Paul Newman), sonunda kendini tutamaz ve rakip takımın kalecisini hakaretlerle kışkırtır. Sonuç? Büyük bir kavga, kurallara aykırı sert müdahaleler ve Chiefs’in ilk galibiyeti! Uzun zamandır beklenen çıkışın sırrı keşfedilmiştir. Takım, psikolojik savaş ve özellikle sert oyun taktikleriyle rakiplerini birer birer yere serer. Taraftarlar bu yeni tarza bayılır, özellikle de Hanson Kardeşler’in sahaya çıkışıyla coşku doruğa ulaşır..."
+  },
+  "poster": {
+    "tr": "/k5dvEA7ajd90mf3KrF6m6LnYXOv.jpg",
+    "en": "/k5dvEA7ajd90mf3KrF6m6LnYXOv.jpg"
+  },
+  "backdrops": [
+    "/aImlff3pHxjpydgiPQiF4cEKxhH.jpg",
+    "/nzjRsuqyKIGT7C8KQRnZBKfbjYd.jpg",
+    "/oxV9aIy883ciDqOHKuRqbYxlAdA.jpg",
+    "/kAMgr9znXqu07SQjdbT1vwUeqYD.jpg",
+    "/7rDlHgUu8QMNbf0sIKoWzGamECB.jpg",
+    "/3qDjB2uQOz0W1BU7DQFXzpXmUz3.jpg",
+    "/zeOyGDr5GFe76qcskxa9Ew8imv6.jpg",
+    "/mlJQDLNkoT2AWTJtXJxN5XomqjY.jpg",
+    "/je1YwXEFT7HVZ0AjUdunV2TmvP6.jpg",
+    "/t0mNL1t00dReDwknf9fgjuVcZpL.jpg"
+  ],
+  "trailerKey": "vW67agGgWAM",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    1415,
+    6075,
+    904,
+    6483,
+    219842
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 66082,
+      "job": "producer"
+    },
+    {
+      "personId": 70244,
+      "job": "writer"
+    },
+    {
+      "personId": 9577,
+      "job": "director"
+    },
+    {
+      "personId": 956547,
+      "job": "producer"
+    },
+    {
+      "personId": 14536,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3636,
+      "character": "Reggie 'Reg' Dunlop",
+      "order": 0
+    },
+    {
+      "personId": 8260,
+      "character": "Joe McGrath",
+      "order": 1
+    },
+    {
+      "personId": 6678,
+      "character": "Ned Braden",
+      "order": 2
+    },
+    {
+      "personId": 70241,
+      "character": "Francine Dunlop",
+      "order": 3
+    },
+    {
+      "personId": 32225,
+      "character": "Lily Braden",
+      "order": 4
+    },
+    {
+      "personId": 51517,
+      "character": "Dave 'Killer' Carlson",
+      "order": 5
+    },
+    {
+      "personId": 45921,
+      "character": "Jim Carr",
+      "order": 6
+    },
+    {
+      "personId": 90474,
+      "character": "Jeff Hanson",
+      "order": 7
+    },
+    {
+      "personId": 40922,
+      "character": "Steve Hanson",
+      "order": 8
+    },
+    {
+      "personId": 90475,
+      "character": "Jack Hanson",
+      "order": 9
+    },
+    {
+      "personId": 90476,
+      "character": "Denis Lemieux",
+      "order": 10
+    },
+    {
+      "personId": 30601,
+      "character": "Johnny Upton",
+      "order": 11
+    },
+    {
+      "personId": 1274,
+      "character": "Morris 'Mo' Wanchuk",
+      "order": 12
+    },
+    {
+      "personId": 19023,
+      "character": "Jim Ahern",
+      "order": 13
+    },
+    {
+      "personId": 90477,
+      "character": "Jean-Guy Drouin",
+      "order": 14
+    },
+    {
+      "personId": 94434,
+      "character": "Charlie Kischel",
+      "order": 15
+    },
+    {
+      "personId": 84762,
+      "character": "Anita McCambridge",
+      "order": 16
+    },
+    {
+      "personId": 4778,
+      "character": "Suzanne Hanrahan",
+      "order": 17
+    },
+    {
+      "personId": 588,
+      "character": "Dickie Dunn",
+      "order": 18
+    },
+    {
+      "personId": 12967,
+      "character": "Shirley Upton",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 470,
+  "sources": [
+    "cult-list"
+  ]
+}

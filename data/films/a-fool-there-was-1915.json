@@ -1,0 +1,132 @@
+{
+  "tmdbId": 38730,
+  "slug": "a-fool-there-was-1915",
+  "year": 1915,
+  "runtime": 67,
+  "originalTitle": "A Fool There Was",
+  "title": {
+    "en": "A Fool There Was",
+    "tr": "A Fool There Was"
+  },
+  "overview": {
+    "en": "John Schuyler, a happily married lawyer, is appointed diplomat and sent to England. Due to an unfortunate accident, his wife and child can not come along with him. On the ship to England, Schuyler meets the notorious Vampire - a relentless gold digger who causes the moral degradation of those she seduces, first fascinating and then draining the very life from her victims.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/iM909o6J43zwWfWqjbAQXIXpaFO.jpg",
+    "en": "/otUrt8q6ghKw0FeDnBl1ay5AJLI.jpg"
+  },
+  "backdrops": [
+    "/tCZIrlkQ8vkHBHupP7yAd80ZcBY.jpg",
+    "/cQoirZgqe5UYvymFhf0KRi0a33F.jpg",
+    "/PHHkxd9FSyMWQaMQmOgbNjkCYd.jpg",
+    "/s8BHwH9JLGIb7gBpG45eetGD8MK.jpg",
+    "/ifrD0MVLAS49RGqQq5Jik9psCvJ.jpg",
+    "/ajRKvjnhTDNHTs5gfYJAsS7z2CH.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1326,
+    236,
+    1157,
+    3182,
+    5756,
+    9016,
+    41410,
+    154802,
+    156688,
+    157286,
+    157292,
+    176220,
+    245752
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Fox Film Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 1062048,
+      "job": "director"
+    },
+    {
+      "personId": 9078,
+      "job": "producer"
+    },
+    {
+      "personId": 1399671,
+      "job": "writer"
+    },
+    {
+      "personId": 1062049,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1062048,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 123584,
+      "character": "The Vampire",
+      "order": 0
+    },
+    {
+      "personId": 1037891,
+      "character": "John Schuyler",
+      "order": 1
+    },
+    {
+      "personId": 1062044,
+      "character": "John Schuyler's Wife",
+      "order": 2
+    },
+    {
+      "personId": 1062045,
+      "character": "The Wife's Sister",
+      "order": 3
+    },
+    {
+      "personId": 1062046,
+      "character": "Schuyler Child",
+      "order": 4
+    },
+    {
+      "personId": 1062047,
+      "character": "The Friend",
+      "order": 5
+    },
+    {
+      "personId": 1062048,
+      "character": "The Doctor",
+      "order": 6
+    },
+    {
+      "personId": 1332356,
+      "character": "The Doctor's Fiancee",
+      "order": 7
+    },
+    {
+      "personId": 1065256,
+      "character": "One of the Vamp's Victims",
+      "order": 8
+    },
+    {
+      "personId": 97981,
+      "character": "Young Man at Wild Party (uncredited)",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 36,
+  "sources": [
+    "cult-list"
+  ]
+}

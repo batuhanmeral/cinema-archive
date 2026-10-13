@@ -1,0 +1,151 @@
+{
+  "tmdbId": 27359,
+  "slug": "brand-upon-the-brain-2007",
+  "year": 2007,
+  "runtime": 98,
+  "originalTitle": "Brand Upon the Brain!",
+  "title": {
+    "en": "Brand Upon the Brain!",
+    "tr": "Brand Upon the Brain!"
+  },
+  "overview": {
+    "en": "After returning home to his long-estranged mother upon a request from her deathbed, a man raised by his parents in an orphanage has to confront the childhood memories that have long haunted him.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/aCnZaP8QUUYrqoMoE9JOkvUOvQd.jpg",
+    "en": "/3AGFRKdzgfkBseQWZgLaZIa1K38.jpg"
+  },
+  "backdrops": [
+    "/e6VVxwmW6RMnBU9nV2xVPpjB6RR.jpg"
+  ],
+  "trailerKey": "YVl5Bnj_EO8",
+  "genreIds": [
+    18,
+    9648
+  ],
+  "keywordIds": [
+    154802
+  ],
+  "countries": [
+    "CA",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Film Company"
+  ],
+  "crew": [
+    {
+      "personId": 97579,
+      "job": "director"
+    },
+    {
+      "personId": 97579,
+      "job": "writer"
+    },
+    {
+      "personId": 1209099,
+      "job": "producer"
+    },
+    {
+      "personId": 1489591,
+      "job": "producer"
+    },
+    {
+      "personId": 145600,
+      "job": "writer"
+    },
+    {
+      "personId": 148735,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 145601,
+      "job": "writer"
+    },
+    {
+      "personId": 1382110,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6588,
+      "character": "Interlocuter",
+      "order": 0
+    },
+    {
+      "personId": 1489592,
+      "character": "Grown-up Guy Maddin",
+      "order": 1
+    },
+    {
+      "personId": 1059206,
+      "character": "Young Guy Maddin",
+      "order": 2
+    },
+    {
+      "personId": 1489593,
+      "character": "Mother",
+      "order": 3
+    },
+    {
+      "personId": 1263331,
+      "character": "Sis",
+      "order": 4
+    },
+    {
+      "personId": 1489597,
+      "character": "Chance Hale / Wendy Hale",
+      "order": 5
+    },
+    {
+      "personId": 1489594,
+      "character": "Savage Tom",
+      "order": 6
+    },
+    {
+      "personId": 1489595,
+      "character": "Neddie",
+      "order": 7
+    },
+    {
+      "personId": 1489596,
+      "character": "Father",
+      "order": 8
+    },
+    {
+      "personId": 933066,
+      "character": "Murderous Sister",
+      "order": 9
+    },
+    {
+      "personId": 1475581,
+      "character": "Young Mother",
+      "order": 10
+    },
+    {
+      "personId": 1240089,
+      "character": "Old Father",
+      "order": 11
+    },
+    {
+      "personId": 2563829,
+      "character": "Old Mother",
+      "order": 12
+    },
+    {
+      "personId": 1772117,
+      "character": "Murderous Sister",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 67,
+  "sources": [
+    "cult-list"
+  ]
+}

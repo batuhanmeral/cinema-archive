@@ -1,0 +1,198 @@
+{
+  "tmdbId": 23954,
+  "slug": "atlantic-city-1980",
+  "year": 1980,
+  "runtime": 104,
+  "originalTitle": "Atlantic City",
+  "title": {
+    "en": "Atlantic City",
+    "tr": "Atlantic Şehri"
+  },
+  "overview": {
+    "en": "In a corrupt city, a small-time gangster and the estranged wife of a pot dealer find themselves thrown together in an escapade of love, money, drugs and danger.",
+    "tr": "Lou, eskiden büyük işler yapmış ama şimdinin unutulmuş gangsterlerindendir. Kurpiyer olmayı öğrenen Sally ile tanışınca genç kıza aşık olur. Lou, kıza yardım etmek amacıyla Sally’nin kocasının mafyadan çalmış olduğu uyuşturucuyu satmayı kabul eder. Ama Lou parayı veremeden kocası mafya tarafından öldürülür. Bundan sonra Sally de mafyanın açık bir hedefidir. Onu kurtarmak ise Lou’ya kalır. Lou aşkı sayesinde artık eski günlerine geri dönmüştür. Zengin bir adam, bir kahraman ve bir aşıktır artık."
+  },
+  "poster": {
+    "tr": "/t7COhy9HkznR0gcdhTNwtHmBN31.jpg",
+    "en": "/vOc2B27bR7CtNKq7tL4RAsiF3WP.jpg"
+  },
+  "backdrops": [
+    "/27Y0dGVBW0ZowwRjfa6nHbfP2aR.jpg",
+    "/ncn2j2hm79zQYADjDpAIsoGfure.jpg",
+    "/2eSpS8rUzpzgHhlOR8mvX8lRUK1.jpg",
+    "/h0QHCeykdW1kPjfpfWGuKrlsBvc.jpg",
+    "/jwZ8t7l8ZJa528AA6vY2Bgf0Hw3.jpg",
+    "/wB6ribEEz5nZKdXEqRDWFkQsM1g.jpg",
+    "/jj9uuzvv3mtpJZTwlZX5HnMkhl5.jpg",
+    "/lIurdSG2dJtZknMKrk9pvDQVkGk.jpg",
+    "/5s7w4FlpUCnGUih1MhAJIj0nKRv.jpg",
+    "/h8ph6F68Kbq6COGOruunyxY2dIP.jpg"
+  ],
+  "trailerKey": "fwDjsStvBbA",
+  "genreIds": [
+    80,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    586,
+    585,
+    3149,
+    2150,
+    8642,
+    9826,
+    11578,
+    10530,
+    14669,
+    14852,
+    14964
+  ],
+  "countries": [
+    "CA",
+    "FR"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Canadian Film Development Corporation",
+    "Selta Films",
+    "International Cinema Corporation (ICC)"
+  ],
+  "crew": [
+    {
+      "personId": 15389,
+      "job": "director"
+    },
+    {
+      "personId": 87025,
+      "job": "writer"
+    },
+    {
+      "personId": 39713,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 52952,
+      "job": "producer"
+    },
+    {
+      "personId": 10934,
+      "job": "composer"
+    },
+    {
+      "personId": 71097,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13784,
+      "character": "Lou",
+      "order": 0
+    },
+    {
+      "personId": 4038,
+      "character": "Sally",
+      "order": 1
+    },
+    {
+      "personId": 39709,
+      "character": "Grace",
+      "order": 2
+    },
+    {
+      "personId": 3784,
+      "character": "Joseph",
+      "order": 3
+    },
+    {
+      "personId": 113288,
+      "character": "Chrissy",
+      "order": 4
+    },
+    {
+      "personId": 19976,
+      "character": "Dave",
+      "order": 5
+    },
+    {
+      "personId": 36172,
+      "character": "Alfie",
+      "order": 6
+    },
+    {
+      "personId": 128621,
+      "character": "Singer",
+      "order": 7
+    },
+    {
+      "personId": 119121,
+      "character": "Felix",
+      "order": 8
+    },
+    {
+      "personId": 58475,
+      "character": "Vinnie",
+      "order": 9
+    },
+    {
+      "personId": 252,
+      "character": "Buddy",
+      "order": 10
+    },
+    {
+      "personId": 12900,
+      "character": "Waiter",
+      "order": 11
+    },
+    {
+      "personId": 108890,
+      "character": "Bus Driver",
+      "order": 12
+    },
+    {
+      "personId": 271933,
+      "character": "Jeanne",
+      "order": 13
+    },
+    {
+      "personId": 175302,
+      "character": "Mr. Shapiro",
+      "order": 14
+    },
+    {
+      "personId": 73031,
+      "character": "Fred",
+      "order": 15
+    },
+    {
+      "personId": 563098,
+      "character": "Mrs. Reese",
+      "order": 16
+    },
+    {
+      "personId": 9913,
+      "character": "President of Hospital",
+      "order": 17
+    },
+    {
+      "personId": 17646,
+      "character": "Detective",
+      "order": 18
+    },
+    {
+      "personId": 2498527,
+      "character": "Young Doctor",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "venice": 1
+  },
+  "voteCount": 313,
+  "sources": [
+    "cult-list"
+  ]
+}

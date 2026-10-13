@@ -1,0 +1,196 @@
+{
+  "tmdbId": 16858,
+  "slug": "all-that-jazz-1979",
+  "year": 1979,
+  "runtime": 123,
+  "originalTitle": "All That Jazz",
+  "title": {
+    "en": "All That Jazz",
+    "tr": "Ölümün Beşinci Safhası"
+  },
+  "overview": {
+    "en": "Joe Gideon is at the top of the heap, one of the most successful directors and choreographers in musical theater. But he can feel his world slowly collapsing around him - his obsession with work has almost destroyed his personal life, and only his bottles of pills keep him going.",
+    "tr": "Joe Gideon, Broadway'de başarılı bir koreograftır ancak işkolik tutkusu onu tüketmektedir. Kızı, sevgilisi ve sayısız ilişkisi arasında denge kuramazken, yeni bir prodüksiyon için kendini hasta edecek kadar çalışır. Prömiyer öncesi kalp krizi geçirip hastanelik olur, ancak sahne tutkusu ölümle bile mücadele eder."
+  },
+  "poster": {
+    "tr": "/culCEdj4srLljefgn4XKd6k3C5t.jpg",
+    "en": "/culCEdj4srLljefgn4XKd6k3C5t.jpg"
+  },
+  "backdrops": [
+    "/xoLz334wpETrlEIWL3EjDYrHBod.jpg",
+    "/gCWphaXTdI9eTQybEQoA458llzB.jpg",
+    "/4tOzDfIzeynN8WCy1kQ4kBHdgLp.jpg",
+    "/u218sykbUQIh6EWtTdJzguU5LcG.jpg",
+    "/ueo9NfVXJwM3R3XYxmggrJrsBsR.jpg",
+    "/wQVkhFgKiej4XdEnTsrXU3isoK0.jpg",
+    "/9KIrH49Adll5OEHN41Qp45uBxUL.jpg",
+    "/9PW79z7oZSzt9PRLzhIh0C5OdVc.jpg",
+    "/m2vL83W3EmirOOEG8ufKNP6SO1P.jpg",
+    "/tEijYNYRoxEiZtZZRppUv3GEZM4.jpg"
+  ],
+  "trailerKey": "8_aIhkKlrwk",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    886,
+    837,
+    4345,
+    9732,
+    10614,
+    15160,
+    156028,
+    156507,
+    157959,
+    165399,
+    165402,
+    165407,
+    165419,
+    165420,
+    165423,
+    222047,
+    325809
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Columbia Pictures",
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 66777,
+      "job": "director"
+    },
+    {
+      "personId": 69343,
+      "job": "composer"
+    },
+    {
+      "personId": 47373,
+      "job": "writer"
+    },
+    {
+      "personId": 66777,
+      "job": "writer"
+    },
+    {
+      "personId": 15131,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6355,
+      "character": "Joe Gideon",
+      "order": 0
+    },
+    {
+      "personId": 4431,
+      "character": "Angelique",
+      "order": 1
+    },
+    {
+      "personId": 80928,
+      "character": "Kate Jagger",
+      "order": 2
+    },
+    {
+      "personId": 80927,
+      "character": "Audrey Paris",
+      "order": 3
+    },
+    {
+      "personId": 19183,
+      "character": "Davis Newman",
+      "order": 4
+    },
+    {
+      "personId": 26664,
+      "character": "O'Connor Flood",
+      "order": 5
+    },
+    {
+      "personId": 1155690,
+      "character": "Michelle Gideon",
+      "order": 6
+    },
+    {
+      "personId": 161650,
+      "character": "Dr. Ballinger",
+      "order": 7
+    },
+    {
+      "personId": 106772,
+      "character": "Joshua Penn",
+      "order": 8
+    },
+    {
+      "personId": 982731,
+      "character": "Jonesy Hecht",
+      "order": 9
+    },
+    {
+      "personId": 62602,
+      "character": "Leslie Perry",
+      "order": 10
+    },
+    {
+      "personId": 106807,
+      "character": "Victoria",
+      "order": 11
+    },
+    {
+      "personId": 1028288,
+      "character": "Kathryn",
+      "order": 12
+    },
+    {
+      "personId": 119778,
+      "character": "Paul Dann",
+      "order": 13
+    },
+    {
+      "personId": 166000,
+      "character": "Ted Christopher",
+      "order": 14
+    },
+    {
+      "personId": 8875,
+      "character": "Larry Goldie",
+      "order": 15
+    },
+    {
+      "personId": 2216255,
+      "character": "Stacy",
+      "order": 16
+    },
+    {
+      "personId": 33054,
+      "character": "Young Joe",
+      "order": 17
+    },
+    {
+      "personId": 1127494,
+      "character": "Comic",
+      "order": 18
+    },
+    {
+      "personId": 853,
+      "character": "Eddie",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 4,
+    "cannes": 1
+  },
+  "voteCount": 641,
+  "sources": [
+    "cult-list"
+  ]
+}
