@@ -3,7 +3,11 @@ import { notFound } from 'next/navigation'
 import { TmdbCredit } from '@/components/TmdbCredit'
 import { store } from '@/lib/data'
 import type { Locale } from '@/lib/i18n/locale'
+import { CastSection } from './components/CastSection'
 import { FilmHero } from './components/FilmHero'
+import { SimilarFilms } from './components/SimilarFilms'
+import { TrailerAndStills } from './components/TrailerAndStills'
+import { findSimilarFilms } from './similar'
 import { buildFilmView } from './view-model'
 
 export async function FilmPage({ slug, locale }: { slug: string; locale: Locale }) {
@@ -16,10 +20,14 @@ export async function FilmPage({ slug, locale }: { slug: string; locale: Locale 
     themes: store.themes(),
     awardGroups: store.awardGroups(),
   })
+  const similar = findSimilarFilms(film, store.films(), new Set(store.themes().keys()))
 
   return (
     <main>
       <FilmHero view={view} locale={locale} />
+      <TrailerAndStills view={view} locale={locale} />
+      <CastSection directors={view.directors} cast={view.cast} locale={locale} />
+      <SimilarFilms items={similar} locale={locale} />
       <TmdbCredit locale={locale} />
     </main>
   )
