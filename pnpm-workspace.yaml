@@ -1,3 +1,8 @@
 allowBuilds:
   sharp: false
   unrs-resolver: false
+  # esbuild ikilisi platform paketinden gelir; kurulum betiğine gerek yok, çalıştırılmaz.
+  esbuild: false
+# serve 14.2.6 compression@1.8.1'i sabitliyor; GHSA-vc2v-76pw-4v95 (high) düzeltmesi 1.8.2'de.
+overrides:
+  compression: 1.8.2
