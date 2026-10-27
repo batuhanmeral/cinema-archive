@@ -32,18 +32,19 @@ function PersonTile({ person }: { person: PersonCard }) {
           <User size={28} strokeWidth={1.25} aria-hidden />
         </div>
       )}
-      <p className="mt-2 truncate text-xs font-semibold md:mt-2.5 md:text-[13px]">
+      {/* Kırpma bağlantının kendisinde: kapsayıcıdaki overflow odak çizgisini keserdi. */}
+      <p className="mt-2 text-xs font-semibold md:mt-2.5 md:text-[13px]">
         {person.href ? (
           // Kişi sayfaları M5'e kadar yok; ön yükleme 404 gürültüsü üretmesin.
           <Link
             href={person.href}
             prefetch={false}
-            className="transition-colors duration-150 group-hover:text-accent after:absolute after:inset-0"
+            className="block truncate transition-colors duration-150 group-hover:text-accent after:absolute after:inset-0"
           >
             {person.name}
           </Link>
         ) : (
-          person.name
+          <span className="block truncate">{person.name}</span>
         )}
       </p>
       {role && <p className="truncate text-[11px] text-muted md:text-xs">{role}</p>}
@@ -70,7 +71,8 @@ export function CastSection({
       <div className="flex gap-3 [--rail-image-h:216px] md:gap-5">
         {directors.length > 0 && (
           // Çok yönetmenli filmlerde (12'ye kadar) sabit sütun şeridi ezmesin; kendi içinde kayar.
-          <ul className="flex max-w-1/2 flex-none gap-3 overflow-x-auto [scrollbar-width:none] md:gap-5 [&::-webkit-scrollbar]:hidden">
+          // 4 px iç boşluk eksi dış boşlukla dengelenir; kenar kartların odak çizgisi sığar.
+          <ul className="-m-1 flex max-w-1/2 flex-none gap-3 overflow-x-auto p-1 [scrollbar-width:none] md:gap-5 [&::-webkit-scrollbar]:hidden">
             {directors.map((person, i) => (
               <PersonTile key={`${person.name}-${i}`} person={person} />
             ))}

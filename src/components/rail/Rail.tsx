@@ -2,9 +2,10 @@
 
 import { ArrowLeft, ArrowRight } from 'lucide-react'
 import { useEffect, useRef, useState, type ReactNode } from 'react'
+import { flushSync } from 'react-dom'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
-import { arrowVisibility } from './rail-state'
+import { arrowVisibility, focusAfterArrowChange } from './rail-state'
 
 // Bir basışta görünür genişliğin %80'i kayar; önceki sayfanın son kartı göz ucunda kalır.
 const SCROLL_STEP = 0.8
@@ -29,13 +30,28 @@ export function Rail({
   children: ReactNode
 }) {
   const trackRef = useRef<HTMLDivElement>(null)
+  const startRef = useRef<HTMLButtonElement>(null)
+  const endRef = useRef<HTMLButtonElement>(null)
   const [arrows, setArrows] = useState({ start: false, end: false })
 
   useEffect(() => {
     const track = trackRef.current
     if (!track) return
-    const update = () =>
-      setArrows(arrowVisibility(track.scrollLeft, track.clientWidth, track.scrollWidth))
+    const update = () => {
+      const next = arrowVisibility(track.scrollLeft, track.clientWidth, track.scrollWidth)
+      const active = document.activeElement
+      const focused =
+        active === startRef.current ? 'start' : active === endRef.current ? 'end' : null
+      const target = focusAfterArrowChange(focused, next)
+      if (!target) {
+        setArrows(next)
+        return
+      }
+      // Karşı ok ancak DOM güncellenince odaklanabilir; bu yüzden durum hemen işlenir.
+      flushSync(() => setArrows(next))
+      const targets = { start: startRef, end: endRef, track: trackRef }
+      targets[target].current?.focus()
+    }
     update()
     track.addEventListener('scroll', update, { passive: true })
     window.addEventListener('resize', update)
@@ -59,6 +75,7 @@ export function Rail({
   return (
     <div className="relative min-w-0">
       <button
+        ref={startRef}
         type="button"
         aria-label={t.previous}
         onClick={() => scrollPage(-1)}
@@ -67,6 +84,7 @@ export function Rail({
         <ArrowLeft size={22} strokeWidth={1.25} aria-hidden />
       </button>
       <button
+        ref={endRef}
         type="button"
         aria-label={t.next}
         onClick={() => scrollPage(1)}
@@ -74,13 +92,14 @@ export function Rail({
       >
         <ArrowRight size={22} strokeWidth={1.25} aria-hidden />
       </button>
-      {/* Odaklanabilir bölge: bağlantısız kartlarda da şerit klavyeyle kaydırılabilsin. */}
+      {/* Odaklanabilir bölge: bağlantısız kartlarda da şerit klavyeyle kaydırılabilsin.
+          4 px iç boşluk (eksi dış boşlukla dengelenir) kenar kartların odak çizgisini kırpılmaktan korur. */}
       <div
         ref={trackRef}
         role="region"
         aria-label={label}
         tabIndex={0}
-        className="snap-x snap-mandatory overflow-x-auto [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
+        className="-m-1 snap-x snap-mandatory scroll-px-1 overflow-x-auto p-1 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
       >
         <ul className="flex w-max gap-3 *:flex-none *:snap-start md:gap-5">{children}</ul>
       </div>
