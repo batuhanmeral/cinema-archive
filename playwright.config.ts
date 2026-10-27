@@ -9,7 +9,12 @@ export default defineConfig({
   reporter: process.env.CI ? [['list'], ['html', { open: 'never' }]] : 'list',
   use: { baseURL: BASE_URL, trace: 'on-first-retry' },
   // Testler statik dışa aktarımı (`out/`) sınar; önce `pnpm build` çalışmalı.
-  webServer: { command: 'pnpm serve:out', url: BASE_URL, reuseExistingServer: !process.env.CI },
+  // `/` dizin listesi kapalı olduğundan 404 döner; hazırlık için gerçek bir dosya yoklanır.
+  webServer: {
+    command: 'pnpm serve:out',
+    url: `${BASE_URL}/tmdb-logo.svg`,
+    reuseExistingServer: !process.env.CI,
+  },
   projects: [
     {
       name: 'desktop',

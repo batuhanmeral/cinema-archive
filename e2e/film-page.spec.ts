@@ -75,3 +75,20 @@ test('every control is reachable by keyboard with a visible focus outline', asyn
   const outline = await page.evaluate(() => getComputedStyle(document.activeElement!).outlineStyle)
   expect(outline).not.toBe('none')
 })
+
+test('the film page works under the production headers without CSP violations', async ({
+  page,
+}) => {
+  const violations: string[] = []
+  page.on('console', (message) => {
+    if (/Content Security Policy|Refused to/.test(message.text())) violations.push(message.text())
+  })
+  const response = await page.goto(`/film/${slug}`)
+  expect(response?.headers()['content-security-policy']).toContain("frame-ancestors 'none'")
+  const play = page.getByRole('button', { name: 'Fragmanı oynat' })
+  if (await play.count()) {
+    await play.click()
+    await expect(page.locator('iframe')).toBeVisible()
+  }
+  expect(violations).toEqual([])
+})

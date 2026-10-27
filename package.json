@@ -10,7 +10,7 @@
     "test": "vitest run",
     "format": "prettier --write .",
     "e2e": "playwright test",
-    "serve:out": "serve out -l 4173",
+    "serve:out": "serve out -l 4173 -c ../serve.json",
     "data:import": "node --env-file-if-exists=.env.local --import tsx pipeline/import.ts"
   },
   "dependencies": {

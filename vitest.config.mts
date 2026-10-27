@@ -16,7 +16,7 @@ export default defineConfig({
         test: {
           name: 'node',
           environment: 'node',
-          include: ['pipeline/**/*.test.ts', 'src/**/*.test.ts'],
+          include: ['pipeline/**/*.test.ts', 'src/**/*.test.ts', 'security/**/*.test.ts'],
         },
       },
       {
