@@ -25,6 +25,21 @@ function parseCsp(value: string): Record<string, string[]> {
   )
 }
 
+const EXPECTED_CSP: Record<string, string[]> = {
+  'default-src': ["'self'"],
+  'script-src': ["'self'", "'unsafe-inline'"],
+  'style-src': ["'self'", "'unsafe-inline'"],
+  'img-src': ["'self'", 'data:', 'https://image.tmdb.org'],
+  'font-src': ["'self'"],
+  'connect-src': ["'self'"],
+  'frame-src': ['https://www.youtube-nocookie.com'],
+  'media-src': ["'none'"],
+  'object-src': ["'none'"],
+  'base-uri': ["'self'"],
+  'form-action': ["'self'"],
+  'frame-ancestors': ["'none'"],
+}
+
 const vercel = readHeaders('vercel.json')
 const serve = readHeaders('serve.json')
 
@@ -38,17 +53,38 @@ describe('security headers', () => {
     expect(serve[0].headers).toEqual(vercel[0].headers)
   })
 
-  it('locks down framing, plugins and base URLs', () => {
-    const csp = parseCsp(header(vercel, 'Content-Security-Policy'))
-    expect(csp['frame-ancestors']).toEqual(["'none'"])
-    expect(csp['object-src']).toEqual(["'none'"])
-    expect(csp['base-uri']).toEqual(["'self'"])
+  it('sends exactly the seven headers in order', () => {
+    expect(vercel[0].headers.map((h) => h.key)).toEqual([
+      'Content-Security-Policy',
+      'Strict-Transport-Security',
+      'X-Content-Type-Options',
+      'X-Frame-Options',
+      'Referrer-Policy',
+      'Permissions-Policy',
+      'Cross-Origin-Opener-Policy',
+    ])
   })
 
-  it('allows only TMDB images and the nocookie YouTube embed from other origins', () => {
-    const csp = parseCsp(header(vercel, 'Content-Security-Policy'))
-    expect(csp['img-src']).toContain('https://image.tmdb.org')
-    expect(csp['frame-src']).toEqual(['https://www.youtube-nocookie.com'])
-    expect(Object.values(csp).flat()).not.toContain('*')
+  // HSTS, Referrer-Policy ve COOP için ZAP kuralı yok; yalnızca bu test korur
+  it('keeps the exact values of the non-CSP headers', () => {
+    expect(header(vercel, 'Strict-Transport-Security')).toBe('max-age=63072000; includeSubDomains')
+    expect(header(vercel, 'X-Content-Type-Options')).toBe('nosniff')
+    expect(header(vercel, 'X-Frame-Options')).toBe('DENY')
+    expect(header(vercel, 'Referrer-Policy')).toBe('strict-origin-when-cross-origin')
+    expect(header(vercel, 'Permissions-Policy')).toBe(
+      'camera=(), microphone=(), geolocation=(), payment=(), usb=()',
+    )
+    expect(header(vercel, 'Cross-Origin-Opener-Policy')).toBe('same-origin')
+  })
+
+  // Kaynak eklemek (https:, üçüncü taraf host) bilinçli bir test değişikliği olmalı
+  it('keeps every CSP directive with its exact sources', () => {
+    const value = header(vercel, 'Content-Security-Policy')
+    expect(parseCsp(value)).toEqual(EXPECTED_CSP)
+    expect(value).toBe(
+      Object.entries(EXPECTED_CSP)
+        .map(([name, sources]) => [name, ...sources].join(' '))
+        .join('; '),
+    )
   })
 })
