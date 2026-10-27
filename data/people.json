@@ -417,7 +417,7 @@
     "tmdbId": 109,
     "name": "Elijah Wood",
     "profilePath": "/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg",
-    "slug": null
+    "slug": "elijah-wood"
   },
   {
     "tmdbId": 110,
@@ -474,9 +474,21 @@
     "slug": null
   },
   {
+    "tmdbId": 123,
+    "name": "Barrie M. Osborne",
+    "profilePath": "/xWtXYk6M5NFroddcQDviLlxOnkU.jpg",
+    "slug": null
+  },
+  {
     "tmdbId": 126,
     "name": "Fran Walsh",
     "profilePath": "/roXPta5fAmGzqdOIvUQbDavZy8Y.jpg",
+    "slug": null
+  },
+  {
+    "tmdbId": 128,
+    "name": "Philippa Boyens",
+    "profilePath": "/vfPQnrMZ87uPjyJYrSkQtqI6c0H.jpg",
     "slug": null
   },
   {
@@ -1438,6 +1450,12 @@
     "name": "Tom Cruise",
     "profilePath": "/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg",
     "slug": "tom-cruise"
+  },
+  {
+    "tmdbId": 502,
+    "name": "Miranda Otto",
+    "profilePath": "/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg",
+    "slug": null
   },
   {
     "tmdbId": 503,
@@ -4014,6 +4032,12 @@
     "slug": null
   },
   {
+    "tmdbId": 1313,
+    "name": "Andrew Lesnie",
+    "profilePath": "/npaUIpk921FVUrtKmvk2RVDwpCM.jpg",
+    "slug": null
+  },
+  {
     "tmdbId": 1327,
     "name": "Ian McKellen",
     "profilePath": "/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg",
@@ -4023,6 +4047,18 @@
     "tmdbId": 1328,
     "name": "Sean Astin",
     "profilePath": "/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg",
+    "slug": "sean-astin"
+  },
+  {
+    "tmdbId": 1329,
+    "name": "Billy Boyd",
+    "profilePath": "/jluumxuDr7rm2f97NFf9LydBdaZ.jpg",
+    "slug": null
+  },
+  {
+    "tmdbId": 1330,
+    "name": "Dominic Monaghan",
+    "profilePath": "/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg",
     "slug": null
   },
   {
@@ -4030,6 +4066,12 @@
     "name": "Hugo Weaving",
     "profilePath": "/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg",
     "slug": "hugo-weaving"
+  },
+  {
+    "tmdbId": 1332,
+    "name": "Craig Parker",
+    "profilePath": "/gV5dbZ0gorOtIJXmJz7g3maDGgM.jpg",
+    "slug": null
   },
   {
     "tmdbId": 1333,
@@ -4146,6 +4188,18 @@
     "slug": null
   },
   {
+    "tmdbId": 1365,
+    "name": "Lawrence Makoare",
+    "profilePath": "/gNWX2QLQXzjPzynCwa0azyKYG4M.jpg",
+    "slug": null
+  },
+  {
+    "tmdbId": 1366,
+    "name": "Sala Baker",
+    "profilePath": "/zn0kwgQ6IT847uMxz73w7ofHwyp.jpg",
+    "slug": null
+  },
+  {
     "tmdbId": 1367,
     "name": "Alan Howard",
     "profilePath": "/jYHkGkFzRGrVRoX568Omr3ipmde.jpg",
@@ -4173,6 +4227,12 @@
     "tmdbId": 1372,
     "name": "Karl Urban",
     "profilePath": "/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg",
+    "slug": null
+  },
+  {
+    "tmdbId": 1381,
+    "name": "John Noble",
+    "profilePath": "/t9dB8uU27sQDaEEFMiQvp5sbrXU.jpg",
     "slug": null
   },
   {
@@ -16101,6 +16161,12 @@
     "tmdbId": 5764,
     "name": "Jean-Pierre Zola",
     "profilePath": null,
+    "slug": null
+  },
+  {
+    "tmdbId": 5768,
+    "name": "Jean-François Martial",
+    "profilePath": "/uv3Ex0DTvT8tiP3cy6vJetcOlVA.jpg",
     "slug": null
   },
   {
@@ -37788,6 +37854,12 @@
     "slug": "christine-taylor"
   },
   {
+    "tmdbId": 15292,
+    "name": "Tim Sanders",
+    "profilePath": null,
+    "slug": null
+  },
+  {
     "tmdbId": 15293,
     "name": "Keisha Castle-Hughes",
     "profilePath": "/9lBukGiFVV0pKNwndaNhRQVnNmt.jpg",
@@ -46545,6 +46617,12 @@
     "tmdbId": 20975,
     "name": "Nada Despotovich",
     "profilePath": "/40Bqh3VoQlzdVmATLzfgSsdk6bX.jpg",
+    "slug": null
+  },
+  {
+    "tmdbId": 20982,
+    "name": "Marton Csokas",
+    "profilePath": "/gmeUY7FR0bFLdu7Ma5kvpH3Gt6B.jpg",
     "slug": null
   },
   {
@@ -98427,7 +98505,7 @@
     "tmdbId": 81291,
     "name": "Edmund Breon",
     "profilePath": "/uR49CwS2gV2DtNGzrwo0juPBFNt.jpg",
-    "slug": null
+    "slug": "edmund-breon"
   },
   {
     "tmdbId": 81292,
@@ -107424,6 +107502,12 @@
     "slug": null
   },
   {
+    "tmdbId": 94953,
+    "name": "Renée Carl",
+    "profilePath": "/xKw1iQS28Z7fMGhbNhNk7gyMkYL.jpg",
+    "slug": null
+  },
+  {
     "tmdbId": 94955,
     "name": "Sébastien Foucan",
     "profilePath": "/mA1Yx0XTNfMw6RfOuHBiz70jZx9.jpg",
@@ -115450,6 +115534,12 @@
     "name": "Alan DeWitt",
     "profilePath": null,
     "slug": null
+  },
+  {
+    "tmdbId": 102844,
+    "name": "Louis Feuillade",
+    "profilePath": "/pGKFh6iP1gKh4AN8osf9bdtr9fT.jpg",
+    "slug": "louis-feuillade"
   },
   {
     "tmdbId": 102848,
@@ -129099,7 +129189,7 @@
     "tmdbId": 126744,
     "name": "André Luguet",
     "profilePath": "/xH9Qv3BCQ2VOXbkl5RA7aEhvtBb.jpg",
-    "slug": null
+    "slug": "andre-luguet"
   },
   {
     "tmdbId": 126747,
@@ -147246,9 +147336,63 @@
     "slug": null
   },
   {
+    "tmdbId": 224423,
+    "name": "René Navarre",
+    "profilePath": "/7FBpUD466KMyptSlwpJKhCx6XKJ.jpg",
+    "slug": null
+  },
+  {
+    "tmdbId": 224424,
+    "name": "Georges Melchior",
+    "profilePath": "/AsB3geSB6Ni3KGfX02UQv9SyZh9.jpg",
+    "slug": null
+  },
+  {
+    "tmdbId": 224425,
+    "name": "Jane Faber",
+    "profilePath": "/vjYKJUJYQowLyWehIq25iMFMSRy.jpg",
+    "slug": null
+  },
+  {
+    "tmdbId": 224426,
+    "name": "André Volbert",
+    "profilePath": "/Ev3cbTd2F6LkDaeJj6JtuKYlc8.jpg",
+    "slug": null
+  },
+  {
+    "tmdbId": 224427,
+    "name": "Naudier",
+    "profilePath": "/r2VNqssQhBbaOF8ZITkf1zysygb.jpg",
+    "slug": null
+  },
+  {
+    "tmdbId": 224428,
+    "name": "Maillard",
+    "profilePath": null,
+    "slug": null
+  },
+  {
+    "tmdbId": 224429,
+    "name": "Yvette Andréyor",
+    "profilePath": "/2jJ9TIoYWnM5s9CFwV8te8QzseC.jpg",
+    "slug": null
+  },
+  {
     "tmdbId": 224430,
     "name": "Enrica Maria Modugno",
     "profilePath": "/iFX9ZP9RPDCIbKpKncx0WB3Z5gc.jpg",
+    "slug": null
+  },
+  {
+    "tmdbId": 224431,
+    "name": "Laurent Morléas",
+    "profilePath": null,
+    "slug": null
+  },
+  {
+    "tmdbId": 224432,
+    "name": "Mesnery",
+    "profilePath": null,
     "slug": null
   },
   {
@@ -147258,9 +147402,33 @@
     "slug": null
   },
   {
+    "tmdbId": 224435,
+    "name": "Germaine Pelisse",
+    "profilePath": null,
+    "slug": null
+  },
+  {
+    "tmdbId": 224436,
+    "name": "Suzanne Le Bret",
+    "profilePath": "/a0dQaGtrUKal2WCdyTD2G5uIWhu.jpg",
+    "slug": null
+  },
+  {
     "tmdbId": 224439,
     "name": "Pino de Martino",
     "profilePath": null,
+    "slug": null
+  },
+  {
+    "tmdbId": 224440,
+    "name": "Luitz-Morat",
+    "profilePath": "/vmwzCfG8BBAnmZ8jlIdY9Ol2iZn.jpg",
+    "slug": null
+  },
+  {
+    "tmdbId": 224441,
+    "name": "Fabienne Fabrèges",
+    "profilePath": "/b5Kv2XStVCvytq4YmHIoJRPpMR9.jpg",
     "slug": null
   },
   {
@@ -175914,6 +176082,12 @@
     "slug": null
   },
   {
+    "tmdbId": 1144929,
+    "name": "Romeo Bosetti",
+    "profilePath": "/fcIANwE4rSLFdjhlcNVhf8PUkp9.jpg",
+    "slug": null
+  },
+  {
     "tmdbId": 1145430,
     "name": "Arlette Gordon",
     "profilePath": "/9LYRC6qIeUksoOQ7vG3VxPUErn3.jpg",
@@ -180687,6 +180861,12 @@
     "tmdbId": 1207227,
     "name": "James Patrick Pitt",
     "profilePath": "/xiL0EwEAqfburE9Bzmbepvk2KFz.jpg",
+    "slug": null
+  },
+  {
+    "tmdbId": 1207233,
+    "name": "Marie Dorly",
+    "profilePath": "/6oFPGQFeVBy5Ny7jkldpl8KyOUl.jpg",
     "slug": null
   },
   {
@@ -189942,6 +190122,12 @@
     "slug": null
   },
   {
+    "tmdbId": 1342347,
+    "name": "Georges Guérin",
+    "profilePath": null,
+    "slug": null
+  },
+  {
     "tmdbId": 1342492,
     "name": "Acho Chakatouny",
     "profilePath": "/ddOQTR7xwMIR9XID4yJR4usmmZ.jpg",
@@ -197538,6 +197724,12 @@
     "slug": null
   },
   {
+    "tmdbId": 1495937,
+    "name": "Armand Dutertre",
+    "profilePath": "/ezaoD37jybJmD4eaAc5Xh04AZlm.jpg",
+    "slug": null
+  },
+  {
     "tmdbId": 1496047,
     "name": "Jim Brady",
     "profilePath": "/neiwXpsGxltabljKgapKZxzgx3B.jpg",
@@ -202035,6 +202227,12 @@
     "tmdbId": 1590637,
     "name": "Caroline Esnard-Benoit",
     "profilePath": null,
+    "slug": null
+  },
+  {
+    "tmdbId": 1590835,
+    "name": "Brent McIntyre",
+    "profilePath": "/vS7XOAk3feRi6B58s8hPXNZKkWQ.jpg",
     "slug": null
   },
   {
@@ -217802,6 +218000,12 @@
   {
     "tmdbId": 2185223,
     "name": "Katarina Jacobson",
+    "profilePath": null,
+    "slug": null
+  },
+  {
+    "tmdbId": 2185262,
+    "name": "Paul Fosse",
     "profilePath": null,
     "slug": null
   },

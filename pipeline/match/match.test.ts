@@ -48,6 +48,22 @@ describe('decideMatch', () => {
       }),
     ).toEqual({ kind: 'adult', tmdbId: 5 }))
 
+  it('matches every id of a series fix and keeps an adult id apart', () =>
+    expect(
+      decideMatch(entry({ yearEnd: 2003 }), {
+        fix: { wikiTitle: 'X', tmdbId: [5, 6, 7], note: 'series' },
+        wikidataTmdbIds: [],
+        candidates: [candidate({ tmdbId: 5 }), candidate({ tmdbId: 6, adult: true })],
+      }),
+    ).toEqual({
+      kind: 'series',
+      films: [
+        { kind: 'matched', tmdbId: 5, via: 'fix' },
+        { kind: 'adult', tmdbId: 6 },
+        { kind: 'matched', tmdbId: 7, via: 'fix' },
+      ],
+    }))
+
   it('skips an entry fixed to null', () =>
     expect(
       decideMatch(entry(), {

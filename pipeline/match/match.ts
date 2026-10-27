@@ -12,10 +12,14 @@ export type Candidate = {
   adult: boolean
 }
 
-export type MatchDecision =
+type FilmDecision =
   | { kind: 'matched'; tmdbId: number; via: 'fix' | 'wikidata' | 'search' }
-  | { kind: 'skipped'; note: string }
   | { kind: 'adult'; tmdbId: number }
+
+export type MatchDecision =
+  | FilmDecision
+  | { kind: 'series'; films: FilmDecision[] }
+  | { kind: 'skipped'; note: string }
   | { kind: 'review'; reason: ReviewReason; candidates: Candidate[] }
 
 export const YEAR_TOLERANCE = 1
@@ -56,7 +60,7 @@ function matched(
   tmdbId: number,
   via: 'fix' | 'wikidata' | 'search',
   candidates: Candidate[],
-): MatchDecision {
+): FilmDecision {
   const isAdult = candidates.some((candidate) => candidate.tmdbId === tmdbId && candidate.adult)
   return isAdult ? { kind: 'adult', tmdbId } : { kind: 'matched', tmdbId, via }
 }
@@ -67,9 +71,11 @@ export function decideMatch(
 ): MatchDecision {
   const { fix, wikidataTmdbIds, candidates } = input
   if (fix) {
-    return fix.tmdbId === null
-      ? { kind: 'skipped', note: fix.note }
-      : matched(fix.tmdbId, 'fix', candidates)
+    if (fix.tmdbId === null) return { kind: 'skipped', note: fix.note }
+    if (Array.isArray(fix.tmdbId)) {
+      return { kind: 'series', films: fix.tmdbId.map((id) => matched(id, 'fix', candidates)) }
+    }
+    return matched(fix.tmdbId, 'fix', candidates)
   }
   if (entry.yearEnd !== null) return { kind: 'review', reason: 'series', candidates }
   if (wikidataTmdbIds.length > 1)

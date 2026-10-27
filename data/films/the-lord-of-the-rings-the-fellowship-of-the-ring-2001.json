@@ -1,0 +1,236 @@
+{
+  "tmdbId": 120,
+  "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001",
+  "year": 2001,
+  "runtime": 179,
+  "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
+  "title": {
+    "en": "The Lord of the Rings: The Fellowship of the Ring",
+    "tr": "Yüzüklerin Efendisi: Yüzük Kardeşliği"
+  },
+  "overview": {
+    "en": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "tr": "İyiyle kötü arasındaki mücadelenin epik bir anlatımı olan bu filmde, dünyanın kaderini değişterecek olan bir yüzükten kurtulmak için verilen mücadele anlatılıyor. Yıllar önce üretilen ve Orta Dünya topraklarına kandan başka hiçbir şey getirmeyen yüzüklerin sonuncusu, üretiminden yüz yıllar sonra ortaya çıkar. Amcasının kendisine emanet ettiği yüzüğün nelere kadir olduğundan habersiz olan Frodo, büyücü Gandalf'ın anlattıkları sonrasında dehşete kapılır. Bu yüzükten ve savaşlardan kurtulmanın, gücünü toplamaya çalışan Sauron'u engellemenin tek yolu yüzüğü yok etmektir. Yüzüğü yok edilebileceği tek yer olan Mordor'a götürmek için kendini feda eden savaşçılardan oluşan bir ekip oluşturulur. Çok uzun ve çetin geçecek olan yolculuk başlar. Orta Dünya'nın kaderi, bu insanların ellerindedir."
+  },
+  "poster": {
+    "tr": "/l2rv8rLUlo2zMWd20JLtW6bZUsK.jpg",
+    "en": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+  },
+  "backdrops": [
+    "/ua5EHfleb44L5hfHPs2BPqRAove.jpg",
+    "/a0lfia8tk8ifkrve0Tn8wkISUvs.jpg",
+    "/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg",
+    "/vRQnzOn4HjIMX4LBq9nHhFXbsSu.jpg",
+    "/keyOZ8KcjHMTVH8p0owTXvw18Wf.jpg",
+    "/z51Wzj94hvAIsWfknifKTqKJRwp.jpg",
+    "/tdmlSbLl84hfHx635AqHLB8Qh8M.jpg",
+    "/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+    "/zzIdXP769uYxQq6rK9plfeoVdTo.jpg",
+    "/dUVbWINfRMGojGZRcO6GF1Z2nV8.jpg"
+  ],
+  "trailerKey": "_nZdmwHrcnw",
+  "genreIds": [
+    12,
+    14,
+    28
+  ],
+  "keywordIds": [
+    818,
+    603,
+    604,
+    2343,
+    186,
+    1523,
+    1501,
+    3930,
+    3098,
+    11173,
+    14643,
+    15001,
+    163540,
+    164193,
+    170362,
+    177895,
+    189092,
+    193937,
+    195269,
+    208156,
+    209220,
+    209374,
+    232697,
+    234213,
+    238160,
+    249821,
+    269233,
+    282217,
+    307896,
+    361759,
+    375250,
+    377433,
+    380963
+  ],
+  "countries": [
+    "NZ",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New Line Cinema",
+    "WingNut Films",
+    "The Saul Zaentz Company"
+  ],
+  "crew": [
+    {
+      "personId": 108,
+      "job": "director"
+    },
+    {
+      "personId": 108,
+      "job": "producer"
+    },
+    {
+      "personId": 126,
+      "job": "writer"
+    },
+    {
+      "personId": 1313,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 128,
+      "job": "writer"
+    },
+    {
+      "personId": 117,
+      "job": "composer"
+    },
+    {
+      "personId": 123,
+      "job": "producer"
+    },
+    {
+      "personId": 108,
+      "job": "writer"
+    },
+    {
+      "personId": 15292,
+      "job": "producer"
+    },
+    {
+      "personId": 126,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 109,
+      "character": "Frodo",
+      "order": 0
+    },
+    {
+      "personId": 1327,
+      "character": "Gandalf",
+      "order": 1
+    },
+    {
+      "personId": 110,
+      "character": "Aragorn",
+      "order": 2
+    },
+    {
+      "personId": 1328,
+      "character": "Sam",
+      "order": 3
+    },
+    {
+      "personId": 65,
+      "character": "Bilbo",
+      "order": 4
+    },
+    {
+      "personId": 882,
+      "character": "Arwen",
+      "order": 5
+    },
+    {
+      "personId": 113,
+      "character": "Saruman",
+      "order": 6
+    },
+    {
+      "personId": 48,
+      "character": "Boromir",
+      "order": 7
+    },
+    {
+      "personId": 1329,
+      "character": "Pippin",
+      "order": 8
+    },
+    {
+      "personId": 1330,
+      "character": "Merry",
+      "order": 9
+    },
+    {
+      "personId": 655,
+      "character": "Gimli",
+      "order": 10
+    },
+    {
+      "personId": 114,
+      "character": "Legolas",
+      "order": 11
+    },
+    {
+      "personId": 112,
+      "character": "Galadriel",
+      "order": 12
+    },
+    {
+      "personId": 1331,
+      "character": "Elrond",
+      "order": 13
+    },
+    {
+      "personId": 1333,
+      "character": "Gollum",
+      "order": 14
+    },
+    {
+      "personId": 20982,
+      "character": "Celeborn",
+      "order": 15
+    },
+    {
+      "personId": 1332,
+      "character": "Haldir",
+      "order": 16
+    },
+    {
+      "personId": 1365,
+      "character": "Lurtz",
+      "order": 17
+    },
+    {
+      "personId": 1590835,
+      "character": "Witch-King",
+      "order": 18
+    },
+    {
+      "personId": 1366,
+      "character": "Sauron",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 4,
+    "bafta": 1
+  },
+  "voteCount": 28722,
+  "sources": [
+    "cult-list"
+  ]
+}

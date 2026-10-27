@@ -1,15 +1,32 @@
 {
-  "generatedAt": "2026-10-30T17:26:11.861Z",
+  "generatedAt": "2026-10-31T03:38:30.152Z",
   "counts": {
     "listRows": 2821,
-    "films": 2678,
-    "added": 0,
+    "films": 2682,
+    "added": 4,
     "missingFromSources": 0,
     "review": 0,
     "adultExcluded": 11,
-    "skipped": 9
+    "skipped": 7
   },
-  "added": [],
+  "added": [
+    {
+      "tmdbId": 120,
+      "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001"
+    },
+    {
+      "tmdbId": 121,
+      "slug": "the-lord-of-the-rings-the-two-towers-2002"
+    },
+    {
+      "tmdbId": 122,
+      "slug": "the-lord-of-the-rings-the-return-of-the-king-2003"
+    },
+    {
+      "tmdbId": 319287,
+      "slug": "fantomas-1913"
+    }
+  ],
   "missingFromSources": [],
   "review": [],
   "adultExcluded": [
@@ -83,20 +100,12 @@
       "note": "TMDB entry 466007 has no release date"
     },
     {
-      "wikiTitle": "Fantômas (1913 serial)",
-      "note": "film serial of five episodes, not one film"
-    },
-    {
       "wikiTitle": "Heimat (1984 film)",
       "note": "TV series of 11 episodes (TMDB TV 43059)"
     },
     {
       "wikiTitle": "An Inspector Calls (1982 film)",
       "note": "BBC TV serial; article redirects to the TV series"
-    },
-    {
-      "wikiTitle": "The Lord of the Rings (film series)",
-      "note": "film series; each film is its own entry"
     },
     {
       "wikiTitle": "The Stand (1994 film)",

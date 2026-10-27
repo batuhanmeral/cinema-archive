@@ -96,16 +96,18 @@ async function decideRow(
   wikidataIds: number[],
 ): Promise<RowResult> {
   const fix = deps.fixes.find((f) => f.wikiTitle === row.wikiTitle)
+  const fixIds = fix?.tmdbId == null ? [] : [fix.tmdbId].flat()
   let ids: number[] = []
-  if (fix) ids = fix.tmdbId === null ? [] : [fix.tmdbId]
+  if (fix) ids = fixIds
   else if (wikidataIds.length > 0) ids = wikidataIds
   else ids = searchHitIds(await deps.searchMovies(row.title), row)
 
   const candidates = (await loadMovies(load, ids)).map(toCandidate)
-  const decision = decideMatch(row, { fix, wikidataTmdbIds: wikidataIds, candidates })
-  if (decision.kind === 'matched' && !candidates.some((c) => c.tmdbId === decision.tmdbId)) {
-    throw new Error(`Match fix for "${row.wikiTitle}" points to missing TMDB id ${decision.tmdbId}`)
+  const missingId = fixIds.find((id) => !candidates.some((c) => c.tmdbId === id))
+  if (missingId !== undefined) {
+    throw new Error(`Match fix for "${row.wikiTitle}" points to missing TMDB id ${missingId}`)
   }
+  const decision = decideMatch(row, { fix, wikidataTmdbIds: wikidataIds, candidates })
   return { row, decision }
 }
 
@@ -165,13 +167,19 @@ export async function runImport(deps: ImportDeps): Promise<ImportOutput> {
   const tmdbIdsByQid = await deps.tmdbIdsForQids(qids)
   const load = createMovieLoader(deps.fetchMovie)
 
-  const results = await Promise.all(
+  const rowResults = await Promise.all(
     rows.map((row) => {
       const qid = qidByTitle.get(row.wikiTitle)
       // Wikidata aynı kimliği iki kez döndürebilir; yinelenen kimlik sahte belirsizlik yaratmasın.
       const wikidataIds = [...new Set((qid && tmdbIdsByQid.get(qid)) || [])]
       return decideRow(row, deps, load, wikidataIds)
     }),
+  )
+  // Seri satırı film başına bir karara açılır; böylece adult ayrımı ve birleştirme kimlik başına işler.
+  const results = rowResults.flatMap(({ row, decision }) =>
+    decision.kind === 'series'
+      ? decision.films.map((film) => ({ row, decision: film }))
+      : [{ row, decision }],
   )
 
   const matchedIds = [

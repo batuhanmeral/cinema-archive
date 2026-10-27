@@ -12,9 +12,15 @@ export const reviewReasonSchema = z.enum([
   'series',
 ])
 
+// Seri satırı: listenin adını verdiği serinin her filmi ayrı kimlikle eşlenir (spec §4.1).
+const seriesIdsSchema = z
+  .array(idSchema)
+  .min(2)
+  .refine((ids) => new Set(ids).size === ids.length, 'series ids must be distinct')
+
 export const matchFixSchema = z.object({
   wikiTitle: z.string(),
-  tmdbId: idSchema.nullable(),
+  tmdbId: z.union([idSchema, seriesIdsSchema]).nullable(),
   note: z.string(),
 })
 export type MatchFix = z.infer<typeof matchFixSchema>

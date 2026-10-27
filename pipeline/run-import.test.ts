@@ -265,6 +265,39 @@ describe('runImport', () => {
     await expect(runImport(deps)).rejects.toThrow(/999/)
   })
 
+  it('turns a series fix into one film per id, merging rows and excluding an adult id', async () => {
+    const series = entry({ wikiTitle: 'Stalker (film series)', year: 1979, yearEnd: 1980 })
+    const movies = new Map([
+      [1398, movie(1398)],
+      [2, movie(2, { title: 'Alien', original_title: 'Alien' })],
+      [3, movie(3, { title: 'Blue Zone', adult: true })],
+    ])
+    const deps = fakeDeps({
+      loadCultList: async () => [entry(), series],
+      fixes: [{ wikiTitle: 'Stalker (film series)', tmdbId: [1398, 2, 3], note: 'series' }],
+      fetchMovie: async (id) => movies.get(id) as TmdbMovie,
+      prevLock: lockedStalker,
+    })
+    const out = await runImport(deps)
+    expect(out.films.map((f) => f.slug)).toEqual(['alien-1979', 'stalker-1979'])
+    expect(out.lock.films).toEqual([
+      { tmdbId: 2, slug: 'alien-1979', sources: ['cult-list'], addedAt: '2026-10-30' },
+      ...lockedStalker.films,
+    ])
+    expect(out.report.added).toEqual([{ tmdbId: 2, slug: 'alien-1979' }])
+    expect(out.report.adultExcluded).toEqual([
+      { wikiTitle: 'Stalker (film series)', tmdbId: 3, title: 'Blue Zone' },
+    ])
+    expect(out.report.counts).toMatchObject({ films: 2, added: 1, adultExcluded: 1, review: 0 })
+  })
+
+  it('throws when one id of a series fix 404s', async () => {
+    const deps = fakeDeps({
+      fixes: [{ wikiTitle: 'Stalker (1979 film)', tmdbId: [1398, 999], note: 'series' }],
+    })
+    await expect(runImport(deps)).rejects.toThrow(/999/)
+  })
+
   it('throws when a locked film 404s', async () => {
     const deps = fakeDeps({
       loadCultList: async () => [],
