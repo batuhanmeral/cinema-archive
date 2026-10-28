@@ -1,7 +1,6 @@
-import { readFile } from 'node:fs/promises'
-import type { z } from 'zod'
 import { awardGroupsFileSchema, themesFileSchema } from '../src/data/schemas'
 import { CACHE_DIR, CONCURRENCY, userAgent } from './config'
+import { readContent } from './content'
 import { loadPipelineEnv } from './env'
 import { createHttpClient } from './lib/http'
 import { matchFixesFileSchema } from './schemas'
@@ -13,20 +12,6 @@ import { readPreviousState, writeImportOutput } from './write-output'
 
 const DATA_DIR = 'data'
 const CONTENT_DIR = 'content'
-
-async function readContent<T>(name: string, schema: z.ZodType<T>): Promise<T> {
-  const path = `${CONTENT_DIR}/${name}`
-  const text = await readFile(path, 'utf8')
-  let json: unknown
-  try {
-    json = JSON.parse(text)
-  } catch {
-    throw new Error(`Invalid JSON in ${path}`)
-  }
-  const parsed = schema.safeParse(json)
-  if (!parsed.success) throw new Error(`Invalid content file ${path}`)
-  return parsed.data
-}
 
 async function main(): Promise<void> {
   const env = loadPipelineEnv(process.env)
@@ -41,9 +26,9 @@ async function main(): Promise<void> {
   const wikipedia = createHttpClient({ ...common, concurrency: CONCURRENCY.wikipedia })
   const wikidata = createHttpClient({ ...common, concurrency: CONCURRENCY.wikidata })
 
-  await readContent('themes.json', themesFileSchema)
-  const awardGroups = await readContent('awards.json', awardGroupsFileSchema)
-  const fixes = await readContent('match-fixes.json', matchFixesFileSchema)
+  await readContent(CONTENT_DIR, 'themes.json', themesFileSchema)
+  const awardGroups = await readContent(CONTENT_DIR, 'awards.json', awardGroupsFileSchema)
+  const fixes = await readContent(CONTENT_DIR, 'match-fixes.json', matchFixesFileSchema)
   const prev = await readPreviousState(DATA_DIR)
   const clock = new Date()
 

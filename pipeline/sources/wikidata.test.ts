@@ -74,6 +74,16 @@ describe('fetchAwardCounts', () => {
     expect((await fetchAwardCounts(http, [1], [cannes])).get(1)).toEqual({ cannes: 1 })
   })
 
+  it('orders award keys by the group order of awards.json, not by response order', async () => {
+    const cannes = { key: 'cannes', tr: 'Cannes', en: 'Cannes', qids: ['Q42369'] }
+    const http = fakeSparql([
+      { tmdb: lit('1'), award: uri('Q2'), group: uri('Q42369') },
+      { tmdb: lit('1'), award: uri('Q1'), group: uri('Q19020') },
+    ])
+    const awards = (await fetchAwardCounts(http, [1], [oscar, cannes])).get(1)
+    expect(Object.keys(awards ?? {})).toEqual(['oscar', 'cannes'])
+  })
+
   it('omits films without whitelisted awards', async () => {
     const http = fakeSparql([])
     expect((await fetchAwardCounts(http, [275], [oscar])).has(275)).toBe(false)

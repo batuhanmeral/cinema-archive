@@ -28,10 +28,29 @@ describe('toFilm', () => {
     expect(film.overview.tr).not.toBeNull()
   })
 
-  it('falls back to the original title when the Turkish title is empty', () => {
+  it('falls back to the English title when the Turkish title is empty and the original is Cyrillic', () => {
     const f = toFilm(withTranslation(movie, 'tr', { title: '', overview: '' }), ctx)
-    expect(f.title.tr).toBe(movie.original_title)
+    expect(movie.original_title).toBe('Сталкер')
+    expect(f.title.tr).toBe('Stalker')
     expect(f.overview.tr).toBeNull()
+  })
+
+  it('falls back to the English title when the original title is Japanese', () => {
+    const m = withTranslation(
+      { ...movie, title: 'Tetsuo: The Iron Man', original_title: '鉄男' },
+      'tr',
+      { title: '', overview: '' },
+    )
+    expect(toFilm(m, ctx).title.tr).toBe('Tetsuo: The Iron Man')
+  })
+
+  it('keeps a Latin original title with diacritics as the Turkish fallback', () => {
+    const m = withTranslation(
+      { ...movie, title: 'Witchcraft Through the Ages', original_title: 'Häxan' },
+      'tr',
+      { title: '', overview: '' },
+    )
+    expect(toFilm(m, ctx).title.tr).toBe('Häxan')
   })
 
   it('prefers the official English YouTube trailer', () =>

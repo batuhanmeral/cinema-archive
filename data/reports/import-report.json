@@ -1,32 +1,15 @@
 {
-  "generatedAt": "2026-10-31T03:38:30.152Z",
+  "generatedAt": "2026-10-31T11:31:50.279Z",
   "counts": {
     "listRows": 2821,
     "films": 2682,
-    "added": 4,
+    "added": 0,
     "missingFromSources": 0,
     "review": 0,
     "adultExcluded": 11,
     "skipped": 7
   },
-  "added": [
-    {
-      "tmdbId": 120,
-      "slug": "the-lord-of-the-rings-the-fellowship-of-the-ring-2001"
-    },
-    {
-      "tmdbId": 121,
-      "slug": "the-lord-of-the-rings-the-two-towers-2002"
-    },
-    {
-      "tmdbId": 122,
-      "slug": "the-lord-of-the-rings-the-return-of-the-king-2003"
-    },
-    {
-      "tmdbId": 319287,
-      "slug": "fantomas-1913"
-    }
-  ],
+  "added": [],
   "missingFromSources": [],
   "review": [],
   "adultExcluded": [

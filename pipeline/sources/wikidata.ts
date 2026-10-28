@@ -94,10 +94,17 @@ export async function fetchAwardCounts(
       awardsByFilm.set(film, byKey)
     }
   }
+  // Anahtarlar awards.json grup sırasıyla yazılır; yanıt sırası değişse de çıktı aynı kalır.
+  const keyOrder = groups.map((group) => group.key)
   return new Map(
     [...awardsByFilm].map(([film, byKey]) => [
       film,
-      Object.fromEntries([...byKey].map(([key, awards]) => [key, awards.size])),
+      Object.fromEntries(
+        keyOrder.flatMap((key) => {
+          const awards = byKey.get(key)
+          return awards ? [[key, awards.size]] : []
+        }),
+      ),
     ]),
   )
 }

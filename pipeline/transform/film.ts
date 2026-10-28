@@ -111,6 +111,8 @@ export function collectPeople(
   return people
 }
 
+const LATIN_LETTER = /\p{Script=Latin}/u
+
 export function toFilm(movie: TmdbMovie, ctx: FilmContext): Film {
   const year = movieYear(movie)
   if (year === null) throw new Error(`TMDB movie ${movie.id} has no valid release date`)
@@ -119,6 +121,8 @@ export function toFilm(movie: TmdbMovie, ctx: FilmContext): Film {
   const originalTitle = movie.original_title.trim() || titleEn
   if (!titleEn) throw new Error(`TMDB movie ${movie.id} has no title`)
   const tr = movie.translations.translations.find((t) => t.iso_639_1 === 'tr')?.data
+  // Türkçe başlık yoksa özgün başlık; Latin harfi yoksa (ör. 鉄男) okunabilir İngilizce başlık.
+  const trFallback = LATIN_LETTER.test(originalTitle) ? originalTitle : titleEn
 
   return {
     tmdbId: movie.id,
@@ -127,7 +131,7 @@ export function toFilm(movie: TmdbMovie, ctx: FilmContext): Film {
     // TMDB bilinmeyen süre için 0 döndürür.
     runtime: movie.runtime ? movie.runtime : null,
     originalTitle,
-    title: { en: titleEn, tr: tr?.title.trim() || originalTitle },
+    title: { en: titleEn, tr: tr?.title.trim() || trFallback },
     overview: { en: movie.overview || null, tr: tr?.overview || null },
     poster: { tr: pickPoster(movie, 'tr'), en: pickPoster(movie, 'en') },
     backdrops: pickBackdrops(movie),

@@ -3,19 +3,12 @@ import { join } from 'node:path'
 import { z } from 'zod'
 import { filmSchema, genresFileSchema, peopleFileSchema, type Person } from '../src/data/schemas'
 import { importReportSchema, keywordStatSchema, type LockFile, lockFileSchema } from './schemas'
+import { parseOrThrow } from './lib/validate'
 import type { ImportOutput } from './run-import'
 
 const keywordsFileSchema = z.array(keywordStatSchema)
 
 type Part = { path: string; data: unknown }
-
-function parseOrThrow(schema: z.ZodType, path: string, data: unknown): void {
-  const result = schema.safeParse(data)
-  if (result.success) return
-  // Yalnızca alan yolları yazılır; veri değerleri hata çıktısına girmez.
-  const fields = [...new Set(result.error.issues.map((i) => i.path.join('.') || '(root)'))]
-  throw new Error(`Invalid data in ${path}: ${fields.join(', ')}`)
-}
 
 function buildParts(output: ImportOutput): Part[] {
   const slugs = new Set<string>()
