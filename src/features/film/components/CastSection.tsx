@@ -33,7 +33,7 @@ function PersonTile({ person }: { person: PersonCard }) {
         </div>
       )}
       {/* Kırpma bağlantının kendisinde: kapsayıcıdaki overflow odak çizgisini keserdi. */}
-      <p className="mt-2 text-xs font-semibold md:mt-2.5 md:text-[13px]">
+      <p className="mt-2 text-xs font-semibold md:mt-3 md:text-[13px]">
         {person.href ? (
           // Kişi sayfaları M5'e kadar yok; ön yükleme 404 gürültüsü üretmesin.
           <Link

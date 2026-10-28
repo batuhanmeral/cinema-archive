@@ -2,7 +2,8 @@ import type { AwardGroup, CrewJob, Film, Genre, Person, Theme } from '@/data/sch
 import { countryName, languageName } from '@/lib/i18n/display-names'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
-import { archiveHref, personHref } from '@/lib/i18n/routes'
+import { archiveHref, filmHref, personHref } from '@/lib/i18n/routes'
+import type { SimilarFilm } from './similar'
 
 export type LinkItem = { text: string; href?: string }
 
@@ -12,6 +13,15 @@ export type IndexKey =
 export type IndexRow = { key: IndexKey; label: string; items: LinkItem[] }
 
 export type PersonCard = { name: string; role: string; profilePath: string | null; href?: string }
+
+export type SimilarCard = {
+  slug: string
+  href: string
+  posterPath: string | null
+  title: string
+  caption: string
+  note: string
+}
 
 export type FilmViewContext = {
   people: Map<number, Person>
@@ -157,4 +167,26 @@ export function buildFilmView(film: Film, locale: Locale, ctx: FilmViewContext):
     stills: film.backdrops,
     trailerKey: film.trailerKey,
   }
+}
+
+function similarCaption(film: Film, people: Map<number, Person>): string {
+  const director = film.crew.find((member) => member.job === 'director')
+  const name = director && people.get(director.personId)?.name
+  return name ? `${name}, ${film.year}` : String(film.year)
+}
+
+export function buildSimilarCards(
+  items: SimilarFilm[],
+  locale: Locale,
+  people: Map<number, Person>,
+): SimilarCard[] {
+  const reasons = messages[locale].film.similarReason
+  return items.map(({ film, reason }) => ({
+    slug: film.slug,
+    href: filmHref(locale, film.slug),
+    posterPath: film.poster[locale],
+    title: film.title[locale],
+    caption: similarCaption(film, people),
+    note: reasons[reason],
+  }))
 }

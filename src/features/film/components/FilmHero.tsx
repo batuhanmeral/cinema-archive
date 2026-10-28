@@ -18,7 +18,7 @@ export function FilmHero({ view }: { view: FilmView; locale: Locale }) {
             fill
             preload
             sizes={POSTER_SIZES}
-            className="scale-108 object-cover blur-[5px]"
+            className="scale-108 object-cover blur-[5px] brightness-(--hero-poster-brightness)"
           />
         )}
         <div className="absolute inset-0 bg-hall/72" />
@@ -31,17 +31,22 @@ export function FilmHero({ view }: { view: FilmView; locale: Locale }) {
             {view.title}
           </h1>
           {view.originalTitle && (
-            <p className="mt-2.5 text-xl text-muted wrap-break-word">{view.originalTitle}</p>
+            <p className="mt-3 text-xl text-muted wrap-break-word">{view.originalTitle}</p>
           )}
           {view.tags.length > 0 && (
             <ul
               data-testid="film-tags"
-              className="mt-3.5 flex max-w-[60ch] flex-wrap gap-y-2 text-sm"
+              className="mt-4 flex max-w-[60ch] flex-wrap gap-y-2 text-sm"
             >
               {view.tags.map((tag) => (
-                <li key={tag.href ?? tag.text} className="mr-3.5">
+                <li key={tag.href ?? tag.text} className="mr-4">
                   {tag.href ? (
-                    <Link href={tag.href} className="border-b border-accent text-accent">
+                    // Arşiv sayfası M4'te gelir; o zamana kadar ön yükleme 404 üretir.
+                    <Link
+                      href={tag.href}
+                      prefetch={false}
+                      className="border-b border-accent text-accent"
+                    >
                       {tag.text}
                     </Link>
                   ) : (
@@ -52,7 +57,7 @@ export function FilmHero({ view }: { view: FilmView; locale: Locale }) {
             </ul>
           )}
           {view.overview && (
-            <p data-testid="film-overview" className="mt-5.5 max-w-[58ch] leading-[1.65]">
+            <p data-testid="film-overview" className="mt-6 max-w-[58ch] leading-[1.65]">
               {view.overview}
             </p>
           )}

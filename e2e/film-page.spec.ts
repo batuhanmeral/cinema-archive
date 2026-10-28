@@ -1,4 +1,4 @@
-import { expect, type Locator, test } from '@playwright/test'
+import { expect, type Locator, type Page, test } from '@playwright/test'
 import { readdirSync, readFileSync } from 'node:fs'
 import path from 'node:path'
 import { lockFileSchema } from '../pipeline/schemas'
@@ -150,6 +150,46 @@ test('keyboard focus stays on the rail after its last page', async ({ page }, te
   expect(await page.evaluate(() => document.activeElement?.tagName)).not.toBe('BODY')
 })
 
+function slugWithStills(count: number): string {
+  const found = allFilms().find((item) => item.backdrops.length === count)
+  if (!found) throw new Error(`No film with exactly ${count} stills`)
+  return found.slug
+}
+
+async function stillsLayout(page: Page, route: string) {
+  await page.goto(route)
+  const grid = page
+    .locator('section', { has: page.getByRole('heading', { name: 'Fragman ve kareler' }) })
+    .locator('h2 + div')
+  const box = async (locator: Locator) => {
+    const found = await locator.boundingBox()
+    if (!found) throw new Error(`${route}: stills tile has no box`)
+    return found
+  }
+  return {
+    grid: await box(grid),
+    tiles: await Promise.all((await grid.locator(':scope > div').all()).map(box)),
+  }
+}
+
+test('stills leave no empty column in the trailer section', async ({ page }, testInfo) => {
+  const desktop = testInfo.project.name === 'desktop'
+  const one = await stillsLayout(page, `/film/${slugWithStills(1)}`)
+  const [only] = one.tiles
+  expect(one.tiles).toHaveLength(1)
+  expect(only?.width).toBeCloseTo(one.grid.width, 0)
+
+  const two = await stillsLayout(page, `/film/${slugWithStills(2)}`)
+  const [main, side] = two.tiles
+  if (!main || !side) throw new Error(`Expected 2 stills tiles, got ${two.tiles.length}`)
+  if (desktop) {
+    expect(side.height).toBeCloseTo(main.height, 0)
+    expect(side.x + side.width).toBeCloseTo(two.grid.x + two.grid.width, 0)
+  } else {
+    expect(side.width).toBeCloseTo(two.grid.width, 0)
+  }
+})
+
 test('the film page works under the production headers without CSP violations', async ({
   page,
 }) => {
@@ -159,10 +199,40 @@ test('the film page works under the production headers without CSP violations', 
   })
   const response = await page.goto(`/film/${slug}`)
   expect(response?.headers()['content-security-policy']).toContain("frame-ancestors 'none'")
+  // Stalker'ın fragmanı var; düğme her koşulda görünmeli.
   const play = page.getByRole('button', { name: 'Fragmanı oynat' })
-  if (await play.count()) {
-    await play.click()
-    await expect(page.locator('iframe')).toBeVisible()
-  }
+  await expect(play).toBeVisible()
+  await play.click()
+  await expect(page.locator('iframe')).toBeVisible()
   expect(violations).toEqual([])
+})
+
+test('a film page view requests no missing pages', async ({ page }) => {
+  const missing: string[] = []
+  page.on('response', (response) => {
+    if (response.status() === 404) missing.push(response.url())
+  })
+  await page.goto(`/film/${slug}`)
+  // Next.js bağlantıları görünür olunca ön yükler; sayfa ekran ekran sonuna kadar inilir.
+  const height = await page.evaluate(() => document.documentElement.scrollHeight)
+  const step = page.viewportSize()?.height ?? height
+  for (let y = 0; y <= height; y += step) {
+    await page.evaluate((top) => window.scrollTo(0, top), y)
+    await page.waitForTimeout(100)
+  }
+  // Ön yükleme istekleri boşta beklemeyle başlar; yanıtları gelsin diye kısa süre beklenir.
+  await page.waitForTimeout(1000)
+  expect(missing).toEqual([])
+})
+
+test('the 404 page marks its English text and shows both TMDB notices', async ({ page }) => {
+  const response = await page.goto('/film/no-such-film-0000')
+  expect(response?.status()).toBe(404)
+  await expect(page.locator('[lang="en"]').getByText('Page not found')).toBeVisible()
+  await expect(
+    page.locator('p[lang="tr"]').getByText("Bu site TMDB API'sini kullanır"),
+  ).toBeVisible()
+  await expect(
+    page.locator('p[lang="en"]').getByText('This product uses the TMDB API'),
+  ).toBeVisible()
 })

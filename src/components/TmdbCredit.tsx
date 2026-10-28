@@ -6,7 +6,8 @@ import { messages } from '@/lib/i18n/messages'
 const LOGO_WIDTH = 108
 const LOGO_HEIGHT = 14
 
-export function TmdbCredit({ locale }: { locale: Locale }) {
+// Dili belli olmayan sayfada (404) iki dil birlikte verilir; her satır kendi lang'ini taşır.
+export function TmdbCredit({ locales }: { locales: readonly Locale[] }) {
   return (
     <div className="wrap mt-(--section-gap) flex items-center gap-4 border-t border-line pt-5 pb-6 text-xs text-muted">
       {/* unoptimized: yerel dosya TMDB görsel yükleyicisinden geçmemeli. */}
@@ -18,7 +19,13 @@ export function TmdbCredit({ locale }: { locale: Locale }) {
         unoptimized
         className="flex-none"
       />
-      <p>{messages[locale].credit}</p>
+      <div>
+        {locales.map((locale) => (
+          <p key={locale} lang={locale}>
+            {messages[locale].credit}
+          </p>
+        ))}
+      </div>
     </div>
   )
 }

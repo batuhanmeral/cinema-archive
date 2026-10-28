@@ -44,8 +44,10 @@ export function Navbar({ locale, overHero }: { locale: Locale; overHero: boolean
       } ${hidden ? '-translate-y-full focus-within:translate-y-0' : 'translate-y-0'}`}
     >
       <nav className="wrap flex h-full items-center justify-between">
+        {/* Ana sayfa M2'de gelir; o zamana kadar ön yükleme 404 üretir. */}
         <Link
           href={homeHref(locale)}
+          prefetch={false}
           className="font-display text-2xl leading-none font-extrabold transition-colors duration-150 hover:text-accent"
         >
           Sinema Arşivi<span className="sr-only"> – {messages[locale].nav.home}</span>

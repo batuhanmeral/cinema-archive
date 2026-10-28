@@ -4,6 +4,7 @@ import type { Film } from '@/data/schemas'
 import {
   CREW_ROW_LIMIT,
   buildFilmView,
+  buildSimilarCards,
   type FilmView,
   type FilmViewContext,
   type IndexKey,
@@ -215,5 +216,28 @@ describe('buildFilmView', () => {
     expect(view.posterPath).toBe('/stalker-en.jpg')
     expect(view.stills).toEqual(['/stalker-backdrop.jpg'])
     expect(view.trailerKey).toBe('abc')
+  })
+})
+
+describe('buildSimilarCards', () => {
+  it('captions a card with the director and year and notes the reason', () => {
+    const film = makeFilm({ crew: [{ personId: 8452, job: 'director' }] })
+    expect(buildSimilarCards([{ film, reason: 'same-director' }], 'en', ctx.people)).toEqual([
+      {
+        slug: film.slug,
+        href: `/en/film/${film.slug}`,
+        posterPath: film.poster.en,
+        title: film.title.en,
+        caption: 'Andrei Tarkovsky, 1979',
+        note: 'Same director',
+      },
+    ])
+  })
+
+  it('captions only the year when the director is unknown', () => {
+    const film = makeFilm({ crew: [{ personId: 999, job: 'director' }] })
+    const [card] = buildSimilarCards([{ film, reason: 'shared-tag' }], 'tr', ctx.people)
+    expect(card?.caption).toBe('1979')
+    expect(card?.note).toBe('Ortak etiket')
   })
 })

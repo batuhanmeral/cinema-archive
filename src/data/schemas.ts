@@ -1,6 +1,8 @@
 import { z } from 'zod'
 
 export const SLUG_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/
+// Yalnızca düz YouTube kimliği; gömme URL'sine yol ya da sorgu sızamaz.
+export const TRAILER_KEY_PATTERN = /^[A-Za-z0-9_-]{1,64}$/
 
 export const tmdbPathSchema = z.string().regex(/^\/[A-Za-z0-9_-]+\.(jpg|png|svg)$/)
 
@@ -22,7 +24,7 @@ export const filmSchema = z.object({
   overview: z.object({ tr: nonEmptySchema.nullable(), en: nonEmptySchema.nullable() }),
   poster: z.object({ tr: tmdbPathSchema.nullable(), en: tmdbPathSchema.nullable() }),
   backdrops: z.array(tmdbPathSchema),
-  trailerKey: z.string().nullable(),
+  trailerKey: z.string().regex(TRAILER_KEY_PATTERN).nullable(),
   genreIds: z.array(z.number().int()),
   keywordIds: z.array(z.number().int()),
   countries: z.array(z.string().regex(/^[A-Z]{2}$/)),

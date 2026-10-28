@@ -7,9 +7,13 @@ export default function GlobalNotFound() {
     <html lang="tr" className={fontVariables} data-scroll-behavior="smooth">
       <body className="bg-hall font-body text-text">
         <h1>Sayfa bulunamadı</h1>
-        <p>Page not found</p>
-        <a href="/">Ana sayfa</a> <a href="/en">Home</a>
-        <TmdbCredit locale="tr" />
+        <p lang="en">Page not found</p>
+        <a href="/">Ana sayfa</a>{' '}
+        <a href="/en" lang="en">
+          Home
+        </a>
+        {/* Sayfanın dili belli değil; TMDB notu iki dilde. */}
+        <TmdbCredit locales={['tr', 'en']} />
       </body>
     </html>
   )

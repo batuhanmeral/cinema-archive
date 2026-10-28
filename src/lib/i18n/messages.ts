@@ -1,3 +1,4 @@
+import type { SimilarReason } from '@/features/film/similar'
 import type { Locale } from './locale'
 
 type FilmIndexKey =
@@ -14,8 +15,6 @@ type FilmIndexKey =
   | 'producer'
   | 'cinematographer'
   | 'composer'
-
-type SimilarReason = 'same-director' | 'shared-tag' | 'genre-decade'
 
 export type Messages = {
   credit: string

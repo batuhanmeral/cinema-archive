@@ -32,12 +32,12 @@ export function PosterCard({
       {/* Bağlantı adı yalnızca başlık; ::after tüm kartı tıklanabilir yapar. */}
       <Link
         href={href}
-        className="mt-2 block truncate text-xs font-semibold transition-colors duration-150 group-hover:text-accent after:absolute after:inset-0 md:mt-2.5 md:text-[13px]"
+        className="mt-2 block truncate text-xs font-semibold transition-colors duration-150 group-hover:text-accent after:absolute after:inset-0 md:mt-3 md:text-[13px]"
       >
         {title}
       </Link>
       {caption && <p className="truncate text-[11px] text-muted md:text-xs">{caption}</p>}
-      {note && <p className="mt-0.5 truncate text-[11px] text-accent md:text-xs">{note}</p>}
+      {note && <p className="mt-1 truncate text-[11px] text-accent md:text-xs">{note}</p>}
     </div>
   )
 }

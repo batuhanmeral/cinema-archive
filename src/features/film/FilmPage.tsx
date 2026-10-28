@@ -8,7 +8,7 @@ import { FilmHero } from './components/FilmHero'
 import { SimilarFilms } from './components/SimilarFilms'
 import { TrailerAndStills } from './components/TrailerAndStills'
 import { findSimilarFilms } from './similar'
-import { buildFilmView } from './view-model'
+import { buildFilmView, buildSimilarCards } from './view-model'
 
 export async function FilmPage({ slug, locale }: { slug: string; locale: Locale }) {
   const film = store.filmBySlug(slug)
@@ -20,15 +20,19 @@ export async function FilmPage({ slug, locale }: { slug: string; locale: Locale 
     themes: store.themes(),
     awardGroups: store.awardGroups(),
   })
-  const similar = findSimilarFilms(film, store.films(), new Set(store.themes().keys()))
+  const similar = buildSimilarCards(
+    findSimilarFilms(film, store.films(), new Set(store.themes().keys())),
+    locale,
+    store.people(),
+  )
 
   return (
     <main>
       <FilmHero view={view} locale={locale} />
       <TrailerAndStills view={view} locale={locale} />
       <CastSection directors={view.directors} cast={view.cast} locale={locale} />
-      <SimilarFilms items={similar} locale={locale} />
-      <TmdbCredit locale={locale} />
+      <SimilarFilms cards={similar} locale={locale} />
+      <TmdbCredit locales={[locale]} />
     </main>
   )
 }

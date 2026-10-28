@@ -19,6 +19,12 @@
   --side: 48px;
 }
 
+:root {
+  /* Beyaz afiş alanı 128'e iner, %72 hall örtüsüyle zemin ≈ #373735 olur:
+     muted 4.74:1, accent 5.57:1 (WCAG AA ≥ 4.5). */
+  --hero-poster-brightness: 0.5;
+}
+
 @media (width < 768px) {
   :root {
     --section-gap: 56px;
