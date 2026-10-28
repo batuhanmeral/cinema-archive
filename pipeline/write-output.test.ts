@@ -65,6 +65,45 @@ describe('writeImportOutput', () => {
     expect(await readdir(join(dir, 'reports'))).toEqual(['import-report.json', 'keywords.json'])
   })
 
+  it('removes the film file of a locked film the next run excludes as adult', async () => {
+    const dir = await tempDir()
+    const alien = makeFilm({ tmdbId: 348, slug: 'alien-1979' })
+    const lock = {
+      version: 1 as const,
+      films: [
+        { tmdbId: 348, slug: 'alien-1979', sources: ['cult-list'], addedAt: '2026-10-30' },
+        { tmdbId: 1398, slug: 'stalker-1979', sources: ['cult-list'], addedAt: '2026-10-30' },
+      ],
+    }
+    await writeImportOutput(dir, validOutput({ films: [alien, makeFilm()], lock }))
+    await writeFile(join(dir, 'films', 'notes.txt'), 'kept')
+
+    // İkinci koşu: TMDB Stalker'ı adult işaretledi; kilit girdisi kalır, film yayından çıkar.
+    const report = validOutput().report
+    const adultExcluded = [{ wikiTitle: 'Stalker (film)', tmdbId: 1398, title: 'Stalker' }]
+    await writeImportOutput(
+      dir,
+      validOutput({ films: [alien], lock, report: { ...report, adultExcluded } }),
+    )
+
+    expect((await readdir(join(dir, 'films'))).sort()).toEqual(['alien-1979.json', 'notes.txt'])
+    expect(JSON.parse(await readFile(join(dir, 'lock.json'), 'utf8'))).toEqual(lock)
+    expect(await readdir(join(dir, 'reports'))).toEqual(['import-report.json', 'keywords.json'])
+  })
+
+  it('refuses to remove film files that are not excluded as adult and writes nothing', async () => {
+    const dir = await tempDir()
+    await writeImportOutput(dir, validOutput())
+    const peopleBefore = await readFile(join(dir, 'people.json'), 'utf8')
+
+    // Boş film listesi (ör. ileride bir hata) yayındaki her film dosyasını silmemeli.
+    const output = validOutput({ films: [], people: [] })
+    await expect(writeImportOutput(dir, output)).rejects.toThrow(/stalker-1979\.json/)
+
+    expect(await readdir(join(dir, 'films'))).toEqual(['stalker-1979.json'])
+    expect(await readFile(join(dir, 'people.json'), 'utf8')).toBe(peopleBefore)
+  })
+
   it('round-trips through readPreviousState', async () => {
     const dir = await tempDir()
     const output = validOutput()

@@ -1,4 +1,4 @@
-import { mkdir, readFile, writeFile } from 'node:fs/promises'
+import { mkdir, readFile, readdir, rm, writeFile } from 'node:fs/promises'
 import { join } from 'node:path'
 import { z } from 'zod'
 import { filmSchema, genresFileSchema, peopleFileSchema, type Person } from '../src/data/schemas'
@@ -42,19 +42,44 @@ function buildParts(output: ImportOutput): Part[] {
   return parts
 }
 
+const writeJson = (dataDir: string, { path, data }: Part) =>
+  writeFile(join(dataDir, path), `${JSON.stringify(data, null, 2)}\n`)
+
+async function listFilmFiles(dataDir: string): Promise<string[]> {
+  try {
+    return (await readdir(join(dataDir, 'films'))).filter((name) => name.endsWith('.json'))
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code === 'ENOENT') return []
+    throw error
+  }
+}
+
+// Sonradan adult işaretlenen kilitli filmin eski dosyası silinmeli; site films/ klasöründeki
+// her dosyayı yayınlar. Başka bir dosya silinecekse bu bir hatadır, hiçbir şey yazılmaz.
+async function findStaleFilms(dataDir: string, output: ImportOutput): Promise<string[]> {
+  const current = new Set(output.films.map((film) => `${film.slug}.json`))
+  const adultIds = new Set(output.report.adultExcluded.map((entry) => entry.tmdbId))
+  const removable = new Set(
+    output.lock.films.filter((entry) => adultIds.has(entry.tmdbId)).map((e) => `${e.slug}.json`),
+  )
+  const stale = (await listFilmFiles(dataDir)).filter((name) => !current.has(name))
+  const unexpected = stale.filter((name) => !removable.has(name))
+  if (unexpected.length > 0) {
+    throw new Error(`Refusing to remove film files not excluded as adult: ${unexpected.join(', ')}`)
+  }
+  return stale
+}
+
 // Önce her parça doğrulanır; tek hata bile diske hiçbir şey yazılmamasını sağlar.
 export async function writeImportOutput(dataDir: string, output: ImportOutput): Promise<void> {
   const parts = buildParts(output)
+  const stale = await findStaleFilms(dataDir, output)
   await mkdir(join(dataDir, 'films'), { recursive: true })
   await mkdir(join(dataDir, 'reports'), { recursive: true })
+  for (const part of parts.filter((p) => p.path !== 'lock.json')) await writeJson(dataDir, part)
+  for (const name of stale) await rm(join(dataDir, 'films', name))
   // lock.json en sonda yazılır; yarım kalan yazım eski kilidi bozmaz.
-  const ordered = [
-    ...parts.filter((p) => p.path !== 'lock.json'),
-    ...parts.filter((p) => p.path === 'lock.json'),
-  ]
-  for (const { path, data } of ordered) {
-    await writeFile(join(dataDir, path), `${JSON.stringify(data, null, 2)}\n`)
-  }
+  for (const part of parts.filter((p) => p.path === 'lock.json')) await writeJson(dataDir, part)
 }
 
 async function readJsonIfExists(dataDir: string, name: string, schema: z.ZodType) {
