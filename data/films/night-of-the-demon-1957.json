@@ -1,0 +1,204 @@
+{
+  "tmdbId": 25103,
+  "slug": "night-of-the-demon-1957",
+  "year": 1957,
+  "runtime": 96,
+  "originalTitle": "Night of the Demon",
+  "title": {
+    "en": "Night of the Demon",
+    "tr": "Night of the Demon"
+  },
+  "overview": {
+    "en": "American professor John Holden arrives in London for a conference on parapsychology only to discover that the colleague he was supposed to meet was killed in a freak accident the day before. It turns out that the deceased had been investigating a cult lead by Dr. Julian Karswell. Though a skeptic, Holden is suspicious of the devil-worshiping Karswell. Following a trail of mysterious manuscripts, Holden enters a world that makes him question his faith in science.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/uy3wfu0fXi72R5AypMmV22wS1UN.jpg",
+    "en": "/7VnwPylFw3prF7B62t5EpTeXWRj.jpg"
+  },
+  "backdrops": [
+    "/3k7GViJ1WN16Py3a7hccE2o4muz.jpg",
+    "/63BiKcpXpEbpUcTWlZe5vronU9E.jpg",
+    "/bUFWLSQsSYdyy4eohp4iBBnOV1s.jpg",
+    "/jnQiXKHIbEP9XaWRwTVl6SmNN3r.jpg",
+    "/r0DOggQnMcyYPEnaHgYZ3BAxnUV.jpg",
+    "/ndWAqnYhIbPljRTR88haAyzLWCw.jpg",
+    "/4EaVEkeaN6Ce9e114FMnPZ8GVJD.jpg",
+    "/rwvNFf3SQwFkgAkDvxa3ROnMgkt.jpg",
+    "/xAfBneA2cm58HqNp6O1SKmCAQhD.jpg",
+    "/bixI4hcQjdcEQpMwGq5G6XrOkMl.jpg"
+  ],
+  "trailerKey": "-rwfiJpyFrI",
+  "genreIds": [
+    14,
+    27,
+    9648
+  ],
+  "keywordIds": [
+    392,
+    1992,
+    5340,
+    5160,
+    4252,
+    11268,
+    12999,
+    13040,
+    15001,
+    40931,
+    156167,
+    156174,
+    156835,
+    163055,
+    163186,
+    181914,
+    189248,
+    207031,
+    209568,
+    223036,
+    224618,
+    237238,
+    251513
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Sabre Film Productions Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 59832,
+      "job": "writer"
+    },
+    {
+      "personId": 10146,
+      "job": "director"
+    },
+    {
+      "personId": 3599,
+      "job": "writer"
+    },
+    {
+      "personId": 123775,
+      "job": "producer"
+    },
+    {
+      "personId": 21783,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 52219,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13578,
+      "character": "Dr. John Holden",
+      "order": 0
+    },
+    {
+      "personId": 86001,
+      "character": "Joanna Harrington",
+      "order": 1
+    },
+    {
+      "personId": 93163,
+      "character": "Dr. Julian Karswell",
+      "order": 2
+    },
+    {
+      "personId": 39952,
+      "character": "Professor Henry Harrington",
+      "order": 3
+    },
+    {
+      "personId": 39000,
+      "character": "Mrs. Karswell",
+      "order": 4
+    },
+    {
+      "personId": 83827,
+      "character": "Professor Mark O'Brien",
+      "order": 5
+    },
+    {
+      "personId": 93164,
+      "character": "Mr. Meek",
+      "order": 6
+    },
+    {
+      "personId": 93165,
+      "character": "Lloyd Williamson",
+      "order": 7
+    },
+    {
+      "personId": 93166,
+      "character": "Professor K.T. Kumar",
+      "order": 8
+    },
+    {
+      "personId": 93167,
+      "character": "Mrs. Meek",
+      "order": 9
+    },
+    {
+      "personId": 49998,
+      "character": "Rand Hobart",
+      "order": 10
+    },
+    {
+      "personId": 93169,
+      "character": "Inspector Mottrarn",
+      "order": 11
+    },
+    {
+      "personId": 93170,
+      "character": "Detective Simmons",
+      "order": 12
+    },
+    {
+      "personId": 93171,
+      "character": "Superintendent",
+      "order": 13
+    },
+    {
+      "personId": 93172,
+      "character": "Chemist",
+      "order": 14
+    },
+    {
+      "personId": 47017,
+      "character": "Librarian",
+      "order": 15
+    },
+    {
+      "personId": 93173,
+      "character": "Mrs. Hobart",
+      "order": 16
+    },
+    {
+      "personId": 33220,
+      "character": "Farmer",
+      "order": 17
+    },
+    {
+      "personId": 93174,
+      "character": "Air Hostess",
+      "order": 18
+    },
+    {
+      "personId": 1700482,
+      "character": "Hobart's Brother",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 328,
+  "sources": [
+    "cult-list"
+  ]
+}

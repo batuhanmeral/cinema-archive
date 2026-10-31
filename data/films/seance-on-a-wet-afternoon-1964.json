@@ -1,0 +1,189 @@
+{
+  "tmdbId": 3092,
+  "slug": "seance-on-a-wet-afternoon-1964",
+  "year": 1964,
+  "runtime": 116,
+  "originalTitle": "Seance on a Wet Afternoon",
+  "title": {
+    "en": "Seance on a Wet Afternoon",
+    "tr": "Seance on a Wet Afternoon"
+  },
+  "overview": {
+    "en": "Working-class British housewife Myra Savage reinvents herself as a medium, holding seances in the sitting room of her home with the hidden assistance of her under-employed, asthmatic husband, Billy. In an attempt to enhance her credibility as a psychic, Myra hatches an elaborate, ill-conceived plot to kidnap a wealthy couple's young daughter so that she can then help the police \"find\" the missing girl.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dHu7nuNwXTXoPdpNOEPKhHfCBk5.jpg",
+    "en": "/AGzDlxX7eXBiCkvGtAAirAVtUA.jpg"
+  },
+  "backdrops": [
+    "/dL6mCcUsymN2nD2PuzgxRreJ4Hr.jpg",
+    "/bGXaffbdbYqwV4mkVUA4y6F6qdf.jpg",
+    "/pu7B1ctVDOLqnMRqrqzlpl3CCz9.jpg"
+  ],
+  "trailerKey": "oLrtv6YfyVE",
+  "genreIds": [
+    80,
+    53,
+    18
+  ],
+  "keywordIds": [
+    212,
+    1157,
+    818,
+    1336,
+    1930,
+    2723,
+    11935,
+    12999,
+    41329,
+    156174,
+    163186,
+    222805,
+    241737,
+    282261
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Allied Film Makers",
+    "Beaver Films"
+  ],
+  "crew": [
+    {
+      "personId": 31439,
+      "job": "director"
+    },
+    {
+      "personId": 31439,
+      "job": "writer"
+    },
+    {
+      "personId": 4786,
+      "job": "producer"
+    },
+    {
+      "personId": 31439,
+      "job": "producer"
+    },
+    {
+      "personId": 2289,
+      "job": "composer"
+    },
+    {
+      "personId": 31523,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 31440,
+      "character": "Myra",
+      "order": 0
+    },
+    {
+      "personId": 4786,
+      "character": "Bill",
+      "order": 1
+    },
+    {
+      "personId": 228813,
+      "character": "Woman at first Seance",
+      "order": 2
+    },
+    {
+      "personId": 101855,
+      "character": "Woman at first Seance",
+      "order": 3
+    },
+    {
+      "personId": 1002235,
+      "character": "Woman at first Seance",
+      "order": 4
+    },
+    {
+      "personId": 1002218,
+      "character": "Man at Seances",
+      "order": 5
+    },
+    {
+      "personId": 31525,
+      "character": "Mrs. Wintry",
+      "order": 6
+    },
+    {
+      "personId": 108642,
+      "character": "Mrs. Clayton's Chauffeur",
+      "order": 7
+    },
+    {
+      "personId": 31526,
+      "character": "Amanda",
+      "order": 8
+    },
+    {
+      "personId": 153148,
+      "character": "Policeman outside Clayton's",
+      "order": 9
+    },
+    {
+      "personId": 1002183,
+      "character": "Maid at Clayton's",
+      "order": 10
+    },
+    {
+      "personId": 14017,
+      "character": "Mr. Clayton",
+      "order": 11
+    },
+    {
+      "personId": 71733,
+      "character": "Mrs. Clayton",
+      "order": 12
+    },
+    {
+      "personId": 1538451,
+      "character": "Mr. Clayton's Secretary",
+      "order": 13
+    },
+    {
+      "personId": 299082,
+      "character": "Bus Conductor",
+      "order": 14
+    },
+    {
+      "personId": 91663,
+      "character": "Beedle",
+      "order": 15
+    },
+    {
+      "personId": 229645,
+      "character": "Man in Trilby",
+      "order": 16
+    },
+    {
+      "personId": 1538452,
+      "character": "Woman at Second Seance",
+      "order": 17
+    },
+    {
+      "personId": 1538453,
+      "character": "Plain Clothes Policeman",
+      "order": 18
+    },
+    {
+      "personId": 2264,
+      "character": "Walsh",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 122,
+  "sources": [
+    "cult-list"
+  ]
+}

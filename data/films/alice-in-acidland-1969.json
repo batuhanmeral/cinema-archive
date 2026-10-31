@@ -1,0 +1,101 @@
+{
+  "tmdbId": 35749,
+  "slug": "alice-in-acidland-1969",
+  "year": 1969,
+  "runtime": 55,
+  "originalTitle": "Alice in Acidland",
+  "title": {
+    "en": "Alice in Acidland",
+    "tr": "Alice in Acidland"
+  },
+  "overview": {
+    "en": "Cute and perky college student Alice is invited to a \"pool party\" by Freida, a female teacher who is actually a lesbian and has designs on Alice. At the party Alice gets drunk, takes acid and immediately becomes a lesbian, taking a bath with Freida. Later Alice gets mixed up with LSD-addicted hippies, rape, more lesbians, more LSD, orgies, suicide, and having sex with guys in boxers.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/7pIlWirIQM2iakBJEVh3mqvlINi.jpg",
+    "en": "/7pIlWirIQM2iakBJEVh3mqvlINi.jpg"
+  },
+  "backdrops": [
+    "/yBekWTSiCrGm9cXOPjNmXZ0gohT.jpg",
+    "/oeuo2El7aLaEgO3gKKleDZgSgTf.jpg",
+    "/ZYedLOUw31fNXkJpbTOvME7MKZ.jpg",
+    "/8Cc9QHaEFiri0ERRGvWSxBvdRDk.jpg",
+    "/f41OAKtdGEigjKKnvtmFbxOXQEx.jpg",
+    "/i31Z33bb4vnerRROaay1D1B9F6S.jpg",
+    "/qy1bcP4EfJmwJYA0JwgqIdY9ozk.jpg",
+    "/23NxjPCRgT4Y2YEA5a52bysCSD5.jpg",
+    "/ehIhgybidGnP5FPVdemBL1nsvF1.jpg",
+    "/308TchJDU037ngZTlNuUwA1HIWo.jpg"
+  ],
+  "trailerKey": "im2t21oWmXs",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    726,
+    1664,
+    5498,
+    3298,
+    14964,
+    207844,
+    225840,
+    264386,
+    317691
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Unit Ten Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1423317,
+      "job": "writer"
+    },
+    {
+      "personId": 100157,
+      "job": "director"
+    },
+    {
+      "personId": 100157,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 100157,
+      "character": "Narrator",
+      "order": 0
+    },
+    {
+      "personId": 1423321,
+      "character": "Alice Trenton",
+      "order": 1
+    },
+    {
+      "personId": 45633,
+      "character": "Frieda Hamilton",
+      "order": 2
+    },
+    {
+      "personId": 101426,
+      "character": "Bob Fletcher aka Animal",
+      "order": 3
+    },
+    {
+      "personId": 1093269,
+      "character": "Kathy Wilson",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 27,
+  "sources": [
+    "cult-list"
+  ]
+}

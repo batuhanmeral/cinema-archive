@@ -1,0 +1,215 @@
+{
+  "tmdbId": 429,
+  "slug": "the-good-the-bad-and-the-ugly-1966",
+  "year": 1966,
+  "runtime": 161,
+  "originalTitle": "Il buono, il brutto, il cattivo",
+  "title": {
+    "en": "The Good, the Bad and the Ugly",
+    "tr": "İyi, Kötü ve Çirkin"
+  },
+  "overview": {
+    "en": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+    "tr": "Ortak bir hedefe doğru değişik nedenlerle yol almakta olan üç silah arkadaşı aslında kader açısından yolları kesişmiş insanlardır. İsimleri İyi, Kötü ve Çirkin olan bu kişiler için o dönemdeki Amerikan İç Savaşı bir araçtır. İyi ile Çirkin’in risk barındıran ancak iyi para getiren işleri mevcuttur. Çirkin, aranan azılı bir suçlu olduğu için İyi onu adalete teslim edip önce ödülünü alıyor sonra da darağacından riskli bir metot ile kurtarıp bir sonraki işe kadar sağ kalmasını sağlamaktadır. Bir gün gizli bir hazinenin ortaya çıkmasıyla ikilinin araları bozulur. Onlar birbirleriyle didişirken ortaya üçüncü bir hazine avcısı çıkar; o da Kötü adındaki kişidir. Artık her şeyin başka türlü yaşanma zamanıdır..."
+  },
+  "poster": {
+    "tr": "/c7xlVD3VVn5skrhvy03NbNx5FhR.jpg",
+    "en": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg"
+  },
+  "backdrops": [
+    "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+    "/xnFmcq40R0umHHLXTpvOW5GTdMh.jpg",
+    "/eoCSp75lxatmIa6aGqfnzwtbttd.jpg",
+    "/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg",
+    "/1IBOXagfmwTvhb8prIfRvt89ePs.jpg",
+    "/3H0TPj81yFK17tFNtNXkRTeuzng.jpg",
+    "/zZv1ZgglS80WvBktQUBBEooVqqH.jpg",
+    "/jJGML1YYTMfEEfaOKSeBgPRI56H.jpg",
+    "/9BIIosFjVSLPhdGSVhjJ9pWRvT0.jpg",
+    "/mVl1EvEnYJnTQv71nksfneyF0Yd.jpg"
+  ],
+  "trailerKey": "WCnRSl24FPA",
+  "genreIds": [
+    37
+  ],
+  "keywordIds": [
+    1321,
+    6092,
+    801,
+    2708,
+    972,
+    2095,
+    11426,
+    2125,
+    9503,
+    10176,
+    10950,
+    156212,
+    166512,
+    179585,
+    186831,
+    207372,
+    239797,
+    263029,
+    316832,
+    319922,
+    325811,
+    333099,
+    343041
+  ],
+  "countries": [
+    "US",
+    "IT",
+    "ES",
+    "DE"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "United Artists",
+    "PEA",
+    "Arturo González PC"
+  ],
+  "crew": [
+    {
+      "personId": 2361,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4385,
+      "job": "director"
+    },
+    {
+      "personId": 5810,
+      "job": "writer"
+    },
+    {
+      "personId": 1259,
+      "job": "composer"
+    },
+    {
+      "personId": 5820,
+      "job": "producer"
+    },
+    {
+      "personId": 4385,
+      "job": "writer"
+    },
+    {
+      "personId": 5811,
+      "job": "writer"
+    },
+    {
+      "personId": 5812,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 190,
+      "character": "Blondie",
+      "order": 0
+    },
+    {
+      "personId": 3265,
+      "character": "Tuco Ramirez",
+      "order": 1
+    },
+    {
+      "personId": 4078,
+      "character": "Sentenza / Angel Eyes",
+      "order": 2
+    },
+    {
+      "personId": 5813,
+      "character": "Alcoholic Union Captain",
+      "order": 3
+    },
+    {
+      "personId": 5814,
+      "character": "Father Pablo Ramirez",
+      "order": 4
+    },
+    {
+      "personId": 5815,
+      "character": "Maria",
+      "order": 5
+    },
+    {
+      "personId": 1077276,
+      "character": "Storekeeper",
+      "order": 6
+    },
+    {
+      "personId": 1077277,
+      "character": "Tuco Henchman",
+      "order": 7
+    },
+    {
+      "personId": 5818,
+      "character": "Bill Carson / Jackson",
+      "order": 8
+    },
+    {
+      "personId": 5817,
+      "character": "Baker",
+      "order": 9
+    },
+    {
+      "personId": 1077278,
+      "character": "Tuco Henchman",
+      "order": 10
+    },
+    {
+      "personId": 4661,
+      "character": "Member of Angel Eyes' Gang",
+      "order": 11
+    },
+    {
+      "personId": 5819,
+      "character": "Monk",
+      "order": 12
+    },
+    {
+      "personId": 103529,
+      "character": "Stevens",
+      "order": 13
+    },
+    {
+      "personId": 49895,
+      "character": "Member of Angel Eyes' Gang",
+      "order": 14
+    },
+    {
+      "personId": 129314,
+      "character": "One-Armed Bounty Hunter",
+      "order": 15
+    },
+    {
+      "personId": 37512,
+      "character": "Blonde Bounty Hunter",
+      "order": 16
+    },
+    {
+      "personId": 102096,
+      "character": "Captain Harper",
+      "order": 17
+    },
+    {
+      "personId": 100930,
+      "character": "Clem",
+      "order": 18
+    },
+    {
+      "personId": 16318,
+      "character": "Corporal Wallace",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 10092,
+  "sources": [
+    "cult-list"
+  ]
+}

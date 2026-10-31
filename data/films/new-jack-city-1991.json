@@ -1,0 +1,197 @@
+{
+  "tmdbId": 10952,
+  "slug": "new-jack-city-1991",
+  "year": 1991,
+  "runtime": 101,
+  "originalTitle": "New Jack City",
+  "title": {
+    "en": "New Jack City",
+    "tr": "Zehirli Sokaklar"
+  },
+  "overview": {
+    "en": "A gangster, Nino, is in the Cash Money Brothers, making a million dollars every week selling crack. A cop, Scotty, discovers that the only way to infiltrate the gang is to become a dealer himself.",
+    "tr": "Nino Brown (Wesley Snipes) bir gangsterdir ve başarılı suç patronudur. Kankası \"Cash Money Kardeşler\" ile 80'lerden 90'lara kadar New York şehrine uyuşturucu satmaktadırlar. Yanında bir çok kişi çalışmıştır. Kendisi şu an daha büyük bir işin peşindedir. Bir gün İtalyan mafyasıyla anlaşmazlık yaşar ve Nino onlara uymaz. Bu uyuşmazlık İtalyanlar'ın Nino'yu ortadan kaldırmak istemesine yol açar."
+  },
+  "poster": {
+    "tr": "/k9VjzXyGElRAxXyXgPvtRRSznyL.jpg",
+    "en": "/kONwZ85NJp3a0XMUFZAiA8QcGwg.jpg"
+  },
+  "backdrops": [
+    "/u3fFEz0NdoyXL3UUxTPNqeM2vrc.jpg",
+    "/aMUdYHOJnMS1LGDXjXsmf7ztiC6.jpg",
+    "/7nr53oeEqszkA1Sj2A3JyynIQAW.jpg",
+    "/6Yr5teT9aMBoBriuGbDvFY3iX65.jpg",
+    "/12VK5lbzpacYlzGbiVOhzlAj5wg.jpg",
+    "/1jqsNaTgda3uYtcjtqf6VDyn6Ah.jpg",
+    "/rihIThNW8B6f1mseVQJmO2EmERE.jpg",
+    "/vfckZsDLtqVaVUWOt9vsUQEVlSd.jpg",
+    "/m6sLYleBW5ANpsnOgffWnnQNBG.jpg",
+    "/g1JBzjVrVREgmrhwR84Yq5ZXgPd.jpg"
+  ],
+  "trailerKey": "V3UsuLYfwKo",
+  "genreIds": [
+    53,
+    80,
+    18
+  ],
+  "keywordIds": [
+    2231,
+    242,
+    542,
+    4654,
+    2671,
+    2394,
+    5606,
+    8015,
+    7928,
+    14964
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Jacmac Films",
+    "Jackson-McHenry Entertainment",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 16214,
+      "job": "director"
+    },
+    {
+      "personId": 67896,
+      "job": "producer"
+    },
+    {
+      "personId": 67895,
+      "job": "writer"
+    },
+    {
+      "personId": 16464,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1392252,
+      "job": "writer"
+    },
+    {
+      "personId": 141824,
+      "job": "producer"
+    },
+    {
+      "personId": 35838,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10814,
+      "character": "Nino Brown",
+      "order": 0
+    },
+    {
+      "personId": 21411,
+      "character": "Scotty Appleton",
+      "order": 1
+    },
+    {
+      "personId": 32486,
+      "character": "Garald \"Gee Money\" Welles",
+      "order": 2
+    },
+    {
+      "personId": 2632,
+      "character": "Pookie",
+      "order": 3
+    },
+    {
+      "personId": 16214,
+      "character": "Stone",
+      "order": 4
+    },
+    {
+      "personId": 39977,
+      "character": "Selina",
+      "order": 5
+    },
+    {
+      "personId": 5502,
+      "character": "Duh Duh Duh Man",
+      "order": 6
+    },
+    {
+      "personId": 21354,
+      "character": "Park",
+      "order": 7
+    },
+    {
+      "personId": 8854,
+      "character": "Old Man",
+      "order": 8
+    },
+    {
+      "personId": 78742,
+      "character": "Kareem Akbar",
+      "order": 9
+    },
+    {
+      "personId": 21624,
+      "character": "Nick Peretti",
+      "order": 10
+    },
+    {
+      "personId": 543193,
+      "character": "Keisha",
+      "order": 11
+    },
+    {
+      "personId": 99358,
+      "character": "Uniqua",
+      "order": 12
+    },
+    {
+      "personId": 176628,
+      "character": "Frankie Needles",
+      "order": 13
+    },
+    {
+      "personId": 553721,
+      "character": "Reverend Oates",
+      "order": 14
+    },
+    {
+      "personId": 171167,
+      "character": "Prosecuting Attorney Hawkins",
+      "order": 15
+    },
+    {
+      "personId": 86138,
+      "character": "Police Commissioner",
+      "order": 16
+    },
+    {
+      "personId": 104504,
+      "character": "Don Armeteo",
+      "order": 17
+    },
+    {
+      "personId": 240799,
+      "character": "Master of Ceremonies",
+      "order": 18
+    },
+    {
+      "personId": 146253,
+      "character": "D.J.",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 654,
+  "sources": [
+    "cult-list"
+  ]
+}

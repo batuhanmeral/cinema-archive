@@ -1,0 +1,198 @@
+{
+  "tmdbId": 769,
+  "slug": "goodfellas-1990",
+  "year": 1990,
+  "runtime": 145,
+  "originalTitle": "GoodFellas",
+  "title": {
+    "en": "GoodFellas",
+    "tr": "Sıkı Dostlar"
+  },
+  "overview": {
+    "en": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+    "tr": "Gerçek bir hayat hikayesinden uyarlanan filmde Henry Hill adında bir gangster, Jimmy Conway ve Tommy De Vito adlı iki arkadaşıyla birlikte bir soyguna kalkışır. Gözleri daha yukarda olan iki arkadaşı soyguna katılan diğerlerini öldürür ve mafya içinde yükselmeye başlarlar. Bu durum Henry'i olumsuz etkilemiştir ve bu konuda birşeyler yapması gerekmektedir. Büyük usta Martin Scorsese'nin başyapıtlarından biri olan Goodfellas, 1991 yılında 6 dalda Oscar'a aday gösterilmiş, en iyi yardımcı erkek oyuncu dalında Joe Pesci'ye ödül kazandırmıştı."
+  },
+  "poster": {
+    "tr": "/oMPDt1rNLYEVRpigNLaiTnibVn8.jpg",
+    "en": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg"
+  },
+  "backdrops": [
+    "/sw7mordbZxgITU877yTpZCud90M.jpg",
+    "/gILte6Zd7m1YneIr6MVhh30S9pr.jpg",
+    "/d6UxFCGQxpszcf8mwgGjQ3ynqGl.jpg",
+    "/4JnLgyZeUmwpPP18jiLTYPfx9uY.jpg",
+    "/chrngg9mjM6tSU3BF9VHITgn1Ke.jpg",
+    "/x1Ohy5LGhy67rRjbXUM1DNDAICA.jpg",
+    "/6qgSKYgkHLL0vAVbsqRfo8KmZgL.jpg",
+    "/l5siKdCQX5EdMVUH36wJvmxJXBi.jpg",
+    "/rszNCG45TAWWquyzJ8CUUxsrEgN.jpg",
+    "/tXbXsSdV4Z9eUlJ5SIAHWo1uFtQ.jpg"
+  ],
+  "trailerKey": "PTBRNXGQR9Q",
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    378,
+    1196,
+    242,
+    818,
+    3149,
+    1583,
+    2149,
+    1228,
+    1857,
+    10292,
+    5565,
+    9672,
+    9826,
+    10291,
+    10391,
+    41523,
+    214983,
+    214985
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "studios": [
+    "Winkler Films",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 7163,
+      "job": "writer"
+    },
+    {
+      "personId": 1032,
+      "job": "director"
+    },
+    {
+      "personId": 1032,
+      "job": "writer"
+    },
+    {
+      "personId": 11472,
+      "job": "producer"
+    },
+    {
+      "personId": 3769,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 380,
+      "character": "James Conway",
+      "order": 0
+    },
+    {
+      "personId": 11477,
+      "character": "Henry Hill",
+      "order": 1
+    },
+    {
+      "personId": 4517,
+      "character": "Tommy DeVito",
+      "order": 2
+    },
+    {
+      "personId": 11478,
+      "character": "Karen Hill",
+      "order": 3
+    },
+    {
+      "personId": 7004,
+      "character": "Paul Cicero",
+      "order": 4
+    },
+    {
+      "personId": 11480,
+      "character": "Frankie Carbone",
+      "order": 5
+    },
+    {
+      "personId": 11482,
+      "character": "Sonny Bunz",
+      "order": 6
+    },
+    {
+      "personId": 5170,
+      "character": "Frenchy",
+      "order": 7
+    },
+    {
+      "personId": 7164,
+      "character": "Billy Batts",
+      "order": 8
+    },
+    {
+      "personId": 11479,
+      "character": "Morris Kessler",
+      "order": 9
+    },
+    {
+      "personId": 11481,
+      "character": "Tuddy Cicero",
+      "order": 10
+    },
+    {
+      "personId": 99939,
+      "character": "Henny Youngman",
+      "order": 11
+    },
+    {
+      "personId": 11485,
+      "character": "Janice Rossi",
+      "order": 12
+    },
+    {
+      "personId": 11483,
+      "character": "Tommy's Mother",
+      "order": 13
+    },
+    {
+      "personId": 1006721,
+      "character": "Vinnie",
+      "order": 14
+    },
+    {
+      "personId": 11484,
+      "character": "Karen's Mother",
+      "order": 15
+    },
+    {
+      "personId": 5578,
+      "character": "Sandy",
+      "order": 16
+    },
+    {
+      "personId": 1079544,
+      "character": "Belle Kessler",
+      "order": 17
+    },
+    {
+      "personId": 93620,
+      "character": "Lois Byrd",
+      "order": 18
+    },
+    {
+      "personId": 1212532,
+      "character": "Jerry Vale",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 14956,
+  "sources": [
+    "cult-list"
+  ]
+}

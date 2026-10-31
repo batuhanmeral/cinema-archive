@@ -1,0 +1,202 @@
+{
+  "tmdbId": 30593,
+  "slug": "heavy-traffic-1973",
+  "year": 1973,
+  "runtime": 77,
+  "originalTitle": "Heavy Traffic",
+  "title": {
+    "en": "Heavy Traffic",
+    "tr": "Heavy Traffic"
+  },
+  "overview": {
+    "en": "A white dropout struggles to become a cartoonist and filmmaker, drawing inspiration from the harsh, gritty world around him. Still sharing his rundown apartment with his middle-aged parents, an oafish slob of an Italian father and a ditzy nutcase of a Jewish mother, he's ridiculed and looked down upon by his friends, hypocrites who run with violent gangs and the Italian Mafia, and a shallow Black girl who makes her living downtown with the pimps and pushers. The cartoonist gets a chance to pitch a film idea to a movie mogul, but the story proves too outrageous: a far-future Earth, depleted by war and pollution, where a mutant antihero challenges and kills God.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/76z4KHEicnCILz5rePLyZmvcXV4.jpg",
+    "en": "/A9jsB1t49L0p0mD7Wqn9Y4WVFkh.jpg"
+  },
+  "backdrops": [
+    "/mxZrL7FSFJ2wxGKDKm63Jml2FLQ.jpg",
+    "/ryJkiGj5M9R6401MvqfFjFUEC90.jpg",
+    "/xMR5wWid9SsCQLG6L5p3vIKJvNY.jpg",
+    "/qnqODZPjJNJQmmMEE35vUX0Ugtn.jpg",
+    "/eAodWW5E3MxxM8X0pGiVsr1MgTS.jpg",
+    "/bNI0QfcKgwKPISD43LxjIwj1gNT.jpg",
+    "/8cxsrZuOXSBTvknxPZus3eu8GKR.jpg",
+    "/c4dfYU30wUQGXEJoa4axsv3WEhY.jpg",
+    "/dJnxjYL9PDM9cHqj7nL6PcC7X7D.jpg",
+    "/8qSjD76liBH7tpZv9wFtGbncEAy.jpg"
+  ],
+  "trailerKey": "vraUu632PIY",
+  "genreIds": [
+    16,
+    35,
+    18
+  ],
+  "keywordIds": [
+    2389,
+    2039,
+    9887,
+    5768,
+    10776,
+    10131,
+    10694,
+    11190,
+    161919
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "yi"
+  ],
+  "studios": [
+    "Steve Krantz Productions",
+    "Cine Camera",
+    "American International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 16384,
+      "job": "director"
+    },
+    {
+      "personId": 16384,
+      "job": "writer"
+    },
+    {
+      "personId": 73275,
+      "job": "composer"
+    },
+    {
+      "personId": 73274,
+      "job": "composer"
+    },
+    {
+      "personId": 73276,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1433086,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30904,
+      "job": "producer"
+    },
+    {
+      "personId": 73034,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 936451,
+      "character": "Michael Corleone",
+      "order": 0
+    },
+    {
+      "personId": 51184,
+      "character": "Carole",
+      "order": 1
+    },
+    {
+      "personId": 50574,
+      "character": "Angelo \"Angie\" Corleone (voice)",
+      "order": 2
+    },
+    {
+      "personId": 109073,
+      "character": "Ida Corleone (voice)",
+      "order": 3
+    },
+    {
+      "personId": 1065812,
+      "character": "Molly (voice)",
+      "order": 4
+    },
+    {
+      "personId": 1065815,
+      "character": "Rosalyn Schecter (voice)",
+      "order": 5
+    },
+    {
+      "personId": 101231,
+      "character": "Rosa (voice)",
+      "order": 6
+    },
+    {
+      "personId": 55432,
+      "character": "Arcade Owner",
+      "order": 7
+    },
+    {
+      "personId": 32494,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 9174,
+      "character": "Crazy Moe (voice)",
+      "order": 9
+    },
+    {
+      "personId": 131814,
+      "character": "(voice)",
+      "order": 10
+    },
+    {
+      "personId": 2152083,
+      "character": "(voice)",
+      "order": 11
+    },
+    {
+      "personId": 1650360,
+      "character": "(voice)",
+      "order": 12
+    },
+    {
+      "personId": 9115,
+      "character": "(voice)",
+      "order": 13
+    },
+    {
+      "personId": 1481,
+      "character": "(voice)",
+      "order": 14
+    },
+    {
+      "personId": 2175693,
+      "character": "(voice)",
+      "order": 15
+    },
+    {
+      "personId": 96733,
+      "character": "(voice)",
+      "order": 16
+    },
+    {
+      "personId": 4590628,
+      "character": "(voice)",
+      "order": 17
+    },
+    {
+      "personId": 61676,
+      "character": "The Mafia Messenger (voice)",
+      "order": 18
+    },
+    {
+      "personId": 40002,
+      "character": "(voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 90,
+  "sources": [
+    "cult-list"
+  ]
+}

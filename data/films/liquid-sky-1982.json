@@ -1,0 +1,204 @@
+{
+  "tmdbId": 20980,
+  "slug": "liquid-sky-1982",
+  "year": 1982,
+  "runtime": 113,
+  "originalTitle": "Liquid Sky",
+  "title": {
+    "en": "Liquid Sky",
+    "tr": "Liquid Sky"
+  },
+  "overview": {
+    "en": "An alien creature invades New York's punk subculture in its search for an opiate released by the brain during an orgasm.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yMRvaqt0oUImW1Z91RXHTvkH6DE.jpg",
+    "en": "/yMRvaqt0oUImW1Z91RXHTvkH6DE.jpg"
+  },
+  "backdrops": [
+    "/igpM13I0oMcPZj0Y0hzmBWEKmBd.jpg",
+    "/nsiats0DJC2Kyu37ZHYIMGp7N3K.jpg",
+    "/lYazfCvuTW1z1IJH7ZzDGXeIaLF.jpg",
+    "/xVBuSNs7DjAPcWv5czKjDEiu2Xf.jpg",
+    "/xRQgTlEibHqlKhgiJ2XF6bfksOn.jpg",
+    "/o4h27nTq4Zz2qNQ02XeIWAh1YOJ.jpg",
+    "/snQ9qLrdmVagqtIe4WUtMCi5hT4.jpg",
+    "/2J3WiFXit0CrSRwQ7dmOj8BBull.jpg",
+    "/hHXLAc7e20MnoNrElVx2F3yiiNE.jpg",
+    "/vdlgeAUus40niopGe4ZIHzolS14.jpg"
+  ],
+  "trailerKey": "lRjiEBNxnKw",
+  "genreIds": [
+    878,
+    53,
+    18
+  ],
+  "keywordIds": [
+    570,
+    2671,
+    3183,
+    2150,
+    4470,
+    9951,
+    11402,
+    14964,
+    15479,
+    155490,
+    258533
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Z Films Inc."
+  ],
+  "crew": [
+    {
+      "personId": 95168,
+      "job": "writer"
+    },
+    {
+      "personId": 136243,
+      "job": "writer"
+    },
+    {
+      "personId": 136244,
+      "job": "writer"
+    },
+    {
+      "personId": 136246,
+      "job": "composer"
+    },
+    {
+      "personId": 136245,
+      "job": "composer"
+    },
+    {
+      "personId": 95168,
+      "job": "composer"
+    },
+    {
+      "personId": 95168,
+      "job": "director"
+    },
+    {
+      "personId": 95168,
+      "job": "producer"
+    },
+    {
+      "personId": 58865,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 136243,
+      "character": "Margaret / Jimmy",
+      "order": 0
+    },
+    {
+      "personId": 136247,
+      "character": "Adrian",
+      "order": 1
+    },
+    {
+      "personId": 62024,
+      "character": "Owen",
+      "order": 2
+    },
+    {
+      "personId": 136248,
+      "character": "Sylvia",
+      "order": 3
+    },
+    {
+      "personId": 136251,
+      "character": "Katherine",
+      "order": 4
+    },
+    {
+      "personId": 136252,
+      "character": "Paul",
+      "order": 5
+    },
+    {
+      "personId": 136253,
+      "character": "Vincent",
+      "order": 6
+    },
+    {
+      "personId": 136250,
+      "character": "Johann",
+      "order": 7
+    },
+    {
+      "personId": 136255,
+      "character": "Lester",
+      "order": 8
+    },
+    {
+      "personId": 136256,
+      "character": "Deliveryman",
+      "order": 9
+    },
+    {
+      "personId": 99420,
+      "character": "Jack",
+      "order": 10
+    },
+    {
+      "personId": 136257,
+      "character": "Nellie",
+      "order": 11
+    },
+    {
+      "personId": 136244,
+      "character": "Designer",
+      "order": 12
+    },
+    {
+      "personId": 136259,
+      "character": "Photographer",
+      "order": 13
+    },
+    {
+      "personId": 136260,
+      "character": "Hair Stylist",
+      "order": 14
+    },
+    {
+      "personId": 2409859,
+      "character": "Make-up Artist",
+      "order": 15
+    },
+    {
+      "personId": 2409860,
+      "character": "Designer's Assistant",
+      "order": 16
+    },
+    {
+      "personId": 2409861,
+      "character": "Designer's Assistant",
+      "order": 17
+    },
+    {
+      "personId": 2409862,
+      "character": "Photographer's Assistant",
+      "order": 18
+    },
+    {
+      "personId": 2409863,
+      "character": "Gaffer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 148,
+  "sources": [
+    "cult-list"
+  ]
+}

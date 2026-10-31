@@ -1,0 +1,185 @@
+{
+  "tmdbId": 11030,
+  "slug": "zelig-1983",
+  "year": 1983,
+  "runtime": 79,
+  "originalTitle": "Zelig",
+  "title": {
+    "en": "Zelig",
+    "tr": "Zelig"
+  },
+  "overview": {
+    "en": "Fictional documentary about the life of human chameleon Leonard Zelig, a man who becomes a celebrity in the 1920s due to his ability to look and act like whoever is around him. Clever editing places Zelig in real newsreel footage of Woodrow Wilson, Babe Ruth, and others.",
+    "tr": "1920'lerde, sansasyonel bir karakter olan Leonard Zelig’in (Woody Allen) eğlenceli, bir o kadar da fantastik “belgeseli” olan bir yapım. Leonard Zelig kimle tanışırsa onun karakteristik özelliklerini taklit eden bukalemunvari bir adamdır. Huzuru ise sadece psikiyatristi Dr. Eudora Fletcher’ın (Mia Farrow) kollarında bulmaktadır."
+  },
+  "poster": {
+    "tr": "/bfs67JaV4B5xVBvtXd3O4R7nk9G.jpg",
+    "en": "/3NTSeyMXSTOIJjqBqwavMLvrGjy.jpg"
+  },
+  "backdrops": [
+    "/oCC3rSccbJV9bxMDRedtqI6pnla.jpg",
+    "/68COxkvwRmbc5YuSvtaQPbFgKIH.jpg",
+    "/rzcok1tnItYHlUKlSs5Proj1IQq.jpg",
+    "/l7197eCdt9fjH0Mi92UrddHXNZs.jpg",
+    "/1UwnRm0nxrFEaCnfhZlK6dPLYLg.jpg"
+  ],
+  "trailerKey": "-ih7lQxrtds",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    5571,
+    6562,
+    11800,
+    14569,
+    15106,
+    163053,
+    163895,
+    164880,
+    207876,
+    214548,
+    290494,
+    325836,
+    331417
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "studios": [
+    "Orion Pictures",
+    "Jack Rollins & Charles H. Joffe Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1243,
+      "job": "director"
+    },
+    {
+      "personId": 3658,
+      "job": "producer"
+    },
+    {
+      "personId": 3097,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 20967,
+      "job": "composer"
+    },
+    {
+      "personId": 1243,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1243,
+      "character": "Leonard Zelig",
+      "order": 0
+    },
+    {
+      "personId": 12021,
+      "character": "Dr. Eudora Nesbitt Fletcher",
+      "order": 1
+    },
+    {
+      "personId": 28027,
+      "character": "The Narrator (voice)",
+      "order": 2
+    },
+    {
+      "personId": 67857,
+      "character": "Dr. Sindell",
+      "order": 3
+    },
+    {
+      "personId": 58529,
+      "character": "Glandular Diagnosis Doctor",
+      "order": 4
+    },
+    {
+      "personId": 69294,
+      "character": "Mexican Food Doctor",
+      "order": 5
+    },
+    {
+      "personId": 70784,
+      "character": "Dr. Birsky",
+      "order": 6
+    },
+    {
+      "personId": 28028,
+      "character": "Hypodermic Doctor",
+      "order": 7
+    },
+    {
+      "personId": 91374,
+      "character": "Other Doctor",
+      "order": 8
+    },
+    {
+      "personId": 2532133,
+      "character": "Other Doctor",
+      "order": 9
+    },
+    {
+      "personId": 1699295,
+      "character": "Other Doctor",
+      "order": 10
+    },
+    {
+      "personId": 2693,
+      "character": "Freshman #1",
+      "order": 11
+    },
+    {
+      "personId": 2169,
+      "character": "Freshman #2",
+      "order": 12
+    },
+    {
+      "personId": 19489,
+      "character": "Workers Rally Speaker",
+      "order": 13
+    },
+    {
+      "personId": 1393354,
+      "character": "Charles Koslow",
+      "order": 14
+    },
+    {
+      "personId": 115767,
+      "character": "Sister Ruth",
+      "order": 15
+    },
+    {
+      "personId": 991100,
+      "character": "Telephone Operator",
+      "order": 16
+    },
+    {
+      "personId": 734,
+      "character": "Woman on Telephone",
+      "order": 17
+    },
+    {
+      "personId": 27492,
+      "character": "Actor Zelig",
+      "order": 18
+    },
+    {
+      "personId": 3338863,
+      "character": "Actress Fletcher",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 948,
+  "sources": [
+    "cult-list"
+  ]
+}

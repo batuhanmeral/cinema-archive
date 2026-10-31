@@ -1,0 +1,227 @@
+{
+  "tmdbId": 1792,
+  "slug": "stuck-on-you-2003",
+  "year": 2003,
+  "runtime": 119,
+  "originalTitle": "Stuck on You",
+  "title": {
+    "en": "Stuck on You",
+    "tr": "Takıldım Sana"
+  },
+  "overview": {
+    "en": "In Martha's Vineyard, Mass., conjoined twins Walt and Bob Tenor make the best of their handicap by being the fastest grill cooks in town. While outgoing Walt hopes to one day become a famous actor, shy Bob prefers to stay out of the spotlight. When a fading Hollywood actress, Cher, decides to get her show \"Honey and the Beaze\" cancelled, she hires Walt -- and his brotherly appendage -- as her costars. But their addition surprisingly achieves the opposite.",
+    "tr": "Yapışık ikizler olarak dünyaya gelen Walt ve Bob hayatın tüm alanlarında birlikte olmuş, birbirine son derece bağlı olan iki kardeştir. Gerek çalıştıkları işte gerekse sporda son derece başarılı olan ikilinin yolları içlerinden birinin oyuncu olmaya karar vermesiyle ayrılmak üzeredir. Yine de ayrılmayan ikili zamanla bu alanda da ünlü ve başarılı olurlar. Ancak tahmin edemeyecekleri şey şöhretin nasıl bir şey olduğudur.\r Farrelly Biraderler imzalı filmde Matt Damon ve Greg Kinnear, kardeşleri canlandırıyorlar. Yönetmenlerin ilginç mizah anlayışı ise son derece ilgi çekici."
+  },
+  "poster": {
+    "tr": "/5TmPGPsOP4EgMo8X14pyywxB1j2.jpg",
+    "en": "/cNbkNeYH48oAi1pNfHeOlCmB4fU.jpg"
+  },
+  "backdrops": [
+    "/bj4VHJFQOWXKgnvFrlHoBeOLU3M.jpg",
+    "/nVQ8eBeXvvaTlRuU0Fe45LwJaCI.jpg",
+    "/rdJhphnjyEEvuo9Fd9PO3IWM6zO.jpg",
+    "/2U0j3fpfAgpmgEutnSyqZhOAxWi.jpg",
+    "/kMGn8wFT5rgAuD5goWwCsyrnNBT.jpg",
+    "/4TKPQXGf79ivdw0E3WPd7tOH3FR.jpg",
+    "/fyHzaQfXFABRw1Fw3iuZ7G5LQM3.jpg",
+    "/pnkhn5nzV3BeARDo8BWxHMsHpVf.jpg",
+    "/B9NvOZzJlnu1HMyAUjhzTJq3w4.jpg",
+    "/nJS8TuFQVHMd9xp6Q5j1Tbw7s7A.jpg"
+  ],
+  "trailerKey": "ZaZtut5al68",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    779,
+    733,
+    6593,
+    6562,
+    9856,
+    10624,
+    9964,
+    12396,
+    12670,
+    15016,
+    15188,
+    162262,
+    162735,
+    163047,
+    192153
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Conundrum Entertainment",
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 7395,
+      "job": "director"
+    },
+    {
+      "personId": 7396,
+      "job": "director"
+    },
+    {
+      "personId": 7395,
+      "job": "producer"
+    },
+    {
+      "personId": 7396,
+      "job": "producer"
+    },
+    {
+      "personId": 7407,
+      "job": "producer"
+    },
+    {
+      "personId": 7408,
+      "job": "producer"
+    },
+    {
+      "personId": 1589,
+      "job": "composer"
+    },
+    {
+      "personId": 58290,
+      "job": "composer"
+    },
+    {
+      "personId": 15348,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7395,
+      "job": "writer"
+    },
+    {
+      "personId": 7396,
+      "job": "writer"
+    },
+    {
+      "personId": 1552070,
+      "job": "producer"
+    },
+    {
+      "personId": 7412,
+      "job": "producer"
+    },
+    {
+      "personId": 4973249,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1892,
+      "character": "Bob",
+      "order": 0
+    },
+    {
+      "personId": 17141,
+      "character": "Walt",
+      "order": 1
+    },
+    {
+      "personId": 8170,
+      "character": "April",
+      "order": 2
+    },
+    {
+      "personId": 19127,
+      "character": "May",
+      "order": 3
+    },
+    {
+      "personId": 58928,
+      "character": "Mimmy",
+      "order": 4
+    },
+    {
+      "personId": 2479042,
+      "character": "Rocket",
+      "order": 5
+    },
+    {
+      "personId": 2938161,
+      "character": "Tommy",
+      "order": 6
+    },
+    {
+      "personId": 28419,
+      "character": "Moe",
+      "order": 7
+    },
+    {
+      "personId": 38225,
+      "character": "Cher",
+      "order": 8
+    },
+    {
+      "personId": 74934,
+      "character": "Howard",
+      "order": 9
+    },
+    {
+      "personId": 5950,
+      "character": "Morty O'Reilly",
+      "order": 10
+    },
+    {
+      "personId": 2171,
+      "character": "Griffin Dunne",
+      "order": 11
+    },
+    {
+      "personId": 4883438,
+      "character": "Vineyard Cutie",
+      "order": 12
+    },
+    {
+      "personId": 1229514,
+      "character": "Dicky",
+      "order": 13
+    },
+    {
+      "personId": 4883447,
+      "character": "Vineyard Buddy",
+      "order": 14
+    },
+    {
+      "personId": 4883451,
+      "character": "Dart in Head Guy",
+      "order": 15
+    },
+    {
+      "personId": 4883471,
+      "character": "Short-Fused Geezer",
+      "order": 16
+    },
+    {
+      "personId": 2478219,
+      "character": "Eddie",
+      "order": 17
+    },
+    {
+      "personId": 203048,
+      "character": "George",
+      "order": 18
+    },
+    {
+      "personId": 4883494,
+      "character": "Vineyard Patron",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 752,
+  "sources": [
+    "cult-list"
+  ]
+}

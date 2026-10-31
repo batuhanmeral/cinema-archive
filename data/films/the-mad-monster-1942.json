@@ -1,0 +1,134 @@
+{
+  "tmdbId": 110980,
+  "slug": "the-mad-monster-1942",
+  "year": 1942,
+  "runtime": 77,
+  "originalTitle": "The Mad Monster",
+  "title": {
+    "en": "The Mad Monster",
+    "tr": "The Mad Monster"
+  },
+  "overview": {
+    "en": "A mad scientist changes his simple-minded handyman into a werewolf in order to prove his supposedly crazy scientific theories - and exact revenge.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/2Mhd2VXiTu1jmkmCbw6L96n40Ba.jpg",
+    "en": "/7FKeM2DLvs6KmfgK5O7JrLCsPw2.jpg"
+  },
+  "backdrops": [
+    "/3PqF057dHrqqzcJIBG7z9eFBcaA.jpg"
+  ],
+  "trailerKey": "Xi8SWRlcmN0",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    11034,
+    12564
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Sigmund Neufeld Productions",
+    "PRC"
+  ],
+  "crew": [
+    {
+      "personId": 52172,
+      "job": "director"
+    },
+    {
+      "personId": 52173,
+      "job": "writer"
+    },
+    {
+      "personId": 44571,
+      "job": "composer"
+    },
+    {
+      "personId": 52179,
+      "job": "producer"
+    },
+    {
+      "personId": 108431,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30417,
+      "character": "Lorenzo Cameron",
+      "order": 0
+    },
+    {
+      "personId": 34471,
+      "character": "Lenora Cameron",
+      "order": 1
+    },
+    {
+      "personId": 131442,
+      "character": "Tom Gregory",
+      "order": 2
+    },
+    {
+      "personId": 30112,
+      "character": "Petro",
+      "order": 3
+    },
+    {
+      "personId": 34036,
+      "character": "Professor Blaine",
+      "order": 4
+    },
+    {
+      "personId": 89017,
+      "character": "Professor Fitzgerald",
+      "order": 5
+    },
+    {
+      "personId": 123576,
+      "character": "Professor Hatfield",
+      "order": 6
+    },
+    {
+      "personId": 2933,
+      "character": "Professor Warwick",
+      "order": 7
+    },
+    {
+      "personId": 34749,
+      "character": "Grandmother",
+      "order": 8
+    },
+    {
+      "personId": 34757,
+      "character": "Susan",
+      "order": 9
+    },
+    {
+      "personId": 117586,
+      "character": "Father",
+      "order": 10
+    },
+    {
+      "personId": 100806,
+      "character": "Country Doctor",
+      "order": 11
+    },
+    {
+      "personId": 227460,
+      "character": "Jed Harper",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 40,
+  "sources": [
+    "cult-list"
+  ]
+}

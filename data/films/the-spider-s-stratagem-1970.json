@@ -1,0 +1,116 @@
+{
+  "tmdbId": 42595,
+  "slug": "the-spider-s-stratagem-1970",
+  "year": 1970,
+  "runtime": 100,
+  "originalTitle": "Strategia del ragno",
+  "title": {
+    "en": "The Spider's Stratagem",
+    "tr": "Strategia del ragno"
+  },
+  "overview": {
+    "en": "A young man returns to his countryside hometown to investigate the unclear circumstances behind the death of his father, ostensibly killed by Fascists in 1936, before his birth. As he unravels a web of lies that seems to encompass the whole town, he finds himself entangled in the same web.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/z8IK3qwu3pscCFsIK6Wkbn4boq3.jpg",
+    "en": "/z8IK3qwu3pscCFsIK6Wkbn4boq3.jpg"
+  },
+  "backdrops": [
+    "/teD2odnlfZUyAoSgxtzkZrR4UXG.jpg",
+    "/yh1XKFGRvupfzbvUkb2KYJZAamW.jpg",
+    "/l5Uc4VwlNugIYe3v3sbefxhc8MM.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    9648,
+    18
+  ],
+  "keywordIds": [
+    1415,
+    548,
+    2123,
+    5340,
+    14670,
+    190205,
+    211297,
+    231082
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Red Film",
+    "RAI"
+  ],
+  "crew": [
+    {
+      "personId": 4956,
+      "job": "director"
+    },
+    {
+      "personId": 7202,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 55759,
+      "job": "producer"
+    },
+    {
+      "personId": 66641,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1347915,
+      "job": "writer"
+    },
+    {
+      "personId": 223279,
+      "job": "writer"
+    },
+    {
+      "personId": 4956,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 225962,
+      "character": "Athos Magnani Jr. / Athos Magnani Sr.",
+      "order": 0
+    },
+    {
+      "personId": 15385,
+      "character": "Draifa",
+      "order": 1
+    },
+    {
+      "personId": 1990437,
+      "character": "Gaibazzi",
+      "order": 2
+    },
+    {
+      "personId": 1990438,
+      "character": "Razori",
+      "order": 3
+    },
+    {
+      "personId": 532144,
+      "character": "Costa",
+      "order": 4
+    },
+    {
+      "personId": 54755,
+      "character": "Sailor (uncredited)",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 99,
+  "sources": [
+    "cult-list"
+  ]
+}

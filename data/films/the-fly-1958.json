@@ -1,0 +1,192 @@
+{
+  "tmdbId": 11815,
+  "slug": "the-fly-1958",
+  "year": 1958,
+  "runtime": 94,
+  "originalTitle": "The Fly",
+  "title": {
+    "en": "The Fly",
+    "tr": "Öldüren Arzu"
+  },
+  "overview": {
+    "en": "Industrialist François Delambre is called late at night by his sister-in-law, Helene, who tells him that she has just killed her husband. Reluctant at first, she eventually explains to the police that he invented a matter transportation apparatus and, while experimenting on himself, a fly entered the chamber.",
+    "tr": "Zengin bilimadamı Andre Delambre maddelerin ışınlanma yoluyla naklini sağlayan cihazı icat etmiştir. İlk insanlı deneyi büyük bir hırsla kendi üzerinde yapar ve sonuçları korkunç olur. Çünkü ışın odasına kendisi ile birlikte bir sinek girmiştir. Cihaz, sineğin kolu ve kafasını Andre'ninkilerle yer değiştirir.\r Korku sinemasında çığır açan baş yapıt. 2000 li yılların görsel efektleri ile karşılaştırılamayacak olsa da dev bir sinek insanın her zaman midesinin bulanmasını sağlıyor. Kurt Neumann'ın film-noir'a yakın çekim tarzı, Vincent Price, David Hedison ve Patricia Owens'ın hem filmin yapısına hem de birbirlerine olan uyumları çok iyi."
+  },
+  "poster": {
+    "tr": "/kXdBcDh2EbgSIf4Oo1dxKapZM2f.jpg",
+    "en": "/gCF6dW2CT5O3MJMvwYXYxxsI32p.jpg"
+  },
+  "backdrops": [
+    "/wpz62HFxCGaMX6jImELAspwqjT1.jpg",
+    "/xazdzH2BsKA1bXG0MUVxbyxDuL7.jpg",
+    "/ik6y6LFtlKD9ZAXjlgXIHmI9nLA.jpg",
+    "/osMxhFRMgTQKNVujFYsQMj4x5id.jpg",
+    "/jwd3feHB65Ya7PLsXTTpCKREWaY.jpg",
+    "/nHYOxgYe638iXs5p0LMdthArmnA.jpg",
+    "/gcTtcauZKVDC3TxVEluXcACNgnl.jpg",
+    "/qtcB0PZe2J30ZQeexuOvwfdWzCU.jpg",
+    "/mk506JDyyzOGXPxF0kArm4cw7u4.jpg",
+    "/r7rvRtRnPIYT8WGa9k97cuagP63.jpg"
+  ],
+  "trailerKey": "Uj7f75PGx7c",
+  "genreIds": [
+    878,
+    27,
+    18
+  ],
+  "keywordIds": [
+    1706,
+    3822,
+    1436,
+    2766,
+    9410,
+    6719,
+    14760,
+    17997,
+    169909,
+    171826,
+    181304,
+    188769,
+    223059,
+    256658,
+    265172,
+    270327,
+    323684
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "20th Century Fox",
+    "Regal Films"
+  ],
+  "crew": [
+    {
+      "personId": 70565,
+      "job": "director"
+    },
+    {
+      "personId": 4681,
+      "job": "composer"
+    },
+    {
+      "personId": 70567,
+      "job": "producer"
+    },
+    {
+      "personId": 9081,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 46611,
+      "job": "writer"
+    },
+    {
+      "personId": 70565,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10226,
+      "character": "Andre Delambre",
+      "order": 0
+    },
+    {
+      "personId": 70564,
+      "character": "Helene Delambre",
+      "order": 1
+    },
+    {
+      "personId": 1905,
+      "character": "François Delambre",
+      "order": 2
+    },
+    {
+      "personId": 2435,
+      "character": "Insp. Charas",
+      "order": 3
+    },
+    {
+      "personId": 7210,
+      "character": "Emma",
+      "order": 4
+    },
+    {
+      "personId": 71779,
+      "character": "Nurse Andersone",
+      "order": 5
+    },
+    {
+      "personId": 16764,
+      "character": "Philippe Delambre",
+      "order": 6
+    },
+    {
+      "personId": 120545,
+      "character": "Dr. Ejoute (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 1159359,
+      "character": "Club Member (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 233321,
+      "character": "Orderly (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 1730261,
+      "character": "Policeman (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 1331759,
+      "character": "French Waiter (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 121323,
+      "character": "Audience Member (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1598135,
+      "character": "Club Member (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 12153,
+      "character": "Gaston (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1550447,
+      "character": "Audience Member (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 148853,
+      "character": "Detective (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 217759,
+      "character": "Police Doctor (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 115772,
+      "character": "Doctor (uncredited)",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 636,
+  "sources": [
+    "cult-list"
+  ]
+}

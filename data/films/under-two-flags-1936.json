@@ -1,0 +1,124 @@
+{
+  "tmdbId": 56559,
+  "slug": "under-two-flags-1936",
+  "year": 1936,
+  "runtime": 98,
+  "originalTitle": "Under Two Flags",
+  "title": {
+    "en": "Under Two Flags",
+    "tr": "Under Two Flags"
+  },
+  "overview": {
+    "en": "Sergeant Victor comes to the French Foreign Legion after taking the blame for his brother's crime. Cigarette falls in love with him though Major Doyle is in love with her. Doyle sends Victor on dangerous assignments to be rid of him. He falls in love with Lady Venetia Cunningham, a visitor to the garrison",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gasgARXim5w31r6eoCO4pLq2nPr.jpg",
+    "en": "/rrJiteKQPH3iu74HwFKGQzEXLWf.jpg"
+  },
+  "backdrops": [
+    "/2nVGLtUhXD6rizfSecQJNjfyW8M.jpg",
+    "/ajmgG8uUb8YkDxMJN5IOUQLB0LL.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    12,
+    10749
+  ],
+  "keywordIds": [
+    195879
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 72061,
+      "job": "director"
+    },
+    {
+      "personId": 293939,
+      "job": "writer"
+    },
+    {
+      "personId": 95637,
+      "job": "writer"
+    },
+    {
+      "personId": 8502,
+      "job": "producer"
+    },
+    {
+      "personId": 137885,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29522,
+      "character": "Sgt. Victor",
+      "order": 0
+    },
+    {
+      "personId": 30155,
+      "character": "Cigarette",
+      "order": 1
+    },
+    {
+      "personId": 30495,
+      "character": "J.C. Doyle",
+      "order": 2
+    },
+    {
+      "personId": 30233,
+      "character": "Lady Venetia Cunningham",
+      "order": 3
+    },
+    {
+      "personId": 10610,
+      "character": "Ivan",
+      "order": 4
+    },
+    {
+      "personId": 3363,
+      "character": "Capt. Menzies",
+      "order": 5
+    },
+    {
+      "personId": 13356,
+      "character": "Lieutenant Petaine",
+      "order": 6
+    },
+    {
+      "personId": 72060,
+      "character": "Rake",
+      "order": 7
+    },
+    {
+      "personId": 8516,
+      "character": "Cafard",
+      "order": 8
+    },
+    {
+      "personId": 3245,
+      "character": "French General",
+      "order": 9
+    },
+    {
+      "personId": 97999,
+      "character": "Arab (uncredited)",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 4,
+  "sources": [
+    "cult-list"
+  ]
+}

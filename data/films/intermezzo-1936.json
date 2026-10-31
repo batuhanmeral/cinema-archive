@@ -1,0 +1,171 @@
+{
+  "tmdbId": 125891,
+  "slug": "intermezzo-1936",
+  "year": 1936,
+  "runtime": 93,
+  "originalTitle": "Intermezzo",
+  "title": {
+    "en": "Intermezzo",
+    "tr": "Intermezzo"
+  },
+  "overview": {
+    "en": "An intense love affair develops between a married concert violinist (Gösta Ekman) and his daughter's music teacher (Ingrid Bergman).",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xQTjATD3tMvBCCqX9TltI5zy4th.jpg",
+    "en": "/xQTjATD3tMvBCCqX9TltI5zy4th.jpg"
+  },
+  "backdrops": [
+    "/bboCUVG0rlYTBFF2mRxcZM4jMJr.jpg",
+    "/2p9Yz1p14NATeaALXUc8oPfpv5G.jpg",
+    "/y24vkfPMuU8kcpGRA1QL9oButBg.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [],
+  "countries": [
+    "SE"
+  ],
+  "languages": [
+    "de",
+    "fr",
+    "it",
+    "sv"
+  ],
+  "studios": [
+    "SF Studios"
+  ],
+  "crew": [
+    {
+      "personId": 3091563,
+      "job": "composer"
+    },
+    {
+      "personId": 550754,
+      "job": "director"
+    },
+    {
+      "personId": 34765,
+      "job": "writer"
+    },
+    {
+      "personId": 550754,
+      "job": "writer"
+    },
+    {
+      "personId": 34767,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 578532,
+      "character": "Professor Holger Brandt",
+      "order": 0
+    },
+    {
+      "personId": 4111,
+      "character": "Anita Hoffman",
+      "order": 1
+    },
+    {
+      "personId": 557747,
+      "character": "Margit Brandt",
+      "order": 2
+    },
+    {
+      "personId": 34786,
+      "character": "Impresario Charles Moller",
+      "order": 3
+    },
+    {
+      "personId": 145691,
+      "character": "Åke Brandt",
+      "order": 4
+    },
+    {
+      "personId": 243076,
+      "character": "Ann-Marie Brandt",
+      "order": 5
+    },
+    {
+      "personId": 557052,
+      "character": "Thomas Stenborg",
+      "order": 6
+    },
+    {
+      "personId": 226176,
+      "character": "Guest at the birthday party",
+      "order": 7
+    },
+    {
+      "personId": 557063,
+      "character": "Captain at S/S Kungsholm",
+      "order": 8
+    },
+    {
+      "personId": 494102,
+      "character": "Journalist",
+      "order": 9
+    },
+    {
+      "personId": 559948,
+      "character": "Driver",
+      "order": 10
+    },
+    {
+      "personId": 213508,
+      "character": "Woman waving goodbye",
+      "order": 11
+    },
+    {
+      "personId": 550133,
+      "character": "Swedish Sailor",
+      "order": 12
+    },
+    {
+      "personId": 1369215,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1490712,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 3091566,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1490819,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1431839,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1490904,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1549949,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 26,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "tmdbId": 13073,
+  "slug": "palindromes-2005",
+  "year": 2005,
+  "runtime": 100,
+  "originalTitle": "Palindromes",
+  "title": {
+    "en": "Palindromes",
+    "tr": "Palindromes"
+  },
+  "overview": {
+    "en": "Aviva is thirteen, awkward and sensitive. Her mother Joyce is warm and loving, as is her father, Steve, a regular guy who does have a fierce temper from time to time. The film revolves around her family, friends and neighbors.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/woPb5Bb5zpmjg3LtMUJIFfXpOCh.jpg",
+    "en": "/yqcNYtm3F7GhCgAnTcQslKzMFOf.jpg"
+  },
+  "backdrops": [
+    "/e7nnxev4s0ZsJ4IE3tpw4n2zEmo.jpg",
+    "/sNHNmG3C9nOsFrwRjnXHMG6PmDZ.jpg",
+    "/ijFf0ieVpeDXT2RvyW14DysTcOL.jpg",
+    "/k44Ag8pCTQj0byAtUiKEti4BwYJ.jpg",
+    "/kNf5aRfOucG9BZ48ZHLOg3J542L.jpg",
+    "/f2vRmFUH4dq3rbc8NxOjX8DlYMk.jpg",
+    "/32gYq94hGzLW4eIU17HvIQDYYDv.jpg"
+  ],
+  "trailerKey": "7Ht6ewQlXhY",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    173186,
+    206184,
+    293649
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "he",
+    "en"
+  ],
+  "studios": [
+    "Extra Large Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 66605,
+      "job": "director"
+    },
+    {
+      "personId": 66605,
+      "job": "writer"
+    },
+    {
+      "personId": 2863,
+      "job": "composer"
+    },
+    {
+      "personId": 7034,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1464835,
+      "job": "producer"
+    },
+    {
+      "personId": 999821,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 80543,
+      "character": "'Dawn' Aviva",
+      "order": 0
+    },
+    {
+      "personId": 1675795,
+      "character": "'Judah' Aviva",
+      "order": 1
+    },
+    {
+      "personId": 2615964,
+      "character": "'Henry' Aviva",
+      "order": 2
+    },
+    {
+      "personId": 2648220,
+      "character": "'Henrietta' Aviva",
+      "order": 3
+    },
+    {
+      "personId": 133814,
+      "character": "'Huckleberry' Aviva",
+      "order": 4
+    },
+    {
+      "personId": 176695,
+      "character": "'Mama Sunshine' Aviva",
+      "order": 5
+    },
+    {
+      "personId": 71823,
+      "character": "'Bob' Aviva",
+      "order": 6
+    },
+    {
+      "personId": 10431,
+      "character": "'Mark' Aviva",
+      "order": 7
+    },
+    {
+      "personId": 6913,
+      "character": "Joyce Victor",
+      "order": 8
+    },
+    {
+      "personId": 15416,
+      "character": "Steve Victor",
+      "order": 9
+    },
+    {
+      "personId": 80541,
+      "character": "Mark Wiener",
+      "order": 10
+    },
+    {
+      "personId": 80542,
+      "character": "Mrs. Wiener",
+      "order": 11
+    },
+    {
+      "personId": 76764,
+      "character": "Mr. Wiener",
+      "order": 12
+    },
+    {
+      "personId": 1220760,
+      "character": "Robin Wallace",
+      "order": 13
+    },
+    {
+      "personId": 54462,
+      "character": "Bruce Wallace",
+      "order": 14
+    },
+    {
+      "personId": 6452204,
+      "character": "First Judah",
+      "order": 15
+    },
+    {
+      "personId": 25214,
+      "character": "Dr. Fleischer",
+      "order": 16
+    },
+    {
+      "personId": 117379,
+      "character": "Joe / Earl / Bob",
+      "order": 17
+    },
+    {
+      "personId": 61319,
+      "character": "Peter Paul",
+      "order": 18
+    },
+    {
+      "personId": 10386,
+      "character": "Mama Sunshine",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 179,
+  "sources": [
+    "cult-list"
+  ]
+}

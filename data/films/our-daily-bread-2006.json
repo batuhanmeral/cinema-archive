@@ -1,0 +1,101 @@
+{
+  "tmdbId": 24565,
+  "slug": "our-daily-bread-2006",
+  "year": 2006,
+  "runtime": 92,
+  "originalTitle": "Unser täglich Brot",
+  "title": {
+    "en": "Our Daily Bread",
+    "tr": "Unser täglich Brot"
+  },
+  "overview": {
+    "en": "Welcome to the world of industrial food production and high-tech farming! To the rhythm of conveyor belts and immense machines, the film looks without commenting into the places where food is produced in Europe: monumental spaces, surreal landscapes and bizarre sounds - a cool, industrial environment which leaves little space for individualism.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/kdW7HPJqhRQ2HRU9ZurbDbpTyj.jpg",
+    "en": "/z80EJLwj6EfcNsG4DYVotI31uXa.jpg"
+  },
+  "backdrops": [
+    "/el6FIRwmHPEMBlKhuFLRB67VTaB.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [],
+  "countries": [
+    "AT",
+    "DE"
+  ],
+  "languages": [
+    "pl",
+    "de"
+  ],
+  "studios": [
+    "OFI",
+    "ZDF",
+    "3sat"
+  ],
+  "crew": [
+    {
+      "personId": 92005,
+      "job": "director"
+    },
+    {
+      "personId": 92005,
+      "job": "writer"
+    },
+    {
+      "personId": 92005,
+      "job": "producer"
+    },
+    {
+      "personId": 584713,
+      "job": "writer"
+    },
+    {
+      "personId": 584712,
+      "job": "producer"
+    },
+    {
+      "personId": 92005,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 584713,
+      "job": "producer"
+    },
+    {
+      "personId": 584711,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 937704,
+      "character": "Himself",
+      "order": 0
+    },
+    {
+      "personId": 937705,
+      "character": "Himself",
+      "order": 1
+    },
+    {
+      "personId": 937706,
+      "character": "Himself",
+      "order": 2
+    },
+    {
+      "personId": 937707,
+      "character": "Himself",
+      "order": 3
+    }
+  ],
+  "awards": {},
+  "voteCount": 44,
+  "sources": [
+    "cult-list"
+  ]
+}

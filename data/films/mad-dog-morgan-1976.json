@@ -1,0 +1,173 @@
+{
+  "tmdbId": 60269,
+  "slug": "mad-dog-morgan-1976",
+  "year": 1976,
+  "runtime": 102,
+  "originalTitle": "Mad Dog Morgan",
+  "title": {
+    "en": "Mad Dog Morgan",
+    "tr": "Mad Dog Morgan"
+  },
+  "overview": {
+    "en": "The true story of Irish outlaw Daniel Morgan, who is wanted, dead or alive, in Australia during the 1850s.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/f8auu89Ta3QcWFjez0vkSkYCxAE.jpg",
+    "en": "/uoIRv69kEfFqSfEoQyoVBmMIdfn.jpg"
+  },
+  "backdrops": [
+    "/8BIsBqUC93Er67lG5sc10wDf6ma.jpg"
+  ],
+  "trailerKey": "QwtWMI_aslo",
+  "genreIds": [
+    28,
+    80,
+    18,
+    37
+  ],
+  "keywordIds": [
+    378,
+    5657,
+    9503,
+    207928,
+    272521
+  ],
+  "countries": [
+    "AU"
+  ],
+  "languages": [],
+  "studios": [
+    "Mad Dog",
+    "Krystal Motion Picture Productions"
+  ],
+  "crew": [
+    {
+      "personId": 114629,
+      "job": "director"
+    },
+    {
+      "personId": 114629,
+      "job": "writer"
+    },
+    {
+      "personId": 3056,
+      "job": "producer"
+    },
+    {
+      "personId": 84960,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1605167,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2778,
+      "character": "Daniel Morgan",
+      "order": 0
+    },
+    {
+      "personId": 12536,
+      "character": "Detective Manwaring",
+      "order": 1
+    },
+    {
+      "personId": 53023,
+      "character": "Billy",
+      "order": 2
+    },
+    {
+      "personId": 23,
+      "character": "Sgt. Smith",
+      "order": 3
+    },
+    {
+      "personId": 10025,
+      "character": "Superintendent Cobham",
+      "order": 4
+    },
+    {
+      "personId": 50303,
+      "character": "Superintendent Winch",
+      "order": 5
+    },
+    {
+      "personId": 1218962,
+      "character": "Macpherson",
+      "order": 6
+    },
+    {
+      "personId": 93518,
+      "character": "Baylis",
+      "order": 7
+    },
+    {
+      "personId": 1219764,
+      "character": "Roget",
+      "order": 8
+    },
+    {
+      "personId": 85351,
+      "character": "Italian Jack",
+      "order": 9
+    },
+    {
+      "personId": 1605158,
+      "character": "Barmaid",
+      "order": 10
+    },
+    {
+      "personId": 1552054,
+      "character": "Farm Girl",
+      "order": 11
+    },
+    {
+      "personId": 1605159,
+      "character": "Morrow",
+      "order": 12
+    },
+    {
+      "personId": 1605161,
+      "character": "Dr. Dobbyn",
+      "order": 13
+    },
+    {
+      "personId": 1125223,
+      "character": "McLean",
+      "order": 14
+    },
+    {
+      "personId": 110493,
+      "character": "Alice",
+      "order": 15
+    },
+    {
+      "personId": 1605162,
+      "character": "Judge Barry",
+      "order": 16
+    },
+    {
+      "personId": 76186,
+      "character": "Gibson",
+      "order": 17
+    },
+    {
+      "personId": 110484,
+      "character": "Evans",
+      "order": 18
+    },
+    {
+      "personId": 231801,
+      "character": "Martin",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 52,
+  "sources": [
+    "cult-list"
+  ]
+}

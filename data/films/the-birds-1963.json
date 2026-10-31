@@ -1,0 +1,191 @@
+{
+  "tmdbId": 571,
+  "slug": "the-birds-1963",
+  "year": 1963,
+  "runtime": 119,
+  "originalTitle": "The Birds",
+  "title": {
+    "en": "The Birds",
+    "tr": "Kuşlar"
+  },
+  "overview": {
+    "en": "Thousands of birds flock into a seaside town and terrorize the residents in a series of deadly attacks.",
+    "tr": "Filmde Bodega sahiline saldıran farklı türlerden kuşların yol açtığı dehşet konu ediliyor. San Francisco’da bir evcil hayvan dükkanında başlayan ve bir aşk üçgeniyle ilerleyen film, bir doğumgünü esnasında kuşların saldırıya geçmesiyle devam eder.  Yönetmen Alfred Hitchcock Kuzey Kalifoniya’da tatil yaparken gazetede gördüğü bir haberden oldukça etkilenir. Haberde kıyı evlerine doğru saldırıya geçen deniz kuşlarından bahsedilmektedir. Bu olay ile Daphne du Maurier’in kısa bir öyküsü yönetmenin kafasında birleşince, Kuşlar filminin temelleri de atılmış olur."
+  },
+  "poster": {
+    "tr": "/zW1sZBOijWumT8zOcoCBBJO7fsI.jpg",
+    "en": "/ADoJaT1s9Jlcfx3Tw2MIZ1BMxo.jpg"
+  },
+  "backdrops": [
+    "/il5zDHC5sGe3ZHLhVi3tNFZ9Tt5.jpg",
+    "/8iblNVv03Fc7yBMfziD8y3eBmqY.jpg",
+    "/q2XxGMCO8Zey8YDrvQGi8P8ns5F.jpg",
+    "/chrEy1X4znoTlesC1o12ovrIeiz.jpg",
+    "/gDk6V1UJ2hEG2qA3aAWI4fAxzLt.jpg",
+    "/mcD7oJjarjehBD7YWYOIfuNd8rE.jpg",
+    "/98qofsLB8HwPsmlq0HczQTt8BcS.jpg",
+    "/nBPdQlSC8xp6LwtJl3skRucnd2z.jpg",
+    "/2U3aaLPkgMBjW2CGvT9gDrEmMoP.jpg",
+    "/bIUB0zIarjdqkDkuuom42IyqAh0.jpg"
+  ],
+  "trailerKey": "lCxR7dlavwg",
+  "genreIds": [
+    27,
+    53
+  ],
+  "keywordIds": [
+    2589,
+    3556,
+    5500,
+    11183,
+    10430,
+    14660,
+    156037,
+    156866,
+    168115,
+    170378,
+    172210,
+    172218,
+    172225,
+    172228,
+    240242,
+    321464,
+    369049
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Alfred J. Hitchcock Productions"
+  ],
+  "crew": [
+    {
+      "personId": 7394,
+      "job": "writer"
+    },
+    {
+      "personId": 2636,
+      "job": "director"
+    },
+    {
+      "personId": 2636,
+      "job": "producer"
+    },
+    {
+      "personId": 2654,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6929,
+      "character": "Melanie Daniels",
+      "order": 0
+    },
+    {
+      "personId": 8229,
+      "character": "Mitch Brenner",
+      "order": 1
+    },
+    {
+      "personId": 5698,
+      "character": "Lydia Brenner",
+      "order": 2
+    },
+    {
+      "personId": 8231,
+      "character": "Annie Hayworth",
+      "order": 3
+    },
+    {
+      "personId": 5047,
+      "character": "Cathy Brenner",
+      "order": 4
+    },
+    {
+      "personId": 8232,
+      "character": "Mrs. Bundy",
+      "order": 5
+    },
+    {
+      "personId": 8233,
+      "character": "Sebastian Sholes",
+      "order": 6
+    },
+    {
+      "personId": 85833,
+      "character": "Mrs. MacGruder",
+      "order": 7
+    },
+    {
+      "personId": 95598,
+      "character": "Deke Carter",
+      "order": 8
+    },
+    {
+      "personId": 78937,
+      "character": "Le voyageur de commerce au bar",
+      "order": 9
+    },
+    {
+      "personId": 89735,
+      "character": "Le pêcheur qui aide à la location de bateau",
+      "order": 10
+    },
+    {
+      "personId": 115460,
+      "character": "Deputy Al Malone",
+      "order": 11
+    },
+    {
+      "personId": 976801,
+      "character": "Postal Clerk",
+      "order": 12
+    },
+    {
+      "personId": 12158,
+      "character": "Le prophète de malheur ivre au bar",
+      "order": 13
+    },
+    {
+      "personId": 80206,
+      "character": "Mitch's City Neighbor",
+      "order": 14
+    },
+    {
+      "personId": 10776,
+      "character": "Helen Carter",
+      "order": 15
+    },
+    {
+      "personId": 107980,
+      "character": "Sam",
+      "order": 16
+    },
+    {
+      "personId": 2745,
+      "character": "Hysterical Mother in Diner",
+      "order": 17
+    },
+    {
+      "personId": 2636,
+      "character": "Pet Store Customer (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 79739,
+      "character": "Brunette Girl at Birthday Party (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "golden-globe": 1
+  },
+  "voteCount": 4628,
+  "sources": [
+    "cult-list"
+  ]
+}

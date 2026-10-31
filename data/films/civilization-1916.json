@@ -1,0 +1,163 @@
+{
+  "tmdbId": 120664,
+  "slug": "civilization-1916",
+  "year": 1916,
+  "runtime": 86,
+  "originalTitle": "Civilization",
+  "title": {
+    "en": "Civilization",
+    "tr": "Civilization"
+  },
+  "overview": {
+    "en": "Count Ferdinand, a submarine commander and secret pacifist refuses to torpedo a defenseless passenger ship during wartime. His submarine is sunk in the following fracas. In the spirit world, Christ commends the captain, and returns to earth in the commander's body to promote His message of peace.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/7IeGb9MLyZP7599FdA5M36nIot7.jpg",
+    "en": "/7IeGb9MLyZP7599FdA5M36nIot7.jpg"
+  },
+  "backdrops": [
+    "/jl2rQV7M1gPJEHDPnGv60SKJcmY.jpg",
+    "/uQrGsNNZJRYPiwGXUbo3mAsqsJD.jpg",
+    "/hZwYNmNlAdf4ShWkrAUF8Qg6kvF.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    154802
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Thomas H. Ince Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 1036754,
+      "job": "director"
+    },
+    {
+      "personId": 1072353,
+      "job": "director"
+    },
+    {
+      "personId": 931237,
+      "job": "director"
+    },
+    {
+      "personId": 587951,
+      "job": "writer"
+    },
+    {
+      "personId": 931237,
+      "job": "producer"
+    },
+    {
+      "personId": 1457398,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1157584,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 98028,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1566875,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 103020,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1566874,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 14411,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 418836,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 148849,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 145109,
+      "character": "A Mother",
+      "order": 0
+    },
+    {
+      "personId": 931241,
+      "character": "Luther Rolf - The Peace Advocate",
+      "order": 1
+    },
+    {
+      "personId": 68653,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 1566541,
+      "character": "The Christ",
+      "order": 3
+    },
+    {
+      "personId": 132322,
+      "character": "The Prime Minister",
+      "order": 4
+    },
+    {
+      "personId": 931237,
+      "character": "Himself - in Prologue",
+      "order": 5
+    },
+    {
+      "personId": 592836,
+      "character": "The King of Wredpryd",
+      "order": 6
+    },
+    {
+      "personId": 1372522,
+      "character": "Queen Engenie",
+      "order": 7
+    },
+    {
+      "personId": 33025,
+      "character": "Count Ferdinand",
+      "order": 8
+    },
+    {
+      "personId": 86185,
+      "character": "Katheryn Haldemann",
+      "order": 9
+    },
+    {
+      "personId": 98045,
+      "character": "Extra (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 103904,
+      "character": "Extra (uncredited)",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 14,
+  "sources": [
+    "cult-list"
+  ]
+}

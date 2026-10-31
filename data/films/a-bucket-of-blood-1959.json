@@ -1,0 +1,150 @@
+{
+  "tmdbId": 22642,
+  "slug": "a-bucket-of-blood-1959",
+  "year": 1959,
+  "runtime": 66,
+  "originalTitle": "A Bucket of Blood",
+  "title": {
+    "en": "A Bucket of Blood",
+    "tr": "A Bucket of Blood"
+  },
+  "overview": {
+    "en": "Nerdy Walter Paisley, a maladroit busboy at a beatnik café who doesn't fit in with the cool scene around him, attempts to woo his beautiful co-worker, Carla, by making a bust of her. When his klutziness results in the death of his landlady's cat, he panics and hides its body under a layer of plaster. But when Carla and her friends enthuse over the resulting artwork, Walter decides to create some bigger and more elaborate pieces using the same artistic process.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/fUZqTNinLruI6ZE7GQprY8t0Uwg.jpg",
+    "en": "/fUZqTNinLruI6ZE7GQprY8t0Uwg.jpg"
+  },
+  "backdrops": [
+    "/oOUJjdZio15xFkpWui2hwQJr2Nb.jpg",
+    "/eLN82uLULB8ui85774AHGtQcGSX.jpg",
+    "/wD8HgdGTgvXGfhSzdxXnUQ5CD31.jpg",
+    "/6OF2UGreFILNnoVKldhnkQl22En.jpg",
+    "/rxeXjETEcitfRxOr0KpdQPtyEsy.jpg",
+    "/pg78Qh1zH5GcUqqNuqufGhq5pG8.jpg",
+    "/4gsTOBGdC7n3VqcDivAGz0JKxun.jpg"
+  ],
+  "trailerKey": "hEfzyjJe0iY",
+  "genreIds": [
+    35,
+    27
+  ],
+  "keywordIds": [
+    2276,
+    2679,
+    6553,
+    6024,
+    9826,
+    233450
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "American International Pictures",
+    "Alta Vista Productions"
+  ],
+  "crew": [
+    {
+      "personId": 52140,
+      "job": "writer"
+    },
+    {
+      "personId": 102429,
+      "job": "director"
+    },
+    {
+      "personId": 89036,
+      "job": "composer"
+    },
+    {
+      "personId": 40392,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 102429,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 102441,
+      "character": "Walter Paisley",
+      "order": 0
+    },
+    {
+      "personId": 89037,
+      "character": "Carla",
+      "order": 1
+    },
+    {
+      "personId": 89038,
+      "character": "Leonard de Santis",
+      "order": 2
+    },
+    {
+      "personId": 89039,
+      "character": "Maxwell H. Brock",
+      "order": 3
+    },
+    {
+      "personId": 89040,
+      "character": "Art Lacroix",
+      "order": 4
+    },
+    {
+      "personId": 89041,
+      "character": "Will",
+      "order": 5
+    },
+    {
+      "personId": 102650,
+      "character": "Oscar",
+      "order": 6
+    },
+    {
+      "personId": 102651,
+      "character": "Alice",
+      "order": 7
+    },
+    {
+      "personId": 102652,
+      "character": "Mrs. Swickert",
+      "order": 8
+    },
+    {
+      "personId": 40401,
+      "character": "Lou Raby",
+      "order": 9
+    },
+    {
+      "personId": 98164,
+      "character": "Art Collector",
+      "order": 10
+    },
+    {
+      "personId": 114527,
+      "character": "Sylvia",
+      "order": 11
+    },
+    {
+      "personId": 3071033,
+      "character": "Naolia",
+      "order": 12
+    },
+    {
+      "personId": 114508,
+      "character": "Yellow Door Patron (uncredited)",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 171,
+  "sources": [
+    "cult-list"
+  ]
+}

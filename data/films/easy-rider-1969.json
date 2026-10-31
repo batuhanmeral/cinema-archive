@@ -1,0 +1,194 @@
+{
+  "tmdbId": 624,
+  "slug": "easy-rider-1969",
+  "year": 1969,
+  "runtime": 96,
+  "originalTitle": "Easy Rider",
+  "title": {
+    "en": "Easy Rider",
+    "tr": "Özgürlüğün Bedeli"
+  },
+  "overview": {
+    "en": "Wyatt and Billy, two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth.",
+    "tr": "Kült film sıfatını hakkıyla kazanmış filmlerin başında gelen Easy Rider, Hollywood’da başarılı ama bağımsız, karşı kültürel ve düşük bütçeli filmler dönemini başlatmıştır. Wyatt ve Billy adında iki motorcunun süslü Harley Davidson’ları üzerinde Los Angeles’tan doğuya doğru yaptıkları bu özgürlük arayışı, alternatif bir yol filmi olmakla birlikte iki kahramanın Amerikan rüyasına ulaşma yolunda bilinmezlerle dolu destansı yolculuklarını anlatıyor. Film, paranoyanın, bağnazlığın ve şiddetin hüküm sürdüğü konformist Amerika’da idealist 60’ların çöküşüne tanıklık ediyor. Filmde özgürlükler ülkesi olarak sunulan Amerika'nın aslında kendi içerisinde farklılıklara ve bireysel özgürlüğe karşı ne kadar hoşgörüsüz bir tutum takındığından bahsedilmektedir.Zamane kuşağın bu mantaliteyi değiştirmeye çalışması ve kendi bakış açısını ortaya çıkarma çabası filmin ana temasını oluşturur. Film dönemin en eleştirel yapımlarından biridir.."
+  },
+  "poster": {
+    "tr": "/3H3vwPGX6EbBRffIVHp3eHHcjka.jpg",
+    "en": "/8o52KCrYB1fXgEjxxpEwd1TH6X.jpg"
+  },
+  "backdrops": [
+    "/78dHjJKxKZ8JbCm3lEMjDRulLp.jpg",
+    "/ctWdpQM7yBlvWfCzb5LuOunfHvB.jpg",
+    "/66nV6EJgNpGeNQ5Ad2yXtkAtE4D.jpg",
+    "/u43x1sruw30PzTd1yBTEpYGk4Xy.jpg",
+    "/hSxB3Ur39zs1CL3gN9V1t7Pmtfp.jpg",
+    "/9ipExNADoNL2DVdO9Bq8McOxjMy.jpg",
+    "/qvTmYyYsv71qTq5syAq24k1kGk.jpg",
+    "/rBEXqx9ctYnnjztIM3ZR2oqqQ8S.jpg",
+    "/uQj4iSiODWJ3zRgcBSoEw0pKmFa.jpg",
+    "/172LjWm7LqV9wkji3OxSjbMIQwy.jpg"
+  ],
+  "trailerKey": "IlfpTppsR0U",
+  "genreIds": [
+    12,
+    18
+  ],
+  "keywordIds": [
+    704,
+    578,
+    526,
+    2149,
+    1411,
+    1803,
+    1632,
+    1679,
+    3306,
+    5498,
+    10776,
+    167043
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Columbia Pictures",
+    "Pando Company Inc.",
+    "BBS Productions"
+  ],
+  "crew": [
+    {
+      "personId": 8862,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2778,
+      "job": "director"
+    },
+    {
+      "personId": 8949,
+      "job": "producer"
+    },
+    {
+      "personId": 8949,
+      "job": "writer"
+    },
+    {
+      "personId": 2778,
+      "job": "writer"
+    },
+    {
+      "personId": 8950,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8949,
+      "character": "Wyatt",
+      "order": 0
+    },
+    {
+      "personId": 2778,
+      "character": "Billy",
+      "order": 1
+    },
+    {
+      "personId": 514,
+      "character": "George Hanson",
+      "order": 2
+    },
+    {
+      "personId": 8960,
+      "character": "Jesus",
+      "order": 3
+    },
+    {
+      "personId": 8961,
+      "character": "Connection",
+      "order": 4
+    },
+    {
+      "personId": 1779781,
+      "character": "Bodyguard",
+      "order": 5
+    },
+    {
+      "personId": 98204,
+      "character": "Rancher",
+      "order": 6
+    },
+    {
+      "personId": 1779782,
+      "character": "Rancher's Wife",
+      "order": 7
+    },
+    {
+      "personId": 8962,
+      "character": "Stranger on Highway",
+      "order": 8
+    },
+    {
+      "personId": 77485,
+      "character": "Lisa",
+      "order": 9
+    },
+    {
+      "personId": 131285,
+      "character": "Sarah",
+      "order": 10
+    },
+    {
+      "personId": 152725,
+      "character": "Joanne",
+      "order": 11
+    },
+    {
+      "personId": 15626,
+      "character": "Jack",
+      "order": 12
+    },
+    {
+      "personId": 134701,
+      "character": "Mime #1",
+      "order": 13
+    },
+    {
+      "personId": 2317645,
+      "character": "Mime #2",
+      "order": 14
+    },
+    {
+      "personId": 1779783,
+      "character": "Mime #3",
+      "order": 15
+    },
+    {
+      "personId": 15993,
+      "character": "Mime #4",
+      "order": 16
+    },
+    {
+      "personId": 3508368,
+      "character": "Guard",
+      "order": 17
+    },
+    {
+      "personId": 3508369,
+      "character": "Sheriff",
+      "order": 18
+    },
+    {
+      "personId": 3508371,
+      "character": "Cat Man",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2251,
+  "sources": [
+    "cult-list"
+  ]
+}

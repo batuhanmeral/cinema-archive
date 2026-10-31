@@ -1,0 +1,188 @@
+{
+  "tmdbId": 13241,
+  "slug": "my-winnipeg-2008",
+  "year": 2008,
+  "runtime": 80,
+  "originalTitle": "My Winnipeg",
+  "title": {
+    "en": "My Winnipeg",
+    "tr": "My Winnipeg"
+  },
+  "overview": {
+    "en": "The geographical dead center of North America and the beloved birthplace of Guy Maddin, Winnipeg, is the frosty and mysterious star of Maddin’s film. Fact, fantasy and memory are woven seamlessly together in this work, conjuring a city as delightful as it is fearsome.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/nytcKOHE4CF7OlSej4zpIVEbCy7.jpg",
+    "en": "/3bhYDX52InV32yWFNiZto4rLMOg.jpg"
+  },
+  "backdrops": [
+    "/s5e27x7tREwWQFQLcqFr8MCb8Fl.jpg",
+    "/hll7FguWZUjEwQ74LYgK8wd7mM0.jpg",
+    "/qmbdOTWPZg1MzbxktxQNu7z4M0W.jpg",
+    "/pL8VlyTuNMuDRnqRBJJ20p2tEKZ.jpg",
+    "/in12UfgcxFnFv1nzNLX3MuFuIFD.jpg",
+    "/bJPz53DSO4WxCIn8GgkDuMZtAt4.jpg",
+    "/ccQhsXJghgmJc1zrOLMbtK0R91e.jpg",
+    "/uQVv1hRW5tAB5EXYBgCq1zrA3Gu.jpg",
+    "/f4Ejsrjvc3MoXPDMasbrAbf8yU4.jpg",
+    "/wqWRcimMN32Asc758ZL421XfmHl.jpg"
+  ],
+  "trailerKey": "aY9BtROpNQ4",
+  "genreIds": [
+    18,
+    35,
+    14
+  ],
+  "keywordIds": [
+    193012
+  ],
+  "countries": [
+    "CA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Everyday Pictures",
+    "Buffalo Gal Pictures",
+    "Documentary Channel"
+  ],
+  "crew": [
+    {
+      "personId": 97579,
+      "job": "director"
+    },
+    {
+      "personId": 97579,
+      "job": "writer"
+    },
+    {
+      "personId": 1131840,
+      "job": "producer"
+    },
+    {
+      "personId": 141744,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 141744,
+      "job": "producer"
+    },
+    {
+      "personId": 97579,
+      "job": "producer"
+    },
+    {
+      "personId": 1382110,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 34330,
+      "character": "Mother",
+      "order": 0
+    },
+    {
+      "personId": 145601,
+      "character": "Mayor Cornish",
+      "order": 1
+    },
+    {
+      "personId": 117051,
+      "character": "Guy Maddin",
+      "order": 2
+    },
+    {
+      "personId": 27561,
+      "character": "Janet Maddin",
+      "order": 3
+    },
+    {
+      "personId": 1193257,
+      "character": "Cameron Maddin",
+      "order": 4
+    },
+    {
+      "personId": 1879796,
+      "character": "Ross Maddin",
+      "order": 5
+    },
+    {
+      "personId": 1879797,
+      "character": "Himself",
+      "order": 6
+    },
+    {
+      "personId": 1879798,
+      "character": "Himself",
+      "order": 7
+    },
+    {
+      "personId": 116932,
+      "character": "Citizen Girl",
+      "order": 8
+    },
+    {
+      "personId": 1879799,
+      "character": "Gwenyth Lloyd",
+      "order": 9
+    },
+    {
+      "personId": 1879800,
+      "character": "Viscount Gort",
+      "order": 10
+    },
+    {
+      "personId": 1879801,
+      "character": "Althea Cornish",
+      "order": 11
+    },
+    {
+      "personId": 3222051,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 6394464,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 6394465,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 6394466,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 6394467,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 5330214,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 2321313,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 6394470,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 117,
+  "sources": [
+    "cult-list"
+  ]
+}

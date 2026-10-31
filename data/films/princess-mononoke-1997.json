@@ -1,0 +1,202 @@
+{
+  "tmdbId": 128,
+  "slug": "princess-mononoke-1997",
+  "year": 1997,
+  "runtime": 134,
+  "originalTitle": "もののけ姫",
+  "title": {
+    "en": "Princess Mononoke",
+    "tr": "Prenses Mononoke"
+  },
+  "overview": {
+    "en": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
+    "tr": "Köyünde huzur dolu bir yaşamı olan Ashitaka, bir gün ormandan kötü bir varlığın gelmekte olduğu fark eder. Ormanın sınırından hızla çıkan Orman Tanrısı, değdiği her şeyi yok ederek ilerlemektedir. Köyünden küçük bir kızı kurtarmak için, canavara dönüşmüş olan Orman Tanrısı'na saldıran Ashitaka, mücadele sonunda canavarı öldürür ama ölümcül bir yara alarak lanetlenir.Bu lanetten kurtulmak için bir yol aramak üzere köyden ayrılan Ashitaka, kendisine yardım edebileceğini umduğu Ormanın Ruhu'nu aramaya başlar. Ancak Ormanın Ruhu'nu arayan başkaları da vardır: Lady Eboshi ve Irontown sakinleri. Lady Eboshi ve Prenses Mononoke arasındaki savaşta kazanan olmadığını ve hem insanların hem de doğanın zarar gördüğünü fark eden Ashitaka, onları durdurmaya çalışacaktır."
+  },
+  "poster": {
+    "tr": "/8d1goRMzqe0lonBQXaVaqmEXA8n.jpg",
+    "en": "/pdtzEreKvKAlqa2YEBaGwiA45V8.jpg"
+  },
+  "backdrops": [
+    "/mpNd0rTVrp6vHJ9Je7wSa3zC8JS.jpg",
+    "/sXV0NVLtyEsOdaEXnMcRGwUhIi0.jpg",
+    "/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg",
+    "/crn3nZHTQ7s1dT7MibMgI7AWhS4.jpg",
+    "/qgmLwmCD5wHaroLwuOJRqYeEslX.jpg",
+    "/zKYs6iZPjJi31k5SRvlnGOtx5tj.jpg",
+    "/nmnkFGBHyUv6AcbGLf9VTIJP4M9.jpg",
+    "/c0Jq3hyVg63tDYFLnqoi2RHUfEr.jpg",
+    "/qFWHqygVVJ8kbFgJ7qclkWFN71i.jpg",
+    "/rMFiGc8Riv2YtKX5RgS8N41NGLH.jpg"
+  ],
+  "trailerKey": "I1dHzoRl0sQ",
+  "genreIds": [
+    12,
+    14,
+    16
+  ],
+  "keywordIds": [
+    6054,
+    2763,
+    1994,
+    1721,
+    5276,
+    5277,
+    3341,
+    5650,
+    11181,
+    11004,
+    12995,
+    13153,
+    15001,
+    18330,
+    156388,
+    161919,
+    180549,
+    210024,
+    210434,
+    212737,
+    243267,
+    293198,
+    322942
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Studio Ghibli",
+    "dentsu",
+    "Tokuma Shoten"
+  ],
+  "crew": [
+    {
+      "personId": 636,
+      "job": "composer"
+    },
+    {
+      "personId": 19596,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1417,
+      "job": "producer"
+    },
+    {
+      "personId": 608,
+      "job": "director"
+    },
+    {
+      "personId": 608,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 622,
+      "character": "Ashitaka (voice)",
+      "order": 0
+    },
+    {
+      "personId": 20330,
+      "character": "San / Kaya (voice)",
+      "order": 1
+    },
+    {
+      "personId": 20331,
+      "character": "Eboshi Gozen (voice)",
+      "order": 2
+    },
+    {
+      "personId": 20332,
+      "character": "Jikobo (voice)",
+      "order": 3
+    },
+    {
+      "personId": 20333,
+      "character": "Kouroku (voice)",
+      "order": 4
+    },
+    {
+      "personId": 20334,
+      "character": "Gonza (voice)",
+      "order": 5
+    },
+    {
+      "personId": 20338,
+      "character": "Mrs. Moro (voice)",
+      "order": 6
+    },
+    {
+      "personId": 20339,
+      "character": "Mrs. Hii (voice)",
+      "order": 7
+    },
+    {
+      "personId": 20340,
+      "character": "Chief of Affairs (voice)",
+      "order": 8
+    },
+    {
+      "personId": 613,
+      "character": "Toki (voice)",
+      "order": 9
+    },
+    {
+      "personId": 20335,
+      "character": "Wild Dog (voice)",
+      "order": 10
+    },
+    {
+      "personId": 127834,
+      "character": "Tatari God (voice)",
+      "order": 11
+    },
+    {
+      "personId": 20337,
+      "character": "Cowherd (voice)",
+      "order": 12
+    },
+    {
+      "personId": 1739207,
+      "character": "Chief of the Sick (voice)",
+      "order": 13
+    },
+    {
+      "personId": 2023580,
+      "character": "Kiyo (voice)",
+      "order": 14
+    },
+    {
+      "personId": 1270596,
+      "character": "Cattleman (voice)",
+      "order": 15
+    },
+    {
+      "personId": 1029276,
+      "character": "Cattleman (voice)",
+      "order": 16
+    },
+    {
+      "personId": 1479549,
+      "character": "Cattleman (voice)",
+      "order": 17
+    },
+    {
+      "personId": 1243817,
+      "character": "Cattleman (voice)",
+      "order": 18
+    },
+    {
+      "personId": 142677,
+      "character": "Cattleman (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 9422,
+  "sources": [
+    "cult-list"
+  ]
+}

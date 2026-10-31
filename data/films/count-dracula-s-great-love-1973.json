@@ -1,0 +1,149 @@
+{
+  "tmdbId": 27395,
+  "slug": "count-dracula-s-great-love-1973",
+  "year": 1973,
+  "runtime": 85,
+  "originalTitle": "El gran amor del conde Drácula",
+  "title": {
+    "en": "Count Dracula's Great Love",
+    "tr": "El gran amor del conde Drácula"
+  },
+  "overview": {
+    "en": "Four women spending the night in a deserted sanitarium on a mountain fall into the hands of an evil doctor with a terrible secret.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/2RS1moMU7VsPFPgTkzEJTMIr9DZ.jpg",
+    "en": "/2RS1moMU7VsPFPgTkzEJTMIr9DZ.jpg"
+  },
+  "backdrops": [
+    "/8vWezom2WvhZ4k9vob1sbUsya28.jpg",
+    "/pfTibx5Rm7o2acdp7k9H8IRnOti.jpg",
+    "/aa6WLCNX7R5CP4f5xbbEeCtjBUl.jpg",
+    "/a5Xpw8C6lZOCj89oR0as76LZUJY.jpg",
+    "/tEskaa2ehmpPQaKjntZ3QChf8um.jpg"
+  ],
+  "trailerKey": "j15c0W7w8Y8",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    3133,
+    13006,
+    15032,
+    33981,
+    33998,
+    157758
+  ],
+  "countries": [
+    "ES"
+  ],
+  "languages": [
+    "es"
+  ],
+  "studios": [
+    "Janus Films"
+  ],
+  "crew": [
+    {
+      "personId": 25897,
+      "job": "director"
+    },
+    {
+      "personId": 31351,
+      "job": "writer"
+    },
+    {
+      "personId": 25897,
+      "job": "writer"
+    },
+    {
+      "personId": 100711,
+      "job": "writer"
+    },
+    {
+      "personId": 100713,
+      "job": "producer"
+    },
+    {
+      "personId": 103985,
+      "job": "composer"
+    },
+    {
+      "personId": 100714,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 31351,
+      "character": "Count Dracula / Dr. Wendell Marlow",
+      "order": 0
+    },
+    {
+      "personId": 39672,
+      "character": "Karen",
+      "order": 1
+    },
+    {
+      "personId": 97643,
+      "character": "Senta",
+      "order": 2
+    },
+    {
+      "personId": 97644,
+      "character": "Marlene",
+      "order": 3
+    },
+    {
+      "personId": 46426,
+      "character": "Elke",
+      "order": 4
+    },
+    {
+      "personId": 97645,
+      "character": "Imre Polvi",
+      "order": 5
+    },
+    {
+      "personId": 228494,
+      "character": "Porteador",
+      "order": 6
+    },
+    {
+      "personId": 32153,
+      "character": "Porteador",
+      "order": 7
+    },
+    {
+      "personId": 1605607,
+      "character": "Victim in Karen's dream - Image in Negative",
+      "order": 8
+    },
+    {
+      "personId": 1605608,
+      "character": "Peasant woman",
+      "order": 9
+    },
+    {
+      "personId": 72890,
+      "character": "Victim in Bed (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 2335531,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 2335532,
+      "character": "",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 51,
+  "sources": [
+    "cult-list"
+  ]
+}

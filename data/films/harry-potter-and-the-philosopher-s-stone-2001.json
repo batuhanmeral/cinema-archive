@@ -1,0 +1,204 @@
+{
+  "tmdbId": 671,
+  "slug": "harry-potter-and-the-philosopher-s-stone-2001",
+  "year": 2001,
+  "runtime": 152,
+  "originalTitle": "Harry Potter and the Philosopher's Stone",
+  "title": {
+    "en": "Harry Potter and the Philosopher's Stone",
+    "tr": "Harry Potter ve Felsefe Taşı"
+  },
+  "overview": {
+    "en": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+    "tr": "Harry Potter, muggle (büyücü yada cadı olmayan insanlar) amcası ve halasıyla sıradan ve zorluklarla dolu bir hayatı yaşarken, yılanlarla konuşabildiğinin, kızgınlık öfkesi sırasında eşyaları hareket ettirebildiğinin farkına varacaktır. Hogwarts Büyücülük ve Cadılık Okulu'ndan kabul edildiğini belirten mektup ise hayatının sıradanlığını değiştirecektir. Artık o bir büyücü adayıdır."
+  },
+  "poster": {
+    "tr": "/3mDokw9KewPQMpY1pB912Y9SVYB.jpg",
+    "en": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+  },
+  "backdrops": [
+    "/hziiv14OpD73u9gAak4XDDfBKa2.jpg",
+    "/lvOLivVeX3DVVcwfVkxKf0R22D8.jpg",
+    "/4GlSMUpzSd3cliYGFJVziSDX53S.jpg",
+    "/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg",
+    "/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg",
+    "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+    "/pZIiPOoNhhzVpBuVEpDK7vbBz4l.jpg",
+    "/pajKyahlPPggk0k5LiA2v4kwWqn.jpg",
+    "/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
+    "/hwInwXo34ji3QfcNXvFBC3GX2TA.jpg"
+  ],
+  "trailerKey": "l91Km49W9qI",
+  "genreIds": [
+    12,
+    14
+  ],
+  "keywordIds": [
+    616,
+    2921,
+    6054,
+    212,
+    818,
+    2343,
+    6271,
+    3230,
+    3650,
+    3884,
+    4238,
+    6733,
+    10873,
+    162846,
+    170362,
+    177912,
+    198168,
+    210246,
+    246466,
+    248927,
+    249680,
+    272301,
+    324016,
+    324713,
+    336530
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Heyday Films",
+    "1492 Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 10965,
+      "job": "director"
+    },
+    {
+      "personId": 10967,
+      "job": "writer"
+    },
+    {
+      "personId": 10968,
+      "job": "producer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 2702,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10980,
+      "character": "Harry Potter",
+      "order": 0
+    },
+    {
+      "personId": 10989,
+      "character": "Ron Weasley",
+      "order": 1
+    },
+    {
+      "personId": 10990,
+      "character": "Hermione Granger",
+      "order": 2
+    },
+    {
+      "personId": 194,
+      "character": "Albus Dumbledore",
+      "order": 3
+    },
+    {
+      "personId": 10993,
+      "character": "Draco Malfoy",
+      "order": 4
+    },
+    {
+      "personId": 4566,
+      "character": "Severus Snape",
+      "order": 5
+    },
+    {
+      "personId": 1923,
+      "character": "Hagrid",
+      "order": 6
+    },
+    {
+      "personId": 10978,
+      "character": "Professor McGonagall",
+      "order": 7
+    },
+    {
+      "personId": 10983,
+      "character": "Uncle Vernon Dursley",
+      "order": 8
+    },
+    {
+      "personId": 10985,
+      "character": "Professor Quirrell / Voldemort (voice)",
+      "order": 9
+    },
+    {
+      "personId": 10981,
+      "character": "Aunt Petunia Dursley",
+      "order": 10
+    },
+    {
+      "personId": 5049,
+      "character": "Mr Ollivander",
+      "order": 11
+    },
+    {
+      "personId": 11180,
+      "character": "Mr Filch",
+      "order": 12
+    },
+    {
+      "personId": 96841,
+      "character": "Neville Longbottom",
+      "order": 13
+    },
+    {
+      "personId": 11179,
+      "character": "Oliver Wood",
+      "order": 14
+    },
+    {
+      "personId": 11184,
+      "character": "Goblin Bank Teller / Professor Flitwick / Griphook (voice)",
+      "order": 15
+    },
+    {
+      "personId": 10982,
+      "character": "Dudley Dursley",
+      "order": 16
+    },
+    {
+      "personId": 96851,
+      "character": "Fred Weasley",
+      "order": 17
+    },
+    {
+      "personId": 140368,
+      "character": "George Weasley",
+      "order": 18
+    },
+    {
+      "personId": 8930,
+      "character": "Nearly Headless Nick",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 30527,
+  "sources": [
+    "cult-list"
+  ]
+}

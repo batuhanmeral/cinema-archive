@@ -1,0 +1,194 @@
+{
+  "tmdbId": 108,
+  "slug": "three-colors-blue-1993",
+  "year": 1993,
+  "runtime": 98,
+  "originalTitle": "Trois couleurs : Bleu",
+  "title": {
+    "en": "Three Colors: Blue",
+    "tr": "Üç Renk: Mavi"
+  },
+  "overview": {
+    "en": "The wife of a famous composer survives a car accident that kills her husband and daughter. Now alone, she shakes off her old identity and explores her newfound freedom but finds that she is unbreakably bound to other humans, including her husband’s mistress, whose existence she never suspected.",
+    "tr": "Julie, ünlü bir besteci olan kocasını ve kızını trafik kazasında kaybeder.kazadan yaralı kurtulan genç kadın yaşama küser ve geçmişini unutmaya çalışır. Özgürlük, Julie'nin geçmişini ardında bırakması, sorunlulukları olmadan yeni bir yaşam şeklini benimsemesidir. Bu amaçla evini veçevresindeki insaları terk eder. Ancak yalan ve ihtiras dolu ilişkilerin ördüğü bir ağ onu yavaş yavaş dış dünyaya çeker ve yüzleşmek istemediği hayaletlerle karşı karşıya bırakır."
+  },
+  "poster": {
+    "tr": "/iflMFbcAIqgBIBFTWBznRmQy9N5.jpg",
+    "en": "/ayKRZejiarjY4R3UE1JKlSYcyHk.jpg"
+  },
+  "backdrops": [
+    "/s9rWmLANsVlSV4XmuC0IUcseGzO.jpg",
+    "/1Lw01MQIH2fnsDuHm2M79PqSzdD.jpg",
+    "/pXvYw0QOPbHJVvwGbZfrSNY2vnB.jpg",
+    "/yAmHOzB19pcDToBrYraFsqRL3di.jpg",
+    "/9frBmhXaS9Y4nzbi5g40plyCqPZ.jpg",
+    "/nAyUVvcdOKHmukdgGHZ7xR5er1q.jpg",
+    "/rEOQ0ff61tGzMG1CxQWd6GIiH9F.jpg",
+    "/lNSgecOgRYGqRw8RyAl4KbczxDH.jpg",
+    "/keuLr5bkV2LHc2up6T2nXzcUgdC.jpg",
+    "/y9N5tFCxCi2AIedOhU3OrVMfL2d.jpg"
+  ],
+  "trailerKey": "kQjJoRl3bLc",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    254,
+    90,
+    1233,
+    4424,
+    5257,
+    697,
+    309029,
+    317819
+  ],
+  "countries": [
+    "FR",
+    "PL",
+    "CH"
+  ],
+  "languages": [
+    "fr",
+    "pl"
+  ],
+  "studios": [
+    "CED Productions",
+    "France 3 Cinéma",
+    "CAB Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1129,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1134,
+      "job": "producer"
+    },
+    {
+      "personId": 1135,
+      "job": "composer"
+    },
+    {
+      "personId": 1126,
+      "job": "director"
+    },
+    {
+      "personId": 1126,
+      "job": "writer"
+    },
+    {
+      "personId": 1132,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1137,
+      "character": "Julie",
+      "order": 0
+    },
+    {
+      "personId": 1138,
+      "character": "Olivier",
+      "order": 1
+    },
+    {
+      "personId": 1139,
+      "character": "Sandrine",
+      "order": 2
+    },
+    {
+      "personId": 1140,
+      "character": "Lucille",
+      "order": 3
+    },
+    {
+      "personId": 1141,
+      "character": "Journalist",
+      "order": 4
+    },
+    {
+      "personId": 1142,
+      "character": "Real Estate Agent",
+      "order": 5
+    },
+    {
+      "personId": 17894,
+      "character": "Doctor",
+      "order": 6
+    },
+    {
+      "personId": 38170,
+      "character": "Patrice (Julie's Husband)",
+      "order": 7
+    },
+    {
+      "personId": 267962,
+      "character": "Mother",
+      "order": 8
+    },
+    {
+      "personId": 53428,
+      "character": "The Copyist",
+      "order": 9
+    },
+    {
+      "personId": 538398,
+      "character": "The Downstairs Neighbour",
+      "order": 10
+    },
+    {
+      "personId": 2615834,
+      "character": "The Flutist",
+      "order": 11
+    },
+    {
+      "personId": 1950465,
+      "character": "The Neighbour",
+      "order": 12
+    },
+    {
+      "personId": 72592,
+      "character": "Antoine",
+      "order": 13
+    },
+    {
+      "personId": 145766,
+      "character": "The Lawyer",
+      "order": 14
+    },
+    {
+      "personId": 38501,
+      "character": "Maid",
+      "order": 15
+    },
+    {
+      "personId": 51948,
+      "character": "Gardiner",
+      "order": 16
+    },
+    {
+      "personId": 252044,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 78292,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 230153,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "venice": 1
+  },
+  "voteCount": 1977,
+  "sources": [
+    "cult-list"
+  ]
+}

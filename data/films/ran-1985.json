@@ -1,0 +1,224 @@
+{
+  "tmdbId": 11645,
+  "slug": "ran-1985",
+  "year": 1985,
+  "runtime": 160,
+  "originalTitle": "乱",
+  "title": {
+    "en": "Ran",
+    "tr": "Ran"
+  },
+  "overview": {
+    "en": "Shakespeare's King Lear is reimagined as a singular historical epic set in sixteenth-century Japan where an aging warlord divides his kingdom between his three sons.",
+    "tr": "Shakespeare’in Kral Lear’inde, 16. yy’ın yaşlı lordu Lear krallığını üç kızı arasında paylaştırmaya karar verir. Her biri ülkenin üç farklı yerindeki kalelerde yaşayarak sadakatlarini kanıtlayacaklardır. Büyük kızları menfaatleri için sahte bir samimiyet içine girerken, babasına duyduğu bağlılıkla en küçük kızı O’nun gerçekleri görmesi için uğraşır. Ran İngiliz edebiyatına ait bu eserinin Japon uyarlaması. Orjinalindeki kız çocuklar erkek olarak değiştirilmiş ve Kral Lear karakteri de Lord Hidetora Ichimonji olarak karşımıza çıkıyor."
+  },
+  "poster": {
+    "tr": "/dGgiXMWDcS5aJTBEFu7bmaQPNox.jpg",
+    "en": "/jK7aLEh1StwcLBK22NCHuDmCq90.jpg"
+  },
+  "backdrops": [
+    "/vxEfLEdPbUJW8ZD9ymGQ6ZJzuyf.jpg",
+    "/gfR3GEClL7WrNpQOg8mcPhM8fx6.jpg",
+    "/3ssNAWypRl47iriwBFNx7RUEUub.jpg",
+    "/zbcrN5wDVYG4wS6AybRGmgrzM9v.jpg",
+    "/4NCZqq3BaVXXvqyu6daXaDhJHXK.jpg",
+    "/vEg1MsBDgrpLZQx5ZzwR4ZDMUAS.jpg",
+    "/8GbCYjxJje77hl4OoO2QSl7AvWG.jpg",
+    "/3nQm5pMc2mJTCNnjfDOrmVD7xNX.jpg",
+    "/8wdxa4JgiAXvITgqkra1W0Dpii5.jpg",
+    "/bKdsXPWIIuRrDOxoO2WlSSUm5lU.jpg"
+  ],
+  "trailerKey": "29ukiH4_GvQ",
+  "genreIds": [
+    28,
+    18,
+    36
+  ],
+  "keywordIds": [
+    441,
+    4152,
+    1419,
+    5332,
+    3098,
+    4063,
+    5515,
+    9748,
+    11323,
+    12995,
+    15060,
+    18100,
+    156479,
+    162715,
+    186753,
+    192772,
+    196349,
+    198754,
+    204055,
+    215015,
+    309974,
+    325854
+  ],
+  "countries": [
+    "JP",
+    "FR"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Nippon Herald Films",
+    "Greenwich Film Production",
+    "Herald Ace"
+  ],
+  "crew": [
+    {
+      "personId": 70129,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 70130,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 20827,
+      "job": "writer"
+    },
+    {
+      "personId": 5026,
+      "job": "writer"
+    },
+    {
+      "personId": 70128,
+      "job": "producer"
+    },
+    {
+      "personId": 34380,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 37456,
+      "job": "producer"
+    },
+    {
+      "personId": 5026,
+      "job": "director"
+    },
+    {
+      "personId": 51808,
+      "job": "composer"
+    },
+    {
+      "personId": 34372,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 70131,
+      "character": "Lord Hidetora Ichimonji",
+      "order": 0
+    },
+    {
+      "personId": 70132,
+      "character": "Taro Takatora Ichimonji",
+      "order": 1
+    },
+    {
+      "personId": 70133,
+      "character": "Jiro Masatora Ichimonji",
+      "order": 2
+    },
+    {
+      "personId": 70134,
+      "character": "Saburo Naotora Ichimonji",
+      "order": 3
+    },
+    {
+      "personId": 72607,
+      "character": "Lady Kaede",
+      "order": 4
+    },
+    {
+      "personId": 237362,
+      "character": "Lady Sue",
+      "order": 5
+    },
+    {
+      "personId": 149405,
+      "character": "Tsurumaru",
+      "order": 6
+    },
+    {
+      "personId": 96637,
+      "character": "Shuri Kurogane",
+      "order": 7
+    },
+    {
+      "personId": 17538,
+      "character": "Kyoami",
+      "order": 8
+    },
+    {
+      "personId": 19049,
+      "character": "Tango Hirayama",
+      "order": 9
+    },
+    {
+      "personId": 552194,
+      "character": "Kageyu Ikoma",
+      "order": 10
+    },
+    {
+      "personId": 1484298,
+      "character": "Shumenosuke Ogura",
+      "order": 11
+    },
+    {
+      "personId": 52211,
+      "character": "Mondo Naganuma",
+      "order": 12
+    },
+    {
+      "personId": 1484313,
+      "character": "Fujimaki's General",
+      "order": 13
+    },
+    {
+      "personId": 552198,
+      "character": "Samon Shirane",
+      "order": 14
+    },
+    {
+      "personId": 134319,
+      "character": "Kaede's lady in waiting",
+      "order": 15
+    },
+    {
+      "personId": 1484312,
+      "character": "Hideota's concubine",
+      "order": 16
+    },
+    {
+      "personId": 1484310,
+      "character": "Sue's lady in waiting",
+      "order": 17
+    },
+    {
+      "personId": 1484311,
+      "character": "Hidetora's concubine",
+      "order": 18
+    },
+    {
+      "personId": 1201023,
+      "character": "Sue's lady in waiting",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 1954,
+  "sources": [
+    "cult-list"
+  ]
+}

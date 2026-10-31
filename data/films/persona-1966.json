@@ -1,0 +1,128 @@
+{
+  "tmdbId": 797,
+  "slug": "persona-1966",
+  "year": 1966,
+  "runtime": 85,
+  "originalTitle": "Persona",
+  "title": {
+    "en": "Persona",
+    "tr": "Persona"
+  },
+  "overview": {
+    "en": "A young nurse, Alma, is put in charge of Elisabeth Vogler: an actress who is seemingly healthy in all respects, but will not talk. As they spend time together, Alma speaks to Elisabeth constantly, never receiving any answer.",
+    "tr": "Genç bir hemşire olan Alma, her bakımdan sağlıklı görünen ancak konuşmayı reddeden aktris Elisabeth Vogler'ın bakımını üstlenir. Birlikte vakit geçirdikleri süre boyunca Alma sürekli Elisabeth ile konuşur, fakat hiçbir zaman yanıt alamaz."
+  },
+  "poster": {
+    "tr": "/cl0HEZT8UfzLqaMrYTvGNHOfPYj.jpg",
+    "en": "/kCm9mZKku9xe8hDYeL3JXDqFGQq.jpg"
+  },
+  "backdrops": [
+    "/32YB3OXR036XBi1Dm5i9D0hDM2o.jpg",
+    "/m7U3G8TyUIUsIXVvXrqd2VmVGjC.jpg",
+    "/sj2aZDetPE8RoOCAm5QJitCNfLr.jpg",
+    "/32gSSQeykkCvmQ3rJ6mt6pht8cz.jpg",
+    "/ahgxJQqAihLm7P8lVbglKtww49w.jpg",
+    "/tL2I6fFO8E1iC8zDDobmQxUH82M.jpg",
+    "/wCUrWanUYeQU8vWiwRlGURFFJWz.jpg",
+    "/iy60XkLC2S83hhujCQfltJDEQCN.jpg",
+    "/bzVYCwNX2MjqNkWlZqh05f3xDc0.jpg",
+    "/7wd6JSa6WGdlle9wBPIsDp2vzWO.jpg"
+  ],
+  "trailerKey": "8ZO01M8k1mg",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1566,
+    428,
+    718,
+    3394,
+    4280,
+    10085,
+    10392,
+    12999,
+    14781,
+    159313,
+    166989,
+    197582,
+    198914,
+    210434,
+    225219,
+    227947,
+    228296,
+    252612,
+    273000,
+    325761,
+    325763,
+    325778,
+    325806
+  ],
+  "countries": [
+    "SE"
+  ],
+  "languages": [
+    "sv"
+  ],
+  "studios": [
+    "SF Studios"
+  ],
+  "crew": [
+    {
+      "personId": 6648,
+      "job": "director"
+    },
+    {
+      "personId": 6648,
+      "job": "writer"
+    },
+    {
+      "personId": 6648,
+      "job": "producer"
+    },
+    {
+      "personId": 11904,
+      "job": "composer"
+    },
+    {
+      "personId": 11905,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6657,
+      "character": "Alma",
+      "order": 0
+    },
+    {
+      "personId": 11916,
+      "character": "Elisabet Vogler",
+      "order": 1
+    },
+    {
+      "personId": 11917,
+      "character": "The Doctor",
+      "order": 2
+    },
+    {
+      "personId": 6649,
+      "character": "Herr Vogler",
+      "order": 3
+    },
+    {
+      "personId": 11918,
+      "character": "Elisabet's Son (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 6340224,
+      "character": "Self - burning monk (archive footage)",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 2517,
+  "sources": [
+    "cult-list"
+  ]
+}

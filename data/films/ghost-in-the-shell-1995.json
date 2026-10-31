@@ -1,0 +1,210 @@
+{
+  "tmdbId": 9323,
+  "slug": "ghost-in-the-shell-1995",
+  "year": 1995,
+  "runtime": 83,
+  "originalTitle": "GHOST IN THE SHELL / 攻殻機動隊",
+  "title": {
+    "en": "Ghost in the Shell",
+    "tr": "Kabuktaki Hayalet"
+  },
+  "overview": {
+    "en": "In the year 2029, the barriers of our world have been broken down by the net and by cybernetics, but this brings new vulnerability to humans in the form of brain-hacking. When a highly-wanted hacker known as 'The Puppetmaster' begins involving them in politics, Section 9, a group of cybernetically enhanced cops, are called in to investigate and stop the Puppetmaster.",
+    "tr": "Yıl 2029. Dünya, Net sayesinde sınırsız hale geldi ve insanlar artık sanal dünyada yaşamaya başladılar. Düzen, süper güçlü ve istedikleri yere download olabilen polisler tarafından sağlanıyor. Japonya'da, Dışişleri Bakanlığı tarafından yaratılmış ve net ortamında istediği gibi hareket edebilen Project 2501 kod adlı bir süper ajan, bilgi denizinde kazandığı bilinçle kendisine bir beden arayışına başlar. The Puppet Master (Kuklacı) olarak kendisini tanıtan ajan, onun varlığından habersiz hükümet istihbarat birimleri tarafından bir güvenlik tehditi olarak görülür ve yakalanması için peşine iki ajan takılır. Yarı sibernetik yarı insan olan iki ajandan son derece iyi eğitimli kadın ajan Albay Motoko Kusanagi, Kuklacı'ya ulaşınca onunla aynı bedende buluşmak isteyecektir."
+  },
+  "poster": {
+    "tr": "/m8SZ2umV6ySGvCneOlMT3B0hAS0.jpg",
+    "en": "/9gC88zYUBARRSThcG93MvW14sqx.jpg"
+  },
+  "backdrops": [
+    "/m1LUdsYnFThcrbvRzlpbsFioEQT.jpg",
+    "/g0pF9jXhPqm6TN3AAMWn0YeYayi.jpg",
+    "/jIpagj2Dud9g3ZVJFvaWikEWsYz.jpg",
+    "/jP8EBGemoBTZbZGl0mGMsdupByR.jpg",
+    "/gTRXgigmgKpeJjW07iq686HZyBD.jpg",
+    "/hYNNSR29SX3ki2ALVvUNtCNadx7.jpg",
+    "/bnp0doEOZAzQauFbfdT3MwgfX7j.jpg",
+    "/j1evUCFXoTmxLrZ1MuzXwcJvfM8.jpg",
+    "/iBsyA5CBkppjo4fy4o4w9tCYPCs.jpg",
+    "/kgyGxBYwxZYifUZ6K7kKSYFKxGW.jpg"
+  ],
+  "trailerKey": "R1K__7QhLaA",
+  "genreIds": [
+    28,
+    16,
+    878
+  ],
+  "keywordIds": [
+    803,
+    312,
+    310,
+    2812,
+    679,
+    4565,
+    8499,
+    10718,
+    11322,
+    12190,
+    12375,
+    13141,
+    161919,
+    178657,
+    197582,
+    210024,
+    212737,
+    321464
+  ],
+  "countries": [
+    "JP",
+    "GB"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Bandai Visual",
+    "Production I.G",
+    "Kodansha"
+  ],
+  "crew": [
+    {
+      "personId": 12180,
+      "job": "director"
+    },
+    {
+      "personId": 57302,
+      "job": "writer"
+    },
+    {
+      "personId": 12186,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12183,
+      "job": "producer"
+    },
+    {
+      "personId": 57305,
+      "job": "producer"
+    },
+    {
+      "personId": 57304,
+      "job": "composer"
+    },
+    {
+      "personId": 2044952,
+      "job": "producer"
+    },
+    {
+      "personId": 1102166,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 34923,
+      "character": "Motoko Kusanagi (voice)",
+      "order": 0
+    },
+    {
+      "personId": 40451,
+      "character": "Batou (voice)",
+      "order": 1
+    },
+    {
+      "personId": 625,
+      "character": "Puppetmaster (voice)",
+      "order": 2
+    },
+    {
+      "personId": 20664,
+      "character": "Togusa (voice)",
+      "order": 3
+    },
+    {
+      "personId": 83933,
+      "character": "Ishikawa (voice)",
+      "order": 4
+    },
+    {
+      "personId": 12199,
+      "character": "Aramaki (voice)",
+      "order": 5
+    },
+    {
+      "personId": 1681,
+      "character": "Director Nakamura (voice)",
+      "order": 6
+    },
+    {
+      "personId": 1765827,
+      "character": "Dr. Willis (voice)",
+      "order": 7
+    },
+    {
+      "personId": 1241453,
+      "character": "Minister of Foreign Affairs (voice)",
+      "order": 8
+    },
+    {
+      "personId": 548015,
+      "character": "Gaikôkan (voice)",
+      "order": 9
+    },
+    {
+      "personId": 115304,
+      "character": "Mizuho Daita (voice)",
+      "order": 10
+    },
+    {
+      "personId": 552339,
+      "character": "Garbage Collector A (voice)",
+      "order": 11
+    },
+    {
+      "personId": 105816,
+      "character": "Garbage Collector B (voice)",
+      "order": 12
+    },
+    {
+      "personId": 1222145,
+      "character": "Coroner (voice)",
+      "order": 13
+    },
+    {
+      "personId": 554536,
+      "character": "Old Man (voice)",
+      "order": 14
+    },
+    {
+      "personId": 216330,
+      "character": "Terrorist (voice)",
+      "order": 15
+    },
+    {
+      "personId": 1765831,
+      "character": "Technician (voice)",
+      "order": 16
+    },
+    {
+      "personId": 125616,
+      "character": "Driver (voice)",
+      "order": 17
+    },
+    {
+      "personId": 1765833,
+      "character": "Operator (voice)",
+      "order": 18
+    },
+    {
+      "personId": 65427,
+      "character": "Communication (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4121,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "tmdbId": 79746,
+  "slug": "the-terrornauts-1967",
+  "year": 1967,
+  "runtime": 77,
+  "originalTitle": "The Terrornauts",
+  "title": {
+    "en": "The Terrornauts",
+    "tr": "The Terrornauts"
+  },
+  "overview": {
+    "en": "A group of scientists are kidnapped and taken to an outer space outpost in order to save Earth from destruction.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5BlH6ozzUcdFknK4iUk6akIfdkQ.jpg",
+    "en": "/6TDsyvohGaarNd951mjJLZyfRd6.jpg"
+  },
+  "backdrops": [
+    "/8ZLOfSFjSMBwCU9WxoSpxCumXuB.jpg",
+    "/wjgdFaH7UTtpSaDC5Gr1wA3IiFx.jpg",
+    "/cEdunuLFTU9VYaM0tjmGw2EeEp3.jpg"
+  ],
+  "trailerKey": "Eleg6K3kDqQ",
+  "genreIds": [
+    878
+  ],
+  "keywordIds": [],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Amicus Productions"
+  ],
+  "crew": [
+    {
+      "personId": 587937,
+      "job": "writer"
+    },
+    {
+      "personId": 130945,
+      "job": "director"
+    },
+    {
+      "personId": 11123,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30169,
+      "job": "producer"
+    },
+    {
+      "personId": 90077,
+      "job": "producer"
+    },
+    {
+      "personId": 588901,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 122919,
+      "character": "Dr. Joe Burke",
+      "order": 0
+    },
+    {
+      "personId": 9875,
+      "character": "Sandy Lund",
+      "order": 1
+    },
+    {
+      "personId": 40944,
+      "character": "Joshua Yellowlees",
+      "order": 2
+    },
+    {
+      "personId": 12658,
+      "character": "Mrs. Jones",
+      "order": 3
+    },
+    {
+      "personId": 129031,
+      "character": "Ben Keller",
+      "order": 4
+    },
+    {
+      "personId": 77312,
+      "character": "Dr. Henry Shore",
+      "order": 5
+    },
+    {
+      "personId": 587939,
+      "character": "Burke (as a child)",
+      "order": 6
+    },
+    {
+      "personId": 587943,
+      "character": "Nick",
+      "order": 7
+    },
+    {
+      "personId": 47848,
+      "character": "Gendarme",
+      "order": 8
+    },
+    {
+      "personId": 238167,
+      "character": "Uncle",
+      "order": 9
+    },
+    {
+      "personId": 189242,
+      "character": "Robot Operator",
+      "order": 10
+    },
+    {
+      "personId": 25498,
+      "character": "Danny",
+      "order": 11
+    },
+    {
+      "personId": 6015676,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 5518069,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 2001419,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 2222694,
+      "character": "",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 15,
+  "sources": [
+    "cult-list"
+  ]
+}

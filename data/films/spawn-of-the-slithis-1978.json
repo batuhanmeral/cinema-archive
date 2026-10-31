@@ -1,0 +1,177 @@
+{
+  "tmdbId": 83172,
+  "slug": "spawn-of-the-slithis-1978",
+  "year": 1978,
+  "runtime": 86,
+  "originalTitle": "Spawn of the Slithis",
+  "title": {
+    "en": "Spawn of the Slithis",
+    "tr": "Spawn of the Slithis"
+  },
+  "overview": {
+    "en": "A nuclear leak creates a mutant Slithis sea monster, which terrorizes the variety of pets, winos, and hippies who hang around Venice, California.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/kk2yyfgTA9qtBhtu7016jdeOzJP.jpg",
+    "en": "/yER2hqi9Rf8df7nfKIRHbwUAadM.jpg"
+  },
+  "backdrops": [
+    "/dRHvvnC6Pm1YBr4E8TUBu9PC24z.jpg",
+    "/1TuV089QOQ46WhA2q4kelBYIvUK.jpg",
+    "/te65srL0EudxqRWwOdhSp9D0YzK.jpg"
+  ],
+  "trailerKey": "pFpoQdfHzbI",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    387,
+    1299,
+    1852,
+    14760,
+    33696,
+    155652
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Fabtrax Films"
+  ],
+  "crew": [
+    {
+      "personId": 108915,
+      "job": "director"
+    },
+    {
+      "personId": 108915,
+      "job": "producer"
+    },
+    {
+      "personId": 108915,
+      "job": "writer"
+    },
+    {
+      "personId": 1500664,
+      "job": "producer"
+    },
+    {
+      "personId": 30946,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1212106,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 929276,
+      "character": "Wayne Connors",
+      "order": 0
+    },
+    {
+      "personId": 929277,
+      "character": "Jeff Connors",
+      "order": 1
+    },
+    {
+      "personId": 929278,
+      "character": "Dr. Erin Burick",
+      "order": 2
+    },
+    {
+      "personId": 1178057,
+      "character": "Dr. John",
+      "order": 3
+    },
+    {
+      "personId": 1178058,
+      "character": "Chris Alexander",
+      "order": 4
+    },
+    {
+      "personId": 1500658,
+      "character": "The Monster",
+      "order": 5
+    },
+    {
+      "personId": 1500659,
+      "character": "Preston, wino #1",
+      "order": 6
+    },
+    {
+      "personId": 1500660,
+      "character": "Bunky, wino #2",
+      "order": 7
+    },
+    {
+      "personId": 107074,
+      "character": "Jack Dunn",
+      "order": 8
+    },
+    {
+      "personId": 1500661,
+      "character": "Helen Dunn",
+      "order": 9
+    },
+    {
+      "personId": 1500662,
+      "character": "Doug",
+      "order": 10
+    },
+    {
+      "personId": 1500663,
+      "character": "Jennifer",
+      "order": 11
+    },
+    {
+      "personId": 159000,
+      "character": "Rex",
+      "order": 12
+    },
+    {
+      "personId": 3961567,
+      "character": "Drunk #1",
+      "order": 13
+    },
+    {
+      "personId": 2489260,
+      "character": "Drunk #2",
+      "order": 14
+    },
+    {
+      "personId": 3855560,
+      "character": "Drunk #3",
+      "order": 15
+    },
+    {
+      "personId": 3961570,
+      "character": "Policeman at house",
+      "order": 16
+    },
+    {
+      "personId": 3961572,
+      "character": "Chris' Uncle",
+      "order": 17
+    },
+    {
+      "personId": 3961575,
+      "character": "Kid throwing frisbee #1",
+      "order": 18
+    },
+    {
+      "personId": 3961576,
+      "character": "Kid throwing frisbee #2",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 43,
+  "sources": [
+    "cult-list"
+  ]
+}

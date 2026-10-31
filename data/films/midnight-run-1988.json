@@ -1,0 +1,187 @@
+{
+  "tmdbId": 9013,
+  "slug": "midnight-run-1988",
+  "year": 1988,
+  "runtime": 126,
+  "originalTitle": "Midnight Run",
+  "title": {
+    "en": "Midnight Run",
+    "tr": "Geceyarısı Avı"
+  },
+  "overview": {
+    "en": "A bounty hunter pursues a former Mafia accountant who is also being chased by a rival bounty hunter, the F.B.I., and his old mob boss after jumping bail.",
+    "tr": "Jack Walsh (Robert De Niro) şimdilerde ödül avcısı eski bir polistir. Johathan \"The Duke\" Mardukas (Charles Grdoin) ise mafyayı dolandırıp zimmetine tam 15 milyon dolar para ele geçirip bunu hayır kuruluşlarınıa bağışlamış duyarlı bir muhasebecidir. Bu arada Jack'e Duke'u New York'tan Los Angeles'a sağ ve zamanında getirmesi karşılığında 100,000 dolar teklif edilir. Kulağa her zamanki sıradan ödül avlarından biri gibi gelmektedir ama olaylar hiç de beklendiği gibi gelişmez. FBI tanıklık etmesi için Duke'ün peşindedir, mafya ise intikam için ve bir de Wlash vardır tabi Düke'ün peşinde onu susturmak için. Sadece birisinin bile görevini yapamaması ikilinin ölümü demektir..."
+  },
+  "poster": {
+    "tr": "/1biURLJInk0iV7VwGGXPgiPQEK0.jpg",
+    "en": "/avLXoDhPPbKgdOU7wsoVlOzYfUP.jpg"
+  },
+  "backdrops": [
+    "/4GNvZJ4ZdhAfpSM47QxMnJYH44r.jpg",
+    "/zp85oam4aEpyglf2Mm6gVtPvEOh.jpg",
+    "/le6vH4bcphLYBUlVDU4CRrVL8Ae.jpg",
+    "/wmXycC7VrfipuzriFLCZIjdoxMO.jpg",
+    "/lUtWBPOnzYQzf2c7rgLBk6dKezO.jpg",
+    "/vpEsYg3KRye4zC8eNyOGH0Hmmen.jpg",
+    "/5bJuEI1jHkZIktD3vnshdWkJSH8.jpg",
+    "/lSnUbW2vVuIVuwlKgzRe2IKHNT2.jpg",
+    "/9DQqA8ul9LTJNOxXEa3TeddySne.jpg",
+    "/fMz0Yo01S2dRz2ACrKQpZleBUih.jpg"
+  ],
+  "trailerKey": "Geo_tNuNgD8",
+  "genreIds": [
+    35,
+    80,
+    53
+  ],
+  "keywordIds": [
+    7340,
+    7312,
+    15214,
+    167541,
+    168333,
+    168338,
+    168342,
+    168346,
+    168347,
+    168350,
+    168359
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Universal Pictures",
+    "City Light Films"
+  ],
+  "crew": [
+    {
+      "personId": 769,
+      "job": "producer"
+    },
+    {
+      "personId": 531,
+      "job": "composer"
+    },
+    {
+      "personId": 6490,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 769,
+      "job": "director"
+    },
+    {
+      "personId": 21792,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 380,
+      "character": "John Wesley “Jack” Walsh",
+      "order": 0
+    },
+    {
+      "personId": 28164,
+      "character": "Jonathan Mardukas aka “The Duke”",
+      "order": 1
+    },
+    {
+      "personId": 5050,
+      "character": "Alonzo Mosely, Special Agent, F.B.I.",
+      "order": 2
+    },
+    {
+      "personId": 778,
+      "character": "Marvin Dorfler, Headhunter",
+      "order": 3
+    },
+    {
+      "personId": 1117,
+      "character": "Jimmy Serrano, Chicago mobster",
+      "order": 4
+    },
+    {
+      "personId": 532,
+      "character": "Eddie Moscone, Bail Bonder",
+      "order": 5
+    },
+    {
+      "personId": 47771,
+      "character": "Tony Darvo, Serrano's henchman",
+      "order": 6
+    },
+    {
+      "personId": 20625,
+      "character": "Joey, Serrano's henchman",
+      "order": 7
+    },
+    {
+      "personId": 1273,
+      "character": "Jerry Geisler, Tony's secretary",
+      "order": 8
+    },
+    {
+      "personId": 64857,
+      "character": "Gail, Jack's ex-wife",
+      "order": 9
+    },
+    {
+      "personId": 4492,
+      "character": "Sidney, Chicago mobster",
+      "order": 10
+    },
+    {
+      "personId": 27544,
+      "character": "F.B.I. Agent Perry",
+      "order": 11
+    },
+    {
+      "personId": 15442,
+      "character": "F.B.I. Agent Tuttle",
+      "order": 12
+    },
+    {
+      "personId": 1409893,
+      "character": "Denise Walsh, Jack's daughter",
+      "order": 13
+    },
+    {
+      "personId": 154727,
+      "character": "Red Wood, Bar Tender",
+      "order": 14
+    },
+    {
+      "personId": 1580500,
+      "character": "Bus Ticket Clerk",
+      "order": 15
+    },
+    {
+      "personId": 42316,
+      "character": "Monroe Bouchet",
+      "order": 16
+    },
+    {
+      "personId": 2510901,
+      "character": "Sergeant Gooch",
+      "order": 17
+    },
+    {
+      "personId": 2013971,
+      "character": "Stanley",
+      "order": 18
+    },
+    {
+      "personId": 79020,
+      "character": "Boy on Plane",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1370,
+  "sources": [
+    "cult-list"
+  ]
+}

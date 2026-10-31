@@ -1,0 +1,220 @@
+{
+  "tmdbId": 770,
+  "slug": "gone-with-the-wind-1939",
+  "year": 1939,
+  "runtime": 238,
+  "originalTitle": "Gone with the Wind",
+  "title": {
+    "en": "Gone with the Wind",
+    "tr": "Rüzgâr Gibi Geçti"
+  },
+  "overview": {
+    "en": "The spoiled daughter of a Georgia plantation owner conducts a tumultuous romance with a cynical profiteer during the American Civil War and Reconstruction Era.",
+    "tr": "Güneyli güzel Scarlett O'Hara üç evliliği, iç savaş ve Güneyin yeniden inşaa edilmesi sürecinde zenginlikten fakirliğe düşüşünü, sonra yeniden zenginliğe kavuşmasını anlatan film, Margaret Mitchell'in klasik eserinden sinemaya uyarlanmış olup yapımcı David O. Selznick'in en başarılı eseri kabul edilmiştir."
+  },
+  "poster": {
+    "tr": "/h5nPZruCCL9V5uvBHhKzcfMyT2f.jpg",
+    "en": "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg"
+  },
+  "backdrops": [
+    "/4FHcxMtVruMr7ltU2cItWssLjTP.jpg",
+    "/ft8WRF2xqEwwGWa59naDUybKTAx.jpg",
+    "/AfK1tyoO0i47mzKhA9BJVNGq1vg.jpg",
+    "/p6LJ6Hs3gMe6htojTxY8SMetwGP.jpg",
+    "/vyuuBntnqb8IcElyVrL0ZWXXUWL.jpg",
+    "/beoILCPOItnRIM3WkR5gfwJCx2R.jpg",
+    "/bhXmazONJjUozmVzmYSYWl8QVmK.jpg",
+    "/bmiH9aW5dMEzfmIPglBwEhU6L1g.jpg",
+    "/pLaTXoHAIKmzDjnLXr0pfqjpWNQ.jpg",
+    "/617gkk9GF1w6ATepEV3exbCgAEo.jpg"
+  ],
+  "trailerKey": "h2oX0zQA67U",
+  "genreIds": [
+    18,
+    10752,
+    10749
+  ],
+  "keywordIds": [
+    393,
+    818,
+    5809,
+    697,
+    4129,
+    2076,
+    2831,
+    3136,
+    4020,
+    9840,
+    158480,
+    160955,
+    163079,
+    179585,
+    210008,
+    211659,
+    226288,
+    248869,
+    273293,
+    273294,
+    309427,
+    325813,
+    354429,
+    354430
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Selznick International Pictures",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 3249,
+      "job": "composer"
+    },
+    {
+      "personId": 2774,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3248,
+      "job": "producer"
+    },
+    {
+      "personId": 9049,
+      "job": "director"
+    },
+    {
+      "personId": 11488,
+      "job": "writer"
+    },
+    {
+      "personId": 3248,
+      "job": "writer"
+    },
+    {
+      "personId": 4341,
+      "job": "writer"
+    },
+    {
+      "personId": 82172,
+      "job": "writer"
+    },
+    {
+      "personId": 20599,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10538,
+      "character": "Scarlett O'Hara",
+      "order": 0
+    },
+    {
+      "personId": 11492,
+      "character": "Rhett Butler",
+      "order": 1
+    },
+    {
+      "personId": 8725,
+      "character": "Melanie Hamilton",
+      "order": 2
+    },
+    {
+      "personId": 11493,
+      "character": "Ashley Wilkes",
+      "order": 3
+    },
+    {
+      "personId": 11498,
+      "character": "Mammy",
+      "order": 4
+    },
+    {
+      "personId": 3383,
+      "character": "Gerald O'Hara",
+      "order": 5
+    },
+    {
+      "personId": 7642,
+      "character": "Ellen O'Hara",
+      "order": 6
+    },
+    {
+      "personId": 11494,
+      "character": "Suellen O'Hara",
+      "order": 7
+    },
+    {
+      "personId": 11495,
+      "character": "Carreen O'Hara",
+      "order": 8
+    },
+    {
+      "personId": 11496,
+      "character": "Brent Tarleton",
+      "order": 9
+    },
+    {
+      "personId": 11497,
+      "character": "Stuart Tarleton",
+      "order": 10
+    },
+    {
+      "personId": 11499,
+      "character": "Pork",
+      "order": 11
+    },
+    {
+      "personId": 11500,
+      "character": "Prissy",
+      "order": 12
+    },
+    {
+      "personId": 15666,
+      "character": "Jonas Wilkerson",
+      "order": 13
+    },
+    {
+      "personId": 555903,
+      "character": "'Big Sam'",
+      "order": 14
+    },
+    {
+      "personId": 33025,
+      "character": "John Wilkes",
+      "order": 15
+    },
+    {
+      "personId": 1073154,
+      "character": "India Wilkes",
+      "order": 16
+    },
+    {
+      "personId": 91217,
+      "character": "Charles Hamilton",
+      "order": 17
+    },
+    {
+      "personId": 122148,
+      "character": "Frank Kennedy",
+      "order": 18
+    },
+    {
+      "personId": 223051,
+      "character": "Aunt 'Pittypat' Hamilton",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 8
+  },
+  "voteCount": 4525,
+  "sources": [
+    "cult-list"
+  ]
+}

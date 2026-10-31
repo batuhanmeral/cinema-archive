@@ -1,0 +1,197 @@
+{
+  "tmdbId": 42612,
+  "slug": "medium-cool-1969",
+  "year": 1969,
+  "runtime": 111,
+  "originalTitle": "Medium Cool",
+  "title": {
+    "en": "Medium Cool",
+    "tr": "Medium Cool"
+  },
+  "overview": {
+    "en": "John Cassellis is the toughest TV news reporter around. After extensively reporting about violence and racial tensions in poor communities, he discovers that his network is helping the FBI by granting them access to his footage to find suspects.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/uiRU2wJQh5x7q0HU3oBN0VbRMnt.jpg",
+    "en": "/uiRU2wJQh5x7q0HU3oBN0VbRMnt.jpg"
+  },
+  "backdrops": [
+    "/kZ6ouuPuNVCGC2cukFfIlwlkPtn.jpg",
+    "/kvuCvqgDyo2tTzUYeob62QfZJXT.jpg",
+    "/plMHzh9Mas5cfZZkmHGPQEaoN1I.jpg",
+    "/97JNdJf02UPdNvuvsGr2VMEGPI2.jpg",
+    "/mbSpe8UvgFmemQIw50LnGliMkNC.jpg",
+    "/l56uFtWS1nXBdwFuuOqPre0Vo63.jpg",
+    "/j581rkyFZQSB7BrDoHQKLKmWo5A.jpg",
+    "/1GdwI0ZvuDl0zxJ6bnMUQHr1OUx.jpg",
+    "/uLg8itoJQInuaS37Yow0xdCvX1q.jpg",
+    "/we3qv9vZGLRFVMtAqmcK1jnAsnU.jpg"
+  ],
+  "trailerKey": "A4xCcPHPjps",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    520,
+    2957,
+    796,
+    2946,
+    917,
+    2339,
+    5387,
+    159289,
+    186589,
+    190756,
+    240237,
+    250916,
+    298528
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "H&J Pictures, Inc.",
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 7067,
+      "job": "director"
+    },
+    {
+      "personId": 7067,
+      "job": "writer"
+    },
+    {
+      "personId": 1730654,
+      "job": "composer"
+    },
+    {
+      "personId": 3287430,
+      "job": "producer"
+    },
+    {
+      "personId": 7067,
+      "job": "producer"
+    },
+    {
+      "personId": 3292383,
+      "job": "producer"
+    },
+    {
+      "personId": 7067,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5694,
+      "character": "John",
+      "order": 0
+    },
+    {
+      "personId": 55192,
+      "character": "Eileen",
+      "order": 1
+    },
+    {
+      "personId": 14987,
+      "character": "Gus",
+      "order": 2
+    },
+    {
+      "personId": 15659,
+      "character": "Ruth",
+      "order": 3
+    },
+    {
+      "personId": 1055666,
+      "character": "Harold",
+      "order": 4
+    },
+    {
+      "personId": 1315765,
+      "character": "Harold's Father",
+      "order": 5
+    },
+    {
+      "personId": 166245,
+      "character": "Frank Baker",
+      "order": 6
+    },
+    {
+      "personId": 2431861,
+      "character": "Dede",
+      "order": 7
+    },
+    {
+      "personId": 2431862,
+      "character": "News Director",
+      "order": 8
+    },
+    {
+      "personId": 2431863,
+      "character": "Pennybaker",
+      "order": 9
+    },
+    {
+      "personId": 1328084,
+      "character": "Social Worker",
+      "order": 10
+    },
+    {
+      "personId": 1344259,
+      "character": "Rich Lady",
+      "order": 11
+    },
+    {
+      "personId": 2431864,
+      "character": "Plain-clothesman",
+      "order": 12
+    },
+    {
+      "personId": 2431865,
+      "character": "Newscaster",
+      "order": 13
+    },
+    {
+      "personId": 1039,
+      "character": "Gun Clinic Manager",
+      "order": 14
+    },
+    {
+      "personId": 2431866,
+      "character": "Secretary",
+      "order": 15
+    },
+    {
+      "personId": 1624952,
+      "character": "Blonde in Car",
+      "order": 16
+    },
+    {
+      "personId": 2431868,
+      "character": "Maid",
+      "order": 17
+    },
+    {
+      "personId": 1048469,
+      "character": "Roller Derby Patron",
+      "order": 18
+    },
+    {
+      "personId": 99924,
+      "character": "Kennedy Student (as Nancy Noble)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 86,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "tmdbId": 16642,
+  "slug": "days-of-heaven-1978",
+  "year": 1978,
+  "runtime": 94,
+  "originalTitle": "Days of Heaven",
+  "title": {
+    "en": "Days of Heaven",
+    "tr": "Cennet Günleri"
+  },
+  "overview": {
+    "en": "In 1916, a Chicago steel worker accidentally kills his supervisor and flees to the Texas panhandle with his girlfriend and little sister to work harvesting wheat in the fields of a stoic farmer.",
+    "tr": "Ağır sanayi işçileri Bill ve Abby güneye doğru daha iyi bir iş bulmak için yola çıkarlar. Yanlarında manevi kardeşleri saydıkları Linda da bulunmaktadır. İki kardeş olduklarını söyleyen Bill ve Abby büyük bir çiftlikte mevsimlik işçi olarak çalışmaya başlarlar. Toprak sahibinin Abby’ye olan duygularının farkında olan ve onun ölümcül bir hastalığa sahip olduğunu şans eseri öğrenen Bill, zengin olmanın yolunu bulduğunu düşünür. Gerçekten de kardeş gibi davranarak çiftlikte kalan ve ardından toprak sahibi ile evlenen Abby, bir süre sonra Bill ve eşi arasında kalmaya başlar. Abby’ye aşık olan Bill ise gün geçtikçe bu evlilikten rahatsızlık duyacak ve olmadık işlere başvuracaktır."
+  },
+  "poster": {
+    "tr": "/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg",
+    "en": "/rwxTYjOZmX2rGhz7avLe1qsjNqe.jpg"
+  },
+  "backdrops": [
+    "/5JrPWR6ve6gry6LG8SKr6tsQSBo.jpg",
+    "/9Upbup1xrQuTDbspIh9aytEH5xA.jpg",
+    "/gOhWK61GUwGCpgt0L1T8gVz6XVW.jpg",
+    "/xhKL0QTOOcy0YsASY2vvJz7fbAq.jpg",
+    "/4AqksjtXvqggTrLg8JHNDzC2PZu.jpg",
+    "/jYHlRxmYw0dlcSY5INJr3vvqAFG.jpg",
+    "/HapJVUxJCHcETVBCpOfEwvZvCp.jpg",
+    "/12nrUnTxXEZvFyaruSc6CLFvIAQ.jpg",
+    "/dGMeQwe7GTWQ6AtMz2ZZNXjSMJB.jpg",
+    "/8mzGTj1VQHTkdzyVtHrUgfkNUIg.jpg"
+  ],
+  "trailerKey": "7LAqRFoT97o",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    520,
+    4932,
+    1157,
+    128,
+    1556,
+    6038,
+    4511,
+    9673,
+    12987,
+    14514,
+    154846,
+    178977,
+    190061,
+    267876,
+    325763
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "O.P. Productions"
+  ],
+  "crew": [
+    {
+      "personId": 30715,
+      "job": "writer"
+    },
+    {
+      "personId": 30715,
+      "job": "director"
+    },
+    {
+      "personId": 8952,
+      "job": "producer"
+    },
+    {
+      "personId": 1259,
+      "job": "composer"
+    },
+    {
+      "personId": 12844,
+      "job": "producer"
+    },
+    {
+      "personId": 3569,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1205,
+      "character": "Bill",
+      "order": 0
+    },
+    {
+      "personId": 69054,
+      "character": "Abby",
+      "order": 1
+    },
+    {
+      "personId": 9880,
+      "character": "The Farmer",
+      "order": 2
+    },
+    {
+      "personId": 3011,
+      "character": "Linda",
+      "order": 3
+    },
+    {
+      "personId": 2096,
+      "character": "The Farm Foreman",
+      "order": 4
+    },
+    {
+      "personId": 2724011,
+      "character": "Linda's Friend",
+      "order": 5
+    },
+    {
+      "personId": 41406,
+      "character": "Mill Foreman",
+      "order": 6
+    },
+    {
+      "personId": 83411,
+      "character": "Harvest Hand",
+      "order": 7
+    },
+    {
+      "personId": 564285,
+      "character": "Dancer",
+      "order": 8
+    },
+    {
+      "personId": 1239874,
+      "character": "Fiddler",
+      "order": 9
+    },
+    {
+      "personId": 20163,
+      "character": "Vaudeville Leader",
+      "order": 10
+    },
+    {
+      "personId": 2724012,
+      "character": "Vaudeville Wrestler",
+      "order": 11
+    },
+    {
+      "personId": 2724013,
+      "character": "Vaudeville Dancer",
+      "order": 12
+    },
+    {
+      "personId": 2724014,
+      "character": "Accountant",
+      "order": 13
+    },
+    {
+      "personId": 2724015,
+      "character": "Headmistress",
+      "order": 14
+    },
+    {
+      "personId": 1710243,
+      "character": "Preacher",
+      "order": 15
+    },
+    {
+      "personId": 2724016,
+      "character": "Farm Worker",
+      "order": 16
+    },
+    {
+      "personId": 30715,
+      "character": "Mill Worker (uncredited)",
+      "order": 17
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 1226,
+  "sources": [
+    "cult-list"
+  ]
+}

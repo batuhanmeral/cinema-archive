@@ -1,0 +1,184 @@
+{
+  "tmdbId": 20196,
+  "slug": "mac-and-me-1988",
+  "year": 1988,
+  "runtime": 99,
+  "originalTitle": "Mac and Me",
+  "title": {
+    "en": "Mac and Me",
+    "tr": "Mac and Me"
+  },
+  "overview": {
+    "en": "A Mysterious Alien Creature (MAC) escaping from nefarious NASA agents, is befriended by a young boy in a wheelchair. Together, they try to find MAC's family from whom he has been separated.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gZsIgK2W9K6e1ebNro3WT7u5yGX.jpg",
+    "en": "/gZsIgK2W9K6e1ebNro3WT7u5yGX.jpg"
+  },
+  "backdrops": [
+    "/2shhKQsnL4DxZvY3m5PkAHnPOLf.jpg",
+    "/gX3G6dkVUEAif2WWYSRFNHeIAyF.jpg",
+    "/839CKCFwHml3Ll67MX0k5g7YtCT.jpg",
+    "/3RU8zCuXY80Me9JfHlNoZjXylPb.jpg",
+    "/8pxc045wvqujZy3sYA3BTNroWvd.jpg",
+    "/qGuYSlPRbmTRgMd8urFvsVmwOGF.jpg",
+    "/3KsVeWwxgNDZM0EG8Wf3EtJhOe4.jpg",
+    "/zaejQlx5pswsrW2vcG8EoTehyZv.jpg"
+  ],
+  "trailerKey": "XjY35XqjVZ8",
+  "genreIds": [
+    10751,
+    14,
+    878,
+    12
+  ],
+  "keywordIds": [
+    1432,
+    3977,
+    9739
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Orion Pictures",
+    "Mac and Me Joint Venture"
+  ],
+  "crew": [
+    {
+      "personId": 59023,
+      "job": "director"
+    },
+    {
+      "personId": 59809,
+      "job": "producer"
+    },
+    {
+      "personId": 14642,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 37,
+      "job": "composer"
+    },
+    {
+      "personId": 59023,
+      "job": "writer"
+    },
+    {
+      "personId": 62555,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4003,
+      "character": "Janet Cruise",
+      "order": 0
+    },
+    {
+      "personId": 184498,
+      "character": "Michael Cruise",
+      "order": 1
+    },
+    {
+      "personId": 22554,
+      "character": "Courtney",
+      "order": 2
+    },
+    {
+      "personId": 936613,
+      "character": "Debbie",
+      "order": 3
+    },
+    {
+      "personId": 936612,
+      "character": "Eric Cruise",
+      "order": 4
+    },
+    {
+      "personId": 1622839,
+      "character": "Mitford",
+      "order": 5
+    },
+    {
+      "personId": 109945,
+      "character": "Wickett",
+      "order": 6
+    },
+    {
+      "personId": 174426,
+      "character": "Zimmerman",
+      "order": 7
+    },
+    {
+      "personId": 3980,
+      "character": "Jack Jr",
+      "order": 8
+    },
+    {
+      "personId": 182416,
+      "character": "Linda",
+      "order": 9
+    },
+    {
+      "personId": 1906083,
+      "character": "Splatter Car Driver",
+      "order": 10
+    },
+    {
+      "personId": 133290,
+      "character": "Scientist",
+      "order": 11
+    },
+    {
+      "personId": 45360,
+      "character": "Mover #1",
+      "order": 12
+    },
+    {
+      "personId": 58973,
+      "character": "Doctor #2",
+      "order": 13
+    },
+    {
+      "personId": 5193029,
+      "character": "Checkout Girl",
+      "order": 14
+    },
+    {
+      "personId": 1236443,
+      "character": "Doctor",
+      "order": 15
+    },
+    {
+      "personId": 5193030,
+      "character": "Girl #2 in Car",
+      "order": 16
+    },
+    {
+      "personId": 5193031,
+      "character": "Girl #1 in Car",
+      "order": 17
+    },
+    {
+      "personId": 5193035,
+      "character": "Control Room Chief",
+      "order": 18
+    },
+    {
+      "personId": 36218,
+      "character": "Policeman #2",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 295,
+  "sources": [
+    "cult-list"
+  ]
+}

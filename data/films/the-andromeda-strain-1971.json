@@ -1,0 +1,199 @@
+{
+  "tmdbId": 10514,
+  "slug": "the-andromeda-strain-1971",
+  "year": 1971,
+  "runtime": 131,
+  "originalTitle": "The Andromeda Strain",
+  "title": {
+    "en": "The Andromeda Strain",
+    "tr": "Uzay Mikrobu"
+  },
+  "overview": {
+    "en": "When virtually all of the residents of Piedmont, New Mexico are found dead after the return to Earth of a space satellite, the head of the US Air Force's Project Scoop declares an emergency. A group of eminent scientists led by Dr. Jeremy Stone scrambles to a secure laboratory and tries first to isolate the life form while determining why two people from Piedmont - an old alcoholic and a six-month-old baby - survived. The scientists methodically study the alien life form, unaware that it has already mutated and presents a far greater danger in the lab, which is equipped with a nuclear self-destruct device designed to prevent the escape of dangerous biological agents.",
+    "tr": "Michael Crichton’ın çok satan bilim-kurgu romanından beyaz perdeye uyarlanan The Andromeda Strain, Robert Wise’ın imzasını taşıyor. Bir araştırma uydusunun Arizona yakınlarındaki küçük bir kasabaya düşerek parçalanması beraberinde büyük tehlikeler getirir. Dünya dışından gelen ve son derece ölümcül olan bir virüs bu kaza sonrasında serbest kalır ve kasabadaki hemen herkes kısa bir süre içinde ölür. Olayı çözmek için getirtilen bir grup doktor ve bilim adamı virüsü yok etmek için zamana karşı zorlu bir yarışa girecektir."
+  },
+  "poster": {
+    "tr": "/4FBSFz8wLpxd4o6hnvKOJJ8WSIz.jpg",
+    "en": "/4FBSFz8wLpxd4o6hnvKOJJ8WSIz.jpg"
+  },
+  "backdrops": [
+    "/9PPx5qspyRA0LBTBHo0BX57Vzow.jpg",
+    "/8yE0aOQoZSSl2CuuPvjxdHuQl4P.jpg",
+    "/3wnvhQDTmZhkkWjaSssrKc9lM2M.jpg",
+    "/dIpTDBXRHmznQ8yZufOo5rucGT9.jpg",
+    "/dBt3aUI2NI7V3LmkD8iWQL9n1jc.jpg",
+    "/xt8Noaz9cpcqakU6a9nkmFh4rjX.jpg",
+    "/cHpZMNqQ8POOfZT0KEhaWN4xNhT.jpg",
+    "/fWV1XnNGp0dc1fw106WyK1RrlJd.jpg",
+    "/htncIKAJzLZscKL0QIt9GMbiYGU.jpg",
+    "/j2OqGzQJCC1nTz70n4c2G4FCAU0.jpg"
+  ],
+  "trailerKey": "gFc08ijPtkc",
+  "genreIds": [
+    878,
+    53,
+    18
+  ],
+  "keywordIds": [
+    1865,
+    818,
+    6016,
+    1508,
+    1944,
+    6013,
+    3288,
+    10617,
+    14909,
+    17995,
+    156767,
+    177271,
+    188957,
+    194486,
+    214716,
+    238194,
+    245733,
+    251667,
+    266753,
+    301096,
+    321464,
+    325817
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Robert Wise Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1762,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1744,
+      "job": "director"
+    },
+    {
+      "personId": 1744,
+      "job": "producer"
+    },
+    {
+      "personId": 19459,
+      "job": "writer"
+    },
+    {
+      "personId": 65513,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 65505,
+      "character": "Dr. Jeremy Stone",
+      "order": 0
+    },
+    {
+      "personId": 14831,
+      "character": "Dr. Charles Dutton",
+      "order": 1
+    },
+    {
+      "personId": 65508,
+      "character": "Dr. Mark Hall",
+      "order": 2
+    },
+    {
+      "personId": 39709,
+      "character": "Dr. Ruth Leavitt",
+      "order": 3
+    },
+    {
+      "personId": 157439,
+      "character": "Karen Anson",
+      "order": 4
+    },
+    {
+      "personId": 30987,
+      "character": "Jackson",
+      "order": 5
+    },
+    {
+      "personId": 33060,
+      "character": "Major Manchek",
+      "order": 6
+    },
+    {
+      "personId": 123722,
+      "character": "General Sparks",
+      "order": 7
+    },
+    {
+      "personId": 176446,
+      "character": "Dr. Robertson",
+      "order": 8
+    },
+    {
+      "personId": 118484,
+      "character": "Grimes",
+      "order": 9
+    },
+    {
+      "personId": 4976,
+      "character": "Senator from Vermont",
+      "order": 10
+    },
+    {
+      "personId": 1451901,
+      "character": "Lt. Shawn (Piedmont team)",
+      "order": 11
+    },
+    {
+      "personId": 1225959,
+      "character": "Sgt. Crane (Piedmont team)",
+      "order": 12
+    },
+    {
+      "personId": 159025,
+      "character": "Wildfire Computer Sgt. Burk",
+      "order": 13
+    },
+    {
+      "personId": 14067,
+      "character": "Lt. Comroe",
+      "order": 14
+    },
+    {
+      "personId": 45308,
+      "character": "Toby (technician)",
+      "order": 15
+    },
+    {
+      "personId": 86344,
+      "character": "Clara Dutton",
+      "order": 16
+    },
+    {
+      "personId": 31210,
+      "character": "Air Force Major",
+      "order": 17
+    },
+    {
+      "personId": 60196,
+      "character": "MP Capt. Morton",
+      "order": 18
+    },
+    {
+      "personId": 94202,
+      "character": "Cabinet Secretary (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 857,
+  "sources": [
+    "cult-list"
+  ]
+}

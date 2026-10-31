@@ -1,0 +1,200 @@
+{
+  "tmdbId": 1808,
+  "slug": "velvet-goldmine-1998",
+  "year": 1998,
+  "runtime": 123,
+  "originalTitle": "Velvet Goldmine",
+  "title": {
+    "en": "Velvet Goldmine",
+    "tr": "Velvet Goldmine"
+  },
+  "overview": {
+    "en": "Almost a decade since larger-than-life glam-rock enigma Brian Slade disappeared from public eye, an investigative journalist is on assignment to uncover the truth behind his former idol.",
+    "tr": "New York'ta bir gazetede muhabir olarak çalışan Arthur'dan 70'lerin Glam Rock akımının en popüler isimlerinden biri olan Brian Slade'in kariyeri ve sahte ölümü hakkında haber yapması istenir. O dönemler bu akımdan fazlasıyla etkilenmiş olan Arthur araştırmasıyla beraber kendisi de eski günlere geri döner. Bir gün sahnede izlediği rock star Curt Wild'ın çılgınlığından etkilenen Brian Slade kendine has bir tarz yaratır ve bütün gençlerin idolü haline gelir. Artık hepsi onunki gibi bir yaşam tarzını benimsemiştir. Ama sansasyon yaratmak için düzenlendiği sahte ölümü kariyerinin sonunu getirecektir."
+  },
+  "poster": {
+    "tr": "/4EJkObEJFvXCuoVqOP7XBXGqdQ1.jpg",
+    "en": "/xrVgokFd7NYPa2xRnRxj8V8WC6o.jpg"
+  },
+  "backdrops": [
+    "/zUs2GW4rPSIsfzBp0GtXaQR2mqk.jpg",
+    "/fFFhvRBUk6HuaXBFCU6WLyv2Yu.jpg",
+    "/gjXpdQbrQghATkgrRWan7tarQp9.jpg",
+    "/ovT5gi9gvzIeGXzWcs1N1iQGnyq.jpg",
+    "/awc53I5fbwIfj7IC51uhO1N8vTI.jpg",
+    "/y8vI0Ce2d9i91SLv0WlLErdVopc.jpg",
+    "/avXeACOC3DZKkZZx4GoB7cAM5oE.jpg",
+    "/koPtIlXjvaW5YSYPB1xmgFkeruH.jpg",
+    "/5Lv7VKR4dv1RQSyOfbeWvzz3tMK.jpg",
+    "/3md2V0a8lld3ysWXExQdaPzSb0E.jpg"
+  ],
+  "trailerKey": "mNx-hJ54L70",
+  "genreIds": [
+    18,
+    10402
+  ],
+  "keywordIds": [
+    736,
+    1025,
+    2570,
+    496,
+    2398,
+    3183,
+    33973,
+    158718,
+    174262,
+    174280,
+    174281,
+    174283,
+    174286,
+    198299,
+    207928,
+    208289,
+    258533
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Zenith Entertainment",
+    "Killer Films",
+    "Single Cell Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1225,
+      "job": "composer"
+    },
+    {
+      "personId": 33678,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 16863,
+      "job": "director"
+    },
+    {
+      "personId": 17748,
+      "job": "composer"
+    },
+    {
+      "personId": 16863,
+      "job": "writer"
+    },
+    {
+      "personId": 2862,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3061,
+      "character": "Curt Wild",
+      "order": 0
+    },
+    {
+      "personId": 1244,
+      "character": "Brian Slade",
+      "order": 1
+    },
+    {
+      "personId": 3051,
+      "character": "Mandy Slade",
+      "order": 2
+    },
+    {
+      "personId": 3894,
+      "character": "Arthur Stuart",
+      "order": 3
+    },
+    {
+      "personId": 1926,
+      "character": "Jerry Devine",
+      "order": 4
+    },
+    {
+      "personId": 33679,
+      "character": "Shannon",
+      "order": 5
+    },
+    {
+      "personId": 26259,
+      "character": "Cecil",
+      "order": 6
+    },
+    {
+      "personId": 47627,
+      "character": "Female Narrator (voice)",
+      "order": 7
+    },
+    {
+      "personId": 1227322,
+      "character": "Wilde Housemaid",
+      "order": 8
+    },
+    {
+      "personId": 2753966,
+      "character": "Oscar Wilde (8)",
+      "order": 9
+    },
+    {
+      "personId": 1010073,
+      "character": "Jack Fairy (7)",
+      "order": 10
+    },
+    {
+      "personId": 1368352,
+      "character": "Jack Fairy",
+      "order": 11
+    },
+    {
+      "personId": 2753969,
+      "character": "BBC Reporter",
+      "order": 12
+    },
+    {
+      "personId": 1977491,
+      "character": "Kissing Sailor",
+      "order": 13
+    },
+    {
+      "personId": 82337,
+      "character": "Young Man",
+      "order": 14
+    },
+    {
+      "personId": 662,
+      "character": "Lou",
+      "order": 15
+    },
+    {
+      "personId": 33680,
+      "character": "Mary",
+      "order": 16
+    },
+    {
+      "personId": 2753978,
+      "character": "Murray",
+      "order": 17
+    },
+    {
+      "personId": 1962516,
+      "character": "Tommy Stone (as Alastair Cumming)",
+      "order": 18
+    },
+    {
+      "personId": 2753979,
+      "character": "Girl on Subway",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 564,
+  "sources": [
+    "cult-list"
+  ]
+}

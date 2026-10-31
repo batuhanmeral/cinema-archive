@@ -1,0 +1,163 @@
+{
+  "tmdbId": 10226,
+  "slug": "high-tension-2003",
+  "year": 2003,
+  "runtime": 91,
+  "originalTitle": "Haute Tension",
+  "title": {
+    "en": "High Tension",
+    "tr": "Yüksek Tansiyon"
+  },
+  "overview": {
+    "en": "Best friends Marie and Alexia decide to spend a quiet weekend at Alexia's parents' secluded farmhouse. But on the night of their arrival, the girls' idyllic getaway turns into an endless night of horror.",
+    "tr": "Okuldan arkadaş olan Alex Ve Marie sınavlarına rahat bir yerde çalışmak amacıyla Marie'nin ıssız bir yerde olan evine giderler. Eve geç saatte varırlar ve gider gitmez de yatmak için odalarına çekilirler. Kısa bir süre sonra kapı çalınır ve psikopat bir katil içeri dalıp evdekileri teker teker öldürmeye başlar."
+  },
+  "poster": {
+    "tr": "/vKeFa7CqSxmWsQDjHP6SJXKoDbj.jpg",
+    "en": "/vKeFa7CqSxmWsQDjHP6SJXKoDbj.jpg"
+  },
+  "backdrops": [
+    "/ecn4qv1SzQaZ8jMyPPs307UqKxa.jpg",
+    "/dKvz3aLnITt4zFZ4qclk82BwQ1k.jpg",
+    "/lQoWDe2SYIta1GlYWLCIpxxmWKi.jpg",
+    "/79bRV0LEYfZvVDnlVWMB2171qBA.jpg",
+    "/xjHOihnT82spZwN7mqhTI9vYJcB.jpg",
+    "/xoAxzbq7y90kZVhsSiarTC4ReCl.jpg",
+    "/nmf8sFSX2DqDD8uAqsgGjWBbW6a.jpg",
+    "/zXinX6ByMqinErnSkMsBEzUAYA4.jpg",
+    "/o9hyneLDvExRgtunOIQQIMGpqCd.jpg",
+    "/uOYmwC3l9d9fAVB4o21ABQwec0I.jpg"
+  ],
+  "trailerKey": "SIFwOugjyKQ",
+  "genreIds": [
+    27,
+    53,
+    9648
+  ],
+  "keywordIds": [
+    548,
+    6255,
+    1583,
+    10292,
+    10349,
+    11181,
+    11579,
+    12394,
+    13092,
+    14546,
+    14805,
+    14903,
+    15460,
+    157064,
+    157375,
+    157512,
+    178848,
+    208530,
+    220233,
+    224663,
+    235126,
+    264386,
+    365846
+  ],
+  "countries": [
+    "FR",
+    "RO"
+  ],
+  "languages": [
+    "it",
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Alexandre Films",
+    "EuropaCorp",
+    "MediaPro Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 23461,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 64206,
+      "job": "composer"
+    },
+    {
+      "personId": 64205,
+      "job": "producer"
+    },
+    {
+      "personId": 3559,
+      "job": "producer"
+    },
+    {
+      "personId": 59291,
+      "job": "director"
+    },
+    {
+      "personId": 59290,
+      "job": "writer"
+    },
+    {
+      "personId": 59291,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17522,
+      "character": "Marie",
+      "order": 0
+    },
+    {
+      "personId": 64210,
+      "character": "Alexia",
+      "order": 1
+    },
+    {
+      "personId": 5444,
+      "character": "The Killer",
+      "order": 2
+    },
+    {
+      "personId": 1022032,
+      "character": "Alex' Father",
+      "order": 3
+    },
+    {
+      "personId": 81134,
+      "character": "Alex' Mother",
+      "order": 4
+    },
+    {
+      "personId": 1355124,
+      "character": "Tom",
+      "order": 5
+    },
+    {
+      "personId": 64211,
+      "character": "Jimmy",
+      "order": 6
+    },
+    {
+      "personId": 589745,
+      "character": "Gendarmerie Captain",
+      "order": 7
+    },
+    {
+      "personId": 62508,
+      "character": "Gendarme",
+      "order": 8
+    },
+    {
+      "personId": 60422,
+      "character": "Man in the Car",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 1543,
+  "sources": [
+    "cult-list"
+  ]
+}

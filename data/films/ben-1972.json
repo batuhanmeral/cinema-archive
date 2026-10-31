@@ -1,0 +1,183 @@
+{
+  "tmdbId": 42476,
+  "slug": "ben-1972",
+  "year": 1972,
+  "runtime": 94,
+  "originalTitle": "Ben",
+  "title": {
+    "en": "Ben",
+    "tr": "Ben"
+  },
+  "overview": {
+    "en": "A lonely boy becomes good friends with Ben, a rat. This rat is also the leader of a pack of vicious killer rats, killing lots of people.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/LvTapjbjdg9bGzt79hZAp2idcn.jpg",
+    "en": "/LvTapjbjdg9bGzt79hZAp2idcn.jpg"
+  },
+  "backdrops": [
+    "/d1tL5FbQq7QfEaIYS2NqGa9Dsnx.jpg",
+    "/fn17JklPoxVR9ou6w39MxnjRxHt.jpg",
+    "/tO821AyoRw3wlUl26IoSdHBsB9O.jpg",
+    "/hRyYJ0Q4SnD6w1HvFpzCNFefH4R.jpg",
+    "/1FfgJGsb6WXL1iccDKmHG4sPA9d.jpg",
+    "/q4hxLDrUmwQvfPEMlmw2O2bEBal.jpg",
+    "/w7rTei2N9Tuw214UCU5kOxw7nSC.jpg",
+    "/lD46BMdCY8sXz0mQ142WKm5cHSP.jpg",
+    "/zClD1pUvesigLSYI2Noh0ez90jV.jpg"
+  ],
+  "trailerKey": "uxv0ZNXvmqk",
+  "genreIds": [
+    27,
+    53
+  ],
+  "keywordIds": [
+    5160,
+    9663,
+    34079,
+    41412,
+    189359,
+    228465,
+    235704,
+    325762
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Bing Crosby Productions"
+  ],
+  "crew": [
+    {
+      "personId": 29907,
+      "job": "director"
+    },
+    {
+      "personId": 13809,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 15947,
+      "job": "writer"
+    },
+    {
+      "personId": 3375,
+      "job": "composer"
+    },
+    {
+      "personId": 90055,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 44691,
+      "character": "Danny",
+      "order": 0
+    },
+    {
+      "personId": 121144,
+      "character": "Cliff Kirtland",
+      "order": 1
+    },
+    {
+      "personId": 857,
+      "character": "Bill Hatfield",
+      "order": 2
+    },
+    {
+      "personId": 8492,
+      "character": "Beth Garrison",
+      "order": 3
+    },
+    {
+      "personId": 13725,
+      "character": "Eve Garrison",
+      "order": 4
+    },
+    {
+      "personId": 102640,
+      "character": "Joe Greer",
+      "order": 5
+    },
+    {
+      "personId": 15628,
+      "character": "Kelly",
+      "order": 6
+    },
+    {
+      "personId": 94123,
+      "character": "Reade",
+      "order": 7
+    },
+    {
+      "personId": 103069,
+      "character": "Engineer",
+      "order": 8
+    },
+    {
+      "personId": 106806,
+      "character": "Ed",
+      "order": 9
+    },
+    {
+      "personId": 110436,
+      "character": "Careu",
+      "order": 10
+    },
+    {
+      "personId": 7139,
+      "character": "Policeman",
+      "order": 11
+    },
+    {
+      "personId": 92355,
+      "character": "Henry Gray",
+      "order": 12
+    },
+    {
+      "personId": 1652470,
+      "character": "Mrs. Gray",
+      "order": 13
+    },
+    {
+      "personId": 1224042,
+      "character": "George",
+      "order": 14
+    },
+    {
+      "personId": 3416814,
+      "character": "Police Officer (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 2428975,
+      "character": "Observer on Sidewalk (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 120009,
+      "character": "Truck Driver (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1130451,
+      "character": "Onlooker (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2412739,
+      "character": "Hydrex Pest Controller (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 148,
+  "sources": [
+    "cult-list"
+  ]
+}

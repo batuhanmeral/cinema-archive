@@ -1,0 +1,212 @@
+{
+  "tmdbId": 8966,
+  "slug": "twilight-2008",
+  "year": 2008,
+  "runtime": 122,
+  "originalTitle": "Twilight",
+  "title": {
+    "en": "Twilight",
+    "tr": "Alacakaranlık"
+  },
+  "overview": {
+    "en": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
+    "tr": "17 yaşındaki Isabella, babası Charlie ile birlikte yaşamak üzere küçük bir kasaba olan Forks'a taşınır. Burada 108 yaşında bir vampir olup 17 yaşında görünen sınıf arkadaşı Edward ile tanışır. Edward'ın romantizmden uzak durmaya çalışmasına rağmen birbirlerine aşık olurlar. Kasabaya üç göçebe vampir geldiğinde Edward'ın ailesi, hayatı tehlikeye giren Isaella'yı kurtarmak için çalışırlar."
+  },
+  "poster": {
+    "tr": "/daNvGuP0Vwl3RQl5xILSGwrTHv9.jpg",
+    "en": "/3Gkb6jm6962ADUPaCBqzz9CTbn9.jpg"
+  },
+  "backdrops": [
+    "/7eK8FJr4fqq3J5W2xvlr2GVaep2.jpg",
+    "/jtcAlXJL4Pk4q5btZqJSDfaEdQV.jpg",
+    "/rFPCgN6TIHLMXDOeaUhzZZD6i9H.jpg",
+    "/phkAdhSX5wsrGTMNrvRaH50iRcM.jpg",
+    "/gYXoFBOh1gQtmFazi83hFWS6ibt.jpg",
+    "/weAYfu6FfrNxEDJ3xH1XpgQcqUv.jpg",
+    "/hHxHlynxgPN9pxIQYI1IlvqhDf8.jpg",
+    "/mfFhgR9ILPWbYtvbdyAGUo6fbpT.jpg",
+    "/20pEc3LeWSs5MCtVwTMPxpZqDE6.jpg",
+    "/kRyOk3h0ft8fuNM3XDohr8qjEaR.jpg"
+  ],
+  "trailerKey": "uxjNDE2fMjI",
+  "genreIds": [
+    14,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    6270,
+    815,
+    818,
+    4978,
+    3133,
+    3691,
+    11870,
+    14782,
+    33513,
+    164724,
+    179431,
+    187056,
+    212760,
+    246466,
+    251513,
+    269233,
+    269719,
+    269720,
+    325835,
+    336530
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Summit Entertainment",
+    "Temple Hill Entertainment",
+    "Maverick Films"
+  ],
+  "crew": [
+    {
+      "personId": 19850,
+      "job": "director"
+    },
+    {
+      "personId": 56855,
+      "job": "writer"
+    },
+    {
+      "personId": 3547739,
+      "job": "composer"
+    },
+    {
+      "personId": 1225,
+      "job": "composer"
+    },
+    {
+      "personId": 5506,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6040,
+      "job": "producer"
+    },
+    {
+      "personId": 84127,
+      "job": "producer"
+    },
+    {
+      "personId": 63720,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 37917,
+      "character": "Bella Swan",
+      "order": 0
+    },
+    {
+      "personId": 11288,
+      "character": "Edward Cullen",
+      "order": 1
+    },
+    {
+      "personId": 21029,
+      "character": "Charlie Swan",
+      "order": 2
+    },
+    {
+      "personId": 56857,
+      "character": "Dr. Carlisle Cullen",
+      "order": 3
+    },
+    {
+      "personId": 45827,
+      "character": "Alice Cullen",
+      "order": 4
+    },
+    {
+      "personId": 84215,
+      "character": "Jasper",
+      "order": 5
+    },
+    {
+      "personId": 59252,
+      "character": "Rosalie",
+      "order": 6
+    },
+    {
+      "personId": 34502,
+      "character": "Emmet Cullen",
+      "order": 7
+    },
+    {
+      "personId": 53755,
+      "character": "Esme Cullen",
+      "order": 8
+    },
+    {
+      "personId": 84214,
+      "character": "Jacob Black",
+      "order": 9
+    },
+    {
+      "personId": 84225,
+      "character": "Billy Black",
+      "order": 10
+    },
+    {
+      "personId": 55086,
+      "character": "James",
+      "order": 11
+    },
+    {
+      "personId": 58168,
+      "character": "Victoria",
+      "order": 12
+    },
+    {
+      "personId": 39391,
+      "character": "Laurent",
+      "order": 13
+    },
+    {
+      "personId": 84223,
+      "character": "Jessica",
+      "order": 14
+    },
+    {
+      "personId": 56676,
+      "character": "Mike Newton",
+      "order": 15
+    },
+    {
+      "personId": 65225,
+      "character": "Eric",
+      "order": 16
+    },
+    {
+      "personId": 84224,
+      "character": "Angela",
+      "order": 17
+    },
+    {
+      "personId": 10963,
+      "character": "Mr. Molina",
+      "order": 18
+    },
+    {
+      "personId": 25836,
+      "character": "Renée",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 14816,
+  "sources": [
+    "cult-list"
+  ]
+}

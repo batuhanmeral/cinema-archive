@@ -1,0 +1,190 @@
+{
+  "tmdbId": 14239,
+  "slug": "cool-world-1992",
+  "year": 1992,
+  "runtime": 102,
+  "originalTitle": "Cool World",
+  "title": {
+    "en": "Cool World",
+    "tr": "Yalan Dünya"
+  },
+  "overview": {
+    "en": "While incarcerated for murder, cartoonist Jack Deebs found escape by creating Cool World, a series featuring a voluptuous femme fatale named Holli Would. But the artist becomes a prisoner of his own fantasies when Holli transports Jack into Cool World with a scheme to seduce him and bring herself to life. Hard-boiled detective Frank Harris – the only other human in Cool World – cautions Jack with the law: Noids (humans) don't have sex with doodles (cartoons). However, flesh proves weaker than ink as Holli takes human form in Las Vegas, staring in a trans-universal chase that threatens the destruction of both worlds.",
+    "tr": "Eski polis Jack Deebs (Gabriel Byrne) parmaklıklar arasinda olduğu sırada kendisine çizgi bir hayal dünyası ve bu dünyada da dişi bir karakter olan Holli Would'u yaratır. Ancak Holli kendisini canlandırması için ikna etmek üzere Jack'i hayal dünyasına çeker ve böylece Jack kendi fantazilerinin esiri olur. Dikbaşlı bir dedektif (Brad Pitt) hayal dünyasındaki diğer insan- kanunlarla Jack'in peşindedir: İnsanların çizgi karakterlerle yakınlaşması yasaktır. Holli'nin (Kim Basinger) Las Vegas'da insan biçimi almasıyla iki dünya arasında bir kovalamaca başlar."
+  },
+  "poster": {
+    "tr": "/mqzRUHNtFwmgJCmSnvq3JnX0xgZ.jpg",
+    "en": "/mqzRUHNtFwmgJCmSnvq3JnX0xgZ.jpg"
+  },
+  "backdrops": [
+    "/9a8zRXgW5cFxeCkTFFvddhOWt4N.jpg",
+    "/9ODXpqiiBCZPQGQt4kkO5fQjasI.jpg",
+    "/9wWWzqtZWa0tKvnqU6Yghpvkxpp.jpg",
+    "/6ZNemcnfAXa7f0MazXWNgqDybDC.jpg",
+    "/7ecTR00t5rnI1AIcOIeuHg6Cxkx.jpg",
+    "/pLX9rLOhUpeC5zViLmhltmTpaC3.jpg",
+    "/y1j0vW2h40RbgpsUbSnOHL5qVWL.jpg",
+    "/2awy9uZQrxxYWCdV4X6RctyTFcg.jpg",
+    "/zLWUQGiEulAQKrbfwjhocMyxVtI.jpg",
+    "/yj50ROdiRHlh86Sc3RMIPeBlSI6.jpg"
+  ],
+  "trailerKey": "J-RypXeH8Fo",
+  "genreIds": [
+    16,
+    35,
+    14
+  ],
+  "keywordIds": [
+    6513,
+    3182,
+    5451,
+    9820,
+    14570,
+    161919,
+    202399,
+    209220
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Bakshi Animation"
+  ],
+  "crew": [
+    {
+      "personId": 16384,
+      "job": "director"
+    },
+    {
+      "personId": 10056,
+      "job": "writer"
+    },
+    {
+      "personId": 10058,
+      "job": "writer"
+    },
+    {
+      "personId": 49284,
+      "job": "producer"
+    },
+    {
+      "personId": 1153,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4140,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 326,
+      "character": "Holli Would",
+      "order": 0
+    },
+    {
+      "personId": 5168,
+      "character": "Jack Deebs",
+      "order": 1
+    },
+    {
+      "personId": 287,
+      "character": "Detective Frank Harris",
+      "order": 2
+    },
+    {
+      "personId": 77012,
+      "character": "Jennifer Malley",
+      "order": 3
+    },
+    {
+      "personId": 77013,
+      "character": "Isabelle Malley",
+      "order": 4
+    },
+    {
+      "personId": 77014,
+      "character": "Agatha Rose Harris",
+      "order": 5
+    },
+    {
+      "personId": 77015,
+      "character": "Cop",
+      "order": 6
+    },
+    {
+      "personId": 58950,
+      "character": "Cop",
+      "order": 7
+    },
+    {
+      "personId": 34521,
+      "character": "Interrogator #2 / Mash / drunken bar patron / Dr. Vincent \"Vegas Vinnie\" Whiskers / Jack Deebs (super hero version) (voice)",
+      "order": 8
+    },
+    {
+      "personId": 77017,
+      "character": "Sparks (voice)",
+      "order": 9
+    },
+    {
+      "personId": 77018,
+      "character": "Comic Bookstore Cashier",
+      "order": 10
+    },
+    {
+      "personId": 77019,
+      "character": "Bash (performance model) / Comic Store Patron",
+      "order": 11
+    },
+    {
+      "personId": 77020,
+      "character": "Store Patron",
+      "order": 12
+    },
+    {
+      "personId": 77021,
+      "character": "Holli Would / Lonette (performance model) / Craps Bunny (voice)",
+      "order": 13
+    },
+    {
+      "personId": 45603,
+      "character": "Interrogator #1 / Slash / Holli's door (voice)",
+      "order": 14
+    },
+    {
+      "personId": 85142,
+      "character": "Valet",
+      "order": 15
+    },
+    {
+      "personId": 182851,
+      "character": "Mash",
+      "order": 16
+    },
+    {
+      "personId": 1229807,
+      "character": "Bash (voice)",
+      "order": 17
+    },
+    {
+      "personId": 95257,
+      "character": "Bob / Lonette (voice)",
+      "order": 18
+    },
+    {
+      "personId": 81178,
+      "character": "Nails (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 838,
+  "sources": [
+    "cult-list"
+  ]
+}

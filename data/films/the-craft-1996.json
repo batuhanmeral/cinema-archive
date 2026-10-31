@@ -1,0 +1,198 @@
+{
+  "tmdbId": 9100,
+  "slug": "the-craft-1996",
+  "year": 1996,
+  "runtime": 101,
+  "originalTitle": "The Craft",
+  "title": {
+    "en": "The Craft",
+    "tr": "Büyücüler Kulübü"
+  },
+  "overview": {
+    "en": "A Catholic school newcomer falls in with a clique of teen witches who wield their powers against all who dare to cross them -- be they teachers, rivals or meddlesome parents.",
+    "tr": "Yeni bir kız ailesiyle yeni bir hayata başlamak için yeni bir şehre taşınır. Kara büyülerle çok ilgilenen kızlarla tanışır ve hep beraber dördü birden durdurulamaz güçlere kavuşur. Herşeyi yapabilirler, hayallerinin erkeklerini kendilerine aşık etmekten...birçok şeye. İmkanlar sınırsızdır."
+  },
+  "poster": {
+    "tr": "/ikDVvG18Yx0zOxg3GnTd9baGzCJ.jpg",
+    "en": "/8UCScpzQbeJcSkY7ZgRpblYh0lP.jpg"
+  },
+  "backdrops": [
+    "/iXYiHzbYkpcgylxueNLYkZPq1tM.jpg",
+    "/jrhh1H6tK99M4FdM9joAn9e0BHR.jpg",
+    "/Atmy2pH4cQo2tdaQg31eJF7zS6y.jpg",
+    "/qvxgiNwMgQZEKNaQou5fqZ3PEku.jpg",
+    "/h5exAALPv8l77tww0DLfsCWTaHo.jpg",
+    "/xFRUm1Q6Kru9Cckx0xcnZDl5QXI.jpg",
+    "/ljo2lJdg0mR2n1tGdwnBrI3i12F.jpg",
+    "/vV8TuQAR2OpQEe2HxFj7sXQbcmS.jpg",
+    "/U4uYEZ85lC4v9zCiprxvjQ7Zv0.jpg",
+    "/7JjgHuF5fhVrXbpr0eTVP7kiyWL.jpg"
+  ],
+  "trailerKey": "SxEqB--5ToI",
+  "genreIds": [
+    27,
+    18,
+    14
+  ],
+  "keywordIds": [
+    616,
+    1525,
+    2343,
+    1252,
+    3335,
+    4252,
+    5147,
+    5248,
+    33505,
+    156174,
+    167560,
+    170356,
+    191655,
+    208787,
+    237016
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Columbia Pictures",
+    "Red Wagon Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 56973,
+      "job": "writer"
+    },
+    {
+      "personId": 931,
+      "job": "producer"
+    },
+    {
+      "personId": 41549,
+      "job": "director"
+    },
+    {
+      "personId": 33651,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 41549,
+      "job": "writer"
+    },
+    {
+      "personId": 5912,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17346,
+      "character": "Sarah",
+      "order": 0
+    },
+    {
+      "personId": 826,
+      "character": "Nancy",
+      "order": 1
+    },
+    {
+      "personId": 9206,
+      "character": "Bonnie",
+      "order": 2
+    },
+    {
+      "personId": 19222,
+      "character": "Rochelle",
+      "order": 3
+    },
+    {
+      "personId": 22108,
+      "character": "Chris",
+      "order": 4
+    },
+    {
+      "personId": 15286,
+      "character": "Laura Lizzie",
+      "order": 5
+    },
+    {
+      "personId": 33654,
+      "character": "Mitt",
+      "order": 6
+    },
+    {
+      "personId": 211998,
+      "character": "Trey",
+      "order": 7
+    },
+    {
+      "personId": 44301,
+      "character": "Mr. Bailey",
+      "order": 8
+    },
+    {
+      "personId": 42123,
+      "character": "Lirio",
+      "order": 9
+    },
+    {
+      "personId": 4160,
+      "character": "Grace",
+      "order": 10
+    },
+    {
+      "personId": 152355,
+      "character": "Jenny",
+      "order": 11
+    },
+    {
+      "personId": 101396,
+      "character": "Doctor",
+      "order": 12
+    },
+    {
+      "personId": 1583603,
+      "character": "Laura's Friend",
+      "order": 13
+    },
+    {
+      "personId": 1296678,
+      "character": "Laura's Friend",
+      "order": 14
+    },
+    {
+      "personId": 156421,
+      "character": "Vagrant",
+      "order": 15
+    },
+    {
+      "personId": 43461,
+      "character": "Monsieur Thepot",
+      "order": 16
+    },
+    {
+      "personId": 2642591,
+      "character": "Swimming Coach",
+      "order": 17
+    },
+    {
+      "personId": 2519458,
+      "character": "Stewardess",
+      "order": 18
+    },
+    {
+      "personId": 77027,
+      "character": "Street Preacher",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2165,
+  "sources": [
+    "cult-list"
+  ]
+}

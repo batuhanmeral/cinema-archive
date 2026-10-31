@@ -1,0 +1,203 @@
+{
+  "tmdbId": 10249,
+  "slug": "the-rocketeer-1991",
+  "year": 1991,
+  "runtime": 108,
+  "originalTitle": "The Rocketeer",
+  "title": {
+    "en": "The Rocketeer",
+    "tr": "Roket Adam"
+  },
+  "overview": {
+    "en": "A stunt pilot comes across a prototype jetpack that gives him the ability to fly. However, evil forces of the world also want this jetpack at any cost.",
+    "tr": "Test pilotu Cliff Secord, gizli bir sırt roketi bulmasıyla gizem, gerilim ve entrika dolu bir maceraya atılır! Cliff, Hollywood’un ünlü bir yıldızının (Timothy Dalton) liderlik ettiği acımasız kötülerle karşılaşır; bu yıldız, gizli bir Nazi casusudur! Oyuncu sevgilisinin yardımıyla genç pilot, dünyayı ele geçirmek isteyen bu düşmanları durdurmak için büyük zorluklarla savaşır. Bu tehlikeli görev, sıradan bir genci olağanüstü bir kahramana dönüştürür!"
+  },
+  "poster": {
+    "tr": "/2tDFRESFwKww1LHRE8W1Exj9edH.jpg",
+    "en": "/lUUChNwHMrdHyDMgHFjyvDrrdrw.jpg"
+  },
+  "backdrops": [
+    "/nkQPEGWEFgghClwldTkSSJhkgEL.jpg",
+    "/2fQ6d8B0wgKTr2c7aHcDW8DqwIB.jpg",
+    "/5VfOF31kDczZ14wAWIKWpqpHCQF.jpg",
+    "/eoJFAYpLZpMPekpg5GzMdW6D77a.jpg",
+    "/nX7G2rNGZ96TSgRs04C5HXc4K0A.jpg",
+    "/gOGCWI9ToA6PvVXT5dQcuwx3AXy.jpg",
+    "/bvipOp3DFp3WR9qpCgaihScefrW.jpg",
+    "/toIhcuIC4ijnw00xnBfafK1W63E.jpg",
+    "/aqqZIrjTqMad3rWtley6X2yjNjw.jpg",
+    "/6Zmps1bjLCWcohm81UURLlDpQGS.jpg"
+  ],
+  "trailerKey": "EWTFiomK4mw",
+  "genreIds": [
+    12,
+    878
+  ],
+  "keywordIds": [
+    2652,
+    9715,
+    11116,
+    9717,
+    10400,
+    10028,
+    12670,
+    18712,
+    175091,
+    175103,
+    175107,
+    214548,
+    253388
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Walt Disney Pictures",
+    "Gordon Company",
+    "Dark Horse Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 1993,
+      "job": "producer"
+    },
+    {
+      "personId": 45987,
+      "job": "writer"
+    },
+    {
+      "personId": 1093,
+      "job": "producer"
+    },
+    {
+      "personId": 4945,
+      "job": "director"
+    },
+    {
+      "personId": 7681,
+      "job": "producer"
+    },
+    {
+      "personId": 1729,
+      "job": "composer"
+    },
+    {
+      "personId": 2116,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 44789,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20215,
+      "character": "Cliff Secord",
+      "order": 0
+    },
+    {
+      "personId": 6161,
+      "character": "Jenny Blake",
+      "order": 1
+    },
+    {
+      "personId": 1903,
+      "character": "A. 'Peevy' Peabody",
+      "order": 2
+    },
+    {
+      "personId": 10669,
+      "character": "Neville Sinclair",
+      "order": 3
+    },
+    {
+      "personId": 7004,
+      "character": "Eddie Valentine",
+      "order": 4
+    },
+    {
+      "personId": 12646,
+      "character": "Howard Hughes",
+      "order": 5
+    },
+    {
+      "personId": 21523,
+      "character": "Fitch",
+      "order": 6
+    },
+    {
+      "personId": 4253,
+      "character": "Bigelow",
+      "order": 7
+    },
+    {
+      "personId": 51551,
+      "character": "Wooly",
+      "order": 8
+    },
+    {
+      "personId": 98579,
+      "character": "Lothar / Good Old Boy",
+      "order": 9
+    },
+    {
+      "personId": 590,
+      "character": "Skeets",
+      "order": 10
+    },
+    {
+      "personId": 452,
+      "character": "Millie",
+      "order": 11
+    },
+    {
+      "personId": 15661,
+      "character": "Mark",
+      "order": 12
+    },
+    {
+      "personId": 1217166,
+      "character": "Rusty",
+      "order": 13
+    },
+    {
+      "personId": 8692,
+      "character": "Malcolm",
+      "order": 14
+    },
+    {
+      "personId": 1219415,
+      "character": "Wilmer",
+      "order": 15
+    },
+    {
+      "personId": 1345999,
+      "character": "Mike",
+      "order": 16
+    },
+    {
+      "personId": 58928,
+      "character": "Mrs. Pye",
+      "order": 17
+    },
+    {
+      "personId": 1379395,
+      "character": "Charlie",
+      "order": 18
+    },
+    {
+      "personId": 1379405,
+      "character": "Assistant Director",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1105,
+  "sources": [
+    "cult-list"
+  ]
+}

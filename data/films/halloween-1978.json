@@ -1,0 +1,202 @@
+{
+  "tmdbId": 948,
+  "slug": "halloween-1978",
+  "year": 1978,
+  "runtime": 91,
+  "originalTitle": "Halloween",
+  "title": {
+    "en": "Halloween",
+    "tr": "Cadılar Bayramı"
+  },
+  "overview": {
+    "en": "Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.",
+    "tr": "Korku sinemasının ustalarından John Carpenter'ı üne kavuşturan filmi \"Cadılar Bayramı\", ilk cinayetini altı yaşında işleyen bir çocuğun onbeş yıl sonra hapisten kaçarak geçmişini tekrarlamasını anlatıyor. Azizler günü arifesinde işlediği cinayeti hayatının merkezi haline getiren ve sıradan insanları öldürerek adeta sorunlarıyla hesaplaşan gencin hikayesi."
+  },
+  "poster": {
+    "tr": "/9lf7nonQuYNQ1GOHSgjjy85V05e.jpg",
+    "en": "/qVpCaBcnjRzGL3nOPHi6Suy0sB6.jpg"
+  },
+  "backdrops": [
+    "/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg",
+    "/sHI9xlFRWCJ38AIIfOqnGjuEvXz.jpg",
+    "/s81zSC8AUGsdjxLgpb5ies5m2oo.jpg",
+    "/vP9WKz6ZjlDDPFKI8BJCkmRcVOU.jpg",
+    "/nC2xGswJAOml7aBTDprujidXbLr.jpg",
+    "/mgv7RwaBdbEWDqZeqUwxxVvob1N.jpg",
+    "/kyJFOxadFSa2eYjFHezqusrlKku.jpg",
+    "/2iCHBuCExV7dHovb6hG9b5zsqBU.jpg",
+    "/GV2L08nQMSPzRl8t46BqESuX3D.jpg",
+    "/hrAze4yLhJ1ey4P8Dtv7dlOexsi.jpg"
+  ],
+  "trailerKey": "NT0loXUv-ks",
+  "genreIds": [
+    27,
+    53
+  ],
+  "keywordIds": [
+    2546,
+    6149,
+    3335,
+    2604,
+    10776,
+    10333,
+    10714,
+    14805,
+    17987,
+    18035,
+    156075,
+    157701,
+    207159
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Compass International Pictures",
+    "Falcon International Productions"
+  ],
+  "crew": [
+    {
+      "personId": 11770,
+      "job": "writer"
+    },
+    {
+      "personId": 11770,
+      "job": "composer"
+    },
+    {
+      "personId": 11770,
+      "job": "director"
+    },
+    {
+      "personId": 2161,
+      "job": "writer"
+    },
+    {
+      "personId": 2161,
+      "job": "producer"
+    },
+    {
+      "personId": 1060,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 66203,
+      "job": "producer"
+    },
+    {
+      "personId": 11770,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9221,
+      "character": "Loomis",
+      "order": 0
+    },
+    {
+      "personId": 8944,
+      "character": "Laurie",
+      "order": 1
+    },
+    {
+      "personId": 11787,
+      "character": "Annie",
+      "order": 2
+    },
+    {
+      "personId": 15500,
+      "character": "Lynda",
+      "order": 3
+    },
+    {
+      "personId": 11786,
+      "character": "Brackett",
+      "order": 4
+    },
+    {
+      "personId": 15503,
+      "character": "Lindsey",
+      "order": 5
+    },
+    {
+      "personId": 15505,
+      "character": "Tommy",
+      "order": 6
+    },
+    {
+      "personId": 15506,
+      "character": "Bob",
+      "order": 7
+    },
+    {
+      "personId": 15508,
+      "character": "Marion",
+      "order": 8
+    },
+    {
+      "personId": 13392,
+      "character": "Graveyard Keeper",
+      "order": 9
+    },
+    {
+      "personId": 15510,
+      "character": "Richie",
+      "order": 10
+    },
+    {
+      "personId": 15511,
+      "character": "Lonnie",
+      "order": 11
+    },
+    {
+      "personId": 15513,
+      "character": "Keith",
+      "order": 12
+    },
+    {
+      "personId": 15515,
+      "character": "Dr.  Wynn",
+      "order": 13
+    },
+    {
+      "personId": 15516,
+      "character": "Michael Myers age 23",
+      "order": 14
+    },
+    {
+      "personId": 15517,
+      "character": "Michael Myers age 6",
+      "order": 15
+    },
+    {
+      "personId": 15518,
+      "character": "Judith Myers",
+      "order": 16
+    },
+    {
+      "personId": 15519,
+      "character": "Boyfriend",
+      "order": 17
+    },
+    {
+      "personId": 1205471,
+      "character": "Laurie's Father",
+      "order": 18
+    },
+    {
+      "personId": 14692,
+      "character": "The Shape",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 6473,
+  "sources": [
+    "cult-list"
+  ]
+}

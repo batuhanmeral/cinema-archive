@@ -1,0 +1,188 @@
+{
+  "tmdbId": 25905,
+  "slug": "the-shop-on-main-street-1965",
+  "year": 1965,
+  "runtime": 128,
+  "originalTitle": "Obchod na korze",
+  "title": {
+    "en": "The Shop on Main Street",
+    "tr": "Obchod na korze"
+  },
+  "overview": {
+    "en": "In a small town in Nazi-occupied Slovakia during World War II, decent but timid carpenter Tono is named \"Aryan comptroller\" of a button store owned by an old Jewish widow, Rozalie. Since the post comes with a salary and standing in the town's corrupt hierarchy, Tono wrestles with greed and guilt as he and Rozalie gradually befriend each other. When the authorities order all Jews in town to be rounded up, Tono faces a moral dilemma unlike any he's known before.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/pOjsOzPzYrCFsMsatKxAwYzIeCg.jpg",
+    "en": "/auUXKdf8tcqKli7VJMzsoBxN6g.jpg"
+  },
+  "backdrops": [
+    "/dpa5PiYGIvkjeMTcBG9VD4bQOjg.jpg",
+    "/2Yu3AqZ57817uDr51ZgRRTxnFtf.jpg",
+    "/jBiKBks9YnRw4WvT6HvP4po8ldd.jpg",
+    "/wQWe5rnxfkh8LKv9nkMab8VnEoG.jpg",
+    "/xcnOukiSBhxQUx8EIbOH43mc1XT.jpg"
+  ],
+  "trailerKey": "gvZE9Yuxkyg",
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    2652,
+    1739,
+    1956,
+    172218
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "de",
+    "pl",
+    "sk",
+    "yi"
+  ],
+  "studios": [
+    "Filmové studio Barrandov"
+  ],
+  "crew": [
+    {
+      "personId": 544700,
+      "job": "director"
+    },
+    {
+      "personId": 544699,
+      "job": "director"
+    },
+    {
+      "personId": 1290920,
+      "job": "writer"
+    },
+    {
+      "personId": 544699,
+      "job": "writer"
+    },
+    {
+      "personId": 544700,
+      "job": "writer"
+    },
+    {
+      "personId": 1183151,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 544515,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 233289,
+      "character": "Rozalia Lautmannová",
+      "order": 0
+    },
+    {
+      "personId": 124143,
+      "character": "Antonin 'Tono' Brtko",
+      "order": 1
+    },
+    {
+      "personId": 1360516,
+      "character": "Markus Kolkocký",
+      "order": 2
+    },
+    {
+      "personId": 1290919,
+      "character": "Evelyna Brtková",
+      "order": 3
+    },
+    {
+      "personId": 2388515,
+      "character": "Imro Kuchár",
+      "order": 4
+    },
+    {
+      "personId": 1262115,
+      "character": "Ruzena Kolkocká",
+      "order": 5
+    },
+    {
+      "personId": 233290,
+      "character": "Jozef Katz",
+      "order": 6
+    },
+    {
+      "personId": 1199664,
+      "character": "Piti Báci",
+      "order": 7
+    },
+    {
+      "personId": 1537663,
+      "character": "Marian Peter",
+      "order": 8
+    },
+    {
+      "personId": 1432148,
+      "character": "Balko",
+      "order": 9
+    },
+    {
+      "personId": 2650074,
+      "character": "Blau",
+      "order": 10
+    },
+    {
+      "personId": 1871618,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 2650077,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1398611,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 3501027,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 2650075,
+      "character": "Tobacconist",
+      "order": 15
+    },
+    {
+      "personId": 3501028,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1434363,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 2650076,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 3501029,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 233,
+  "sources": [
+    "cult-list"
+  ]
+}

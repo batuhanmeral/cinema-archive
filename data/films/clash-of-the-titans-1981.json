@@ -1,0 +1,206 @@
+{
+  "tmdbId": 10323,
+  "slug": "clash-of-the-titans-1981",
+  "year": 1981,
+  "runtime": 118,
+  "originalTitle": "Clash of the Titans",
+  "title": {
+    "en": "Clash of the Titans",
+    "tr": "Son Emir: Cennetin Kapısı"
+  },
+  "overview": {
+    "en": "To win the right to marry his love, the beautiful princess Andromeda, and fulfil his destiny, half-God-half-mortal Perseus must complete various tasks including taming Pegasus, capturing Medusa's head and battling the feared Kraken.",
+    "tr": "Bir tanrı olarak doğmuş, ancak insan gibi yetiştirilmiş olan Perseus, ailesini yeraltı dünyasının kinci tanrısı Hades’e karşı korumak konusunda çaresizdir. Kaybedecek hiç birşeyi kalmayan Perseus, Zeus’un güçlerini ele geçirebilecek ve dünyaya cehennemi yaşatabilecek Hadese karşı, çok tehlikeli bir görevi yönetmeye gönüllü olur. Şeytanlarla ve korkunç canavarlarla olan savaşı kazanmanın tek yolu tanrı olarak güçlerini kabul etmek ve kendi kaderini çizmektir. Film, tanrıların tanrısı Zeus ile onu kendine rakip olarak gören yer altı tanrısı Hades’in mücadelesi ile birlikte Zeus’un oğlu Perseus’un, Medusa ve Kraken Canavarını aşıp Prenses Andromeda’yı kurtarma serüvenini anlatmaktadır. Ayrıca filmde 1925 yılında çevrilen The Lost World filminde ilk kez kullanılan Stop-Motion yönteminin artık son kullanıldığı örneklerinden biridir."
+  },
+  "poster": {
+    "tr": "/G09BaPlTh5mKcszohrdPd7pqaP.jpg",
+    "en": "/5JCLODNLJH6alc3KmyoiC21Nlob.jpg"
+  },
+  "backdrops": [
+    "/3hhxmfgSBd7dh9DKO5uheLEuiur.jpg",
+    "/ozo1BNadCZ2w0rRf1e4ioOnIEqf.jpg",
+    "/keMt6SKTiTBBW0WtCLcqEfpEj9G.jpg",
+    "/5CzBonRmG0GFKLI9FX4TVhf3kKs.jpg",
+    "/x2N4ruyJCmugvGk9W5XPSrBLMZO.jpg",
+    "/aLtcaknrG7uhXoT2RYdoKko1Ufz.jpg",
+    "/jPPaxEHNBeCN55zrSinxd2B0OI2.jpg",
+    "/1wK9rffYEIcUGiMBVeFwLTys7xN.jpg",
+    "/5wZSV1cDvRrkDVOkpnBQqzw3DKj.jpg",
+    "/15mjvVKfjxrSNc5XNTMuKI13OmO.jpg"
+  ],
+  "trailerKey": "uGphRIUYUjI",
+  "genreIds": [
+    12,
+    14,
+    28
+  ],
+  "keywordIds": [
+    616,
+    483,
+    2035,
+    3987,
+    2036,
+    6993,
+    8985,
+    7038,
+    9649,
+    10863,
+    10430,
+    14667,
+    33696,
+    159245,
+    161170,
+    161171,
+    162780,
+    162861,
+    178856,
+    185343,
+    230655,
+    252690,
+    263959,
+    272301
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Peerford Ltd.",
+    "Metro-Goldwyn-Mayer",
+    "Charles H. Schneer Productions"
+  ],
+  "crew": [
+    {
+      "personId": 52025,
+      "job": "composer"
+    },
+    {
+      "personId": 64823,
+      "job": "director"
+    },
+    {
+      "personId": 66759,
+      "job": "producer"
+    },
+    {
+      "personId": 66758,
+      "job": "producer"
+    },
+    {
+      "personId": 9867,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 64824,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 64825,
+      "character": "Perseus",
+      "order": 0
+    },
+    {
+      "personId": 26256,
+      "character": "Andromeda",
+      "order": 1
+    },
+    {
+      "personId": 16523,
+      "character": "Ammon",
+      "order": 2
+    },
+    {
+      "personId": 10978,
+      "character": "Thetis",
+      "order": 3
+    },
+    {
+      "personId": 9871,
+      "character": "Aphrodite",
+      "order": 4
+    },
+    {
+      "personId": 29545,
+      "character": "Hera",
+      "order": 5
+    },
+    {
+      "personId": 12522,
+      "character": "Cassiopeia",
+      "order": 6
+    },
+    {
+      "personId": 30126,
+      "character": "A Stygian Witch",
+      "order": 7
+    },
+    {
+      "personId": 3359,
+      "character": "Zeus",
+      "order": 8
+    },
+    {
+      "personId": 11276,
+      "character": "Thallo",
+      "order": 9
+    },
+    {
+      "personId": 2601,
+      "character": "Calibos",
+      "order": 10
+    },
+    {
+      "personId": 87415,
+      "character": "Athena",
+      "order": 11
+    },
+    {
+      "personId": 975564,
+      "character": "A Stygian Witch",
+      "order": 12
+    },
+    {
+      "personId": 39002,
+      "character": "A Stygian Witch",
+      "order": 13
+    },
+    {
+      "personId": 13331,
+      "character": "Poseidon",
+      "order": 14
+    },
+    {
+      "personId": 10942,
+      "character": "Hephaestus",
+      "order": 15
+    },
+    {
+      "personId": 38358,
+      "character": "Acrisius",
+      "order": 16
+    },
+    {
+      "personId": 955663,
+      "character": "Danae",
+      "order": 17
+    },
+    {
+      "personId": 121112,
+      "character": "Huntsman",
+      "order": 18
+    },
+    {
+      "personId": 114645,
+      "character": "Guard Killed by Scorpion (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 905,
+  "sources": [
+    "cult-list"
+  ]
+}

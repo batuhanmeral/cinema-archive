@@ -1,0 +1,138 @@
+{
+  "tmdbId": 4579,
+  "slug": "heat-1972",
+  "year": 1972,
+  "runtime": 102,
+  "originalTitle": "Heat",
+  "title": {
+    "en": "Heat",
+    "tr": "Heat"
+  },
+  "overview": {
+    "en": "Former child star Joe Davis, reduced to living in a cheap Hollywood motel while struggling for acting jobs, is lusted after by nearly every woman he meets, including Jessica Todd, a tightly wound feminist who has recently come out as a lesbian. When Jessica's mother, Sally, an emotionally needy has-been actress, meets Joe, she moves him into her enormous, tacky mansion as her new boy toy and attempts to get him acting work.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tryvx6s8abwdJVj45DHjFSxiKZD.jpg",
+    "en": "/tryvx6s8abwdJVj45DHjFSxiKZD.jpg"
+  },
+  "backdrops": [
+    "/tAmxdssLKnbB5i9S44k35ch2RBj.jpg",
+    "/pmgfg7wzPvIFodwEIPuvTODQNog.jpg",
+    "/8Aj1Sx7NS5mGNMCRlKmOwwIv7sS.jpg",
+    "/eAzav8rIazRzY3tTBubZe7rIjMK.jpg",
+    "/632CI6zfiMnzojGHfO7pLoePYZK.jpg",
+    "/miYP9x0dAmsFEbnFOFhSTP4acx5.jpg",
+    "/5kZQt7xKx6Jyz8C80JNkqxSex0g.jpg",
+    "/q1c3BHFAfuCMB6copXD2v1j9O8p.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    2336,
+    2992,
+    3182,
+    8201,
+    7476,
+    8181,
+    12396,
+    258533
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Andy Warhol Productions"
+  ],
+  "crew": [
+    {
+      "personId": 18627,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 18626,
+      "job": "producer"
+    },
+    {
+      "personId": 18627,
+      "job": "director"
+    },
+    {
+      "personId": 7491,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29915,
+      "character": "Joey",
+      "order": 0
+    },
+    {
+      "personId": 19335,
+      "character": "Sally Todd",
+      "order": 1
+    },
+    {
+      "personId": 38165,
+      "character": "Jessica",
+      "order": 2
+    },
+    {
+      "personId": 103962,
+      "character": "Lydia / landlady",
+      "order": 3
+    },
+    {
+      "personId": 38163,
+      "character": "Eric",
+      "order": 4
+    },
+    {
+      "personId": 38164,
+      "character": "Ray",
+      "order": 5
+    },
+    {
+      "personId": 38166,
+      "character": "Sidney",
+      "order": 6
+    },
+    {
+      "personId": 38167,
+      "character": "Harold",
+      "order": 7
+    },
+    {
+      "personId": 1866066,
+      "character": "John / Gossip columnist",
+      "order": 8
+    },
+    {
+      "personId": 4905520,
+      "character": "Gary",
+      "order": 9
+    },
+    {
+      "personId": 4905522,
+      "character": "Girl at pool",
+      "order": 10
+    },
+    {
+      "personId": 4905523,
+      "character": "Bonnie / Jessica's girlfriend",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 28,
+  "sources": [
+    "cult-list"
+  ]
+}

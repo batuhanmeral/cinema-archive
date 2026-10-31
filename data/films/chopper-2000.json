@@ -1,0 +1,196 @@
+{
+  "tmdbId": 9519,
+  "slug": "chopper-2000",
+  "year": 2000,
+  "runtime": 94,
+  "originalTitle": "Chopper",
+  "title": {
+    "en": "Chopper",
+    "tr": "Kasap"
+  },
+  "overview": {
+    "en": "The true and infamous story of Australia's notorious criminal Mark 'Chopper' Read and his years of crime, interest in violence, drugs and prostitutes.",
+    "tr": "En yakın arkadaşı Jimmy yakalanıp mahkemeye çıkarılınca, ona yardım etmek isteyen Kasap lakaplı Mark Read, davaya bakan hakimi kaçırır. Girişimi başarısız olan Kasap yakalanarak arkadaşıyla aynı hücreye konur. 16 yıl yatacağı hücresini Jimmy'nin yanısıra bir çete lideri olan Keithy George ile paylaşmaktadır. Keithy ile Kasap arasındaki bir anlaşmazlık, Kasap'ın onu öldürmesiyle sonuçlanır. Bunun üzerine Keithy'nin çetesi intikam almak amacıyla Jimmy'i tutarlar. En yakın arkadaşından canını kurtarmaya çalışan Kasap, birine zorla kulağını kestirir ve güvenliği için başka bir hapisaneye transfer edilir.8 yıl sonra, Kasap hapisten çıkar ve hesap sormak amacıyla eski dostu Jimmy'nin peşine düşer. Kasap'ın tek derdi Jimmy değildir. Eski bir düşmanı olan Neville'le uğraşması gerekecektir. Bu arada geçinebilmek için telekızlık yapan sevgilisi Tanya'ya da ilgi göstermelidir."
+  },
+  "poster": {
+    "tr": "/8Ua4voSMwqzlL8DzYi6dOOe1Dxw.jpg",
+    "en": "/IvoftTE67DCTfZDMoS2cSNXpnu.jpg"
+  },
+  "backdrops": [
+    "/iwAYxE4PGnhMb744ndWooZvEGm9.jpg",
+    "/889aandWw9iflNXlug2DLHunlWs.jpg",
+    "/t2voKheYY22L3IM18oavWN164Da.jpg",
+    "/tHw4Drsgvd2NDuwv0ti3zk4dENV.jpg",
+    "/8yOfgOqX7or1EodW1Yqwr804Ujh.jpg",
+    "/mWA17T0qCd8740aYymuaKq1S654.jpg",
+    "/cjZlRaLT2biJ0XckTnh3bZ1UiB5.jpg",
+    "/thnhGPNnQROznLt2DAlE26ceOOV.jpg"
+  ],
+  "trailerKey": "VSELr4Dk3eo",
+  "genreIds": [
+    80,
+    18,
+    53
+  ],
+  "keywordIds": [
+    378,
+    5657,
+    549,
+    331,
+    818,
+    1930,
+    3149,
+    4779,
+    2334,
+    9672,
+    11038,
+    11494,
+    14707,
+    15009,
+    160488
+  ],
+  "countries": [
+    "AU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Mushroom Pictures",
+    "Australian Film Finance Corporation",
+    "Pariah Films"
+  ],
+  "crew": [
+    {
+      "personId": 68353,
+      "job": "producer"
+    },
+    {
+      "personId": 37618,
+      "job": "writer"
+    },
+    {
+      "personId": 68355,
+      "job": "composer"
+    },
+    {
+      "personId": 60404,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 68356,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 37618,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8783,
+      "character": "Mark Brandon 'Chopper' Read",
+      "order": 0
+    },
+    {
+      "personId": 77496,
+      "character": "Neville Bartos",
+      "order": 1
+    },
+    {
+      "personId": 57794,
+      "character": "Jimmy Loughnan",
+      "order": 2
+    },
+    {
+      "personId": 57795,
+      "character": "Keithy George",
+      "order": 3
+    },
+    {
+      "personId": 3062,
+      "character": "Bluey",
+      "order": 4
+    },
+    {
+      "personId": 57799,
+      "character": "Detective Downie",
+      "order": 5
+    },
+    {
+      "personId": 57278,
+      "character": "Tanya",
+      "order": 6
+    },
+    {
+      "personId": 110402,
+      "character": "Kevin Darcy",
+      "order": 7
+    },
+    {
+      "personId": 1849686,
+      "character": "Television Interviewer",
+      "order": 8
+    },
+    {
+      "personId": 1485220,
+      "character": "Prison Officer",
+      "order": 9
+    },
+    {
+      "personId": 3063140,
+      "character": "Gov. Beasley",
+      "order": 10
+    },
+    {
+      "personId": 3075484,
+      "character": "Brunswick Court Judge",
+      "order": 11
+    },
+    {
+      "personId": 2442142,
+      "character": "Keith Read",
+      "order": 12
+    },
+    {
+      "personId": 1226165,
+      "character": "Ian James",
+      "order": 13
+    },
+    {
+      "personId": 934253,
+      "character": "Nick",
+      "order": 14
+    },
+    {
+      "personId": 1322308,
+      "character": "Detective Cooney",
+      "order": 15
+    },
+    {
+      "personId": 75261,
+      "character": "Mandy",
+      "order": 16
+    },
+    {
+      "personId": 187058,
+      "character": "Bucky",
+      "order": 17
+    },
+    {
+      "personId": 3536274,
+      "character": "Medical Officer",
+      "order": 18
+    },
+    {
+      "personId": 4349727,
+      "character": "Prison Officer #3",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 441,
+  "sources": [
+    "cult-list"
+  ]
+}

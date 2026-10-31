@@ -1,0 +1,212 @@
+{
+  "tmdbId": 880,
+  "slug": "antonia-s-line-1995",
+  "year": 1995,
+  "runtime": 102,
+  "originalTitle": "Antonia",
+  "title": {
+    "en": "Antonia's Line",
+    "tr": "Antonia'nın Yazgısı"
+  },
+  "overview": {
+    "en": "After World War II, Antonia and her daughter, Danielle, go back to their Dutch hometown, where Antonia's late mother has bestowed a small farm upon her. There, Antonia settles down and joins a tightly-knit but unusual community. Those around her include quirky friend Crooked Finger, would-be suitor Bas and, eventually for Antonia, a granddaughter and great-granddaughter who help create a strong family of empowered women.",
+    "tr": "Küçük bir Hollanda kasabasında, hayatı boyunca etrafındakilere ilham olmuş güçlü bir kadın geçmişini hatırlar. Sofrasında yemek yemiş, onun çatısı altında büyümüş nesilleri, dava arkadaşlarını, arkasında bıraktığı değerleri gözden geçirir."
+  },
+  "poster": {
+    "tr": "/nUCVi6bBIL7LGC61nYaCqikAhIA.jpg",
+    "en": "/7Yz6IXplDRtasBwRkdv0OguIV0B.jpg"
+  },
+  "backdrops": [
+    "/sOkUBkwq21ZEThCX7wboY2Xl3m5.jpg",
+    "/dc3ihzc4PWwxmZAZGR5k1NmRhEF.jpg",
+    "/nJv2yUYAmqxNO68wEC9yP037pXx.jpg",
+    "/srvwPeB9qiyfyukuoOSwyOcFpqH.jpg"
+  ],
+  "trailerKey": "3n1O-sKecdA",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    240,
+    791,
+    236,
+    6145,
+    570,
+    460,
+    970,
+    697,
+    1842,
+    490,
+    4129,
+    6089,
+    4402,
+    5331,
+    1956,
+    6009,
+    2383,
+    3154,
+    3371,
+    9457,
+    10180,
+    11925,
+    13160,
+    187056
+  ],
+  "countries": [
+    "NL",
+    "GB",
+    "BE"
+  ],
+  "languages": [
+    "nl"
+  ],
+  "studios": [
+    "Bergen Film",
+    "Bard Entertainments",
+    "NPS Televisie"
+  ],
+  "crew": [
+    {
+      "personId": 13496,
+      "job": "director"
+    },
+    {
+      "personId": 13496,
+      "job": "writer"
+    },
+    {
+      "personId": 13498,
+      "job": "producer"
+    },
+    {
+      "personId": 13499,
+      "job": "producer"
+    },
+    {
+      "personId": 13500,
+      "job": "producer"
+    },
+    {
+      "personId": 13502,
+      "job": "composer"
+    },
+    {
+      "personId": 13503,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1873579,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13506,
+      "character": "Antonia",
+      "order": 0
+    },
+    {
+      "personId": 13507,
+      "character": "Danielle",
+      "order": 1
+    },
+    {
+      "personId": 13508,
+      "character": "Allegonde",
+      "order": 2
+    },
+    {
+      "personId": 13509,
+      "character": "Thérèse",
+      "order": 3
+    },
+    {
+      "personId": 87865,
+      "character": "Thérèse (6)",
+      "order": 4
+    },
+    {
+      "personId": 13510,
+      "character": "Thérèse (13)",
+      "order": 5
+    },
+    {
+      "personId": 13512,
+      "character": "Sarah",
+      "order": 6
+    },
+    {
+      "personId": 13513,
+      "character": "Krummer Finger",
+      "order": 7
+    },
+    {
+      "personId": 13514,
+      "character": "Sebastian",
+      "order": 8
+    },
+    {
+      "personId": 13515,
+      "character": "Lara",
+      "order": 9
+    },
+    {
+      "personId": 13516,
+      "character": "Simon",
+      "order": 10
+    },
+    {
+      "personId": 13517,
+      "character": "Deedee",
+      "order": 11
+    },
+    {
+      "personId": 13518,
+      "character": "Lippen Willem",
+      "order": 12
+    },
+    {
+      "personId": 13519,
+      "character": "Olga",
+      "order": 13
+    },
+    {
+      "personId": 44366,
+      "character": "Pitte",
+      "order": 14
+    },
+    {
+      "personId": 140493,
+      "character": "Janne",
+      "order": 15
+    },
+    {
+      "personId": 211046,
+      "character": "Malle Madonna",
+      "order": 16
+    },
+    {
+      "personId": 88047,
+      "character": "Protestant",
+      "order": 17
+    },
+    {
+      "personId": 1416124,
+      "character": "Lippen Willem",
+      "order": 18
+    },
+    {
+      "personId": 1395806,
+      "character": "Pastoor",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 154,
+  "sources": [
+    "cult-list"
+  ]
+}

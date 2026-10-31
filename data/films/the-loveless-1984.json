@@ -1,0 +1,187 @@
+{
+  "tmdbId": 36826,
+  "slug": "the-loveless-1984",
+  "year": 1984,
+  "runtime": 83,
+  "originalTitle": "The Loveless",
+  "title": {
+    "en": "The Loveless",
+    "tr": "The Loveless"
+  },
+  "overview": {
+    "en": "Trouble ensues when a motorcycle gang stops in a small southern town while heading to the races at Daytona.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/3aZcW9NBsLX7ZldQkDtbKkHMfUq.jpg",
+    "en": "/EWNNvfyDUIYGwrI470wh5Sh2Sf.jpg"
+  },
+  "backdrops": [
+    "/cEKdh4OIOPSh1i1L9fF530mPnnG.jpg",
+    "/dpfIsCtDkXw6zX5Dlf3En8Tygho.jpg",
+    "/k8uhuwgFd6VgAkN5RC3jppToauD.jpg",
+    "/1rfjqg1rEKZwPj7LxNG1f7J8URs.jpg",
+    "/nv3Ji0dPF8m9wunQ4xAhWFFNFDY.jpg",
+    "/xdV67fZIbqv3TQseV9izFaTUkzx.jpg",
+    "/7sQgrMm0mCPuMUBojmiqzqoJziC.jpg",
+    "/4MJKZkwZhRwuaPkrM8At5Ih4A3S.jpg",
+    "/xGrx7l7bzNyaQ8jiGdKD7JjA7SV.jpg",
+    "/i51ooVvHtEe8Etcd2cXg0AOLjV5.jpg"
+  ],
+  "trailerKey": "LJmU9KUJxGA",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    4826,
+    9826,
+    10726,
+    14735,
+    155215,
+    187056,
+    325811
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 14392,
+      "job": "director"
+    },
+    {
+      "personId": 6589,
+      "job": "director"
+    },
+    {
+      "personId": 14392,
+      "job": "writer"
+    },
+    {
+      "personId": 6589,
+      "job": "writer"
+    },
+    {
+      "personId": 1072346,
+      "job": "composer"
+    },
+    {
+      "personId": 1077618,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2262382,
+      "job": "producer"
+    },
+    {
+      "personId": 2621,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5293,
+      "character": "Vance",
+      "order": 0
+    },
+    {
+      "personId": 1072346,
+      "character": "Davis",
+      "order": 1
+    },
+    {
+      "personId": 240853,
+      "character": "Telena",
+      "order": 2
+    },
+    {
+      "personId": 95941,
+      "character": "Tarver",
+      "order": 3
+    },
+    {
+      "personId": 2370012,
+      "character": "Sportster Debbie",
+      "order": 4
+    },
+    {
+      "personId": 2759114,
+      "character": "La Ville",
+      "order": 5
+    },
+    {
+      "personId": 6398,
+      "character": "Ricky",
+      "order": 6
+    },
+    {
+      "personId": 3050649,
+      "character": "Hurley",
+      "order": 7
+    },
+    {
+      "personId": 5307298,
+      "character": "Buck",
+      "order": 8
+    },
+    {
+      "personId": 3318092,
+      "character": "Augusta (stripping waitress)",
+      "order": 9
+    },
+    {
+      "personId": 1822845,
+      "character": "Evie (waitress)",
+      "order": 10
+    },
+    {
+      "personId": 2409883,
+      "character": "John",
+      "order": 11
+    },
+    {
+      "personId": 43992,
+      "character": "Sid",
+      "order": 12
+    },
+    {
+      "personId": 1747718,
+      "character": "Lady in T-Bird",
+      "order": 13
+    },
+    {
+      "personId": 1216433,
+      "character": "Customer in lounge",
+      "order": 14
+    },
+    {
+      "personId": 1051791,
+      "character": "Customer in lounge",
+      "order": 15
+    },
+    {
+      "personId": 3006843,
+      "character": "Customer in lounge",
+      "order": 16
+    },
+    {
+      "personId": 1738169,
+      "character": "Local Youth (as Alan Rawlins)",
+      "order": 17
+    },
+    {
+      "personId": 6516566,
+      "character": "Child at pipeline",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 67,
+  "sources": [
+    "cult-list"
+  ]
+}

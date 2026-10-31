@@ -1,0 +1,199 @@
+{
+  "tmdbId": 36832,
+  "slug": "born-in-flames-1983",
+  "year": 1983,
+  "runtime": 80,
+  "originalTitle": "Born in Flames",
+  "title": {
+    "en": "Born in Flames",
+    "tr": "Ateşlere Doğmak"
+  },
+  "overview": {
+    "en": "In near-future New York, ten years after the “social-democratic war of liberation,” diverse groups of women organize a feminist uprising as equality remains unfulfilled.",
+    "tr": "Çok da uzak olmayan bir gelecekte, New York’ta geçen öyküde, sosyal haklar için mücadele edilen “özgürlük savaşı”ndan 10 yıl sonrasını görürüz. Eşitlik halen çok uzak bir hedef gibi gözükür. Pek çok farklı topluluktan kadın bir araya gelerek, feminist bir isyanın fitilini ateşler."
+  },
+  "poster": {
+    "tr": "/vWCxJ51JHR8dKVCaCSHutQ5vr3a.jpg",
+    "en": "/vWCxJ51JHR8dKVCaCSHutQ5vr3a.jpg"
+  },
+  "backdrops": [
+    "/pC9qonwPXvvPx5kOT48X8U4sOTq.jpg",
+    "/nGym3OcwSQoRGVURAhmpxF7tpLI.jpg",
+    "/yaKr2sMi8OsaM1ZL50ojKrkGqpB.jpg",
+    "/hK98JN3ijxpMxLHV33c2duKl704.jpg",
+    "/mKNyj01HXHMaxp2IbqjnSG15L8s.jpg",
+    "/8sWe7grNx3uGyFOUkkOVjnFzn6J.jpg",
+    "/bMFDdH9GLCbIZnsJd1kRrKahJUI.jpg",
+    "/4MLMU7wCgyo1A1eYFRzLjqkh1Pa.jpg",
+    "/usWq0CP3FIN60xIG2JtAucBVMkq.jpg"
+  ],
+  "trailerKey": "qQnYxdXbaY4",
+  "genreIds": [
+    18,
+    878
+  ],
+  "keywordIds": [
+    4112,
+    2020,
+    1773,
+    2383,
+    4108,
+    4411,
+    6337,
+    8030,
+    10850,
+    33702,
+    158455,
+    158718,
+    159783,
+    161306,
+    187056,
+    213971,
+    256015,
+    281237,
+    283800,
+    334553
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "studios": [
+    "C.A.P.S.",
+    "The Young Filmmakers Ltd.",
+    "Jerome Foundation"
+  ],
+  "crew": [
+    {
+      "personId": 147227,
+      "job": "director"
+    },
+    {
+      "personId": 147227,
+      "job": "writer"
+    },
+    {
+      "personId": 147227,
+      "job": "producer"
+    },
+    {
+      "personId": 81537,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1538026,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 147229,
+      "character": "Honey",
+      "order": 0
+    },
+    {
+      "personId": 147230,
+      "character": "Isabel",
+      "order": 1
+    },
+    {
+      "personId": 147231,
+      "character": "Adelaide Norris",
+      "order": 2
+    },
+    {
+      "personId": 1713469,
+      "character": "Zella Wylie",
+      "order": 3
+    },
+    {
+      "personId": 125659,
+      "character": "Newspaper editor",
+      "order": 4
+    },
+    {
+      "personId": 14392,
+      "character": "Newspaper editor",
+      "order": 5
+    },
+    {
+      "personId": 14588,
+      "character": "Newspaper editor",
+      "order": 6
+    },
+    {
+      "personId": 1917010,
+      "character": "Leader of Women's Army",
+      "order": 7
+    },
+    {
+      "personId": 1309071,
+      "character": "Other leader",
+      "order": 8
+    },
+    {
+      "personId": 3976843,
+      "character": "Other leader / Woman at site",
+      "order": 9
+    },
+    {
+      "personId": 2721277,
+      "character": "Other leader",
+      "order": 10
+    },
+    {
+      "personId": 32592,
+      "character": "FBI Agent",
+      "order": 11
+    },
+    {
+      "personId": 1899138,
+      "character": "Chief",
+      "order": 12
+    },
+    {
+      "personId": 3976846,
+      "character": "TV Newscaster",
+      "order": 13
+    },
+    {
+      "personId": 2786085,
+      "character": "TV Newscaster",
+      "order": 14
+    },
+    {
+      "personId": 1416429,
+      "character": "TV Newscaster",
+      "order": 15
+    },
+    {
+      "personId": 3976848,
+      "character": "TV Spot Revolution",
+      "order": 16
+    },
+    {
+      "personId": 1285746,
+      "character": "Woman from Regazza",
+      "order": 17
+    },
+    {
+      "personId": 3976849,
+      "character": "Woman from Regazza",
+      "order": 18
+    },
+    {
+      "personId": 1201910,
+      "character": "Woman from Phoenix",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 91,
+  "sources": [
+    "cult-list"
+  ]
+}

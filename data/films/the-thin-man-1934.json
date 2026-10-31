@@ -1,0 +1,200 @@
+{
+  "tmdbId": 3529,
+  "slug": "the-thin-man-1934",
+  "year": 1934,
+  "runtime": 91,
+  "originalTitle": "The Thin Man",
+  "title": {
+    "en": "The Thin Man",
+    "tr": "The Thin Man"
+  },
+  "overview": {
+    "en": "Former detective Nick Charles has retired from police work, preferring a life of cocktails, parties, and relaxation with his wealthy wife, Nora. Their holiday is interrupted when the daughter of Nick’s former client asks for help finding her missing father, eccentric inventor Clyde Wynant. When Wynant’s body is discovered, Nick is drawn back into the investigation, with Nora eagerly joining him. As the couple questions Wynant’s family, friends, and business associates, a tangled web of greed, deception, and murder begins to unravel.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6cL89ok9t8xEKboOjOVga2W66jj.jpg",
+    "en": "/kVYDx3jOGS4Hbs3ykvewHmwAw9B.jpg"
+  },
+  "backdrops": [
+    "/dK3hEVgO2k3E8qPwqAzp2nWPeZ6.jpg",
+    "/amIl0MsLT0GP5ERwbodOPswYabr.jpg",
+    "/dSXAPWQiGRR7L6utshQIff9niUQ.jpg",
+    "/1vvRBicljQE5KOfPpY379KyFIdX.jpg",
+    "/rttDLPPfi1vapJ0oFVYcinMiz9u.jpg",
+    "/nlmkbn2bkCmJ03V7P5H86LpfWZN.jpg",
+    "/pdH9fwMPIdc2XtRkHaqO8VLs1GW.jpg",
+    "/b1bMEMtuiHBX23tfQU5ybNpakVf.jpg",
+    "/381IUfrZnFoHyPNDVsPSuCQI562.jpg",
+    "/ahM72IPCedoHThhK2rTuISG7MaQ.jpg"
+  ],
+  "trailerKey": "F2vlPkv0tQU",
+  "genreIds": [
+    35,
+    9648,
+    80
+  ],
+  "keywordIds": [
+    1157,
+    6149,
+    703,
+    11869,
+    12997,
+    12999,
+    13027,
+    15162,
+    15167,
+    155457,
+    155790,
+    156091,
+    156764,
+    158225,
+    173685,
+    197362,
+    207317,
+    325773
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer",
+    "Cosmopolitan Productions"
+  ],
+  "crew": [
+    {
+      "personId": 32427,
+      "job": "director"
+    },
+    {
+      "personId": 26160,
+      "job": "writer"
+    },
+    {
+      "personId": 26159,
+      "job": "writer"
+    },
+    {
+      "personId": 14569,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 109853,
+      "job": "producer"
+    },
+    {
+      "personId": 29967,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32428,
+      "character": "Nick Charles",
+      "order": 0
+    },
+    {
+      "personId": 13577,
+      "character": "Nora Charles",
+      "order": 1
+    },
+    {
+      "personId": 41516,
+      "character": "Dorothy Wynant",
+      "order": 2
+    },
+    {
+      "personId": 32430,
+      "character": "Inspector Guild",
+      "order": 3
+    },
+    {
+      "personId": 32431,
+      "character": "Mimi Wynant",
+      "order": 4
+    },
+    {
+      "personId": 14975,
+      "character": "Herbert MacCaulay",
+      "order": 5
+    },
+    {
+      "personId": 32433,
+      "character": "Tommy",
+      "order": 6
+    },
+    {
+      "personId": 32434,
+      "character": "Gilbert Wynant",
+      "order": 7
+    },
+    {
+      "personId": 32435,
+      "character": "Arthur Nunheim",
+      "order": 8
+    },
+    {
+      "personId": 4355,
+      "character": "Chris Jorgenson",
+      "order": 9
+    },
+    {
+      "personId": 32436,
+      "character": "Julia Wolf",
+      "order": 10
+    },
+    {
+      "personId": 32437,
+      "character": "Joe Morelli",
+      "order": 11
+    },
+    {
+      "personId": 77115,
+      "character": "Clyde Wynant",
+      "order": 12
+    },
+    {
+      "personId": 32438,
+      "character": "Tanner",
+      "order": 13
+    },
+    {
+      "personId": 1420490,
+      "character": "Wynant's Butler (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1422109,
+      "character": "Janitress (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 113516,
+      "character": "Detective (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 115995,
+      "character": "Night Club Patron (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1323050,
+      "character": "Stenographer (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 248225,
+      "character": "Dr. Walton (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 566,
+  "sources": [
+    "cult-list"
+  ]
+}

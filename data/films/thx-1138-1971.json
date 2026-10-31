@@ -1,0 +1,199 @@
+{
+  "tmdbId": 636,
+  "slug": "thx-1138-1971",
+  "year": 1971,
+  "runtime": 86,
+  "originalTitle": "THX 1138",
+  "title": {
+    "en": "THX 1138",
+    "tr": "THX 1138"
+  },
+  "overview": {
+    "en": "People in the future live in a totalitarian society. A technician named THX 1138 lives a mundane life between work and taking a controlled consumption of drugs that the government uses to make puppets out of people. As THX is without drugs for the first time he has feelings for a woman and they start a secret relationship.",
+    "tr": "İnsanlık 25. yüzyılda mekanikleşmenin son safhasına ulaşmıştır. Yeraltında ultra hijyenik ortamlarda yaşayan insanların artık bir ismi ya da kimliği yoktur. Yalnızca kodlarla tanımlanan bu dünyada insanlar özel bir ilaçla duygulardan arındırılmıştır. Amaç cinselliği yok ederek nüfusu belli bir sayıda tutabilmektir.\r THX 1138 bu kapalı toplumda yaşayan sıradan bir işçidir. Evini LUH 3417 isimli bir kadın arkadaşıyla birlikte paylaşmaktadır. Ancak aralarında herhangi bir duygusal bağ yoktur, hergün aldıkları ilaçlar bunu engellemektedir. LUH ilacı almayı reddeder ve THX ona katılır. Değişim başlamıştır."
+  },
+  "poster": {
+    "tr": "/pPyEXW7h2SJRjTsHZqrIlXxOgW9.jpg",
+    "en": "/25cQH5gZ60BiA5Y91HxoPpnFiY0.jpg"
+  },
+  "backdrops": [
+    "/dnwZ7yrfm6LHOVeDFAHFO47NKWJ.jpg",
+    "/6UU2wvsY0Fykg5W73WG9OU8cQOS.jpg",
+    "/e3tQHss7TRBGLse8JhjSPS4MKWV.jpg",
+    "/tXPapfBPsbjcyAl6m3Rle5gtHOG.jpg",
+    "/scBgUYD8KJek5jGHDSP5gvxovbY.jpg",
+    "/1eqRvEXc2gpepCaUevYj9RCjusc.jpg",
+    "/fM9ODwfR7m8fI2g99M9WyhvqXtI.jpg",
+    "/2Md9UewmoyKoTxPNqoFc7SH1skn.jpg",
+    "/9lAQSNkpEueSM0VD8hpuDeG0BA2.jpg",
+    "/yfLbGtxrHHSf4bPid0CbKo8Q7EY.jpg"
+  ],
+  "trailerKey": "a64IVhSsjdQ",
+  "genreIds": [
+    878,
+    18
+  ],
+  "keywordIds": [
+    378,
+    9678,
+    2964,
+    6104,
+    6149,
+    4565,
+    1803,
+    1972,
+    2137,
+    3236,
+    3237,
+    3249,
+    12565,
+    362404
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "American Zoetrope"
+  ],
+  "crew": [
+    {
+      "personId": 9220,
+      "job": "producer"
+    },
+    {
+      "personId": 9213,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9214,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9217,
+      "job": "composer"
+    },
+    {
+      "personId": 1,
+      "job": "director"
+    },
+    {
+      "personId": 1,
+      "job": "writer"
+    },
+    {
+      "personId": 154,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3087,
+      "character": "THX",
+      "order": 0
+    },
+    {
+      "personId": 9221,
+      "character": "SEN",
+      "order": 1
+    },
+    {
+      "personId": 9222,
+      "character": "SRT",
+      "order": 2
+    },
+    {
+      "personId": 9223,
+      "character": "LUH",
+      "order": 3
+    },
+    {
+      "personId": 2782,
+      "character": "PTO",
+      "order": 4
+    },
+    {
+      "personId": 9224,
+      "character": "TWA",
+      "order": 5
+    },
+    {
+      "personId": 5695,
+      "character": "NCH",
+      "order": 6
+    },
+    {
+      "personId": 9225,
+      "character": "DWY",
+      "order": 7
+    },
+    {
+      "personId": 9226,
+      "character": "IMM",
+      "order": 8
+    },
+    {
+      "personId": 9227,
+      "character": "CAM",
+      "order": 9
+    },
+    {
+      "personId": 9228,
+      "character": "OUE",
+      "order": 10
+    },
+    {
+      "personId": 9229,
+      "character": "JOT",
+      "order": 11
+    },
+    {
+      "personId": 5613,
+      "character": "TRG",
+      "order": 12
+    },
+    {
+      "personId": 9231,
+      "character": "Shell Dweller",
+      "order": 13
+    },
+    {
+      "personId": 161369,
+      "character": "Chrome Robot",
+      "order": 14
+    },
+    {
+      "personId": 161316,
+      "character": "Chrome Robot",
+      "order": 15
+    },
+    {
+      "personId": 1351086,
+      "character": "ELC",
+      "order": 16
+    },
+    {
+      "personId": 3445287,
+      "character": "Control Officer",
+      "order": 17
+    },
+    {
+      "personId": 1213867,
+      "character": "OMM (voice)",
+      "order": 18
+    },
+    {
+      "personId": 1291316,
+      "character": "Mark 8 Student",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1131,
+  "sources": [
+    "cult-list"
+  ]
+}

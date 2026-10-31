@@ -1,0 +1,187 @@
+{
+  "tmdbId": 33214,
+  "slug": "bad-timing-1980",
+  "year": 1980,
+  "runtime": 123,
+  "originalTitle": "Bad Timing",
+  "title": {
+    "en": "Bad Timing",
+    "tr": "Kötü Zamanlama"
+  },
+  "overview": {
+    "en": "Alex Linden is a psychiatrist living in Vienna who meets Milena Flaherty though a mutual friend. Though Alex is quite a bit older than Milena, he's attracted to her young, carefree spirit. Despite the fact that Milena is already married, their friendship quickly turns into a deeply passionate love affair that threatens to overtake them both. When Milena ends up in the hospital from an overdose, Alex is taken into custody by Inspector Netusil.",
+    "tr": "Viyana... Genç bir Amerikalı kız hap içerek intihar teşebbüsünde bulunur ve hastaneye kaldırılır. Film bundan sonra sürekli geri dönüşlerle intihar girişiminin ardındaki sır perdesini aralamaya çalışıyor. \"Hastalıklı bir beynin ürünü sapık bir film\" türünden eleştiriler alan Bad Timing, yer yer Hitchcock'un Under Capricorn ve Polanski'nin Chinatown filmlerini hatırlatıyor."
+  },
+  "poster": {
+    "tr": "/raLS93dykOabizFuguWZ9KeCKAS.jpg",
+    "en": "/raLS93dykOabizFuguWZ9KeCKAS.jpg"
+  },
+  "backdrops": [
+    "/9h8BMejQk2eJSvs1TmTFD8XZJzg.jpg",
+    "/xPak6VgrVrmuIdfNpzBM4EIFbaf.jpg",
+    "/ge7aBym4CEEuZJUZfBL2qNzhICr.jpg",
+    "/hL4oN6XBeY73UQyp7z7Je2WaGdH.jpg"
+  ],
+  "trailerKey": "3BOqQGMdIVE",
+  "genreIds": [
+    9648,
+    18,
+    53
+  ],
+  "keywordIds": [
+    1523,
+    2635,
+    5439,
+    9673,
+    15106,
+    18267,
+    34094,
+    294665
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "fr",
+    "en",
+    "de",
+    "cs"
+  ],
+  "studios": [
+    "Recorded Picture Company",
+    "The Rank Organisation"
+  ],
+  "crew": [
+    {
+      "personId": 25054,
+      "job": "producer"
+    },
+    {
+      "personId": 110317,
+      "job": "writer"
+    },
+    {
+      "personId": 3056,
+      "job": "producer"
+    },
+    {
+      "personId": 14132,
+      "job": "director"
+    },
+    {
+      "personId": 39023,
+      "job": "composer"
+    },
+    {
+      "personId": 14139,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 64928,
+      "character": "Alex Linden",
+      "order": 0
+    },
+    {
+      "personId": 9207,
+      "character": "Milena Flaherty",
+      "order": 1
+    },
+    {
+      "personId": 1037,
+      "character": "Inspector Netusil",
+      "order": 2
+    },
+    {
+      "personId": 656,
+      "character": "Stefan Vognic",
+      "order": 3
+    },
+    {
+      "personId": 83908,
+      "character": "Foppish Man",
+      "order": 4
+    },
+    {
+      "personId": 110318,
+      "character": "Amy Miller",
+      "order": 5
+    },
+    {
+      "personId": 663,
+      "character": "Col. Taylor",
+      "order": 6
+    },
+    {
+      "personId": 28871,
+      "character": "Hospital Policeman",
+      "order": 7
+    },
+    {
+      "personId": 110319,
+      "character": "Policeman #1",
+      "order": 8
+    },
+    {
+      "personId": 79954,
+      "character": "Policeman #2",
+      "order": 9
+    },
+    {
+      "personId": 110320,
+      "character": "Czech Receptionist",
+      "order": 10
+    },
+    {
+      "personId": 110321,
+      "character": "Konrad",
+      "order": 11
+    },
+    {
+      "personId": 95095,
+      "character": "Ambulance Man",
+      "order": 12
+    },
+    {
+      "personId": 110322,
+      "character": "Dr. Schneider",
+      "order": 13
+    },
+    {
+      "personId": 9127,
+      "character": "Young Doctor",
+      "order": 14
+    },
+    {
+      "personId": 110323,
+      "character": "Giovanni",
+      "order": 15
+    },
+    {
+      "personId": 110324,
+      "character": "Czech Consul",
+      "order": 16
+    },
+    {
+      "personId": 110325,
+      "character": "Ulla",
+      "order": 17
+    },
+    {
+      "personId": 110326,
+      "character": "Drunk Man",
+      "order": 18
+    },
+    {
+      "personId": 110327,
+      "character": "Arab in Truck",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 173,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "tmdbId": 1949,
+  "slug": "zodiac-2007",
+  "year": 2007,
+  "runtime": 157,
+  "originalTitle": "Zodiac",
+  "title": {
+    "en": "Zodiac",
+    "tr": "Zodiac"
+  },
+  "overview": {
+    "en": "Police conduct a manhunt for the Zodiac Killer, a serial killer who terrorized the San Francisco Bay Area during the late 1960s and early 1970s, taunting police with letters, bloodstained clothing, and ciphers mailed to newspapers.",
+    "tr": "Zodiac, San Fransisco körfez bölgesini dehşete boğmuş ve onlarca yıl boyunca şifreleri ve mektuplarıyla dört ayrı yargı bölgesinin yetkilileriyle alay etmiş bir seri katilin gerçek hikâyesine dayanan bir gerilim filmi. Bir avcıyı avlamak dört adam için bir saplantı hâlini alır; bu öyle bir saplantıdır ki onları eski hâllerinin birer hayaletine dönüştürür, yaşamları katilin bıraktığı sonu gelmeyen ipuçlarıyla bir kurulup bir yıkılır."
+  },
+  "poster": {
+    "tr": "/uNPKZ19gOUNcYD4i9jhRFQoJnSN.jpg",
+    "en": "/6YmeO4pB7XTh8P8F960O1uA14JO.jpg"
+  },
+  "backdrops": [
+    "/jP2htGBHE7vKq4MLeC75UeC0sZH.jpg",
+    "/elzsm8vIpYVh0s6ztFEKElqgXqe.jpg",
+    "/cXi9fPU3nEHBfLeLVnguncklXTe.jpg",
+    "/6w3jt9MGL6sLTmi46bRzpwqG77X.jpg",
+    "/3zCPI4JFc54xvLaJ71oI2KoP3az.jpg",
+    "/9kdtJruoXn7QJqAuJIz7FvPzdQI.jpg",
+    "/cga8m1HkYBY361lCypWA4ge8WGf.jpg",
+    "/aeG9FCywAXBUD7KNFaSlWxrIz6p.jpg",
+    "/rXyAFajZ1l2oxm2q9yaoX9QCcLZ.jpg",
+    "/cYU5msaAPbHRZ3Qm4Y36Fz8wkqX.jpg"
+  ],
+  "trailerKey": "yNncHPl1UXg",
+  "genreIds": [
+    80,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    918,
+    736,
+    387,
+    818,
+    6149,
+    582,
+    627,
+    703,
+    1228,
+    5340,
+    4399,
+    4950,
+    9826,
+    10714,
+    11727,
+    12193,
+    12570,
+    33457,
+    33722,
+    54012,
+    159743,
+    173103,
+    202399,
+    208992,
+    235210,
+    244530,
+    270813,
+    277050,
+    325763,
+    325775,
+    325817,
+    325818
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Warner Bros. Pictures",
+    "Phoenix Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 20208,
+      "job": "producer"
+    },
+    {
+      "personId": 20204,
+      "job": "producer"
+    },
+    {
+      "personId": 20207,
+      "job": "producer"
+    },
+    {
+      "personId": 8422,
+      "job": "composer"
+    },
+    {
+      "personId": 20206,
+      "job": "producer"
+    },
+    {
+      "personId": 7475,
+      "job": "producer"
+    },
+    {
+      "personId": 20204,
+      "job": "writer"
+    },
+    {
+      "personId": 10688,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7467,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 131,
+      "character": "Robert Graysmith",
+      "order": 0
+    },
+    {
+      "personId": 103,
+      "character": "David Toschi",
+      "order": 1
+    },
+    {
+      "personId": 11085,
+      "character": "William Armstrong",
+      "order": 2
+    },
+    {
+      "personId": 3223,
+      "character": "Paul Avery",
+      "order": 3
+    },
+    {
+      "personId": 2838,
+      "character": "Melanie",
+      "order": 4
+    },
+    {
+      "personId": 13550,
+      "character": "Jack Mulanax",
+      "order": 5
+    },
+    {
+      "personId": 3911,
+      "character": "Arthur Leigh Allen",
+      "order": 6
+    },
+    {
+      "personId": 1248,
+      "character": "Melvin Belli",
+      "order": 7
+    },
+    {
+      "personId": 20212,
+      "character": "Martin Lee",
+      "order": 8
+    },
+    {
+      "personId": 12826,
+      "character": "Bob Vaughn",
+      "order": 9
+    },
+    {
+      "personId": 7471,
+      "character": "Mel Nicolai",
+      "order": 10
+    },
+    {
+      "personId": 4492,
+      "character": "Sherwood Morrill",
+      "order": 11
+    },
+    {
+      "personId": 6474,
+      "character": "George Bawart",
+      "order": 12
+    },
+    {
+      "personId": 10825,
+      "character": "Ken Narlow",
+      "order": 13
+    },
+    {
+      "personId": 7472,
+      "character": "Zodiac 1 / Zodiac 2",
+      "order": 14
+    },
+    {
+      "personId": 17449,
+      "character": "Zodiac 3",
+      "order": 15
+    },
+    {
+      "personId": 1180860,
+      "character": "Zodiac 4",
+      "order": 16
+    },
+    {
+      "personId": 20210,
+      "character": "Al Hyman",
+      "order": 17
+    },
+    {
+      "personId": 20211,
+      "character": "Templeton Peck",
+      "order": 18
+    },
+    {
+      "personId": 8659,
+      "character": "Charles Thieriot",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 12066,
+  "sources": [
+    "cult-list"
+  ]
+}

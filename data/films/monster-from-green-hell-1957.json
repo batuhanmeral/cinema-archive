@@ -1,0 +1,108 @@
+{
+  "tmdbId": 52455,
+  "slug": "monster-from-green-hell-1957",
+  "year": 1957,
+  "runtime": 71,
+  "originalTitle": "Monster from Green Hell",
+  "title": {
+    "en": "Monster from Green Hell",
+    "tr": "Monster from Green Hell"
+  },
+  "overview": {
+    "en": "A test rocket carrying wasps to outer space,  to study the effects on them of weightlessness and radiations, crashes out of control back to Earth, into the jungles of Africa.  The two astrobiologists in charge of the test mount an expedition to the Darkest Continent to retrieve their experiment, only to find the wasps have grown to giant size which are panicking all forms of life as they quest for food.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yWWqlLzfOBYtfW2iHVHZTn1uhUV.jpg",
+    "en": "/ea2Ov1JuApL2pfxSDsj5Fbez4f1.jpg"
+  },
+  "backdrops": [
+    "/78JqWR8c4AVz6I5inSfJNjc6RfM.jpg",
+    "/yQuD6YrQ7z86ISMK3Oeim6zcu7v.jpg"
+  ],
+  "trailerKey": "A4lJdarKpgU",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    1618,
+    440,
+    10787,
+    14793,
+    155493,
+    191519
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Distributors Corporation of America (DCA)"
+  ],
+  "crew": [
+    {
+      "personId": 88643,
+      "job": "composer"
+    },
+    {
+      "personId": 932480,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1011929,
+      "job": "producer"
+    },
+    {
+      "personId": 121176,
+      "job": "director"
+    },
+    {
+      "personId": 141593,
+      "job": "writer"
+    },
+    {
+      "personId": 95318,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30846,
+      "character": "Dr. Quent Brady",
+      "order": 0
+    },
+    {
+      "personId": 136126,
+      "character": "Dan Morgan",
+      "order": 1
+    },
+    {
+      "personId": 86370,
+      "character": "Arobi",
+      "order": 2
+    },
+    {
+      "personId": 72583,
+      "character": "Lorna Lorentz",
+      "order": 3
+    },
+    {
+      "personId": 16761,
+      "character": "Mahri",
+      "order": 4
+    },
+    {
+      "personId": 14533,
+      "character": "Dr. Lorentz",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 39,
+  "sources": [
+    "cult-list"
+  ]
+}

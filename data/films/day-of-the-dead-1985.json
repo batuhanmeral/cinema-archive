@@ -1,0 +1,192 @@
+{
+  "tmdbId": 8408,
+  "slug": "day-of-the-dead-1985",
+  "year": 1985,
+  "runtime": 101,
+  "originalTitle": "Day of the Dead",
+  "title": {
+    "en": "Day of the Dead",
+    "tr": "Zombi - Ölüm Günü"
+  },
+  "overview": {
+    "en": "As the world is overrun by zombies, scientists and military personnel in an underground Florida bunker must decide on how they should deal with the undead.",
+    "tr": "Savaş sona ermiş ve kaybedilmişti. Yürüyen ölülerin elinde dünya, artık tamamen kontrolden çıkmıştı. Bazı küçük gruplar halindeki az sayıda yaşayan insanlar, zorda olsa hayatta kalabilmişti. Bu arada bir grup bilim adamı ve asker, Florida'ki terk edilmiş bir silah silosuna sığınmıştı ve grup,kana susamış zombileri kontrol altına alabilecek çılgın bir deneyle uğraşmaktaydı. Ekibin tansiyonu askeri liderlerden birinin, kendi emrindeki adamlarından bazılarının bu deneylerde kobay olarak kullanıldığını keşfetmesiyle doruk noktasına çıkar. Bu sırada yukarıdaki zombilerin, sığınağa sızmanın bir yolunu bulmaya çalışmaya başlamasıyla sinirler iyice gerilir. Yeraltında yapılacak bu son savaş, dünyanın bildiği en karanlık gün olacaktı: Ölülerin günü. \"Ölülerin Şafağı\"nın kaldığı yerden devam eden ve gene bir külte filminde, Romero yeni bir grup insanın hayatta kalma mücadelesini, önceki iki filmden çok daha da kanlı bir şekilde anlatıyor."
+  },
+  "poster": {
+    "tr": "/bi7SO5F4VyyGQTlxQirbH1dwKzW.jpg",
+    "en": "/yJ2emwXWwQc6VHW3fO4GZr0hXBt.jpg"
+  },
+  "backdrops": [
+    "/bTvc9hzculIuScIZwWz4faa4dOu.jpg",
+    "/sZUnqJCjEUtdZ0vhPO3oe1PFYV9.jpg",
+    "/6OVzdrbBTiSUVE3TJ7jFX1NyxKi.jpg",
+    "/zT3UvL45Y392Ltk88Kegxo8ONj0.jpg",
+    "/q969xJIo3ab0JcsWB5U3fM91bj6.jpg",
+    "/twrLDDxMRmF2zthn2aqseNvBpd9.jpg",
+    "/uNeyawOgB1BTLQslFb2vdyLeCZw.jpg",
+    "/pKSwp5CvtjbJVPPtOqKUtweR1Wo.jpg",
+    "/8FCeGFhjmU422qoRjbdhn18kClN.jpg",
+    "/nnVSjNd2t5yBtVLhsvBkRyTnVjC.jpg"
+  ],
+  "trailerKey": "G8gMvjmGv4k",
+  "genreIds": [
+    27,
+    18,
+    9648
+  ],
+  "keywordIds": [
+    1196,
+    6255,
+    2321,
+    3335,
+    9663,
+    9714,
+    10478,
+    12377,
+    157351,
+    186565,
+    202334,
+    210162,
+    214996,
+    314730
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Laurel Entertainment",
+    "United Film Distribution Company (UFDC)"
+  ],
+  "crew": [
+    {
+      "personId": 14999,
+      "job": "director"
+    },
+    {
+      "personId": 14999,
+      "job": "writer"
+    },
+    {
+      "personId": 15000,
+      "job": "producer"
+    },
+    {
+      "personId": 15056,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 13367,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 54853,
+      "character": "Sarah",
+      "order": 0
+    },
+    {
+      "personId": 54854,
+      "character": "John",
+      "order": 1
+    },
+    {
+      "personId": 54855,
+      "character": "Rhodes",
+      "order": 2
+    },
+    {
+      "personId": 54856,
+      "character": "McDermott",
+      "order": 3
+    },
+    {
+      "personId": 54857,
+      "character": "Miguel",
+      "order": 4
+    },
+    {
+      "personId": 54858,
+      "character": "Logan",
+      "order": 5
+    },
+    {
+      "personId": 54859,
+      "character": "Bub",
+      "order": 6
+    },
+    {
+      "personId": 994134,
+      "character": "Steel",
+      "order": 7
+    },
+    {
+      "personId": 170150,
+      "character": "Rickles",
+      "order": 8
+    },
+    {
+      "personId": 15057,
+      "character": "Fisher",
+      "order": 9
+    },
+    {
+      "personId": 1090356,
+      "character": "Miller",
+      "order": 10
+    },
+    {
+      "personId": 107373,
+      "character": "Torrez",
+      "order": 11
+    },
+    {
+      "personId": 59287,
+      "character": "Johnson",
+      "order": 12
+    },
+    {
+      "personId": 31118,
+      "character": "Featured Zombie",
+      "order": 13
+    },
+    {
+      "personId": 1090362,
+      "character": "Featured Zombie",
+      "order": 14
+    },
+    {
+      "personId": 1813083,
+      "character": "Featured Zombie",
+      "order": 15
+    },
+    {
+      "personId": 1813084,
+      "character": "Featured Zombie",
+      "order": 16
+    },
+    {
+      "personId": 96021,
+      "character": "Featured Zombie",
+      "order": 17
+    },
+    {
+      "personId": 1813087,
+      "character": "Featured Zombie",
+      "order": 18
+    },
+    {
+      "personId": 1813088,
+      "character": "Featured Zombie",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1474,
+  "sources": [
+    "cult-list"
+  ]
+}

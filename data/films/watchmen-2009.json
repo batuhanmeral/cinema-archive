@@ -1,0 +1,215 @@
+{
+  "tmdbId": 13183,
+  "slug": "watchmen-2009",
+  "year": 2009,
+  "runtime": 163,
+  "originalTitle": "Watchmen",
+  "title": {
+    "en": "Watchmen",
+    "tr": "Watchmen"
+  },
+  "overview": {
+    "en": "In a gritty and alternate 1985, the glory days of costumed vigilantes have been brought to a close by a government crackdown. But after one of the masked veterans is brutally murdered, an investigation into the killer is initiated. The reunited heroes set out to prevent their own destruction, but in doing so they uncover a sinister plot that puts all of humanity in grave danger.",
+    "tr": "86-87 yılları arasında basılan 12 sayıdan oluşan Watchmen yayınlandığı Soğuk Savaş Dönemi’nden fazlasıyla etkilenmiş bir çizgi roman. 85 yılında, Amerika ve Sovyetler Birliği’nin nükleer savaşın eşiğinde olduğu sıralarda New York’ta geçen hikayede, süper kahramanlar kostüm ve maskeleriyle günlük hayatın bir parçası olarak halkın arasında yaşamaktadırlar. Kendilerine atfedilen “süper-kahraman” tanımının aksine, ironik olarak süper güçleri olmayan bu kahramanlar, kanunlara bağlı olmadan kendi çabalarıyla adaleti sağlamaya çalışmaktadırlar. Eski arkadaşlarından birinin öldürülmesi üzerine, cinayeti araştırmaya başlayan Rorschach, aslında bu olayın süper kahramanlara yönelik çok daha büyük bir komplonun başlangıcı olduğunu düşünmeye başlar. Bunun üzerine, bu komployu engelleyebilmek için, dağılmış olan eski takımını bir araya getirmek için çalışacaktır."
+  },
+  "poster": {
+    "tr": "/aVURelN3pM56lFM7Dgfs5TixcIf.jpg",
+    "en": "/aVURelN3pM56lFM7Dgfs5TixcIf.jpg"
+  },
+  "backdrops": [
+    "/dH7ia3vtkYCa3CBvDnvVjqm9uiQ.jpg",
+    "/uOvNJMVy3VzEfS75hXroITSsdWY.jpg",
+    "/y6AIFuBOymo8nGymqesohP8yxN0.jpg",
+    "/hfWsEZRTpqSfzofIhjjy7VL4o61.jpg",
+    "/vX9I1ecuvfgmZzbwUvlfziREHlD.jpg",
+    "/z0MeMoPqbXqxuQHwl48ls0N6Yme.jpg",
+    "/iloOEgZc2HKp6sLJgFu5eMiOggk.jpg",
+    "/92wggB6ifBREL95jMYrBNcK3AyY.jpg",
+    "/fWnhFJ9m0x8GNyqQyj5HJ9sKjry.jpg",
+    "/8t8GWBpAIGf7sqOgGbNpPsAsEKx.jpg"
+  ],
+  "trailerKey": "89xoXmHgG00",
+  "genreIds": [
+    9648,
+    28,
+    878
+  ],
+  "keywordIds": [
+    840,
+    677,
+    1583,
+    1308,
+    2398,
+    2111,
+    4232,
+    4948,
+    9717,
+    10410,
+    11321,
+    33424,
+    34161,
+    158456,
+    173995,
+    174008,
+    208289,
+    230556,
+    321464,
+    325763
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Paramount Pictures",
+    "Legendary Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 15217,
+      "job": "director"
+    },
+    {
+      "personId": 10995,
+      "job": "writer"
+    },
+    {
+      "personId": 74258,
+      "job": "writer"
+    },
+    {
+      "personId": 79242,
+      "job": "producer"
+    },
+    {
+      "personId": 1093,
+      "job": "producer"
+    },
+    {
+      "personId": 1993,
+      "job": "producer"
+    },
+    {
+      "personId": 79243,
+      "job": "producer"
+    },
+    {
+      "personId": 15221,
+      "job": "composer"
+    },
+    {
+      "personId": 17284,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 50463,
+      "character": "Laurie Jupiter / Silk Spectre II",
+      "order": 0
+    },
+    {
+      "personId": 17178,
+      "character": "Dan Dreiberg / Nite Owl II",
+      "order": 1
+    },
+    {
+      "personId": 8289,
+      "character": "Jon Osterman / Dr. Manhattan",
+      "order": 2
+    },
+    {
+      "personId": 1247,
+      "character": "Adrian Veidt / Ozymandias",
+      "order": 3
+    },
+    {
+      "personId": 17183,
+      "character": "Walter Kovacs / Rorschach",
+      "order": 4
+    },
+    {
+      "personId": 47296,
+      "character": "Edward Blake / The Comedian",
+      "order": 5
+    },
+    {
+      "personId": 17832,
+      "character": "Sally Jupiter / Silk Spectre",
+      "order": 6
+    },
+    {
+      "personId": 79343,
+      "character": "Janey Slater",
+      "order": 7
+    },
+    {
+      "personId": 40009,
+      "character": "Edgar Jacobi / Moloch the Mystic",
+      "order": 8
+    },
+    {
+      "personId": 230,
+      "character": "Hollis Mason / Nite Owl",
+      "order": 9
+    },
+    {
+      "personId": 42708,
+      "character": "Wally Weaver",
+      "order": 10
+    },
+    {
+      "personId": 3909,
+      "character": "John McLaughlin",
+      "order": 11
+    },
+    {
+      "personId": 79344,
+      "character": "Pat Buchanan",
+      "order": 12
+    },
+    {
+      "personId": 79345,
+      "character": "Eleanor Clift",
+      "order": 13
+    },
+    {
+      "personId": 79346,
+      "character": "Doug Roth",
+      "order": 14
+    },
+    {
+      "personId": 37432,
+      "character": "Richard Nixon",
+      "order": 15
+    },
+    {
+      "personId": 21091,
+      "character": "Detective Fine",
+      "order": 16
+    },
+    {
+      "personId": 56749,
+      "character": "Detective Gallagher",
+      "order": 17
+    },
+    {
+      "personId": 46930,
+      "character": "Henry Kissinger",
+      "order": 18
+    },
+    {
+      "personId": 60612,
+      "character": "Norad General #1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 10363,
+  "sources": [
+    "cult-list"
+  ]
+}

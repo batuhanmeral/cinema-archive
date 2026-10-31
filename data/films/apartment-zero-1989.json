@@ -1,0 +1,173 @@
+{
+  "tmdbId": 5333,
+  "slug": "apartment-zero-1989",
+  "year": 1989,
+  "runtime": 125,
+  "originalTitle": "Apartment Zero",
+  "title": {
+    "en": "Apartment Zero",
+    "tr": "Apartment Zero"
+  },
+  "overview": {
+    "en": "In a rundown area of Buenos Aires, at the dawn of the 1980s, Adrian LeDuc owns both a struggling movie theater and a shabby apartment building filled with eccentric, squabbling tenants. To make ends meet, Adrian takes in a roommate, Jack Carney, but soon begins to suspect that the quiet American is responsible for a series of political assassinations that are rocking the city.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/cVXGyReSl955Wr2c8ythuxRmJRK.jpg",
+    "en": "/cVXGyReSl955Wr2c8ythuxRmJRK.jpg"
+  },
+  "backdrops": [
+    "/ue6v10sgyArg8GsSpokYIx85n6D.jpg",
+    "/ux9KsJQhOKknoEmU81MjTUBXsW8.jpg",
+    "/qg79fnXvI6HRWy4cHKq9l4s0B3D.jpg",
+    "/jjyP7XNS6JZMsgZHukU8RHtEPo5.jpg",
+    "/dSqmfcsmVQ8pXzZ2YJC5sTWmhGN.jpg",
+    "/eeWR11azq8QnYySr9fNkunzfbPz.jpg"
+  ],
+  "trailerKey": "oLXQHWcvjkg",
+  "genreIds": [
+    53,
+    18,
+    27
+  ],
+  "keywordIds": [
+    591,
+    1448,
+    2708,
+    824,
+    6026,
+    977,
+    1439,
+    2566,
+    2900,
+    3045,
+    3230,
+    6431,
+    10226,
+    13001
+  ],
+  "countries": [
+    "AR",
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Producers Representative Organization",
+    "The Summit Company"
+  ],
+  "crew": [
+    {
+      "personId": 508,
+      "job": "producer"
+    },
+    {
+      "personId": 1495632,
+      "job": "director"
+    },
+    {
+      "personId": 1495632,
+      "job": "producer"
+    },
+    {
+      "personId": 1676474,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 508,
+      "job": "writer"
+    },
+    {
+      "personId": 43609,
+      "job": "composer"
+    },
+    {
+      "personId": 1495632,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5472,
+      "character": "Adrian LeDuc",
+      "order": 0
+    },
+    {
+      "personId": 7678,
+      "character": "Jack Carney",
+      "order": 1
+    },
+    {
+      "personId": 43626,
+      "character": "Margaret McKinney",
+      "order": 2
+    },
+    {
+      "personId": 7320,
+      "character": "Mary Louise McKinney",
+      "order": 3
+    },
+    {
+      "personId": 43628,
+      "character": "Laura Werpachowsky",
+      "order": 4
+    },
+    {
+      "personId": 43629,
+      "character": "Vanessa",
+      "order": 5
+    },
+    {
+      "personId": 121732,
+      "character": "Carlos Sanchez-Verne",
+      "order": 6
+    },
+    {
+      "personId": 1575230,
+      "character": "Alberto Werpachowsky",
+      "order": 7
+    },
+    {
+      "personId": 1009414,
+      "character": "Mrs. Treniev",
+      "order": 8
+    },
+    {
+      "personId": 78711,
+      "character": "Claudia",
+      "order": 9
+    },
+    {
+      "personId": 1070011,
+      "character": "Adrian's Mother",
+      "order": 10
+    },
+    {
+      "personId": 2214013,
+      "character": "Tango Singer",
+      "order": 11
+    },
+    {
+      "personId": 2110074,
+      "character": "Projectionist",
+      "order": 12
+    },
+    {
+      "personId": 1084350,
+      "character": "Boy in Cafe",
+      "order": 13
+    },
+    {
+      "personId": 1022883,
+      "character": "Mr. Palmer",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 64,
+  "sources": [
+    "cult-list"
+  ]
+}

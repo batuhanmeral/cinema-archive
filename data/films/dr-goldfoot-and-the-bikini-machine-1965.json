@@ -1,0 +1,185 @@
+{
+  "tmdbId": 26573,
+  "slug": "dr-goldfoot-and-the-bikini-machine-1965",
+  "year": 1965,
+  "runtime": 88,
+  "originalTitle": "Dr. Goldfoot and the Bikini Machine",
+  "title": {
+    "en": "Dr. Goldfoot and the Bikini Machine",
+    "tr": "Dr. Goldfoot and the Bikini Machine"
+  },
+  "overview": {
+    "en": "Mad scientist Dr. Goldfoot has invented an army of bikini-clad robots programmed to seek out wealthy men and charm them into signing over their assets. Secret agent Craig Gamble and millionaire Todd Armstrong set out to foil his fiendish plot.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/v1NPmkAgQ85fTJAD7cmZ2EcFCvh.jpg",
+    "en": "/v1NPmkAgQ85fTJAD7cmZ2EcFCvh.jpg"
+  },
+  "backdrops": [
+    "/8P4YHsHMimLyDEK5EhOPGfjmRwD.jpg",
+    "/tFoeheffaijdssvCGyzaOCPbqEX.jpg",
+    "/53PzyTX4IgurHsNVFrdpfWWKThH.jpg",
+    "/x5pCJEEXyi5noe2iT7u8kVRyMpb.jpg",
+    "/egT7PXgkmk6BEEEgaknvGVuH9Ci.jpg",
+    "/ifZqOYrYE0ViVum2nJS0RTMxiaC.jpg"
+  ],
+  "trailerKey": "jCMeEEm4dIA",
+  "genreIds": [
+    35,
+    878
+  ],
+  "keywordIds": [
+    4289,
+    10125,
+    7984,
+    14544,
+    176217
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "American International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 30904,
+      "job": "producer"
+    },
+    {
+      "personId": 105735,
+      "job": "writer"
+    },
+    {
+      "personId": 83986,
+      "job": "writer"
+    },
+    {
+      "personId": 82800,
+      "job": "director"
+    },
+    {
+      "personId": 51730,
+      "job": "producer"
+    },
+    {
+      "personId": 99452,
+      "job": "composer"
+    },
+    {
+      "personId": 870,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1905,
+      "character": "Dr. Goldfoot",
+      "order": 0
+    },
+    {
+      "personId": 22092,
+      "character": "Craig Gamble",
+      "order": 1
+    },
+    {
+      "personId": 70260,
+      "character": "Todd Armstrong",
+      "order": 2
+    },
+    {
+      "personId": 113656,
+      "character": "Diane",
+      "order": 3
+    },
+    {
+      "personId": 95681,
+      "character": "Igor",
+      "order": 4
+    },
+    {
+      "personId": 8632,
+      "character": "D.J. Pevney",
+      "order": 5
+    },
+    {
+      "personId": 152745,
+      "character": "Robot",
+      "order": 6
+    },
+    {
+      "personId": 1048464,
+      "character": "Robot",
+      "order": 7
+    },
+    {
+      "personId": 1048465,
+      "character": "Robot",
+      "order": 8
+    },
+    {
+      "personId": 1048466,
+      "character": "Robot",
+      "order": 9
+    },
+    {
+      "personId": 1048467,
+      "character": "Robot",
+      "order": 10
+    },
+    {
+      "personId": 1048468,
+      "character": "Robot",
+      "order": 11
+    },
+    {
+      "personId": 148606,
+      "character": "Robot",
+      "order": 12
+    },
+    {
+      "personId": 1048469,
+      "character": "Robot",
+      "order": 13
+    },
+    {
+      "personId": 201403,
+      "character": "Robot",
+      "order": 14
+    },
+    {
+      "personId": 166044,
+      "character": "Robot",
+      "order": 15
+    },
+    {
+      "personId": 213860,
+      "character": "Robot",
+      "order": 16
+    },
+    {
+      "personId": 3671055,
+      "character": "Robot",
+      "order": 17
+    },
+    {
+      "personId": 1706681,
+      "character": "Robot",
+      "order": 18
+    },
+    {
+      "personId": 2760893,
+      "character": "Robot",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 62,
+  "sources": [
+    "cult-list"
+  ]
+}

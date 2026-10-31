@@ -1,0 +1,202 @@
+{
+  "tmdbId": 9741,
+  "slug": "unbreakable-2000",
+  "year": 2000,
+  "runtime": 106,
+  "originalTitle": "Unbreakable",
+  "title": {
+    "en": "Unbreakable",
+    "tr": "Ölümsüz"
+  },
+  "overview": {
+    "en": "An ordinary man makes an extraordinary discovery when a train accident leaves his fellow passengers dead — and him unscathed. The answer to this mystery could lie with the mysterious Elijah Price, a man who suffers from a disease that renders his bones as fragile as glass.",
+    "tr": "Korkunç bir tren kazasından yara dahi almadan kurtulan adam, bir anda insanların ilgi odağı olmuştur. Bu doğaüstü durumun açıklanması, David Dunn (Bruce Willis) adlı kazazedenin kendisi hakkındaki bazı gerçekleri keşfetmesine giden yolu açar. Bunlar olurken David’le tanışmak isteyen bir çizgi roman uzmanının alışılmadık durumla ilgili teorisi, iki adamı birbirine bağlayan garip bir denkleme dayanmaktadır. Altıncı His'le adını duyuran yazar/yönetmen M. Night Shyamalan’dan, Hitchcock tatları da barındıran bir gerilim/bilimkurgu…"
+  },
+  "poster": {
+    "tr": "/bOxnUiO2hjLv4ByQjg36UC1PZlx.jpg",
+    "en": "/mLuehrGLiK5zFCyRmDDOH6gbfPf.jpg"
+  },
+  "backdrops": [
+    "/hjPirVLui7vWD4AsOQPV9kjg7pg.jpg",
+    "/kxXPepFUn59WY2LU9mgxpil9i6c.jpg",
+    "/i4ssYOvTIfwRyuHkUyZsAtO2xJt.jpg",
+    "/mrJSIlMQEaVhEMousX74kTU5LmB.jpg",
+    "/A7CYNTa3fWyU0t207XiecgriQv5.jpg",
+    "/2Gq4teAIkVVv0kc6JsfU66C3VOJ.jpg",
+    "/fK0KYp0lgixgUhSPuT9HCqS6Yy.jpg",
+    "/a40092coo0EWj0cGZPZ5HaTsOTo.jpg",
+    "/bJDDR0cP9MsPRiPy7kB8gXGmDf3.jpg",
+    "/fahZD22zm0FS6l7J6lpHQdyJVE.jpg"
+  ],
+  "trailerKey": "faVXsGSC1AY",
+  "genreIds": [
+    53,
+    18,
+    9648
+  ],
+  "keywordIds": [
+    276,
+    970,
+    5809,
+    9715,
+    4619,
+    8872,
+    15208,
+    33637,
+    162735,
+    200234,
+    200918,
+    201864,
+    240119,
+    325818,
+    369322
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Barry Mendel Productions",
+    "Blinding Edge Pictures",
+    "Touchstone Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 11614,
+      "job": "director"
+    },
+    {
+      "personId": 5664,
+      "job": "producer"
+    },
+    {
+      "personId": 11614,
+      "job": "producer"
+    },
+    {
+      "personId": 1213,
+      "job": "composer"
+    },
+    {
+      "personId": 16732,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11614,
+      "job": "writer"
+    },
+    {
+      "personId": 136,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62,
+      "character": "David Dunn",
+      "order": 0
+    },
+    {
+      "personId": 2231,
+      "character": "Elijah Price",
+      "order": 1
+    },
+    {
+      "personId": 32,
+      "character": "Audrey Dunn",
+      "order": 2
+    },
+    {
+      "personId": 4012,
+      "character": "Joseph Dunn",
+      "order": 3
+    },
+    {
+      "personId": 33689,
+      "character": "Elijah's Mother",
+      "order": 4
+    },
+    {
+      "personId": 19299,
+      "character": "Dr. Mathison",
+      "order": 5
+    },
+    {
+      "personId": 21474,
+      "character": "Kelly",
+      "order": 6
+    },
+    {
+      "personId": 1882245,
+      "character": "Elijah Age 13",
+      "order": 7
+    },
+    {
+      "personId": 1882246,
+      "character": "Babysitter",
+      "order": 8
+    },
+    {
+      "personId": 102996,
+      "character": "Comic Book Clerk",
+      "order": 9
+    },
+    {
+      "personId": 53302,
+      "character": "School Nurse",
+      "order": 10
+    },
+    {
+      "personId": 1882248,
+      "character": "David Dunn Age 20",
+      "order": 11
+    },
+    {
+      "personId": 73836,
+      "character": "Audrey Inverso Age 20",
+      "order": 12
+    },
+    {
+      "personId": 17194,
+      "character": "Orange Suit Man",
+      "order": 13
+    },
+    {
+      "personId": 50217,
+      "character": "ER Doctor",
+      "order": 14
+    },
+    {
+      "personId": 1559326,
+      "character": "Businessman",
+      "order": 15
+    },
+    {
+      "personId": 38672,
+      "character": "Saleswoman",
+      "order": 16
+    },
+    {
+      "personId": 51551,
+      "character": "Priest",
+      "order": 17
+    },
+    {
+      "personId": 1882252,
+      "character": "Ancient Personnel Secretary",
+      "order": 18
+    },
+    {
+      "personId": 92788,
+      "character": "Noel",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 10254,
+  "sources": [
+    "cult-list"
+  ]
+}

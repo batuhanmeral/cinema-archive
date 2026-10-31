@@ -1,0 +1,98 @@
+{
+  "tmdbId": 37103,
+  "slug": "heaven-knows-mr-allison-1957",
+  "year": 1957,
+  "runtime": 108,
+  "originalTitle": "Heaven Knows, Mr. Allison",
+  "title": {
+    "en": "Heaven Knows, Mr. Allison",
+    "tr": "Beyaz Rahibe"
+  },
+  "overview": {
+    "en": "A Roman Catholic nun and a hard-bitten US Marine are stranded together on a Japanese-occupied island in the South Pacific during World War II. Under constant threat of discovery by a ruthless enemy, they hide in a cave and forage for food together. Their forced companionship and the struggle for survival forge a powerful emotional bond between them.",
+    "tr": "II. Dünya Savaşı sırasında, Güney Pasifik adasında mahsur kalan bir Amerikalı denizci ve İrlandalı bir rahibe, beklenmedik bir dostluk kurar. Japonlar tarafından yakalanmaktan kaçınmaya çalışırken, kurtarılmayı umarken birbirlerinde teselli bulurlar."
+  },
+  "poster": {
+    "tr": "/lsJgNnroZuANP7q8jZpB32m5A7w.jpg",
+    "en": "/lsJgNnroZuANP7q8jZpB32m5A7w.jpg"
+  },
+  "backdrops": [
+    "/k7gQYCxAV3EyJqryBcw7sotdigp.jpg",
+    "/zUKO1Nb79maoDfCxNE5px59gkk9.jpg",
+    "/mYG9QUgTjSGXtKpO9RSFQaFfphT.jpg",
+    "/lhGLHAdlMkSTLzomteHiL3yqW05.jpg"
+  ],
+  "trailerKey": "GVsxx2TlKrc",
+  "genreIds": [
+    12,
+    10752,
+    18
+  ],
+  "keywordIds": [
+    745,
+    1956,
+    9525,
+    11001,
+    11823,
+    157008,
+    158780,
+    170007
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "studios": [
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 6593,
+      "job": "director"
+    },
+    {
+      "personId": 29618,
+      "job": "writer"
+    },
+    {
+      "personId": 6593,
+      "job": "writer"
+    },
+    {
+      "personId": 116849,
+      "job": "producer"
+    },
+    {
+      "personId": 116850,
+      "job": "producer"
+    },
+    {
+      "personId": 2578,
+      "job": "composer"
+    },
+    {
+      "personId": 10339,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20141,
+      "character": "Sister Angela",
+      "order": 0
+    },
+    {
+      "personId": 10158,
+      "character": "Corporal Allison USMC",
+      "order": 1
+    }
+  ],
+  "awards": {},
+  "voteCount": 150,
+  "sources": [
+    "cult-list"
+  ]
+}

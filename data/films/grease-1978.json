@@ -1,0 +1,224 @@
+{
+  "tmdbId": 621,
+  "slug": "grease-1978",
+  "year": 1978,
+  "runtime": 110,
+  "originalTitle": "Grease",
+  "title": {
+    "en": "Grease",
+    "tr": "Grease"
+  },
+  "overview": {
+    "en": "Australian good girl Sandy and greaser Danny fell in love over the summer. But when they unexpectedly discover they're now in the same high school, will they be able to rekindle their romance despite their eccentric friends?",
+    "tr": "Danny Zuko ve Sandy Olsson, kusursuz bir yaz aşkı yaşamıştır. Yaz biter ve ikili, okullarına başlamak üzere ayrılırlar. Danny, Rydell'deki ilk gününde, \"cool\" deri ceketli serseri çetesi T-Birds'ün başına döner. En yakın arkadaşları Kencikie, Doody, Sonny ve Putzie ile yaz tatilinde ne kadar eğlendiğini ve çapkınlığını anlatırken, tesadüfen aynı okula kaydolmuş olan Sandy de onu aralarına katmak isteyen Pink Ladies ile tanıştırılmaktadır. İkilinin birbirine düşman iki gruba dahil olması, ilk başta aralarında ve grupları arasında gerginliklere yol açsa da, aşkları kısa sürede tekrar buluşmalarını sağlayacaktır."
+  },
+  "poster": {
+    "tr": "/2rM7fQKpb7cs1Iq7IBqub9LFDzJ.jpg",
+    "en": "/czVhhAaSBFpakur7U8pOIDV9NUG.jpg"
+  },
+  "backdrops": [
+    "/koSWhCzMJfJOramu4KD0ZZifqpi.jpg",
+    "/2SRJMIoJzABzgyGw01U6VbQbvJD.jpg",
+    "/rsY4obmi0TASPrXzjPvHa1wgzFy.jpg",
+    "/pdhDFmVQSA0f5i5IL0gpWROjgZ5.jpg",
+    "/vCYnzzXpy8ZjjMI2i8s7scTt9gQ.jpg",
+    "/qIRsbYGHOVyeTjXojyi9XLB5AgG.jpg",
+    "/b62NHibAzOY3Wovh4IGfIbo1X6O.jpg",
+    "/hCQKEo8Yk6FrKs5xLxwkrzRsFV3.jpg",
+    "/rJQWLQtMBdaLTPr86wEEhd80Qz.jpg",
+    "/3EQrwVqg3px97hpzmoefT4tb1sO.jpg"
+  ],
+  "trailerKey": "THd96gHV7Tg",
+  "genreIds": [
+    10749,
+    35
+  ],
+  "keywordIds": [
+    5657,
+    6270,
+    391,
+    387,
+    931,
+    542,
+    2920,
+    10104,
+    3473,
+    4344,
+    10181,
+    9823,
+    11710,
+    18005,
+    18298,
+    18453,
+    34130,
+    41203,
+    165132,
+    165137,
+    165139,
+    165143,
+    165147,
+    165148,
+    165301,
+    170434,
+    180085,
+    187901,
+    200129,
+    208611,
+    239531,
+    266725,
+    294095,
+    307888,
+    307889,
+    307890,
+    307891
+  ],
+  "countries": [
+    "US",
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Robert Stigwood Organization",
+    "Fine Arts Films"
+  ],
+  "crew": [
+    {
+      "personId": 8879,
+      "job": "producer"
+    },
+    {
+      "personId": 8878,
+      "job": "producer"
+    },
+    {
+      "personId": 8877,
+      "job": "writer"
+    },
+    {
+      "personId": 8876,
+      "job": "director"
+    },
+    {
+      "personId": 2287,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1485825,
+      "job": "composer"
+    },
+    {
+      "personId": 1485824,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8892,
+      "character": "Sandy",
+      "order": 0
+    },
+    {
+      "personId": 8891,
+      "character": "Danny",
+      "order": 1
+    },
+    {
+      "personId": 8893,
+      "character": "Rizzo",
+      "order": 2
+    },
+    {
+      "personId": 8894,
+      "character": "Kenickie",
+      "order": 3
+    },
+    {
+      "personId": 8896,
+      "character": "Doody",
+      "order": 4
+    },
+    {
+      "personId": 8897,
+      "character": "Sonny",
+      "order": 5
+    },
+    {
+      "personId": 8898,
+      "character": "Putzie",
+      "order": 6
+    },
+    {
+      "personId": 8895,
+      "character": "Frenchy",
+      "order": 7
+    },
+    {
+      "personId": 8899,
+      "character": "Jan",
+      "order": 8
+    },
+    {
+      "personId": 8900,
+      "character": "Marty",
+      "order": 9
+    },
+    {
+      "personId": 8904,
+      "character": "Patty Simcox",
+      "order": 10
+    },
+    {
+      "personId": 860,
+      "character": "Principal McGee",
+      "order": 11
+    },
+    {
+      "personId": 22092,
+      "character": "Teen Angel",
+      "order": 12
+    },
+    {
+      "personId": 13568,
+      "character": "Vi",
+      "order": 13
+    },
+    {
+      "personId": 8901,
+      "character": "Vince Fontaine",
+      "order": 14
+    },
+    {
+      "personId": 8902,
+      "character": "Coach Calhoun",
+      "order": 15
+    },
+    {
+      "personId": 8495,
+      "character": "Mrs. Murdock",
+      "order": 16
+    },
+    {
+      "personId": 8903,
+      "character": "Blanche",
+      "order": 17
+    },
+    {
+      "personId": 11366,
+      "character": "Tom Chisum",
+      "order": 18
+    },
+    {
+      "personId": 18251,
+      "character": "Nurse Wilkins",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 7889,
+  "sources": [
+    "cult-list"
+  ]
+}

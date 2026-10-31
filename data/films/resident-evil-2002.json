@@ -1,0 +1,210 @@
+{
+  "tmdbId": 1576,
+  "slug": "resident-evil-2002",
+  "year": 2002,
+  "runtime": 100,
+  "originalTitle": "Resident Evil",
+  "title": {
+    "en": "Resident Evil",
+    "tr": "Ölümcül Deney"
+  },
+  "overview": {
+    "en": "When a virus leaks from a top-secret facility, turning all resident researchers into ravenous zombies and their lab animals into mutated hounds from hell, the government sends in an elite military task force to contain the outbreak.",
+    "tr": "Kendi çalışanlarının bile bilmediği bazı tehlikeli, gizli projeler yürüten bir şirketin bir yeraltı tesisinde T-virüsü adındaki bir enfeksiyon serbest kalır. Bunun üzerine, tesisin tüm kontrolünü elinde tutan Kızıl Kraliçe adındaki süper bilgisayar, virüsün yayılmasını engellemek için çalışanların ölümü pahasına tesisin tüm giriş ve çıkışlarını kapatır."
+  },
+  "poster": {
+    "tr": "/iE3k4Ka5GREL4IpvZKkTdjY7wA6.jpg",
+    "en": "/1UKNef590A0ZaMnxsscIcWuK1Em.jpg"
+  },
+  "backdrops": [
+    "/5pGWjnM62Zs0S1xRf3TDL1Xizr.jpg",
+    "/l5KvxFVOru3Qyf3dl2asNw5g1MD.jpg",
+    "/hC2LyYXGJ9bShs2xOjRE43eGSDq.jpg",
+    "/8J7J7CBmapmcMaxsn9KMiaHzOU2.jpg",
+    "/eLuE9zFExdASgZkUPSvTh6ocFtk.jpg",
+    "/4Ni6XbdQV4xpR9IrT94BXH8PCcw.jpg",
+    "/wyHs9YN5ZxiSjpQMxGLDubTHfjt.jpg",
+    "/WcmrlndXAPw3a2l9VJw9hHeKOo.jpg",
+    "/xcENFGw9AlsmtiQGWuzIGbg1bdi.jpg",
+    "/hTzJaftN97YdfYaSabtNhzyMFq5.jpg"
+  ],
+  "trailerKey": "HhBAIDHvRTc",
+  "genreIds": [
+    27,
+    28,
+    878
+  ],
+  "keywordIds": [
+    1865,
+    6898,
+    1453,
+    1568,
+    4565,
+    1852,
+    3249,
+    9856,
+    10410,
+    12377,
+    15218,
+    41645
+  ],
+  "countries": [
+    "CA",
+    "FR",
+    "DE",
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Impact Pictures",
+    "Davis Films",
+    "New Legacy Film"
+  ],
+  "crew": [
+    {
+      "personId": 5432,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4014,
+      "job": "producer"
+    },
+    {
+      "personId": 4697,
+      "job": "producer"
+    },
+    {
+      "personId": 673,
+      "job": "producer"
+    },
+    {
+      "personId": 4016,
+      "job": "producer"
+    },
+    {
+      "personId": 4014,
+      "job": "director"
+    },
+    {
+      "personId": 9315,
+      "job": "composer"
+    },
+    {
+      "personId": 7229,
+      "job": "composer"
+    },
+    {
+      "personId": 4014,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 63,
+      "character": "Alice",
+      "order": 0
+    },
+    {
+      "personId": 17647,
+      "character": "Rain",
+      "order": 1
+    },
+    {
+      "personId": 11867,
+      "character": "Matt",
+      "order": 2
+    },
+    {
+      "personId": 17648,
+      "character": "Spence",
+      "order": 3
+    },
+    {
+      "personId": 557323,
+      "character": "Kaplan",
+      "order": 4
+    },
+    {
+      "personId": 5414,
+      "character": "One",
+      "order": 5
+    },
+    {
+      "personId": 47779,
+      "character": "J.D.",
+      "order": 6
+    },
+    {
+      "personId": 7059,
+      "character": "Lisa",
+      "order": 7
+    },
+    {
+      "personId": 146784,
+      "character": "Mr. Grey",
+      "order": 8
+    },
+    {
+      "personId": 1104994,
+      "character": "Mr. Red",
+      "order": 9
+    },
+    {
+      "personId": 232174,
+      "character": "Ms. Black",
+      "order": 10
+    },
+    {
+      "personId": 195535,
+      "character": "Dr. Green",
+      "order": 11
+    },
+    {
+      "personId": 72100,
+      "character": "Dr. Blue",
+      "order": 12
+    },
+    {
+      "personId": 947006,
+      "character": "Dr. Brown",
+      "order": 13
+    },
+    {
+      "personId": 74225,
+      "character": "Clarence",
+      "order": 14
+    },
+    {
+      "personId": 2477,
+      "character": "Mr. White",
+      "order": 15
+    },
+    {
+      "personId": 43135,
+      "character": "Ms. Gold",
+      "order": 16
+    },
+    {
+      "personId": 68224,
+      "character": "Medic",
+      "order": 17
+    },
+    {
+      "personId": 951657,
+      "character": "Commando 1",
+      "order": 18
+    },
+    {
+      "personId": 952506,
+      "character": "Commando 2",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 7294,
+  "sources": [
+    "cult-list"
+  ]
+}

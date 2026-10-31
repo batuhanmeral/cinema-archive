@@ -1,0 +1,197 @@
+{
+  "tmdbId": 5919,
+  "slug": "the-towering-inferno-1974",
+  "year": 1974,
+  "runtime": 165,
+  "originalTitle": "The Towering Inferno",
+  "title": {
+    "en": "The Towering Inferno",
+    "tr": "Yangın Kulesi"
+  },
+  "overview": {
+    "en": "At the opening party of a colossal—but poorly constructed—skyscraper, a massive fire breaks out, threatening to destroy the tower and everyone in it.",
+    "tr": "Başrollerinde Paul Newman ve Steve Mcqueen gibi iki büyük ismin paylaştığı gelmiş geçmiş en büyük gökdelen felaketini anlatan filmde, Mimar Doug Roberts, uzun bir tatilden dönerek neredeyse tamamlanmış olan gökdeleninde kendi projesinin doğru olarak uyulmadığını görür. Yangın başladığında ise çok geçtir."
+  },
+  "poster": {
+    "tr": "/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg",
+    "en": "/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg"
+  },
+  "backdrops": [
+    "/jKEQoKWXvRcZfBd1GkcuK2n1KQG.jpg",
+    "/vrGHkXSX6EVVQilI5va6y5CSTJR.jpg",
+    "/uEgDkbQpflloLMVycKiONR2MEtK.jpg",
+    "/fLPHTlFKIiFGRogKwcD5UVHrgrk.jpg",
+    "/n2qnUBMZz7CUcbWFBs7swdB3KnY.jpg",
+    "/jeYZKtomLnqrBF1Uqjhy432afqg.jpg",
+    "/4KwE5kDHseKQdZRSUUzJPKzMuZX.jpg",
+    "/Agg0nbvILaN36VlMTSiJRGOPjzV.jpg",
+    "/uk81u60r6Giu6qIKrlWrYUbrBYO.jpg",
+    "/wVN4yVZo7k5ePSnnFQh7u0iJMXZ.jpg"
+  ],
+  "trailerKey": "nyTqrtZFWeQ",
+  "genreIds": [
+    28,
+    18,
+    53
+  ],
+  "keywordIds": [
+    10084,
+    720,
+    657,
+    582,
+    1418,
+    2736,
+    10349,
+    10617,
+    14601,
+    15249,
+    18029,
+    188960,
+    189411,
+    192094,
+    234619,
+    253686
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "20th Century Fox",
+    "Irwin Allen Productions"
+  ],
+  "crew": [
+    {
+      "personId": 6779,
+      "job": "writer"
+    },
+    {
+      "personId": 6778,
+      "job": "director"
+    },
+    {
+      "personId": 7506,
+      "job": "producer"
+    },
+    {
+      "personId": 19102,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13565,
+      "character": "Chief O'Hallorhan",
+      "order": 0
+    },
+    {
+      "personId": 3636,
+      "character": "Doug Roberts",
+      "order": 1
+    },
+    {
+      "personId": 8252,
+      "character": "Jim Duncan",
+      "order": 2
+    },
+    {
+      "personId": 6450,
+      "character": "Susan",
+      "order": 3
+    },
+    {
+      "personId": 30181,
+      "character": "Harlee Claiborne",
+      "order": 4
+    },
+    {
+      "personId": 22553,
+      "character": "Patty",
+      "order": 5
+    },
+    {
+      "personId": 28906,
+      "character": "Simmons",
+      "order": 6
+    },
+    {
+      "personId": 39554,
+      "character": "Lisolette",
+      "order": 7
+    },
+    {
+      "personId": 12951,
+      "character": "Jernigan",
+      "order": 8
+    },
+    {
+      "personId": 14060,
+      "character": "Senator Parker",
+      "order": 9
+    },
+    {
+      "personId": 9208,
+      "character": "Bigelow",
+      "order": 10
+    },
+    {
+      "personId": 113934,
+      "character": "Lorrie",
+      "order": 11
+    },
+    {
+      "personId": 6865,
+      "character": "Paula Ramsay",
+      "order": 12
+    },
+    {
+      "personId": 10195,
+      "character": "Giddings",
+      "order": 13
+    },
+    {
+      "personId": 153628,
+      "character": "Mayor Ramsay",
+      "order": 14
+    },
+    {
+      "personId": 14062,
+      "character": "Kappy",
+      "order": 15
+    },
+    {
+      "personId": 44042,
+      "character": "Scott",
+      "order": 16
+    },
+    {
+      "personId": 18914,
+      "character": "Carlos",
+      "order": 17
+    },
+    {
+      "personId": 112572,
+      "character": "Mark Powers",
+      "order": 18
+    },
+    {
+      "personId": 12850,
+      "character": "Deputy Chief #1",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 1100,
+  "sources": [
+    "cult-list"
+  ]
+}

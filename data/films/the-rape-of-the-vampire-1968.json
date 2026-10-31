@@ -1,0 +1,189 @@
+{
+  "tmdbId": 29790,
+  "slug": "the-rape-of-the-vampire-1968",
+  "year": 1968,
+  "runtime": 95,
+  "originalTitle": "Le Viol du vampire",
+  "title": {
+    "en": "The Rape of the Vampire",
+    "tr": "Le Viol du vampire"
+  },
+  "overview": {
+    "en": "After a psychoanalyst unsuccessfully tries to convince four sisters that they are not 200 year old vampires, the Queen of the Vampires promulgates the cause of the Undead.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/aUVP3VSbAkbCFXihkQFj6PCBVWJ.jpg",
+    "en": "/aUVP3VSbAkbCFXihkQFj6PCBVWJ.jpg"
+  },
+  "backdrops": [
+    "/dNghsRsAvZa8R6fWsUd3TYRCZ77.jpg",
+    "/sTYPEwaTn5jxWSzX7w00JS3aIdc.jpg",
+    "/6l8bvi4pe3EPJ8Qjks9svjv9V3a.jpg",
+    "/5Gnpvr62ELwditPVgcW1UKlsm8I.jpg",
+    "/8KmhXT9NuTPMa6XttaCSnZMHrKz.jpg",
+    "/EzWTfyw9SsFWX6e1ZPX4n5JMYj.jpg",
+    "/4sDBlAUQ03AwJimXvSEITjqAaOx.jpg",
+    "/2bdcs6bDusIbzaopaHkAxPThJLH.jpg",
+    "/j9GakS0ZTQ5CMSx8rpjzilVgupB.jpg",
+    "/1phTJtIRFfZ2mk4ehbrM3AQOzgC.jpg"
+  ],
+  "trailerKey": "oLTkv3zb8R0",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    3133,
+    1664,
+    190370,
+    256466
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 88820,
+      "job": "producer"
+    },
+    {
+      "personId": 88820,
+      "job": "director"
+    },
+    {
+      "personId": 88820,
+      "job": "writer"
+    },
+    {
+      "personId": 1809764,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1606761,
+      "job": "writer"
+    },
+    {
+      "personId": 1377456,
+      "job": "producer"
+    },
+    {
+      "personId": 1809762,
+      "job": "composer"
+    },
+    {
+      "personId": 1389512,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 46472,
+      "character": "Brigitte",
+      "order": 0
+    },
+    {
+      "personId": 104883,
+      "character": "Thomas",
+      "order": 1
+    },
+    {
+      "personId": 104884,
+      "character": "Queen of the Vampires",
+      "order": 2
+    },
+    {
+      "personId": 104885,
+      "character": "Brigitte",
+      "order": 3
+    },
+    {
+      "personId": 104232,
+      "character": "La soeur vampire rousse",
+      "order": 4
+    },
+    {
+      "personId": 1606766,
+      "character": "La soeur vampire aveugle",
+      "order": 5
+    },
+    {
+      "personId": 102949,
+      "character": "La soeur vampire blonde",
+      "order": 6
+    },
+    {
+      "personId": 104886,
+      "character": "Marc",
+      "order": 7
+    },
+    {
+      "personId": 93435,
+      "character": "Villager",
+      "order": 8
+    },
+    {
+      "personId": 104234,
+      "character": "A henchman of the Queen",
+      "order": 9
+    },
+    {
+      "personId": 88820,
+      "character": "Villager",
+      "order": 10
+    },
+    {
+      "personId": 1719520,
+      "character": "La femme de Samsky",
+      "order": 11
+    },
+    {
+      "personId": 1079940,
+      "character": "Une cobaye",
+      "order": 12
+    },
+    {
+      "personId": 1355323,
+      "character": "Un villageois",
+      "order": 13
+    },
+    {
+      "personId": 1457847,
+      "character": "Villager",
+      "order": 14
+    },
+    {
+      "personId": 104211,
+      "character": "Le docteur Samsky",
+      "order": 15
+    },
+    {
+      "personId": 5959720,
+      "character": "Le châtelain",
+      "order": 16
+    },
+    {
+      "personId": 5959721,
+      "character": "Le monstre",
+      "order": 17
+    },
+    {
+      "personId": 5961794,
+      "character": "La fille opérée",
+      "order": 18
+    },
+    {
+      "personId": 1712552,
+      "character": "Une cobaye",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 48,
+  "sources": [
+    "cult-list"
+  ]
+}

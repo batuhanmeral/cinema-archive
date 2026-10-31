@@ -1,0 +1,200 @@
+{
+  "tmdbId": 1557,
+  "slug": "23-1998",
+  "year": 1998,
+  "runtime": 99,
+  "originalTitle": "23",
+  "title": {
+    "en": "23",
+    "tr": "23"
+  },
+  "overview": {
+    "en": "The movie's plot is based on the true story of a group of young computer hackers from Hannover, Germany. In the late 1980s the orphaned Karl Koch invests his heritage in a flat and a home computer. At first he dials up to bulletin boards to discuss conspiracy theories inspired by his favorite novel, R.A. Wilson's \"Illuminatus\", but soon he and his friend David start breaking into government and military computers. Pepe, one of Karl's rather criminal acquaintances senses that there is money in computer cracking - he travels to east Berlin and tries to contact the KGB.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rkIxy5BCPUV0EzXalywT5m6mOIn.jpg",
+    "en": "/rkIxy5BCPUV0EzXalywT5m6mOIn.jpg"
+  },
+  "backdrops": [
+    "/zbDTA5mGW6tpEI5GjR3xGplLVrZ.jpg",
+    "/uAyTJUjJ1ay73aNLOMSzfdVRpU8.jpg",
+    "/kh8I52YxIpRzO3IShcqpJBKaGou.jpg",
+    "/8bOtcWktSlUU7dxOIJIWrYevuab.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    6104,
+    2157,
+    3012,
+    1772,
+    470,
+    2106,
+    2340,
+    2111,
+    2150,
+    6262,
+    2800,
+    3278,
+    5546,
+    5960,
+    9672,
+    11208,
+    11612,
+    12392,
+    13014,
+    255311
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "ru",
+    "de",
+    "en"
+  ],
+  "studios": [
+    "Claussen+Wöbke Filmproduktion"
+  ],
+  "crew": [
+    {
+      "personId": 6094,
+      "job": "writer"
+    },
+    {
+      "personId": 4525,
+      "job": "producer"
+    },
+    {
+      "personId": 6094,
+      "job": "director"
+    },
+    {
+      "personId": 4526,
+      "job": "producer"
+    },
+    {
+      "personId": 36596,
+      "job": "composer"
+    },
+    {
+      "personId": 36597,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6095,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6091,
+      "character": "Karl Koch",
+      "order": 0
+    },
+    {
+      "personId": 17543,
+      "character": "David",
+      "order": 1
+    },
+    {
+      "personId": 17544,
+      "character": "Pepe",
+      "order": 2
+    },
+    {
+      "personId": 17545,
+      "character": "Lupo",
+      "order": 3
+    },
+    {
+      "personId": 3934,
+      "character": "Weber",
+      "order": 4
+    },
+    {
+      "personId": 4541,
+      "character": "Jochen Maiwald",
+      "order": 5
+    },
+    {
+      "personId": 1145,
+      "character": "Sergej",
+      "order": 6
+    },
+    {
+      "personId": 17546,
+      "character": "Brückner",
+      "order": 7
+    },
+    {
+      "personId": 36598,
+      "character": "Beate",
+      "order": 8
+    },
+    {
+      "personId": 36599,
+      "character": "Seybert",
+      "order": 9
+    },
+    {
+      "personId": 3874,
+      "character": "Alex",
+      "order": 10
+    },
+    {
+      "personId": 36600,
+      "character": "Computerverkäufer",
+      "order": 11
+    },
+    {
+      "personId": 17824,
+      "character": "Pepes Freundin",
+      "order": 12
+    },
+    {
+      "personId": 36601,
+      "character": "Kellner im Zug",
+      "order": 13
+    },
+    {
+      "personId": 5554,
+      "character": "Mr. Minit",
+      "order": 14
+    },
+    {
+      "personId": 22189,
+      "character": "Sekretärin",
+      "order": 15
+    },
+    {
+      "personId": 17727,
+      "character": "Heimleiterin Frau Helldorff",
+      "order": 16
+    },
+    {
+      "personId": 1620456,
+      "character": "Prostituierte",
+      "order": 17
+    },
+    {
+      "personId": 1620457,
+      "character": "Prostituierte",
+      "order": 18
+    },
+    {
+      "personId": 169,
+      "character": "Karls Vater",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 232,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "tmdbId": 24458,
+  "slug": "the-age-of-stupid-2009",
+  "year": 2009,
+  "runtime": 92,
+  "originalTitle": "The Age of Stupid",
+  "title": {
+    "en": "The Age of Stupid",
+    "tr": "Aptallık Çağı"
+  },
+  "overview": {
+    "en": "Pete Postlethwaite stars as a man living alone in the devastated future world of 2055, looking at old footage from 2008 and asking: why didn’t we stop climate change when we had the chance?",
+    "tr": "Aptallık Çağı (Age of Stupid), 2055 yılında yaşayan bir adamın kendi ağzından anlattığı hikayeyi konu alıyor. Fırsatımız varken iklim değişimini neden durdurmadığımızı sorgulayan film, dünyanın yardım çığlıklarını duymazdan gelen insanların yaşadığı bir çağı ve sonunda pişmanlığı gözler önüne seriyor."
+  },
+  "poster": {
+    "tr": "/niaE9vnTER9eyklYiLVWpdrqcsi.jpg",
+    "en": "/niaE9vnTER9eyklYiLVWpdrqcsi.jpg"
+  },
+  "backdrops": [
+    "/e7OxR74RDkYM705egExklt8S8pF.jpg",
+    "/fYuCVi8SFhbZnaNXPJE6oTdqM6X.jpg"
+  ],
+  "trailerKey": "9iFd8DzrR6k",
+  "genreIds": [
+    10752,
+    99,
+    36
+  ],
+  "keywordIds": [
+    4458,
+    5769,
+    187056
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 91641,
+      "job": "director"
+    },
+    {
+      "personId": 2783865,
+      "job": "composer"
+    },
+    {
+      "personId": 91641,
+      "job": "writer"
+    },
+    {
+      "personId": 3116841,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4935,
+      "character": "The Archivist",
+      "order": 0
+    },
+    {
+      "personId": 41044,
+      "character": "Self (voice)",
+      "order": 1
+    },
+    {
+      "personId": 1888831,
+      "character": "Self - Dutch",
+      "order": 2
+    }
+  ],
+  "awards": {},
+  "voteCount": 81,
+  "sources": [
+    "cult-list"
+  ]
+}

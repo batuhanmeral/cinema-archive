@@ -1,0 +1,185 @@
+{
+  "tmdbId": 7219,
+  "slug": "zombie-flesh-eaters-1979",
+  "year": 1979,
+  "runtime": 91,
+  "originalTitle": "Zombi 2",
+  "title": {
+    "en": "Zombie Flesh Eaters",
+    "tr": "Yüzde 99 Ölüm"
+  },
+  "overview": {
+    "en": "After an abandoned boat sails into New York harbor with a zombie aboard, a reporter teams up with the daughter of the boat's missing captain to investigate the island where he was last seen conducting research—the site of an alleged zombie outbreak.",
+    "tr": "New York lima­nına başıboş bir yelkenli girer. Yelkenliye çıkan sahil güvenlik görevlileri içerde çürümüş bir takım et ya da besin maddeleri üzerinde ko­caman solucanların oynaştığını görür­ler. Aniden ortaya bir zombi çıkar ve görevlilerin kurşunları altında gerileye­rek denize düşer. Karayipler'deki bir adada bulunan doktor babasından haber alamayan genç bir kadın, bir gazeteciyle birlikte babasının akıbetini öğrenmek üzere yola çıkar. Adaya yaklaş­tıklarında birlikte seyahat ettikleri genç bir kadın denizde biraz yüzerek serinlemeye karar verir ama bir köpek balığının saldırısına uğrar. Bu esnada su altında bir zombi belirir ve köpekbalığına saldırır. Gazeteci ve genç kadın adaya çıktık­larında doktoru bulurlar. Adadaki ölüler teker teker dirilerek mezar­larından kalkmakta ve doktor da bunun bilimsel bir açıklamasını bulmaya çalışmaktadır."
+  },
+  "poster": {
+    "tr": "/fm5FijdVHNj2XUBehmugbWRJufN.jpg",
+    "en": "/qfiO1phFS7hU3YGSPj8rS2stONR.jpg"
+  },
+  "backdrops": [
+    "/rNfUrodyICg0cNJ4ICTiPgDckAm.jpg",
+    "/65p4DSjLqEto4aEjBlmrkzJ9lKJ.jpg",
+    "/nXLNHAEHqhzFH88C7rJSUOwifdJ.jpg",
+    "/velHX5SWHVlEDRRljtxSi6YbSju.jpg",
+    "/jFkS2QpkAriWJRzqZGaRbli1zyv.jpg",
+    "/qvtXG94ffqy2m6MuvtSg9MOpKwU.jpg",
+    "/fL9ca2p8wCW0FwT0tCNCzGiHw1x.jpg",
+    "/t576B1KgAF4stxRWAPG8QjyAhCu.jpg",
+    "/7JilqoZLfLZ2P9KRyGdCtWthMP5.jpg",
+    "/8Jr1MNiP5DbTcPcrH1mcQ5Rs5oI.jpg"
+  ],
+  "trailerKey": "JnDFVqNl2Mw",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    242,
+    736,
+    1422,
+    3392,
+    12377,
+    13005,
+    15097,
+    157524,
+    189921,
+    263814
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "es"
+  ],
+  "studios": [
+    "Variety Film Production"
+  ],
+  "crew": [
+    {
+      "personId": 29433,
+      "job": "director"
+    },
+    {
+      "personId": 53195,
+      "job": "producer"
+    },
+    {
+      "personId": 53196,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 59366,
+      "job": "composer"
+    },
+    {
+      "personId": 119371,
+      "job": "composer"
+    },
+    {
+      "personId": 53188,
+      "job": "producer"
+    },
+    {
+      "personId": 53193,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 43203,
+      "character": "Anne Bowles",
+      "order": 0
+    },
+    {
+      "personId": 45473,
+      "character": "Peter West",
+      "order": 1
+    },
+    {
+      "personId": 20510,
+      "character": "Dr. David Menard",
+      "order": 2
+    },
+    {
+      "personId": 50744,
+      "character": "Paola Menard",
+      "order": 3
+    },
+    {
+      "personId": 52063,
+      "character": "Brian Hull",
+      "order": 4
+    },
+    {
+      "personId": 52064,
+      "character": "Susan Barrett",
+      "order": 5
+    },
+    {
+      "personId": 100411,
+      "character": "Menard's Nurse",
+      "order": 6
+    },
+    {
+      "personId": 41153,
+      "character": "Ann's Father (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 119370,
+      "character": "Zombie (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 29433,
+      "character": "Newspaper Editor (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 33820,
+      "character": "Matthias (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 104442,
+      "character": "Boat Zombie (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 68330,
+      "character": "Worm-Eye Zombie (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 136393,
+      "character": "Lucas (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 144618,
+      "character": "Fritz (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 2057139,
+      "character": "Coroner (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 101334,
+      "character": "James (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 100425,
+      "character": "Zombie (uncredited)",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 710,
+  "sources": [
+    "cult-list"
+  ]
+}

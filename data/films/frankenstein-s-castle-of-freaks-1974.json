@@ -1,0 +1,160 @@
+{
+  "tmdbId": 3159,
+  "slug": "frankenstein-s-castle-of-freaks-1974",
+  "year": 1974,
+  "runtime": 90,
+  "originalTitle": "Terror! Il castello delle donne maledette",
+  "title": {
+    "en": "Frankenstein's Castle of Freaks",
+    "tr": "Terror! Il castello delle donne maledette"
+  },
+  "overview": {
+    "en": "Mad Dr Frankenstein recruits an evil dwarf, a Neanderthal man, and others to help him put a brain in the body of a brute.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/r0CX7tL90LNjSG6ewsoQgaf9XMW.jpg",
+    "en": "/bwUoaDv4HbJGJOJhCHNYlql67t5.jpg"
+  },
+  "backdrops": [
+    "/xTbU2LLqfnQGp35YsfersrpakGq.jpg",
+    "/qoTRtiXznXlvWlgZz6rDMdB0hse.jpg",
+    "/9wHhRWJThm2CyqUllLUmwAoMsl7.jpg",
+    "/hoCJ19W29gDLpnHWLy85DBxMvGr.jpg"
+  ],
+  "trailerKey": "shh3KUTqYOg",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    604,
+    10125,
+    191348,
+    258464,
+    285961
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Classic Films International"
+  ],
+  "crew": [
+    {
+      "personId": 30893,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 102165,
+      "job": "producer"
+    },
+    {
+      "personId": 21008,
+      "job": "writer"
+    },
+    {
+      "personId": 30652,
+      "job": "director"
+    },
+    {
+      "personId": 30892,
+      "job": "composer"
+    },
+    {
+      "personId": 30890,
+      "job": "writer"
+    },
+    {
+      "personId": 30889,
+      "job": "writer"
+    },
+    {
+      "personId": 30652,
+      "job": "producer"
+    },
+    {
+      "personId": 30887,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29327,
+      "character": "Count Frankenstein",
+      "order": 0
+    },
+    {
+      "personId": 16085,
+      "character": "Genz",
+      "order": 1
+    },
+    {
+      "personId": 26155,
+      "character": "Prefect Ewing",
+      "order": 2
+    },
+    {
+      "personId": 30898,
+      "character": "Igor",
+      "order": 3
+    },
+    {
+      "personId": 30899,
+      "character": "Goliath",
+      "order": 4
+    },
+    {
+      "personId": 30900,
+      "character": "Hans",
+      "order": 5
+    },
+    {
+      "personId": 30891,
+      "character": "Kreegin",
+      "order": 6
+    },
+    {
+      "personId": 30901,
+      "character": "Ook",
+      "order": 7
+    },
+    {
+      "personId": 30902,
+      "character": "Maria Frankenstein (as Simone Blondell)",
+      "order": 8
+    },
+    {
+      "personId": 30903,
+      "character": "Eric",
+      "order": 9
+    },
+    {
+      "personId": 102166,
+      "character": "Valda",
+      "order": 10
+    },
+    {
+      "personId": 46047,
+      "character": "Krista Lauder",
+      "order": 11
+    },
+    {
+      "personId": 102167,
+      "character": "Jenny Hansen",
+      "order": 12
+    },
+    {
+      "personId": 1076675,
+      "character": "Paisan",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 39,
+  "sources": [
+    "cult-list"
+  ]
+}

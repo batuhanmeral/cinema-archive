@@ -1,0 +1,186 @@
+{
+  "tmdbId": 3989,
+  "slug": "team-america-world-police-2004",
+  "year": 2004,
+  "runtime": 98,
+  "originalTitle": "Team America: World Police",
+  "title": {
+    "en": "Team America: World Police",
+    "tr": "Amerikan Gücü: Dünya Polisi"
+  },
+  "overview": {
+    "en": "When North Korean ruler Kim Jong-il orchestrates a global terrorist plot, it's up to the heavily armed, highly specialized Team America unit to stop his dastardly scheme. The group, which has recruited troubled Broadway actor Gary Johnston, not only has to face off against Jong-il, but they must also contend with the Film Actors Guild, a cadre of Hollywood liberals at odds with Team America's 'policing the world' tactics.",
+    "tr": "Dünyayı tehlikelerden ve terörizmden temizlemek için çalışan Team America, bunun için yoluna ne çıkarsa çıksın durdurmaya, hatta yoketmeye hazırdır. Aslına bakarsanız Eyfel Kulesi de bu kahramanca(!) yıkımdan(!) nasibini alacak yerler arasındadır! Kahramanlarımız Kuzey Kore lideri Kim Jong Il'i bir barış konferansı düzenlemekten alıkoymak zorundadırlar. Zira şeytani lider, aslında dünyaya kitle imha silahlarıyla saldırmayı planlamaktadır. Hatta konferansı destekleyen Sean Penn, George Clooney gibi isimlerin başı çektiği Film Oyuncuları Derneği'ne de gününü göstermek gerekmektedir. Sarkastik çizgi dizi South Park'ın yaratıcıları Matt Stone ve Trey Parker, bu kez kuklaları kullanarak 60'ların kült dizisi Thunderbirds'ün estetiğini ve görkemli Hollywood aksiyon filmlerinin üslubunu alaycı bir şekilde harmanlıyorlar."
+  },
+  "poster": {
+    "tr": "/t8USMNpM4LMhRg9ehtuKF3we8Vj.jpg",
+    "en": "/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg"
+  },
+  "backdrops": [
+    "/5jQEcjppZnQnBAVN10uWPk6IKUK.jpg",
+    "/mcJDnM5hJBSNWcYNqp0dgPZXxkO.jpg",
+    "/mOIzjfYCiHUJcJZd54GJkarEnin.jpg",
+    "/y1XQMs635Hkj9W476wJXArKVuvw.jpg",
+    "/4VNaa7X0zGSVELHS6P0BM3mISxL.jpg",
+    "/ea4HnQFXVG9F3hfEFMbJ2UlkZEL.jpg",
+    "/1iHyl3MMfpPXZhkKE3fn3POEQou.jpg",
+    "/9pSxv3ASQsFKcQC3blRUezoJrjS.jpg",
+    "/tasSYUYhhiCZcSqRbpclA4dE6X7.jpg",
+    "/hLzrAvOx99SrPXJuW7RLsyqU7dm.jpg"
+  ],
+  "trailerKey": "kMyJWuvW_9k",
+  "genreIds": [
+    12,
+    28,
+    35
+  ],
+  "keywordIds": [
+    1160,
+    6086,
+    254,
+    90,
+    487,
+    592,
+    697,
+    1366,
+    1242,
+    2580,
+    1627,
+    2314,
+    2355,
+    2535,
+    2966,
+    3263,
+    4596,
+    5373,
+    9755,
+    3837,
+    11691,
+    164889,
+    210610,
+    218032,
+    301045
+  ],
+  "countries": [
+    "US",
+    "DE"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "fr",
+    "ko"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Scott Rudin Productions",
+    "Braniff Productions"
+  ],
+  "crew": [
+    {
+      "personId": 34517,
+      "job": "director"
+    },
+    {
+      "personId": 34518,
+      "job": "producer"
+    },
+    {
+      "personId": 34517,
+      "job": "producer"
+    },
+    {
+      "personId": 34522,
+      "job": "producer"
+    },
+    {
+      "personId": 34524,
+      "job": "producer"
+    },
+    {
+      "personId": 5626,
+      "job": "producer"
+    },
+    {
+      "personId": 34517,
+      "job": "writer"
+    },
+    {
+      "personId": 34518,
+      "job": "writer"
+    },
+    {
+      "personId": 34522,
+      "job": "writer"
+    },
+    {
+      "personId": 9341,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5553,
+      "job": "composer"
+    },
+    {
+      "personId": 2997,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 34517,
+      "character": "Gary Johnston / Joe / Kim Jong Il / Hans Blix / Carson / Matt Damon / Drunk in Bar / Tim Robbins / Sean Penn / Michael Moore / Helen Hunt / Susan Sarandon (voice)",
+      "order": 0
+    },
+    {
+      "personId": 34518,
+      "character": "Chris / George Clooney / Danny Glover / Ethan Hawke (voice)",
+      "order": 1
+    },
+    {
+      "personId": 34519,
+      "character": "Lisa (voice)",
+      "order": 2
+    },
+    {
+      "personId": 2702004,
+      "character": "Police Officer / French Mother / French Police (voice)",
+      "order": 3
+    },
+    {
+      "personId": 34520,
+      "character": "Sarah (voice)",
+      "order": 4
+    },
+    {
+      "personId": 31162,
+      "character": "Spottswoode (voice)",
+      "order": 5
+    },
+    {
+      "personId": 60279,
+      "character": "Samuel L. Jackson (voice)",
+      "order": 6
+    },
+    {
+      "personId": 181234,
+      "character": "I.N.T.E.L.L.I.G.E.N.C.E. / Chechnyan Terrorist (voice)",
+      "order": 7
+    },
+    {
+      "personId": 204131,
+      "character": "Jean Francois (voice)",
+      "order": 8
+    },
+    {
+      "personId": 34521,
+      "character": "Alec Baldwin (voice)",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 2145,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "tmdbId": 43801,
+  "slug": "the-devil-and-miss-jones-1941",
+  "year": 1941,
+  "runtime": 92,
+  "originalTitle": "The Devil and Miss Jones",
+  "title": {
+    "en": "The Devil and Miss Jones",
+    "tr": "The Devil and Miss Jones"
+  },
+  "overview": {
+    "en": "The wealthiest man in the world, John P. Merrick, is a private person who likes to stay anonymous. One of his many assets is Neeley's Department Store. There is labor unrest at the store, and the employees' anger is directed at him, who they hang in effigy outside the store despite not knowing what he looks like. Merrick, not happy at what he sees going on, decides to mete out the rabble-rousers. So he goes undercover as a sales clerk in the shoe department.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/spGm2v3Jpg5l5xZS9xjKYNrLYF1.jpg",
+    "en": "/spGm2v3Jpg5l5xZS9xjKYNrLYF1.jpg"
+  },
+  "backdrops": [
+    "/96xJoNYXe8m9dkoMcoexQkbPwqZ.jpg",
+    "/2gI7jZ16RZxwM8HlVvi2EMsSFMO.jpg",
+    "/dOH2qUexfaqtdaIY96mX8PnHvvd.jpg",
+    "/2fEUJj3HZtm8pFUN9NjooVFyR9y.jpg",
+    "/lHQIGeAnYNYeUySn9UiU5kuOCxG.jpg",
+    "/r3X02UcTkr3MQ1dcnJYXVmRLJnI.jpg",
+    "/x4moVBIGeE5DQYzNwuDOlmYYqKp.jpg",
+    "/vnRjUqU27FcLLRs5IM2klIPq0qf.jpg",
+    "/iSjInYIxv86JXRypSsG0IolKe0H.jpg",
+    "/jWBdxsiw4Jg4BPwS87yq6ttTv5o.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    1361,
+    242,
+    1568,
+    1443,
+    2081,
+    5728,
+    12547,
+    14514,
+    170569,
+    194019,
+    244064
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Frank Ross-Norma Krasna Inc."
+  ],
+  "crew": [
+    {
+      "personId": 89535,
+      "job": "writer"
+    },
+    {
+      "personId": 10537,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10790,
+      "job": "director"
+    },
+    {
+      "personId": 145870,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30210,
+      "character": "Mary Jones",
+      "order": 0
+    },
+    {
+      "personId": 7125,
+      "character": "Joe O'Brien",
+      "order": 1
+    },
+    {
+      "personId": 11169,
+      "character": "John P. Merrick/Thomas Higgins",
+      "order": 2
+    },
+    {
+      "personId": 22600,
+      "character": "Hooper",
+      "order": 3
+    },
+    {
+      "personId": 20369,
+      "character": "Elizabeth Ellis",
+      "order": 4
+    },
+    {
+      "personId": 94110,
+      "character": "George (Merrick's Butler)",
+      "order": 5
+    },
+    {
+      "personId": 21510,
+      "character": "First Detective",
+      "order": 6
+    },
+    {
+      "personId": 33033,
+      "character": "Mr. Allison (General Manager)",
+      "order": 7
+    },
+    {
+      "personId": 92907,
+      "character": "Harrison",
+      "order": 8
+    },
+    {
+      "personId": 19553,
+      "character": "Oliver",
+      "order": 9
+    },
+    {
+      "personId": 13976,
+      "character": "Needles",
+      "order": 10
+    },
+    {
+      "personId": 13361,
+      "character": "Withers",
+      "order": 11
+    },
+    {
+      "personId": 2674,
+      "character": "Police Desk Sergeant",
+      "order": 12
+    },
+    {
+      "personId": 103501,
+      "character": "Tom Higgins",
+      "order": 13
+    },
+    {
+      "personId": 3367,
+      "character": "Store Shopper",
+      "order": 14
+    },
+    {
+      "personId": 131612,
+      "character": "Second Detective",
+      "order": 15
+    },
+    {
+      "personId": 105455,
+      "character": "Sam",
+      "order": 16
+    },
+    {
+      "personId": 1195215,
+      "character": "Dorothy",
+      "order": 17
+    },
+    {
+      "personId": 1502701,
+      "character": "Sally - Little Girl",
+      "order": 18
+    },
+    {
+      "personId": 22093,
+      "character": "1st Policeman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 67,
+  "sources": [
+    "cult-list"
+  ]
+}

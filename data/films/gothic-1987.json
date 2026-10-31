@@ -1,0 +1,174 @@
+{
+  "tmdbId": 33516,
+  "slug": "gothic-1987",
+  "year": 1987,
+  "runtime": 88,
+  "originalTitle": "Gothic",
+  "title": {
+    "en": "Gothic",
+    "tr": "Gothic"
+  },
+  "overview": {
+    "en": "Living on an estate on the shores of Lake Geneva, Lord Byron is visited by Percy and Mary Shelley. Together with Byron's lover Claire Clairmont, and aided by hallucinogenic substances, they devise an evening of ghoulish tales. However, when confronted by horrors, ostensibly of their own creation, it becomes difficult to tell apparition from reality.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xGXj6wpJimmWkQMahZryM7xB9EX.jpg",
+    "en": "/xGXj6wpJimmWkQMahZryM7xB9EX.jpg"
+  },
+  "backdrops": [
+    "/itG5rMUHXC1GZzXEjVS5XpTI1iH.jpg",
+    "/zKTUEMs2V6s0XuKzQqNSeyov12z.jpg",
+    "/1fFjhxv8a0HrnPpbxVI9zCDAkFm.jpg",
+    "/bqKEQfLxOpQdIMVxjThF298ZnaP.jpg",
+    "/olA3DDIhV8LAlx0bsoEU3AplFab.jpg",
+    "/bZCVtyGoQXZF3Dv3l5Q2xpkC7h4.jpg",
+    "/i4d7G0VtXLeI7DPIwqHgBnydhed.jpg",
+    "/ukt5waxwmWUTyqXqSrNZI0bR4bV.jpg",
+    "/msv7bjNoHa5wQAmqAzyCGe3pFed.jpg",
+    "/129ohGl2B9LF5UCMovsVi8f3Qlo.jpg"
+  ],
+  "trailerKey": "93SrqYZT4yM",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    2132,
+    1632,
+    14964,
+    223106,
+    258533
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Virgin Vision"
+  ],
+  "crew": [
+    {
+      "personId": 32327,
+      "job": "director"
+    },
+    {
+      "personId": 110833,
+      "job": "writer"
+    },
+    {
+      "personId": 2487069,
+      "job": "producer"
+    },
+    {
+      "personId": 228814,
+      "job": "composer"
+    },
+    {
+      "personId": 25012,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8448,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5168,
+      "character": "Lord Byron",
+      "order": 0
+    },
+    {
+      "personId": 6104,
+      "character": "Percy Shelley",
+      "order": 1
+    },
+    {
+      "personId": 20162,
+      "character": "Mary Shelley",
+      "order": 2
+    },
+    {
+      "personId": 30611,
+      "character": "Claire Clairmont",
+      "order": 3
+    },
+    {
+      "personId": 9191,
+      "character": "Dr. Polidori",
+      "order": 4
+    },
+    {
+      "personId": 94271,
+      "character": "Murray",
+      "order": 5
+    },
+    {
+      "personId": 10673,
+      "character": "Fletcher",
+      "order": 6
+    },
+    {
+      "personId": 974,
+      "character": "Rushton",
+      "order": 7
+    },
+    {
+      "personId": 110835,
+      "character": "Justine",
+      "order": 8
+    },
+    {
+      "personId": 107729,
+      "character": "Tour Guide",
+      "order": 9
+    },
+    {
+      "personId": 110836,
+      "character": "Turkish Mechanical Woman",
+      "order": 10
+    },
+    {
+      "personId": 110837,
+      "character": "Mechanical Woman",
+      "order": 11
+    },
+    {
+      "personId": 110838,
+      "character": "Man in Armour",
+      "order": 12
+    },
+    {
+      "personId": 110840,
+      "character": "Young William",
+      "order": 13
+    },
+    {
+      "personId": 5531,
+      "character": "Fuseli Monster",
+      "order": 14
+    },
+    {
+      "personId": 110842,
+      "character": "Shelley Fan",
+      "order": 15
+    },
+    {
+      "personId": 32327,
+      "character": "Tourist",
+      "order": 16
+    },
+    {
+      "personId": 5506313,
+      "character": "Shelley Fan",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 203,
+  "sources": [
+    "cult-list"
+  ]
+}

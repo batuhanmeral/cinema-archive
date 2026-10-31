@@ -1,0 +1,190 @@
+{
+  "tmdbId": 10910,
+  "slug": "moulin-rouge-1952",
+  "year": 1952,
+  "runtime": 119,
+  "originalTitle": "Moulin Rouge",
+  "title": {
+    "en": "Moulin Rouge",
+    "tr": "Moulin Rouge"
+  },
+  "overview": {
+    "en": "In 1890 Paris, Moulin Rouge is a nightclub where crippled artist Toulouse-Lautrec feels like he fits in. In the following years, he meets two women who provide an opportunity for him to find true love.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/iTPcjDqJnimppXYwDcLScKCJTnI.jpg",
+    "en": "/iTPcjDqJnimppXYwDcLScKCJTnI.jpg"
+  },
+  "backdrops": [
+    "/dqNVSLoksKIdCHMyrRYmpWyGbtQ.jpg",
+    "/gTaTHxDbBC966EJlfU6ZgdG53L.jpg",
+    "/mmvfURIWmAjfwbpl2hvEEqza7L4.jpg"
+  ],
+  "trailerKey": "CKyh4zKkths",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    549,
+    733,
+    90,
+    2311,
+    2679,
+    437,
+    5565,
+    12995,
+    158558,
+    164754,
+    164770,
+    170293,
+    190628,
+    207928,
+    337603
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Romulus Films"
+  ],
+  "crew": [
+    {
+      "personId": 6593,
+      "job": "director"
+    },
+    {
+      "personId": 6593,
+      "job": "writer"
+    },
+    {
+      "personId": 6593,
+      "job": "producer"
+    },
+    {
+      "personId": 67447,
+      "job": "writer"
+    },
+    {
+      "personId": 2578,
+      "job": "composer"
+    },
+    {
+      "personId": 10339,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12515,
+      "character": "Henri de Toulouse-Lautrec",
+      "order": 0
+    },
+    {
+      "personId": 44715,
+      "character": "Jane Avril",
+      "order": 1
+    },
+    {
+      "personId": 1190635,
+      "character": "Marie Charlet",
+      "order": 2
+    },
+    {
+      "personId": 30720,
+      "character": "Myriamme Hayam",
+      "order": 3
+    },
+    {
+      "personId": 67443,
+      "character": "Countess de Toulouse-Lautrec",
+      "order": 4
+    },
+    {
+      "personId": 67445,
+      "character": "Louise Weber",
+      "order": 5
+    },
+    {
+      "personId": 1080220,
+      "character": "Aicha",
+      "order": 6
+    },
+    {
+      "personId": 14304,
+      "character": "Madame Loubet",
+      "order": 7
+    },
+    {
+      "personId": 115059,
+      "character": "Valentin le Desossé",
+      "order": 8
+    },
+    {
+      "personId": 26673,
+      "character": "Charles Zidler",
+      "order": 9
+    },
+    {
+      "personId": 545538,
+      "character": "Le Père Cotelle",
+      "order": 10
+    },
+    {
+      "personId": 545048,
+      "character": "Balthazar Patou",
+      "order": 11
+    },
+    {
+      "personId": 24699,
+      "character": "Maurice Joyant",
+      "order": 12
+    },
+    {
+      "personId": 85346,
+      "character": "Denise de Frontiac",
+      "order": 13
+    },
+    {
+      "personId": 1231662,
+      "character": "Aicha's Partner",
+      "order": 14
+    },
+    {
+      "personId": 10504,
+      "character": "Sarah",
+      "order": 15
+    },
+    {
+      "personId": 6609,
+      "character": "King Milo IV of Serbia",
+      "order": 16
+    },
+    {
+      "personId": 5,
+      "character": "Marcel de la Voisier",
+      "order": 17
+    },
+    {
+      "personId": 27931,
+      "character": "Count Moïse de Camondo",
+      "order": 18
+    },
+    {
+      "personId": 3742915,
+      "character": "Babare",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 118,
+  "sources": [
+    "cult-list"
+  ]
+}

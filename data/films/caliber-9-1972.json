@@ -1,0 +1,182 @@
+{
+  "tmdbId": 40022,
+  "slug": "caliber-9-1972",
+  "year": 1972,
+  "runtime": 102,
+  "originalTitle": "Milano Calibro 9",
+  "title": {
+    "en": "Caliber 9",
+    "tr": "Milano Calibro 9"
+  },
+  "overview": {
+    "en": "Just out of prison, ex-con Ugo Piazza meets his former employer, a psychopathic gangster Rocco who enjoys sick violence and torture. Both the gangsters and the police believe Ugo has hidden $300,000 that should have gone to an American drug syndicate boss.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tV5xhT0luyD1Xiebx4HXbv3sV0q.jpg",
+    "en": "/tV5xhT0luyD1Xiebx4HXbv3sV0q.jpg"
+  },
+  "backdrops": [
+    "/ExZ8OMsYF39clYBAHqqS6gmyFL.jpg",
+    "/thNaDbW6Nt6c9kSiXzj9qezwlyv.jpg",
+    "/vGs9ip3iVxBYZGId1z1SD4hgotO.jpg",
+    "/m3qvMGZWFcCEdxKYu2h8gMSh37n.jpg",
+    "/cmEitdeITObPs1unWKCOeZCFwMb.jpg",
+    "/p7BYephgr7wa79aIvEu0iSJdNAE.jpg",
+    "/qfhEUkWdh28vRRY8q5f6bRL59aF.jpg",
+    "/dvF6HFWivEkkK5M5GHzdTX7BEVZ.jpg",
+    "/zOjprpneqdrWKZBmhC4DAbhKrjq.jpg",
+    "/aC8sFbqHey6y932j85t5luReJLc.jpg"
+  ],
+  "trailerKey": "9Nw_eRFafqs",
+  "genreIds": [
+    80,
+    53
+  ],
+  "keywordIds": [
+    6149,
+    3149,
+    1936,
+    10291,
+    12371,
+    14707
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Cineproduzioni Daunia 70"
+  ],
+  "crew": [
+    {
+      "personId": 49892,
+      "job": "director"
+    },
+    {
+      "personId": 49892,
+      "job": "writer"
+    },
+    {
+      "personId": 1495137,
+      "job": "producer"
+    },
+    {
+      "personId": 41065,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 66675,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3281,
+      "character": "Ugo Piazza",
+      "order": 0
+    },
+    {
+      "personId": 16021,
+      "character": "Nelly Bordon",
+      "order": 1
+    },
+    {
+      "personId": 10254,
+      "character": "Rocco Musco",
+      "order": 2
+    },
+    {
+      "personId": 4968,
+      "character": "Police Commissioner",
+      "order": 3
+    },
+    {
+      "personId": 5814,
+      "character": "Mercuri",
+      "order": 4
+    },
+    {
+      "personId": 84251,
+      "character": "Don Vincenzo",
+      "order": 5
+    },
+    {
+      "personId": 4969,
+      "character": "L'Americano / The Mikado",
+      "order": 6
+    },
+    {
+      "personId": 25333,
+      "character": "Chino",
+      "order": 7
+    },
+    {
+      "personId": 240906,
+      "character": "Pasquale Tallarico",
+      "order": 8
+    },
+    {
+      "personId": 37125,
+      "character": "Nicola",
+      "order": 9
+    },
+    {
+      "personId": 240907,
+      "character": "Luca",
+      "order": 10
+    },
+    {
+      "personId": 123911,
+      "character": "Hotel Clerk",
+      "order": 11
+    },
+    {
+      "personId": 240908,
+      "character": "Brigadier",
+      "order": 12
+    },
+    {
+      "personId": 103106,
+      "character": "Alfredo Bertolon",
+      "order": 13
+    },
+    {
+      "personId": 119370,
+      "character": "Couriers Supervisor",
+      "order": 14
+    },
+    {
+      "personId": 1278745,
+      "character": "2nd Courier",
+      "order": 15
+    },
+    {
+      "personId": 119435,
+      "character": "Bartender",
+      "order": 16
+    },
+    {
+      "personId": 1033015,
+      "character": "Policeman",
+      "order": 17
+    },
+    {
+      "personId": 1723354,
+      "character": "Vincenzo Affatato",
+      "order": 18
+    },
+    {
+      "personId": 587454,
+      "character": "4th Courier",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 285,
+  "sources": [
+    "cult-list"
+  ]
+}

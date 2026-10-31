@@ -1,0 +1,163 @@
+{
+  "tmdbId": 29415,
+  "slug": "la-bete-humaine-1938",
+  "year": 1938,
+  "runtime": 98,
+  "originalTitle": "La Bête humaine",
+  "title": {
+    "en": "La Bête Humaine",
+    "tr": "La Bête humaine"
+  },
+  "overview": {
+    "en": "Returning by train to the French port of Le Havre, Jacques Lantier, a tormented railwayman, meets by chance the impulsive stationmaster Roubard and Séverine, his wife.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yB8UpOKAz4yorzBqLWXtc6hO3O4.jpg",
+    "en": "/yB8UpOKAz4yorzBqLWXtc6hO3O4.jpg"
+  },
+  "backdrops": [
+    "/jS9W4jk2vPtq8PIZppYwYAPZpUP.jpg",
+    "/y9RKadQqY7KrplQx24LkgNBJ8Tj.jpg",
+    "/uMkQpHLx7twAFkBo0A8EUITBa2m.jpg",
+    "/5X26MErNHmv1xKsRUAF7zbCpN0m.jpg"
+  ],
+  "trailerKey": "HBLe_J0P7vI",
+  "genreIds": [
+    18,
+    10749,
+    53
+  ],
+  "keywordIds": [
+    1157,
+    818,
+    6625,
+    40954,
+    166490,
+    194023,
+    257081,
+    282843
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Paris Film Production"
+  ],
+  "crew": [
+    {
+      "personId": 11528,
+      "job": "director"
+    },
+    {
+      "personId": 29548,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11555,
+      "job": "composer"
+    },
+    {
+      "personId": 11528,
+      "job": "writer"
+    },
+    {
+      "personId": 9750,
+      "job": "producer"
+    },
+    {
+      "personId": 9751,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11544,
+      "character": "Lantier",
+      "order": 0
+    },
+    {
+      "personId": 103781,
+      "character": "Séverine",
+      "order": 1
+    },
+    {
+      "personId": 34583,
+      "character": "Roubaud",
+      "order": 2
+    },
+    {
+      "personId": 11541,
+      "character": "Pecqueux",
+      "order": 3
+    },
+    {
+      "personId": 103885,
+      "character": "Flore",
+      "order": 4
+    },
+    {
+      "personId": 36021,
+      "character": "Dauvergne",
+      "order": 5
+    },
+    {
+      "personId": 103886,
+      "character": "Philomène",
+      "order": 6
+    },
+    {
+      "personId": 103887,
+      "character": "Victoire",
+      "order": 7
+    },
+    {
+      "personId": 11538,
+      "character": "Voyager",
+      "order": 8
+    },
+    {
+      "personId": 103888,
+      "character": "Aunt Phasie",
+      "order": 9
+    },
+    {
+      "personId": 103889,
+      "character": "Grandmorin",
+      "order": 10
+    },
+    {
+      "personId": 103890,
+      "character": "Dabadie",
+      "order": 11
+    },
+    {
+      "personId": 103891,
+      "character": "Examining Magistrate Denizet",
+      "order": 12
+    },
+    {
+      "personId": 1531633,
+      "character": "Commissaire Cauche",
+      "order": 13
+    },
+    {
+      "personId": 72230,
+      "character": "Lamplighter",
+      "order": 14
+    },
+    {
+      "personId": 11528,
+      "character": "Cabuche",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 254,
+  "sources": [
+    "cult-list"
+  ]
+}

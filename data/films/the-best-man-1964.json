@@ -1,0 +1,180 @@
+{
+  "tmdbId": 37315,
+  "slug": "the-best-man-1964",
+  "year": 1964,
+  "runtime": 102,
+  "originalTitle": "The Best Man",
+  "title": {
+    "en": "The Best Man",
+    "tr": "The Best Man"
+  },
+  "overview": {
+    "en": "The other party is in disarray. Five men vie for the party nomination for president. No one has a majority as the first ballot closes and the front-runners begin to decide how badly they want the job.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/k0P6pKJLUbdG4og9Kk3JNWeTtE1.jpg",
+    "en": "/k0P6pKJLUbdG4og9Kk3JNWeTtE1.jpg"
+  },
+  "backdrops": [
+    "/17lIF5K26H1IzfgJxFY3dImtfTd.jpg",
+    "/cQhB9gFpkeD15OGsCgZNAAmmzGE.jpg",
+    "/35HqjZkEyFSUy6q22hlbmtfgW1M.jpg"
+  ],
+  "trailerKey": "MjUbfK1jvTY",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    6085,
+    2946,
+    6078,
+    10181,
+    12670,
+    156024,
+    206931
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "United Artists",
+    "Millar/Turman Productions"
+  ],
+  "crew": [
+    {
+      "personId": 13265,
+      "job": "director"
+    },
+    {
+      "personId": 7067,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11626,
+      "job": "writer"
+    },
+    {
+      "personId": 13779,
+      "job": "producer"
+    },
+    {
+      "personId": 10770,
+      "job": "producer"
+    },
+    {
+      "personId": 1652743,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4958,
+      "character": "William Russell",
+      "order": 0
+    },
+    {
+      "personId": 19153,
+      "character": "Joe Cantwell",
+      "order": 1
+    },
+    {
+      "personId": 4098,
+      "character": "Mabel Cantwell",
+      "order": 2
+    },
+    {
+      "personId": 80255,
+      "character": "Alice Russell",
+      "order": 3
+    },
+    {
+      "personId": 10403,
+      "character": "Sheldon Bascomb",
+      "order": 4
+    },
+    {
+      "personId": 33003,
+      "character": "President Art Hockstader",
+      "order": 5
+    },
+    {
+      "personId": 87685,
+      "character": "Sue Ellen Gamadge",
+      "order": 6
+    },
+    {
+      "personId": 117419,
+      "character": "Don Cantwell",
+      "order": 7
+    },
+    {
+      "personId": 34597,
+      "character": "Dick Jensen",
+      "order": 8
+    },
+    {
+      "personId": 117418,
+      "character": "Mahalia Jackson",
+      "order": 9
+    },
+    {
+      "personId": 115768,
+      "character": "Howard K. Smith",
+      "order": 10
+    },
+    {
+      "personId": 1372356,
+      "character": "Gov. T.T. Claypoole",
+      "order": 11
+    },
+    {
+      "personId": 29760,
+      "character": "Sen. Oscar Anderson",
+      "order": 12
+    },
+    {
+      "personId": 34178,
+      "character": "Mrs. Claypoole (scenes deleted)",
+      "order": 13
+    },
+    {
+      "personId": 31051,
+      "character": "Speechwriter",
+      "order": 14
+    },
+    {
+      "personId": 9597,
+      "character": "Tom",
+      "order": 15
+    },
+    {
+      "personId": 2361272,
+      "character": "Janet",
+      "order": 16
+    },
+    {
+      "personId": 148439,
+      "character": "Mrs. Merwin",
+      "order": 17
+    },
+    {
+      "personId": 121365,
+      "character": "Sen. Lazarus",
+      "order": 18
+    },
+    {
+      "personId": 444573,
+      "character": "Zealot",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 45,
+  "sources": [
+    "cult-list"
+  ]
+}

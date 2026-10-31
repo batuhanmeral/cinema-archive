@@ -1,0 +1,177 @@
+{
+  "tmdbId": 26484,
+  "slug": "beach-party-1963",
+  "year": 1963,
+  "runtime": 101,
+  "originalTitle": "Beach Party",
+  "title": {
+    "en": "Beach Party",
+    "tr": "Beach Party"
+  },
+  "overview": {
+    "en": "Anthropology Professor Robert Orwell Sutwell and his secretary Marianne are studying the sex habits of teenagers. The surfing teens led by Frankie and Dee Dee don't have much sex but they sing, battle the motorcycle rats and mice led by Eric Von Zipper and dance to Dick Dale and the Del Tones.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/3Wmf7VKBIlwUSpakKDMi9LIGnP.jpg",
+    "en": "/TimfLNlLMHQZvQksgMGvdynmmc.jpg"
+  },
+  "backdrops": [
+    "/6cry2pSWo4dpT5JKgje2HBU4vFw.jpg",
+    "/sTsX4gT7JM1EBIVEQFqY8VZfZIn.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    10402
+  ],
+  "keywordIds": [
+    1524,
+    966,
+    161276,
+    178520
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Alta Vista Productions",
+    "American International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 95526,
+      "job": "director"
+    },
+    {
+      "personId": 78858,
+      "job": "writer"
+    },
+    {
+      "personId": 51730,
+      "job": "producer"
+    },
+    {
+      "personId": 78858,
+      "job": "producer"
+    },
+    {
+      "personId": 99452,
+      "job": "composer"
+    },
+    {
+      "personId": 1027095,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7125,
+      "character": "Professor Sutwell",
+      "order": 0
+    },
+    {
+      "personId": 10487,
+      "character": "Marianne",
+      "order": 1
+    },
+    {
+      "personId": 22092,
+      "character": "Frankie",
+      "order": 2
+    },
+    {
+      "personId": 82777,
+      "character": "Dolores",
+      "order": 3
+    },
+    {
+      "personId": 105637,
+      "character": "Cappy",
+      "order": 4
+    },
+    {
+      "personId": 9109,
+      "character": "Eric Von Zipper",
+      "order": 5
+    },
+    {
+      "personId": 1118131,
+      "character": "Ava",
+      "order": 6
+    },
+    {
+      "personId": 8331,
+      "character": "Ken",
+      "order": 7
+    },
+    {
+      "personId": 148602,
+      "character": "Deadhead",
+      "order": 8
+    },
+    {
+      "personId": 95485,
+      "character": "Himself",
+      "order": 9
+    },
+    {
+      "personId": 32289,
+      "character": "J.D.",
+      "order": 10
+    },
+    {
+      "personId": 1745146,
+      "character": "The Ratz",
+      "order": 11
+    },
+    {
+      "personId": 1357285,
+      "character": "The Ratz",
+      "order": 12
+    },
+    {
+      "personId": 191762,
+      "character": "The Ratz",
+      "order": 13
+    },
+    {
+      "personId": 1213216,
+      "character": "The Mice",
+      "order": 14
+    },
+    {
+      "personId": 2461543,
+      "character": "The Mice",
+      "order": 15
+    },
+    {
+      "personId": 78783,
+      "character": "Ed",
+      "order": 16
+    },
+    {
+      "personId": 16019,
+      "character": "Rhonda",
+      "order": 17
+    },
+    {
+      "personId": 1236812,
+      "character": "Tom",
+      "order": 18
+    },
+    {
+      "personId": 1304632,
+      "character": "Surfer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 43,
+  "sources": [
+    "cult-list"
+  ]
+}

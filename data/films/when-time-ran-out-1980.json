@@ -1,0 +1,180 @@
+{
+  "tmdbId": 47942,
+  "slug": "when-time-ran-out-1980",
+  "year": 1980,
+  "runtime": 121,
+  "originalTitle": "When Time Ran Out...",
+  "title": {
+    "en": "When Time Ran Out...",
+    "tr": "When Time Ran Out..."
+  },
+  "overview": {
+    "en": "An active volcano threatens a south Pacific island resort and its guests as a power struggle ensues between the property's developer and a drilling foreman.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/p2aOR5JZYJbhweEnvgwXaZaGdKF.jpg",
+    "en": "/p2aOR5JZYJbhweEnvgwXaZaGdKF.jpg"
+  },
+  "backdrops": [
+    "/5Fidu8BXXpngo6qLwjfcbTCqdAD.jpg",
+    "/akjT2Kk8GDjmQgFKOMu3CLOJgN5.jpg",
+    "/7XqZIPYaU9XN5IcZq0Z7ImVd79k.jpg",
+    "/AqEwpSpSg9wlp4LwJpAIz9rdPGw.jpg"
+  ],
+  "trailerKey": "3TP7PDMQUaw",
+  "genreIds": [
+    28,
+    12,
+    18,
+    53
+  ],
+  "keywordIds": [
+    612,
+    2041,
+    10685,
+    3347,
+    9840,
+    10617,
+    14720,
+    18029,
+    163398,
+    189411
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "International Cinema",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 15630,
+      "job": "director"
+    },
+    {
+      "personId": 4066,
+      "job": "writer"
+    },
+    {
+      "personId": 6779,
+      "job": "writer"
+    },
+    {
+      "personId": 7506,
+      "job": "producer"
+    },
+    {
+      "personId": 9217,
+      "job": "composer"
+    },
+    {
+      "personId": 19102,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3636,
+      "character": "Hank Anderson",
+      "order": 0
+    },
+    {
+      "personId": 14061,
+      "character": "Kay Kirby",
+      "order": 1
+    },
+    {
+      "personId": 8252,
+      "character": "Shelby Gilmore",
+      "order": 2
+    },
+    {
+      "personId": 18643,
+      "character": "Bob Spangler",
+      "order": 3
+    },
+    {
+      "personId": 7502,
+      "character": "Det. Sgt. Tom Conti",
+      "order": 4
+    },
+    {
+      "personId": 41218,
+      "character": "Brian",
+      "order": 5
+    },
+    {
+      "personId": 7503,
+      "character": "Francis Fendly",
+      "order": 6
+    },
+    {
+      "personId": 10938,
+      "character": "Iolani",
+      "order": 7
+    },
+    {
+      "personId": 24499,
+      "character": "Rose Valdez",
+      "order": 8
+    },
+    {
+      "personId": 42176,
+      "character": "Nikki",
+      "order": 9
+    },
+    {
+      "personId": 16523,
+      "character": "Rene Valdez",
+      "order": 10
+    },
+    {
+      "personId": 74763,
+      "character": "Dr. John Webster",
+      "order": 11
+    },
+    {
+      "personId": 6865,
+      "character": "Mona",
+      "order": 12
+    },
+    {
+      "personId": 23915,
+      "character": "Sam",
+      "order": 13
+    },
+    {
+      "personId": 95598,
+      "character": "Kelly",
+      "order": 14
+    },
+    {
+      "personId": 51188,
+      "character": "Webster's Assistant",
+      "order": 15
+    },
+    {
+      "personId": 999683,
+      "character": "Marsha",
+      "order": 16
+    },
+    {
+      "personId": 2635124,
+      "character": "Woman in Bar",
+      "order": 17
+    },
+    {
+      "personId": 73234,
+      "character": "Tiny Baker",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 87,
+  "sources": [
+    "cult-list"
+  ]
+}

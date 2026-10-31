@@ -1,0 +1,179 @@
+{
+  "tmdbId": 127688,
+  "slug": "expresso-bongo-1959",
+  "year": 1959,
+  "runtime": 111,
+  "originalTitle": "Expresso Bongo",
+  "title": {
+    "en": "Expresso Bongo",
+    "tr": "Expresso Bongo"
+  },
+  "overview": {
+    "en": "A seedy London promoter turns a naive, working-class teenager into a pop singing sensation.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/94yVW8m4YSNwvFM2BnHjC65h6HM.jpg",
+    "en": "/ylHtytf6jlR0eYY8bnqBVp8L9Ub.jpg"
+  },
+  "backdrops": [
+    "/8ESjeOjqVpT9TKwczmWnCaG36uu.jpg",
+    "/eWor9gafZVdIqJg9hhZcSYGsTmh.jpg",
+    "/gJyCGEBOYV3dHVZJadFWhywgelq.jpg",
+    "/AtZMA53ItbDcHJPPY3aXluOPJGw.jpg",
+    "/3eHw0SyG6O3L9UMAR1RtaPFzo3d.jpg",
+    "/5rwNsebXdJr43wiG5eQx9TnLZij.jpg",
+    "/2GlsBAFimKH32ReuH58eZqokjMC.jpg"
+  ],
+  "trailerKey": "8tghEvAbcu0",
+  "genreIds": [
+    35,
+    10402
+  ],
+  "keywordIds": [
+    212,
+    578,
+    3490,
+    2334,
+    10181,
+    193208
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Val Guest Productions"
+  ],
+  "crew": [
+    {
+      "personId": 39853,
+      "job": "director"
+    },
+    {
+      "personId": 29663,
+      "job": "writer"
+    },
+    {
+      "personId": 30670,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 39853,
+      "job": "producer"
+    },
+    {
+      "personId": 416868,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14729,
+      "character": "Johnny Jackson",
+      "order": 0
+    },
+    {
+      "personId": 15736,
+      "character": "Maisie King",
+      "order": 1
+    },
+    {
+      "personId": 133229,
+      "character": "Dixie Collins",
+      "order": 2
+    },
+    {
+      "personId": 23220,
+      "character": "Bert Rudge / Bongo Herbert",
+      "order": 3
+    },
+    {
+      "personId": 113577,
+      "character": "Mayer",
+      "order": 4
+    },
+    {
+      "personId": 84406,
+      "character": "Lady Rosemary",
+      "order": 5
+    },
+    {
+      "personId": 590952,
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "personId": 5827,
+      "character": "Penelope",
+      "order": 7
+    },
+    {
+      "personId": 21609,
+      "character": "Leon",
+      "order": 8
+    },
+    {
+      "personId": 93164,
+      "character": "Rev. Tobias Craven",
+      "order": 9
+    },
+    {
+      "personId": 106154,
+      "character": "Mr Rudge",
+      "order": 10
+    },
+    {
+      "personId": 79356,
+      "character": "Mrs Rudge",
+      "order": 11
+    },
+    {
+      "personId": 1660799,
+      "character": "Edna Rudge",
+      "order": 12
+    },
+    {
+      "personId": 29703,
+      "character": "Cynthia",
+      "order": 13
+    },
+    {
+      "personId": 51879,
+      "character": "Charlie",
+      "order": 14
+    },
+    {
+      "personId": 29309,
+      "character": "Psychiatrist",
+      "order": 15
+    },
+    {
+      "personId": 639876,
+      "character": "Chinese Rose",
+      "order": 16
+    },
+    {
+      "personId": 84404,
+      "character": "Nightclub Cleaner",
+      "order": 17
+    },
+    {
+      "personId": 117471,
+      "character": "Beast Burns",
+      "order": 18
+    },
+    {
+      "personId": 117546,
+      "character": "Racer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 19,
+  "sources": [
+    "cult-list"
+  ]
+}

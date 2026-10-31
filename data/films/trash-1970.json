@@ -1,0 +1,126 @@
+{
+  "tmdbId": 89199,
+  "slug": "trash-1970",
+  "year": 1970,
+  "runtime": 110,
+  "originalTitle": "Trash",
+  "title": {
+    "en": "Trash",
+    "tr": "Trash"
+  },
+  "overview": {
+    "en": "The movie follows Joe, a heroin addict, throughout his quest to score more drugs. The episodic plot occurs over a single day and centers on Joe's problematic relationship with his on-off, sexually frustrated girlfriend.  During the course of the day, Joe overdoses in front of an upper-class couple, attempts to fool Welfare into approving his methadone treatment by having Holly fake a pregnancy, and frustrates the women in his life with his drug-induced impotence.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/bQAICaVkVQoeCAQLNbrVng6WVt0.jpg",
+    "en": "/bQAICaVkVQoeCAQLNbrVng6WVt0.jpg"
+  },
+  "backdrops": [
+    "/cu7d0RKDbIU2J4yXlG3a7lDQK37.jpg",
+    "/4wCvROntkx93254R5G1baKkz3OR.jpg",
+    "/5EFUWJEG7foDLsOdWkrmgSE8GQY.jpg",
+    "/qwchK8Fcz9DBAgO1yf8EZ5QK561.jpg",
+    "/3JwXaB5IUvmoJiRYCb9mPwum700.jpg",
+    "/n37wCRvQtnoZbCee4JVmDKcth6O.jpg",
+    "/d9aIKPvuITKpFbtcn6oUcVnGwoZ.jpg"
+  ],
+  "trailerKey": "1youklSzX90",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1326,
+    3725,
+    1803,
+    11722,
+    14964,
+    18011,
+    189142,
+    258533
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Filmfactory"
+  ],
+  "crew": [
+    {
+      "personId": 18626,
+      "job": "producer"
+    },
+    {
+      "personId": 18627,
+      "job": "director"
+    },
+    {
+      "personId": 18627,
+      "job": "writer"
+    },
+    {
+      "personId": 18627,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29915,
+      "character": "Joe Smith",
+      "order": 0
+    },
+    {
+      "personId": 106926,
+      "character": "Holly Sandiago",
+      "order": 1
+    },
+    {
+      "personId": 557445,
+      "character": "Geri, the go-go dancer",
+      "order": 2
+    },
+    {
+      "personId": 38165,
+      "character": "Rich Girl",
+      "order": 3
+    },
+    {
+      "personId": 3155366,
+      "character": "Johnny",
+      "order": 4
+    },
+    {
+      "personId": 2213787,
+      "character": "Jane",
+      "order": 5
+    },
+    {
+      "personId": 587877,
+      "character": "Bruce",
+      "order": 6
+    },
+    {
+      "personId": 5530093,
+      "character": "Holly's Sister",
+      "order": 7
+    },
+    {
+      "personId": 5530095,
+      "character": "Rob",
+      "order": 8
+    },
+    {
+      "personId": 1942268,
+      "character": "Mr. Michaels",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 40,
+  "sources": [
+    "cult-list"
+  ]
+}

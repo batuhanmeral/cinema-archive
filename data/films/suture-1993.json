@@ -1,0 +1,185 @@
+{
+  "tmdbId": 87078,
+  "slug": "suture-1993",
+  "year": 1993,
+  "runtime": 96,
+  "originalTitle": "Suture",
+  "title": {
+    "en": "Suture",
+    "tr": "Suture"
+  },
+  "overview": {
+    "en": "A man named Clay  flies into Phoenix for a reunion with his long-lost half-brother Vincent.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/8lbOpuNaJBNT1gXbIDDyYnDIYut.jpg",
+    "en": "/8lbOpuNaJBNT1gXbIDDyYnDIYut.jpg"
+  },
+  "backdrops": [
+    "/yZ0vdcZ5YG8IB8JNBj13P6mtDxG.jpg"
+  ],
+  "trailerKey": "IzZSguDxGsk",
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    1453,
+    10085,
+    12999,
+    15016,
+    156097,
+    177035
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Kino Korsakoff"
+  ],
+  "crew": [
+    {
+      "personId": 101446,
+      "job": "director"
+    },
+    {
+      "personId": 101446,
+      "job": "writer"
+    },
+    {
+      "personId": 101444,
+      "job": "writer"
+    },
+    {
+      "personId": 101444,
+      "job": "director"
+    },
+    {
+      "personId": 101446,
+      "job": "producer"
+    },
+    {
+      "personId": 101444,
+      "job": "producer"
+    },
+    {
+      "personId": 9645,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1643438,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 352,
+      "character": "Clay Arlington",
+      "order": 0
+    },
+    {
+      "personId": 25306,
+      "character": "Dr. Renee Descartes",
+      "order": 1
+    },
+    {
+      "personId": 85500,
+      "character": "Dr. Max Shinoda",
+      "order": 2
+    },
+    {
+      "personId": 58414,
+      "character": "Alice Jameson",
+      "order": 3
+    },
+    {
+      "personId": 98950,
+      "character": "Vincent Towers",
+      "order": 4
+    },
+    {
+      "personId": 57353,
+      "character": "Lt. Weismann",
+      "order": 5
+    },
+    {
+      "personId": 152670,
+      "character": "Mrs. Lucerne",
+      "order": 6
+    },
+    {
+      "personId": 44052,
+      "character": "Sidney Callahan",
+      "order": 7
+    },
+    {
+      "personId": 1730173,
+      "character": "Dr. Fuller (as Sandy Gibbons)",
+      "order": 8
+    },
+    {
+      "personId": 993245,
+      "character": "Detective Joe",
+      "order": 9
+    },
+    {
+      "personId": 427,
+      "character": "Nurse Stevens (as Sandra Lafferty)",
+      "order": 10
+    },
+    {
+      "personId": 3147766,
+      "character": "Soprano",
+      "order": 11
+    },
+    {
+      "personId": 1231493,
+      "character": "Ticket Agent",
+      "order": 12
+    },
+    {
+      "personId": 1906092,
+      "character": "Sportswoman",
+      "order": 13
+    },
+    {
+      "personId": 1879499,
+      "character": "Sportsman",
+      "order": 14
+    },
+    {
+      "personId": 136212,
+      "character": "Man with Camera",
+      "order": 15
+    },
+    {
+      "personId": 3147768,
+      "character": "Mrs. Lucerne's Nurse",
+      "order": 16
+    },
+    {
+      "personId": 1504098,
+      "character": "Doctor #1",
+      "order": 17
+    },
+    {
+      "personId": 1654993,
+      "character": "Doctor #2",
+      "order": 18
+    },
+    {
+      "personId": 104601,
+      "character": "Arthur Towers",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 44,
+  "sources": [
+    "cult-list"
+  ]
+}

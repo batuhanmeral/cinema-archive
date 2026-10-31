@@ -1,0 +1,191 @@
+{
+  "tmdbId": 25476,
+  "slug": "scum-1979",
+  "year": 1979,
+  "runtime": 96,
+  "originalTitle": "Scum",
+  "title": {
+    "en": "Scum",
+    "tr": "Scum"
+  },
+  "overview": {
+    "en": "Carlin is a new reform school inmate with a reputation as a hard case. The authorities encourage gang leader Pongo to humble Carlin, but Carlin overtakes Pongo as Daddy of the ward. The guards institute a reign of terror and neglect, with Carlin emerging as an unlikely leader.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/7jgzCmnF4QwRGbv2ubK9VIOAkJp.jpg",
+    "en": "/7jgzCmnF4QwRGbv2ubK9VIOAkJp.jpg"
+  },
+  "backdrops": [
+    "/aLwCAYMGhjx2TgSRvEbLUFg3sJc.jpg",
+    "/xx4NNUkDhahO19lVLi3ngya7jUE.jpg",
+    "/ulBiygsJeDiAIr1D7kWaSNTidhU.jpg",
+    "/byxVP82jsSMWohHn6ML1yeQ47n8.jpg",
+    "/xZJEcTyB4cLyLavSmLf4uJ4DPsH.jpg",
+    "/sznhgxC2tZbEgpzicFOELpB4F6m.jpg",
+    "/d6pXQJh42k7Jfa98taAqrajtCfq.jpg",
+    "/nfvYqZxE9L70scEESLW3fTcHQ8z.jpg",
+    "/714d6jFK8aZoxp0VF4rpP3qOKVe.jpg",
+    "/c2GCWF15FtSk9Q25JQdn3DKbEXG.jpg"
+  ],
+  "trailerKey": "Sq6oDIRC1N4",
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    378,
+    236,
+    570,
+    417,
+    392,
+    9701,
+    2187,
+    9748,
+    12425,
+    18128,
+    197606,
+    203061,
+    203063
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Berwick Street Productions",
+    "Boyd's Company",
+    "Kendon Films Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 10709,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 63960,
+      "job": "producer"
+    },
+    {
+      "personId": 82714,
+      "job": "director"
+    },
+    {
+      "personId": 217642,
+      "job": "writer"
+    },
+    {
+      "personId": 96588,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5538,
+      "character": "Carlin",
+      "order": 0
+    },
+    {
+      "personId": 93847,
+      "character": "Archer",
+      "order": 1
+    },
+    {
+      "personId": 93848,
+      "character": "Davis",
+      "order": 2
+    },
+    {
+      "personId": 1105086,
+      "character": "Banks",
+      "order": 3
+    },
+    {
+      "personId": 65301,
+      "character": "Richards",
+      "order": 4
+    },
+    {
+      "personId": 156701,
+      "character": "Mr. Sands",
+      "order": 5
+    },
+    {
+      "personId": 25532,
+      "character": "Mr Greaves",
+      "order": 6
+    },
+    {
+      "personId": 222496,
+      "character": "Governor",
+      "order": 7
+    },
+    {
+      "personId": 216245,
+      "character": "Mr Duke",
+      "order": 8
+    },
+    {
+      "personId": 42568,
+      "character": "Mr Goodyear",
+      "order": 9
+    },
+    {
+      "personId": 989,
+      "character": "Mr. Hunt",
+      "order": 10
+    },
+    {
+      "personId": 82805,
+      "character": "Eckersley",
+      "order": 11
+    },
+    {
+      "personId": 1214702,
+      "character": "Meakin",
+      "order": 12
+    },
+    {
+      "personId": 1462827,
+      "character": "Woods",
+      "order": 13
+    },
+    {
+      "personId": 54446,
+      "character": "Matron",
+      "order": 14
+    },
+    {
+      "personId": 134696,
+      "character": "Angel",
+      "order": 15
+    },
+    {
+      "personId": 56552,
+      "character": "James",
+      "order": 16
+    },
+    {
+      "personId": 164601,
+      "character": "Betts",
+      "order": 17
+    },
+    {
+      "personId": 369804,
+      "character": "Dougan",
+      "order": 18
+    },
+    {
+      "personId": 227342,
+      "character": "Toyne",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 225,
+  "sources": [
+    "cult-list"
+  ]
+}

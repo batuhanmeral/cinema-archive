@@ -1,0 +1,195 @@
+{
+  "tmdbId": 278,
+  "slug": "the-shawshank-redemption-1994",
+  "year": 1994,
+  "runtime": 142,
+  "originalTitle": "The Shawshank Redemption",
+  "title": {
+    "en": "The Shawshank Redemption",
+    "tr": "Esaretin Bedeli"
+  },
+  "overview": {
+    "en": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "tr": "Genç ve başarılı bir banker olan Andy Dufresne, karısını ve onun sevgilisini öldürmek suçundan ömür boyu hapse mahkum edilir ve Shawshank hapishanesine gönderilir. İşkence, tecavüz, dayak dahil her türlü kötü koşulun hüküm sürdüğü hapishane koşullarında, Andy'nin hayata bağlı ve her daim iyi bir şeyler bulma çabası içindeki hali, çevresindeki herkesi çok etkileyecektir. Bir süre sonra parmaklıkların arkasında bile özgür bir yaşam olabileceğine bütün mahkumları inandırır. Bu mahkumlardan biri olan Ellis Boyd \"Red\" ve Andy, unutulmaz bir dostluk kurarak hapishaneyi bambaşka bir yer haline getirirler."
+  },
+  "poster": {
+    "tr": "/bAEV6D3M4tRVGBZca69BMYtxxFv.jpg",
+    "en": "/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg"
+  },
+  "backdrops": [
+    "/kXfqcdQKsToO0OUXHcrrNCHDBzO.jpg",
+    "/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+    "/avedvodAZUcwqevBfm8p4G2NziQ.jpg",
+    "/pNjh59JSxChQktamG3LMp9ZoQzp.jpg",
+    "/v8xVDqt8uCul3c3mgx4VpGCwxJC.jpg",
+    "/9Xw0I5RV2ZqNLpul6lXKoviYg55.jpg",
+    "/72rRSPAZ82p3KXoGLz2ddTioMQl.jpg",
+    "/wPU78OPN4BYEgWYdXyg0phMee64.jpg",
+    "/irlfhYtHfhZuYpsq2LAoh308NFe.jpg",
+    "/gZMgEUYbh0DIBNaRJT0ofxLDJ5T.jpg"
+  ],
+  "trailerKey": "PLl99DlL6b4",
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    378,
+    6054,
+    796,
+    417,
+    818,
+    6089,
+    3929,
+    2885,
+    4779,
+    11436,
+    8622,
+    9777,
+    12662,
+    165583,
+    180172,
+    207883,
+    236369,
+    325765,
+    377433
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Castle Rock Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 153,
+      "job": "composer"
+    },
+    {
+      "personId": 151,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4028,
+      "job": "producer"
+    },
+    {
+      "personId": 4027,
+      "job": "writer"
+    },
+    {
+      "personId": 4027,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 504,
+      "character": "Andy Dufresne",
+      "order": 0
+    },
+    {
+      "personId": 192,
+      "character": "Ellis Boyd 'Red' Redding",
+      "order": 1
+    },
+    {
+      "personId": 4029,
+      "character": "Warden Norton",
+      "order": 2
+    },
+    {
+      "personId": 6573,
+      "character": "Heywood",
+      "order": 3
+    },
+    {
+      "personId": 6574,
+      "character": "Captain Byron T. Hadley",
+      "order": 4
+    },
+    {
+      "personId": 6575,
+      "character": "Tommy",
+      "order": 5
+    },
+    {
+      "personId": 6577,
+      "character": "Brooks Hatlen",
+      "order": 6
+    },
+    {
+      "personId": 6576,
+      "character": "Bogs Diamond",
+      "order": 7
+    },
+    {
+      "personId": 12645,
+      "character": "1946 D.A.",
+      "order": 8
+    },
+    {
+      "personId": 92119,
+      "character": "Skeet",
+      "order": 9
+    },
+    {
+      "personId": 168323,
+      "character": "Jigger",
+      "order": 10
+    },
+    {
+      "personId": 6580,
+      "character": "Floyd",
+      "order": 11
+    },
+    {
+      "personId": 2555,
+      "character": "Snooze",
+      "order": 12
+    },
+    {
+      "personId": 5063,
+      "character": "Ernie",
+      "order": 13
+    },
+    {
+      "personId": 8693,
+      "character": "Guard Mert",
+      "order": 14
+    },
+    {
+      "personId": 32393,
+      "character": "Guard Trout",
+      "order": 15
+    },
+    {
+      "personId": 6578,
+      "character": "Andy Dufresne's Wife",
+      "order": 16
+    },
+    {
+      "personId": 1624179,
+      "character": "Glenn Quentin",
+      "order": 17
+    },
+    {
+      "personId": 163979,
+      "character": "1946 Judge",
+      "order": 18
+    },
+    {
+      "personId": 194459,
+      "character": "1947 Parole Hearings Man",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 31709,
+  "sources": [
+    "cult-list"
+  ]
+}

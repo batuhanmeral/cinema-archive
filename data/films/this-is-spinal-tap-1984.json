@@ -1,0 +1,220 @@
+{
+  "tmdbId": 11031,
+  "slug": "this-is-spinal-tap-1984",
+  "year": 1984,
+  "runtime": 82,
+  "originalTitle": "This Is Spinal Tap",
+  "title": {
+    "en": "This Is Spinal Tap",
+    "tr": "Huzurlarınızda Spinal Tap"
+  },
+  "overview": {
+    "en": "\"This Is Spinal Tap\" shines a light on the self-contained universe of a metal band struggling to get back on the charts, including everything from its complicated history of ups and downs, gold albums, name changes and undersold concert dates, along with the full host of requisite groupies, promoters, hangers-on and historians, sessions, release events and those special behind-the-scenes moments that keep it all real.",
+    "tr": "1982 yılında Spinal Tap isimli efsanevi İngiliz metal grubu, Amerika'da bir geri dönüş turnesine çıkmaya karar verirler. Bu turne aynı zamanda film yapımcısı olan Marti DeBergi adındaki bir adam tarafından düzenlenmektedir. DeBergi'nin amacı gerçek bir grupla turneye çıkarak onlar hakkında gerçek görüntülerden oluşan, sahne öncesi ve sonrası yaşadıklarını anlatan bir belgesel çekmektir. Bu süreçte ekibin başına gelmeyen kalmaz..."
+  },
+  "poster": {
+    "tr": "/4XQZPaACcg2SiLDG609HdvzpJqJ.jpg",
+    "en": "/kAJ3zmvfcFJ1r8dbsXYQD28RL7K.jpg"
+  },
+  "backdrops": [
+    "/mQoSPZ8LR8d1ExCLWlcp8dlI78G.jpg",
+    "/ugP76QVn3XdwhMyBBV1qWUyJDBk.jpg",
+    "/o21qmruJenPD9YunYFUxHnojKac.jpg",
+    "/yxk5kc1n7OyQKWAzcXhLKcKFHKl.jpg",
+    "/4XXzgmqGl4JTnwFGKBYdagw7ipu.jpg",
+    "/50vkOSJXvT3ap2huUrfBWAaMNhW.jpg",
+    "/5OFg2grrAMPo8OOKHQMCeuKU3js.jpg",
+    "/hIo97WpZZwYw8L0yNqh3JRbGji2.jpg",
+    "/tuGAFPq4qCc4lBdsbGm2xVdY2ov.jpg",
+    "/eSBEOoMXc5Q9Xo2KOidSjKiOjL1.jpg"
+  ],
+  "trailerKey": "_9leMez8sQ8",
+  "genreIds": [
+    35,
+    10402
+  ],
+  "keywordIds": [
+    578,
+    2570,
+    4044,
+    9755,
+    11800,
+    18001,
+    163053,
+    179430,
+    179431,
+    232186,
+    236650,
+    240462,
+    288345,
+    296093,
+    322268,
+    325765,
+    325782
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "studios": [
+    "Spinal Tap Prod.",
+    "Embassy Films Associates",
+    "Embassy Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 3026,
+      "job": "director"
+    },
+    {
+      "personId": 6008,
+      "job": "composer"
+    },
+    {
+      "personId": 21731,
+      "job": "writer"
+    },
+    {
+      "personId": 13524,
+      "job": "composer"
+    },
+    {
+      "personId": 21731,
+      "job": "composer"
+    },
+    {
+      "personId": 67864,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3026,
+      "job": "writer"
+    },
+    {
+      "personId": 13524,
+      "job": "writer"
+    },
+    {
+      "personId": 6008,
+      "job": "writer"
+    },
+    {
+      "personId": 6467,
+      "job": "producer"
+    },
+    {
+      "personId": 3026,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13524,
+      "character": "Nigel Tufnel",
+      "order": 0
+    },
+    {
+      "personId": 21731,
+      "character": "David St. Hubbins",
+      "order": 1
+    },
+    {
+      "personId": 6008,
+      "character": "Derek Smalls",
+      "order": 2
+    },
+    {
+      "personId": 3026,
+      "character": "Marty DiBergi",
+      "order": 3
+    },
+    {
+      "personId": 104410,
+      "character": "Jeanine Pettibone",
+      "order": 4
+    },
+    {
+      "personId": 1040043,
+      "character": "Ian Faith",
+      "order": 5
+    },
+    {
+      "personId": 9257,
+      "character": "Tommy Pischedda",
+      "order": 6
+    },
+    {
+      "personId": 42157,
+      "character": "John 'Stumpy' Pepys",
+      "order": 7
+    },
+    {
+      "personId": 41243,
+      "character": "Tucker 'Smitty' Brown",
+      "order": 8
+    },
+    {
+      "personId": 1315107,
+      "character": "Rolling Stone Reporter",
+      "order": 9
+    },
+    {
+      "personId": 7904,
+      "character": "Morty the Mime",
+      "order": 10
+    },
+    {
+      "personId": 35516,
+      "character": "Terry Ladd",
+      "order": 11
+    },
+    {
+      "personId": 10662,
+      "character": "Sir Denis Eton-Hogg",
+      "order": 12
+    },
+    {
+      "personId": 69921,
+      "character": "Artie Fufkin",
+      "order": 13
+    },
+    {
+      "personId": 20753,
+      "character": "Lt. Hookstratten",
+      "order": 14
+    },
+    {
+      "personId": 67861,
+      "character": "Mick Shrimpton",
+      "order": 15
+    },
+    {
+      "personId": 67863,
+      "character": "Viv Savage",
+      "order": 16
+    },
+    {
+      "personId": 53122,
+      "character": "Bobbi Flekman",
+      "order": 17
+    },
+    {
+      "personId": 91724,
+      "character": "Belinda",
+      "order": 18
+    },
+    {
+      "personId": 587330,
+      "character": "Cindy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1724,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "tmdbId": 112912,
+  "slug": "why-we-fight-the-battle-of-russia-1943",
+  "year": 1943,
+  "runtime": 83,
+  "originalTitle": "Why We Fight: The Battle of Russia",
+  "title": {
+    "en": "Why We Fight: The Battle of Russia",
+    "tr": "Why We Fight: The Battle of Russia"
+  },
+  "overview": {
+    "en": "The fifth film of Frank Capra's Why We Fight propaganda film series, revealing the nature and process of the fight between the Soviet Union and Germany in the Second World War.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xgcuUIKFkiVwtUzZy7iE7oeD8ro.jpg",
+    "en": "/xgcuUIKFkiVwtUzZy7iE7oeD8ro.jpg"
+  },
+  "backdrops": [
+    "/texw0dgm5uwDwh2O35rGNZas8y5.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99,
+    10752
+  ],
+  "keywordIds": [
+    1956
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "War Activities Committee of the Motion Pictures Industry",
+    "U.S. War Department",
+    "U.S. Army Special Service Division"
+  ],
+  "crew": [
+    {
+      "personId": 2662,
+      "job": "director"
+    },
+    {
+      "personId": 37361,
+      "job": "director"
+    },
+    {
+      "personId": 10092,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2662,
+      "job": "producer"
+    },
+    {
+      "personId": 4082,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 67447,
+      "character": "Narrator",
+      "order": 0
+    },
+    {
+      "personId": 1956882,
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "personId": 67502,
+      "character": "Alexander Nevsky",
+      "order": 2
+    },
+    {
+      "personId": 1956883,
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "personId": 1956887,
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "personId": 1956888,
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "personId": 1760693,
+      "character": "Self",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 36,
+  "sources": [
+    "cult-list"
+  ]
+}

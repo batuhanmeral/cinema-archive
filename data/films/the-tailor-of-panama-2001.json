@@ -1,0 +1,202 @@
+{
+  "tmdbId": 2575,
+  "slug": "the-tailor-of-panama-2001",
+  "year": 2001,
+  "runtime": 109,
+  "originalTitle": "The Tailor of Panama",
+  "title": {
+    "en": "The Tailor of Panama",
+    "tr": "Panama Terzisi"
+  },
+  "overview": {
+    "en": "A British spy is banished to Panama after having an affair with an ambassador's mistress. Once there he makes connection with a local tailor with a nefarious past and connections to all of the top political and gangster figures in Panama. The tailor also has a wife, who works for the Panamanian president and a huge debt. The mission is to learn what the President intends to do with the Canal.",
+    "tr": "Bir İngiliz casusu, bir büyükelçinin metresiyle ilişki yaşadıktan sonra Panama'ya sürülür. Oraya vardığında, tehlikeli geçmişi ve Panama'daki tüm üst düzey siyasi ve gangster figürleriyle bağlantıları olan yerel bir terziyle bağlantı kurar. Terzinin ayrıca Panama başkanı için çalışan bir karısı ve büyük bir borcu vardır. Görevi, Başkan'ın Kanal'la ne yapmayı planladığını öğrenmektir."
+  },
+  "poster": {
+    "tr": "/eyH6Ege4OcGXHgb97edS7aL1f8H.jpg",
+    "en": "/na80ysnoCvoxwGTMWCWYvnmaDlz.jpg"
+  },
+  "backdrops": [
+    "/zKctuZIWdni1QxTEt4SsNyysdxW.jpg",
+    "/kisJVMLUDYI3Yp3cTctu9mnEEda.jpg",
+    "/jm2YqkTqAa0MH5uj9FjY2NQpNqt.jpg",
+    "/uy2O3hi58iNSsGdmLs3G9adChMP.jpg",
+    "/hLk0D4C3aLjWlYK7raWlcdt8LVm.jpg",
+    "/2qUwQ2YMGvafSNmQmN4PzpOlWV4.jpg",
+    "/ixq3Lm7qAzvHvteGWomyNfH2CuU.jpg",
+    "/vWPY5v6iC4SU4E81SGfsxO2zwlV.jpg",
+    "/usKlgF5osODU42txIdMG8neCbm0.jpg",
+    "/bGFn5palZpUHCr7mRdSP20kUXuI.jpg"
+  ],
+  "trailerKey": "if887QzvTiw",
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    246,
+    6078,
+    1421,
+    470,
+    2407,
+    1969,
+    2103,
+    3450,
+    4289,
+    4596,
+    8570,
+    11061,
+    15058,
+    199081,
+    346967
+  ],
+  "countries": [
+    "IE",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Merlin Films",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 19665,
+      "job": "director"
+    },
+    {
+      "personId": 20422,
+      "job": "writer"
+    },
+    {
+      "personId": 19665,
+      "job": "producer"
+    },
+    {
+      "personId": 19665,
+      "job": "writer"
+    },
+    {
+      "personId": 1301,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9156,
+      "job": "writer"
+    },
+    {
+      "personId": 26140,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 517,
+      "character": "Andy Osnard",
+      "order": 0
+    },
+    {
+      "personId": 118,
+      "character": "Harry Pendel",
+      "order": 1
+    },
+    {
+      "personId": 8944,
+      "character": "Louisa Pendel",
+      "order": 2
+    },
+    {
+      "personId": 10839,
+      "character": "Marta",
+      "order": 3
+    },
+    {
+      "personId": 2039,
+      "character": "Mickie Abraxas",
+      "order": 4
+    },
+    {
+      "personId": 26157,
+      "character": "Uncle Benny",
+      "order": 5
+    },
+    {
+      "personId": 2462,
+      "character": "Francesca Deane",
+      "order": 6
+    },
+    {
+      "personId": 10980,
+      "character": "Mark Pendel",
+      "order": 7
+    },
+    {
+      "personId": 26161,
+      "character": "Sarah Pendel",
+      "order": 8
+    },
+    {
+      "personId": 54014,
+      "character": "Luxmore",
+      "order": 9
+    },
+    {
+      "personId": 1173,
+      "character": "Rafi Domingo",
+      "order": 10
+    },
+    {
+      "personId": 4790,
+      "character": "Teddy",
+      "order": 11
+    },
+    {
+      "personId": 24272,
+      "character": "Maltby",
+      "order": 12
+    },
+    {
+      "personId": 30328,
+      "character": "Stormont",
+      "order": 13
+    },
+    {
+      "personId": 3804847,
+      "character": "Juan-David",
+      "order": 14
+    },
+    {
+      "personId": 4253,
+      "character": "Ramon Rudd",
+      "order": 15
+    },
+    {
+      "personId": 8537,
+      "character": "Cavendish",
+      "order": 16
+    },
+    {
+      "personId": 19152,
+      "character": "Dusenbaker",
+      "order": 17
+    },
+    {
+      "personId": 29617,
+      "character": "Joe",
+      "order": 18
+    },
+    {
+      "personId": 55908,
+      "character": "Elliot",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 580,
+  "sources": [
+    "cult-list"
+  ]
+}

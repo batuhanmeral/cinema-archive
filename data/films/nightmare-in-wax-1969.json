@@ -1,0 +1,119 @@
+{
+  "tmdbId": 27496,
+  "slug": "nightmare-in-wax-1969",
+  "year": 1969,
+  "runtime": 98,
+  "originalTitle": "Nightmare in Wax",
+  "title": {
+    "en": "Nightmare in Wax",
+    "tr": "Nightmare in Wax"
+  },
+  "overview": {
+    "en": "The disfigured curator of a wax museum murders his enemies and then uses their bodies as exhibits in his museum.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/nVUveholmPpHpZbBfUaWTGqRkiA.jpg",
+    "en": "/j9FQDqtEuW7T1ri4xaEwwmnwxiM.jpg"
+  },
+  "backdrops": [
+    "/ma2ID4p0C3SJrqnJRJScWgy1XXv.jpg"
+  ],
+  "trailerKey": "hbWnANjD31Y",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    10771
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paragon International Pictures",
+    "Productions Enterprises Inc.",
+    "Crown International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 97960,
+      "job": "director"
+    },
+    {
+      "personId": 97961,
+      "job": "writer"
+    },
+    {
+      "personId": 97962,
+      "job": "producer"
+    },
+    {
+      "personId": 97963,
+      "job": "producer"
+    },
+    {
+      "personId": 1148570,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 44728,
+      "character": "Vincent Renard",
+      "order": 0
+    },
+    {
+      "personId": 83390,
+      "character": "Marie Morgan",
+      "order": 1
+    },
+    {
+      "personId": 14847,
+      "character": "Det. Haskell",
+      "order": 2
+    },
+    {
+      "personId": 85988,
+      "character": "Max Black",
+      "order": 3
+    },
+    {
+      "personId": 97964,
+      "character": "Theresa",
+      "order": 4
+    },
+    {
+      "personId": 97965,
+      "character": "Tony Deen",
+      "order": 5
+    },
+    {
+      "personId": 97966,
+      "character": "Det. Sgt. Bud Carver",
+      "order": 6
+    },
+    {
+      "personId": 8954,
+      "character": "Ralph Tenier",
+      "order": 7
+    },
+    {
+      "personId": 928480,
+      "character": "Bartender (as Kent Osborne)",
+      "order": 8
+    },
+    {
+      "personId": 153364,
+      "character": "Alfred Herman",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 14,
+  "sources": [
+    "cult-list"
+  ]
+}

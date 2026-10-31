@@ -1,0 +1,220 @@
+{
+  "tmdbId": 824,
+  "slug": "moulin-rouge-2001",
+  "year": 2001,
+  "runtime": 128,
+  "originalTitle": "Moulin Rouge!",
+  "title": {
+    "en": "Moulin Rouge!",
+    "tr": "Kırmızı Değirmen"
+  },
+  "overview": {
+    "en": "A celebration of love and creative inspiration takes place in the infamous, gaudy and glamorous Parisian nightclub, at the cusp of the 20th century. A young poet, who is plunged into the heady world of Moulin Rouge, begins a passionate affair with the club's most notorious and beautiful star.",
+    "tr": "Gerçeğin, güzelliğin, özgürlüğün ve aşkın kutlamasının yapıldığı 1900'lü yılların göz alıcı, parlak fakat kötü şöhretli gece kulübünün adıdır Moulin Rouge... Satine, bu gece kulübünün parıldayan elması, en güzel yıldızı ve şehrin en tanınmış fahişesidir. Ama gece kulübünü finanse edecek zengin bir adamın takıntısı olmakla, gerçekten aşık olduğu beş parasız bir şair arasında seçim yapmak zorunda kalacaktır."
+  },
+  "poster": {
+    "tr": "/buCJwLboLxpg88zapgLQWGYHhgR.jpg",
+    "en": "/xhuQz2yKPlWvMvvnf2u9RVkAQx6.jpg"
+  },
+  "backdrops": [
+    "/vvcLSgiviCIU0J0UcwLqWdU8Iup.jpg",
+    "/19TLetNUXW9PjggtZBxr9lInTqL.jpg",
+    "/xDVRvyJaKjsTrptaKYkwGSZSZUC.jpg",
+    "/xIAi62zGqccvMqHPdnEnClf0zge.jpg",
+    "/xeYotQ5FJiX62AaJ7Uhd5WrDAH7.jpg",
+    "/1ANAMlH6mnvsdnduusx1sGsrSLN.jpg",
+    "/7YFyo5MlMu6TMb5NYqLrRVr7pUp.jpg",
+    "/qRCY6gofiZTyWTrqFfkfxXYG5v0.jpg",
+    "/5T4wyfh0b4DZId3TPYShpTUClS0.jpg",
+    "/5eQGuJNpItRy5aHNACh13UWOBHY.jpg"
+  ],
+  "trailerKey": "2PpgPxjzbkA",
+  "genreIds": [
+    18,
+    10749,
+    10402
+  ],
+  "keywordIds": [
+    90,
+    2334,
+    2710,
+    4178,
+    4235,
+    4344,
+    5933,
+    6564,
+    9673,
+    13028,
+    13059,
+    34079,
+    40895,
+    156156,
+    159845,
+    164754,
+    186403,
+    207928,
+    236170,
+    255562,
+    286529,
+    324429,
+    325765,
+    337603
+  ],
+  "countries": [
+    "AU",
+    "US"
+  ],
+  "languages": [
+    "fr",
+    "es",
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox",
+    "Bazmark"
+  ],
+  "crew": [
+    {
+      "personId": 1095,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12201,
+      "job": "producer"
+    },
+    {
+      "personId": 6204,
+      "job": "producer"
+    },
+    {
+      "personId": 7045,
+      "job": "composer"
+    },
+    {
+      "personId": 6201,
+      "job": "director"
+    },
+    {
+      "personId": 6201,
+      "job": "producer"
+    },
+    {
+      "personId": 6201,
+      "job": "writer"
+    },
+    {
+      "personId": 6211,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3061,
+      "character": "Christian",
+      "order": 0
+    },
+    {
+      "personId": 2227,
+      "character": "Satine",
+      "order": 1
+    },
+    {
+      "personId": 5723,
+      "character": "Toulouse-Lautrec",
+      "order": 2
+    },
+    {
+      "personId": 388,
+      "character": "Harold Zidler",
+      "order": 3
+    },
+    {
+      "personId": 12206,
+      "character": "The Duke",
+      "order": 4
+    },
+    {
+      "personId": 12211,
+      "character": "The Doctor",
+      "order": 5
+    },
+    {
+      "personId": 12210,
+      "character": "The Unconscious Argentinean",
+      "order": 6
+    },
+    {
+      "personId": 12212,
+      "character": "Satie",
+      "order": 7
+    },
+    {
+      "personId": 10756,
+      "character": "Marie",
+      "order": 8
+    },
+    {
+      "personId": 12209,
+      "character": "Nini Legs in the Air",
+      "order": 9
+    },
+    {
+      "personId": 548125,
+      "character": "Arabia",
+      "order": 10
+    },
+    {
+      "personId": 57575,
+      "character": "China Doll",
+      "order": 11
+    },
+    {
+      "personId": 953445,
+      "character": "Môme Fromage",
+      "order": 12
+    },
+    {
+      "personId": 1371,
+      "character": "Audrey",
+      "order": 13
+    },
+    {
+      "personId": 12207,
+      "character": "The Green Fairy",
+      "order": 14
+    },
+    {
+      "personId": 12208,
+      "character": "Voice of the Green Fairy",
+      "order": 15
+    },
+    {
+      "personId": 58758,
+      "character": "Le Chocolat",
+      "order": 16
+    },
+    {
+      "personId": 75258,
+      "character": "Warner",
+      "order": 17
+    },
+    {
+      "personId": 1280478,
+      "character": "Le Petomane",
+      "order": 18
+    },
+    {
+      "personId": 127137,
+      "character": "Stage Manager",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2,
+    "golden-globe": 1
+  },
+  "voteCount": 4986,
+  "sources": [
+    "cult-list"
+  ]
+}

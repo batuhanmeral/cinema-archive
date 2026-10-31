@@ -1,0 +1,185 @@
+{
+  "tmdbId": 11686,
+  "slug": "love-and-death-1975",
+  "year": 1975,
+  "runtime": 85,
+  "originalTitle": "Love and Death",
+  "title": {
+    "en": "Love and Death",
+    "tr": "Aşk ve Ölüm"
+  },
+  "overview": {
+    "en": "In czarist Russia, a neurotic soldier and his distant cousin formulate a plot to assassinate Napoleon.",
+    "tr": "Napolyon, Çarlık Rusya’sını işgal etmek isterken, Boris Grushenko adlı korkak bir Rus ülkesini korumaya ve ülkesi icin savaşmaya zorlanır. Fransız ordusu, sayıca çok daha fazla ve daha güçlü olduğu için Rusya savaşı kaybeder. Napolyon artık Moskova’ya ulaşmıştır.  Boris, savaşmanın bile saçma olduğunu düşünürken, yeni evlendiği genç karısı tek çarelerinin Napolyon’u öldürmek olduğunu söyler.  Rusya’nın tarihini komik bir dille anlatan Woody Allen; aşk ve ölüm üzerine de derin bir felsefe yapıyor."
+  },
+  "poster": {
+    "tr": "/ro0BXccWnIQbFVJpIKYiMHnEvHR.jpg",
+    "en": "/oJXFd1UHZoOQ1UtoLxbyBLGJDox.jpg"
+  },
+  "backdrops": [
+    "/yfijaIsRRVQufRfZwJXa2WOsjPW.jpg",
+    "/anMnNQ6fTK6y0Y0HnC6UMMBo7HO.jpg",
+    "/pgtHrfRnVpOWbiGYFVoHM3E9rN.jpg",
+    "/y4PBsdGfrxXkhCmPFLL2mPakOVu.jpg",
+    "/sgUJHoJ6MWoMhFSle9jpQtw3qzt.jpg",
+    "/biBbi8YvpPyqfW562fAqEMwOUKA.jpg",
+    "/iNciQbp9sGcaMaDaZw25yyvi1Yt.jpg",
+    "/yM2TsYOpFb52fxYyKbTsjQavdrB.jpg",
+    "/kNgSdwMghPQ0K4Z2yKzxo97uqEf.jpg",
+    "/hVC4xBe3uZwIt1woM7XeQqR01t0.jpg"
+  ],
+  "trailerKey": "Nrf3X89aDhk",
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    4381,
+    12965,
+    13129,
+    33384,
+    185268,
+    207928,
+    236316
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "United Artists",
+    "Jack Rollins & Charles H. Joffe Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1243,
+      "job": "director"
+    },
+    {
+      "personId": 11988,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6993,
+      "job": "producer"
+    },
+    {
+      "personId": 1243,
+      "job": "writer"
+    },
+    {
+      "personId": 58024,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1243,
+      "character": "Boris Grushenko",
+      "order": 0
+    },
+    {
+      "personId": 3092,
+      "character": "Sonja",
+      "order": 1
+    },
+    {
+      "personId": 14833,
+      "character": "Anton Inbedkov",
+      "order": 2
+    },
+    {
+      "personId": 39491,
+      "character": "Countess Alexandrovna",
+      "order": 3
+    },
+    {
+      "personId": 974329,
+      "character": "Father",
+      "order": 4
+    },
+    {
+      "personId": 932751,
+      "character": "Mother",
+      "order": 5
+    },
+    {
+      "personId": 1178327,
+      "character": "Voskovec",
+      "order": 6
+    },
+    {
+      "personId": 69055,
+      "character": "Natasha",
+      "order": 7
+    },
+    {
+      "personId": 106678,
+      "character": "Don Francisco",
+      "order": 8
+    },
+    {
+      "personId": 90170,
+      "character": "Young Boris",
+      "order": 9
+    },
+    {
+      "personId": 70257,
+      "character": "Old Nehamkin",
+      "order": 10
+    },
+    {
+      "personId": 1042,
+      "character": "Drill Sergeant",
+      "order": 11
+    },
+    {
+      "personId": 114346,
+      "character": "Priest",
+      "order": 12
+    },
+    {
+      "personId": 20285,
+      "character": "Mikhail",
+      "order": 13
+    },
+    {
+      "personId": 536137,
+      "character": "Waiter",
+      "order": 14
+    },
+    {
+      "personId": 39334,
+      "character": "Rimsky",
+      "order": 15
+    },
+    {
+      "personId": 578501,
+      "character": "General Lecoq",
+      "order": 16
+    },
+    {
+      "personId": 1326983,
+      "character": "Woman Hygiene Class",
+      "order": 17
+    },
+    {
+      "personId": 54405,
+      "character": "Doctor",
+      "order": 18
+    },
+    {
+      "personId": 35591,
+      "character": "Andre",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 995,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "tmdbId": 661,
+  "slug": "the-marriage-of-maria-braun-1979",
+  "year": 1979,
+  "runtime": 120,
+  "originalTitle": "Die Ehe der Maria Braun",
+  "title": {
+    "en": "The Marriage of Maria Braun",
+    "tr": "Maria Braun'un Evliliği"
+  },
+  "overview": {
+    "en": "Maria marries a young soldier in the last days of World War II, only for him to go missing in the war. She must rely on her beauty and ambition to navigate the difficult post-war years alone.",
+    "tr": "Fassbinder'in İkinci Dünya Savaşı sonrası kadınlarını işlediği trilojinin ilk filmi (diğerleri Veronika Voss ve Lola). Bu filmle Fassbinder'in ünü Almanya'da ve diğer ülkelerde daha da pekişti. Açılış sahnesinde, Müttefiklerin bombalarıyla yıkılan bir Alman kentinde, Maria ve asker nişanlısı Hermann Braun evlenmektedirler. Yeni evli asker hemen Rus cephesine gönderilir. Maria geride annesi ve kız kardeşiyle yoksulluğun içinde kalır. Kocasından haber beklemekte, her gün ondan gelebilecek haberleri öğrenmek için tren istasyonuna gitmektedir. Bir gün kocasının öldüğü haberini alır ve Amerikan askerlerine hizmet eden bir barda garson olarak çalışmaya başlar. Orada iri yarı siyah asker Bill'le tanışır ve çok az konuşabilmelerine karşın sevgili olurlar. Tam da kocasını unutmak üzereyken, aç ve hadım edilmiş Hermann çıkagelir."
+  },
+  "poster": {
+    "tr": "/tXjZEzlf4WQwZ4Dt53gXeJVuO7p.jpg",
+    "en": "/tXjZEzlf4WQwZ4Dt53gXeJVuO7p.jpg"
+  },
+  "backdrops": [
+    "/1m6HgWcERz3vUcNZ1FojA2q7Yiv.jpg",
+    "/6bPz77XsAB6VamQyFzwJhzd16B.jpg",
+    "/ejp6CZQ64mEvewfit2fSIpOYxGR.jpg",
+    "/sTgN0nsejc6vs4iJqEbWcFVUTzp.jpg",
+    "/7oJJkvJsxcicBVxTSCo0ZfVO2nK.jpg",
+    "/di8cfRGCeE1zIZm6zb2SvEHZKjI.jpg",
+    "/gB0xT5nq7NO2K5ed1IaK4ek7ycC.jpg",
+    "/32BzDCaMqBozldRzx043uycXs4p.jpg",
+    "/9MrBCqGfYkNyPRwb10lM6ufqXav.jpg",
+    "/i5gTKFSoou1Qi4l2aq77awAAsDu.jpg"
+  ],
+  "trailerKey": "pQGznARA69s",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    2660,
+    2449,
+    2386,
+    1956,
+    6038,
+    3310,
+    3311,
+    207883,
+    209966
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "fr",
+    "de",
+    "en"
+  ],
+  "studios": [
+    "Albatros Filmproduktion",
+    "Fengler Films",
+    "Filmverlag der Autoren"
+  ],
+  "crew": [
+    {
+      "personId": 3769,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2725,
+      "job": "director"
+    },
+    {
+      "personId": 9934,
+      "job": "writer"
+    },
+    {
+      "personId": 9933,
+      "job": "writer"
+    },
+    {
+      "personId": 9936,
+      "job": "producer"
+    },
+    {
+      "personId": 1023152,
+      "job": "producer"
+    },
+    {
+      "personId": 3767,
+      "job": "composer"
+    },
+    {
+      "personId": 1121613,
+      "job": "producer"
+    },
+    {
+      "personId": 9935,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3734,
+      "character": "Maria Braun",
+      "order": 0
+    },
+    {
+      "personId": 9927,
+      "character": "Hermann Braun",
+      "order": 1
+    },
+    {
+      "personId": 9928,
+      "character": "Karl Oswald",
+      "order": 2
+    },
+    {
+      "personId": 9929,
+      "character": "Bill",
+      "order": 3
+    },
+    {
+      "personId": 9930,
+      "character": "Mother",
+      "order": 4
+    },
+    {
+      "personId": 9931,
+      "character": "Betti Klenze",
+      "order": 5
+    },
+    {
+      "personId": 3757,
+      "character": "Willi Klenze",
+      "order": 6
+    },
+    {
+      "personId": 1865,
+      "character": "Senkenberg",
+      "order": 7
+    },
+    {
+      "personId": 9932,
+      "character": "Hans Wetzel",
+      "order": 8
+    },
+    {
+      "personId": 2740,
+      "character": "Frau Ehmke",
+      "order": 9
+    },
+    {
+      "personId": 3769,
+      "character": "Counsel",
+      "order": 10
+    },
+    {
+      "personId": 2725,
+      "character": "Peddler",
+      "order": 11
+    },
+    {
+      "personId": 32863,
+      "character": "American on Train",
+      "order": 12
+    },
+    {
+      "personId": 38140,
+      "character": "Doctor",
+      "order": 13
+    },
+    {
+      "personId": 2733240,
+      "character": "Grandpa Berger",
+      "order": 14
+    },
+    {
+      "personId": 49263,
+      "character": "Red Cross Nurse",
+      "order": 15
+    },
+    {
+      "personId": 32422,
+      "character": "Train Conductor",
+      "order": 16
+    },
+    {
+      "personId": 37345,
+      "character": "Vevi",
+      "order": 17
+    },
+    {
+      "personId": 51014,
+      "character": "American at Conference",
+      "order": 18
+    },
+    {
+      "personId": 3755,
+      "character": "Prosecuting Counsel",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 314,
+  "sources": [
+    "cult-list"
+  ]
+}

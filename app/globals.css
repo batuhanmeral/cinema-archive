@@ -1,0 +1,61 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-hall: #1b1a18;
+  --color-text: #ece8e1;
+  --color-muted: #a8a299;
+  --color-line: #34322e;
+  --color-accent: #e2a63b;
+  --color-surface: rgba(236, 232, 225, 0.06);
+  --color-arrow: rgba(236, 232, 225, 0.45);
+
+  --font-display: var(--font-big-shoulders), sans-serif;
+  /* Big Shoulders'ın Display kesimi (en büyük optik boyut). */
+  --font-display--font-variation-settings: 'opsz' 72;
+  --font-body: var(--font-schibsted-grotesk), sans-serif;
+
+  --section-gap: 80px;
+  --wrap: 1200px;
+  --side: 48px;
+}
+
+:root {
+  /* Beyaz afiş alanı 128'e iner, %72 hall örtüsüyle zemin ≈ #373735 olur:
+     muted 4.74:1, accent 5.57:1 (WCAG AA ≥ 4.5). */
+  --hero-poster-brightness: 0.5;
+}
+
+@media (width < 768px) {
+  :root {
+    --section-gap: 56px;
+    --side: 16px;
+  }
+}
+
+/* İçerik en fazla --wrap genişliğinde ortalanır; öğenin kendisi (kenarlık, zemin) tam genişlikte kalır. */
+@utility wrap {
+  padding-inline: max(var(--side), calc((100% - var(--wrap)) / 2));
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+
+    *,
+    *::before,
+    *::after {
+      transition: none !important;
+    }
+  }
+}

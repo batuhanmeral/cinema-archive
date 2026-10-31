@@ -1,0 +1,183 @@
+{
+  "tmdbId": 3582,
+  "slug": "the-millionairess-1960",
+  "year": 1960,
+  "runtime": 89,
+  "originalTitle": "The Millionairess",
+  "title": {
+    "en": "The Millionairess",
+    "tr": "The Millionairess"
+  },
+  "overview": {
+    "en": "When her father dies, Epifania Parerga, an Italian in London, becomes the world's richest woman. She feels incomplete without a husband and falls in love with a humble, Indian physician, Ahmed el Kabir, much loved by his indigent English patients.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/byMubSKFewDCU2dxyPFbINBDnV.jpg",
+    "en": "/qYxLsOBXtEk4Hx0jAxpBulOx0qk.jpg"
+  },
+  "backdrops": [
+    "/lzDsUFQ4fmZCkuJMk7cVSREnWUm.jpg",
+    "/uhI5pNeFZV4atIIbKck7MEQamG2.jpg",
+    "/8NiLVGzYHhKRhtcGXIKvVQu3Me2.jpg",
+    "/rvvhSZpqPuIDq90XLm6Cw2LDZ5T.jpg",
+    "/oIHqbXqmrxjRskH41aao57XJxVN.jpg",
+    "/wCSgJEqJHyLOnDUVU2Imfnsznce.jpg",
+    "/2fnVRph38ylYxq3mA938IrdcNrs.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    2866,
+    10181,
+    13005,
+    13027,
+    33626
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Dimitri De Grunwald Production"
+  ],
+  "crew": [
+    {
+      "personId": 12262,
+      "job": "composer"
+    },
+    {
+      "personId": 29663,
+      "job": "writer"
+    },
+    {
+      "personId": 12242,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 32919,
+      "job": "director"
+    },
+    {
+      "personId": 33086,
+      "job": "writer"
+    },
+    {
+      "personId": 15192,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16757,
+      "character": "Epifania Parerga",
+      "order": 0
+    },
+    {
+      "personId": 12446,
+      "character": "Dr. Kabir",
+      "order": 1
+    },
+    {
+      "personId": 12329,
+      "character": "Joe",
+      "order": 2
+    },
+    {
+      "personId": 20394,
+      "character": "Sagamore",
+      "order": 3
+    },
+    {
+      "personId": 30766,
+      "character": "Adrian",
+      "order": 4
+    },
+    {
+      "personId": 24819,
+      "character": "Alastair",
+      "order": 5
+    },
+    {
+      "personId": 2274,
+      "character": "Mrs. Joe",
+      "order": 6
+    },
+    {
+      "personId": 33090,
+      "character": "Professor Merton",
+      "order": 7
+    },
+    {
+      "personId": 33091,
+      "character": "Polly Smith",
+      "order": 8
+    },
+    {
+      "personId": 33092,
+      "character": "Mrs. Willoughby",
+      "order": 9
+    },
+    {
+      "personId": 33093,
+      "character": "Muriel Pilkington",
+      "order": 10
+    },
+    {
+      "personId": 30119,
+      "character": "Fish Curer",
+      "order": 11
+    },
+    {
+      "personId": 14107,
+      "character": "Butler",
+      "order": 12
+    },
+    {
+      "personId": 94370,
+      "character": "Nurse",
+      "order": 13
+    },
+    {
+      "personId": 1213672,
+      "character": "President",
+      "order": 14
+    },
+    {
+      "personId": 1220990,
+      "character": "First Secretary",
+      "order": 15
+    },
+    {
+      "personId": 185033,
+      "character": "Second Secretary",
+      "order": 16
+    },
+    {
+      "personId": 1874465,
+      "character": "Gloria",
+      "order": 17
+    },
+    {
+      "personId": 554381,
+      "character": "Whelk Seller",
+      "order": 18
+    },
+    {
+      "personId": 161995,
+      "character": "Corelli",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 43,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "tmdbId": 11454,
+  "slug": "manhunter-1986",
+  "year": 1986,
+  "runtime": 120,
+  "originalTitle": "Manhunter",
+  "title": {
+    "en": "Manhunter",
+    "tr": "Tuzak"
+  },
+  "overview": {
+    "en": "FBI Agent Will Graham, retired after catching notorious cannibal Hannibal Lecter, returns to duty to engage in a risky cat-and-mouse game with Lecter to capture a new killer.",
+    "tr": "Will Graham özel bir vazifelendirmeyle tekrar eski işine geri dönmek durumunda kalmıştır. Kendisi emekli olmuş bir gizli ajandır. Daha önce FBI için hizmetlerde bulunmuş, emekli olmuş, lakin şimdi amansız bir seri katili enselemek için tekrar iş başı yapmıştır. Will Graham, psikopat düşünce tarzını çözme konusundaki yeteneğine ek olarak, daha önce yakaladığı ünlü katil Dr. Hannibal Lecter’ın da yardımıyla Kızıl Ejder olarak bilinen korkunç caninin peşine düşer. Thomas Harris’in Kızıl Ejder adlı kitabından Michael Mann tarafından sinemaya uyarlanan yapım, Hannibal Lecter efsanesinin gençlik dönemini de kapsamaktadır. 1986 yapımı bir suç filmi olan Manhunter'da yönetmenlik koltuğunda Michael Mann oturmakta. Heyecanlı br polisiye."
+  },
+  "poster": {
+    "tr": "/83xZcTDKxrJDkkqHL2NppCf4VnL.jpg",
+    "en": "/6rb24x39vV8n5301IelC8rCPJTH.jpg"
+  },
+  "backdrops": [
+    "/gVea1zAiUXQVqoENW1QkmAS1C6X.jpg",
+    "/cdFcxQIS1kHHxy5jAGHclNVFddB.jpg",
+    "/j9hw6ywA7WDEOxFXKlXEW8eHEL7.jpg",
+    "/qrqzFs8MURQSoFEEO87aVjzAM2f.jpg",
+    "/qBD7UcoXsfvTHPQn3hsrTXf4Swv.jpg",
+    "/kddyrhXQ9xMGMxzIv8nMEwjN9Yv.jpg",
+    "/19Vl3hmZuzoWSRYK2AYbt1af9hy.jpg",
+    "/3dfooiq8CGSWYXDhHwQ5H5QqM0W.jpg",
+    "/xmWBhzDODSmYKON4HMmB0UyQknc.jpg",
+    "/6lRbXOeozp01qCDIdt9AHbkAUBX.jpg"
+  ],
+  "trailerKey": "fywNBuzD2SU",
+  "genreIds": [
+    80,
+    27,
+    53
+  ],
+  "keywordIds": [
+    736,
+    818,
+    697,
+    6259,
+    1812,
+    5340,
+    3877,
+    4550,
+    6158,
+    4484,
+    10714,
+    11727,
+    12565,
+    14707,
+    177185,
+    201028,
+    207268,
+    208289,
+    237632,
+    254921,
+    295907,
+    305691,
+    321464,
+    328708,
+    355372,
+    371027
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "DEG",
+    "Red Dragon Productions S.A."
+  ],
+  "crew": [
+    {
+      "personId": 638,
+      "job": "director"
+    },
+    {
+      "personId": 11099,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 638,
+      "job": "writer"
+    },
+    {
+      "personId": 11790,
+      "job": "producer"
+    },
+    {
+      "personId": 70381,
+      "job": "composer"
+    },
+    {
+      "personId": 5380152,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 52267,
+      "character": "Will Graham",
+      "order": 0
+    },
+    {
+      "personId": 119232,
+      "character": "Francis Dollarhyde",
+      "order": 1
+    },
+    {
+      "personId": 1117,
+      "character": "Jack Crawford",
+      "order": 2
+    },
+    {
+      "personId": 1248,
+      "character": "Dr. Hannibal Lecktor",
+      "order": 3
+    },
+    {
+      "personId": 387,
+      "character": "Molly Graham",
+      "order": 4
+    },
+    {
+      "personId": 11148,
+      "character": "Reba McClane",
+      "order": 5
+    },
+    {
+      "personId": 32747,
+      "character": "Freddy Lounds",
+      "order": 6
+    },
+    {
+      "personId": 137183,
+      "character": "Kevin Graham",
+      "order": 7
+    },
+    {
+      "personId": 128428,
+      "character": "Dr. Frederick Chilton",
+      "order": 8
+    },
+    {
+      "personId": 1534,
+      "character": "Zeller",
+      "order": 9
+    },
+    {
+      "personId": 16557,
+      "character": "Geehan",
+      "order": 10
+    },
+    {
+      "personId": 76470,
+      "character": "Jimmy Price",
+      "order": 11
+    },
+    {
+      "personId": 17933,
+      "character": "Dr. Sidney Bloom",
+      "order": 12
+    },
+    {
+      "personId": 4161,
+      "character": "Mrs. Sherman",
+      "order": 13
+    },
+    {
+      "personId": 1217685,
+      "character": "Eileen",
+      "order": 14
+    },
+    {
+      "personId": 13936,
+      "character": "Lt. Fisk",
+      "order": 15
+    },
+    {
+      "personId": 31647,
+      "character": "Young Housebuyer",
+      "order": 16
+    },
+    {
+      "personId": 1178981,
+      "character": "Mother on Plane",
+      "order": 17
+    },
+    {
+      "personId": 55435,
+      "character": "Mr. Leeds",
+      "order": 18
+    },
+    {
+      "personId": 70422,
+      "character": "Mr. Sherman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1633,
+  "sources": [
+    "cult-list"
+  ]
+}

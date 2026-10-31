@@ -1,0 +1,185 @@
+{
+  "tmdbId": 54380,
+  "slug": "april-captains-2000",
+  "year": 2000,
+  "runtime": 123,
+  "originalTitle": "Capitães de Abril",
+  "title": {
+    "en": "April Captains",
+    "tr": "Capitães de Abril"
+  },
+  "overview": {
+    "en": "Story of the 1974 coup that overthrew the right-wing Portuguese dictatorship--which continued the fascist policies of long-time dictator Antonio Salazar--and of two young army captains who were involved in it.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wNA8cPdwJRqr1O0iDNfMB6wmrHx.jpg",
+    "en": "/wNA8cPdwJRqr1O0iDNfMB6wmrHx.jpg"
+  },
+  "backdrops": [
+    "/f1zyLJqdRXElbyM9tBRiN2mYgQW.jpg",
+    "/lYEJdG1owPlXY5ty1UkgBpDjCIy.jpg",
+    "/vloRX9TveaDPTLAoIw5cs90OhVO.jpg",
+    "/2JrnysPYAHLwNf0SzhSa69Qfthi.jpg",
+    "/omERWr71SwkDkgYDrDfP0w81RVB.jpg"
+  ],
+  "trailerKey": "O2MJxj06kho",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    324,
+    1773,
+    7606,
+    187056,
+    194320
+  ],
+  "countries": [
+    "PT",
+    "ES",
+    "IT",
+    "FR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Alia Films",
+    "France 2 Cinéma",
+    "JBA Production"
+  ],
+  "crew": [
+    {
+      "personId": 150498,
+      "job": "writer"
+    },
+    {
+      "personId": 2319,
+      "job": "director"
+    },
+    {
+      "personId": 2319,
+      "job": "writer"
+    },
+    {
+      "personId": 55774,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 240087,
+      "job": "producer"
+    },
+    {
+      "personId": 1724471,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 65571,
+      "character": "Maia",
+      "order": 0
+    },
+    {
+      "personId": 2319,
+      "character": "Antónia",
+      "order": 1
+    },
+    {
+      "personId": 22462,
+      "character": "Gervásio",
+      "order": 2
+    },
+    {
+      "personId": 9005,
+      "character": "Manuel",
+      "order": 3
+    },
+    {
+      "personId": 1602,
+      "character": "Lobão",
+      "order": 4
+    },
+    {
+      "personId": 150499,
+      "character": "Fonseca",
+      "order": 5
+    },
+    {
+      "personId": 150500,
+      "character": "Silva",
+      "order": 6
+    },
+    {
+      "personId": 38882,
+      "character": "Botelho",
+      "order": 7
+    },
+    {
+      "personId": 150502,
+      "character": "Rosa",
+      "order": 8
+    },
+    {
+      "personId": 150504,
+      "character": "Daniel",
+      "order": 9
+    },
+    {
+      "personId": 150505,
+      "character": "Fernandes",
+      "order": 10
+    },
+    {
+      "personId": 264955,
+      "character": "Gabriel",
+      "order": 11
+    },
+    {
+      "personId": 234486,
+      "character": "Brigadeiro Pais",
+      "order": 12
+    },
+    {
+      "personId": 1038590,
+      "character": "Filipe",
+      "order": 13
+    },
+    {
+      "personId": 233943,
+      "character": "Salieri",
+      "order": 14
+    },
+    {
+      "personId": 628253,
+      "character": "Rui Gama",
+      "order": 15
+    },
+    {
+      "personId": 249397,
+      "character": "Emílio",
+      "order": 16
+    },
+    {
+      "personId": 1019089,
+      "character": "Radio speaker",
+      "order": 17
+    },
+    {
+      "personId": 1148205,
+      "character": "Paulo Ruivo",
+      "order": 18
+    },
+    {
+      "personId": 930771,
+      "character": "Chamarro",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 66,
+  "sources": [
+    "cult-list"
+  ]
+}

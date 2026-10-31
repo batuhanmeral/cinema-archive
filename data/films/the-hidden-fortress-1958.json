@@ -1,0 +1,203 @@
+{
+  "tmdbId": 1059,
+  "slug": "the-hidden-fortress-1958",
+  "year": 1958,
+  "runtime": 139,
+  "originalTitle": "隠し砦の三悪人",
+  "title": {
+    "en": "The Hidden Fortress",
+    "tr": "Saklı Kale"
+  },
+  "overview": {
+    "en": "In feudal Japan, during a bloody war between clans, two cowardly and greedy peasants, soldiers of a defeated army, stumble upon a mysterious man who guides them to a fortress hidden in the mountains.",
+    "tr": "Feodal Japonya'da, klanlar arasındaki kanlı bir savaş sırasında, yenilmiş bir ordunun askerleri olan iki korkak ve açgözlü köylü, onları dağlarda saklı bir kaleye götüren gizemli bir adama rastlar."
+  },
+  "poster": {
+    "tr": "/uQHej0cFJHwSuaENizIZpYtsuNa.jpg",
+    "en": "/ccGA4zIC6EAsFWUlCqaFEcznWA2.jpg"
+  },
+  "backdrops": [
+    "/r2gQnxZGwMMy9YgY6ZpKyz4yuAT.jpg",
+    "/aYD6bR1xs9OAK3lA5WHbvIX2gMN.jpg",
+    "/VCebm5PHUChrD0ve24O1dThnxU.jpg",
+    "/hJ7eoUMKjLL1E73cqwFxWUQaW30.jpg",
+    "/fb6j7etcirnYSnYh0IGbOl49N9n.jpg",
+    "/96LA50Li3Yr9XxSWF0xRQuPTZfp.jpg",
+    "/hBpmCiwoCxcHAhrxAVp4v2iHqEy.jpg",
+    "/17iK7rroWgzwS8fz0pwBHMvfp1H.jpg",
+    "/zWuIZGP0cTXAFL2UlzgWlNDYX98.jpg",
+    "/5Z5BYtQ3rQBE9hRTOgyvThYXGy6.jpg"
+  ],
+  "trailerKey": "63c8g9j1uKs",
+  "genreIds": [
+    18,
+    28,
+    12
+  ],
+  "keywordIds": [
+    233,
+    3230,
+    6420,
+    186753,
+    194424,
+    198754,
+    208244,
+    259338
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "TOHO"
+  ],
+  "crew": [
+    {
+      "personId": 15216,
+      "job": "producer"
+    },
+    {
+      "personId": 5026,
+      "job": "writer"
+    },
+    {
+      "personId": 5026,
+      "job": "producer"
+    },
+    {
+      "personId": 18609,
+      "job": "composer"
+    },
+    {
+      "personId": 5026,
+      "job": "director"
+    },
+    {
+      "personId": 69336,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7449,
+      "job": "writer"
+    },
+    {
+      "personId": 20827,
+      "job": "writer"
+    },
+    {
+      "personId": 34373,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7450,
+      "character": "General Rokurota Makabe",
+      "order": 0
+    },
+    {
+      "personId": 7454,
+      "character": "Tahei",
+      "order": 1
+    },
+    {
+      "personId": 96552,
+      "character": "Matashichi",
+      "order": 2
+    },
+    {
+      "personId": 69335,
+      "character": "Princess Yuki",
+      "order": 3
+    },
+    {
+      "personId": 30907,
+      "character": "General Hyoe Tadokoro",
+      "order": 4
+    },
+    {
+      "personId": 7453,
+      "character": "General Izumi Nagakura",
+      "order": 5
+    },
+    {
+      "personId": 97204,
+      "character": "Gambler (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 96804,
+      "character": "Guard (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 552168,
+      "character": "Guard (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 144797,
+      "character": "Guard (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 134320,
+      "character": "Guard (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 552176,
+      "character": "Horseman (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 552184,
+      "character": "Horseman (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 552183,
+      "character": "Horseman (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 552175,
+      "character": "Horseman (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 552177,
+      "character": "Horseman (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 552174,
+      "character": "Horseman (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 17540,
+      "character": "Horseman (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 106160,
+      "character": "Maid (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 134406,
+      "character": "Magistrate (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "berlin": 1
+  },
+  "voteCount": 750,
+  "sources": [
+    "cult-list"
+  ]
+}

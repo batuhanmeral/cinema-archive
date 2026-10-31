@@ -1,0 +1,197 @@
+{
+  "tmdbId": 33247,
+  "slug": "the-living-end-1992",
+  "year": 1992,
+  "runtime": 85,
+  "originalTitle": "The Living End",
+  "title": {
+    "en": "The Living End",
+    "tr": "The Living End"
+  },
+  "overview": {
+    "en": "Two HIV-positive young men — a semi-employed film critic and a hot hustler — tear off on a cross-country crime spree.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4tqdQcKkZGn4qQy9bWWu1fEM6z2.jpg",
+    "en": "/4tqdQcKkZGn4qQy9bWWu1fEM6z2.jpg"
+  },
+  "backdrops": [
+    "/nOp18grQpkqYyzWiOQ8rnz7KuM.jpg",
+    "/5x7oNRmIyYiTcmaXfHUBajZf2jy.jpg",
+    "/83GMEpEv8XCQHtLZtDv9nrQvS3M.jpg",
+    "/bQKLPqGrGaFquhq2mBlZuL79T3z.jpg",
+    "/pxrf8CrKG1hxcfRjN9ZjlMf17ia.jpg",
+    "/xY2nwXrlKKxK1RcMhO3JDW0k6De.jpg",
+    "/74sWHwcRlpWqND1MzodpOgincfG.jpg",
+    "/AeR3uBeCjBFm0PbK83Q8elzGzQe.jpg",
+    "/xDZlyR1UYBPHnSRvsoNqLqUBAuN.jpg",
+    "/2rUGk4g07bFPj5uINHceH5Rf9LE.jpg"
+  ],
+  "trailerKey": "7mvDLTMUtQQ",
+  "genreIds": [
+    80,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    387,
+    642,
+    740,
+    1541,
+    7312,
+    9766,
+    177695,
+    190178,
+    193223,
+    258533,
+    281237,
+    289844,
+    314187,
+    323690,
+    333766
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Desperate Pictures",
+    "Strand Releasing"
+  ],
+  "crew": [
+    {
+      "personId": 19224,
+      "job": "director"
+    },
+    {
+      "personId": 19224,
+      "job": "writer"
+    },
+    {
+      "personId": 2495548,
+      "job": "producer"
+    },
+    {
+      "personId": 19224,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2852982,
+      "job": "composer"
+    },
+    {
+      "personId": 2078952,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 110368,
+      "character": "Luke",
+      "order": 0
+    },
+    {
+      "personId": 110369,
+      "character": "Jon",
+      "order": 1
+    },
+    {
+      "personId": 1149335,
+      "character": "Doctor",
+      "order": 2
+    },
+    {
+      "personId": 100552,
+      "character": "Daisy",
+      "order": 3
+    },
+    {
+      "personId": 1149336,
+      "character": "Fern",
+      "order": 4
+    },
+    {
+      "personId": 1488878,
+      "character": "Darcy",
+      "order": 5
+    },
+    {
+      "personId": 2852966,
+      "character": "Peter",
+      "order": 6
+    },
+    {
+      "personId": 2852972,
+      "character": "Ken",
+      "order": 7
+    },
+    {
+      "personId": 2495533,
+      "character": "Barbie",
+      "order": 8
+    },
+    {
+      "personId": 1531284,
+      "character": "7-11 Couple",
+      "order": 9
+    },
+    {
+      "personId": 2852979,
+      "character": "7-11 Couple",
+      "order": 10
+    },
+    {
+      "personId": 1709091,
+      "character": "Three Stooges",
+      "order": 11
+    },
+    {
+      "personId": 2495548,
+      "character": "Three Stooges",
+      "order": 12
+    },
+    {
+      "personId": 3471388,
+      "character": "Three Stooges",
+      "order": 13
+    },
+    {
+      "personId": 2507318,
+      "character": "Melrose NeoNazi",
+      "order": 14
+    },
+    {
+      "personId": 3589139,
+      "character": "Tarzan",
+      "order": 15
+    },
+    {
+      "personId": 3589140,
+      "character": "Jane",
+      "order": 16
+    },
+    {
+      "personId": 3589141,
+      "character": "Gus",
+      "order": 17
+    },
+    {
+      "personId": 3589145,
+      "character": "Ralphs Couple",
+      "order": 18
+    },
+    {
+      "personId": 3589146,
+      "character": "Ralphs Couple",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 99,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "tmdbId": 46175,
+  "slug": "daughters-of-darkness-1971",
+  "year": 1971,
+  "runtime": 100,
+  "originalTitle": "Les Lèvres rouges",
+  "title": {
+    "en": "Daughters of Darkness",
+    "tr": "Les Lèvres rouges"
+  },
+  "overview": {
+    "en": "Ostend, Belgium. In a decadent seaside hotel, Stefan and Valerie, a newlywed couple, meet the mysterious Countess Báthory and Ilona, her secretary.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/w6669wTC2x3WtBveKEBv04y70fh.jpg",
+    "en": "/w6669wTC2x3WtBveKEBv04y70fh.jpg"
+  },
+  "backdrops": [
+    "/unIuV3x6bbaR9ur6EidZXjj6lTb.jpg",
+    "/6Qs8WslrpbtkGvuTFUQXmHPPYyk.jpg",
+    "/dbLDsbvW4LWVHIcoFCh9uYzdBZc.jpg",
+    "/acUn5vC7JVR76usb4Ioqn6dk5zJ.jpg",
+    "/kKJe5Jh50BjSQYa6UCksnzKulfp.jpg",
+    "/9azOLct32X7Xm8m81lWzIxizQkv.jpg",
+    "/m7DUB6286kin9rQPqW1kFfHJpO1.jpg",
+    "/r1K7afbC9DZvpI1dAqZIQn5MnVZ.jpg",
+    "/feMgXSnbGkChY3wXdh7K1JFE5u1.jpg",
+    "/6YKcKXzCQezg7ECceeeUeOH4Wvb.jpg"
+  ],
+  "trailerKey": "nlWScevOsVo",
+  "genreIds": [
+    18,
+    27,
+    53
+  ],
+  "keywordIds": [
+    1157,
+    3133,
+    6373,
+    6546,
+    9833,
+    156578,
+    241662,
+    272742,
+    305462
+  ],
+  "countries": [
+    "BE",
+    "FR",
+    "DE"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Showking Films",
+    "Maya Films",
+    "Ciné Vog Films"
+  ],
+  "crew": [
+    {
+      "personId": 24775,
+      "job": "composer"
+    },
+    {
+      "personId": 1204810,
+      "job": "producer"
+    },
+    {
+      "personId": 135335,
+      "job": "director"
+    },
+    {
+      "personId": 69217,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1204811,
+      "job": "producer"
+    },
+    {
+      "personId": 136013,
+      "job": "writer"
+    },
+    {
+      "personId": 36482,
+      "job": "writer"
+    },
+    {
+      "personId": 135335,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3508,
+      "character": "Countess Elizabeth Báthory",
+      "order": 0
+    },
+    {
+      "personId": 30048,
+      "character": "Stefan Chilton",
+      "order": 1
+    },
+    {
+      "personId": 135336,
+      "character": "Valerie Chilton",
+      "order": 2
+    },
+    {
+      "personId": 39091,
+      "character": "Ilona Harczy",
+      "order": 3
+    },
+    {
+      "personId": 26528,
+      "character": "Hotel Concierge Pierre",
+      "order": 4
+    },
+    {
+      "personId": 135337,
+      "character": "Man",
+      "order": 5
+    },
+    {
+      "personId": 135338,
+      "character": "Butler",
+      "order": 6
+    },
+    {
+      "personId": 27866,
+      "character": "Mother",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 229,
+  "sources": [
+    "cult-list"
+  ]
+}

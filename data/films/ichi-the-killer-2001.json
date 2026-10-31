@@ -1,0 +1,206 @@
+{
+  "tmdbId": 9696,
+  "slug": "ichi-the-killer-2001",
+  "year": 2001,
+  "runtime": 129,
+  "originalTitle": "殺し屋1",
+  "title": {
+    "en": "Ichi the Killer",
+    "tr": "Katil Ichi"
+  },
+  "overview": {
+    "en": "As sadomasochistic yakuza enforcer Kakihara searches for his missing boss he comes across Ichi, a repressed and psychotic killer who may be able to inflict levels of pain that Kakihara has only dreamed of.",
+    "tr": "Şiddetin bir erdem olarak ve ahlaki çöküntünün ise bir yaşam tarzı olarak benimsendiği dünyaya hoşgeldiniz...Shinjukunun yer altı dünyası ve aynı zamanda sadist bir yakuza tetikçisi olan Kakiharanın şehrinde meydana gelen olaylar nefesinizi kesecek. Kakihara patronunu öldüren kişiyi bulmak üzere durmaksızın yer altı dünyasının altını üstüne getirir.Meydana gelen olayların arkasındaki beyin ise Japon çetelerini birbirine düşürmeyi başarmış olan eski bir polis olan Jijiden başkası değildir.Elindeki en büyük kozu ise uçurumun eşiğindeki ruhsal bozukluğu had safhada olan bir kaçıktır.Söz konusu deli adam, katil Ichiden başkası değildir ve katil Ichi ile Kakihara arasında gelişen olaylar kısa sürede caddeleri kan gölüne çevirir."
+  },
+  "poster": {
+    "tr": "/k8j4YLZlda98dqp9ErymKzjYowG.jpg",
+    "en": "/k8j4YLZlda98dqp9ErymKzjYowG.jpg"
+  },
+  "backdrops": [
+    "/aw0EeseSr10dVUuY6Aiv6HhP8UW.jpg",
+    "/un66GZUrJERTue20sgQI4hXMLfh.jpg",
+    "/a8mffMhUETBHwAqdBf0YsGOxJDq.jpg",
+    "/j3P5wkyiigZW8aeogoZoiNIZySL.jpg",
+    "/5vmiADzUHeiUgAM2B3Qmld8D302.jpg",
+    "/h9AKMQSMyf215nigGr7FvXr197C.jpg",
+    "/r3OLTNMypfJFTILaBSO751OKCX8.jpg",
+    "/eZBhuPp56MMXlSwhQLeGBV0GZTU.jpg",
+    "/wQ3nh33EN0uXJtPjNL4SP5kVEX7.jpg",
+    "/mOcOCMVMNOYBz6CHSDIAfvHbjJ5.jpg"
+  ],
+  "trailerKey": "YWnd581Ihgo",
+  "genreIds": [
+    28,
+    80,
+    27
+  ],
+  "keywordIds": [
+    782,
+    4424,
+    1794,
+    10292,
+    7089,
+    5927,
+    6670,
+    13141,
+    14964,
+    15011,
+    15016,
+    40884,
+    157707,
+    157714,
+    157716,
+    236316,
+    310811,
+    325778,
+    325809,
+    325829,
+    371027
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "en",
+    "ja",
+    "cn"
+  ],
+  "studios": [
+    "Omega Project",
+    "Omega Micott",
+    "Excell Film Agentur"
+  ],
+  "crew": [
+    {
+      "personId": 17282,
+      "job": "director"
+    },
+    {
+      "personId": 545764,
+      "job": "composer"
+    },
+    {
+      "personId": 138862,
+      "job": "producer"
+    },
+    {
+      "personId": 976707,
+      "job": "producer"
+    },
+    {
+      "personId": 58616,
+      "job": "writer"
+    },
+    {
+      "personId": 135383,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13275,
+      "character": "Kakihara",
+      "order": 0
+    },
+    {
+      "personId": 58604,
+      "character": "Ichi",
+      "order": 1
+    },
+    {
+      "personId": 58608,
+      "character": "Jijii",
+      "order": 2
+    },
+    {
+      "personId": 58614,
+      "character": "Kaneko",
+      "order": 3
+    },
+    {
+      "personId": 12470,
+      "character": "Karen",
+      "order": 4
+    },
+    {
+      "personId": 4990,
+      "character": "Suzuki",
+      "order": 5
+    },
+    {
+      "personId": 9193,
+      "character": "Takayama",
+      "order": 6
+    },
+    {
+      "personId": 58609,
+      "character": "Fujiwara",
+      "order": 7
+    },
+    {
+      "personId": 58610,
+      "character": "Nakazawa",
+      "order": 8
+    },
+    {
+      "personId": 58611,
+      "character": "Ryu Long",
+      "order": 9
+    },
+    {
+      "personId": 58612,
+      "character": "Inoue",
+      "order": 10
+    },
+    {
+      "personId": 58613,
+      "character": "Jirô / Saburô",
+      "order": 11
+    },
+    {
+      "personId": 2541,
+      "character": "Funaki",
+      "order": 12
+    },
+    {
+      "personId": 58615,
+      "character": "Coffee Shop Manager",
+      "order": 13
+    },
+    {
+      "personId": 52716,
+      "character": "Sailor's Lover",
+      "order": 14
+    },
+    {
+      "personId": 79458,
+      "character": "Man in Restaurant",
+      "order": 15
+    },
+    {
+      "personId": 545394,
+      "character": "Yakuza Girl",
+      "order": 16
+    },
+    {
+      "personId": 2504721,
+      "character": "Miyuki",
+      "order": 17
+    },
+    {
+      "personId": 58616,
+      "character": "Man Kicking Ichi",
+      "order": 18
+    },
+    {
+      "personId": 2504723,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1164,
+  "sources": [
+    "cult-list"
+  ]
+}

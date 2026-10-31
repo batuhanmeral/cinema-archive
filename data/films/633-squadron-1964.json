@@ -1,0 +1,178 @@
+{
+  "tmdbId": 15925,
+  "slug": "633-squadron-1964",
+  "year": 1964,
+  "runtime": 102,
+  "originalTitle": "633 Squadron",
+  "title": {
+    "en": "633 Squadron",
+    "tr": "633 Squadron"
+  },
+  "overview": {
+    "en": "When Norwegian resistance leader Lieutenant Erik Bergman reports the location of a German V-2 rocket fuel plant, the Royal Air Force's 633 Squadron is assigned the mission to destroy it. The plant is in a seemingly-impregnable location beneath an overhanging cliff at the end of a long, narrow fjord lined with anti-aircraft guns. The only way to destroy the plant is by collapsing the cliff on top of it.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/aqeM21nsUw2zRzEQJXY1xSh5jYR.jpg",
+    "en": "/21WgwBWo0HTuxRfrqJzmjSAk1eR.jpg"
+  },
+  "backdrops": [
+    "/4FQlTt2IbgbZQ6F8SNXS43qD2QC.jpg",
+    "/323sM1vSLIdMf8Irka9ih0So0eu.jpg",
+    "/womrZsKy6bYtkaVKwY7zL27diMh.jpg",
+    "/2x9xwLEST1CgNOsTXKj9pjkyQRs.jpg"
+  ],
+  "trailerKey": "JWlnFf9SCPQ",
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    1191,
+    158547,
+    248667
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Mirisch Company"
+  ],
+  "crew": [
+    {
+      "personId": 4508,
+      "job": "writer"
+    },
+    {
+      "personId": 101899,
+      "job": "director"
+    },
+    {
+      "personId": 46611,
+      "job": "writer"
+    },
+    {
+      "personId": 7752,
+      "job": "composer"
+    },
+    {
+      "personId": 224003,
+      "job": "producer"
+    },
+    {
+      "personId": 21783,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19153,
+      "character": "Wing Commander Roy Grant",
+      "order": 0
+    },
+    {
+      "personId": 24880,
+      "character": "Lieutenant Erik Bergman",
+      "order": 1
+    },
+    {
+      "personId": 32152,
+      "character": "Hilde Bergman",
+      "order": 2
+    },
+    {
+      "personId": 19463,
+      "character": "Air Vice-Marshal Davis",
+      "order": 3
+    },
+    {
+      "personId": 38358,
+      "character": "Group Captain Don Barrett",
+      "order": 4
+    },
+    {
+      "personId": 78940,
+      "character": "Squadron Leader Frank Adams",
+      "order": 5
+    },
+    {
+      "personId": 42841,
+      "character": "Flight Lieutenant Gillibrand",
+      "order": 6
+    },
+    {
+      "personId": 78941,
+      "character": "Flight Lieutenant Scott",
+      "order": 7
+    },
+    {
+      "personId": 78942,
+      "character": "Flying Officer Hoppy Hopkinson",
+      "order": 8
+    },
+    {
+      "personId": 78943,
+      "character": "Flying Officer Bissell",
+      "order": 9
+    },
+    {
+      "personId": 78945,
+      "character": "Flying Officer Evans",
+      "order": 10
+    },
+    {
+      "personId": 78946,
+      "character": "Rosie, barmaid at the Black Swan Inn",
+      "order": 11
+    },
+    {
+      "personId": 78397,
+      "character": "Lieutenant Nigel",
+      "order": 12
+    },
+    {
+      "personId": 78947,
+      "character": "Flight Lieutenant Singh",
+      "order": 13
+    },
+    {
+      "personId": 78948,
+      "character": "Flight Lieutenant Frank",
+      "order": 14
+    },
+    {
+      "personId": 78950,
+      "character": "Lieutenant Jones",
+      "order": 15
+    },
+    {
+      "personId": 81246,
+      "character": "WAAF Sergeant Mary Blake / Bissell",
+      "order": 16
+    },
+    {
+      "personId": 1238083,
+      "character": "SS Interrogator",
+      "order": 17
+    },
+    {
+      "personId": 1910962,
+      "character": "Lieutenant Maner (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1179990,
+      "character": "Ericson, Norwegian Resistance (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 80,
+  "sources": [
+    "cult-list"
+  ]
+}

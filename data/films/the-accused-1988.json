@@ -1,0 +1,204 @@
+{
+  "tmdbId": 10868,
+  "slug": "the-accused-1988",
+  "year": 1988,
+  "runtime": 111,
+  "originalTitle": "The Accused",
+  "title": {
+    "en": "The Accused",
+    "tr": "Sanık"
+  },
+  "overview": {
+    "en": "Out drinking one night after a fight with her boyfriend, three men brutally rape Sarah Tobias in a bar while people watch and cheer. District Attorney Kathryn Murphy takes the case; however, she allows the rapists to receive a mild sentence. A distraught Sarah decides to seek punishment for the men who witnessed and encouraged the rape. To get justice, Sarah must take the stand and revisit the night of her attack.",
+    "tr": "Sinemanın en aşağılayıcı tecavüz sahnelerinden birini içeren mahkeme draması. Erkeklerin tahrik sınırının tecavüz için hoşgörülür olabilme ölçüsünü ve tecavüzün boyutlarını sorgulayan bir davayı, bir gerçek yaşam öyküsünü Jodie Foster'in muhteşem oyunculuğu ile birleştirip Jodie'ye ilk oscarını kazandırmıştı. Erkek arkadaşı ile kavga ettikten ve biraz da içtikten sonra flörtiz bir havaya giren Sarah Tobias'ın bir barda, oyun masası üzerinde üç erkeğin tecavüzüne uğraması ve bardaki bütün erkeklerin olayı seyretmesi, tezahürat etmesi ve alkışlaması ertesinde yaşadıklarını Amerikan hukuk sistemine kabul ettirme uğraşını anlatır film. Çevresinde her zaman fazla dağınık olarak bilinen Sarah'nın hali, tavrı, davranışları, o akşam ne kadar irade sahibi olduğu mahkemede tartışılır; Sarah'nın gerçekten tecavüze uğrayıp uğramadığı, tahrik edici davranışları sorgulanır."
+  },
+  "poster": {
+    "tr": "/5DlWHYb5Q65GaHYHDo6PqGOuoF1.jpg",
+    "en": "/5DlWHYb5Q65GaHYHDo6PqGOuoF1.jpg"
+  },
+  "backdrops": [
+    "/l6RKD2IjmGvtauSvx1xs2UY6CqU.jpg",
+    "/2ZAvkBcNWlTuAyTUaWDbq3bb1aG.jpg",
+    "/zhGwOlaMnxspLNb87UDytOYZLLJ.jpg",
+    "/8TuuN97rtEgzVcxHGdR2RMe3RMo.jpg",
+    "/yj1sXW1pT0hVV6MPBHLcBVKDmtC.jpg",
+    "/qxZz6UlcMZJlYTy3RKhYwoSpbvh.jpg",
+    "/A71YqumbRqYhz6muxw2c27UuWCn.jpg",
+    "/r3Nsq5Y3k7kWcIr6ucpsxhZIV3E.jpg",
+    "/aGAt3MeWkNfkXeQRl50ZA0UeLGK.jpg",
+    "/sCojhjqgjlWYRhAKJzM5TLedBWe.jpg"
+  ],
+  "trailerKey": "zDujtATPuBk",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    570,
+    567,
+    1680,
+    6098,
+    9672,
+    11527,
+    12365,
+    33518,
+    163119,
+    178444,
+    188991,
+    200234,
+    214780,
+    219807,
+    242691,
+    277050,
+    282160,
+    293649,
+    325825,
+    325829,
+    345131
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Jaffe-Lansing"
+  ],
+  "crew": [
+    {
+      "personId": 67525,
+      "job": "writer"
+    },
+    {
+      "personId": 34693,
+      "job": "producer"
+    },
+    {
+      "personId": 42171,
+      "job": "director"
+    },
+    {
+      "personId": 25212,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 34695,
+      "job": "producer"
+    },
+    {
+      "personId": 2722,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1038,
+      "character": "Sarah Tobias",
+      "order": 0
+    },
+    {
+      "personId": 11084,
+      "character": "Kathryn Murphy",
+      "order": 1
+    },
+    {
+      "personId": 67523,
+      "character": "Ken Joyce",
+      "order": 2
+    },
+    {
+      "personId": 67524,
+      "character": "Cliff 'Scorpion' Albrect",
+      "order": 3
+    },
+    {
+      "personId": 20631,
+      "character": "Sally Fraser",
+      "order": 4
+    },
+    {
+      "personId": 28413,
+      "character": "D.A. Paul Rudolph",
+      "order": 5
+    },
+    {
+      "personId": 42745,
+      "character": "Bob Joiner",
+      "order": 6
+    },
+    {
+      "personId": 1170309,
+      "character": "Larry",
+      "order": 7
+    },
+    {
+      "personId": 170680,
+      "character": "Attorney Paulsen",
+      "order": 8
+    },
+    {
+      "personId": 158377,
+      "character": "Lieutenant Duncan",
+      "order": 9
+    },
+    {
+      "personId": 124785,
+      "character": "Danny",
+      "order": 10
+    },
+    {
+      "personId": 48810,
+      "character": "Attorney Wainwright",
+      "order": 11
+    },
+    {
+      "personId": 27141,
+      "character": "Kurt",
+      "order": 12
+    },
+    {
+      "personId": 75467,
+      "character": "Polito",
+      "order": 13
+    },
+    {
+      "personId": 56015,
+      "character": "Bartender Jesse",
+      "order": 14
+    },
+    {
+      "personId": 1216568,
+      "character": "Defendant Matt Haines",
+      "order": 15
+    },
+    {
+      "personId": 158575,
+      "character": "Defendant Stu Holloway",
+      "order": 16
+    },
+    {
+      "personId": 1661543,
+      "character": "Nurse",
+      "order": 17
+    },
+    {
+      "personId": 64678,
+      "character": "Rape Center Woman",
+      "order": 18
+    },
+    {
+      "personId": 63563,
+      "character": "Woman Orderly",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 713,
+  "sources": [
+    "cult-list"
+  ]
+}

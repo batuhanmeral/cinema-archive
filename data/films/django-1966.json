@@ -1,0 +1,192 @@
+{
+  "tmdbId": 10772,
+  "slug": "django-1966",
+  "year": 1966,
+  "runtime": 92,
+  "originalTitle": "Django",
+  "title": {
+    "en": "Django",
+    "tr": "Cango'nun İntikamı"
+  },
+  "overview": {
+    "en": "A coffin-dragging gunslinger and a prostitute become embroiled in a bitter feud between a Klan of Southern racists and a band of Mexican Revolutionaries.",
+    "tr": "Amerikan KKK kuvvetleri ve Meksikalı devrimci kuvvetleri yüzünden artık yaşanılmaz hale gelen bir kasabadaki klübde çalışan Maria her iki grup tarafından kirlendiği gerekçesiyle öldürülmek istenmektedir. Ancak müthiş bir silahşör olan Django'nun Maria'yı korumasına alması ve klube gelişiyle herşey değişecektir. Altın, silah ve kadın üçgeninde hem KKK kuvvetleri hemde eski dostu General Rodriguez'in devrimci Meksika çetesi ile bir mücadeleye girmek zorunda kalacak olan Django'nun müthiş silah yeteneğinin yanında o dönemde henüz bilinmeyen otomatik taramalı bir silaha sahip olması onun en büyük avantajı olacaktır."
+  },
+  "poster": {
+    "tr": "/XO7MrV0nsDlBWLjfM5ekiGgjyt.jpg",
+    "en": "/2UScuuLT2yEAMeAIqMNEppMmnib.jpg"
+  },
+  "backdrops": [
+    "/zzSiXPGvVYnBK3NFhMAkD793DBI.jpg",
+    "/aO7ZufT19Ct13p6lIKC6eQtYHKb.jpg",
+    "/eSzH7wfPJhBMHQ0ov1jTW7yWIVJ.jpg",
+    "/tY4ueSDPgmg65EAuCQVUF9MCv0S.jpg",
+    "/emAXJbyBPcMpLeK2OdlgqIHORT2.jpg",
+    "/2tFsObjPy5Q0Ea4pb0ICPqVI2ht.jpg",
+    "/sthlwTxXGrWcGZuwprndgP5Bna3.jpg",
+    "/vgWwcaKZHWticJYOoXpbH8gie5T.jpg",
+    "/n7s5j5CVg5td78lSkWKhQJnwUEw.jpg",
+    "/klreYbgIdSROmfXd1SlCWMgMBn1.jpg"
+  ],
+  "trailerKey": "jLPFh4ObsJU",
+  "genreIds": [
+    28,
+    37
+  ],
+  "keywordIds": [
+    2708,
+    1909,
+    3568,
+    5692,
+    156212,
+    160324
+  ],
+  "countries": [
+    "IT",
+    "ES"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Tecisa Film",
+    "B.R.C. Produzione Film"
+  ],
+  "crew": [
+    {
+      "personId": 49450,
+      "job": "writer"
+    },
+    {
+      "personId": 56033,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 49450,
+      "job": "director"
+    },
+    {
+      "personId": 56742,
+      "job": "writer"
+    },
+    {
+      "personId": 66675,
+      "job": "composer"
+    },
+    {
+      "personId": 43703,
+      "job": "producer"
+    },
+    {
+      "personId": 49450,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 22383,
+      "character": "Django",
+      "order": 0
+    },
+    {
+      "personId": 66676,
+      "character": "General Hugo Rodriguez",
+      "order": 1
+    },
+    {
+      "personId": 66677,
+      "character": "Maria",
+      "order": 2
+    },
+    {
+      "personId": 37586,
+      "character": "Nathaniel",
+      "order": 3
+    },
+    {
+      "personId": 1031959,
+      "character": "Brother Jonathan",
+      "order": 4
+    },
+    {
+      "personId": 103751,
+      "character": "Miguel",
+      "order": 5
+    },
+    {
+      "personId": 42844,
+      "character": "Jackson Gang Member",
+      "order": 6
+    },
+    {
+      "personId": 52999,
+      "character": "Ricardo",
+      "order": 7
+    },
+    {
+      "personId": 51429,
+      "character": "Rodriguez Gang Member",
+      "order": 8
+    },
+    {
+      "personId": 72889,
+      "character": "Rodriguez Gang Member",
+      "order": 9
+    },
+    {
+      "personId": 100409,
+      "character": "Major Jackson",
+      "order": 10
+    },
+    {
+      "personId": 5843,
+      "character": "Ringo (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1127109,
+      "character": "Mexican Saloon Girl (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 138724,
+      "character": "Black-Haired Saloon Girl (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1322700,
+      "character": "Rodriguez Gang Member (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1885528,
+      "character": "Rodriguez Gang Member (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1941702,
+      "character": "Rodriguez Gang Member (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 3490871,
+      "character": "Rodriguez Gang Member (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 5256280,
+      "character": "Rodriguez Gang Member (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 3776526,
+      "character": "Rodriguez Gang Member (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1042,
+  "sources": [
+    "cult-list"
+  ]
+}

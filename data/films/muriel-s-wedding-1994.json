@@ -1,0 +1,198 @@
+{
+  "tmdbId": 236,
+  "slug": "muriel-s-wedding-1994",
+  "year": 1994,
+  "runtime": 106,
+  "originalTitle": "Muriel's Wedding",
+  "title": {
+    "en": "Muriel's Wedding",
+    "tr": "Evlilik Rüyası"
+  },
+  "overview": {
+    "en": "Socially awkward Muriel Heslop wants nothing more than to get married. Unfortunately, due to her oppressive politician father, Muriel has never even been on a date. Ostracized by her more socially adept friends, Muriel runs into fellow outcast Rhonda Epinstalk, and the two move from their small Australian town to the big city of Sydney, where Muriel changes her name and begins the arduous task of redesigning her life to match her fantasies.",
+    "tr": "Muriel, Avustralya'nın Porpoise Spit şehrindeki hayatını sıkıcı bulmaktadır ve gününü odasında Abba dinleyerek ve evleneceği günü hayal ederek geçirmektedir. Ancak Muriel daha önce hiç kimseyle beraber olmamıştır. Bir süre sonra biraz para çalıp tropik bir tatile gider, garip biri ile tanışır, adını Mariel olarak değiştirir ve dünyasını alt üst eder."
+  },
+  "poster": {
+    "tr": "/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg",
+    "en": "/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg"
+  },
+  "backdrops": [
+    "/x4sqnmV2nAKIG6cmt9WAF9xRA2M.jpg",
+    "/fbbXEud8KqOhPEJIVnVM68HicCv.jpg",
+    "/9P3g2ECZFuSICHdAtxk0hLb8cPI.jpg",
+    "/rI6sGHn2S30SVSx0cOxOkLI15rb.jpg",
+    "/c3LIA8Dfbi4qQbUyRnab7oocCIE.jpg",
+    "/pTf3RgPkVTZIlAWAQDzhA48Wd9h.jpg",
+    "/ppUO1svvR9kgaQHXaWucZETZz2g.jpg",
+    "/dCuumwO12XjUyOvaucJKnhe8jyF.jpg",
+    "/quCw7UqFpjy9Cz8JswNyMbjKcSW.jpg",
+    "/vMY7H59acmcYQzzAW23LtpZS5M2.jpg"
+  ],
+  "trailerKey": "JJVWXHRDqec",
+  "genreIds": [
+    35,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    5600,
+    30,
+    6054,
+    1566,
+    2038,
+    1412,
+    1571,
+    2064,
+    2065,
+    2069,
+    2070,
+    3925,
+    2386
+  ],
+  "countries": [
+    "AU",
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "studios": [
+    "CiBy 2000",
+    "Film Victoria",
+    "House & Moorhouse Films"
+  ],
+  "crew": [
+    {
+      "personId": 3045,
+      "job": "director"
+    },
+    {
+      "personId": 3046,
+      "job": "producer"
+    },
+    {
+      "personId": 3047,
+      "job": "producer"
+    },
+    {
+      "personId": 3048,
+      "job": "composer"
+    },
+    {
+      "personId": 3049,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3045,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3051,
+      "character": "Muriel Heslop",
+      "order": 0
+    },
+    {
+      "personId": 23,
+      "character": "Bill Heslop",
+      "order": 1
+    },
+    {
+      "personId": 3052,
+      "character": "Rhonda Epinstalk",
+      "order": 2
+    },
+    {
+      "personId": 3053,
+      "character": "Tania Degano",
+      "order": 3
+    },
+    {
+      "personId": 3060,
+      "character": "Betty Heslop",
+      "order": 4
+    },
+    {
+      "personId": 3067,
+      "character": "Deidre Chambers",
+      "order": 5
+    },
+    {
+      "personId": 3072,
+      "character": "David Van Arckle",
+      "order": 6
+    },
+    {
+      "personId": 3068,
+      "character": "Brice Nobes",
+      "order": 7
+    },
+    {
+      "personId": 3054,
+      "character": "Cheryl",
+      "order": 8
+    },
+    {
+      "personId": 3057,
+      "character": "Janine",
+      "order": 9
+    },
+    {
+      "personId": 3059,
+      "character": "Nicole",
+      "order": 10
+    },
+    {
+      "personId": 3062,
+      "character": "Perry Heslop",
+      "order": 11
+    },
+    {
+      "personId": 3066,
+      "character": "Joanie Heslop",
+      "order": 12
+    },
+    {
+      "personId": 3070,
+      "character": "Coach Ken Blundell",
+      "order": 13
+    },
+    {
+      "personId": 75747,
+      "character": "Rhonda's Mother",
+      "order": 14
+    },
+    {
+      "personId": 61906,
+      "character": "Tania's Mother",
+      "order": 15
+    },
+    {
+      "personId": 76069,
+      "character": "Girl at wedding",
+      "order": 16
+    },
+    {
+      "personId": 2148219,
+      "character": "Peter \"Chook\" Vernell",
+      "order": 17
+    },
+    {
+      "personId": 75399,
+      "character": "Leo Higgins",
+      "order": 18
+    },
+    {
+      "personId": 131775,
+      "character": "Store Detective",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 513,
+  "sources": [
+    "cult-list"
+  ]
+}

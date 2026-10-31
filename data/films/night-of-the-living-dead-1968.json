@@ -1,0 +1,197 @@
+{
+  "tmdbId": 10331,
+  "slug": "night-of-the-living-dead-1968",
+  "year": 1968,
+  "runtime": 96,
+  "originalTitle": "Night of the Living Dead",
+  "title": {
+    "en": "Night of the Living Dead",
+    "tr": "Yaşayan Ölülerin Gecesi"
+  },
+  "overview": {
+    "en": "A ragtag group barricade themselves in an old Pennsylvania farmhouse to remain safe from a horde of flesh-eating ghouls ravaging the Northeast.",
+    "tr": "Barbra ve kardeşi Johnny, babalarının mezarını ziyaret etmek için şehir merkezinden bir hayli uzakta, izbe bir bölgede olan mezarlığa giderler. Burada dua rutinlerini tamamladıkları esnada kendilerine yaklaşmakta olan yabancı bir siluetle karşılaşırlar. Kız kardeşinin aksine bir hayli rahat davranan Johnny, bu yabancının saldırısına uğrar ve oracıkta hayatını kaybeder. Ancak bu bir son değil, ürkütücü bir başlangıcın habercisi olur. Genç kadın ağır bir travmaya girer ve canını kurtarabilmek için bulabildiği ilk yere sığınır. Ancak burada yalnız olmadığını fark etmesi uzun sürmez. Bir anda kasabayı saran bu yaratıklardan korunmaya çalışan tek insan kendisi değildir. Ben de kendisi gibi canını zor kurtarmıştır ve kapıda diğerleri de vardır..."
+  },
+  "poster": {
+    "tr": "/jmQ75v3GyKOowysy1rxLKWuYj1R.jpg",
+    "en": "/rSBkU4g4uvZQIMOSpvrmvR4VwhA.jpg"
+  },
+  "backdrops": [
+    "/d0NwvSRJQQzkubWKsidX4caQ6Yi.jpg",
+    "/msPUiG0tIVPcLblsCs43yRKEdBr.jpg",
+    "/5KtmBSqFtHY3I9t8lgH27Mc0bqY.jpg",
+    "/1OYR2ULbDDs4sEtqv7d0zw6Deyl.jpg",
+    "/d9TPDQLY7IwVTwOm88cn8LyWocR.jpg",
+    "/foPUi2OJZhEhywdT6JO0NVwfLgJ.jpg",
+    "/iGweTDuF3SzZKkmL9B4zMTsIte3.jpg",
+    "/jxazfz58pgME7qlU30brxToJUFb.jpg",
+    "/bhgMBDnjG9tIVE3RNCD9YeNJHq5.jpg",
+    "/nFch6BPfdWPQccPPyuUYhIXWWQe.jpg"
+  ],
+  "trailerKey": "V5XwrRFP7Zw",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    380,
+    904,
+    697,
+    1419,
+    1420,
+    1227,
+    2602,
+    3335,
+    6095,
+    7246,
+    12377,
+    12999,
+    18029,
+    155561,
+    161196,
+    314730,
+    321464
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Image Ten"
+  ],
+  "crew": [
+    {
+      "personId": 14999,
+      "job": "writer"
+    },
+    {
+      "personId": 64831,
+      "job": "writer"
+    },
+    {
+      "personId": 64833,
+      "job": "producer"
+    },
+    {
+      "personId": 14999,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 14999,
+      "job": "director"
+    },
+    {
+      "personId": 97914,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 97913,
+      "character": "Barbra",
+      "order": 0
+    },
+    {
+      "personId": 97912,
+      "character": "Ben",
+      "order": 1
+    },
+    {
+      "personId": 97915,
+      "character": "Helen Cooper",
+      "order": 2
+    },
+    {
+      "personId": 97914,
+      "character": "Harry Cooper",
+      "order": 3
+    },
+    {
+      "personId": 97917,
+      "character": "Judy",
+      "order": 4
+    },
+    {
+      "personId": 97916,
+      "character": "Tom",
+      "order": 5
+    },
+    {
+      "personId": 97918,
+      "character": "Karen Cooper / Corpse in House",
+      "order": 6
+    },
+    {
+      "personId": 97919,
+      "character": "TV Newscaster / Zombie",
+      "order": 7
+    },
+    {
+      "personId": 97920,
+      "character": "Zombie",
+      "order": 8
+    },
+    {
+      "personId": 97921,
+      "character": "Field Reporter",
+      "order": 9
+    },
+    {
+      "personId": 1288949,
+      "character": "Zombie",
+      "order": 10
+    },
+    {
+      "personId": 1772607,
+      "character": "Sheriff McClelland",
+      "order": 11
+    },
+    {
+      "personId": 2855710,
+      "character": "Scientist",
+      "order": 12
+    },
+    {
+      "personId": 1207021,
+      "character": "Zombie / Posse Member",
+      "order": 13
+    },
+    {
+      "personId": 2855712,
+      "character": "Zombie / Posse Member",
+      "order": 14
+    },
+    {
+      "personId": 2855713,
+      "character": "Washington Scientist",
+      "order": 15
+    },
+    {
+      "personId": 1205925,
+      "character": "Zombie / News Reporter",
+      "order": 16
+    },
+    {
+      "personId": 1081603,
+      "character": "Newscaster/Zombie",
+      "order": 17
+    },
+    {
+      "personId": 3022607,
+      "character": "Cardille's Cameraman",
+      "order": 18
+    },
+    {
+      "personId": 2350145,
+      "character": "Zombie / Posse Member",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2875,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "tmdbId": 15196,
+  "slug": "clue-1985",
+  "year": 1985,
+  "runtime": 94,
+  "originalTitle": "Clue",
+  "title": {
+    "en": "Clue",
+    "tr": "Clue"
+  },
+  "overview": {
+    "en": "Clue finds six colorful dinner guests gathered at the mansion of their host, Mr. Boddy -- who turns up dead after his secret is exposed: He was blackmailing all of them. With the killer among them, the guests and Boddy's chatty butler must suss out the culprit before the body count rises.",
+    "tr": "Altı konuk akşam yemeği için gizemli bir malikaneye davet edilir. Davetlilerin hiçbiri birbirini tanımamaktadır ve daveti kimin düzenlediği de bilinmemektedir. Normal başlayan akşam, ev sahibinin ani ölümüyle farklı bir yola sapar. Davetliler, malikanenin çalışanlarıyla birlik olarak katilin kim olduğunu bulmak zorundadır. Her geçen dakika malikanede bulunmak daha da tehlikeli bir hal almaktadır."
+  },
+  "poster": {
+    "tr": "/aRxbYOYHS8T73nzR8hsLousoplR.jpg",
+    "en": "/brhtU86OVCsHRhd35AAztFLP4cZ.jpg"
+  },
+  "backdrops": [
+    "/egK8OpGhJdoD3xzdiaQPiGEIyMw.jpg",
+    "/rsclb1vtH6IkxmVBuCC37biEBT.jpg",
+    "/huCFGeOgBUxpaicxGqc7vahQdEW.jpg",
+    "/A61rokM9D8jWt97L7CtbY6BbEoI.jpg",
+    "/5TOolW5qH3N1zKUplk5ceFI2BC8.jpg",
+    "/aJlERlY8vsz10SahPbCHIwzBC7S.jpg",
+    "/cOZlKC8eYmMNn5Ry1dJD6BdORp9.jpg",
+    "/3IM54N6HnzbRsDGosfdNk98x9Fg.jpg",
+    "/wARpHOiRkTO2XQnOQu4E1CtPDbG.jpg",
+    "/1rby3HUkEsg8q4vGrq3m95duvUk.jpg"
+  ],
+  "trailerKey": "KEXdWfsKZ1k",
+  "genreIds": [
+    35,
+    80,
+    9648
+  ],
+  "keywordIds": [
+    1936,
+    1307,
+    10090,
+    12545,
+    12570,
+    13097,
+    155733,
+    163651,
+    171964,
+    207046,
+    222806,
+    259015,
+    295106,
+    325773,
+    344283,
+    348133
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Debra Hill Productions",
+    "Paramount Pictures",
+    "PolyGram Filmed Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 21217,
+      "job": "writer"
+    },
+    {
+      "personId": 21217,
+      "job": "director"
+    },
+    {
+      "personId": 2161,
+      "job": "producer"
+    },
+    {
+      "personId": 14536,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 719,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13472,
+      "character": "Wadsworth",
+      "order": 0
+    },
+    {
+      "personId": 39015,
+      "character": "Mrs. Peacock",
+      "order": 1
+    },
+    {
+      "personId": 29803,
+      "character": "Mrs. White",
+      "order": 2
+    },
+    {
+      "personId": 1062,
+      "character": "Professor Plum",
+      "order": 3
+    },
+    {
+      "personId": 21731,
+      "character": "Mr. Green",
+      "order": 4
+    },
+    {
+      "personId": 80742,
+      "character": "Colonel Mustard",
+      "order": 5
+    },
+    {
+      "personId": 21818,
+      "character": "Miss Scarlet",
+      "order": 6
+    },
+    {
+      "personId": 13023,
+      "character": "Yvette",
+      "order": 7
+    },
+    {
+      "personId": 80745,
+      "character": "Mr. Boddy",
+      "order": 8
+    },
+    {
+      "personId": 80746,
+      "character": "Cop",
+      "order": 9
+    },
+    {
+      "personId": 35157,
+      "character": "Singing Telegram Girl",
+      "order": 10
+    },
+    {
+      "personId": 8609,
+      "character": "Motorist",
+      "order": 11
+    },
+    {
+      "personId": 158804,
+      "character": "Cook",
+      "order": 12
+    },
+    {
+      "personId": 1216921,
+      "character": "Cop #1",
+      "order": 13
+    },
+    {
+      "personId": 1177744,
+      "character": "Cop #2",
+      "order": 14
+    },
+    {
+      "personId": 551931,
+      "character": "Cop #3",
+      "order": 15
+    },
+    {
+      "personId": 35516,
+      "character": "The Chief (uncredited)",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 2110,
+  "sources": [
+    "cult-list"
+  ]
+}

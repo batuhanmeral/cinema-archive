@@ -1,0 +1,214 @@
+{
+  "tmdbId": 3109,
+  "slug": "the-quiet-man-1952",
+  "year": 1952,
+  "runtime": 129,
+  "originalTitle": "The Quiet Man",
+  "title": {
+    "en": "The Quiet Man",
+    "tr": "Sessiz Adam"
+  },
+  "overview": {
+    "en": "An American man returns to the village of his birth in Ireland, where he finds love and conflict.",
+    "tr": "Sean Thornton doğup büyüdüğü İrlanda'ya,yeni bir hayata başlamak üzere geri döner. Kısa zaman içinde Mary Kate Danaher ile tanışır ve evlenmeye karar verirler. Ancak buna karşı çıkan biri vardır; Mary'nin abisi Will Danaher. Sean hem Will Danaher ile mücadele eder hem de geride bırakmak istediği hatıralarıyla...  The Quiet Man, 7 dalda Oscar'a aday olan ve John Ford'a en iyi yönetmen Oscarı'nı getiren çarpıcı bir drama."
+  },
+  "poster": {
+    "tr": "/u3B1hVKHE56yBRoxF3Nk9uxHdYN.jpg",
+    "en": "/9twLidKb0ZmPPyslgpvJI8Gbjyd.jpg"
+  },
+  "backdrops": [
+    "/esqaOzLU2DCSjVpe2M3oxA3dz8M.jpg",
+    "/wUETmGLEmVT00iAIjAeZwSdjMxH.jpg",
+    "/x67V2BApRy3XURCh6jccMT2GbIO.jpg",
+    "/5vuQnRJURp6rZoEEnhW0HC7DBQc.jpg",
+    "/9Ql4HLrmaVu7adIIuu7yMQWsCYe.jpg",
+    "/Aguq7CnybO8vYN3T3clFpCoDOq2.jpg",
+    "/pO07CY98uj7nxOZQtgb66h9fwAD.jpg",
+    "/kbuvp6CSNbjLpTzzxEViza862Tn.jpg",
+    "/qBHqkZ4Q1LDLq7itQFd1iMBOWdn.jpg",
+    "/hVCfKyQLgEyYynGEhT3iQzwGC2N.jpg"
+  ],
+  "trailerKey": "T-n873zZvMo",
+  "genreIds": [
+    10749,
+    35,
+    18
+  ],
+  "keywordIds": [
+    548,
+    1721,
+    5301,
+    4129,
+    2792,
+    4552,
+    9673,
+    11004,
+    11826,
+    13008,
+    14985,
+    164246,
+    165388,
+    239302,
+    257242,
+    325765
+  ],
+  "countries": [
+    "US",
+    "IE"
+  ],
+  "languages": [
+    "en",
+    "ga"
+  ],
+  "studios": [
+    "Republic Pictures",
+    "Argosy Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 30491,
+      "job": "writer"
+    },
+    {
+      "personId": 3238,
+      "job": "producer"
+    },
+    {
+      "personId": 30492,
+      "job": "producer"
+    },
+    {
+      "personId": 8500,
+      "job": "producer"
+    },
+    {
+      "personId": 30493,
+      "job": "producer"
+    },
+    {
+      "personId": 22085,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8500,
+      "job": "writer"
+    },
+    {
+      "personId": 26026,
+      "job": "composer"
+    },
+    {
+      "personId": 8500,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4165,
+      "character": "Sean Thornton",
+      "order": 0
+    },
+    {
+      "personId": 70035,
+      "character": "Mary Kate Danaher",
+      "order": 1
+    },
+    {
+      "personId": 30495,
+      "character": "Squire 'Red' Will Danaher",
+      "order": 2
+    },
+    {
+      "personId": 13820,
+      "character": "Michaleen Oge Flynn",
+      "order": 3
+    },
+    {
+      "personId": 4303,
+      "character": "Father Peter Lonergan",
+      "order": 4
+    },
+    {
+      "personId": 12969,
+      "character": "The Widow Sarah Tillane",
+      "order": 5
+    },
+    {
+      "personId": 30496,
+      "character": "Dan Tobin",
+      "order": 6
+    },
+    {
+      "personId": 30497,
+      "character": "Mrs. Elizabeth Playfair",
+      "order": 7
+    },
+    {
+      "personId": 30498,
+      "character": "Fishwoman with basket at station",
+      "order": 8
+    },
+    {
+      "personId": 22603,
+      "character": "Rev. Cyril 'Snuffy' Playfair",
+      "order": 9
+    },
+    {
+      "personId": 30499,
+      "character": "Hugh Forbes",
+      "order": 10
+    },
+    {
+      "personId": 30500,
+      "character": "Father Paul",
+      "order": 11
+    },
+    {
+      "personId": 30501,
+      "character": "Owen Glynn",
+      "order": 12
+    },
+    {
+      "personId": 14016,
+      "character": "Ignatius Feeney",
+      "order": 13
+    },
+    {
+      "personId": 30502,
+      "character": "Molouney - Train Guard",
+      "order": 14
+    },
+    {
+      "personId": 30503,
+      "character": "Costello - Engine Driver",
+      "order": 15
+    },
+    {
+      "personId": 30504,
+      "character": "Train fireman",
+      "order": 16
+    },
+    {
+      "personId": 30505,
+      "character": "Railway porter",
+      "order": 17
+    },
+    {
+      "personId": 217748,
+      "character": "Mother (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 30554,
+      "character": "Dermot Fahy (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 632,
+  "sources": [
+    "cult-list"
+  ]
+}

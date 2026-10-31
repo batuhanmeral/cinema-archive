@@ -1,0 +1,205 @@
+{
+  "tmdbId": 599,
+  "slug": "sunset-boulevard-1950",
+  "year": 1950,
+  "runtime": 110,
+  "originalTitle": "Sunset Boulevard",
+  "title": {
+    "en": "Sunset Boulevard",
+    "tr": "Sunset Bulvarı"
+  },
+  "overview": {
+    "en": "A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.",
+    "tr": "Joe Gillis (William Holden) genç bir senaristtir. Film, Gills’in bir havuzda kanlar içinde yatarken görüntüsü ile başlar ve daha sonra altı ay öncesine gideriz. Senaryolarını satamayan ve parasız kalan Joe’nun başı eski borçlarıyla derttedir. Alacaklılardan kaçar ve Sunset Bulvarı’ndaki bir eve sığınarak saklanır. Buradaki ev sahibi ise, sessiz filmler döneminde ün yapmış aktrislerden Norma Desmond’dır (Gloria Swanson). Eski ününü hemen geri kazanabileceğini düşünen Norma, kendi yazdığı bir senaryoyla sinema dünyasına dönmeyi amaçlamaktadır. Joe kendisine senaryo yazımı konusunda yardım edebileceğini söyler ve böylelikle Norma onun bu evde yaşamasına izin verir."
+  },
+  "poster": {
+    "tr": "/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg",
+    "en": "/zt8aQ6ksqK6p1AopC5zVTDS9pKT.jpg"
+  },
+  "backdrops": [
+    "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+    "/vljrgvuOILOqycL3YRzcjQRxPOm.jpg",
+    "/2Ut7GgYMU3lrBuwuNXHaFTntN4q.jpg",
+    "/vRMJX7AYEnIrTACmHvLTs9HS8sD.jpg",
+    "/tKIrevLVyjtBDvSOUd4doEKiR4s.jpg",
+    "/3b03oriKsHE46myDHH4Q3Igbs8b.jpg",
+    "/vyKSEpVQCpX9psp6rhZjd7pyvM3.jpg",
+    "/3UK1NX2iic3Kk3rwdJ1n3iUpjtF.jpg",
+    "/jAZB2kZ8nr3loJaxr5sA17fjQja.jpg",
+    "/mHzkRq0l3Cozu6dnTohcm7WUxQo.jpg"
+  ],
+  "trailerKey": "ZQWqIA1-kvA",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    613,
+    931,
+    1565,
+    888,
+    1307,
+    6262,
+    2992,
+    9807,
+    12396,
+    12670,
+    12999,
+    41410,
+    155507,
+    157774,
+    188647,
+    237152,
+    241404,
+    246610,
+    325842,
+    325854
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 3146,
+      "job": "writer"
+    },
+    {
+      "personId": 8618,
+      "job": "writer"
+    },
+    {
+      "personId": 3146,
+      "job": "director"
+    },
+    {
+      "personId": 8617,
+      "job": "producer"
+    },
+    {
+      "personId": 8617,
+      "job": "writer"
+    },
+    {
+      "personId": 8619,
+      "job": "composer"
+    },
+    {
+      "personId": 8620,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8252,
+      "character": "Joe Gillis",
+      "order": 0
+    },
+    {
+      "personId": 8629,
+      "character": "Norma Desmond",
+      "order": 1
+    },
+    {
+      "personId": 8630,
+      "character": "Max von Mayerling",
+      "order": 2
+    },
+    {
+      "personId": 8631,
+      "character": "Betty Schaefer",
+      "order": 3
+    },
+    {
+      "personId": 8632,
+      "character": "Sheldrake",
+      "order": 4
+    },
+    {
+      "personId": 8633,
+      "character": "Morino",
+      "order": 5
+    },
+    {
+      "personId": 8634,
+      "character": "Artie Green",
+      "order": 6
+    },
+    {
+      "personId": 975597,
+      "character": "Undertaker",
+      "order": 7
+    },
+    {
+      "personId": 82750,
+      "character": "Finance Man #1",
+      "order": 8
+    },
+    {
+      "personId": 130894,
+      "character": "Finance Man #2",
+      "order": 9
+    },
+    {
+      "personId": 8636,
+      "character": "Cecil B. DeMille",
+      "order": 10
+    },
+    {
+      "personId": 8637,
+      "character": "Hedda Hopper",
+      "order": 11
+    },
+    {
+      "personId": 33278,
+      "character": "H.B. Warner",
+      "order": 12
+    },
+    {
+      "personId": 8635,
+      "character": "Buster Keaton",
+      "order": 13
+    },
+    {
+      "personId": 8640,
+      "character": "Ray Evans",
+      "order": 14
+    },
+    {
+      "personId": 8638,
+      "character": "Anna Q. Nilsson",
+      "order": 15
+    },
+    {
+      "personId": 8641,
+      "character": "Jay Livingston",
+      "order": 16
+    },
+    {
+      "personId": 947709,
+      "character": "Cop Dragging Body from Pool (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 270786,
+      "character": "Prop Man #2 (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 141070,
+      "character": "Courtier (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 3079,
+  "sources": [
+    "cult-list"
+  ]
+}

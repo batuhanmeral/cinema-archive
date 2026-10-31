@@ -1,0 +1,204 @@
+{
+  "tmdbId": 11954,
+  "slug": "lifeforce-1985",
+  "year": 1985,
+  "runtime": 102,
+  "originalTitle": "Lifeforce",
+  "title": {
+    "en": "Lifeforce",
+    "tr": "Yaşam Savaşı: Uzay Vampirleri"
+  },
+  "overview": {
+    "en": "A race of space vampires arrives in London and infects the populace, commencing an apocalyptic descent into chaos.",
+    "tr": "Halley” kuyruklu yıldızı dünyaya yaklaşırken bir uzay gemisi, bu kuyruklu yıldızı önceden incelemek üzere görevlendirilir. Kuyruklu yıldızı inceleyen ekip, meteorun hemen ön kısmında organik bir uzay gemisi gibi birşey keşfederler. Bu uzay gemisinin içine araştırma için giren ekip, beraberlerinde dünyaya korkunç bir kabus getireceklerdir. Birbiri ardına içlerinden yaşam enerjileri çekilerek öldürülen kurbanların hikayesi vampirlere kadar gidecektir!…"
+  },
+  "poster": {
+    "tr": "/sIBi1sz6elGkqa7FzicAvJvjYs9.jpg",
+    "en": "/jECUJlSVhc89m2ZjGgacPU70WsZ.jpg"
+  },
+  "backdrops": [
+    "/8SnnGg0cqfa3bmorOERNrXvZ8Mn.jpg",
+    "/cSDzLQEkd3dz5rmNJbFuFj002rz.jpg",
+    "/ixQN8RKycaDD9WWD7cIZ7XiRPE3.jpg",
+    "/7i6SMeioykainE8TTbYXkANbMKv.jpg",
+    "/AbLxwKi3eBaC5HiK6cPZPL8ioKb.jpg",
+    "/zqw5ZgWYcxY4mi55DohIIMXHzw8.jpg",
+    "/otx83GAMpIJJu0yUoMOrJCkckew.jpg",
+    "/ksZ9WkgRuG4UIP6LBFLHYDcTp6s.jpg",
+    "/oAE5UZLEh0xY9AjAkFC8qwSEcNb.jpg",
+    "/bmte4Y760aSI2lmtPMxwIKOa4ga.jpg"
+  ],
+  "trailerKey": "B18wv1oAJGc",
+  "genreIds": [
+    27,
+    878,
+    28
+  ],
+  "keywordIds": [
+    1826,
+    3243,
+    818,
+    3133,
+    4803,
+    9951,
+    17995,
+    155585
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Golan-Globus Productions",
+    "Easedram",
+    "London-Cannon Films"
+  ],
+  "crew": [
+    {
+      "personId": 33008,
+      "job": "producer"
+    },
+    {
+      "personId": 71032,
+      "job": "writer"
+    },
+    {
+      "personId": 33009,
+      "job": "producer"
+    },
+    {
+      "personId": 5045,
+      "job": "writer"
+    },
+    {
+      "personId": 71031,
+      "job": "writer"
+    },
+    {
+      "personId": 8934,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10051,
+      "job": "director"
+    },
+    {
+      "personId": 1938,
+      "job": "composer"
+    },
+    {
+      "personId": 51346,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 52023,
+      "character": "Col. Tom Carlsen",
+      "order": 0
+    },
+    {
+      "personId": 22109,
+      "character": "Col. Colin Caine",
+      "order": 1
+    },
+    {
+      "personId": 6637,
+      "character": "Dr. Hans Fallada",
+      "order": 2
+    },
+    {
+      "personId": 44233,
+      "character": "Space Girl",
+      "order": 3
+    },
+    {
+      "personId": 2387,
+      "character": "Dr. Armstrong",
+      "order": 4
+    },
+    {
+      "personId": 10505,
+      "character": "Dr. Bukovsky",
+      "order": 5
+    },
+    {
+      "personId": 26707,
+      "character": "Roger Derebridge",
+      "order": 6
+    },
+    {
+      "personId": 2278,
+      "character": "Sir Percy Heseltine",
+      "order": 7
+    },
+    {
+      "personId": 172568,
+      "character": "Ellen Donaldson",
+      "order": 8
+    },
+    {
+      "personId": 12690,
+      "character": "Lamson",
+      "order": 9
+    },
+    {
+      "personId": 213805,
+      "character": "Guard",
+      "order": 10
+    },
+    {
+      "personId": 1123042,
+      "character": "First Vampire",
+      "order": 11
+    },
+    {
+      "personId": 553072,
+      "character": "Second Vampire",
+      "order": 12
+    },
+    {
+      "personId": 175975,
+      "character": "Physician",
+      "order": 13
+    },
+    {
+      "personId": 1220033,
+      "character": "Pathologist",
+      "order": 14
+    },
+    {
+      "personId": 1220003,
+      "character": "Metallurgist",
+      "order": 15
+    },
+    {
+      "personId": 95515,
+      "character": "The Minister",
+      "order": 16
+    },
+    {
+      "personId": 190439,
+      "character": "Prime Minister",
+      "order": 17
+    },
+    {
+      "personId": 135099,
+      "character": "Prime Minister's Secretary",
+      "order": 18
+    },
+    {
+      "personId": 2369000,
+      "character": "First Scientist",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 792,
+  "sources": [
+    "cult-list"
+  ]
+}

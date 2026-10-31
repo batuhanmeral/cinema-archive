@@ -1,0 +1,201 @@
+{
+  "tmdbId": 24580,
+  "slug": "the-quatermass-xperiment-1955",
+  "year": 1955,
+  "runtime": 82,
+  "originalTitle": "The Quatermass Xperiment",
+  "title": {
+    "en": "The Quatermass Xperiment",
+    "tr": "The Quatermass Deneyi"
+  },
+  "overview": {
+    "en": "The first manned spacecraft, fired from an English launchpad, is lost from radar before roaring back to Earth and crashing in a farmer's field. The rocket is found to contain only one of the three men who took off in it; and he is unable to talk but appears to be undergoing a torturous physical and mental metamorphosis.",
+    "tr": "Profesör Bernard Quatermass yanlış giden bir roket görevinden sorumludur.  Uzay gemisiyle iletişim kesilir ve uzayda ne kadar gitmiş olduğun hakkında bir fikirleri yoktur."
+  },
+  "poster": {
+    "tr": "/lm6cQiUjJ0AUUqESI9WWM7veIbp.jpg",
+    "en": "/lm6cQiUjJ0AUUqESI9WWM7veIbp.jpg"
+  },
+  "backdrops": [
+    "/ede6Ok2mA6xQjJjpokHTLaMvU7d.jpg",
+    "/hEK998lceNeL6kSkQzHfmuH1Ld.jpg",
+    "/ipNzUVfnIW4igmGNoDQsTfOnCb8.jpg",
+    "/kCN7ohPxPx7jxRxcaTg4zCTo6QQ.jpg",
+    "/kZMCJ5xcFoNip4S3WkpypuPmQtt.jpg",
+    "/60MHsMbFXiI2YFpAAinghxIX6Qf.jpg",
+    "/dESLK7of41kEkx13z0C9FPJkyux.jpg",
+    "/9r3z7RySpwY0bcBa8S9sEPOifZN.jpg",
+    "/ltAFSQVrG7Fxc6wN3OoHLkFYbe.jpg",
+    "/D2KH5tFOYl9QqaUyJNEgKlXUM4.jpg"
+  ],
+  "trailerKey": "6Scm9my7Vaw",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    212,
+    4375,
+    4862,
+    6394,
+    10536,
+    10537,
+    10958,
+    11612,
+    12999,
+    155493,
+    158276,
+    183787,
+    191132,
+    196762,
+    245733,
+    268000,
+    270667,
+    276605,
+    301827,
+    302372,
+    325778
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Hammer Film Productions"
+  ],
+  "crew": [
+    {
+      "personId": 39853,
+      "job": "director"
+    },
+    {
+      "personId": 30040,
+      "job": "writer"
+    },
+    {
+      "personId": 39853,
+      "job": "writer"
+    },
+    {
+      "personId": 30137,
+      "job": "composer"
+    },
+    {
+      "personId": 30168,
+      "job": "producer"
+    },
+    {
+      "personId": 109845,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 41755,
+      "character": "Prof. Bernard Quatermass",
+      "order": 0
+    },
+    {
+      "personId": 30708,
+      "character": "Victor Carroon",
+      "order": 1
+    },
+    {
+      "personId": 100344,
+      "character": "Dr. Gordon Briscoe",
+      "order": 2
+    },
+    {
+      "personId": 100343,
+      "character": "Inspector Lomax",
+      "order": 3
+    },
+    {
+      "personId": 100342,
+      "character": "Judith Carroon",
+      "order": 4
+    },
+    {
+      "personId": 32303,
+      "character": "Marsh",
+      "order": 5
+    },
+    {
+      "personId": 1729506,
+      "character": "Detective Sergeant Best",
+      "order": 6
+    },
+    {
+      "personId": 92010,
+      "character": "Christie",
+      "order": 7
+    },
+    {
+      "personId": 30706,
+      "character": "Blake",
+      "order": 8
+    },
+    {
+      "personId": 83910,
+      "character": "Rosie Wrigley",
+      "order": 9
+    },
+    {
+      "personId": 92011,
+      "character": "Police Sergeant Questioning Rosie",
+      "order": 10
+    },
+    {
+      "personId": 22969,
+      "character": "Little Girl (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 148631,
+      "character": "The Chemist (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 41998,
+      "character": "BBC TV producer",
+      "order": 13
+    },
+    {
+      "personId": 1447264,
+      "character": "Maggie (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1626195,
+      "character": "Maggie's Boyfriend (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 103685,
+      "character": "George, Maggie's father (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1827209,
+      "character": "Crash Site Fire Chief (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 184945,
+      "character": "Crash Site Fireman (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 106628,
+      "character": "Central Clinic Nurse (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 242,
+  "sources": [
+    "cult-list"
+  ]
+}

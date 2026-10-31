@@ -1,0 +1,194 @@
+{
+  "tmdbId": 2661,
+  "slug": "batman-1966",
+  "year": 1966,
+  "runtime": 105,
+  "originalTitle": "Batman",
+  "title": {
+    "en": "Batman",
+    "tr": "Batman"
+  },
+  "overview": {
+    "en": "The Dynamic Duo faces four super-villains who plan to hold the world for ransom with the help of a secret invention that instantly dehydrates people.",
+    "tr": "Gotham City'nin dört kötü adamı Penguen, Joker, Riddler ve Kedikadın güçlerini birleştirir. Penguen'in kişisel denizaltısında üslenen eksantrik kötüler bu kez tüm dünyayı tehdit etmektedir. Ellerinde bulunan De-Hydrator isimli cihaz canlıların vücudundaki nemi kurutup korkunç sonuçlara sebep olabilecek bir silahtır. Batman ve Robin harekete geçer."
+  },
+  "poster": {
+    "tr": "/zzoPxWHnPa0eyfkMLgwbNvdEcVF.jpg",
+    "en": "/iBaHizz1sfMs4N03aHsGe7I2G6S.jpg"
+  },
+  "backdrops": [
+    "/bxxupqG6TBLKC60M6L8iOvbQEr6.jpg",
+    "/78WYLdsidjafX5cll2G6fWCR1xB.jpg",
+    "/uCvZkYVtroiQJ6RLqUmbIhcgwCp.jpg",
+    "/nOWOU0bdX76iF9XA1YPlInLbI4Y.jpg",
+    "/xirzlCI65OzIM4Pr7wY7dC4Rt8v.jpg",
+    "/uawQ8KDw2J858E13JK88qazaPc5.jpg",
+    "/v6lvnMHYPMVhc0t08gKYJNpMijC.jpg",
+    "/LkXu70KAWSLzqUqwTyiPxabgpd.jpg",
+    "/hvbedJahaBo6hRizBrjabE8yi9P.jpg",
+    "/1QhAvrISRouE5Sc0qWzIglIcHXc.jpg"
+  ],
+  "trailerKey": "TdG2V4vhPjg",
+  "genreIds": [
+    28,
+    35,
+    80
+  ],
+  "keywordIds": [
+    10084,
+    339,
+    2534,
+    9715,
+    2988,
+    9755,
+    9717,
+    15097,
+    33637,
+    155461,
+    155488,
+    163074,
+    266013,
+    269233,
+    269769
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "William Dozier Productions",
+    "20th Century Fox",
+    "Greenlawn Productions"
+  ],
+  "crew": [
+    {
+      "personId": 27728,
+      "job": "director"
+    },
+    {
+      "personId": 14355,
+      "job": "producer"
+    },
+    {
+      "personId": 4360,
+      "job": "composer"
+    },
+    {
+      "personId": 27729,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10931,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 26847,
+      "character": "Batman (Bruce Wayne)",
+      "order": 0
+    },
+    {
+      "personId": 35192,
+      "character": "Robin (Dick Grayson)",
+      "order": 1
+    },
+    {
+      "personId": 16108,
+      "character": "The Catwoman (Kitka)",
+      "order": 2
+    },
+    {
+      "personId": 4355,
+      "character": "The Joker",
+      "order": 3
+    },
+    {
+      "personId": 16523,
+      "character": "The Penguin",
+      "order": 4
+    },
+    {
+      "personId": 291,
+      "character": "The Riddler",
+      "order": 5
+    },
+    {
+      "personId": 6933,
+      "character": "Alfred",
+      "order": 6
+    },
+    {
+      "personId": 27733,
+      "character": "Commissioner Gordon",
+      "order": 7
+    },
+    {
+      "personId": 27734,
+      "character": "Chief O'Hara",
+      "order": 8
+    },
+    {
+      "personId": 43824,
+      "character": "Aunt Harriet Cooper",
+      "order": 9
+    },
+    {
+      "personId": 3364,
+      "character": "Commodore Schmidlapp",
+      "order": 10
+    },
+    {
+      "personId": 78776,
+      "character": "Vice Admiral Fangschliester",
+      "order": 11
+    },
+    {
+      "personId": 1214919,
+      "character": "Bluebeard",
+      "order": 12
+    },
+    {
+      "personId": 14256,
+      "character": "Morgan",
+      "order": 13
+    },
+    {
+      "personId": 100799,
+      "character": "Quetch",
+      "order": 14
+    },
+    {
+      "personId": 55700,
+      "character": "Guard (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1421073,
+      "character": "Official (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1624216,
+      "character": "Waiter (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 16527,
+      "character": "Picnicking Man (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 104601,
+      "character": "Picnicking Man (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1113,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "tmdbId": 51362,
+  "slug": "the-play-house-1921",
+  "year": 1921,
+  "runtime": 24,
+  "originalTitle": "The Play House",
+  "title": {
+    "en": "The Play House",
+    "tr": "The Play House"
+  },
+  "overview": {
+    "en": "Upon waking from the dream of a theater peopled entirely by numerous Buster Keatons, a lowly stage hand causes havoc everywhere he works.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/txGAT0nx3k1Za8JSBErqdD5T78T.jpg",
+    "en": "/ktC6esPLRlQqS2Dai8KZXFiQWLR.jpg"
+  },
+  "backdrops": [
+    "/a0KgDhPwCwgLO2ZYeeGGxeenJLt.jpg",
+    "/bEbGt3XnZC7jEZJk74RfyesK7nx.jpg",
+    "/rDCyzaOkl0d1sDloWzaOfbx7l6x.jpg",
+    "/pnojvBHH0O40wQmmBI6ENM1AVqb.jpg",
+    "/lTKmrL2U3fe5b0mePc9JRdhIgMG.jpg",
+    "/5AcQCUzU6BHQgTVCEQFLQ0h7euz.jpg",
+    "/c5Bli0rujm2UBxrCPxjxHglIoIu.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    14
+  ],
+  "keywordIds": [
+    9249,
+    154802,
+    263548
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 8635,
+      "job": "director"
+    },
+    {
+      "personId": 13953,
+      "job": "writer"
+    },
+    {
+      "personId": 10520,
+      "job": "producer"
+    },
+    {
+      "personId": 13953,
+      "job": "director"
+    },
+    {
+      "personId": 8635,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8635,
+      "character": "Orchestra / Minstrels / Dancers / Audience / Stagehand",
+      "order": 0
+    },
+    {
+      "personId": 13953,
+      "character": "Orangutan Trainer (uncredited)",
+      "order": 1
+    },
+    {
+      "personId": 121146,
+      "character": "Twin (uncredited)",
+      "order": 2
+    },
+    {
+      "personId": 180402,
+      "character": "One of the Zouaves (uncredited)",
+      "order": 3
+    },
+    {
+      "personId": 10525,
+      "character": "Actor / Stage Manager (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 89929,
+      "character": "Twin (uncredited)",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 151,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "tmdbId": 1678,
+  "slug": "godzilla-1954",
+  "year": 1954,
+  "runtime": 96,
+  "originalTitle": "ゴジラ",
+  "title": {
+    "en": "Godzilla",
+    "tr": "Godzilla"
+  },
+  "overview": {
+    "en": "Japan is thrown into a panic after several ships are sunk near Odo Island. An expedition to the island led by Dr. Kyohei Yamane soon discover something far more devastating than imagined in the form of a 50 meter tall monster whom the natives call Gojira. Now the monster begins a rampage that threatens to destroy not only Japan, but the rest of the world as well.",
+    "tr": "Dev canavar Godzilla, nükleer radyasyon yüzünden mutasyona uğramış, dinazor benzeri bir deniz canlısıdır. Radyoaktif ve ateş saçan nefesi ile gemileri, köyleri ve binaları ezip geçen Godzilla, Tokyo’ya doğru yol alırken oksijenini kesecek daha da korkunç bir bomba ile karşılaşır."
+  },
+  "poster": {
+    "tr": "/2W0Yw0qrgVMgdsSCZRKtfvaAh0i.jpg",
+    "en": "/fg635r7DxfmbQpnIh7vLCOsGoOG.jpg"
+  },
+  "backdrops": [
+    "/tWeQvXUaFoS0IP5anj7pdRsP6xF.jpg",
+    "/9kskVRVgXkiCWrWXEelMeadrf53.jpg",
+    "/UD0PBqGgXJOOqsNMOHeZ9Apjde.jpg",
+    "/ub1sIbdSrokPZawY2ljExXZov2j.jpg",
+    "/zrtmdBXAI5bNQ2azM1ck5bGac8B.jpg",
+    "/t6ZAWH36mFxZnnaR6APwLnz4bfN.jpg",
+    "/fN4DdXvXyqiazN4hkeoKdjZuK6O.jpg",
+    "/oSpAoYQtI0I3tBVK28fhz8IdpwF.jpg",
+    "/xAALK4iDFJWoNLjh1rK2UXLrw1x.jpg",
+    "/zZn4I16jCigfRaZ8DoVzWxreM2G.jpg"
+  ],
+  "trailerKey": "IVONRrcn9TI",
+  "genreIds": [
+    53,
+    27,
+    878
+  ],
+  "keywordIds": [
+    3799,
+    2041,
+    233,
+    1815,
+    2580,
+    11100,
+    3275,
+    12369,
+    12616,
+    12999,
+    158126,
+    161791,
+    180498,
+    223059,
+    257384,
+    317204
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [],
+  "studios": [
+    "TOHO",
+    "Toho Laboratory"
+  ],
+  "crew": [
+    {
+      "personId": 18598,
+      "job": "director"
+    },
+    {
+      "personId": 18606,
+      "job": "writer"
+    },
+    {
+      "personId": 18604,
+      "job": "producer"
+    },
+    {
+      "personId": 425396,
+      "job": "composer"
+    },
+    {
+      "personId": 18599,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 18598,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18615,
+      "character": "Hideto Ogata",
+      "order": 0
+    },
+    {
+      "personId": 33768,
+      "character": "Emiko Yamane",
+      "order": 1
+    },
+    {
+      "personId": 30568,
+      "character": "Daisuke Serizawa",
+      "order": 2
+    },
+    {
+      "personId": 7453,
+      "character": "Kyohei Yamane",
+      "order": 3
+    },
+    {
+      "personId": 235382,
+      "character": "Professor Tanabe",
+      "order": 4
+    },
+    {
+      "personId": 108026,
+      "character": "Hagiwara",
+      "order": 5
+    },
+    {
+      "personId": 134406,
+      "character": "President of Southern Seas Salvage",
+      "order": 6
+    },
+    {
+      "personId": 931393,
+      "character": "Masaji Yamada",
+      "order": 7
+    },
+    {
+      "personId": 125016,
+      "character": "Chairman of Diet Committee",
+      "order": 8
+    },
+    {
+      "personId": 1113864,
+      "character": "Parliamentarian Oyama",
+      "order": 9
+    },
+    {
+      "personId": 552168,
+      "character": "Chief of Emergency Headquarters",
+      "order": 10
+    },
+    {
+      "personId": 1478367,
+      "character": "Mayor Inada",
+      "order": 11
+    },
+    {
+      "personId": 1478363,
+      "character": "Shinkichi Yamada",
+      "order": 12
+    },
+    {
+      "personId": 108028,
+      "character": "Elder of Odo Island",
+      "order": 13
+    },
+    {
+      "personId": 110300,
+      "character": "Mrs. Ozawa",
+      "order": 14
+    },
+    {
+      "personId": 2393794,
+      "character": "Odo Islander",
+      "order": 15
+    },
+    {
+      "personId": 1200402,
+      "character": "Woman on Pleasure Boat / Woman on Train",
+      "order": 16
+    },
+    {
+      "personId": 136386,
+      "character": "Kuni Yamada",
+      "order": 17
+    },
+    {
+      "personId": 235386,
+      "character": "Professor Tanabe's Assistant",
+      "order": 18
+    },
+    {
+      "personId": 1478366,
+      "character": "Man on Pleasure Boat / Man on Train",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1194,
+  "sources": [
+    "cult-list"
+  ]
+}

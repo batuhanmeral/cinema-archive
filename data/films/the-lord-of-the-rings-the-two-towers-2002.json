@@ -1,0 +1,235 @@
+{
+  "tmdbId": 121,
+  "slug": "the-lord-of-the-rings-the-two-towers-2002",
+  "year": 2002,
+  "runtime": 179,
+  "originalTitle": "The Lord of the Rings: The Two Towers",
+  "title": {
+    "en": "The Lord of the Rings: The Two Towers",
+    "tr": "Yüzüklerin Efendisi: İki Kule"
+  },
+  "overview": {
+    "en": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor.",
+    "tr": "Yollarını kaybetmiş Hobbitler Frodo ve Sam, esrarengiz Gollum'un kendilerini takip ettiğini farkederler ve onu yakalarlar. Bir zamanlar bir Hobbit olan ve beş yüz yıl sahip olduğu Yüzük tarafından bozulup bir yaratığa dönüştürülen Gollum, kendisini serbest bırakmaları karşılığında, Hobbitleri Mordor'un Kara Kapıları'na götürmeye söz verir. Sam, yeni yol arkadaşına güvenmezken Frodo ise bir zamanlar kendisi gibi bu yüzüğü taşıyan Gollum'a acır. Başka şansı kalmadığı için Gollum'u takip eder."
+  },
+  "poster": {
+    "tr": "/eX1Yl1h9iVusGiqIrUA3cI16AbA.jpg",
+    "en": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg"
+  },
+  "backdrops": [
+    "/9BUvLUz1GhbNpcyQRyZm1HNqMq4.jpg",
+    "/7tNTPZMb13W0AhkcuoL6myRrNRr.jpg",
+    "/7ABgKch4hBX4qwCujRKM58fKsoG.jpg",
+    "/kWYfW2Re0rUDE6IHhy4CRuKWeFr.jpg",
+    "/zcc0My3G4SYR72VuEYHNcUWkkW0.jpg",
+    "/6G73mNyooWAEQTpckPSnFxFoNmc.jpg",
+    "/nOFLk8Pbd1FWxJI4QqNKYhFFvkN.jpg",
+    "/vniNIpJriu9WyWAdOF2vFIjM3eH.jpg",
+    "/4UZ9JGRTfeQGQollirsfGjvQkPw.jpg",
+    "/sYmSrG79Hqv0dpkAqRXT60wug0B.jpg"
+  ],
+  "trailerKey": "nuTU5XcZTLA",
+  "genreIds": [
+    12,
+    14,
+    28
+  ],
+  "keywordIds": [
+    10364,
+    818,
+    603,
+    604,
+    2343,
+    186,
+    1523,
+    1501,
+    3930,
+    3098,
+    5484,
+    9663,
+    156761,
+    163540,
+    170362,
+    177912,
+    188270,
+    189092,
+    193937,
+    209220,
+    209374,
+    211227,
+    232697,
+    234213,
+    238160,
+    249821,
+    259796,
+    269233,
+    282217,
+    332708,
+    361759,
+    375250,
+    380963
+  ],
+  "countries": [
+    "NZ",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New Line Cinema",
+    "WingNut Films",
+    "The Saul Zaentz Company"
+  ],
+  "crew": [
+    {
+      "personId": 108,
+      "job": "producer"
+    },
+    {
+      "personId": 1313,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 123,
+      "job": "producer"
+    },
+    {
+      "personId": 117,
+      "job": "composer"
+    },
+    {
+      "personId": 126,
+      "job": "producer"
+    },
+    {
+      "personId": 128,
+      "job": "writer"
+    },
+    {
+      "personId": 126,
+      "job": "writer"
+    },
+    {
+      "personId": 11325,
+      "job": "writer"
+    },
+    {
+      "personId": 108,
+      "job": "director"
+    },
+    {
+      "personId": 108,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 109,
+      "character": "Frodo",
+      "order": 0
+    },
+    {
+      "personId": 1327,
+      "character": "Gandalf",
+      "order": 1
+    },
+    {
+      "personId": 110,
+      "character": "Aragorn",
+      "order": 2
+    },
+    {
+      "personId": 1328,
+      "character": "Sam",
+      "order": 3
+    },
+    {
+      "personId": 1333,
+      "character": "Gollum",
+      "order": 4
+    },
+    {
+      "personId": 655,
+      "character": "Gimli / Treebeard (voice)",
+      "order": 5
+    },
+    {
+      "personId": 114,
+      "character": "Legolas",
+      "order": 6
+    },
+    {
+      "personId": 1369,
+      "character": "Théoden",
+      "order": 7
+    },
+    {
+      "personId": 502,
+      "character": "Éowyn",
+      "order": 8
+    },
+    {
+      "personId": 1330,
+      "character": "Merry",
+      "order": 9
+    },
+    {
+      "personId": 1329,
+      "character": "Pippin",
+      "order": 10
+    },
+    {
+      "personId": 113,
+      "character": "Saruman",
+      "order": 11
+    },
+    {
+      "personId": 112,
+      "character": "Galadriel",
+      "order": 12
+    },
+    {
+      "personId": 882,
+      "character": "Arwen",
+      "order": 13
+    },
+    {
+      "personId": 1331,
+      "character": "Elrond",
+      "order": 14
+    },
+    {
+      "personId": 1371,
+      "character": "Faramir",
+      "order": 15
+    },
+    {
+      "personId": 1370,
+      "character": "Wormtongue",
+      "order": 16
+    },
+    {
+      "personId": 1372,
+      "character": "Éomer",
+      "order": 17
+    },
+    {
+      "personId": 1332,
+      "character": "Haldir",
+      "order": 18
+    },
+    {
+      "personId": 173431,
+      "character": "Aldor",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 24862,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "tmdbId": 136,
+  "slug": "freaks-1932",
+  "year": 1932,
+  "runtime": 64,
+  "originalTitle": "Freaks",
+  "title": {
+    "en": "Freaks",
+    "tr": "Hilkat Garibeleri"
+  },
+  "overview": {
+    "en": "A circus' beautiful trapeze artist agrees to marry the leader of side-show performers, but his deformed friends discover she is only marrying him for his inheritance.",
+    "tr": "Freaks, Tod Browning’in kendi geçmiş deneyimlerinden yola çıkarak çektiği kült bir filmdir. Dönemin sirklerindeki gösterilerin parçası olan kolsuz ve bacaksız insanlar, siyam ikizleri, cüceler, iskelet insanlar, sakallı kadınlar, çift cinsiyetli insanlar gibi gerçek fiziksel deformasyonlarıyla hilkat garibelerini seyircinin önüne çıkarması Browning’in ağır eleştirilere maruz kalmasına hatta sinema kariyerinin sonlanmasına sebep olmuştur * Filmin hikayesi, hilkat garibeleriyle dolu bir sirkte geçer. Sirk artistleri arasında bulunan güzel trapez sanatçısı, cüce Hans’ın evlilik teklifini kabul eder. Fakat hilkat garibeleri, bu evliliğin Hans’ın parası için olduğunu öğrenirler. Onlarla dalga geçen trapezcinin, sevgilisi ile birlikte Hans’ı öldürme planları yaptığı ortaya çıktığındaysa, birbirlerine sıkı sıkıya bağlı olan hilkat garibeleri bu kadın ve sevgilisi için korkunç bir intikam planı hazırlarlar"
+  },
+  "poster": {
+    "tr": "/7E97rzE9jVqS3evi7fgW9DIR57s.jpg",
+    "en": "/j2dwljljOrLTcnwfKeUBBeNB8t7.jpg"
+  },
+  "backdrops": [
+    "/yukdRXb2bhpwDtCHKvQpQ0q77pd.jpg",
+    "/93znbN9MbBAtAgLwfUFXBbIK5qV.jpg",
+    "/43JJQ2ez6ThXzZVEh0DGN6ixQyP.jpg",
+    "/r18vpGFsNf6n984x4KdJmAAWKkP.jpg",
+    "/4Atb9GE4JTIiZJcRgGcJPlLhstD.jpg",
+    "/AetQ9LnRsHpeEn08UpPEvyAKan4.jpg",
+    "/fjDgemtbjwAlenbZLRQlUNDYjp7.jpg",
+    "/w9hqjz7eKRhnnJlDjFALemMjBrV.jpg",
+    "/8ux67xfdkmTsz9SgEKATJTjQlD6.jpg",
+    "/fXdxLImptdKY3T5WUXkq22auJlp.jpg"
+  ],
+  "trailerKey": "GjzvvYX8hmk",
+  "genreIds": [
+    18,
+    27
+  ],
+  "keywordIds": [
+    1326,
+    604,
+    2013,
+    3199,
+    3258,
+    3473,
+    9840,
+    9748,
+    9826,
+    12999,
+    156578,
+    156764,
+    157912,
+    162735,
+    163075,
+    171826,
+    172497,
+    180181,
+    184807,
+    189379,
+    192153,
+    207673,
+    215217,
+    215678,
+    229440,
+    234355,
+    235594,
+    235596,
+    235597,
+    235598,
+    235599,
+    235601,
+    293649
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 1496,
+      "job": "director"
+    },
+    {
+      "personId": 1498,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1496,
+      "job": "producer"
+    },
+    {
+      "personId": 1497,
+      "job": "producer"
+    },
+    {
+      "personId": 1503,
+      "job": "writer"
+    },
+    {
+      "personId": 1504,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1511,
+      "character": "Hans",
+      "order": 0
+    },
+    {
+      "personId": 1508,
+      "character": "Cleopatra",
+      "order": 1
+    },
+    {
+      "personId": 1512,
+      "character": "Frieda",
+      "order": 2
+    },
+    {
+      "personId": 1510,
+      "character": "Hercules",
+      "order": 3
+    },
+    {
+      "personId": 35849,
+      "character": "Phroso",
+      "order": 4
+    },
+    {
+      "personId": 1507,
+      "character": "Venus",
+      "order": 5
+    },
+    {
+      "personId": 1509,
+      "character": "Roscoe",
+      "order": 6
+    },
+    {
+      "personId": 97985,
+      "character": "Angeleno",
+      "order": 7
+    },
+    {
+      "personId": 119306,
+      "character": "Knife-Throwing Dwarf (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 1514,
+      "character": "Siamese Twin",
+      "order": 9
+    },
+    {
+      "personId": 1515,
+      "character": "Siamese Twin",
+      "order": 10
+    },
+    {
+      "personId": 1516,
+      "character": "Himself",
+      "order": 11
+    },
+    {
+      "personId": 1517,
+      "character": "Half Woman-Half Man",
+      "order": 12
+    },
+    {
+      "personId": 1522,
+      "character": "Half Boy",
+      "order": 13
+    },
+    {
+      "personId": 18348,
+      "character": "Armless Girl",
+      "order": 14
+    },
+    {
+      "personId": 1523,
+      "character": "Human Skeleton",
+      "order": 15
+    },
+    {
+      "personId": 1822993,
+      "character": "Bearded Lady",
+      "order": 16
+    },
+    {
+      "personId": 1519,
+      "character": "Herself",
+      "order": 17
+    },
+    {
+      "personId": 1521,
+      "character": "The Living Torso",
+      "order": 18
+    },
+    {
+      "personId": 1822994,
+      "character": "Armless Girl",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1355,
+  "sources": [
+    "cult-list"
+  ]
+}

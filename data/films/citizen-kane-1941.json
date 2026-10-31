@@ -1,0 +1,199 @@
+{
+  "tmdbId": 15,
+  "slug": "citizen-kane-1941",
+  "year": 1941,
+  "runtime": 119,
+  "originalTitle": "Citizen Kane",
+  "title": {
+    "en": "Citizen Kane",
+    "tr": "Yurttaş Kane"
+  },
+  "overview": {
+    "en": "Newspaper magnate Charles Foster Kane is taken from his mother as a boy and made the ward of a rich industrialist. As a result, every well-meaning, tyrannical or self-destructive move he makes for the rest of his life appears in some way to be a reaction to that deeply wounding event.",
+    "tr": "Zengin medya patronu Charles Foster Kane kendi özel şatosu Xanadu'da ölür. Ölürken son söz olan Rosabud'u fısıldar. Bütün gazetelerde Kane ile ilgili değişik hayat hikayeleri yayınlanır. Genç bir gazeteci Kane'nin son sözünün ne anlama geldiğini araştırmak için görevlendirilir. Gazeteci Kane'nin yakınlarıyla iletişime geçer. Biz de Kane'nin geçmişine tanık oluruz. Bu bireysel hikaye aynı zamanda mükemmelliyetçiliğin ve otoriter yönetimin hazin sonuçlarını da göstermektedir."
+  },
+  "poster": {
+    "tr": "/jqd48O8dKrevZfEJaWFukJ5vBmr.jpg",
+    "en": "/sav0jxhqiH0bPr2vZFU0Kjt2nZL.jpg"
+  },
+  "backdrops": [
+    "/ruF3Lmd4A8MHbnEBE6lxPMbsHGL.jpg",
+    "/9Y85oA1y6toL2OACXdaC6iTl7eQ.jpg",
+    "/3Ne0EpyuhZkIbfSyDzzMaNkb7Z7.jpg",
+    "/apbg31SYrIx7dsTJNrAhQWsWdEM.jpg",
+    "/cx0MI8FNf17wTDd8mtMd9Nhzj2U.jpg",
+    "/vVMh8NK0IqxiRdiEztHfClyRnNw.jpg",
+    "/9dHoS2MplcEph22NjWEgGkHj1zp.jpg",
+    "/w3XMVPKSoJomM7G5tAq3kXxdhKX.jpg",
+    "/cOtoZSMUnPb3H5zT6uLZmkOHHyp.jpg",
+    "/iDm3ZcS3lrFpsv42PSg006oHlaE.jpg"
+  ],
+  "trailerKey": "fAcLNMkzfTE",
+  "genreIds": [
+    9648,
+    18
+  ],
+  "keywordIds": [
+    3587,
+    1196,
+    3660,
+    918,
+    2110,
+    736,
+    3661,
+    3515,
+    2355,
+    3837,
+    10594,
+    12999,
+    171826,
+    191072,
+    208349,
+    328926
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Mercury Productions",
+    "RKO Radio Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 40,
+      "job": "writer"
+    },
+    {
+      "personId": 30012,
+      "job": "writer"
+    },
+    {
+      "personId": 1045,
+      "job": "composer"
+    },
+    {
+      "personId": 40,
+      "job": "director"
+    },
+    {
+      "personId": 40,
+      "job": "producer"
+    },
+    {
+      "personId": 8504,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 40,
+      "character": "Charles Foster Kane",
+      "order": 0
+    },
+    {
+      "personId": 7664,
+      "character": "Jedediah Leland",
+      "order": 1
+    },
+    {
+      "personId": 11029,
+      "character": "Susan Alexander Kane",
+      "order": 2
+    },
+    {
+      "personId": 14518,
+      "character": "Jim W. Gettys",
+      "order": 3
+    },
+    {
+      "personId": 11028,
+      "character": "Walter Parks Thatcher",
+      "order": 4
+    },
+    {
+      "personId": 11025,
+      "character": "Mary Kane",
+      "order": 5
+    },
+    {
+      "personId": 11033,
+      "character": "Raymond",
+      "order": 6
+    },
+    {
+      "personId": 11026,
+      "character": "Emily Norton Kane",
+      "order": 7
+    },
+    {
+      "personId": 14364,
+      "character": "Herbert Carter",
+      "order": 8
+    },
+    {
+      "personId": 11030,
+      "character": "Jerry Thompson/Narrator",
+      "order": 9
+    },
+    {
+      "personId": 11027,
+      "character": "Mr. Bernstein",
+      "order": 10
+    },
+    {
+      "personId": 14979,
+      "character": "Signor Matiste",
+      "order": 11
+    },
+    {
+      "personId": 33743,
+      "character": "John",
+      "order": 12
+    },
+    {
+      "personId": 11031,
+      "character": "Mr. Rawlston",
+      "order": 13
+    },
+    {
+      "personId": 105021,
+      "character": "Bertha Anderson",
+      "order": 14
+    },
+    {
+      "personId": 4077,
+      "character": "Jim Kane",
+      "order": 15
+    },
+    {
+      "personId": 1198371,
+      "character": "Charles Foster Kane III",
+      "order": 16
+    },
+    {
+      "personId": 11032,
+      "character": "Young Charles Foster Kane",
+      "order": 17
+    },
+    {
+      "personId": 8504,
+      "character": "Interviewer",
+      "order": 18
+    },
+    {
+      "personId": 945285,
+      "character": "Man at Party in Everglades (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 6317,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "tmdbId": 20021,
+  "slug": "the-king-2006",
+  "year": 2006,
+  "runtime": 105,
+  "originalTitle": "The King",
+  "title": {
+    "en": "The King",
+    "tr": "Kral"
+  },
+  "overview": {
+    "en": "When Elvis Valderez is honourably discharged from the Navy, he heads to the small Texas town of Corpus Christi, where he introduces himself to Pastor David Sandow, his long-lost father, soon becoming a stalwart member of the church.",
+    "tr": "Deniz Kuvvetleri'nden terhis olan Elvis (Gael Garcia Bernal) hiç görmediği babasını bulmak için küçük bir kasabaya gelir. Babası David Sandow (William Hurt) geçmişine sünger çekmiş, kendini dine vermiş ve bu küçük kasabanın çok sevilen rahibi olmuştur. Karısı ve yetişkin iki çocuğuyla sakin bir hayat sürmektedir. Oğlu Paul (Paul Dano) üniversiteye yazılmıştır. Kızı Malerie (Pell James) okulu, evi ve kilise arasında sıradan bir hayat sürmektedir. David'in bu yeni hayatında \"bir gençlik hatası\" olarak gördüğü Elvis'e yer yoktur. Ama Elvis, kapalı kapıları bir şekilde açmayı başaracaktır... Şiddet yoluyla bile olsa."
+  },
+  "poster": {
+    "tr": "/936i1LOZJARcpCh3sdBch7wBXBx.jpg",
+    "en": "/936i1LOZJARcpCh3sdBch7wBXBx.jpg"
+  },
+  "backdrops": [
+    "/z32qfa3XfKzDvIe73epuaqUtijk.jpg"
+  ],
+  "trailerKey": "-tmf73KmWro",
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    11254,
+    33841,
+    183886
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "ContentFilm",
+    "Film4 Productions",
+    "Pressman Film"
+  ],
+  "crew": [
+    {
+      "personId": 76998,
+      "job": "director"
+    },
+    {
+      "personId": 16447,
+      "job": "writer"
+    },
+    {
+      "personId": 76998,
+      "job": "writer"
+    },
+    {
+      "personId": 1414613,
+      "job": "composer"
+    },
+    {
+      "personId": 29231,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 16447,
+      "job": "producer"
+    },
+    {
+      "personId": 208693,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 258,
+      "character": "Elvis Valderez",
+      "order": 0
+    },
+    {
+      "personId": 227,
+      "character": "Pastor David Sandow",
+      "order": 1
+    },
+    {
+      "personId": 4441,
+      "character": "Malerie",
+      "order": 2
+    },
+    {
+      "personId": 17142,
+      "character": "Paul",
+      "order": 3
+    },
+    {
+      "personId": 15007,
+      "character": "Twyla",
+      "order": 4
+    },
+    {
+      "personId": 1275806,
+      "character": "Scoot",
+      "order": 5
+    },
+    {
+      "personId": 1072593,
+      "character": "Brothel Manager",
+      "order": 6
+    },
+    {
+      "personId": 16447,
+      "character": "Bruno",
+      "order": 7
+    },
+    {
+      "personId": 1085537,
+      "character": "Old Man with Hungry Dog",
+      "order": 8
+    },
+    {
+      "personId": 217322,
+      "character": "Salesman",
+      "order": 9
+    },
+    {
+      "personId": 994259,
+      "character": "Chairman",
+      "order": 10
+    },
+    {
+      "personId": 111002,
+      "character": "Clown",
+      "order": 11
+    },
+    {
+      "personId": 978608,
+      "character": "Murray",
+      "order": 12
+    },
+    {
+      "personId": 2857,
+      "character": "Home Ec Teacher",
+      "order": 13
+    },
+    {
+      "personId": 1507356,
+      "character": "Rum Jungle Singer",
+      "order": 14
+    },
+    {
+      "personId": 5764524,
+      "character": "Elvis' Girl",
+      "order": 15
+    },
+    {
+      "personId": 1837002,
+      "character": "Barton Springs Extra (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1817334,
+      "character": "Security Guard (uncredited)",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 74,
+  "sources": [
+    "cult-list"
+  ]
+}

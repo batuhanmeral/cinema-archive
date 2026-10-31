@@ -1,0 +1,183 @@
+{
+  "tmdbId": 105627,
+  "slug": "the-joke-1969",
+  "year": 1969,
+  "runtime": 77,
+  "originalTitle": "Žert",
+  "title": {
+    "en": "The Joke",
+    "tr": "Žert"
+  },
+  "overview": {
+    "en": "In the 1950s, Ludvik Jahn was expelled from the Communist Party and the University by his fellow students, because of a politically incorrect note he sent to his girlfriend. Fifteen years later, he tries to get his revenge by seducing Helena, the wife of one of his accusers.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/koQFbDEnbq1JPZO4KrlQhdHjTSQ.jpg",
+    "en": "/koQFbDEnbq1JPZO4KrlQhdHjTSQ.jpg"
+  },
+  "backdrops": [
+    "/f1VSYIc7svIliTfVtd8MJqqvhtT.jpg",
+    "/g028h2OKPIV5oWRb2ta4CfE72MT.jpg",
+    "/3875V5bMpDCN2BoJNXu1kHyEoFB.jpg",
+    "/4TsJdwPz4BeRLt0RkwTT1K5c6AQ.jpg",
+    "/k0r7Dl5XvOjg471gbYz2ysIOCh3.jpg",
+    "/cjNn4uyLBieHc1f7UrtMT1jnXHc.jpg"
+  ],
+  "trailerKey": "xxbYHvPBuHE",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    596,
+    818,
+    6078,
+    1946,
+    6298,
+    9748,
+    10937,
+    163410,
+    181957,
+    189435,
+    189436
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "Filmové studio Barrandov"
+  ],
+  "crew": [
+    {
+      "personId": 588758,
+      "job": "writer"
+    },
+    {
+      "personId": 40239,
+      "job": "writer"
+    },
+    {
+      "personId": 588758,
+      "job": "director"
+    },
+    {
+      "personId": 1136823,
+      "job": "composer"
+    },
+    {
+      "personId": 227134,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11732,
+      "character": "Ludvik Jahn",
+      "order": 0
+    },
+    {
+      "personId": 549111,
+      "character": "Helena Zemánková",
+      "order": 1
+    },
+    {
+      "personId": 227399,
+      "character": "Pavel Zemánek",
+      "order": 2
+    },
+    {
+      "personId": 144318,
+      "character": "Marketa",
+      "order": 3
+    },
+    {
+      "personId": 1035927,
+      "character": "Kostka",
+      "order": 4
+    },
+    {
+      "personId": 1136828,
+      "character": "Jaroslav",
+      "order": 5
+    },
+    {
+      "personId": 1136827,
+      "character": "Alexej",
+      "order": 6
+    },
+    {
+      "personId": 1038491,
+      "character": "Věra",
+      "order": 7
+    },
+    {
+      "personId": 55733,
+      "character": "Lieutenant",
+      "order": 8
+    },
+    {
+      "personId": 1136826,
+      "character": "Jindra",
+      "order": 9
+    },
+    {
+      "personId": 133295,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 3570908,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1136830,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1136829,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1518333,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1845748,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1406232,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 3020014,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 2568639,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 138064,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 43,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "tmdbId": 149,
+  "slug": "akira-1988",
+  "year": 1988,
+  "runtime": 124,
+  "originalTitle": "AKIRA",
+  "title": {
+    "en": "Akira",
+    "tr": "Akira"
+  },
+  "overview": {
+    "en": "A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psychic psychopath that only two teenagers and a group of psychics can stop.",
+    "tr": "Yıl 2019. 3. Dünya Savaşı'ndan 31 yıl sonra. Yıkılan Tokyo yerine yapılan Neo-Tokyo'da kaos hüküm sürmektedir. Polis ve hükümet güçleri yeraltı örgütlerine karşı mücadele etmektedirler.  Kaneda ve motosiklet çetesi, otoriteyi hiçe sayarak bildikleri gibi yaşamakta ve zamanalarını serserilik etmekle geçirmektedirler. Birgün çete üyesi Tetsuo, küçük bir çocuğun da bulunduğu bir kazaya karışır ve ağır yaralanır. Olay yerine gelen askeri birlikler Tetsuo'yu da alarak ayrılırlar ve üzerinde bir takım deneyler yaparlar.  3. Dünya Savaşı'na yol açan ve Tokyo'nun yıkılmasına sebep olan Akira Fenomeni nedir? Tetsuo'yu ne bekliyor? Kei ve örgütü neyin peşinde? Gizemler birbiri üzerine gelecek ve cevapları bu görsel şölende kendini gösterecek."
+  },
+  "poster": {
+    "tr": "/neZ0ykEsPqxamsX6o5QNUFILQrz.jpg",
+    "en": "/5KlRFKKSbyCiyYpZSS3A6G5bW0K.jpg"
+  },
+  "backdrops": [
+    "/fK40VGYIm7hmKrLJ26fgPQU0qRG.jpg",
+    "/jkwVCMIkN3j284EPIDIGnskTd69.jpg",
+    "/jmlM5sa8vrBWHSBubqAithX6Fx5.jpg",
+    "/pHtVkUvKiG7CEemZkUiqPzjpMri.jpg",
+    "/acEltN5Rgo7qT9xASdq4rHqteG1.jpg",
+    "/cYlqYcJjwRKdvixzSryntq97yuq.jpg",
+    "/fsEGFZUYE1d1ME78GhKgm89PNqo.jpg",
+    "/9uyoEpuSOnajLECZQ1yBI10dej5.jpg",
+    "/y1WyYC0noCSTf9nuS5Sh5hA9uZ1.jpg",
+    "/mlaGP3B1ehVrUD4DNFkhYrzfVPw.jpg"
+  ],
+  "trailerKey": "Jq4ER-P6NCQ",
+  "genreIds": [
+    16,
+    878,
+    28
+  ],
+  "keywordIds": [
+    6092,
+    542,
+    83,
+    464,
+    1706,
+    1402,
+    467,
+    1815,
+    1485,
+    1353,
+    2766,
+    4565,
+    12190,
+    13141,
+    14736,
+    161919,
+    164218,
+    210024,
+    257783,
+    325856
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "MBS",
+    "Sumitomo Corporation",
+    "TOHO"
+  ],
+  "crew": [
+    {
+      "personId": 1696,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1677,
+      "job": "writer"
+    },
+    {
+      "personId": 185,
+      "job": "director"
+    },
+    {
+      "personId": 1691,
+      "job": "producer"
+    },
+    {
+      "personId": 1695,
+      "job": "composer"
+    },
+    {
+      "personId": 185,
+      "job": "writer"
+    },
+    {
+      "personId": 1801494,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1678,
+      "character": "Shotaro Kaneda (voice)",
+      "order": 0
+    },
+    {
+      "personId": 1679,
+      "character": "Tetsuo Shima (voice)",
+      "order": 1
+    },
+    {
+      "personId": 1680,
+      "character": "Kei (voice)",
+      "order": 2
+    },
+    {
+      "personId": 58158,
+      "character": "Colonel Shikishima",
+      "order": 3
+    },
+    {
+      "personId": 239550,
+      "character": "Doctor Ônishi",
+      "order": 4
+    },
+    {
+      "personId": 1681,
+      "character": "Ryûsaku (voice)",
+      "order": 5
+    },
+    {
+      "personId": 1683,
+      "character": "Priestess Miyako / Council A (voice)",
+      "order": 6
+    },
+    {
+      "personId": 1684,
+      "character": "Kaori (voice)",
+      "order": 7
+    },
+    {
+      "personId": 1685,
+      "character": "Yamagata (voice)",
+      "order": 8
+    },
+    {
+      "personId": 1686,
+      "character": "Kai (voice)",
+      "order": 9
+    },
+    {
+      "personId": 1687,
+      "character": "Masaru / No. 27 (voice)",
+      "order": 10
+    },
+    {
+      "personId": 1688,
+      "character": "Takashi / No. 26 (voice)",
+      "order": 11
+    },
+    {
+      "personId": 1689,
+      "character": "Kiyoko / No. 25 (voice)",
+      "order": 12
+    },
+    {
+      "personId": 2734649,
+      "character": "Girl C (voice)",
+      "order": 13
+    },
+    {
+      "personId": 1682,
+      "character": "Nezu (voice)",
+      "order": 14
+    },
+    {
+      "personId": 550820,
+      "character": "Army (voice)",
+      "order": 15
+    },
+    {
+      "personId": 1251441,
+      "character": "Committee F / Spy / Yûji Takeyama / Terrorist (voice)",
+      "order": 16
+    },
+    {
+      "personId": 1810970,
+      "character": "Engineer Sakiyama / Committe D (voice)",
+      "order": 17
+    },
+    {
+      "personId": 100125,
+      "character": "Inspector / Committee I (voice)",
+      "order": 18
+    },
+    {
+      "personId": 550927,
+      "character": "Army / Committee G / Eiichi Watanabe (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 5090,
+  "sources": [
+    "cult-list"
+  ]
+}

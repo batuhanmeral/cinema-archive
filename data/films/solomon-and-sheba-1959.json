@@ -1,0 +1,195 @@
+{
+  "tmdbId": 29996,
+  "slug": "solomon-and-sheba-1959",
+  "year": 1959,
+  "runtime": 139,
+  "originalTitle": "Solomon and Sheba",
+  "title": {
+    "en": "Solomon and Sheba",
+    "tr": "Hz. Süleyman ve Saba Melikesi"
+  },
+  "overview": {
+    "en": "Near death, King David has a vision that his poet son, Solomon, should succeed him, rather than hot-headed Adonijah. Furious, Adonijah departs the court, swearing he will become king. Other rulers are concerned that Solomon's benevolent rule and interest in monotheism will threaten their tyrannical, polytheistic kingdoms. The Queen of Sheba makes an agreement with the Egyptian pharaoh to corrupt Solomon for their mutual benefit.",
+    "tr": "Kral Davut'un yönetimi altında İsrail, Mısır ve müttefikleri de dahil olmak üzere düşmanlarla çevrili olmasına rağmen birleşik ve müreffeh. Yaşlanan Kral Davut, halefi olarak küçük oğlu Süleyman'ı tercih eder, ancak Davut'un bir savaşçı olan büyük oğlu Prens Adoniya kendini Kral ilan eder. David bunu öğrendiğinde, Süleyman'ı halefi olarak ilan eder. Adoniya ve generali Yoab öfkeyle geri çekilirler. İsrail, Kral Süleyman'ın bilge ve yardımsever yönetimi altında gelişiyor ve bölgedeki daha zalim hükümdarlar için bir tehdit olarak görülüyor. Mısır Firavunu, Süleyman'ın yönetimini baltalamak için Kızıldeniz limanını Saba Kraliçesi'ne devretmeyi kabul eder. Sheba, Süleyman'ı baştan çıkarmak ve Sheban pagan ibadetini Kudüs'e tanıtmaktır. Bu arada, şimdi sürgüne gönderilen Prens Adonijah da Firavun ile komplo kurar ve Süleyman'ı yenmek için bir ordu verilir. Film, İncil - Birinci Krallar bölüm 10 ve İkinci Tarihler bölüm 9'da tasvir edilen olayların oldukça kurgusal bir dramatizasyonudur."
+  },
+  "poster": {
+    "tr": "/sQPLRT014vOADFyvh54TpXFyBPZ.jpg",
+    "en": "/sQPLRT014vOADFyvh54TpXFyBPZ.jpg"
+  },
+  "backdrops": [
+    "/lRCzwOKb5Xq4NTGpCIcJrCJPVhl.jpg",
+    "/fpWIXlNObDjhKvkSsmfiZTliyTF.jpg",
+    "/mB0p1RSFkF1Cr6iIRo5PwhYsoQZ.jpg",
+    "/sfwoOuv5kuyi5nkaQaFxnNJriMn.jpg",
+    "/kG4yaudUbEnWF16AwtVKHAs0wDO.jpg",
+    "/lxZSP1p2PnfPC6sDJVBE3p8NOyo.jpg",
+    "/5AnLaHNnNy8odBWFOCBCWFdQqrw.jpg",
+    "/gtgCmA5QwFF6fjgqcI64DNVmnRa.jpg",
+    "/puwZCv9H6UPMKWxxB62xeevQ95t.jpg",
+    "/hQfOlecwm85yFn0QJKkBiJ5q2KK.jpg"
+  ],
+  "trailerKey": "5aUfjOGvsLU",
+  "genreIds": [
+    36,
+    10749,
+    10752
+  ],
+  "keywordIds": [
+    1160,
+    536,
+    3684,
+    210015,
+    256363
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Edward Small Productions",
+    "United Artists"
+  ],
+  "crew": [
+    {
+      "personId": 29962,
+      "job": "director"
+    },
+    {
+      "personId": 84940,
+      "job": "writer"
+    },
+    {
+      "personId": 67447,
+      "job": "writer"
+    },
+    {
+      "personId": 33216,
+      "job": "composer"
+    },
+    {
+      "personId": 10079,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 34494,
+      "job": "producer"
+    },
+    {
+      "personId": 12241,
+      "job": "composer"
+    },
+    {
+      "personId": 10922,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14528,
+      "character": "Solomon",
+      "order": 0
+    },
+    {
+      "personId": 19534,
+      "character": "Sheba",
+      "order": 1
+    },
+    {
+      "personId": 3361,
+      "character": "Adonijah",
+      "order": 2
+    },
+    {
+      "personId": 117617,
+      "character": "Abishag",
+      "order": 3
+    },
+    {
+      "personId": 91617,
+      "character": "Pharaoh",
+      "order": 4
+    },
+    {
+      "personId": 15693,
+      "character": "Joab",
+      "order": 5
+    },
+    {
+      "personId": 10027,
+      "character": "David",
+      "order": 6
+    },
+    {
+      "personId": 19463,
+      "character": "Baltor",
+      "order": 7
+    },
+    {
+      "personId": 14822,
+      "character": "Ahab",
+      "order": 8
+    },
+    {
+      "personId": 1031918,
+      "character": "Bathsheba",
+      "order": 9
+    },
+    {
+      "personId": 552409,
+      "character": "Nathan",
+      "order": 10
+    },
+    {
+      "personId": 13331,
+      "character": "Josiah",
+      "order": 11
+    },
+    {
+      "personId": 39028,
+      "character": "Takyan",
+      "order": 12
+    },
+    {
+      "personId": 69764,
+      "character": "Hezrai",
+      "order": 13
+    },
+    {
+      "personId": 12742,
+      "character": "Zadok",
+      "order": 14
+    },
+    {
+      "personId": 99509,
+      "character": "Mother of Disputed Child (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 89775,
+      "character": "Egyptian General (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 83851,
+      "character": "Sittar (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 2896433,
+      "character": "Girl (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 103469,
+      "character": "(uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 109,
+  "sources": [
+    "cult-list"
+  ]
+}

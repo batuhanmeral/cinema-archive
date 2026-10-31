@@ -1,0 +1,161 @@
+{
+  "tmdbId": 8072,
+  "slug": "alphaville-1965",
+  "year": 1965,
+  "runtime": 99,
+  "originalTitle": "Alphaville, une étrange aventure de Lemmy Caution",
+  "title": {
+    "en": "Alphaville",
+    "tr": "Alphaville, Lemmy Caution'un Garip Serüveni"
+  },
+  "overview": {
+    "en": "Lemmy Caution is on a mission to eliminate Professor Von Braun, the creator of a malevolent computer that rules the city of Alphaville. Befriended by the scientist’s daughter Natasha, Lemmy must unravel the mysteries of the strictly logical Alpha 60 and teach Natasha the meaning of the word “love.”",
+    "tr": "Jean-Luc Godard'dan marksist bir polisiye! Godard'ın karanlıkta, elindeki filmlerin duyarlılığına hiç aldırmadan, korkusuzca ve tam bir avantgarde gibi kotardığı \"Alphaville\", Alfa Şehrine gelen bir dedektifin öyküsü aracılığı ile, modern dünyayı, kapitalizmi, geleceği ve toplumsal-ekonomik ilişkileri sorguluyor. * Amerikalı özel dedektif Lemmy Caution, başka bir gezegendeki baskıyla yönetilen bir ülkenin başkenti Alphaville'e gelir. Amacı ülkenin başkanına suikast düzenlemektir. Alpha 60 isimli başkan aslında insan benzeri bir robottan başka bir şey değildir. Ne var ki Lemmy olaylar esnasında çekici bir kadın olan Natacha'yla tanışıp aşık olur. Güzel kadın, Alpha 60'ı tasarlayan bilimadamının kızıdır. Dolayısıyla Lemmy'nin görevi önündeki en büyük engel bu kızla yaşadığı ilişki oluverir."
+  },
+  "poster": {
+    "tr": "/fFJP3D5fJDFxN7ChqSye1DZ0fTL.jpg",
+    "en": "/fFJP3D5fJDFxN7ChqSye1DZ0fTL.jpg"
+  },
+  "backdrops": [
+    "/iOUhnp01rP9Xr5QG66LMAKSDkYv.jpg",
+    "/p4CqWlfmU5FK2oWqbHVxyb6f57u.jpg",
+    "/zUmgVFItMrplBjjJL1LCL5ig3ef.jpg",
+    "/rej0bhcuPJUJCXWcFyCITfw9BdC.jpg",
+    "/cPp7dVE2X5Az0r8Ziq6Inm0UKGw.jpg",
+    "/wUsq3mTMmyaQzCUJjJtUSWAljLo.jpg",
+    "/4pA7IToALFlaWvGkJYqD4eaHeCy.jpg",
+    "/ynY8OxNe2vh3nrcYvjtlnsbsRIx.jpg",
+    "/jO3nMdeS0IiTl4n39FE2ePXv3nC.jpg",
+    "/fjMG4pxdNNxeO4XES5FPcS33bPw.jpg"
+  ],
+  "trailerKey": "CzaATgGHmy0",
+  "genreIds": [
+    18,
+    878,
+    9648
+  ],
+  "keywordIds": [
+    6025,
+    4565,
+    3222,
+    9887,
+    9807,
+    155517,
+    155790,
+    155845,
+    199320,
+    210512,
+    210591,
+    290902
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Filmstudio",
+    "Athos Films",
+    "Chaumiane"
+  ],
+  "crew": [
+    {
+      "personId": 24295,
+      "job": "composer"
+    },
+    {
+      "personId": 3540,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3776,
+      "job": "director"
+    },
+    {
+      "personId": 3776,
+      "job": "writer"
+    },
+    {
+      "personId": 4486928,
+      "job": "producer"
+    },
+    {
+      "personId": 1180766,
+      "job": "producer"
+    },
+    {
+      "personId": 4486932,
+      "job": "producer"
+    },
+    {
+      "personId": 1488989,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19794,
+      "character": "Lemmy Caution",
+      "order": 0
+    },
+    {
+      "personId": 18197,
+      "character": "Natacha von Braun",
+      "order": 1
+    },
+    {
+      "personId": 30719,
+      "character": "Henri Dickson",
+      "order": 2
+    },
+    {
+      "personId": 1175258,
+      "character": "2nd Seductress Third Class (uncredited)",
+      "order": 3
+    },
+    {
+      "personId": 548814,
+      "character": "Prof. Jeckell (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 38903,
+      "character": "von Braun's Assistant (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 246358,
+      "character": "1st Seductress Third Class (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 1653,
+      "character": "Breakfast Waiter (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 38899,
+      "character": "Chief Engineer (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 13696,
+      "character": "Léonard von Braun (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 272877,
+      "character": "Red Star Hotel Receptionist (uncredited)",
+      "order": 10
+    }
+  ],
+  "awards": {
+    "berlin": 1
+  },
+  "voteCount": 644,
+  "sources": [
+    "cult-list"
+  ]
+}

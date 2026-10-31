@@ -1,0 +1,201 @@
+{
+  "tmdbId": 9905,
+  "slug": "shallow-grave-1994",
+  "year": 1994,
+  "runtime": 93,
+  "originalTitle": "Shallow Grave",
+  "title": {
+    "en": "Shallow Grave",
+    "tr": "Mezarını Derin Kaz"
+  },
+  "overview": {
+    "en": "When David, Juliet, and Alex find their new roommate dead with a large sum of money, they agree to hide the body and keep the cash. However, this newfound fortune gradually corrodes their friendship.",
+    "tr": "Alaycı üç arkadaş, görüşme yaptıkları bir sürü aday arasından sonunda yeni bir kiracı seçer. Ancak kiracıyı odasında ölü bulduklarında keşfettikleri tomarlarca para, ‘sorun’u polis karıştırmadan kendi aralarında ‘halletmek’ için bir mazeret olur. Peki bu yanlarına kalacak mıdır? Seyredin ve görün!"
+  },
+  "poster": {
+    "tr": "/rmmx2kgkpYpzLwokOagJBnRT3RK.jpg",
+    "en": "/gqvSKLbfIg1mja1ulVkVcLhdwWF.jpg"
+  },
+  "backdrops": [
+    "/j6zzpfGhYP9JAmKd99VLQ5S4JPi.jpg",
+    "/b5ezyxIsgln4t7dWWnbHdfnczac.jpg",
+    "/vj9b9An8BxVK5xkFFdk7V08cK3V.jpg",
+    "/qPm2JWGq3LnoTmfbi8flzJRImbc.jpg",
+    "/5hDkLootEE1puG9zUWC9gJS4llM.jpg",
+    "/heEnusgsG0r8qGnKOVGOx129gU3.jpg",
+    "/54ZmUoaEcyrLkbVZBFbmXXcmmBM.jpg",
+    "/iHIsUMIpRYt1Ox82xiwdP7qTW2k.jpg",
+    "/rCZKbh5iiq3dHgO0LH5qzzf64gL.jpg",
+    "/ruBF6wKpmVu3neASgguiiML84FQ.jpg"
+  ],
+  "trailerKey": "xKrfUAho5as",
+  "genreIds": [
+    80,
+    53
+  ],
+  "keywordIds": [
+    1448,
+    388,
+    1253,
+    2635,
+    10123,
+    3130,
+    10594,
+    155704,
+    166623,
+    207268,
+    210162,
+    256330,
+    266753,
+    309974,
+    316832,
+    319397,
+    322752,
+    325763,
+    325803,
+    325857,
+    336810
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Glasgow Film Fund",
+    "Figment Films",
+    "Film Four International"
+  ],
+  "crew": [
+    {
+      "personId": 473,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2035,
+      "job": "producer"
+    },
+    {
+      "personId": 8999,
+      "job": "writer"
+    },
+    {
+      "personId": 2034,
+      "job": "director"
+    },
+    {
+      "personId": 7741,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3061,
+      "character": "Alex Law",
+      "order": 0
+    },
+    {
+      "personId": 2040,
+      "character": "David Stephens",
+      "order": 1
+    },
+    {
+      "personId": 17258,
+      "character": "Juliet Miller",
+      "order": 2
+    },
+    {
+      "personId": 25136,
+      "character": "Detective Inspector McCall",
+      "order": 3
+    },
+    {
+      "personId": 20056,
+      "character": "Hugo",
+      "order": 4
+    },
+    {
+      "personId": 149359,
+      "character": "Cameron",
+      "order": 5
+    },
+    {
+      "personId": 3064,
+      "character": "Andy",
+      "order": 6
+    },
+    {
+      "personId": 480,
+      "character": "Visitor",
+      "order": 7
+    },
+    {
+      "personId": 1739314,
+      "character": "Doctor",
+      "order": 8
+    },
+    {
+      "personId": 1739324,
+      "character": "Lumsden",
+      "order": 9
+    },
+    {
+      "personId": 2220,
+      "character": "Travel Agent",
+      "order": 10
+    },
+    {
+      "personId": 8999,
+      "character": "DC Mitchell",
+      "order": 11
+    },
+    {
+      "personId": 1739329,
+      "character": "Tim",
+      "order": 12
+    },
+    {
+      "personId": 1739330,
+      "character": "Visitor",
+      "order": 13
+    },
+    {
+      "personId": 1075038,
+      "character": "Goth",
+      "order": 14
+    },
+    {
+      "personId": 2877761,
+      "character": "Cash Machine Victim",
+      "order": 15
+    },
+    {
+      "personId": 2877763,
+      "character": "Bath Victim",
+      "order": 16
+    },
+    {
+      "personId": 1231388,
+      "character": "Freezer Victim",
+      "order": 17
+    },
+    {
+      "personId": 2877764,
+      "character": "Master of Ceremonies",
+      "order": 18
+    },
+    {
+      "personId": 218186,
+      "character": "Brian McKinley",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "bafta": 1
+  },
+  "voteCount": 1230,
+  "sources": [
+    "cult-list"
+  ]
+}

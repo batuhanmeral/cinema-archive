@@ -1,0 +1,87 @@
+{
+  "tmdbId": 48227,
+  "slug": "la-soufriere-waiting-for-an-inevitable-catastrophe-1977",
+  "year": 1977,
+  "runtime": 31,
+  "originalTitle": "La Soufrière: Warten auf eine unausweichliche Katastrophe",
+  "title": {
+    "en": "La Soufrière: Waiting for an Inevitable Catastrophe",
+    "tr": "La Soufrière: Warten auf eine unausweichliche Katastrophe"
+  },
+  "overview": {
+    "en": "Werner Herzog takes a film crew to the island of Guadeloupe when he hears that the volcano on the island is going to erupt. Everyone has left, except for one old man who refuses to leave.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yNoPeBRIE4zEgVBpgPLx2n1gNgS.jpg",
+    "en": "/yNoPeBRIE4zEgVBpgPLx2n1gNgS.jpg"
+  },
+  "backdrops": [
+    "/2PPhgOQXgophTbWOBnlLIJOJBRC.jpg",
+    "/4o4cJwOBzG9zwPVqX4wv6fKlljm.jpg",
+    "/4ucGPaY9FvAPP6eFOnTMd752ZAq.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    3347,
+    12987,
+    14796,
+    221999
+  ],
+  "countries": [
+    "DE",
+    "GP"
+  ],
+  "languages": [
+    "de",
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Werner Herzog Filmproduktion",
+    "Süddeutscher Rundfunk"
+  ],
+  "crew": [
+    {
+      "personId": 6818,
+      "job": "director"
+    },
+    {
+      "personId": 49496,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6818,
+      "job": "producer"
+    },
+    {
+      "personId": 6345,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6818,
+      "character": "Narrator (voice)",
+      "order": 0
+    },
+    {
+      "personId": 6345,
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "personId": 49496,
+      "character": "Self",
+      "order": 2
+    }
+  ],
+  "awards": {},
+  "voteCount": 66,
+  "sources": [
+    "cult-list"
+  ]
+}

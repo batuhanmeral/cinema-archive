@@ -1,0 +1,202 @@
+{
+  "tmdbId": 13333,
+  "slug": "game-of-death-1978",
+  "year": 1978,
+  "runtime": 101,
+  "originalTitle": "死亡遊戲",
+  "title": {
+    "en": "Game of Death",
+    "tr": "Ölüm Oyunu"
+  },
+  "overview": {
+    "en": "A martial arts movie star must fake his death to find the people who are trying to kill him.",
+    "tr": "Bu film Bruce Lee'nin Hollywood'da çektiği ve en meşhur filmi olarak günümüze gelen Ölüm Oyunu'ndan sonra çektiği ve her şeyiyle, senaryosuyla, çekimleriyle, oyuncularıyla, mekân tasarımlarıyla kendisine ait olan ve kendisince de en büyük, en önemli projesi olarak görülen üzerinde uzun uğraşlar verdiği bir yapımdır. Ancak Ölüm Oyunu, ne yazık ki onun ölümü nedeniyle yarım kalmıştı ve bunun üzerine işi ele alan bir yönetmen senaryoyla oynayarak Bruce Lee'nin olduğu sahnelerde kimi zaman dublör kimi zaman Lee'nin karton maskesini kullanarak filmi tamamlamıştı. O yüzden bu film 1973 yılı yapımı olup Bruce Lee'nin film sırasında ölmesinden dolayı geri kısmı dublörle tamamlanarak ancak 1978 yılında gösterime sunulmuştur."
+  },
+  "poster": {
+    "tr": "/krjsXCnhcfDkBxY1quS67J3piHE.jpg",
+    "en": "/vkkJydEiUgVSy3LpGvSFZl9lEWE.jpg"
+  },
+  "backdrops": [
+    "/nN7MAkbUDkwRoF0Qx5CVIGFJGLO.jpg",
+    "/aGd7p0hDa4TPWEm77uc6lFnBFwm.jpg",
+    "/tmOQmd2F3S9GOynUKar4r15EE8l.jpg",
+    "/5IHyG5h5BACtFAie16VQV8tnAPn.jpg",
+    "/cgVtBh76t5bwCSyWLkp5C1EH2lP.jpg",
+    "/a5N08u55ByXjKyubddF77zuCtRC.jpg",
+    "/oofVZoxiLQ36bQ8LXnpN3Z9W18L.jpg",
+    "/ji5EvuAVslkMgKKDp44jNKCYUtK.jpg",
+    "/2TxCKPkx06zpIccUHuTLt7PvlVK.jpg",
+    "/iEWmGTIK29Rd56TglBJBYAOtMlm.jpg"
+  ],
+  "trailerKey": "Wt6-3Sim6Gs",
+  "genreIds": [
+    18,
+    28,
+    53
+  ],
+  "keywordIds": [
+    779,
+    9725,
+    9748,
+    14955,
+    14988,
+    18522,
+    219404,
+    314730,
+    325773
+  ],
+  "countries": [
+    "US",
+    "HK"
+  ],
+  "languages": [
+    "cn",
+    "en"
+  ],
+  "studios": [
+    "Orange Sky Golden Harvest",
+    "Concord Productions",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 57727,
+      "job": "director"
+    },
+    {
+      "personId": 57727,
+      "job": "writer"
+    },
+    {
+      "personId": 46323,
+      "job": "producer"
+    },
+    {
+      "personId": 2289,
+      "job": "composer"
+    },
+    {
+      "personId": 1474505,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 19429,
+      "job": "producer"
+    },
+    {
+      "personId": 19429,
+      "job": "writer"
+    },
+    {
+      "personId": 57726,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19429,
+      "character": "Billy Lo",
+      "order": 0
+    },
+    {
+      "personId": 70985,
+      "character": "Jim Marshall",
+      "order": 1
+    },
+    {
+      "personId": 29313,
+      "character": "Dr. Land",
+      "order": 2
+    },
+    {
+      "personId": 39753,
+      "character": "Steiner",
+      "order": 3
+    },
+    {
+      "personId": 13023,
+      "character": "Ann Morris",
+      "order": 4
+    },
+    {
+      "personId": 131170,
+      "character": "Carl Miller",
+      "order": 5
+    },
+    {
+      "personId": 119887,
+      "character": "Stick",
+      "order": 6
+    },
+    {
+      "personId": 14414,
+      "character": "Hakim",
+      "order": 7
+    },
+    {
+      "personId": 51576,
+      "character": "Colt",
+      "order": 8
+    },
+    {
+      "personId": 1071306,
+      "character": "Pasqual",
+      "order": 9
+    },
+    {
+      "personId": 2533092,
+      "character": "John",
+      "order": 10
+    },
+    {
+      "personId": 62410,
+      "character": "Lo Chen",
+      "order": 11
+    },
+    {
+      "personId": 695,
+      "character": "Henry Lo",
+      "order": 12
+    },
+    {
+      "personId": 73662,
+      "character": "Billy Lo",
+      "order": 13
+    },
+    {
+      "personId": 62427,
+      "character": "Charlie Wang",
+      "order": 14
+    },
+    {
+      "personId": 62414,
+      "character": "Billy Lo",
+      "order": 15
+    },
+    {
+      "personId": 1517829,
+      "character": "Surgeon",
+      "order": 16
+    },
+    {
+      "personId": 1173203,
+      "character": "Lo Chen's Cornerman (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 131842,
+      "character": "Lau Yea-chun (archive footage)",
+      "order": 18
+    },
+    {
+      "personId": 158567,
+      "character": "Ming Tao (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 771,
+  "sources": [
+    "cult-list"
+  ]
+}

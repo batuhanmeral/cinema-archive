@@ -1,0 +1,193 @@
+{
+  "tmdbId": 1389,
+  "slug": "out-of-sight-1998",
+  "year": 1998,
+  "runtime": 123,
+  "originalTitle": "Out of Sight",
+  "title": {
+    "en": "Out of Sight",
+    "tr": "Aşk ve Para"
+  },
+  "overview": {
+    "en": "Meet Jack Foley, a smooth criminal who bends the law and is determined to make one last heist. Karen Sisco is a federal marshal who chooses all the right moves … and all the wrong guys. Now they're willing to risk it all to find out if there's more between them than just the law.",
+    "tr": "Florida'daki Glades Cezaevi'nde kalmakta olan Jack Foley, 20 yıllık mesleki kariyerine çok sayıda banka soygunu sığdırmayı başarmış bir mahkumdur. Soygunlarında asla silah kullanmamasıyla tanınan Foley'IN icraatları bir çok meslektaşından daha fazladır. Ancak bir problem vardır. Foley, her soygununda yakalanmakta, bu da genelde araç probleminden kaynaklanmaktadır. Bu nedenle hep kaybeden durumundaki Foley'IN önünde şimdi otuz yıllık bir hapishane hayatı vardır. Ancak onun bu süreyi tamamlamak gibi bir niyeti olmayan soyguncu, hapisten kaçarak büyük bir iş çevirmeyi planlamaktadır."
+  },
+  "poster": {
+    "tr": "/4xCZfPCNUHBg1OGyLR2vBAdKrDI.jpg",
+    "en": "/v49q7AMR3pB4M762woWB1NYMCLF.jpg"
+  },
+  "backdrops": [
+    "/dALQsHqbcySpACOq2qXQwsasVBx.jpg",
+    "/rOvXN8m3l4qNKCdNscLUjxK6I9I.jpg",
+    "/nNN43jQtLtBjzkbXbrlHKb4JHI3.jpg",
+    "/uZqHAIOYOkENtXm5kp4jg67qnB8.jpg",
+    "/ltwphSa6nWKKMyc7TvFUa9rc7TH.jpg",
+    "/ucS4mT6C52UujHazw2ekMnPOudx.jpg",
+    "/f7yNyKpvImArFL8xmkoqTGBcE1d.jpg",
+    "/yTW5w3RgORm9Oa7wrqpgET1zHRH.jpg",
+    "/byISkdfFAshAvovOy5SZpZO1m2n.jpg",
+    "/1tUNpBtJ1X9yHxYIq3FljH2Kq99.jpg"
+  ],
+  "trailerKey": "WE49DjCAZCc",
+  "genreIds": [
+    10749,
+    35,
+    80
+  ],
+  "keywordIds": [
+    3303,
+    9777,
+    10051,
+    11207,
+    11459,
+    159747,
+    303822
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "Jersey Films"
+  ],
+  "crew": [
+    {
+      "personId": 1884,
+      "job": "director"
+    },
+    {
+      "personId": 518,
+      "job": "producer"
+    },
+    {
+      "personId": 2199,
+      "job": "writer"
+    },
+    {
+      "personId": 5381,
+      "job": "producer"
+    },
+    {
+      "personId": 5382,
+      "job": "producer"
+    },
+    {
+      "personId": 1889,
+      "job": "composer"
+    },
+    {
+      "personId": 5506,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1461,
+      "character": "Jack Foley",
+      "order": 0
+    },
+    {
+      "personId": 16866,
+      "character": "Karen Sisco",
+      "order": 1
+    },
+    {
+      "personId": 10182,
+      "character": "Buddy Bragg",
+      "order": 2
+    },
+    {
+      "personId": 1896,
+      "character": "Maurice 'Snoopy' Miller",
+      "order": 3
+    },
+    {
+      "personId": 18324,
+      "character": "Glenn Michaels",
+      "order": 4
+    },
+    {
+      "personId": 1117,
+      "character": "Marshall Sisco",
+      "order": 5
+    },
+    {
+      "personId": 2229,
+      "character": "Adele Delisi",
+      "order": 6
+    },
+    {
+      "personId": 21353,
+      "character": "Kenneth",
+      "order": 7
+    },
+    {
+      "personId": 13,
+      "character": "Richard Ripley",
+      "order": 8
+    },
+    {
+      "personId": 40481,
+      "character": "José 'Chino' Chirino",
+      "order": 9
+    },
+    {
+      "personId": 19492,
+      "character": "Moselle",
+      "order": 10
+    },
+    {
+      "personId": 44038,
+      "character": "Midge",
+      "order": 11
+    },
+    {
+      "personId": 2813432,
+      "character": "Bank Employee",
+      "order": 12
+    },
+    {
+      "personId": 1199564,
+      "character": "Bank Customer",
+      "order": 13
+    },
+    {
+      "personId": 2813434,
+      "character": "Bank Teller",
+      "order": 14
+    },
+    {
+      "personId": 943990,
+      "character": "Bank Cop",
+      "order": 15
+    },
+    {
+      "personId": 76540,
+      "character": "Bank Cop",
+      "order": 16
+    },
+    {
+      "personId": 1450276,
+      "character": "Lulu",
+      "order": 17
+    },
+    {
+      "personId": 80481,
+      "character": "Pup",
+      "order": 18
+    },
+    {
+      "personId": 2687409,
+      "character": "Parking Lot Woman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1470,
+  "sources": [
+    "cult-list"
+  ]
+}

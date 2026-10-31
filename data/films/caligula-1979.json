@@ -1,0 +1,216 @@
+{
+  "tmdbId": 9453,
+  "slug": "caligula-1979",
+  "year": 1979,
+  "runtime": 156,
+  "originalTitle": "Caligola",
+  "title": {
+    "en": "Caligula",
+    "tr": "Caligula"
+  },
+  "overview": {
+    "en": "After the death of the paranoid emperor Tiberius, Caligula, his heir, seizes power and plunges the empire into a bloody spiral of madness and depravity.",
+    "tr": "Paranoyak imparator Tiberius'un ölümünden sonra, varisi Caligula iktidarı ele geçirir ve imparatorluğu kanlı bir delilik ve ahlaksızlık sarmalına sürükler."
+  },
+  "poster": {
+    "tr": "/vNXAY6r9Pb6WkMCGmNeW2PlznLQ.jpg",
+    "en": "/4N4l873TVreuaR4FVpvaL2gfQ0N.jpg"
+  },
+  "backdrops": [
+    "/5DvuWbW3EvFqDFsyxkn8kSPy3L4.jpg",
+    "/6BDvx5C1zErh1wcEwV2mqHjxB3x.jpg",
+    "/cT6xO3YjzfZKYGhZ8S7plNlA27F.jpg",
+    "/6UDep1cxHQqrNFhSW4ZNQLW3Alr.jpg",
+    "/fLxTNOel2Vh1bof0VfJqCRWZNmG.jpg",
+    "/6LCDwSEyKq9YZOOiHsK3PUaixWz.jpg",
+    "/c0gY04AhRUNtBdXLgu7wMbCzsZH.jpg",
+    "/hRjTnAdcK2pYDRfD423eoH27D99.jpg",
+    "/mERUNwKpDT7nzhVpTRUc3btAcFc.jpg",
+    "/fLbuPbtWaHopa38KZc91uqQx6sd.jpg"
+  ],
+  "trailerKey": "Nn8cKrkQ9cs",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    588,
+    1405,
+    6165,
+    5049,
+    10235,
+    33841,
+    41410,
+    181659,
+    187305,
+    190370,
+    191970,
+    222185,
+    227758,
+    232938,
+    240620,
+    256490,
+    271487,
+    272026,
+    282903,
+    302130,
+    350360,
+    352054
+  ],
+  "countries": [
+    "IT",
+    "US"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Penthouse Films International",
+    "Felix Cinematografica"
+  ],
+  "crew": [
+    {
+      "personId": 4416,
+      "job": "composer"
+    },
+    {
+      "personId": 1178491,
+      "job": "writer"
+    },
+    {
+      "personId": 58024,
+      "job": "composer"
+    },
+    {
+      "personId": 58025,
+      "job": "composer"
+    },
+    {
+      "personId": 58021,
+      "job": "director"
+    },
+    {
+      "personId": 58022,
+      "job": "producer"
+    },
+    {
+      "personId": 43704,
+      "job": "producer"
+    },
+    {
+      "personId": 45670,
+      "job": "composer"
+    },
+    {
+      "personId": 49901,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 56890,
+      "character": "Caligula",
+      "order": 0
+    },
+    {
+      "personId": 58026,
+      "character": "Drusilla",
+      "order": 1
+    },
+    {
+      "personId": 15735,
+      "character": "Caesonia",
+      "order": 2
+    },
+    {
+      "personId": 11390,
+      "character": "Tiberius",
+      "order": 3
+    },
+    {
+      "personId": 26700,
+      "character": "Longinus",
+      "order": 4
+    },
+    {
+      "personId": 27388,
+      "character": "Macro",
+      "order": 5
+    },
+    {
+      "personId": 4819,
+      "character": "Chaerea",
+      "order": 6
+    },
+    {
+      "personId": 14151,
+      "character": "Charicles",
+      "order": 7
+    },
+    {
+      "personId": 1071993,
+      "character": "Claudius",
+      "order": 8
+    },
+    {
+      "personId": 43628,
+      "character": "Livia",
+      "order": 9
+    },
+    {
+      "personId": 99845,
+      "character": "Messalina",
+      "order": 10
+    },
+    {
+      "personId": 100609,
+      "character": "Agrippina",
+      "order": 11
+    },
+    {
+      "personId": 44110,
+      "character": "Ennia",
+      "order": 12
+    },
+    {
+      "personId": 11857,
+      "character": "Nerva",
+      "order": 13
+    },
+    {
+      "personId": 1150198,
+      "character": "Gemellus",
+      "order": 14
+    },
+    {
+      "personId": 2360646,
+      "character": "Mnester",
+      "order": 15
+    },
+    {
+      "personId": 70963,
+      "character": "Subura Singer",
+      "order": 16
+    },
+    {
+      "personId": 136411,
+      "character": "Giant",
+      "order": 17
+    },
+    {
+      "personId": 1017611,
+      "character": "Proculus",
+      "order": 18
+    },
+    {
+      "personId": 557345,
+      "character": "Tortured Slave (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1036,
+  "sources": [
+    "cult-list"
+  ]
+}

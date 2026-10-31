@@ -1,0 +1,212 @@
+{
+  "tmdbId": 194,
+  "slug": "amelie-2001",
+  "year": 2001,
+  "runtime": 122,
+  "originalTitle": "Le Fabuleux Destin d'Amélie Poulain",
+  "title": {
+    "en": "Amélie",
+    "tr": "Amelie"
+  },
+  "overview": {
+    "en": "At a tiny Parisian café, the adorable yet painfully shy Amélie accidentally discovers a gift for helping others. Soon Amelie is spending her days as a matchmaker, guardian angel, and all-around do-gooder. But when she bumps into a handsome stranger, will she find the courage to become the star of her very own love story?",
+    "tr": "Paris'te garsonluk yaparak, kendine özgü bir dünyada yaşayan saf, çekingen ve masum bir kızdır Amelie. Annesinin beklenmedik ölümü, babasının soğuk tavırları ve yaşadığı travmalar sonucu, sevimli ve boş şeylerle uğraşarak kendisine eğlence yaratmaya çalışsa da aslında hayatı sıkıcı bulduğu için kendisini son derece yalnız hissetmektedir. Bu kısır döngü Amelie’nin evde bulduğu bir kutuyu ve onun aracılığıyla sahibini keşfetmesiyle birlikte bir anda bıçak gibi kesiliverir... Amelie aşık olmuştur."
+  },
+  "poster": {
+    "tr": "/d6aA2hQmrUN1pGzioXldstNelur.jpg",
+    "en": "/oTKduWL2tpIKEmkAqF4mFEAWAsv.jpg"
+  },
+  "backdrops": [
+    "/sylBlnpwqI9LAcyw7jH3oqazbAx.jpg",
+    "/9TEUJy5aRP7LaM1LKTfcxVK34JK.jpg",
+    "/9Y9K6LeLrMeofOvX7hZW36Aj3OG.jpg",
+    "/4tqNNLAUY525N5rKGwNQVcuGNzX.jpg",
+    "/6n53UI4mX9QMfe2S0Pgt8mGebY1.jpg",
+    "/2WyjkKudTkDgtZo9CIN8NoPGHRB.jpg",
+    "/6Q9imjhqmvLPSE5K9e8KX5LuZvo.jpg",
+    "/gyWE2qIMux06FTgA06CV97ngbEM.jpg",
+    "/tzcapYdpOi49BsxbPy8oy5QtYg7.jpg",
+    "/4JMHILK0kcqv2mkAkC1nmdMeiuS.jpg"
+  ],
+  "trailerKey": "555A7T_kmIc",
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    5600,
+    90,
+    128,
+    6025,
+    365,
+    366,
+    367,
+    5973,
+    6298,
+    9799,
+    6635,
+    9840,
+    14766,
+    15120,
+    156597,
+    161868,
+    164246,
+    170293,
+    183896,
+    240303,
+    254167,
+    267461,
+    274107,
+    288816
+  ],
+  "countries": [
+    "FR",
+    "DE"
+  ],
+  "languages": [
+    "fr",
+    "ru"
+  ],
+  "studios": [
+    "Victoires Productions",
+    "Tapioca Films",
+    "France 3 Cinéma"
+  ],
+  "crew": [
+    {
+      "personId": 2402,
+      "job": "producer"
+    },
+    {
+      "personId": 2404,
+      "job": "producer"
+    },
+    {
+      "personId": 2423,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2419,
+      "job": "director"
+    },
+    {
+      "personId": 2422,
+      "job": "composer"
+    },
+    {
+      "personId": 2420,
+      "job": "writer"
+    },
+    {
+      "personId": 2419,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2405,
+      "character": "Amélie Poulain",
+      "order": 0
+    },
+    {
+      "personId": 2406,
+      "character": "Nino Quincampoix",
+      "order": 1
+    },
+    {
+      "personId": 2407,
+      "character": "Raphaël Poulain",
+      "order": 2
+    },
+    {
+      "personId": 2410,
+      "character": "Raymond Dufayel",
+      "order": 3
+    },
+    {
+      "personId": 2408,
+      "character": "Lucien",
+      "order": 4
+    },
+    {
+      "personId": 2411,
+      "character": "Gina",
+      "order": 5
+    },
+    {
+      "personId": 1654,
+      "character": "Suzanne",
+      "order": 6
+    },
+    {
+      "personId": 2412,
+      "character": "Georgette",
+      "order": 7
+    },
+    {
+      "personId": 2413,
+      "character": "Joseph",
+      "order": 8
+    },
+    {
+      "personId": 2414,
+      "character": "Hipolito",
+      "order": 9
+    },
+    {
+      "personId": 2415,
+      "character": "Madeleine Wallace",
+      "order": 10
+    },
+    {
+      "personId": 2416,
+      "character": "Collignon",
+      "order": 11
+    },
+    {
+      "personId": 2409,
+      "character": "Amandine Poulain",
+      "order": 12
+    },
+    {
+      "personId": 2417,
+      "character": "Dominique Bretodeau",
+      "order": 13
+    },
+    {
+      "personId": 32092,
+      "character": "Mr. Collignon",
+      "order": 14
+    },
+    {
+      "personId": 231607,
+      "character": "Mrs. Collignon",
+      "order": 15
+    },
+    {
+      "personId": 119199,
+      "character": "Eva",
+      "order": 16
+    },
+    {
+      "personId": 77736,
+      "character": "Philomène",
+      "order": 17
+    },
+    {
+      "personId": 13689,
+      "character": "Man in Photo",
+      "order": 18
+    },
+    {
+      "personId": 18177,
+      "character": "Narrator (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 12781,
+  "sources": [
+    "cult-list"
+  ]
+}

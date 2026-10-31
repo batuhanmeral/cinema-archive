@@ -1,0 +1,195 @@
+{
+  "tmdbId": 10322,
+  "slug": "being-there-1979",
+  "year": 1979,
+  "runtime": 130,
+  "originalTitle": "Being There",
+  "title": {
+    "en": "Being There",
+    "tr": "Bir Yerde"
+  },
+  "overview": {
+    "en": "A simple-minded gardener named Chance has spent all his life in the Washington D.C. house of an old man. When the man dies, Chance is put out on the street with no knowledge of the world except what he has learned from television.",
+    "tr": "Chance, kendisini bildi bileli yanında yaşadığı yaşlı adamın evinde bahçıvanlık yaparak büyümüş ve hayatında bir kez olsun sokağa çıkmamıştır. Bütün hayatı bahçede bakımını yapıp büyüttüğü çiçeklerden ve televizyondan ibaret olan Chance, yaşlı adam bir gün ölünce ortada kalır. Çünkü ev artık satılacaktır. Kendi varlığının haricinde yaşadığına dair hiçbir kanıt olmayan Chance, avukatlara yıllardır yaşlı adamın yanında kaldığını kabul ettiremez. Nüfus kağıdı bile yoktur. Kendini birden sokaklarda bulunca yıllardır görüp bilmediği hayatın rutinleri ile tanışır. İlk defa sokaklarda yürür, arabaya biner... Ve birden şansı hiç tahmin etmediği bir yerde dönüverir."
+  },
+  "poster": {
+    "tr": "/yZr77zKrVK5hHrDUjRkQNa5CCJV.jpg",
+    "en": "/1xRy57o8qp5pEUhYbftFiFlR012.jpg"
+  },
+  "backdrops": [
+    "/lzB7ehFA3XQH1rD4kCE2aziAzFO.jpg",
+    "/gkyYZSevVI6zbGrLDmSo9Im88Qv.jpg",
+    "/tXhvGj9Xs2OaITAQUYCqC9DLN9Z.jpg",
+    "/tqDo53z84WjJEuQBq8R4EJkvDM0.jpg",
+    "/gbUZ3JEi2edEzeU6xNlqTF2wpCt.jpg",
+    "/5glgGVlwIyHVXsKXnabiwFiGcuN.jpg",
+    "/hddFwpiSpmAsVtCvKuKEUEmXAlr.jpg",
+    "/dnw0BvFoDskXFfhndT3zZ7QbFvv.jpg",
+    "/79PJ2hEzBzk5MIjvhWstpctMRjw.jpg",
+    "/7Rz20eZLyEvrk8ifZZGRN4U1VD9.jpg"
+  ],
+  "trailerKey": "oOOghKacg40",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    840,
+    521,
+    818,
+    1284,
+    1646,
+    2496,
+    4003,
+    212737,
+    325764,
+    325776,
+    325795
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Northstar Media",
+    "Lorimar Motion Pictures",
+    "BSB"
+  ],
+  "crew": [
+    {
+      "personId": 4964,
+      "job": "director"
+    },
+    {
+      "personId": 64822,
+      "job": "writer"
+    },
+    {
+      "personId": 29875,
+      "job": "producer"
+    },
+    {
+      "personId": 3222,
+      "job": "producer"
+    },
+    {
+      "personId": 9796,
+      "job": "composer"
+    },
+    {
+      "personId": 8750,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12446,
+      "character": "Chance",
+      "order": 0
+    },
+    {
+      "personId": 4090,
+      "character": "Eve Rand",
+      "order": 1
+    },
+    {
+      "personId": 19550,
+      "character": "Benjamin Rand",
+      "order": 2
+    },
+    {
+      "personId": 5251,
+      "character": "President 'Bobby'",
+      "order": 3
+    },
+    {
+      "personId": 15413,
+      "character": "Dr. Robert Allenby",
+      "order": 4
+    },
+    {
+      "personId": 5403,
+      "character": "Vladimir Skrapinov",
+      "order": 5
+    },
+    {
+      "personId": 20160,
+      "character": "Louise",
+      "order": 6
+    },
+    {
+      "personId": 15412,
+      "character": "Thomas Franklin",
+      "order": 7
+    },
+    {
+      "personId": 164131,
+      "character": "Sally Hayes",
+      "order": 8
+    },
+    {
+      "personId": 1192920,
+      "character": "Johanna Franklin",
+      "order": 9
+    },
+    {
+      "personId": 14106,
+      "character": "First Lady",
+      "order": 10
+    },
+    {
+      "personId": 30571,
+      "character": "Gary Burns",
+      "order": 11
+    },
+    {
+      "personId": 68897,
+      "character": "Sidney Courtney",
+      "order": 12
+    },
+    {
+      "personId": 152699,
+      "character": "Kaufman",
+      "order": 13
+    },
+    {
+      "personId": 128602,
+      "character": "Dennis Watson",
+      "order": 14
+    },
+    {
+      "personId": 1201772,
+      "character": "Lolo",
+      "order": 15
+    },
+    {
+      "personId": 88748,
+      "character": "Wilson",
+      "order": 16
+    },
+    {
+      "personId": 54967,
+      "character": "Colson",
+      "order": 17
+    },
+    {
+      "personId": 2368,
+      "character": "Karpatov",
+      "order": 18
+    },
+    {
+      "personId": 4964,
+      "character": "Man at File Cabinet at the Washington Post (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 1175,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "tmdbId": 957,
+  "slug": "spaceballs-1987",
+  "year": 1987,
+  "runtime": 96,
+  "originalTitle": "Spaceballs",
+  "title": {
+    "en": "Spaceballs",
+    "tr": "Uzay Topları"
+  },
+  "overview": {
+    "en": "When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of \"The Schwartz.\" Can he master it in time to save the day?",
+    "tr": "Kötü Dark Helmet (Rick Moranis), prenses Vespa'yı (Daphne Zuniga) kaçırıp, gezegenin havasını çalmayı planlayınca, Korkusuz Lone Starr (Bill Pullman) ve onun yarı insan yarı köpek yardımcısı Barf (John Candy) prensesi ve gezegeni kurtarmak için harekete geçerler. Ama zamana karşı da savaşmalıdırlar. Komedi harikası yönetmen Mel Brooks, bu filmde, Yıldız Savaşları üçlemesine göndermelerde bulunuyor."
+  },
+  "poster": {
+    "tr": "/mgzF5FRFZEYdqnZBydEeNv3ovNn.jpg",
+    "en": "/o624HTt93iIJIc1Sg5hNkDTnk5l.jpg"
+  },
+  "backdrops": [
+    "/p50q3DO1DTFhKH5CqNLRGio6zCo.jpg",
+    "/5j77rB8NRa7lXuu1Sgmm6wfgrzZ.jpg",
+    "/gOeHibCFg8W8U1XMTWKGc9wYTfQ.jpg",
+    "/vq9QrPICVfjz53Pt3t2iLaBBhY6.jpg",
+    "/6nrSsD6sbxj27gfzTmuL74y7HRq.jpg",
+    "/i45FVfTSDu2n2DVpp99XAZguQJt.jpg",
+    "/lnuvUM1siB5yWkJqdoAU8S4NHl4.jpg",
+    "/g1h8OE4ZPg5aLbwUm7DPeCOBuHC.jpg",
+    "/3xDkxra8YJFImNtkMWUZdCptfnF.jpg",
+    "/jIGvZPUHFs5ZzpQAN45YAsO3cSY.jpg"
+  ],
+  "trailerKey": "LYqTjnSrDuQ",
+  "genreIds": [
+    35,
+    878
+  ],
+  "keywordIds": [
+    4270,
+    803,
+    1826,
+    1280,
+    1530,
+    1400,
+    2902,
+    3801,
+    4040,
+    8201,
+    4578,
+    4579,
+    4583,
+    4585,
+    4587,
+    9755,
+    11931,
+    207372,
+    259376,
+    283953,
+    320420
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer",
+    "Brooksfilms"
+  ],
+  "crew": [
+    {
+      "personId": 14639,
+      "job": "director"
+    },
+    {
+      "personId": 14639,
+      "job": "writer"
+    },
+    {
+      "personId": 14640,
+      "job": "writer"
+    },
+    {
+      "personId": 14641,
+      "job": "writer"
+    },
+    {
+      "personId": 14639,
+      "job": "producer"
+    },
+    {
+      "personId": 719,
+      "job": "composer"
+    },
+    {
+      "personId": 14642,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8984,
+      "character": "Lone Starr",
+      "order": 0
+    },
+    {
+      "personId": 8872,
+      "character": "Dark Helmet",
+      "order": 1
+    },
+    {
+      "personId": 14639,
+      "character": "President Skroob / Yogurt",
+      "order": 2
+    },
+    {
+      "personId": 7180,
+      "character": "Barf",
+      "order": 3
+    },
+    {
+      "personId": 14668,
+      "character": "Princess Vespa",
+      "order": 4
+    },
+    {
+      "personId": 14671,
+      "character": "King Roland",
+      "order": 5
+    },
+    {
+      "personId": 14669,
+      "character": "Colonel Sandurz",
+      "order": 6
+    },
+    {
+      "personId": 14672,
+      "character": "Radar Technician",
+      "order": 7
+    },
+    {
+      "personId": 14670,
+      "character": "Dot Matrix (voice)",
+      "order": 8
+    },
+    {
+      "personId": 14673,
+      "character": "Dot Matrix",
+      "order": 9
+    },
+    {
+      "personId": 5049,
+      "character": "John Hurt",
+      "order": 10
+    },
+    {
+      "personId": 19136,
+      "character": "Radio Operator",
+      "order": 11
+    },
+    {
+      "personId": 14641,
+      "character": "Minister",
+      "order": 12
+    },
+    {
+      "personId": 85210,
+      "character": "Prince Valium",
+      "order": 13
+    },
+    {
+      "personId": 63903,
+      "character": "Commanderette Zircon",
+      "order": 14
+    },
+    {
+      "personId": 115032,
+      "character": "Major Asshole",
+      "order": 15
+    },
+    {
+      "personId": 65423,
+      "character": "Laser Gunner",
+      "order": 16
+    },
+    {
+      "personId": 101653,
+      "character": "Dr. Schlotkin",
+      "order": 17
+    },
+    {
+      "personId": 537,
+      "character": "Captain of the Guard",
+      "order": 18
+    },
+    {
+      "personId": 3548945,
+      "character": "Snotty",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3613,
+  "sources": [
+    "cult-list"
+  ]
+}

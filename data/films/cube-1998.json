@@ -1,0 +1,148 @@
+{
+  "tmdbId": 431,
+  "slug": "cube-1998",
+  "year": 1998,
+  "runtime": 90,
+  "originalTitle": "Cube",
+  "title": {
+    "en": "Cube",
+    "tr": "Küp"
+  },
+  "overview": {
+    "en": "A group of strangers find themselves trapped in a maze-like prison. It soon becomes clear that each of them possesses the peculiar skills necessary to escape, if they don't wind up dead first.",
+    "tr": "6 kişi uyandıklarında kendilerini garip bir yerde bulurlar. Burası içiçe geçmiş küp şeklindeki odalardan oluşan bir hapishaneye benzemektedir. Dışarıya çıkmak için birlikte çaba sarfetmeleri ve ölümcül tuzaklardan kurtulmaları gerekecektir. Farklı karakterlerdeki insanlar için, üstelik korkunun pençesini enselerinde hissederlerken bu hiç de kolay değildir."
+  },
+  "poster": {
+    "tr": "/54xHnmuQRlSnX4KnxITpxtQyYTs.jpg",
+    "en": "/y3KRQQXkeii2h414XTInUHjZNje.jpg"
+  },
+  "backdrops": [
+    "/1AZz3SSYB3i9FOfc8r3enewSsRM.jpg",
+    "/hO9nTzou529IUI8N6fjC5SfvYbm.jpg",
+    "/3TimUBrXMVblpnTsyg4HssGVbBv.jpg",
+    "/sFNLhzGIArd2sYjS7ZoJN0tcJvo.jpg",
+    "/1kdDbg7meZ8eHGEhKkaL30lSEDv.jpg",
+    "/wwhSrjzjzAr3VnJaY8c5UmDBokS.jpg",
+    "/fxDdCpbgNnjR6jONF4blLMXlVaB.jpg",
+    "/zsV5rQrQBAUZEouMg25L5Mu1OfN.jpg",
+    "/75UUPQwEKe9tgnRF2roinOlWJAZ.jpg",
+    "/ocWJeRRqx2gaKAddMe1x0F8jvS5.jpg"
+  ],
+  "trailerKey": "nRZ1M4oMGJg",
+  "genreIds": [
+    53,
+    878,
+    9648
+  ],
+  "keywordIds": [
+    10685,
+    2847,
+    483,
+    1646,
+    6009,
+    2147,
+    2158,
+    2846,
+    2800,
+    4506,
+    10292,
+    11060,
+    9826,
+    18129,
+    50009,
+    191494,
+    194341,
+    197582,
+    202958,
+    209086,
+    325765,
+    325801
+  ],
+  "countries": [
+    "CA"
+  ],
+  "languages": [
+    "de",
+    "en"
+  ],
+  "studios": [
+    "Cube Libre",
+    "The Feature Film Project"
+  ],
+  "crew": [
+    {
+      "personId": 5877,
+      "job": "director"
+    },
+    {
+      "personId": 5901,
+      "job": "producer"
+    },
+    {
+      "personId": 5904,
+      "job": "producer"
+    },
+    {
+      "personId": 5907,
+      "job": "composer"
+    },
+    {
+      "personId": 5908,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5880,
+      "job": "writer"
+    },
+    {
+      "personId": 5877,
+      "job": "writer"
+    },
+    {
+      "personId": 5883,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5888,
+      "character": "Leaven",
+      "order": 0
+    },
+    {
+      "personId": 5889,
+      "character": "Holloway",
+      "order": 1
+    },
+    {
+      "personId": 5900,
+      "character": "Quentin",
+      "order": 2
+    },
+    {
+      "personId": 5892,
+      "character": "Worth",
+      "order": 3
+    },
+    {
+      "personId": 5894,
+      "character": "Kazan",
+      "order": 4
+    },
+    {
+      "personId": 5897,
+      "character": "Rennes",
+      "order": 5
+    },
+    {
+      "personId": 2320,
+      "character": "Alderson",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 5460,
+  "sources": [
+    "cult-list"
+  ]
+}

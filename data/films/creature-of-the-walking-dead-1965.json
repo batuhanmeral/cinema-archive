@@ -1,0 +1,128 @@
+{
+  "tmdbId": 115128,
+  "slug": "creature-of-the-walking-dead-1965",
+  "year": 1965,
+  "runtime": 72,
+  "originalTitle": "Creature of the Walking Dead",
+  "title": {
+    "en": "Creature of the Walking Dead",
+    "tr": "Creature of the Walking Dead"
+  },
+  "overview": {
+    "en": "Resurrected by his grandson, a diabolical scientist with an unquenchable thirst for blood goes on a rampage. (A revision of the Mexican horror film LA MARCA DEL MUERTE, considerably edited and with 20 minutes of new American-made footage.)",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/sVZr2145HsYlhzepIXO6aTWNMvm.jpg",
+    "en": "/6cdDRd3TAUnYi6NBrIFZUtXB1NW.jpg"
+  },
+  "backdrops": [
+    "/yMzsq5Nyb4DXg167CsApdxab2dL.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    4978,
+    10125,
+    8353
+  ],
+  "countries": [
+    "MX",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Jerry Warren Productions Inc."
+  ],
+  "crew": [
+    {
+      "personId": 30981,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30981,
+      "job": "director"
+    },
+    {
+      "personId": 30981,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 31889,
+      "character": "Dr. Michael Malthus / Dr. John Malthus [billed as Rock Madison]",
+      "order": 0
+    },
+    {
+      "personId": 1366428,
+      "character": "Beth",
+      "order": 1
+    },
+    {
+      "personId": 30984,
+      "character": "Mrs. Roger Vernon",
+      "order": 2
+    },
+    {
+      "personId": 30982,
+      "character": "Det. Lt. Ed Jamieson",
+      "order": 3
+    },
+    {
+      "personId": 1174092,
+      "character": "Detective Sergeant",
+      "order": 4
+    },
+    {
+      "personId": 102277,
+      "character": "Frieda the Maid, a victim",
+      "order": 5
+    },
+    {
+      "personId": 1468823,
+      "character": "Miss Benson, a victim",
+      "order": 6
+    },
+    {
+      "personId": 98164,
+      "character": "19th Century Police Inspector",
+      "order": 7
+    },
+    {
+      "personId": 114512,
+      "character": "Mr. Simms",
+      "order": 8
+    },
+    {
+      "personId": 1112118,
+      "character": "Masseur",
+      "order": 9
+    },
+    {
+      "personId": 1060537,
+      "character": "Nurse Janey, on phone",
+      "order": 10
+    },
+    {
+      "personId": 1060538,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1060539,
+      "character": "",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 17,
+  "sources": [
+    "cult-list"
+  ]
+}

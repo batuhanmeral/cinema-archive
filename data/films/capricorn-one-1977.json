@@ -1,0 +1,192 @@
+{
+  "tmdbId": 11935,
+  "slug": "capricorn-one-1977",
+  "year": 1977,
+  "runtime": 123,
+  "originalTitle": "Capricorn One",
+  "title": {
+    "en": "Capricorn One",
+    "tr": "Hükmedenler"
+  },
+  "overview": {
+    "en": "In order to protect the reputation of the American space program, a team of NASA administrators turn the first Mars mission into a phony Mars landing. Under threat of harm to their families the astronauts play their part in the deception on a staged set in a deserted military base. But once the real ship returns to Earth and burns up on re-entry, the astronauts become liabilities. Now, with the help of a crusading reporter, they must battle a sinister conspiracy that will stop at nothing to keep the truth hidden.",
+    "tr": "Nasa, büyük bir Mars yolculuğu hazırlığı içindedir. Yolculuğa kısa bir süre ortaya çıkan bir sorun, görevin iptal olmasına neden olur. Fakat, başarısına gölge düşürmek istemeyen Nasa yetkilileri, sanal bir Mars yolculuğu hazırlamaya başlarlar.  Stüdyo ortamına aktarılan uzay mekiği, hazırlanmış resimler ve görüntüler eşliğinde, kitleleri görevin başarıyla gerçekleştirildiğine inandırmaya çalışır. Fakat, Nasa'nın açıklamalarındaki boşlukları sezen bir gazeteci olayın üzerine gidecektir...  Uzay teknolojilerine ve Nasa'ya dair üretilen komplo teorilerinin en çarpıcısından yola çıkılarak gerçekleştirilen yapım, son derece dikkat çekici bir klasik olarak kabul ediliyor. Günümüzde de küçük bir grup tarafından savunulan, aslında uzaya gidilmedi teorisi üzerine sıradışı bir uzay filmi!"
+  },
+  "poster": {
+    "tr": "/bxsCARg2rxQ2PzFW5ZsADLT9e9c.jpg",
+    "en": "/bxsCARg2rxQ2PzFW5ZsADLT9e9c.jpg"
+  },
+  "backdrops": [
+    "/50XtNcNSGb2MnzPbOmIiESfinVo.jpg",
+    "/yD5jkiBBWQa1d6rJ34Bx25HBlYT.jpg",
+    "/d4qAHbs8wLBnRatYCPvtp3F48bO.jpg",
+    "/xgdd4KmZjHwHMxtErwxXmTgF4kY.jpg",
+    "/oNuHM23sLwh4kzcU0475MbcNrH8.jpg",
+    "/cUSwOu1eBiiL0AdybQX0YlxfuuO.jpg",
+    "/zl70DEKm3IkgwRdCgZU8Cl5KfHK.jpg",
+    "/e3UMghRTse1Cy3U6L3HuySRY3VA.jpg",
+    "/6YTOdynXv8l8vHNovOuAxmwwLBF.jpg",
+    "/2Z6AYtVSF4VnDCOKGFvqv6lIQ4l.jpg"
+  ],
+  "trailerKey": "UwmbGtmpQyM",
+  "genreIds": [
+    18,
+    28,
+    53,
+    878
+  ],
+  "keywordIds": [
+    1612,
+    720,
+    839,
+    10685,
+    1432,
+    4214,
+    1556,
+    8086,
+    10410,
+    14626,
+    18034,
+    226594
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Associated General Films",
+    "ITC Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 37710,
+      "job": "writer"
+    },
+    {
+      "personId": 14994,
+      "job": "producer"
+    },
+    {
+      "personId": 2287,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 37710,
+      "job": "director"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 827,
+      "character": "Robert Caulfield",
+      "order": 0
+    },
+    {
+      "personId": 9274,
+      "character": "Col. Charles Brubaker",
+      "order": 1
+    },
+    {
+      "personId": 30585,
+      "character": "Kay Brubaker",
+      "order": 2
+    },
+    {
+      "personId": 8975,
+      "character": "Lt. Col. Peter Willis",
+      "order": 3
+    },
+    {
+      "personId": 12951,
+      "character": "Cmdr. John Walker",
+      "order": 4
+    },
+    {
+      "personId": 11066,
+      "character": "Dr. James Kelloway",
+      "order": 5
+    },
+    {
+      "personId": 8963,
+      "character": "Judy Drinkwater",
+      "order": 6
+    },
+    {
+      "personId": 10169,
+      "character": "Albain",
+      "order": 7
+    },
+    {
+      "personId": 1232,
+      "character": "Hollis Peaker",
+      "order": 8
+    },
+    {
+      "personId": 123632,
+      "character": "Walter Loughlin",
+      "order": 9
+    },
+    {
+      "personId": 160328,
+      "character": "Sharon Willis",
+      "order": 10
+    },
+    {
+      "personId": 65398,
+      "character": "Betty Walker",
+      "order": 11
+    },
+    {
+      "personId": 13729,
+      "character": "Elliot Whitter",
+      "order": 12
+    },
+    {
+      "personId": 65568,
+      "character": "Control Room Man",
+      "order": 13
+    },
+    {
+      "personId": 124131,
+      "character": "Capsule Communicator",
+      "order": 14
+    },
+    {
+      "personId": 14852,
+      "character": "Vice President Price",
+      "order": 15
+    },
+    {
+      "personId": 135189,
+      "character": "F.B.I. Man Number 1",
+      "order": 16
+    },
+    {
+      "personId": 2031009,
+      "character": "General Enders",
+      "order": 17
+    },
+    {
+      "personId": 24319,
+      "character": "President",
+      "order": 18
+    },
+    {
+      "personId": 12297,
+      "character": "Dr. Bergen",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 537,
+  "sources": [
+    "cult-list"
+  ]
+}

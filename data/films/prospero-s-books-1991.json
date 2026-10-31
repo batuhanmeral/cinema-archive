@@ -1,0 +1,180 @@
+{
+  "tmdbId": 5048,
+  "slug": "prospero-s-books-1991",
+  "year": 1991,
+  "runtime": 126,
+  "originalTitle": "Prospero's Books",
+  "title": {
+    "en": "Prospero's Books",
+    "tr": "Prospero's Books"
+  },
+  "overview": {
+    "en": "An exiled magician finds an opportunity for revenge against his enemies muted when his daughter and the son of his chief enemy fall in love in this uniquely structured retelling of the 'The Tempest'.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lF9uNTBDtpQOGHrKGWc6rqDDwbM.jpg",
+    "en": "/g2Wj7gaGO8gqwTwabfm1FzzdxbT.jpg"
+  },
+  "backdrops": [
+    "/cRC3YsfboAmLnVwlYNaHIQquJUJ.jpg",
+    "/6Z73cN1e1WBtnM5mRBoqqDNZJlh.jpg",
+    "/97YS1xWMXwsDq6AhSJuqOdapPtD.jpg",
+    "/zuxLWLZ6H2XlQaxWuT1Yt6zcvlp.jpg",
+    "/vm1oFAJjpLdsMrfMbZPqtmcJLYw.jpg",
+    "/5KgFDaJ5rbKkUnDjXY3inSpkAx7.jpg",
+    "/7befLkiH4ID4l6J8Wq2hV8niBAN.jpg",
+    "/pWFi15xtoUw21JdkeowL5Ti9yLW.jpg"
+  ],
+  "trailerKey": "ZRNLYaXP_h0",
+  "genreIds": [
+    18,
+    14
+  ],
+  "keywordIds": [
+    9887,
+    10181,
+    210515,
+    293336,
+    333529
+  ],
+  "countries": [
+    "JP",
+    "GB",
+    "FR",
+    "NL",
+    "IT"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Camera One",
+    "Allarts",
+    "Cinéa"
+  ],
+  "crew": [
+    {
+      "personId": 9752,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10759,
+      "job": "composer"
+    },
+    {
+      "personId": 30309,
+      "job": "director"
+    },
+    {
+      "personId": 30309,
+      "job": "writer"
+    },
+    {
+      "personId": 51919,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11857,
+      "character": "Prospero",
+      "order": 0
+    },
+    {
+      "personId": 40898,
+      "character": "Caliban",
+      "order": 1
+    },
+    {
+      "personId": 21175,
+      "character": "Alonso",
+      "order": 2
+    },
+    {
+      "personId": 38127,
+      "character": "Gonzalo",
+      "order": 3
+    },
+    {
+      "personId": 40899,
+      "character": "Miranda",
+      "order": 4
+    },
+    {
+      "personId": 22169,
+      "character": "Antonio",
+      "order": 5
+    },
+    {
+      "personId": 26258,
+      "character": "Sebastian",
+      "order": 6
+    },
+    {
+      "personId": 40900,
+      "character": "Ferdinand",
+      "order": 7
+    },
+    {
+      "personId": 40901,
+      "character": "Iris",
+      "order": 8
+    },
+    {
+      "personId": 29408,
+      "character": "Ceres",
+      "order": 9
+    },
+    {
+      "personId": 40902,
+      "character": "Juno",
+      "order": 10
+    },
+    {
+      "personId": 1840339,
+      "character": "Ariel",
+      "order": 11
+    },
+    {
+      "personId": 124511,
+      "character": "Adrian",
+      "order": 12
+    },
+    {
+      "personId": 45751,
+      "character": "Francisco",
+      "order": 13
+    },
+    {
+      "personId": 263777,
+      "character": "Trinculo",
+      "order": 14
+    },
+    {
+      "personId": 1248644,
+      "character": "Stephano",
+      "order": 15
+    },
+    {
+      "personId": 2526287,
+      "character": "Ariel",
+      "order": 16
+    },
+    {
+      "personId": 46274,
+      "character": "Ariel",
+      "order": 17
+    },
+    {
+      "personId": 130947,
+      "character": "Ariel",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 106,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "tmdbId": 3055,
+  "slug": "valley-of-the-dolls-1967",
+  "year": 1967,
+  "runtime": 123,
+  "originalTitle": "Valley of the Dolls",
+  "title": {
+    "en": "Valley of the Dolls",
+    "tr": "Valley of the Dolls"
+  },
+  "overview": {
+    "en": "Lured by their dreams of fame and fortune, three ambitious young women enter the world of show business and discover how easy it is to sink into a celebrity nightmare of ego, alcohol and pills — the beloved \"dolls.\"",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg",
+    "en": "/hQgsWkNTL8GJloJRzqonImIaIJb.jpg"
+  },
+  "backdrops": [
+    "/43kxj1gcewWJNlzqGmPkZXE3fek.jpg",
+    "/84LkTjbDkZyT3j85d0q0G2xaoml.jpg",
+    "/8Z6Fsdz5iwhScrezQY2eWWof2t0.jpg",
+    "/gUDFG92UUijxIdWejF5k2ZOyS0C.jpg",
+    "/8UiS7rD2wSMQsBmGM4kS29pt5wY.jpg",
+    "/fTPa1dl8rRcx3gen3kG6EKfnlUp.jpg",
+    "/nz6TfAnTlTbm4j6Wdx0WSy61OLx.jpg",
+    "/k9NzY5094pNAOvj7qu2t4pT5mnq.jpg",
+    "/wCTALwe1qOGkTjDPBJVPAV9pqfw.jpg",
+    "/c7tRHKqtIIAraV14B9m2Vdk7ATT.jpg"
+  ],
+  "trailerKey": "EibsiYuaynw",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    242,
+    818,
+    1803,
+    10229,
+    14964,
+    155493,
+    162813
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Red Lion",
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 2766,
+      "job": "producer"
+    },
+    {
+      "personId": 31069,
+      "job": "writer"
+    },
+    {
+      "personId": 3637,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 31068,
+      "job": "writer"
+    },
+    {
+      "personId": 19457,
+      "job": "director"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 19457,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30121,
+      "character": "Anne Welles",
+      "order": 0
+    },
+    {
+      "personId": 27446,
+      "character": "Neely O'Hara",
+      "order": 1
+    },
+    {
+      "personId": 29490,
+      "character": "Jennifer North",
+      "order": 2
+    },
+    {
+      "personId": 13946,
+      "character": "Lyon Burke",
+      "order": 3
+    },
+    {
+      "personId": 30123,
+      "character": "Miriam Polar",
+      "order": 4
+    },
+    {
+      "personId": 30124,
+      "character": "Helen Lawson",
+      "order": 5
+    },
+    {
+      "personId": 14573,
+      "character": "Mel Anderson",
+      "order": 6
+    },
+    {
+      "personId": 15978,
+      "character": "Kevin Gillmore",
+      "order": 7
+    },
+    {
+      "personId": 127914,
+      "character": "Ted Casablanca",
+      "order": 8
+    },
+    {
+      "personId": 4096,
+      "character": "Miss Steinberg",
+      "order": 9
+    },
+    {
+      "personId": 153460,
+      "character": "Henry Bellamy",
+      "order": 10
+    },
+    {
+      "personId": 30122,
+      "character": "Tony Polar",
+      "order": 11
+    },
+    {
+      "personId": 161745,
+      "character": "First Reporter",
+      "order": 12
+    },
+    {
+      "personId": 109625,
+      "character": "Director",
+      "order": 13
+    },
+    {
+      "personId": 4361,
+      "character": "MC at Telethon",
+      "order": 14
+    },
+    {
+      "personId": 148585,
+      "character": "MC Grammy Awards",
+      "order": 15
+    },
+    {
+      "personId": 122007,
+      "character": "Claude Chardot (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 104452,
+      "character": "Man in Sleazy Hotel Room (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 9808,
+      "character": "Western Union Boy (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1131115,
+      "character": "Jennifer's Leading Man (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 156,
+  "sources": [
+    "cult-list"
+  ]
+}

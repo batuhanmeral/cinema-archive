@@ -1,0 +1,119 @@
+{
+  "tmdbId": 208461,
+  "slug": "the-cool-and-the-crazy-1958",
+  "year": 1958,
+  "runtime": 78,
+  "originalTitle": "The Cool and the Crazy",
+  "title": {
+    "en": "The Cool and the Crazy",
+    "tr": "The Cool and the Crazy"
+  },
+  "overview": {
+    "en": "High school thug is front man for a local marijuana ring.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6iGj9IA4IW99d8vVT1SWNGdriwV.jpg",
+    "en": "/6iGj9IA4IW99d8vVT1SWNGdriwV.jpg"
+  },
+  "backdrops": [
+    "/2b1N81DMAMrnsQcLBmSd3BllpSF.jpg",
+    "/nuDSft9od3COn5s4AysYa1nRm1W.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    10776
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "American International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 32175,
+      "job": "director"
+    },
+    {
+      "personId": 21544,
+      "job": "writer"
+    },
+    {
+      "personId": 30836,
+      "job": "composer"
+    },
+    {
+      "personId": 3579042,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 105176,
+      "character": "Bennie Saul",
+      "order": 0
+    },
+    {
+      "personId": 12299,
+      "character": "Jackie Barzan (as Dick Bakalyan)",
+      "order": 1
+    },
+    {
+      "personId": 111988,
+      "character": "Amy",
+      "order": 2
+    },
+    {
+      "personId": 67371,
+      "character": "Stu Summerville (as Dick Jones)",
+      "order": 3
+    },
+    {
+      "personId": 1659570,
+      "character": "Det. Lt. Sloan",
+      "order": 4
+    },
+    {
+      "personId": 2754470,
+      "character": "Eddie (the pusher)",
+      "order": 5
+    },
+    {
+      "personId": 2754471,
+      "character": "Miss Ryan (teacher)",
+      "order": 6
+    },
+    {
+      "personId": 2754473,
+      "character": "Marty (a teenager)",
+      "order": 7
+    },
+    {
+      "personId": 2754474,
+      "character": "Charles 'Cookie' Tyler",
+      "order": 8
+    },
+    {
+      "personId": 2091100,
+      "character": "Desk Sgt. Harry",
+      "order": 9
+    },
+    {
+      "personId": 2754475,
+      "character": "Drunk teenager",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 7,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "tmdbId": 28211,
+  "slug": "chloe-2010",
+  "year": 2010,
+  "runtime": 96,
+  "originalTitle": "Chloe",
+  "title": {
+    "en": "Chloe",
+    "tr": "Büyük Hata"
+  },
+  "overview": {
+    "en": "Catherine and David Stewart are a well-to-do couple living in a posh area of Toronto, but all is not well in paradise. Catherine suspects that David is cheating on her, so she hires an escort named Chloe to meet David and see if he gives in to temptation — but events spin out of control when Chloe spills the details of her torrid encounters.",
+    "tr": "Catherine, çapkın kocası David'in bir ilişkisi olduğundan şüphelenince onu test etmek için genç ve pahalı fahişe Chloe'yi tutar. Ancak üçü arasındaki ilişki bir saplantıya dönüşür ve kimin kime âşık olduğu gittikçe belirsiz hâle gelir."
+  },
+  "poster": {
+    "tr": "/xX6va6VXBGw0DYpp8LTRsM4OZFj.jpg",
+    "en": "/7VC7Q7GvIhEECIU3fiaRf71mxV6.jpg"
+  },
+  "backdrops": [
+    "/ffmjL9aUk28aMoiVgduF9wmvI99.jpg",
+    "/fBqb3eVkOSB1VexcajIg5dVsgh3.jpg",
+    "/6drP2f04eKhc8hkEMJIImYhIfNc.jpg",
+    "/dtYxbn9RKMza4yvyt9AcDayLv9P.jpg",
+    "/uXlV5WGu3G7F9kXR5xl3gQtjjt0.jpg",
+    "/cmu8xAFdY0I40H8Bp4X59yySZBT.jpg",
+    "/c2Yg6xi9gN6ULVkjAqaMttNYxki.jpg",
+    "/sn5mxXJeeLtYFDTR33SZzOcnEE9.jpg",
+    "/cmUi4HOJrdbaxoNE0Iv2IudiaBD.jpg",
+    "/dZk73ASuxNlYeeALPFUNnD9ORq7.jpg"
+  ],
+  "trailerKey": "yXaj_O_U0LA",
+  "genreIds": [
+    18,
+    53,
+    9648
+  ],
+  "keywordIds": [
+    4227,
+    9714,
+    159868,
+    187989,
+    309974
+  ],
+  "countries": [
+    "US",
+    "FR"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "StudioCanal",
+    "The Montecito Picture Company"
+  ],
+  "crew": [
+    {
+      "personId": 949132,
+      "job": "producer"
+    },
+    {
+      "personId": 56205,
+      "job": "director"
+    },
+    {
+      "personId": 8858,
+      "job": "producer"
+    },
+    {
+      "personId": 67796,
+      "job": "writer"
+    },
+    {
+      "personId": 57601,
+      "job": "producer"
+    },
+    {
+      "personId": 55612,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5359,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 71070,
+      "character": "Chloe Sweeney",
+      "order": 0
+    },
+    {
+      "personId": 1231,
+      "character": "Catherine Stewart",
+      "order": 1
+    },
+    {
+      "personId": 3896,
+      "character": "David Stewart",
+      "order": 2
+    },
+    {
+      "personId": 41883,
+      "character": "Michael Stewart",
+      "order": 3
+    },
+    {
+      "personId": 91600,
+      "character": "Frank",
+      "order": 4
+    },
+    {
+      "personId": 19961,
+      "character": "Anna",
+      "order": 5
+    },
+    {
+      "personId": 125579,
+      "character": "Receptionist",
+      "order": 6
+    },
+    {
+      "personId": 12487,
+      "character": "Bimsy",
+      "order": 7
+    },
+    {
+      "personId": 63858,
+      "character": "Alicia",
+      "order": 8
+    },
+    {
+      "personId": 125581,
+      "character": "Trina",
+      "order": 9
+    },
+    {
+      "personId": 27004,
+      "character": "Miranda",
+      "order": 10
+    },
+    {
+      "personId": 125582,
+      "character": "Party Guest",
+      "order": 11
+    },
+    {
+      "personId": 1160260,
+      "character": "Waitress 1",
+      "order": 12
+    },
+    {
+      "personId": 1160261,
+      "character": "Waitress 2",
+      "order": 13
+    },
+    {
+      "personId": 1160262,
+      "character": "Bartender",
+      "order": 14
+    },
+    {
+      "personId": 1228319,
+      "character": "Eliza",
+      "order": 15
+    },
+    {
+      "personId": 64308,
+      "character": "Young Co-Ed",
+      "order": 16
+    },
+    {
+      "personId": 1565624,
+      "character": "Nurse",
+      "order": 17
+    },
+    {
+      "personId": 141217,
+      "character": "Student 1",
+      "order": 18
+    },
+    {
+      "personId": 1226806,
+      "character": "Student 2",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1935,
+  "sources": [
+    "cult-list"
+  ]
+}

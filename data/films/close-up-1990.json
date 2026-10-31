@@ -1,0 +1,173 @@
+{
+  "tmdbId": 30017,
+  "slug": "close-up-1990",
+  "year": 1990,
+  "runtime": 98,
+  "originalTitle": "کلوزآپ ، نمای نزدیک",
+  "title": {
+    "en": "Close-Up",
+    "tr": "Yakın Plan"
+  },
+  "overview": {
+    "en": "This fiction-documentary hybrid uses a sensational real-life event—the arrest of a young man on charges that he fraudulently impersonated the well-known filmmaker Mohsen Makhmalbaf—as the basis for a stunning, multilayered investigation into movies, identity, artistic creation, and existence, in which the real people from the case play themselves.",
+    "tr": "Yoksul sinema tutkunu Hüseyin Sabzian, otobüste yaşlı bir kadınla tanışır ve kendisini ünlü İranlı yönetmen Mohsen Makhmalbaf olarak tanıtır. Kadın, buna inanarak, adamı ailesiyle tanıştırmak üzere evine davete eder. Sabzian da, aileyi, yeni çekeceği filme para yardımı yapmaları şartıyla, filminde oynamaya ikna eder. Fakat, zengin Ahankhah ailesi, evi soyacağından şüphelenerek, adamı polise ihbar eder. Sabzian tutuklanır, sorgulama ve yargılanma süreci başlar."
+  },
+  "poster": {
+    "tr": "/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg",
+    "en": "/m9HG2N9ZKCmNN9qOHJTNyy18wn3.jpg"
+  },
+  "backdrops": [
+    "/uvosDEp9iWUfQ0kuWVou8GemDaA.jpg",
+    "/3t1qZqP1e17wQshpPKSqII1OogM.jpg",
+    "/53l4cXtgsSV34dVRdu1ucgaWYm8.jpg",
+    "/yLvKusqeXNxFvqDq0LKKu0gY2UI.jpg",
+    "/bFwX046MubonXvjzQsv8KcFKzgj.jpg",
+    "/bXB9KWh07k5Aa0FU6NTG5U740um.jpg",
+    "/wxW9VOC00kF4SIQb01QLhraeQE3.jpg",
+    "/jwNzMgftbc2TEbwWssfs0P3lX6V.jpg",
+    "/hdJPVZ3gIErJUUmRPXJspI2xcMA.jpg",
+    "/cNqacRA61ofgq8T1o8gqCCTX4AL.jpg"
+  ],
+  "trailerKey": "YeFZ448yQ-0",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    886,
+    5986,
+    155876,
+    299344,
+    309426,
+    325795
+  ],
+  "countries": [
+    "IR"
+  ],
+  "languages": [
+    "az",
+    "fa"
+  ],
+  "studios": [
+    "Kanoon"
+  ],
+  "crew": [
+    {
+      "personId": 119294,
+      "job": "writer"
+    },
+    {
+      "personId": 119294,
+      "job": "director"
+    },
+    {
+      "personId": 1118642,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1118643,
+      "job": "producer"
+    },
+    {
+      "personId": 1118656,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1118644,
+      "character": "Hossain Sabzian",
+      "order": 0
+    },
+    {
+      "personId": 143370,
+      "character": "Monoochehr Ahankhah",
+      "order": 1
+    },
+    {
+      "personId": 143371,
+      "character": "Mahrokh Ahankhah",
+      "order": 2
+    },
+    {
+      "personId": 1118645,
+      "character": "Abolfazl Ahankhah",
+      "order": 3
+    },
+    {
+      "personId": 1118646,
+      "character": "Mehrdad Ahankhah",
+      "order": 4
+    },
+    {
+      "personId": 143372,
+      "character": "Nayer Mohseni Zonoozi",
+      "order": 5
+    },
+    {
+      "personId": 1118648,
+      "character": "Reporter",
+      "order": 6
+    },
+    {
+      "personId": 1118647,
+      "character": "Family Friend",
+      "order": 7
+    },
+    {
+      "personId": 1118649,
+      "character": "Taxi Driver",
+      "order": 8
+    },
+    {
+      "personId": 1118650,
+      "character": "Soldier",
+      "order": 9
+    },
+    {
+      "personId": 1118651,
+      "character": "Sergeant",
+      "order": 10
+    },
+    {
+      "personId": 1118652,
+      "character": "Judge",
+      "order": 11
+    },
+    {
+      "personId": 1118653,
+      "character": "Court Recorder",
+      "order": 12
+    },
+    {
+      "personId": 1118654,
+      "character": "Court Recorder",
+      "order": 13
+    },
+    {
+      "personId": 3116896,
+      "character": "Hassan Farazmand",
+      "order": 14
+    },
+    {
+      "personId": 3116898,
+      "character": "Hushang Shahai",
+      "order": 15
+    },
+    {
+      "personId": 120226,
+      "character": "Mohsen Makhmalbaf",
+      "order": 16
+    },
+    {
+      "personId": 119294,
+      "character": "Abbas Kiarostami",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 474,
+  "sources": [
+    "cult-list"
+  ]
+}

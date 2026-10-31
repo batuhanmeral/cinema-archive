@@ -1,0 +1,100 @@
+{
+  "tmdbId": 17204,
+  "slug": "paradise-lost-the-child-murders-at-robin-hood-hills-1996",
+  "year": 1996,
+  "runtime": 150,
+  "originalTitle": "Paradise Lost: The Child Murders at Robin Hood Hills",
+  "title": {
+    "en": "Paradise Lost: The Child Murders at Robin Hood Hills",
+    "tr": "Paradise Lost: The Child Murders at Robin Hood Hills"
+  },
+  "overview": {
+    "en": "A horrific triple child murder leads to an indictment and trial of three nonconformist boys based on questionable evidence.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/h65fwEQTv9zRNyEuExE1wAk5CQ2.jpg",
+    "en": "/h65fwEQTv9zRNyEuExE1wAk5CQ2.jpg"
+  },
+  "backdrops": [
+    "/sOFwEeWmlQufAQwLH7OXnw2oLlj.jpg",
+    "/A4E32pqtNpslEMNZPpAgAE91uTI.jpg",
+    "/znXpIsC1CMU0uhr0KuRhYU8tmCH.jpg"
+  ],
+  "trailerKey": "Tfj_bVIwyeA",
+  "genreIds": [
+    99,
+    80
+  ],
+  "keywordIds": [
+    6145,
+    1468,
+    5521,
+    188775,
+    308664,
+    325800,
+    325803,
+    332771
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Creative Thinking International Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 69237,
+      "job": "director"
+    },
+    {
+      "personId": 69238,
+      "job": "director"
+    },
+    {
+      "personId": 69237,
+      "job": "producer"
+    },
+    {
+      "personId": 69238,
+      "job": "producer"
+    },
+    {
+      "personId": 69246,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 81449,
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "personId": 81448,
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "personId": 81447,
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "personId": 69237,
+      "character": "Self (voice)",
+      "order": 3
+    },
+    {
+      "personId": 69238,
+      "character": "Self (voice)",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 215,
+  "sources": [
+    "cult-list"
+  ]
+}

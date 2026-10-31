@@ -1,0 +1,195 @@
+{
+  "tmdbId": 18647,
+  "slug": "one-eyed-jacks-1961",
+  "year": 1961,
+  "runtime": 141,
+  "originalTitle": "One-Eyed Jacks",
+  "title": {
+    "en": "One-Eyed Jacks",
+    "tr": "Aşk ve İntikam"
+  },
+  "overview": {
+    "en": "Running from the law after a bank robbery in Mexico, Dad Longworth finds an opportunity to take the stolen gold and leave his partner Rio to be captured. Years later, Rio escapes from the prison where he has been since, and hunts down Dad for revenge. Dad is now a respectable sheriff in California, and has been living in fear of Rio's return.",
+    "tr": "Dad Rio'ya kazık atar ve onu yaşam boyu sürecek bir garezin tohumlarının atıldığı bir Meksika hapishanesinde bırakır. Rio hapisten kaçana dek aradan beş yıl geçer, intikamını almaktan hiçbir şeyin döndüremeyeceği Rio, Bon Amory (Ben Johnson) liderliğindeki bir suçlu çetesine girer ve hareket peşindeki grup Kaliforniya sahillerine gider. Monterrey'de nihayet, artık Meksika kökenli karısı Maria (Katy Jurado) ve ergen yaştaki üvey kızı Louisa'yla (Pina Pellicer) yaşayan ve bölgenin şerifi olan Dad'i bulurlar. Rio arkadaşmış gibi davranır. Dad geçmişi hakkında yalan söyler. Bob bir banka soymayı planlar ve Louisa afili kanun kaçaklarının etkisine kapılır. Doğal olarak, diğer adamların tümü çeşitli kötülüklerin peşinde ölürken, Rio hak ettiği iyi sona kavuşur."
+  },
+  "poster": {
+    "tr": "/xal47bRKVIxErB7h2CScY3GBnoT.jpg",
+    "en": "/xal47bRKVIxErB7h2CScY3GBnoT.jpg"
+  },
+  "backdrops": [
+    "/yymfe9Py4QbfD8rYSsVv9APhsBH.jpg",
+    "/c34lzH24bX4SJJIZCRbIbYShM1K.jpg",
+    "/sWbbwrcKXP5EJgrKXPpy82mxoxq.jpg",
+    "/dUlxV1qfXAfI5QjvZfTHniErIOe.jpg",
+    "/lsPtjlyiSiccWt1ScufqEa4oG0l.jpg",
+    "/8ISckKJuXdgpWcV1PJvaxOgvpxN.jpg",
+    "/QFoxtSq6itV9XuTa7eukllGkzx.jpg",
+    "/s0M5gv8Rl9AsFWQZRayRkbCPZK5.jpg",
+    "/1cBBvqSMgKIhSw9MYIbwbWKJaTh.jpg",
+    "/6FBtGR1jEmVKNcuEFPnd1TLXrcG.jpg"
+  ],
+  "trailerKey": "R41AHe59UiU",
+  "genreIds": [
+    37,
+    18
+  ],
+  "keywordIds": [
+    1321,
+    387,
+    798,
+    534,
+    502,
+    9503,
+    9748,
+    10614,
+    10085,
+    10718,
+    186831,
+    207928,
+    295150,
+    316753,
+    320706,
+    361716,
+    365213
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Pennebaker Productions"
+  ],
+  "crew": [
+    {
+      "personId": 3148,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10769,
+      "job": "writer"
+    },
+    {
+      "personId": 13571,
+      "job": "composer"
+    },
+    {
+      "personId": 138178,
+      "job": "producer"
+    },
+    {
+      "personId": 3084,
+      "job": "director"
+    },
+    {
+      "personId": 13778,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3084,
+      "character": "Rio",
+      "order": 0
+    },
+    {
+      "personId": 9857,
+      "character": "Sheriff Dad Longworth",
+      "order": 1
+    },
+    {
+      "personId": 4069,
+      "character": "Maria Longworth",
+      "order": 2
+    },
+    {
+      "personId": 8258,
+      "character": "Bob Amory",
+      "order": 3
+    },
+    {
+      "personId": 14253,
+      "character": "Deputy Lon Dedrick",
+      "order": 4
+    },
+    {
+      "personId": 151630,
+      "character": "Chico Modesto",
+      "order": 5
+    },
+    {
+      "personId": 16069,
+      "character": "Harvey Johnson",
+      "order": 6
+    },
+    {
+      "personId": 2758,
+      "character": "Howard Tetley",
+      "order": 7
+    },
+    {
+      "personId": 1163,
+      "character": "Redhead",
+      "order": 8
+    },
+    {
+      "personId": 3339,
+      "character": "Carvey",
+      "order": 9
+    },
+    {
+      "personId": 24827,
+      "character": "Mexican Rurale Captain",
+      "order": 10
+    },
+    {
+      "personId": 93624,
+      "character": "Barney",
+      "order": 11
+    },
+    {
+      "personId": 29645,
+      "character": "Chet",
+      "order": 12
+    },
+    {
+      "personId": 95014,
+      "character": "Uncle",
+      "order": 13
+    },
+    {
+      "personId": 1216882,
+      "character": "Nika Flamenco Dancer",
+      "order": 14
+    },
+    {
+      "personId": 30299,
+      "character": "Doc",
+      "order": 15
+    },
+    {
+      "personId": 951145,
+      "character": "Tim",
+      "order": 16
+    },
+    {
+      "personId": 34084,
+      "character": "Banker",
+      "order": 17
+    },
+    {
+      "personId": 1198565,
+      "character": "Margarita",
+      "order": 18
+    },
+    {
+      "personId": 83394,
+      "character": "Louisa",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 267,
+  "sources": [
+    "cult-list"
+  ]
+}

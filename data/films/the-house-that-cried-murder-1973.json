@@ -1,0 +1,149 @@
+{
+  "tmdbId": 84423,
+  "slug": "the-house-that-cried-murder-1973",
+  "year": 1973,
+  "runtime": 85,
+  "originalTitle": "The House That Cried Murder",
+  "title": {
+    "en": "The House That Cried Murder",
+    "tr": "The House That Cried Murder"
+  },
+  "overview": {
+    "en": "Neurotic and newlywed Barbara finds her husband in bed with his old flame, Ellen. Barbara doesn't get mad — she gets even. Using funds supplied by her wealthy father, the scorned bride turns the couple's love nest into a dungeon of horror.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ghYG58wfk2RtA4f0XNIksw8z9I2.jpg",
+    "en": "/ySqvC95iKbcHBaICTtkbPX4nosu.jpg"
+  },
+  "backdrops": [
+    "/zC2HjR7ilx353T8cWUuy9iOM9iB.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    27,
+    53
+  ],
+  "keywordIds": [
+    3582,
+    9748,
+    34094
+  ],
+  "countries": [
+    "CA",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Golden Gate Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1299088,
+      "job": "director"
+    },
+    {
+      "personId": 100274,
+      "job": "writer"
+    },
+    {
+      "personId": 1258,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1723936,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 100274,
+      "job": "producer"
+    },
+    {
+      "personId": 1299088,
+      "job": "writer"
+    },
+    {
+      "personId": 19746,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1216990,
+      "character": "Barbara",
+      "order": 0
+    },
+    {
+      "personId": 97314,
+      "character": "Father",
+      "order": 1
+    },
+    {
+      "personId": 98437,
+      "character": "David",
+      "order": 2
+    },
+    {
+      "personId": 945445,
+      "character": "Ellen",
+      "order": 3
+    },
+    {
+      "personId": 2489711,
+      "character": "Girl at the Wedding",
+      "order": 4
+    },
+    {
+      "personId": 2640022,
+      "character": "Boy at the Wedding (as Paul Crafin)",
+      "order": 5
+    },
+    {
+      "personId": 2657085,
+      "character": "Wedding Guest",
+      "order": 6
+    },
+    {
+      "personId": 2657086,
+      "character": "Wedding Guest",
+      "order": 7
+    },
+    {
+      "personId": 2657087,
+      "character": "Wedding Guest",
+      "order": 8
+    },
+    {
+      "personId": 2657088,
+      "character": "Wedding Guest",
+      "order": 9
+    },
+    {
+      "personId": 2657090,
+      "character": "Wedding Guest",
+      "order": 10
+    },
+    {
+      "personId": 2657091,
+      "character": "Wedding Guest",
+      "order": 11
+    },
+    {
+      "personId": 2657092,
+      "character": "Wedding Guest",
+      "order": 12
+    },
+    {
+      "personId": 2657093,
+      "character": "Wedding Guest",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 21,
+  "sources": [
+    "cult-list"
+  ]
+}

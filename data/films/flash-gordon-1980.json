@@ -1,0 +1,216 @@
+{
+  "tmdbId": 3604,
+  "slug": "flash-gordon-1980",
+  "year": 1980,
+  "runtime": 111,
+  "originalTitle": "Flash Gordon",
+  "title": {
+    "en": "Flash Gordon",
+    "tr": "Fezada Çarpışanlar"
+  },
+  "overview": {
+    "en": "A football player and his mates travel to the planet Mongo and find themselves fighting the tyranny of Ming the Merciless to save Earth.",
+    "tr": "Yakışıklı ve gözüpek Flash Gordon, kız arkadaşı güzel Dale Arden'le birlikte dostu Dr. Zarkov'un icadı olan rokete binerek Mongo gezegenine gelir. Burada değişik ırklar, kültürler ve teknolojiler birlikte yaşamaktadır. Ancak krallıkların hepsi de kötü yürekli tiran Ming'in demir yumruğu altında ezilmektedir. Kahramanlarımız bir çok tehlike ve serüvenin ardından tahtın gerçek varisi Prens Barin ile güç birliği yaparak, Ming bizim Dünya'mızı da yoketmeyi içeren şeytani planlarına engel olmak üzere kolları sıvarlar."
+  },
+  "poster": {
+    "tr": "/eTdEaRjtVnFbd5KVhxLRfbYW46e.jpg",
+    "en": "/jXGq8xT5okT3ZyZ1J04X5tqsi6u.jpg"
+  },
+  "backdrops": [
+    "/fU92iWyQbysjAQmkfkuFxNlWzz1.jpg",
+    "/bTBm7HuTQylEzBRqw2SaIkF0ZlG.jpg",
+    "/ukm8ptD1iCFCdkJYXfi82KDNzEH.jpg",
+    "/olgYnqFjImM0ZTvQEEm8gOWfn4f.jpg",
+    "/2zmMyTl08zDN7xi1rAsOWAMQIrb.jpg",
+    "/pAhT565rtm0h0f2JYicSYMnCkfT.jpg",
+    "/lUeVtZ4KxzVHhW1Q4EtW34MDcZJ.jpg",
+    "/xha0MtuNtvIEbvBi63uFwXRbIhU.jpg",
+    "/8JtncTLKRmjeVIzdgxyEblP6LDd.jpg",
+    "/pw0faObLC7lYxtfZ2jCaCA2dWwu.jpg"
+  ],
+  "trailerKey": "f31Je2x4gjE",
+  "genreIds": [
+    878,
+    12,
+    28,
+    10751
+  ],
+  "keywordIds": [
+    6211,
+    2280,
+    2642,
+    3071,
+    9758,
+    10158,
+    12965,
+    14760,
+    161176,
+    195323,
+    219404,
+    225012,
+    248862,
+    248863,
+    259376,
+    324713,
+    325811
+  ],
+  "countries": [
+    "IT",
+    "NL",
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Starling Films",
+    "Universal Pictures",
+    "Famous Films Productions"
+  ],
+  "crew": [
+    {
+      "personId": 17281,
+      "job": "director"
+    },
+    {
+      "personId": 10931,
+      "job": "writer"
+    },
+    {
+      "personId": 33319,
+      "job": "composer"
+    },
+    {
+      "personId": 7753,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5398,
+      "job": "producer"
+    },
+    {
+      "personId": 928828,
+      "job": "composer"
+    },
+    {
+      "personId": 84530,
+      "job": "composer"
+    },
+    {
+      "personId": 84527,
+      "job": "composer"
+    },
+    {
+      "personId": 84532,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 33321,
+      "character": "Flash Gordon",
+      "order": 0
+    },
+    {
+      "personId": 33322,
+      "character": "Dale Arden",
+      "order": 1
+    },
+    {
+      "personId": 2201,
+      "character": "The Emperor Ming",
+      "order": 2
+    },
+    {
+      "personId": 10501,
+      "character": "Dr. Hans Zarkov",
+      "order": 3
+    },
+    {
+      "personId": 27163,
+      "character": "Princess Aura",
+      "order": 4
+    },
+    {
+      "personId": 10669,
+      "character": "Prince Barin",
+      "order": 5
+    },
+    {
+      "personId": 8318,
+      "character": "Prince Vultan",
+      "order": 6
+    },
+    {
+      "personId": 22529,
+      "character": "Klytus",
+      "order": 7
+    },
+    {
+      "personId": 25810,
+      "character": "Kala",
+      "order": 8
+    },
+    {
+      "personId": 33323,
+      "character": "Arborian Priest",
+      "order": 9
+    },
+    {
+      "personId": 13474,
+      "character": "Fico",
+      "order": 10
+    },
+    {
+      "personId": 12690,
+      "character": "Luro",
+      "order": 11
+    },
+    {
+      "personId": 694,
+      "character": "Zogi, the High Priest",
+      "order": 12
+    },
+    {
+      "personId": 115705,
+      "character": "Serving Girl",
+      "order": 13
+    },
+    {
+      "personId": 663,
+      "character": "Munson",
+      "order": 14
+    },
+    {
+      "personId": 1214678,
+      "character": "Hedonia",
+      "order": 15
+    },
+    {
+      "personId": 1458833,
+      "character": "Biro",
+      "order": 16
+    },
+    {
+      "personId": 2985819,
+      "character": "Vultan's Daughter",
+      "order": 17
+    },
+    {
+      "personId": 27823,
+      "character": "Mongon Doctor",
+      "order": 18
+    },
+    {
+      "personId": 1430007,
+      "character": "Airline Pilot",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1153,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "tmdbId": 204,
+  "slug": "the-wages-of-fear-1953",
+  "year": 1953,
+  "runtime": 148,
+  "originalTitle": "Le Salaire de la peur",
+  "title": {
+    "en": "The Wages of Fear",
+    "tr": "Dehşet Yolcuları"
+  },
+  "overview": {
+    "en": "In a run-down South American town, four men are paid to drive trucks loaded with nitroglycerin into the jungle through to the oil field. Friendships are tested and rivalries develop as they embark upon the perilous journey.",
+    "tr": "Berlin ve Cannes'dan ödülle dönmüş sıradışı bir gerilim/macera…  Güney Amerika'daki gözden ırak bir kasabada sıkışıp kalmış dört yabancı; Fransız Mario ile M Jo, Alman Bimba ve İtalyan Luigi… Ülkelerinden kaçmış bu dört adamın tek bir kurtuluş yolu vardır; her an patlamaya hazır iki kamyonu zamanında yerine ulaştırmak!"
+  },
+  "poster": {
+    "tr": "/sNOvIp4X0fmCMfgEs2ww5IyMgFm.jpg",
+    "en": "/dZyZSosIlWcpQkV0f7pXcrV2TQV.jpg"
+  },
+  "backdrops": [
+    "/sdNPipjZoOJFuTBwH8EyEb5dsKv.jpg",
+    "/gd1wafMv7qp6MuJ3nn0s1GgbjUV.jpg",
+    "/8JaU1ez5TSrRSmncB0Xh2YQavXP.jpg",
+    "/hTP6H7sNlWXdGxAciXQSjNJ1ob7.jpg",
+    "/kYqzDyHp9TDKkNLNZuwXnXbY2Cj.jpg",
+    "/8vJxLgffmlFsUykwP8jyCTaa9dO.jpg",
+    "/qyC2YdeFw4ob2yNscdmotSmjLjM.jpg",
+    "/yDZQxYvQrRkTxUdRLLbNEMEmhEJ.jpg",
+    "/gJ45YLAUzVEwjueYeNcSsGrEqzg.jpg",
+    "/pYj2esro7xK6uqt7Kjk3Jicjigr.jpg"
+  ],
+  "trailerKey": "ZYDZ3vNa-MQ",
+  "genreIds": [
+    18,
+    53,
+    12
+  ],
+  "keywordIds": [
+    5175,
+    657,
+    314,
+    818,
+    6059,
+    1291,
+    592,
+    430,
+    3464,
+    1560,
+    3230,
+    7176,
+    9276,
+    10590,
+    13073,
+    14601,
+    15222,
+    15291,
+    18266,
+    33585,
+    155963,
+    167043,
+    222348,
+    227039,
+    227812,
+    253043,
+    279744,
+    296770,
+    308750,
+    314730
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr",
+    "en",
+    "es",
+    "it",
+    "de"
+  ],
+  "studios": [
+    "Compagnie Industrielle et Commerciale Cinématographique",
+    "Véra Films",
+    "Fono Roma"
+  ],
+  "crew": [
+    {
+      "personId": 2559,
+      "job": "director"
+    },
+    {
+      "personId": 2578,
+      "job": "composer"
+    },
+    {
+      "personId": 2562,
+      "job": "writer"
+    },
+    {
+      "personId": 2579,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2577,
+      "job": "producer"
+    },
+    {
+      "personId": 2559,
+      "job": "producer"
+    },
+    {
+      "personId": 2559,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2565,
+      "character": "Mario Livi",
+      "order": 0
+    },
+    {
+      "personId": 2566,
+      "character": "Mr. Jo",
+      "order": 1
+    },
+    {
+      "personId": 2567,
+      "character": "Bimba",
+      "order": 2
+    },
+    {
+      "personId": 2568,
+      "character": "Luigi",
+      "order": 3
+    },
+    {
+      "personId": 2569,
+      "character": "Linda",
+      "order": 4
+    },
+    {
+      "personId": 2570,
+      "character": "Camp Chief",
+      "order": 5
+    },
+    {
+      "personId": 2573,
+      "character": "Hans Smerloff",
+      "order": 6
+    },
+    {
+      "personId": 397,
+      "character": "Pepito Hernandez",
+      "order": 7
+    },
+    {
+      "personId": 2576,
+      "character": "Bill O'Brien",
+      "order": 8
+    },
+    {
+      "personId": 586308,
+      "character": "Rosa",
+      "order": 9
+    },
+    {
+      "personId": 2572,
+      "character": "Bernardo",
+      "order": 10
+    },
+    {
+      "personId": 119813,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1403304,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 580782,
+      "character": "(uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1797572,
+      "character": "(uncredited)",
+      "order": 14
+    }
+  ],
+  "awards": {
+    "cannes": 1,
+    "berlin": 1,
+    "bafta": 1
+  },
+  "voteCount": 1150,
+  "sources": [
+    "cult-list"
+  ]
+}

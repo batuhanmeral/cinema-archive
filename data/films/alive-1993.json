@@ -1,0 +1,199 @@
+{
+  "tmdbId": 7305,
+  "slug": "alive-1993",
+  "year": 1993,
+  "runtime": 127,
+  "originalTitle": "Alive",
+  "title": {
+    "en": "Alive",
+    "tr": "Yaşamak İçin"
+  },
+  "overview": {
+    "en": "The amazing true story of a Uruguayan rugby team's plane that crashed in the middle of the Andes mountains, and their immense will to survive and pull through alive, forced to do anything and everything they could to stay alive on meager rations and through the freezing cold.",
+    "tr": "Uruguaylı bir rugby takımının oyuncuları bulunan uçak And dağlarına çakılır. Bu çarpışma esnasında yolcuların bir kısmı ölür ama çoğunluğu da sağ olarak kurtulur. Sekiz gün boyunca uçağın enkazında oturup kurtarılmayı beklerler. Ancak yardım bir türlü gelmez. Bu arada radyodan da arama çabalarının sonuç vermemesi ve çok soğuk ortamda bu kadar zaman yaşamalarının artık söz konusu olamayacağı üzerine arama çalışmalarına son verildiğini duyarlar. Sıfırın altındaki soğuk bir ortamda on hafta boyunca hayatta kalma çabaları inanılmaz boyutlara ulaşır ve sonunda gençlerden üçü yardım bulmak amacıyla yola çıkarlar."
+  },
+  "poster": {
+    "tr": "/uQACcCZqd7WCTRin9xRIW5gr1bd.jpg",
+    "en": "/uQACcCZqd7WCTRin9xRIW5gr1bd.jpg"
+  },
+  "backdrops": [
+    "/e23ip5v7Iw43Fv5HcyGDBrRHApt.jpg",
+    "/xptQX2dLzk2xZwk2IBJozlRweEh.jpg",
+    "/qSsGH4N05F7IRSdmt8I4bCfeSp1.jpg",
+    "/nTSLaywWzBG4pVp8QC5NiBAcrSU.jpg",
+    "/vxpmN2HKzB7amrBVpzfETLtkOt8.jpg",
+    "/uqqxYikvyzZq85kPVo4xSyMTgtS.jpg",
+    "/krrcSy3ka6K1asZtrXIcGM4E2E7.jpg",
+    "/xJHKNDUw1Mhdmrhbl4tnWKua7IX.jpg",
+    "/qV1hemddvcmHTJoHPAff1ZCjbsr.jpg",
+    "/qHXdyDBgetOyetVkWGzHYGp7L72.jpg"
+  ],
+  "trailerKey": "C2lFPEp7dbI",
+  "genreIds": [
+    12,
+    18,
+    36
+  ],
+  "keywordIds": [
+    11116,
+    9672,
+    7912,
+    10349,
+    9743,
+    12617,
+    155372,
+    189411,
+    191724,
+    198433,
+    278235,
+    311315,
+    315323,
+    319783,
+    325769,
+    342447
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Touchstone Pictures",
+    "The Kennedy/Marshall Company",
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 5708,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 26095,
+      "job": "writer"
+    },
+    {
+      "personId": 489,
+      "job": "producer"
+    },
+    {
+      "personId": 1213,
+      "job": "composer"
+    },
+    {
+      "personId": 664,
+      "job": "director"
+    },
+    {
+      "personId": 711,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 52419,
+      "character": "Roberto Canessa",
+      "order": 0
+    },
+    {
+      "personId": 7039,
+      "character": "Carlitos Páez",
+      "order": 1
+    },
+    {
+      "personId": 569,
+      "character": "Nando Parrado",
+      "order": 2
+    },
+    {
+      "personId": 147119,
+      "character": "Antonio Balbi",
+      "order": 3
+    },
+    {
+      "personId": 52420,
+      "character": "Antonio Vizintín",
+      "order": 4
+    },
+    {
+      "personId": 52418,
+      "character": "Gustavo Zerbino",
+      "order": 5
+    },
+    {
+      "personId": 54711,
+      "character": "Roy Harley",
+      "order": 6
+    },
+    {
+      "personId": 172496,
+      "character": "Javier Methol",
+      "order": 7
+    },
+    {
+      "personId": 7796,
+      "character": "Lilliana Methol",
+      "order": 8
+    },
+    {
+      "personId": 22133,
+      "character": "Bobby François",
+      "order": 9
+    },
+    {
+      "personId": 52421,
+      "character": "Federico Aranda",
+      "order": 10
+    },
+    {
+      "personId": 1872737,
+      "character": "Alberto Artuna",
+      "order": 11
+    },
+    {
+      "personId": 52422,
+      "character": "Rafael Cano",
+      "order": 12
+    },
+    {
+      "personId": 10963,
+      "character": "Fraga",
+      "order": 13
+    },
+    {
+      "personId": 8540,
+      "character": "Hugo Díaz",
+      "order": 14
+    },
+    {
+      "personId": 155282,
+      "character": "Fito Strauch",
+      "order": 15
+    },
+    {
+      "personId": 87708,
+      "character": "Eduardo Strauch",
+      "order": 16
+    },
+    {
+      "personId": 12055,
+      "character": "Daniel Fernández",
+      "order": 17
+    },
+    {
+      "personId": 158812,
+      "character": "Juan Martino",
+      "order": 18
+    },
+    {
+      "personId": 110472,
+      "character": "Pablo Montero",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1658,
+  "sources": [
+    "cult-list"
+  ]
+}

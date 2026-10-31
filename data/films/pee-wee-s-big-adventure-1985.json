@@ -1,0 +1,202 @@
+{
+  "tmdbId": 5683,
+  "slug": "pee-wee-s-big-adventure-1985",
+  "year": 1985,
+  "runtime": 91,
+  "originalTitle": "Pee-wee's Big Adventure",
+  "title": {
+    "en": "Pee-wee's Big Adventure",
+    "tr": "Kırmızı Bisikletli Adamın Maceraları"
+  },
+  "overview": {
+    "en": "The eccentric and childish Pee-wee Herman embarks on a big adventure when his beloved bicycle is stolen. Armed with information from a fortune-teller and a relentless obsession with his prized possession, Pee-wee encounters a host of odd characters and bizarre situations as he treks across the country to recover his bike.",
+    "tr": "Pee-wee Herman, yetişkin bedeninde ama ruhuyla 12 yaşında bir çocuk olan huysuz bir karakterdir. En değerli varlığı olan bisikletinden asla vazgeçmez, bu yüzden Francis'in cazip teklifini bile reddeder. Ancak bir gün bisikleti çalınınca, onu bulmak için ABD'nin dört bir yanını dolaşacağı çılgın bir maceraya atılır. Yol boyunca tuhaf karakterlerle karşılaşır ve başı sürekli belaya girer. Sonunda Hollywood'da izini bulur: Bisikletini bir şov programında çekiliş ödülü olarak sunulurken görür!"
+  },
+  "poster": {
+    "tr": "/414IUXc54mrhX88ZUQiRDLXn01i.jpg",
+    "en": "/414IUXc54mrhX88ZUQiRDLXn01i.jpg"
+  },
+  "backdrops": [
+    "/8qob0r37GT8YV3lA7pIfcnp0FBQ.jpg",
+    "/30lunazeLIB9bZVoPNOVbCC9Xx4.jpg",
+    "/qtIHa9PjMtUcNnIlFrk15wpUjBz.jpg",
+    "/9wu7VvBZmUdpeFQY7jdwZBWysML.jpg",
+    "/7KGYjWiuMgJutBrQLV5xAGFnc74.jpg",
+    "/kj0WuExoBFCuOjzovw2PvMN1PVu.jpg",
+    "/8jlWj2Qinj26XACfRSarq0GJunC.jpg",
+    "/cwvAWStKl6NasQdmDH9g0EZ5Hgp.jpg",
+    "/dehiGLRsst0ZdSm79NIP2z9lDj2.jpg",
+    "/7F5isWcKv5YsTAp0C3dw4teFCsP.jpg"
+  ],
+  "trailerKey": "1UWsZ9k3Rds",
+  "genreIds": [
+    35,
+    12,
+    10751
+  ],
+  "keywordIds": [
+    1985,
+    10123,
+    3797,
+    10424,
+    14647,
+    33612,
+    155466,
+    155497,
+    167043,
+    190078,
+    210609
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Aspen Film Society",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 531,
+      "job": "composer"
+    },
+    {
+      "personId": 14536,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 510,
+      "job": "director"
+    },
+    {
+      "personId": 110535,
+      "job": "producer"
+    },
+    {
+      "personId": 63614,
+      "job": "producer"
+    },
+    {
+      "personId": 5129,
+      "job": "writer"
+    },
+    {
+      "personId": 14104,
+      "job": "writer"
+    },
+    {
+      "personId": 44817,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5129,
+      "character": "Pee-wee Herman",
+      "order": 0
+    },
+    {
+      "personId": 15274,
+      "character": "Dottie",
+      "order": 1
+    },
+    {
+      "personId": 44818,
+      "character": "Francis",
+      "order": 2
+    },
+    {
+      "personId": 5131,
+      "character": "Simone",
+      "order": 3
+    },
+    {
+      "personId": 44819,
+      "character": "Mickey",
+      "order": 4
+    },
+    {
+      "personId": 44820,
+      "character": "Mr. Crowtrey",
+      "order": 5
+    },
+    {
+      "personId": 44823,
+      "character": "Mario",
+      "order": 6
+    },
+    {
+      "personId": 101298,
+      "character": "Chip",
+      "order": 7
+    },
+    {
+      "personId": 165041,
+      "character": "Large Marge",
+      "order": 8
+    },
+    {
+      "personId": 21390,
+      "character": "BMX Kid",
+      "order": 9
+    },
+    {
+      "personId": 1505208,
+      "character": "BMX Kid",
+      "order": 10
+    },
+    {
+      "personId": 119715,
+      "character": "Chuck",
+      "order": 11
+    },
+    {
+      "personId": 10490,
+      "character": "Policeman #1",
+      "order": 12
+    },
+    {
+      "personId": 44821,
+      "character": "Policeman #2",
+      "order": 13
+    },
+    {
+      "personId": 44822,
+      "character": "Sgt. Hunter",
+      "order": 14
+    },
+    {
+      "personId": 13006,
+      "character": "Butler",
+      "order": 15
+    },
+    {
+      "personId": 3666,
+      "character": "Mr. Buxton",
+      "order": 16
+    },
+    {
+      "personId": 5147,
+      "character": "Francis' Accomplice",
+      "order": 17
+    },
+    {
+      "personId": 30865,
+      "character": "Amazing Larry",
+      "order": 18
+    },
+    {
+      "personId": 100503,
+      "character": "Gang Member",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 897,
+  "sources": [
+    "cult-list"
+  ]
+}

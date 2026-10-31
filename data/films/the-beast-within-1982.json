@@ -1,0 +1,143 @@
+{
+  "tmdbId": 40219,
+  "slug": "the-beast-within-1982",
+  "year": 1982,
+  "runtime": 98,
+  "originalTitle": "The Beast Within",
+  "title": {
+    "en": "The Beast Within",
+    "tr": "The Beast Within"
+  },
+  "overview": {
+    "en": "A horrified teen mutates into a crazed cannibalistic swamp creature, and must uncover the terrifying secret identity of his father before his nasty natural tendencies force him to make jambalaya out of the locals.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4ZYbhYQflIF1FV2cmOfQHBUtiQe.jpg",
+    "en": "/4ZYbhYQflIF1FV2cmOfQHBUtiQe.jpg"
+  },
+  "backdrops": [
+    "/icsarGf6OBZBUO4jMr7CHThkvKc.jpg",
+    "/fDxvd1evUFZY7a2EmToxOjMv2g.jpg",
+    "/r1KygQ05pPuQzuVKDuQQIRyeQ9G.jpg",
+    "/iLbaCODmQwtehVAki7i0PPk3Qat.jpg",
+    "/vr903juxvofhsXKynY0xzox4JYu.jpg",
+    "/nQJTQ8zUuOOkYwuSzhoNXprjtcC.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    27,
+    14,
+    878
+  ],
+  "keywordIds": [
+    2766,
+    155493,
+    164218
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Katzka",
+    "United Artists",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 114629,
+      "job": "director"
+    },
+    {
+      "personId": 64796,
+      "job": "writer"
+    },
+    {
+      "personId": 7199,
+      "job": "producer"
+    },
+    {
+      "personId": 19422,
+      "job": "producer"
+    },
+    {
+      "personId": 99452,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 780,
+      "character": "Eli MacCleary",
+      "order": 0
+    },
+    {
+      "personId": 1794,
+      "character": "Caroline MacCleary",
+      "order": 1
+    },
+    {
+      "personId": 98424,
+      "character": "Michael MacCleary",
+      "order": 2
+    },
+    {
+      "personId": 1107,
+      "character": "Doc Schoonmaker",
+      "order": 3
+    },
+    {
+      "personId": 8262,
+      "character": "Sheriff Pool",
+      "order": 4
+    },
+    {
+      "personId": 14062,
+      "character": "Judge Curwin",
+      "order": 5
+    },
+    {
+      "personId": 1214007,
+      "character": "Amanda Platt",
+      "order": 6
+    },
+    {
+      "personId": 16031,
+      "character": "Edwin Curwin",
+      "order": 7
+    },
+    {
+      "personId": 85869,
+      "character": "Horace Platt",
+      "order": 8
+    },
+    {
+      "personId": 161405,
+      "character": "Tom Laws",
+      "order": 9
+    },
+    {
+      "personId": 8962,
+      "character": "Dexter Ward",
+      "order": 10
+    },
+    {
+      "personId": 101784,
+      "character": "Deputy Herbert",
+      "order": 11
+    },
+    {
+      "personId": 2742794,
+      "character": "Doc Odom",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 134,
+  "sources": [
+    "cult-list"
+  ]
+}

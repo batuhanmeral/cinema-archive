@@ -1,0 +1,140 @@
+{
+  "tmdbId": 27642,
+  "slug": "queen-of-blood-1966",
+  "year": 1966,
+  "runtime": 81,
+  "originalTitle": "Queen of Blood",
+  "title": {
+    "en": "Queen of Blood",
+    "tr": "Queen of Blood"
+  },
+  "overview": {
+    "en": "A spaceship is sent to Mars after an alien distress signal is picked up. They find one survivor, but when a crew member is found drained of blood it's evident they have rescued a bloodsucking monster. (Uses footage from Encounter in Space (1963).)",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4DxssFMAshoIm39NWXeImdwrowP.jpg",
+    "en": "/nUEG1vBXr0GZZcK4xvLRGVkYa6L.jpg"
+  },
+  "backdrops": [
+    "/hjKXHB5bF6uR0ME0GShBtrjj7Mn.jpg",
+    "/5tUzVCOmeovyFYcVk7KZZBxkhuA.jpg",
+    "/z5Nv6C12Byv5rl9wYcKJNSfxekc.jpg",
+    "/iRZXjdckskZtIZ8zuQFI6jKiO7R.jpg",
+    "/4RUmNbmGjUaR4aRvTzPSa3RxEc5.jpg",
+    "/3JSdq9VxcKxARtclq1EisP4Xrhz.jpg",
+    "/JvgJ9EB6UeAtQe1Tm7vZUqG6tA.jpg",
+    "/yLlyJKrpqi4NzDErIt0V0CWlxui.jpg"
+  ],
+  "trailerKey": "EGkLMDaEnNk",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    10084,
+    1612,
+    305,
+    839,
+    3133,
+    9951,
+    9882,
+    191132,
+    342872
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Cinema West Productions",
+    "American International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 44725,
+      "job": "writer"
+    },
+    {
+      "personId": 98512,
+      "job": "producer"
+    },
+    {
+      "personId": 44725,
+      "job": "director"
+    },
+    {
+      "personId": 98514,
+      "job": "producer"
+    },
+    {
+      "personId": 30904,
+      "job": "producer"
+    },
+    {
+      "personId": 70810,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 91999,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 98516,
+      "character": "Alien Queen",
+      "order": 0
+    },
+    {
+      "personId": 8727,
+      "character": "Dr. Farraday",
+      "order": 1
+    },
+    {
+      "personId": 11163,
+      "character": "Allan Brenner",
+      "order": 2
+    },
+    {
+      "personId": 34624,
+      "character": "Laura James",
+      "order": 3
+    },
+    {
+      "personId": 2778,
+      "character": "Paul Grant",
+      "order": 4
+    },
+    {
+      "personId": 26149,
+      "character": "Anders Brockman",
+      "order": 5
+    },
+    {
+      "personId": 98517,
+      "character": "Tony Barrata",
+      "order": 6
+    },
+    {
+      "personId": 8954,
+      "character": "Control Panel",
+      "order": 7
+    },
+    {
+      "personId": 44762,
+      "character": "Farraday's Aide",
+      "order": 8
+    },
+    {
+      "personId": 1060266,
+      "character": "Spaceship Crew Member",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 51,
+  "sources": [
+    "cult-list"
+  ]
+}

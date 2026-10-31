@@ -1,0 +1,224 @@
+{
+  "tmdbId": 11827,
+  "slug": "heavy-metal-1981",
+  "year": 1981,
+  "runtime": 90,
+  "originalTitle": "Heavy Metal",
+  "title": {
+    "en": "Heavy Metal",
+    "tr": "Heavy Metal"
+  },
+  "overview": {
+    "en": "The embodiment of ultimate evil, a glowing orb terrorizes a young girl with bizarre stories of dark fantasy, eroticism and horror.",
+    "tr": "70’lerin ikinci yarısında Avrupa’yı kasıp kavuran, yetişkinler için serbest cinsellik, şiddet, fantastik ve bilim kurguyu politik olarak pek doğru olmayan bir şekilde harmanlayan çizgi roman akımı, Le Metal Hurlant (Haykıran Metal) dergisinde taçlanmıştı. 1977’te ABD’de bu dergiden öykünen Heavy Metal hayat buldu. Avrupalı işlerlerin yanında sıradışı Yeni Dünyalı yaratıcılara işlerini sergileme imkanı veren dergi, Atlantik’in öte yakasındaki ağbeyinin 'vefat'ının ardından da, bugünlere dek güçlü bir şekilde gelmeyi bildi.\r 1981 tarihli Heavy Metal filmine gelince, işte bu kült derginin sayfalarından 5 (+ video için fazladan 1) kısa öyküyü birleştirerek türün hayranlarına kıyak yapıyor. Animasyon kalitesi pek iç açıcı olmasa da hikayeleme olarak epey ilginç bir içerik yelpazesi sunan bu derlemenin en güçlü isimleri, hiç kuşkusuz Den ve Harry Canyon..."
+  },
+  "poster": {
+    "tr": "/atUtWrDlLzT1yeVK2EoYtvbS963.jpg",
+    "en": "/atUtWrDlLzT1yeVK2EoYtvbS963.jpg"
+  },
+  "backdrops": [
+    "/mHPA8v6QhGRQIgU6xDPK0x2vddG.jpg",
+    "/mn05NkblvY3Alnas3nGmaQt85v5.jpg",
+    "/6aQ6zNWiwoL5PbL3ulxLc9hae9S.jpg",
+    "/tLUeprK8ank7867GzhsIcg0Hven.jpg",
+    "/vFQzO9d7igxGpcKvJDLs0X44PNj.jpg",
+    "/fWMKbj1frK5fnHiXPCWAOjtN4v0.jpg",
+    "/ohoAjHWBe8AJVKmglMtDMqxlzQ4.jpg",
+    "/PeeLhvumCVbAoj9qwVr6vClJje.jpg",
+    "/obApq0Prmf740t0b3QoxoSxjYW1.jpg",
+    "/nfuXqwRghAQLysDxWQtg3G4aqLN.jpg"
+  ],
+  "trailerKey": "-Fvzpl5wTPo",
+  "genreIds": [
+    16,
+    878,
+    12,
+    14,
+    10402
+  ],
+  "keywordIds": [
+    391,
+    444,
+    5540,
+    9717,
+    11494,
+    11237,
+    161919
+  ],
+  "countries": [
+    "CA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Canadian Film Development Corporation",
+    "Guardian Trust Company",
+    "Famous Players"
+  ],
+  "crew": [
+    {
+      "personId": 70616,
+      "job": "director"
+    },
+    {
+      "personId": 57132,
+      "job": "writer"
+    },
+    {
+      "personId": 52871,
+      "job": "writer"
+    },
+    {
+      "personId": 8858,
+      "job": "producer"
+    },
+    {
+      "personId": 7182,
+      "job": "composer"
+    },
+    {
+      "personId": 58338,
+      "job": "director"
+    },
+    {
+      "personId": 70707,
+      "job": "director"
+    },
+    {
+      "personId": 2888351,
+      "job": "director"
+    },
+    {
+      "personId": 67268,
+      "job": "director"
+    },
+    {
+      "personId": 1879400,
+      "job": "director"
+    },
+    {
+      "personId": 71852,
+      "job": "director"
+    },
+    {
+      "personId": 1773189,
+      "job": "director"
+    },
+    {
+      "personId": 57290,
+      "job": "director"
+    },
+    {
+      "personId": 1693752,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 70615,
+      "character": "Hanover Fiste / Dr. Anrak (voice)",
+      "order": 0
+    },
+    {
+      "personId": 7180,
+      "character": "Desk Sergeant / Dan / Den / Robot (voice)",
+      "order": 1
+    },
+    {
+      "personId": 61185,
+      "character": "Katherine (voice)",
+      "order": 2
+    },
+    {
+      "personId": 59196,
+      "character": "Lawyer / General (voice)",
+      "order": 3
+    },
+    {
+      "personId": 87461,
+      "character": "Grimaldi / Co-Pilot / Barbarian (voice)",
+      "order": 4
+    },
+    {
+      "personId": 93644,
+      "character": "Whore / Queen (voice)",
+      "order": 5
+    },
+    {
+      "personId": 26510,
+      "character": "Sternn / Male Reporter / Edsel (voice)",
+      "order": 6
+    },
+    {
+      "personId": 1524,
+      "character": "Zeke (voice)",
+      "order": 7
+    },
+    {
+      "personId": 1282665,
+      "character": "Girl (voice)",
+      "order": 8
+    },
+    {
+      "personId": 2557,
+      "character": "Harry Canyon (voice)",
+      "order": 9
+    },
+    {
+      "personId": 87462,
+      "character": "Girl / Satellite (voice)",
+      "order": 10
+    },
+    {
+      "personId": 36172,
+      "character": "Rudnick (voice)",
+      "order": 11
+    },
+    {
+      "personId": 108890,
+      "character": "Alien / Henchman (voice)",
+      "order": 12
+    },
+    {
+      "personId": 1010492,
+      "character": "Whore (voice)",
+      "order": 13
+    },
+    {
+      "personId": 17580,
+      "character": "Prosecutor (voice)",
+      "order": 14
+    },
+    {
+      "personId": 59179,
+      "character": "Pilot / Barbarian (voice)",
+      "order": 15
+    },
+    {
+      "personId": 18260,
+      "character": "Norl / Taarak (voice)",
+      "order": 16
+    },
+    {
+      "personId": 58169,
+      "character": "Barbarian Leader (voice)",
+      "order": 17
+    },
+    {
+      "personId": 80165,
+      "character": "Gloria (voice)",
+      "order": 18
+    },
+    {
+      "personId": 88451,
+      "character": "Loc-Nar (voice / uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 834,
+  "sources": [
+    "cult-list"
+  ]
+}

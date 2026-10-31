@@ -1,0 +1,209 @@
+{
+  "tmdbId": 1597,
+  "slug": "meet-the-parents-2000",
+  "year": 2000,
+  "runtime": 108,
+  "originalTitle": "Meet the Parents",
+  "title": {
+    "en": "Meet the Parents",
+    "tr": "Zor Baba"
+  },
+  "overview": {
+    "en": "Greg Focker is ready to marry his girlfriend, Pam, but before he pops the question, he must win over her formidable father, humorless former CIA agent Jack Byrnes, at the wedding of Pam's sister. As Greg bends over backward to make a good impression, his visit to the Byrnes home turns into a hilarious series of disasters, and everything that can go wrong does, all under Jack's critical, hawklike gaze.",
+    "tr": "Erkek hemşire olarak çalışmakta olan Greg Focker (Ben Stiller), uzun süredir birlikte yaşadığı Pam (Teri Polo) evlenme teklif etmeyi planlamaktadır. Ona evet demeden önce babasından kendisini resmen istemek zorunda olduğunu söyler. Böylece sevgilisinin anne ve babasıyla tanışacağı ve orada geçireceği günlerin hiç de kolay olmayacağı bir yolculuğa çıkmak zorunda kalan Greg, başına geleceklere katlanacak gücü kendinde görmektedir çünkü Pam'i çok sevmektedir. Pam'in babası eski bir CIA ajanıdır (Robert De Niro) ve evinin bodrumunda bir yalan makinesi bulunmaktadır. Aynı anda Pam'in kız kardeşi de bir doktorla evleneceğini ilan etmiştir. Tabii böyle bir ortamda işler biraz karışır. Hatta babasının her şeyden çok sevdiği Himalayalara özgü bir kedi olan Jinxie de ortadan kaybolunca baba adeta çıldırır ve evde tam bir cehennem hayatı başlar."
+  },
+  "poster": {
+    "tr": "/ldi6cCZ2ZqNpiM1svMSjPzgSEq8.jpg",
+    "en": "/5tXJ9ctuyEOMUFLaeqRisbXowWs.jpg"
+  },
+  "backdrops": [
+    "/s1fDAwf6a3TxewcKJgj16pcegzZ.jpg",
+    "/qcVrlyPFlPgCsmzorvELvpJN9Be.jpg",
+    "/kuVbK2GRalBLG8cvYoComMNtSw3.jpg",
+    "/sfqBeVGDRCgLtwDwWKHCmckGW76.jpg",
+    "/fab7CdKtXSWov5h1ZnrYcWl1ROx.jpg",
+    "/O8VEv09SYx7NWzvZjBzbC0tS21.jpg",
+    "/7LIRB9iOe0FSnvXp7dqnYaKES0r.jpg",
+    "/i4miO1v5fGUhzwai7Wx3uvoEf3t.jpg",
+    "/iCT2t2btakXEjTqhBWIsINR6S0q.jpg",
+    "/yD2p5dMoovmYivkecKZZzYdPswo.jpg"
+  ],
+  "trailerKey": "I18TOdCvvdM",
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    5600,
+    591,
+    3800,
+    822,
+    428,
+    977,
+    3454,
+    4604,
+    5599,
+    5601,
+    5602,
+    5604,
+    5605,
+    11612,
+    13027
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "DreamWorks Pictures",
+    "Nancy Tenenbaum Films"
+  ],
+  "crew": [
+    {
+      "personId": 5708,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 17871,
+      "job": "writer"
+    },
+    {
+      "personId": 6737,
+      "job": "director"
+    },
+    {
+      "personId": 10385,
+      "job": "writer"
+    },
+    {
+      "personId": 380,
+      "job": "producer"
+    },
+    {
+      "personId": 7885,
+      "job": "composer"
+    },
+    {
+      "personId": 3305,
+      "job": "producer"
+    },
+    {
+      "personId": 6737,
+      "job": "producer"
+    },
+    {
+      "personId": 10392,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7399,
+      "character": "Greg Focker",
+      "order": 0
+    },
+    {
+      "personId": 380,
+      "character": "Jack Byrnes",
+      "order": 1
+    },
+    {
+      "personId": 10399,
+      "character": "Pam Byrnes",
+      "order": 2
+    },
+    {
+      "personId": 10401,
+      "character": "Dina Byrnes",
+      "order": 3
+    },
+    {
+      "personId": 17865,
+      "character": "Debbie Byrnes",
+      "order": 4
+    },
+    {
+      "personId": 17866,
+      "character": "Denny Byrnes",
+      "order": 5
+    },
+    {
+      "personId": 887,
+      "character": "Kevin Rawley",
+      "order": 6
+    },
+    {
+      "personId": 8986,
+      "character": "Dr. Larry Banks",
+      "order": 7
+    },
+    {
+      "personId": 17867,
+      "character": "Dr. Bob Banks",
+      "order": 8
+    },
+    {
+      "personId": 17868,
+      "character": "Linda Banks",
+      "order": 9
+    },
+    {
+      "personId": 149665,
+      "character": "Flight Attendant",
+      "order": 10
+    },
+    {
+      "personId": 164083,
+      "character": "Norm the Interrogator",
+      "order": 11
+    },
+    {
+      "personId": 52860,
+      "character": "Pharmacy Clerk",
+      "order": 12
+    },
+    {
+      "personId": 163711,
+      "character": "Animal Shelter Worker",
+      "order": 13
+    },
+    {
+      "personId": 122243,
+      "character": "Chicago Airport Security",
+      "order": 14
+    },
+    {
+      "personId": 116056,
+      "character": "Hospital Patient",
+      "order": 15
+    },
+    {
+      "personId": 171334,
+      "character": "Ticket Agent",
+      "order": 16
+    },
+    {
+      "personId": 77025,
+      "character": "Father O'Boyle",
+      "order": 17
+    },
+    {
+      "personId": 935624,
+      "character": "Kinky",
+      "order": 18
+    },
+    {
+      "personId": 2989015,
+      "character": "Lost Luggage Clerk",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 6633,
+  "sources": [
+    "cult-list"
+  ]
+}

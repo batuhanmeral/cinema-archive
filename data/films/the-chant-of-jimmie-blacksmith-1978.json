@@ -1,0 +1,181 @@
+{
+  "tmdbId": 69069,
+  "slug": "the-chant-of-jimmie-blacksmith-1978",
+  "year": 1978,
+  "runtime": 113,
+  "originalTitle": "The Chant of Jimmie Blacksmith",
+  "title": {
+    "en": "The Chant of Jimmie Blacksmith",
+    "tr": "The Chant of Jimmie Blacksmith"
+  },
+  "overview": {
+    "en": "The true story of a part Aboriginal man who finds the pressure of adapting to white culture intolerable, and as a result snaps in a violent and horrific manner.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rbyEtX16Tk58WMeii5rVEfB1OUm.jpg",
+    "en": "/NXStcYtKuarZG9WDPOX4EanG6m.jpg"
+  },
+  "backdrops": [
+    "/l8iQQU2EvxTemHWGmS7mLfolNDx.jpg",
+    "/s8GHYRtgIuZbwmGAx5nKwd6cFnZ.jpg"
+  ],
+  "trailerKey": "hXuX-UwHKwI",
+  "genreIds": [
+    80,
+    18,
+    36
+  ],
+  "keywordIds": [
+    818,
+    5565,
+    9672,
+    9826,
+    10022,
+    15009,
+    157758,
+    193455,
+    209619,
+    227533,
+    236170
+  ],
+  "countries": [
+    "AU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Victorian Film",
+    "The Film House"
+  ],
+  "crew": [
+    {
+      "personId": 64061,
+      "job": "director"
+    },
+    {
+      "personId": 69980,
+      "job": "composer"
+    },
+    {
+      "personId": 64061,
+      "job": "writer"
+    },
+    {
+      "personId": 64061,
+      "job": "producer"
+    },
+    {
+      "personId": 27099,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 125533,
+      "character": "Jimmie Blacksmith",
+      "order": 0
+    },
+    {
+      "personId": 555671,
+      "character": "Mort Blacksmith",
+      "order": 1
+    },
+    {
+      "personId": 34657,
+      "character": "Farrell",
+      "order": 2
+    },
+    {
+      "personId": 12536,
+      "character": "Rev. Neville",
+      "order": 3
+    },
+    {
+      "personId": 1355196,
+      "character": "Jack Newby",
+      "order": 4
+    },
+    {
+      "personId": 53548,
+      "character": "Gilda Marshall",
+      "order": 5
+    },
+    {
+      "personId": 212562,
+      "character": "Tabidgi",
+      "order": 6
+    },
+    {
+      "personId": 152491,
+      "character": "McCready",
+      "order": 7
+    },
+    {
+      "personId": 221730,
+      "character": "Mrs. Heather Newby",
+      "order": 8
+    },
+    {
+      "personId": 125021,
+      "character": "Petra Graf",
+      "order": 9
+    },
+    {
+      "personId": 187398,
+      "character": "Dowie Steed",
+      "order": 10
+    },
+    {
+      "personId": 75263,
+      "character": "Healey",
+      "order": 11
+    },
+    {
+      "personId": 75396,
+      "character": "Dud Edmonds",
+      "order": 12
+    },
+    {
+      "personId": 110491,
+      "character": "Hyberry",
+      "order": 13
+    },
+    {
+      "personId": 1196343,
+      "character": "Mrs. Healey",
+      "order": 14
+    },
+    {
+      "personId": 1585221,
+      "character": "Martha Neville",
+      "order": 15
+    },
+    {
+      "personId": 1301823,
+      "character": "Harry Edwards",
+      "order": 16
+    },
+    {
+      "personId": 29092,
+      "character": "Shearer",
+      "order": 17
+    },
+    {
+      "personId": 108924,
+      "character": "Man in Butcher Shop",
+      "order": 18
+    },
+    {
+      "personId": 75893,
+      "character": "Mrs. McCready",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 69,
+  "sources": [
+    "cult-list"
+  ]
+}

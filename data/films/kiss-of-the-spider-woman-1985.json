@@ -1,0 +1,195 @@
+{
+  "tmdbId": 11703,
+  "slug": "kiss-of-the-spider-woman-1985",
+  "year": 1985,
+  "runtime": 120,
+  "originalTitle": "Kiss of the Spider Woman",
+  "title": {
+    "en": "Kiss of the Spider Woman",
+    "tr": "Örümcek Kadının Öpücüğü"
+  },
+  "overview": {
+    "en": "The story of two radically different men thrown together in a Latin American prison cell. One is Valentin, a journalist being tortured for his political beliefs. The other is Molina, a gay window-dresser who fills their lonely nights by spinning romantic fantasies drawn from memories of old movies.",
+    "tr": "Luis Molina ve Valentin Arregui, Güney Amerika'daki bir hapishanede hücre arkadaşıdırlar. Trans bir birey olan Luis, ahlaksız davranışlardan suçlu bulunmuş, Valentin ise siyasi bir mahkûmdur. Luis gerçeklikten kaçmak için romantik filmler icat ederken, Valentin içinde bulunduğu durumu aklından çıkarmamaya çalışır. Birlikte geçirdikleri zaman boyunca iki adam birbirlerini anlamaya ve saygı duymaya başlarlar."
+  },
+  "poster": {
+    "tr": "/lbrn4gOjYKrLrINn3uUJRlV2NZO.jpg",
+    "en": "/xvKVV1plZeJmwUZT9fMoUIugsCx.jpg"
+  },
+  "backdrops": [
+    "/sQSKR3iDCtayRTN2Nr9LiRYy6TT.jpg",
+    "/kAuV8SfT23aSQVqjmsaEVoGXu5p.jpg",
+    "/mZDqGCY7JKqlJKddMyqsGmYeJqE.jpg",
+    "/3Cze0bAqeSh8Mm70gKp1bNfFL0K.jpg",
+    "/aON9Xpl2doO6ir7KRVfw2f6x2je.jpg",
+    "/aSdz1vJaiUX4QjeZ4jvhJQ55MEw.jpg",
+    "/aTF5cnkhrVjkLRFfkuoKafulwI9.jpg",
+    "/j3viv6jXr8FXrEYkHdOUQXp8F34.jpg",
+    "/qhLXfOeOsFPymfna6cp1MpJ7Fqh.jpg",
+    "/baSGVe6hZz6ZCdwwbqW4HMIXkoI.jpg"
+  ],
+  "trailerKey": "faiLjJOR_YE",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    378,
+    818,
+    6078,
+    1013,
+    10180,
+    13006,
+    158718,
+    258533
+  ],
+  "countries": [
+    "BR",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "de",
+    "pt",
+    "fr"
+  ],
+  "studios": [
+    "HB Filmes",
+    "Island Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 40542,
+      "job": "director"
+    },
+    {
+      "personId": 70280,
+      "job": "writer"
+    },
+    {
+      "personId": 70282,
+      "job": "producer"
+    },
+    {
+      "personId": 70283,
+      "job": "composer"
+    },
+    {
+      "personId": 70284,
+      "job": "composer"
+    },
+    {
+      "personId": 70285,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 227,
+      "character": "Luis Molina",
+      "order": 0
+    },
+    {
+      "personId": 27888,
+      "character": "Valentin Arregui",
+      "order": 1
+    },
+    {
+      "personId": 27396,
+      "character": "Leni Lamaison / Marta / Spider Woman",
+      "order": 2
+    },
+    {
+      "personId": 57379,
+      "character": "Warden",
+      "order": 3
+    },
+    {
+      "personId": 42125,
+      "character": "Pedro",
+      "order": 4
+    },
+    {
+      "personId": 1169647,
+      "character": "Mother",
+      "order": 5
+    },
+    {
+      "personId": 632525,
+      "character": "Gabriel",
+      "order": 6
+    },
+    {
+      "personId": 559712,
+      "character": "Americo",
+      "order": 7
+    },
+    {
+      "personId": 948345,
+      "character": "Greta",
+      "order": 8
+    },
+    {
+      "personId": 557414,
+      "character": "Werner",
+      "order": 9
+    },
+    {
+      "personId": 939933,
+      "character": "Michele",
+      "order": 10
+    },
+    {
+      "personId": 953889,
+      "character": "Leader of Resistance",
+      "order": 11
+    },
+    {
+      "personId": 55034,
+      "character": "Clubfoot",
+      "order": 12
+    },
+    {
+      "personId": 1132198,
+      "character": "Flunky",
+      "order": 13
+    },
+    {
+      "personId": 233915,
+      "character": "Lieutenant",
+      "order": 14
+    },
+    {
+      "personId": 1306967,
+      "character": "Agent #1",
+      "order": 15
+    },
+    {
+      "personId": 1142530,
+      "character": "Agent #2",
+      "order": 16
+    },
+    {
+      "personId": 5487306,
+      "character": "Agent #3",
+      "order": 17
+    },
+    {
+      "personId": 2385946,
+      "character": "Prison Doctor",
+      "order": 18
+    },
+    {
+      "personId": 2072958,
+      "character": "Lidia",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 358,
+  "sources": [
+    "cult-list"
+  ]
+}

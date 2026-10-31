@@ -1,0 +1,217 @@
+{
+  "tmdbId": 551,
+  "slug": "the-poseidon-adventure-1972",
+  "year": 1972,
+  "runtime": 117,
+  "originalTitle": "The Poseidon Adventure",
+  "title": {
+    "en": "The Poseidon Adventure",
+    "tr": "Poseidon Macerası"
+  },
+  "overview": {
+    "en": "When their ocean liner capsizes, a group of passengers struggle to survive and escape.",
+    "tr": "Jilet haline getirilmek üzere hurdaya gönderilmeden önceki son yolculuğuna çıkan dev yolcu gemisi Poseidon'un yorgun bedeni, çok zorlanınca yılbaşı gecesi denize yenik düşer. Alabora olan gemi su almaya başladığında, bir papazın örgütlediği hayatta kalanlar yaşam mücadelesine başlar.Kazazedelerin kurtulmak için tek şansı, şimdi tersyüz olmuş ve giderek su alan geminin derinliklerinden deniz seviyesinin üzerine doğru imkansız bir yolculuğa çıkmaktır. Geminin labirent gibi dehlizlerinde yaşam savaşı grubun pek uyumlu olduğu ise söylenemez: başı çeken bir papaz, İsrail'deki torunlarını görmeye giden yaşlı bir çift, bir tüccar, New York'lu bir dedektif ile eski bir olan karısı, iki çocuk, ünlü bir şarkıcı ve bir garson..."
+  },
+  "poster": {
+    "tr": "/rKLuf43xJyLZ0eg57yKKXomMEr1.jpg",
+    "en": "/6RGiA5BfhelU9zoD0b1GAG4GWWf.jpg"
+  },
+  "backdrops": [
+    "/v1QEIuBM1vvpvfqalahhIyXY0Cm.jpg",
+    "/ejLsnT6KmMpvtoPHMp40m54hRDd.jpg",
+    "/8Fzk7c3jC02kSbKW88U6i7frrex.jpg",
+    "/jIs5nwhmeI0fZgObSghQ1VqmDFg.jpg",
+    "/5kodTQoVldSYWygfjpQntlfrl0v.jpg",
+    "/vqBMXZosoQniMOCJ7Jt9JeAunrf.jpg",
+    "/objIg4CSacx2Wbpbq6fWY8H0drf.jpg",
+    "/jQr6z1b04QTxI8ba9S7sAZGWXVs.jpg",
+    "/cntcqi0Au3rHuDf0MeUHzMALHfN.jpg",
+    "/a2Ic6c0nSDmqKnzDHQihJhTvzFF.jpg"
+  ],
+  "trailerKey": "H_5w-WmSdz0",
+  "genreIds": [
+    12,
+    18,
+    53
+  ],
+  "keywordIds": [
+    613,
+    658,
+    3799,
+    549,
+    1157,
+    314,
+    380,
+    818,
+    6150,
+    270,
+    1228,
+    1669,
+    2580,
+    5096,
+    2799,
+    2845,
+    4953,
+    9935,
+    10617,
+    155530,
+    181012,
+    189411,
+    311315
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Kent Productions",
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 7506,
+      "job": "producer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 7508,
+      "job": "producer"
+    },
+    {
+      "personId": 7507,
+      "job": "producer"
+    },
+    {
+      "personId": 7501,
+      "job": "director"
+    },
+    {
+      "personId": 6779,
+      "job": "writer"
+    },
+    {
+      "personId": 7509,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 844,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 193,
+      "character": "Reverend Scott",
+      "order": 0
+    },
+    {
+      "personId": 7502,
+      "character": "Mike Rogo",
+      "order": 1
+    },
+    {
+      "personId": 7631,
+      "character": "Linda Rogo",
+      "order": 2
+    },
+    {
+      "personId": 7632,
+      "character": "Belle Rosen",
+      "order": 3
+    },
+    {
+      "personId": 3461,
+      "character": "Manny Rosen",
+      "order": 4
+    },
+    {
+      "personId": 7503,
+      "character": "James Martin",
+      "order": 5
+    },
+    {
+      "personId": 7505,
+      "character": "Acres",
+      "order": 6
+    },
+    {
+      "personId": 7504,
+      "character": "Nonnie Parry",
+      "order": 7
+    },
+    {
+      "personId": 7634,
+      "character": "Susan Shelby",
+      "order": 8
+    },
+    {
+      "personId": 7635,
+      "character": "Robin Shelby",
+      "order": 9
+    },
+    {
+      "personId": 857,
+      "character": "John, the Chaplain",
+      "order": 10
+    },
+    {
+      "personId": 7633,
+      "character": "Captain Harrison",
+      "order": 11
+    },
+    {
+      "personId": 7636,
+      "character": "Mr. Linarcos",
+      "order": 12
+    },
+    {
+      "personId": 6865,
+      "character": "Nurse",
+      "order": 13
+    },
+    {
+      "personId": 151536,
+      "character": "Doctor",
+      "order": 14
+    },
+    {
+      "personId": 88170,
+      "character": "Purser",
+      "order": 15
+    },
+    {
+      "personId": 15693,
+      "character": "Chief Engineer",
+      "order": 16
+    },
+    {
+      "personId": 34973,
+      "character": "M. C.",
+      "order": 17
+    },
+    {
+      "personId": 112572,
+      "character": "Terry",
+      "order": 18
+    },
+    {
+      "personId": 1401253,
+      "character": "Mr. Tinkham",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2,
+    "bafta": 1,
+    "golden-globe": 1
+  },
+  "voteCount": 1074,
+  "sources": [
+    "cult-list"
+  ]
+}

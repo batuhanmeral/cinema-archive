@@ -1,0 +1,189 @@
+{
+  "tmdbId": 886,
+  "slug": "the-cincinnati-kid-1965",
+  "year": 1965,
+  "runtime": 102,
+  "originalTitle": "The Cincinnati Kid",
+  "title": {
+    "en": "The Cincinnati Kid",
+    "tr": "Kumarbazlar Kralı"
+  },
+  "overview": {
+    "en": "An up-and-coming poker player tries to prove himself in a high-stakes match against a long-time master of the game.",
+    "tr": "Profesyonel bir poker oyuncusu olan ve The Cincinatti Kid lâkabıyla tanınan Eric Stoner, ülkedeki en iyi pokerci olduğunu kanıtlamak için, büyük poker ustası Lancey Howard'ı yenmek üzere New Orleans'a gelir. Burada, eski arkadaşı Shooter'ın yardımıyla, poker dünyasının en büyük isimlerinin kapıştığı masaya oturma fırsatını yakalar."
+  },
+  "poster": {
+    "tr": "/s4Apy8FcF6a0lR1Qay1atpfwAv9.jpg",
+    "en": "/qQTN8qpcXiEcyg69LxKKoz0Ab8B.jpg"
+  },
+  "backdrops": [
+    "/4wLOt8tEs4PkN5jbD683mSfBoHy.jpg",
+    "/2euimYnNi5HPEibq8vNrn4DxYQb.jpg",
+    "/ncQLQRA1BMBD266VyQ1FzLFIAQX.jpg",
+    "/sL60DTK9En5ycup3mulBhSOTJsG.jpg",
+    "/pNLHn5VKh2N6pgnZIvebzz9SVtT.jpg",
+    "/9zeFoFJFAnN85B9aLPszfdS6492.jpg",
+    "/i6KXISUbkjHViywg8gFL5BEExuX.jpg",
+    "/zPKm9BMAXd4P1q8oSyWFLOQTfZI.jpg",
+    "/3IlZ4fSnthp0h1gPES3Ar03tqSy.jpg",
+    "/AsMYywsdh3RyS7Bn4LzKLrtjCiF.jpg"
+  ],
+  "trailerKey": "sWBWeVVaIPk",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    383,
+    395,
+    2411,
+    361867
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Filmways Pictures",
+    "Solar Productions",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 13563,
+      "job": "director"
+    },
+    {
+      "personId": 9791,
+      "job": "writer"
+    },
+    {
+      "personId": 8950,
+      "job": "writer"
+    },
+    {
+      "personId": 2993,
+      "job": "producer"
+    },
+    {
+      "personId": 8406,
+      "job": "producer"
+    },
+    {
+      "personId": 9217,
+      "job": "composer"
+    },
+    {
+      "personId": 1939,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13565,
+      "character": "Eric Stoner (\"The Cincinnati Kid\")",
+      "order": 0
+    },
+    {
+      "personId": 13566,
+      "character": "Lancey Howard",
+      "order": 1
+    },
+    {
+      "personId": 13567,
+      "character": "Melba Nile",
+      "order": 2
+    },
+    {
+      "personId": 9857,
+      "character": "Shooter",
+      "order": 3
+    },
+    {
+      "personId": 4514,
+      "character": "Christian Rudd",
+      "order": 4
+    },
+    {
+      "personId": 13568,
+      "character": "Lady Fingers",
+      "order": 5
+    },
+    {
+      "personId": 9626,
+      "character": "William Jefferson Slade",
+      "order": 6
+    },
+    {
+      "personId": 726,
+      "character": "Pig",
+      "order": 7
+    },
+    {
+      "personId": 7173,
+      "character": "Yeller",
+      "order": 8
+    },
+    {
+      "personId": 9596,
+      "character": "Hoban",
+      "order": 9
+    },
+    {
+      "personId": 45252,
+      "character": "Felix",
+      "order": 10
+    },
+    {
+      "personId": 101901,
+      "character": "Sokal",
+      "order": 11
+    },
+    {
+      "personId": 12158,
+      "character": "Mr. Rudd",
+      "order": 12
+    },
+    {
+      "personId": 178884,
+      "character": "Cajun",
+      "order": 13
+    },
+    {
+      "personId": 161405,
+      "character": "Danny",
+      "order": 14
+    },
+    {
+      "personId": 98963,
+      "character": "Mrs. Rudd",
+      "order": 15
+    },
+    {
+      "personId": 121083,
+      "character": "Mrs. Slade",
+      "order": 16
+    },
+    {
+      "personId": 6463,
+      "character": "Dealer",
+      "order": 17
+    },
+    {
+      "personId": 1217402,
+      "character": "Referee (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1421073,
+      "character": "Poker Game Spectator (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 319,
+  "sources": [
+    "cult-list"
+  ]
+}

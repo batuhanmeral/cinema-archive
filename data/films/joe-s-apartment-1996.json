@@ -1,0 +1,184 @@
+{
+  "tmdbId": 11962,
+  "slug": "joe-s-apartment-1996",
+  "year": 1996,
+  "runtime": 81,
+  "originalTitle": "Joe's Apartment",
+  "title": {
+    "en": "Joe's Apartment",
+    "tr": "Joe's Apartment"
+  },
+  "overview": {
+    "en": "A nice guy has just moved to New York and discovers that he must share his run-down apartment with a couple thousand singing, dancing cockroaches.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/a06jrMRurcq7sYdhFK2LNs8bRt8.jpg",
+    "en": "/7OBbURUtU37ucxHGUVkD598f6t3.jpg"
+  },
+  "backdrops": [
+    "/9q2l1wCuXELP4yenDMbd2PmUccb.jpg",
+    "/ieZHOhXPnkHSaN3UNrmqZ6zjNR1.jpg",
+    "/iQ3UcYphzq7WwYvsqE2Xs4quDAz.jpg",
+    "/h6W6eWxU6vxh4jMSBU4Bi1QjxG8.jpg",
+    "/a0DSvfQW12wPOiHf35oiEWzkuJm.jpg",
+    "/e1XWYiZ9icp5srPB8q0PjrjVvf1.jpg"
+  ],
+  "trailerKey": "oTPMCFJW1gQ",
+  "genreIds": [
+    35,
+    14
+  ],
+  "keywordIds": [
+    1439,
+    4344,
+    6623,
+    7325,
+    6432,
+    9498,
+    325765
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Geffen Pictures",
+    "MTV Films"
+  ],
+  "crew": [
+    {
+      "personId": 71110,
+      "job": "director"
+    },
+    {
+      "personId": 71112,
+      "job": "producer"
+    },
+    {
+      "personId": 9573,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 71110,
+      "job": "writer"
+    },
+    {
+      "personId": 1225,
+      "job": "composer"
+    },
+    {
+      "personId": 21342,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3035,
+      "character": "Joe",
+      "order": 0
+    },
+    {
+      "personId": 64999,
+      "character": "Lily Dougherty",
+      "order": 1
+    },
+    {
+      "personId": 23679,
+      "character": "Ralph Roach (voice)",
+      "order": 2
+    },
+    {
+      "personId": 68215,
+      "character": "Rodney Roach (voice)",
+      "order": 3
+    },
+    {
+      "personId": 1006,
+      "character": "Complaint Handler",
+      "order": 4
+    },
+    {
+      "personId": 1988,
+      "character": "Complaint Handler",
+      "order": 5
+    },
+    {
+      "personId": 138037,
+      "character": "Blank",
+      "order": 6
+    },
+    {
+      "personId": 14060,
+      "character": "Senator Dougherty",
+      "order": 7
+    },
+    {
+      "personId": 134529,
+      "character": "Vladimir Bianco",
+      "order": 8
+    },
+    {
+      "personId": 1371523,
+      "character": "Boss Hog Band Member",
+      "order": 9
+    },
+    {
+      "personId": 101377,
+      "character": "NEA Scout",
+      "order": 10
+    },
+    {
+      "personId": 159887,
+      "character": "Boss Plumber",
+      "order": 11
+    },
+    {
+      "personId": 1230641,
+      "character": "Alberto Bianco",
+      "order": 12
+    },
+    {
+      "personId": 164002,
+      "character": "Jesus Bianco / Voice of Cockroach",
+      "order": 13
+    },
+    {
+      "personId": 1232,
+      "character": "P.I. Smith",
+      "order": 14
+    },
+    {
+      "personId": 47774,
+      "character": "Apartment Broker #2",
+      "order": 15
+    },
+    {
+      "personId": 1087342,
+      "character": "Boss Construction",
+      "order": 16
+    },
+    {
+      "personId": 39121,
+      "character": "Club DeeJay",
+      "order": 17
+    },
+    {
+      "personId": 4169,
+      "character": "Cockroach (voice)",
+      "order": 18
+    },
+    {
+      "personId": 73831,
+      "character": "Cockroach (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 393,
+  "sources": [
+    "cult-list"
+  ]
+}

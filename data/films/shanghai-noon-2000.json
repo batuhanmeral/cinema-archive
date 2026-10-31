@@ -1,0 +1,208 @@
+{
+  "tmdbId": 8584,
+  "slug": "shanghai-noon-2000",
+  "year": 2000,
+  "runtime": 110,
+  "originalTitle": "Shanghai Noon",
+  "title": {
+    "en": "Shanghai Noon",
+    "tr": "Şangaylı Kovboy"
+  },
+  "overview": {
+    "en": "Chon Wang, a clumsy imperial guard, trails Princess Pei Pei when she's kidnapped from the Forbidden City and transported to America. Wang follows her captors to Nevada, where he teams up with an unlikely partner, outcast outlaw Roy O'Bannon, and tries to spring the princess from her imprisonment.",
+    "tr": "Prenses Pei Pei'nin Amerika'ya kaçırılması üzerine, Çin İmparatoru'nun altın olarak istenen fidyeyi götürmekle görevlendirdiği muhafızların arasına karışan Chon Wang, Nevada Çölü'nü geçtikleri sırada kafilesini kendilerine saldıran bir çeteden kurtarır... Kafile saldırıdan kurtulmuştur ancak Chon çölde yalnız başına kalır. Bu arada çetenin soygundaki başarısızlığından sorumlu tutulan Roy da ceza olarak çölün ortasında boynuna kadar kuma gömülü durumda kaderine terk edilmiştir. Çölden kurtulmaya çalışan Chon, Roy'a rastlar. Roy kendisini kurtarması için Chon'a yalvarır. Yoluna devam eden Chon rastladığı Crow kabilesinden, bulunduğu yardımlar karşılığında armağan olarak huysuz bir at, barış çubuğu ve güzel bir kızılderili kadın alır. Chon yolculuğunda artık yalnız değildir."
+  },
+  "poster": {
+    "tr": "/b0WwWRcDiDahkah5vZ0KjB4N9ZZ.jpg",
+    "en": "/b0WwWRcDiDahkah5vZ0KjB4N9ZZ.jpg"
+  },
+  "backdrops": [
+    "/xuwPmDMHslcx71T7zHc9YqF2Ny3.jpg",
+    "/301KcFm1GL3yaTGOO25I0MeAy0W.jpg",
+    "/oxHMAZyNB4aSv8f78S3pcDbyusT.jpg",
+    "/z2ZyRHg7YJRLkVnPwPWg8BR7zDd.jpg",
+    "/iPNSIKbCVpZXPqx96KNRxk2Sy2P.jpg",
+    "/1UoHb1Abk1HezHRFL2lNPgL5cNl.jpg",
+    "/x4dH86KvLTGlIBMQb7kNTB0svy5.jpg",
+    "/hFRrrF0YG057ZegNf3w93lw7uXH.jpg",
+    "/stAXk62zez8zWIp6sMSHQeWaSKF.jpg",
+    "/va74gP3qmi2YSR1reOmbVeaimnW.jpg"
+  ],
+  "trailerKey": "FqHg5fc_0_U",
+  "genreIds": [
+    12,
+    35,
+    37
+  ],
+  "keywordIds": [
+    7376,
+    10084,
+    779,
+    10322,
+    8099,
+    9935,
+    13159,
+    155291,
+    167541,
+    179430,
+    179431,
+    207928,
+    219404,
+    269233
+  ],
+  "countries": [
+    "US",
+    "HK"
+  ],
+  "languages": [
+    "en",
+    "zh",
+    "es"
+  ],
+  "studios": [
+    "Touchstone Pictures",
+    "Spyglass Entertainment",
+    "Birnbaum/Barber Productions"
+  ],
+  "crew": [
+    {
+      "personId": 14712,
+      "job": "composer"
+    },
+    {
+      "personId": 4504,
+      "job": "producer"
+    },
+    {
+      "personId": 21635,
+      "job": "producer"
+    },
+    {
+      "personId": 15348,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 46076,
+      "job": "director"
+    },
+    {
+      "personId": 4507,
+      "job": "producer"
+    },
+    {
+      "personId": 18924,
+      "job": "writer"
+    },
+    {
+      "personId": 18923,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18897,
+      "character": "Chon Wang",
+      "order": 0
+    },
+    {
+      "personId": 887,
+      "character": "Roy O'Bannon",
+      "order": 1
+    },
+    {
+      "personId": 140,
+      "character": "Princess Pei Pei",
+      "order": 2
+    },
+    {
+      "personId": 3982,
+      "character": "Nathan Van Cleef",
+      "order": 3
+    },
+    {
+      "personId": 2974,
+      "character": "Lo Fong",
+      "order": 4
+    },
+    {
+      "personId": 120725,
+      "character": "Imperial Guard",
+      "order": 5
+    },
+    {
+      "personId": 27740,
+      "character": "Wallace",
+      "order": 6
+    },
+    {
+      "personId": 554278,
+      "character": "Indian Wife",
+      "order": 7
+    },
+    {
+      "personId": 25527,
+      "character": "Andrews",
+      "order": 8
+    },
+    {
+      "personId": 43933,
+      "character": "Blue",
+      "order": 9
+    },
+    {
+      "personId": 123972,
+      "character": "Hooker in Distress",
+      "order": 10
+    },
+    {
+      "personId": 119757,
+      "character": "Fifi",
+      "order": 11
+    },
+    {
+      "personId": 39829,
+      "character": "Royal Interpreter",
+      "order": 12
+    },
+    {
+      "personId": 211568,
+      "character": "Little Feather",
+      "order": 13
+    },
+    {
+      "personId": 52703,
+      "character": "Saddle Rock Sheriff",
+      "order": 14
+    },
+    {
+      "personId": 180467,
+      "character": "Saddle Rock Deputy",
+      "order": 15
+    },
+    {
+      "personId": 87739,
+      "character": "Dream Sequence Hooker",
+      "order": 16
+    },
+    {
+      "personId": 114697,
+      "character": "Imperial Guard",
+      "order": 17
+    },
+    {
+      "personId": 554279,
+      "character": "Imperial Guard",
+      "order": 18
+    },
+    {
+      "personId": 96322,
+      "character": "Vasquez",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2896,
+  "sources": [
+    "cult-list"
+  ]
+}

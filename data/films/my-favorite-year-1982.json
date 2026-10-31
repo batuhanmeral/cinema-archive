@@ -1,0 +1,187 @@
+{
+  "tmdbId": 31044,
+  "slug": "my-favorite-year-1982",
+  "year": 1982,
+  "runtime": 92,
+  "originalTitle": "My Favorite Year",
+  "title": {
+    "en": "My Favorite Year",
+    "tr": "My Favorite Year"
+  },
+  "overview": {
+    "en": "Fledgling comic Benjy Stone can't believe his luck when his childhood hero, the swashbuckling matinee idol Alan Swann, gets booked to appear on the variety show he writes for. But when Swann arrives, he fails to live up to his silver screen image. Instead, he's a drunken womanizer who suffers from stage fright. Benjy is assigned to look after him before the show, and it's all he can do to keep his former idol from going completely off the rails.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xksAhZJx1WmHM03OaePNe9IiEBt.jpg",
+    "en": "/xksAhZJx1WmHM03OaePNe9IiEBt.jpg"
+  },
+  "backdrops": [
+    "/lnbI7n5B7uqmEfOJ6Iamfwt4O5g.jpg",
+    "/fzQ3ObTe924mzrq5M0qI64gzBvb.jpg",
+    "/cucFREU14eSLdl6PIr4h8EcfD2M.jpg",
+    "/peC8vk8BClDR6k99h07437RhuNX.jpg",
+    "/jD7BGqI8QseGsuVWGB4tSnDzALi.jpg",
+    "/mAyFAjhr9b6zhVurUC4OXn6fMII.jpg",
+    "/vR55W3ERSt1s0dRBqfCtUu8s0l4.jpg"
+  ],
+  "trailerKey": "JqQWY8T5nok",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    242,
+    7464,
+    160424,
+    208586,
+    208611
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Brooksfilms",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 111907,
+      "job": "writer"
+    },
+    {
+      "personId": 69343,
+      "job": "composer"
+    },
+    {
+      "personId": 6847,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 24318,
+      "job": "director"
+    },
+    {
+      "personId": 138107,
+      "job": "writer"
+    },
+    {
+      "personId": 76156,
+      "job": "producer"
+    },
+    {
+      "personId": 12116,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11390,
+      "character": "Alan Swann",
+      "order": 0
+    },
+    {
+      "personId": 95975,
+      "character": "Benjy Stone",
+      "order": 1
+    },
+    {
+      "personId": 69055,
+      "character": "K.C. Downing",
+      "order": 2
+    },
+    {
+      "personId": 46946,
+      "character": "King Kaiser",
+      "order": 3
+    },
+    {
+      "personId": 17695,
+      "character": "Sy Benson",
+      "order": 4
+    },
+    {
+      "personId": 53647,
+      "character": "Belle Carroca",
+      "order": 5
+    },
+    {
+      "personId": 49422,
+      "character": "Alice Miller",
+      "order": 6
+    },
+    {
+      "personId": 91369,
+      "character": "Herb Lee",
+      "order": 7
+    },
+    {
+      "personId": 23708,
+      "character": "Uncle Morty",
+      "order": 8
+    },
+    {
+      "personId": 13286,
+      "character": "Leo Silver",
+      "order": 9
+    },
+    {
+      "personId": 138116,
+      "character": "Alfie Bumbacelli",
+      "order": 10
+    },
+    {
+      "personId": 14669,
+      "character": "Myron Fein",
+      "order": 11
+    },
+    {
+      "personId": 127640,
+      "character": "Lil",
+      "order": 12
+    },
+    {
+      "personId": 44728,
+      "character": "Karl Rojeck",
+      "order": 13
+    },
+    {
+      "personId": 100619,
+      "character": "Connie",
+      "order": 14
+    },
+    {
+      "personId": 74954,
+      "character": "Bonnie",
+      "order": 15
+    },
+    {
+      "personId": 1640575,
+      "character": "Lord Drummond / Featured Player",
+      "order": 16
+    },
+    {
+      "personId": 105987,
+      "character": "Lady Eleanor",
+      "order": 17
+    },
+    {
+      "personId": 12816,
+      "character": "Cubby Brown",
+      "order": 18
+    },
+    {
+      "personId": 134092,
+      "character": "Stage Manager / Featured Player",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 123,
+  "sources": [
+    "cult-list"
+  ]
+}

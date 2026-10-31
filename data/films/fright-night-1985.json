@@ -1,0 +1,170 @@
+{
+  "tmdbId": 11797,
+  "slug": "fright-night-1985",
+  "year": 1985,
+  "runtime": 107,
+  "originalTitle": "Fright Night",
+  "title": {
+    "en": "Fright Night",
+    "tr": "Komşum Bir Vampir"
+  },
+  "overview": {
+    "en": "Charley Brewster, a high school student, accidentally discovers the true and creepy nature of Jerry Dandrige, his dashing and enigmatic new neighbor; but no one seems willing to believe him.",
+    "tr": "Genç Charley Webster için gece geç vakitlerde korku filmleri seyretmekten daha güzel bir şey yoktur. Yan eve taşınan yeni komşular garip davranışlarıyla Charley'nin dikkatini çekerler ve kendini korku filmlerine kaptırmış olan Charley onların birer vampir olduğunu fark eder. Onun için artık bir kabus başlamıştır. Bu inanılmaz olayda kendisine yardım edebilecek tek kişi ise artık gözden düşmüş eski bir aktör olan Peter Vincent'tır ve Peter gece geç saatlerde korku filmlerini aratmayan show programıyla yaşamına devam etmektedir. Vincent vampirleri gerçek hayatta görmenin mümkün olmadığına inanmaktadır ama işin içine para girince bu durum hemen değişiverir."
+  },
+  "poster": {
+    "tr": "/euIh75MwNDrYkTEVSkw7VXWGXoE.jpg",
+    "en": "/upVMb3s1RugX4J0O40zfERjPE5N.jpg"
+  },
+  "backdrops": [
+    "/nvSOYZWsNk4bqszO55OhayAZVM2.jpg",
+    "/xz5MqJZ71KIBSTAHFJK4d7gWzhE.jpg",
+    "/7LTtUBeHTc4msK3gIpnjKvkPfR.jpg",
+    "/dNEKbVh1oVPGKVBEoh0Rfe9Jz2x.jpg",
+    "/y8BHSdWdPjmvZaKfXBRjrOjMgDm.jpg",
+    "/36MQ5hJJW4K28urrJIYImz9MOfa.jpg",
+    "/quNaLr0DGyNEs5zCBL8PniHq41n.jpg",
+    "/2ytds3KqhMWRvMtrQp95JBYTKLD.jpg",
+    "/htoqY2JblWPzHYskxIxzAUcfPhp.jpg",
+    "/70lizwpjUBfeeaECL5AgYMw1LS4.jpg"
+  ],
+  "trailerKey": "PMRH0RIEjnc",
+  "genreIds": [
+    35,
+    27
+  ],
+  "keywordIds": [
+    3133,
+    3335,
+    4553,
+    9259,
+    155733,
+    164698,
+    240237
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Columbia Pictures",
+    "Delphi IV Productions",
+    "Vistar Films"
+  ],
+  "crew": [
+    {
+      "personId": 64796,
+      "job": "director"
+    },
+    {
+      "personId": 64796,
+      "job": "writer"
+    },
+    {
+      "personId": 27240,
+      "job": "producer"
+    },
+    {
+      "personId": 2722,
+      "job": "composer"
+    },
+    {
+      "personId": 43529,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14541,
+      "character": "Jerry Dandrige",
+      "order": 0
+    },
+    {
+      "personId": 31467,
+      "character": "Charley Brewster",
+      "order": 1
+    },
+    {
+      "personId": 18981,
+      "character": "Amy Peterson",
+      "order": 2
+    },
+    {
+      "personId": 7505,
+      "character": "Peter Vincent",
+      "order": 3
+    },
+    {
+      "personId": 75020,
+      "character": "Evil Ed",
+      "order": 4
+    },
+    {
+      "personId": 119941,
+      "character": "Billy Cole",
+      "order": 5
+    },
+    {
+      "personId": 51550,
+      "character": "Judy Brewster",
+      "order": 6
+    },
+    {
+      "personId": 56183,
+      "character": "Detective Lennox",
+      "order": 7
+    },
+    {
+      "personId": 2768,
+      "character": "Cook",
+      "order": 8
+    },
+    {
+      "personId": 995980,
+      "character": "Bouncer #1",
+      "order": 9
+    },
+    {
+      "personId": 2056362,
+      "character": "Bouncer #2",
+      "order": 10
+    },
+    {
+      "personId": 1213767,
+      "character": "Hooker",
+      "order": 11
+    },
+    {
+      "personId": 2056378,
+      "character": "Teenage Girl",
+      "order": 12
+    },
+    {
+      "personId": 1210734,
+      "character": "Jonathan",
+      "order": 13
+    },
+    {
+      "personId": 2056395,
+      "character": "Miss Nina",
+      "order": 14
+    },
+    {
+      "personId": 1218860,
+      "character": "Newscaster",
+      "order": 15
+    },
+    {
+      "personId": 1623977,
+      "character": "Bouncer #3",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 1645,
+  "sources": [
+    "cult-list"
+  ]
+}

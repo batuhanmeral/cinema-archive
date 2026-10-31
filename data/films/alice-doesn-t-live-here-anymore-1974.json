@@ -1,0 +1,192 @@
+{
+  "tmdbId": 16153,
+  "slug": "alice-doesn-t-live-here-anymore-1974",
+  "year": 1974,
+  "runtime": 112,
+  "originalTitle": "Alice Doesn't Live Here Anymore",
+  "title": {
+    "en": "Alice Doesn't Live Here Anymore",
+    "tr": "Alice Artık Burada Oturmuyor"
+  },
+  "overview": {
+    "en": "After her husband dies, Alice and her son, Tommy, leave their small New Mexico town for California, where Alice hopes to make a new life for herself as a singer. Money problems force them to settle in Arizona instead, where Alice takes a job as waitress in a small diner.",
+    "tr": "Alice Hyatt (Ellen Burstyn) dul kaldıktan sonra oğlu ile California'da küçük bir kasaba olan Monterrey'e taşınarak zorlu bir yaşama adım atar. Ailesini geçindirebilmek için birçok iş arayan, ancak iş tecrübesi fazla olmadığı için zorlanan Alice, sonunda bir restoranda çalışmaya başlar. Öte yandan oğlu Tommy de (Alfred Lutter) yeni çevresine adapte olmakta zorlanmaktadır."
+  },
+  "poster": {
+    "tr": "/XaewK1Qcxm82b9Y7V8aqfQjnu4.jpg",
+    "en": "/mFSZA1wIAjYEB2APG4xqVu1QcCk.jpg"
+  },
+  "backdrops": [
+    "/5AibuYyzAlJesXvZVjW4vFeqKpj.jpg",
+    "/wb2WNnJENGjZjro7cy1F8S9Lfxf.jpg",
+    "/yHNPAvQLQf8OuUSnUNSdqxtSs3k.jpg",
+    "/aC0znaXNiP1eWsDkHUupz3K1f4k.jpg",
+    "/qTJVmAR8BLQKUgcd0f4EWUURk8B.jpg",
+    "/iqNN3gJmMfXG5jAFJuCisQofMZ8.jpg",
+    "/kr6udcTVBlb0syv0IGbUn6PJqgW.jpg",
+    "/fGhVO3weQcX0OltxGvCl9bTLBEi.jpg",
+    "/vB0zQa3eItGTBeB8MDEyHluRwc.jpg",
+    "/i6hXypNYUnY5cs9f8aO89p7zk3.jpg"
+  ],
+  "trailerKey": "H8jV98slav8",
+  "genreIds": [
+    10749,
+    18
+  ],
+  "keywordIds": [
+    828,
+    4129,
+    1859,
+    5153,
+    7312,
+    10229,
+    10512,
+    225795,
+    309029
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "David Susskind Productions"
+  ],
+  "crew": [
+    {
+      "personId": 952632,
+      "job": "producer"
+    },
+    {
+      "personId": 1032,
+      "job": "director"
+    },
+    {
+      "personId": 2583,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 47374,
+      "job": "producer"
+    },
+    {
+      "personId": 19475,
+      "job": "composer"
+    },
+    {
+      "personId": 53810,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9560,
+      "character": "Alice Hyatt",
+      "order": 0
+    },
+    {
+      "personId": 90170,
+      "character": "Tommy",
+      "order": 1
+    },
+    {
+      "personId": 10823,
+      "character": "David",
+      "order": 2
+    },
+    {
+      "personId": 1037,
+      "character": "Ben Eberhardt",
+      "order": 3
+    },
+    {
+      "personId": 6587,
+      "character": "Flo",
+      "order": 4
+    },
+    {
+      "personId": 41284,
+      "character": "Bea",
+      "order": 5
+    },
+    {
+      "personId": 35090,
+      "character": "Donald Hyatt",
+      "order": 6
+    },
+    {
+      "personId": 1038,
+      "character": "Audrey",
+      "order": 7
+    },
+    {
+      "personId": 70172,
+      "character": "Vera",
+      "order": 8
+    },
+    {
+      "personId": 14069,
+      "character": "Mel",
+      "order": 9
+    },
+    {
+      "personId": 77255,
+      "character": "Jacobs",
+      "order": 10
+    },
+    {
+      "personId": 127738,
+      "character": "Joe & Jim's Bartender",
+      "order": 11
+    },
+    {
+      "personId": 160511,
+      "character": "Rita Eberhardt",
+      "order": 12
+    },
+    {
+      "personId": 198327,
+      "character": "Alice - Age 8",
+      "order": 13
+    },
+    {
+      "personId": 1161130,
+      "character": "Chicken",
+      "order": 14
+    },
+    {
+      "personId": 1161131,
+      "character": "Lenny",
+      "order": 15
+    },
+    {
+      "personId": 1161132,
+      "character": "Old Woman",
+      "order": 16
+    },
+    {
+      "personId": 4784,
+      "character": "Girl Eating Ice Cream Cone (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1278405,
+      "character": "Mother (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 933459,
+      "character": "Diner at Mel & Ruby's (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 560,
+  "sources": [
+    "cult-list"
+  ]
+}

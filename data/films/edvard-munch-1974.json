@@ -1,0 +1,183 @@
+{
+  "tmdbId": 50254,
+  "slug": "edvard-munch-1974",
+  "year": 1974,
+  "runtime": 174,
+  "originalTitle": "Edvard Munch",
+  "title": {
+    "en": "Edvard Munch",
+    "tr": "Edvard Munch"
+  },
+  "overview": {
+    "en": "Edvard Munch's childhood is overshadowed by death: he suffers the loss of his sister and mother, while enduring serious illness himself, almost dying. At university, Munch discovers his talent as a painter. As he immerses himself in the art world, he becomes part of a cultural revolution led by the likes of nihilist Hans Jæger.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/aXAkJld5UTIa0nijWvDm7DcyBe0.jpg",
+    "en": "/aXAkJld5UTIa0nijWvDm7DcyBe0.jpg"
+  },
+  "backdrops": [
+    "/myKJ6PaZTzK4IWE5yifXvnfMkUT.jpg",
+    "/Ar7YXt2JHTCXpdQZfR354SqvCOT.jpg",
+    "/5oeH0uPB0rKGrJVTg4xyZKB6NnA.jpg",
+    "/2VFjufvx9CeteIBiqlaFZKbjvDH.jpg",
+    "/keto7niGNSeDtgOJ4Zh5PunALxl.jpg",
+    "/AmDR6Ysd5RG99rJZRWn7DAf3MP8.jpg",
+    "/mXessw9CeZsnzIAdBpcZ0UiFN4I.jpg",
+    "/qcwYdJU29ZOIy1xH59YM5R80wpG.jpg",
+    "/i5HQYTpSrKT0gerfyp7Btp0tkQY.jpg",
+    "/9tJO6K73pYzb1JdlNnohNQD3spx.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    10770,
+    36,
+    18
+  ],
+  "keywordIds": [
+    5918,
+    437,
+    5565,
+    15061,
+    251666,
+    318291,
+    371725
+  ],
+  "countries": [
+    "NO",
+    "SE"
+  ],
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "no",
+    "sv"
+  ],
+  "studios": [
+    "Norsk Film",
+    "Sveriges Radio",
+    "NRK"
+  ],
+  "crew": [
+    {
+      "personId": 95568,
+      "job": "director"
+    },
+    {
+      "personId": 95568,
+      "job": "writer"
+    },
+    {
+      "personId": 225785,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1614794,
+      "character": "Edvard Munch",
+      "order": 0
+    },
+    {
+      "personId": 1614795,
+      "character": "Fru Heiberg",
+      "order": 1
+    },
+    {
+      "personId": 95568,
+      "character": "Narrator (voice)",
+      "order": 2
+    },
+    {
+      "personId": 1614796,
+      "character": "Edvard Munch - 1868",
+      "order": 3
+    },
+    {
+      "personId": 1614798,
+      "character": "Peter Andreas Munch - 1868",
+      "order": 4
+    },
+    {
+      "personId": 143369,
+      "character": "Sophie Munch - 1868",
+      "order": 5
+    },
+    {
+      "personId": 1614797,
+      "character": "Laura Munch - 1868",
+      "order": 6
+    },
+    {
+      "personId": 1614799,
+      "character": "Inger Munch - 1868",
+      "order": 7
+    },
+    {
+      "personId": 1614800,
+      "character": "Housemaid - 1868",
+      "order": 8
+    },
+    {
+      "personId": 1614802,
+      "character": "Edvard Munch - 1875",
+      "order": 9
+    },
+    {
+      "personId": 1614804,
+      "character": "Peter Andreas Munch - 1875",
+      "order": 10
+    },
+    {
+      "personId": 1614801,
+      "character": "Sophie Munch - 1875",
+      "order": 11
+    },
+    {
+      "personId": 1614803,
+      "character": "Laura Munch - 1875",
+      "order": 12
+    },
+    {
+      "personId": 1614805,
+      "character": "Inger Munch - 1875",
+      "order": 13
+    },
+    {
+      "personId": 1614806,
+      "character": "Dr. Christian Munch - 1884",
+      "order": 14
+    },
+    {
+      "personId": 1614807,
+      "character": "Laura Catherine Munch - 1884",
+      "order": 15
+    },
+    {
+      "personId": 1614808,
+      "character": "Karen Bjølstad - 1884",
+      "order": 16
+    },
+    {
+      "personId": 1614811,
+      "character": "Peter Andreas Munch - 1884",
+      "order": 17
+    },
+    {
+      "personId": 1614809,
+      "character": "Inger Munch - 1884",
+      "order": 18
+    },
+    {
+      "personId": 1614812,
+      "character": "Housemaid - 1884",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 81,
+  "sources": [
+    "cult-list"
+  ]
+}

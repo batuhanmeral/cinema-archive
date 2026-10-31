@@ -1,0 +1,204 @@
+{
+  "tmdbId": 10722,
+  "slug": "the-day-of-the-beast-1995",
+  "year": 1995,
+  "runtime": 104,
+  "originalTitle": "El día de la bestia",
+  "title": {
+    "en": "The Day of the Beast",
+    "tr": "Şeytanın Günü"
+  },
+  "overview": {
+    "en": "When a rogue priest discovers the exact date the Antichrist will be born, he enlists a Death Metal record store clerk and a cheesy TV psychic for an urban spree of gore, sacrilege and twisted humor to prevent the Apocalypse.",
+    "tr": "\"Günah çıkarmak istiyorum peder.\" \"Söyle ne yaptın?\" \"Hiçbir şey. Henüz günah işlemedim. Ama işleyeceğim. Yapabileceğim bütün kötülükleri yapacağım.\" Film, günah işleyerek ruhunu şeytana satıp böylece Deccal'ı engelleyebileceğine inanan bir rahip, ona yardım etmeye çalışan satanist metalci genç, dolandırıcı bir medyum ve büyükbabanın ekseninde gelişmekte."
+  },
+  "poster": {
+    "tr": "/yEXhgACPIV4PmTgHT2HS3Ko2oS3.jpg",
+    "en": "/yEXhgACPIV4PmTgHT2HS3Ko2oS3.jpg"
+  },
+  "backdrops": [
+    "/7WBNrwjHrt3YTIbn5vWAJLf9yKD.jpg",
+    "/i8Erc9MnI9BxIqRYagls8rsNZO6.jpg",
+    "/miGqwm0ZXrh1D0zHJd5SnqENJHE.jpg",
+    "/ijBx6WyNU94rKKmt1iTkD9N1ujn.jpg",
+    "/q84Qc9fHlVfzvj7bDhilaGFYopV.jpg",
+    "/9x97CmZRtV5V4JvMVasfUy7AouF.jpg",
+    "/d98KLJNxttQuae0CfRHODzdGcXC.jpg",
+    "/cIbejTlj0pgYO0ZxK6mWHX4oX3S.jpg",
+    "/1CzvTFbXiwEpsxEVmC0f9aDJhZG.jpg",
+    "/pSaTEB7mbWgvWyxNcoqzDw2gUIP.jpg"
+  ],
+  "trailerKey": "hLdHqtURuzA",
+  "genreIds": [
+    27,
+    35,
+    28
+  ],
+  "keywordIds": [
+    2389,
+    376,
+    744,
+    530,
+    903,
+    10123,
+    4252,
+    9887,
+    5540,
+    6410,
+    8685,
+    9826,
+    11019,
+    12332,
+    14999,
+    41380,
+    172391,
+    207317,
+    312898
+  ],
+  "countries": [
+    "IT",
+    "ES"
+  ],
+  "languages": [
+    "es",
+    "it"
+  ],
+  "studios": [
+    "Iberoamericana Films Produccion",
+    "Sogetel",
+    "M.G. S.r.l."
+  ],
+  "crew": [
+    {
+      "personId": 57865,
+      "job": "director"
+    },
+    {
+      "personId": 3788,
+      "job": "writer"
+    },
+    {
+      "personId": 57865,
+      "job": "writer"
+    },
+    {
+      "personId": 66818,
+      "job": "composer"
+    },
+    {
+      "personId": 13159,
+      "job": "producer"
+    },
+    {
+      "personId": 59528,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3813,
+      "character": "Ángel Berriatua",
+      "order": 0
+    },
+    {
+      "personId": 10847,
+      "character": "José María",
+      "order": 1
+    },
+    {
+      "personId": 66815,
+      "character": "Professor Cavan",
+      "order": 2
+    },
+    {
+      "personId": 66816,
+      "character": "Rosario",
+      "order": 3
+    },
+    {
+      "personId": 233766,
+      "character": "Mina",
+      "order": 4
+    },
+    {
+      "personId": 10777,
+      "character": "Susana",
+      "order": 5
+    },
+    {
+      "personId": 93831,
+      "character": "Priest",
+      "order": 6
+    },
+    {
+      "personId": 128017,
+      "character": "Producer",
+      "order": 7
+    },
+    {
+      "personId": 1175944,
+      "character": "Toyota 1",
+      "order": 8
+    },
+    {
+      "personId": 1400180,
+      "character": "Toyota 2",
+      "order": 9
+    },
+    {
+      "personId": 6535,
+      "character": "Toyota 3",
+      "order": 10
+    },
+    {
+      "personId": 1367436,
+      "character": "Toyota 4",
+      "order": 11
+    },
+    {
+      "personId": 37574,
+      "character": "New Cavan",
+      "order": 12
+    },
+    {
+      "personId": 1332363,
+      "character": "Grandfather",
+      "order": 13
+    },
+    {
+      "personId": 1416676,
+      "character": "Satan",
+      "order": 14
+    },
+    {
+      "personId": 1061545,
+      "character": "Delivery Man",
+      "order": 15
+    },
+    {
+      "personId": 2498575,
+      "character": "Editor 1",
+      "order": 16
+    },
+    {
+      "personId": 1332358,
+      "character": "Editor 2",
+      "order": 17
+    },
+    {
+      "personId": 1489720,
+      "character": "Editor 3",
+      "order": 18
+    },
+    {
+      "personId": 105771,
+      "character": "Editor 4",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 650,
+  "sources": [
+    "cult-list"
+  ]
+}

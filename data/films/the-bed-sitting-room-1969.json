@@ -1,0 +1,185 @@
+{
+  "tmdbId": 26509,
+  "slug": "the-bed-sitting-room-1969",
+  "year": 1969,
+  "runtime": 91,
+  "originalTitle": "The Bed Sitting Room",
+  "title": {
+    "en": "The Bed Sitting Room",
+    "tr": "The Bed Sitting Room"
+  },
+  "overview": {
+    "en": "In the hazy aftermath of World War III, the fallout from a 'nuclear misunderstanding' is producing strange mutations amongst the survivors, and the noble Lord Fortnum finds himself transforming into a bed sitting room.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wUjoDOY3SnPePgYmsfE8f25wHS3.jpg",
+    "en": "/l3TGJ47yaMxbuUvhAZBIReMYJ8c.jpg"
+  },
+  "backdrops": [
+    "/jNH0zURxnlmYbqnDGbNI3DicOxt.jpg",
+    "/kWSx8knoeo9UUGH1EbMReDyGyO2.jpg",
+    "/gLo4mnQwd8cdxEwahO2S7eD20qv.jpg",
+    "/2LOm12ebUKMT5cvccBCtIJHTS4V.jpg",
+    "/cvC0MsDEKQEsP7uRXeabrFcOXZ6.jpg",
+    "/p8tvvWgIZvZlFiEzBZ9U1v16R9l.jpg",
+    "/qXoc4osQTn55r0gS1FB7Iu2g2A7.jpg",
+    "/fCqlHdhLlS2zRs1jfZ56FsdyTFD.jpg"
+  ],
+  "trailerKey": "hzxKbPXjVGA",
+  "genreIds": [
+    35,
+    878
+  ],
+  "keywordIds": [
+    4565,
+    4458,
+    10123
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Oscar Lewenstein Productions"
+  ],
+  "crew": [
+    {
+      "personId": 10586,
+      "job": "director"
+    },
+    {
+      "personId": 117295,
+      "job": "writer"
+    },
+    {
+      "personId": 10586,
+      "job": "producer"
+    },
+    {
+      "personId": 35954,
+      "job": "producer"
+    },
+    {
+      "personId": 1115300,
+      "job": "producer"
+    },
+    {
+      "personId": 57892,
+      "job": "composer"
+    },
+    {
+      "personId": 10639,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12689,
+      "character": "Lord Fortnum of Alamein",
+      "order": 0
+    },
+    {
+      "personId": 47754,
+      "character": "Penelope",
+      "order": 1
+    },
+    {
+      "personId": 39741,
+      "character": "Bules Martin",
+      "order": 2
+    },
+    {
+      "personId": 39024,
+      "character": "Father",
+      "order": 3
+    },
+    {
+      "personId": 89895,
+      "character": "Mother",
+      "order": 4
+    },
+    {
+      "personId": 138563,
+      "character": "Alan",
+      "order": 5
+    },
+    {
+      "personId": 18266,
+      "character": "Inspector",
+      "order": 6
+    },
+    {
+      "personId": 56819,
+      "character": "Sergeant",
+      "order": 7
+    },
+    {
+      "personId": 92042,
+      "character": "The BBC",
+      "order": 8
+    },
+    {
+      "personId": 29802,
+      "character": "Nurse Arthur",
+      "order": 9
+    },
+    {
+      "personId": 125459,
+      "character": "Shelter Man",
+      "order": 10
+    },
+    {
+      "personId": 3463,
+      "character": "Plastic Mac Man",
+      "order": 11
+    },
+    {
+      "personId": 29539,
+      "character": "Mate",
+      "order": 12
+    },
+    {
+      "personId": 83753,
+      "character": "Nigel",
+      "order": 13
+    },
+    {
+      "personId": 135182,
+      "character": "Electricity Man",
+      "order": 14
+    },
+    {
+      "personId": 45587,
+      "character": "Underwater Vicar",
+      "order": 15
+    },
+    {
+      "personId": 87747,
+      "character": "Mrs Ethel Shroake",
+      "order": 16
+    },
+    {
+      "personId": 1534230,
+      "character": "The Prime Minister",
+      "order": 17
+    },
+    {
+      "personId": 1231167,
+      "character": "Drip Feed Patient",
+      "order": 18
+    },
+    {
+      "personId": 1214103,
+      "character": "Chauffeur",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 55,
+  "sources": [
+    "cult-list"
+  ]
+}

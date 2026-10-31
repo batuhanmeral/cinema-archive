@@ -1,0 +1,196 @@
+{
+  "tmdbId": 350,
+  "slug": "the-devil-wears-prada-2006",
+  "year": 2006,
+  "runtime": 109,
+  "originalTitle": "The Devil Wears Prada",
+  "title": {
+    "en": "The Devil Wears Prada",
+    "tr": "Şeytan Marka Giyer"
+  },
+  "overview": {
+    "en": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+    "tr": "New York moda dünyasının göz alıcı karmaşasında, sıfır bedenli muhteşem kadınlar içindeyken saçınızın kötü olduğu bir gün iş hayatınızın sonu olabilir. İşte Runway Dergisi bu inanılmaz cehennemin tam ortasıdır. Miranda Priestly ise moda dünyasının en güçlü kadını Runway'in korku salan kraliçesi kendisine bir asistan alacaktır. Milyonlarca kızın hayatını verebileceği bir iş ise sıradan bir New York'ta yaşayan Andy Sachs için göz kırpmaktadır. Yapacağı iş kesinlikle kendisine saygısı olmayan insanların yapabileceği türden, yaşamı bırakıp çalışmaya dayalı bir tür Miranda köleliğidir."
+  },
+  "poster": {
+    "tr": "/3hOdkmU8Y2C1vO1cyBcBVUmrj04.jpg",
+    "en": "/u6QBDGUCOEMRekna95ip2MxplbQ.jpg"
+  },
+  "backdrops": [
+    "/3tWw50B1xXlCnJ9A7NX4nNzZF4j.jpg",
+    "/CpLAfXgSNeNRRbRzPrTuzKmIHO.jpg",
+    "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
+    "/vJUkmeOfMxeyobEtbhCRSJ30sv.jpg",
+    "/vXovMToX7W9WHs5KWJJxUwkflkQ.jpg",
+    "/dbkQvzmbSnKtN4piHvdIkydFCGe.jpg",
+    "/piIdisd6wydVa3qvmSSJIWaCi7I.jpg",
+    "/2q8sjQRG4HhS9DYG9NX7hi0TjUG.jpg",
+    "/mpRU00GeyQixJ6OglFGlWiWV820.jpg",
+    "/s4zZkK7k6ZIFrvq6I9wgMpDtOdQ.jpg"
+  ],
+  "trailerKey": "t4isatjZ0BM",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    242,
+    736,
+    90,
+    818,
+    917,
+    3486,
+    3487,
+    3488,
+    3489,
+    4222,
+    15479,
+    176876,
+    190830,
+    206671,
+    236197,
+    325764,
+    370143
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Fox 2000 Pictures",
+    "Wendy Finerman Productions",
+    "Dune Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 5065,
+      "job": "director"
+    },
+    {
+      "personId": 10567,
+      "job": "writer"
+    },
+    {
+      "personId": 28,
+      "job": "producer"
+    },
+    {
+      "personId": 10572,
+      "job": "composer"
+    },
+    {
+      "personId": 10573,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5064,
+      "character": "Miranda Priestly",
+      "order": 0
+    },
+    {
+      "personId": 1813,
+      "character": "Andy Sachs",
+      "order": 1
+    },
+    {
+      "personId": 5081,
+      "character": "Emily",
+      "order": 2
+    },
+    {
+      "personId": 2283,
+      "character": "Nigel",
+      "order": 3
+    },
+    {
+      "personId": 1284159,
+      "character": "Christian Thompson",
+      "order": 4
+    },
+    {
+      "personId": 5090,
+      "character": "Nate",
+      "order": 5
+    },
+    {
+      "personId": 10580,
+      "character": "Lily",
+      "order": 6
+    },
+    {
+      "personId": 10581,
+      "character": "Doug",
+      "order": 7
+    },
+    {
+      "personId": 10582,
+      "character": "James Holt",
+      "order": 8
+    },
+    {
+      "personId": 24535,
+      "character": "Richard Sachs",
+      "order": 9
+    },
+    {
+      "personId": 37421,
+      "character": "Stephen",
+      "order": 10
+    },
+    {
+      "personId": 1192389,
+      "character": "Irv Ravitz",
+      "order": 11
+    },
+    {
+      "personId": 54679,
+      "character": "Jocelyn",
+      "order": 12
+    },
+    {
+      "personId": 205550,
+      "character": "Lucia",
+      "order": 13
+    },
+    {
+      "personId": 10583,
+      "character": "Serena",
+      "order": 14
+    },
+    {
+      "personId": 5369,
+      "character": "Paul",
+      "order": 15
+    },
+    {
+      "personId": 60205,
+      "character": "Editor",
+      "order": 16
+    },
+    {
+      "personId": 121953,
+      "character": "Jacqueline Follet",
+      "order": 17
+    },
+    {
+      "personId": 962381,
+      "character": "Caroline",
+      "order": 18
+    },
+    {
+      "personId": 962382,
+      "character": "Cassidy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 14379,
+  "sources": [
+    "cult-list"
+  ]
+}

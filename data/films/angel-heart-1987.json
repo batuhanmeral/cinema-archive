@@ -1,0 +1,222 @@
+{
+  "tmdbId": 635,
+  "slug": "angel-heart-1987",
+  "year": 1987,
+  "runtime": 113,
+  "originalTitle": "Angel Heart",
+  "title": {
+    "en": "Angel Heart",
+    "tr": "Şeytan Çıkmazı"
+  },
+  "overview": {
+    "en": "A down-and-out Brooklyn detective is hired to track down a singer on an odyssey that will take him through the desperate streets of Harlem, the smoke-filled jazz clubs of New Orleans, and the swamps of Louisiana and its seedy underworld of voodoo.",
+    "tr": "Louis Cypher adlı gizemli bir müşteri, özel dedektif Harry Angel'dan bir adamı bulmasını ister. Verilen ipuçlarını değerlendiren Angel, hedefine doğru ilerledikçe bir takım doğaüstü olaylarla karşılaşır. Dahası, aranan kişiye dair bilgi aldığı herkes vahşice öldürülmektedir. Polisin suçu kendi üzerine atmasından korkan Angel, her şeye rağmen görevini yerine getirmeye çalışır..."
+  },
+  "poster": {
+    "tr": "/h5v3wjJQNB7q2RntEnKDLhKtTFE.jpg",
+    "en": "/h5v3wjJQNB7q2RntEnKDLhKtTFE.jpg"
+  },
+  "backdrops": [
+    "/obGPqu6au39YtemauKWI4ihWPrS.jpg",
+    "/eUl0JExl11ZyAgNjwxXzdIXlQlE.jpg",
+    "/n4MSVHXyVVMnN6wOmEFZeA8GZtl.jpg",
+    "/z1EpTRjN3WyM1OdydoSFAK9PeDq.jpg",
+    "/mg08WeXL6GWEJHUPAf6p9RD7Z1.jpg",
+    "/v7BSVnJZUMYyOOOmfw5u567fXth.jpg",
+    "/yc0jYCnnlh8qC39P5mXj5G67VWJ.jpg",
+    "/cj2thGfzxONEFRdrHLc5VIJ4GUh.jpg",
+    "/wNfUCYLGHlSIIRKmQCuDUmtIGrf.jpg",
+    "/viDonz5uLmengw9RUAh3Rf65dQG.jpg"
+  ],
+  "trailerKey": "oLNHY7x055E",
+  "genreIds": [
+    27,
+    9648
+  ],
+  "keywordIds": [
+    242,
+    1453,
+    2860,
+    531,
+    3392,
+    703,
+    1803,
+    2411,
+    5340,
+    2835,
+    3179,
+    9887,
+    5545,
+    4957,
+    5810,
+    8764,
+    10138,
+    9856,
+    9826,
+    10629,
+    11044,
+    12565,
+    14765,
+    14964,
+    14999,
+    33841,
+    155790,
+    156091,
+    161268,
+    161270,
+    162852,
+    190396,
+    207268,
+    207889,
+    245137,
+    287870,
+    293669
+  ],
+  "countries": [
+    "GB",
+    "US",
+    "CA"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Winkast Film Productions",
+    "Union",
+    "Carolco Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 7020,
+      "job": "composer"
+    },
+    {
+      "personId": 9165,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9168,
+      "job": "writer"
+    },
+    {
+      "personId": 7726,
+      "job": "producer"
+    },
+    {
+      "personId": 9169,
+      "job": "producer"
+    },
+    {
+      "personId": 9168,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2295,
+      "character": "Harry Angel",
+      "order": 0
+    },
+    {
+      "personId": 380,
+      "character": "Louis Cyphre",
+      "order": 1
+    },
+    {
+      "personId": 3232,
+      "character": "Epiphany Proudfoot",
+      "order": 2
+    },
+    {
+      "personId": 44079,
+      "character": "Margaret Krusemark",
+      "order": 3
+    },
+    {
+      "personId": 9170,
+      "character": "Ethan Krusemark",
+      "order": 4
+    },
+    {
+      "personId": 9171,
+      "character": "Toots Sweet",
+      "order": 5
+    },
+    {
+      "personId": 2979,
+      "character": "Doctor Fowler",
+      "order": 6
+    },
+    {
+      "personId": 9172,
+      "character": "Connie",
+      "order": 7
+    },
+    {
+      "personId": 9173,
+      "character": "Sterne",
+      "order": 8
+    },
+    {
+      "personId": 9174,
+      "character": "Spider Simpson",
+      "order": 9
+    },
+    {
+      "personId": 9175,
+      "character": "Winesnap",
+      "order": 10
+    },
+    {
+      "personId": 42335,
+      "character": "Nurse",
+      "order": 11
+    },
+    {
+      "personId": 4048,
+      "character": "Izzy",
+      "order": 12
+    },
+    {
+      "personId": 109900,
+      "character": "Izzy's Wife",
+      "order": 13
+    },
+    {
+      "personId": 3201,
+      "character": "Det. Deimos",
+      "order": 14
+    },
+    {
+      "personId": 1262960,
+      "character": "Baptism Preacher",
+      "order": 15
+    },
+    {
+      "personId": 97922,
+      "character": "Cajun Heavy",
+      "order": 16
+    },
+    {
+      "personId": 2620599,
+      "character": "Cajun Heavy #2",
+      "order": 17
+    },
+    {
+      "personId": 1766405,
+      "character": "Voodoo Dancer",
+      "order": 18
+    },
+    {
+      "personId": 229939,
+      "character": "Pastor John",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1840,
+  "sources": [
+    "cult-list"
+  ]
+}

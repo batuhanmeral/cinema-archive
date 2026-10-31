@@ -1,0 +1,206 @@
+{
+  "tmdbId": 11830,
+  "slug": "tampopo-1985",
+  "year": 1985,
+  "runtime": 115,
+  "originalTitle": "タンポポ",
+  "title": {
+    "en": "Tampopo",
+    "tr": "Tampopo"
+  },
+  "overview": {
+    "en": "In this humorous paean to the joys of food, a pair of truck drivers happen onto a decrepit roadside shop selling ramen noodles. The widowed owner, Tampopo, begs them to help her turn her establishment into a paragon of the \"art of noodle-soup making\". Interspersed are satirical vignettes about the importance of food to different aspects of human life.",
+    "tr": "Yemek ve yemek fetişizmi üzerine eğlenceli bir film olan 'Tampopo'da içiçe geçmiş çok karakterli pek çok öykü anlatılıyor. Tampopo kendi restoranında özensiz ‘Ramen’ pişirip durmaktadır. Goro ve arkadaşı ise yol üstünde karınlarını doyurmaya gelmişlerdir fakat kendilerini Tampopo’ya aşçılıkta ustalaşmakta yardım ederken bulurlar. Sadece lezzetli Ramen pişirmenin püf noktalarını öğrenmek değil, alakalı alakasız ‘an’larla kafanızı karıştıracak veya güldürecek sade bir hikayenin sıradan olması gerekmediğini hatırlamak da gayet güzeldir. Yaptıklarınızın sürekli sıradan, hatta ortalamanın altında kalması inanılmaz can sıkıcıdır."
+  },
+  "poster": {
+    "tr": "/ArYdSuX3zY9fMsE4LqmBl7xJq5R.jpg",
+    "en": "/faozWWMAM4aK0C4uRUAR1jzkJio.jpg"
+  },
+  "backdrops": [
+    "/2im2QWGljNfsmHrldbDlcF85j9x.jpg",
+    "/oHCrUX8WDrxlI5Ztq0LX3Fj0Uf5.jpg",
+    "/wGfuDcS3dJ1EFivBDWDQAQfsk0G.jpg",
+    "/oq8HM9TOSbH54Xy0OBJGzYrtUC7.jpg",
+    "/8GZuEwF9w5CxhUZtnGXs4tQpxmI.jpg",
+    "/eTMMvQCR2VFSjAXWEyjrXU3DSfZ.jpg",
+    "/7GjvXv5fZMFJgYXjANYeOlzptEo.jpg",
+    "/iY1iRhj1HmBkDFdZoSC8JCGPMIS.jpg",
+    "/oa8qky7pEZBRkXyk5GbUjimSpxM.jpg",
+    "/rC46V5oiGtkWHgsz2BRcEAFEWD2.jpg"
+  ],
+  "trailerKey": "sur_pxcpuoE",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    4129,
+    1946,
+    4021,
+    5167,
+    6733,
+    9362,
+    10637,
+    155497,
+    155691,
+    160488,
+    191821,
+    232755,
+    235817,
+    238836,
+    280027,
+    285928,
+    303310,
+    308068,
+    324713,
+    325844,
+    326624,
+    327498
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "New Century Producers",
+    "Itami Productions"
+  ],
+  "crew": [
+    {
+      "personId": 70629,
+      "job": "producer"
+    },
+    {
+      "personId": 69167,
+      "job": "producer"
+    },
+    {
+      "personId": 69167,
+      "job": "writer"
+    },
+    {
+      "personId": 70631,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 70628,
+      "job": "producer"
+    },
+    {
+      "personId": 69167,
+      "job": "director"
+    },
+    {
+      "personId": 70630,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 70626,
+      "character": "Goro",
+      "order": 0
+    },
+    {
+      "personId": 70627,
+      "character": "Tampopo",
+      "order": 1
+    },
+    {
+      "personId": 3899,
+      "character": "Gun",
+      "order": 2
+    },
+    {
+      "personId": 18056,
+      "character": "White Suit Man",
+      "order": 3
+    },
+    {
+      "personId": 136879,
+      "character": "Pisken",
+      "order": 4
+    },
+    {
+      "personId": 552542,
+      "character": "Shohei",
+      "order": 5
+    },
+    {
+      "personId": 229407,
+      "character": "Pisken's Henchman",
+      "order": 6
+    },
+    {
+      "personId": 1078687,
+      "character": "Pisken's Henchman",
+      "order": 7
+    },
+    {
+      "personId": 554572,
+      "character": "Restaurant Owner",
+      "order": 8
+    },
+    {
+      "personId": 227079,
+      "character": "Old Woman Pressing Camembert Cheese",
+      "order": 9
+    },
+    {
+      "personId": 554573,
+      "character": "Waiter",
+      "order": 10
+    },
+    {
+      "personId": 96637,
+      "character": "Running Man",
+      "order": 11
+    },
+    {
+      "personId": 554574,
+      "character": "Young Employee",
+      "order": 12
+    },
+    {
+      "personId": 554575,
+      "character": "Hira",
+      "order": 13
+    },
+    {
+      "personId": 123854,
+      "character": "Noodle-making Master",
+      "order": 14
+    },
+    {
+      "personId": 551749,
+      "character": "Man in White Suit's Henchman",
+      "order": 15
+    },
+    {
+      "personId": 25467,
+      "character": "Man with Toothache",
+      "order": 16
+    },
+    {
+      "personId": 554576,
+      "character": "Man in White Suit's Mistress",
+      "order": 17
+    },
+    {
+      "personId": 30772,
+      "character": "Old Gentleman",
+      "order": 18
+    },
+    {
+      "personId": 108018,
+      "character": "Spaghetti Teacher",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 467,
+  "sources": [
+    "cult-list"
+  ]
+}

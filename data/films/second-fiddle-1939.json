@@ -1,0 +1,165 @@
+{
+  "tmdbId": 43835,
+  "slug": "second-fiddle-1939",
+  "year": 1939,
+  "runtime": 85,
+  "originalTitle": "Second Fiddle",
+  "title": {
+    "en": "Second Fiddle",
+    "tr": "Second Fiddle"
+  },
+  "overview": {
+    "en": "Studio publicist discovers Minnesota skating teacher and takes her to Hollywood. She goes back to Minnesota but he follows her.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/mQq8V3M7FVRRMnpTN943ZglIOVc.jpg",
+    "en": "/mQq8V3M7FVRRMnpTN943ZglIOVc.jpg"
+  },
+  "backdrops": [
+    "/nfJ8coyeDcGv7t9uFHb5uMs70UP.jpg",
+    "/nwe6oThthChG3gApjHXovRb80Lh.jpg",
+    "/k4EO0vL3j8Cf4Mw89Ug4fOQBvya.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    4344
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 97017,
+      "job": "director"
+    },
+    {
+      "personId": 3377,
+      "job": "writer"
+    },
+    {
+      "personId": 131602,
+      "job": "producer"
+    },
+    {
+      "personId": 13270,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 232026,
+      "character": "Trudi Hovland",
+      "order": 0
+    },
+    {
+      "personId": 10922,
+      "character": "Jimmy Sutton",
+      "order": 1
+    },
+    {
+      "personId": 83452,
+      "character": "Roger Maxwell",
+      "order": 2
+    },
+    {
+      "personId": 82412,
+      "character": "Aunt Phoebe",
+      "order": 3
+    },
+    {
+      "personId": 133770,
+      "character": "Jean Varick",
+      "order": 4
+    },
+    {
+      "personId": 34119,
+      "character": "Willie Hogger",
+      "order": 5
+    },
+    {
+      "personId": 34348,
+      "character": "George Whitney",
+      "order": 6
+    },
+    {
+      "personId": 32431,
+      "character": "Jenny",
+      "order": 7
+    },
+    {
+      "personId": 1287050,
+      "character": "Trudi's Skating Partner",
+      "order": 8
+    },
+    {
+      "personId": 34280,
+      "character": "Joe Clayton",
+      "order": 9
+    },
+    {
+      "personId": 980038,
+      "character": "Assistant Director",
+      "order": 10
+    },
+    {
+      "personId": 117026,
+      "character": "Radio Announcer",
+      "order": 11
+    },
+    {
+      "personId": 33178,
+      "character": "Taxi Driver",
+      "order": 12
+    },
+    {
+      "personId": 30530,
+      "character": "Harvey Vaughan",
+      "order": 13
+    },
+    {
+      "personId": 120810,
+      "character": "Alex Blank",
+      "order": 14
+    },
+    {
+      "personId": 945285,
+      "character": "Dancer",
+      "order": 15
+    },
+    {
+      "personId": 1186116,
+      "character": "Photographer",
+      "order": 16
+    },
+    {
+      "personId": 1383133,
+      "character": "Highway Patrolman",
+      "order": 17
+    },
+    {
+      "personId": 1468494,
+      "character": "(uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1420881,
+      "character": "(uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 8,
+  "sources": [
+    "cult-list"
+  ]
+}

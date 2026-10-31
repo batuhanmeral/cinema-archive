@@ -1,0 +1,172 @@
+{
+  "tmdbId": 15515,
+  "slug": "the-7th-voyage-of-sinbad-1958",
+  "year": 1958,
+  "runtime": 88,
+  "originalTitle": "The 7th Voyage of Sinbad",
+  "title": {
+    "en": "The 7th Voyage of Sinbad",
+    "tr": "Sinbad'ın 7. Yolculuğu"
+  },
+  "overview": {
+    "en": "When the lovely Princess Parisa is shrunken by wicked Sokurah the Magician, Sinbad must embark on a quest to an island of monsters to cure her and prevent a war.",
+    "tr": "Sinbad'ın bu maceradaki amacı, şeytani bir büyücü tarafından güzel prensese yapılan büyüyü bozmaktır. Ancak Sinbad, prensesi kurtarmadan önce efsanevi canavarlarla savaşmak zorundadır: Tek gözlü devler, kılıç ustası iskelet, Roc adındaki iki-başlı yırtıcı kuş ve etrafa alevler saçan ejderha."
+  },
+  "poster": {
+    "tr": "/wZKfMySjut6QxLNTyMkzrCBZyxP.jpg",
+    "en": "/mzEFF9YRN13HLz6Cq7jMYR8aHVb.jpg"
+  },
+  "backdrops": [
+    "/w9dCUTGhfFr5igO1Ibl8ZV7KGUs.jpg",
+    "/1dC9XLJiI3Cd8TX3gqTvBSIgG5N.jpg",
+    "/gAFAqAUlnpSzIAsSLufz3M42uk.jpg",
+    "/cbWFZC0d26brxFQypZyx3ORp6gU.jpg",
+    "/7SpPegB2KUrFdudZgv7Ppl8FRGH.jpg",
+    "/j9JMV41rOwNoGv46v2i1yHnzn1M.jpg",
+    "/iOAhVyZ3xeqmQN2Add6wzmQg7no.jpg",
+    "/8TxYKxqO4AehulSBMq2CvBjjm0t.jpg",
+    "/sLGH9KdkIMikuBK0dN9mw7uI7bh.jpg",
+    "/7mKCvZGxGS7629AIZFGWisrO4d3.jpg"
+  ],
+  "trailerKey": "nP_cMRhvStU",
+  "genreIds": [
+    28,
+    12,
+    10751,
+    14
+  ],
+  "keywordIds": [
+    2041,
+    2343,
+    4892,
+    7038,
+    10107,
+    10121,
+    12554,
+    161893,
+    162512,
+    190536,
+    197065,
+    236322,
+    239733,
+    239734,
+    239735,
+    239738,
+    239742,
+    252696
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Morningside Productions",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1045,
+      "job": "composer"
+    },
+    {
+      "personId": 66759,
+      "job": "producer"
+    },
+    {
+      "personId": 95323,
+      "job": "writer"
+    },
+    {
+      "personId": 20397,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 44878,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 91638,
+      "character": "Sinbad",
+      "order": 0
+    },
+    {
+      "personId": 861,
+      "character": "Princess Parisa",
+      "order": 1
+    },
+    {
+      "personId": 10925,
+      "character": "Sokurah the Magician",
+      "order": 2
+    },
+    {
+      "personId": 83315,
+      "character": "Barani the Genie",
+      "order": 3
+    },
+    {
+      "personId": 94271,
+      "character": "Caliph",
+      "order": 4
+    },
+    {
+      "personId": 43791,
+      "character": "Karim",
+      "order": 5
+    },
+    {
+      "personId": 26673,
+      "character": "Sultan",
+      "order": 6
+    },
+    {
+      "personId": 94272,
+      "character": "Harufa",
+      "order": 7
+    },
+    {
+      "personId": 89778,
+      "character": "Sadi",
+      "order": 8
+    },
+    {
+      "personId": 114648,
+      "character": "Gaunt Sailor",
+      "order": 9
+    },
+    {
+      "personId": 114649,
+      "character": "Crewman",
+      "order": 10
+    },
+    {
+      "personId": 103469,
+      "character": "Ali",
+      "order": 11
+    },
+    {
+      "personId": 6161888,
+      "character": "Jafa (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1479247,
+      "character": "Sokurah's Skeleton (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 89777,
+      "character": "Golar (uncredited)",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 334,
+  "sources": [
+    "cult-list"
+  ]
+}

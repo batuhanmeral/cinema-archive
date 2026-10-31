@@ -1,0 +1,124 @@
+{
+  "tmdbId": 37044,
+  "slug": "wisconsin-death-trip-1999",
+  "year": 1999,
+  "runtime": 76,
+  "originalTitle": "Wisconsin Death Trip",
+  "title": {
+    "en": "Wisconsin Death Trip",
+    "tr": "Wisconsin Death Trip"
+  },
+  "overview": {
+    "en": "Inspired by the book of the same name, film-maker James Marsh relays a tale of tragedy, murder and mayhem that erupted behind the respectable facade of Black River Falls, Wisconsin in the 19th century.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/atngFVxShIsk2KDQdHnehtRtSZA.jpg",
+    "en": "/atngFVxShIsk2KDQdHnehtRtSZA.jpg"
+  },
+  "backdrops": [
+    "/aAFGSvMO2wcw5IPx30JeKg6diWj.jpg",
+    "/wAl4aShmKmEYYEOWM8JMfci9qSn.jpg",
+    "/lhAHxkEsq2MkwE25RrVXKgq8lbu.jpg",
+    "/pkli4W7yqHFb0KskH2nayBpkjsd.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99,
+    80
+  ],
+  "keywordIds": [
+    818,
+    2024,
+    207928
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "BBC",
+    "BBC Arena",
+    "Hands On"
+  ],
+  "crew": [
+    {
+      "personId": 76998,
+      "job": "director"
+    },
+    {
+      "personId": 76998,
+      "job": "writer"
+    },
+    {
+      "personId": 222354,
+      "job": "producer"
+    },
+    {
+      "personId": 76998,
+      "job": "producer"
+    },
+    {
+      "personId": 29231,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 229678,
+      "job": "composer"
+    },
+    {
+      "personId": 7491,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 65,
+      "character": "Narrator (voice)",
+      "order": 0
+    },
+    {
+      "personId": 1243178,
+      "character": "Young Anderson",
+      "order": 1
+    },
+    {
+      "personId": 4089934,
+      "character": "Pauline L'Allemand",
+      "order": 2
+    },
+    {
+      "personId": 4089943,
+      "character": "Undertaker",
+      "order": 3
+    },
+    {
+      "personId": 2037233,
+      "character": "Mrs. Larson",
+      "order": 4
+    },
+    {
+      "personId": 4089948,
+      "character": "Baptized Girl",
+      "order": 5
+    },
+    {
+      "personId": 3306315,
+      "character": "Abandoned Boy",
+      "order": 6
+    },
+    {
+      "personId": 2885701,
+      "character": "Union Man",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 29,
+  "sources": [
+    "cult-list"
+  ]
+}

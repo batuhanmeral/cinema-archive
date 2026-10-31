@@ -1,0 +1,188 @@
+{
+  "tmdbId": 592,
+  "slug": "the-conversation-1974",
+  "year": 1974,
+  "runtime": 115,
+  "originalTitle": "The Conversation",
+  "title": {
+    "en": "The Conversation",
+    "tr": "Konuşma"
+  },
+  "overview": {
+    "en": "A paranoid, secretive surveillance expert has a crisis of conscience when he suspects that the couple he is spying on will be murdered.",
+    "tr": "Harry Caul (Gene Hackman) çok gelişmiş elektronik aletler kullanarak dinleme ve izleme yapma konusunda uzman bir özel dedektiftir. Sahibi olduğu özel dedektiflik bürosuna başvuran müşterilerinin istediği kişileri izleyip seslerini banda almaktadır. Paranoid ve ketum bir kişiliğe sahip Caul'e başvuran bir iş adamı, dedektiften genç bir erkek ve kadını izlemesini ister. Caul genç çifti izlerken kaydettiği konuşmalardan etkilenir ve artık olaya sadece bir \"iş\" olarak bakmaz."
+  },
+  "poster": {
+    "tr": "/dHqVBwcv1SGymOpUueRoKzcmdes.jpg",
+    "en": "/dhgW1uGaRj8vIgq54VnCP96X7Sv.jpg"
+  },
+  "backdrops": [
+    "/fVJZYpzVTKo0vXmar9NnRMV0Qcn.jpg",
+    "/a35QCr4ajEOjxd57KZybNzDP7L2.jpg",
+    "/s7yfiwIshKQIT6M8ZcTnFKXHs8B.jpg",
+    "/7ZLQ5cU6mlYv8yWSGsHnA3NTj8b.jpg",
+    "/clXb59tHLH9DRxCkqZdNXrc0qNW.jpg",
+    "/wJXrh5N0KNHSsukJXe0xxuUwy3z.jpg",
+    "/2caLnP7G8rTwk4zIJy9172SwmHS.jpg",
+    "/i4Hv1CPXPjXDikZZOmM9AOLCEzS.jpg",
+    "/wB5fbtvB6eIYd7mtlHIlm5Fug58.jpg",
+    "/1cluPYp7g3LXRullwpUK4Jn5pkd.jpg"
+  ],
+  "trailerKey": "mDgKPQWyjRk",
+  "genreIds": [
+    80,
+    18,
+    9648
+  ],
+  "keywordIds": [
+    1533,
+    4918,
+    582,
+    1576,
+    470,
+    2380,
+    2340,
+    2980,
+    2007,
+    10410,
+    11011,
+    15249,
+    18420,
+    33424,
+    165038,
+    178649,
+    211062,
+    272553
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Directors Company",
+    "The Coppola Company"
+  ],
+  "crew": [
+    {
+      "personId": 1776,
+      "job": "director"
+    },
+    {
+      "personId": 1776,
+      "job": "producer"
+    },
+    {
+      "personId": 8422,
+      "job": "composer"
+    },
+    {
+      "personId": 2287,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7067,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1776,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 193,
+      "character": "Harry Caul",
+      "order": 0
+    },
+    {
+      "personId": 3096,
+      "character": "Stan",
+      "order": 1
+    },
+    {
+      "personId": 922,
+      "character": "William P. 'Bernie' Moran",
+      "order": 2
+    },
+    {
+      "personId": 8351,
+      "character": "Mark",
+      "order": 3
+    },
+    {
+      "personId": 8434,
+      "character": "Ann",
+      "order": 4
+    },
+    {
+      "personId": 2979,
+      "character": "Paul",
+      "order": 5
+    },
+    {
+      "personId": 8438,
+      "character": "Meredith",
+      "order": 6
+    },
+    {
+      "personId": 8437,
+      "character": "Amy Fredericks",
+      "order": 7
+    },
+    {
+      "personId": 3,
+      "character": "Martin Stett",
+      "order": 8
+    },
+    {
+      "personId": 152718,
+      "character": "Receptionist",
+      "order": 9
+    },
+    {
+      "personId": 1236446,
+      "character": "The Mime",
+      "order": 10
+    },
+    {
+      "personId": 1757776,
+      "character": "Lurleen",
+      "order": 11
+    },
+    {
+      "personId": 33060,
+      "character": "Man at Party (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1757777,
+      "character": "Boy in Church (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 3087,
+      "character": "The Director (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1757778,
+      "character": "Confessional Priest / Security Guard (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 3799,
+      "character": "Man in Yellow Hat (uncredited)",
+      "order": 16
+    }
+  ],
+  "awards": {
+    "cannes": 1,
+    "bafta": 2
+  },
+  "voteCount": 2151,
+  "sources": [
+    "cult-list"
+  ]
+}

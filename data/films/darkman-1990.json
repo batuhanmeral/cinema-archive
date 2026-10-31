@@ -1,0 +1,208 @@
+{
+  "tmdbId": 9556,
+  "slug": "darkman-1990",
+  "year": 1990,
+  "runtime": 95,
+  "originalTitle": "Darkman",
+  "title": {
+    "en": "Darkman",
+    "tr": "Karanlık Adam"
+  },
+  "overview": {
+    "en": "Dr. Peyton Westlake is on the verge of realizing a major breakthrough in synthetic skin when his laboratory is destroyed by gangsters. Having been burned beyond recognition and forever altered by an experimental medical procedure, Westlake becomes known as Darkman, assuming alternate identities in his quest for revenge and a new life with a former love.",
+    "tr": "Dr. Peyton Westlake kusursuz yapay insan derisini bulmak üzereyken, sadist Robert G. Durant tarafından laboratuvarına yapılan bir saldırı sonucu her şeyini kaybeder. Tanınmayacak derecede yanan ve deneysel bir takım tıbbi tedavi surecinden geçen Westlake, laboratuvarını tekrar inşa etmeye ve kız arkadaşı Julie ile her şeyi yoluna koymaya çalışır. Bir yandan Julie ile yeni bir hayat diğer yandan da intikam.... Karanlık Adam yavaş yavaş bu yeni kimliğini benimsemeye başlar."
+  },
+  "poster": {
+    "tr": "/9fxGRzlINIvfPFhizMgbQaDDrK.jpg",
+    "en": "/x5jxFCgzdL0W9ntGrFbEuvZpM6p.jpg"
+  },
+  "backdrops": [
+    "/nd15s5ypZFi2pkcIYbj5Kaou9Vg.jpg",
+    "/gzj6i2yOON6i30NrihTsDWEYOm7.jpg",
+    "/zpcmQo7KIx8HgWrqJqANifmGdjG.jpg",
+    "/21yzyxESVI4h4XtbYEuFZaY0rqz.jpg",
+    "/7GRvhvPplGC6DSdloyoXGcN1rcZ.jpg",
+    "/AmYRSICb6OjblGlyAEFiJ4cMfKF.jpg",
+    "/e583LdTNqN3u6eUvWFpovm98bBw.jpg",
+    "/xVLDKhLvSNu8XADy0iafopb3Pbm.jpg",
+    "/q814FT5iDtl6RioopBprO52mx0i.jpg",
+    "/clfVHVLNzs7wxocHNjSxeBZYjwh.jpg"
+  ],
+  "trailerKey": "W8oGHvO2RgU",
+  "genreIds": [
+    28,
+    878,
+    53
+  ],
+  "keywordIds": [
+    2546,
+    417,
+    1706,
+    3149,
+    9715,
+    1959,
+    9748,
+    12670,
+    14760,
+    41410,
+    170356,
+    170383,
+    185736,
+    325809
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "Renaissance Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 20757,
+      "job": "writer"
+    },
+    {
+      "personId": 7623,
+      "job": "writer"
+    },
+    {
+      "personId": 7629,
+      "job": "writer"
+    },
+    {
+      "personId": 57960,
+      "job": "writer"
+    },
+    {
+      "personId": 57961,
+      "job": "writer"
+    },
+    {
+      "personId": 11359,
+      "job": "producer"
+    },
+    {
+      "personId": 531,
+      "job": "composer"
+    },
+    {
+      "personId": 9341,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7623,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3896,
+      "character": "Peyton Westlake / Darkman",
+      "order": 0
+    },
+    {
+      "personId": 3910,
+      "character": "Julie Hastings",
+      "order": 1
+    },
+    {
+      "personId": 27753,
+      "character": "Louis Strack Jr.",
+      "order": 2
+    },
+    {
+      "personId": 16476,
+      "character": "Robert G. Durant",
+      "order": 3
+    },
+    {
+      "personId": 57959,
+      "character": "Yakitito",
+      "order": 4
+    },
+    {
+      "personId": 9786,
+      "character": "Eddie Black",
+      "order": 5
+    },
+    {
+      "personId": 95209,
+      "character": "Rudy Guzman",
+      "order": 6
+    },
+    {
+      "personId": 11750,
+      "character": "Skip",
+      "order": 7
+    },
+    {
+      "personId": 11769,
+      "character": "Rick",
+      "order": 8
+    },
+    {
+      "personId": 182210,
+      "character": "Smiley",
+      "order": 9
+    },
+    {
+      "personId": 100461,
+      "character": "Pauly",
+      "order": 10
+    },
+    {
+      "personId": 140237,
+      "character": "Martin Katz",
+      "order": 11
+    },
+    {
+      "personId": 1080062,
+      "character": "Hung Fat",
+      "order": 12
+    },
+    {
+      "personId": 109670,
+      "character": "Convenience Store Clerk",
+      "order": 13
+    },
+    {
+      "personId": 1677323,
+      "character": "Chinese Warrior",
+      "order": 14
+    },
+    {
+      "personId": 13006,
+      "character": "Chinese Warrior #2",
+      "order": 15
+    },
+    {
+      "personId": 1374649,
+      "character": "Carnival Booth Attendant",
+      "order": 16
+    },
+    {
+      "personId": 168258,
+      "character": "Side Show Barker",
+      "order": 17
+    },
+    {
+      "personId": 56506,
+      "character": "Limo Driver",
+      "order": 18
+    },
+    {
+      "personId": 6772,
+      "character": "Gravedigger",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1610,
+  "sources": [
+    "cult-list"
+  ]
+}

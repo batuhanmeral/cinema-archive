@@ -1,0 +1,180 @@
+{
+  "tmdbId": 21886,
+  "slug": "no-blade-of-grass-1970",
+  "year": 1970,
+  "runtime": 96,
+  "originalTitle": "No Blade of Grass",
+  "title": {
+    "en": "No Blade of Grass",
+    "tr": "No Blade of Grass"
+  },
+  "overview": {
+    "en": "A strange new virus has appeared, which only attacks strains of grasses such as wheat and rice, and the world is descending into famine and chaos. Architect John, along with his family and friends, is making his way from London to his brother's farm in northern England where there will hopefully be food and safety for all of them.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vHwFAbUNRVz77LnPEXI7VknB916.jpg",
+    "en": "/5dQ9n0nob7mHarz0Z8kqQPcLsqX.jpg"
+  },
+  "backdrops": [
+    "/5swiqOZKdJzJyOykcGYqx3nkE6I.jpg",
+    "/bgRspmkYtoj9srqvICNZcoXWUr8.jpg",
+    "/nn5K9vYVulk5WnEDwmpXZ93Qql6.jpg",
+    "/s4O83fcRUV6b4U4Bo24hXR8qjqG.jpg",
+    "/2ukzxjZQbJTjuomy4QsjnI4ez8R.jpg",
+    "/teMCHkKPD1C4deJYZwlFhvluXhm.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    12,
+    878,
+    28
+  ],
+  "keywordIds": [
+    4932,
+    5215,
+    4565,
+    2804,
+    188957
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Theodora Productions",
+    "Metro-Goldwyn-Mayer British Studios",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 35320,
+      "job": "writer"
+    },
+    {
+      "personId": 35320,
+      "job": "director"
+    },
+    {
+      "personId": 115612,
+      "job": "writer"
+    },
+    {
+      "personId": 35320,
+      "job": "producer"
+    },
+    {
+      "personId": 1482693,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13327,
+      "character": "John Custance",
+      "order": 0
+    },
+    {
+      "personId": 88617,
+      "character": "Ann Custance",
+      "order": 1
+    },
+    {
+      "personId": 41961,
+      "character": "Roger Burnham",
+      "order": 2
+    },
+    {
+      "personId": 18913,
+      "character": "Mary Custance",
+      "order": 3
+    },
+    {
+      "personId": 106630,
+      "character": "David Custance",
+      "order": 4
+    },
+    {
+      "personId": 115618,
+      "character": "Fat Woman",
+      "order": 5
+    },
+    {
+      "personId": 4611828,
+      "character": "George",
+      "order": 6
+    },
+    {
+      "personId": 115283,
+      "character": "Police Constable",
+      "order": 7
+    },
+    {
+      "personId": 115620,
+      "character": "Mr. Beaseley",
+      "order": 8
+    },
+    {
+      "personId": 115621,
+      "character": "T.V. Interviewer",
+      "order": 9
+    },
+    {
+      "personId": 44700,
+      "character": "Sir Charles Brenner",
+      "order": 10
+    },
+    {
+      "personId": 11028,
+      "character": "Mr. Sturdevant",
+      "order": 11
+    },
+    {
+      "personId": 115622,
+      "character": "Andrew Pirrie",
+      "order": 12
+    },
+    {
+      "personId": 92044,
+      "character": "Clara Pirrie",
+      "order": 13
+    },
+    {
+      "personId": 115623,
+      "character": "Lieutenant",
+      "order": 14
+    },
+    {
+      "personId": 89339,
+      "character": "Corporal",
+      "order": 15
+    },
+    {
+      "personId": 1401811,
+      "character": "Dr. Cassop",
+      "order": 16
+    },
+    {
+      "personId": 1632639,
+      "character": "Davey Custance",
+      "order": 17
+    },
+    {
+      "personId": 4623784,
+      "character": "Spooks",
+      "order": 18
+    },
+    {
+      "personId": 4623786,
+      "character": "Yorkshire Sergeant",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 45,
+  "sources": [
+    "cult-list"
+  ]
+}

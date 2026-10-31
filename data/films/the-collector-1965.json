@@ -1,0 +1,139 @@
+{
+  "tmdbId": 42740,
+  "slug": "the-collector-1965",
+  "year": 1965,
+  "runtime": 119,
+  "originalTitle": "The Collector",
+  "title": {
+    "en": "The Collector",
+    "tr": "Korkunç Koleksiyoncu"
+  },
+  "overview": {
+    "en": "A man kidnaps a woman and holds her hostage just for the pleasure of having her there.",
+    "tr": "Freddie geleceği olmayan beceriksiz bir banka memurudur. Tek hobisi kelebek toplamaktır, bu da ona normalde hayatında tamamen eksik olan güç ve kontrol duygusunu verir. Büyük miktarda para kazanır ve kendine bir kır evi satın alır. Hâlâ sosyal olarak rahat edemediğinden, tıpkı kelebek topladığı gibi bir kız arkadaş edinmenin planlarını yapmaya başlar. Evin bodrumunu toplama kavanozu olarak hazırlıyor ve kurbanını birkaç gün boyunca takip ediyor."
+  },
+  "poster": {
+    "tr": "/iMiih5FGHwpUCAaJAIkYKl5Hffi.jpg",
+    "en": "/jvbp89QW2x4LnmiAs4LyRz2B4ed.jpg"
+  },
+  "backdrops": [
+    "/nAo72ildPf5q5nSQXZ98iC84kFc.jpg",
+    "/90ciOaWbY0f2TJnL312QJMYucXI.jpg",
+    "/rqpa2fAAHvH3ej9e2LWrpn0N8xl.jpg",
+    "/nNPUNabLZBz5QpM4C87lU8neM1B.jpg",
+    "/w1TAMMJgJiOHaBOE7QHh3b8UnKH.jpg",
+    "/1vBsMqVYFz3nEjs84Z1wbQltoM6.jpg",
+    "/bo235Ur1wqOoOael81we898xbOp.jpg",
+    "/lXYYUS8VRXumco2LXgZ178ouCKr.jpg",
+    "/tUmX1gNQPHlt59Cd5lnpr3jiB96.jpg",
+    "/mwY4bxausePWxMrDtHwxTrmzwAw.jpg"
+  ],
+  "trailerKey": "5CuxkTnu-CA",
+  "genreIds": [
+    53
+  ],
+  "keywordIds": [
+    1930,
+    156096,
+    186757,
+    222334,
+    236363
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Collector Company",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 10001,
+      "job": "director"
+    },
+    {
+      "personId": 2704,
+      "job": "composer"
+    },
+    {
+      "personId": 12720,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10005,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 58180,
+      "job": "writer"
+    },
+    {
+      "personId": 100981,
+      "job": "writer"
+    },
+    {
+      "personId": 100981,
+      "job": "producer"
+    },
+    {
+      "personId": 146776,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 28641,
+      "character": "Freddie Clegg",
+      "order": 0
+    },
+    {
+      "personId": 46780,
+      "character": "Miranda Grey",
+      "order": 1
+    },
+    {
+      "personId": 89895,
+      "character": "Aunt Annie",
+      "order": 2
+    },
+    {
+      "personId": 128607,
+      "character": "The Neighbor",
+      "order": 3
+    },
+    {
+      "personId": 199883,
+      "character": "Nurse / Next Victim (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 67676,
+      "character": "Miranda’s Older Friend (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 178413,
+      "character": "First Victim (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 2278999,
+      "character": "Clerk (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 2984915,
+      "character": "Clerk (uncredited)",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 235,
+  "sources": [
+    "cult-list"
+  ]
+}

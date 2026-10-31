@@ -1,0 +1,144 @@
+{
+  "tmdbId": 29562,
+  "slug": "fascination-1979",
+  "year": 1979,
+  "runtime": 80,
+  "originalTitle": "Fascination",
+  "title": {
+    "en": "Fascination",
+    "tr": "Fascination"
+  },
+  "overview": {
+    "en": "A runaway criminal breaks into an eerie chateau, taking its two frightened chambermaids hostage. As night falls, a group of mysterious aristocratic women arrive and the criminal begins to realize the women are hiding a sinister secret.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/1vzkcD8DU0youIAXJSOYKzDbQvJ.jpg",
+    "en": "/jLtZoGVeHqivNkuxhG9oov4VJpS.jpg"
+  },
+  "backdrops": [
+    "/tuMjazRIINQRGRrNMbl71ktjLVm.jpg",
+    "/j8B7BLgwHN6jRATC0b142rXaA91.jpg",
+    "/7BO85StTqs0ovw07m0O9KNpvSYk.jpg",
+    "/hHYFGjpn2JK5VBsfLXpS3DCbTWi.jpg",
+    "/ufYyQFpM1fXoFKqDbzUAvpas8Mf.jpg",
+    "/ciyrQDR4TcMw7igTjf4BTrwMpSY.jpg",
+    "/bmGubthGAPsfYAZkuLou6Tt5Dem.jpg",
+    "/ugOPX31Ztkl8yYF9JvEr2qEPTjU.jpg",
+    "/fvqg2NTsinFRo0wb79nB3idvkaP.jpg",
+    "/HbWoS1GSCZou2EnClHCyw2tBnf.jpg"
+  ],
+  "trailerKey": "hUSvyvDSxaE",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    570,
+    1664,
+    3098,
+    6158,
+    4728,
+    9727,
+    155697,
+    190370,
+    256466
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Films A.B.C."
+  ],
+  "crew": [
+    {
+      "personId": 104248,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 104249,
+      "job": "producer"
+    },
+    {
+      "personId": 104250,
+      "job": "composer"
+    },
+    {
+      "personId": 88820,
+      "job": "director"
+    },
+    {
+      "personId": 88820,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 104254,
+      "character": "Elisabeth",
+      "order": 0
+    },
+    {
+      "personId": 104255,
+      "character": "Marc",
+      "order": 1
+    },
+    {
+      "personId": 1545081,
+      "character": "Eva",
+      "order": 2
+    },
+    {
+      "personId": 104256,
+      "character": "Hélène",
+      "order": 3
+    },
+    {
+      "personId": 104108,
+      "character": "Anita",
+      "order": 4
+    },
+    {
+      "personId": 104257,
+      "character": "Sylvie",
+      "order": 5
+    },
+    {
+      "personId": 102941,
+      "character": "Dominique",
+      "order": 6
+    },
+    {
+      "personId": 104249,
+      "character": "Un Apache",
+      "order": 7
+    },
+    {
+      "personId": 104244,
+      "character": "Un Apache",
+      "order": 8
+    },
+    {
+      "personId": 104258,
+      "character": "Un Apache",
+      "order": 9
+    },
+    {
+      "personId": 4378547,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 4378553,
+      "character": "",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 121,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "tmdbId": 184892,
+  "slug": "the-phantom-empire-1935",
+  "year": 1935,
+  "runtime": 245,
+  "originalTitle": "The Phantom Empire",
+  "title": {
+    "en": "The Phantom Empire",
+    "tr": "The Phantom Empire"
+  },
+  "overview": {
+    "en": "When the ancient continent of Mu sank beneath the ocean, some of its inhabitant survived in caverns beneath the sea. Cowboy singer Gene Autry stumbles upon the civilization, now buried beneath his own Radio Ranch. The Muranians have developed technology and weaponry such as television and ray guns. Their rich supply of radium draws unscrupulous speculators from the surface. The peaceful civilization of the Muranians is corrupted by the greed from above, and it becomes Autry's task to prevent all-out war, ideally without disrupting his regular radio show.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qSngO3JT8ICqvOvgBg4zXbucDF.jpg",
+    "en": "/6i9P8PBwrPb5SsxtPBZ2nteFajL.jpg"
+  },
+  "backdrops": [
+    "/2rSw3rO4sznNmSxvtbvpvexXGot.jpg",
+    "/isyNAsADAcD76pcL9wC0QXc6m8C.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    28,
+    10402,
+    878,
+    37
+  ],
+  "keywordIds": [
+    2752,
+    10920,
+    11606,
+    14544,
+    178639,
+    179991,
+    195397
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Mascot Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 233136,
+      "job": "director"
+    },
+    {
+      "personId": 99463,
+      "job": "director"
+    },
+    {
+      "personId": 88984,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 90071,
+      "character": "Gene Autry",
+      "order": 0
+    },
+    {
+      "personId": 67370,
+      "character": "Frankie Baxter",
+      "order": 1
+    },
+    {
+      "personId": 1057675,
+      "character": "Betsy Baxter",
+      "order": 2
+    },
+    {
+      "personId": 99467,
+      "character": "Queen Tika",
+      "order": 3
+    },
+    {
+      "personId": 117646,
+      "character": "Lord Argo",
+      "order": 4
+    },
+    {
+      "personId": 132322,
+      "character": "Mal",
+      "order": 5
+    },
+    {
+      "personId": 33701,
+      "character": "Rab",
+      "order": 6
+    },
+    {
+      "personId": 1181173,
+      "character": "Prof. Beetson (as Frank Glendon)",
+      "order": 7
+    },
+    {
+      "personId": 90072,
+      "character": "Oscar (as Lester 'Smiley' Burnett)",
+      "order": 8
+    },
+    {
+      "personId": 1179784,
+      "character": "Pete (as William Moore)",
+      "order": 9
+    },
+    {
+      "personId": 13791,
+      "character": "Cooper (as Edward Piel Sr.)",
+      "order": 10
+    },
+    {
+      "personId": 948848,
+      "character": "Saunders",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 12,
+  "sources": [
+    "cult-list"
+  ]
+}

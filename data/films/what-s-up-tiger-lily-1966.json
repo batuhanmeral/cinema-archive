@@ -1,0 +1,210 @@
+{
+  "tmdbId": 21449,
+  "slug": "what-s-up-tiger-lily-1966",
+  "year": 1966,
+  "runtime": 80,
+  "originalTitle": "What's Up, Tiger Lily?",
+  "title": {
+    "en": "What's Up, Tiger Lily?",
+    "tr": "What's Up, Tiger Lily?"
+  },
+  "overview": {
+    "en": "In comic Woody Allen's film debut, he took the Japanese action film \"International Secret Police: Key of Keys\" and re-dubbed it, changing the plot to make it revolve around a secret egg salad recipe.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/XOoAcDUMeuPz2sOMsrAXcc8848.jpg",
+    "en": "/z3ABDEfhLqX09nXgp6ilKW44jAB.jpg"
+  },
+  "backdrops": [
+    "/tKZMG0k7lr9UUCLbI5EEnzMf8Dy.jpg",
+    "/odM7lE0dZh6rxaxAWfhqt1tPbib.jpg"
+  ],
+  "trailerKey": "LAcB1G439Mk",
+  "genreIds": [
+    28,
+    35
+  ],
+  "keywordIds": [
+    470,
+    11931
+  ],
+  "countries": [
+    "US",
+    "JP"
+  ],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "studios": [
+    "Benedict Pictures Corp.",
+    "American International Pictures",
+    "TOHO"
+  ],
+  "crew": [
+    {
+      "personId": 1243,
+      "job": "director"
+    },
+    {
+      "personId": 109970,
+      "job": "writer"
+    },
+    {
+      "personId": 18604,
+      "job": "producer"
+    },
+    {
+      "personId": 1243,
+      "job": "writer"
+    },
+    {
+      "personId": 30562,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1408800,
+      "job": "writer"
+    },
+    {
+      "personId": 2431875,
+      "job": "writer"
+    },
+    {
+      "personId": 2030298,
+      "job": "producer"
+    },
+    {
+      "personId": 1219447,
+      "job": "writer"
+    },
+    {
+      "personId": 79912,
+      "job": "writer"
+    },
+    {
+      "personId": 136508,
+      "job": "producer"
+    },
+    {
+      "personId": 9565,
+      "job": "writer"
+    },
+    {
+      "personId": 68936,
+      "job": "writer"
+    },
+    {
+      "personId": 87543,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13251,
+      "character": "Phil Moscowitz",
+      "order": 0
+    },
+    {
+      "personId": 10068,
+      "character": "Suki Yaki",
+      "order": 1
+    },
+    {
+      "personId": 10070,
+      "character": "Teri Yaki",
+      "order": 2
+    },
+    {
+      "personId": 87544,
+      "character": "Shepherd Wong",
+      "order": 3
+    },
+    {
+      "personId": 129509,
+      "character": "Wing Fat",
+      "order": 4
+    },
+    {
+      "personId": 1243,
+      "character": "Self / Dub Voice (voice) / Projectionist",
+      "order": 5
+    },
+    {
+      "personId": 1048469,
+      "character": "Dancer in Credits",
+      "order": 6
+    },
+    {
+      "personId": 86390,
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "personId": 1440071,
+      "character": "Self (Lead Guitarist)",
+      "order": 8
+    },
+    {
+      "personId": 2910958,
+      "character": "Self (Bassist)",
+      "order": 9
+    },
+    {
+      "personId": 2910966,
+      "character": "Self (Drummer)",
+      "order": 10
+    },
+    {
+      "personId": 79912,
+      "character": "Vocal Assist (voice)",
+      "order": 11
+    },
+    {
+      "personId": 9565,
+      "character": "Vocal Assist (voice)",
+      "order": 12
+    },
+    {
+      "personId": 109970,
+      "character": "Vocal Assist (voice)",
+      "order": 13
+    },
+    {
+      "personId": 1219447,
+      "character": "Vocal Assist (voice) / Interviewer",
+      "order": 14
+    },
+    {
+      "personId": 68936,
+      "character": "Vocal Assist (voice)",
+      "order": 15
+    },
+    {
+      "personId": 2431875,
+      "character": "Vocal Assist (voice)",
+      "order": 16
+    },
+    {
+      "personId": 227622,
+      "character": "Cobra Man",
+      "order": 17
+    },
+    {
+      "personId": 213466,
+      "character": "Bearded Wong Henchman",
+      "order": 18
+    },
+    {
+      "personId": 553430,
+      "character": "Yellow Smock",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 220,
+  "sources": [
+    "cult-list"
+  ]
+}

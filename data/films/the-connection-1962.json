@@ -1,0 +1,150 @@
+{
+  "tmdbId": 58227,
+  "slug": "the-connection-1962",
+  "year": 1962,
+  "runtime": 103,
+  "originalTitle": "The Connection",
+  "title": {
+    "en": "The Connection",
+    "tr": "The Connection"
+  },
+  "overview": {
+    "en": "Eight drug addicts are waiting for their connection in a New York apartment while a two-man documentary team films the proceedings. Things go out of control as the men grow increasingly nervous and the cameraman keeps recording.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6WXMlf7ky3zbyfHTfTEmrmj1TVc.jpg",
+    "en": "/6WXMlf7ky3zbyfHTfTEmrmj1TVc.jpg"
+  },
+  "backdrops": [
+    "/isdAapzFRHWww5tr8MRF1qyjxT2.jpg",
+    "/9HnbtDGtCSpfrchddS27E9xVbVJ.jpg",
+    "/uo0XlpMCd7gbGZ8a1S7ZwPYHOV7.jpg",
+    "/dqy7vayoKLpJwmqeqA2fZDTGFV9.jpg",
+    "/8cH7OoAmi82QzWgmAEfpMWwWwbF.jpg",
+    "/lQxYU5u18a9gelJrtR6ZvWFSnjM.jpg",
+    "/lPtzM473N16r0ohnVQY49TKUAjR.jpg",
+    "/pt3juZe7cezZVSvuTUBQGgDeXIb.jpg"
+  ],
+  "trailerKey": "frOgv6UNGiA",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    242,
+    2671,
+    1803,
+    11800,
+    11953,
+    160517,
+    187056,
+    276164,
+    336219
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 227525,
+      "job": "director"
+    },
+    {
+      "personId": 227526,
+      "job": "writer"
+    },
+    {
+      "personId": 18754,
+      "job": "producer"
+    },
+    {
+      "personId": 31501,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 227530,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 98204,
+      "character": "Leach",
+      "order": 0
+    },
+    {
+      "personId": 213840,
+      "character": "Solly",
+      "order": 1
+    },
+    {
+      "personId": 4203,
+      "character": "Ernie",
+      "order": 2
+    },
+    {
+      "personId": 88147,
+      "character": "Cowboy",
+      "order": 3
+    },
+    {
+      "personId": 227528,
+      "character": "Sister Salvation",
+      "order": 4
+    },
+    {
+      "personId": 227529,
+      "character": "Harry",
+      "order": 5
+    },
+    {
+      "personId": 24368,
+      "character": "J. J. Burden (as Roscoe Brown)",
+      "order": 6
+    },
+    {
+      "personId": 7072,
+      "character": "Jim Dunn",
+      "order": 7
+    },
+    {
+      "personId": 227530,
+      "character": "Piano Player",
+      "order": 8
+    },
+    {
+      "personId": 227531,
+      "character": "Sax Player",
+      "order": 9
+    },
+    {
+      "personId": 227532,
+      "character": "Drummer",
+      "order": 10
+    },
+    {
+      "personId": 227533,
+      "character": "Bass Player",
+      "order": 11
+    },
+    {
+      "personId": 3787,
+      "character": "Siren",
+      "order": 12
+    },
+    {
+      "personId": 2481800,
+      "character": "Sam",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 32,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "tmdbId": 1628,
+  "slug": "jules-and-jim-1962",
+  "year": 1962,
+  "runtime": 106,
+  "originalTitle": "Jules et Jim",
+  "title": {
+    "en": "Jules and Jim",
+    "tr": "Jules ve Jim"
+  },
+  "overview": {
+    "en": "In the carefree days before World War I, introverted Austrian author Jules strikes up a friendship with the exuberant Frenchman Jim and both men fall for the impulsive and beautiful Catherine.",
+    "tr": "İki erkek ve bir kadın arasındaki üç kişilik aşkın sinema tarihindeki en güzel anlatımlarından biri olan Jules ve Jim, sadece aşk değil, dostluk üzerine de sözleri olan bir film.  Yakın arkadaş olan Jules ve Jim’in hayatları, Catherine ile tanışınca bambaşka bir yöne doğru savrulur. Her ikisi de aynı kadına aşık olsa da Catherine, ilk başlarda sadece Jules’a ilgi duyar. Bildik kadın kimliğinin çok dışında bir karaktere sahip olan Catherine için hayat, alışıldık sınırların çok ötesinde bir anlam taşımaktadır. İlk zamanlardan beri Jim’in ilgisinin de farkında olan Catherine, yıllar sonra onunla da bir yakınlaşma içine girer. Catherine’i terketmeyi düşünmeyen Jules’un da varlığıyla bu unutulmaz üçlü, birlikte yaşamaya başlarlar."
+  },
+  "poster": {
+    "tr": "/kuFjZlcZhQFDtIjuI3GQJjsQG03.jpg",
+    "en": "/kuFjZlcZhQFDtIjuI3GQJjsQG03.jpg"
+  },
+  "backdrops": [
+    "/1dSopaBgvxYinmhaCOsLoZSeWD3.jpg",
+    "/o3GSSYr7AzrdcukNpQrqFEJNOjk.jpg",
+    "/7eVmxO8e003vfPKBrAaEfXhXwwm.jpg",
+    "/ruLUjqkerRsSe7agMKgQNEaBAqi.jpg",
+    "/3qjRdwRIdcumYRjR9xd8mQUoMpI.jpg",
+    "/q93nbAaRz2OxrBNbBUc8GIwqEVE.jpg",
+    "/pSidaNpxvVURDV8V78O50pMaCiC.jpg",
+    "/hCwuBhM3KQR6HbxKlT01b9tQVGe.jpg",
+    "/kqY8AQBc8UC2NF1woy0JmrsLDxN.jpg",
+    "/6L7XrNTp0A5QKKxDFPAeMsQYrcf.jpg"
+  ],
+  "trailerKey": "X9OzdWczCfQ",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    596,
+    6054,
+    549,
+    931,
+    90,
+    818,
+    128,
+    4048,
+    6038,
+    9673,
+    12999,
+    155870,
+    177044,
+    210184
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "studios": [
+    "Les Films du Carrosse",
+    "Sédif Productions (as S.E.D.I.F.)"
+  ],
+  "crew": [
+    {
+      "personId": 1650,
+      "job": "director"
+    },
+    {
+      "personId": 1650,
+      "job": "producer"
+    },
+    {
+      "personId": 3535,
+      "job": "composer"
+    },
+    {
+      "personId": 3540,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14812,
+      "character": "Catherine",
+      "order": 0
+    },
+    {
+      "personId": 18216,
+      "character": "Jules",
+      "order": 1
+    },
+    {
+      "personId": 18217,
+      "character": "Jim",
+      "order": 2
+    },
+    {
+      "personId": 18218,
+      "character": "Thérèse",
+      "order": 3
+    },
+    {
+      "personId": 18219,
+      "character": "Sabine",
+      "order": 4
+    },
+    {
+      "personId": 18220,
+      "character": "Gilberte",
+      "order": 5
+    },
+    {
+      "personId": 18221,
+      "character": "Albert",
+      "order": 6
+    },
+    {
+      "personId": 18222,
+      "character": "Lucie",
+      "order": 7
+    },
+    {
+      "personId": 24365,
+      "character": "Récitant / Narrator (voix)",
+      "order": 8
+    },
+    {
+      "personId": 2500350,
+      "character": "Le compagnon d'Albert",
+      "order": 9
+    },
+    {
+      "personId": 2500351,
+      "character": "Mathilde",
+      "order": 10
+    },
+    {
+      "personId": 35898,
+      "character": "Homme Ivre au café",
+      "order": 11
+    },
+    {
+      "personId": 18815,
+      "character": "Une des femmes",
+      "order": 12
+    },
+    {
+      "personId": 1654584,
+      "character": "Merlin",
+      "order": 13
+    },
+    {
+      "personId": 2176967,
+      "character": "Birgitta",
+      "order": 14
+    },
+    {
+      "personId": 18558,
+      "character": "Client dans Café",
+      "order": 15
+    },
+    {
+      "personId": 2500157,
+      "character": "Client dans Café",
+      "order": 16
+    },
+    {
+      "personId": 2500353,
+      "character": "Helga",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 1080,
+  "sources": [
+    "cult-list"
+  ]
+}

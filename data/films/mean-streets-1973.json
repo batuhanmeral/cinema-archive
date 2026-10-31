@@ -1,0 +1,189 @@
+{
+  "tmdbId": 203,
+  "slug": "mean-streets-1973",
+  "year": 1973,
+  "runtime": 112,
+  "originalTitle": "Mean Streets",
+  "title": {
+    "en": "Mean Streets",
+    "tr": "Arka Sokaklar"
+  },
+  "overview": {
+    "en": "A small-time hood must choose from among love, friendship and the chance to rise within the mob.",
+    "tr": "New York’ un küçük İtalyası’ ndaki bir mahalle içi barın sahipleri olan Tony ve Michael için gelecek parlaktır, fakat Charlie için aynı şey geçerli değildir. Charlie, amcası için çalışmaktadır ve onunla da sevgilisi epilepsi olduğundan dolayı sorunlar yaşar. Aynı zamanda sevgilisi sayesinde tanıştığı Johnny Boy amcasına sorun çıkaran, güvenilmez. Charlie’nin amcası Giovanni, ona ilk adım olarak bir restaurant işletmeyi teklif ettiğinde, Charlie güç sahibi olma arzusu, aşkı Teresa ve Johnny Boy’u koruma arasında tercih yapmaya zorlanır."
+  },
+  "poster": {
+    "tr": "/9msfwOeGc9uL1iRRTBdEf15XonC.jpg",
+    "en": "/2t6RrPFGJjeKvI02OhKAg75bQUI.jpg"
+  },
+  "backdrops": [
+    "/qdecDSIVoqctIoYoOhLH3TgSYLD.jpg",
+    "/iezr93fyrP7ZuJKWmHDXOzyvJIe.jpg",
+    "/WiiLlUc2FYa0kTmGwFoL6vw0gv.jpg",
+    "/QBb91Qr4TbBq0t3F5A4XU3Uwaj.jpg",
+    "/iRoXulumL5AQHtjLZoUNHzY4IcV.jpg",
+    "/vzeY6RhXRFtybPQpeqEGLxZuADZ.jpg",
+    "/lgI41QB5g5wqEgVKvWurTIR1Tzc.jpg",
+    "/sKyj7i4NPPZCRBea1W5AbTchox9.jpg",
+    "/6BFb3oqmbDAaS0A6vm5ZcvRQsui.jpg",
+    "/67wnCEO924khdR4lnGoFHY8S1Hk.jpg"
+  ],
+  "trailerKey": "g9xHpS10CZ0",
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    7879,
+    700,
+    3149,
+    2236,
+    1944,
+    11436,
+    10594,
+    156085,
+    161207,
+    168346,
+    269808,
+    325849
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Taplin-Perry-Scorsese Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1032,
+      "job": "director"
+    },
+    {
+      "personId": 2553,
+      "job": "producer"
+    },
+    {
+      "personId": 1032,
+      "job": "writer"
+    },
+    {
+      "personId": 2554,
+      "job": "writer"
+    },
+    {
+      "personId": 2583,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 380,
+      "character": "John 'Johnny Boy' Civello",
+      "order": 0
+    },
+    {
+      "personId": 1037,
+      "character": "Charlie Cappa",
+      "order": 1
+    },
+    {
+      "personId": 2555,
+      "character": "Tony DeVienazo",
+      "order": 2
+    },
+    {
+      "personId": 2556,
+      "character": "Teresa Ronchelli",
+      "order": 3
+    },
+    {
+      "personId": 2557,
+      "character": "Michael Longo",
+      "order": 4
+    },
+    {
+      "personId": 2558,
+      "character": "Giovanni Cappa",
+      "order": 5
+    },
+    {
+      "personId": 2561,
+      "character": "Mario",
+      "order": 6
+    },
+    {
+      "personId": 2563,
+      "character": "Joey 'Clams' Scala",
+      "order": 7
+    },
+    {
+      "personId": 2564,
+      "character": "Jimmy",
+      "order": 8
+    },
+    {
+      "personId": 2575,
+      "character": "Diane",
+      "order": 9
+    },
+    {
+      "personId": 77255,
+      "character": "Oscar",
+      "order": 10
+    },
+    {
+      "personId": 141,
+      "character": "Drunk",
+      "order": 11
+    },
+    {
+      "personId": 62036,
+      "character": "Boy With Gun",
+      "order": 12
+    },
+    {
+      "personId": 1744186,
+      "character": "Jewish Girl",
+      "order": 13
+    },
+    {
+      "personId": 127738,
+      "character": "Soldier",
+      "order": 14
+    },
+    {
+      "personId": 1973915,
+      "character": "Old Man",
+      "order": 15
+    },
+    {
+      "personId": 160510,
+      "character": "Cop",
+      "order": 16
+    },
+    {
+      "personId": 1973916,
+      "character": "George",
+      "order": 17
+    },
+    {
+      "personId": 100627,
+      "character": "Girl At Party",
+      "order": 18
+    },
+    {
+      "personId": 1973831,
+      "character": "Benton",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2386,
+  "sources": [
+    "cult-list"
+  ]
+}

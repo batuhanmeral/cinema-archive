@@ -1,0 +1,200 @@
+{
+  "tmdbId": 12163,
+  "slug": "the-wrestler-2008",
+  "year": 2008,
+  "runtime": 109,
+  "originalTitle": "The Wrestler",
+  "title": {
+    "en": "The Wrestler",
+    "tr": "Şampiyon"
+  },
+  "overview": {
+    "en": "Aging wrestler Randy \"The Ram\" Robinson is long past his prime but still ready and rarin' to go on the pro-wrestling circuit. After a particularly brutal beating, however, Randy hangs up his tights, pursues a serious relationship with a long-in-the-tooth stripper, and tries to reconnect with his estranged daughter. But he can't resist the lure of the ring and readies himself for a comeback.",
+    "tr": "Randy, artık okul ve müsamere salonlarında dövüşerek geçinmeye çalışmaktadır. Özel hayatında başarısız, kızıyla arası kopuk bir adamdır. Hayranlarının sevgisiyle hayata tutunur.Bir karşılaşma esnasında kalp krizi geçirince, doktoru bir daha güreşmemesi gerektiğini söyler. Tezgâhtar olarak işe girer, kızıyla ilişkisini düzeltmeye başlar. Ancak bir süre sonra ringe geri dönmeye karar verir."
+  },
+  "poster": {
+    "tr": "/rCjMch63QpJJjIS8PhpOXmOPtx0.jpg",
+    "en": "/6OTR8dSoNGjWohJNo3UhIGd3Tj.jpg"
+  },
+  "backdrops": [
+    "/wcJmFsz8RqIhozMwvU81hreTX4i.jpg",
+    "/nEopmfOxj1BLGuwWUWb6SoJM33p.jpg",
+    "/r8j7HzlIRbMxIhDBggk6nuhUkrP.jpg",
+    "/rXMtph6I8lcyMWO6WVsHarjGjc6.jpg",
+    "/axGv8ylxVqRPdOiAX0RSeBC8PIH.jpg",
+    "/bqYsntp3NTBOduc7flC7HtdXDWJ.jpg",
+    "/1V9e7w20zndot9BAHrMmcHjzPtg.jpg",
+    "/7baljvowCcr1G35aalGOBnprTO0.jpg",
+    "/dQTtTxtf1cI9M0xxVITYXMC8NPz.jpg",
+    "/b32kxVvPYSmYAUDMuvoNtl53sHU.jpg"
+  ],
+  "trailerKey": "qjhGZhRJ3j0",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    5600,
+    586,
+    1545,
+    1786,
+    11436,
+    3734,
+    11246,
+    6593,
+    10155,
+    10232,
+    206441,
+    225219,
+    301556,
+    311315,
+    325790
+  ],
+  "countries": [
+    "US",
+    "FR"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Wild Bunch",
+    "Top Rope",
+    "Saturn Films"
+  ],
+  "crew": [
+    {
+      "personId": 6431,
+      "job": "director"
+    },
+    {
+      "personId": 6377,
+      "job": "composer"
+    },
+    {
+      "personId": 1116091,
+      "job": "producer"
+    },
+    {
+      "personId": 6431,
+      "job": "producer"
+    },
+    {
+      "personId": 33678,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 103041,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2295,
+      "character": "Randy",
+      "order": 0
+    },
+    {
+      "personId": 3141,
+      "character": "Cassidy",
+      "order": 1
+    },
+    {
+      "personId": 38940,
+      "character": "Stephanie",
+      "order": 2
+    },
+    {
+      "personId": 1173,
+      "character": "Lenny",
+      "order": 3
+    },
+    {
+      "personId": 176031,
+      "character": "Wayne",
+      "order": 4
+    },
+    {
+      "personId": 19490,
+      "character": "Nick Volpe",
+      "order": 5
+    },
+    {
+      "personId": 52860,
+      "character": "Scott Brumberg",
+      "order": 6
+    },
+    {
+      "personId": 1216224,
+      "character": "The Ayatollah",
+      "order": 7
+    },
+    {
+      "personId": 83213,
+      "character": "Necro Butcher",
+      "order": 8
+    },
+    {
+      "personId": 2171546,
+      "character": "Tommy Rotten",
+      "order": 9
+    },
+    {
+      "personId": 1758492,
+      "character": "Lex Lethal",
+      "order": 10
+    },
+    {
+      "personId": 14548,
+      "character": "Admissions Desk Woman",
+      "order": 11
+    },
+    {
+      "personId": 1056523,
+      "character": "Adam",
+      "order": 12
+    },
+    {
+      "personId": 1982,
+      "character": "Medic",
+      "order": 13
+    },
+    {
+      "personId": 122545,
+      "character": "JAPW Promoter Larry Cohen",
+      "order": 14
+    },
+    {
+      "personId": 2171548,
+      "character": "Greg",
+      "order": 15
+    },
+    {
+      "personId": 2171549,
+      "character": "Spotter",
+      "order": 16
+    },
+    {
+      "personId": 1326471,
+      "character": "Jen",
+      "order": 17
+    },
+    {
+      "personId": 1707702,
+      "character": "Alyssa",
+      "order": 18
+    },
+    {
+      "personId": 1122855,
+      "character": "Dr. Moayedizadeh",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "venice": 1
+  },
+  "voteCount": 4180,
+  "sources": [
+    "cult-list"
+  ]
+}

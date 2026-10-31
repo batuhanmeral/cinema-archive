@@ -1,0 +1,187 @@
+{
+  "tmdbId": 16093,
+  "slug": "carnival-of-souls-1962",
+  "year": 1962,
+  "runtime": 78,
+  "originalTitle": "Carnival of Souls",
+  "title": {
+    "en": "Carnival of Souls",
+    "tr": "Carnival of Souls"
+  },
+  "overview": {
+    "en": "Mary Henry ends up the sole survivor of a fatal car accident through mysterious circumstances. Trying to put the incident behind her, she moves to Utah and takes a job as a church organist. But her fresh start is interrupted by visions of a fiendish man. As the visions begin to occur more frequently, Mary finds herself drawn to the deserted carnival on the outskirts of town. The strangely alluring carnival may hold the secret to her tragic past.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/AdbQsFB8pS090l0NO3uBtLZy2zw.jpg",
+    "en": "/AdbQsFB8pS090l0NO3uBtLZy2zw.jpg"
+  },
+  "backdrops": [
+    "/zCGwFjnd1KQxWTt7YeLcMHg8iJ8.jpg",
+    "/esIoQw7VaykfHsw6fx2VltZ1R7U.jpg",
+    "/42Qw609wFkUFLlNHTHp4zyDFGS9.jpg",
+    "/4zOsKSfb7wCiaLEUsgBhBR7IiQd.jpg",
+    "/PkrrBYfUR4Z3Fojwo6nECH81H2.jpg",
+    "/lpBwmaDedjCfdT972EU2jRvLkWD.jpg",
+    "/10GgQbm5Nje6m8DyYQYYcxl9ucd.jpg",
+    "/kQ3eBZljMl4vqvAGekXg51XpoE2.jpg",
+    "/rhBpGXKZGC1AFtKkfrLm0IqhPjj.jpg",
+    "/emwC2yv88NzABoT2GUQLKa6SZCX.jpg"
+  ],
+  "trailerKey": "uDMkgcKas3U",
+  "genreIds": [
+    27,
+    9648,
+    14
+  ],
+  "keywordIds": [
+    4572,
+    9844,
+    11034,
+    11322,
+    41395,
+    164218,
+    188709,
+    253857,
+    292634
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Harcourt Productions",
+    "Centron Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 79294,
+      "job": "director"
+    },
+    {
+      "personId": 79294,
+      "job": "producer"
+    },
+    {
+      "personId": 79295,
+      "job": "writer"
+    },
+    {
+      "personId": 79296,
+      "job": "composer"
+    },
+    {
+      "personId": 79297,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 79298,
+      "character": "Mary Henry",
+      "order": 0
+    },
+    {
+      "personId": 79294,
+      "character": "The Man",
+      "order": 1
+    },
+    {
+      "personId": 79300,
+      "character": "John Linden",
+      "order": 2
+    },
+    {
+      "personId": 79299,
+      "character": "Mrs. Thomas",
+      "order": 3
+    },
+    {
+      "personId": 79301,
+      "character": "Minister",
+      "order": 4
+    },
+    {
+      "personId": 79302,
+      "character": "Dr. Samuels",
+      "order": 5
+    },
+    {
+      "personId": 79303,
+      "character": "Organ Factory Boss",
+      "order": 6
+    },
+    {
+      "personId": 79304,
+      "character": "Organ Factory Worker",
+      "order": 7
+    },
+    {
+      "personId": 79305,
+      "character": "Gas Station Attendant",
+      "order": 8
+    },
+    {
+      "personId": 79306,
+      "character": "Mechanic",
+      "order": 9
+    },
+    {
+      "personId": 79307,
+      "character": "Chip the Man at Juke Box",
+      "order": 10
+    },
+    {
+      "personId": 79308,
+      "character": "Dress Sales Lady",
+      "order": 11
+    },
+    {
+      "personId": 79309,
+      "character": "Drag Racer",
+      "order": 12
+    },
+    {
+      "personId": 79310,
+      "character": "Lake Zombie",
+      "order": 13
+    },
+    {
+      "personId": 79311,
+      "character": "Dress Store Customer",
+      "order": 14
+    },
+    {
+      "personId": 79312,
+      "character": "Dancing Zombie",
+      "order": 15
+    },
+    {
+      "personId": 79313,
+      "character": "Mary's Girlfriend",
+      "order": 16
+    },
+    {
+      "personId": 79314,
+      "character": "Mary's Girlfriend",
+      "order": 17
+    },
+    {
+      "personId": 79315,
+      "character": "A Walking Corpse",
+      "order": 18
+    },
+    {
+      "personId": 79316,
+      "character": "Lake Zombie",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 566,
+  "sources": [
+    "cult-list"
+  ]
+}

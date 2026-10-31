@@ -1,0 +1,224 @@
+{
+  "tmdbId": 1018,
+  "slug": "mulholland-drive-2001",
+  "year": 2001,
+  "runtime": 147,
+  "originalTitle": "Mulholland Drive",
+  "title": {
+    "en": "Mulholland Drive",
+    "tr": "Mulholland Çıkmazı"
+  },
+  "overview": {
+    "en": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
+    "tr": "Betty Elms, ünlü bir oyuncu olabilmek umuduyla geldiği Los Angeles'ta, Kanada'ya taşınmaya karar veren teyzesinin yaşadığı apartman dairesine taşınır. Daireye yerleşmek için geldiğinde bir trafik kazası geçiren ve hafızasını kaybettiği için orada saklanan Rita'yı bulur. Betty kendisi ile ilgili her şeyi unutmuş bu kadına yardım etmeye karar verir. Bilinç ve bilinçaltı birbirlerine karışır. Bütün bu hayatlar birbirine girer."
+  },
+  "poster": {
+    "tr": "/dlb343fQkqHDJMD2XxHPYaqmp94.jpg",
+    "en": "/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg"
+  },
+  "backdrops": [
+    "/1P4vCGTvJc13VxejbRLbHA1dT6f.jpg",
+    "/91KNvuQXrWq5vehtQpciCOiOyJe.jpg",
+    "/g9ClaS5EqU0Hk8WIbMNhld0Bk6f.jpg",
+    "/y1giivdsGLyo1LCvlsL6mLKyTZ7.jpg",
+    "/9lCoifiRqJIP8gFyGTIjShWtHxA.jpg",
+    "/dyAcWOiBn0AOq1p7U2LMTZ8TZdo.jpg",
+    "/4dZoc24v0cDgg5vbhqxqtQVatiw.jpg",
+    "/A5n963lCjuVhiCHtBLTxMz1KgCF.jpg",
+    "/fIG5LhkKzPWhXGizcw6ciGWwWXO.jpg",
+    "/iXm8ayb38ySVx5vGPPJovEr6dkI.jpg"
+  ],
+  "trailerKey": "3oa64ktrwKY",
+  "genreIds": [
+    53,
+    18,
+    9648
+  ],
+  "keywordIds": [
+    1453,
+    1565,
+    222,
+    3030,
+    2708,
+    1660,
+    1284,
+    2849,
+    703,
+    3489,
+    3183,
+    2754,
+    3298,
+    3307,
+    9887,
+    4623,
+    12396,
+    12670,
+    13063,
+    33928,
+    158718,
+    161891,
+    207268,
+    325773,
+    325775
+  ],
+  "countries": [
+    "FR",
+    "US"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ],
+  "studios": [
+    "StudioCanal",
+    "Les Films Alain Sarde",
+    "Asymmetrical Productions"
+  ],
+  "crew": [
+    {
+      "personId": 41621,
+      "job": "producer"
+    },
+    {
+      "personId": 5604,
+      "job": "producer"
+    },
+    {
+      "personId": 5602,
+      "job": "director"
+    },
+    {
+      "personId": 5625,
+      "job": "producer"
+    },
+    {
+      "personId": 5626,
+      "job": "producer"
+    },
+    {
+      "personId": 9573,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5602,
+      "job": "writer"
+    },
+    {
+      "personId": 3560,
+      "job": "producer"
+    },
+    {
+      "personId": 5628,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3489,
+      "character": "Betty Elms / Diane Selwyn",
+      "order": 0
+    },
+    {
+      "personId": 15007,
+      "character": "Rita / Camilla Rhodes",
+      "order": 1
+    },
+    {
+      "personId": 15009,
+      "character": "Adam",
+      "order": 2
+    },
+    {
+      "personId": 15008,
+      "character": "Coco",
+      "order": 3
+    },
+    {
+      "personId": 1236,
+      "character": "Joe",
+      "order": 4
+    },
+    {
+      "personId": 5694,
+      "character": "Detective McKnight",
+      "order": 5
+    },
+    {
+      "personId": 6486,
+      "character": "Vincenzo Castigliane",
+      "order": 6
+    },
+    {
+      "personId": 5628,
+      "character": "Luigi Castigliane",
+      "order": 7
+    },
+    {
+      "personId": 52801,
+      "character": "Dan",
+      "order": 8
+    },
+    {
+      "personId": 15011,
+      "character": "Detective Domgaard",
+      "order": 9
+    },
+    {
+      "personId": 1172388,
+      "character": "Herb",
+      "order": 10
+    },
+    {
+      "personId": 6589,
+      "character": "Cowboy",
+      "order": 11
+    },
+    {
+      "personId": 30123,
+      "character": "Louise",
+      "order": 12
+    },
+    {
+      "personId": 14852,
+      "character": "Wally Brown",
+      "order": 13
+    },
+    {
+      "personId": 15013,
+      "character": "Jimmy Katz",
+      "order": 14
+    },
+    {
+      "personId": 27755,
+      "character": "Camilla Rhodes",
+      "order": 15
+    },
+    {
+      "personId": 9306,
+      "character": "Wilkins",
+      "order": 16
+    },
+    {
+      "personId": 1172399,
+      "character": "The Magician",
+      "order": 17
+    },
+    {
+      "personId": 230725,
+      "character": "Rebekah Del Rio",
+      "order": 18
+    },
+    {
+      "personId": 14796,
+      "character": "Irene",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cesar": 1
+  },
+  "voteCount": 7390,
+  "sources": [
+    "cult-list"
+  ]
+}

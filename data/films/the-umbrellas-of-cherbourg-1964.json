@@ -1,0 +1,200 @@
+{
+  "tmdbId": 5967,
+  "slug": "the-umbrellas-of-cherbourg-1964",
+  "year": 1964,
+  "runtime": 93,
+  "originalTitle": "Les Parapluies de Cherbourg",
+  "title": {
+    "en": "The Umbrellas of Cherbourg",
+    "tr": "Cherbourg Şemsiyeleri"
+  },
+  "overview": {
+    "en": "This simple romantic tragedy begins in 1957. Guy Foucher, a 20-year-old French auto mechanic, has fallen in love with 17-year-old Geneviève Emery, an employee in her widowed mother's chic but financially embattled umbrella shop. On the evening before Guy is to leave for a two-year tour of combat in Algeria, he and Geneviève make love. She becomes pregnant and must choose between waiting for Guy's return or accepting an offer of marriage from a wealthy diamond merchant.",
+    "tr": "Madame Emery ve kızı Geneviève Fransa'nın Normandiya bölgesinde küçük bir liman şehri olan Cherbourg'da küçük bir butikte şemsiye satarak geçinmektedirler. Film 1957 yılında 17 yaşındaki Geneviève ile 20 yaşındaki oto tamircisi Guy Foucher'nin birbirlerine aşık olmaları ile başlar. Çift evlilik planları yaparken Guy'ın annesi buna karşı gelir. Bir süre sonra askere alınan Guy Cezayir'e savaşa gönderilir. Guy uzakta iken hamile kaldığını öğrenen Geneviève zengin bir kuyumcu olan Roland Cassard'ın evlilik teklifini kabul etmek zorunda kalır. Yaralandığı için erken terhis edilen Guy, Cherbourg'a döndüğünde Geneviève'in gitmiş olduğunu görür."
+  },
+  "poster": {
+    "tr": "/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg",
+    "en": "/jgB88XoKb3uOPPvGKNuE9wuaxDE.jpg"
+  },
+  "backdrops": [
+    "/czfbhgM0cjFqPt4ARofDKgRHCyj.jpg",
+    "/m1Gei9O5GfLoJHQjBaxWBSkXX2y.jpg",
+    "/wVoGdV7PGc9vs0udN2FxnCJpoqz.jpg",
+    "/6gNMoldYYahTNxfvn0DAFlUXe1.jpg",
+    "/atg0xmEVJPpQYFiY6ks29dZh3XV.jpg",
+    "/bNclGMHMM7d9jL0vGrVZ8N9wMX3.jpg",
+    "/aNjpDdvk066AIsUbp0PUkD5hQrW.jpg",
+    "/fHqrwMa9LyLhz7rAATSB4guc3eO.jpg",
+    "/nPsJCdLgqZt5lxvsyby3pO69KTM.jpg",
+    "/6QzWqoPBXMX3RCFgsSZttWOOVTr.jpg"
+  ],
+  "trailerKey": "7H-fl3njp5s",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    3296,
+    3344,
+    4299,
+    4344,
+    9457,
+    41277,
+    208611,
+    208992,
+    211659,
+    291823,
+    325804
+  ],
+  "countries": [
+    "FR",
+    "DE"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Parc Film",
+    "Madeleine Films",
+    "Beta Film"
+  ],
+  "crew": [
+    {
+      "personId": 24882,
+      "job": "director"
+    },
+    {
+      "personId": 19086,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 26013,
+      "job": "producer"
+    },
+    {
+      "personId": 26011,
+      "job": "producer"
+    },
+    {
+      "personId": 10934,
+      "job": "composer"
+    },
+    {
+      "personId": 24882,
+      "job": "writer"
+    },
+    {
+      "personId": 2496434,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 50,
+      "character": "Geneviève Emery",
+      "order": 0
+    },
+    {
+      "personId": 5476,
+      "character": "Guy Foucher",
+      "order": 1
+    },
+    {
+      "personId": 28608,
+      "character": "Madame Emery",
+      "order": 2
+    },
+    {
+      "personId": 46935,
+      "character": "Tante Élise",
+      "order": 3
+    },
+    {
+      "personId": 46936,
+      "character": "Roland Cassard",
+      "order": 4
+    },
+    {
+      "personId": 46937,
+      "character": "Madeleine",
+      "order": 5
+    },
+    {
+      "personId": 18767,
+      "character": "Aubin",
+      "order": 6
+    },
+    {
+      "personId": 46939,
+      "character": "Jean",
+      "order": 7
+    },
+    {
+      "personId": 582145,
+      "character": "Monsieur Dubourg",
+      "order": 8
+    },
+    {
+      "personId": 46938,
+      "character": "Bernard",
+      "order": 9
+    },
+    {
+      "personId": 2496411,
+      "character": "Gas Station Apprentice",
+      "order": 10
+    },
+    {
+      "personId": 2232450,
+      "character": "Umbrella Buyer",
+      "order": 11
+    },
+    {
+      "personId": 18812,
+      "character": "Garage Customer in 1957",
+      "order": 12
+    },
+    {
+      "personId": 1151713,
+      "character": "Girl in Cafe",
+      "order": 13
+    },
+    {
+      "personId": 2496413,
+      "character": "Ginny",
+      "order": 14
+    },
+    {
+      "personId": 2496414,
+      "character": "Geneviève Emery (singing voice)",
+      "order": 15
+    },
+    {
+      "personId": 1446351,
+      "character": "Guy Foucher (singing voice)",
+      "order": 16
+    },
+    {
+      "personId": 2358597,
+      "character": "Madame Emery (singing voice)",
+      "order": 17
+    },
+    {
+      "personId": 1366656,
+      "character": "Roland Cassard (singing voice)",
+      "order": 18
+    },
+    {
+      "personId": 2496415,
+      "character": "Madeleine (singing voice, as C. Meunier)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cannes": 1
+  },
+  "voteCount": 921,
+  "sources": [
+    "cult-list"
+  ]
+}

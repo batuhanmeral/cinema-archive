@@ -1,0 +1,215 @@
+{
+  "tmdbId": 480,
+  "slug": "monsoon-wedding-2001",
+  "year": 2001,
+  "runtime": 114,
+  "originalTitle": "Monsoon Wedding",
+  "title": {
+    "en": "Monsoon Wedding",
+    "tr": "Muson Düğünü"
+  },
+  "overview": {
+    "en": "A stressed father, a bride-to-be with a secret, a smitten event planner, and relatives from around the world create much ado about the preparations for an arranged marriage in India.",
+    "tr": "Verma Ailesi hayatını Yeni Delhi'de sürdürmektedir. Kızları olan Aditi'yi Amerikalı aile dostlarının hali vakti yerinde oğlu Hemant ile evlendirmenin planlarını yapmaktadırlar. Genç kız ilk başta bu formülize evlendirme yöntemini yanlış bulmaktadır ancak hayatını düzene sokmak için ailesinin bu tercihini kabul eder. Düğün hazırlıkları bitmek üzeredir ve bütün uzak dostlar düğün için gelmeye başlarlar. Aditi'nin kuzeni olan Ria'nın ise içerisinde sakladığı bambaşka bir dünyası vardır."
+  },
+  "poster": {
+    "tr": "/vCwkv7tYFem0tQ9Duoq2MX7T7Zd.jpg",
+    "en": "/vCwkv7tYFem0tQ9Duoq2MX7T7Zd.jpg"
+  },
+  "backdrops": [
+    "/bEkGHeIZYtULSgEvyjIbGHnMqgf.jpg",
+    "/67hLUIzxLS04ZNJalxmVO0ehi78.jpg",
+    "/gGi0WvIVoep7huiczZg5vmX7dhC.jpg",
+    "/aBIhhjTPSFJwK3frv8YYP9r6LvE.jpg",
+    "/wCaxsxTB2wUEEpxlrwwOQjAD9Fb.jpg",
+    "/zXUf6CxrXWM1lgfBob4hTJMPzXL.jpg",
+    "/5SrHzcTXUznnj7WopTidPeicS1z.jpg",
+    "/nYej88NnOXdVeHXufMOQiS9siIm.jpg",
+    "/uT2gCTaL4kPFoAl7Me757l3GlVi.jpg",
+    "/fbDXKM4S1Tbfs49Yecej1i7HDDm.jpg"
+  ],
+  "trailerKey": "sjQjw-UyAX0",
+  "genreIds": [
+    35,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    596,
+    516,
+    2692,
+    2387,
+    12279,
+    13027,
+    18093,
+    187056,
+    193549,
+    196904,
+    210782,
+    215295,
+    220451,
+    220453,
+    220487,
+    270438,
+    280879,
+    284397,
+    287476,
+    315052,
+    324429,
+    324869
+  ],
+  "countries": [
+    "US",
+    "FR",
+    "DE",
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "hi"
+  ],
+  "studios": [
+    "IFC Productions",
+    "Mirabai Films",
+    "Key Film Productions"
+  ],
+  "crew": [
+    {
+      "personId": 6495,
+      "job": "director"
+    },
+    {
+      "personId": 6117,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6496,
+      "job": "writer"
+    },
+    {
+      "personId": 5356,
+      "job": "producer"
+    },
+    {
+      "personId": 6514,
+      "job": "producer"
+    },
+    {
+      "personId": 5359,
+      "job": "composer"
+    },
+    {
+      "personId": 6495,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6497,
+      "character": "Lalit Verma",
+      "order": 0
+    },
+    {
+      "personId": 6498,
+      "character": "Pimmi Verma",
+      "order": 1
+    },
+    {
+      "personId": 120430,
+      "character": "Ria Verma",
+      "order": 2
+    },
+    {
+      "personId": 6502,
+      "character": "Aditi Verma",
+      "order": 3
+    },
+    {
+      "personId": 6503,
+      "character": "Hemant Rai",
+      "order": 4
+    },
+    {
+      "personId": 6500,
+      "character": "P.K. Dubey",
+      "order": 5
+    },
+    {
+      "personId": 6501,
+      "character": "Alice",
+      "order": 6
+    },
+    {
+      "personId": 53377,
+      "character": "C. L. Chadha",
+      "order": 7
+    },
+    {
+      "personId": 2671097,
+      "character": "Shashi Chadha",
+      "order": 8
+    },
+    {
+      "personId": 6519,
+      "character": "Rahul Chadha",
+      "order": 9
+    },
+    {
+      "personId": 78922,
+      "character": "Tej Puri",
+      "order": 10
+    },
+    {
+      "personId": 6516,
+      "character": "Ayesha Verma",
+      "order": 11
+    },
+    {
+      "personId": 6518,
+      "character": "Varun Verma",
+      "order": 12
+    },
+    {
+      "personId": 693,
+      "character": "Mohan Rai",
+      "order": 13
+    },
+    {
+      "personId": 6520,
+      "character": "Saroj Rai",
+      "order": 14
+    },
+    {
+      "personId": 6515,
+      "character": "Vikram Mehta",
+      "order": 15
+    },
+    {
+      "personId": 35815,
+      "character": "Umang Chadha",
+      "order": 16
+    },
+    {
+      "personId": 956782,
+      "character": "Sona Verma",
+      "order": 17
+    },
+    {
+      "personId": 6517,
+      "character": "Aliya Verma",
+      "order": 18
+    },
+    {
+      "personId": 1108337,
+      "character": "Uday Verma",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "venice": 1
+  },
+  "voteCount": 229,
+  "sources": [
+    "cult-list"
+  ]
+}

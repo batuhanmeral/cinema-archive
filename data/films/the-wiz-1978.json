@@ -1,0 +1,194 @@
+{
+  "tmdbId": 24961,
+  "slug": "the-wiz-1978",
+  "year": 1978,
+  "runtime": 134,
+  "originalTitle": "The Wiz",
+  "title": {
+    "en": "The Wiz",
+    "tr": "The Wiz"
+  },
+  "overview": {
+    "en": "Dorothy Gale, a shy kindergarten teacher, is swept away to the magic land of Oz where she embarks on a quest to return home.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg",
+    "en": "/rgfB8hBRSwbEb0SK7pt9mW9jsyP.jpg"
+  },
+  "backdrops": [
+    "/4CILG3fepXV2niGGp8XIJHDDOHZ.jpg",
+    "/9MPp7ItBHrxAPw4V4jq79L18YhD.jpg",
+    "/4Cu9bcXrqKlU89OGGyEch888F4H.jpg",
+    "/bYq3ZWeYK7tYDdwDtxELvn4L1o9.jpg",
+    "/cH6IzGklC99uANcb3eflR1TG2fq.jpg",
+    "/w94RZ1drihdy91hSVd4Fr69BZV0.jpg",
+    "/b6rlXj7shaWUrNmmDzll8kVBya5.jpg",
+    "/7cPqgjTnnDDbbR1DMRvLp51JBfP.jpg",
+    "/W2VwdRaGrH4TOQQZ8eez261rSF.jpg",
+    "/35JCkvLd7cfTmPgrRYGs0zJsEun.jpg"
+  ],
+  "trailerKey": "6lAEKXV7O4c",
+  "genreIds": [
+    14,
+    10751,
+    12
+  ],
+  "keywordIds": [
+    242,
+    1566,
+    4232,
+    4344,
+    10181,
+    15162,
+    155490,
+    165317,
+    177912,
+    189920,
+    207539,
+    256015,
+    324713,
+    325785,
+    325814,
+    325832,
+    338548
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Motown Productions"
+  ],
+  "crew": [
+    {
+      "personId": 39996,
+      "job": "director"
+    },
+    {
+      "personId": 5572,
+      "job": "writer"
+    },
+    {
+      "personId": 18878,
+      "job": "producer"
+    },
+    {
+      "personId": 168239,
+      "job": "composer"
+    },
+    {
+      "personId": 10339,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32715,
+      "character": "Dorothy",
+      "order": 0
+    },
+    {
+      "personId": 82702,
+      "character": "Scarecrow",
+      "order": 1
+    },
+    {
+      "personId": 92899,
+      "character": "Tinman",
+      "order": 2
+    },
+    {
+      "personId": 57357,
+      "character": "Lion",
+      "order": 3
+    },
+    {
+      "personId": 52031,
+      "character": "Evillene",
+      "order": 4
+    },
+    {
+      "personId": 77226,
+      "character": "Aunt Em",
+      "order": 5
+    },
+    {
+      "personId": 937441,
+      "character": "Miss One",
+      "order": 6
+    },
+    {
+      "personId": 92900,
+      "character": "Glinda the Good",
+      "order": 7
+    },
+    {
+      "personId": 9309,
+      "character": "The Wiz",
+      "order": 8
+    },
+    {
+      "personId": 937442,
+      "character": "Uncle Henry",
+      "order": 9
+    },
+    {
+      "personId": 3094138,
+      "character": "Subway Peddler",
+      "order": 10
+    },
+    {
+      "personId": 5280412,
+      "character": "Crow",
+      "order": 11
+    },
+    {
+      "personId": 5280414,
+      "character": "Crow",
+      "order": 12
+    },
+    {
+      "personId": 1817621,
+      "character": "Crow",
+      "order": 13
+    },
+    {
+      "personId": 3959501,
+      "character": "Crow",
+      "order": 14
+    },
+    {
+      "personId": 1089554,
+      "character": "Gold Footman",
+      "order": 15
+    },
+    {
+      "personId": 90199,
+      "character": "Gold Footman",
+      "order": 16
+    },
+    {
+      "personId": 1594105,
+      "character": "Green Footman",
+      "order": 17
+    },
+    {
+      "personId": 5280417,
+      "character": "Green Footman",
+      "order": 18
+    },
+    {
+      "personId": 2496701,
+      "character": "Head Winkie",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 337,
+  "sources": [
+    "cult-list"
+  ]
+}

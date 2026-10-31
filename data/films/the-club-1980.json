@@ -1,0 +1,120 @@
+{
+  "tmdbId": 38920,
+  "slug": "the-club-1980",
+  "year": 1980,
+  "runtime": 96,
+  "originalTitle": "The Club",
+  "title": {
+    "en": "The Club",
+    "tr": "The Club"
+  },
+  "overview": {
+    "en": "The club buys a talented young player, Geoff, for a record sum of money. The team members do not like their new star and friction develops immediately. Game after game is lost until Geoff begins to realize that there is more at stake than just his own career.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/cg3WeX4Fq9Ide76xSd0NR7WODGI.jpg",
+    "en": "/cg3WeX4Fq9Ide76xSd0NR7WODGI.jpg"
+  },
+  "backdrops": [
+    "/s4IECqMbpnR9oTl1ZZMunxlUkqF.jpg"
+  ],
+  "trailerKey": "MV1xIDOrFCo",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    6075,
+    193761
+  ],
+  "countries": [
+    "AU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New South Wales Film Corp.",
+    "South Australian Film Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 5696,
+      "job": "director"
+    },
+    {
+      "personId": 121634,
+      "job": "writer"
+    },
+    {
+      "personId": 61897,
+      "job": "producer"
+    },
+    {
+      "personId": 1777489,
+      "job": "composer"
+    },
+    {
+      "personId": 1095,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12536,
+      "character": "Laurie Holden",
+      "order": 0
+    },
+    {
+      "personId": 121635,
+      "character": "Ted Parker",
+      "order": 1
+    },
+    {
+      "personId": 75403,
+      "character": "Jock Reily",
+      "order": 2
+    },
+    {
+      "personId": 102603,
+      "character": "Geoff Hayward",
+      "order": 3
+    },
+    {
+      "personId": 70755,
+      "character": "Danny Rowe",
+      "order": 4
+    },
+    {
+      "personId": 75398,
+      "character": "Gerry Cooper",
+      "order": 5
+    },
+    {
+      "personId": 1777490,
+      "character": "Susy",
+      "order": 6
+    },
+    {
+      "personId": 1714643,
+      "character": "Commentator",
+      "order": 7
+    },
+    {
+      "personId": 5645088,
+      "character": "Himself",
+      "order": 8
+    },
+    {
+      "personId": 5662794,
+      "character": "Tank O’Donohue",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 20,
+  "sources": [
+    "cult-list"
+  ]
+}

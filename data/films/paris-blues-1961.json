@@ -1,0 +1,193 @@
+{
+  "tmdbId": 33710,
+  "slug": "paris-blues-1961",
+  "year": 1961,
+  "runtime": 98,
+  "originalTitle": "Paris Blues",
+  "title": {
+    "en": "Paris Blues",
+    "tr": "Paris Blues"
+  },
+  "overview": {
+    "en": "During the 1960s, two American jazz musicians living in Paris meet and fall in love with two American tourist girls and must decide between music and love.",
+    "tr": "1960'lı yıllarda Paris'te yaşayan iki Amerikalı caz müzisyeni, iki Amerikalı turist kızla tanışır ve onlara aşık olur."
+  },
+  "poster": {
+    "tr": "/3yvlRKuzIkymNapRJxMQbJJkrhw.jpg",
+    "en": "/uBkyc8tDHcbwzOwjPA0x0ig7bXD.jpg"
+  },
+  "backdrops": [
+    "/75vzKpZKjFv9uIXrCHOzai1woSG.jpg",
+    "/g54T9bTXqiWkLRR2TEgsPicuU34.jpg",
+    "/p5opuGbfMQFhYjEtWP80CZzG1QE.jpg",
+    "/xThYoKJG0utCbKx7jCyBqQPRBBe.jpg",
+    "/brpfg4sfYxlAd9EWLnMg0xqFhKm.jpg",
+    "/b97fJI6OnT4cJ61aGSbLkj6go5A.jpg",
+    "/sQi9oDUHgwoIklabi4ZgDlxMTcQ.jpg",
+    "/e8ZPfiJnvuIGaTZYaTZhBEAPgaF.jpg",
+    "/r2yIw9grgB07ZVsNqRqzRUHi68u.jpg",
+    "/f4ht6bPhLxJw9hNb7b2anxY1OVA.jpg"
+  ],
+  "trailerKey": "59LQvDqS1to",
+  "genreIds": [
+    10749,
+    18,
+    10402
+  ],
+  "keywordIds": [
+    90,
+    1416,
+    1233,
+    4048,
+    156063
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Monmouth",
+    "Pennebaker Productions",
+    "Diane Productions"
+  ],
+  "crew": [
+    {
+      "personId": 18854,
+      "job": "director"
+    },
+    {
+      "personId": 30508,
+      "job": "writer"
+    },
+    {
+      "personId": 932378,
+      "job": "writer"
+    },
+    {
+      "personId": 6835,
+      "job": "writer"
+    },
+    {
+      "personId": 11556,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 67347,
+      "job": "producer"
+    },
+    {
+      "personId": 858,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3636,
+      "character": "Ram Bowen",
+      "order": 0
+    },
+    {
+      "personId": 109410,
+      "character": "Lillian Corning",
+      "order": 1
+    },
+    {
+      "personId": 16897,
+      "character": "Eddie Cook",
+      "order": 2
+    },
+    {
+      "personId": 20158,
+      "character": "Connie Lampson",
+      "order": 3
+    },
+    {
+      "personId": 82280,
+      "character": "Wild Man Moore",
+      "order": 4
+    },
+    {
+      "personId": 3575,
+      "character": "Marie Séoul",
+      "order": 5
+    },
+    {
+      "personId": 126744,
+      "character": "René Bernard",
+      "order": 6
+    },
+    {
+      "personId": 22476,
+      "character": "Nicole",
+      "order": 7
+    },
+    {
+      "personId": 15137,
+      "character": "Michel 'Gypsy' Devigne",
+      "order": 8
+    },
+    {
+      "personId": 38912,
+      "character": "Mustachio",
+      "order": 9
+    },
+    {
+      "personId": 2826217,
+      "character": "Pianist",
+      "order": 10
+    },
+    {
+      "personId": 2472004,
+      "character": "Bass Player",
+      "order": 11
+    },
+    {
+      "personId": 32090,
+      "character": "Fausto the Moor (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 39876,
+      "character": "The Pusher (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 5516388,
+      "character": "Alto Sax Player with Armstrong at Club 33 (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 140363,
+      "character": "Luggage Carrier in Train (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1376923,
+      "character": "Guest at Devigne's Party (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 579420,
+      "character": "Club 33 Customer (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 5516398,
+      "character": "Musician (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1584175,
+      "character": "Man with Dog in the Park (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 76,
+  "sources": [
+    "cult-list"
+  ]
+}

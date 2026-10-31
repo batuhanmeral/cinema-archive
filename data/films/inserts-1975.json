@@ -1,0 +1,112 @@
+{
+  "tmdbId": 32069,
+  "slug": "inserts-1975",
+  "year": 1975,
+  "runtime": 117,
+  "originalTitle": "Inserts",
+  "title": {
+    "en": "Inserts",
+    "tr": "Inserts"
+  },
+  "overview": {
+    "en": "A young, once-great Hollywood film director refuses to accept changing times during the early 1930s, and confines himself to his decaying mansion to make silent porn flicks.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gPBFWOOjZdRXGFGFHMqVot5Kn1O.jpg",
+    "en": "/gPBFWOOjZdRXGFGFHMqVot5Kn1O.jpg"
+  },
+  "backdrops": [
+    "/znfnt1KazAi3zxxmvfdgFAs2gx9.jpg",
+    "/e7ckJccNvuQzp1KnzLvDcQpbAV5.jpg",
+    "/e9g9qhjcjOjSwoL8cMCtwDPqpMe.jpg",
+    "/uVi33WjkG4OxRmGUzJ8vf0clcg8.jpg",
+    "/nUCMBY39cK5xo9Y3uzXxJ1uqbUm.jpg",
+    "/vAI0nSwHjvKJ4YUJ4m2UTlWOWhm.jpg",
+    "/9Ggt0wMGMhsqeBByjn09aaWHnXW.jpg",
+    "/pHGYaG8TVivfvLmbzDTYlUIXBpI.jpg",
+    "/4Hiqgz7knzGXrHeG21EBfkFRc4s.jpg",
+    "/yuQLmsfXPiaVWzySv01Tbo1EehG.jpg"
+  ],
+  "trailerKey": "Omgg4tPtOig",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    5919,
+    9732,
+    10353,
+    12396,
+    15197,
+    33457,
+    158436,
+    178649,
+    211121,
+    214548
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "United Artists",
+    "Film and General Productions"
+  ],
+  "crew": [
+    {
+      "personId": 32767,
+      "job": "director"
+    },
+    {
+      "personId": 96588,
+      "job": "producer"
+    },
+    {
+      "personId": 20105,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 63960,
+      "job": "producer"
+    },
+    {
+      "personId": 32767,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3037,
+      "character": "Boy Wonder",
+      "order": 0
+    },
+    {
+      "personId": 69055,
+      "character": "Cathy Cake",
+      "order": 1
+    },
+    {
+      "personId": 382,
+      "character": "Big Mac",
+      "order": 2
+    },
+    {
+      "personId": 5047,
+      "character": "Harlene",
+      "order": 3
+    },
+    {
+      "personId": 103592,
+      "character": "Rex, the Wonder Dog",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 48,
+  "sources": [
+    "cult-list"
+  ]
+}

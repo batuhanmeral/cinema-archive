@@ -1,0 +1,131 @@
+{
+  "tmdbId": 85955,
+  "slug": "hugo-the-hippo-1975",
+  "year": 1975,
+  "runtime": 91,
+  "originalTitle": "Hugó, a víziló",
+  "title": {
+    "en": "Hugo the Hippo",
+    "tr": "Hugó, a víziló"
+  },
+  "overview": {
+    "en": "The Sultan of Zanzibar has a harbor infested with sharks, which makes it impossible for ships to trade with him. In an attempt to fix the problem, he brings twelve hippos into the harbor to keep the sharks away. His idea works well enough, but once the hippos are no longer a novelty and the people no longer feed them, they begin to starve. After the hungry hippos rampage through the city looking for food, Aban-Khan, the king's adviser, slaughters all the hippos except one, a little hippo named Hugo.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vEqDSWGfwoIrdXfoKPpUSNKuQs4.jpg",
+    "en": "/vEqDSWGfwoIrdXfoKPpUSNKuQs4.jpg"
+  },
+  "backdrops": [
+    "/noS9iJjkDnlkfocAnfBIXyYOeCD.jpg",
+    "/fN0i9xORw5wuq24la3bCuMnkQT.jpg"
+  ],
+  "trailerKey": "mOQEvDuSyzM",
+  "genreIds": [
+    16,
+    10751,
+    12
+  ],
+  "keywordIds": [
+    2509,
+    4892,
+    15097,
+    194048,
+    226646
+  ],
+  "countries": [
+    "HU",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "hu"
+  ],
+  "studios": [
+    "Pannónia Filmstúdió",
+    "Brut Productions"
+  ],
+  "crew": [
+    {
+      "personId": 932758,
+      "job": "director"
+    },
+    {
+      "personId": 16795,
+      "job": "writer"
+    },
+    {
+      "personId": 68607,
+      "job": "producer"
+    },
+    {
+      "personId": 1485750,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1586832,
+      "job": "composer"
+    },
+    {
+      "personId": 127483,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 586273,
+      "character": "Narrator (voice)",
+      "order": 0
+    },
+    {
+      "personId": 1097154,
+      "character": "Sultan (voice)",
+      "order": 1
+    },
+    {
+      "personId": 1092611,
+      "character": "Aban-Khan (voice)",
+      "order": 2
+    },
+    {
+      "personId": 1543398,
+      "character": "Royal Magician (voice)",
+      "order": 3
+    },
+    {
+      "personId": 235308,
+      "character": "Jorma (voice)",
+      "order": 4
+    },
+    {
+      "personId": 125198,
+      "character": "Jorma's Father (voice)",
+      "order": 5
+    },
+    {
+      "personId": 1361366,
+      "character": "Judge (voice)",
+      "order": 6
+    },
+    {
+      "personId": 1076603,
+      "character": "Singer (voice)",
+      "order": 7
+    },
+    {
+      "personId": 1086293,
+      "character": "Singer (voice)",
+      "order": 8
+    },
+    {
+      "personId": 5619152,
+      "character": "Singer (voice)",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 12,
+  "sources": [
+    "cult-list"
+  ]
+}

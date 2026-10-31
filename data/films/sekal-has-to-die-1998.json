@@ -1,0 +1,179 @@
+{
+  "tmdbId": 136896,
+  "slug": "sekal-has-to-die-1998",
+  "year": 1998,
+  "runtime": 109,
+  "originalTitle": "Je třeba zabít Sekala",
+  "title": {
+    "en": "Sekal Has to Die",
+    "tr": "Je třeba zabít Sekala"
+  },
+  "overview": {
+    "en": "ComiBaran, a protestant blacksmith arrives in the little village of Lakotice to kill Sekal, a cruel Nazi collaborator.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/1dsAmcyVnfR9MXjciNvMBUdRPFd.jpg",
+    "en": "/1dsAmcyVnfR9MXjciNvMBUdRPFd.jpg"
+  },
+  "backdrops": [
+    "/9zb0JMTCOP6oT7TIJz2h5dC2tR.jpg",
+    "/jHCpav8wGoJrgynvMmB6LfdPLAd.jpg",
+    "/dqQee2e5olO04tfewWW7GW9zHmS.jpg",
+    "/dLT8xJWL4wtPZVbN99Zr2LAiJJN.jpg",
+    "/7oEzckD8pygWWtlLNKB2UbklCfh.jpg",
+    "/n4MFpJZpZV9R8TDWn5CaKapsNAx.jpg",
+    "/rMfVwV3zHbw5Z9NOHiMoDcLLskj.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1956,
+    207883
+  ],
+  "countries": [
+    "CZ",
+    "FR",
+    "PL",
+    "SK"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "ProArt Production Slovakia",
+    "Apple Film Production",
+    "Buc-Film"
+  ],
+  "crew": [
+    {
+      "personId": 140434,
+      "job": "director"
+    },
+    {
+      "personId": 575745,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6422,
+      "job": "composer"
+    },
+    {
+      "personId": 130901,
+      "job": "writer"
+    },
+    {
+      "personId": 1348663,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 144972,
+      "character": "Ivan Sekal",
+      "order": 0
+    },
+    {
+      "personId": 107571,
+      "character": "Jura Baran",
+      "order": 1
+    },
+    {
+      "personId": 143620,
+      "character": "Father Flora",
+      "order": 2
+    },
+    {
+      "personId": 1210985,
+      "character": "Anežka",
+      "order": 3
+    },
+    {
+      "personId": 327724,
+      "character": "Marie",
+      "order": 4
+    },
+    {
+      "personId": 2666242,
+      "character": "Záprdek",
+      "order": 5
+    },
+    {
+      "personId": 224765,
+      "character": "Oberva Jr.",
+      "order": 6
+    },
+    {
+      "personId": 1182611,
+      "character": "Oberva Sr.",
+      "order": 7
+    },
+    {
+      "personId": 1404467,
+      "character": "Mayor",
+      "order": 8
+    },
+    {
+      "personId": 2963743,
+      "character": "Včelný",
+      "order": 9
+    },
+    {
+      "personId": 2500227,
+      "character": "Koukol",
+      "order": 10
+    },
+    {
+      "personId": 1409334,
+      "character": "Sehnálek",
+      "order": 11
+    },
+    {
+      "personId": 1372912,
+      "character": "Štverák",
+      "order": 12
+    },
+    {
+      "personId": 133558,
+      "character": "Otáhal",
+      "order": 13
+    },
+    {
+      "personId": 83956,
+      "character": "Sušil",
+      "order": 14
+    },
+    {
+      "personId": 5468115,
+      "character": "Lojzek",
+      "order": 15
+    },
+    {
+      "personId": 4044556,
+      "character": "Innkeeper",
+      "order": 16
+    },
+    {
+      "personId": 1438887,
+      "character": "Maid",
+      "order": 17
+    },
+    {
+      "personId": 5468122,
+      "character": "Farmer",
+      "order": 18
+    },
+    {
+      "personId": 5468154,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 20,
+  "sources": [
+    "cult-list"
+  ]
+}

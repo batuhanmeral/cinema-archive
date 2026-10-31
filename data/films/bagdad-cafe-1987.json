@@ -1,0 +1,184 @@
+{
+  "tmdbId": 3543,
+  "slug": "bagdad-cafe-1987",
+  "year": 1987,
+  "runtime": 108,
+  "originalTitle": "Out of Rosenheim",
+  "title": {
+    "en": "Bagdad Cafe",
+    "tr": "Bağdat Cafe"
+  },
+  "overview": {
+    "en": "A German woman named Jasmin stumbles upon a dilapidated motel/diner in the middle of nowhere. Her unusual appearance and demeanor are at first suspicious to Brenda, the exasperated owner who has difficulty making ends meet. But when an unlikely magic sparks between the two women, this lonely desert outpost is transformed into a thriving and popular oasis.",
+    "tr": "Bağdat Cafe 'de olaylar, Mojave Çölü'nün ortasındaki kuş uçmaz kervan geçmez bakımsız bir motel-cafe'de geçiyor. Filmi izlerken, esen sıcak rüzgarları, tozu ve ıssızlığı hissediyor insan. Burası, bütün umutların tükendiği bir yer. Yaz sıcağında, klimalı arabanızda mutluluk içinde yol alırken yol kıyısında gözünüze bir an çarpan, sonra kayıp giden görüntülerden biri."
+  },
+  "poster": {
+    "tr": "/zeEa3jVkLE8C0KjOiiKqMbhHgaL.jpg",
+    "en": "/isfygkd3iWVVwE44yM8Hdb4sxrO.jpg"
+  },
+  "backdrops": [
+    "/xNZwsgmAt3aqjKZYWQmUzEij6XD.jpg",
+    "/pk8Cc2DmLMCn3868j0aAZzJ5iOf.jpg",
+    "/1VIepR4V3CqQWFdXwuAXWWWqfsQ.jpg",
+    "/en8o5QyMiEXqrIZMuJUHqaMu8Vg.jpg",
+    "/tBovXe6TNhzpsGwxfOuPAe3u7Ur.jpg",
+    "/3mEiK86Dz2WAs2gP7JWFT1j03zL.jpg",
+    "/hB4T31GLp4ER1AH35fjCuwTbI62.jpg",
+    "/fQT9bl6FnLDK7I2ApEnNXanunf.jpg",
+    "/dcLHv4T76FbPqYD2sMGZOegb7S4.jpg",
+    "/WKYp9szjNhuGZRlQvABH4XOx0p.jpg"
+  ],
+  "trailerKey": "et3JU_5DY0c",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    1490,
+    2669,
+    2594,
+    3306,
+    3593,
+    6819,
+    155755,
+    171563,
+    187212,
+    216079,
+    224947,
+    241725,
+    254485,
+    257890,
+    265479,
+    308068
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de",
+    "en"
+  ],
+  "studios": [
+    "Pro-ject Filmproduktion",
+    "Pelemele Film",
+    "BR"
+  ],
+  "crew": [
+    {
+      "personId": 32632,
+      "job": "director"
+    },
+    {
+      "personId": 32633,
+      "job": "writer"
+    },
+    {
+      "personId": 32632,
+      "job": "writer"
+    },
+    {
+      "personId": 32634,
+      "job": "writer"
+    },
+    {
+      "personId": 32633,
+      "job": "producer"
+    },
+    {
+      "personId": 32632,
+      "job": "producer"
+    },
+    {
+      "personId": 32636,
+      "job": "composer"
+    },
+    {
+      "personId": 32637,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32645,
+      "character": "Jasmin Münchgstettner",
+      "order": 0
+    },
+    {
+      "personId": 30485,
+      "character": "Brenda",
+      "order": 1
+    },
+    {
+      "personId": 3785,
+      "character": "Rudi Cox",
+      "order": 2
+    },
+    {
+      "personId": 3762,
+      "character": "Debby",
+      "order": 3
+    },
+    {
+      "personId": 32646,
+      "character": "Phyllis",
+      "order": 4
+    },
+    {
+      "personId": 32647,
+      "character": "Salomo",
+      "order": 5
+    },
+    {
+      "personId": 32648,
+      "character": "Cahuenga",
+      "order": 6
+    },
+    {
+      "personId": 32649,
+      "character": "Sal",
+      "order": 7
+    },
+    {
+      "personId": 32650,
+      "character": "Mr. Münchgstettner",
+      "order": 8
+    },
+    {
+      "personId": 32651,
+      "character": "Eric",
+      "order": 9
+    },
+    {
+      "personId": 32652,
+      "character": "Sheriff Arnie",
+      "order": 10
+    },
+    {
+      "personId": 32653,
+      "character": "Trucker Ron",
+      "order": 11
+    },
+    {
+      "personId": 32654,
+      "character": "Trucker Mark",
+      "order": 12
+    },
+    {
+      "personId": 32655,
+      "character": "Trucker Ray",
+      "order": 13
+    },
+    {
+      "personId": 32656,
+      "character": "Trucker Gary",
+      "order": 14
+    }
+  ],
+  "awards": {
+    "cesar": 1
+  },
+  "voteCount": 458,
+  "sources": [
+    "cult-list"
+  ]
+}

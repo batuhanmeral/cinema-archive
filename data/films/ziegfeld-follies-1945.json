@@ -1,0 +1,209 @@
+{
+  "tmdbId": 43176,
+  "slug": "ziegfeld-follies-1945",
+  "year": 1945,
+  "runtime": 110,
+  "originalTitle": "Ziegfeld Follies",
+  "title": {
+    "en": "Ziegfeld Follies",
+    "tr": "Güzeller Revüsü"
+  },
+  "overview": {
+    "en": "The late, great impresario Florenz Ziegfeld looks down from heaven and ordains a new revue in his grand old style.",
+    "tr": "Geç dönem büyük impresario Florenz Ziegfeld, cennetten aşağıya bakar ve eski tarzda büyük ve yeni bir dans gösterisi hazırlanmasını emreder."
+  },
+  "poster": {
+    "tr": "/f5CPLtMX9vSMoumnZi1s8KbbD6p.jpg",
+    "en": "/4l7BOjvx3ip225TGG80KYrLhV5p.jpg"
+  },
+  "backdrops": [
+    "/wasyZjFu1VWxRaiyYWfbg69d7lB.jpg",
+    "/mcL2BZvRwTUoksS2uvi3rtMLdbE.jpg",
+    "/xNpO4Gw5DVBDho27Bpcrsf0FFt2.jpg",
+    "/z0v44UzLMRokiQFx1gKdFlulfeR.jpg",
+    "/gEvdiE0DFMFyXYFEdjyv2ioGjgj.jpg",
+    "/9jEpEIjxphWSv5xkWu0rkYI7gJu.jpg",
+    "/87g496TlCDThMdrNXDY7GO3oUXR.jpg"
+  ],
+  "trailerKey": "aO_wY10l0Zo",
+  "genreIds": [
+    10402,
+    35
+  ],
+  "keywordIds": [
+    1346,
+    4344,
+    7644,
+    10121,
+    156203,
+    193206,
+    235812
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 9055,
+      "job": "producer"
+    },
+    {
+      "personId": 13980,
+      "job": "director"
+    },
+    {
+      "personId": 9080,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12307,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 94218,
+      "job": "director"
+    },
+    {
+      "personId": 13985,
+      "job": "director"
+    },
+    {
+      "personId": 21506,
+      "job": "director"
+    },
+    {
+      "personId": 1147115,
+      "job": "composer"
+    },
+    {
+      "personId": 144031,
+      "job": "writer"
+    },
+    {
+      "personId": 1409262,
+      "job": "writer"
+    },
+    {
+      "personId": 60063,
+      "job": "director"
+    },
+    {
+      "personId": 1409259,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32428,
+      "character": "Florenz Ziegfeld Jr.",
+      "order": 0
+    },
+    {
+      "personId": 30181,
+      "character": "Fred Astaire / Raffles / Tai Long / Gentleman",
+      "order": 1
+    },
+    {
+      "personId": 40174,
+      "character": "Lucille Ball (segment \"Here's to the Ladies\")",
+      "order": 2
+    },
+    {
+      "personId": 13993,
+      "character": "Princess (\"This Heart of Mine\") / Moy Ling (\"Limehouse Blues\")",
+      "order": 3
+    },
+    {
+      "personId": 129432,
+      "character": "Norma Edelman (segment \"A Sweepstakes Ticket\")",
+      "order": 4
+    },
+    {
+      "personId": 9066,
+      "character": "Star (segment \"A Great Lady Has an Interview\")",
+      "order": 5
+    },
+    {
+      "personId": 82407,
+      "character": "Kathryn Grayson (segment \"Beauty\")",
+      "order": 6
+    },
+    {
+      "personId": 92900,
+      "character": "Lena Horne (segment \"Love\")",
+      "order": 7
+    },
+    {
+      "personId": 13294,
+      "character": "Gentleman (segment \"The Babbit and the Bromide\")",
+      "order": 8
+    },
+    {
+      "personId": 132790,
+      "character": "Alfredo (segment \"La Traviata\")",
+      "order": 9
+    },
+    {
+      "personId": 125364,
+      "character": "Lawyer's Client (segment \"Pay the Two Dollars\")",
+      "order": 10
+    },
+    {
+      "personId": 105636,
+      "character": "J. Newton Numbskull (segment \"When Television Comes\")",
+      "order": 11
+    },
+    {
+      "personId": 129520,
+      "character": "Esther Williams (segment \"A Water Ballet\")",
+      "order": 12
+    },
+    {
+      "personId": 30211,
+      "character": "Lawyer (segment \"Pay the Two Dollars\")",
+      "order": 13
+    },
+    {
+      "personId": 132789,
+      "character": "Violetta (segment \"La Traviata\")",
+      "order": 14
+    },
+    {
+      "personId": 41226,
+      "character": "Ballerina (segment \"Beauty\")",
+      "order": 15
+    },
+    {
+      "personId": 7668,
+      "character": "Monty (segment \"A Sweepstakes Ticket\")",
+      "order": 16
+    },
+    {
+      "personId": 34285,
+      "character": "Martin (segment \"A Sweepstakes Ticket\")",
+      "order": 17
+    },
+    {
+      "personId": 60063,
+      "character": "Gentleman (\"Limehouse Blues\") / Man (voice) (\"Number Please\")",
+      "order": 18
+    },
+    {
+      "personId": 129548,
+      "character": "Virginia O'Brien (segment \"Here's to the Ladies\")",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 60,
+  "sources": [
+    "cult-list"
+  ]
+}

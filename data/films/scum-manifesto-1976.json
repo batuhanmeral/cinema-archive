@@ -1,0 +1,67 @@
+{
+  "tmdbId": 433937,
+  "slug": "scum-manifesto-1976",
+  "year": 1976,
+  "runtime": 26,
+  "originalTitle": "Scum Manifesto",
+  "title": {
+    "en": "Scum Manifesto",
+    "tr": "Scum Manifesto"
+  },
+  "overview": {
+    "en": "Delphine Seyrig reads passages from a Valerie Solanas’s SCUM manifesto.",
+    "tr": "Valerie Solanas’ın meşhur metni “Erkek Doğrama Cemiyeti Manifestosu”nun okunduğu bir performans üzerine kurulu filmde, Delphine Seyrig, Solanas’ın erkekler üzerine düşüncelerini paylaşırken, bir ekranın üzerinde erken egemen toplumun imgeleri beliriyor."
+  },
+  "poster": {
+    "tr": "/5vBqDRVGE2108ZuV0JxE1hsFBr7.jpg",
+    "en": "/5vBqDRVGE2108ZuV0JxE1hsFBr7.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    2383,
+    41665,
+    263548
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 3508,
+      "job": "director"
+    },
+    {
+      "personId": 1399654,
+      "job": "director"
+    },
+    {
+      "personId": 985137,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3508,
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "personId": 1399654,
+      "character": "Self",
+      "order": 1
+    }
+  ],
+  "awards": {},
+  "voteCount": 9,
+  "sources": [
+    "cult-list"
+  ]
+}

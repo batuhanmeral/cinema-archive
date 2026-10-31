@@ -1,0 +1,191 @@
+{
+  "tmdbId": 27094,
+  "slug": "lenny-1974",
+  "year": 1974,
+  "runtime": 112,
+  "originalTitle": "Lenny",
+  "title": {
+    "en": "Lenny",
+    "tr": "Lenny"
+  },
+  "overview": {
+    "en": "The story of acerbic 1960s comic Lenny Bruce, whose groundbreaking, no-holds-barred style and social commentary was often deemed by the establishment as too obscene for the public.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/Avhk4pGdz3YQrzqLU65icjnE6vn.jpg",
+    "en": "/Avhk4pGdz3YQrzqLU65icjnE6vn.jpg"
+  },
+  "backdrops": [
+    "/cafhCAuU5lH7q69KwSHX557mpeQ.jpg",
+    "/aXpwfdljrcEHP7UJcbwt3uRATlW.jpg",
+    "/6zqFDzIKPKyGX1jwYAiJTGvYyXz.jpg",
+    "/nmI5kmjos0HsAlFsw0vqN5ZW5Xc.jpg",
+    "/bkFfBKY32qG6NDLN43MT4XZ4xCm.jpg",
+    "/7lzyrxJRsNxrBA2HhcewTmDXNtj.jpg",
+    "/6VOO9DnJtTaJUhXKY2r1E1v8JZp.jpg",
+    "/yGBnvQlZk7Ftl8hQUMBOvAPdvsE.jpg",
+    "/zJFoMjD5B11fzAtfhiVH9QUghM7.jpg",
+    "/rvl2WqwCQFMMtZ0DiDehtRK6H60.jpg"
+  ],
+  "trailerKey": "0EP_sAGnkGo",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    596,
+    1157,
+    3012,
+    6148,
+    1803,
+    2930,
+    3485,
+    4098,
+    5565,
+    6593,
+    11510,
+    11514,
+    11704,
+    33519,
+    260426,
+    276162
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Marvin Worth Productions"
+  ],
+  "crew": [
+    {
+      "personId": 792,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 69343,
+      "job": "composer"
+    },
+    {
+      "personId": 66777,
+      "job": "director"
+    },
+    {
+      "personId": 96924,
+      "job": "writer"
+    },
+    {
+      "personId": 68493,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4483,
+      "character": "Lenny Bruce",
+      "order": 0
+    },
+    {
+      "personId": 26483,
+      "character": "Honey Bruce",
+      "order": 1
+    },
+    {
+      "personId": 162287,
+      "character": "Sally Marr",
+      "order": 2
+    },
+    {
+      "personId": 164817,
+      "character": "Artie Silver",
+      "order": 3
+    },
+    {
+      "personId": 1127494,
+      "character": "Baltimore Comic",
+      "order": 4
+    },
+    {
+      "personId": 940121,
+      "character": "Aunt Mema",
+      "order": 5
+    },
+    {
+      "personId": 1127495,
+      "character": "Sherman Hart",
+      "order": 6
+    },
+    {
+      "personId": 184619,
+      "character": "Jack Goldstein",
+      "order": 7
+    },
+    {
+      "personId": 956940,
+      "character": "Nurse",
+      "order": 8
+    },
+    {
+      "personId": 79906,
+      "character": "Girl",
+      "order": 9
+    },
+    {
+      "personId": 1127496,
+      "character": "Hawaiin Judge",
+      "order": 10
+    },
+    {
+      "personId": 113922,
+      "character": "John Santi",
+      "order": 11
+    },
+    {
+      "personId": 3126933,
+      "character": "San Francisco Policeman",
+      "order": 12
+    },
+    {
+      "personId": 3126934,
+      "character": "San Francisco Judge",
+      "order": 13
+    },
+    {
+      "personId": 202141,
+      "character": "Defense Attorney",
+      "order": 14
+    },
+    {
+      "personId": 3126935,
+      "character": "San Francisco Prosecutor",
+      "order": 15
+    },
+    {
+      "personId": 1441043,
+      "character": "2nd San Francisco Judge",
+      "order": 16
+    },
+    {
+      "personId": 1191438,
+      "character": "Reverend Mooney",
+      "order": 17
+    },
+    {
+      "personId": 179726,
+      "character": "New York Plainclothesman",
+      "order": 18
+    },
+    {
+      "personId": 53553,
+      "character": "New York Judge",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 327,
+  "sources": [
+    "cult-list"
+  ]
+}

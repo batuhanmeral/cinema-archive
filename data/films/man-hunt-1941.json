@@ -1,0 +1,193 @@
+{
+  "tmdbId": 22404,
+  "slug": "man-hunt-1941",
+  "year": 1941,
+  "runtime": 105,
+  "originalTitle": "Man Hunt",
+  "title": {
+    "en": "Man Hunt",
+    "tr": "Man Hunt"
+  },
+  "overview": {
+    "en": "Shortly before the start of WW2, renowned British big-game hunter Alan Thorndike, vacationing in Bavaria, has Hitler in his gun sight. He is captured, beaten, left for dead, and escapes back to London where he is hounded by Nazi agents and aided by a young woman.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5cQ3rmbzMcVeExlAyhgcJXlGgSO.jpg",
+    "en": "/i5b6AWt0eaup4Mxnq6hEjs4FKhJ.jpg"
+  },
+  "backdrops": [
+    "/ZY52sDx605bHB3NF7oabXWVHGK.jpg",
+    "/oPhyvR1UJ7qfOp1697HKz9xmtJP.jpg",
+    "/pwlfnSq9tyQMubZ45grwGbZB8DJ.jpg",
+    "/eqWsa4On6UcsXdFOopktGwa3pna.jpg",
+    "/wO9QWplJ7fIbjh7BiIqOmyAGEEP.jpg",
+    "/qsJKTuzGd7chn63ClhbIweDljr5.jpg",
+    "/VhaGuSFfBgsh7kh1e6CW0stk7r.jpg",
+    "/vm6BKpekgT01sAtECs7dj8uglxZ.jpg",
+    "/lGmNVEkPKJ8f36vPctGpyGcKOWP.jpg",
+    "/wkjVWXFXNfI2xq6xojHa6uG0jQY.jpg"
+  ],
+  "trailerKey": "6UuQGZEl5m8",
+  "genreIds": [
+    53,
+    10752
+  ],
+  "keywordIds": [
+    1589,
+    212,
+    1704,
+    1956,
+    3622,
+    10562,
+    191600,
+    221647,
+    224121,
+    238200,
+    241930,
+    245496,
+    255464,
+    279911,
+    294130,
+    323560
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "de",
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 14648,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 68,
+      "job": "director"
+    },
+    {
+      "personId": 88972,
+      "job": "producer"
+    },
+    {
+      "personId": 13802,
+      "job": "writer"
+    },
+    {
+      "personId": 8503,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12308,
+      "character": "Captain Alan Thorndike",
+      "order": 0
+    },
+    {
+      "personId": 7639,
+      "character": "Jerry Stokes",
+      "order": 1
+    },
+    {
+      "personId": 3361,
+      "character": "Major Quive-Smith",
+      "order": 2
+    },
+    {
+      "personId": 8516,
+      "character": "Mr. Jones",
+      "order": 3
+    },
+    {
+      "personId": 7505,
+      "character": "Vaner",
+      "order": 4
+    },
+    {
+      "personId": 31209,
+      "character": "Doctor",
+      "order": 5
+    },
+    {
+      "personId": 108804,
+      "character": "Lady Alice Risborough",
+      "order": 6
+    },
+    {
+      "personId": 14509,
+      "character": "Lord Gerald Risborough",
+      "order": 7
+    },
+    {
+      "personId": 112364,
+      "character": "Captain Jensen",
+      "order": 8
+    },
+    {
+      "personId": 29600,
+      "character": "Saul Farnsworthy",
+      "order": 9
+    },
+    {
+      "personId": 89727,
+      "character": "Jeweler",
+      "order": 10
+    },
+    {
+      "personId": 95631,
+      "character": "Postmistress",
+      "order": 11
+    },
+    {
+      "personId": 121095,
+      "character": "Reeves (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 148006,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1125676,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 2936,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1045653,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1005247,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 88906,
+      "character": "Cab Driver (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1431719,
+      "character": "Adolf Hitler",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 134,
+  "sources": [
+    "cult-list"
+  ]
+}

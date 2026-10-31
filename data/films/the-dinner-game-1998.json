@@ -1,0 +1,178 @@
+{
+  "tmdbId": 9421,
+  "slug": "the-dinner-game-1998",
+  "year": 1998,
+  "runtime": 80,
+  "originalTitle": "Le Dîner de cons",
+  "title": {
+    "en": "The Dinner Game",
+    "tr": "Salaklar Sofrası"
+  },
+  "overview": {
+    "en": "For Pierre Brochant and his friends, Wednesday is “Idiots' Day”. The idea is simple: each person has to bring along an idiot. The one who brings the most spectacular idiot wins the prize. Tonight, Brochant is ecstatic. He has found a gem. The ultimate idiot, “A world champion idiot!”. What Brochant doesn’t know is that Pignon is a real jinx, a past master in the art of bringing on catastrophes...",
+    "tr": "Pierre çok şanslı bir adamdır. Güzel bir karısı, güzel bir evi, güzel bir işi vardır... Arkadaşlarıyla en büyük eğlencesi ise çevrelerindeki en salak kişileri tespit edip, onlarla bir akşam yemeği boyunca eğlenmektir. Bu nedenle her çarşamba günü bir araya gelip 'salaklar sofrası' adı verilen bir eğlence tertip ederler. Pierre'in bulduğu son salak ise kibrit çöplerinden yaptığı ev maketleriyle büyük gurur duyan ve bu konuda kitap bile yazmayı düşünen Fransçois adlı bir adamdır. Fakat o geceki yemeği iptal eden Pierre'i büyük belalar beklemektedir. Fransçois, onun sırt ağrılarına, vergi sorunlarına ve karısını tekrar kazanmasına kararlıdır. Pierre ömrünün en zor gecesini yaşayacaktır."
+  },
+  "poster": {
+    "tr": "/cv6neov6SMLjHytjiU0rgeugoPI.jpg",
+    "en": "/jCOCdWIim6upzteYswh8BpcsKWg.jpg"
+  },
+  "backdrops": [
+    "/fxXwBvym6DkqkO4AWn8OjwMfMc1.jpg",
+    "/dAYkQvcqMirCmGlwGKSHZBHNMg2.jpg",
+    "/eeIiwNmVVTML8HqqDEaOzKr5KLd.jpg",
+    "/7W2NwnUif3rM19dlRLLzsfwuDnr.jpg",
+    "/wQtCfnoAjnP4lQL7BGCSZq0B6tP.jpg",
+    "/uXOCwFTztsXQrYWo5qghCPF42c7.jpg",
+    "/mB1WncN0NBKAR28UcE2nbWkJg8x.jpg",
+    "/9hByN456OYUXqwigD1kILfsYPTO.jpg"
+  ],
+  "trailerKey": "4FANGIUNbiA",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    7851,
+    5090,
+    322268
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Gaumont",
+    "EFVE",
+    "TPS Cinéma"
+  ],
+  "crew": [
+    {
+      "personId": 1965,
+      "job": "composer"
+    },
+    {
+      "personId": 38507,
+      "job": "director"
+    },
+    {
+      "personId": 1962,
+      "job": "producer"
+    },
+    {
+      "personId": 38507,
+      "job": "writer"
+    },
+    {
+      "personId": 49069,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 35323,
+      "character": "François Pignon",
+      "order": 0
+    },
+    {
+      "personId": 21177,
+      "character": "Pierre Brochant",
+      "order": 1
+    },
+    {
+      "personId": 26887,
+      "character": "Juste Leblanc",
+      "order": 2
+    },
+    {
+      "personId": 24832,
+      "character": "Lucien Cheval",
+      "order": 3
+    },
+    {
+      "personId": 53425,
+      "character": "Christine Brochant",
+      "order": 4
+    },
+    {
+      "personId": 20080,
+      "character": "Marlène Sasseur",
+      "order": 5
+    },
+    {
+      "personId": 53201,
+      "character": "Jean Cordier",
+      "order": 6
+    },
+    {
+      "personId": 145738,
+      "character": "Doctor Sorbier",
+      "order": 7
+    },
+    {
+      "personId": 1403436,
+      "character": "Bichaud, first animator",
+      "order": 8
+    },
+    {
+      "personId": 1403437,
+      "character": "Third animator",
+      "order": 9
+    },
+    {
+      "personId": 145197,
+      "character": "Boomerang enthusiast guest",
+      "order": 10
+    },
+    {
+      "personId": 146640,
+      "character": "Guest",
+      "order": 11
+    },
+    {
+      "personId": 585717,
+      "character": "Guest",
+      "order": 12
+    },
+    {
+      "personId": 1429797,
+      "character": "Louisette Blond",
+      "order": 13
+    },
+    {
+      "personId": 647402,
+      "character": "Boissonade",
+      "order": 14
+    },
+    {
+      "personId": 538398,
+      "character": "Messignac",
+      "order": 15
+    },
+    {
+      "personId": 2571903,
+      "character": "Gisèle",
+      "order": 16
+    },
+    {
+      "personId": 72336,
+      "character": "Carlier",
+      "order": 17
+    },
+    {
+      "personId": 1783603,
+      "character": "Guest",
+      "order": 18
+    },
+    {
+      "personId": 1389713,
+      "character": "Second animator",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2123,
+  "sources": [
+    "cult-list"
+  ]
+}

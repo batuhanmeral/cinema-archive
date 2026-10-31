@@ -1,0 +1,200 @@
+{
+  "tmdbId": 19336,
+  "slug": "godzilla-vs-gigan-1972",
+  "year": 1972,
+  "runtime": 89,
+  "originalTitle": "地球攻撃命令 ゴジラ対ガイガン",
+  "title": {
+    "en": "Godzilla vs. Gigan",
+    "tr": "Godzilla vs. Gigan"
+  },
+  "overview": {
+    "en": "Manga artist Gengo Odaka lands a job with the World Children's Land amusement park only to become suspicious of the organization when a garbled message is discovered on tapes. As Gengo and his team investigate, Godzilla and Anguirus quickly decipher the message and begin their own plan of action.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/pNQro37cFrg4Lfz5DUbRFZlMG3y.jpg",
+    "en": "/8D6uWyXqPpfYsbNJyoR2vV64DxN.jpg"
+  },
+  "backdrops": [
+    "/i7Vp666mpD6xEbLxeT45eCr1ad3.jpg",
+    "/eKho5VyUsu31uTrlh3P0TL5nEmq.jpg",
+    "/CdusmfiheqQDOwOMStGkjviCo4.jpg",
+    "/aFwHVMHhz7tG69NBvnkR2PYEEEs.jpg",
+    "/n1e5lmZ5gAp7bdtbGhGcdJxRwXE.jpg",
+    "/vxEmJYWQxSYP6toEtcXqZ4Sub1d.jpg",
+    "/myyzWGmn7Rl296t4jV4CygHJymN.jpg",
+    "/5Fo1iCXScR8slikiFSRV7KZ39IH.jpg",
+    "/9OqkEWyT4GodlbTEqVGtX0Ow79k.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    28,
+    12,
+    878
+  ],
+  "keywordIds": [
+    233,
+    6057,
+    11100,
+    7325,
+    9663,
+    14909,
+    155582,
+    158340,
+    159099,
+    161791,
+    191793,
+    210915,
+    224587,
+    224673,
+    257384,
+    259917,
+    295446,
+    317204
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "TOHO",
+    "Toho Eizo Bijutsu",
+    "Tokyo Laboratory"
+  ],
+  "crew": [
+    {
+      "personId": 30561,
+      "job": "director"
+    },
+    {
+      "personId": 571552,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 18604,
+      "job": "producer"
+    },
+    {
+      "personId": 425396,
+      "job": "composer"
+    },
+    {
+      "personId": 18611,
+      "job": "writer"
+    },
+    {
+      "personId": 1309510,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2563472,
+      "character": "Gengo Odaka",
+      "order": 0
+    },
+    {
+      "personId": 239047,
+      "character": "Machiko Shima",
+      "order": 1
+    },
+    {
+      "personId": 239044,
+      "character": "Tomoko Tomoe",
+      "order": 2
+    },
+    {
+      "personId": 239046,
+      "character": "Shosaku Takasugi",
+      "order": 3
+    },
+    {
+      "personId": 1270026,
+      "character": "Chairman Fumio Sudo",
+      "order": 4
+    },
+    {
+      "personId": 1156129,
+      "character": "Director Kubota",
+      "order": 5
+    },
+    {
+      "personId": 240009,
+      "character": "Takeshi Shima",
+      "order": 6
+    },
+    {
+      "personId": 552187,
+      "character": "Commander of Defense Forces",
+      "order": 7
+    },
+    {
+      "personId": 1488354,
+      "character": "Fumio's Mother",
+      "order": 8
+    },
+    {
+      "personId": 134295,
+      "character": "Priest",
+      "order": 9
+    },
+    {
+      "personId": 1122714,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1167990,
+      "character": "Policeman",
+      "order": 11
+    },
+    {
+      "personId": 235720,
+      "character": "Henchman",
+      "order": 12
+    },
+    {
+      "personId": 119002,
+      "character": "Henchman",
+      "order": 13
+    },
+    {
+      "personId": 2534358,
+      "character": "Henchman",
+      "order": 14
+    },
+    {
+      "personId": 2093983,
+      "character": "Henchman",
+      "order": 15
+    },
+    {
+      "personId": 1117080,
+      "character": "Henchman",
+      "order": 16
+    },
+    {
+      "personId": 235722,
+      "character": "Godzilla / JSDF Officer / Background Comic Editor",
+      "order": 17
+    },
+    {
+      "personId": 1488356,
+      "character": "Anguirus / JSDF Radar Operator",
+      "order": 18
+    },
+    {
+      "personId": 1488357,
+      "character": "King Ghidorah",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 239,
+  "sources": [
+    "cult-list"
+  ]
+}

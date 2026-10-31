@@ -1,0 +1,202 @@
+{
+  "tmdbId": 10014,
+  "slug": "a-nightmare-on-elm-street-part-2-freddy-s-revenge-1985",
+  "year": 1985,
+  "runtime": 87,
+  "originalTitle": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+  "title": {
+    "en": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+    "tr": "Elm Sokağında Kabus 2: Freddy'nin İntikamı"
+  },
+  "overview": {
+    "en": "A teenage boy is haunted in his dreams by deceased child murderer Freddy Krueger, who is out to possess him in order to continue his reign of terror in the real world.",
+    "tr": "Freddy peşinizdeyken uykuya direnmek mi kabusunuzda onunla yüzleşmek mi daha iyi olur? Tüm zamanların en tüyler ürpertici filmlerinden Elm Sokağı Kabusu, ikinci filmiyle geri dönüyor. Elm Sokağı sakinleri, kabuslarına girdiği gençleri uykuda öldüren Freddy'den kurtulalı beş yıl olmuştur. Ancak sokağa taşınan Jesse ile birlikte Freddy de tekrar ortaya çıkar. Eğer Jesse'nin bedenini ele geçirebilirse Freddy canice katliamlarına devam edebilecektir. Elm Sokağı'nı uykusuz geceler beklemektedir.  Elm Sokağı Kabusu'nun ardından çevrilen bu film en az ilki kadar orijinal ve korkutucu. Şeytani Freddy'nin öyküsü özel efektler ve zekice bir senaryo ile izleyenlerin kanını dondurmaya devam ediyor."
+  },
+  "poster": {
+    "tr": "/53kxYw0G3o55yJ23K7s7KMaOyAM.jpg",
+    "en": "/rvAmOv0sZcoQCyJjHPQN4wU8ut4.jpg"
+  },
+  "backdrops": [
+    "/aAf9YqMpdFcsChf949aEFjS81x4.jpg",
+    "/8cxB1CiiODiWFayDPxLsAeviZvc.jpg",
+    "/qXhm8MQw8uq0abeEQ56hXnCzTQc.jpg",
+    "/9MqGSeKKDi98ccb9xZ7VsJjnG5o.jpg",
+    "/bs59l7ioWSxWcrjjqDQ8FWdH4bY.jpg",
+    "/jjp0pOGBX7b2ZCUwI6U837HiYGS.jpg",
+    "/ycQFAXuHYjHkFepo5r18OJsHuYj.jpg",
+    "/6at7Oj5ADDUyaQbr3it3N4lgL8q.jpg",
+    "/4emK9m5EzA9Xgjn2fuT5Klaan2h.jpg",
+    "/89CkuOoqGuNusIsCzluGADmK72B.jpg"
+  ],
+  "trailerKey": "9iqNVyjwLFA",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    6270,
+    657,
+    1566,
+    3030,
+    4426,
+    6259,
+    4375,
+    6152,
+    2913,
+    3335,
+    3358,
+    9712,
+    9663,
+    10170,
+    10985,
+    12339,
+    158713,
+    166287,
+    170383,
+    179878,
+    225840,
+    256183,
+    300377,
+    351332
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New Line Cinema",
+    "Smart Egg Pictures",
+    "Heron Communications"
+  ],
+  "crew": [
+    {
+      "personId": 13670,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 19155,
+      "job": "composer"
+    },
+    {
+      "personId": 13663,
+      "job": "producer"
+    },
+    {
+      "personId": 62020,
+      "job": "director"
+    },
+    {
+      "personId": 62021,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62018,
+      "character": "Jesse Walsh",
+      "order": 0
+    },
+    {
+      "personId": 5139,
+      "character": "Freddy Krueger",
+      "order": 1
+    },
+    {
+      "personId": 55958,
+      "character": "Lisa Webber",
+      "order": 2
+    },
+    {
+      "personId": 52306,
+      "character": "Ron Grady",
+      "order": 3
+    },
+    {
+      "personId": 62019,
+      "character": "Mr. Walsh",
+      "order": 4
+    },
+    {
+      "personId": 3382,
+      "character": "Mrs. Walsh",
+      "order": 5
+    },
+    {
+      "personId": 3041,
+      "character": "Coach Schneider",
+      "order": 6
+    },
+    {
+      "personId": 197303,
+      "character": "Mrs. Webber",
+      "order": 7
+    },
+    {
+      "personId": 58494,
+      "character": "Mr. Webber",
+      "order": 8
+    },
+    {
+      "personId": 156925,
+      "character": "Kerry",
+      "order": 9
+    },
+    {
+      "personId": 52146,
+      "character": "Biology Teacher",
+      "order": 10
+    },
+    {
+      "personId": 102716,
+      "character": "Angela",
+      "order": 11
+    },
+    {
+      "personId": 90198,
+      "character": "Mr. Grady",
+      "order": 12
+    },
+    {
+      "personId": 553731,
+      "character": "Mrs. Grady",
+      "order": 13
+    },
+    {
+      "personId": 158696,
+      "character": "Teacher",
+      "order": 14
+    },
+    {
+      "personId": 92841,
+      "character": "Girl on Bus",
+      "order": 15
+    },
+    {
+      "personId": 158739,
+      "character": "Girl on Bus",
+      "order": 16
+    },
+    {
+      "personId": 9276,
+      "character": "Policeman",
+      "order": 17
+    },
+    {
+      "personId": 113785,
+      "character": "Do-Gooder",
+      "order": 18
+    },
+    {
+      "personId": 553732,
+      "character": "Bar-B-Que Boy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2230,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "tmdbId": 58251,
+  "slug": "daddy-longlegs-2010",
+  "year": 2010,
+  "runtime": 100,
+  "originalTitle": "Daddy Longlegs",
+  "title": {
+    "en": "Daddy Longlegs",
+    "tr": "Daddy Longlegs"
+  },
+  "overview": {
+    "en": "After months of living a solitary existence, Lenny, 34, picks up his kids from school. Every year he spends a couple of weeks with his sons Sage, 9, and Frey, 7. Lenny hosts his kids within a midtown studio apartment in New York. During these two weeks, he must figure out if he wants to act as their father or be their friend. Ultimately, their trip upstate results in complete lawlessness taking over their lives.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lnHRAJ5ucoIXDRCVxfdABpK60OS.jpg",
+    "en": "/s4o9e8bfg794L8T8tnGZNTfydZ9.jpg"
+  },
+  "backdrops": [
+    "/i3FQdpLOWKFvKVOBkQ3L0sGHvBG.jpg",
+    "/uRwbz0s7KZMeWrjWKiNIMWJLDsg.jpg",
+    "/xQuepbTnzIZ1L2QtffOoeLkZnZt.jpg",
+    "/7t9VGbbtirYUsWyvw06Jo6J3Ose.jpg",
+    "/edEuFRnoYAY9xJAYyGW1TUfnYIx.jpg",
+    "/f5Slo0RdaibOqCSCFtlrn4k4cYM.jpg",
+    "/ctOOU5NQ9ePCRXIvO1sE9ojnmkT.jpg"
+  ],
+  "trailerKey": "NpQbnh8o810",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    240119
+  ],
+  "countries": [
+    "FR",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Red Bucket Films",
+    "NASA Entertainment",
+    "Sophie Dulac Productions"
+  ],
+  "crew": [
+    {
+      "personId": 3048915,
+      "job": "producer"
+    },
+    {
+      "personId": 227564,
+      "job": "director"
+    },
+    {
+      "personId": 129561,
+      "job": "writer"
+    },
+    {
+      "personId": 129561,
+      "job": "director"
+    },
+    {
+      "personId": 227564,
+      "job": "writer"
+    },
+    {
+      "personId": 227565,
+      "job": "writer"
+    },
+    {
+      "personId": 993751,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1880050,
+      "job": "producer"
+    },
+    {
+      "personId": 129561,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 227565,
+      "character": "Lenny",
+      "order": 0
+    },
+    {
+      "personId": 4102071,
+      "character": "Alex",
+      "order": 1
+    },
+    {
+      "personId": 227566,
+      "character": "Sage Sokol",
+      "order": 2
+    },
+    {
+      "personId": 227567,
+      "character": "Frey Sokol",
+      "order": 3
+    },
+    {
+      "personId": 53938,
+      "character": "Leni",
+      "order": 4
+    },
+    {
+      "personId": 101843,
+      "character": "Stepfather",
+      "order": 5
+    },
+    {
+      "personId": 39104,
+      "character": "Robber",
+      "order": 6
+    },
+    {
+      "personId": 1424327,
+      "character": "Boat Driver",
+      "order": 7
+    },
+    {
+      "personId": 984062,
+      "character": "Roberta",
+      "order": 8
+    },
+    {
+      "personId": 129561,
+      "character": "Chris",
+      "order": 9
+    },
+    {
+      "personId": 1073579,
+      "character": "Dale",
+      "order": 10
+    },
+    {
+      "personId": 3048915,
+      "character": "Cat Burgler",
+      "order": 11
+    },
+    {
+      "personId": 1911339,
+      "character": "Rambo",
+      "order": 12
+    },
+    {
+      "personId": 4102072,
+      "character": "Principal Puccio",
+      "order": 13
+    },
+    {
+      "personId": 4102077,
+      "character": "Vietnam Vet #1",
+      "order": 14
+    },
+    {
+      "personId": 4102079,
+      "character": "Vietnam Vet #2",
+      "order": 15
+    },
+    {
+      "personId": 2518773,
+      "character": "Cruiser at 'Y'",
+      "order": 16
+    },
+    {
+      "personId": 4102084,
+      "character": "Guy in Bar",
+      "order": 17
+    },
+    {
+      "personId": 4102087,
+      "character": "Bartender",
+      "order": 18
+    },
+    {
+      "personId": 4102088,
+      "character": "Aren",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 64,
+  "sources": [
+    "cult-list"
+  ]
+}

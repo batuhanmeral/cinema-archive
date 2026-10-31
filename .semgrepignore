@@ -1,0 +1,7 @@
+/data/
+/out/
+/.next/
+node_modules/
+/coverage/
+/playwright-report/
+/pipeline/sources/__fixtures__/

@@ -1,0 +1,128 @@
+{
+  "tmdbId": 36096,
+  "slug": "lucifer-rising-1974",
+  "year": 1974,
+  "runtime": 29,
+  "originalTitle": "Lucifer Rising",
+  "title": {
+    "en": "Lucifer Rising",
+    "tr": "Lucifer Rising"
+  },
+  "overview": {
+    "en": "Egyptian gods summon the angel Lucifer, in order to usher in a new occult age.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/oWr5sJpL46XyWfDNnh9AaBawjJP.jpg",
+    "en": "/oWr5sJpL46XyWfDNnh9AaBawjJP.jpg"
+  },
+  "backdrops": [
+    "/wNoGJcVlxD5QuYK1e4zkmF7Ta24.jpg",
+    "/b0Ei0hZuM5a5J40eqgL8LcJoPkZ.jpg",
+    "/oAd4ejS5pUTdkCZkJZnRnI25Ms7.jpg",
+    "/jAt9wl4tMc50EiYbXOIVkA3yBOw.jpg",
+    "/o7uChMkaQrrXjI5HuIKTmeKFcHJ.jpg",
+    "/t2Ru8ryuGfqO0lWfvBVakiT1oif.jpg",
+    "/uCP0OBIUIEoI7wEtd8NJY8F309F.jpg",
+    "/r6IEg0cDXrFHCwnyKma2cGczkoY.jpg",
+    "/aA0uKpCU27j4fbd2xZYVPfsXQ2m.jpg",
+    "/8hy7yoijAEPzmwe3Eevnaiktf8E.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    14
+  ],
+  "keywordIds": [
+    9887,
+    156174,
+    157894,
+    241580,
+    263548
+  ],
+  "countries": [
+    "DE",
+    "US",
+    "GB"
+  ],
+  "languages": [],
+  "studios": [
+    "Vaughan Films",
+    "British Film Finance",
+    "NDR"
+  ],
+  "crew": [
+    {
+      "personId": 146964,
+      "job": "director"
+    },
+    {
+      "personId": 146964,
+      "job": "producer"
+    },
+    {
+      "personId": 543226,
+      "job": "composer"
+    },
+    {
+      "personId": 1388441,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 146964,
+      "character": "The Magus (uncredited)",
+      "order": 0
+    },
+    {
+      "personId": 543226,
+      "character": "Self (uncredited)",
+      "order": 1
+    },
+    {
+      "personId": 95462,
+      "character": "Osiris (uncredited)",
+      "order": 2
+    },
+    {
+      "personId": 1657349,
+      "character": "Adept (uncredited)",
+      "order": 3
+    },
+    {
+      "personId": 19995,
+      "character": "Lilith (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 543231,
+      "character": "Isis (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 1657350,
+      "character": "Lucifer (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 1123042,
+      "character": "High Priest in Yellow Tunic (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 87463,
+      "character": "Man with Beard holding Stele of Revealing (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 1657351,
+      "character": "Chaos (uncredited)",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 119,
+  "sources": [
+    "cult-list"
+  ]
+}

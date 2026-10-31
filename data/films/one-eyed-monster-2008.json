@@ -1,0 +1,145 @@
+{
+  "tmdbId": 24133,
+  "slug": "one-eyed-monster-2008",
+  "year": 2008,
+  "runtime": 84,
+  "originalTitle": "One-Eyed Monster",
+  "title": {
+    "en": "One-Eyed Monster",
+    "tr": "One-Eyed Monster"
+  },
+  "overview": {
+    "en": "In February 2007, ten people went to the remote mountains of Northern California to shoot an adult movie. What happened next was something no one expected, but everyone saw coming.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xXDmkwuWyQTjD8Tz7dJr93z9KdU.jpg",
+    "en": "/3CxpWX19b8qBCIoi0bOCAG7xZu.jpg"
+  },
+  "backdrops": [
+    "/ahwKLOp6CtvPRrRD4Ugb4XiARm.jpg"
+  ],
+  "trailerKey": "FNkfliqOciQ",
+  "genreIds": [
+    35,
+    27,
+    878
+  ],
+  "keywordIds": [],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Cheyenne Studios - 27567 Fantastic Lane"
+  ],
+  "crew": [
+    {
+      "personId": 1683468,
+      "job": "writer"
+    },
+    {
+      "personId": 1683468,
+      "job": "director"
+    },
+    {
+      "personId": 1683468,
+      "job": "composer"
+    },
+    {
+      "personId": 1683468,
+      "job": "producer"
+    },
+    {
+      "personId": 1662088,
+      "job": "writer"
+    },
+    {
+      "personId": 2083869,
+      "job": "writer"
+    },
+    {
+      "personId": 975143,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 98363,
+      "character": "Jonah",
+      "order": 0
+    },
+    {
+      "personId": 16119,
+      "character": "Mohtz",
+      "order": 1
+    },
+    {
+      "personId": 30068,
+      "character": "Jim",
+      "order": 2
+    },
+    {
+      "personId": 98365,
+      "character": "Veronica",
+      "order": 3
+    },
+    {
+      "personId": 84791,
+      "character": "Lance",
+      "order": 4
+    },
+    {
+      "personId": 98366,
+      "character": "Wanda",
+      "order": 5
+    },
+    {
+      "personId": 98367,
+      "character": "T.J.",
+      "order": 6
+    },
+    {
+      "personId": 98368,
+      "character": "Angel",
+      "order": 7
+    },
+    {
+      "personId": 42545,
+      "character": "Ron",
+      "order": 8
+    },
+    {
+      "personId": 35468,
+      "character": "Laura",
+      "order": 9
+    },
+    {
+      "personId": 1047700,
+      "character": "Rock",
+      "order": 10
+    },
+    {
+      "personId": 2148234,
+      "character": "Bus Driver",
+      "order": 11
+    },
+    {
+      "personId": 2148236,
+      "character": "Radio Vocal Performance (voice)",
+      "order": 12
+    },
+    {
+      "personId": 2068338,
+      "character": "Black Mamba",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 66,
+  "sources": [
+    "cult-list"
+  ]
+}

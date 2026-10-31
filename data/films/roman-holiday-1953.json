@@ -1,0 +1,203 @@
+{
+  "tmdbId": 804,
+  "slug": "roman-holiday-1953",
+  "year": 1953,
+  "runtime": 119,
+  "originalTitle": "Roman Holiday",
+  "title": {
+    "en": "Roman Holiday",
+    "tr": "Roma Tatili"
+  },
+  "overview": {
+    "en": "Overwhelmed by her suffocating schedule, touring European princess Ann takes off for a night while in Rome. When a sedative she took from her doctor kicks in, however, she falls asleep on a park bench and is found by an American reporter, Joe Bradley, who takes her back to his apartment for safety. At work the next morning, Joe finds out Ann's regal identity and bets his editor he can get exclusive interview with her, but romance soon gets in the way.",
+    "tr": "Audrey Hepburn'den ilk başrolünde Oscar'lı bir performans  Tam 10 dalda Oscar'a aday olan ve Audrey Hepburn'e En İyi Kadın Kadın Oyuncu ödülünü kazandıran Roma Tatili, bir modern zaman prensesinin kraliyet dayatmalarına karşı gelerek tek başına Roma'yı keşfe çıkmasının hikayesini anlatıyor. Burada gazeteci kimliğini saklayarak ilginç hikayeler peşinde koşan Amerikalı bir gazeteciyle tanışıyor. Ancak planı ikilinin birbirine aşık olmasıyla suya düşüyor."
+  },
+  "poster": {
+    "tr": "/fXFUXD3h0cVrNJ9yKWcGzmx35fG.jpg",
+    "en": "/qT2KU2oXtkDIaoutT995BkyaoHI.jpg"
+  },
+  "backdrops": [
+    "/6f50k0bAekjxDvVvGC1SupJSzf4.jpg",
+    "/9p2oLEbktIrmwaZWRJkUtuQiSH8.jpg",
+    "/4psf8OdNFLVGz185HG2Z5vOYXmu.jpg",
+    "/n0MyuZW9WJBGCYhzhfCI3d4zlRo.jpg",
+    "/gzRISGjiDMj4xqYE9ES2KNIXxpo.jpg",
+    "/oqhc1FflJVZJRG38haywo8TCjOP.jpg",
+    "/2H9B5SGxgFoXWzMBcXYEI8WCUBB.jpg",
+    "/f99DWpdZBXGoj3nvjdhhZuVGN6p.jpg",
+    "/uNL5qFZwm11GUyxKTo8Gx50qfxO.jpg",
+    "/g9BKPUi6dBKUqE4Wx7ZJFypnPz3.jpg"
+  ],
+  "trailerKey": "2vm2FdHg7Io",
+  "genreIds": [
+    10749,
+    35,
+    18
+  ],
+  "keywordIds": [
+    1691,
+    588,
+    6025,
+    1422,
+    1308,
+    2051,
+    4123,
+    3691,
+    4674,
+    4263,
+    12999
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 2307,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10001,
+      "job": "producer"
+    },
+    {
+      "personId": 11994,
+      "job": "writer"
+    },
+    {
+      "personId": 2578,
+      "job": "composer"
+    },
+    {
+      "personId": 10001,
+      "job": "director"
+    },
+    {
+      "personId": 11995,
+      "job": "writer"
+    },
+    {
+      "personId": 11993,
+      "job": "writer"
+    },
+    {
+      "personId": 1940,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8487,
+      "character": "Joe Bradley",
+      "order": 0
+    },
+    {
+      "personId": 1932,
+      "character": "Princess Ann",
+      "order": 1
+    },
+    {
+      "personId": 11998,
+      "character": "Irving Radovich",
+      "order": 2
+    },
+    {
+      "personId": 11999,
+      "character": "Mr. Hennessy",
+      "order": 3
+    },
+    {
+      "personId": 12000,
+      "character": "Ambassador",
+      "order": 4
+    },
+    {
+      "personId": 12001,
+      "character": "Countess Vereberg",
+      "order": 5
+    },
+    {
+      "personId": 12002,
+      "character": "General Provno",
+      "order": 6
+    },
+    {
+      "personId": 12003,
+      "character": "Mario Delani",
+      "order": 7
+    },
+    {
+      "personId": 12004,
+      "character": "Giovanni",
+      "order": 8
+    },
+    {
+      "personId": 12005,
+      "character": "Charwoman",
+      "order": 9
+    },
+    {
+      "personId": 12006,
+      "character": "Cab Driver",
+      "order": 10
+    },
+    {
+      "personId": 1315106,
+      "character": "Hennessy's Secretary",
+      "order": 11
+    },
+    {
+      "personId": 1489908,
+      "character": "Shoe Seller",
+      "order": 12
+    },
+    {
+      "personId": 1560722,
+      "character": "Admiral Dancing with Princess (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 131306,
+      "character": "Young Boy with Car (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 228864,
+      "character": "Flower Seller (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 39431,
+      "character": "Embassy Aide (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1454254,
+      "character": "Correspondent at Poker Game (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1124231,
+      "character": "Correspondent at Poker Game (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 999782,
+      "character": "Old Man Dancing with Princess (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 2363,
+  "sources": [
+    "cult-list"
+  ]
+}

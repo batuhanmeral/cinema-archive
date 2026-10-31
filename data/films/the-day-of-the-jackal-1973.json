@@ -1,0 +1,195 @@
+{
+  "tmdbId": 4909,
+  "slug": "the-day-of-the-jackal-1973",
+  "year": 1973,
+  "runtime": 143,
+  "originalTitle": "The Day of the Jackal",
+  "title": {
+    "en": "The Day of the Jackal",
+    "tr": "Çakalın Günü"
+  },
+  "overview": {
+    "en": "An international assassin known as ‘The Jackal’ is employed by disgruntled French generals to kill President Charles de Gaulle, with a dedicated gendarme on the assassin’s trail.",
+    "tr": "Başkan Charles De Gaulle'un Fransız Cezayir'ini özgür bırakma planından hazetmeyen bir grup Fransız paramiliteri, De Gaulle'ü öldürmeyi planlar. Planlarını gerçekleştirmek için grup \"The Jackal\" olarak bilinen bir İngiliz suikastçı kiralar. Plan Fransız polisi tarafından ortaya çıkarılır ve müfettiş Lebel, The Jackal'ın takibindedir."
+  },
+  "poster": {
+    "tr": "/vThgcb3JOj99yETg8WChuci4LV2.jpg",
+    "en": "/vThgcb3JOj99yETg8WChuci4LV2.jpg"
+  },
+  "backdrops": [
+    "/eCnT1kEg8uAOyoQLhxoIbqfS0xQ.jpg",
+    "/kB9Y59YDMOFdm5LgSyTVj4b6hh6.jpg",
+    "/rVLI1zHSyz8wopiXZKvrI5S8Csf.jpg",
+    "/v8MyTsIuxe8udrzOP2ZaIkfgr8t.jpg",
+    "/98ihG67DIZfyPKimk2aqNPQPNun.jpg",
+    "/KBxipbKW8eq0uiVbSuigO8VEu.jpg",
+    "/6JiasKXPr6IfZIZl3Mi6323q1kH.jpg",
+    "/c3QhBwzm9mf4Mk7a3DYqrR0HIRE.jpg",
+    "/b027xvLZ9lda5LwNfaFYhgWy2AS.jpg",
+    "/6rLmxCVxikjqkK7Bc2XgojwWoLl.jpg"
+  ],
+  "trailerKey": "2rY6hFgC0XI",
+  "genreIds": [
+    28,
+    53
+  ],
+  "keywordIds": [
+    782,
+    441,
+    254,
+    90,
+    818,
+    6149,
+    2708,
+    2052,
+    3098,
+    3864,
+    18118,
+    190434,
+    191600,
+    197602
+  ],
+  "countries": [
+    "FR",
+    "GB"
+  ],
+  "languages": [
+    "fr",
+    "it",
+    "en"
+  ],
+  "studios": [
+    "Universal Productions France",
+    "Warwick Film Productions",
+    "John Woolf Productions"
+  ],
+  "crew": [
+    {
+      "personId": 3535,
+      "job": "composer"
+    },
+    {
+      "personId": 4065,
+      "job": "director"
+    },
+    {
+      "personId": 10470,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 26264,
+      "job": "writer"
+    },
+    {
+      "personId": 6601,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9126,
+      "character": "The Jackal",
+      "order": 0
+    },
+    {
+      "personId": 30035,
+      "character": "Lloyd",
+      "order": 1
+    },
+    {
+      "personId": 9746,
+      "character": "Colonel Rolland",
+      "order": 2
+    },
+    {
+      "personId": 39065,
+      "character": "the Minister",
+      "order": 3
+    },
+    {
+      "personId": 39950,
+      "character": "Inspector Thomas",
+      "order": 4
+    },
+    {
+      "personId": 39951,
+      "character": "Casson",
+      "order": 5
+    },
+    {
+      "personId": 4973,
+      "character": "Gunsmith",
+      "order": 6
+    },
+    {
+      "personId": 39952,
+      "character": "General Colbert",
+      "order": 7
+    },
+    {
+      "personId": 2369,
+      "character": "Deputy Commissioner Claude Lebel",
+      "order": 8
+    },
+    {
+      "personId": 649,
+      "character": "Interrogator",
+      "order": 9
+    },
+    {
+      "personId": 34584,
+      "character": "Pascal",
+      "order": 10
+    },
+    {
+      "personId": 39491,
+      "character": "Denise",
+      "order": 11
+    },
+    {
+      "personId": 26879,
+      "character": "Flavigny",
+      "order": 12
+    },
+    {
+      "personId": 39949,
+      "character": "St. Clair",
+      "order": 13
+    },
+    {
+      "personId": 3508,
+      "character": "Colette de Montpellier",
+      "order": 14
+    },
+    {
+      "personId": 937,
+      "character": "Inspector Caron",
+      "order": 15
+    },
+    {
+      "personId": 39953,
+      "character": "Victor Wolenski",
+      "order": 16
+    },
+    {
+      "personId": 32556,
+      "character": "The Forger",
+      "order": 17
+    },
+    {
+      "personId": 39955,
+      "character": "Colonel Rodin",
+      "order": 18
+    },
+    {
+      "personId": 28853,
+      "character": "Jules Bernard",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 723,
+  "sources": [
+    "cult-list"
+  ]
+}

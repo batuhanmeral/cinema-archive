@@ -1,0 +1,241 @@
+{
+  "tmdbId": 3513,
+  "slug": "legionnaire-1998",
+  "year": 1998,
+  "runtime": 98,
+  "originalTitle": "Legionnaire",
+  "title": {
+    "en": "Legionnaire",
+    "tr": "Çöl Kaplanı"
+  },
+  "overview": {
+    "en": "Alain Lefevre is a boxer paid by a Marseille mobster to take a dive. When he wins the fight he attempts to flee to America with the mobster's girlfriend Katrina. This plan fails and he seeks escape by joining the foreign legion. As part of the legion he tangles with abusive lieutenant Steinkampf and bonds with legionnaires Luther, Mackintosh and Rosetti.",
+    "tr": "Yıl 1924. Gecenin karanlığı çökerken Marsilya'nın nemli sokakları Jandarmanın düdük sesleri ile yankılanır. Gangsterler, araba ile kaçmaktadırlar. Tren istasyonunda, güzel bir kadın tek başına beklemektedir. Hemen yakınlarında ise Alain Lefevre dar sokaklardan geçmektedir. Çaresizce gölgelerde saklanan ve avlanmak üzere olan bir hayvan gibi kaçmaktadır.Gece olmadan önce bu genç boksör, bu bayanı mafyanın elinden kurtarmaya çalışırken yaptığı boks maçında tuzağa düşürülmüştür.İki kişinin katili olarak aranmaktadır. Kaçması ve yeni bir kimlik bulması gerekmektedir. Bu yüzden Fransız lejyonuna katılıp kendini kurtaracaktır. Fakat burada yaşayacakları hayatını akışını değiştirecek."
+  },
+  "poster": {
+    "tr": "/55smnXwRGHA8qH0mMLWD3dzSlFR.jpg",
+    "en": "/sBeI7TeJzVw103iacL03v7Y5mCX.jpg"
+  },
+  "backdrops": [
+    "/1XDIO7OysEwgnGOmwgjKijauePO.jpg",
+    "/uDicXMIFyQKDUgMaXq0YAHNPs5I.jpg",
+    "/hs8dn7DE4mVPz6SbePz75IqxBdh.jpg",
+    "/lHmI3sEY99Sduaupnx3BUXwcD7u.jpg",
+    "/sMqW0uHP82e1p6d6S2KBClDZsO0.jpg",
+    "/tQMdAaC2k68MuCUD8XTLnSoJios.jpg",
+    "/o3GpdB8XAKLRuv7WDobZgYxcoh4.jpg",
+    "/8UaL5gkdDFdhezakIs8LQSBTfb3.jpg"
+  ],
+  "trailerKey": "_SG7kiDdjMg",
+  "genreIds": [
+    28,
+    10752,
+    12,
+    36
+  ],
+  "keywordIds": [
+    1450,
+    779,
+    526,
+    1629,
+    6789,
+    9725,
+    9748,
+    10141,
+    12371,
+    13065,
+    14643,
+    18034,
+    18543,
+    158778,
+    207876,
+    219404,
+    281585
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Quadra Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 32339,
+      "job": "writer"
+    },
+    {
+      "personId": 32034,
+      "job": "producer"
+    },
+    {
+      "personId": 16589,
+      "job": "director"
+    },
+    {
+      "personId": 16590,
+      "job": "writer"
+    },
+    {
+      "personId": 32343,
+      "job": "producer"
+    },
+    {
+      "personId": 32340,
+      "job": "producer"
+    },
+    {
+      "personId": 4697,
+      "job": "producer"
+    },
+    {
+      "personId": 32035,
+      "job": "producer"
+    },
+    {
+      "personId": 11268,
+      "job": "producer"
+    },
+    {
+      "personId": 16589,
+      "job": "producer"
+    },
+    {
+      "personId": 32341,
+      "job": "producer"
+    },
+    {
+      "personId": 15111,
+      "job": "producer"
+    },
+    {
+      "personId": 16590,
+      "job": "producer"
+    },
+    {
+      "personId": 32347,
+      "job": "composer"
+    },
+    {
+      "personId": 52338,
+      "job": "producer"
+    },
+    {
+      "personId": 32346,
+      "job": "producer"
+    },
+    {
+      "personId": 8306,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15111,
+      "character": "Alain Lefevre",
+      "order": 0
+    },
+    {
+      "personId": 31164,
+      "character": "Luther",
+      "order": 1
+    },
+    {
+      "personId": 782,
+      "character": "Sgt. Steinkampf",
+      "order": 2
+    },
+    {
+      "personId": 32357,
+      "character": "Mackintosh",
+      "order": 3
+    },
+    {
+      "personId": 20070,
+      "character": "Lucien Galgani",
+      "order": 4
+    },
+    {
+      "personId": 32358,
+      "character": "Katarina",
+      "order": 5
+    },
+    {
+      "personId": 19875,
+      "character": "Guido Rosetti",
+      "order": 6
+    },
+    {
+      "personId": 27649,
+      "character": "Maxim",
+      "order": 7
+    },
+    {
+      "personId": 32359,
+      "character": "Rene Galgano",
+      "order": 8
+    },
+    {
+      "personId": 32360,
+      "character": "Julot",
+      "order": 9
+    },
+    {
+      "personId": 32361,
+      "character": "Capt. Rousselot",
+      "order": 10
+    },
+    {
+      "personId": 32340,
+      "character": "Abd-El Krim",
+      "order": 11
+    },
+    {
+      "personId": 3205343,
+      "character": "Can Can Girl",
+      "order": 12
+    },
+    {
+      "personId": 1504366,
+      "character": "Cpl. Legros",
+      "order": 13
+    },
+    {
+      "personId": 54014,
+      "character": "Recruiting Sergeant",
+      "order": 14
+    },
+    {
+      "personId": 128188,
+      "character": "Glock",
+      "order": 15
+    },
+    {
+      "personId": 97436,
+      "character": "Gendarme #1",
+      "order": 16
+    },
+    {
+      "personId": 40736,
+      "character": "Gendarme #2",
+      "order": 17
+    },
+    {
+      "personId": 27287,
+      "character": "Soldier",
+      "order": 18
+    },
+    {
+      "personId": 3151973,
+      "character": "Gangster's Mou (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 642,
+  "sources": [
+    "cult-list"
+  ]
+}

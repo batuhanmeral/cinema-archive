@@ -1,0 +1,146 @@
+{
+  "tmdbId": 72615,
+  "slug": "exposed-1971",
+  "year": 1971,
+  "runtime": 89,
+  "originalTitle": "Exponerad",
+  "title": {
+    "en": "Exposed",
+    "tr": "Exponerad"
+  },
+  "overview": {
+    "en": "Lena is a young woman in need of excitement and sexual satisfaction. Torn between her meek and innocent boyfriend Jan and the sadistic partygoer Helge, Lena‘s life is turned upside down when Helge take some nude photographs of her. These photos could destroy her life.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/nXEmZ4upGgwOgLXNfApjFnxyDoP.jpg",
+    "en": "/quK0eh6r08701K8TpmnFeZKKx9z.jpg"
+  },
+  "backdrops": [
+    "/tghb1f4wUNtZOmgH2DZolqDGUxT.jpg",
+    "/y7Qc6XgNnJTYmE55RKkZJBw6oku.jpg",
+    "/9W2f2m7mXm22Q5twuwZqHBkOndL.jpg",
+    "/m4PLHHvJrFsKpiyFRk28OKgZD8z.jpg",
+    "/6vHYyQmshsRNgNT0XrrcvvmFeFX.jpg",
+    "/3TLpN4epP1puxkoEyCzFWMj7HF7.jpg"
+  ],
+  "trailerKey": "A6ucyIC6eFQ",
+  "genreIds": [
+    53,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    570,
+    9740,
+    180340,
+    190370
+  ],
+  "countries": [
+    "SE"
+  ],
+  "languages": [
+    "sv"
+  ],
+  "studios": [
+    "Olympic Film"
+  ],
+  "crew": [
+    {
+      "personId": 31193,
+      "job": "writer"
+    },
+    {
+      "personId": 336328,
+      "job": "producer"
+    },
+    {
+      "personId": 31193,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 77712,
+      "job": "composer"
+    },
+    {
+      "personId": 5222020,
+      "job": "producer"
+    },
+    {
+      "personId": 5222020,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 77707,
+      "character": "Lena Svensson",
+      "order": 0
+    },
+    {
+      "personId": 77708,
+      "character": "Helge",
+      "order": 1
+    },
+    {
+      "personId": 70277,
+      "character": "Lena's Mother",
+      "order": 2
+    },
+    {
+      "personId": 34773,
+      "character": "Taxidermist",
+      "order": 3
+    },
+    {
+      "personId": 120985,
+      "character": "Jan's Mother",
+      "order": 4
+    },
+    {
+      "personId": 34772,
+      "character": "Lena's first Hitch-Hike",
+      "order": 5
+    },
+    {
+      "personId": 244278,
+      "character": "Party Guest",
+      "order": 6
+    },
+    {
+      "personId": 79256,
+      "character": "Lars",
+      "order": 7
+    },
+    {
+      "personId": 112854,
+      "character": "Lena's Father",
+      "order": 8
+    },
+    {
+      "personId": 1169391,
+      "character": "Jan, Lena's boyfriend",
+      "order": 9
+    },
+    {
+      "personId": 213531,
+      "character": "Ulla",
+      "order": 10
+    },
+    {
+      "personId": 1518710,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1170930,
+      "character": "Lena Svensson (voice)",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 39,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "tmdbId": 1125,
+  "slug": "dreamgirls-2006",
+  "year": 2006,
+  "runtime": 130,
+  "originalTitle": "Dreamgirls",
+  "title": {
+    "en": "Dreamgirls",
+    "tr": "Rüya Kızlar"
+  },
+  "overview": {
+    "en": "A trio of female soul singers cross over to the pop charts in the early 1960s, facing their own personal struggles along the way.",
+    "tr": "60'ların başından 70'lerin ortalarına dek süren çalkantılı süreçte geçen RÜYA KIZLAR, umut vaat eden \"The Dreamettes\" adlı müzik grubunu kuran Effie (Jennifer Hudson), Deena (Beyoncé Knowles) ve Lorrell (Anika Noni Rose) adlarındaki üç kızın yükseliş hikayesini anlatıyor. Hırslı menajer Curtis Taylor, Jr. (Jamie Foxx), bir yetenek yarışmasında keşfettiği kızlara, hayatlarının teklifini yaparak; onlara as sanatçı James \"Thunder\" Early (Eddie Murphy)'nin yardımcı sanatçıları olmalarını teklif eder. Curtis zamanla kızların görünüşlerinin ve seslerinin kontrolünü ele alır ve halkın büyük ilgisini uyandıran kızların sonunda kamuoyunda, kendi dışa vurumlarının ifadesi olan \"The Dreams-Rüyalar\" ismi ile anılmasını sağlar."
+  },
+  "poster": {
+    "tr": "/14LnZENOlN9NktgR91ZdF395hLF.jpg",
+    "en": "/vNU0DxNBv4ElqD861a7sYNuUEhq.jpg"
+  },
+  "backdrops": [
+    "/8wYluVq5AVXhnFFMhUYD9D4rTz5.jpg",
+    "/7lfzg2qkFpMLNgTr2HfX9ZLSO0h.jpg",
+    "/w1SWrcC0icGzDZxR94oq4o862U8.jpg",
+    "/1oChrqnYXN1JvoXAtc9VkPn0228.jpg",
+    "/y0vv5UGRhVYEk9fqyK8iBIn4XeB.jpg",
+    "/yvaCtPR7db7ssPqhs7KARQGN2Vo.jpg",
+    "/vaqew762Xv3xTKWA9k6AwIYVJwb.jpg",
+    "/mVayrxVGOBSwQPRa7Pvl20Wcutl.jpg",
+    "/eOZPoBVKinw3cHDd3lJxV0al0Xn.jpg",
+    "/ybBQNzKruYREiwEI3Ubf1S74JER.jpg"
+  ],
+  "trailerKey": "DTgGuFOh2M0",
+  "genreIds": [
+    18,
+    10402
+  ],
+  "keywordIds": [
+    837,
+    1803,
+    4344,
+    4481,
+    4741,
+    4742,
+    4744,
+    4746,
+    12990,
+    18021,
+    33457,
+    34094,
+    217468,
+    253239,
+    331144,
+    338528,
+    338548
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "DreamWorks Pictures",
+    "Paramount Pictures",
+    "Laurence Mark Productions"
+  ],
+  "crew": [
+    {
+      "personId": 10685,
+      "job": "producer"
+    },
+    {
+      "personId": 15557,
+      "job": "director"
+    },
+    {
+      "personId": 15559,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 15557,
+      "job": "writer"
+    },
+    {
+      "personId": 15558,
+      "job": "composer"
+    },
+    {
+      "personId": 15571,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14386,
+      "character": "Deena Jones",
+      "order": 0
+    },
+    {
+      "personId": 776,
+      "character": "James 'Thunder' Early",
+      "order": 1
+    },
+    {
+      "personId": 15565,
+      "character": "Effie White",
+      "order": 2
+    },
+    {
+      "personId": 134,
+      "character": "Curtis Taylor Jr.",
+      "order": 3
+    },
+    {
+      "personId": 2047,
+      "character": "Marty Madison",
+      "order": 4
+    },
+    {
+      "personId": 15563,
+      "character": "Lorrell Robinson",
+      "order": 5
+    },
+    {
+      "personId": 15564,
+      "character": "C.C. White",
+      "order": 6
+    },
+    {
+      "personId": 15566,
+      "character": "Michelle Morris",
+      "order": 7
+    },
+    {
+      "personId": 15567,
+      "character": "Wayne",
+      "order": 8
+    },
+    {
+      "personId": 15568,
+      "character": "Magic",
+      "order": 9
+    },
+    {
+      "personId": 15569,
+      "character": "May",
+      "order": 10
+    },
+    {
+      "personId": 95758,
+      "character": "Max Washington",
+      "order": 11
+    },
+    {
+      "personId": 17697,
+      "character": "Sam Walsh",
+      "order": 12
+    },
+    {
+      "personId": 53601,
+      "character": "Miami Comic",
+      "order": 13
+    },
+    {
+      "personId": 181080,
+      "character": "M.C.",
+      "order": 14
+    },
+    {
+      "personId": 87819,
+      "character": "Melba Early",
+      "order": 15
+    },
+    {
+      "personId": 110884,
+      "character": "Tiny Joe Dixon",
+      "order": 16
+    },
+    {
+      "personId": 18284,
+      "character": "Jazz Singer",
+      "order": 17
+    },
+    {
+      "personId": 12074,
+      "character": "Jerry Harris",
+      "order": 18
+    },
+    {
+      "personId": 9299,
+      "character": "Ronald White",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2,
+    "golden-globe": 1
+  },
+  "voteCount": 1125,
+  "sources": [
+    "cult-list"
+  ]
+}

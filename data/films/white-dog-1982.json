@@ -1,0 +1,194 @@
+{
+  "tmdbId": 47955,
+  "slug": "white-dog-1982",
+  "year": 1982,
+  "runtime": 90,
+  "originalTitle": "White Dog",
+  "title": {
+    "en": "White Dog",
+    "tr": "Beyaz Köpek"
+  },
+  "overview": {
+    "en": "Samuel Fuller’s throat-grabbing exposé on American racism was misunderstood and withheld from release when it was made in the early eighties.Today, the notorious film is lauded for its daring metaphor and gripping pulp filmmaking. Kristy McNichol stars as a young actress who adopts a lost German shepherd, only to discover through a series of horrifying incidents that the dog has been trained to attack black people, and Paul Winfield plays the animal trainer who tries to cure him. A snarling, uncompromising vision, White Dog is a tragic portrait of the evil done by that most corruptible of all animals; the human being.",
+    "tr": "Hollywood’da bir oyuncu olan Julie Sawyer bir gece arabasıyla beyaz bir köpeğe çarpar. İyi huylu gözüken bu köpeği evine alıp, iyileştirir. Bir gün, Julie’nin evine bir adam girer ve ona tecavüze yeltenir; fakat köpek adama saldırır ve Julie’yi kurtarır. O olaydan sonra köpeğin saldırıları çoğalır ve birkaç ölüme neden olur. Julie, ölümleri inceleyerek köpeğin siyah ırktan olanlara saldırmak üzere eğitilmiş olduğunu fark eder. Bu durumu bir hayvan eğitmenine danışır; fakat eğitmen onun eğitilemeyeceğini söyleyip, köpeğin öldürülmesini önerir. Siyahi ırktan olan bir eğitmen olan Keys ise, köpeği düzelteceğine inanır ve kendi canını tehlikeye atacağını bile bile eğitmeye koyulur. Daha önce de Hollywood'da birçok film ekonomik veya politik riskler taşıdığı gerekçesiyle makaslanmış, yeniden kurgulanmış veya gösterime çıkartılması geciktirilmişti.ABD'de Paramount stüdyolarında yapıldığı halde hiçbir zaman bu ülkede sinemalarda gösterime çıkamayan filmlerden biriydi."
+  },
+  "poster": {
+    "tr": "/2oU700G9pDwFt7px5GxOqDHFPfR.jpg",
+    "en": "/kkRiL9RA7mrLy9cRtHIpI2m6bUF.jpg"
+  },
+  "backdrops": [
+    "/lGmXLS3zRwUHmbsBsvWkdCpwwdv.jpg",
+    "/joervqil23xN9XEddOYcderstrA.jpg",
+    "/shMsOSMJora9gfym834LyyG6BeM.jpg",
+    "/QlAEXbajfrUd40UlKMlXNql3NI.jpg",
+    "/yYddTCIoWvpVl9hbyqEQV3OsX61.jpg",
+    "/hEgd54Ta1PAgCrooe00aZmkYUFA.jpg",
+    "/z6tJ32Nxxk66kt6AbSm7qskBc5D.jpg",
+    "/7Rcg2C6XGGM4kZkoqQXxWMvi6Lc.jpg",
+    "/pj0QdLG8RX0vnUa2p4l9x0EBqf9.jpg",
+    "/o0X5RN433IA6zhAP0gQtVrVSQNY.jpg"
+  ],
+  "trailerKey": "IhkrvBNnAcw",
+  "genreIds": [
+    18,
+    27,
+    53
+  ],
+  "keywordIds": [
+    818,
+    6149,
+    567,
+    1437,
+    1482,
+    7856,
+    9826,
+    10563,
+    12396,
+    15162,
+    155781,
+    203586,
+    203593
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 26959,
+      "job": "director"
+    },
+    {
+      "personId": 26959,
+      "job": "writer"
+    },
+    {
+      "personId": 323,
+      "job": "writer"
+    },
+    {
+      "personId": 7723,
+      "job": "producer"
+    },
+    {
+      "personId": 1259,
+      "job": "composer"
+    },
+    {
+      "personId": 792,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 42195,
+      "character": "Julie Sawyer",
+      "order": 0
+    },
+    {
+      "personId": 1818,
+      "character": "Keys",
+      "order": 1
+    },
+    {
+      "personId": 2753,
+      "character": "Carruthers",
+      "order": 2
+    },
+    {
+      "personId": 47441,
+      "character": "Roland Grale",
+      "order": 3
+    },
+    {
+      "personId": 246358,
+      "character": "Nurse",
+      "order": 4
+    },
+    {
+      "personId": 119782,
+      "character": "Vet",
+      "order": 5
+    },
+    {
+      "personId": 1295296,
+      "character": "Attacker",
+      "order": 6
+    },
+    {
+      "personId": 102437,
+      "character": "Sun Bather",
+      "order": 7
+    },
+    {
+      "personId": 166671,
+      "character": "Pound Operator",
+      "order": 8
+    },
+    {
+      "personId": 1295297,
+      "character": "Pound Worker",
+      "order": 9
+    },
+    {
+      "personId": 159327,
+      "character": "Pound Driver",
+      "order": 10
+    },
+    {
+      "personId": 15850,
+      "character": "Sweeper Driver",
+      "order": 11
+    },
+    {
+      "personId": 26959,
+      "character": "Charlie Felton",
+      "order": 12
+    },
+    {
+      "personId": 84233,
+      "character": "Director",
+      "order": 13
+    },
+    {
+      "personId": 101377,
+      "character": "Cameraman",
+      "order": 14
+    },
+    {
+      "personId": 102441,
+      "character": "Animal Trainer",
+      "order": 15
+    },
+    {
+      "personId": 137580,
+      "character": "Assistant Director",
+      "order": 16
+    },
+    {
+      "personId": 95009,
+      "character": "Soundman",
+      "order": 17
+    },
+    {
+      "personId": 1680739,
+      "character": "Gondolier",
+      "order": 18
+    },
+    {
+      "personId": 47460,
+      "character": "Molly",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 318,
+  "sources": [
+    "cult-list"
+  ]
+}

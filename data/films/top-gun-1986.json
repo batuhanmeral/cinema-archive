@@ -1,0 +1,206 @@
+{
+  "tmdbId": 744,
+  "slug": "top-gun-1986",
+  "year": 1986,
+  "runtime": 110,
+  "originalTitle": "Top Gun",
+  "title": {
+    "en": "Top Gun",
+    "tr": "Top Gun"
+  },
+  "overview": {
+    "en": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.",
+    "tr": "Top Gun bir onur ödülüdür. Bunu elde etmek için bu alanda mücadele veren herkes heyecan içindedir. Pete Mitchell, yüksek düzeyde eğitim görmek üzere Miramar Donanma Hava Üssü’nde bulunmaktadır ve bu ödülün peşindedir. Aynı zamanda kıdemli pilot Tom Kasansky de bu yola baş koymuştur. İkisi arasında bir rekabet söz konusudur. Mitchell, diğer pilotlar tarafından çok sıcak karşılanan biri değildir çünkü vaktiyle babası, bir kazaya neden olur. O kazada da hem kendi ölür hem de birçok asker şehit olur. Mitchell bir süre sonra Charlotte Blackwood ile tanışır ve onunla aşk yaşamaya başlar. Arkadaşın ölüm haberinin etkisi ile Mitchell, Top Gun ödülünü kaybeder. Ruhsal sorunlar yaşamaya başlar. Gerçek ve kalıcı bir başarı için bir şansı vardır. Yeni görevinin üstesinden gelmek zorundadır..."
+  },
+  "poster": {
+    "tr": "/qxOQksxfJK8vUyDgK9vLg4rXt58.jpg",
+    "en": "/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg"
+  },
+  "backdrops": [
+    "/jILeJ60zPpIjjJHGSmIeY4eO30t.jpg",
+    "/dBgxEkWe17R0AJDAvAhpeVELQx2.jpg",
+    "/n4CpHk3wX6gP0W11zcYNr4SPBbt.jpg",
+    "/sgxdZd9F5FdgIa8sNwaGLbATiUS.jpg",
+    "/6OcLFh2a9jajIlrTWdt9Y1tyuJz.jpg",
+    "/j6sAlNz354qtzvG01LLYF16Uufg.jpg",
+    "/bFE5fC8vHJAigQvXfNh8hnjYMXc.jpg",
+    "/wRqFOqe1c8RFQmROD4bUgIHfmSZ.jpg",
+    "/7Npdg6qoqliO3LaxhpwpdIHg5d0.jpg",
+    "/wpIMiO8bMfaZMyGMfHB1CAz3Yzs.jpg"
+  ],
+  "trailerKey": "Klc__shdj88",
+  "genreIds": [
+    28,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    3737,
+    7879,
+    725,
+    3800,
+    697,
+    2796,
+    6062,
+    2533,
+    3203,
+    3777,
+    3994,
+    4410,
+    13001,
+    157096,
+    207414,
+    239275
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Don Simpson/Jerry Bruckheimer Films"
+  ],
+  "crew": [
+    {
+      "personId": 771,
+      "job": "producer"
+    },
+    {
+      "personId": 770,
+      "job": "producer"
+    },
+    {
+      "personId": 799,
+      "job": "composer"
+    },
+    {
+      "personId": 904,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 893,
+      "job": "director"
+    },
+    {
+      "personId": 11080,
+      "job": "writer"
+    },
+    {
+      "personId": 11081,
+      "job": "writer"
+    },
+    {
+      "personId": 1208332,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 500,
+      "character": "Maverick",
+      "order": 0
+    },
+    {
+      "personId": 11084,
+      "character": "Charlie",
+      "order": 1
+    },
+    {
+      "personId": 5576,
+      "character": "Ice",
+      "order": 2
+    },
+    {
+      "personId": 11085,
+      "character": "Goose",
+      "order": 3
+    },
+    {
+      "personId": 4139,
+      "character": "Viper",
+      "order": 4
+    },
+    {
+      "personId": 11086,
+      "character": "Jester",
+      "order": 5
+    },
+    {
+      "personId": 57082,
+      "character": "Cougar",
+      "order": 6
+    },
+    {
+      "personId": 11088,
+      "character": "Wolfman",
+      "order": 7
+    },
+    {
+      "personId": 2717,
+      "character": "Slider",
+      "order": 8
+    },
+    {
+      "personId": 504,
+      "character": "Merlin",
+      "order": 9
+    },
+    {
+      "personId": 51581,
+      "character": "Sundown",
+      "order": 10
+    },
+    {
+      "personId": 11089,
+      "character": "Hollywood",
+      "order": 11
+    },
+    {
+      "personId": 1072,
+      "character": "Stinger",
+      "order": 12
+    },
+    {
+      "personId": 5344,
+      "character": "Carole",
+      "order": 13
+    },
+    {
+      "personId": 17304,
+      "character": "Chipper",
+      "order": 14
+    },
+    {
+      "personId": 1681008,
+      "character": "Lt. Davis",
+      "order": 15
+    },
+    {
+      "personId": 44896,
+      "character": "Air Boss Johnson",
+      "order": 16
+    },
+    {
+      "personId": 1219833,
+      "character": "Sprawl",
+      "order": 17
+    },
+    {
+      "personId": 47845,
+      "character": "Inquiry Commander",
+      "order": 18
+    },
+    {
+      "personId": 101615,
+      "character": "Bartender",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 10049,
+  "sources": [
+    "cult-list"
+  ]
+}

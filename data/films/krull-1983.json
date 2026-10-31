@@ -1,0 +1,198 @@
+{
+  "tmdbId": 849,
+  "slug": "krull-1983",
+  "year": 1983,
+  "runtime": 121,
+  "originalTitle": "Krull",
+  "title": {
+    "en": "Krull",
+    "tr": "Krull"
+  },
+  "overview": {
+    "en": "A prince and a fellowship of companions set out to rescue his bride from a fortress of alien invaders who have arrived on their home planet.",
+    "tr": "Krull gezegeni slayer denen askerlerin oluşturduğu yenilmez bir ordunun işgali altındadır. yıllardir savaş halinde olan iki krallık güçlerini birleştirip slayerlara karşı koyabilmek amaciyla baris yapar ve bunu saglamlastirabilmek için Prenses Lyssa ve diger kralligin prensi Colwyn´i evlendirmek isterler.  Tören sirasinda yapilan saldirida colwyn yaralanir iki kral da öldürülür ve lyssa kaçirilir. olayi izleyen sabah colwyn, ynyr isimli bir bilge tarafindan bulunur ve slayerlari yenip gelinini kurtarabilmek için sihirli güçleri olan 5 biçakli yildiz seklindeki efsanevi silahi aramaya yollanir. yol sirasinda pek çok yandas edinecek olan colwyn kara kulede düsmaniyla yüzlesme firsati bulacaktir."
+  },
+  "poster": {
+    "tr": "/izDbySIrTmID0Nh6UqcWrUvOMjU.jpg",
+    "en": "/b1anwwbh00R3iOgM88L5jf7qHBt.jpg"
+  },
+  "backdrops": [
+    "/4TH8odP6cHEWIj68ce8jkJVSd1s.jpg",
+    "/aD5z4yRysFl3KLiPOTIMsgvstWT.jpg",
+    "/qj39KZLknYXsN3TqEyq6t4TJgy0.jpg",
+    "/b1fIo6Pd6Cd76mhVUxKff6cJBgC.jpg",
+    "/bC1n2sCJ0aXyBwcovxgimxcZ65l.jpg",
+    "/Uz6F69O5DvFazlx1F7kK0uqgzL.jpg",
+    "/92C1qvCfarT0GVNtRujJywONi39.jpg",
+    "/j3JGnosYauh3PP0e2O3eEQII69j.jpg",
+    "/8GZ1vAs5tRwhDZTEXWkNdtZvquM.jpg",
+    "/ipDZIuh7ArknBmDXQmfLfuvbo32.jpg"
+  ],
+  "trailerKey": "JtJZ3exJ3Jk",
+  "genreIds": [
+    28,
+    12,
+    14,
+    878
+  ],
+  "keywordIds": [
+    4152,
+    10877,
+    15252,
+    33974,
+    157186,
+    161891,
+    161893,
+    161896,
+    177895,
+    192913,
+    219404,
+    234213,
+    252634,
+    269233
+  ],
+  "countries": [
+    "ES",
+    "GB",
+    "IT",
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Barclays Mercantile Industrial Finance",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 12804,
+      "job": "director"
+    },
+    {
+      "personId": 12805,
+      "job": "writer"
+    },
+    {
+      "personId": 12806,
+      "job": "producer"
+    },
+    {
+      "personId": 12808,
+      "job": "producer"
+    },
+    {
+      "personId": 1729,
+      "job": "composer"
+    },
+    {
+      "personId": 307,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12811,
+      "character": "Prince Colwyn",
+      "order": 0
+    },
+    {
+      "personId": 12812,
+      "character": "Lyssa",
+      "order": 1
+    },
+    {
+      "personId": 12517,
+      "character": "Ynyr",
+      "order": 2
+    },
+    {
+      "personId": 12513,
+      "character": "Widow of the Web",
+      "order": 3
+    },
+    {
+      "personId": 2629,
+      "character": "Torquil",
+      "order": 4
+    },
+    {
+      "personId": 3475,
+      "character": "Ergo",
+      "order": 5
+    },
+    {
+      "personId": 12815,
+      "character": "Cyclops",
+      "order": 6
+    },
+    {
+      "personId": 3896,
+      "character": "Kegan",
+      "order": 7
+    },
+    {
+      "personId": 12816,
+      "character": "Seer",
+      "order": 8
+    },
+    {
+      "personId": 12817,
+      "character": "Titch",
+      "order": 9
+    },
+    {
+      "personId": 12818,
+      "character": "Turold",
+      "order": 10
+    },
+    {
+      "personId": 12819,
+      "character": "Eirig",
+      "order": 11
+    },
+    {
+      "personId": 12820,
+      "character": "Vella",
+      "order": 12
+    },
+    {
+      "personId": 127151,
+      "character": "Bardolph",
+      "order": 13
+    },
+    {
+      "personId": 1220237,
+      "character": "Oswyn",
+      "order": 14
+    },
+    {
+      "personId": 1923,
+      "character": "Rhun",
+      "order": 15
+    },
+    {
+      "personId": 2386450,
+      "character": "Merith",
+      "order": 16
+    },
+    {
+      "personId": 1747343,
+      "character": "Nennog",
+      "order": 17
+    },
+    {
+      "personId": 199077,
+      "character": "Darro",
+      "order": 18
+    },
+    {
+      "personId": 1747344,
+      "character": "Quain",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 655,
+  "sources": [
+    "cult-list"
+  ]
+}

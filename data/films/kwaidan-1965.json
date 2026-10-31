@@ -1,0 +1,195 @@
+{
+  "tmdbId": 30959,
+  "slug": "kwaidan-1965",
+  "year": 1965,
+  "runtime": 183,
+  "originalTitle": "怪談",
+  "title": {
+    "en": "Kwaidan",
+    "tr": "Hayalet Öyküleri"
+  },
+  "overview": {
+    "en": "Taking its title from an archaic Japanese word meaning \"ghost story,\" this anthology adapts four folk tales. A penniless samurai marries for money with tragic results. A man stranded in a blizzard is saved by Yuki the Snow Maiden, but his rescue comes at a cost. Blind musician Hoichi is forced to perform for an audience of ghosts. An author relates the story of a samurai who sees another warrior's reflection in his teacup.",
+    "tr": "250 yıllık bir lanet ve nehirde saklı duran hayaletler artık su yüzüne çıkıyor. Bundan tam 250 yıl önce Shinzaemon adlı zalim bir samuray tefecilik yapan Soetsu'yu öldürür ve cesedini nehire atar. Ancak bu nehirle ilgili bir efsane vardır. Nehirde batan ceset, su yüzüne bir daha asla çıkamayacaktır. Aradan 20 yıl geçer ve Shinzaemon'un oğlu bir tesadüf sonucu karşılaştığı Soetsu'nun kızına aşık olur. Ancak önce kendilerini bekleyen lanet ve nehirin sakladığı hayaletlerle yüzleşmek zorunda kalacaktır * Klasik 12 Japon hayalet hikayesinin toplandığı kitabın adıdır Kwaidan. Usta yönetmen Kobayashi bu hikayeleri inanılmaz yorumlamıştır. Film değil sanki herbiri üzerinden yıllarca çalışılmış paha biçilmez resimlerdir."
+  },
+  "poster": {
+    "tr": "/t9UMfViYl47SdZZatKQ1JKjjCgs.jpg",
+    "en": "/vmYhFcA2YC15hoL44hQziba75Ij.jpg"
+  },
+  "backdrops": [
+    "/hVGRef6zIOarZW6Zc9lqAx4E4bq.jpg",
+    "/y8G11KP4qNY2251ufNezKF92EAR.jpg",
+    "/9GAU0z2wVA8M2D2w36CaloWYYgv.jpg",
+    "/vXohfVsoBZiS9zP9twS6MTeD9i2.jpg",
+    "/9xTGj4Xys1NP1JFgtCi3202NU8t.jpg",
+    "/xlT7lomaRIgg5bDFCmyWP0MOWm.jpg",
+    "/ktBZ4sYEoqgwijrKY8NVkYtscAe.jpg",
+    "/pXJXdXYMH1p5UgGb7fLZ8dT9geR.jpg",
+    "/uvRAiw3EjbzolG7ujoyuStPml3g.jpg",
+    "/rpXb7sdvLq9vJ82e8vuq8z7wIV8.jpg"
+  ],
+  "trailerKey": "CWcyccePme4",
+  "genreIds": [
+    27,
+    14,
+    18
+  ],
+  "keywordIds": [
+    1462,
+    818,
+    3206,
+    3373,
+    4262,
+    6044,
+    10794,
+    12660,
+    13153,
+    41411,
+    156580,
+    162846,
+    182677,
+    194938,
+    226475,
+    250593,
+    287878
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Ninjin Club",
+    "TOHO"
+  ],
+  "crew": [
+    {
+      "personId": 76978,
+      "job": "director"
+    },
+    {
+      "personId": 125691,
+      "job": "writer"
+    },
+    {
+      "personId": 552307,
+      "job": "producer"
+    },
+    {
+      "personId": 51808,
+      "job": "composer"
+    },
+    {
+      "personId": 552308,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85307,
+      "character": "First Wife (segment \"The Black Hair\")",
+      "order": 0
+    },
+    {
+      "personId": 76975,
+      "character": "Husband (segment \"The Black Hair\")",
+      "order": 1
+    },
+    {
+      "personId": 111235,
+      "character": "Second Wife (segment \"The Black Hair\")",
+      "order": 2
+    },
+    {
+      "personId": 72539,
+      "character": "Father (segment \"The Black Hair\")",
+      "order": 3
+    },
+    {
+      "personId": 142492,
+      "character": "Mother (segment \"The Black Hair\")",
+      "order": 4
+    },
+    {
+      "personId": 552640,
+      "character": "(segment \"The Black Hair\")",
+      "order": 5
+    },
+    {
+      "personId": 552641,
+      "character": "(segment \"The Black Hair\") (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 552642,
+      "character": "(segment \"The Black Hair\") (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 552643,
+      "character": "(segment \"The Black Hair\") (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 552644,
+      "character": "(segment \"The Black Hair\") (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 552645,
+      "character": "(segment \"The Black Hair\") (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 70131,
+      "character": "Minokichi (segment \"The Woman of the Snow\")",
+      "order": 11
+    },
+    {
+      "personId": 122828,
+      "character": "Yuki the Snow Maiden (segment \"The Woman of the Snow\")",
+      "order": 12
+    },
+    {
+      "personId": 213497,
+      "character": "Minokichi's Mother (segment \"The Woman of the Snow\")",
+      "order": 13
+    },
+    {
+      "personId": 110300,
+      "character": "Village Woman (segment \"The Woman of the Snow\")",
+      "order": 14
+    },
+    {
+      "personId": 106161,
+      "character": "Village Woman (segment \"The Woman of the Snow\")",
+      "order": 15
+    },
+    {
+      "personId": 552646,
+      "character": "(segment \"The Woman of the Snow\") (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 552343,
+      "character": "(segment \"The Woman of the Snow\") (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 97629,
+      "character": "(segment \"The Woman of the Snow\")",
+      "order": 18
+    },
+    {
+      "personId": 70121,
+      "character": "Hoichi (segment \"Hoichi the Earless\")",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 485,
+  "sources": [
+    "cult-list"
+  ]
+}

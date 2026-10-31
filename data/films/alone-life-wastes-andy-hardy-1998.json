@@ -1,0 +1,72 @@
+{
+  "tmdbId": 93468,
+  "slug": "alone-life-wastes-andy-hardy-1998",
+  "year": 1998,
+  "runtime": 15,
+  "originalTitle": "Alone. Life Wastes Andy Hardy",
+  "title": {
+    "en": "Alone. Life Wastes Andy Hardy",
+    "tr": "Alone. Life Wastes Andy Hardy"
+  },
+  "overview": {
+    "en": "In a deconstruction of classic Hollywood codes, using repetitive single frame images, the re-editing of teenager movies produces an intense Oedipal drama.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ptB8DqJOGuvghb6IUafe2j3uL66.jpg",
+    "en": "/ptB8DqJOGuvghb6IUafe2j3uL66.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10402
+  ],
+  "keywordIds": [
+    1706,
+    190205,
+    206750,
+    227561,
+    342872
+  ],
+  "countries": [
+    "AT"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 998590,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1937,
+      "character": "Andy Hardy (archive footage)",
+      "order": 0
+    },
+    {
+      "personId": 9066,
+      "character": "Betsy Booth (archive footage)",
+      "order": 1
+    },
+    {
+      "personId": 29259,
+      "character": "Judge Hardy (archive footage)",
+      "order": 2
+    },
+    {
+      "personId": 117414,
+      "character": "Emily Hardy (archive footage)",
+      "order": 3
+    }
+  ],
+  "awards": {},
+  "voteCount": 20,
+  "sources": [
+    "cult-list"
+  ]
+}

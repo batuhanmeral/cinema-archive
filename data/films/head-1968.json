@@ -1,0 +1,219 @@
+{
+  "tmdbId": 18193,
+  "slug": "head-1968",
+  "year": 1968,
+  "runtime": 86,
+  "originalTitle": "Head",
+  "title": {
+    "en": "Head",
+    "tr": "Head"
+  },
+  "overview": {
+    "en": "In this surrealistic and free-form follow-up to the Monkees' television show, the band frolic their way through a series of musical set pieces and vignettes containing humor and anti-establishment social commentary.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/pvMy7sTqOEr7faJzDE5UD0zUiHA.jpg",
+    "en": "/pvMy7sTqOEr7faJzDE5UD0zUiHA.jpg"
+  },
+  "backdrops": [
+    "/u9LlLJmDe6qnGz0XtYcVPThrVsF.jpg",
+    "/mG9JjYbqiwRoVmsV5OvMYpYvDJJ.jpg",
+    "/kOu8M57Kfkc3xoUqFzAe1DoGIGW.jpg",
+    "/3sj37BVB8BQ1vAmD24LY4aJnPuL.jpg",
+    "/vZKmAEkQMuqV5AVUn4XxV1PyDKc.jpg",
+    "/tEOCdR6jNJwYQVzGCg0EQ5jbEYK.jpg",
+    "/zWoKzi6U4PJasqr5Q0arVO4W7my.jpg",
+    "/pQlcSnaXghKBkTHDjB9avdR6RrL.jpg",
+    "/2fe8j1jmvmffiDKt38mOhVtVsSW.jpg",
+    "/jgxRGQnyJS3PqdcasiptKWP9D1B.jpg"
+  ],
+  "trailerKey": "a-5sKqR2zrg",
+  "genreIds": [
+    35,
+    10402
+  ],
+  "keywordIds": [
+    2957,
+    3307,
+    4344,
+    9755,
+    11479,
+    10232,
+    12396,
+    155710,
+    181557,
+    184392,
+    186815,
+    206191,
+    213891,
+    335467,
+    355076,
+    364706,
+    364707
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Columbia Pictures",
+    "BBS Productions"
+  ],
+  "crew": [
+    {
+      "personId": 19450,
+      "job": "director"
+    },
+    {
+      "personId": 19450,
+      "job": "writer"
+    },
+    {
+      "personId": 514,
+      "job": "writer"
+    },
+    {
+      "personId": 82775,
+      "job": "writer"
+    },
+    {
+      "personId": 78387,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 82773,
+      "job": "writer"
+    },
+    {
+      "personId": 82776,
+      "job": "writer"
+    },
+    {
+      "personId": 82772,
+      "job": "writer"
+    },
+    {
+      "personId": 514,
+      "job": "producer"
+    },
+    {
+      "personId": 19450,
+      "job": "producer"
+    },
+    {
+      "personId": 57892,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 82772,
+      "character": "Peter",
+      "order": 0
+    },
+    {
+      "personId": 82773,
+      "character": "Davy",
+      "order": 1
+    },
+    {
+      "personId": 82775,
+      "character": "Micky",
+      "order": 2
+    },
+    {
+      "personId": 82776,
+      "character": "Mike",
+      "order": 3
+    },
+    {
+      "personId": 82777,
+      "character": "Minnie",
+      "order": 4
+    },
+    {
+      "personId": 2758,
+      "character": "Lord High 'n Low",
+      "order": 5
+    },
+    {
+      "personId": 16031,
+      "character": "Off. Faye Lapid",
+      "order": 6
+    },
+    {
+      "personId": 82779,
+      "character": "I. Vitteloni",
+      "order": 7
+    },
+    {
+      "personId": 15719,
+      "character": "Inspector Shrink",
+      "order": 8
+    },
+    {
+      "personId": 82781,
+      "character": "Mr. and Mrs. Ace",
+      "order": 9
+    },
+    {
+      "personId": 82782,
+      "character": "Mayor Feedback",
+      "order": 10
+    },
+    {
+      "personId": 82783,
+      "character": "Black Sheik",
+      "order": 11
+    },
+    {
+      "personId": 2101,
+      "character": "Heraldic Messenger",
+      "order": 12
+    },
+    {
+      "personId": 123526,
+      "character": "Extra",
+      "order": 13
+    },
+    {
+      "personId": 123527,
+      "character": "Private One",
+      "order": 14
+    },
+    {
+      "personId": 123528,
+      "character": "Sally Silicone",
+      "order": 15
+    },
+    {
+      "personId": 98539,
+      "character": "The Critic",
+      "order": 16
+    },
+    {
+      "personId": 123529,
+      "character": "The Jumper",
+      "order": 17
+    },
+    {
+      "personId": 8437,
+      "character": "Testy True",
+      "order": 18
+    },
+    {
+      "personId": 123530,
+      "character": "Lady Pleasure",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 108,
+  "sources": [
+    "cult-list"
+  ]
+}

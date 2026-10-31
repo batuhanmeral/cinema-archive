@@ -1,0 +1,219 @@
+{
+  "tmdbId": 1368,
+  "slug": "first-blood-1982",
+  "year": 1982,
+  "runtime": 93,
+  "originalTitle": "First Blood",
+  "title": {
+    "en": "First Blood",
+    "tr": "İlk Kan"
+  },
+  "overview": {
+    "en": "When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers.",
+    "tr": "Eski bir Vietnam gazisi olan John Rambo, terhis olduktan 7 yıl sonra yürüyerek geldiği bir kasabada biraz dinlenip karnını doyurmak ister. Ancak kasabanın şerifi, Rambo'yu hoş karşılamaz ve kasabadan ayrılmak istemeyen Rambo'yu tutuklayıp karakola götürür. Karakolda gördüğü işkenceler sırasında aklına savaşta yaşadıkları gelen Rambo kendini kaybeder ve kasabanın yakınındaki ormanlık alana kaçar. Peşindeki güvenlik güçlerinden kurtulmak için gördüğü eğitimi uygulamaktan başka şansı olmayan Rambo'nun eski Yeşil Bereli olduğunu öğrenen polis kuvvetleri ise eski komutanı Albay Samuel Trautman'dan yardım isteyecektir."
+  },
+  "poster": {
+    "tr": "/ummcyyFxcdjLTWoaChbAZjmb3zl.jpg",
+    "en": "/a9sa6ERZCpplbPEO7OMWE763CLD.jpg"
+  },
+  "backdrops": [
+    "/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg",
+    "/hCxxOJojCUFyuahDx167glJgp7E.jpg",
+    "/3DbGzV5IiOCmwYMFsQU3m3hIDvy.jpg",
+    "/AeXX4mzpXIRrB0EHXNjbno2woWe.jpg",
+    "/teCZlGivejMw4rVzyxBSYQNr6XI.jpg",
+    "/7cQF37Auz38T0a4lvPAQPBpNmzJ.jpg",
+    "/DEcFWLjg5xUi9NbT2PnUftyvjb.jpg",
+    "/6ChQayYQBcetlE6N7gSZCkAfMbh.jpg",
+    "/j6T0dDJd2N5E8vjRYpdzjPa0O82.jpg",
+    "/svwqyaCGed4N6bfwmGIWU1MfEk6.jpg"
+  ],
+  "trailerKey": "Rl_4vPKDijQ",
+  "genreIds": [
+    28,
+    53,
+    18
+  ],
+  "keywordIds": [
+    378,
+    1008,
+    3737,
+    2957,
+    422,
+    1701,
+    2956,
+    796,
+    798,
+    10685,
+    6149,
+    1419,
+    1375,
+    769,
+    2095,
+    2535,
+    2801,
+    6112,
+    3246,
+    5034,
+    4668,
+    5144,
+    5386,
+    5387,
+    9720,
+    11004,
+    10833,
+    15218,
+    202371,
+    309974,
+    325853
+  ],
+  "countries": [
+    "US",
+    "AN"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Carolco Pictures",
+    "Anabasis",
+    "Elcajo Productions"
+  ],
+  "crew": [
+    {
+      "personId": 16544,
+      "job": "director"
+    },
+    {
+      "personId": 2082,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12882,
+      "job": "producer"
+    },
+    {
+      "personId": 16483,
+      "job": "writer"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    },
+    {
+      "personId": 16547,
+      "job": "writer"
+    },
+    {
+      "personId": 16546,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16483,
+      "character": "John Rambo",
+      "order": 0
+    },
+    {
+      "personId": 16554,
+      "character": "Col. Samuel Trautman",
+      "order": 1
+    },
+    {
+      "personId": 6197,
+      "character": "Hope Sheriff Will Teasle",
+      "order": 2
+    },
+    {
+      "personId": 16555,
+      "character": "State Police Capt. Dave Kern",
+      "order": 3
+    },
+    {
+      "personId": 16556,
+      "character": "Deputy Sgt. Arthur Galt",
+      "order": 4
+    },
+    {
+      "personId": 16557,
+      "character": "Deputy Balford",
+      "order": 5
+    },
+    {
+      "personId": 15824,
+      "character": "Deputy Ward",
+      "order": 6
+    },
+    {
+      "personId": 16558,
+      "character": "Orval the Dog Man",
+      "order": 7
+    },
+    {
+      "personId": 16559,
+      "character": "Deputy Lester",
+      "order": 8
+    },
+    {
+      "personId": 16560,
+      "character": "Deputy Mitch",
+      "order": 9
+    },
+    {
+      "personId": 16561,
+      "character": "Deputy Shingleton",
+      "order": 10
+    },
+    {
+      "personId": 16562,
+      "character": "Preston",
+      "order": 11
+    },
+    {
+      "personId": 16563,
+      "character": "Helicopter pilot",
+      "order": 12
+    },
+    {
+      "personId": 16564,
+      "character": "Trooper",
+      "order": 13
+    },
+    {
+      "personId": 16565,
+      "character": "Radio operator",
+      "order": 14
+    },
+    {
+      "personId": 1213777,
+      "character": "Lt. Morgen",
+      "order": 15
+    },
+    {
+      "personId": 75467,
+      "character": "Guardsman #1",
+      "order": 16
+    },
+    {
+      "personId": 1816628,
+      "character": "Guardsman #2",
+      "order": 17
+    },
+    {
+      "personId": 1816630,
+      "character": "Guardsman #3",
+      "order": 18
+    },
+    {
+      "personId": 27121,
+      "character": "Guardsman #4",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 7199,
+  "sources": [
+    "cult-list"
+  ]
+}

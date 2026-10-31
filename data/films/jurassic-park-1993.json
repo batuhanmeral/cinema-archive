@@ -1,0 +1,199 @@
+{
+  "tmdbId": 329,
+  "slug": "jurassic-park-1993",
+  "year": 1993,
+  "runtime": 127,
+  "originalTitle": "Jurassic Park",
+  "title": {
+    "en": "Jurassic Park",
+    "tr": "Jurassic Park"
+  },
+  "overview": {
+    "en": "A wealthy entrepreneur secretly creates a theme park featuring living dinosaurs drawn from prehistoric DNA. Before opening day, he invites a team of experts and his two eager grandchildren to experience the park and help calm anxious investors. However, the park is anything but amusing as the security systems go off-line and the dinosaurs escape.",
+    "tr": "Mağaralarda yapılan kazı çalışmaları sonucunda dinozorların yaşadığı tarih öncesi çağa ait bazı sivrisinek fosilleri bulunur. Milyarder John Hammond öncülüğündeki bilim adamları, son derece ilginç ve karmaşık testler deneyerek bu sivrisinek fosillerindeki kan örneklerini almayı başarırlar.Dinazorların DNA zinciri bir Afrika kurbağasıyla birleştirilerek 65 milyon yıl önce yaşamış bu korkunç yaratıklar yeniden yaratılır. Hammond hükümetten kiraladığı bir adada klonladıkları bu vahşi hayvanlar için elektrikli tellerle çevrili bir hayvanat bahçesi kurmuştur. İhtiyar Hammond, bir hafta sonunda Doktor Allen gibi bazı işinde uzman bilim adamlarını Jurassic Park adını verdiği bu hayvanat bahçesini test ettirmek için adaya getirir. Ancak embriyolarını ele geçirmek isteyen biri, güvenlik sistemini devre dışı bırakınca serbest kalan dinozorlar adada dehşet saçmaya başlar..."
+  },
+  "poster": {
+    "tr": "/d9mtMGQDLANKieb9PbD3yK7xxzo.jpg",
+    "en": "/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg"
+  },
+  "backdrops": [
+    "/o7LzVmlOSYc3EspyVMC9bsTTARc.jpg",
+    "/2Nhw5RdJXUZlHpbXqImtbvtqjdA.jpg",
+    "/86FXPjGWjrqKmmLszHow0KbI0Gd.jpg",
+    "/9kqA5fe1V2yqCBudUMUTmXbyy3Y.jpg",
+    "/alqZDg4DXBpNCVTzRPXe5zkkAXX.jpg",
+    "/dppaXQ7C4wtM2uanvlZFlRo7TyR.jpg",
+    "/79bJL9ydAMYVltuNTt4VhxORqIz.jpg",
+    "/f082quUW2kAtZXFZVGEfhwacZoG.jpg",
+    "/wDdnGC8ZkoriorlNOh0wDcIKSv4.jpg",
+    "/95QcOsRGRzJ2cLaqaR4pEfwjezF.jpg"
+  ],
+  "trailerKey": "Rz_FvTXa_qY",
+  "genreIds": [
+    12,
+    878
+  ],
+  "keywordIds": [
+    911,
+    2041,
+    1764,
+    1765,
+    1767,
+    1718,
+    1720,
+    1719,
+    12616,
+    155582,
+    158340
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "Amblin Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 489,
+      "job": "producer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 2211,
+      "job": "producer"
+    },
+    {
+      "personId": 508,
+      "job": "writer"
+    },
+    {
+      "personId": 1060,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 488,
+      "job": "director"
+    },
+    {
+      "personId": 4782,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4783,
+      "character": "Grant",
+      "order": 0
+    },
+    {
+      "personId": 4784,
+      "character": "Ellie",
+      "order": 1
+    },
+    {
+      "personId": 4785,
+      "character": "Malcolm",
+      "order": 2
+    },
+    {
+      "personId": 4786,
+      "character": "Hammond",
+      "order": 3
+    },
+    {
+      "personId": 4789,
+      "character": "Muldoon",
+      "order": 4
+    },
+    {
+      "personId": 4790,
+      "character": "Gennaro",
+      "order": 5
+    },
+    {
+      "personId": 14592,
+      "character": "Wu",
+      "order": 6
+    },
+    {
+      "personId": 4787,
+      "character": "Tim",
+      "order": 7
+    },
+    {
+      "personId": 4788,
+      "character": "Lex",
+      "order": 8
+    },
+    {
+      "personId": 2231,
+      "character": "Arnold",
+      "order": 9
+    },
+    {
+      "personId": 4201,
+      "character": "Nedry",
+      "order": 10
+    },
+    {
+      "personId": 2211,
+      "character": "Harding",
+      "order": 11
+    },
+    {
+      "personId": 30488,
+      "character": "Rostagno",
+      "order": 12
+    },
+    {
+      "personId": 176312,
+      "character": "Dodgson",
+      "order": 13
+    },
+    {
+      "personId": 145531,
+      "character": "Volunteer #1",
+      "order": 14
+    },
+    {
+      "personId": 166298,
+      "character": "Volunteer Boy",
+      "order": 15
+    },
+    {
+      "personId": 1060,
+      "character": "Mate",
+      "order": 16
+    },
+    {
+      "personId": 9559,
+      "character": "Worker in Raptor Pen",
+      "order": 17
+    },
+    {
+      "personId": 1278538,
+      "character": "Helicopter Pilot",
+      "order": 18
+    },
+    {
+      "personId": 4791,
+      "character": "Mr. D.N.A. (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 18546,
+  "sources": [
+    "cult-list"
+  ]
+}

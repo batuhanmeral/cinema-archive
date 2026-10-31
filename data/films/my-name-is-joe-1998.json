@@ -1,0 +1,186 @@
+{
+  "tmdbId": 8129,
+  "slug": "my-name-is-joe-1998",
+  "year": 1998,
+  "runtime": 105,
+  "originalTitle": "My Name Is Joe",
+  "title": {
+    "en": "My Name Is Joe",
+    "tr": "Benim Adım Joe"
+  },
+  "overview": {
+    "en": "Two thirtysomethings, unemployed former alcoholic Joe and community health worker Sarah, start a romantic relationship in one of the toughest Glasgow neighbourhoods.",
+    "tr": "40'larına merdiven dayamış Joe Kavanagh, Glaskow halkının çoğu gibi işsizlik ve niteliksiz işler arasında gidip gelmektedir. Eski bir alkolik olan Joe, aynı zamanda suç işlemeye eğilimli boştagezerlerden oluşan bir futbol takımına da antrenörlük yapmaktadır. Bir gün, başını iş bulma kurumuyla beladan kurtaran sosyal hizmet görevlisi hemşire Sarah ile tanışır ve ikisi arasında kırılgan bir ilişki başlar. Çektiği toplumsal gerçekçi filmlerle haklı bir üne sahip İngiliz yönetmen Ken Loach'un en iyilerinden. Filmin, başrolündeki Peter Mullan'a Cannes'da En İyi Erkek Oyuncu Ödülü'nü kazandırdığını da hatırlatalım."
+  },
+  "poster": {
+    "tr": "/3qUWbQjtNQFX26QOENPIkck9KOJ.jpg",
+    "en": "/12xDYuYhDqvB5XUdMoJCLHY5dy2.jpg"
+  },
+  "backdrops": [
+    "/sSpgnEncQ5gSaMjp8JmEO9bJAs7.jpg",
+    "/ndLjV5KWeilKXtFMCMsq5W9q7mo.jpg",
+    "/7HS8YSbD37UvS3XABBjOnKKsbc5.jpg",
+    "/lJRDbm0mDpO28XAFYLvNdUI6ST0.jpg",
+    "/14GyaqlTowfBu2t1NtsZIJ9Uvl1.jpg",
+    "/iSNQ7uK2hw09QzouRgU9O4m67Qq.jpg",
+    "/3uF5WoPKnnJU3luEuTmAPcMSwJQ.jpg",
+    "/nm2CzRGeyl2OJP2JrN5F7uYUWNM.jpg",
+    "/lSs2ABl1GsN3vzatKOojusQl3S5.jpg"
+  ],
+  "trailerKey": "Vog33PwornI",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    6075,
+    3739,
+    892,
+    5621,
+    11061,
+    13042
+  ],
+  "countries": [
+    "GB",
+    "DE",
+    "ES",
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Parallax Pictures",
+    "Road Movies",
+    "Channel Four Films"
+  ],
+  "crew": [
+    {
+      "personId": 15488,
+      "job": "director"
+    },
+    {
+      "personId": 1528,
+      "job": "composer"
+    },
+    {
+      "personId": 15491,
+      "job": "producer"
+    },
+    {
+      "personId": 15490,
+      "job": "writer"
+    },
+    {
+      "personId": 15493,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3064,
+      "character": "Joe",
+      "order": 0
+    },
+    {
+      "personId": 21978,
+      "character": "Sarah",
+      "order": 1
+    },
+    {
+      "personId": 16908,
+      "character": "Liam",
+      "order": 2
+    },
+    {
+      "personId": 480,
+      "character": "Shanks",
+      "order": 3
+    },
+    {
+      "personId": 54014,
+      "character": "McGowan",
+      "order": 4
+    },
+    {
+      "personId": 1839,
+      "character": "Maggie",
+      "order": 5
+    },
+    {
+      "personId": 2844054,
+      "character": "Sabine",
+      "order": 6
+    },
+    {
+      "personId": 71770,
+      "character": "Mojo",
+      "order": 7
+    },
+    {
+      "personId": 1650532,
+      "character": "Doc",
+      "order": 8
+    },
+    {
+      "personId": 54016,
+      "character": "Hooligan",
+      "order": 9
+    },
+    {
+      "personId": 54015,
+      "character": "Scott",
+      "order": 10
+    },
+    {
+      "personId": 54017,
+      "character": "Scrag",
+      "order": 11
+    },
+    {
+      "personId": 54019,
+      "character": "Perfume",
+      "order": 12
+    },
+    {
+      "personId": 2316057,
+      "character": "Robbo",
+      "order": 13
+    },
+    {
+      "personId": 2316058,
+      "character": "Davy",
+      "order": 14
+    },
+    {
+      "personId": 2316068,
+      "character": "Zulu",
+      "order": 15
+    },
+    {
+      "personId": 1231415,
+      "character": "Tattie",
+      "order": 16
+    },
+    {
+      "personId": 2316059,
+      "character": "Sepp Maier",
+      "order": 17
+    },
+    {
+      "personId": 16636,
+      "character": "Alf",
+      "order": 18
+    },
+    {
+      "personId": 2316061,
+      "character": "Shuggy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 219,
+  "sources": [
+    "cult-list"
+  ]
+}

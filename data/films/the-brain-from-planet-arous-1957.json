@@ -1,0 +1,129 @@
+{
+  "tmdbId": 43248,
+  "slug": "the-brain-from-planet-arous-1957",
+  "year": 1957,
+  "runtime": 71,
+  "originalTitle": "The Brain from Planet Arous",
+  "title": {
+    "en": "The Brain from Planet Arous",
+    "tr": "The Brain from Planet Arous"
+  },
+  "overview": {
+    "en": "A malevolent alien brain, bent on world domination, takes over the body of an atomic scientist, while a 'good' alien brain inhabits the body of the scientist's dog and waits for an opportunity to defeat the evil brain.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vpxIaxnnld60lEI5Ix8gQVsNDtg.jpg",
+    "en": "/sthHmwkqmqn8JNb8MSvpVNkODz.jpg"
+  },
+  "backdrops": [
+    "/gBRBDlLWrw2DE7R2Ws0jONlqHyd.jpg",
+    "/3soyNg9Drm7AO4gITy6xc6cndm1.jpg",
+    "/7OtAXZaTYQhjwMPzIAWzQdXqdnW.jpg",
+    "/iiZdGX7RCBirw07Ya2N4DUKaAb1.jpg",
+    "/yo5SLWE60YIdAoBIWs8qRxc2t0d.jpg",
+    "/8bCOAGx9X1G5mY6FKlDeBvPgalB.jpg",
+    "/obY50rwn9rkiPoMKBAskKZiXMMk.jpg",
+    "/raPtuXipdLLWPp0mTAbTp5o0UDq.jpg",
+    "/wMFCCcBvmiRTIPYCvJdLoyZAwKr.jpg",
+    "/zj6n4MqZZUM01RQN6b55JvgHhJk.jpg"
+  ],
+  "trailerKey": "Z2Ml7XzYZCg",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    9951,
+    18034,
+    157758,
+    163386,
+    191142
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Marquette Productions Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 44878,
+      "job": "director"
+    },
+    {
+      "personId": 131048,
+      "job": "writer"
+    },
+    {
+      "personId": 40392,
+      "job": "producer"
+    },
+    {
+      "personId": 102783,
+      "job": "composer"
+    },
+    {
+      "personId": 40392,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 103071,
+      "character": "Steve March",
+      "order": 0
+    },
+    {
+      "personId": 131049,
+      "character": "Sally Fallon",
+      "order": 1
+    },
+    {
+      "personId": 38129,
+      "character": "Dan Murphy",
+      "order": 2
+    },
+    {
+      "personId": 82748,
+      "character": "John Fallon",
+      "order": 3
+    },
+    {
+      "personId": 131051,
+      "character": "Colonel Frogley",
+      "order": 4
+    },
+    {
+      "personId": 131052,
+      "character": "General Brown",
+      "order": 5
+    },
+    {
+      "personId": 131053,
+      "character": "Sheriff Wiley Pane",
+      "order": 6
+    },
+    {
+      "personId": 131054,
+      "character": "Russian",
+      "order": 7
+    },
+    {
+      "personId": 1234564,
+      "character": "Colonel in Conference Room",
+      "order": 8
+    },
+    {
+      "personId": 1586171,
+      "character": "Professor/voices of Gor & Vol (uncredited)",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 48,
+  "sources": [
+    "cult-list"
+  ]
+}

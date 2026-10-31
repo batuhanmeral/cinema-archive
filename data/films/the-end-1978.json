@@ -1,0 +1,181 @@
+{
+  "tmdbId": 35976,
+  "slug": "the-end-1978",
+  "year": 1978,
+  "runtime": 100,
+  "originalTitle": "The End",
+  "title": {
+    "en": "The End",
+    "tr": "The End"
+  },
+  "overview": {
+    "en": "Wendell Lawson has only six months to live. Not wanting to endure his last few months of life waiting for the end, he decides to take matters into his own hands and enlists the help of a delusional mental patient to help him commit suicide.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/aFbxahzgLzJz7i70zcCzzmydwwL.jpg",
+    "en": "/hgWW3pjbWUX00P9Gmlt0E22U31X.jpg"
+  },
+  "backdrops": [
+    "/9p93IMBLEtKukXblsNKlMe3m97V.jpg",
+    "/pF0eLSPBdYM7yykewDZOcOuR2BA.jpg",
+    "/oF38FJeosbSzjWtovdebprXa11T.jpg",
+    "/5eSrGZmZarKjuMKogPFyFn0dxlx.jpg",
+    "/tSqEc1kSyIFofryQ1yBUTr9bN1e.jpg",
+    "/bNz9937MrxKUe80NXDvrkat1T7E.jpg"
+  ],
+  "trailerKey": "R0uyJ0fjS5Q",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    10123,
+    6564,
+    18409,
+    161043,
+    245910,
+    309974,
+    320420,
+    324713,
+    325845
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "United Artists",
+    "Gordon-Reynolds Productions"
+  ],
+  "crew": [
+    {
+      "personId": 29705,
+      "job": "writer"
+    },
+    {
+      "personId": 16475,
+      "job": "director"
+    },
+    {
+      "personId": 4056,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 35040,
+      "job": "composer"
+    },
+    {
+      "personId": 1093,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16475,
+      "character": "Wendell Sonny Lawson",
+      "order": 0
+    },
+    {
+      "personId": 6844,
+      "character": "Marlon Borunki",
+      "order": 1
+    },
+    {
+      "personId": 35,
+      "character": "Mary Ellen",
+      "order": 2
+    },
+    {
+      "personId": 8260,
+      "character": "Dr. Waldo Kling",
+      "order": 3
+    },
+    {
+      "personId": 15452,
+      "character": "Marty Lieberman",
+      "order": 4
+    },
+    {
+      "personId": 109410,
+      "character": "Jessica Lawson",
+      "order": 5
+    },
+    {
+      "personId": 14064,
+      "character": "Dr. Samuel Krugman",
+      "order": 6
+    },
+    {
+      "personId": 13577,
+      "character": "Maureen Lawson",
+      "order": 7
+    },
+    {
+      "personId": 42195,
+      "character": "Julie Lawson",
+      "order": 8
+    },
+    {
+      "personId": 3155,
+      "character": "Ben Lawson",
+      "order": 9
+    },
+    {
+      "personId": 15048,
+      "character": "Father Dave Benson",
+      "order": 10
+    },
+    {
+      "personId": 1895,
+      "character": "Dr. James Maneet",
+      "order": 11
+    },
+    {
+      "personId": 115035,
+      "character": "Receptionist",
+      "order": 12
+    },
+    {
+      "personId": 101974,
+      "character": "Hearse Driver",
+      "order": 13
+    },
+    {
+      "personId": 95743,
+      "character": "Limousine Driver",
+      "order": 14
+    },
+    {
+      "personId": 2395548,
+      "character": "Old Man's Son",
+      "order": 15
+    },
+    {
+      "personId": 40185,
+      "character": "Pacemaker Patient",
+      "order": 16
+    },
+    {
+      "personId": 18894,
+      "character": "Hospital Orderly",
+      "order": 17
+    },
+    {
+      "personId": 67879,
+      "character": "Latin Lover (as Peter Gonzales)",
+      "order": 18
+    },
+    {
+      "personId": 30516,
+      "character": "Ballet Teacher",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 73,
+  "sources": [
+    "cult-list"
+  ]
+}

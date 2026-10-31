@@ -1,0 +1,217 @@
+{
+  "tmdbId": 9482,
+  "slug": "judge-dredd-1995",
+  "year": 1995,
+  "runtime": 96,
+  "originalTitle": "Judge Dredd",
+  "title": {
+    "en": "Judge Dredd",
+    "tr": "Yargıç"
+  },
+  "overview": {
+    "en": "In a dystopian future where Judges maintain law and order by acting as judge, jury, and executioner, Dredd fights to prove his innocence after being falsely accused of murder.",
+    "tr": "Mega Kent Bir (2115 yılı)... 22. yüzyılda artık ne avukat, ne dava, ne jüri, ne de mahkeme kalmıştır... Herşey yargıçların elindedir... En korkulanı ise Dredd'dir... Üçüncü bin yıllda yeryüzü önüne geçilemez felaketlerle tamamen çöle dönmüştür. Geriye yalnız birkaç şehir kalır; insanlık da gezegeni gibi vahşileşir. Uygarlık çökme tehdidiyle karşıkarşıyadır. İşte o sırada... bir çözüm bulunur. Küçülen adalet sistemi yükü ağır polis teşkilatı ile birleştirilir, güçlü ve etkili melezler oluşur: Yargıçlar. Toplumun bu yeni gardiyanları hem yargı hem ceza gücüne sahiptir. Hem yargıç, hem jüri, hem de cellattırlar.. Ve içlerinde en korkunç olanı Yargıç Dredd'dir. Janus Projesi denen ve büyük adaletçilerin DNA modeliyle iki adamı yaratıldığı çok gizli bir deney sonucu biri kanun adamı (Dredd) ve bir suçlu (Rico) yaratılır. Yıllar sonra Rico hapisten kaçar ve kendini dondurabilecek tek adam olan Dredd'e komplo kurar. Cinayetle suçlanan Dredd, ömür boyu hapse mahkum edilir.."
+  },
+  "poster": {
+    "tr": "/cFOYuASTWO0HfsUm9B9n9CbAn23.jpg",
+    "en": "/aja6BILb8Efe4eJksiPs5pHd5ai.jpg"
+  },
+  "backdrops": [
+    "/baJHUXBcoaHnMf2sjwegbuhIjEV.jpg",
+    "/ahNuT6MzvKu3pnsIs9P2lBm26Q5.jpg",
+    "/4L5GaVv4zvDZ0g4D3z5vhG9vRjc.jpg",
+    "/tpyiVJuPouDDjEvDJTJGlvC9xGP.jpg",
+    "/nwkuBoJsHYC9vXILGoW9u5bcXtK.jpg",
+    "/dl3aGklk1WKlU1OXIbqpkXrcFlH.jpg",
+    "/stDA7WgPQZxoLAxNB4PTu1GHhK2.jpg",
+    "/jtqoBCxSdQoLSvkZAb2SnazTlwq.jpg",
+    "/toBqr2e0I44it0zBNNGs1GZJ2f.jpg",
+    "/18MeIBLZmDwie9OEGafKm1IamAb.jpg"
+  ],
+  "trailerKey": "43-BefmjMFg",
+  "genreIds": [
+    878,
+    28
+  ],
+  "keywordIds": [
+    417,
+    934,
+    4565,
+    9715,
+    4458,
+    3289,
+    11038,
+    9717,
+    12190,
+    15090,
+    15095,
+    15108,
+    18712,
+    160159,
+    163081,
+    180172,
+    182703,
+    182706,
+    182711,
+    203493,
+    214715,
+    219404,
+    269233,
+    325844
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Cinergi Pictures",
+    "Pressman Film"
+  ],
+  "crew": [
+    {
+      "personId": 37,
+      "job": "composer"
+    },
+    {
+      "personId": 61232,
+      "job": "producer"
+    },
+    {
+      "personId": 1726,
+      "job": "writer"
+    },
+    {
+      "personId": 33279,
+      "job": "director"
+    },
+    {
+      "personId": 57655,
+      "job": "producer"
+    },
+    {
+      "personId": 2711,
+      "job": "writer"
+    },
+    {
+      "personId": 7713,
+      "job": "producer"
+    },
+    {
+      "personId": 1123815,
+      "job": "producer"
+    },
+    {
+      "personId": 7783,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16483,
+      "character": "Judge Joseph Dredd",
+      "order": 0
+    },
+    {
+      "personId": 2882,
+      "character": "Judge Hershey",
+      "order": 1
+    },
+    {
+      "personId": 23346,
+      "character": "Rico",
+      "order": 2
+    },
+    {
+      "personId": 60949,
+      "character": "Herman 'Fergee' Ferguson",
+      "order": 3
+    },
+    {
+      "personId": 920,
+      "character": "Judge Griffin",
+      "order": 4
+    },
+    {
+      "personId": 2201,
+      "character": "Chief Justice Fargo",
+      "order": 5
+    },
+    {
+      "personId": 64102,
+      "character": "Mean Machine",
+      "order": 6
+    },
+    {
+      "personId": 106765,
+      "character": "Judge Evelyn McGruder",
+      "order": 7
+    },
+    {
+      "personId": 6720,
+      "character": "Dr. Ilsa Hayden",
+      "order": 8
+    },
+    {
+      "personId": 9296,
+      "character": "Cadet Nathan Olmeyer",
+      "order": 9
+    },
+    {
+      "personId": 54,
+      "character": "Warden Miller",
+      "order": 10
+    },
+    {
+      "personId": 113908,
+      "character": "Geiger",
+      "order": 11
+    },
+    {
+      "personId": 1125,
+      "character": "Junior Angel",
+      "order": 12
+    },
+    {
+      "personId": 93477,
+      "character": "Judge Carlos Esposito",
+      "order": 13
+    },
+    {
+      "personId": 36901,
+      "character": "Twist",
+      "order": 14
+    },
+    {
+      "personId": 14312,
+      "character": "Vartis Hammond",
+      "order": 15
+    },
+    {
+      "personId": 6914,
+      "character": "Pa Angel",
+      "order": 16
+    },
+    {
+      "personId": 58475,
+      "character": "Judge Silver",
+      "order": 17
+    },
+    {
+      "personId": 130464,
+      "character": "Locker Judge",
+      "order": 18
+    },
+    {
+      "personId": 1781215,
+      "character": "Fink Angel",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2888,
+  "sources": [
+    "cult-list"
+  ]
+}

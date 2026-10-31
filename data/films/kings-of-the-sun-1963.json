@@ -1,0 +1,145 @@
+{
+  "tmdbId": 80027,
+  "slug": "kings-of-the-sun-1963",
+  "year": 1963,
+  "runtime": 108,
+  "originalTitle": "Kings of the Sun",
+  "title": {
+    "en": "Kings of the Sun",
+    "tr": "Güneşin Kralları"
+  },
+  "overview": {
+    "en": "In order to flee from powerful enemies, young Mayan king Balam leads his people north across the Gulf of Mexico to the coast of what will become the United States. They build a home in the new land but come into conflict with a tribe of Native Americans led by their chief, Black Eagle, while both Balam and Black Eagle fall in love the beautiful Mayan princess Ixchel.",
+    "tr": "Genç bir Maya kralı olan Balam, güçlü düşmanı Hunac Kell’den halkını korumak için Meksika Körfezi’nin karşı tarafına, bugünkü ABD topraklarına kaçar. Balam, halkıyla birlikte geldiği yeni topraklarda yeni bir hayat inşa etmektedir. Ancak, Amerika yerlilerinin reisi olan Kara Kartal, topraklarına yerleşen bu yeni halk nedeniyle endişe duymaktadır. Hem Balam’ın hem de Kara Kartal’ın, Maya presesi Ixchel’e duydukları ilgi işleri daha da karmaşık hale getirecektir."
+  },
+  "poster": {
+    "tr": "/luWboioLUipYdlcfolprXoMi2Fm.jpg",
+    "en": "/asV0EzvJkrkioBgh8znV1NQWT9D.jpg"
+  },
+  "backdrops": [
+    "/yw4ja2PNKvn9ipJ1UKtbAW9EuqZ.jpg",
+    "/jJBE42tMCbXj5GqY1lqA8CqC5f5.jpg",
+    "/juKXmgj55x5zoFJte1i3xLOwgD8.jpg",
+    "/4Of01lJRAOKoJKVQq3fPqQXCVQZ.jpg",
+    "/2bGFkE8Q9jMphl6KCQwGUjb0Sfv.jpg",
+    "/rXklkYa0eIjHAHhWHF12t89GUt3.jpg"
+  ],
+  "trailerKey": "bXdDLh831ss",
+  "genreIds": [
+    36,
+    12
+  ],
+  "keywordIds": [],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Mirisch Company",
+    "United Artists"
+  ],
+  "crew": [
+    {
+      "personId": 18669,
+      "job": "director"
+    },
+    {
+      "personId": 35497,
+      "job": "producer"
+    },
+    {
+      "personId": 155266,
+      "job": "writer"
+    },
+    {
+      "personId": 69104,
+      "job": "writer"
+    },
+    {
+      "personId": 122492,
+      "job": "producer"
+    },
+    {
+      "personId": 7182,
+      "job": "composer"
+    },
+    {
+      "personId": 30288,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14528,
+      "character": "Chief Black Eagle",
+      "order": 0
+    },
+    {
+      "personId": 24880,
+      "character": "Balam",
+      "order": 1
+    },
+    {
+      "personId": 83909,
+      "character": "Ixchel",
+      "order": 2
+    },
+    {
+      "personId": 5403,
+      "character": "Ah Min",
+      "order": 3
+    },
+    {
+      "personId": 14529,
+      "character": "Ah Haleb",
+      "order": 4
+    },
+    {
+      "personId": 101851,
+      "character": "Ah Zok",
+      "order": 5
+    },
+    {
+      "personId": 102306,
+      "character": "Isatai",
+      "order": 6
+    },
+    {
+      "personId": 95082,
+      "character": "Hunac Ceel",
+      "order": 7
+    },
+    {
+      "personId": 12024,
+      "character": "Ixzubin",
+      "order": 8
+    },
+    {
+      "personId": 1214926,
+      "character": "Pitz",
+      "order": 9
+    },
+    {
+      "personId": 83812,
+      "character": "The chief",
+      "order": 10
+    },
+    {
+      "personId": 5563,
+      "character": "Narrator (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 114232,
+      "character": "Indian Warrior Friend to Black Eagle (uncredited)",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 51,
+  "sources": [
+    "cult-list"
+  ]
+}

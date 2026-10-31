@@ -1,0 +1,145 @@
+{
+  "tmdbId": 548,
+  "slug": "rashomon-1950",
+  "year": 1950,
+  "runtime": 88,
+  "originalTitle": "羅生門",
+  "title": {
+    "en": "Rashomon",
+    "tr": "Raşomon"
+  },
+  "overview": {
+    "en": "Four people recount different versions of the story of a man's murder and the rape of his wife.",
+    "tr": "Ormanda devriye gezen polisler tarafından, öldürülmüş bir adamın cesedi bulunur. Adamın karısı da tecavüze uğramıştır. Olaya tanıklık eden üç kişi vardır: Bir gezgin, oduncu ve bir haydut. İzleyici olarak mahkeme bizizdir ve tanıkların hikayelerini dinleriz. Tecavüze uğramış kadın da dahil, hepsinin anlattığı hikayeler birbirinden farklıdır. Öldürülen adamın da olaya tanıklığını izlediğimiz filmde çözülmesi zor bir bulmacayla karşı karşıyayızdır: İçlerinden birileri yalan söylemektedir ancak kim ve neden? Film, 20. yy.'ın başlarında yaşamış yazar Ryunosuke Akutagawa'nın Ormanın Sıklığı isimli kitabının uyarlaması. Ancak, toplam süresi 60 dakikayı pek geçmeyine yazarın diğer kitabı Rashômon'dan alınan kestilerin eklenmesiyle film son halini almış. Japon sinemasının ustalarından Kurosawa'nın bu filmi pek ödüllendirilmemişse de oldukça başarılı. Rashômon insan psikolojisi üzerinde duran ve yalanın sınırlarını zorlayan bir Japon draması."
+  },
+  "poster": {
+    "tr": "/ijWibsAU1iBcCD8tuIZfTmDzMVE.jpg",
+    "en": "/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg"
+  },
+  "backdrops": [
+    "/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg",
+    "/qLGAOQd1RSnfpJab0MN5Lubkgu5.jpg",
+    "/iwjd37vpwfQsBnVEzdaVHvATyAW.jpg",
+    "/tDn1dA52bQH9B85vilHeU7C83W1.jpg",
+    "/wTOA4z7VytZk1c9HuB0rTFL3tB7.jpg",
+    "/d9z53KQbh0MohKXjGbm3OJpjH0.jpg",
+    "/vpxfNKxhnZERjk7tQhp4L30VrBn.jpg",
+    "/eyHJETwW1Fpl7P7uk2hlg1Jt5xh.jpg",
+    "/wvHHGkOPkNkPC86BdcUVZNPK3dM.jpg",
+    "/ybz6sBvceJYhg4nGwcQaux04Zq0.jpg"
+  ],
+  "trailerKey": "L2E_DfExUmU",
+  "genreIds": [
+    80,
+    18,
+    9648
+  ],
+  "keywordIds": [
+    3737,
+    233,
+    1462,
+    570,
+    3012,
+    6148,
+    6256,
+    2217,
+    2720,
+    2722,
+    2723,
+    2725,
+    12999,
+    15009,
+    156866,
+    180635,
+    186753,
+    257412,
+    266883,
+    274925,
+    327412
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Daiei Film"
+  ],
+  "crew": [
+    {
+      "personId": 5026,
+      "job": "director"
+    },
+    {
+      "personId": 7461,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7449,
+      "job": "writer"
+    },
+    {
+      "personId": 7458,
+      "job": "producer"
+    },
+    {
+      "personId": 7460,
+      "job": "composer"
+    },
+    {
+      "personId": 5026,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7450,
+      "character": "Tajômaru",
+      "order": 0
+    },
+    {
+      "personId": 7451,
+      "character": "Masako",
+      "order": 1
+    },
+    {
+      "personId": 7453,
+      "character": "Woodcutter",
+      "order": 2
+    },
+    {
+      "personId": 7452,
+      "character": "Takehiro",
+      "order": 3
+    },
+    {
+      "personId": 7454,
+      "character": "Priest",
+      "order": 4
+    },
+    {
+      "personId": 7455,
+      "character": "Commoner",
+      "order": 5
+    },
+    {
+      "personId": 7456,
+      "character": "Medium",
+      "order": 6
+    },
+    {
+      "personId": 7457,
+      "character": "Policeman",
+      "order": 7
+    }
+  ],
+  "awards": {
+    "oscar": 1,
+    "venice": 1
+  },
+  "voteCount": 2651,
+  "sources": [
+    "cult-list"
+  ]
+}

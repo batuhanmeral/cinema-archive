@@ -1,0 +1,198 @@
+{
+  "tmdbId": 9037,
+  "slug": "grease-2-1982",
+  "year": 1982,
+  "runtime": 115,
+  "originalTitle": "Grease 2",
+  "title": {
+    "en": "Grease 2",
+    "tr": "Grease 2"
+  },
+  "overview": {
+    "en": "It's 1961, two years after the original Grease gang graduated, and there's a new crop of seniors and new members of the coolest cliques on campus, the Pink Ladies and T-Birds. Michael Carrington is the new kid in school - but he's been branded a brainiac. Can he fix up an old motorcycle, don a leather jacket, avoid a rumble with the leader of the T-Birds, and win the heart of Pink Lady Stephanie?",
+    "tr": "Grease Dünyasına Hoşgeldiniz! Grease'in tanıdık yüzleri İlk filmden de hatırladığımız dar etekleri, çapkınlıkları ve gençlik aşklarıyla kampüse geri dönüyor. Yıl 1961. Grease çetesi Rydell Lisesi'nden mezun olalı iki yıl olmuştur ve artık üst sınıflarda yeni öğrenciler okumaktadır. The Pink Ladies ve T-Birds grupları hala okulun klas birer sembolleridir. Ancak yazın sonunda, okulun kızlar birliği lideri Stephanie'nin kendini Johnny'den daha olgun hissetmesi onun yeni bir arayışa girmesine neden olur. Bu arada yeni öğrenci Michael da (Maxwell Caulfield) Stephanie'ye vurulmuştur ancak Stephanie bunun farkında değildir. Rydell Lisesindeki eğlence yeni boyutlara taşınacaktır."
+  },
+  "poster": {
+    "tr": "/ufWc8AR5D66lwB2UZvZ9xvGcDSD.jpg",
+    "en": "/lTjDMtgfXb2bUrg80h2lJbvJMwW.jpg"
+  },
+  "backdrops": [
+    "/i2fTDqSrrq6cHKI3xZWQxV5uemG.jpg",
+    "/6TsKOdgBARhchf4Ij2hZVvXQtBm.jpg",
+    "/oScpMm0gmUMf7EY6vKomi7tboc6.jpg",
+    "/xkNY4m9ushzGHkEG0xADlWGJXss.jpg",
+    "/ezISCIIZb5DhgRzml9p8x5otbOx.jpg",
+    "/cekkpeRkEk2o6oWyFCrqPfN09fr.jpg",
+    "/gJl1slTkIymVgh7fkgTCE1l6AdQ.jpg",
+    "/wxU1Gb841OVIVQHNQ5CSUE9WkW1.jpg",
+    "/oBsBNFlhzR1fqlCorjssPKiNxA7.jpg",
+    "/toQTOdq336FDZcuHUjCL6cAZEoZ.jpg"
+  ],
+  "trailerKey": "bIWUWksk8Ns",
+  "genreIds": [
+    35,
+    10402,
+    10749
+  ],
+  "keywordIds": [
+    6270,
+    4344,
+    9799,
+    8290,
+    9663,
+    10809,
+    14735,
+    18068,
+    41203,
+    155493,
+    180086,
+    187056,
+    208992,
+    331653
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Fine Arts Films",
+    "Robert Stigwood Organization"
+  ],
+  "crew": [
+    {
+      "personId": 56755,
+      "job": "director"
+    },
+    {
+      "personId": 8879,
+      "job": "producer"
+    },
+    {
+      "personId": 55320,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 56756,
+      "job": "composer"
+    },
+    {
+      "personId": 27746,
+      "job": "writer"
+    },
+    {
+      "personId": 8878,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 101908,
+      "character": "Michael Carrington",
+      "order": 0
+    },
+    {
+      "personId": 1160,
+      "character": "Stephanie Zinone",
+      "order": 1
+    },
+    {
+      "personId": 56752,
+      "character": "Paulette Rebchuck",
+      "order": 2
+    },
+    {
+      "personId": 56753,
+      "character": "Sharon Cooper",
+      "order": 3
+    },
+    {
+      "personId": 56754,
+      "character": "Rhonda Ritter",
+      "order": 4
+    },
+    {
+      "personId": 21063,
+      "character": "Dolores Rebchuck",
+      "order": 5
+    },
+    {
+      "personId": 36039,
+      "character": "Johnny Nogerelli",
+      "order": 6
+    },
+    {
+      "personId": 5300,
+      "character": "Louis DiMucci",
+      "order": 7
+    },
+    {
+      "personId": 4443,
+      "character": "Goose McKenzie",
+      "order": 8
+    },
+    {
+      "personId": 119580,
+      "character": "Davey Jaworski",
+      "order": 9
+    },
+    {
+      "personId": 8895,
+      "character": "Frenchy",
+      "order": 10
+    },
+    {
+      "personId": 860,
+      "character": "Principal McGee",
+      "order": 11
+    },
+    {
+      "personId": 8902,
+      "character": "Coach Vince Calhoun",
+      "order": 12
+    },
+    {
+      "personId": 8903,
+      "character": "Secretary Blanche Hodel",
+      "order": 13
+    },
+    {
+      "personId": 76519,
+      "character": "Mr. Stuart",
+      "order": 14
+    },
+    {
+      "personId": 1706148,
+      "character": "Mr. Spears",
+      "order": 15
+    },
+    {
+      "personId": 95476,
+      "character": "Miss Yvette Mason",
+      "order": 16
+    },
+    {
+      "personId": 42362,
+      "character": "Eugene Felsnick",
+      "order": 17
+    },
+    {
+      "personId": 22490,
+      "character": "Brad",
+      "order": 18
+    },
+    {
+      "personId": 1214817,
+      "character": "Sorority Girl",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 764,
+  "sources": [
+    "cult-list"
+  ]
+}

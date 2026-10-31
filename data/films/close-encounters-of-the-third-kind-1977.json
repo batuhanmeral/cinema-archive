@@ -1,0 +1,232 @@
+{
+  "tmdbId": 840,
+  "slug": "close-encounters-of-the-third-kind-1977",
+  "year": 1977,
+  "runtime": 137,
+  "originalTitle": "Close Encounters of the Third Kind",
+  "title": {
+    "en": "Close Encounters of the Third Kind",
+    "tr": "Tehlikeli İlişkiler"
+  },
+  "overview": {
+    "en": "After an encounter with UFOs, an electricity linesman feels undeniably drawn to an isolated area in the wilderness where something spectacular is about to happen.",
+    "tr": "Issız bir yolda kamyonetiyle gitmekte olan Roy Neary birden motorun garip çalışması yüzünden durmak zorunda kalır ve dışarı çıktığında da tepesinden gelen çok güçlü bir ışığın rahasız edici parlaklığı altında kalır. Bu durumdan çok etkilenen Roy, aradan geçen zaman içinde garip hayeller görmeye ve 5 notadan oluşan bir müzik sesi duymaya başlamıştır. 1945 yılında kaybolduğu kayıtlarda bulunan uçaklar Mojave Çölünde ortaya çıkar. Havayollarına ait bir yolcu uçağı da pilotun ne olduğunu söyleyemediği çok parlak bir cisim gürdüğünü rapor eder. Bütün bu olaylar Birleşik Devletler Hükümetini bu uzaylı yaratıkların nereye inmeyi düşündüklerini bulmak ve paniğe neden olmaması için, halkın oradan uzak durmasını sağlamaya yarayacak bir bahane yaratma çabalarına girmesine neden olur."
+  },
+  "poster": {
+    "tr": "/6FIFkMInllxVvvnCogNYzmCCSnH.jpg",
+    "en": "/4zfedS25uMAhgm6YQhc9bhKHbLl.jpg"
+  },
+  "backdrops": [
+    "/yBCekmb7vK70xUhtsRQBcTu65sB.jpg",
+    "/u9ZLyLvqHY5VDjn0Rs4LKAklsAV.jpg",
+    "/6s42WVWRgsntcvM8NYzOGYDa9Lc.jpg",
+    "/9Gdb0xwAAxHQleaShTpfz3tJ5sY.jpg",
+    "/yjZQF6NLS4yBDM1jRnaIRkgjMRU.jpg",
+    "/6pApS9ayIySIMEvReyCohPYIToD.jpg",
+    "/xR3tAy693JH32hIJGcbRDiNA5x5.jpg",
+    "/jAIQCSgzVfUGdKuxsR92Z3d46ul.jpg",
+    "/z1mhLW6YivhRahuZ1KcaxmbBWDy.jpg",
+    "/8YfWIwJwANGECHuk30InmYJfm4T.jpg"
+  ],
+  "trailerKey": "dSpQ3G08k48",
+  "genreIds": [
+    878,
+    18
+  ],
+  "keywordIds": [
+    1016,
+    1447,
+    3243,
+    1603,
+    1523,
+    2227,
+    2583,
+    3268,
+    4862,
+    9951,
+    9738,
+    10629,
+    12553,
+    156091,
+    160515,
+    160754,
+    161293,
+    162459,
+    177178,
+    187710,
+    206711,
+    211560,
+    223550,
+    229652,
+    232076,
+    237124,
+    240005,
+    240422,
+    250802,
+    251829,
+    287612,
+    288156,
+    290950,
+    317024,
+    324713,
+    325761
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "hi",
+    "en",
+    "fr",
+    "es"
+  ],
+  "studios": [
+    "Julia Phillips and Michael Phillips Productions",
+    "Columbia Pictures",
+    "EMI Films"
+  ],
+  "crew": [
+    {
+      "personId": 488,
+      "job": "writer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 488,
+      "job": "director"
+    },
+    {
+      "personId": 12432,
+      "job": "producer"
+    },
+    {
+      "personId": 12235,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12433,
+      "job": "producer"
+    },
+    {
+      "personId": 12846,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 666,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3037,
+      "character": "Roy Neary",
+      "order": 0
+    },
+    {
+      "personId": 1650,
+      "character": "Claude Lacombe",
+      "order": 1
+    },
+    {
+      "personId": 8437,
+      "character": "Ronnie Neary",
+      "order": 2
+    },
+    {
+      "personId": 4778,
+      "character": "Jillian Guiler",
+      "order": 3
+    },
+    {
+      "personId": 12438,
+      "character": "David Laughlin",
+      "order": 4
+    },
+    {
+      "personId": 12439,
+      "character": "Project Leader",
+      "order": 5
+    },
+    {
+      "personId": 12440,
+      "character": "Wild Bill",
+      "order": 6
+    },
+    {
+      "personId": 66288,
+      "character": "Farmer",
+      "order": 7
+    },
+    {
+      "personId": 1204280,
+      "character": "ARP Musician",
+      "order": 8
+    },
+    {
+      "personId": 66645,
+      "character": "Barry Guiler",
+      "order": 9
+    },
+    {
+      "personId": 1031236,
+      "character": "Brad Neary",
+      "order": 10
+    },
+    {
+      "personId": 12442,
+      "character": "Sylvia Neary",
+      "order": 11
+    },
+    {
+      "personId": 12443,
+      "character": "Toby Neary",
+      "order": 12
+    },
+    {
+      "personId": 2714,
+      "character": "Robert",
+      "order": 13
+    },
+    {
+      "personId": 12444,
+      "character": "Team Leader",
+      "order": 14
+    },
+    {
+      "personId": 12428,
+      "character": "Implantee",
+      "order": 15
+    },
+    {
+      "personId": 12424,
+      "character": "Ike",
+      "order": 16
+    },
+    {
+      "personId": 1101,
+      "character": "Military Policeman",
+      "order": 17
+    },
+    {
+      "personId": 24319,
+      "character": "Norman Bartold",
+      "order": 18
+    },
+    {
+      "personId": 152911,
+      "character": "ARP Project Member",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 4896,
+  "sources": [
+    "cult-list"
+  ]
+}

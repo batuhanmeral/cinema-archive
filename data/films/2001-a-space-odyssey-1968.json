@@ -1,0 +1,208 @@
+{
+  "tmdbId": 62,
+  "slug": "2001-a-space-odyssey-1968",
+  "year": 1968,
+  "runtime": 149,
+  "originalTitle": "2001: A Space Odyssey",
+  "title": {
+    "en": "2001: A Space Odyssey",
+    "tr": "2001: Uzay Yolu Macerası"
+  },
+  "overview": {
+    "en": "Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.",
+    "tr": "Stanley Kubrick, klasik bilim kurgu başyapıtı olan insanlığın doğası üzerine bir yorum niteliğindeki 2001: Uzay Macerası ile film yapımının sınırlarını yeniden tanımladı. Taş Devri Dünyası: Yanı başlarında beliren esrarengiz siyah bir taş, primatların ilk defa alet kullanmasını sağlayarak akıl için ilk adımlar atılmıştır. 1999: Dünya’nın ay astronotları başka bir esrarengiz siyah taş ortaya çıkarırlar. 2001: Dünya ve Jüpiter arasında, uzay aracının akıllı bilgisayarı, insan ekibinin çoğunu öldüren bir hata yapar ve ardından hatasını gizlemek için öldürmeye devam eder. Zamanın Ötesi: Jüpiter’e yapılan yolculuktan tek sağ kalan, bir sonraki insanlık düzeyine yükselir."
+  },
+  "poster": {
+    "tr": "/9dQnDc1tPrfLjqlBU4H5ai1ysHa.jpg",
+    "en": "/zmmYdPa8Lxx999Af9vnVP4XQ1V6.jpg"
+  },
+  "backdrops": [
+    "/6gyZF4SeifiUUYDELkCS8nOqsu2.jpg",
+    "/kCEXA22ASuq7Y29jnngyaisyA0X.jpg",
+    "/vCkC4lHpJZNVUGzdWAF09UKK8by.jpg",
+    "/czrTZnZgSwtIofk0UYrRMicVgHB.jpg",
+    "/pIU6CQ9pdvg3n01lVSkKa6476ry.jpg",
+    "/spoZUN4X1KiOc5S0plOyGAXLNtb.jpg",
+    "/w5IDXtifKntw0ajv2co7jFlTQDM.jpg",
+    "/h0QAvbx3FL3anvVUpjRRFcxzHoK.jpg",
+    "/yfnDgz3Kiv0IkdujrFRh1vcd7Yu.jpg",
+    "/z3WW2S24SPdwpEyvbTQPthYwL1Y.jpg"
+  ],
+  "trailerKey": "kR2r-A9H3Kg",
+  "genreIds": [
+    878,
+    9648,
+    12
+  ],
+  "keywordIds": [
+    312,
+    305,
+    306,
+    310,
+    818,
+    1576,
+    3222,
+    3801,
+    4040,
+    12185,
+    14626,
+    34152,
+    155689,
+    156039,
+    161176,
+    212737,
+    252104,
+    298590,
+    314730,
+    325787,
+    361867
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ru"
+  ],
+  "studios": [
+    "Stanley Kubrick Productions",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 241,
+      "job": "writer"
+    },
+    {
+      "personId": 240,
+      "job": "producer"
+    },
+    {
+      "personId": 257,
+      "job": "producer"
+    },
+    {
+      "personId": 240,
+      "job": "writer"
+    },
+    {
+      "personId": 243,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 240,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 245,
+      "character": "Dr. David Bowman",
+      "order": 0
+    },
+    {
+      "personId": 246,
+      "character": "Dr. Frank Poole",
+      "order": 1
+    },
+    {
+      "personId": 247,
+      "character": "Dr. Heywood Floyd",
+      "order": 2
+    },
+    {
+      "personId": 253,
+      "character": "HAL 9000 (voice)",
+      "order": 3
+    },
+    {
+      "personId": 248,
+      "character": "Moonwatcher",
+      "order": 4
+    },
+    {
+      "personId": 249,
+      "character": "Dr. Andrei Smyslov",
+      "order": 5
+    },
+    {
+      "personId": 250,
+      "character": "Elena",
+      "order": 6
+    },
+    {
+      "personId": 251,
+      "character": "Dr. Ralph Halvorsen",
+      "order": 7
+    },
+    {
+      "personId": 252,
+      "character": "Dr. Roy Michaels",
+      "order": 8
+    },
+    {
+      "personId": 4461547,
+      "character": "Mission Controller (voice)",
+      "order": 9
+    },
+    {
+      "personId": 24278,
+      "character": "Astronaut",
+      "order": 10
+    },
+    {
+      "personId": 108277,
+      "character": "Aries-1B Lunar Shuttle Captain",
+      "order": 11
+    },
+    {
+      "personId": 948173,
+      "character": "Astronaut",
+      "order": 12
+    },
+    {
+      "personId": 93948,
+      "character": "Poole's Father",
+      "order": 13
+    },
+    {
+      "personId": 107445,
+      "character": "Poole's Mother",
+      "order": 14
+    },
+    {
+      "personId": 117540,
+      "character": "Aries-1B Stewardess",
+      "order": 15
+    },
+    {
+      "personId": 127363,
+      "character": "Stewardess",
+      "order": 16
+    },
+    {
+      "personId": 1102076,
+      "character": "Stewardess",
+      "order": 17
+    },
+    {
+      "personId": 1330785,
+      "character": "Astronaut",
+      "order": 18
+    },
+    {
+      "personId": 1330786,
+      "character": "Ape",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1,
+    "bafta": 1
+  },
+  "voteCount": 13091,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "tmdbId": 9479,
+  "slug": "the-nightmare-before-christmas-1993",
+  "year": 1993,
+  "runtime": 76,
+  "originalTitle": "The Nightmare Before Christmas",
+  "title": {
+    "en": "The Nightmare Before Christmas",
+    "tr": "Noel Gecesi Kabusu"
+  },
+  "overview": {
+    "en": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans.",
+    "tr": "Balkabağı Kral Jack Skellington, Halloweentown'ı yönetmektedir. Kabuslardan fırlamış bir kasabayı andıran Halloweentown, cinler, ruhlar ve yarasalardan oluşan bir nüfusa sahiptir. Jack, bir gün Christmastown'a bir ziyaret yapar ve orada gördüklerini kıskanarak kendi şehrini de oraya benzetmek için Santa Claus'u kaçırır. Santa'nın yerine geçen Jack, çocuklara kendince alternatif hediyeler dağıtmaya başlar. Çılgın dahi Tim Burton'ın konseptini yarattığı ve yapımcılığını üstlendiği film, en iyi özel efekt dalında Oscar'a aday olmuştu..."
+  },
+  "poster": {
+    "tr": "/4RTTyUUaYXsADB0loE2dSWYdsMc.jpg",
+    "en": "/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+  },
+  "backdrops": [
+    "/xWT5F1DNxciNLEMXRl49iq8zvN7.jpg",
+    "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+    "/16lk65YfrDFIr6evkWRjSeOOSws.jpg",
+    "/fhsuN8x2EQpF2wygTKhcaxuayr7.jpg",
+    "/nJT0QZIB7e9af31JM6sOzMeTOgD.jpg",
+    "/va8pptilM7jU4E4Qr1XFfLFvnra.jpg",
+    "/8cCCjUP10TiGmPsrWl7wkbDHj5D.jpg",
+    "/b1Rfr2zHXoHlFlDrGUNfkmKwSsb.jpg",
+    "/nVyYGxlL1UUXTDFtmtJ3fsVHaXU.jpg",
+    "/9A6gzq94W5ojnSihahA5cSvFmYH.jpg"
+  ],
+  "trailerKey": "IoYahD_xNR0",
+  "genreIds": [
+    14,
+    16,
+    10751
+  ],
+  "keywordIds": [
+    4062,
+    657,
+    2343,
+    65,
+    1991,
+    3335,
+    3289,
+    4344,
+    5570,
+    12200,
+    12198,
+    9720,
+    10121,
+    162846,
+    164246,
+    186466,
+    207317
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Touchstone Pictures",
+    "Skellington Productions"
+  ],
+  "crew": [
+    {
+      "personId": 12824,
+      "job": "producer"
+    },
+    {
+      "personId": 1899,
+      "job": "producer"
+    },
+    {
+      "personId": 57646,
+      "job": "director"
+    },
+    {
+      "personId": 531,
+      "job": "composer"
+    },
+    {
+      "personId": 27486,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 510,
+      "job": "producer"
+    },
+    {
+      "personId": 1901,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 531,
+      "character": "Jack Skellington (singing) / Barrel / Clown with the Tear away Face (voice)",
+      "order": 0
+    },
+    {
+      "personId": 14541,
+      "character": "Jack Skellington (voice)",
+      "order": 1
+    },
+    {
+      "personId": 11514,
+      "character": "Sally / Shock (voice)",
+      "order": 2
+    },
+    {
+      "personId": 21282,
+      "character": "Dr. Finkelstein (voice)",
+      "order": 3
+    },
+    {
+      "personId": 13243,
+      "character": "Mayor (voice)",
+      "order": 4
+    },
+    {
+      "personId": 5129,
+      "character": "Lock (voice)",
+      "order": 5
+    },
+    {
+      "personId": 95758,
+      "character": "Oogie Boogie (voice)",
+      "order": 6
+    },
+    {
+      "personId": 1495928,
+      "character": "Santa Claus (voice)",
+      "order": 7
+    },
+    {
+      "personId": 2011698,
+      "character": "Big Witch / WWD. (voice)",
+      "order": 8
+    },
+    {
+      "personId": 1383860,
+      "character": "Corpse Kid / Corpse Mom / Small Witch (voice)",
+      "order": 9
+    },
+    {
+      "personId": 61965,
+      "character": "Harlequin Demon / Devil / Sax Player (voice)",
+      "order": 10
+    },
+    {
+      "personId": 1720665,
+      "character": "Man Under Stairs / Vampire / Corpse Dad (voice)",
+      "order": 11
+    },
+    {
+      "personId": 1720666,
+      "character": "Mr. Hyde / Behemoth / Vampire Corpse Dad (voice)",
+      "order": 12
+    },
+    {
+      "personId": 1720668,
+      "character": "Mummy / Vampire (voice)",
+      "order": 13
+    },
+    {
+      "personId": 1222823,
+      "character": "Undersea Gal / Man Under the Stairs (voice)",
+      "order": 14
+    },
+    {
+      "personId": 1720667,
+      "character": "Wolfman (voice)",
+      "order": 15
+    },
+    {
+      "personId": 2011699,
+      "character": "Additional Voices (voice)",
+      "order": 16
+    },
+    {
+      "personId": 2011701,
+      "character": "Additional Voices (voice)",
+      "order": 17
+    },
+    {
+      "personId": 2011702,
+      "character": "Additional Voices (voice)",
+      "order": 18
+    },
+    {
+      "personId": 2011703,
+      "character": "Additional Voices (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 10836,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "tmdbId": 850,
+  "slug": "a-christmas-story-1983",
+  "year": 1983,
+  "runtime": 93,
+  "originalTitle": "A Christmas Story",
+  "title": {
+    "en": "A Christmas Story",
+    "tr": "Yılbaşı Hikayesi"
+  },
+  "overview": {
+    "en": "The comic mishaps and adventures of a young boy named Ralph, trying to convince his parents, teachers, and Santa that a Red Ryder B.B. gun really is the perfect Christmas gift for the 1940s.",
+    "tr": "Dokuz yaşındaki Ralphie, yılbaşı hediyesi olarak Daisy Brand Red Ryder 200 atış kapasiteli havalı tüfeğin hayalini kurmaktadır. Ne yazık ki annesi gözüne zarar vereceğini söylerek bu hediyeye karşı çıkmakta, Ralphie de bu tüfeği elde etmenin yollarını aramaktadır. Küçük kardeş Randy ise ayrı bir eğlence kaynağıdır. Aile babası yaşlı adam Mr.Parker ise radyo yarışmasından kazandığı enterasan ödülle gurur duymakta, herkesin bunu görebileceği şekilde sergilemek istemektedir."
+  },
+  "poster": {
+    "tr": "/34nSHYqmb7222tiqiuKqKJmZiQa.jpg",
+    "en": "/f3VITMLSmP3Ai65AvXT54RcF5Sw.jpg"
+  },
+  "backdrops": [
+    "/mScVEkY9eJyBOf81JEHPbWXJEyq.jpg",
+    "/3iaNLFxfk35kmuPvlYwCthnql8h.jpg",
+    "/7hJ54hwwdUMODmE7OUbRwlFNtFk.jpg",
+    "/jlpbDUV7YM64hkkwgIXM8nymLGz.jpg",
+    "/WyKhtiHHgvsT2IDF5DxdxdAnoR.jpg",
+    "/s9leCV1ug9FsglVOxdu5aHnMUDm.jpg",
+    "/itew6Lqyp7rj7uLOHd4QCm9e4y1.jpg",
+    "/feCcRTZNGUop3LnWBLTToYhd03S.jpg",
+    "/fuouk4THbTQRA7va19aT9VpnANM.jpg",
+    "/bfgVGd9G09KVDJAcDfvpymh5pCT.jpg"
+  ],
+  "trailerKey": "ptbPSR9pAB8",
+  "genreIds": [
+    35,
+    10751
+  ],
+  "keywordIds": [
+    818,
+    65,
+    5609,
+    11336,
+    10794,
+    160528,
+    163714,
+    164246,
+    170496,
+    170499,
+    207317,
+    207883,
+    260365,
+    320420,
+    327617,
+    334740
+  ],
+  "countries": [
+    "US",
+    "CA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 12702,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12698,
+      "job": "writer"
+    },
+    {
+      "personId": 12698,
+      "job": "director"
+    },
+    {
+      "personId": 12701,
+      "job": "composer"
+    },
+    {
+      "personId": 12700,
+      "job": "composer"
+    },
+    {
+      "personId": 12698,
+      "job": "producer"
+    },
+    {
+      "personId": 1717582,
+      "job": "writer"
+    },
+    {
+      "personId": 57261,
+      "job": "producer"
+    },
+    {
+      "personId": 12699,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4778,
+      "character": "Mother",
+      "order": 0
+    },
+    {
+      "personId": 7333,
+      "character": "The Old Man",
+      "order": 1
+    },
+    {
+      "personId": 12708,
+      "character": "Ralphie",
+      "order": 2
+    },
+    {
+      "personId": 12699,
+      "character": "Ralphie as an Adult (voice)",
+      "order": 3
+    },
+    {
+      "personId": 12709,
+      "character": "Randy",
+      "order": 4
+    },
+    {
+      "personId": 12710,
+      "character": "Flick",
+      "order": 5
+    },
+    {
+      "personId": 12711,
+      "character": "Schwartz",
+      "order": 6
+    },
+    {
+      "personId": 12712,
+      "character": "Miss Shields",
+      "order": 7
+    },
+    {
+      "personId": 12713,
+      "character": "Grover Dill",
+      "order": 8
+    },
+    {
+      "personId": 12714,
+      "character": "Scut Farkus",
+      "order": 9
+    },
+    {
+      "personId": 12715,
+      "character": "Santa Claus",
+      "order": 10
+    },
+    {
+      "personId": 12716,
+      "character": "Christmas Tree Man",
+      "order": 11
+    },
+    {
+      "personId": 61872,
+      "character": "Freight Man",
+      "order": 12
+    },
+    {
+      "personId": 3319435,
+      "character": "Head Elf",
+      "order": 13
+    },
+    {
+      "personId": 3319436,
+      "character": "Male Elf",
+      "order": 14
+    },
+    {
+      "personId": 2802739,
+      "character": "Kid with Goggles",
+      "order": 15
+    },
+    {
+      "personId": 200598,
+      "character": "Black Bart",
+      "order": 16
+    },
+    {
+      "personId": 3319474,
+      "character": "Wicked Witch",
+      "order": 17
+    },
+    {
+      "personId": 3319830,
+      "character": "Chinese Father",
+      "order": 18
+    },
+    {
+      "personId": 3319831,
+      "character": "Waiter #1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1484,
+  "sources": [
+    "cult-list"
+  ]
+}

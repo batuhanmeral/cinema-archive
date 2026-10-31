@@ -1,0 +1,191 @@
+{
+  "tmdbId": 1857,
+  "slug": "the-transformers-the-movie-1986",
+  "year": 1986,
+  "runtime": 85,
+  "originalTitle": "The Transformers: The Movie",
+  "title": {
+    "en": "The Transformers: The Movie",
+    "tr": "The Transformers: The Movie"
+  },
+  "overview": {
+    "en": "The Autobots must stop a colossal planet-consuming robot who goes after the Autobot Matrix of Leadership. At the same time, they must defend themselves against an all-out attack from the Decepticons.",
+    "tr": "The Transformers: The Movie adı ile sinemalara giren film, popüler Transformers dizisinin ilk sinema uyarlamasıdır ve çizgi filmdir. ABD'de 8 Ağustos 1986'da, Avustralya'da 1 Aralık 1986'da, Japonya'da 9 Ağustos 1989'da, İngiltere'de ise 4 Mayıs 2007'de vizyona girmiştir. Seslendirenler ise: Norman Alden, Jack Angel, Michael Bell, Peter Cullen, Gregg Berger, Susan Blu, Corey Burton, BJ Davis, Paul Eiding ve Regis Cordic'dir. Türkiye'de NTV ve D Çocuk'ta çizgi filmi yayınlanmaktadır.Filmi ile bir alakası yoktur."
+  },
+  "poster": {
+    "tr": "/xJ5W0mOAWCVaXmU0pBZh4NjSRv2.jpg",
+    "en": "/xJ5W0mOAWCVaXmU0pBZh4NjSRv2.jpg"
+  },
+  "backdrops": [
+    "/e0djmN1YD6NcbLX6T0nSNKIvrrT.jpg",
+    "/8NvaYUSmpe56dBz7B5m3jSpJI3t.jpg",
+    "/n0mZ8zDCWBn9wycjXqTmkLLOiJa.jpg",
+    "/7jszi6RKsHRxvUrVBYd4scgYubW.jpg",
+    "/ekppa3eJm51s389jBX6dgt7CjYc.jpg",
+    "/1aKpYQCntDkskpOQbChTCNbZX4k.jpg",
+    "/4vCu2OY49QNUxCFb1EVsUPsNZQX.jpg",
+    "/dTk2fIx31XGn715NFcfEnbnDj8P.jpg",
+    "/vnl05JPZF4MzY6EZ9KkKTNBiOTr.jpg",
+    "/qQok9dRRNiDTVEydNrslM9vpaIv.jpg"
+  ],
+  "trailerKey": "OtgnqWLYqHo",
+  "genreIds": [
+    16,
+    878,
+    28,
+    12,
+    10751
+  ],
+  "keywordIds": [
+    4375,
+    10244,
+    10542,
+    14544,
+    173971,
+    273967,
+    323809
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Marvel Productions",
+    "Sunbow Productions"
+  ],
+  "crew": [
+    {
+      "personId": 19543,
+      "job": "producer"
+    },
+    {
+      "personId": 19542,
+      "job": "director"
+    },
+    {
+      "personId": 19544,
+      "job": "writer"
+    },
+    {
+      "personId": 16637,
+      "job": "composer"
+    },
+    {
+      "personId": 1864525,
+      "job": "producer"
+    },
+    {
+      "personId": 1307417,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21624,
+      "character": "Hot Rod / Rodimus Prime (voice)",
+      "order": 0
+    },
+    {
+      "personId": 19540,
+      "character": "Optimus Prime / Ironhide (voice)",
+      "order": 1
+    },
+    {
+      "personId": 15831,
+      "character": "Soundwave / Megatron / Rumble / Frenzy / Wheelie (voice)",
+      "order": 2
+    },
+    {
+      "personId": 1749,
+      "character": "Galvatron (voice)",
+      "order": 3
+    },
+    {
+      "personId": 40,
+      "character": "Unicron (voice)",
+      "order": 4
+    },
+    {
+      "personId": 16418,
+      "character": "Cliffjumper (voice)",
+      "order": 5
+    },
+    {
+      "personId": 81847,
+      "character": "Bumblebee (voice)",
+      "order": 6
+    },
+    {
+      "personId": 7077,
+      "character": "Jazz (voice)",
+      "order": 7
+    },
+    {
+      "personId": 19548,
+      "character": "Arcee (voice)",
+      "order": 8
+    },
+    {
+      "personId": 10713,
+      "character": "Wreck-Gar (voice)",
+      "order": 9
+    },
+    {
+      "personId": 2493,
+      "character": "Ultra Magnus (voice)",
+      "order": 10
+    },
+    {
+      "personId": 7139,
+      "character": "Kranix (voice)",
+      "order": 11
+    },
+    {
+      "personId": 19545,
+      "character": "Astrotrain (voice)",
+      "order": 12
+    },
+    {
+      "personId": 19546,
+      "character": "Prowl / Scrapper / Swoop / Junkion (voice)",
+      "order": 13
+    },
+    {
+      "personId": 19547,
+      "character": "Grimlock (voice)",
+      "order": 14
+    },
+    {
+      "personId": 4969,
+      "character": "Kup (voice)",
+      "order": 15
+    },
+    {
+      "personId": 1224519,
+      "character": "Blurr (voice)",
+      "order": 16
+    },
+    {
+      "personId": 1216857,
+      "character": "Blaster (voice)",
+      "order": 17
+    },
+    {
+      "personId": 4436158,
+      "character": "Dirge (voice)",
+      "order": 18
+    },
+    {
+      "personId": 1212769,
+      "character": "Inferno (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 656,
+  "sources": [
+    "cult-list"
+  ]
+}

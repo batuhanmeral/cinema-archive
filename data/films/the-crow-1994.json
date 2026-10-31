@@ -1,0 +1,216 @@
+{
+  "tmdbId": 9495,
+  "slug": "the-crow-1994",
+  "year": 1994,
+  "runtime": 102,
+  "originalTitle": "The Crow",
+  "title": {
+    "en": "The Crow",
+    "tr": "Ölümsüz Aşk"
+  },
+  "overview": {
+    "en": "Exactly one year after young rock guitarist Eric Draven and his fiancée are brutally killed by a ruthless gang of criminals, Draven, watched over by a hypnotic crow, returns from the grave to exact revenge.",
+    "tr": "Rock yıldızı Eric Draven (Brandon Lee) ve kız arkadaşı Shelly Webster (Sofia Shinas) bir gece şehrin zalim serserileri tarafından vahşice öldürülürler. Tam olarak bir sene sonra Eric, insanüstü güç ve öngörü yetileriyle donanmış bir şekilde hayata geri döner. Gizemli bir karganın rehberliğiyle hareket eden Eric, intikam amacıyla kendisini öldürenlerin peşine düşer. Çete ise kendilerini bekleyen kaderden habersiz, bir başka kaos ve şiddet gecesine hazırlanmaktadır. James O'Barr'ın popüler çizgi romanından sinemaya uyarlanan Ölümsüz Aşk'ın yönetmen koltuğunda ise Alex Proyas oturuyor."
+  },
+  "poster": {
+    "tr": "/gcoO0U2z5NJFKbzk0prT9XZ3jqq.jpg",
+    "en": "/qjrDnQNWOmHLiZTi6GnATt1Dczm.jpg"
+  },
+  "backdrops": [
+    "/8v5z3Wa6GbyjqvMxXz11PTmDCwS.jpg",
+    "/malT2STjWopccqE4xacsnSm5Ln8.jpg",
+    "/ylPsAQLuC0MvKShhwNUdggVuUcX.jpg",
+    "/2VN9umruwVZsT1Pr1NMCV71HpUu.jpg",
+    "/bQOeBOWKFqKwvDQXpHqYoE5N521.jpg",
+    "/cLqvQbP2utIKHRonwXnDjY3l1kk.jpg",
+    "/8wZLZBOr1eINO6ru9kJfAT1Yb23.jpg",
+    "/tWqKuCHelDGwSCHraMnwDlwZTBX.jpg",
+    "/3OdZX8PPJBHySOwWk0M47zq4BPx.jpg",
+    "/dLxUJZ8lqyktZyEWQ4NcpmeJeha.jpg"
+  ],
+  "trailerKey": "Ltzov6nhud0",
+  "genreIds": [
+    14,
+    28,
+    53
+  ],
+  "keywordIds": [
+    779,
+    9715,
+    6152,
+    3335,
+    4639,
+    9717,
+    9748,
+    11363,
+    7002,
+    10044,
+    12415,
+    13125,
+    18021,
+    33505,
+    33556,
+    202371,
+    207268,
+    232469,
+    251513,
+    266013,
+    269233,
+    280188,
+    315058,
+    325778,
+    325851
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Entertainment Media Investment",
+    "Jeff Most Productions",
+    "Pressman Film"
+  ],
+  "crew": [
+    {
+      "personId": 21085,
+      "job": "producer"
+    },
+    {
+      "personId": 57703,
+      "job": "writer"
+    },
+    {
+      "personId": 57707,
+      "job": "producer"
+    },
+    {
+      "personId": 32035,
+      "job": "producer"
+    },
+    {
+      "personId": 120,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 21085,
+      "job": "director"
+    },
+    {
+      "personId": 5912,
+      "job": "composer"
+    },
+    {
+      "personId": 1217663,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57700,
+      "character": "Eric",
+      "order": 0
+    },
+    {
+      "personId": 57701,
+      "character": "Sarah",
+      "order": 1
+    },
+    {
+      "personId": 8874,
+      "character": "Albrecht",
+      "order": 2
+    },
+    {
+      "personId": 7486,
+      "character": "Top Dollar",
+      "order": 3
+    },
+    {
+      "personId": 39126,
+      "character": "Myca",
+      "order": 4
+    },
+    {
+      "personId": 42649,
+      "character": "Shelly",
+      "order": 5
+    },
+    {
+      "personId": 3711,
+      "character": "Darla",
+      "order": 6
+    },
+    {
+      "personId": 1737,
+      "character": "T-Bird",
+      "order": 7
+    },
+    {
+      "personId": 37207,
+      "character": "Skank",
+      "order": 8
+    },
+    {
+      "personId": 65141,
+      "character": "Tin Tin",
+      "order": 9
+    },
+    {
+      "personId": 9289,
+      "character": "Funboy",
+      "order": 10
+    },
+    {
+      "personId": 19384,
+      "character": "Grange",
+      "order": 11
+    },
+    {
+      "personId": 4253,
+      "character": "Gideon",
+      "order": 12
+    },
+    {
+      "personId": 7576,
+      "character": "Mickey",
+      "order": 13
+    },
+    {
+      "personId": 73132,
+      "character": "Torres",
+      "order": 14
+    },
+    {
+      "personId": 2019085,
+      "character": "Annabella",
+      "order": 15
+    },
+    {
+      "personId": 2095333,
+      "character": "Lead Cop",
+      "order": 16
+    },
+    {
+      "personId": 545576,
+      "character": "Roscoe",
+      "order": 17
+    },
+    {
+      "personId": 182243,
+      "character": "Waldo",
+      "order": 18
+    },
+    {
+      "personId": 1513690,
+      "character": "MJ",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4737,
+  "sources": [
+    "cult-list"
+  ]
+}

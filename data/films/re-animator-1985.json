@@ -1,0 +1,208 @@
+{
+  "tmdbId": 1694,
+  "slug": "re-animator-1985",
+  "year": 1985,
+  "runtime": 86,
+  "originalTitle": "Re-Animator",
+  "title": {
+    "en": "Re-Animator",
+    "tr": "Ölümden Dönenler"
+  },
+  "overview": {
+    "en": "Conducting clandestine experiments within the morgue at Miskatonic University, scientist Herbert West reveals to a fellow graduate student his groundbreaking work concerning the re-animation of fresh corpses.",
+    "tr": "Tıp öğrencisi Herbert West (Jeffrey Combs), ölüleri diriltmenin sırrını bulduğuna inanıyor! Parlak ama çılgın bilim insanı, geliştirdiği yeşil bir serumla cesetleri yeniden canlandırıyor. Miskatonic Üniversitesi’nde oda arkadaşı Dan Cain (Bruce Abbott) ve sevgilisi Megan (Barbara Crampton) ile birlikte, West’in deneyleri korkunç ve kanlı sonuçlara yol açıyor. Ölüler diriliyor, ancak kontrolden çıkmış zombiler olarak! Dr. Hill (David Gale) gibi rakipler, West’in sırrını ele geçirmek için her şeyi göze alırken, morg bir kaos ve dehşet sahnesine dönüşüyor. H.P. Lovecraft’ın hikayesinden uyarlanan bu kült korku klasiği, komik ve çılgın sahnelerle dolu!"
+  },
+  "poster": {
+    "tr": "/7FYhY70LTumoFfQgTI8TK0UDdsF.jpg",
+    "en": "/1hY6AUl92cL9GdZx031UWFiGETt.jpg"
+  },
+  "backdrops": [
+    "/ogojPeWqjHBVUGCPGhfMxyQJLZ7.jpg",
+    "/xxBV7ZyywpBBEdQbuen7Rp3RIIp.jpg",
+    "/yK6iaa4a3smb0tgzhOvciCyyZ9K.jpg",
+    "/crHveywyqIiqzkUiQiwNuNJph5.jpg",
+    "/zaNwCck3QE3mT9mKwRehvCsnIjn.jpg",
+    "/b1h4MBxsJBzT2Kd0iYoM4MSaDDf.jpg",
+    "/uIcGKM2jnjHF0wXUxAvKdBlajdC.jpg",
+    "/plJPbHjiLXIcR3FxnJwciavRQR0.jpg",
+    "/gT6Vun2nXa38ssvNRLVA8DvIdDB.jpg",
+    "/xeEVgi5wsrF2KDmU0SRM1QmHPkh.jpg"
+  ],
+  "trailerKey": "wLJ8Z3PDEGU",
+  "genreIds": [
+    878,
+    35,
+    27
+  ],
+  "keywordIds": [
+    1706,
+    6255,
+    2635,
+    3335,
+    4553,
+    10125,
+    11181,
+    10122,
+    10124,
+    11581,
+    11612,
+    12377,
+    18085,
+    34079,
+    155488,
+    156866,
+    157490,
+    157572,
+    174413,
+    187675,
+    187677,
+    256330,
+    287274,
+    320420,
+    325765
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Empire Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 27992,
+      "job": "producer"
+    },
+    {
+      "personId": 27991,
+      "job": "director"
+    },
+    {
+      "personId": 19711,
+      "job": "composer"
+    },
+    {
+      "personId": 4614,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 58046,
+      "job": "writer"
+    },
+    {
+      "personId": 1697636,
+      "job": "writer"
+    },
+    {
+      "personId": 27991,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27993,
+      "character": "Herbert West",
+      "order": 0
+    },
+    {
+      "personId": 27994,
+      "character": "Dan Cain",
+      "order": 1
+    },
+    {
+      "personId": 27995,
+      "character": "Megan Halsey",
+      "order": 2
+    },
+    {
+      "personId": 27996,
+      "character": "Dr. Carl Hill",
+      "order": 3
+    },
+    {
+      "personId": 22048,
+      "character": "Dean Alan Halsey",
+      "order": 4
+    },
+    {
+      "personId": 37028,
+      "character": "Dr. Harrod",
+      "order": 5
+    },
+    {
+      "personId": 37029,
+      "character": "Melvin the Re-Animated",
+      "order": 6
+    },
+    {
+      "personId": 34986,
+      "character": "Swiss Professor",
+      "order": 7
+    },
+    {
+      "personId": 44800,
+      "character": "Swiss Woman Doctor",
+      "order": 8
+    },
+    {
+      "personId": 140340,
+      "character": "Dr. Gruber",
+      "order": 9
+    },
+    {
+      "personId": 103566,
+      "character": "Nurse",
+      "order": 10
+    },
+    {
+      "personId": 3787541,
+      "character": "E-R Patient Corpse",
+      "order": 11
+    },
+    {
+      "personId": 3787544,
+      "character": "Slit Wrist Girl Corpse",
+      "order": 12
+    },
+    {
+      "personId": 1632191,
+      "character": "Motorcycle Accident Corpse",
+      "order": 13
+    },
+    {
+      "personId": 3787549,
+      "character": "Bullet Wound to Face Corpse",
+      "order": 14
+    },
+    {
+      "personId": 3787552,
+      "character": "Psycho Ward Guard #2",
+      "order": 15
+    },
+    {
+      "personId": 1871968,
+      "character": "Psycho Ward Guard #1",
+      "order": 16
+    },
+    {
+      "personId": 3794647,
+      "character": "Swiss Policeman #1",
+      "order": 17
+    },
+    {
+      "personId": 160605,
+      "character": "Swiss Policeman #2",
+      "order": 18
+    },
+    {
+      "personId": 97266,
+      "character": "Mace",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1761,
+  "sources": [
+    "cult-list"
+  ]
+}

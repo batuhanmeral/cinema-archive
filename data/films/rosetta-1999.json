@@ -1,0 +1,210 @@
+{
+  "tmdbId": 11489,
+  "slug": "rosetta-1999",
+  "year": 1999,
+  "runtime": 95,
+  "originalTitle": "Rosetta",
+  "title": {
+    "en": "Rosetta",
+    "tr": "Rosetta"
+  },
+  "overview": {
+    "en": "Young, impulsive Rosetta lives a hard and stressful life as she struggles to support herself and her alcoholic mother. Refusing all charity, she is desperate to maintain a dignified job.",
+    "tr": "Film, içine doğduğu yoksulluktan sıyrılmayı başaramayan genç bir kızın öyküsünü anlatır. İzleyiciyi kıza iç gözlemsel bir yolla bakmaya zorlar, kızın yoksulluğu, öyküdeki diğer ayrıntılarla silinemeyecek kadar gerçektir. Hollywood'un gişe geliri elde etmek amacıyla üzerini örttüğü yaşam gerçekleri açısından çok zengin bir film. Sol eğilimli, toplumsal sorunlara düşkün, deneyimli belgesel yönetmenleri olan Dardenne kardeşler, cesur, duygusal olmayan usta işi mükemmel bir film ortaya çıkarmışlar * Dardenne kardeşlerin Cannes Film Festivali’nden Altın Palmiye ödülünü kazandıkları film, gerçeğin tam ortasındaki yoksulluğu anlatımı güçlü kılan öğelerle birleştirip tüm dünya halklarına sunmuş. Etkisi hemen hissedilmiş ve karşılığını bulmuş. İlkin Belçika'da başlayan ve sonrasında AB'ye yayılan bu süreçte genç nüfuslardaki işsizliğe yönelik çözümler vs. \"Rosetta Planı\" adı altında planlı programlı hale gelmiştir."
+  },
+  "poster": {
+    "tr": "/buwLjQPPA9FaATvKzeAppLXiGMB.jpg",
+    "en": "/buwLjQPPA9FaATvKzeAppLXiGMB.jpg"
+  },
+  "backdrops": [
+    "/1ZBPashbl6CQ3IhfbM38A67tNnj.jpg",
+    "/bNJjqDQ65KZ7SPye5hRi2cLvcRq.jpg",
+    "/uydYoYfnCbPWxNAG6VFbYwso3bB.jpg",
+    "/2SqWuGMRLUVX6E0e0GVCupajxd9.jpg",
+    "/rBRM4o2iI2DJkGUsxg3HNu89yWg.jpg",
+    "/rLLczEV8yRGMK7pMBuJt3sK86OO.jpg",
+    "/yAjXBInlms6n7mFkTNjkKBbO0kl.jpg",
+    "/sBhwgn93JArGUN64cuhsa36uSDu.jpg",
+    "/euoiYSCXLd0LlVLOezfBWdKoRpP.jpg"
+  ],
+  "trailerKey": "woN2P4r65oA",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    900,
+    1495,
+    1952,
+    1690,
+    12987,
+    15215,
+    15354,
+    33457,
+    156052,
+    185974,
+    190823,
+    211657,
+    215481,
+    229165,
+    240315,
+    257681
+  ],
+  "countries": [
+    "BE",
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Les Films du Fleuve",
+    "RTBF",
+    "ARP Sélection"
+  ],
+  "crew": [
+    {
+      "personId": 45138,
+      "job": "producer"
+    },
+    {
+      "personId": 4897,
+      "job": "producer"
+    },
+    {
+      "personId": 45138,
+      "job": "director"
+    },
+    {
+      "personId": 70315,
+      "job": "composer"
+    },
+    {
+      "personId": 4896,
+      "job": "producer"
+    },
+    {
+      "personId": 56209,
+      "job": "director"
+    },
+    {
+      "personId": 70313,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 56209,
+      "job": "producer"
+    },
+    {
+      "personId": 56209,
+      "job": "writer"
+    },
+    {
+      "personId": 45138,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 23671,
+      "character": "Rosetta",
+      "order": 0
+    },
+    {
+      "personId": 45152,
+      "character": "Patron",
+      "order": 1
+    },
+    {
+      "personId": 70312,
+      "character": "Riquet",
+      "order": 2
+    },
+    {
+      "personId": 70311,
+      "character": "Mother",
+      "order": 3
+    },
+    {
+      "personId": 1642481,
+      "character": "Campground Manager",
+      "order": 4
+    },
+    {
+      "personId": 586275,
+      "character": "Head of Personnel",
+      "order": 5
+    },
+    {
+      "personId": 227883,
+      "character": "The Boss's Son",
+      "order": 6
+    },
+    {
+      "personId": 1731607,
+      "character": "First Saleswoman",
+      "order": 7
+    },
+    {
+      "personId": 70321,
+      "character": "Second Saleswoman",
+      "order": 8
+    },
+    {
+      "personId": 1731608,
+      "character": "Mother's Boyfriend",
+      "order": 9
+    },
+    {
+      "personId": 1731610,
+      "character": "First Policeman",
+      "order": 10
+    },
+    {
+      "personId": 1731611,
+      "character": "Second Policeman",
+      "order": 11
+    },
+    {
+      "personId": 1731612,
+      "character": "Madame Riga",
+      "order": 12
+    },
+    {
+      "personId": 1731613,
+      "character": "Girl in Locker Room",
+      "order": 13
+    },
+    {
+      "personId": 1491755,
+      "character": "Fired Woman",
+      "order": 14
+    },
+    {
+      "personId": 1731614,
+      "character": "Store Manager",
+      "order": 15
+    },
+    {
+      "personId": 1731615,
+      "character": "First Paramedic",
+      "order": 16
+    },
+    {
+      "personId": 64544,
+      "character": "Second Paramedic",
+      "order": 17
+    },
+    {
+      "personId": 1731617,
+      "character": "Hospital Worker",
+      "order": 18
+    }
+  ],
+  "awards": {
+    "cannes": 1
+  },
+  "voteCount": 352,
+  "sources": [
+    "cult-list"
+  ]
+}

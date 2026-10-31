@@ -1,0 +1,133 @@
+{
+  "tmdbId": 86942,
+  "slug": "tusk-1980",
+  "year": 1980,
+  "runtime": 119,
+  "originalTitle": "Tusk",
+  "title": {
+    "en": "Tusk",
+    "tr": "Tusk"
+  },
+  "overview": {
+    "en": "An English girl and an Indian elephant, born on the same day, share a common destiny...",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xX5zsPZkygZ8GlbSd3STHVoNOxd.jpg",
+    "en": "/xX5zsPZkygZ8GlbSd3STHVoNOxd.jpg"
+  },
+  "backdrops": [
+    "/g0lLNGr00KOGH3cIb550E074wqh.jpg"
+  ],
+  "trailerKey": "vum6Ymho5TQ",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Yang Films",
+    "Les Films 21",
+    "Gaumont"
+  ],
+  "crew": [
+    {
+      "personId": 55119,
+      "job": "director"
+    },
+    {
+      "personId": 55119,
+      "job": "writer"
+    },
+    {
+      "personId": 37379,
+      "job": "writer"
+    },
+    {
+      "personId": 1499009,
+      "job": "writer"
+    },
+    {
+      "personId": 38960,
+      "job": "producer"
+    },
+    {
+      "personId": 38916,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2225332,
+      "job": "composer"
+    },
+    {
+      "personId": 37187,
+      "job": "composer"
+    },
+    {
+      "personId": 1614826,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18561,
+      "character": "Elise",
+      "order": 0
+    },
+    {
+      "personId": 97935,
+      "character": "John Morrison",
+      "order": 1
+    },
+    {
+      "personId": 2410,
+      "character": "Greyson",
+      "order": 2
+    },
+    {
+      "personId": 37251,
+      "character": "Richard Cairn",
+      "order": 3
+    },
+    {
+      "personId": 34605,
+      "character": "Shakley",
+      "order": 4
+    },
+    {
+      "personId": 2696000,
+      "character": "The Maharajah",
+      "order": 5
+    },
+    {
+      "personId": 2696001,
+      "character": "Deepak",
+      "order": 6
+    },
+    {
+      "personId": 2696003,
+      "character": "Elise at Age 5",
+      "order": 7
+    },
+    {
+      "personId": 2696004,
+      "character": "The Reverend",
+      "order": 8
+    },
+    {
+      "personId": 29885,
+      "character": "Lord Spencer",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 21,
+  "sources": [
+    "cult-list"
+  ]
+}

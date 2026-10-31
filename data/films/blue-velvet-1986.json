@@ -1,0 +1,193 @@
+{
+  "tmdbId": 793,
+  "slug": "blue-velvet-1986",
+  "year": 1986,
+  "runtime": 120,
+  "originalTitle": "Blue Velvet",
+  "title": {
+    "en": "Blue Velvet",
+    "tr": "Mavi Kadife"
+  },
+  "overview": {
+    "en": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+    "tr": "Son derece sakin gözüken bir Amerika kasabasında yaşayan Beaumont ailesi, babalarının geçirdiği krizle sarsılır. Oğul Jeffrey, babasını götürdüğü hastanenin dönüşünde eve doğru ilerlerken çimlerin üzerinde bir cisimle karşılaşır: Bu, bir insan kulağıdır. Kulağın kime ait olduğunu bulmaya çalışan ve bunu bir takıntı haline getiren Jeffrey'in yolu, histerik ama son derece etkileyici bir kadın olan Dorothy'ye çıkacaktır. Bir gece klubünde şarkıcılık yapan Dorothy, Jeffrey'e olayların düğümünün yeraltı dünyasının ünlü isimlerinden biri olan Frank ile çözüleceğini gösterecektir. Ancak Dorothy ne kadar güvenilirdir?"
+  },
+  "poster": {
+    "tr": "/hPxNKEoDN2L7opMitC3TfvYvU4K.jpg",
+    "en": "/tzXuURjPzCqtA6eL0Cswq9wzFx0.jpg"
+  },
+  "backdrops": [
+    "/12UiL2rS5M80AhS9uiZ633iy4pB.jpg",
+    "/60riBPcAtjKA9rWzB1GJu1Q4aUF.jpg",
+    "/vB5hoogPuLO5Hpbb63c8yFB7WPf.jpg",
+    "/d8QL8AHU5lIV99XuuH4v1F9Aoqr.jpg",
+    "/s1CBwblInR0ZBIv59CSko2QdLD3.jpg",
+    "/f8b4SeTcMhWtNwMiOwWELSlG00P.jpg",
+    "/2nlNhsOpOf3n4RWVkdlF9xqeCjQ.jpg",
+    "/cr4aTk3q3nHmEs2ssvfFunkI9UC.jpg",
+    "/p8xM6wbzG5CjkZhQ9uesnubywkq.jpg",
+    "/gMSZg3U2r2H4W953jcCJCg5dpqk.jpg"
+  ],
+  "trailerKey": "R9ZB7OldM6Y",
+  "genreIds": [
+    9648,
+    53,
+    80
+  ],
+  "keywordIds": [
+    2231,
+    1415,
+    459,
+    703,
+    2334,
+    4075,
+    9887,
+    9332,
+    9826,
+    14964,
+    33699,
+    178649,
+    199524,
+    207268,
+    207767,
+    325776
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "DEG"
+  ],
+  "crew": [
+    {
+      "personId": 5602,
+      "job": "director"
+    },
+    {
+      "personId": 11789,
+      "job": "producer"
+    },
+    {
+      "personId": 4434,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5628,
+      "job": "composer"
+    },
+    {
+      "personId": 5602,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6588,
+      "character": "Dorothy Vallens",
+      "order": 0
+    },
+    {
+      "personId": 6677,
+      "character": "Jeffrey Beaumont",
+      "order": 1
+    },
+    {
+      "personId": 2778,
+      "character": "Frank Booth",
+      "order": 2
+    },
+    {
+      "personId": 4784,
+      "character": "Sandy Williams",
+      "order": 3
+    },
+    {
+      "personId": 3382,
+      "character": "Mrs. Williams",
+      "order": 4
+    },
+    {
+      "personId": 923,
+      "character": "Ben",
+      "order": 5
+    },
+    {
+      "personId": 11792,
+      "character": "Detective Williams",
+      "order": 6
+    },
+    {
+      "personId": 11793,
+      "character": "Mrs. Beaumont",
+      "order": 7
+    },
+    {
+      "personId": 11794,
+      "character": "Aunt Barbara",
+      "order": 8
+    },
+    {
+      "personId": 1599429,
+      "character": "Mr. Beaumont",
+      "order": 9
+    },
+    {
+      "personId": 11796,
+      "character": "Mike",
+      "order": 10
+    },
+    {
+      "personId": 1370,
+      "character": "Raymond",
+      "order": 11
+    },
+    {
+      "personId": 6718,
+      "character": "Paul",
+      "order": 12
+    },
+    {
+      "personId": 11797,
+      "character": "Hunter",
+      "order": 13
+    },
+    {
+      "personId": 3501696,
+      "character": "Don Vallens",
+      "order": 14
+    },
+    {
+      "personId": 2352561,
+      "character": "Yellow Man",
+      "order": 15
+    },
+    {
+      "personId": 2679800,
+      "character": "Dr. Gynde",
+      "order": 16
+    },
+    {
+      "personId": 2679801,
+      "character": "Double Ed",
+      "order": 17
+    },
+    {
+      "personId": 1519522,
+      "character": "Double Ed",
+      "order": 18
+    },
+    {
+      "personId": 11798,
+      "character": "Nurse Cindy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4013,
+  "sources": [
+    "cult-list"
+  ]
+}

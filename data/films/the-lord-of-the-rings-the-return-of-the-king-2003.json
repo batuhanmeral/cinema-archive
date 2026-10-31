@@ -1,0 +1,249 @@
+{
+  "tmdbId": 122,
+  "slug": "the-lord-of-the-rings-the-return-of-the-king-2003",
+  "year": 2003,
+  "runtime": 201,
+  "originalTitle": "The Lord of the Rings: The Return of the King",
+  "title": {
+    "en": "The Lord of the Rings: The Return of the King",
+    "tr": "Yüzüklerin Efendisi: Kralın Dönüşü"
+  },
+  "overview": {
+    "en": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+    "tr": "Karanlığın bütün güçleri son savaş için bir araya gelirken Gandalf, Gondor'un yaralı ordusunu toparlamak için hazırlıklara başlar. Theoden, tarihin bu en büyük savaşı için tüm savaşçılarını seferber eder. İçlerinde saklanan Eowyn ve Merry ile birlikte insanlar, tüm cesaretlerine rağmen Gondor'u kuşatan düşmanlar karşısında güçsüzdür. Yine de Yüzük Taşıyıcısı'nın yolculuğunu tamamlaması için hayatlarının en zor savaşında birbirlerine kenetlenirler."
+  },
+  "poster": {
+    "tr": "/oh1knfZ4LLEMGt0n0rlJDSGB4dj.jpg",
+    "en": "/uexxR7Kw1qYbZk0RYaF9Rx5ykbj.jpg"
+  },
+  "backdrops": [
+    "/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+    "/9DeGfFIqjph5CBFVQrD6wv9S7rR.jpg",
+    "/9xOmYwIKLX8pTlDaLKdrvkao8Ju.jpg",
+    "/z9Yp7Tcf4ehKcCiH3aVta4kW5tP.jpg",
+    "/5JrZAtyk3LwiiAWLW0kwz41XZJC.jpg",
+    "/tvzlqpf7FgtBBBosJZIoRKtx6UZ.jpg",
+    "/a7p3RuCocDAwurgu2bJbAEhJagf.jpg",
+    "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+    "/pm0RiwNpSja8gR0BTWpxo5a9Bbl.jpg",
+    "/bpeiV13Lix5oGzUmGKFdKf9h0RP.jpg"
+  ],
+  "trailerKey": "zckJCxYxn1g",
+  "genreIds": [
+    12,
+    14,
+    28
+  ],
+  "keywordIds": [
+    6092,
+    818,
+    603,
+    604,
+    2343,
+    4152,
+    186,
+    1523,
+    3930,
+    3098,
+    3347,
+    3888,
+    9663,
+    9812,
+    13084,
+    41410,
+    156761,
+    163540,
+    170362,
+    177912,
+    188270,
+    189092,
+    189093,
+    193937,
+    195269,
+    207372,
+    209220,
+    209374,
+    211227,
+    232697,
+    234213,
+    239722,
+    239797,
+    240422,
+    249821,
+    269233,
+    273158,
+    281585,
+    281659,
+    291153,
+    321464,
+    325782,
+    325795,
+    325804,
+    325807,
+    325835,
+    325842,
+    325849,
+    332708,
+    375250,
+    380963
+  ],
+  "countries": [
+    "NZ",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New Line Cinema",
+    "WingNut Films",
+    "The Saul Zaentz Company"
+  ],
+  "crew": [
+    {
+      "personId": 123,
+      "job": "producer"
+    },
+    {
+      "personId": 117,
+      "job": "composer"
+    },
+    {
+      "personId": 108,
+      "job": "director"
+    },
+    {
+      "personId": 108,
+      "job": "producer"
+    },
+    {
+      "personId": 126,
+      "job": "writer"
+    },
+    {
+      "personId": 108,
+      "job": "writer"
+    },
+    {
+      "personId": 128,
+      "job": "writer"
+    },
+    {
+      "personId": 1313,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 126,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 109,
+      "character": "Frodo",
+      "order": 0
+    },
+    {
+      "personId": 1327,
+      "character": "Gandalf",
+      "order": 1
+    },
+    {
+      "personId": 110,
+      "character": "Aragorn",
+      "order": 2
+    },
+    {
+      "personId": 1328,
+      "character": "Sam",
+      "order": 3
+    },
+    {
+      "personId": 1333,
+      "character": "Gollum / Smeagol",
+      "order": 4
+    },
+    {
+      "personId": 1330,
+      "character": "Merry",
+      "order": 5
+    },
+    {
+      "personId": 1329,
+      "character": "Pippin",
+      "order": 6
+    },
+    {
+      "personId": 1381,
+      "character": "Denethor",
+      "order": 7
+    },
+    {
+      "personId": 1371,
+      "character": "Faramir",
+      "order": 8
+    },
+    {
+      "personId": 502,
+      "character": "Éowyn",
+      "order": 9
+    },
+    {
+      "personId": 1369,
+      "character": "Théoden",
+      "order": 10
+    },
+    {
+      "personId": 655,
+      "character": "Gimli",
+      "order": 11
+    },
+    {
+      "personId": 114,
+      "character": "Legolas",
+      "order": 12
+    },
+    {
+      "personId": 1331,
+      "character": "Elrond",
+      "order": 13
+    },
+    {
+      "personId": 882,
+      "character": "Arwen",
+      "order": 14
+    },
+    {
+      "personId": 112,
+      "character": "Galadriel",
+      "order": 15
+    },
+    {
+      "personId": 1372,
+      "character": "Éomer",
+      "order": 16
+    },
+    {
+      "personId": 65,
+      "character": "Bilbo",
+      "order": 17
+    },
+    {
+      "personId": 48,
+      "character": "Boromir",
+      "order": 18
+    },
+    {
+      "personId": 1365,
+      "character": "Witchking / Gothmog",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 11
+  },
+  "voteCount": 27707,
+  "sources": [
+    "cult-list"
+  ]
+}

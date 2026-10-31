@@ -1,0 +1,205 @@
+{
+  "tmdbId": 8326,
+  "slug": "holes-2003",
+  "year": 2003,
+  "runtime": 117,
+  "originalTitle": "Holes",
+  "title": {
+    "en": "Holes",
+    "tr": "Kuyu"
+  },
+  "overview": {
+    "en": "After being wrongfully convicted for stealing a pair of shoes, Stanley Yelnats is sent away to Camp Green Lake, a boys detention facility where inmates are forced to dig holes all day in the hot desert sun as a form of character building. As he endures the brutal routine, Stanley begins to uncover a hidden truth behind the camp, one that connects to a dangerous secret—and possibly Stanley’s family itself.",
+    "tr": "Stanley Yelnats işlemediği bir suç nedeniyle bir kampa gönderilir. Hapse girmekle Green Lake Kampı arasında bir tercih yapması istenmiş ve o da doğal olarak kampa gitmeyi tercih etmiştir! Ancak bu kamp, bildiği kamplara hiç benzememektedir. Gittiği yerde gizemli Walker ve asistanları tarafından sürekli büyük çukurlar açması istenir. Sabahtan akşama kadar bir grup çocuk çölün altını üstüne getirmektedirler. Walker'ın asıl amacı gömülü olduğuna inandığı bir hazineyi gençlerin bulmasını sağlamaktır. Fakat Stanley ve bazı çocuklar kamptan kurtulmanın yolunu bir şekilde kestederler. Louis Sacharf'ın çok satan kitabından uyarlanan Kuyu, çok farklı türleri içinde barındıran ilginç bir yapım. Film Sigourney Weaver, Jon Voight ve Patricia Arquette gibi yıldız oyuncuları ile de dikkat çekiyor."
+  },
+  "poster": {
+    "tr": "/o2Dm2mcE1qW8vT0bpsJO5OMBbqa.jpg",
+    "en": "/o2Dm2mcE1qW8vT0bpsJO5OMBbqa.jpg"
+  },
+  "backdrops": [
+    "/xwWu52tKrm6uCqRl4Yfy7iYIV9B.jpg",
+    "/4h4u0qZvaxdtbLuhmMqVAVbd59K.jpg",
+    "/2JiiCo6bpTR61z8qMVCb5vq6CQ8.jpg",
+    "/1z4auHDSf2Kh6OqOVmwbeWc2Jrn.jpg",
+    "/cVMK2k0Wbs8DV3IK5sS4ziVenrI.jpg",
+    "/aFACt1idRxw02vO6qGAzPmzQqKJ.jpg",
+    "/3F4QvLIQTw6roALNWPD5Otq8kHh.jpg",
+    "/vze1EITydSybL6Fs1ZkfFv0QkID.jpg",
+    "/5xTOWoxqHadFqwenqBJvNvvjBbf.jpg",
+    "/9TLNiGVV7IFoQdevPbT1GJf9xMS.jpg"
+  ],
+  "trailerKey": "ehfD-_2zz2w",
+  "genreIds": [
+    12,
+    10751,
+    18,
+    35
+  ],
+  "keywordIds": [
+    818,
+    11707,
+    10541,
+    14783,
+    14857,
+    159201,
+    159212,
+    179430,
+    246466
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Phoenix Pictures",
+    "Chicago Pacific Entertainment",
+    "Walden Media"
+  ],
+  "crew": [
+    {
+      "personId": 12989,
+      "job": "director"
+    },
+    {
+      "personId": 55043,
+      "job": "writer"
+    },
+    {
+      "personId": 49285,
+      "job": "composer"
+    },
+    {
+      "personId": 20206,
+      "job": "producer"
+    },
+    {
+      "personId": 41591,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12989,
+      "job": "producer"
+    },
+    {
+      "personId": 1471198,
+      "job": "producer"
+    },
+    {
+      "personId": 41590,
+      "job": "producer"
+    },
+    {
+      "personId": 6055189,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10959,
+      "character": "Stanley",
+      "order": 0
+    },
+    {
+      "personId": 10205,
+      "character": "Warden",
+      "order": 1
+    },
+    {
+      "personId": 10127,
+      "character": "Mr. Sir",
+      "order": 2
+    },
+    {
+      "personId": 4687,
+      "character": "Kissin' Kate Barlow",
+      "order": 3
+    },
+    {
+      "personId": 1462,
+      "character": "Dr. Pendanski",
+      "order": 4
+    },
+    {
+      "personId": 122756,
+      "character": "Sam",
+      "order": 5
+    },
+    {
+      "personId": 31903,
+      "character": "Stanley's Father",
+      "order": 6
+    },
+    {
+      "personId": 156592,
+      "character": "Grandfather",
+      "order": 7
+    },
+    {
+      "personId": 119870,
+      "character": "Clyde 'Sweetfeet' Livingston",
+      "order": 8
+    },
+    {
+      "personId": 117474,
+      "character": "Trout Walker",
+      "order": 9
+    },
+    {
+      "personId": 21366,
+      "character": "Carla Morengo",
+      "order": 10
+    },
+    {
+      "personId": 70243,
+      "character": "Madame Zeroni",
+      "order": 11
+    },
+    {
+      "personId": 6751,
+      "character": "Stanley's Mother",
+      "order": 12
+    },
+    {
+      "personId": 54495,
+      "character": "Zero",
+      "order": 13
+    },
+    {
+      "personId": 54498,
+      "character": "X-Ray",
+      "order": 14
+    },
+    {
+      "personId": 54496,
+      "character": "Squid",
+      "order": 15
+    },
+    {
+      "personId": 54497,
+      "character": "Armpit",
+      "order": 16
+    },
+    {
+      "personId": 121453,
+      "character": "Magnet",
+      "order": 17
+    },
+    {
+      "personId": 52939,
+      "character": "Zigzag",
+      "order": 18
+    },
+    {
+      "personId": 1534739,
+      "character": "Twitch",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1623,
+  "sources": [
+    "cult-list"
+  ]
+}

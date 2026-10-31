@@ -1,0 +1,170 @@
+{
+  "tmdbId": 35073,
+  "slug": "the-beast-from-20-000-fathoms-1953",
+  "year": 1953,
+  "runtime": 80,
+  "originalTitle": "The Beast from 20,000 Fathoms",
+  "title": {
+    "en": "The Beast from 20,000 Fathoms",
+    "tr": "Devler Âlemi"
+  },
+  "overview": {
+    "en": "The controlled explosion of an atomic bomb in the Arctic Circle awakens a frozen dinosaur that will wreak havoc in New York City.",
+    "tr": "Kutup bölgesinde gerçekleştirilen nükleer bomba deneyi nedeniyle uyanan bir dinazor Kuzey Atlantik ve New York şehrine saldırır."
+  },
+  "poster": {
+    "tr": "/a45mCN6BUPg0JHVnprDOPc2VIST.jpg",
+    "en": "/rOGrbGgZxh1cuixii6J8h4S24Cf.jpg"
+  },
+  "backdrops": [
+    "/7WSOCpCWcTJR8sTEYfh02ct7ylB.jpg",
+    "/8b6kPgWbPGCOGAT3lu7jltvzsNa.jpg",
+    "/wnPFZF5dbVLxcg2aBwwbendZLpp.jpg",
+    "/7p7inTvHfpbj8I2yhL6k5dJzS4B.jpg",
+    "/gBMHNQSwykGy8WnMcNJmfaGIOsI.jpg",
+    "/tJ5dFrWuPCik3vaKI6O7t6lbRjX.jpg",
+    "/2UJol7Ro6YZSs128dFamrfLcFoe.jpg",
+    "/evsBiUf5whKEumnkL5u0tAJRiZc.jpg",
+    "/ifUMm1c5jnnzrAKkHhPWpCJhkEi.jpg",
+    "/e2VShgpXnUBniYSXo6xfPUFTEGW.jpg"
+  ],
+  "trailerKey": "2UP0-Ne1aTs",
+  "genreIds": [
+    18,
+    27,
+    878
+  ],
+  "keywordIds": [
+    242,
+    1815,
+    11100,
+    8721,
+    9741,
+    10121,
+    12616,
+    12999,
+    33696,
+    156866
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Jack Dietz Productions"
+  ],
+  "crew": [
+    {
+      "personId": 11558,
+      "job": "director"
+    },
+    {
+      "personId": 14522,
+      "job": "writer"
+    },
+    {
+      "personId": 16036,
+      "job": "writer"
+    },
+    {
+      "personId": 59832,
+      "job": "producer"
+    },
+    {
+      "personId": 89227,
+      "job": "producer"
+    },
+    {
+      "personId": 17667,
+      "job": "composer"
+    },
+    {
+      "personId": 7305,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 118861,
+      "character": "Prof. Nesbitt",
+      "order": 0
+    },
+    {
+      "personId": 93944,
+      "character": "Lee Hunter",
+      "order": 1
+    },
+    {
+      "personId": 30228,
+      "character": "Prof. Elson",
+      "order": 2
+    },
+    {
+      "personId": 103069,
+      "character": "Col. Evans",
+      "order": 3
+    },
+    {
+      "personId": 118022,
+      "character": "Capt. Jackson",
+      "order": 4
+    },
+    {
+      "personId": 4078,
+      "character": "Corp. Stone",
+      "order": 5
+    },
+    {
+      "personId": 10162,
+      "character": "Sgt. Loomis",
+      "order": 6
+    },
+    {
+      "personId": 112722,
+      "character": "George Ritchie",
+      "order": 7
+    },
+    {
+      "personId": 975692,
+      "character": "Jacob Bowman",
+      "order": 8
+    },
+    {
+      "personId": 30300,
+      "character": "Sgt. Willistead",
+      "order": 9
+    },
+    {
+      "personId": 100337,
+      "character": "Miss Ryan",
+      "order": 10
+    },
+    {
+      "personId": 51230,
+      "character": "ER Doctor",
+      "order": 11
+    },
+    {
+      "personId": 1193327,
+      "character": "Radar Man #1",
+      "order": 12
+    },
+    {
+      "personId": 30115,
+      "character": "Dr. Morton",
+      "order": 13
+    },
+    {
+      "personId": 69811,
+      "character": "Dr. Ingersoll",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 211,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "tmdbId": 11071,
+  "slug": "them-1954",
+  "year": 1954,
+  "runtime": 94,
+  "originalTitle": "Them!",
+  "title": {
+    "en": "Them!",
+    "tr": "Yeryüzüne Hücum"
+  },
+  "overview": {
+    "en": "As a result of nuclear testing, gigantic, ferocious mutant ants appear in the American desert southwest, and a father-daughter team of entomologists join forces with the state police officer who first discovers their existence, an FBI agent and, eventually, the US Army to  eradicate the menace, before it spreads across the continent — and the world.",
+    "tr": "New Mexico'daki bir çölde, nükleer silah denemeleri sonucu mutasyona uğrayan karıncalar devasa canavarlara dönüşür. Önce bir FBI ajanı ve ailesi katledilir. Sonra diğer ölümler başlar. Giderek olayın gerçek failleri olan dev karıncılar kendilerini gösterir. Güneydeki tüm Amerikan şehirleri artık tehdit altındadır. Görevli ekiplerin canavarların yuvalarını bulup yok etmesi sorunu halletmeyecektir. Kraliçe karınca kaçmıştır ve daha fazla yumurtlamadan durdurulması gerekmektedir."
+  },
+  "poster": {
+    "tr": "/tP352STF6BvSROi8K3CMM799TVo.jpg",
+    "en": "/lnvPejbp9gF1yNBHi56d89XbRvD.jpg"
+  },
+  "backdrops": [
+    "/bW83NQMHtgFIkDSoZBer4eEnc9V.jpg",
+    "/bGhkhfmY4doV1UFvqXvRss4qnsG.jpg",
+    "/uIl64eedCfRaxT3J7SwnkkxVSDO.jpg",
+    "/p9MJoXe3nh5tXHb5IrB36vy1iKV.jpg",
+    "/58TMRiACYrNWJLUFhCVWofp09mP.jpg",
+    "/ihxTQ6nbXWYYIEhKv5ZXYZz7X22.jpg",
+    "/99vXyYMEX1IJwOXTPPUnN6Up4R3.jpg",
+    "/cOGrBERWGpQsi4vtujeVyKrFJbO.jpg",
+    "/bIObx9E9m6Ql3jTOYZzSEBpjmLG.jpg",
+    "/jCZDQC3MSxs66ItRIB0TDKjxE8Y.jpg"
+  ],
+  "trailerKey": "CugQcmapiwc",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    6092,
+    1299,
+    1815,
+    2766,
+    1618,
+    1812,
+    1508,
+    11100,
+    3126,
+    4632,
+    7035,
+    12999,
+    18034,
+    156851,
+    174324,
+    187261,
+    214613,
+    214997,
+    223059,
+    227825,
+    239356,
+    262778,
+    262779,
+    262781,
+    262782,
+    262783,
+    270311,
+    270312,
+    270314,
+    270315
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 2766,
+      "job": "producer"
+    },
+    {
+      "personId": 51677,
+      "job": "director"
+    },
+    {
+      "personId": 68089,
+      "job": "writer"
+    },
+    {
+      "personId": 14861,
+      "job": "composer"
+    },
+    {
+      "personId": 13972,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6577,
+      "character": "Sgt. Ben Peterson",
+      "order": 0
+    },
+    {
+      "personId": 50304,
+      "character": "FBI Agent Robert Graham",
+      "order": 1
+    },
+    {
+      "personId": 68088,
+      "character": "Dr. Pat Medford",
+      "order": 2
+    },
+    {
+      "personId": 22600,
+      "character": "Dr. Harold Medford",
+      "order": 3
+    },
+    {
+      "personId": 89091,
+      "character": "Brig. Gen. Robert O'Brien",
+      "order": 4
+    },
+    {
+      "personId": 30501,
+      "character": "Maj. Kibbee",
+      "order": 5
+    },
+    {
+      "personId": 153493,
+      "character": "The Ellinson Girl",
+      "order": 6
+    },
+    {
+      "personId": 1122269,
+      "character": "Trooper Ed Blackburn",
+      "order": 7
+    },
+    {
+      "personId": 562199,
+      "character": "Trooper Capt. Fred Edwards",
+      "order": 8
+    },
+    {
+      "personId": 50571,
+      "character": "Alan Crotty",
+      "order": 9
+    },
+    {
+      "personId": 165111,
+      "character": "Mrs. Lodge",
+      "order": 10
+    },
+    {
+      "personId": 34209,
+      "character": "Jensen",
+      "order": 11
+    },
+    {
+      "personId": 15992,
+      "character": "Ambulance Attendant",
+      "order": 12
+    },
+    {
+      "personId": 2772,
+      "character": "Child Psychiatrist",
+      "order": 13
+    },
+    {
+      "personId": 6463,
+      "character": "Railroad Yard Watchman",
+      "order": 14
+    },
+    {
+      "personId": 1749,
+      "character": "Army Sergeant",
+      "order": 15
+    },
+    {
+      "personId": 80206,
+      "character": "Bald Reporter at L.A. News Conference",
+      "order": 16
+    },
+    {
+      "personId": 141067,
+      "character": "Government Official",
+      "order": 17
+    },
+    {
+      "personId": 1130451,
+      "character": "Trooper #2",
+      "order": 18
+    },
+    {
+      "personId": 1755119,
+      "character": "Soldier",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 492,
+  "sources": [
+    "cult-list"
+  ]
+}

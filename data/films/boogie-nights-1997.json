@@ -1,0 +1,219 @@
+{
+  "tmdbId": 4995,
+  "slug": "boogie-nights-1997",
+  "year": 1997,
+  "runtime": 156,
+  "originalTitle": "Boogie Nights",
+  "title": {
+    "en": "Boogie Nights",
+    "tr": "Ateşli Geceler"
+  },
+  "overview": {
+    "en": "In 1977, an idealistic porn producer and his promising protege try to catch up with the end of an era before their never-ending party collides with cold, hard reality.",
+    "tr": "Eddie Adams bir gece kulübünde çalışan bir gençtir. Yaptığı işi bir sanat olarak gören Jack Horner adındaki porno film yönetmeni tarafından keşfedilir. Eddie ismini Dirk Diggler olarak değiştirir ve 1970'lerin son zamanlarında porno endüstrisine hızlı bir giriş yapar."
+  },
+  "poster": {
+    "tr": "/x0r6fcmSlDYsYgcsCPZj7gUI7O6.jpg",
+    "en": "/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg"
+  },
+  "backdrops": [
+    "/uC54rlRdLMZ46fnrz5SoVYleNyv.jpg",
+    "/aCjScNN2er7esWOCPAuuO4CFGWw.jpg",
+    "/4EmqMRZdkH5axkhXsIvE6n9z2Cc.jpg",
+    "/bQEIYntlPba76NN41uWxIzUmzBb.jpg",
+    "/htvSNSt2W0h2c3vwcgwcDUHUfi3.jpg",
+    "/1yuqMeR4z45bmksOl7ttyNezdUj.jpg",
+    "/cSs4DPCy0XkgMcfwWidRtxv3jp7.jpg",
+    "/gg3PS29EOqk5Mq237FTeWxFwQ4g.jpg",
+    "/inl5bEZORJzZhAjF7KbR9AD7tdj.jpg",
+    "/wt1wdr9PXPOpM6m4n6JYlrM8yVA.jpg"
+  ],
+  "trailerKey": "6__jTfyCMsc",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    613,
+    596,
+    445,
+    642,
+    1157,
+    726,
+    1228,
+    2150,
+    2727,
+    4056,
+    4232,
+    5626,
+    10683,
+    9181,
+    12670,
+    14964,
+    18321,
+    155490,
+    178649,
+    194998,
+    208289,
+    209792,
+    228725,
+    240237,
+    269808,
+    311315,
+    325761,
+    325773,
+    325810
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New Line Cinema",
+    "Lawrence Gordon Productions",
+    "Ghoulardi Film Company"
+  ],
+  "crew": [
+    {
+      "personId": 2950,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4762,
+      "job": "director"
+    },
+    {
+      "personId": 40468,
+      "job": "composer"
+    },
+    {
+      "personId": 1993,
+      "job": "producer"
+    },
+    {
+      "personId": 4770,
+      "job": "producer"
+    },
+    {
+      "personId": 4762,
+      "job": "producer"
+    },
+    {
+      "personId": 1227,
+      "job": "producer"
+    },
+    {
+      "personId": 4762,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13240,
+      "character": "Eddie Adams / Dirk Diggler",
+      "order": 0
+    },
+    {
+      "personId": 16475,
+      "character": "Jack Horner",
+      "order": 1
+    },
+    {
+      "personId": 1231,
+      "character": "Amber Waves",
+      "order": 2
+    },
+    {
+      "personId": 4764,
+      "character": "Reed Rothchild",
+      "order": 3
+    },
+    {
+      "personId": 69122,
+      "character": "Rollergirl",
+      "order": 4
+    },
+    {
+      "personId": 1896,
+      "character": "Buck Swope",
+      "order": 5
+    },
+    {
+      "personId": 1233,
+      "character": "Scotty J.",
+      "order": 6
+    },
+    {
+      "personId": 3905,
+      "character": "Little Bill",
+      "order": 7
+    },
+    {
+      "personId": 11155,
+      "character": "Todd Parker",
+      "order": 8
+    },
+    {
+      "personId": 40481,
+      "character": "Maurice t.t. Rodriguez",
+      "order": 9
+    },
+    {
+      "personId": 4766,
+      "character": "Jessie St. Vincent",
+      "order": 10
+    },
+    {
+      "personId": 25626,
+      "character": "The Colonel James",
+      "order": 11
+    },
+    {
+      "personId": 10743,
+      "character": "Kurt Longjohn",
+      "order": 12
+    },
+    {
+      "personId": 74615,
+      "character": "Becky Barnett",
+      "order": 13
+    },
+    {
+      "personId": 658,
+      "character": "Rahad Jackson",
+      "order": 14
+    },
+    {
+      "personId": 4492,
+      "character": "Floyd Gondolli",
+      "order": 15
+    },
+    {
+      "personId": 59874,
+      "character": "Burt, Studio Manager",
+      "order": 16
+    },
+    {
+      "personId": 74252,
+      "character": "Little Bill's Wife",
+      "order": 17
+    },
+    {
+      "personId": 18657,
+      "character": "Sheryl Lynn",
+      "order": 18
+    },
+    {
+      "personId": 40468,
+      "character": "Nick the Engineer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3759,
+  "sources": [
+    "cult-list"
+  ]
+}

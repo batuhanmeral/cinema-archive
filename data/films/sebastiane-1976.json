@@ -1,0 +1,220 @@
+{
+  "tmdbId": 42241,
+  "slug": "sebastiane-1976",
+  "year": 1976,
+  "runtime": 86,
+  "originalTitle": "Sebastiane",
+  "title": {
+    "en": "Sebastiane",
+    "tr": "Sebastiane"
+  },
+  "overview": {
+    "en": "Rome, AD 303. Emperor Diocletian demotes his favourite, Sebastian, from captain of the palace guard to the rank of common soldier and banishes him to a remote coastal outpost where his fellow soldiers, weakened by their desires, turn to homosexual activities to satisfy their needs. Sebastian becomes the target of lust for the officer Severus, but repeatedly rejects the man's advances. Castigated for his Christian faith, he is tortured, humiliated and ultimately killed.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xBek1olo2OUVmK3j0NMYRvKprpA.jpg",
+    "en": "/uBnB2LRhWbTyQQ3g5VMeIhVO4of.jpg"
+  },
+  "backdrops": [
+    "/x12t7AMcvHd4K4LdW5md4aFQGBA.jpg",
+    "/AmiKfFo0iS6Q0WKkDgnAUTD1e5m.jpg",
+    "/ycHxWei1xnPfdOODeZBdMRlHSAM.jpg",
+    "/m0m9CMVGUZyGKlUnZFNYGNu9Rgw.jpg",
+    "/qdsTDNnUlo5d4EqtovJ6Gfljv4o.jpg",
+    "/sbkpTKLI3rlyreVHp6YO9FjwEWV.jpg",
+    "/eFPqag0yTe8ohonZKHjYfi0fOC4.jpg",
+    "/6IuLHpW9nL3YEyByPKGj1ThxGO1.jpg",
+    "/nkEpEWJjdsvTc5X2uP11UCDgI39.jpg",
+    "/nPovB7n93hys89k9QSq2sIq9z5t.jpg"
+  ],
+  "trailerKey": "SseNL9l4EP4",
+  "genreIds": [
+    18,
+    36,
+    53
+  ],
+  "keywordIds": [
+    1721,
+    4849,
+    5049,
+    13006,
+    13129,
+    18512,
+    41364,
+    155071,
+    157096,
+    158279,
+    158718,
+    175245,
+    187204,
+    190370,
+    191316,
+    238134,
+    241642,
+    245262,
+    252609,
+    258533
+  ],
+  "countries": [
+    "IT",
+    "GB"
+  ],
+  "languages": [
+    "la"
+  ],
+  "studios": [
+    "Megalovision",
+    "Cinegate",
+    "Disctac"
+  ],
+  "crew": [
+    {
+      "personId": 86290,
+      "job": "director"
+    },
+    {
+      "personId": 1144622,
+      "job": "director"
+    },
+    {
+      "personId": 1191754,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1359518,
+      "job": "producer"
+    },
+    {
+      "personId": 1359520,
+      "job": "producer"
+    },
+    {
+      "personId": 1359521,
+      "job": "composer"
+    },
+    {
+      "personId": 37317,
+      "job": "composer"
+    },
+    {
+      "personId": 1359520,
+      "job": "writer"
+    },
+    {
+      "personId": 1144622,
+      "job": "writer"
+    },
+    {
+      "personId": 86290,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 103181,
+      "character": "Sebastian",
+      "order": 0
+    },
+    {
+      "personId": 185962,
+      "character": "Severus",
+      "order": 1
+    },
+    {
+      "personId": 185955,
+      "character": "Max",
+      "order": 2
+    },
+    {
+      "personId": 138563,
+      "character": "Justin",
+      "order": 3
+    },
+    {
+      "personId": 1359512,
+      "character": "Claudius",
+      "order": 4
+    },
+    {
+      "personId": 1359514,
+      "character": "Adrian",
+      "order": 5
+    },
+    {
+      "personId": 1359516,
+      "character": "Anthony",
+      "order": 6
+    },
+    {
+      "personId": 1359515,
+      "character": "Marius",
+      "order": 7
+    },
+    {
+      "personId": 1359513,
+      "character": "Julian",
+      "order": 8
+    },
+    {
+      "personId": 1359505,
+      "character": "Leopard Boy",
+      "order": 9
+    },
+    {
+      "personId": 1359517,
+      "character": "Diocletian",
+      "order": 10
+    },
+    {
+      "personId": 119942,
+      "character": "Dancer",
+      "order": 11
+    },
+    {
+      "personId": 79647,
+      "character": "Madame Morgana, Emperor's Guest",
+      "order": 12
+    },
+    {
+      "personId": 13476,
+      "character": "Emperor's Guest",
+      "order": 13
+    },
+    {
+      "personId": 13475,
+      "character": "Emperor's Guest",
+      "order": 14
+    },
+    {
+      "personId": 1597838,
+      "character": "Emperor's Guest",
+      "order": 15
+    },
+    {
+      "personId": 26667,
+      "character": "Emperor's Guest",
+      "order": 16
+    },
+    {
+      "personId": 1853771,
+      "character": "Emperor's Guest",
+      "order": 17
+    },
+    {
+      "personId": 1853772,
+      "character": "Emperor's Guest",
+      "order": 18
+    },
+    {
+      "personId": 1634955,
+      "character": "Emperor's Guest",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 89,
+  "sources": [
+    "cult-list"
+  ]
+}

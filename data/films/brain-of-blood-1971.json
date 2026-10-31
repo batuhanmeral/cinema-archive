@@ -1,0 +1,140 @@
+{
+  "tmdbId": 42477,
+  "slug": "brain-of-blood-1971",
+  "year": 1971,
+  "runtime": 87,
+  "originalTitle": "Brain of Blood",
+  "title": {
+    "en": "Brain of Blood",
+    "tr": "Brain of Blood"
+  },
+  "overview": {
+    "en": "Amir, the benevolent ruler of Kalid, is dying, but there is hope. Freshly deceased, he is flown to the United States where Dr. Trenton transplants his brain into the body of a simpleton in a classic \"assistant got the wrong kind of body\" plot line. Dr. Trenton has a few nefarious plot twists of his own in mind, and then there's the thing with the dwarf and the women chained in the basement. It's up to Amir's friend Bob and wife Tracey to try and salvage this tale.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/cE0ozCS7qlPBOAKRRAxaU55L4K0.jpg",
+    "en": "/uFu2R2VYy9gdgBn8iM2e9lyFNVP.jpg"
+  },
+  "backdrops": [
+    "/Amr5K2Gs8wiyA6t1O77IIiLupnq.jpg",
+    "/tBTHNJxLRuEsRiZCqre42ZvDLiI.jpg"
+  ],
+  "trailerKey": "05ngNN4vB2c",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    10125,
+    18439,
+    180340,
+    203836,
+    208580
+  ],
+  "countries": [
+    "PH",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Phil-Am Enterprises Ltd.",
+    "Independent International Pictures (I-I)"
+  ],
+  "crew": [
+    {
+      "personId": 1021403,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1021402,
+      "job": "writer"
+    },
+    {
+      "personId": 30680,
+      "job": "producer"
+    },
+    {
+      "personId": 30678,
+      "job": "producer"
+    },
+    {
+      "personId": 30678,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 109406,
+      "character": "Bob",
+      "order": 0
+    },
+    {
+      "personId": 96250,
+      "character": "Dr. Trenton",
+      "order": 1
+    },
+    {
+      "personId": 102971,
+      "character": "Tracy Wilson",
+      "order": 2
+    },
+    {
+      "personId": 102974,
+      "character": "Katherine",
+      "order": 3
+    },
+    {
+      "personId": 97985,
+      "character": "Dorro",
+      "order": 4
+    },
+    {
+      "personId": 34046,
+      "character": "Amir",
+      "order": 5
+    },
+    {
+      "personId": 30690,
+      "character": "Mohammed",
+      "order": 6
+    },
+    {
+      "personId": 1115655,
+      "character": "Angel",
+      "order": 7
+    },
+    {
+      "personId": 105093,
+      "character": "Charlie",
+      "order": 8
+    },
+    {
+      "personId": 1428607,
+      "character": "Pale Girl",
+      "order": 9
+    },
+    {
+      "personId": 100295,
+      "character": "Jim",
+      "order": 10
+    },
+    {
+      "personId": 103767,
+      "character": "Victim",
+      "order": 11
+    },
+    {
+      "personId": 1242423,
+      "character": "Gor",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 30,
+  "sources": [
+    "cult-list"
+  ]
+}

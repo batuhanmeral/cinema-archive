@@ -1,0 +1,201 @@
+{
+  "tmdbId": 4235,
+  "slug": "the-sicilian-clan-1969",
+  "year": 1969,
+  "runtime": 121,
+  "originalTitle": "Le Clan des Siciliens",
+  "title": {
+    "en": "The Sicilian Clan",
+    "tr": "Sicilyalılar Çetesi"
+  },
+  "overview": {
+    "en": "An ambitious mobster plans an elaborate diamond heist while seducing the daughter-in-law of a ruthless mob patriarch as a determined police commissioner closes in on all of them.",
+    "tr": "Yıllardan beri cezaevinde yatmakta olan bir suçlu, hüküm giymeden önce bir galerinin güvenlik sisteminden sorumlu olan cezaevi arkadaşından aldığı bilgiler ışığında bu galeriyi soymaya karar verir. Tahliye olduğunda da \"Sicilyalılar Çetesi\" adlı suç örgütünün lideri ile tanışırak birlikte çalışmaya başlarlar."
+  },
+  "poster": {
+    "tr": "/uVBbDPbm1H4Z9M7uZ976KFaAjDR.jpg",
+    "en": "/evj7SjxKHWXyH77r1QZN1alJGMR.jpg"
+  },
+  "backdrops": [
+    "/1gNfZauhTpNWRmwtKlJZBqT34fd.jpg",
+    "/j5DSgn34GGfvnnAMS3qFFXOzFuO.jpg",
+    "/krRkAXcKUKlILKYHqCSTQ20qS49.jpg",
+    "/e8Ht7KTA6Pd5HdCjYM0VX3shp13.jpg",
+    "/6udS1AeCXSMJkPv0xsSnHZ634ae.jpg",
+    "/oCFKJ6sNke8Q2jpNpohAqeB4Pg4.jpg",
+    "/9zh8nAl2rry8Gki2dHKzrbj1wEj.jpg",
+    "/2fvQfrF6vWKkAc79asR35h5Dsat.jpg",
+    "/gVrDBlxELpIie0B0e4JRxuJ61vo.jpg",
+    "/A1Jsbw1LjzIp0tGKxoHGA4gnOCJ.jpg"
+  ],
+  "trailerKey": "Vtx6Y1L1hO8",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    242,
+    818,
+    588,
+    3864,
+    7629,
+    9748,
+    155539,
+    159413,
+    163442,
+    186356,
+    248022,
+    248288
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "it"
+  ],
+  "studios": [
+    "Les Productions Fox Europa",
+    "Les Films du Siècle",
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 1259,
+      "job": "composer"
+    },
+    {
+      "personId": 34580,
+      "job": "writer"
+    },
+    {
+      "personId": 1657,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 34580,
+      "job": "director"
+    },
+    {
+      "personId": 35585,
+      "job": "writer"
+    },
+    {
+      "personId": 34580,
+      "job": "producer"
+    },
+    {
+      "personId": 1175168,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11544,
+      "character": "Vittorio Manalese",
+      "order": 0
+    },
+    {
+      "personId": 15135,
+      "character": "Roger Startet",
+      "order": 1
+    },
+    {
+      "personId": 15397,
+      "character": "Commissaire Le Goff",
+      "order": 2
+    },
+    {
+      "personId": 35586,
+      "character": "Jeanne Manalese, épouse d'Aldo",
+      "order": 3
+    },
+    {
+      "personId": 31989,
+      "character": "Tony Nicosia",
+      "order": 4
+    },
+    {
+      "personId": 39238,
+      "character": "Aldo Manalese, fils aîné de Vittorio",
+      "order": 5
+    },
+    {
+      "personId": 35590,
+      "character": "Luigi, gendre de Vittorio, mari de Teresa",
+      "order": 6
+    },
+    {
+      "personId": 24597,
+      "character": "Sergio Manalese, fils cadet de Vittorio",
+      "order": 7
+    },
+    {
+      "personId": 35589,
+      "character": "Teresa, fille de Vittorio",
+      "order": 8
+    },
+    {
+      "personId": 33636,
+      "character": "Maria Manalese, l'épouse de Vittorio",
+      "order": 9
+    },
+    {
+      "personId": 28262,
+      "character": "Raymond Robel, faussaire toxicomane",
+      "order": 10
+    },
+    {
+      "personId": 35592,
+      "character": "Le commandant de bord",
+      "order": 11
+    },
+    {
+      "personId": 38172,
+      "character": "Léoni",
+      "order": 12
+    },
+    {
+      "personId": 35593,
+      "character": "Mme Evans",
+      "order": 13
+    },
+    {
+      "personId": 218678,
+      "character": "G. Malik, photographe d'art et faussaire de papiers à ses heures",
+      "order": 14
+    },
+    {
+      "personId": 1307054,
+      "character": "L'inspecteur Wilson",
+      "order": 15
+    },
+    {
+      "personId": 44408,
+      "character": "L'inspecteur Bordier",
+      "order": 16
+    },
+    {
+      "personId": 14151,
+      "character": "Turi, le comptable de Vittorio, expert en philatélie",
+      "order": 17
+    },
+    {
+      "personId": 35587,
+      "character": "Monique Sartet, sœur de Roger",
+      "order": 18
+    },
+    {
+      "personId": 48417,
+      "character": "M. Albert, gérant de l'hôtel",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 392,
+  "sources": [
+    "cult-list"
+  ]
+}

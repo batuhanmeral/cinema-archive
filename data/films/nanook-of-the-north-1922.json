@@ -1,0 +1,101 @@
+{
+  "tmdbId": 669,
+  "slug": "nanook-of-the-north-1922",
+  "year": 1922,
+  "runtime": 79,
+  "originalTitle": "Nanook of the North",
+  "title": {
+    "en": "Nanook of the North",
+    "tr": "Kuzeyli Nanook"
+  },
+  "overview": {
+    "en": "This pioneering documentary film depicts the lives of the indigenous Inuit people of Canada's northern Quebec region. Although the production contains some fictional elements, it vividly shows how its resourceful subjects survive in such a harsh climate, revealing how they construct their igloo homes and find food by hunting and fishing. The film also captures the beautiful, if unforgiving, frozen landscape of the Great White North, far removed from conventional civilization.",
+    "tr": "Kuzeyli Nanook 1922 yapımı bir Robert J. Flaherty filmidir. Belgesel sinemanın en önemli örneklerinden biri sayılır. Hudson Körfezi'nde yaşayan bir Eskimo ailesinin yaşamını konu alır.\r Belgeselin ilk bantları kaza sonucu yanmıştı. Daha sonra Flaherty geri döndü ve tekrar aynı belgeseli çekti.\r Filmde eskimo ailesinin buzdan ev yapmaları, çocuklarını beslemeleri, avlanmaları gibi soğuk yaşamlarının en ince ayrıntıları görülebilir."
+  },
+  "poster": {
+    "tr": "/9WAboi1QbKu41WkyGxQVNpXwwxx.jpg",
+    "en": "/9oGod1BMYyLgQMuPQLSG5E0GR0.jpg"
+  },
+  "backdrops": [
+    "/1Zgfk1raynguQf9Pvcmx9M5dyDN.jpg",
+    "/f8wJyERoBQgmptrue3xhMkC1Mjq.jpg",
+    "/jxD0pcORCx9j0C0AYjjudbHnOm4.jpg"
+  ],
+  "trailerKey": "bkilXJiCfng",
+  "genreIds": [
+    99,
+    18
+  ],
+  "keywordIds": [
+    1329,
+    1442,
+    1495,
+    2220,
+    3193,
+    3355,
+    3356,
+    3360,
+    3362,
+    7240,
+    8721,
+    154802
+  ],
+  "countries": [
+    "US",
+    "FR"
+  ],
+  "languages": [],
+  "studios": [
+    "Les Frères Revillon"
+  ],
+  "crew": [
+    {
+      "personId": 10092,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10092,
+      "job": "director"
+    },
+    {
+      "personId": 10092,
+      "job": "producer"
+    },
+    {
+      "personId": 10092,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10094,
+      "character": "Nanook",
+      "order": 0
+    },
+    {
+      "personId": 10095,
+      "character": "Nanook's Wife - the Smiling One",
+      "order": 1
+    },
+    {
+      "personId": 10096,
+      "character": "Cunayou - Nanook's Daughter",
+      "order": 2
+    },
+    {
+      "personId": 10098,
+      "character": "Allegoo - Nanook's Son",
+      "order": 3
+    },
+    {
+      "personId": 10097,
+      "character": "Allee - Nanook's Son",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 337,
+  "sources": [
+    "cult-list"
+  ]
+}

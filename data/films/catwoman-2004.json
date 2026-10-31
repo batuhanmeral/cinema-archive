@@ -1,0 +1,198 @@
+{
+  "tmdbId": 314,
+  "slug": "catwoman-2004",
+  "year": 2004,
+  "runtime": 104,
+  "originalTitle": "Catwoman",
+  "title": {
+    "en": "Catwoman",
+    "tr": "Kedi Kadın"
+  },
+  "overview": {
+    "en": "Liquidated after discovering a corporate conspiracy, mild-mannered graphic artist Patience Phillips washes up on an island, where she's resurrected and endowed with the prowess of a cat — and she's eager to use her new skills... as a vigilante. Before you can say \"cat and mouse\", handsome gumshoe Tom Lone is on her tail, fascinated by both of her personas.",
+    "tr": "Patience Philips çok duygusal ve kırılgan bir grafik sanatçısıdır. Çalıştığı Hedare Beauty adlı firma, yaşlanmaya karşı yenilikçi bir ürünü lanse etmeye hazırlanan, dünyaca ünlü bir kozmetik devidir. Utangaç genç kadın, şirkette dönen kirli oyunlardan ve karanlık bir sırdan istemeden haberdar olduğunda bütün hayatı değişecektir.Başına gelen bir takım olaylar sonucu birden fazla anlamda ölümden dönecek ve yeni bir hayata başlayacaktır. Kedi gibi dokuz canlı, atletik, çevik ve güçlüdür. Ayrıca tutkulu ve tehlikeli yanlarıyla da Kedikadın adını alacak olan bu yeni kişiliği, eski Patience'ın tam zıttıdır. Kedi kadın hayatını mahfeden kötücül şirketle olduğu kadar diğer kötülerle de savaşacak ve bunu yaparken aşkın dolambaçlı yollarında da şansını deneyecektir."
+  },
+  "poster": {
+    "tr": "/8NuNVxl9v8SQvlooq1AkZRAhOlM.jpg",
+    "en": "/cJfN1r6aUlf9xJXjhsINIt6tBwK.jpg"
+  },
+  "backdrops": [
+    "/x7fK0oOUX8Ks1B1lZsACmCXUybI.jpg",
+    "/2i5X5cRS4RI4LYqHrSmGWKkhoqG.jpg",
+    "/cxAr9Su5gYfx16vxtS2Zi6qc5DZ.jpg",
+    "/eJWgtEz9Coq9xPZ8Ga9J2rKWMQe.jpg",
+    "/fcni4FtYRjOpGpcEsWYpnWb4lgW.jpg",
+    "/wDVZVr5tsJiT26xZa6tSLk55XyZ.jpg",
+    "/gZa3a8dqSO3IpLt8gcafPs2pShm.jpg",
+    "/eiPN9JUDmcenRRuKAHNyJknbkeG.jpg",
+    "/jr0W5oKAlvRtBDjCJ5GEzsAMctF.jpg",
+    "/hTYkjDjXAIe3iAejh9ZnvJ0k8n.jpg"
+  ],
+  "trailerKey": "Fp7MeqkCUfc",
+  "genreIds": [
+    28,
+    14,
+    80
+  ],
+  "keywordIds": [
+    9715,
+    9717,
+    7002,
+    11738,
+    11322,
+    33556,
+    158456,
+    163074,
+    180734
+  ],
+  "countries": [
+    "CA",
+    "US"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ],
+  "studios": [
+    "Village Roadshow Pictures",
+    "Di Novi Pictures",
+    "Frantic Films"
+  ],
+  "crew": [
+    {
+      "personId": 4586,
+      "job": "director"
+    },
+    {
+      "personId": 997,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1899,
+      "job": "producer"
+    },
+    {
+      "personId": 4588,
+      "job": "producer"
+    },
+    {
+      "personId": 19535,
+      "job": "writer"
+    },
+    {
+      "personId": 122,
+      "job": "composer"
+    },
+    {
+      "personId": 12906,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4587,
+      "character": "Patience Phillips / Catwoman",
+      "order": 0
+    },
+    {
+      "personId": 4589,
+      "character": "Tom Lone",
+      "order": 1
+    },
+    {
+      "personId": 4430,
+      "character": "Laurel Hedare",
+      "order": 2
+    },
+    {
+      "personId": 2192,
+      "character": "George Hedare",
+      "order": 3
+    },
+    {
+      "personId": 4432,
+      "character": "Ophelia",
+      "order": 4
+    },
+    {
+      "personId": 24357,
+      "character": "Sally",
+      "order": 5
+    },
+    {
+      "personId": 9289,
+      "character": "Armando",
+      "order": 6
+    },
+    {
+      "personId": 57748,
+      "character": "Wesley",
+      "order": 7
+    },
+    {
+      "personId": 141446,
+      "character": "Drina",
+      "order": 8
+    },
+    {
+      "personId": 32887,
+      "character": "Rocker",
+      "order": 9
+    },
+    {
+      "personId": 60462,
+      "character": "Dr. Ivan Slavicky",
+      "order": 10
+    },
+    {
+      "personId": 141447,
+      "character": "Lance",
+      "order": 11
+    },
+    {
+      "personId": 158441,
+      "character": "Housekeeper",
+      "order": 12
+    },
+    {
+      "personId": 67978,
+      "character": "Sandy",
+      "order": 13
+    },
+    {
+      "personId": 64614,
+      "character": "Randy",
+      "order": 14
+    },
+    {
+      "personId": 1368537,
+      "character": "Jail Guard",
+      "order": 15
+    },
+    {
+      "personId": 77222,
+      "character": "Detective #1",
+      "order": 16
+    },
+    {
+      "personId": 1225394,
+      "character": "Detective #2",
+      "order": 17
+    },
+    {
+      "personId": 204462,
+      "character": "Party Girl",
+      "order": 18
+    },
+    {
+      "personId": 117087,
+      "character": "Warehouse Supervisor",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3737,
+  "sources": [
+    "cult-list"
+  ]
+}

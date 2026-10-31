@@ -1,0 +1,145 @@
+{
+  "tmdbId": 266,
+  "slug": "contempt-1963",
+  "year": 1963,
+  "runtime": 103,
+  "originalTitle": "Le Mépris",
+  "title": {
+    "en": "Contempt",
+    "tr": "Nefret"
+  },
+  "overview": {
+    "en": "Art film producer Jeremy Prokosch, unhappy with the work of his director, hires Fritz Lang (as himself) to direct an adaptation of The Odyssey, but when it seems that the legendary filmmaker is making a picture destined to bomb, he brings in a screenwriter to energise the script. The professional intersects with the personal when a rift develops between the writer and his wife.",
+    "tr": "Paul Javal isimli bir senarist Fritz Langin yeni filmi için bir senaryo yazması için işe alınır. Maddi sıkıntılar nedeniyle hayatını düzene oturtmakta zorlanan Paul, genç ve güzel karısı Camilee'i çok sevmektedir. Homeros'un Odysseia eserinden uyarlanacak olan filmin senaryosu için aldığı sipariş bir süre sonra Paul'ün hayatını allak bullak eder ve karısı ile olan mutluluğu da bozulmaya başlar. Üstelik bunda en büyük sorumluluk da filmin yapımcısındadır.  Filmde Alman sinemasının büyük ismi Fritz Lang kendisini canlandırmaktadır. Camille Javal, ismi ise Bardotun gerçek adıdır. Godard'ın seyircilerle en fazla yakınlık kuran filmlerinden biri de denilebilir. Filmdeki senarist, bir zaman sonra kendi yazdığı filmin başkahramanına dönüşürken Godard sinema dili üzerine yine özgün fikirler vermektedir."
+  },
+  "poster": {
+    "tr": "/kNElbRcp4Qz6wmJ9kH5vdY004Hq.jpg",
+    "en": "/kNElbRcp4Qz6wmJ9kH5vdY004Hq.jpg"
+  },
+  "backdrops": [
+    "/65VvjEscRHZNCCg63GmRfGU66v9.jpg",
+    "/1QKk2o9RNIA6DcKsoeuFVAQR5T5.jpg",
+    "/afxEiYxANGG88xXVYpNtAHFzTIV.jpg",
+    "/e7uHIsjDZREm7fINopx315KBGei.jpg",
+    "/qBpRJrbaofPzb9pwgi5LiuNDLmM.jpg",
+    "/7MLDJH5VxegfpIu9WNDrlGf7xXh.jpg",
+    "/3CPo0qqDm2nGUS276iDyNbEWhKQ.jpg",
+    "/hyYcmvsSXUEvSQv5iKqkzwFEKgu.jpg",
+    "/dpPiuG7wG1ahoF0uZ9jg4wz2I5B.jpg",
+    "/fUanMnQjj9pP7ATu2vlF077TcKG.jpg"
+  ],
+  "trailerKey": "y-zc8r3F_QY",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    931,
+    818,
+    885,
+    128,
+    131,
+    886,
+    883,
+    888,
+    9844,
+    15160,
+    225219,
+    263398,
+    311315,
+    324886,
+    325766
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it"
+  ],
+  "studios": [
+    "Rome-Paris Films",
+    "Les Films Concordia",
+    "C. C. Champion"
+  ],
+  "crew": [
+    {
+      "personId": 3540,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3535,
+      "job": "composer"
+    },
+    {
+      "personId": 3776,
+      "job": "writer"
+    },
+    {
+      "personId": 3776,
+      "job": "director"
+    },
+    {
+      "personId": 3778,
+      "job": "producer"
+    },
+    {
+      "personId": 3777,
+      "job": "producer"
+    },
+    {
+      "personId": 3779,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3783,
+      "character": "Camille Javal",
+      "order": 0
+    },
+    {
+      "personId": 3784,
+      "character": "Paul Javal",
+      "order": 1
+    },
+    {
+      "personId": 3785,
+      "character": "Jeremy Prokosch",
+      "order": 2
+    },
+    {
+      "personId": 3786,
+      "character": "Francesca Vanini",
+      "order": 3
+    },
+    {
+      "personId": 68,
+      "character": "Fritz Lang",
+      "order": 4
+    },
+    {
+      "personId": 3540,
+      "character": "Cameraman",
+      "order": 5
+    },
+    {
+      "personId": 3776,
+      "character": "Lang's Assistant Director",
+      "order": 6
+    },
+    {
+      "personId": 3787,
+      "character": "Sirene",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 1010,
+  "sources": [
+    "cult-list"
+  ]
+}

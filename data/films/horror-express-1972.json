@@ -1,0 +1,201 @@
+{
+  "tmdbId": 32613,
+  "slug": "horror-express-1972",
+  "year": 1972,
+  "runtime": 87,
+  "originalTitle": "Pánico en el Transiberiano",
+  "title": {
+    "en": "Horror Express",
+    "tr": "Dehşet Ekspresi"
+  },
+  "overview": {
+    "en": "Mysterious and unearthly deaths start to occur while Professor Saxton is transporting the frozen remains of a primitive humanoid creature he found in Manchuria back to Europe.",
+    "tr": "Bir İngiliz antropologist, Mançurya'nın donmuş diyarlarında, fosil kronolijisinde kayıp bir halka olabileceğine inandığı donmuş bir canavar fosili keşfeder. Bu fosili Trans-Sibirya tren hattıyla Avrupa'ya getirmeye karar verir. Fakat yolculuk boyunca bu canavarın buzları yavaş yavaş çözülür ve çözüldükten sonra yolcuları bir bir katletmeye başlar."
+  },
+  "poster": {
+    "tr": "/5gKmaU3ExxGKMM3rD0JKWIKBFg1.jpg",
+    "en": "/fGFWmLSauvRDX45hqk8QHISep5Y.jpg"
+  },
+  "backdrops": [
+    "/zfSa2fAeIfz94aP2wK6yQYgphhv.jpg",
+    "/r7j6q0HqJ61ChdsleJgpXoDEzWJ.jpg",
+    "/ok4zZ7MCpYS6PaT2ijUrb7Ankc5.jpg",
+    "/ibnhZFs8Im9kSRyqLfeQ6fhjiVl.jpg",
+    "/zhEjo66rqoHesjqMfuj5QfOpeB3.jpg",
+    "/89RKANJASbJhSXGb8lHyuvN9igP.jpg",
+    "/3g2XbULaJrhQAXS66rFptzHerm4.jpg",
+    "/gsh2DHobKu7liRykulnh0GK5BX2.jpg",
+    "/ap7XLieryFqumrB6MoFk3ggByYP.jpg",
+    "/vSefOfk63p87wagpBCLKaKfxDgj.jpg"
+  ],
+  "trailerKey": "5aogSYxzwxw",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    1299,
+    818,
+    697,
+    345,
+    1963,
+    3560,
+    9951,
+    13008,
+    13031,
+    14909,
+    15032,
+    157144,
+    161276,
+    170335,
+    174638,
+    186188,
+    186189,
+    186195,
+    215285
+  ],
+  "countries": [
+    "ES",
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Benmar Productions",
+    "Granada Films"
+  ],
+  "crew": [
+    {
+      "personId": 95859,
+      "job": "writer"
+    },
+    {
+      "personId": 102129,
+      "job": "writer"
+    },
+    {
+      "personId": 50542,
+      "job": "director"
+    },
+    {
+      "personId": 84938,
+      "job": "producer"
+    },
+    {
+      "personId": 98746,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 33911,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 113,
+      "character": "Prof. Sir Alexander Saxton",
+      "order": 0
+    },
+    {
+      "personId": 5,
+      "character": "Dr. Wells",
+      "order": 1
+    },
+    {
+      "personId": 10169,
+      "character": "Captain Kazan",
+      "order": 2
+    },
+    {
+      "personId": 24494,
+      "character": "Father Pujardov",
+      "order": 3
+    },
+    {
+      "personId": 21542,
+      "character": "Countess Irina Petrovska",
+      "order": 4
+    },
+    {
+      "personId": 12742,
+      "character": "Inspector Mirov",
+      "order": 5
+    },
+    {
+      "personId": 31349,
+      "character": "Yevtushenko",
+      "order": 6
+    },
+    {
+      "personId": 31700,
+      "character": "Natasha",
+      "order": 7
+    },
+    {
+      "personId": 102130,
+      "character": "Miss Jones",
+      "order": 8
+    },
+    {
+      "personId": 102131,
+      "character": "Conductor Koniev",
+      "order": 9
+    },
+    {
+      "personId": 31695,
+      "character": "Count Maryan Petrovski",
+      "order": 10
+    },
+    {
+      "personId": 32830,
+      "character": "Luggage Worker",
+      "order": 11
+    },
+    {
+      "personId": 102132,
+      "character": "American Passenger, Miss Bennett (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 89777,
+      "character": "Creature",
+      "order": 13
+    },
+    {
+      "personId": 100690,
+      "character": "Vorkin",
+      "order": 14
+    },
+    {
+      "personId": 72889,
+      "character": "Russian Guard",
+      "order": 15
+    },
+    {
+      "personId": 100309,
+      "character": "Station Master",
+      "order": 16
+    },
+    {
+      "personId": 110740,
+      "character": "Grashinski - the Locksmith (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 31748,
+      "character": "First Telegraphist",
+      "order": 18
+    },
+    {
+      "personId": 2361182,
+      "character": "Second Telegraphist (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 351,
+  "sources": [
+    "cult-list"
+  ]
+}

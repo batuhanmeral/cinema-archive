@@ -1,0 +1,194 @@
+{
+  "tmdbId": 1485,
+  "slug": "get-carter-1971",
+  "year": 1971,
+  "runtime": 112,
+  "originalTitle": "Get Carter",
+  "title": {
+    "en": "Get Carter",
+    "tr": "Alçaklar"
+  },
+  "overview": {
+    "en": "Jack Carter is a small-time hood working in London. When word reaches him of his brother's death, he travels to Newcastle to attend the funeral. Refusing to accept the police report of suicide, Carter seeks out his brother’s friends and acquaintances to learn who murdered his sibling and why.",
+    "tr": "Jack Carter, Londra'da Gerald Fletcher için çalışan bir tetikçidir. Boş zamanlarında patronunun sevgilisi Anna ile vakit geçirir. Kardeşinin cenazesine katılmak için memleketi Newcastle'a döner. Kardeşi, sarhoş halde geçirdiği bir trafik kazasında hayatını kaybetmiştir. Ancak Jack, bunun bir kaza olduğuna inanmaz. Kendi başına soruşturmaya başlar. Bu sırada, gangster Eric Paice'nin izine düşer ve onun üzerinden yer altı dünyasının patronu Cyril Kinnear'a ulaşır. Jack, soruşturmasıyla tehlikeli bir bölgeye adım attığını fark eder. Fakat acımasız bir profesyonel olan Jack, kolayca vazgeçmez. Kardeşinin cinayetinin arkasında kimin olduğunu öğrendiğinde, tek bir hedefi vardır: İntikam!"
+  },
+  "poster": {
+    "tr": "/3AytAYzJuPmS4Wo8X3jcsaN4oM3.jpg",
+    "en": "/6cg0bIu9uHIBitzyvFayVnjeSE1.jpg"
+  },
+  "backdrops": [
+    "/A1VIGKLLitadkJd3NL6sg8HWMUh.jpg",
+    "/q7WBYbZ1DiirFGx1Ex11N7jKMyT.jpg",
+    "/irBqi30Y3F5oWc6hJFrWFKpNHof.jpg",
+    "/5645jryDjVHpexaj1AUdQii6bg.jpg",
+    "/pRBCb6Hs6Xo4diXwpnBTcwMizE.jpg",
+    "/1jUECFiy3gNvXL6x010VQnkqrZ2.jpg",
+    "/fm6X0i21xvbtAdIMhSsLW0D6wIY.jpg",
+    "/m9CGox7M0pNSwMLD9KHkT4vTld9.jpg",
+    "/rVVCrjVEFLItzYc1830q2DOemjA.jpg",
+    "/6t7JeZshQJeNqP8b5S2xfwsk7R0.jpg"
+  ],
+  "trailerKey": "0NtstlDW0Zo",
+  "genreIds": [
+    80,
+    53
+  ],
+  "keywordIds": [
+    445,
+    5215,
+    2708,
+    3739,
+    697,
+    5301,
+    3149,
+    155479,
+    207268,
+    361867
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer British Studios"
+  ],
+  "crew": [
+    {
+      "personId": 17281,
+      "job": "writer"
+    },
+    {
+      "personId": 17281,
+      "job": "director"
+    },
+    {
+      "personId": 51883,
+      "job": "composer"
+    },
+    {
+      "personId": 69558,
+      "job": "producer"
+    },
+    {
+      "personId": 3895,
+      "job": "producer"
+    },
+    {
+      "personId": 100982,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 65366,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3895,
+      "character": "Jack Carter",
+      "order": 0
+    },
+    {
+      "personId": 58339,
+      "character": "Eric",
+      "order": 1
+    },
+    {
+      "personId": 10341,
+      "character": "Anna",
+      "order": 2
+    },
+    {
+      "personId": 33323,
+      "character": "Kinnear",
+      "order": 3
+    },
+    {
+      "personId": 14816,
+      "character": "Peter",
+      "order": 4
+    },
+    {
+      "personId": 109200,
+      "character": "Con",
+      "order": 5
+    },
+    {
+      "personId": 1156430,
+      "character": "Glenda",
+      "order": 6
+    },
+    {
+      "personId": 1425106,
+      "character": "Edna",
+      "order": 7
+    },
+    {
+      "personId": 1225729,
+      "character": "Doreen",
+      "order": 8
+    },
+    {
+      "personId": 2629,
+      "character": "Keith",
+      "order": 9
+    },
+    {
+      "personId": 1231166,
+      "character": "Cliff Brumby",
+      "order": 10
+    },
+    {
+      "personId": 175965,
+      "character": "Albert Swift",
+      "order": 11
+    },
+    {
+      "personId": 71949,
+      "character": "Thorpe",
+      "order": 12
+    },
+    {
+      "personId": 10748,
+      "character": "Gerald Fletcher",
+      "order": 13
+    },
+    {
+      "personId": 262950,
+      "character": "Sid Fletcher",
+      "order": 14
+    },
+    {
+      "personId": 2279,
+      "character": "Eddie",
+      "order": 15
+    },
+    {
+      "personId": 186043,
+      "character": "Harry",
+      "order": 16
+    },
+    {
+      "personId": 2138267,
+      "character": "Vicar (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 2138268,
+      "character": "Mrs. Brumby (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 942976,
+      "character": "Architect (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 602,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "tmdbId": 38404,
+  "slug": "bela-lugosi-meets-a-brooklyn-gorilla-1952",
+  "year": 1952,
+  "runtime": 74,
+  "originalTitle": "Bela Lugosi Meets a Brooklyn Gorilla",
+  "title": {
+    "en": "Bela Lugosi Meets a Brooklyn Gorilla",
+    "tr": "Bela Lugosi Meets a Brooklyn Gorilla"
+  },
+  "overview": {
+    "en": "The entertainment duo Mitchell & Petrillo, en route to a USO show for troops in Guam, fall out of their plane and end up on the jungle island of Cola Cola, where the mad scientist Dr. Zabor is conducting evolutionary experiments.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/oW9A5kF7nbqdhGEPIFWAGTSsqVJ.jpg",
+    "en": "/ee1By4pJ74Xtqm7RKXuzzRJ6QIu.jpg"
+  },
+  "backdrops": [
+    "/g94EddQ2dldPmLQGaLclhKiojbv.jpg",
+    "/lwpaD0ZlG7lHuwcA7t77AZH0Zf4.jpg",
+    "/fakrItTY1EXa1IZ2CXihvnhkZyw.jpg"
+  ],
+  "trailerKey": "OrRtIp3jylk",
+  "genreIds": [
+    35,
+    878,
+    27
+  ],
+  "keywordIds": [
+    242,
+    1566,
+    690,
+    10125,
+    10787,
+    41523
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Jack Broder Productions Inc."
+  ],
+  "crew": [
+    {
+      "personId": 85996,
+      "job": "writer"
+    },
+    {
+      "personId": 30833,
+      "job": "director"
+    },
+    {
+      "personId": 120328,
+      "job": "composer"
+    },
+    {
+      "personId": 120327,
+      "job": "producer"
+    },
+    {
+      "personId": 14478,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1547,
+      "character": "Dr. Zabor",
+      "order": 0
+    },
+    {
+      "personId": 120337,
+      "character": "Himself",
+      "order": 1
+    },
+    {
+      "personId": 120338,
+      "character": "Himself",
+      "order": 2
+    },
+    {
+      "personId": 120339,
+      "character": "Nona",
+      "order": 3
+    },
+    {
+      "personId": 120340,
+      "character": "Saloma",
+      "order": 4
+    },
+    {
+      "personId": 117035,
+      "character": "Chief Rakos",
+      "order": 5
+    },
+    {
+      "personId": 115077,
+      "character": "Chula",
+      "order": 6
+    },
+    {
+      "personId": 120341,
+      "character": "Bongo the Witch Doctor",
+      "order": 7
+    },
+    {
+      "personId": 94401,
+      "character": "Pepe Bordo / Waiter",
+      "order": 8
+    },
+    {
+      "personId": 120174,
+      "character": "Gorilla",
+      "order": 9
+    },
+    {
+      "personId": 52178,
+      "character": "Gorilla",
+      "order": 10
+    },
+    {
+      "personId": 120342,
+      "character": "Native Warrior",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 33,
+  "sources": [
+    "cult-list"
+  ]
+}

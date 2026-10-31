@@ -1,0 +1,350 @@
+{
+  "id": 1398,
+  "title": "Stalker",
+  "original_title": "Сталкер",
+  "adult": false,
+  "overview": "A guide leads two men through the Zone to a room said to grant wishes.",
+  "release_date": "1979-05-25",
+  "runtime": 162,
+  "vote_count": 3000,
+  "poster_path": "/stalker-default.jpg",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "spoken_languages": [
+    {
+      "iso_639_1": "ru",
+      "name": "Russian"
+    }
+  ],
+  "production_companies": [
+    {
+      "id": 1,
+      "name": "Mosfilm"
+    },
+    {
+      "id": 2,
+      "name": "Goskino"
+    },
+    {
+      "id": 3,
+      "name": "Third"
+    },
+    {
+      "id": 4,
+      "name": "Fourth"
+    }
+  ],
+  "credits": {
+    "cast": [
+      {
+        "id": 105,
+        "name": "Actor 5",
+        "character": "Role 5",
+        "order": 5,
+        "profile_path": "/actor-5.jpg"
+      },
+      {
+        "id": 100,
+        "name": "Actor 0",
+        "character": "Role 0",
+        "order": 0,
+        "profile_path": null
+      },
+      {
+        "id": 113,
+        "name": "Actor 13",
+        "character": "Role 13",
+        "order": 13,
+        "profile_path": "/actor-13.jpg"
+      },
+      {
+        "id": 102,
+        "name": "Actor 2",
+        "character": "Role 2",
+        "order": 2,
+        "profile_path": null
+      },
+      {
+        "id": 121,
+        "name": "Actor 21",
+        "character": "Role 21",
+        "order": 21,
+        "profile_path": "/actor-21.jpg"
+      },
+      {
+        "id": 108,
+        "name": "Actor 8",
+        "character": "Role 8",
+        "order": 8,
+        "profile_path": null
+      },
+      {
+        "id": 101,
+        "name": "Actor 1",
+        "character": "Role 1",
+        "order": 1,
+        "profile_path": "/actor-1.jpg"
+      },
+      {
+        "id": 117,
+        "name": "Actor 17",
+        "character": "Role 17",
+        "order": 17,
+        "profile_path": "/actor-17.jpg"
+      },
+      {
+        "id": 103,
+        "name": "Actor 3",
+        "character": "Role 3",
+        "order": 3,
+        "profile_path": "/actor-3.jpg"
+      },
+      {
+        "id": 119,
+        "name": "Actor 19",
+        "character": "Role 19",
+        "order": 19,
+        "profile_path": "/actor-19.jpg"
+      },
+      {
+        "id": 110,
+        "name": "Actor 10",
+        "character": "Role 10",
+        "order": 10,
+        "profile_path": null
+      },
+      {
+        "id": 104,
+        "name": "Actor 4",
+        "character": "Role 4",
+        "order": 4,
+        "profile_path": null
+      },
+      {
+        "id": 115,
+        "name": "Actor 15",
+        "character": "Role 15",
+        "order": 15,
+        "profile_path": "/actor-15.jpg"
+      },
+      {
+        "id": 106,
+        "name": "Actor 6",
+        "character": "Role 6",
+        "order": 6,
+        "profile_path": null
+      },
+      {
+        "id": 120,
+        "name": "Actor 20",
+        "character": "Role 20",
+        "order": 20,
+        "profile_path": null
+      },
+      {
+        "id": 107,
+        "name": "Actor 7",
+        "character": "Role 7",
+        "order": 7,
+        "profile_path": "/actor-7.jpg"
+      },
+      {
+        "id": 112,
+        "name": "Actor 12",
+        "character": "Role 12",
+        "order": 12,
+        "profile_path": null
+      },
+      {
+        "id": 109,
+        "name": "Actor 9",
+        "character": "Role 9",
+        "order": 9,
+        "profile_path": "/actor-9.jpg"
+      },
+      {
+        "id": 118,
+        "name": "Actor 18",
+        "character": "Role 18",
+        "order": 18,
+        "profile_path": null
+      },
+      {
+        "id": 111,
+        "name": "Actor 11",
+        "character": "Role 11",
+        "order": 11,
+        "profile_path": "/actor-11.jpg"
+      },
+      {
+        "id": 114,
+        "name": "Actor 14",
+        "character": "Role 14",
+        "order": 14,
+        "profile_path": null
+      },
+      {
+        "id": 116,
+        "name": "Actor 16",
+        "character": "Role 16",
+        "order": 16,
+        "profile_path": null
+      }
+    ],
+    "crew": [
+      {
+        "id": 1,
+        "name": "Andrei Tarkovsky",
+        "job": "Director",
+        "profile_path": "/tarkovsky.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Arkady Strugatsky",
+        "job": "Screenplay",
+        "profile_path": null
+      },
+      {
+        "id": 3,
+        "name": "Boris Strugatsky",
+        "job": "Screenplay",
+        "profile_path": null
+      },
+      {
+        "id": 4,
+        "name": "Alexandra Demidova",
+        "job": "Executive Producer",
+        "profile_path": null
+      },
+      {
+        "id": 5,
+        "name": "Abraham Vaisfeld",
+        "job": "Producer",
+        "profile_path": null
+      },
+      {
+        "id": 6,
+        "name": "Alexander Knyazhinsky",
+        "job": "Director of Photography",
+        "profile_path": null
+      },
+      {
+        "id": 7,
+        "name": "Eduard Artemyev",
+        "job": "Original Music Composer",
+        "profile_path": "/artemyev.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Andrei Tarkovsky",
+        "job": "Director",
+        "profile_path": "/tarkovsky.jpg"
+      }
+    ]
+  },
+  "images": {
+    "posters": [
+      {
+        "file_path": "/stalker-tr.jpg",
+        "iso_639_1": "tr",
+        "vote_count": 5
+      },
+      {
+        "file_path": "/stalker-en-low.jpg",
+        "iso_639_1": "en",
+        "vote_count": 2
+      },
+      {
+        "file_path": "/stalker-en-high.jpg",
+        "iso_639_1": "en",
+        "vote_count": 9
+      }
+    ],
+    "backdrops": [
+      {
+        "file_path": "/bd-low.jpg",
+        "iso_639_1": null,
+        "vote_count": 3
+      },
+      {
+        "file_path": "/bd-en.jpg",
+        "iso_639_1": "en",
+        "vote_count": 20
+      },
+      {
+        "file_path": "/bd-high.jpg",
+        "iso_639_1": null,
+        "vote_count": 8
+      }
+    ]
+  },
+  "videos": {
+    "results": [
+      {
+        "key": "trUnofficial",
+        "site": "YouTube",
+        "type": "Trailer",
+        "official": false,
+        "iso_639_1": "tr"
+      },
+      {
+        "key": "enOfficial",
+        "site": "YouTube",
+        "type": "Trailer",
+        "official": true,
+        "iso_639_1": "en"
+      },
+      {
+        "key": "enFeaturette",
+        "site": "YouTube",
+        "type": "Featurette",
+        "official": true,
+        "iso_639_1": "en"
+      }
+    ]
+  },
+  "keywords": {
+    "keywords": [
+      {
+        "id": 1,
+        "name": "zone"
+      },
+      {
+        "id": 2,
+        "name": "philosophy"
+      }
+    ]
+  },
+  "translations": {
+    "translations": [
+      {
+        "iso_639_1": "tr",
+        "data": {
+          "title": "İz Sürücü",
+          "overview": "Bir rehber iki adamı Bölge boyunca götürür."
+        }
+      },
+      {
+        "iso_639_1": "de",
+        "data": {
+          "title": "Stalker",
+          "overview": ""
+        }
+      }
+    ]
+  }
+}

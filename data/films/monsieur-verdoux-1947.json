@@ -1,0 +1,197 @@
+{
+  "tmdbId": 30588,
+  "slug": "monsieur-verdoux-1947",
+  "year": 1947,
+  "runtime": 124,
+  "originalTitle": "Monsieur Verdoux",
+  "title": {
+    "en": "Monsieur Verdoux",
+    "tr": "Mösyö Verdoux"
+  },
+  "overview": {
+    "en": "The film is about an unemployed banker, Henri Verdoux, and his sociopathic methods of attaining income. While being both loyal and competent in his work, Verdoux has been laid-off. To make money for his wife and child, he marries wealthy widows and then murders them. His crime spree eventually works against him when two particular widows break his normal routine.",
+    "tr": "Hanri Verdoux işi gereği çok seyahat ediyordu. Onun işi zengin ve yalnız kadınları baştan çıkarıp, kalplerini ve banka cüzdanlarını ele geçirdikten sonra, yeni bir kadına geçmeden önce öldürmekti. Charles Chaplin, alışık olduğumuz o neşeli karakterin dışına çıkarak, sakat karısı ve çocuğuna daha iyi bir hayat sağlamak için cinayetler işleyen bir aile babası ile tersdüz oluyor. Burada ölümsüz Tramp karakteri oldukça az pay sahibi, fakat yine de titiz ve çıtkırıldım tavırları espritüel anlamda eksik olmuyor."
+  },
+  "poster": {
+    "tr": "/mUPXIinTQsBdLlDaWiSl7GwQXVs.jpg",
+    "en": "/6LcFw7KyghfBo2vqk3cpdqPu4PW.jpg"
+  },
+  "backdrops": [
+    "/pXAudXOkmQSiI6sFQyEfkibQxZp.jpg",
+    "/raTraEMK9iqBQy5Hu9Qe62LwCR3.jpg",
+    "/uRHhgU3WpMkPyeeuByvOLOf4pBa.jpg",
+    "/f5EUue0mNt4gzjsrCP5QZENv3Ub.jpg",
+    "/iVmzXNq56X7ZG7D8lZiZsXBH6tE.jpg",
+    "/gl0mWV6t5VwV79wddWSyeiyIcPO.jpg",
+    "/swrkAsAHxdvDKrffYM5M1o0Pbrk.jpg",
+    "/4iktWAwrC32hG2FQgE85whB9K1X.jpg",
+    "/qSCFOzxzeHYeSDymZGy4ohTk8sN.jpg",
+    "/98EhRFd9qpuBKpMiLuqRiV6JUb5.jpg"
+  ],
+  "trailerKey": "eND72dzh7EU",
+  "genreIds": [
+    35,
+    80,
+    18
+  ],
+  "keywordIds": [
+    6038,
+    10123,
+    3289,
+    6751,
+    5571,
+    9672,
+    9807,
+    10714,
+    12999,
+    187243,
+    193021,
+    210434,
+    214548,
+    325824
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Charles Chaplin Productions",
+    "United Artists"
+  ],
+  "crew": [
+    {
+      "personId": 13848,
+      "job": "director"
+    },
+    {
+      "personId": 13848,
+      "job": "writer"
+    },
+    {
+      "personId": 29548,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 13848,
+      "job": "producer"
+    },
+    {
+      "personId": 13848,
+      "job": "composer"
+    },
+    {
+      "personId": 14020,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13848,
+      "character": "Henri Verdoux",
+      "order": 0
+    },
+    {
+      "personId": 106569,
+      "character": "Mona Verdoux",
+      "order": 1
+    },
+    {
+      "personId": 106570,
+      "character": "Peter Verdoux",
+      "order": 2
+    },
+    {
+      "personId": 60063,
+      "character": "Maurice Bottello",
+      "order": 3
+    },
+    {
+      "personId": 106571,
+      "character": "Martha Bottello",
+      "order": 4
+    },
+    {
+      "personId": 106572,
+      "character": "Annabella Bonheur",
+      "order": 5
+    },
+    {
+      "personId": 106573,
+      "character": "Annette, Annabella's maid",
+      "order": 6
+    },
+    {
+      "personId": 95263,
+      "character": "Marie Grosnay",
+      "order": 7
+    },
+    {
+      "personId": 97257,
+      "character": "Marie's Maid",
+      "order": 8
+    },
+    {
+      "personId": 106574,
+      "character": "Yvonne La Salle, Marie's friend",
+      "order": 9
+    },
+    {
+      "personId": 106575,
+      "character": "Lydia Floray",
+      "order": 10
+    },
+    {
+      "personId": 97177,
+      "character": "The Girl",
+      "order": 11
+    },
+    {
+      "personId": 30530,
+      "character": "Pierre Couvais",
+      "order": 12
+    },
+    {
+      "personId": 106576,
+      "character": "Jean Couvais",
+      "order": 13
+    },
+    {
+      "personId": 2780,
+      "character": "Carlotta Couvais",
+      "order": 14
+    },
+    {
+      "personId": 107678,
+      "character": "Lena Couvais",
+      "order": 15
+    },
+    {
+      "personId": 34364,
+      "character": "Phoebe Couvais",
+      "order": 16
+    },
+    {
+      "personId": 118257,
+      "character": "Prefect of Police",
+      "order": 17
+    },
+    {
+      "personId": 109772,
+      "character": "Detective Morrow",
+      "order": 18
+    },
+    {
+      "personId": 34285,
+      "character": "Jean La Salle",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 495,
+  "sources": [
+    "cult-list"
+  ]
+}

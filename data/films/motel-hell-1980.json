@@ -1,0 +1,175 @@
+{
+  "tmdbId": 30924,
+  "slug": "motel-hell-1980",
+  "year": 1980,
+  "runtime": 102,
+  "originalTitle": "Motel Hell",
+  "title": {
+    "en": "Motel Hell",
+    "tr": "Cehennem Oteli"
+  },
+  "overview": {
+    "en": "Farmer Vincent Smith and his sister Ida run a motel attached to a farm where they capture unsuspecting travelers, bury them alive, fatten them up and then harvest their bodies as ingredients for his famous brand of \"smoked meats.\"",
+    "tr": "Çiftçi Vincent’ın özel tarifle hazırladığı tütsülenmiş etler herkes tarafından seviliyor. Kasabadaki herkes onun sosislerine ve jambonlarına bayılıyor. Ama bir dakika… Vincent’ın moteline uğrayan yabancılar neden bir daha asla görülmüyor? Geceleri büyük bir gizlilikle ilgilendiği garip bahçesinde ne yetiştiriyor? Ve tütsü evinde asılı duran o tuhaf cesetler de neyin nesi? Motel Hello kapılarını misafirlerine açıyor. Ancak akşam yemeğine davet edilirseniz, bir kez daha düşünmenizde fayda var!"
+  },
+  "poster": {
+    "tr": "/sb63i9ZDqin0Mh37B5sLiZSQY6A.jpg",
+    "en": "/sb63i9ZDqin0Mh37B5sLiZSQY6A.jpg"
+  },
+  "backdrops": [
+    "/szLJQC5gxovCrUPowOFWm0dsYMt.jpg",
+    "/fs56yURwBoqsY12zjNGVkos3E6B.jpg",
+    "/5D8eHgaABW8sAtKu5BzHE5Gnm1m.jpg",
+    "/lGVmLclzBmEkEIKbXplghozd8VC.jpg",
+    "/aSVKFsJ5VfvRXm28kBqW7B3iEQ7.jpg",
+    "/zAlVp6rlfUX6c73TpLuCqEtEpS.jpg",
+    "/lAImEY4PdHnkk7JDI4f7Gwrmi3x.jpg"
+  ],
+  "trailerKey": "e2aFGvT658k",
+  "genreIds": [
+    35,
+    27
+  ],
+  "keywordIds": [
+    10292,
+    11034,
+    12339,
+    155493,
+    208578
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Camp Hill",
+    "United Artists"
+  ],
+  "crew": [
+    {
+      "personId": 56961,
+      "job": "producer"
+    },
+    {
+      "personId": 3031,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 95329,
+      "job": "director"
+    },
+    {
+      "personId": 2093,
+      "job": "producer"
+    },
+    {
+      "personId": 56961,
+      "job": "writer"
+    },
+    {
+      "personId": 2093,
+      "job": "writer"
+    },
+    {
+      "personId": 959524,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19181,
+      "character": "Vincent Smith",
+      "order": 0
+    },
+    {
+      "personId": 107308,
+      "character": "Sheriff Bruce Smith",
+      "order": 1
+    },
+    {
+      "personId": 91842,
+      "character": "Ida Smith",
+      "order": 2
+    },
+    {
+      "personId": 27241,
+      "character": "Terry",
+      "order": 3
+    },
+    {
+      "personId": 12409,
+      "character": "Reverend Billy",
+      "order": 4
+    },
+    {
+      "personId": 107309,
+      "character": "Edith Olson",
+      "order": 5
+    },
+    {
+      "personId": 107310,
+      "character": "Debbie",
+      "order": 6
+    },
+    {
+      "personId": 7907,
+      "character": "Drummer",
+      "order": 7
+    },
+    {
+      "personId": 107312,
+      "character": "Mr. Owens",
+      "order": 8
+    },
+    {
+      "personId": 107313,
+      "character": "Mrs. Owens",
+      "order": 9
+    },
+    {
+      "personId": 107314,
+      "character": "Dixie",
+      "order": 10
+    },
+    {
+      "personId": 84870,
+      "character": "Suzi",
+      "order": 11
+    },
+    {
+      "personId": 1641170,
+      "character": "Guy Robaire / TV Preacher",
+      "order": 12
+    },
+    {
+      "personId": 1918545,
+      "character": "Bob Anderson",
+      "order": 13
+    },
+    {
+      "personId": 1338109,
+      "character": "Bo Tulinski",
+      "order": 14
+    },
+    {
+      "personId": 95683,
+      "character": "Ivan",
+      "order": 15
+    },
+    {
+      "personId": 1918548,
+      "character": "Guitarist",
+      "order": 16
+    },
+    {
+      "personId": 1918550,
+      "character": "Female Terrible",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 284,
+  "sources": [
+    "cult-list"
+  ]
+}

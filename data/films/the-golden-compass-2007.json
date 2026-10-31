@@ -1,0 +1,198 @@
+{
+  "tmdbId": 2268,
+  "slug": "the-golden-compass-2007",
+  "year": 2007,
+  "runtime": 113,
+  "originalTitle": "The Golden Compass",
+  "title": {
+    "en": "The Golden Compass",
+    "tr": "Altın Pusula"
+  },
+  "overview": {
+    "en": "In a parallel universe, after overhearing a shocking secret, precocious orphan Lyra Belacqua trades her carefree existence roaming the halls of Jordan College for an otherworldly adventure in the far North, unaware that it's part of her destiny.",
+    "tr": "Bizimkine paralel bir dünyada, on iki yaşındaki didişken Lyra ile cini Pantalaimon, bildiğimiz Oxford’dan farklı ama yine de tanınabilen bir Oxford’da yaşar. Bir akşam Lyra’nın amcası Lord Asriel okulu ziyarete gelir. Lyra ile cini, onun hocalarla yaptığı gizli toplantıya kulak misafiri olurlar. Lyra gizlendiği dolapta, Toz, Kuzey’de havada asılı bir şehir ve cinayetle sonuçlanan bir keşif seferi hakkında esrarengiz hikayeler dinler. Sonra arkadaşı Roger, çocuk hırsızı Gokgoklar tarafından kaçırılır, güvenilmez ama güzel Mrs. Coulter onu birlikte yaşamak için Londra’ya götürür. Lyra’nın bu büyük korkunun üstesinden gelebilmesi için, Kuzey Işıkları’nın ötesine erişen daha dehşet verici bir şeyle yüzleşmesi gerekmektedir."
+  },
+  "poster": {
+    "tr": "/buZlOCpViykLtwn7Mwtad2cJVbN.jpg",
+    "en": "/6DTH9poR8RAw859L6OuokT7z993.jpg"
+  },
+  "backdrops": [
+    "/7nNtgyHMiN0zirwUMqsIQNYxPk8.jpg",
+    "/aZQIZ5VdY4I1K6yAB3QFV01JOQu.jpg",
+    "/oPcTrQwc4e1WsrX5a3YQ8Llgk2w.jpg",
+    "/qifYc5jT4CZxmLH9DfOlipioSPp.jpg",
+    "/szAuHzSVFzamjCkkulopJZQVNYd.jpg",
+    "/kVB84FtEQFbIVbjRenCUSkIxqNH.jpg",
+    "/827j39eUs5bAivwVSLnzpRvtTj5.jpg",
+    "/u9ZDFXHlm9dA85U8nNTrHxMqJSw.jpg",
+    "/2SWmXqPUko6vkyEdUvVr5JIG2fF.jpg",
+    "/fChN1kEE498v0YOj9184SG8vfpz.jpg"
+  ],
+  "trailerKey": "x7u-Ve9kBeQ",
+  "genreIds": [
+    12,
+    14
+  ],
+  "keywordIds": [
+    1461,
+    1706,
+    392,
+    6678,
+    10400,
+    10028,
+    18165,
+    245157,
+    246466,
+    378071
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "is",
+    "en",
+    "ru",
+    "fr"
+  ],
+  "studios": [
+    "Depth of Field",
+    "New Line Cinema",
+    "Scholastic Productions"
+  ],
+  "crew": [
+    {
+      "personId": 2949,
+      "job": "composer"
+    },
+    {
+      "personId": 23421,
+      "job": "producer"
+    },
+    {
+      "personId": 23420,
+      "job": "producer"
+    },
+    {
+      "personId": 3288,
+      "job": "writer"
+    },
+    {
+      "personId": 23422,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3288,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 45589,
+      "character": "Lyra Belacqua",
+      "order": 0
+    },
+    {
+      "personId": 2227,
+      "character": "Marisa Coulter",
+      "order": 1
+    },
+    {
+      "personId": 8784,
+      "character": "Lord Asriel",
+      "order": 2
+    },
+    {
+      "personId": 45585,
+      "character": "Roger Parslow",
+      "order": 3
+    },
+    {
+      "personId": 1281,
+      "character": "Pantalaimon (voice)",
+      "order": 4
+    },
+    {
+      "personId": 1327,
+      "character": "Iorek Byrnison (voice)",
+      "order": 5
+    },
+    {
+      "personId": 10912,
+      "character": "Serafina Pekkala",
+      "order": 6
+    },
+    {
+      "personId": 20070,
+      "character": "John Faa",
+      "order": 7
+    },
+    {
+      "personId": 14011,
+      "character": "Farder Coram",
+      "order": 8
+    },
+    {
+      "personId": 6972,
+      "character": "Ragnar Sturlusson (voice)",
+      "order": 9
+    },
+    {
+      "personId": 16431,
+      "character": "Lee Scoresby",
+      "order": 10
+    },
+    {
+      "personId": 113,
+      "character": "First High Councilor",
+      "order": 11
+    },
+    {
+      "personId": 5470,
+      "character": "Stelmania (voice)",
+      "order": 12
+    },
+    {
+      "personId": 10465,
+      "character": "Second High Councilor",
+      "order": 13
+    },
+    {
+      "personId": 8534,
+      "character": "Hester (voice)",
+      "order": 14
+    },
+    {
+      "personId": 16358,
+      "character": "Fra Pavel",
+      "order": 15
+    },
+    {
+      "personId": 45587,
+      "character": "Master",
+      "order": 16
+    },
+    {
+      "personId": 45586,
+      "character": "Mrs. Lonsdale",
+      "order": 17
+    },
+    {
+      "personId": 937,
+      "character": "Magisterial Emissary",
+      "order": 18
+    },
+    {
+      "personId": 45588,
+      "character": "Ma Coster",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 4974,
+  "sources": [
+    "cult-list"
+  ]
+}

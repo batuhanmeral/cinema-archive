@@ -1,0 +1,218 @@
+{
+  "tmdbId": 2721,
+  "slug": "z-1969",
+  "year": 1969,
+  "runtime": 122,
+  "originalTitle": "Z",
+  "title": {
+    "en": "Z",
+    "tr": "Ölümsüz"
+  },
+  "overview": {
+    "en": "A prominent politician is murdered during a demonstration. The government and army are trying to suppress the truth, but a tenacious magistrate is determined not to let them get away with it.",
+    "tr": "Devrimci-Sosyalist bir politikacı olan Dr.Lambrakis ,(Yves Montand)barış savunucularının gösterisinde devletin sağ kanadının organize ettiği bir suikaste kurban gider. Cinayetin hemen arkasından devlet ve ordu görevlilerinin yaptıkları tek şey, olayı örtbas etmek için gerekli delilleri ortadan kaldırmaktır. Fakat prosedür gereği açılan davaya atanan savcı, olayın derinlerine indikçe karşılaştığı akıl almaz gerçeklerle yılmadan tıpkı bir dedektif gibi araştırmasına devam eder. Ama bu araştırma sırasında karşısına çıkan engeller, devletin içinde tahmininden de derin makamlardan gelecektir.  Jean-Louis Trintignant'ın bir savcıyı ve Yves Montand'ın da solcu bir partinin önde gelen temsilcilerinden birini canlandırdığı filmde barışın önemi, faşist çeteler ile hükümet içindeki güçlerin ilişkisi bağlamında derin devlet sorunsalı irdelenmektedir."
+  },
+  "poster": {
+    "tr": "/dFAJyFNgvOv24f2RQyI9KDxjGr3.jpg",
+    "en": "/dFAJyFNgvOv24f2RQyI9KDxjGr3.jpg"
+  },
+  "backdrops": [
+    "/Ru4YeA6BpROEJkIwayqfBHkQ7O.jpg",
+    "/7AvbU0ei7Fz21jqBL4tlgSufnMp.jpg",
+    "/wxaYnCrALDsJhKgeamjVh8Z5Nxh.jpg",
+    "/ofSyquvDw78bpOmDAwisAfQoBYQ.jpg",
+    "/tJBV5dxLKC0UjOBuDprJvLkEWtI.jpg",
+    "/j7WE8K1x4icL5VKceWjHLU4KkaZ.jpg",
+    "/9aNFer9BOxn2xwhnA3eCfPgCL6v.jpg",
+    "/rRW6AoC4KioLNs64QzXi082jC0c.jpg",
+    "/dQOKYeoeCNpZszURIugaUPAyKKR.jpg",
+    "/jlShvx4NDd2Fz4yNETRKnfnqEBy.jpg"
+  ],
+  "trailerKey": "7E3QUHUMe5I",
+  "genreIds": [
+    53,
+    80,
+    18
+  ],
+  "keywordIds": [
+    591,
+    441,
+    6086,
+    417,
+    6149,
+    6078,
+    1755,
+    1200,
+    5340,
+    2821,
+    6285,
+    7059,
+    9665,
+    10410,
+    11734,
+    14548,
+    15108,
+    33858,
+    182058,
+    194320,
+    207897,
+    214724,
+    233769,
+    236536,
+    256074,
+    288793,
+    301096
+  ],
+  "countries": [
+    "DZ",
+    "FR"
+  ],
+  "languages": [
+    "fr",
+    "ru"
+  ],
+  "studios": [
+    "Valoria Films",
+    "Reggane Films",
+    "Office National pour le Commerce et l'Industrie Cinématographique (ONCIC)"
+  ],
+  "crew": [
+    {
+      "personId": 27436,
+      "job": "director"
+    },
+    {
+      "personId": 3540,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 27439,
+      "job": "composer"
+    },
+    {
+      "personId": 27438,
+      "job": "writer"
+    },
+    {
+      "personId": 27436,
+      "job": "writer"
+    },
+    {
+      "personId": 543094,
+      "job": "producer"
+    },
+    {
+      "personId": 20030,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2565,
+      "character": "Z",
+      "order": 0
+    },
+    {
+      "personId": 18847,
+      "character": "Hélène",
+      "order": 1
+    },
+    {
+      "personId": 1352,
+      "character": "Examining Magistrate",
+      "order": 2
+    },
+    {
+      "personId": 20030,
+      "character": "Photojournalist",
+      "order": 3
+    },
+    {
+      "personId": 17028,
+      "character": "Manuel",
+      "order": 4
+    },
+    {
+      "personId": 27440,
+      "character": "Public Prosecutor",
+      "order": 5
+    },
+    {
+      "personId": 24422,
+      "character": "Matt",
+      "order": 6
+    },
+    {
+      "personId": 27441,
+      "character": "Gendarmerie General Missou",
+      "order": 7
+    },
+    {
+      "personId": 19632,
+      "character": "Nick",
+      "order": 8
+    },
+    {
+      "personId": 5963,
+      "character": "Nick's Sister",
+      "order": 9
+    },
+    {
+      "personId": 15184,
+      "character": "Vago",
+      "order": 10
+    },
+    {
+      "personId": 11216,
+      "character": "Gendarmerie Colonel",
+      "order": 11
+    },
+    {
+      "personId": 27442,
+      "character": "Yago",
+      "order": 12
+    },
+    {
+      "personId": 2168,
+      "character": "Deputy Georges Pirou",
+      "order": 13
+    },
+    {
+      "personId": 55621,
+      "character": "Shoula",
+      "order": 14
+    },
+    {
+      "personId": 239398,
+      "character": "Heroic Bricklayer",
+      "order": 15
+    },
+    {
+      "personId": 3463091,
+      "character": "Deputy Public Prosecutor",
+      "order": 16
+    },
+    {
+      "personId": 36022,
+      "character": "General's Chauffeur",
+      "order": 17
+    },
+    {
+      "personId": 15402,
+      "character": "Barone",
+      "order": 18
+    },
+    {
+      "personId": 1168415,
+      "character": "Pierre",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 664,
+  "sources": [
+    "cult-list"
+  ]
+}

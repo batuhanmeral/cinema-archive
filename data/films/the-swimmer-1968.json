@@ -1,0 +1,195 @@
+{
+  "tmdbId": 33564,
+  "slug": "the-swimmer-1968",
+  "year": 1968,
+  "runtime": 95,
+  "originalTitle": "The Swimmer",
+  "title": {
+    "en": "The Swimmer",
+    "tr": "Yüzücü"
+  },
+  "overview": {
+    "en": "A man spends a summer day swimming home via all the pools in his quiet suburban neighborhood.",
+    "tr": "Connecticut'ın varlıklı banliyölerinden birinde pırıl pırıl güneşli bir yaz gününde orta yaşlı dinç görünüşlü bir adam olan Ned Merrill üzerinde mayosu olduğu halde dostlarından birinin bahçesinde ortaya çıkar. Her birinde yüzme havuzu olan köşklerin sıralandığı bir sayfiye vadisidir burası. Ned teker teker komşuları ve dostları olan bu insanların yüzme havuzlarına dalıp çıkarak kendi evine doğru bir yolculuk yapmaya karar verir."
+  },
+  "poster": {
+    "tr": "/urzLPHVno21hv2Ti7CwQuoQAUAI.jpg",
+    "en": "/urzLPHVno21hv2Ti7CwQuoQAUAI.jpg"
+  },
+  "backdrops": [
+    "/iuLD0euN4j1soN3Ep0vpYaFbE7g.jpg",
+    "/i38PPPpZUhknR7buscEBvfLRIBW.jpg",
+    "/7PPxy4xzepwzGGLUvasitiWW6HS.jpg",
+    "/wcG6igxUuxnFbb7DKSUGK4zuWlo.jpg",
+    "/msLabTaDYinBIZi2mi6EhaSHDGH.jpg",
+    "/2Pfkb2MtxB4jeEda4mLaRBGSvh4.jpg",
+    "/abP9zmmIsXyN2uiICVuwl4RtSFn.jpg",
+    "/6BJKf5iwkI6iGdoVfVu9p2GjfYw.jpg",
+    "/ykLuLxHox71rDyV9JEuJ7eBXvA6.jpg",
+    "/jYJr5TcnOH4kuPUtlk8Cd1M5eQV.jpg"
+  ],
+  "trailerKey": "zY0tmQCa_Os",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    213,
+    1599,
+    6981,
+    8181,
+    10226,
+    11827,
+    14588,
+    156866,
+    225840,
+    312677,
+    339695,
+    355116,
+    356277,
+    365148
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Horizon Pictures",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 113799,
+      "job": "director"
+    },
+    {
+      "personId": 109237,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10468,
+      "job": "composer"
+    },
+    {
+      "personId": 113799,
+      "job": "producer"
+    },
+    {
+      "personId": 558338,
+      "job": "writer"
+    },
+    {
+      "personId": 6776,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13784,
+      "character": "Ned Merrill",
+      "order": 0
+    },
+    {
+      "personId": 44882,
+      "character": "Julie Ann Hooper",
+      "order": 1
+    },
+    {
+      "personId": 20604,
+      "character": "Shirley Abbott",
+      "order": 2
+    },
+    {
+      "personId": 148668,
+      "character": "Donald Westerhazy",
+      "order": 3
+    },
+    {
+      "personId": 148669,
+      "character": "Peggy Forsburgh",
+      "order": 4
+    },
+    {
+      "personId": 1072009,
+      "character": "Mrs. Halloran",
+      "order": 5
+    },
+    {
+      "personId": 171125,
+      "character": "Howie Hunsacker",
+      "order": 6
+    },
+    {
+      "personId": 140355,
+      "character": "Sylvia Finney",
+      "order": 7
+    },
+    {
+      "personId": 31463,
+      "character": "Ticket Seller",
+      "order": 8
+    },
+    {
+      "personId": 10539,
+      "character": "Betty Graham",
+      "order": 9
+    },
+    {
+      "personId": 15978,
+      "character": "Howard Graham",
+      "order": 10
+    },
+    {
+      "personId": 174624,
+      "character": "Chauffeur",
+      "order": 11
+    },
+    {
+      "personId": 40194,
+      "character": "Mr. Halloran",
+      "order": 12
+    },
+    {
+      "personId": 1787948,
+      "character": "Jack Finney",
+      "order": 13
+    },
+    {
+      "personId": 1765424,
+      "character": "Kevin Gilmartin",
+      "order": 14
+    },
+    {
+      "personId": 174657,
+      "character": "Stu Forsburgh",
+      "order": 15
+    },
+    {
+      "personId": 162287,
+      "character": "Lillian Hunsacker",
+      "order": 16
+    },
+    {
+      "personId": 16014,
+      "character": "Cynthia",
+      "order": 17
+    },
+    {
+      "personId": 2113184,
+      "character": "Vernon",
+      "order": 18
+    },
+    {
+      "personId": 14670,
+      "character": "Joan",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 282,
+  "sources": [
+    "cult-list"
+  ]
+}

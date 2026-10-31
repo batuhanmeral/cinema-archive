@@ -1,0 +1,180 @@
+{
+  "tmdbId": 21711,
+  "slug": "the-candidate-1972",
+  "year": 1972,
+  "runtime": 110,
+  "originalTitle": "The Candidate",
+  "title": {
+    "en": "The Candidate",
+    "tr": "Aday"
+  },
+  "overview": {
+    "en": "Bill McKay is a candidate for the U.S. Senate from California. He has no hope of winning, so he is willing to tweak the establishment.",
+    "tr": "Kaliforniyalı avukat Bill McKay, sıradan insanların hakları için uğraşan bir hukuk adamıdır. Karizması ve u yeteneği bölgenin Demokrat Parti ekibince fark edilir ve bölgeden senato adayı olması için teklif götürülür. Israrlar karşısında McKAy teklifi kabul eder üstelik işleri kendi bildiği yöntemlerle, kendi prensipleriyle çizecektir. ama bir kez yarışa ve rekabeti de girince işin renginin ne kadar değişeceğini tahmin bile edemez"
+  },
+  "poster": {
+    "tr": "/6zcDSOe1akUXsc2Q1APfchKcVaI.jpg",
+    "en": "/7g0WEMac9iKlhjmVEslIX8sIxCF.jpg"
+  },
+  "backdrops": [
+    "/veW9AXSNm1vGgs9HhGNYFsbsWAS.jpg",
+    "/rd6IEzxIx3I066DeXPg4K861f4D.jpg",
+    "/5bflJYCbGTH8kEwJvi09n1qGygE.jpg",
+    "/fubgpre2DxmihYNvqQURPO8LNYK.jpg",
+    "/6weg6tPGmYMbwPldIJFmi2JzAck.jpg"
+  ],
+  "trailerKey": "9RTIQWXzexU",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    387,
+    6078,
+    18075,
+    171095,
+    181656
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Redford-Ritchie Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 12964,
+      "job": "director"
+    },
+    {
+      "personId": 44261,
+      "job": "composer"
+    },
+    {
+      "personId": 14536,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 13718,
+      "job": "producer"
+    },
+    {
+      "personId": 225697,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4135,
+      "character": "Bill McKay",
+      "order": 0
+    },
+    {
+      "personId": 1039,
+      "character": "Marvin Lucas",
+      "order": 1
+    },
+    {
+      "personId": 19550,
+      "character": "John J. McKay",
+      "order": 2
+    },
+    {
+      "personId": 94294,
+      "character": "Senator Crocker Jarmon",
+      "order": 3
+    },
+    {
+      "personId": 922,
+      "character": "Klein",
+      "order": 4
+    },
+    {
+      "personId": 92680,
+      "character": "Nancy McKay",
+      "order": 5
+    },
+    {
+      "personId": 91371,
+      "character": "Rick Jenkin",
+      "order": 6
+    },
+    {
+      "personId": 160947,
+      "character": "Wally Henderson",
+      "order": 7
+    },
+    {
+      "personId": 4250,
+      "character": "Paul Corliss",
+      "order": 8
+    },
+    {
+      "personId": 103069,
+      "character": "Floyd J. Starkey",
+      "order": 9
+    },
+    {
+      "personId": 1379113,
+      "character": "David",
+      "order": 10
+    },
+    {
+      "personId": 161279,
+      "character": "Neil Atkinson",
+      "order": 11
+    },
+    {
+      "personId": 161023,
+      "character": "Lynn",
+      "order": 12
+    },
+    {
+      "personId": 1212995,
+      "character": "Pilot",
+      "order": 13
+    },
+    {
+      "personId": 31506,
+      "character": "Station Manager",
+      "order": 14
+    },
+    {
+      "personId": 3035070,
+      "character": "Mabel",
+      "order": 15
+    },
+    {
+      "personId": 1821543,
+      "character": "Boy in the Commercial",
+      "order": 16
+    },
+    {
+      "personId": 3035072,
+      "character": "Jaime",
+      "order": 17
+    },
+    {
+      "personId": 3035073,
+      "character": "Fleischer",
+      "order": 18
+    },
+    {
+      "personId": 1238771,
+      "character": "Wilson",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 201,
+  "sources": [
+    "cult-list"
+  ]
+}

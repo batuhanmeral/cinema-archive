@@ -1,0 +1,187 @@
+{
+  "tmdbId": 28671,
+  "slug": "habit-1997",
+  "year": 1997,
+  "runtime": 113,
+  "originalTitle": "Habit",
+  "title": {
+    "en": "Habit",
+    "tr": "Habit"
+  },
+  "overview": {
+    "en": "It's autumn in New York. Sam has broken up with his girlfriend and his father has recently died. World-weary and sloppy drunk, he finds temporary solace in the arms of Anna, a mysterious vampire who draws him away from his friends and into a web of addiction and madness.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9jUDhHiDtzhQviodUvWBv1MuytA.jpg",
+    "en": "/vDrHkwc1Ekov8DfXP4QOoClS6zN.jpg"
+  },
+  "backdrops": [
+    "/6yKTml1wCxgZO6704A2pzbsTpJa.jpg",
+    "/e8G0YZYDAUtFrGqs2jNzTLoS0Rp.jpg",
+    "/1LdxlWUXue2jPltaZ2c7Uy3uvRA.jpg",
+    "/ddfw57zy58BIJBJkx5lnINwC7Er.jpg",
+    "/4ia2wV94gAoGdzOfKZuxFGzlA6u.jpg",
+    "/6CTTAR4i5ru44Zh7iQXBSeAyhaL.jpg",
+    "/p0D14dy2b6zWWAnOaiLZV1PXTpM.jpg",
+    "/hAjYAhTni7ggtw0CFk6QeyvH9WH.jpg",
+    "/knUSBVzORehFOSXfCJuOAmXhqfB.jpg",
+    "/1EuEYKDCcQ1CfL0E185wmNfDOyZ.jpg"
+  ],
+  "trailerKey": "imEwZISF3-g",
+  "genreIds": [
+    27,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    242,
+    740,
+    3133,
+    6782,
+    160840,
+    168346,
+    210371,
+    261274,
+    293631
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Glass Eye Pix"
+  ],
+  "crew": [
+    {
+      "personId": 31268,
+      "job": "director"
+    },
+    {
+      "personId": 101536,
+      "job": "producer"
+    },
+    {
+      "personId": 31268,
+      "job": "writer"
+    },
+    {
+      "personId": 2448499,
+      "job": "composer"
+    },
+    {
+      "personId": 19758,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 31268,
+      "character": "Sam",
+      "order": 0
+    },
+    {
+      "personId": 101537,
+      "character": "Anna",
+      "order": 1
+    },
+    {
+      "personId": 101538,
+      "character": "Nick",
+      "order": 2
+    },
+    {
+      "personId": 101539,
+      "character": "Rae",
+      "order": 3
+    },
+    {
+      "personId": 101540,
+      "character": "Liza",
+      "order": 4
+    },
+    {
+      "personId": 101541,
+      "character": "Lenny",
+      "order": 5
+    },
+    {
+      "personId": 580696,
+      "character": "Segundo",
+      "order": 6
+    },
+    {
+      "personId": 1387356,
+      "character": "Slimma",
+      "order": 7
+    },
+    {
+      "personId": 4989153,
+      "character": "Sam's Dad",
+      "order": 8
+    },
+    {
+      "personId": 1774793,
+      "character": "Mr Lyons",
+      "order": 9
+    },
+    {
+      "personId": 4989149,
+      "character": "Norman in Bridgehampton",
+      "order": 10
+    },
+    {
+      "personId": 4989151,
+      "character": "Sandy in Bridgehampton",
+      "order": 11
+    },
+    {
+      "personId": 4989155,
+      "character": "kid in Bridgehampton",
+      "order": 12
+    },
+    {
+      "personId": 4989163,
+      "character": "Liza's nosy neighbor",
+      "order": 13
+    },
+    {
+      "personId": 54883,
+      "character": "Liza's friend Dave",
+      "order": 14
+    },
+    {
+      "personId": 4989158,
+      "character": "Liza's friend Susan",
+      "order": 15
+    },
+    {
+      "personId": 4989152,
+      "character": "Harry at the party",
+      "order": 16
+    },
+    {
+      "personId": 4224033,
+      "character": "Accident Witness",
+      "order": 17
+    },
+    {
+      "personId": 56383,
+      "character": "partygirl on phone",
+      "order": 18
+    },
+    {
+      "personId": 4989150,
+      "character": "carrot man",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 53,
+  "sources": [
+    "cult-list"
+  ]
+}

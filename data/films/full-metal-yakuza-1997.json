@@ -1,0 +1,122 @@
+{
+  "tmdbId": 42099,
+  "slug": "full-metal-yakuza-1997",
+  "year": 1997,
+  "runtime": 102,
+  "originalTitle": "FULL METAL 極道",
+  "title": {
+    "en": "Full Metal Yakuza",
+    "tr": "FULL METAL 極道"
+  },
+  "overview": {
+    "en": "After being brutally murdered in a gangster-style execution, Kensuke Hagane finds himself brought back to life by a mad scientist and rebuilt as a robot-human hybrid with a serious thirst for vengeance and the tools to carry it out.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wLYwjhB9cwUAD5j5jeBoT5DkNSW.jpg",
+    "en": "/wLYwjhB9cwUAD5j5jeBoT5DkNSW.jpg"
+  },
+  "backdrops": [
+    "/AgeCEbpcf5GO4aDyMba8csC8BbU.jpg",
+    "/sevJA8SZ0a76sgyNFXJGtt1T8gv.jpg"
+  ],
+  "trailerKey": "nhX4z_oc0nU",
+  "genreIds": [
+    28,
+    35,
+    80,
+    27,
+    878
+  ],
+  "keywordIds": [
+    570,
+    679,
+    1794,
+    10125,
+    9748,
+    181117
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Excellent Film"
+  ],
+  "crew": [
+    {
+      "personId": 35624,
+      "job": "writer"
+    },
+    {
+      "personId": 35633,
+      "job": "composer"
+    },
+    {
+      "personId": 17282,
+      "job": "director"
+    },
+    {
+      "personId": 28775,
+      "job": "producer"
+    },
+    {
+      "personId": 551730,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 137026,
+      "character": "Kensuke Hagane",
+      "order": 0
+    },
+    {
+      "personId": 67091,
+      "character": "Genpaku Hiraga",
+      "order": 1
+    },
+    {
+      "personId": 551732,
+      "character": "Tosa",
+      "order": 2
+    },
+    {
+      "personId": 2542,
+      "character": "Matsuba",
+      "order": 3
+    },
+    {
+      "personId": 130660,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 35647,
+      "character": "Yukari",
+      "order": 5
+    },
+    {
+      "personId": 551733,
+      "character": "Naomi",
+      "order": 6
+    },
+    {
+      "personId": 84045,
+      "character": "Junji",
+      "order": 7
+    },
+    {
+      "personId": 137029,
+      "character": "Nakame",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 56,
+  "sources": [
+    "cult-list"
+  ]
+}

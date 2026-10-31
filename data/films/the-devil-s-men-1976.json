@@ -1,0 +1,134 @@
+{
+  "tmdbId": 37904,
+  "slug": "the-devil-s-men-1976",
+  "year": 1976,
+  "runtime": 90,
+  "originalTitle": "The Devil's Men",
+  "title": {
+    "en": "The Devil's Men",
+    "tr": "The Devil's Men"
+  },
+  "overview": {
+    "en": "A satanic cult led by Baron Corofax kidnaps three young people and Father Roche & Milo must save them from the hands of this evil.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4FOaTeld70YIwcg1N1FE7z2zuTN.jpg",
+    "en": "/8R2Cral9XjPrM3rbkPoOsREl5qZ.jpg"
+  },
+  "backdrops": [
+    "/oRtQs4p7pWhuET78yv405Ga1FUJ.jpg",
+    "/eO8hp4qsNUxYkvFC87DSWYGFdmU.jpg",
+    "/qM1usTOiKs4CDwcDXzowawhpvnN.jpg",
+    "/kOkE5fQiHCF3F0cAEN6ClB4UjhC.jpg"
+  ],
+  "trailerKey": "At8tsK1Rgh4",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    5159,
+    10093,
+    10166,
+    15001,
+    163055
+  ],
+  "countries": [
+    "GR",
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "el",
+    "en"
+  ],
+  "studios": [
+    "Getty Pictures Corp.",
+    "Poseidon Productions",
+    "Crown International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 97670,
+      "job": "director"
+    },
+    {
+      "personId": 119072,
+      "job": "writer"
+    },
+    {
+      "personId": 37317,
+      "job": "composer"
+    },
+    {
+      "personId": 17584,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2151348,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9221,
+      "character": "Father Roche",
+      "order": 0
+    },
+    {
+      "personId": 5,
+      "character": "Baron Corofax",
+      "order": 1
+    },
+    {
+      "personId": 97671,
+      "character": "Laurie Gordon",
+      "order": 2
+    },
+    {
+      "personId": 106721,
+      "character": "Ian",
+      "order": 3
+    },
+    {
+      "personId": 106720,
+      "character": "Milo Kaye",
+      "order": 4
+    },
+    {
+      "personId": 1146995,
+      "character": "Sgt. Vendris",
+      "order": 5
+    },
+    {
+      "personId": 1119900,
+      "character": "Widow - Mrs. Mikaelis",
+      "order": 6
+    },
+    {
+      "personId": 161461,
+      "character": "Tom Gifford",
+      "order": 7
+    },
+    {
+      "personId": 1031167,
+      "character": "Shopkeeper - Karapades",
+      "order": 8
+    },
+    {
+      "personId": 1144063,
+      "character": "Milo's Girlfriend",
+      "order": 9
+    },
+    {
+      "personId": 1073040,
+      "character": "Mrs. Zagros",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 49,
+  "sources": [
+    "cult-list"
+  ]
+}

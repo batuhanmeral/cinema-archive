@@ -1,0 +1,221 @@
+{
+  "tmdbId": 3086,
+  "slug": "the-lady-eve-1941",
+  "year": 1941,
+  "runtime": 97,
+  "originalTitle": "The Lady Eve",
+  "title": {
+    "en": "The Lady Eve",
+    "tr": "Bayan Eve"
+  },
+  "overview": {
+    "en": "It's no accident when wealthy Charles falls for Jean. Jean is a con artist with her sights set on Charles' fortune. Matters complicate when Jean starts falling for her mark. When Charles suspects Jean is a gold digger, he dumps her. Jean, fixated on revenge and still pining for the millionaire, devises a plan to get back in Charles' life. With love and payback on her mind, she re-introduces herself to Charles, this time as an aristocrat named Lady Eve Sidwich.",
+    "tr": "Amazon'da bir yıllık yılan araştırmasından dönen, zengin ama mütevazı Charles Pike, bir teknede dolandırıcı Jean Harrington ile tanışır. Birbirlerine aşık olurlar ama bir yanlış anlama, onların kötü bir şekilde ayrılmalarına sebep olur. Jean, onu geri kazanmak için bir İngiliz kadınının kılığına girip ona sataşmaya başlar."
+  },
+  "poster": {
+    "tr": "/lJYD3CMgKtv12hazSHc7xt3i2uq.jpg",
+    "en": "/lJYD3CMgKtv12hazSHc7xt3i2uq.jpg"
+  },
+  "backdrops": [
+    "/mwV6EotAwD5qiaKv6SblPuSZ2r8.jpg",
+    "/5opGynD1DdCHWqg24jlY6hEyubo.jpg",
+    "/7nL4SLErtTIU9lO1ZZMNIJYH0XD.jpg",
+    "/mNQm9BVRBVoGsZFHIrtNERJj5WK.jpg",
+    "/ets3aXNQb9OWocHfjaBKH2A6i7z.jpg",
+    "/ykZKgvjubeDLOFYIEWBfi7BkKe7.jpg",
+    "/kptxvJUdO5bl9o7clvRcwCn8FsJ.jpg",
+    "/nwa6cBeMlasLDzzMmOSTzOCTqna.jpg",
+    "/bIOl1ikz7TEPFfKNxHlfMxma8e5.jpg",
+    "/tY551dCsoAosOhzDLrzYFiGLRzG.jpg"
+  ],
+  "trailerKey": "lj9ilqIyCUk",
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    5600,
+    3799,
+    1585,
+    395,
+    1757,
+    4373,
+    9799,
+    9758,
+    10453,
+    10594,
+    9748,
+    10329,
+    12096,
+    12999,
+    15396,
+    155457,
+    157286
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 30252,
+      "job": "producer"
+    },
+    {
+      "personId": 30255,
+      "job": "composer"
+    },
+    {
+      "personId": 14972,
+      "job": "producer"
+    },
+    {
+      "personId": 30254,
+      "job": "composer"
+    },
+    {
+      "personId": 30249,
+      "job": "director"
+    },
+    {
+      "personId": 29759,
+      "job": "composer"
+    },
+    {
+      "personId": 30251,
+      "job": "producer"
+    },
+    {
+      "personId": 30258,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30253,
+      "job": "composer"
+    },
+    {
+      "personId": 30249,
+      "job": "writer"
+    },
+    {
+      "personId": 30256,
+      "job": "composer"
+    },
+    {
+      "personId": 30257,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14974,
+      "character": "Jean Harrington",
+      "order": 0
+    },
+    {
+      "personId": 4958,
+      "character": "Charles Pike",
+      "order": 1
+    },
+    {
+      "personId": 11169,
+      "character": "'Colonel' Harrington",
+      "order": 2
+    },
+    {
+      "personId": 8728,
+      "character": "Horace Pike",
+      "order": 3
+    },
+    {
+      "personId": 21510,
+      "character": "Muggsy",
+      "order": 4
+    },
+    {
+      "personId": 30184,
+      "character": "Sir Alfred McGlennan Keith",
+      "order": 5
+    },
+    {
+      "personId": 8730,
+      "character": "Gerald",
+      "order": 6
+    },
+    {
+      "personId": 30260,
+      "character": "Martha",
+      "order": 7
+    },
+    {
+      "personId": 30261,
+      "character": "Janet Pike",
+      "order": 8
+    },
+    {
+      "personId": 30262,
+      "character": "Burrows",
+      "order": 9
+    },
+    {
+      "personId": 30263,
+      "character": "Gertrude",
+      "order": 10
+    },
+    {
+      "personId": 30264,
+      "character": "Emile, Pike's Chef",
+      "order": 11
+    },
+    {
+      "personId": 1406724,
+      "character": "Man with Potted Palm (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 2941,
+      "character": "Sir Alfred's Servant (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1425618,
+      "character": "Passenger on Ship (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 590519,
+      "character": "Husband on Ship (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1295853,
+      "character": "Lawyer (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 30117,
+      "character": "Ship's Waiter with Toupee (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1283036,
+      "character": "Mac (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 939842,
+      "character": "First Butler at Party (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 421,
+  "sources": [
+    "cult-list"
+  ]
+}

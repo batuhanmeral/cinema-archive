@@ -1,0 +1,189 @@
+{
+  "tmdbId": 576,
+  "slug": "the-wild-bunch-1969",
+  "year": 1969,
+  "runtime": 145,
+  "originalTitle": "The Wild Bunch",
+  "title": {
+    "en": "The Wild Bunch",
+    "tr": "Vahşi Belde"
+  },
+  "overview": {
+    "en": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+    "tr": "Bir grup kanunsuz, emekliliklerini ilan etmeden önce son bir banka soygunu için bir araya gelir... Ancak soygun istedikleri gitmez. Çıkan çatışmada arkadaşlarının bir bölümünü kaybederler. Peşlerindeki kanun adamlarından kaçışları Meksika'da son bulurlar. Bir yandan peşlerindeki belalı bir ödül avcısı, öte yandan da yeni geldikleri ülkedeki cani askerler. Meksika'da huzur değil adeta bela bulan grup kaçışlarının bir son bulduğunu sanmaktadır ancak bu son aslında her şeyin başlangıcı olacaktır.  Sam Peckinpah'ın western sinemasını sarsan filmi hala aşılması çok zor bir klasik. \"Battle of Bloody Porch\" adı verilen klasik final sahnesi 12 günde çekilen filmin öyküsünde toplamda 145 kişi ölüyordu. Toplam 6 kamera ile çekilen bu sahnede, kameralardan biri suda kaybolmuştu."
+  },
+  "poster": {
+    "tr": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg",
+    "en": "/8j9yEC3xjy1PJDSizIbaxcHaSph.jpg"
+  },
+  "backdrops": [
+    "/8D0tbahTduvTkSo1Aqn3dVVg9mk.jpg",
+    "/nJDjkZ2JTnDytmQb6BeJNqrlnaf.jpg",
+    "/u1L1hOqcnLkauKNrM8pwNhHTdjp.jpg",
+    "/bOAtwELDH0UFESJ8Mhvqm666wni.jpg",
+    "/cSHie9qJvujqN4tYq6gx88WDf7o.jpg",
+    "/tMPr2M6AIcznGwJt7ApzwQCOfD8.jpg",
+    "/5vpwzGuo7pVE5gom9VmuR2EA3Hx.jpg",
+    "/7djukMNTgAPpElse30KdQfNC0aC.jpg",
+    "/3VOMg5qurrIGoZrg3cfbxhEW5Ye.jpg",
+    "/sQqnmEABn7GzudipVqElEyoujEO.jpg"
+  ],
+  "trailerKey": "kdy0t_8mQBw",
+  "genreIds": [
+    37
+  ],
+  "keywordIds": [
+    240,
+    6054,
+    801,
+    642,
+    1556,
+    2940,
+    9812,
+    10726,
+    10950,
+    13065,
+    163671,
+    189262
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Warner Bros.-Seven Arts"
+  ],
+  "crew": [
+    {
+      "personId": 7767,
+      "job": "director"
+    },
+    {
+      "personId": 7769,
+      "job": "composer"
+    },
+    {
+      "personId": 7767,
+      "job": "writer"
+    },
+    {
+      "personId": 7765,
+      "job": "writer"
+    },
+    {
+      "personId": 7768,
+      "job": "producer"
+    },
+    {
+      "personId": 3351,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8252,
+      "character": "Pike Bishop",
+      "order": 0
+    },
+    {
+      "personId": 7502,
+      "character": "Dutch Engstrom",
+      "order": 1
+    },
+    {
+      "personId": 8253,
+      "character": "Deke Thornton",
+      "order": 2
+    },
+    {
+      "personId": 8257,
+      "character": "Angel",
+      "order": 3
+    },
+    {
+      "personId": 8255,
+      "character": "Lyle Gorch",
+      "order": 4
+    },
+    {
+      "personId": 8254,
+      "character": "Freddie Sykes",
+      "order": 5
+    },
+    {
+      "personId": 8258,
+      "character": "Tector Gorch",
+      "order": 6
+    },
+    {
+      "personId": 2755,
+      "character": "Pat Harrigan",
+      "order": 7
+    },
+    {
+      "personId": 8260,
+      "character": "Coffer",
+      "order": 8
+    },
+    {
+      "personId": 8259,
+      "character": "Gen. Mapache",
+      "order": 9
+    },
+    {
+      "personId": 557983,
+      "character": "Mohr",
+      "order": 10
+    },
+    {
+      "personId": 22767,
+      "character": "Herrera",
+      "order": 11
+    },
+    {
+      "personId": 107285,
+      "character": "Don Jose",
+      "order": 12
+    },
+    {
+      "personId": 31321,
+      "character": "Major Zamorra",
+      "order": 13
+    },
+    {
+      "personId": 8262,
+      "character": "T.C",
+      "order": 14
+    },
+    {
+      "personId": 12410,
+      "character": "Clarence 'Crazy' Lee",
+      "order": 15
+    },
+    {
+      "personId": 6463,
+      "character": "Reverend Wainscoat",
+      "order": 16
+    },
+    {
+      "personId": 176445,
+      "character": "Ross",
+      "order": 17
+    },
+    {
+      "personId": 160598,
+      "character": "Jess",
+      "order": 18
+    },
+    {
+      "personId": 30848,
+      "character": "Buck",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1397,
+  "sources": [
+    "cult-list"
+  ]
+}

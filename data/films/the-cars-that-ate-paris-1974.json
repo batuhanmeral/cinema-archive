@@ -1,0 +1,175 @@
+{
+  "tmdbId": 62761,
+  "slug": "the-cars-that-ate-paris-1974",
+  "year": 1974,
+  "runtime": 91,
+  "originalTitle": "The Cars That Ate Paris",
+  "title": {
+    "en": "The Cars That Ate Paris",
+    "tr": "The Cars That Ate Paris"
+  },
+  "overview": {
+    "en": "After surviving a car accident, a young man finds himself trapped in the isolated town of Paris, where the local economy depends on deliberately causing crashes and salvaging the wreckage. As he becomes entangled in the town’s routines, tensions between its residents and a rebellious group of youths begin to surface.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/whuJ4BY2Fq2EuhKkSrtjJxNFYsc.jpg",
+    "en": "/1jAbfwNPSGgCZ68FjGD39XpXsrB.jpg"
+  },
+  "backdrops": [
+    "/LhNAYzoYqJssVojll2eyKLonu6.jpg",
+    "/qc0Y16vKlvtnMEV4TG84fRVCCA3.jpg",
+    "/5UtKiko3aRJHbBIAW2J1wh0seBo.jpg",
+    "/aMsen37V9nST4pPu7NkSU5HEPCc.jpg",
+    "/iqd1pQDuzi1cqTvudMzcjN0W2gY.jpg",
+    "/spMsmQyp3pdGbwz0AQcn6gACZXp.jpg",
+    "/iMBYjHMPEWYr7OI6UXy8y9mdiBn.jpg",
+    "/1mSHPG8ZUpbWb2hO31c22pbzslF.jpg",
+    "/lNiPc72wG934I0dS72tk3rrzSxa.jpg",
+    "/tLnYAWCdySH8A1LrIqZaPpbPD1f.jpg"
+  ],
+  "trailerKey": "Q424p7lWD-U",
+  "genreIds": [
+    35,
+    27
+  ],
+  "keywordIds": [
+    5657,
+    1415,
+    1706,
+    5159,
+    10123,
+    9826,
+    11612,
+    13063,
+    14541
+  ],
+  "countries": [
+    "AU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Royce Smeal Film Productions",
+    "Salt-Pan"
+  ],
+  "crew": [
+    {
+      "personId": 2690,
+      "job": "director"
+    },
+    {
+      "personId": 2690,
+      "job": "writer"
+    },
+    {
+      "personId": 67823,
+      "job": "producer"
+    },
+    {
+      "personId": 67824,
+      "job": "producer"
+    },
+    {
+      "personId": 69980,
+      "job": "composer"
+    },
+    {
+      "personId": 1267326,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 42841,
+      "character": "Mayor",
+      "order": 0
+    },
+    {
+      "personId": 18359,
+      "character": "Arthur",
+      "order": 1
+    },
+    {
+      "personId": 167632,
+      "character": "The Doctor",
+      "order": 2
+    },
+    {
+      "personId": 1267323,
+      "character": "George",
+      "order": 3
+    },
+    {
+      "personId": 235969,
+      "character": "Metcalf",
+      "order": 4
+    },
+    {
+      "personId": 1222793,
+      "character": "Policeman",
+      "order": 5
+    },
+    {
+      "personId": 27752,
+      "character": "Charlie",
+      "order": 6
+    },
+    {
+      "personId": 212522,
+      "character": "Insurance Man",
+      "order": 7
+    },
+    {
+      "personId": 3070,
+      "character": "Darryl",
+      "order": 8
+    },
+    {
+      "personId": 217123,
+      "character": "Gorman",
+      "order": 9
+    },
+    {
+      "personId": 1267324,
+      "character": "Ganger",
+      "order": 10
+    },
+    {
+      "personId": 94808,
+      "character": "Smedley",
+      "order": 11
+    },
+    {
+      "personId": 212578,
+      "character": "Tringham",
+      "order": 12
+    },
+    {
+      "personId": 121417,
+      "character": "Rev. Mulray",
+      "order": 13
+    },
+    {
+      "personId": 82437,
+      "character": "Beth",
+      "order": 14
+    },
+    {
+      "personId": 75263,
+      "character": "Les",
+      "order": 15
+    },
+    {
+      "personId": 4691118,
+      "character": "Man in house",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 110,
+  "sources": [
+    "cult-list"
+  ]
+}

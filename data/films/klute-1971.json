@@ -1,0 +1,196 @@
+{
+  "tmdbId": 466,
+  "slug": "klute-1971",
+  "year": 1971,
+  "runtime": 114,
+  "originalTitle": "Klute",
+  "title": {
+    "en": "Klute",
+    "tr": "Klute"
+  },
+  "overview": {
+    "en": "A high-priced call girl is forced to depend on a reluctant private eye when she is stalked by a psychopath.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tVyINAsNGSgD1OIstqwCcs7wyGH.jpg",
+    "en": "/5Aga8KYz40o7dK1DZKQZp2yPSRV.jpg"
+  },
+  "backdrops": [
+    "/bxh7ybql4p24u9WsX1GI9v9PDLg.jpg",
+    "/zf3bJfMlQKWNj9AoqYX6J3jAihK.jpg",
+    "/pk16bnTQ0XLVbx2zpXhavbysLhi.jpg",
+    "/8cB1oxAc2SsWDFqP4hSoXjdg0vN.jpg",
+    "/inT13ZtJK7DTcYpuEnb7IgYzaC8.jpg",
+    "/uwFQhDjZ4xr981FxHFTVhqnD9NY.jpg",
+    "/nYMDBDTPyAPgBwTWb8gh8uJodQl.jpg",
+    "/v2fKSvsgRe6ijAVSJXSKEBsxB4j.jpg",
+    "/A9gZXujpxa13FPVplVuShddlMgI.jpg",
+    "/gJCIkRGmRNBMY59IL3zvqyFSFoS.jpg"
+  ],
+  "trailerKey": "3S4rxnjwFDg",
+  "genreIds": [
+    53,
+    80,
+    18
+  ],
+  "keywordIds": [
+    242,
+    549,
+    977,
+    1523,
+    2380,
+    703,
+    2375,
+    1667,
+    10410,
+    11268,
+    12570,
+    156091
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Gus Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 6349,
+      "job": "director"
+    },
+    {
+      "personId": 6349,
+      "job": "producer"
+    },
+    {
+      "personId": 3097,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6357,
+      "job": "composer"
+    },
+    {
+      "personId": 6350,
+      "job": "writer"
+    },
+    {
+      "personId": 2103373,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6352,
+      "character": "Bree Daniels",
+      "order": 0
+    },
+    {
+      "personId": 55636,
+      "character": "John Klute",
+      "order": 1
+    },
+    {
+      "personId": 6354,
+      "character": "Peter Cable",
+      "order": 2
+    },
+    {
+      "personId": 6355,
+      "character": "Frank Ligourin",
+      "order": 3
+    },
+    {
+      "personId": 6360,
+      "character": "Arlyn Page",
+      "order": 4
+    },
+    {
+      "personId": 120391,
+      "character": "Trina",
+      "order": 5
+    },
+    {
+      "personId": 6442,
+      "character": "Psychiatrist",
+      "order": 6
+    },
+    {
+      "personId": 7082,
+      "character": "Trask",
+      "order": 7
+    },
+    {
+      "personId": 955499,
+      "character": "Mr. Goldfarb",
+      "order": 8
+    },
+    {
+      "personId": 169115,
+      "character": "Berger",
+      "order": 9
+    },
+    {
+      "personId": 119778,
+      "character": "Actor's Agent",
+      "order": 10
+    },
+    {
+      "personId": 27515,
+      "character": "Sugarman",
+      "order": 11
+    },
+    {
+      "personId": 6447,
+      "character": "Holly Gruneman",
+      "order": 12
+    },
+    {
+      "personId": 1217991,
+      "character": "Janie Dale",
+      "order": 13
+    },
+    {
+      "personId": 67513,
+      "character": "Momma Reese",
+      "order": 14
+    },
+    {
+      "personId": 1577096,
+      "character": "Man in Hotel",
+      "order": 15
+    },
+    {
+      "personId": 28933,
+      "character": "Goldfarb's Secretary",
+      "order": 16
+    },
+    {
+      "personId": 6443,
+      "character": "Tom Gruneman",
+      "order": 17
+    },
+    {
+      "personId": 115767,
+      "character": "Producer in Adv. Agency",
+      "order": 18
+    },
+    {
+      "personId": 3197431,
+      "character": "Asst. Prod. in Adv. Agency",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 551,
+  "sources": [
+    "cult-list"
+  ]
+}

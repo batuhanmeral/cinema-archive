@@ -1,0 +1,196 @@
+{
+  "tmdbId": 642,
+  "slug": "butch-cassidy-and-the-sundance-kid-1969",
+  "year": 1969,
+  "runtime": 111,
+  "originalTitle": "Butch Cassidy and the Sundance Kid",
+  "title": {
+    "en": "Butch Cassidy and the Sundance Kid",
+    "tr": "Sonsuz Ölüm"
+  },
+  "overview": {
+    "en": "As the west rapidly becomes civilized, a pair of outlaws in 1890s Wyoming find themselves pursued by a posse and decide to flee to South America in hopes of evading the law.",
+    "tr": "Butch Cassidy ve Sundance Kid, Hole-in-the-Wall adlı çetenin liderleridir. Butch, akıllı olan, planları yapan, düşünen; Sundance de gözü kara ve atak olandır. Batı, artık medeniyetle tanışmaya başlamıştır ki, Butch ve Sundance bir treni soyarlar. Peşlerine özel bir ekip düşer ve onlar nereye giderse gitsin, takip etmekten vazgeçmezler. Şansları yaver gidip biraz zaman kazandıklarında Butch'ın aklına yeni bir fikir gelir: Bolivya'ya gitmek."
+  },
+  "poster": {
+    "tr": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+    "en": "/oDpDXln1x3sbnt8wQBKsU6J5txT.jpg"
+  },
+  "backdrops": [
+    "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+    "/j4mdsNTzyZSQ6e0cYwiHhToh7p9.jpg",
+    "/hPdkv26EJQ0sWN79XxaLDpEdztU.jpg",
+    "/kWWnhZGmpIEY9hfT3iDHk7Se31J.jpg",
+    "/vzsQhEH6urQLHXPmDB35WbJEfOY.jpg",
+    "/azf2UEEoNKmrTsG5qUYXP7tfKEl.jpg",
+    "/3E8qYx0RX1oZkik9T1vzKLvWZxE.jpg",
+    "/tfG6aJv7s4BC5glGqxooYln1q1x.jpg",
+    "/abIIqabE1ZLXVhlwIH4v5wbPPvY.jpg",
+    "/cMeyDo03hwzGhFx9qKfOubqWgt8.jpg"
+  ],
+  "trailerKey": "YdJW2UxvSFQ",
+  "genreIds": [
+    37,
+    80,
+    18
+  ],
+  "keywordIds": [
+    1560,
+    3228,
+    3230,
+    10562,
+    10950,
+    15214,
+    44413,
+    130989,
+    156120,
+    160799,
+    220650,
+    222934,
+    325784,
+    325811
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Campanile Productions",
+    "20th Century Fox",
+    "George Roy Hill-Paul Monash Production"
+  ],
+  "crew": [
+    {
+      "personId": 9577,
+      "job": "director"
+    },
+    {
+      "personId": 9578,
+      "job": "producer"
+    },
+    {
+      "personId": 9580,
+      "job": "composer"
+    },
+    {
+      "personId": 8217,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 348,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3636,
+      "character": "Butch Cassidy",
+      "order": 0
+    },
+    {
+      "personId": 4135,
+      "character": "The Sundance Kid",
+      "order": 1
+    },
+    {
+      "personId": 9594,
+      "character": "Etta Place",
+      "order": 2
+    },
+    {
+      "personId": 8260,
+      "character": "Percy Garris",
+      "order": 3
+    },
+    {
+      "personId": 5732,
+      "character": "Bike Salesman",
+      "order": 4
+    },
+    {
+      "personId": 9596,
+      "character": "Sheriff Bledsoe",
+      "order": 5
+    },
+    {
+      "personId": 9597,
+      "character": "Woodcock",
+      "order": 6
+    },
+    {
+      "personId": 9599,
+      "character": "Agnes",
+      "order": 7
+    },
+    {
+      "personId": 9600,
+      "character": "Harvey Logan",
+      "order": 8
+    },
+    {
+      "personId": 9601,
+      "character": "Marshal",
+      "order": 9
+    },
+    {
+      "personId": 9602,
+      "character": "Macon",
+      "order": 10
+    },
+    {
+      "personId": 34472,
+      "character": "Large Woman",
+      "order": 11
+    },
+    {
+      "personId": 83411,
+      "character": "News Carver",
+      "order": 12
+    },
+    {
+      "personId": 104630,
+      "character": "Fireman",
+      "order": 13
+    },
+    {
+      "personId": 15988,
+      "character": "Flat Nose Curry",
+      "order": 14
+    },
+    {
+      "personId": 19447,
+      "character": "Bank Manager",
+      "order": 15
+    },
+    {
+      "personId": 91222,
+      "character": "Photographer",
+      "order": 16
+    },
+    {
+      "personId": 34609,
+      "character": "Card Player #1",
+      "order": 17
+    },
+    {
+      "personId": 16431,
+      "character": "Card Player #2",
+      "order": 18
+    },
+    {
+      "personId": 1077251,
+      "character": "Bank Teller",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 2579,
+  "sources": [
+    "cult-list"
+  ]
+}

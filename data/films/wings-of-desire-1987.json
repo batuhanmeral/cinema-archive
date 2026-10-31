@@ -1,0 +1,223 @@
+{
+  "tmdbId": 144,
+  "slug": "wings-of-desire-1987",
+  "year": 1987,
+  "runtime": 128,
+  "originalTitle": "Der Himmel über Berlin",
+  "title": {
+    "en": "Wings of Desire",
+    "tr": "Arzunun Kanatları"
+  },
+  "overview": {
+    "en": "Two angels, Damiel and Cassiel, glide through the streets of Berlin, observing the bustling population, providing invisible rays of hope to the distressed but never interacting with them. When Damiel falls in love with lonely trapeze artist Marion, the angel longs to experience life in the physical world, and finds — with some words of wisdom from actor Peter Falk — that it might be possible for him to take human form.",
+    "tr": "‘‘Şimdi pes etmeli miyim? Eğer pes edersem, insanoğlu hikayecisini kaybeder ve insanoğlu bir kez hikayecisini kaybetti mi, çocukluğunu da kaybetmiş olur!’’ Berlin üzerinde bir melek... Usta isim Wim Wenders’ın yönetimindeki film, Berlin’deki hayatı ve hayat içinde yorgun insanları izleyen meleklerin, özellikle de Melek Damien’in hikayesini anlatmaktadır. Masumiyetlerinden ve gönül gözlerinin açıklığından ötürü olsa gerek, bu melekleri yalnızca çocuklar fark etmektedir. Diğer melekler gibi, tüm dünyayı siyah-beyaz gören, kütüphanede kitap okuyan insanların okuduklarını dinleyen Damien’ın tüm düzeni, sirkte çalışan güzel bir kadına aşık olmasıyla değişecek ve insan olmaya karar vermesine neden olacaktır. Ses getiren Hollywood yapımlarından City of Angels’ın esinlenildiği film olan yapım, Bruno Ganz ve Peter Falk’ın oyunculukları, Nick Cave’in müzikleri, aldığı ve aday olduğu pek çok ödülle dikkat değer bir yapımdır..."
+  },
+  "poster": {
+    "tr": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg",
+    "en": "/iZQs2vUeCzvS1KfZJ6uYNCGJBBV.jpg"
+  },
+  "backdrops": [
+    "/vh2VRlGjFbyXNmEdsiG60Q0JYoV.jpg",
+    "/7TlGXrB4WQ3wbpOCUQnBXseCuOl.jpg",
+    "/jhyik5SClFgTSd7OFDOQKvKc0hF.jpg",
+    "/nIAT0K5vtkBfHTetVUsodqa9oc5.jpg",
+    "/svD7zZ0dxRb4NVZkZ30Nbzi20yM.jpg",
+    "/7k634xrn80Sb3QfbGxk4kI3dgZt.jpg",
+    "/wsBSyXpvYmLLmsKuwpqWr0lbhHB.jpg",
+    "/xvlu9CxAAjvjqTYG69cvUVUM4Bf.jpg",
+    "/iF9InbZatJJ0MErEWGOSMFtq139.jpg",
+    "/AcgGV8gwTBpTZJTNJHjsytotNYo.jpg"
+  ],
+  "trailerKey": "0iAzYofuItM",
+  "genreIds": [
+    18,
+    14,
+    10749
+  ],
+  "keywordIds": [
+    220,
+    1566,
+    295,
+    291,
+    290,
+    292,
+    4978,
+    5446,
+    4232,
+    12999,
+    206626,
+    210434,
+    211431,
+    309426,
+    311315,
+    319319,
+    325762,
+    325763,
+    325781,
+    325842,
+    325854
+  ],
+  "countries": [
+    "DE",
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "he",
+    "ja",
+    "es",
+    "tr",
+    "de"
+  ],
+  "studios": [
+    "Road Movies",
+    "Argos films",
+    "WDR"
+  ],
+  "crew": [
+    {
+      "personId": 2303,
+      "job": "director"
+    },
+    {
+      "personId": 2305,
+      "job": "writer"
+    },
+    {
+      "personId": 2308,
+      "job": "composer"
+    },
+    {
+      "personId": 2303,
+      "job": "producer"
+    },
+    {
+      "personId": 2306,
+      "job": "writer"
+    },
+    {
+      "personId": 2304,
+      "job": "producer"
+    },
+    {
+      "personId": 2307,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2303,
+      "job": "writer"
+    },
+    {
+      "personId": 1359334,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2310,
+      "character": "Damiel",
+      "order": 0
+    },
+    {
+      "personId": 2312,
+      "character": "Marion",
+      "order": 1
+    },
+    {
+      "personId": 2311,
+      "character": "Cassiel",
+      "order": 2
+    },
+    {
+      "personId": 2313,
+      "character": "Homer",
+      "order": 3
+    },
+    {
+      "personId": 2314,
+      "character": "The Filmstar",
+      "order": 4
+    },
+    {
+      "personId": 2315,
+      "character": "The Dying Man",
+      "order": 5
+    },
+    {
+      "personId": 2317,
+      "character": "A Sad Man",
+      "order": 6
+    },
+    {
+      "personId": 122770,
+      "character": "The Suicide",
+      "order": 7
+    },
+    {
+      "personId": 2316,
+      "character": "Young Prostitute",
+      "order": 8
+    },
+    {
+      "personId": 2688448,
+      "character": "The Clown",
+      "order": 9
+    },
+    {
+      "personId": 65266,
+      "character": "The Bandleader",
+      "order": 10
+    },
+    {
+      "personId": 13693,
+      "character": "The Drummer",
+      "order": 11
+    },
+    {
+      "personId": 1633689,
+      "character": "The Juggler",
+      "order": 12
+    },
+    {
+      "personId": 16711,
+      "character": "The Juggler",
+      "order": 13
+    },
+    {
+      "personId": 2688449,
+      "character": "The Manager",
+      "order": 14
+    },
+    {
+      "personId": 588317,
+      "character": "In the Library - The Angel",
+      "order": 15
+    },
+    {
+      "personId": 22664,
+      "character": "In the Old Apartments",
+      "order": 16
+    },
+    {
+      "personId": 1679400,
+      "character": "On the Highway",
+      "order": 17
+    },
+    {
+      "personId": 1400717,
+      "character": "Crime and The City Solution / Nick Cave and The Bad Seeds",
+      "order": 18
+    },
+    {
+      "personId": 39516,
+      "character": "Self - Nick Cave and The Bad Seeds",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1559,
+  "sources": [
+    "cult-list"
+  ]
+}

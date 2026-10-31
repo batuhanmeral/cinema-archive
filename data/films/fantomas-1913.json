@@ -1,0 +1,178 @@
+{
+  "tmdbId": 319287,
+  "slug": "fantomas-1913",
+  "year": 1913,
+  "runtime": 339,
+  "originalTitle": "Fantômas",
+  "title": {
+    "en": "Fantômas",
+    "tr": "Fantômas"
+  },
+  "overview": {
+    "en": "A French silent film serial which follows the exploits of the archvillain Fantômas, who commits crimes while eluding Inspector Juve's tireless persecution.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/Aw8uIA5NnPLckS9pg3M8DgPLwB6.jpg",
+    "en": "/Aw8uIA5NnPLckS9pg3M8DgPLwB6.jpg"
+  },
+  "backdrops": [
+    "/2Id1bGem5UV928V4ztPt7GvnQmS.jpg",
+    "/b3sNAlv0ZqZPRyoPdn3kMtSlq1p.jpg",
+    "/bCEHzdwK119pmjHF25gNubhwINz.jpg",
+    "/cx8HWiTkIAkcjEpZBJv933V4vDu.jpg",
+    "/8HDZSNrt6VTxfpxNjmatgdN0I46.jpg",
+    "/4nVRFA1KuSKkdJKFvcWQtJR0kHv.jpg",
+    "/5YMjK9SkD1Ob7ugtOTcmq1b0v5j.jpg",
+    "/x2gGyfKOKjuYFHBydzQoBg5jPIe.jpg",
+    "/8XHx2SgFkhV1bhZnMu0IVn1Xlgv.jpg",
+    "/gMPsgDtHDMHS1SCKjKMk0DowHze.jpg"
+  ],
+  "trailerKey": "Os0YYbDXPMI",
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    254,
+    818,
+    1437,
+    1752,
+    18118,
+    154802,
+    163074,
+    179991,
+    236170
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [],
+  "studios": [
+    "Gaumont"
+  ],
+  "crew": [
+    {
+      "personId": 102844,
+      "job": "director"
+    },
+    {
+      "personId": 1144929,
+      "job": "producer"
+    },
+    {
+      "personId": 1342347,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 102844,
+      "job": "writer"
+    },
+    {
+      "personId": 2185262,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 224423,
+      "character": "Fantômas / Various Disguises",
+      "order": 0
+    },
+    {
+      "personId": 81291,
+      "character": "Inspector Juve",
+      "order": 1
+    },
+    {
+      "personId": 224424,
+      "character": "Jérôme Fandor",
+      "order": 2
+    },
+    {
+      "personId": 94953,
+      "character": "Lady Beltham",
+      "order": 3
+    },
+    {
+      "personId": 224441,
+      "character": "Élisabeth Dollon",
+      "order": 4
+    },
+    {
+      "personId": 1495937,
+      "character": "Head of the Anthropometric Service",
+      "order": 5
+    },
+    {
+      "personId": 126744,
+      "character": "Jacques Dollon",
+      "order": 6
+    },
+    {
+      "personId": 224429,
+      "character": "Joséphine la Pierreuse",
+      "order": 7
+    },
+    {
+      "personId": 224436,
+      "character": "Maid Rosa",
+      "order": 8
+    },
+    {
+      "personId": 1207233,
+      "character": "Madame Bourrat",
+      "order": 9
+    },
+    {
+      "personId": 224432,
+      "character": "Marquis of Tergall",
+      "order": 10
+    },
+    {
+      "personId": 224435,
+      "character": "Marquise of Tergall",
+      "order": 11
+    },
+    {
+      "personId": 224427,
+      "character": "Nibet",
+      "order": 12
+    },
+    {
+      "personId": 224425,
+      "character": "Princesse Danidoff",
+      "order": 13
+    },
+    {
+      "personId": 5768,
+      "character": "Ribonard",
+      "order": 14
+    },
+    {
+      "personId": 224431,
+      "character": "The Apache Paulet",
+      "order": 15
+    },
+    {
+      "personId": 224440,
+      "character": "Thomery",
+      "order": 16
+    },
+    {
+      "personId": 224426,
+      "character": "Valgrand",
+      "order": 17
+    },
+    {
+      "personId": 224428,
+      "character": "Valgrand's Dresser",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 36,
+  "sources": [
+    "cult-list"
+  ]
+}

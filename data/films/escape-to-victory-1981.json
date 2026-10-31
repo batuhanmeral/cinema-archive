@@ -1,0 +1,192 @@
+{
+  "tmdbId": 17360,
+  "slug": "escape-to-victory-1981",
+  "year": 1981,
+  "runtime": 116,
+  "originalTitle": "Escape to Victory",
+  "title": {
+    "en": "Escape to Victory",
+    "tr": "Zafere Kaçış"
+  },
+  "overview": {
+    "en": "A group of POWs in a German prison camp during World War II play the German National Soccer Team in this powerful film depicting the role of prisoners during wartime.",
+    "tr": "Top gol çizgisinden ağlara doğru yuvarlanır ve 50.000 taraftar tezahürata başlar. Bu size maçın aslında olağan bir futbol maçı olmadığını gösterir. Bu bir savaştır! Savaş alanı Paris'te işgal edilen bir stadyumdur. Ordular: Alman yıldız takımı, P.O.W müteffiklerine karşı. Amaçları ise Yahudi ırkından olmayanların üstünlüğünü kanıtlamaktır. Tahmin edin, kim kazanır ? Daha doğrusu kim maçı bir kaçış yolu olarak kullanır? Sylvester Stallone, Michael Caine ve Max von Sydow, bu gerilim dolu filmde rol alıyorlar. John Houston tarafından çekilen film, savaşların kendine özgü kurallarına ve galibiyetin hem oyun sahasında, hem de savaş alanında elde edilebileceğini gösterir. Ayrıca Pele, Bobby Moore, Osvoldo Ardiles, Co Prins, Mike Summerbee gibi gerçek hayattaki futbol efsanelerinin muthiş yeteneklerini sergilemelerini keyifle izleyeceksiniz."
+  },
+  "poster": {
+    "tr": "/3j6H0dnbvjNXLK1l9nKguXw5vvO.jpg",
+    "en": "/cdcMN2X9O9CLomybrv5takE4FI4.jpg"
+  },
+  "backdrops": [
+    "/cWOpRLx5Fzz92D3zdesIcsQQxX9.jpg",
+    "/5EDCMKY6fAxOTMtLN547KOL0DR.jpg",
+    "/jdWD7uVG6hhvP3LFZw9OnyvFg6N.jpg",
+    "/drB9cOcfksE7S8KWuTdg8tIVnyl.jpg",
+    "/C7IGHGQFpLSmL7M9oDRDF0GNlU.jpg",
+    "/pdTYY5YcaRy1Hv2AM5OAh5IHBFa.jpg",
+    "/q8BZFrS4nxkyknSl1jnZqtroFig.jpg",
+    "/zDIAmtR0QEPZjdG6vtYME1es4er.jpg",
+    "/7AjmFmXpy4zJNgRG9kxmRmXAKfx.jpg",
+    "/h6UMvSax0yBesLA7M5TiwTbRZw0.jpg"
+  ],
+  "trailerKey": "mfn5jjFIZJg",
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    2652,
+    10685,
+    6075,
+    1956,
+    13042
+  ],
+  "countries": [
+    "IT",
+    "GB",
+    "US",
+    "HU"
+  ],
+  "languages": [
+    "en",
+    "de",
+    "fr"
+  ],
+  "studios": [
+    "Victory Company",
+    "New Gold Entertainment",
+    "Lorimar Motion Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 6593,
+      "job": "director"
+    },
+    {
+      "personId": 131506,
+      "job": "writer"
+    },
+    {
+      "personId": 140166,
+      "job": "writer"
+    },
+    {
+      "personId": 10494,
+      "job": "composer"
+    },
+    {
+      "personId": 40052,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 27963,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16483,
+      "character": "Captain Robert Hatch",
+      "order": 0
+    },
+    {
+      "personId": 3895,
+      "character": "Captain John Colby",
+      "order": 1
+    },
+    {
+      "personId": 2201,
+      "character": "Major Karl von Steiner",
+      "order": 2
+    },
+    {
+      "personId": 140152,
+      "character": "Cpl. Luis Fernandez, Brazil",
+      "order": 3
+    },
+    {
+      "personId": 83908,
+      "character": "Colonel Waldron",
+      "order": 4
+    },
+    {
+      "personId": 11276,
+      "character": "Rose",
+      "order": 5
+    },
+    {
+      "personId": 54,
+      "character": "Pyrie",
+      "order": 6
+    },
+    {
+      "personId": 89635,
+      "character": "Shurlock",
+      "order": 7
+    },
+    {
+      "personId": 5475,
+      "character": "The Forger",
+      "order": 8
+    },
+    {
+      "personId": 140153,
+      "character": "Terry Brady, England",
+      "order": 9
+    },
+    {
+      "personId": 140154,
+      "character": "Carlos Rey, Argentina",
+      "order": 10
+    },
+    {
+      "personId": 140155,
+      "character": "Michel Fileu, Belgium",
+      "order": 11
+    },
+    {
+      "personId": 140156,
+      "character": "Paul Wolchek, Poland",
+      "order": 12
+    },
+    {
+      "personId": 140158,
+      "character": "Sid Harmor, England",
+      "order": 13
+    },
+    {
+      "personId": 140159,
+      "character": "Pieter Van Beck, Holland",
+      "order": 14
+    },
+    {
+      "personId": 140160,
+      "character": "Doug Clure, England",
+      "order": 15
+    },
+    {
+      "personId": 5001690,
+      "character": "Arthur Hayes, Scotland",
+      "order": 16
+    },
+    {
+      "personId": 140162,
+      "character": "Erik Ball, Denmark",
+      "order": 17
+    },
+    {
+      "personId": 140163,
+      "character": "Tony Lewis, Ireland",
+      "order": 18
+    },
+    {
+      "personId": 140164,
+      "character": "Mueller, german coach",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1053,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "tmdbId": 58,
+  "slug": "pirates-of-the-caribbean-dead-man-s-chest-2006",
+  "year": 2006,
+  "runtime": 151,
+  "originalTitle": "Pirates of the Caribbean: Dead Man's Chest",
+  "title": {
+    "en": "Pirates of the Caribbean: Dead Man's Chest",
+    "tr": "Karayip Korsanları: Ölü Adam'ın Sandığı"
+  },
+  "overview": {
+    "en": "Captain Jack Sparrow’s got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. To escape eternal servitude aboard the Flying Dutchman, ever-crafty Jack must track down the still-beating heart of Jones. But he won’t do it alone: Will Turner and Elizabeth Swann are drawn back into another one of his perilous quests—assuming they can evade execution for aiding a pirate.",
+    "tr": "Kaptan Jack Sparrow, lanetli hayalet gemi Uçan Hollandalı'nın kaptanı Davy Jones'a kan borcu olduğunu öğrenir. Davy Jones, mürettebatı ve gemisiyle birlikte denizlerin korkulan bir hayalet korsanıdır. Jack, borcunu ödeyemezse, Davy'nin kölesi olarak sonsuza kadar onun hizmetinde kalmaya mahkum olacaktır. Jack, bu durumdan kurtulmak için Ölü Adamın Sandığı'nı bulması gerektiğini anlar. Sandığa sahip olan kişi, Davy Jones'un kalbini kontrol edebilir ve onu kontrol altında tutabilir. Bu macerada, Jack'e Will Turner ve Elizabeth Swann de eşlik eder. Üçlü, deniz canavarları, hırsızlar ve lanetli korsanlarla dolu bir maceraya atılır."
+  },
+  "poster": {
+    "tr": "/lulqdXVpg96uSX2W6yjeDilYTZF.jpg",
+    "en": "/lAhcKRt0ggTFkeFL95jrGQYaRXs.jpg"
+  },
+  "backdrops": [
+    "/8zfRLCgKrLAc5SSnACz8ZqmeKAP.jpg",
+    "/vv5a8u6e40kyH0Hp6HuamAgzRai.jpg",
+    "/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
+    "/5gPPx16QWx071VAI1M0RAVKJ6tc.jpg",
+    "/867w5SbFGkXzNg3Am1WgvQNrmFX.jpg",
+    "/6XOM3PEwNMpKaIXbhx13egc2fVi.jpg",
+    "/ouusulxHOOXHexgDeQyDbMWZzJd.jpg",
+    "/4kvjkqdENGN23yDahutbPhbTcKQ.jpg",
+    "/vvKpUzDMh4mvpb7KviDJo1Bq3MI.jpg",
+    "/AgsVIIezi9piqyunR7l2sEIfMlS.jpg"
+  ],
+  "trailerKey": "elqO-GNfStM",
+  "genreIds": [
+    12,
+    14,
+    28
+  ],
+  "keywordIds": [
+    616,
+    5600,
+    3799,
+    911,
+    1299,
+    663,
+    1461,
+    9663,
+    9725,
+    12988,
+    14895,
+    157186,
+    161171,
+    179430,
+    279987,
+    319397
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "tr",
+    "el",
+    "zh"
+  ],
+  "studios": [
+    "Walt Disney Pictures",
+    "Jerry Bruckheimer Films",
+    "Second Mate Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1704,
+      "job": "director"
+    },
+    {
+      "personId": 947,
+      "job": "composer"
+    },
+    {
+      "personId": 770,
+      "job": "producer"
+    },
+    {
+      "personId": 120,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1705,
+      "job": "writer"
+    },
+    {
+      "personId": 1706,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85,
+      "character": "Jack Sparrow",
+      "order": 0
+    },
+    {
+      "personId": 114,
+      "character": "Will Turner",
+      "order": 1
+    },
+    {
+      "personId": 116,
+      "character": "Elizabeth Swann",
+      "order": 2
+    },
+    {
+      "personId": 1709,
+      "character": "Norrington",
+      "order": 3
+    },
+    {
+      "personId": 2440,
+      "character": "Davy Jones",
+      "order": 4
+    },
+    {
+      "personId": 378,
+      "character": "Governor Weatherby Swann",
+      "order": 5
+    },
+    {
+      "personId": 1710,
+      "character": "Pintel",
+      "order": 6
+    },
+    {
+      "personId": 1711,
+      "character": "Ragetti",
+      "order": 7
+    },
+    {
+      "personId": 2449,
+      "character": "Gibbs",
+      "order": 8
+    },
+    {
+      "personId": 1715,
+      "character": "Cotton",
+      "order": 9
+    },
+    {
+      "personId": 1640,
+      "character": "Bootstrap Bill",
+      "order": 10
+    },
+    {
+      "personId": 2441,
+      "character": "Cutler Beckett",
+      "order": 11
+    },
+    {
+      "personId": 2038,
+      "character": "Tia Dalma",
+      "order": 12
+    },
+    {
+      "personId": 4030,
+      "character": "Marty",
+      "order": 13
+    },
+    {
+      "personId": 939,
+      "character": "Mercer",
+      "order": 14
+    },
+    {
+      "personId": 2451,
+      "character": "Captain Bellamy",
+      "order": 15
+    },
+    {
+      "personId": 2450,
+      "character": "Scarlett",
+      "order": 16
+    },
+    {
+      "personId": 1227685,
+      "character": "Short Sailor",
+      "order": 17
+    },
+    {
+      "personId": 1380903,
+      "character": "Large Sailor",
+      "order": 18
+    },
+    {
+      "personId": 1791599,
+      "character": "Sunburned Sailor",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 17770,
+  "sources": [
+    "cult-list"
+  ]
+}

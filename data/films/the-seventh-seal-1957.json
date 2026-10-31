@@ -1,0 +1,210 @@
+{
+  "tmdbId": 490,
+  "slug": "the-seventh-seal-1957",
+  "year": 1957,
+  "runtime": 96,
+  "originalTitle": "Det sjunde inseglet",
+  "title": {
+    "en": "The Seventh Seal",
+    "tr": "Yedinci Mühür"
+  },
+  "overview": {
+    "en": "When disillusioned Swedish knight Antonius Block returns home from the Crusades to find his country in the grips of the Black Death, he challenges Death to a chess match for his life. Tormented by the belief that God does not exist, Block sets off on a journey, meeting up with traveling players Jof and his wife, Mia, and becoming determined to evade Death long enough to commit one redemptive act while he still lives.",
+    "tr": "Ortaçağ'da Haçlı Seferleri'nden dönen bir şövalye savaşlar sırasında hep ölümle burun buruna gelse de, hayatta kalmayı başarmıştır. Ancak tam huzura kavuşacağını düşünürken, karşısına onun hayatını almaya gelmiş olan ölüm çıkar. Ölümle pazarlığa oturan savaşçı, onu bir satranç oyununa davet eder. Yolculuğu sırasında kendisine eşlik eden ölümle bir taraftan oyun oynayan şövalye, yol boyunca çok farklı insanlara ve durumlara tanık olacaktır."
+  },
+  "poster": {
+    "tr": "/thOiD8vaZq4jkejHC773LPzv5FC.jpg",
+    "en": "/wcZ21zrOsy0b52AfAF50XpTiv75.jpg"
+  },
+  "backdrops": [
+    "/d9VUlRTovsGbwkUjNR2OGOGrQuO.jpg",
+    "/6s2BqtDvp1BMiP70zCDU5OW6hMy.jpg",
+    "/7tBfYcZH4P4AA1oFzjflUTSDZgx.jpg",
+    "/AcbiIqfaSWAlH9BvGFU71cKKnUs.jpg",
+    "/m4PD25YPgYCtDTjBemSwkl8tvrl.jpg",
+    "/cQVsC3wT9MNW1xXbqM7zHlccwl0.jpg",
+    "/yWm5xiy8gEj1QTnX5uk8iuypOGm.jpg",
+    "/59OpGDeNcHYMgX0ELfTNlgjtZzO.jpg",
+    "/d9hWzWeRYg7sIy3PeQgenL32qoV.jpg",
+    "/3eHtk6cBpkz8kw0PtbTpZCzrMPT.jpg"
+  ],
+  "trailerKey": "vZucwtdSvJ8",
+  "genreIds": [
+    14,
+    18
+  ],
+  "keywordIds": [
+    616,
+    3737,
+    1318,
+    316,
+    548,
+    1501,
+    2868,
+    2679,
+    2869,
+    2871,
+    2829,
+    1715,
+    2875,
+    5144,
+    11187,
+    12999,
+    15001,
+    18071,
+    41406,
+    177146,
+    178611,
+    179870,
+    182210,
+    208313,
+    209837,
+    213227,
+    235487,
+    237612,
+    262074,
+    313413,
+    314626,
+    318717,
+    325763,
+    361486
+  ],
+  "countries": [
+    "SE"
+  ],
+  "languages": [
+    "sv"
+  ],
+  "studios": [
+    "SF Studios"
+  ],
+  "crew": [
+    {
+      "personId": 6648,
+      "job": "director"
+    },
+    {
+      "personId": 6650,
+      "job": "producer"
+    },
+    {
+      "personId": 6651,
+      "job": "composer"
+    },
+    {
+      "personId": 6652,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6648,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6649,
+      "character": "Jöns",
+      "order": 0
+    },
+    {
+      "personId": 6656,
+      "character": "Death",
+      "order": 1
+    },
+    {
+      "personId": 6658,
+      "character": "Jof",
+      "order": 2
+    },
+    {
+      "personId": 2201,
+      "character": "Antonius Block",
+      "order": 3
+    },
+    {
+      "personId": 6657,
+      "character": "Mia",
+      "order": 4
+    },
+    {
+      "personId": 6659,
+      "character": "Lisa",
+      "order": 5
+    },
+    {
+      "personId": 6660,
+      "character": "Witch",
+      "order": 6
+    },
+    {
+      "personId": 6661,
+      "character": "Karin",
+      "order": 7
+    },
+    {
+      "personId": 6662,
+      "character": "Mute Girl",
+      "order": 8
+    },
+    {
+      "personId": 6663,
+      "character": "Raval",
+      "order": 9
+    },
+    {
+      "personId": 6664,
+      "character": "Monk",
+      "order": 10
+    },
+    {
+      "personId": 6665,
+      "character": "Plog",
+      "order": 11
+    },
+    {
+      "personId": 6666,
+      "character": "Albertus Pictor",
+      "order": 12
+    },
+    {
+      "personId": 6667,
+      "character": "Jonas Skat",
+      "order": 13
+    },
+    {
+      "personId": 231921,
+      "character": "Young Monk (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 550014,
+      "character": "Merchant at Inn (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 321845,
+      "character": "Farmer at Inn (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 58305,
+      "character": "Woman at Inn (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1194870,
+      "character": "Landlord (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 131579,
+      "character": "Knight Commander (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3504,
+  "sources": [
+    "cult-list"
+  ]
+}

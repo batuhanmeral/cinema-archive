@@ -1,0 +1,205 @@
+{
+  "tmdbId": 37165,
+  "slug": "the-truman-show-1998",
+  "year": 1998,
+  "runtime": 103,
+  "originalTitle": "The Truman Show",
+  "title": {
+    "en": "The Truman Show",
+    "tr": "Truman Show"
+  },
+  "overview": {
+    "en": "In a picture-perfect seaside town, an insurance salesman begins to realize that his entire existence may be staged and observed by a vast unseen audience as part of a long-running real-time reality TV show.",
+    "tr": "Truman küçük kasabasının aslında, yenilikçi bir yapımcı/yönetmen/ yazar (Ed Harris) tarafından kurulan devasa bir stüdyo olduğunun farkında değildir. Kasabada yaşayan herkes, hatta çok sevdiği güzel karısı bile sözleşmeli bir Hollywood oyuncusudur."
+  },
+  "poster": {
+    "tr": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+    "en": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+  },
+  "backdrops": [
+    "/aCHn2TXYJfzPXQKA6r9mKPbMlUB.jpg",
+    "/bxY7ve1LP8atCIuvr4jeeJMmU4w.jpg",
+    "/1szsl8P3zzvb9O4WJM7B3CLQ7r4.jpg",
+    "/rVOHeP2uU4jtCunXWAWE6Xn5xam.jpg",
+    "/1xWHfZH4Fapu6Yrkv4oOk2rEUTx.jpg",
+    "/rmiG2uwcNoGFmBKMoa1pIcf514L.jpg",
+    "/kjWIp6COK4MKF0KSffzUD8l9Kuo.jpg",
+    "/z5d9WaTcyIfdkKV7ziKVWApe4mW.jpg",
+    "/9san7sXIWABYIrNPkX7jbyKhhax.jpg",
+    "/cDMZOvIbTckp9HdfAnd31fE2zq3.jpg"
+  ],
+  "trailerKey": "N1VlDVRiFrk",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    10685,
+    2340,
+    4565,
+    10123,
+    3301,
+    5824,
+    9758,
+    3979,
+    3972,
+    10582,
+    18298,
+    207063,
+    257714
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ja",
+    "it"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Scott Rudin Productions"
+  ],
+  "crew": [
+    {
+      "personId": 2690,
+      "job": "director"
+    },
+    {
+      "personId": 8685,
+      "job": "writer"
+    },
+    {
+      "personId": 11302,
+      "job": "producer"
+    },
+    {
+      "personId": 8685,
+      "job": "producer"
+    },
+    {
+      "personId": 2997,
+      "job": "producer"
+    },
+    {
+      "personId": 11303,
+      "job": "producer"
+    },
+    {
+      "personId": 10717,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1188738,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 206,
+      "character": "Truman Burbank",
+      "order": 0
+    },
+    {
+      "personId": 228,
+      "character": "Christof",
+      "order": 1
+    },
+    {
+      "personId": 350,
+      "character": "Meryl",
+      "order": 2
+    },
+    {
+      "personId": 11315,
+      "character": "Marlon",
+      "order": 3
+    },
+    {
+      "personId": 11317,
+      "character": "Lauren / Sylvia",
+      "order": 4
+    },
+    {
+      "personId": 11318,
+      "character": "Truman's Mother",
+      "order": 5
+    },
+    {
+      "personId": 13242,
+      "character": "Control Room Director",
+      "order": 6
+    },
+    {
+      "personId": 6579,
+      "character": "Truman's Father",
+      "order": 7
+    },
+    {
+      "personId": 23119,
+      "character": "Lawrence",
+      "order": 8
+    },
+    {
+      "personId": 116898,
+      "character": "Young Truman",
+      "order": 9
+    },
+    {
+      "personId": 11321,
+      "character": "Vivien",
+      "order": 10
+    },
+    {
+      "personId": 116899,
+      "character": "Ron",
+      "order": 11
+    },
+    {
+      "personId": 116900,
+      "character": "Don",
+      "order": 12
+    },
+    {
+      "personId": 116901,
+      "character": "Spencer",
+      "order": 13
+    },
+    {
+      "personId": 116902,
+      "character": "Travel Agent",
+      "order": 14
+    },
+    {
+      "personId": 2306883,
+      "character": "Truman's Neighbor",
+      "order": 15
+    },
+    {
+      "personId": 2306884,
+      "character": "Truman's Neighbor",
+      "order": 16
+    },
+    {
+      "personId": 1786381,
+      "character": "Truman's Neighbor",
+      "order": 17
+    },
+    {
+      "personId": 5704,
+      "character": "Teacher",
+      "order": 18
+    },
+    {
+      "personId": 191009,
+      "character": "News Vendor",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 21132,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "tmdbId": 30197,
+  "slug": "the-producers-1968",
+  "year": 1968,
+  "runtime": 89,
+  "originalTitle": "The Producers",
+  "title": {
+    "en": "The Producers",
+    "tr": "Yapımcılar"
+  },
+  "overview": {
+    "en": "A conniving Broadway producer and his meek accountant plan to profit from charming wealthy old biddies to invest in an overbudget production, and then put on a sure-fire disaster, so nobody will ask for their money back — and what's more disastrous than a tasteless musical celebrating Adolf Hitler.",
+    "tr": "\"Dans eden Hitler’ler lütfen kenarda beklesin!\" İlk uzun metrajlısı aynı zamanda en parlak filmidir Mel Brooks’un. En iyi senaryo Oscar’lı Yapımcılar, yönetmenin diğer tüm filmlerinden daha ince ve daha tehlikeli, karnımıza ağrılar sokabilecek kadar sulu bir komedi: New Yorklu bir gösteri dünyası uzmanı Yahudi, üçkağıtçılıkla da olsa, sahneye bir müzikal koyar; müzikalin konusu, nefret uyandırıcı da olsa, Hitler’dir."
+  },
+  "poster": {
+    "tr": "/9qCIkNWGuRj5lMyeOXwJs8z9nRz.jpg",
+    "en": "/sRYDBLu0qp2sY9qApEhG5VfmQ1A.jpg"
+  },
+  "backdrops": [
+    "/kzxSkAGUWUA1niS9uHfby5aMFAv.jpg",
+    "/hQPDNRs6Zvt1pwss7DSu5Cihtim.jpg",
+    "/i7bJjfaAIsUT0SYwSy9ahzJLrka.jpg",
+    "/p7GjEe9tV2lUZWV9OYQO29OqhfX.jpg",
+    "/1mDqTOvQSycby2JxJCGziWEwn52.jpg",
+    "/osImg6KroNpKwAjqKllHzjGD3wc.jpg",
+    "/oKtT2rl5zy0p7wuKy7WuVk1GanJ.jpg",
+    "/rRKruuRrDMdbKuUEdWhBY9pa06y.jpg",
+    "/52HOjnJbCcHK1nmmZ1Mxe4kWRNB.jpg",
+    "/5tNpebVdVRCPC0xL9PDRcXnWDh.jpg"
+  ],
+  "trailerKey": "Lt19Wna_sG4",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    2652,
+    1332,
+    10123,
+    4344,
+    8201,
+    11454,
+    10963,
+    10965,
+    155798,
+    156028,
+    207697,
+    241930
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "de",
+    "en"
+  ],
+  "studios": [
+    "Crossbow Productions",
+    "Springtime Productions",
+    "U-M Productions"
+  ],
+  "crew": [
+    {
+      "personId": 14639,
+      "job": "director"
+    },
+    {
+      "personId": 69571,
+      "job": "producer"
+    },
+    {
+      "personId": 719,
+      "job": "composer"
+    },
+    {
+      "personId": 14639,
+      "job": "writer"
+    },
+    {
+      "personId": 71899,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18861,
+      "character": "Max Bialystock",
+      "order": 0
+    },
+    {
+      "personId": 3460,
+      "character": "Leo Bloom",
+      "order": 1
+    },
+    {
+      "personId": 19178,
+      "character": "Lorenzo St. DuBois (L.S.D.)",
+      "order": 2
+    },
+    {
+      "personId": 9601,
+      "character": "Franz Liebkind",
+      "order": 3
+    },
+    {
+      "personId": 47504,
+      "character": "\"Hold Me Touch Me\"",
+      "order": 4
+    },
+    {
+      "personId": 105813,
+      "character": "Roger De Bris",
+      "order": 5
+    },
+    {
+      "personId": 2172,
+      "character": "Carmen Ghia",
+      "order": 6
+    },
+    {
+      "personId": 71898,
+      "character": "Ulla",
+      "order": 7
+    },
+    {
+      "personId": 56105,
+      "character": "Eva Braun",
+      "order": 8
+    },
+    {
+      "personId": 1087236,
+      "character": "Production Tenor",
+      "order": 9
+    },
+    {
+      "personId": 3170301,
+      "character": "Drama Critic",
+      "order": 10
+    },
+    {
+      "personId": 3170299,
+      "character": "Concierge",
+      "order": 11
+    },
+    {
+      "personId": 159555,
+      "character": "The Bartender",
+      "order": 12
+    },
+    {
+      "personId": 2778103,
+      "character": "Auditioning Hitler",
+      "order": 13
+    },
+    {
+      "personId": 157542,
+      "character": "Jason Green",
+      "order": 14
+    },
+    {
+      "personId": 1498313,
+      "character": "Auditioning Hitler",
+      "order": 15
+    },
+    {
+      "personId": 1068895,
+      "character": "Auditioning Hitler",
+      "order": 16
+    },
+    {
+      "personId": 4862111,
+      "character": "Auditioning Hitler",
+      "order": 17
+    },
+    {
+      "personId": 3170320,
+      "character": "Lady",
+      "order": 18
+    },
+    {
+      "personId": 1489362,
+      "character": "Lady",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 949,
+  "sources": [
+    "cult-list"
+  ]
+}

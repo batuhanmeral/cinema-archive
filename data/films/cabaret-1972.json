@@ -1,0 +1,202 @@
+{
+  "tmdbId": 10784,
+  "slug": "cabaret-1972",
+  "year": 1972,
+  "runtime": 124,
+  "originalTitle": "Cabaret",
+  "title": {
+    "en": "Cabaret",
+    "tr": "Kabare"
+  },
+  "overview": {
+    "en": "Inside the Kit Kat Club of 1931 Berlin, starry-eyed singer Sally Bowles and an impish emcee sound the clarion call to decadent fun, while outside a certain political party grows into a brutal force.",
+    "tr": "Film, 1931 yılında Berlinde Nazilerin yükseliş döneminde geçer..İngiltereden Almanyaya öğretmenlik yapmak için gelen İngiliz yazar Brian,bir kabarede şarkı söyleyip dans eden Amerikalı  şarkıcıyla tanışır..Aralarında hem siyasi hemde duygusal bir ilişki başlar... Burdan hareketle  film Nazilerin değişik yöntemlerle iktidara gelişi anlatmaktadır.."
+  },
+  "poster": {
+    "tr": "/fMhOeJ2TvuY46iYGmsowhgRXfnr.jpg",
+    "en": "/1RmUfX3LcS897GhUWrWp5nRADo4.jpg"
+  },
+  "backdrops": [
+    "/yInvVRrCmEypIt5hm0WvXkjxsQX.jpg",
+    "/vDZgayjp6BDobZh7CP1I2yD6d8A.jpg",
+    "/zB5YhLaW5r6xPaDzuJZTtCsG9TP.jpg",
+    "/xwvrSC3JzT2gnIZAoHdEO0Z7Gpy.jpg",
+    "/cr3Ixtea2uIJ3TtQkCqE5gKpDVh.jpg",
+    "/vFIVD0p4nocnZMYXG2MgsZabhqU.jpg",
+    "/t2j8dYOQl3txq9pmaMxuAzTloB0.jpg",
+    "/mLSfeoyr6CVznh0Ltkghkmiw7Kf.jpg",
+    "/2AlNpclloRh9vqI0rEWnIheHK7B.jpg",
+    "/ez5izECTWVUHTC9Qj0Q3YNfz67j.jpg"
+  ],
+  "trailerKey": "6DZ2wtichOM",
+  "genreIds": [
+    10402,
+    10749,
+    18
+  ],
+  "keywordIds": [
+    220,
+    2652,
+    1491,
+    2311,
+    3183,
+    4344,
+    10181,
+    4446,
+    11183,
+    156866,
+    158718,
+    165255,
+    165259,
+    165261,
+    191205,
+    214548,
+    258533
+  ],
+  "countries": [
+    "DE",
+    "US"
+  ],
+  "languages": [
+    "de",
+    "fr",
+    "he",
+    "en"
+  ],
+  "studios": [
+    "Allied Artists Pictures",
+    "ABC Pictures",
+    "Bavaria Film"
+  ],
+  "crew": [
+    {
+      "personId": 66777,
+      "job": "director"
+    },
+    {
+      "personId": 6928,
+      "job": "writer"
+    },
+    {
+      "personId": 66780,
+      "job": "composer"
+    },
+    {
+      "personId": 243,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 19250,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 66776,
+      "character": "Sally Bowles",
+      "order": 0
+    },
+    {
+      "personId": 13919,
+      "character": "Brian Roberts",
+      "order": 1
+    },
+    {
+      "personId": 32059,
+      "character": "Maximilian von Heune",
+      "order": 2
+    },
+    {
+      "personId": 6748,
+      "character": "Master of Ceremonies",
+      "order": 3
+    },
+    {
+      "personId": 36027,
+      "character": "Fritz Wendel",
+      "order": 4
+    },
+    {
+      "personId": 31071,
+      "character": "Natalia Landauer",
+      "order": 5
+    },
+    {
+      "personId": 1364175,
+      "character": "Fräulein Schneider",
+      "order": 6
+    },
+    {
+      "personId": 36841,
+      "character": "Fräulein Kost",
+      "order": 7
+    },
+    {
+      "personId": 46687,
+      "character": "Fräulein Mayr",
+      "order": 8
+    },
+    {
+      "personId": 1121276,
+      "character": "Bobby",
+      "order": 9
+    },
+    {
+      "personId": 5796,
+      "character": "Herr Ludwig",
+      "order": 10
+    },
+    {
+      "personId": 1504267,
+      "character": "Willi",
+      "order": 11
+    },
+    {
+      "personId": 1557383,
+      "character": "Elke",
+      "order": 12
+    },
+    {
+      "personId": 1557384,
+      "character": "Cantor",
+      "order": 13
+    },
+    {
+      "personId": 1028288,
+      "character": "Kit-Kat Dancer",
+      "order": 14
+    },
+    {
+      "personId": 1557385,
+      "character": "Kit-Kat Dancer",
+      "order": 15
+    },
+    {
+      "personId": 1557386,
+      "character": "Kit-Kat Dancer",
+      "order": 16
+    },
+    {
+      "personId": 1557387,
+      "character": "Kit-Kat Dancer",
+      "order": 17
+    },
+    {
+      "personId": 1557388,
+      "character": "Kit-Kat Dancer",
+      "order": 18
+    },
+    {
+      "personId": 1557389,
+      "character": "Kit-Kat Dancer",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 8
+  },
+  "voteCount": 1021,
+  "sources": [
+    "cult-list"
+  ]
+}

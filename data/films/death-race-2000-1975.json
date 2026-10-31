@@ -1,0 +1,189 @@
+{
+  "tmdbId": 13282,
+  "slug": "death-race-2000-1975",
+  "year": 1975,
+  "runtime": 80,
+  "originalTitle": "Death Race 2000",
+  "title": {
+    "en": "Death Race 2000",
+    "tr": "Ölüm Yarışı 2000"
+  },
+  "overview": {
+    "en": "In a boorish future, the government sponsors a popular, but bloody, cross-country race in which points are scored by mowing down pedestrians. Five teams, each comprised of a male and female, compete using cars equipped with deadly weapons. Frankenstein, the mysterious returning champion, has become America's hero, but this time he has a passenger from the underground resistance.",
+    "tr": "Amerika Birleşik Devletleri, otoriter ve kötü niyetli bir başkan tarafından yönetilen, baskıcı bir rejime dönüşmüştür. Başkanın kitleleri eğlendirmek için yarattığı favori etkinlik ise Ölüm Yarışı'dır. Birbirinden değişik silahlarla donanmış ölümcül 5 takım, yayaları öldürmeye ve birbirlerini yok etmeye odaklı bu korkunç yarışta kapışırlar. Uzun yıllardır yarışın yenilmez şampiyonu olan Frankenstein, yarı insan yarı makina bir savaşçıdır. Diğer yarışçılar Machine Gun Joe, Nero the Hero, Calamity Jane ve Matilda the Hun Frankenstein'ı tahtından indirmek için uğraşadursun, rejim karşıtı hareketin öncüsü Thomasina Paine'in yarışı manipüle ederek başkanı düşürmek gibi kendi planları vardır."
+  },
+  "poster": {
+    "tr": "/5D7UsBdiOrtIMUu6cTHiu2OcBU5.jpg",
+    "en": "/zfk6wdv430Jj606dI4moiuOZ3wx.jpg"
+  },
+  "backdrops": [
+    "/1WgFbHfTPSXKoqYdB9SbcAWpqrO.jpg",
+    "/lYWZjOKSGSkRUYvoysZNrZ6JcmI.jpg",
+    "/dwaMITKVuLGr7NjiQ1456UnnYFe.jpg",
+    "/2MVfJHo1P79LSXg67aE8wjbh2uY.jpg",
+    "/fSM6WDQww50pLYOR8nBhbP6YPWc.jpg",
+    "/i13dWuvqwtxjonyPDQp16jW7lMA.jpg",
+    "/1U1NZ0FDoWVSFAqoDJKGoDUI5ke.jpg",
+    "/mqXuuSlzZCOp0Sm68vGoxEIBvHs.jpg",
+    "/533cGnsxJUv33GGuCCgIb4nwJf7.jpg",
+    "/eG1oVw05QCHI65yYQAUMFYMHy4U.jpg"
+  ],
+  "trailerKey": "ZLiU9tqE6Ns",
+  "genreIds": [
+    28,
+    878,
+    35
+  ],
+  "keywordIds": [
+    4565,
+    11799,
+    9666,
+    10039,
+    263959,
+    295702,
+    314730,
+    325778
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New World Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 101377,
+      "job": "director"
+    },
+    {
+      "personId": 74350,
+      "job": "producer"
+    },
+    {
+      "personId": 52140,
+      "job": "writer"
+    },
+    {
+      "personId": 214572,
+      "job": "writer"
+    },
+    {
+      "personId": 16300,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 124008,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 141,
+      "character": "Frankenstein",
+      "order": 0
+    },
+    {
+      "personId": 74351,
+      "character": "Annie Smith",
+      "order": 1
+    },
+    {
+      "personId": 16483,
+      "character": "Machine Gun Joe Viterbo",
+      "order": 2
+    },
+    {
+      "personId": 100552,
+      "character": "Calamity Jane",
+      "order": 3
+    },
+    {
+      "personId": 74352,
+      "character": "Matilda the Hun",
+      "order": 4
+    },
+    {
+      "personId": 56117,
+      "character": "Nero the Hero",
+      "order": 5
+    },
+    {
+      "personId": 100560,
+      "character": "Myra",
+      "order": 6
+    },
+    {
+      "personId": 16168,
+      "character": "Junior Bruce",
+      "order": 7
+    },
+    {
+      "personId": 40381,
+      "character": "Grace Pander",
+      "order": 8
+    },
+    {
+      "personId": 2447477,
+      "character": "Harold",
+      "order": 9
+    },
+    {
+      "personId": 2468422,
+      "character": "Mr. President",
+      "order": 10
+    },
+    {
+      "personId": 1966315,
+      "character": "Special Agent",
+      "order": 11
+    },
+    {
+      "personId": 54941,
+      "character": "Thomasina Paine",
+      "order": 12
+    },
+    {
+      "personId": 91412,
+      "character": "Lt. Fury",
+      "order": 13
+    },
+    {
+      "personId": 151327,
+      "character": "Deacon",
+      "order": 14
+    },
+    {
+      "personId": 100561,
+      "character": "Herman the German",
+      "order": 15
+    },
+    {
+      "personId": 1913347,
+      "character": "Pete",
+      "order": 16
+    },
+    {
+      "personId": 1092352,
+      "character": "Cleopatra",
+      "order": 17
+    },
+    {
+      "personId": 1755638,
+      "character": "Laurie",
+      "order": 18
+    },
+    {
+      "personId": 1535883,
+      "character": "Henry",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 609,
+  "sources": [
+    "cult-list"
+  ]
+}

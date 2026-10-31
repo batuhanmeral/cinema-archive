@@ -1,0 +1,184 @@
+{
+  "tmdbId": 45706,
+  "slug": "tokyo-drifter-1966",
+  "year": 1966,
+  "runtime": 83,
+  "originalTitle": "東京流れ者",
+  "title": {
+    "en": "Tokyo Drifter",
+    "tr": "Tokyo Drifter"
+  },
+  "overview": {
+    "en": "After yakuza boss Kurata dissolves his own criminal empire, a rival kingpin offers a position to Kurata's top operative, Tetsuya \"Phoenix Tetsu\" Hondo. When the fiercely loyal Tetsu declines, Otsuka taps unstoppable Tatsuzo the \"Viper\", a ruthless gun-for-hire, to assassinate him. As the Viper trails his target through the countryside, the agile Phoenix Tetsu grows concerned that one of his former associates has betrayed him.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dkscSldTB6FGUMMLnInUfKYLfPR.jpg",
+    "en": "/dkscSldTB6FGUMMLnInUfKYLfPR.jpg"
+  },
+  "backdrops": [
+    "/xrsqHuS402Msz8yhWbwre2QQYWd.jpg",
+    "/bhAuNmyb3noOMeQ9kCy6X6HnMgZ.jpg",
+    "/aOORycewjsFvf2PEMmmXFb9SzGe.jpg",
+    "/kwsBgEk2FcT9sEU7deMMiN4iPJn.jpg",
+    "/bJTMtVvvKmwKyuK9fFpjjuGf9Dm.jpg",
+    "/bMkBBbYEEcJpb7fKgBRcgWz5C5G.jpg",
+    "/5QSw9V8tuReQaHBxxskfpvsf65G.jpg",
+    "/yElDYj99tZraE4EYQEyn5kdyTqi.jpg",
+    "/uwrr5Svz2aQI9xYNBDafID1zjJ4.jpg",
+    "/goeln4grVLnip7ZRQR1Z53Gcp1b.jpg"
+  ],
+  "trailerKey": "LgXmTOC8Gow",
+  "genreIds": [
+    53,
+    80,
+    28
+  ],
+  "keywordIds": [
+    2708,
+    1794,
+    12369,
+    180533,
+    208992,
+    209998
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "studios": [
+    "Nikkatsu Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 554990,
+      "job": "producer"
+    },
+    {
+      "personId": 82461,
+      "job": "director"
+    },
+    {
+      "personId": 554991,
+      "job": "composer"
+    },
+    {
+      "personId": 554992,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 133706,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 133512,
+      "character": "Tetsuya \"Phoenix Tetsu\" Hondo",
+      "order": 0
+    },
+    {
+      "personId": 13252,
+      "character": "Chiharu",
+      "order": 1
+    },
+    {
+      "personId": 133707,
+      "character": "Kenji Aizawa",
+      "order": 2
+    },
+    {
+      "personId": 21499,
+      "character": "Tatsuzo the Viper",
+      "order": 3
+    },
+    {
+      "personId": 86247,
+      "character": "Tanaka",
+      "order": 4
+    },
+    {
+      "personId": 1738904,
+      "character": "Mutsuko",
+      "order": 5
+    },
+    {
+      "personId": 2166415,
+      "character": "Keiichi",
+      "order": 6
+    },
+    {
+      "personId": 82478,
+      "character": "Umetani",
+      "order": 7
+    },
+    {
+      "personId": 133710,
+      "character": "Otsuka",
+      "order": 8
+    },
+    {
+      "personId": 133708,
+      "character": "Kurata",
+      "order": 9
+    },
+    {
+      "personId": 1309326,
+      "character": "Fujimura",
+      "order": 10
+    },
+    {
+      "personId": 133714,
+      "character": "Kumamoto",
+      "order": 11
+    },
+    {
+      "personId": 133712,
+      "character": "Koyanagi",
+      "order": 12
+    },
+    {
+      "personId": 110306,
+      "character": "Yoshii",
+      "order": 13
+    },
+    {
+      "personId": 1191615,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 2166421,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1975082,
+      "character": "Detective Sakai",
+      "order": 16
+    },
+    {
+      "personId": 1209316,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 2000198,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1997491,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 220,
+  "sources": [
+    "cult-list"
+  ]
+}

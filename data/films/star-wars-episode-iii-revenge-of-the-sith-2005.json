@@ -1,0 +1,203 @@
+{
+  "tmdbId": 1895,
+  "slug": "star-wars-episode-iii-revenge-of-the-sith-2005",
+  "year": 2005,
+  "runtime": 140,
+  "originalTitle": "Star Wars: Episode III - Revenge of the Sith",
+  "title": {
+    "en": "Star Wars: Episode III - Revenge of the Sith",
+    "tr": "Yıldız Savaşları: Bölüm III - Sith'in İntikamı"
+  },
+  "overview": {
+    "en": "When the sinister Sith unveil a thousand-year-old plot to rule the galaxy, the Republic crumbles and from its ashes rises the evil Galactic Empire. Jedi hero Anakin Skywalker must choose a side.",
+    "tr": "Yıldız Savaşları: Bölüm III - Sith'in İntikamı'nda Klon Savaşları'nın başlangıcından yıllar sonra soylu Jedi Şövalyeleri, Ayrılıkçılara karşı verilen galaksiler arası savaşta, büyük bir klon ordusunu yönetmektedir. Karanlık Sith'lerin bin yıllık galaksiye hükmetme komplosu açığa çıkarken Cumhuriyet düşer ve küllerinden Galaktik İmparatorluk doğar. Jedi savaşçısı Anakin Skywalker'ı gücün karanlık tarafı aldatır ve böylece İmparator'un yeni öğrencisi olur: Darth Vader. Çoğu Jedi katledilirken Obi-Wan Kenobi ve Usta Yoda, saklanmak zorunda kalır."
+  },
+  "poster": {
+    "tr": "/t1LSHDRVY2yQSpmtccd5QWykI25.jpg",
+    "en": "/duJfdpefRgFBMvMdOJSiTWDD69z.jpg"
+  },
+  "backdrops": [
+    "/aQX9Hc4pCdbkzf4Oz6FMSpujagV.jpg",
+    "/5vDuLrjJXFS9PTF7Q1xzobmYKR9.jpg",
+    "/hPO0A0BGg5M7Q8I7qayaDyC5tb5.jpg",
+    "/uuh6uNEGqLCU7wQ2L4xMqYv0DPr.jpg",
+    "/eygfh5xsMAMUOT5VMJL4rPTgCs9.jpg",
+    "/gqbgylPxoM7Y2lEj9KYzfgixdG.jpg",
+    "/vgGJ9ThoKjFbQHbAeI29NsbT2lK.jpg",
+    "/jniabJVBSW3EqLlyhjxWCZjVkiE.jpg",
+    "/mdnRgAQJIXnBm0o7DaIHsqLd067.jpg",
+    "/7J6iJrsXz5PpkTzNfLWM73u6EAy.jpg"
+  ],
+  "trailerKey": "5UnjrG_N8hU",
+  "genreIds": [
+    12,
+    28,
+    878
+  ],
+  "keywordIds": [
+    797,
+    2859,
+    1721,
+    6078,
+    3347,
+    4238,
+    9663,
+    9840,
+    9675,
+    10614,
+    11491,
+    10044,
+    10629,
+    13194,
+    158449,
+    160840,
+    160946,
+    161176,
+    163272,
+    170390,
+    180671,
+    186956,
+    199660,
+    288793,
+    312898,
+    371623
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Lucasfilm Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 1,
+      "job": "director"
+    },
+    {
+      "personId": 19801,
+      "job": "producer"
+    },
+    {
+      "personId": 1,
+      "job": "writer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 6800,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17244,
+      "character": "Anakin Skywalker / Darth Vader",
+      "order": 0
+    },
+    {
+      "personId": 3061,
+      "character": "Obi-Wan Kenobi",
+      "order": 1
+    },
+    {
+      "personId": 524,
+      "character": "Padmé Amidala",
+      "order": 2
+    },
+    {
+      "personId": 27762,
+      "character": "Chancellor Palpatine / Darth Sidious",
+      "order": 3
+    },
+    {
+      "personId": 2231,
+      "character": "Mace Windu",
+      "order": 4
+    },
+    {
+      "personId": 33181,
+      "character": "Senator Bail Organa",
+      "order": 5
+    },
+    {
+      "personId": 7908,
+      "character": "Yoda (voice)",
+      "order": 6
+    },
+    {
+      "personId": 6,
+      "character": "C-3PO",
+      "order": 7
+    },
+    {
+      "personId": 113,
+      "character": "Count Dooku",
+      "order": 8
+    },
+    {
+      "personId": 15293,
+      "character": "Queen of Naboo",
+      "order": 9
+    },
+    {
+      "personId": 20806,
+      "character": "Nute Gunray / Ki-Adi Mundi",
+      "order": 10
+    },
+    {
+      "personId": 33182,
+      "character": "Captain Typho",
+      "order": 11
+    },
+    {
+      "personId": 27752,
+      "character": "Tion Medon",
+      "order": 12
+    },
+    {
+      "personId": 82434,
+      "character": "Governor Tarkin",
+      "order": 13
+    },
+    {
+      "personId": 7242,
+      "character": "Commander Cody",
+      "order": 14
+    },
+    {
+      "personId": 1167087,
+      "character": "Mas Amedda",
+      "order": 15
+    },
+    {
+      "personId": 31923,
+      "character": "Sio Bibble",
+      "order": 16
+    },
+    {
+      "personId": 33197,
+      "character": "Jar Jar Binks",
+      "order": 17
+    },
+    {
+      "personId": 33184,
+      "character": "Captain Antilles",
+      "order": 18
+    },
+    {
+      "personId": 33185,
+      "character": "Captain Colton",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 15456,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "tmdbId": 29290,
+  "slug": "the-green-slime-1968",
+  "year": 1968,
+  "runtime": 90,
+  "originalTitle": "The Green Slime",
+  "title": {
+    "en": "The Green Slime",
+    "tr": "Ölmek Zamanı Değil"
+  },
+  "overview": {
+    "en": "A giant asteroid is heading toward Earth so some astronauts disembark from a nearby space station to blow it up. The mission is successful, and they return to the station unknowingly bringing back a gooey green substance that mutates into one-eyed tentacled monsters that feed off electricity. Soon the station is crawling with them, and people are being zapped left and right!",
+    "tr": "Dev bir asteroit Dünya'ya yaklaşırken, bir uzay istasyonundaki astronotlar onu imha etmek için yola çıkar. Görev başarılı olur ancak dönüşte farkında olmadan yanlarında getirdikleri yeşil yapışkan madde, elektrikle beslenen tek gözlü dokunaçlı canavarlara dönüşür. Kısa sürede istasyon bu yaratıklarla dolarken, mürettebat teker teker şok geçirerek can verir!"
+  },
+  "poster": {
+    "tr": "/3MWnOwcLeySNqPtHpxqr7bJTZE5.jpg",
+    "en": "/3MWnOwcLeySNqPtHpxqr7bJTZE5.jpg"
+  },
+  "backdrops": [
+    "/fLrntTx2ta90QhnMZpMnuhKxdTM.jpg",
+    "/eXsNAdsE8Ee2CySB9SiIIQ67rcx.jpg",
+    "/zYk2Lvl9jcx6Y3MunHsFaZLyeMy.jpg",
+    "/9mvknPqNl1IohdzzNiA9IVpUkTo.jpg",
+    "/Ik25B0p8MNxoQbxJ74w9DHekwk.jpg",
+    "/uqvIe4Ls51MKLvfO63DAtvzsm30.jpg",
+    "/mmbnNABQ0TMStAgqULHsQvIbGAy.jpg",
+    "/wLThwqE26lnYlC7Gjq9F5EIyzQX.jpg",
+    "/ihQW0nOsqtS8u9TPZsWvr7U82c.jpg"
+  ],
+  "trailerKey": "Kvybkv4ccs0",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    1423,
+    3092,
+    4040,
+    9951,
+    9882,
+    266782
+  ],
+  "countries": [
+    "JP",
+    "US",
+    "IT"
+  ],
+  "languages": [],
+  "studios": [
+    "Ram Films Inc.",
+    "Southern Cross Feature Film Company",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 31074,
+      "job": "director"
+    },
+    {
+      "personId": 63669,
+      "job": "writer"
+    },
+    {
+      "personId": 103486,
+      "job": "writer"
+    },
+    {
+      "personId": 103487,
+      "job": "producer"
+    },
+    {
+      "personId": 101124,
+      "job": "producer"
+    },
+    {
+      "personId": 50239,
+      "job": "composer"
+    },
+    {
+      "personId": 103489,
+      "job": "composer"
+    },
+    {
+      "personId": 198034,
+      "job": "writer"
+    },
+    {
+      "personId": 1909327,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 103492,
+      "character": "Commander Jack Rankin",
+      "order": 0
+    },
+    {
+      "personId": 9921,
+      "character": "Dr. Lisa Benson",
+      "order": 1
+    },
+    {
+      "personId": 58423,
+      "character": "Commander Vince Elliott",
+      "order": 2
+    },
+    {
+      "personId": 103494,
+      "character": "General Jonathan B. Thompson",
+      "order": 3
+    },
+    {
+      "personId": 141086,
+      "character": "Dr. Hans Halvorsen",
+      "order": 4
+    },
+    {
+      "personId": 141087,
+      "character": "Lt. Curtis",
+      "order": 5
+    },
+    {
+      "personId": 141088,
+      "character": "Capt. Martin",
+      "order": 6
+    },
+    {
+      "personId": 141089,
+      "character": "Cordier",
+      "order": 7
+    },
+    {
+      "personId": 21814,
+      "character": "Lt. Morris, Rocket Pilot",
+      "order": 8
+    },
+    {
+      "personId": 141091,
+      "character": "Technician",
+      "order": 9
+    },
+    {
+      "personId": 141092,
+      "character": "Technician",
+      "order": 10
+    },
+    {
+      "personId": 141093,
+      "character": "Nurse",
+      "order": 11
+    },
+    {
+      "personId": 141094,
+      "character": "Michaels",
+      "order": 12
+    },
+    {
+      "personId": 141095,
+      "character": "Nurse",
+      "order": 13
+    },
+    {
+      "personId": 141096,
+      "character": "Nurse",
+      "order": 14
+    },
+    {
+      "personId": 6436817,
+      "character": "Nurse",
+      "order": 15
+    },
+    {
+      "personId": 6436820,
+      "character": "Nurse",
+      "order": 16
+    },
+    {
+      "personId": 6436824,
+      "character": "Rocket Pilot",
+      "order": 17
+    },
+    {
+      "personId": 201217,
+      "character": "Nurse",
+      "order": 18
+    },
+    {
+      "personId": 6436825,
+      "character": "Doctor",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 104,
+  "sources": [
+    "cult-list"
+  ]
+}

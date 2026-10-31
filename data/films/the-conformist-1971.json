@@ -1,0 +1,191 @@
+{
+  "tmdbId": 8416,
+  "slug": "the-conformist-1971",
+  "year": 1971,
+  "runtime": 108,
+  "originalTitle": "Il conformista",
+  "title": {
+    "en": "The Conformist",
+    "tr": "Konformist"
+  },
+  "overview": {
+    "en": "A weak-willed Italian man becomes a fascist flunky who goes abroad to arrange the assassination of his old teacher, now a political dissident.",
+    "tr": "Mussolini'nin faşist hükümetini sorgusuz sualsiz kabullenen Marcello gizli polise katılır ve yeni bir eşi de kapsayan yeni bir yaşama başlar. Ama çıktıkları balayının gizli bir amacı vardır. Antifaşist hareketin öncülerinden yaşlı bir profesörü öldürecektir. Ancak Marcello bastırılmış çocukluk anılarının da etkisiyle görevinin meşruluğundan kuşku duymaya başlar."
+  },
+  "poster": {
+    "tr": "/nLJjFRqIJAK8qz0OKYnpKCblZNK.jpg",
+    "en": "/4GNljod7zSzjQSlPmSThWUy25Vr.jpg"
+  },
+  "backdrops": [
+    "/xKhnjQA5wrAUaopEKegdKD3Yi26.jpg",
+    "/kvJNSXRrp3t6GcY9VcfTPEphH7t.jpg",
+    "/xtHrV9Pjd1LNWKZb1YZsfCOdLt7.jpg",
+    "/g6G39cC2XfEKunn3wZ7HkBjrZMe.jpg",
+    "/xvcUmwAz41SN67kXp9th1paifp3.jpg",
+    "/sA1CD4CUTdcHvg5B1AIadM1flIK.jpg",
+    "/zg7nfXZSKtNHK2Et0XbFngOx8CX.jpg",
+    "/iZzlZQIjEXsaVfrMFT3pHz2O632.jpg",
+    "/2CRhjIis1hUa26SWcc9DFGP9H39.jpg",
+    "/4idrOvT2Pa42rLbNrbdmLvWI6u4.jpg"
+  ],
+  "trailerKey": "04kMeEjVGIk",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    90,
+    2708,
+    131,
+    1755,
+    5707,
+    8077,
+    14548,
+    173645,
+    231020
+  ],
+  "countries": [
+    "DE",
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "zh",
+    "fr",
+    "it",
+    "la"
+  ],
+  "studios": [
+    "Marianne Productions",
+    "Maran Film",
+    "Mars Film Produzione"
+  ],
+  "crew": [
+    {
+      "personId": 3535,
+      "job": "composer"
+    },
+    {
+      "personId": 4956,
+      "job": "director"
+    },
+    {
+      "personId": 7202,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4956,
+      "job": "writer"
+    },
+    {
+      "personId": 570176,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1352,
+      "character": "Marcello Clerici",
+      "order": 0
+    },
+    {
+      "personId": 34027,
+      "character": "Giulia",
+      "order": 1
+    },
+    {
+      "personId": 3281,
+      "character": "Manganiello",
+      "order": 2
+    },
+    {
+      "personId": 24590,
+      "character": "Anna Quadri",
+      "order": 3
+    },
+    {
+      "personId": 55757,
+      "character": "Professor Quadri",
+      "order": 4
+    },
+    {
+      "personId": 33471,
+      "character": "The Colonel",
+      "order": 5
+    },
+    {
+      "personId": 25815,
+      "character": "Italo Montanari",
+      "order": 6
+    },
+    {
+      "personId": 55758,
+      "character": "Giulia's Mother",
+      "order": 7
+    },
+    {
+      "personId": 99457,
+      "character": "Marcello's Mother",
+      "order": 8
+    },
+    {
+      "personId": 2483804,
+      "character": "Confessor",
+      "order": 9
+    },
+    {
+      "personId": 119996,
+      "character": "Drunk Blind Man",
+      "order": 10
+    },
+    {
+      "personId": 43240,
+      "character": "Blind Blond",
+      "order": 11
+    },
+    {
+      "personId": 27279,
+      "character": "Blind Man",
+      "order": 12
+    },
+    {
+      "personId": 100413,
+      "character": "Franz",
+      "order": 13
+    },
+    {
+      "personId": 101551,
+      "character": "Marcello's Father",
+      "order": 14
+    },
+    {
+      "personId": 583355,
+      "character": "Raoul",
+      "order": 15
+    },
+    {
+      "personId": 1019919,
+      "character": "Hired Killer",
+      "order": 16
+    },
+    {
+      "personId": 1111036,
+      "character": "Hired Killer",
+      "order": 17
+    },
+    {
+      "personId": 2053650,
+      "character": "Hired Killer",
+      "order": 18
+    },
+    {
+      "personId": 239666,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 794,
+  "sources": [
+    "cult-list"
+  ]
+}

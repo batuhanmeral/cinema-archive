@@ -1,0 +1,190 @@
+{
+  "tmdbId": 994,
+  "slug": "straw-dogs-1971",
+  "year": 1971,
+  "runtime": 116,
+  "originalTitle": "Straw Dogs",
+  "title": {
+    "en": "Straw Dogs",
+    "tr": "Köpekler"
+  },
+  "overview": {
+    "en": "David Sumner, a mild-mannered academic from the United States, marries Amy, an Englishwoman. In order to escape a hectic stateside lifestyle, David and his wife relocate to the small town in rural Cornwall where Amy was raised. There, David is ostracized by the brutish men of the village, including Amy's old flame, Charlie. Eventually the taunts escalate.",
+    "tr": "Donald Webster (Riddaway) , Ken Hutchison (Norman Scutt) David ve karısı Amy, şehirdeki karmaşadan ve artan toplumsal şiddet olaylarından kaçarak Amy'nin doğup büyüdüğü kasabaya yerleşmeye karar verirler. Fakat kaçtıkları şiddet, hiç beklemedikleri bir şekilde onları bu küçük İngiliz kasabasında bulacaktır.Yeni taşındıkları eve bir garaj yaptırabilmek için tuttukları dört işçi, Amy'nin yıllar evvel erkek arkadaşı olan Charlie tarafından yönetilmektedir. Ama çok geçmeden bu grup, genç çiftin başına bela olur. David'le sürekli dalga geçerek Amy'ye de sarkıntılık ederler. David, son derece sakin bir tavırla olaylarla başa çıkmaya hatta kendini onların arasına kabul ettirmeye çalışsa bile korkunç olayların önüne geçmeyi başaramaz."
+  },
+  "poster": {
+    "tr": "/yigkfHE1OhkxPPrjrV78Y9ibGEk.jpg",
+    "en": "/yigkfHE1OhkxPPrjrV78Y9ibGEk.jpg"
+  },
+  "backdrops": [
+    "/8eWzglk0uHAtbFgKb3lVTXnJvxp.jpg",
+    "/aPvy5AX0CK7n4DOHBhVw4X2puDP.jpg",
+    "/2IMgObi70h7fSX7KuuXvyxW6vdp.jpg",
+    "/9w1IsovNao4HPs9p7kmzyZN4dx0.jpg",
+    "/8Mngxf4aE99eyDHCvGo8sfyQd9C.jpg",
+    "/v4QCcul5JEOIPW3c7bSlkJqDyex.jpg",
+    "/yL7uVOyvwZeP2U0zKIE3WQqoilA.jpg",
+    "/7E38fCU0qrUbtctPqFSuvuoz8hd.jpg",
+    "/8dDOhuTmMOwhwTFiAL2BhVkVCAq.jpg",
+    "/bnp2b1d3iNe4s31XYPB5xiyMuAl.jpg"
+  ],
+  "trailerKey": "_SPJza7ZUjo",
+  "genreIds": [
+    53,
+    18,
+    80
+  ],
+  "keywordIds": [
+    570,
+    548,
+    818,
+    5251,
+    392,
+    2755,
+    8079,
+    9748,
+    11004,
+    199524,
+    200234,
+    233462
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "ABC Pictures",
+    "Talent Associates",
+    "Amerbroco Films"
+  ],
+  "crew": [
+    {
+      "personId": 7767,
+      "job": "director"
+    },
+    {
+      "personId": 14941,
+      "job": "writer"
+    },
+    {
+      "personId": 7767,
+      "job": "writer"
+    },
+    {
+      "personId": 14942,
+      "job": "producer"
+    },
+    {
+      "personId": 7769,
+      "job": "composer"
+    },
+    {
+      "personId": 14944,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4483,
+      "character": "David Sumner",
+      "order": 0
+    },
+    {
+      "personId": 14947,
+      "character": "Amy",
+      "order": 1
+    },
+    {
+      "personId": 386,
+      "character": "Tom Hedden",
+      "order": 2
+    },
+    {
+      "personId": 14948,
+      "character": "Maj. John Scott",
+      "order": 3
+    },
+    {
+      "personId": 14949,
+      "character": "Charlie Venner",
+      "order": 4
+    },
+    {
+      "personId": 14950,
+      "character": "Chris Cawsey",
+      "order": 5
+    },
+    {
+      "personId": 14951,
+      "character": "Riddaway",
+      "order": 6
+    },
+    {
+      "personId": 7194,
+      "character": "Norman Scutt",
+      "order": 7
+    },
+    {
+      "personId": 14952,
+      "character": "Bobby Hedden",
+      "order": 8
+    },
+    {
+      "personId": 14953,
+      "character": "Janice Hedden",
+      "order": 9
+    },
+    {
+      "personId": 14954,
+      "character": "Harry Ware",
+      "order": 10
+    },
+    {
+      "personId": 14955,
+      "character": "John Niles",
+      "order": 11
+    },
+    {
+      "personId": 14956,
+      "character": "Louise Hood",
+      "order": 12
+    },
+    {
+      "personId": 14957,
+      "character": "Rev. Barney Hood",
+      "order": 13
+    },
+    {
+      "personId": 16481,
+      "character": "Mrs. Hebden (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 2427296,
+      "character": "Man in Pub (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 51729,
+      "character": "Emma Hebden (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1401217,
+      "character": "Bertie Hedden (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 2076,
+      "character": "Henry Niles (uncredited)",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 1135,
+  "sources": [
+    "cult-list"
+  ]
+}

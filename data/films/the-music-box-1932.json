@@ -1,0 +1,144 @@
+{
+  "tmdbId": 44892,
+  "slug": "the-music-box-1932",
+  "year": 1932,
+  "runtime": 29,
+  "originalTitle": "The Music Box",
+  "title": {
+    "en": "The Music Box",
+    "tr": "The Music Box"
+  },
+  "overview": {
+    "en": "The Laurel & Hardy Moving Co. have a challenging job on their hands (and backs): hauling a player piano up a monumental flight of stairs to Prof. von Schwarzenhoffen's house. Their task is complicated by a sassy nursemaid and, unbeknownst to them, the impatient Prof. von Schwarzenhoffen himself. But the biggest problem is the force of gravity, which repeatedly pulls the piano back down to the bottom of the stairs.",
+    "tr": "Laurel & Hardy Nakliyat Şirketi'nin ellerinde (ve sırtlarında) zorlu bir iş vardır: Bir piyanoyu devasa merdivenlerden Prof. Von Schwarzenhoffen'ın evine taşımak. Görevleri; arsız bir bakıcı ve her şeyden bihaber, sabırsız Prof. Von Schwarzenhoffen'in kendisi yüzünden karmaşıklaşır. Ancak en büyük sorun, piyanoyu tekrar tekrar merdivenlerin dibine çeken yer çekimi kuvvetidir."
+  },
+  "poster": {
+    "tr": "/zwU0Y7VS3d326v1pYY7kif1y7xQ.jpg",
+    "en": "/8HKiEiHvYNV8D8DJNr1N0Gxw0Jn.jpg"
+  },
+  "backdrops": [
+    "/d59HQSKIle5PzIdAiHFY6m3yIk1.jpg",
+    "/gCnsVcSVDJ6F6twa7LIaVKrsHWs.jpg",
+    "/zMBk3N4lHDVHhz8x64vGjYe8DuS.jpg",
+    "/sc4qa4Hx19uaPph0WBu3lJchyTO.jpg",
+    "/2tojbEvHMSOX5AKa0eHfnB1rpqE.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    12999,
+    33981,
+    207592,
+    210605,
+    216777,
+    258303,
+    263548
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Hal Roach Studios",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 140815,
+      "job": "director"
+    },
+    {
+      "personId": 131383,
+      "job": "writer"
+    },
+    {
+      "personId": 33223,
+      "job": "producer"
+    },
+    {
+      "personId": 1554678,
+      "job": "composer"
+    },
+    {
+      "personId": 89738,
+      "job": "composer"
+    },
+    {
+      "personId": 1036604,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1002959,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 78057,
+      "job": "writer"
+    },
+    {
+      "personId": 89670,
+      "job": "writer"
+    },
+    {
+      "personId": 140815,
+      "job": "writer"
+    },
+    {
+      "personId": 131406,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 78057,
+      "character": "Ollie",
+      "order": 0
+    },
+    {
+      "personId": 89670,
+      "character": "Stan",
+      "order": 1
+    },
+    {
+      "personId": 5464,
+      "character": "Professor von Schwarzenhoffen (uncredited)",
+      "order": 2
+    },
+    {
+      "personId": 141132,
+      "character": "Piano Salesman (uncredited)",
+      "order": 3
+    },
+    {
+      "personId": 137404,
+      "character": "Postman (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 1353648,
+      "character": "Mrs. von Schwarzenhoffen (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 1409154,
+      "character": "Nursemaid (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 141008,
+      "character": "Policeman (uncredited)",
+      "order": 7
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 233,
+  "sources": [
+    "cult-list"
+  ]
+}

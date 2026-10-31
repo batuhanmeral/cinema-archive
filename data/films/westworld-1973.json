@@ -1,0 +1,186 @@
+{
+  "tmdbId": 2362,
+  "slug": "westworld-1973",
+  "year": 1973,
+  "runtime": 89,
+  "originalTitle": "Westworld",
+  "title": {
+    "en": "Westworld",
+    "tr": "Batı Dünyası"
+  },
+  "overview": {
+    "en": "Delos is a futuristic amusement park that features themed worlds populated by human-like androids. After two patrons have a run-in with a menacing gunslinger in West World, the androids at Delos all begin to malfunction, causing havoc throughout the park.",
+    "tr": "Jurassic Park'ın ve pek çok 90'lar filminin senaristi Michael Crichton'un yazıp yönettiği futuristik film. İnsandan uzak bir bölgede Roma, Ortaçağ ve Vahşi Batı kültürünü canlandıran 3 tatil beldesi yaratılmıştır. Bu beldelere yerleştirilmiş canlıların da hepsi robottur. Gün gelip robotlar arıza çıkarınca acemi gezgin, usta silahşörle baş başa kalır."
+  },
+  "poster": {
+    "tr": "/qNt29HzxwZ4jGTgSRxdA34ino9Q.jpg",
+    "en": "/qNt29HzxwZ4jGTgSRxdA34ino9Q.jpg"
+  },
+  "backdrops": [
+    "/aHngFGO3mu8O2I1c95YwFXs2bea.jpg",
+    "/1RooAg7vaVCDElGY63LnCIQz4cK.jpg",
+    "/yuOzntmUmxmisbmOCnX0PkMAcWf.jpg",
+    "/cuCfMMmS06vD7jQ8lxOvalpnGNU.jpg",
+    "/m9K8LWrIuujCvYW9c7SgIOSOOj1.jpg",
+    "/1smZ8NV0jMaJuobzMwXE8sG3ZSz.jpg",
+    "/34qYorqQWPIEtkAKyqwQ8RDcdWS.jpg",
+    "/lWwFK9tMvexYvyYWfoNplQf3tiM.jpg",
+    "/k6PlgofxGFpdtTgWOhJKCyMUxKN.jpg",
+    "/kvPilHZApFqEerWmkXGqraj5Oq3.jpg"
+  ],
+  "trailerKey": "_vezkZIMm74",
+  "genreIds": [
+    12,
+    878,
+    37
+  ],
+  "keywordIds": [
+    2964,
+    803,
+    312,
+    1582,
+    2103,
+    6876,
+    10349,
+    10009,
+    158340
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 4782,
+      "job": "director"
+    },
+    {
+      "personId": 14994,
+      "job": "producer"
+    },
+    {
+      "personId": 24315,
+      "job": "composer"
+    },
+    {
+      "personId": 24312,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4782,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14528,
+      "character": "The Gunslinger",
+      "order": 0
+    },
+    {
+      "personId": 24318,
+      "character": "Peter Martin",
+      "order": 1
+    },
+    {
+      "personId": 9274,
+      "character": "John Blane",
+      "order": 2
+    },
+    {
+      "personId": 24319,
+      "character": "Medieval Knight",
+      "order": 3
+    },
+    {
+      "personId": 24320,
+      "character": "Chief Supervisor",
+      "order": 4
+    },
+    {
+      "personId": 24321,
+      "character": "Medieval Queen",
+      "order": 5
+    },
+    {
+      "personId": 14671,
+      "character": "Banker",
+      "order": 6
+    },
+    {
+      "personId": 24322,
+      "character": "Arlette",
+      "order": 7
+    },
+    {
+      "personId": 24323,
+      "character": "Technican",
+      "order": 8
+    },
+    {
+      "personId": 24324,
+      "character": "Black Knight",
+      "order": 9
+    },
+    {
+      "personId": 24325,
+      "character": "Sheriff",
+      "order": 10
+    },
+    {
+      "personId": 1755,
+      "character": "Miss Carrie",
+      "order": 11
+    },
+    {
+      "personId": 24326,
+      "character": "Daphne",
+      "order": 12
+    },
+    {
+      "personId": 2455882,
+      "character": "Girl in Dungeon",
+      "order": 13
+    },
+    {
+      "personId": 2420471,
+      "character": "Apache Girl",
+      "order": 14
+    },
+    {
+      "personId": 154181,
+      "character": "Middle Aged Woman",
+      "order": 15
+    },
+    {
+      "personId": 2455884,
+      "character": "Stewardess",
+      "order": 16
+    },
+    {
+      "personId": 12426,
+      "character": "Bellhop",
+      "order": 17
+    },
+    {
+      "personId": 83398,
+      "character": "Bartender",
+      "order": 18
+    },
+    {
+      "personId": 1214642,
+      "character": "Hostess",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1545,
+  "sources": [
+    "cult-list"
+  ]
+}

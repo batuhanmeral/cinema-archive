@@ -1,0 +1,221 @@
+{
+  "tmdbId": 244,
+  "slug": "king-kong-1933",
+  "year": 1933,
+  "runtime": 100,
+  "originalTitle": "King Kong",
+  "title": {
+    "en": "King Kong",
+    "tr": "King Kong"
+  },
+  "overview": {
+    "en": "Adventurous filmmaker Carl Denham sets out to produce a motion picture unlike anything the world has seen before. Alongside his leading lady Ann Darrow and his first mate Jack Driscoll, they arrive on an island and discover a legendary creature said to be neither beast nor man. Denham captures the monster to be displayed on Broadway as King Kong, the eighth wonder of the world.",
+    "tr": "Uzak ve ıssız bir adaya ayak basan Carl Denham yönetimindeki bir film ekibi, yerlilerce düzenlenen garip bir kurban törenine şahit olur ve engellemek için müdahale eder. Sarışın başrol oyuncusu Ann Darrow'u gözlerine kestiren yerliler daha sonra kampı basıp genç kadını kaçırırlar. Ann'i zincire vurup, tanrı olarak tapındıkları Kong isimli dev bir gorile kurban etmeye kalkışırlar.Dev canavar kendisine ikram edilen Ann'a aşık olur ve durumdan vazife çıkaran Darrow ve ekibince etkisiz hale getirip, bir Broadway şovuna meze edilmek üzere gemiyle New York'a taşınır. Oysa aşk her şeyden güçlüdür!"
+  },
+  "poster": {
+    "tr": "/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg",
+    "en": "/lHlnxKL5GbgRibyRFI7n1Ey850i.jpg"
+  },
+  "backdrops": [
+    "/lYfHa1AtkUMtplrKx7SRLHpwonW.jpg",
+    "/7hDdW3C17pi4MdSeYXs8bwIVA78.jpg",
+    "/iCvuvNSl9LWJaxCkwBirO3gQExi.jpg",
+    "/caXGYGZAPFuqQsTzo5fiQ8LFMUP.jpg",
+    "/nQ14VMmD7GuhiLCrpI5p72MWSKx.jpg",
+    "/w66PXxVRqnUFnhqGhEoBpqHNPVG.jpg",
+    "/nfoIgEQFAbCxiRJDiIs5YbNFrhA.jpg",
+    "/bseQ0n2UtzvfQXq05wO4sI0HBc1.jpg",
+    "/agaQE8pLQbrzWToSiKG6Z8ugXD3.jpg",
+    "/uKH8R2qWuclBw3DhqibDDlZw39h.jpg"
+  ],
+  "trailerKey": "I8P7RzqOU_M",
+  "genreIds": [
+    12,
+    14,
+    27
+  ],
+  "keywordIds": [
+    242,
+    3799,
+    911,
+    2041,
+    1299,
+    6059,
+    776,
+    886,
+    5571,
+    12616,
+    12999,
+    156764,
+    188280,
+    188294,
+    189008,
+    194998,
+    196425,
+    210614,
+    221255,
+    223059,
+    234196,
+    293178,
+    325765,
+    356007
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "RKO Radio Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 3238,
+      "job": "director"
+    },
+    {
+      "personId": 3239,
+      "job": "director"
+    },
+    {
+      "personId": 3239,
+      "job": "producer"
+    },
+    {
+      "personId": 3238,
+      "job": "producer"
+    },
+    {
+      "personId": 3249,
+      "job": "composer"
+    },
+    {
+      "personId": 3252,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3251,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3250,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3241,
+      "job": "writer"
+    },
+    {
+      "personId": 3240,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3243,
+      "character": "Carl Denham",
+      "order": 0
+    },
+    {
+      "personId": 3242,
+      "character": "Ann Darrow",
+      "order": 1
+    },
+    {
+      "personId": 3244,
+      "character": "Jack Driscoll",
+      "order": 2
+    },
+    {
+      "personId": 3245,
+      "character": "Captain Englehorn",
+      "order": 3
+    },
+    {
+      "personId": 1128885,
+      "character": "Ship's Cook Charlie",
+      "order": 4
+    },
+    {
+      "personId": 3262,
+      "character": "Mate Briggs",
+      "order": 5
+    },
+    {
+      "personId": 3246,
+      "character": "Charles Weston",
+      "order": 6
+    },
+    {
+      "personId": 3247,
+      "character": "Skull Island Native Chief",
+      "order": 7
+    },
+    {
+      "personId": 3261,
+      "character": "Skull Island Witch Doctor",
+      "order": 8
+    },
+    {
+      "personId": 1509,
+      "character": "Press Photographer (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 3238,
+      "character": "Pilot of Plane that Kills Kong (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 3375178,
+      "character": "Intended Sacrificial Bride for Kong (Uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 115770,
+      "character": "Apple Vendor (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 3239,
+      "character": "Machine-Gunner on Plane that Kills Kong (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 131003,
+      "character": "Policeman at Headquarters (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 96243,
+      "character": "Theatre Usher (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 153638,
+      "character": "Member of Ship's Crew (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 2933,
+      "character": "Ship's Engineer (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 946788,
+      "character": "Member of Ship's Crew (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 43826,
+      "character": "Member of Ship's Crew (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1688,
+  "sources": [
+    "cult-list"
+  ]
+}

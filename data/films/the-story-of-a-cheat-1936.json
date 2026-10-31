@@ -1,0 +1,151 @@
+{
+  "tmdbId": 65642,
+  "slug": "the-story-of-a-cheat-1936",
+  "year": 1936,
+  "runtime": 81,
+  "originalTitle": "Le Roman d'un tricheur",
+  "title": {
+    "en": "The Story of a Cheat",
+    "tr": "Le Roman d'un tricheur"
+  },
+  "overview": {
+    "en": "Life story of a charming scoundrel, with little dialogue other than the star/director's witty narration. As a boy, only he survives a family tragedy when he's deprived of supper (poisonous mushrooms!) for stealing...concluding that dishonesty pays. Through years of dabbling in crime and amusing adventures, two women appear and reappear in his life, a dazzling blonde jewel thief and a stunning brunette gambler. Finally, he meets the mysterious Charbonnier who had saved his life in World War I, leading to the surprising next phase in his career...",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qxoUomd2i4jzLbGKQFPreLucAi5.jpg",
+    "en": "/qxoUomd2i4jzLbGKQFPreLucAi5.jpg"
+  },
+  "backdrops": [
+    "/m2FA2TCgTTgrH3tRAtoo3e8Yyq5.jpg",
+    "/lO8G86Xov5QUWDyN33T8V3XjCIN.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    80
+  ],
+  "keywordIds": [
+    155841,
+    156236,
+    191179
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Cinéas"
+  ],
+  "crew": [
+    {
+      "personId": 148082,
+      "job": "director"
+    },
+    {
+      "personId": 148082,
+      "job": "writer"
+    },
+    {
+      "personId": 254996,
+      "job": "producer"
+    },
+    {
+      "personId": 579790,
+      "job": "composer"
+    },
+    {
+      "personId": 1083433,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 148082,
+      "character": "le tricheur",
+      "order": 0
+    },
+    {
+      "personId": 237869,
+      "character": "la femme",
+      "order": 1
+    },
+    {
+      "personId": 39211,
+      "character": "l'aventurière",
+      "order": 2
+    },
+    {
+      "personId": 543813,
+      "character": "Madame Moriot",
+      "order": 3
+    },
+    {
+      "personId": 579789,
+      "character": "la voleuse professionnelle",
+      "order": 4
+    },
+    {
+      "personId": 94951,
+      "character": "la rouquine, chanteuse du beuglant",
+      "order": 5
+    },
+    {
+      "personId": 537593,
+      "character": "la comtesse Beauchamp (jeune)",
+      "order": 6
+    },
+    {
+      "personId": 237845,
+      "character": "le tricheur (petit garçon)",
+      "order": 7
+    },
+    {
+      "personId": 28173,
+      "character": "le tricheur (jeune homme)",
+      "order": 8
+    },
+    {
+      "personId": 94603,
+      "character": "Serge Abramitch",
+      "order": 9
+    },
+    {
+      "personId": 375497,
+      "character": "M. Charbonnier",
+      "order": 10
+    },
+    {
+      "personId": 298988,
+      "character": "Maître Morlot, le notaire et cousin",
+      "order": 11
+    },
+    {
+      "personId": 579790,
+      "character": "le pianiste du beuglant",
+      "order": 12
+    },
+    {
+      "personId": 579791,
+      "character": "le curé",
+      "order": 13
+    },
+    {
+      "personId": 579792,
+      "character": "un joueur",
+      "order": 14
+    },
+    {
+      "personId": 47964,
+      "character": "le garçon de café",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 75,
+  "sources": [
+    "cult-list"
+  ]
+}

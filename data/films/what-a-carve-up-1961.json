@@ -1,0 +1,130 @@
+{
+  "tmdbId": 50409,
+  "slug": "what-a-carve-up-1961",
+  "year": 1961,
+  "runtime": 84,
+  "originalTitle": "What a Carve Up!",
+  "title": {
+    "en": "What a Carve Up!",
+    "tr": "What a Carve Up!"
+  },
+  "overview": {
+    "en": "Ernie's Uncle Gabriel has just died but to claim his inheritance he must spend the night in the ancestral family home with the rest of his rather eccentric relatives. Ernie's imagination has been affected by his constant immersion in cheap horror novels, but his wildest fears turn out to be justified when the guests begin to drop dead.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/jMmUAveIfqZ5IfYC06oe815XUbP.jpg",
+    "en": "/jMmUAveIfqZ5IfYC06oe815XUbP.jpg"
+  },
+  "backdrops": [
+    "/PKGwHLY4OgpmprfgiJ9WecknxE.jpg",
+    "/oe4jDpm3AOleOLuV7nhTH7tQMjL.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    27,
+    35,
+    53,
+    9648
+  ],
+  "keywordIds": [],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New World Films Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 117718,
+      "job": "director"
+    },
+    {
+      "personId": 1180061,
+      "job": "writer"
+    },
+    {
+      "personId": 60618,
+      "job": "writer"
+    },
+    {
+      "personId": 39055,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 40952,
+      "character": "Sid Butler",
+      "order": 0
+    },
+    {
+      "personId": 40962,
+      "character": "Ernie Broughton",
+      "order": 1
+    },
+    {
+      "personId": 9221,
+      "character": "Everett Sloane",
+      "order": 2
+    },
+    {
+      "personId": 9909,
+      "character": "Linda Dickson",
+      "order": 3
+    },
+    {
+      "personId": 30766,
+      "character": "Guy Broughton",
+      "order": 4
+    },
+    {
+      "personId": 3796,
+      "character": "Fisk - the Butler",
+      "order": 5
+    },
+    {
+      "personId": 81774,
+      "character": "Janet Broughton",
+      "order": 6
+    },
+    {
+      "personId": 84404,
+      "character": "Aunt Emily",
+      "order": 7
+    },
+    {
+      "personId": 104305,
+      "character": "Dr. Edward Broughton",
+      "order": 8
+    },
+    {
+      "personId": 30705,
+      "character": "Malcolm Broughton",
+      "order": 9
+    },
+    {
+      "personId": 601406,
+      "character": "Arkwright",
+      "order": 10
+    },
+    {
+      "personId": 3548,
+      "character": "Porter",
+      "order": 11
+    },
+    {
+      "personId": 3679,
+      "character": "Hearse Driver",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 22,
+  "sources": [
+    "cult-list"
+  ]
+}

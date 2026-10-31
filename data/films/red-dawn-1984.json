@@ -1,0 +1,200 @@
+{
+  "tmdbId": 1880,
+  "slug": "red-dawn-1984",
+  "year": 1984,
+  "runtime": 114,
+  "originalTitle": "Red Dawn",
+  "title": {
+    "en": "Red Dawn",
+    "tr": "Kızıl Şafak"
+  },
+  "overview": {
+    "en": "It is the dawn of World War III. In mid-western America, a group of teenagers band together to defend their town—and their country—from invading Soviet forces.",
+    "tr": "Rusların ve Kübalıların ABD'de bir kasabayı işgal etmesini ve kasaba halkını örgütlemesini buna karşılık bir kaç ABD'li gencin bu işgal ve ihanete kayıtsız kalmayıp bir dağda soğuk ve zorlu şartlarda kendilerince askeri eğitim görmesini konu alır."
+  },
+  "poster": {
+    "tr": "/a2GkHcioc2QEFJbQk1NTB85u3vD.jpg",
+    "en": "/a2GkHcioc2QEFJbQk1NTB85u3vD.jpg"
+  },
+  "backdrops": [
+    "/mX9bv5KzgZlVg9KqGD6DSGW2pPP.jpg",
+    "/9fOfsVHZHig6MHPHczv0zMY6cKc.jpg",
+    "/aQw6yys8i7ADgGGXYd8v0Qrgj4D.jpg",
+    "/gixMkOcooKLTITxht7xbkk59NN3.jpg",
+    "/A2cLxljNmHJK5DhiOg773tPqFoS.jpg",
+    "/uXviGCQaCCUF9npPebz7AE9lv1p.jpg",
+    "/yAHggsTKuGHD7J3TvH6OkaFkfti.jpg",
+    "/vgFME1CQTIamz5fdH73HjHZQAXV.jpg",
+    "/jOc4ETdjQAGKknqGgFgNaxK43fE.jpg",
+    "/qkRsX8xVlEFXCUhE3mfLjzsCASL.jpg"
+  ],
+  "trailerKey": "cMYIe9sxLVU",
+  "genreIds": [
+    53,
+    10752,
+    18
+  ],
+  "keywordIds": [
+    1008,
+    2964,
+    1721,
+    1981,
+    4278,
+    7059,
+    14955,
+    171676,
+    193008,
+    209817,
+    251620
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ru",
+    "es"
+  ],
+  "studios": [
+    "United Artists",
+    "Sidney Beckerman Productions",
+    "Valkyrie Films"
+  ],
+  "crew": [
+    {
+      "personId": 19736,
+      "job": "producer"
+    },
+    {
+      "personId": 8328,
+      "job": "director"
+    },
+    {
+      "personId": 7728,
+      "job": "composer"
+    },
+    {
+      "personId": 8300,
+      "job": "writer"
+    },
+    {
+      "personId": 8328,
+      "job": "writer"
+    },
+    {
+      "personId": 1728,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12882,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 723,
+      "character": "Jed",
+      "order": 0
+    },
+    {
+      "personId": 6952,
+      "character": "Matt",
+      "order": 1
+    },
+    {
+      "personId": 2878,
+      "character": "Robert",
+      "order": 2
+    },
+    {
+      "personId": 1063,
+      "character": "Erica",
+      "order": 3
+    },
+    {
+      "personId": 2884,
+      "character": "Daryl",
+      "order": 4
+    },
+    {
+      "personId": 722,
+      "character": "Toni",
+      "order": 5
+    },
+    {
+      "personId": 6280,
+      "character": "Andy",
+      "order": 6
+    },
+    {
+      "personId": 19737,
+      "character": "Danny",
+      "order": 7
+    },
+    {
+      "personId": 8258,
+      "character": "Mason",
+      "order": 8
+    },
+    {
+      "personId": 5048,
+      "character": "Mr. Eckert",
+      "order": 9
+    },
+    {
+      "personId": 98102,
+      "character": "Strelnikov",
+      "order": 10
+    },
+    {
+      "personId": 55841,
+      "character": "Bella",
+      "order": 11
+    },
+    {
+      "personId": 39036,
+      "character": "Bratchenko",
+      "order": 12
+    },
+    {
+      "personId": 1735,
+      "character": "Mr. Teasdale",
+      "order": 13
+    },
+    {
+      "personId": 65019,
+      "character": "Mayor Bates",
+      "order": 14
+    },
+    {
+      "personId": 12298,
+      "character": "Mr. Morris",
+      "order": 15
+    },
+    {
+      "personId": 1169,
+      "character": "Aardvark's Father",
+      "order": 16
+    },
+    {
+      "personId": 1221566,
+      "character": "Stepan Gorsky",
+      "order": 17
+    },
+    {
+      "personId": 44819,
+      "character": "The Nicaraguan Captain",
+      "order": 18
+    },
+    {
+      "personId": 59352,
+      "character": "Political Officer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 934,
+  "sources": [
+    "cult-list"
+  ]
+}

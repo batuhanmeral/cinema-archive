@@ -1,0 +1,132 @@
+{
+  "tmdbId": 4241,
+  "slug": "visitor-q-2001",
+  "year": 2001,
+  "runtime": 84,
+  "originalTitle": "ビジターQ",
+  "title": {
+    "en": "Visitor Q",
+    "tr": "ビジターQ"
+  },
+  "overview": {
+    "en": "In a dysfunctional family where the mother is a heroin addict and prostitute, beaten by her son, and the father is an ex-TV reporter, sleeping with his daughter and filming his son being beaten up, ‘Q’, a complete stranger enters the bizarre family, changing their lives for the better, finding a balance in their disturbing natures.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/hkf41ujfmMwHdExD7q4j9DxgBDM.jpg",
+    "en": "/hkf41ujfmMwHdExD7q4j9DxgBDM.jpg"
+  },
+  "backdrops": [
+    "/aRej5B87xx8ela2KWmHyvw4udtP.jpg",
+    "/Bg6chVAEmPDKRaPKkkkgXwSuIP.jpg",
+    "/l2NUz3zqami0OQaRieEB0BydZha.jpg",
+    "/50PCz2PoI5EE9aDWaTsb8svgAmF.jpg",
+    "/jtkfMxXAZGrWfsOWhsfYLuA5Xpe.jpg",
+    "/jGv98BPPOcgfcICqmGW6cc7vdNN.jpg"
+  ],
+  "trailerKey": "lY1Uyme4mRA",
+  "genreIds": [
+    35,
+    18,
+    27,
+    53
+  ],
+  "keywordIds": [
+    570,
+    739,
+    5809,
+    6259,
+    5919,
+    2587,
+    10123,
+    6444,
+    11534,
+    10850,
+    33841,
+    193695,
+    228779,
+    306434
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "CineRocket",
+    "Trustech Japan Co., Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 35625,
+      "job": "producer"
+    },
+    {
+      "personId": 17282,
+      "job": "director"
+    },
+    {
+      "personId": 35627,
+      "job": "producer"
+    },
+    {
+      "personId": 35628,
+      "job": "producer"
+    },
+    {
+      "personId": 135383,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 35624,
+      "job": "writer"
+    },
+    {
+      "personId": 35633,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 35642,
+      "character": "Kiyoshi Yamazaki / Father",
+      "order": 0
+    },
+    {
+      "personId": 35643,
+      "character": "Keiko Yamazaki / Mother",
+      "order": 1
+    },
+    {
+      "personId": 35644,
+      "character": "Q / The visitor",
+      "order": 2
+    },
+    {
+      "personId": 5949313,
+      "character": "Takuya Yamazaki / Son",
+      "order": 3
+    },
+    {
+      "personId": 35646,
+      "character": "Miki Yamazaki / Daughter",
+      "order": 4
+    },
+    {
+      "personId": 35647,
+      "character": "Asako Murato",
+      "order": 5
+    },
+    {
+      "personId": 35648,
+      "character": "Sasaoka",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 566,
+  "sources": [
+    "cult-list"
+  ]
+}

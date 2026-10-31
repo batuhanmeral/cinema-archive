@@ -1,0 +1,177 @@
+{
+  "tmdbId": 38042,
+  "slug": "the-locket-1946",
+  "year": 1946,
+  "runtime": 85,
+  "originalTitle": "The Locket",
+  "title": {
+    "en": "The Locket",
+    "tr": "The Locket"
+  },
+  "overview": {
+    "en": "A dark personal secret drives a young woman to use every man she encounters.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/maLGJ5CDL2vWWqKPsd12bwTxFO8.jpg",
+    "en": "/maLGJ5CDL2vWWqKPsd12bwTxFO8.jpg"
+  },
+  "backdrops": [
+    "/iy7i3iJYgGOFr9SXPXRBplYcEpK.jpg",
+    "/hEHWsY4V3aTetwr1SP88WPvJdE8.jpg",
+    "/wcK7XCtYI9nV40CukFi2OECWRdr.jpg",
+    "/aM40SAU3nNOI616rNjCjdkScOPw.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    80,
+    53
+  ],
+  "keywordIds": [
+    9807,
+    13027
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "RKO Radio Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 119463,
+      "job": "writer"
+    },
+    {
+      "personId": 119464,
+      "job": "producer"
+    },
+    {
+      "personId": 119462,
+      "job": "writer"
+    },
+    {
+      "personId": 4345,
+      "job": "composer"
+    },
+    {
+      "personId": 10150,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 19396,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 41245,
+      "character": "Nancy",
+      "order": 0
+    },
+    {
+      "personId": 32923,
+      "character": "Dr. Harry Blair",
+      "order": 1
+    },
+    {
+      "personId": 10158,
+      "character": "Norman Clyde",
+      "order": 2
+    },
+    {
+      "personId": 117419,
+      "character": "John Willis",
+      "order": 3
+    },
+    {
+      "personId": 106105,
+      "character": "Nancy - Age 10",
+      "order": 4
+    },
+    {
+      "personId": 83476,
+      "character": "Drew Bonner",
+      "order": 5
+    },
+    {
+      "personId": 81934,
+      "character": "Lord Wyndham",
+      "order": 6
+    },
+    {
+      "personId": 106109,
+      "character": "Mrs. Willis",
+      "order": 7
+    },
+    {
+      "personId": 3364,
+      "character": "Mr. Wendell",
+      "order": 8
+    },
+    {
+      "personId": 34184,
+      "character": "Mrs. Bonner",
+      "order": 9
+    },
+    {
+      "personId": 38246,
+      "character": "Mrs. Monks",
+      "order": 10
+    },
+    {
+      "personId": 50836,
+      "character": "Mrs. Wendell",
+      "order": 11
+    },
+    {
+      "personId": 39802,
+      "character": "Woman Singer",
+      "order": 12
+    },
+    {
+      "personId": 101493,
+      "character": "Lady Wyndham",
+      "order": 13
+    },
+    {
+      "personId": 94399,
+      "character": "Thelma",
+      "order": 14
+    },
+    {
+      "personId": 119465,
+      "character": "Donald",
+      "order": 15
+    },
+    {
+      "personId": 161970,
+      "character": "Mary (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 5738,
+      "character": "Ginny (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 120746,
+      "character": "Party Guest (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 137260,
+      "character": "Party Guest (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 48,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "tmdbId": 138,
+  "slug": "dracula-1931",
+  "year": 1931,
+  "runtime": 74,
+  "originalTitle": "Dracula",
+  "title": {
+    "en": "Dracula",
+    "tr": "Drakula"
+  },
+  "overview": {
+    "en": "A British estate agent travels to Transylvania to meet with the mysterious Count Dracula, who is interested in leasing a London castle. After Dracula enslaves and drives the agent to insanity, the pair return to London together, where Dracula, a secret bloodsucker, begins preying on socialites.",
+    "tr": "John Harker, gizemli ve kolay kolay ele geçmeyen Kont Drakula'yla bir emlâk anlaşması yapmak için Transilvanya'ya gönderilir. Ama ev sahibi bir vampir, insanların kanıyla beslenen bir hortlaktır ve taşınma fikri ona pek de cazip gelmemektedir. Yüzlerce yıllık cehennemi, hayaletlere özgü bir varoluşun ardından, tek istediği huzura ermektir. Yine de, John'ın genç eşi Mina'nın fotoğrafını görüp heyecanlanınca, gemiyle batıya doğru yolculuğa çıkar."
+  },
+  "poster": {
+    "tr": "/xveHUI3QwdFC9BZMNDoo5vJYUMr.jpg",
+    "en": "/ueVSPt7vAba0XScHWTDWS5tNxYX.jpg"
+  },
+  "backdrops": [
+    "/cemjdP7HrUyJAry85vRT19Hidbi.jpg",
+    "/77quD8MrUDcCNjmDsbXyyaZzGiS.jpg",
+    "/2cdoAz3UAbE8hpk0Pmjp0Q2uFnZ.jpg",
+    "/joetFstyP2lZRZRvHvM5Qx1QbQv.jpg",
+    "/lG24tPjxUOO9AGv0VkzaZBiM9zP.jpg",
+    "/orFzxMo0Fmlz7dZBSLm8NiDjhcX.jpg",
+    "/4Fm4TZJ5hfN9eES0k7kMP3OM5IM.jpg",
+    "/yFijqaYy4g0TUaWMOzUXObwY8J3.jpg",
+    "/fbhciQt6i3vIEihNlY9A0csSs4O.jpg",
+    "/jedtF5ky5d0njUtXp7Sk6SccXeO.jpg"
+  ],
+  "trailerKey": "M5zL-jCgvUA",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    1299,
+    818,
+    272,
+    3133,
+    6156,
+    4375,
+    3986,
+    3335,
+    3098,
+    5155,
+    10327,
+    6932,
+    10181,
+    10414,
+    10482,
+    12999,
+    156764,
+    158142,
+    159871,
+    162810,
+    169909,
+    193227,
+    241823,
+    254317,
+    261274
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "hu",
+    "la"
+  ],
+  "studios": [
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1496,
+      "job": "director"
+    },
+    {
+      "personId": 70,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1496,
+      "job": "producer"
+    },
+    {
+      "personId": 1557,
+      "job": "producer"
+    },
+    {
+      "personId": 33364,
+      "job": "writer"
+    },
+    {
+      "personId": 29807,
+      "job": "writer"
+    },
+    {
+      "personId": 2156,
+      "job": "writer"
+    },
+    {
+      "personId": 1496,
+      "job": "writer"
+    },
+    {
+      "personId": 200567,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1547,
+      "character": "Count Dracula",
+      "order": 0
+    },
+    {
+      "personId": 1548,
+      "character": "Mina",
+      "order": 1
+    },
+    {
+      "personId": 2125,
+      "character": "John Harker",
+      "order": 2
+    },
+    {
+      "personId": 1549,
+      "character": "Renfield",
+      "order": 3
+    },
+    {
+      "personId": 1550,
+      "character": "Van Helsing",
+      "order": 4
+    },
+    {
+      "personId": 2126,
+      "character": "Doctor Seward",
+      "order": 5
+    },
+    {
+      "personId": 3947,
+      "character": "Lucy",
+      "order": 6
+    },
+    {
+      "personId": 3948,
+      "character": "Maid",
+      "order": 7
+    },
+    {
+      "personId": 3949,
+      "character": "Martin",
+      "order": 8
+    },
+    {
+      "personId": 1486711,
+      "character": "Innkeeper's Daughter  (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 149116,
+      "character": "Flower Girl (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 128161,
+      "character": "Coach Passenger (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1189502,
+      "character": "Coach Passenger (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 2870279,
+      "character": "Concertgoer Outside Theatre (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1486712,
+      "character": "Innkeeper's Wife (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1496,
+      "character": "Harbormaster (voice) (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1054252,
+      "character": "Maid (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1176508,
+      "character": "Dracula's Bride (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 97999,
+      "character": "Small Scientist (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1486713,
+      "character": "Bit (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1438,
+  "sources": [
+    "cult-list"
+  ]
+}

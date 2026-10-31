@@ -1,0 +1,217 @@
+{
+  "tmdbId": 15239,
+  "slug": "the-toxic-avenger-1984",
+  "year": 1984,
+  "runtime": 110,
+  "originalTitle": "The Toxic Avenger",
+  "title": {
+    "en": "The Toxic Avenger",
+    "tr": "The Toxic Avenger"
+  },
+  "overview": {
+    "en": "A gang of thugs devise a cruel hoax that goes horribly wrong as Melvin, a nerdy emaciated janitor at the local health club, is cast through a third story window into a vat of hazardous toxic waste.",
+    "tr": "Film diğer birçok Troma filminde olduğu gibi hayali şehir Tromaville'de geçmektedir. Melvin Tromaville'de yerel bir sağlık kulübünde temizlik görevlisi olarak çalışmaktadır. Bir gün ikinci kat balkonundan yanlışlıkla bir toksik varilinin içine düşer. Bir süre sonra \"Toxic Avenger\"a dönüşür. Artık bir kahramandır. Kaslı, güçlü ve aklında sadece intikam olan çirkin bir kahraman. Tomaville'deki bütün kötüleri ortadan kaldırır. Kör bir kızla tanışır ve ona âşık olur. Bundan sonra Tromaville'de yaşayanlar için kötülere karşı birlikte savaşmaya başlarlar."
+  },
+  "poster": {
+    "tr": "/vuxRW5GKuCnKvdYlUAYNxlicm54.jpg",
+    "en": "/6bA8p6O4s9uhmCYqat2obcpPHXr.jpg"
+  },
+  "backdrops": [
+    "/ofIwwNjI0TDOPZeAOIXSrXJQqwi.jpg",
+    "/UlFiZRQO0bR6mayux42KrLEQ4Y.jpg",
+    "/3ECHt72M7BPmBbmGeXjyOiMvA8G.jpg",
+    "/f5UGxfE54uP5d5RdnSIa5GsXtso.jpg",
+    "/iU9MO6cRewA6NqMrDTHdqUA6Ubn.jpg",
+    "/7DOuHRMoYhhSIVGBDqNdZpUoVsq.jpg",
+    "/b0ChD5TvSZCSbDxITB9Nvo6sOmW.jpg",
+    "/4PUFDeyiCrkQ1G6XbhLvYaY8Y9t.jpg",
+    "/tYXYvgoMVlaaAPPEJsVuh5mHLbQ.jpg",
+    "/nvMvYd1a3nnogjCBC2z1qW6lvxy.jpg"
+  ],
+  "trailerKey": "sKeONEIskWI",
+  "genreIds": [
+    28,
+    35,
+    27,
+    878
+  ],
+  "keywordIds": [
+    6305,
+    417,
+    586,
+    4426,
+    9715,
+    2095,
+    1919,
+    6733,
+    11532,
+    9748,
+    9826,
+    9794,
+    15000,
+    155493,
+    155861,
+    157669,
+    157675,
+    157676,
+    157677,
+    157681,
+    157686,
+    157688,
+    170418,
+    193551,
+    210710,
+    213833,
+    235565,
+    288816,
+    297139,
+    309974,
+    325844
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Troma Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 78021,
+      "job": "director"
+    },
+    {
+      "personId": 555064,
+      "job": "writer"
+    },
+    {
+      "personId": 78023,
+      "job": "director"
+    },
+    {
+      "personId": 78021,
+      "job": "producer"
+    },
+    {
+      "personId": 78021,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 59953,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 78023,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 555065,
+      "character": "Sara",
+      "order": 0
+    },
+    {
+      "personId": 78020,
+      "character": "The Toxic Avenger",
+      "order": 1
+    },
+    {
+      "personId": 555066,
+      "character": "Wanda",
+      "order": 2
+    },
+    {
+      "personId": 555067,
+      "character": "Julie",
+      "order": 3
+    },
+    {
+      "personId": 555068,
+      "character": "Slug",
+      "order": 4
+    },
+    {
+      "personId": 104593,
+      "character": "Bozo",
+      "order": 5
+    },
+    {
+      "personId": 555069,
+      "character": "Mayor Belgoody",
+      "order": 6
+    },
+    {
+      "personId": 98329,
+      "character": "Melvin",
+      "order": 7
+    },
+    {
+      "personId": 199664,
+      "character": "Officer O'Clancy",
+      "order": 8
+    },
+    {
+      "personId": 555070,
+      "character": "Walter Harris",
+      "order": 9
+    },
+    {
+      "personId": 1932865,
+      "character": "Chief of Police",
+      "order": 10
+    },
+    {
+      "personId": 1708242,
+      "character": "Cigar Face",
+      "order": 11
+    },
+    {
+      "personId": 555071,
+      "character": "Knuckles",
+      "order": 12
+    },
+    {
+      "personId": 555072,
+      "character": "Nipples",
+      "order": 13
+    },
+    {
+      "personId": 32286,
+      "character": "Leroy",
+      "order": 14
+    },
+    {
+      "personId": 555073,
+      "character": "Frank",
+      "order": 15
+    },
+    {
+      "personId": 142162,
+      "character": "Rico",
+      "order": 16
+    },
+    {
+      "personId": 555074,
+      "character": "Mrs. Haskell",
+      "order": 17
+    },
+    {
+      "personId": 156240,
+      "character": "Fred",
+      "order": 18
+    },
+    {
+      "personId": 218520,
+      "character": "Johnny",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 704,
+  "sources": [
+    "cult-list"
+  ]
+}

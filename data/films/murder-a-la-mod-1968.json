@@ -1,0 +1,134 @@
+{
+  "tmdbId": 64936,
+  "slug": "murder-a-la-mod-1968",
+  "year": 1968,
+  "runtime": 80,
+  "originalTitle": "Murder à la Mod",
+  "title": {
+    "en": "Murder à la Mod",
+    "tr": "Murder à la Mod"
+  },
+  "overview": {
+    "en": "Naive young Karen wants to help her struggling amateur filmmaker boyfriend Christopher raise enough money so he can divorce his wife. Meanwhile, jolly psycho-prankster Otto stalks the building where Christopher is shooting a low-grade adult movie in order to keep himself afloat.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rywNtpPmIlS5uIL85gk2gOAuEuU.jpg",
+    "en": "/rywNtpPmIlS5uIL85gk2gOAuEuU.jpg"
+  },
+  "backdrops": [
+    "/2sFQHfur6nVDvrYtMKCmI32P78T.jpg",
+    "/zHYaZA52Wo2I0dGBtOg9hmXJeAB.jpg",
+    "/niHpiF6dLw4EyrcGcS7dJd3O5Jl.jpg",
+    "/dEi6y24XfsYwq6IWuBjm6ZUGmUf.jpg",
+    "/8QdEgiqydko7cGHYtUQm7r4RYn1.jpg",
+    "/9mkiYTyLdcl6ER2eS9yMh5j4n09.jpg",
+    "/3gTsuLjxfn2TrHWlU4H7PatBQ7p.jpg",
+    "/A35D1p63SbPbWHc3oJAMVFPT7XX.jpg",
+    "/lztEyvg9v2ZX8h8o9MabvafOetz.jpg",
+    "/4UogWnQJA8CVPqG6nYuYl29L354.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    80,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    886,
+    9826
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Aries Documentaries"
+  ],
+  "crew": [
+    {
+      "personId": 1150,
+      "job": "director"
+    },
+    {
+      "personId": 1150,
+      "job": "writer"
+    },
+    {
+      "personId": 1117285,
+      "job": "producer"
+    },
+    {
+      "personId": 1117286,
+      "job": "composer"
+    },
+    {
+      "personId": 1117287,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 164660,
+      "character": "Tracy",
+      "order": 0
+    },
+    {
+      "personId": 97561,
+      "character": "Otto",
+      "order": 1
+    },
+    {
+      "personId": 1117288,
+      "character": "Karen",
+      "order": 2
+    },
+    {
+      "personId": 105338,
+      "character": "Chris",
+      "order": 3
+    },
+    {
+      "personId": 1117285,
+      "character": "Wiley",
+      "order": 4
+    },
+    {
+      "personId": 1117289,
+      "character": "Policeman",
+      "order": 5
+    },
+    {
+      "personId": 219430,
+      "character": "Salesman",
+      "order": 6
+    },
+    {
+      "personId": 1106461,
+      "character": "Girl in Boutique",
+      "order": 7
+    },
+    {
+      "personId": 200689,
+      "character": "Mr. Fitzsimmons",
+      "order": 8
+    },
+    {
+      "personId": 41258,
+      "character": "A Bird",
+      "order": 9
+    },
+    {
+      "personId": 61969,
+      "character": "Soap Opera voice",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 32,
+  "sources": [
+    "cult-list"
+  ]
+}

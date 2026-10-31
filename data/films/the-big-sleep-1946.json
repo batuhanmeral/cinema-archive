@@ -1,0 +1,206 @@
+{
+  "tmdbId": 910,
+  "slug": "the-big-sleep-1946",
+  "year": 1946,
+  "runtime": 114,
+  "originalTitle": "The Big Sleep",
+  "title": {
+    "en": "The Big Sleep",
+    "tr": "Derin Uyku"
+  },
+  "overview": {
+    "en": "Private Investigator Philip Marlowe is hired by wealthy General Sternwood regarding a matter involving his youngest daughter Carmen. Before the complex case is over, Marlowe sees murder, blackmail, deception, and what might be love.",
+    "tr": "General Sternwood kızının üzerinden ona şantaj yapan Arthur Geiger'dan korunmak için ünlü dedektif Philip Marlowe'u tutar. Marlowe, incelemeleri sırasında aileyi tehdit eden yeraltı çetesi ve General'in kızları arasındaki ilişkiyi fark eder, küçük kızı Carmen'i cinayet suçlamasından kurtarır.  Bu arada General'in büyük kızı Vivien ile de önce nefret dolu bir ilişki başlar, zamanla bu ilişki aşka dönüşür. Görevini başarıyla tamamlayan Marlowe, tüm aileyi tehlikelerden kurtarır ve hayatının kadınına kavuşur.  Raymond Chandler'ın romanından uyarlanan The Big Sleep, önemli bir \"film-noir\" örneği. Filmin aynı zamanda Michael Winner tarafından 1978'de çekilen aynı isimli bir uyarlaması da mevcut."
+  },
+  "poster": {
+    "tr": "/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg",
+    "en": "/pZUBI77RMu652QmtWL9RBWF1uO6.jpg"
+  },
+  "backdrops": [
+    "/x0gRBxL2GwqEtBMT4t7DFLIOEEP.jpg",
+    "/yxMgxS0NlmkG5RhatQE8MUjxT2C.jpg",
+    "/IBWKYuuzr9WOghv0wqGnC81Kac.jpg",
+    "/84hFGYcMlfcJpiChAbstqziBbg4.jpg",
+    "/hSmX0ZyYZk2ECIWtJ1JSHINPZIK.jpg",
+    "/iF37PMlPV19dsW8wySPnc04VQ0C.jpg",
+    "/e5OIWux0OMIiucsndswX70VfddW.jpg",
+    "/p1AGdG43oF8vge8ZvwI3DJkl3w0.jpg",
+    "/p7FHu5Kvpbh9x8ir7IkwsaTsjM5.jpg",
+    "/9miZVBBdnTTxpQkFHWnIX5dTGdQ.jpg"
+  ],
+  "trailerKey": "n-K49CUaeto",
+  "genreIds": [
+    9648,
+    80,
+    53
+  ],
+  "keywordIds": [
+    818,
+    395,
+    351,
+    1936,
+    703,
+    1803,
+    5923,
+    9807,
+    9826,
+    11168,
+    12570,
+    12670,
+    155790,
+    155851,
+    156091,
+    175514,
+    237462
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 13972,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11435,
+      "job": "director"
+    },
+    {
+      "personId": 4297,
+      "job": "writer"
+    },
+    {
+      "personId": 4298,
+      "job": "writer"
+    },
+    {
+      "personId": 3249,
+      "job": "composer"
+    },
+    {
+      "personId": 13971,
+      "job": "writer"
+    },
+    {
+      "personId": 11435,
+      "job": "producer"
+    },
+    {
+      "personId": 11435,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4110,
+      "character": "Philip Marlowe",
+      "order": 0
+    },
+    {
+      "personId": 7570,
+      "character": "Vivian Sternwood Rutledge",
+      "order": 1
+    },
+    {
+      "personId": 2673,
+      "character": "Eddie Mars",
+      "order": 2
+    },
+    {
+      "personId": 13975,
+      "character": "Carmen Sternwood",
+      "order": 3
+    },
+    {
+      "personId": 13979,
+      "character": "Joe Brody",
+      "order": 4
+    },
+    {
+      "personId": 13976,
+      "character": "General Sternwood",
+      "order": 5
+    },
+    {
+      "personId": 22093,
+      "character": "Chief Inspector Bernie Ohls",
+      "order": 6
+    },
+    {
+      "personId": 130377,
+      "character": "Agnes Lowzier (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 3339,
+      "character": "Harry Jones",
+      "order": 8
+    },
+    {
+      "personId": 88649,
+      "character": "Lash Canino",
+      "order": 9
+    },
+    {
+      "personId": 10487,
+      "character": "Acme Bookstore Proprietress",
+      "order": 10
+    },
+    {
+      "personId": 13978,
+      "character": "Mona Mars",
+      "order": 11
+    },
+    {
+      "personId": 13977,
+      "character": "Norris the Butler",
+      "order": 12
+    },
+    {
+      "personId": 110204,
+      "character": "Art Huck (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1731307,
+      "character": "Taxi Driver (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 945918,
+      "character": "Max - Head Waiter (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1283967,
+      "character": "Waitress (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 106031,
+      "character": "Waitress (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 120217,
+      "character": "Croupier (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1208020,
+      "character": "Nightclub Patron (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1217,
+  "sources": [
+    "cult-list"
+  ]
+}

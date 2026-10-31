@@ -1,0 +1,210 @@
+{
+  "tmdbId": 4689,
+  "slug": "sympathy-for-mr-vengeance-2002",
+  "year": 2002,
+  "runtime": 129,
+  "originalTitle": "복수는 나의 것",
+  "title": {
+    "en": "Sympathy for Mr. Vengeance",
+    "tr": "Haklı İntikam"
+  },
+  "overview": {
+    "en": "A deaf man and his girlfriend resort to desperate measures in order to fund a kidney transplant for his sister. Things go horribly wrong, and the situation spirals rapidly into a cycle of violence and revenge.",
+    "tr": "Böbrek nakli yapılması gereken kız kardeşine yardım etmek için çocuk kaçıran sağır Ryu’nun başına gelmeyen kalmaz. İşler sarpa sarar ve Güney Kore’nin kenar mahallerinde işkenceden, cinayete, karaborsadan intihara, terörizmden organ mafyasına kadar uzanan uzun ve kanlı bir yolculuk başlar. Şaşırtıcı gelişmelerle dolu haklı intikamın, sürpriz finaliyle unutulmazlar arasına gireceğine şüphe yok."
+  },
+  "poster": {
+    "tr": "/uj42ubGbgVL65T10SvPVr0p9mJc.jpg",
+    "en": "/qtB1B1KcmggRfuhZELQ08aIGBV1.jpg"
+  },
+  "backdrops": [
+    "/b6elu2cz2Be9PqgX0MzggMCH4fk.jpg",
+    "/6WMeEmwXWKwrWBd6uDXjtWPigzM.jpg",
+    "/prCigWMtfA30kyq7nkSJzQGqJUr.jpg",
+    "/cqymonAfUuwdMipMWhdxZqKTbaQ.jpg",
+    "/vGivjG6KOF8DPz1Zfh0VyEpmc29.jpg",
+    "/h5DKYSXoEGAEZYNE0aeJCi31y6.jpg",
+    "/bSN9FlCj3dTMjFl06iSWApvPkpJ.jpg",
+    "/ctA83AEOo0XGZRvibkCpXVkZy5.jpg",
+    "/aLKQV1IcKTBwCkB4ofr3Dbm36qo.jpg",
+    "/65K0ckFP1IoBDKyPGfMsycE706W.jpg"
+  ],
+  "trailerKey": "6D0cjs2NW9w",
+  "genreIds": [
+    28,
+    18,
+    53
+  ],
+  "keywordIds": [
+    1382,
+    1930,
+    7443,
+    9748,
+    162735,
+    195241,
+    261681,
+    298364
+  ],
+  "countries": [
+    "KR"
+  ],
+  "languages": [
+    "ko"
+  ],
+  "studios": [
+    "CJ Entertainment",
+    "Studio Box"
+  ],
+  "crew": [
+    {
+      "personId": 39255,
+      "job": "writer"
+    },
+    {
+      "personId": 39259,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 39253,
+      "job": "writer"
+    },
+    {
+      "personId": 10099,
+      "job": "director"
+    },
+    {
+      "personId": 39253,
+      "job": "producer"
+    },
+    {
+      "personId": 1117304,
+      "job": "producer"
+    },
+    {
+      "personId": 10099,
+      "job": "writer"
+    },
+    {
+      "personId": 1791945,
+      "job": "composer"
+    },
+    {
+      "personId": 24990,
+      "job": "writer"
+    },
+    {
+      "personId": 1294394,
+      "job": "composer"
+    },
+    {
+      "personId": 69086,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20738,
+      "character": "Dong-jin",
+      "order": 0
+    },
+    {
+      "personId": 25004,
+      "character": "Ryu",
+      "order": 1
+    },
+    {
+      "personId": 21688,
+      "character": "Yeong-mi",
+      "order": 2
+    },
+    {
+      "personId": 39256,
+      "character": "Sister",
+      "order": 3
+    },
+    {
+      "personId": 39257,
+      "character": "Yu-Sun",
+      "order": 4
+    },
+    {
+      "personId": 39258,
+      "character": "Detective Choi",
+      "order": 5
+    },
+    {
+      "personId": 64454,
+      "character": "Engineer Peng",
+      "order": 6
+    },
+    {
+      "personId": 1117306,
+      "character": "CEO",
+      "order": 7
+    },
+    {
+      "personId": 3692956,
+      "character": "Boss",
+      "order": 8
+    },
+    {
+      "personId": 88876,
+      "character": "Person with Cerebral Palsy",
+      "order": 9
+    },
+    {
+      "personId": 77180,
+      "character": "Detective Ji",
+      "order": 10
+    },
+    {
+      "personId": 3579113,
+      "character": "Detective Heo",
+      "order": 11
+    },
+    {
+      "personId": 3579117,
+      "character": "Man 1",
+      "order": 12
+    },
+    {
+      "personId": 1267862,
+      "character": "Man 2",
+      "order": 13
+    },
+    {
+      "personId": 552072,
+      "character": "Doctor 1",
+      "order": 14
+    },
+    {
+      "personId": 105425,
+      "character": "Doctor 2",
+      "order": 15
+    },
+    {
+      "personId": 2435679,
+      "character": "Radio DJ",
+      "order": 16
+    },
+    {
+      "personId": 86325,
+      "character": "Chinese Delivery Man",
+      "order": 17
+    },
+    {
+      "personId": 554024,
+      "character": "Dong-jin's Ex-wife",
+      "order": 18
+    },
+    {
+      "personId": 83682,
+      "character": "Husband of Dong-jin's Ex-wife",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1815,
+  "sources": [
+    "cult-list"
+  ]
+}

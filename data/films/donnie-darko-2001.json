@@ -1,0 +1,211 @@
+{
+  "tmdbId": 141,
+  "slug": "donnie-darko-2001",
+  "year": 2001,
+  "runtime": 114,
+  "originalTitle": "Donnie Darko",
+  "title": {
+    "en": "Donnie Darko",
+    "tr": "Karanlık Yolculuk"
+  },
+  "overview": {
+    "en": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
+    "tr": "80’lerin sonunda geçen öyküde, Donnie Darko adında 16 yaşında bir genç bazı gerçek olmayan görüntüler görmeye başlar. Özellikle de tavşan kostümlü bir adam sık sık belirir. Çevresiyle uyum sorunu yaşayan genç, ailesinin ve okulun kendisi için çizdiği yoldan ayrılıp esrarengiz misafirinin izinden gider."
+  },
+  "poster": {
+    "tr": "/j2AtZFsflxiluaNtajMTI0Avm8C.jpg",
+    "en": "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg"
+  },
+  "backdrops": [
+    "/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
+    "/8eLXy49T36e0e1YhYvUQOCXNRhm.jpg",
+    "/npVlvuV5UkUGcnjErXJ9AiUfECR.jpg",
+    "/mE8cFlsv1TumieK8q1x0y2GHoct.jpg",
+    "/iFFbcxDpJVTDIL6iWogKPi10TfQ.jpg",
+    "/7XOnwpLLrIDEv81M9mJP98UAptg.jpg",
+    "/bhyURcwJVlW0nnlGrUPQwckVGyI.jpg",
+    "/yr72cOUWqXo2Ui8ht6I5AobbTE8.jpg",
+    "/b28hvAO3aeu0yzXoy6JrV1XMWab.jpg",
+    "/z6m11QWUc0sELLbGRuidfE5Fchi.jpg"
+  ],
+  "trailerKey": "iVdehGAy4zA",
+  "genreIds": [
+    14,
+    18,
+    9648
+  ],
+  "keywordIds": [
+    6270,
+    3800,
+    970,
+    2946,
+    2726,
+    7358,
+    3335,
+    4379,
+    2016,
+    4232,
+    9887,
+    6203,
+    7942,
+    10532,
+    11363,
+    10629,
+    10873,
+    12565,
+    41329,
+    160977,
+    179878,
+    197582,
+    208289,
+    243230
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Flower Films",
+    "Pandora Cinema",
+    "Newmarket Films"
+  ],
+  "crew": [
+    {
+      "personId": 1577,
+      "job": "director"
+    },
+    {
+      "personId": 1586,
+      "job": "producer"
+    },
+    {
+      "personId": 1587,
+      "job": "producer"
+    },
+    {
+      "personId": 1588,
+      "job": "producer"
+    },
+    {
+      "personId": 1589,
+      "job": "composer"
+    },
+    {
+      "personId": 1590,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1577,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 131,
+      "character": "Donnie Darko",
+      "order": 0
+    },
+    {
+      "personId": 20089,
+      "character": "Gretchen Ross",
+      "order": 1
+    },
+    {
+      "personId": 1582,
+      "character": "Frank",
+      "order": 2
+    },
+    {
+      "personId": 69597,
+      "character": "Karen Pomeroy",
+      "order": 3
+    },
+    {
+      "personId": 5151,
+      "character": "Kitty Farmer",
+      "order": 4
+    },
+    {
+      "personId": 1579,
+      "character": "Elizabeth Darko",
+      "order": 5
+    },
+    {
+      "personId": 1581,
+      "character": "Rose Darko",
+      "order": 6
+    },
+    {
+      "personId": 1578,
+      "character": "Eddie Darko",
+      "order": 7
+    },
+    {
+      "personId": 13526,
+      "character": "Prof. Kenneth Monnitoff",
+      "order": 8
+    },
+    {
+      "personId": 9594,
+      "character": "Dr. Lilian Thurman",
+      "order": 9
+    },
+    {
+      "personId": 723,
+      "character": "Jim Cunningham",
+      "order": 10
+    },
+    {
+      "personId": 1580,
+      "character": "Samantha Darko",
+      "order": 11
+    },
+    {
+      "personId": 1583,
+      "character": "Dr. Fisher",
+      "order": 12
+    },
+    {
+      "personId": 1598,
+      "character": "Bob Garland",
+      "order": 13
+    },
+    {
+      "personId": 1585,
+      "character": "Roberta Sparrow / Grandma Death",
+      "order": 14
+    },
+    {
+      "personId": 1599,
+      "character": "Joanie James",
+      "order": 15
+    },
+    {
+      "personId": 20088,
+      "character": "Cherita Chen",
+      "order": 16
+    },
+    {
+      "personId": 20090,
+      "character": "Principal Cole",
+      "order": 17
+    },
+    {
+      "personId": 20091,
+      "character": "Susie Bates",
+      "order": 18
+    },
+    {
+      "personId": 20092,
+      "character": "Emily Bates",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 13902,
+  "sources": [
+    "cult-list"
+  ]
+}

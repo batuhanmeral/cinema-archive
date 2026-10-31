@@ -1,0 +1,210 @@
+{
+  "tmdbId": 162,
+  "slug": "edward-scissorhands-1990",
+  "year": 1990,
+  "runtime": 105,
+  "originalTitle": "Edward Scissorhands",
+  "title": {
+    "en": "Edward Scissorhands",
+    "tr": "Makas Eller"
+  },
+  "overview": {
+    "en": "A small suburban town receives a visit from a castaway unfinished science experiment named Edward.",
+    "tr": "Bir zamanlar yüksek bir tepedeki kalede, en büyük icadının adı Edward olan bir mucit yaşıyordu. Edward, dayanılmaz bir çekiciliği olmasına rağmen mükemmel değildi. Mucidin ani ölümü onun yarıda kalmasına yol açtı: Elleri yerine uzun, keskin metal parçaları vardı. Edward, merhametli bir Avon hanımefendisinin, onu ailesiyle beraber yaşamak üzere evine götürene kadar karanlıkta yalnız yaşadı. Böylece Edward'ın Suburbia adlı pastek cennetteki fantastik maceraları başladı."
+  },
+  "poster": {
+    "tr": "/kW3oZGqWJlcnvKRgqCa5eQVAhME.jpg",
+    "en": "/1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg"
+  },
+  "backdrops": [
+    "/uNLIMPxknsV4n3IAEDpS1iqF5dm.jpg",
+    "/3Nn5BOM1EVw1IYrv6MsbOS6N1Ol.jpg",
+    "/hplVxV6sZEyUcR3kG79ahDv5gp.jpg",
+    "/qOL963em2govahmx5TzxDrYPxbY.jpg",
+    "/JCFdCQ3gDRvx64JHSOEL2m06xL.jpg",
+    "/wDoOe4WRI5aWbfqpxXWjRP3nvRc.jpg",
+    "/z1SN3DiNvN4S01imsjcg4SbYSW8.jpg",
+    "/tZlsXiKEVyw5pzPeOP5S0h8lIL3.jpg",
+    "/qnj3fS6TORu09K2Ehp12ctb6GXU.jpg",
+    "/zUVuO3hmAAX7oKA9Eq39vNfEwWm.jpg"
+  ],
+  "trailerKey": "S8bBjpUBbro",
+  "genreIds": [
+    14,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    240,
+    1415,
+    6059,
+    1436,
+    928,
+    1533,
+    1435,
+    1437,
+    699,
+    3205,
+    1647,
+    1715,
+    3335,
+    3098,
+    6511,
+    9856,
+    10703,
+    10794,
+    33505,
+    171826,
+    186466,
+    209027,
+    215295,
+    227902,
+    231192,
+    249629,
+    258464,
+    272246,
+    351332
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 531,
+      "job": "composer"
+    },
+    {
+      "personId": 510,
+      "job": "producer"
+    },
+    {
+      "personId": 1919,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1899,
+      "job": "producer"
+    },
+    {
+      "personId": 510,
+      "job": "director"
+    },
+    {
+      "personId": 1901,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85,
+      "character": "Edward Scissorhands",
+      "order": 0
+    },
+    {
+      "personId": 1920,
+      "character": "Kim",
+      "order": 1
+    },
+    {
+      "personId": 1902,
+      "character": "Peg",
+      "order": 2
+    },
+    {
+      "personId": 1904,
+      "character": "Jim",
+      "order": 3
+    },
+    {
+      "personId": 1907,
+      "character": "Joyce",
+      "order": 4
+    },
+    {
+      "personId": 1908,
+      "character": "Kevin",
+      "order": 5
+    },
+    {
+      "personId": 1909,
+      "character": "Helen",
+      "order": 6
+    },
+    {
+      "personId": 1910,
+      "character": "Marge",
+      "order": 7
+    },
+    {
+      "personId": 1911,
+      "character": "Officer Allen",
+      "order": 8
+    },
+    {
+      "personId": 1912,
+      "character": "Esmeralda",
+      "order": 9
+    },
+    {
+      "personId": 1905,
+      "character": "The Inventor",
+      "order": 10
+    },
+    {
+      "personId": 1903,
+      "character": "Bill",
+      "order": 11
+    },
+    {
+      "personId": 1913,
+      "character": "Tinka",
+      "order": 12
+    },
+    {
+      "personId": 1914,
+      "character": "Cissy",
+      "order": 13
+    },
+    {
+      "personId": 1915,
+      "character": "Host-TV",
+      "order": 14
+    },
+    {
+      "personId": 1916,
+      "character": "George",
+      "order": 15
+    },
+    {
+      "personId": 2619882,
+      "character": "Suzanne",
+      "order": 16
+    },
+    {
+      "personId": 3507942,
+      "character": "Max",
+      "order": 17
+    },
+    {
+      "personId": 134070,
+      "character": "Denny",
+      "order": 18
+    },
+    {
+      "personId": 2576045,
+      "character": "TV Newswoman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 14154,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "tmdbId": 67409,
+  "slug": "duck-dodgers-in-the-241-2th-century-1953",
+  "year": 1953,
+  "runtime": 7,
+  "originalTitle": "Duck Dodgers in the 24½th Century",
+  "title": {
+    "en": "Duck Dodgers in the 24½th Century",
+    "tr": "Duck Dodgers in the 24½th Century"
+  },
+  "overview": {
+    "en": "Space hero Daffy battles Marvin the Martian for control of Planet X.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/7aWJvj52vwS1hkafQXTtiNPMSM4.jpg",
+    "en": "/5vJy6p2uxd6ufjBwNwGvaOMt35b.jpg"
+  },
+  "backdrops": [
+    "/lcQiveyn5OQYqhtYD2ssmINwWov.jpg",
+    "/kGKZMvjqN3aKjilZDH5UkCgCu84.jpg",
+    "/fbU6exuqG7L8ofBnt0vQjtW4Yi0.jpg",
+    "/3gtjGA7kS41qS9Vl0iUmz8LfFif.jpg",
+    "/nd0JD8pnKpD20y4uwIgAiSS7zSM.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    16,
+    35,
+    878
+  ],
+  "keywordIds": [
+    9715,
+    6513,
+    9882,
+    351105,
+    370647
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Warner Bros. Cartoons"
+  ],
+  "crew": [
+    {
+      "personId": 551674,
+      "job": "composer"
+    },
+    {
+      "personId": 457819,
+      "job": "producer"
+    },
+    {
+      "personId": 100888,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 33923,
+      "character": "Daffy Duck / Duck Dodgers / Porky Pig / Marvin the Martian (voice)",
+      "order": 0
+    }
+  ],
+  "awards": {},
+  "voteCount": 185,
+  "sources": [
+    "cult-list"
+  ]
+}

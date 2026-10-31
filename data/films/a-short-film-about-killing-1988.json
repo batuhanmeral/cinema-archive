@@ -1,0 +1,184 @@
+{
+  "tmdbId": 10754,
+  "slug": "a-short-film-about-killing-1988",
+  "year": 1988,
+  "runtime": 85,
+  "originalTitle": "Krótki film o zabijaniu",
+  "title": {
+    "en": "A Short Film About Killing",
+    "tr": "Öldürme Üzerine Kısa Bir Film"
+  },
+  "overview": {
+    "en": "Jacek climbs into the taxi driven by Waldemar, tells him to drive to a remote location, then brutally strangles him, seemingly without motive.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/x8zenootZTTB1iEdUQA9dnEuLqv.jpg",
+    "en": "/k7sk4yNdoXY7iwp1M9QTZuBDiJS.jpg"
+  },
+  "backdrops": [
+    "/viZs59bz8Iv78m0GJSQM0nusPzj.jpg",
+    "/wsZm5xX4r2ARPsjz5sRxHh3hA6D.jpg",
+    "/3K0KlBYx6655MeQA5CuuwQNFb3q.jpg",
+    "/bO6pjFR6gfyP6MPbMnjzFdbKRaD.jpg",
+    "/qUnXfty8WFzTGOH4SPqUKT93Cb6.jpg",
+    "/cAQtGevrPLjEutcSeu40k3zk84h.jpg"
+  ],
+  "trailerKey": "FfEfyRLlXwU",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    378,
+    6148,
+    1749,
+    9826,
+    10909,
+    212914,
+    309029
+  ],
+  "countries": [
+    "PL"
+  ],
+  "languages": [
+    "pl"
+  ],
+  "studios": [
+    "PRF \"Zespoły Filmowe\"",
+    "Zespół Filmowy \"Tor\""
+  ],
+  "crew": [
+    {
+      "personId": 1129,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1135,
+      "job": "composer"
+    },
+    {
+      "personId": 66450,
+      "job": "producer"
+    },
+    {
+      "personId": 1126,
+      "job": "director"
+    },
+    {
+      "personId": 1126,
+      "job": "writer"
+    },
+    {
+      "personId": 1132,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 66459,
+      "character": "Jacek Łazar",
+      "order": 0
+    },
+    {
+      "personId": 66460,
+      "character": "Piotr Balicki",
+      "order": 1
+    },
+    {
+      "personId": 66462,
+      "character": "Waldemar Rekowski",
+      "order": 2
+    },
+    {
+      "personId": 1405,
+      "character": "Committee Chairman",
+      "order": 3
+    },
+    {
+      "personId": 66463,
+      "character": "Cashier",
+      "order": 4
+    },
+    {
+      "personId": 66464,
+      "character": "The Executioner",
+      "order": 5
+    },
+    {
+      "personId": 66465,
+      "character": "Police Commander",
+      "order": 6
+    },
+    {
+      "personId": 66466,
+      "character": "Judge",
+      "order": 7
+    },
+    {
+      "personId": 1387,
+      "character": "Young Man",
+      "order": 8
+    },
+    {
+      "personId": 2807,
+      "character": "Dorota",
+      "order": 9
+    },
+    {
+      "personId": 66469,
+      "character": "Andrzej",
+      "order": 10
+    },
+    {
+      "personId": 66470,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 66471,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 66472,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 66473,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 66474,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 2225423,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 66477,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 66476,
+      "character": "Photo Store Clerk",
+      "order": 18
+    },
+    {
+      "personId": 66478,
+      "character": "Beatka",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 417,
+  "sources": [
+    "cult-list"
+  ]
+}

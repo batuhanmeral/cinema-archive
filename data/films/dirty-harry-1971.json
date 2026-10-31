@@ -1,0 +1,229 @@
+{
+  "tmdbId": 984,
+  "slug": "dirty-harry-1971",
+  "year": 1971,
+  "runtime": 102,
+  "originalTitle": "Dirty Harry",
+  "title": {
+    "en": "Dirty Harry",
+    "tr": "Kirli Adam"
+  },
+  "overview": {
+    "en": "When a madman dubbed 'Scorpio' terrorizes San Francisco, hard-nosed cop, Harry Callahan – famous for his take-no-prisoners approach to law enforcement – is tasked with hunting down the psychopath.",
+    "tr": "Akademi Ödüllü Clint Eastwood bu macera serisinde, kural tanımaz bir San Francisco polisi olan Dirty Harry Calahan'ı canlandırıyor. Harry Calahan'a bir seri katile fidye verme görevi verilir ama işler pek yolunda gitmez. 14 yaşındaki kızın hayatı tehlikeye girince, Callahan kendisine hiçbir şeyin engel olmasına izin vermez. Buna yasalar da dahil."
+  },
+  "poster": {
+    "tr": "/i4FYfs6QeSQICadWZdZ4sMYRaPL.jpg",
+    "en": "/UHxxkYe9tRdiPu0JFgcEL5hmQ4.jpg"
+  },
+  "backdrops": [
+    "/3m9hY5uixci0XpUawRG0mGEUe4r.jpg",
+    "/mJjOZSaTTqG3an5MkkOX3x18lYX.jpg",
+    "/6YCMYdH7PgPTdFVApxBOUqGXpGX.jpg",
+    "/ezrb56YdkoG59fZj50IxE9OnADx.jpg",
+    "/qhs11ZoBFyE06AboF7QaZCbw6oC.jpg",
+    "/grGrgmAE3myjQzja1dCpe8Ah3Jq.jpg",
+    "/5kex1QQCRjNFKbsaFLaX4j3IDKa.jpg",
+    "/15eJ9BZaTpcZJjTCrwDWzZTs79g.jpg",
+    "/4mC7ibIXtqVWuIjTkkq3sTTI6Gb.jpg",
+    "/bzdLHpz2QaPsi3LXyB8WxDvzVjS.jpg"
+  ],
+  "trailerKey": "K6Vi1VurN9s",
+  "genreIds": [
+    28,
+    80,
+    53
+  ],
+  "keywordIds": [
+    1589,
+    6149,
+    502,
+    3713,
+    1336,
+    582,
+    1930,
+    6259,
+    703,
+    1919,
+    5340,
+    6093,
+    8181,
+    9849,
+    10714,
+    12371,
+    14805,
+    158279,
+    166287,
+    188944,
+    200234,
+    202371,
+    207268,
+    268067,
+    314730,
+    321464,
+    325766,
+    325785,
+    325791,
+    325854,
+    343964
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ],
+  "studios": [
+    "Malpaso Productions"
+  ],
+  "crew": [
+    {
+      "personId": 14776,
+      "job": "writer"
+    },
+    {
+      "personId": 14773,
+      "job": "producer"
+    },
+    {
+      "personId": 14773,
+      "job": "director"
+    },
+    {
+      "personId": 14775,
+      "job": "writer"
+    },
+    {
+      "personId": 9217,
+      "job": "composer"
+    },
+    {
+      "personId": 14774,
+      "job": "writer"
+    },
+    {
+      "personId": 792,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8328,
+      "job": "writer"
+    },
+    {
+      "personId": 14773,
+      "job": "writer"
+    },
+    {
+      "personId": 190,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 190,
+      "character": "Harry",
+      "order": 0
+    },
+    {
+      "personId": 14785,
+      "character": "Bressler",
+      "order": 1
+    },
+    {
+      "personId": 14784,
+      "character": "Chico",
+      "order": 2
+    },
+    {
+      "personId": 17580,
+      "character": "The Mayor",
+      "order": 3
+    },
+    {
+      "personId": 14782,
+      "character": "Killer",
+      "order": 4
+    },
+    {
+      "personId": 95564,
+      "character": "Chief",
+      "order": 5
+    },
+    {
+      "personId": 14786,
+      "character": "De Georgio",
+      "order": 6
+    },
+    {
+      "personId": 14787,
+      "character": "Mrs. Russell",
+      "order": 7
+    },
+    {
+      "personId": 14788,
+      "character": "Norma",
+      "order": 8
+    },
+    {
+      "personId": 14789,
+      "character": "Bus Driver",
+      "order": 9
+    },
+    {
+      "personId": 13263,
+      "character": "Mr. Jaffe",
+      "order": 10
+    },
+    {
+      "personId": 14792,
+      "character": "Rothko",
+      "order": 11
+    },
+    {
+      "personId": 14790,
+      "character": "Bannerman",
+      "order": 12
+    },
+    {
+      "personId": 14791,
+      "character": "Liquor Proprietor",
+      "order": 13
+    },
+    {
+      "personId": 1339265,
+      "character": "Sid Kleinman",
+      "order": 14
+    },
+    {
+      "personId": 81898,
+      "character": "Miss Willis",
+      "order": 15
+    },
+    {
+      "personId": 1768173,
+      "character": "Sgt. Reineke",
+      "order": 16
+    },
+    {
+      "personId": 21925,
+      "character": "Bank Robber (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1353571,
+      "character": "Communications Secretary (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 161764,
+      "character": "Suicide Jumper (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2896,
+  "sources": [
+    "cult-list"
+  ]
+}

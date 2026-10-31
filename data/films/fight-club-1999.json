@@ -1,0 +1,205 @@
+{
+  "tmdbId": 550,
+  "slug": "fight-club-1999",
+  "year": 1999,
+  "runtime": 139,
+  "originalTitle": "Fight Club",
+  "title": {
+    "en": "Fight Club",
+    "tr": "Dövüş Kulübü"
+  },
+  "overview": {
+    "en": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "tr": "Saatli bomba gibi patlamaya hazır, uykusuzluk çeken bir adam ile tekinsiz bir sabun satıcısı; ilkel erkek saldırganlığını şok edici yeni bir terapi yöntemine dönüştürür. Kurdukları bu fikir hızla yayılır ve her şehirde yeraltı \"dövüş kulüpleri\" kurulmaya başlar ta ki egzantrik biri yollarına çıkıp yok oluşa doğru giden, kontrolden çıkmış bir sarmalı tetikleyene kadar."
+  },
+  "poster": {
+    "tr": "/yjMuqAyJUoQZGWsZ0vZuYj5inAR.jpg",
+    "en": "/a26cQPRhJPX6GbWfQbvZdrrp9j9.jpg"
+  },
+  "backdrops": [
+    "/hZkgoQYus5vegHoetLkCJzb17zJ.jpg",
+    "/rr7E0NoGKxvbkb89eR1GwfoYjpA.jpg",
+    "/c6OLXfKAk5BKeR6broC8pYiCquX.jpg",
+    "/xRyINp9KfMLVjRiO5nCsoRDdvvF.jpg",
+    "/3nv2TEz2u178xPXzdKlZdUh5uOI.jpg",
+    "/yrN6gon5NG6t7Lgh05byChFSZem.jpg",
+    "/52AfXWuXCHn3UjD17rBruA9f5qb.jpg",
+    "/8iVyhmjzUbvAGppkdCZPiyEHSoF.jpg",
+    "/3qFgjOYLnEUfBxt5yWRKmRRrh9w.jpg",
+    "/6EbWc3xJ4PPRuLPKYdqga5PGXUY.jpg"
+  ],
+  "trailerKey": "dfeUzm6KF4g",
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    851,
+    3927,
+    818,
+    1541,
+    1721,
+    825,
+    4565,
+    4142,
+    9181,
+    11687,
+    156761,
+    179173,
+    212803,
+    260426
+  ],
+  "countries": [
+    "DE",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Fox 2000 Pictures",
+    "Regency Enterprises",
+    "Linson Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 7477,
+      "job": "composer"
+    },
+    {
+      "personId": 7478,
+      "job": "composer"
+    },
+    {
+      "personId": 1254,
+      "job": "producer"
+    },
+    {
+      "personId": 7475,
+      "job": "producer"
+    },
+    {
+      "personId": 7479,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7474,
+      "job": "producer"
+    },
+    {
+      "personId": 7467,
+      "job": "director"
+    },
+    {
+      "personId": 7469,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 819,
+      "character": "Narrator",
+      "order": 0
+    },
+    {
+      "personId": 287,
+      "character": "Tyler Durden",
+      "order": 1
+    },
+    {
+      "personId": 1283,
+      "character": "Marla Singer",
+      "order": 2
+    },
+    {
+      "personId": 7470,
+      "character": "Robert Paulson",
+      "order": 3
+    },
+    {
+      "personId": 7499,
+      "character": "Angel Face",
+      "order": 4
+    },
+    {
+      "personId": 7471,
+      "character": "Richard Chesler (Regional Manager)",
+      "order": 5
+    },
+    {
+      "personId": 7497,
+      "character": "The Mechanic",
+      "order": 6
+    },
+    {
+      "personId": 7498,
+      "character": "Ricky",
+      "order": 7
+    },
+    {
+      "personId": 7472,
+      "character": "Intern at Hospital",
+      "order": 8
+    },
+    {
+      "personId": 7219,
+      "character": "Thomas at Remaining Men Together",
+      "order": 9
+    },
+    {
+      "personId": 1129738,
+      "character": "Group Leader at Remaining Men Together",
+      "order": 10
+    },
+    {
+      "personId": 1317693,
+      "character": "Weeping Woman - Onward and Upward",
+      "order": 11
+    },
+    {
+      "personId": 68277,
+      "character": "Group Leader - Partners in Positivity",
+      "order": 12
+    },
+    {
+      "personId": 202080,
+      "character": "Speaker - Free and Clear",
+      "order": 13
+    },
+    {
+      "personId": 7473,
+      "character": "Chloe",
+      "order": 14
+    },
+    {
+      "personId": 1172435,
+      "character": "Airline Check-In Attendant",
+      "order": 15
+    },
+    {
+      "personId": 956719,
+      "character": "Federated Motor Co. - Inspector Bird",
+      "order": 16
+    },
+    {
+      "personId": 59285,
+      "character": "Federated Motor Co. - Inspector Dent",
+      "order": 17
+    },
+    {
+      "personId": 1705289,
+      "character": "Business Woman on Plane",
+      "order": 18
+    },
+    {
+      "personId": 17449,
+      "character": "Airport Security Officer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 33167,
+  "sources": [
+    "cult-list"
+  ]
+}

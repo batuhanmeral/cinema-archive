@@ -1,0 +1,209 @@
+{
+  "tmdbId": 27130,
+  "slug": "i-walked-with-a-zombie-1943",
+  "year": 1943,
+  "runtime": 69,
+  "originalTitle": "I Walked with a Zombie",
+  "title": {
+    "en": "I Walked with a Zombie",
+    "tr": "I Walked with a Zombie"
+  },
+  "overview": {
+    "en": "A nurse in the Caribbean turns to voodoo in hopes of curing her patient, a mindless woman whose husband she's fallen in love with.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/uoyBR8XNxPQRojujtczfG1qJezY.jpg",
+    "en": "/uoyBR8XNxPQRojujtczfG1qJezY.jpg"
+  },
+  "backdrops": [
+    "/bCyK6eETwA6kzxLxDDuwJ3l7Wdw.jpg",
+    "/uMDy54ZjRLL6ZTjyyOzaglk6Z3N.jpg",
+    "/yBCZS8s7KU87rHZiMqKUT8jpmTw.jpg",
+    "/3gUb9G8W3pbA1RAYWfeU4wIdKrr.jpg",
+    "/hSYOMnmLsoxp5G9aQbZ3NWp806F.jpg",
+    "/uBYPP0afAGZKz6rUUhhcfHqNryv.jpg",
+    "/AvpWO8qdswJcWk0Iu4YaClyyojp.jpg",
+    "/imsJy16NG3HjOGjU333nmmKgdu9.jpg",
+    "/1CbAxAhLPNfcPvA7lOk7eNnEMnI.jpg",
+    "/26jW13yUhYizptkDFzz2pa7rjbl.jpg"
+  ],
+  "trailerKey": "R0NhhvTNND0",
+  "genreIds": [
+    9648,
+    27,
+    18,
+    14
+  ],
+  "keywordIds": [
+    2041,
+    931,
+    128,
+    428,
+    6156,
+    3392,
+    5941,
+    3136,
+    6231,
+    9332,
+    10752,
+    11157,
+    12377,
+    13005,
+    33457,
+    33787,
+    155819,
+    157524,
+    167890,
+    181914,
+    189931,
+    196987,
+    221882,
+    279340,
+    297583,
+    297585,
+    297586
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "RKO Radio Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 10146,
+      "job": "director"
+    },
+    {
+      "personId": 97047,
+      "job": "producer"
+    },
+    {
+      "personId": 97048,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5028,
+      "job": "writer"
+    },
+    {
+      "personId": 100984,
+      "job": "writer"
+    },
+    {
+      "personId": 4345,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 97037,
+      "character": "Wesley Rand",
+      "order": 0
+    },
+    {
+      "personId": 95117,
+      "character": "Betsy Connell",
+      "order": 1
+    },
+    {
+      "personId": 48962,
+      "character": "Paul Holland",
+      "order": 2
+    },
+    {
+      "personId": 97039,
+      "character": "Mrs. Rand",
+      "order": 3
+    },
+    {
+      "personId": 84935,
+      "character": "Dr. Maxwell",
+      "order": 4
+    },
+    {
+      "personId": 97040,
+      "character": "Jessica Holland",
+      "order": 5
+    },
+    {
+      "personId": 97042,
+      "character": "Alma",
+      "order": 6
+    },
+    {
+      "personId": 97043,
+      "character": "Calypso Singer",
+      "order": 7
+    },
+    {
+      "personId": 97045,
+      "character": "Carrefour",
+      "order": 8
+    },
+    {
+      "personId": 97046,
+      "character": "Dancer",
+      "order": 9
+    },
+    {
+      "personId": 2253443,
+      "character": "Clement (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 1584475,
+      "character": "Friend of Melise (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 995588,
+      "character": "Friend of Melise (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1249791,
+      "character": "Melisse (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 125811,
+      "character": "Job Interviewer (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1584482,
+      "character": "Dancer (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1678700,
+      "character": "Bayard (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 2231871,
+      "character": "Sabreur (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 975343,
+      "character": "Coachman (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2231876,
+      "character": "Ti-Joseph (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 350,
+  "sources": [
+    "cult-list"
+  ]
+}

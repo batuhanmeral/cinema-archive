@@ -1,0 +1,201 @@
+{
+  "tmdbId": 75,
+  "slug": "mars-attacks-1996",
+  "year": 1996,
+  "runtime": 106,
+  "originalTitle": "Mars Attacks!",
+  "title": {
+    "en": "Mars Attacks!",
+    "tr": "Çılgın Marslılar!"
+  },
+  "overview": {
+    "en": "A fleet of Martian spacecraft surrounds the world's major cities and all of humanity waits to see if the extraterrestrial visitors have, as they claim, \"come in peace.\" U.S. President James Dale receives assurance from science professor Donald Kessler that the Martians' mission is a friendly one. But when a peaceful exchange ends in the total annihilation of the U.S. Congress, military men call for a full-scale nuclear retaliation.",
+    "tr": "Dünya, \"Marslılar\" adındaki yeşil beyinli, kocaman kafalı uzaylılarla ilk temas kurduğunda herkes onların barışçıl olduğunu düşünür. Ancak bu yanılgı, gezegenin kaotik bir istila ile karşı karşıya kalmasına neden olur. Marslılar, insanlığı yok etmek için absürt ve aşırı şiddet içeren yöntemler kullanırken ABD hükümeti ve sıradan insanlar, bu tehdide karşı mücadele eder."
+  },
+  "poster": {
+    "tr": "/lsgrlfZz8qHbWazN0cnzeR3lCGh.jpg",
+    "en": "/hll4O5vSAfnZDb6JbnP06GPtz7b.jpg"
+  },
+  "backdrops": [
+    "/ELsTifJ2lu4vsMhoHeZ5EnncHw.jpg",
+    "/E873oJJefZET6Xo8ZXT260Aoll.jpg",
+    "/sC8hdLwSV3pI1JVfP6Y1fXOOtTz.jpg",
+    "/d9DeuR70Y8AGppSYwdLuoCUGenN.jpg",
+    "/2FZnx1UDauBbtsJOVrh4EwnI1kE.jpg",
+    "/8zqNV0c79nRg06WylfIfRnFApiX.jpg",
+    "/lXC66966vdO3mXNVnvTUCGfwwNe.jpg",
+    "/6v4HTt1lLF0xw80EFGrbzvZMWqw.jpg",
+    "/rxwbgJKuglsUfcMUJG7oer1fLAy.jpg",
+    "/2xpc4Lrl9mEHbuUkGR0I6k9haf.jpg"
+  ],
+  "trailerKey": "kTxmxlxg90E",
+  "genreIds": [
+    35,
+    14,
+    878
+  ],
+  "keywordIds": [
+    840,
+    833,
+    839,
+    83,
+    843,
+    464,
+    1280,
+    1704,
+    1705,
+    3243,
+    10123,
+    9755,
+    9717,
+    9951,
+    13031,
+    14909,
+    252634,
+    259376
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Tim Burton Productions"
+  ],
+  "crew": [
+    {
+      "personId": 513,
+      "job": "writer"
+    },
+    {
+      "personId": 307,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 510,
+      "job": "producer"
+    },
+    {
+      "personId": 510,
+      "job": "director"
+    },
+    {
+      "personId": 511,
+      "job": "producer"
+    },
+    {
+      "personId": 531,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 514,
+      "character": "President Dale / Art Land",
+      "order": 0
+    },
+    {
+      "personId": 515,
+      "character": "Marsha Dale",
+      "order": 1
+    },
+    {
+      "personId": 516,
+      "character": "Barbara Land",
+      "order": 2
+    },
+    {
+      "personId": 517,
+      "character": "Donald Kessler",
+      "order": 3
+    },
+    {
+      "personId": 518,
+      "character": "Rude Gambler",
+      "order": 4
+    },
+    {
+      "personId": 519,
+      "character": "Jerry Ross",
+      "order": 5
+    },
+    {
+      "personId": 520,
+      "character": "Nathalie Lake",
+      "order": 6
+    },
+    {
+      "personId": 521,
+      "character": "Jason Stone",
+      "order": 7
+    },
+    {
+      "personId": 522,
+      "character": "General Decker",
+      "order": 8
+    },
+    {
+      "personId": 523,
+      "character": "Tom Jones",
+      "order": 9
+    },
+    {
+      "personId": 526,
+      "character": "Richie Norris",
+      "order": 10
+    },
+    {
+      "personId": 524,
+      "character": "Taffy Dale",
+      "order": 11
+    },
+    {
+      "personId": 4774,
+      "character": "Byron Williams",
+      "order": 12
+    },
+    {
+      "personId": 4452,
+      "character": "Martian Girl",
+      "order": 13
+    },
+    {
+      "personId": 528,
+      "character": "Grandma Norris",
+      "order": 14
+    },
+    {
+      "personId": 1818,
+      "character": "General Casey",
+      "order": 15
+    },
+    {
+      "personId": 2230,
+      "character": "Louise Williams",
+      "order": 16
+    },
+    {
+      "personId": 70851,
+      "character": "Billy Glenn Norris",
+      "order": 17
+    },
+    {
+      "personId": 2393402,
+      "character": "Cindy",
+      "order": 18
+    },
+    {
+      "personId": 98894,
+      "character": "Cedric",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 6117,
+  "sources": [
+    "cult-list"
+  ]
+}

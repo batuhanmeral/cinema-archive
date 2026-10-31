@@ -1,0 +1,218 @@
+{
+  "tmdbId": 620,
+  "slug": "ghostbusters-1984",
+  "year": 1984,
+  "runtime": 105,
+  "originalTitle": "Ghostbusters",
+  "title": {
+    "en": "Ghostbusters",
+    "tr": "Hayalet Avcıları"
+  },
+  "overview": {
+    "en": "After losing their university jobs, three parapsychologists start a ghost-catching business in New York City and uncover a supernatural threat that could destroy the world.",
+    "tr": "Paranormal konulara düşkün Dr. Peter Venkman ve 3 kafadar akademisyen arkadaşı bir işe yaramadıkları gerekçesiyle Columbia Üniversitesi'nden atıldıklarında kendi işlerini kurmaya karar verirler ve hayalet avcılığı şirketi Ghostbusters doğar.TV reklamları sayesinde isimlerini duyurup, New Yorkluları şehrin orasına burasına musallat olmuş hayaletlerden kurtarmaya başlarlar. Bir gün güzel viyolonselist Dana Barrett tarafında kiralandıklarında, genç kadına ait evin, New York'u istila etmeye başlayan kötü ruhlar tarafından dünyaya giriş kapısı olarak kullanıldığını anlarlar. İşler kontrolden çıkar.1984'te, o zamana dek yapılmış en pahalı komedi filmi olarak vizyona girdiğinde çılgınlık derecesinde sevilmiş olan Hayalet Avcıları; Dan Aykroyd ve Harold Ramis'in birlikte yazdıkları dahice senaryo kadar, Bill Murray ve Rick Moranis gibi komedyenlerin usta oyunuyla da unutulmazlar arasına girmiş bir yapım."
+  },
+  "poster": {
+    "tr": "/fTiiq21WmX9LDZFNzDSJZ6hWUYs.jpg",
+    "en": "/di9t2YVpWDKuUtYkrm10yVld50x.jpg"
+  },
+  "backdrops": [
+    "/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg",
+    "/yka8c9kOHXmJpmFRn01y3lzfB1U.jpg",
+    "/hSdQD5BecyxblygVOU0xHrb3iNZ.jpg",
+    "/y5hWH6Iz2nFSzaPipBBVGEYyeGq.jpg",
+    "/5kM80YUaa4H9HsQUFGXbjaGjI5u.jpg",
+    "/iW51ckEbJ7b3rS70maozhQpCJbH.jpg",
+    "/5buV0DOvzGzc4WEC9k7BxLuiomH.jpg",
+    "/xRJ2LspU5kEK41qY1y78ML37QBq.jpg",
+    "/ad8C6DhTA8Z1vt3LCDOgkpeDURa.jpg",
+    "/oUcrupfHti5fywSdl7rswJQKpwJ.jpg"
+  ],
+  "trailerKey": "msq0hZSgZdM",
+  "genreIds": [
+    35,
+    14
+  ],
+  "keywordIds": [
+    242,
+    6832,
+    295,
+    6152,
+    3335,
+    3093,
+    11627,
+    3090,
+    3092,
+    11096,
+    5801,
+    11100,
+    10224,
+    9410,
+    9712,
+    2035,
+    12416,
+    15043,
+    33556,
+    33637,
+    33809,
+    161306,
+    162846,
+    164246,
+    179431,
+    212776,
+    225012,
+    288025,
+    289108,
+    319397,
+    325765,
+    325807
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Columbia Pictures",
+    "Delphi Films",
+    "Black Rhino Productions"
+  ],
+  "crew": [
+    {
+      "personId": 8858,
+      "job": "director"
+    },
+    {
+      "personId": 707,
+      "job": "writer"
+    },
+    {
+      "personId": 1524,
+      "job": "writer"
+    },
+    {
+      "personId": 8858,
+      "job": "producer"
+    },
+    {
+      "personId": 7182,
+      "job": "composer"
+    },
+    {
+      "personId": 8862,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 65673,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1532,
+      "character": "Dr. Peter Venkman",
+      "order": 0
+    },
+    {
+      "personId": 707,
+      "character": "Dr. Raymond Stantz",
+      "order": 1
+    },
+    {
+      "personId": 1524,
+      "character": "Dr. Egon Spengler",
+      "order": 2
+    },
+    {
+      "personId": 10205,
+      "character": "Dana Barrett",
+      "order": 3
+    },
+    {
+      "personId": 8872,
+      "character": "Louis Tully",
+      "order": 4
+    },
+    {
+      "personId": 8874,
+      "character": "Winston Zeddemore",
+      "order": 5
+    },
+    {
+      "personId": 8873,
+      "character": "Janine Melnitz",
+      "order": 6
+    },
+    {
+      "personId": 7676,
+      "character": "Walter Peck",
+      "order": 7
+    },
+    {
+      "personId": 8875,
+      "character": "Mayor",
+      "order": 8
+    },
+    {
+      "personId": 562314,
+      "character": "Gozer",
+      "order": 9
+    },
+    {
+      "personId": 17488,
+      "character": "Librarian",
+      "order": 10
+    },
+    {
+      "personId": 51549,
+      "character": "Dean Yager",
+      "order": 11
+    },
+    {
+      "personId": 55930,
+      "character": "Male Student",
+      "order": 12
+    },
+    {
+      "personId": 101652,
+      "character": "Female Student",
+      "order": 13
+    },
+    {
+      "personId": 1080265,
+      "character": "Hotel Manager",
+      "order": 14
+    },
+    {
+      "personId": 17396,
+      "character": "Violinist",
+      "order": 15
+    },
+    {
+      "personId": 60205,
+      "character": "Library Administrator",
+      "order": 16
+    },
+    {
+      "personId": 1164427,
+      "character": "Archbishop",
+      "order": 17
+    },
+    {
+      "personId": 950927,
+      "character": "Roger Grimsby",
+      "order": 18
+    },
+    {
+      "personId": 44127,
+      "character": "Larry King",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 10108,
+  "sources": [
+    "cult-list"
+  ]
+}

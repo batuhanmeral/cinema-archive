@@ -1,0 +1,222 @@
+{
+  "tmdbId": 4588,
+  "slug": "lust-caution-2007",
+  "year": 2007,
+  "runtime": 158,
+  "originalTitle": "色‧戒",
+  "title": {
+    "en": "Lust, Caution",
+    "tr": "Dikkat Şehvet"
+  },
+  "overview": {
+    "en": "During World War II, a secret agent must seduce, then assassinate an official  who works for the Japanese puppet government in Shanghai. Her mission becomes clouded when she finds herself falling in love with the man she is assigned to kill.",
+    "tr": "Asya sinemasının baş tacı olarak kabul edilen Tony Leung, karısının genç ve güzel arkadaşına aşık olan güçlü bir devlet adamıdır. Aralarında yaşanan ilişki, tutku dolu bir aşk ruletine dönüşür. Cinayet ise aşklarını kanıtlamanın tek yolu olacaktır."
+  },
+  "poster": {
+    "tr": "/3cx2OVCnXLwPA6GyAxrZeVHMjr4.jpg",
+    "en": "/jyVzegbfpL6PS29hcGSyQH4eovY.jpg"
+  },
+  "backdrops": [
+    "/lU1fQews2gye23PocVE48CsTmOQ.jpg",
+    "/7vbpxSxEcZjEtaMWv39SIIQGKjx.jpg",
+    "/rHevz8ViXjaFQdVJykN0SUCwYtu.jpg",
+    "/pjAFOOpYabFzMdWqpKBCJFwGyDc.jpg",
+    "/dC2Hsu9twTYJIK1UWvgKsQKJhOP.jpg",
+    "/kV8nGVSRIpNZ42W8Y2vEiz5xrGL.jpg",
+    "/ltS8oaXjKw97ycTQXqXPBAsmLhS.jpg",
+    "/6Tf07QxA22E0r4nbaNBUSVurZyq.jpg",
+    "/9N7iwaZYPPuIC5XNHItVTOZDNMN.jpg",
+    "/w2FYBjdZMbxXemKGuRjSM5Piwti.jpg"
+  ],
+  "trailerKey": "CizN-DvGhrc",
+  "genreIds": [
+    28,
+    18,
+    10749,
+    53
+  ],
+  "keywordIds": [
+    7879,
+    478,
+    459,
+    2682,
+    1332,
+    5265,
+    836,
+    930,
+    2052,
+    4320,
+    3074,
+    4269,
+    4691,
+    5726,
+    9673,
+    12354,
+    14669,
+    34094,
+    155633,
+    174375,
+    207767,
+    207883
+  ],
+  "countries": [
+    "CN",
+    "HK",
+    "TW",
+    "US"
+  ],
+  "languages": [
+    "cn",
+    "ja",
+    "zh",
+    "en"
+  ],
+  "studios": [
+    "River Road Entertainment",
+    "Haishang Films",
+    "Focus Features"
+  ],
+  "crew": [
+    {
+      "personId": 1614,
+      "job": "producer"
+    },
+    {
+      "personId": 275,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1351,
+      "job": "producer"
+    },
+    {
+      "personId": 28642,
+      "job": "writer"
+    },
+    {
+      "personId": 1617,
+      "job": "writer"
+    },
+    {
+      "personId": 1614,
+      "job": "director"
+    },
+    {
+      "personId": 1023786,
+      "job": "producer"
+    },
+    {
+      "personId": 2949,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 38280,
+      "character": "Wong Chia Chi / Mrs. Mak",
+      "order": 0
+    },
+    {
+      "personId": 1337,
+      "character": "Mr. Yee",
+      "order": 1
+    },
+    {
+      "personId": 134184,
+      "character": "Kuang Yu Min",
+      "order": 2
+    },
+    {
+      "personId": 6720,
+      "character": "Mrs. Yee",
+      "order": 3
+    },
+    {
+      "personId": 1366128,
+      "character": "Old Wu",
+      "order": 4
+    },
+    {
+      "personId": 38285,
+      "character": "Lai Shu Jin",
+      "order": 5
+    },
+    {
+      "personId": 38286,
+      "character": "Huang Lei",
+      "order": 6
+    },
+    {
+      "personId": 150609,
+      "character": "Liang Jun Sheng",
+      "order": 7
+    },
+    {
+      "personId": 1191744,
+      "character": "Auyang Ling Wen / Mr. Mak",
+      "order": 8
+    },
+    {
+      "personId": 148884,
+      "character": "Cho",
+      "order": 9
+    },
+    {
+      "personId": 1299621,
+      "character": "Mrs. Ma",
+      "order": 10
+    },
+    {
+      "personId": 64987,
+      "character": "Mrs. Hsiao",
+      "order": 11
+    },
+    {
+      "personId": 1396087,
+      "character": "Wang's Aunt",
+      "order": 12
+    },
+    {
+      "personId": 1624255,
+      "character": "Secretary Zhang",
+      "order": 13
+    },
+    {
+      "personId": 86633,
+      "character": "Mahjong Partner of Aunt",
+      "order": 14
+    },
+    {
+      "personId": 1191758,
+      "character": "Mrs. Leung",
+      "order": 15
+    },
+    {
+      "personId": 2725635,
+      "character": "Mrs. Zhu",
+      "order": 16
+    },
+    {
+      "personId": 1236324,
+      "character": "Mrs. Liao",
+      "order": 17
+    },
+    {
+      "personId": 5117369,
+      "character": "Grandma",
+      "order": 18
+    },
+    {
+      "personId": 2892182,
+      "character": "Mr. Yee's Driver",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "venice": 1
+  },
+  "voteCount": 859,
+  "sources": [
+    "cult-list"
+  ]
+}

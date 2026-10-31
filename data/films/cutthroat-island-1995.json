@@ -1,0 +1,217 @@
+{
+  "tmdbId": 1408,
+  "slug": "cutthroat-island-1995",
+  "year": 1995,
+  "runtime": 124,
+  "originalTitle": "Cutthroat Island",
+  "title": {
+    "en": "Cutthroat Island",
+    "tr": "Korsan"
+  },
+  "overview": {
+    "en": "Morgan Adams and her slave, William Shaw, are on a quest to recover the three portions of a treasure map. Unfortunately, the final portion is held by her murderous uncle, Dawg. Her crew is skeptical of her leadership abilities, so she must complete her quest before they mutiny against her. This is made yet more difficult by the efforts of the British crown to end her pirate raids.",
+    "tr": "Ünlü bir korsanın kızı olarak aynı işe soyunan güzel kaptan Morgan Adams, bir hazine haritasının parçasını bulur. Babasından kalan gemisi ve tayfalarıyla haritada sözü edilen hazineyi bulmak için yola koyulurlar.Bu arada Morgan, bir köle pazarından zeki ve yakışıklı William Shaw'u satın alarak kadrosuna ekler. Shaw'un da yardımıyla haritanın diğer yarısını ele geçirmek ve acımasız korsan Dawg Brown'dan önce hazineye ulaşmak için zorlu bir yarışa girişirler."
+  },
+  "poster": {
+    "tr": "/hYdeBZ4BFXivdouxLfQGWNE6zRx.jpg",
+    "en": "/cDYa1i5UzXWztO5ZUp4azv7ycPs.jpg"
+  },
+  "backdrops": [
+    "/hHoIQVAmTg4RM7PPNhNvMlJk3mg.jpg",
+    "/ndjMBg9FINJBEi1RaP64oLApR1s.jpg",
+    "/gByJVtAqIt9xKmmBLBWMv2aEcI0.jpg",
+    "/yhLeQvc841cBcXHgqDZmJpflDxG.jpg",
+    "/3naPXulW18qJm32VtpEs8YQ4Yhv.jpg",
+    "/pgRisT0WHjLMk7g9mXPvJZXWaCM.jpg",
+    "/gQ9JJTdwVCiql4AwGUhHY94kkxn.jpg",
+    "/6uOgrDgefTjFdOk5Dy0lkhLbVEH.jpg",
+    "/361If12phTxPOnrnDWlO9rAMvoH.jpg",
+    "/ezPg8GtzOQVT66r7224n8pY7y1I.jpg"
+  ],
+  "trailerKey": "WFn7VVN3Wvk",
+  "genreIds": [
+    28,
+    12,
+    35,
+    14
+  ],
+  "keywordIds": [
+    3799,
+    1454,
+    911,
+    2041,
+    1969,
+    5470,
+    11088,
+    9725,
+    10085,
+    12988,
+    156525,
+    157186,
+    175428,
+    185200,
+    207941
+  ],
+  "countries": [
+    "US",
+    "FR",
+    "DE",
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "la",
+    "es"
+  ],
+  "studios": [
+    "Carolco Pictures",
+    "Forge",
+    "Laurence Mark Productions"
+  ],
+  "crew": [
+    {
+      "personId": 20061,
+      "job": "writer"
+    },
+    {
+      "personId": 22706,
+      "job": "producer"
+    },
+    {
+      "personId": 16938,
+      "job": "director"
+    },
+    {
+      "personId": 16938,
+      "job": "producer"
+    },
+    {
+      "personId": 7228,
+      "job": "producer"
+    },
+    {
+      "personId": 2044,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10685,
+      "job": "producer"
+    },
+    {
+      "personId": 1224549,
+      "job": "writer"
+    },
+    {
+      "personId": 4500,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16935,
+      "character": "Morgan Adams",
+      "order": 0
+    },
+    {
+      "personId": 8654,
+      "character": "William Shaw",
+      "order": 1
+    },
+    {
+      "personId": 8924,
+      "character": "Dawg",
+      "order": 2
+    },
+    {
+      "personId": 7868,
+      "character": "John Reed",
+      "order": 3
+    },
+    {
+      "personId": 8979,
+      "character": "Ainslee",
+      "order": 4
+    },
+    {
+      "personId": 16936,
+      "character": "Glasspoole",
+      "order": 5
+    },
+    {
+      "personId": 16937,
+      "character": "Mr. Blair",
+      "order": 6
+    },
+    {
+      "personId": 13925,
+      "character": "Snelgrave",
+      "order": 7
+    },
+    {
+      "personId": 35769,
+      "character": "Bowen",
+      "order": 8
+    },
+    {
+      "personId": 133771,
+      "character": "Scully",
+      "order": 9
+    },
+    {
+      "personId": 1166,
+      "character": "Black Harry",
+      "order": 10
+    },
+    {
+      "personId": 127166,
+      "character": "Bishop",
+      "order": 11
+    },
+    {
+      "personId": 1220350,
+      "character": "Fiddler Pirate",
+      "order": 12
+    },
+    {
+      "personId": 933640,
+      "character": "Captain Trotter",
+      "order": 13
+    },
+    {
+      "personId": 91662,
+      "character": "Toussant",
+      "order": 14
+    },
+    {
+      "personId": 3104489,
+      "character": "Mandy Rickets",
+      "order": 15
+    },
+    {
+      "personId": 31294,
+      "character": "Lady",
+      "order": 16
+    },
+    {
+      "personId": 3104490,
+      "character": "Lady",
+      "order": 17
+    },
+    {
+      "personId": 17202,
+      "character": "Lieutenant",
+      "order": 18
+    },
+    {
+      "personId": 1649736,
+      "character": "Auctioneer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 660,
+  "sources": [
+    "cult-list"
+  ]
+}

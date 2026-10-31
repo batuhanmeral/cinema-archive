@@ -1,0 +1,198 @@
+{
+  "tmdbId": 212,
+  "slug": "arsenic-and-old-lace-1944",
+  "year": 1944,
+  "runtime": 118,
+  "originalTitle": "Arsenic and Old Lace",
+  "title": {
+    "en": "Arsenic and Old Lace",
+    "tr": "Arsenik Kurbanları"
+  },
+  "overview": {
+    "en": "Mortimer Brewster, a newspaper drama critic, playwright, and author known for his diatribes against marriage, suddenly falls in love and gets married;  but when he makes a quick trip home to tell his two maiden aunts, he finds out his aunts' hobby - killing lonely old men and burying them in the cellar!",
+    "tr": "Cary Grant ve ona eşlik eden müthiş bir oyuncu kadrosu, Joseph Kesselring’in 1941 tarihli Brodway oyunundan Frank Capra’nın uyarladığı bu komedi klasiğinde kırıp geçiriyor. Yorgun tiyatro eleştirmeni Mortimer Brewster’ın (Grant) şüpheli şahıslara zehirli içki içiren iki halası (Josephine Hull and Jean Adair), Boris Karfoff’a benzeyen sosyopat bir kardeşi (Raymond Massey), kendini Teddy Roosevelt sanan bir başka çatlak kardeşi, yeni evlendiği sabırsız bir eşi ve herşeyi yoluna sokmak için sadece bir gecesi vardır. Bu sirkin ortasında Cary Grant’in yüzü bir palyaço gibi şaşkın ifadeler alır, doğal atletik yapısı lastik bacaklı bir balerin gibi şekilden şekle girerken gülmekten öleceksiniz."
+  },
+  "poster": {
+    "tr": "/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg",
+    "en": "/xG1GEEQGgExKl0WT5sRo1Arst5D.jpg"
+  },
+  "backdrops": [
+    "/h0jlcOISKcrVG4IE4p5IyZGrMhn.jpg",
+    "/dBS95Ab8GkMu8cXd50hLB6TcEo9.jpg",
+    "/onot0ZgRNnevPRxp6JUhxQFIOR3.jpg",
+    "/dK5F8ny0hfN31ddArG0wk4WPGGq.jpg",
+    "/q4K86ymdMFy1XVMkYJmQiXaKHTX.jpg",
+    "/2IyCGod7n0N1Qvcr8fZDluIgCDz.jpg",
+    "/yI0PSTb61BpVkbvU8nCRJx0qnc6.jpg",
+    "/9XDj5aUmY6MBVH7QoRJqQBQrKLM.jpg",
+    "/66M9jz6Hg2W971uffMY7r300vzu.jpg",
+    "/r0se9flMSTbKM5O0PzIe2digUkT.jpg"
+  ],
+  "trailerKey": "7TsXVrLV9gg",
+  "genreIds": [
+    35,
+    80
+  ],
+  "keywordIds": [
+    351,
+    1227,
+    6255,
+    2602,
+    6038,
+    9826,
+    10714,
+    13028,
+    13092,
+    156273
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 2662,
+      "job": "director"
+    },
+    {
+      "personId": 2666,
+      "job": "writer"
+    },
+    {
+      "personId": 2662,
+      "job": "producer"
+    },
+    {
+      "personId": 2663,
+      "job": "producer"
+    },
+    {
+      "personId": 2665,
+      "job": "writer"
+    },
+    {
+      "personId": 8714,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3249,
+      "job": "composer"
+    },
+    {
+      "personId": 17915,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2638,
+      "character": "Mortimer Brewster",
+      "order": 0
+    },
+    {
+      "personId": 2670,
+      "character": "Elaine Harper Brewster",
+      "order": 1
+    },
+    {
+      "personId": 2667,
+      "character": "Aunt Abby Brewster",
+      "order": 2
+    },
+    {
+      "personId": 2668,
+      "character": "Aunt Martha Brewster",
+      "order": 3
+    },
+    {
+      "personId": 2669,
+      "character": "Jonathan Brewster",
+      "order": 4
+    },
+    {
+      "personId": 2671,
+      "character": "'Teddy Roosevelt' Brewster",
+      "order": 5
+    },
+    {
+      "personId": 2094,
+      "character": "Dr. Einstein",
+      "order": 6
+    },
+    {
+      "personId": 2672,
+      "character": "Officer Patrick O'Hara",
+      "order": 7
+    },
+    {
+      "personId": 2437,
+      "character": "Mr. Witherspoon",
+      "order": 8
+    },
+    {
+      "personId": 30537,
+      "character": "Lt. Rooney",
+      "order": 9
+    },
+    {
+      "personId": 30215,
+      "character": "Reverend Harper",
+      "order": 10
+    },
+    {
+      "personId": 2674,
+      "character": "Sergeant Brophy",
+      "order": 11
+    },
+    {
+      "personId": 117772,
+      "character": "Taxi Cab Driver",
+      "order": 12
+    },
+    {
+      "personId": 2673,
+      "character": "Officer Saunders",
+      "order": 13
+    },
+    {
+      "personId": 247639,
+      "character": "Judge Cullman",
+      "order": 14
+    },
+    {
+      "personId": 30280,
+      "character": "Dr. Gilchrist",
+      "order": 15
+    },
+    {
+      "personId": 29579,
+      "character": "Reporter at Marriage License Office",
+      "order": 16
+    },
+    {
+      "personId": 96069,
+      "character": "Gibbs",
+      "order": 17
+    },
+    {
+      "personId": 13856,
+      "character": "Photographer at Marriage License Office (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 34280,
+      "character": "Marriage License Clerk",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1092,
+  "sources": [
+    "cult-list"
+  ]
+}

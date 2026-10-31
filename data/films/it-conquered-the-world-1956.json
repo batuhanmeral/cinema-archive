@@ -1,0 +1,156 @@
+{
+  "tmdbId": 27625,
+  "slug": "it-conquered-the-world-1956",
+  "year": 1956,
+  "runtime": 71,
+  "originalTitle": "It Conquered the World",
+  "title": {
+    "en": "It Conquered the World",
+    "tr": "It Conquered the World"
+  },
+  "overview": {
+    "en": "An alien from Venus tries to take over the world with the help of a disillusioned human scientist, as his wife, his best friend and the friend's wife try to intervene.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ed5aKwjf0xJ0yoX2faFUULVLqJJ.jpg",
+    "en": "/2V56EhYR3VsiXnnEMdWWPMsWO68.jpg"
+  },
+  "backdrops": [
+    "/hVvio72dIEXRyNEjfb9wnDGYMfU.jpg",
+    "/9dR33ugxA1Gd6WBQWHhC6a1gIvL.jpg",
+    "/uyvuz1wjHiv1xchdJBB1Ujh6202.jpg",
+    "/iqDG5mtWmRXfe0iWVjxuo4qaaI7.jpg"
+  ],
+  "trailerKey": "5vD-Z56Px_k",
+  "genreIds": [
+    878,
+    53,
+    27
+  ],
+  "keywordIds": [
+    9678,
+    1299,
+    5155,
+    9951,
+    13031,
+    14760,
+    162636
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Sunset Productions",
+    "American International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 52140,
+      "job": "writer"
+    },
+    {
+      "personId": 91999,
+      "job": "composer"
+    },
+    {
+      "personId": 102429,
+      "job": "producer"
+    },
+    {
+      "personId": 102429,
+      "job": "director"
+    },
+    {
+      "personId": 78858,
+      "job": "writer"
+    },
+    {
+      "personId": 119989,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4078,
+      "character": "Dr. Tom Anderson",
+      "order": 0
+    },
+    {
+      "personId": 83987,
+      "character": "Claire Anderson",
+      "order": 1
+    },
+    {
+      "personId": 9111,
+      "character": "Dr. Paul Nelson",
+      "order": 2
+    },
+    {
+      "personId": 98457,
+      "character": "Joan Nelson",
+      "order": 3
+    },
+    {
+      "personId": 98458,
+      "character": "General James Pattick",
+      "order": 4
+    },
+    {
+      "personId": 98452,
+      "character": "Pvt. Miguel Ortiz",
+      "order": 5
+    },
+    {
+      "personId": 102441,
+      "character": "Sgt. Neil",
+      "order": 6
+    },
+    {
+      "personId": 1467003,
+      "character": "Floyd Mason",
+      "order": 7
+    },
+    {
+      "personId": 52140,
+      "character": "Dr. Pete Shelton",
+      "order": 8
+    },
+    {
+      "personId": 98459,
+      "character": "Ellen Peters",
+      "order": 9
+    },
+    {
+      "personId": 197436,
+      "character": "Sheriff N.J. Shallert",
+      "order": 10
+    },
+    {
+      "personId": 81292,
+      "character": "George Haskell",
+      "order": 11
+    },
+    {
+      "personId": 31265,
+      "character": "U.S. Secretary Platt",
+      "order": 12
+    },
+    {
+      "personId": 126997,
+      "character": "Gen. Carpenter",
+      "order": 13
+    },
+    {
+      "personId": 98449,
+      "character": "The Monster (uncredited)",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 56,
+  "sources": [
+    "cult-list"
+  ]
+}

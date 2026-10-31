@@ -1,0 +1,193 @@
+{
+  "tmdbId": 11839,
+  "slug": "the-court-jester-1955",
+  "year": 1955,
+  "runtime": 101,
+  "originalTitle": "The Court Jester",
+  "title": {
+    "en": "The Court Jester",
+    "tr": "Kralın Soytarısı"
+  },
+  "overview": {
+    "en": "A hapless carnival performer masquerades as the court jester as part of a plot against a usurper who has overthrown the rightful king of England.",
+    "tr": "Şanssız bir karnaval sanatçısı, haklı Kralı deviren kötü bir hükümdarın komplosunun parçası olarak saray soytarısı kılığına girer."
+  },
+  "poster": {
+    "tr": "/pPCOAipDP0sm8SLChpTMBPdCiqB.jpg",
+    "en": "/rp15BUWv6hXpjNxGTLfs2EKhFm8.jpg"
+  },
+  "backdrops": [
+    "/dxtPARExUBZniJ5bBVoejPIdoeh.jpg",
+    "/oeEJQJIl02IPOwIdQjH3VSl6Tqe.jpg",
+    "/mgvXhRgqTwjunVSz4G6nsoc0klh.jpg",
+    "/fYasFLfjc9LnslJUmlKV75WLeQX.jpg",
+    "/kAvnPlmAF5WUEs3BYeJjfE1t5Rk.jpg",
+    "/s5ZBdZV0kLYjVMg036D7EhJ0Cv0.jpg",
+    "/ykc2ZzmleZL1aVcmheAgUuXfkKf.jpg",
+    "/fOXkRoq0jJcbLnwFDy5VN6ABYvV.jpg",
+    "/yNmClQrZiEQ628R6l4bvTaXYb4X.jpg",
+    "/xfQdyAIeINuBobFry6NBlrZ2va1.jpg"
+  ],
+  "trailerKey": "8mu_aHBFuVY",
+  "genreIds": [
+    10402,
+    12,
+    35
+  ],
+  "keywordIds": [
+    616,
+    392,
+    1938,
+    3363,
+    5090
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Dena Enterprises",
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 50567,
+      "job": "director"
+    },
+    {
+      "personId": 50577,
+      "job": "director"
+    },
+    {
+      "personId": 50577,
+      "job": "writer"
+    },
+    {
+      "personId": 50567,
+      "job": "writer"
+    },
+    {
+      "personId": 50567,
+      "job": "producer"
+    },
+    {
+      "personId": 50577,
+      "job": "producer"
+    },
+    {
+      "personId": 70672,
+      "job": "composer"
+    },
+    {
+      "personId": 3375,
+      "job": "composer"
+    },
+    {
+      "personId": 52593,
+      "job": "composer"
+    },
+    {
+      "personId": 16750,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 70668,
+      "character": "Hubert Hawkins",
+      "order": 0
+    },
+    {
+      "personId": 5826,
+      "character": "Maid Jean",
+      "order": 1
+    },
+    {
+      "personId": 8727,
+      "character": "Sir Ravenhurst",
+      "order": 2
+    },
+    {
+      "personId": 14730,
+      "character": "Princess Gwendolyn",
+      "order": 3
+    },
+    {
+      "personId": 14300,
+      "character": "King Roderick I",
+      "order": 4
+    },
+    {
+      "personId": 12969,
+      "character": "Griselda",
+      "order": 5
+    },
+    {
+      "personId": 29363,
+      "character": "Sir Griswold",
+      "order": 6
+    },
+    {
+      "personId": 50303,
+      "character": "Sir Locksley",
+      "order": 7
+    },
+    {
+      "personId": 50573,
+      "character": "Captain of the Guard",
+      "order": 8
+    },
+    {
+      "personId": 96739,
+      "character": "Fergus",
+      "order": 9
+    },
+    {
+      "personId": 8516,
+      "character": "Giacomo",
+      "order": 10
+    },
+    {
+      "personId": 95013,
+      "character": "Black Fox",
+      "order": 11
+    },
+    {
+      "personId": 6933,
+      "character": "Sir Brockhurst",
+      "order": 12
+    },
+    {
+      "personId": 118452,
+      "character": "Sir Pertwee",
+      "order": 13
+    },
+    {
+      "personId": 93625,
+      "character": "Sir Finsdale",
+      "order": 14
+    },
+    {
+      "personId": 1917958,
+      "character": "Archbishop",
+      "order": 15
+    },
+    {
+      "personId": 1217924,
+      "character": "Sir Bertram",
+      "order": 16
+    },
+    {
+      "personId": 3332483,
+      "character": "Gate House Guard",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 224,
+  "sources": [
+    "cult-list"
+  ]
+}

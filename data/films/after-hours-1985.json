@@ -1,0 +1,210 @@
+{
+  "tmdbId": 10843,
+  "slug": "after-hours-1985",
+  "year": 1985,
+  "runtime": 97,
+  "originalTitle": "After Hours",
+  "title": {
+    "en": "After Hours",
+    "tr": "Saatler Sonra"
+  },
+  "overview": {
+    "en": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman.",
+    "tr": "Paul Hackett, monoton yaşamı olan genç bir bilgi işlemcidir. Bir akşam işten sonra gittiği kafede raslantı eseri Marcy adında hoş bir kadınla tanışır ve onun telefon numarasını alır. Akşam telefonda Marcy ile konuşan Paul, genç kadının daveti üzerine Soho’daki evine gitmek için yola koyulur.Tuhaf olaylarla başlayan gecesi pek de umduğu gibi gitmeyen Paul, evine dönmek için yola çıkar. Ancak aksiliklerin ve kötü tesadüflerin peşini bırakmayacağı uğursuz bir gece onu beklemektedir."
+  },
+  "poster": {
+    "tr": "/t0oDdnhjEWVWERhKReYQu1aRuJ7.jpg",
+    "en": "/eamOBurHBu0MIxohTIVcfxmZ6Z7.jpg"
+  },
+  "backdrops": [
+    "/gTPH5zIvkl8HV9vLsqOiPBVTsSB.jpg",
+    "/7Pj9AZ4CpnxkDXYMxzae4WmJUsJ.jpg",
+    "/38zhXIWXlWDzwI8gRJOf5ISyGFc.jpg",
+    "/tV2KZZR5JaqTSXiNKowGqQMQtex.jpg",
+    "/kygOSBC0V0uRE6zmIaOO50rG9eg.jpg",
+    "/6zfHrEoM9AXxBnkEVfaFnPStddU.jpg",
+    "/gfvrEwXeZ0mVX7SCbkfIUDFsfEM.jpg",
+    "/bsagMaJXd66zNmN4HGYHJCCYF2.jpg",
+    "/5fuNOagtzqFMmCPu1NRnPGfAX8W.jpg",
+    "/2GTCIy7juTInaqJIYWHCVl8NZ8h.jpg"
+  ],
+  "trailerKey": "wixOBXjZvtw",
+  "genreIds": [
+    35,
+    53,
+    18
+  ],
+  "keywordIds": [
+    242,
+    236,
+    248,
+    1552,
+    2334,
+    2635,
+    2679,
+    3307,
+    4470,
+    9887,
+    10901,
+    9727,
+    9826,
+    11578,
+    162914,
+    193551,
+    202558,
+    202559,
+    202560,
+    209845,
+    277050,
+    287556,
+    325814,
+    364135
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Double Play",
+    "Geffen Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 2171,
+      "job": "producer"
+    },
+    {
+      "personId": 117,
+      "job": "composer"
+    },
+    {
+      "personId": 1032,
+      "job": "director"
+    },
+    {
+      "personId": 1994,
+      "job": "producer"
+    },
+    {
+      "personId": 2556,
+      "job": "producer"
+    },
+    {
+      "personId": 3769,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 51951,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2171,
+      "character": "Paul Hackett",
+      "order": 0
+    },
+    {
+      "personId": 2165,
+      "character": "Marcy",
+      "order": 1
+    },
+    {
+      "personId": 55192,
+      "character": "June",
+      "order": 2
+    },
+    {
+      "personId": 63208,
+      "character": "Pepe",
+      "order": 3
+    },
+    {
+      "personId": 9625,
+      "character": "Kiki",
+      "order": 4
+    },
+    {
+      "personId": 8437,
+      "character": "Julie",
+      "order": 5
+    },
+    {
+      "personId": 11512,
+      "character": "Tom the Bartender",
+      "order": 6
+    },
+    {
+      "personId": 11159,
+      "character": "Neil",
+      "order": 7
+    },
+    {
+      "personId": 11514,
+      "character": "Gail",
+      "order": 8
+    },
+    {
+      "personId": 102441,
+      "character": "Waiter",
+      "order": 9
+    },
+    {
+      "personId": 883,
+      "character": "Horst",
+      "order": 10
+    },
+    {
+      "personId": 77253,
+      "character": "Street Pickup",
+      "order": 11
+    },
+    {
+      "personId": 4689,
+      "character": "Lloyd",
+      "order": 12
+    },
+    {
+      "personId": 65765,
+      "character": "Coffee Shop Cashier",
+      "order": 13
+    },
+    {
+      "personId": 77254,
+      "character": "Taxi Driver",
+      "order": 14
+    },
+    {
+      "personId": 2561,
+      "character": "Diner Cashier",
+      "order": 15
+    },
+    {
+      "personId": 77255,
+      "character": "Subway Attendant",
+      "order": 16
+    },
+    {
+      "personId": 2342718,
+      "character": "Transit Cop",
+      "order": 17
+    },
+    {
+      "personId": 3336342,
+      "character": "Neighbor #1",
+      "order": 18
+    },
+    {
+      "personId": 176988,
+      "character": "Neighbor #2",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1867,
+  "sources": [
+    "cult-list"
+  ]
+}

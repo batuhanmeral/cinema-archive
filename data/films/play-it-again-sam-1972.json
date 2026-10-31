@@ -1,0 +1,164 @@
+{
+  "tmdbId": 11610,
+  "slug": "play-it-again-sam-1972",
+  "year": 1972,
+  "runtime": 85,
+  "originalTitle": "Play It Again, Sam",
+  "title": {
+    "en": "Play It Again, Sam",
+    "tr": "Tekrar Çal, Sam"
+  },
+  "overview": {
+    "en": "A neurotic film critic obsessed with the movie Casablanca attempts to get over his wife leaving him by dating again with the help of a married couple and his illusory idol, Humphrey Bogart.",
+    "tr": "Karısı tarafından terk edilen eleştirmen Allan'ı, bu travmatik durumdan arkadaşları kurtarmaya çalışır. Allan arkadaşlarının tanıştırdığı yeni kızlarla flört ederken, bir yandan da alt benliği olan Humphrey Bogart'ın tavsiyelerine uymaktadır. Allen'ın aynı adlı tiyatro oyunundan uyarlanan film, her bir dakikasında ayrı bir lezzet taşıyan, dolu dolu bir komedi."
+  },
+  "poster": {
+    "tr": "/yZFz5rwrdVmEoHVkVU7EkZedDfz.jpg",
+    "en": "/gpSGxqyoeKy34BOlv5GedREd3My.jpg"
+  },
+  "backdrops": [
+    "/chnLBhgqvaDJX5WpuoZgb3Ja6JA.jpg",
+    "/fVDuybtyhRqrqZvHPULtKHCgr1b.jpg",
+    "/6YaphqLSVChdWgF7csZVjM0b08Y.jpg",
+    "/4JtGCUvSY62JUFMKJ1PUcy17hSt.jpg",
+    "/m1CBqd9LVVK8btfomRpky6tgW5Y.jpg",
+    "/xvtfx1XDLkAewCkkaMjfwk2w6bi.jpg",
+    "/lJIcKP5pcevjmxv1nQfuhEOOrlA.jpg",
+    "/66sq1u6zdHuCj8VBhFAT57qhrYj.jpg",
+    "/bJoGx1233DGwPUqBwu8ho51vdBw.jpg",
+    "/zH4VfXkT8QCqXjdTQhwbBTm79mg.jpg"
+  ],
+  "trailerKey": "zd2EmVEgyuY",
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    248,
+    3298,
+    6664,
+    13043,
+    33490,
+    155278,
+    162846,
+    175357,
+    193223
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 13269,
+      "job": "producer"
+    },
+    {
+      "personId": 12417,
+      "job": "composer"
+    },
+    {
+      "personId": 1243,
+      "job": "writer"
+    },
+    {
+      "personId": 16331,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 18378,
+      "job": "director"
+    },
+    {
+      "personId": 111442,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1243,
+      "character": "Allan Felix",
+      "order": 0
+    },
+    {
+      "personId": 3092,
+      "character": "Linda Christie",
+      "order": 1
+    },
+    {
+      "personId": 10555,
+      "character": "Dick Christie",
+      "order": 2
+    },
+    {
+      "personId": 70013,
+      "character": "Humphrey Bogart",
+      "order": 3
+    },
+    {
+      "personId": 95788,
+      "character": "Nancy",
+      "order": 4
+    },
+    {
+      "personId": 41258,
+      "character": "Sharon Lake",
+      "order": 5
+    },
+    {
+      "personId": 160868,
+      "character": "Julie",
+      "order": 6
+    },
+    {
+      "personId": 54754,
+      "character": "Jennifer",
+      "order": 7
+    },
+    {
+      "personId": 99888,
+      "character": "Discotheque Girl",
+      "order": 8
+    },
+    {
+      "personId": 1462228,
+      "character": "Museum Girl",
+      "order": 9
+    },
+    {
+      "personId": 1462229,
+      "character": "Fantasy Sharon",
+      "order": 10
+    },
+    {
+      "personId": 29368,
+      "character": "Hood #1",
+      "order": 11
+    },
+    {
+      "personId": 136195,
+      "character": "Hood #2",
+      "order": 12
+    },
+    {
+      "personId": 161433,
+      "character": "Real Estate Developer (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 552445,
+      "character": "Taxi Hippie (uncredited)",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 668,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "tmdbId": 102388,
+  "slug": "the-blonde-witch-1956",
+  "year": 1956,
+  "runtime": 97,
+  "originalTitle": "La Sorcière",
+  "title": {
+    "en": "The Blonde Witch",
+    "tr": "La Sorcière"
+  },
+  "overview": {
+    "en": "Brulard, a French civil engineer on assignment in a remote Swedish village, meets Ina, who has been raised in forested isolation by her haggish mother and believes herself to be a witch. He falls in love with her and tries to convert her to civilization; but in the meantime, his female boss, Kristina, has fallen in love with him, while the villagers turn against him for consorting with someone they believe is cursed by the Devil.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lgXO1EHPid8pTMaaHH7qPBaRhRN.jpg",
+    "en": "/z18jl9lTHT9Oig6DqFs1sgn15u3.jpg"
+  },
+  "backdrops": [
+    "/pBijJxZJgRgPzyycx60P2D4cXMk.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10749,
+    27
+  ],
+  "keywordIds": [
+    6156,
+    5503,
+    9673,
+    10614,
+    15140,
+    218174,
+    225157,
+    282359
+  ],
+  "countries": [
+    "FR",
+    "SE"
+  ],
+  "languages": [
+    "fr",
+    "sv"
+  ],
+  "studios": [
+    "Films Metzger et Woog",
+    "Iéna Productions"
+  ],
+  "crew": [
+    {
+      "personId": 38254,
+      "job": "director"
+    },
+    {
+      "personId": 58232,
+      "job": "writer"
+    },
+    {
+      "personId": 72718,
+      "job": "writer"
+    },
+    {
+      "personId": 2822653,
+      "job": "writer"
+    },
+    {
+      "personId": 2822654,
+      "job": "producer"
+    },
+    {
+      "personId": 6789,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2046102,
+      "job": "composer"
+    },
+    {
+      "personId": 5784,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14813,
+      "character": "Aino  [Ina, US version]",
+      "order": 0
+    },
+    {
+      "personId": 15395,
+      "character": "Laurent Brulard",
+      "order": 1
+    },
+    {
+      "personId": 112198,
+      "character": "Kristina Lundgren",
+      "order": 2
+    },
+    {
+      "personId": 543540,
+      "character": "Matti",
+      "order": 3
+    },
+    {
+      "personId": 431555,
+      "character": "Pastor Hermansson  [Heckmanson, US version]",
+      "order": 4
+    },
+    {
+      "personId": 550134,
+      "character": "Maila",
+      "order": 5
+    },
+    {
+      "personId": 240400,
+      "character": "Pullinen",
+      "order": 6
+    },
+    {
+      "personId": 2203806,
+      "character": "Erik Lundgren",
+      "order": 7
+    },
+    {
+      "personId": 173841,
+      "character": "Engineer Camoin",
+      "order": 8
+    },
+    {
+      "personId": 2203805,
+      "character": "Mrs. Hermansson  [Heckmanson, US version]",
+      "order": 9
+    },
+    {
+      "personId": 213508,
+      "character": "Village Woman",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "cult-list"
+  ]
+}

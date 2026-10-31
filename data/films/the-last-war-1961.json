@@ -1,0 +1,180 @@
+{
+  "tmdbId": 79551,
+  "slug": "the-last-war-1961",
+  "year": 1961,
+  "runtime": 110,
+  "originalTitle": "世界大戦争",
+  "title": {
+    "en": "The Last War",
+    "tr": "The Last War"
+  },
+  "overview": {
+    "en": "A Japanese family is torn apart by the tensions of an avoidable nuclear world war between the superpowers.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9pfNF1yVK6WnsK3ya4iP4ArIPmC.jpg",
+    "en": "/1Au9xiOTYLmc7Y1zTlAHTgtlxO9.jpg"
+  },
+  "backdrops": [
+    "/o7t0HCnnrhUNBCpAnuppAl3vGBo.jpg",
+    "/cZbRV93MmPN333yNlVC4G5RSjzi.jpg",
+    "/yED1Mf8jkThAXJv2Svwv3KVFhgA.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    878
+  ],
+  "keywordIds": [
+    677,
+    2106,
+    2285,
+    12369,
+    40882,
+    180498,
+    188849,
+    204146,
+    358338
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "studios": [
+    "TOHO",
+    "Far East Laboratory"
+  ],
+  "crew": [
+    {
+      "personId": 564863,
+      "job": "director"
+    },
+    {
+      "personId": 564866,
+      "job": "composer"
+    },
+    {
+      "personId": 1088571,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30464,
+      "job": "writer"
+    },
+    {
+      "personId": 131205,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 80608,
+      "character": "Mokichi Tamura",
+      "order": 0
+    },
+    {
+      "personId": 18615,
+      "character": "Takano",
+      "order": 1
+    },
+    {
+      "personId": 67023,
+      "character": "Saeko Tamura",
+      "order": 2
+    },
+    {
+      "personId": 33728,
+      "character": "Oyoshi Tamura",
+      "order": 3
+    },
+    {
+      "personId": 128665,
+      "character": "Sanae",
+      "order": 4
+    },
+    {
+      "personId": 33135,
+      "character": "Ebara",
+      "order": 5
+    },
+    {
+      "personId": 121196,
+      "character": "Watkins",
+      "order": 6
+    },
+    {
+      "personId": 106165,
+      "character": "Captain Umehara",
+      "order": 7
+    },
+    {
+      "personId": 68411,
+      "character": "Prime Minister Masaki",
+      "order": 8
+    },
+    {
+      "personId": 134629,
+      "character": "Minister of Foreign Affairs",
+      "order": 9
+    },
+    {
+      "personId": 83202,
+      "character": "Director of the Mizutani Defense Agency",
+      "order": 10
+    },
+    {
+      "personId": 30772,
+      "character": "Chief Cabinet Secretary Fujikawa",
+      "order": 11
+    },
+    {
+      "personId": 125723,
+      "character": "Oharu",
+      "order": 12
+    },
+    {
+      "personId": 229226,
+      "character": "Tokyo Defense Command Commander",
+      "order": 13
+    },
+    {
+      "personId": 931389,
+      "character": "Arimura",
+      "order": 14
+    },
+    {
+      "personId": 1952096,
+      "character": "Suzue",
+      "order": 15
+    },
+    {
+      "personId": 235385,
+      "character": "Ishibashi",
+      "order": 16
+    },
+    {
+      "personId": 552188,
+      "character": "Imoya's Old Man",
+      "order": 17
+    },
+    {
+      "personId": 134320,
+      "character": "Reporter",
+      "order": 18
+    },
+    {
+      "personId": 235381,
+      "character": "Tokyo Defense Command Officer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 13,
+  "sources": [
+    "cult-list"
+  ]
+}

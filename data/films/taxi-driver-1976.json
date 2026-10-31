@@ -1,0 +1,219 @@
+{
+  "tmdbId": 103,
+  "slug": "taxi-driver-1976",
+  "year": 1976,
+  "runtime": 114,
+  "originalTitle": "Taxi Driver",
+  "title": {
+    "en": "Taxi Driver",
+    "tr": "Taksi Şoförü"
+  },
+  "overview": {
+    "en": "Suffering from insomnia, disturbed loner Travis Bickle takes a job as a New York City cabbie, haunting the streets nightly, growing increasingly detached from reality as he dreams of cleaning up the filthy city.",
+    "tr": "Hem Martin Scorsese’nin hem de Robert De Niro’nun filmografilerindeki belki de bu en çarpıcı filmde, 70’lerin Manhattan gecelerinde taksicilik yapan Vietnam gazisi Travis’le birlikte sokaklardayız.Hikaye boyunca etrafındaki hayatla ve yolunun kesişeceği \"toplumun pisliğiyle\" (bir çocuk fahişe, güzel bir sarışın, başkan adayı bir senatör, gözü dönmüş bir kadın satıcısı) bir türlü iletişim kuramayacak olan Travis, en nihayetinde ipleri eline alacaktır. Üstelik gündüzleri izlemeye gittiği belden aşağı filmlerdeki \"vahşi\" bir stilde...Sadece eşsiz senaryosu ve oyunculuklarıyla değil, sıradışı sinematografisiyle de tüm zamanların en etkili filmlerinden biri..."
+  },
+  "poster": {
+    "tr": "/pnPFEAOr8Spf1eQC8Cy5nLZWxuz.jpg",
+    "en": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg"
+  },
+  "backdrops": [
+    "/orjyEE9ZcMefTsN8zT5ryQTdkIz.jpg",
+    "/a58oc5qGNazb3QOxEH8eG5S7gjr.jpg",
+    "/6aoyUbvu0419XLKLIMoH0TkEicH.jpg",
+    "/fhejfyX20tyF0s65CIf27wOuH9G.jpg",
+    "/5MVSXJieOhbyZudCnV1H4YJpfPV.jpg",
+    "/phfNkch8HnQtWtuDXXGfE7u2rMj.jpg",
+    "/aLDz50VToGlwrIKSg7ERmRwYAG0.jpg",
+    "/byTvHqQIonluZT76enrwsehb9NW.jpg",
+    "/xOwWeFbK1PT5n3EEhnKgnkVtwwp.jpg",
+    "/9uddYYTNcLWpzUkl5iw1RUYhLhY.jpg"
+  ],
+  "trailerKey": "zdqCqDSTVNI",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    2231,
+    422,
+    242,
+    444,
+    445,
+    1523,
+    1749,
+    1228,
+    1667,
+    5446,
+    6112,
+    6083,
+    7368,
+    7151,
+    9622,
+    7002,
+    18075,
+    33424,
+    33625,
+    161728,
+    164186,
+    167104,
+    168346,
+    197056,
+    207268,
+    225582,
+    239797,
+    252192,
+    261264,
+    266753,
+    270831,
+    293649,
+    325766,
+    325773,
+    325780
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Bill/Phillips Productions",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 12432,
+      "job": "producer"
+    },
+    {
+      "personId": 12433,
+      "job": "producer"
+    },
+    {
+      "personId": 1044,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1045,
+      "job": "composer"
+    },
+    {
+      "personId": 1032,
+      "job": "director"
+    },
+    {
+      "personId": 1035,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 380,
+      "character": "Travis Bickle",
+      "order": 0
+    },
+    {
+      "personId": 1038,
+      "character": "Iris",
+      "order": 1
+    },
+    {
+      "personId": 1036,
+      "character": "Betsy",
+      "order": 2
+    },
+    {
+      "personId": 1037,
+      "character": "Sport",
+      "order": 3
+    },
+    {
+      "personId": 1039,
+      "character": "Wizard",
+      "order": 4
+    },
+    {
+      "personId": 1040,
+      "character": "Charles Palantine",
+      "order": 5
+    },
+    {
+      "personId": 13,
+      "character": "Tom",
+      "order": 6
+    },
+    {
+      "personId": 1041,
+      "character": "Concession Girl",
+      "order": 7
+    },
+    {
+      "personId": 1042,
+      "character": "Angry Black Man",
+      "order": 8
+    },
+    {
+      "personId": 2561,
+      "character": "Melio",
+      "order": 9
+    },
+    {
+      "personId": 1043,
+      "character": "Policeman at Rally",
+      "order": 10
+    },
+    {
+      "personId": 2340530,
+      "character": "Iris' Friend",
+      "order": 11
+    },
+    {
+      "personId": 2147740,
+      "character": "Cabbie in Bellmore",
+      "order": 12
+    },
+    {
+      "personId": 1946280,
+      "character": "Hooker in Cab",
+      "order": 13
+    },
+    {
+      "personId": 101977,
+      "character": "Soap Opera Woman",
+      "order": 14
+    },
+    {
+      "personId": 3727638,
+      "character": "Dispatcher",
+      "order": 15
+    },
+    {
+      "personId": 2848152,
+      "character": "Stick-Up Man",
+      "order": 16
+    },
+    {
+      "personId": 1274408,
+      "character": "Tall Secret Service Man",
+      "order": 17
+    },
+    {
+      "personId": 1221450,
+      "character": "Soap Opera Man",
+      "order": 18
+    },
+    {
+      "personId": 26874,
+      "character": "Secret Service Photographer",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cannes": 1
+  },
+  "voteCount": 13954,
+  "sources": [
+    "cult-list"
+  ]
+}

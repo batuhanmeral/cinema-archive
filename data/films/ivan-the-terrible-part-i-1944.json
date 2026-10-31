@@ -1,0 +1,189 @@
+{
+  "tmdbId": 9797,
+  "slug": "ivan-the-terrible-part-i-1944",
+  "year": 1944,
+  "runtime": 95,
+  "originalTitle": "Иван Грозный",
+  "title": {
+    "en": "Ivan the Terrible, Part I",
+    "tr": "Korkunç İvan"
+  },
+  "overview": {
+    "en": "Set during the early part of his reign, Ivan faces betrayal from the aristocracy and even his closest friends as he seeks to unite the Russian people.  Sergei Eisenstein's final film, this is the first part of a three-part biopic of Tsar Ivan IV of  Russia, which was never completed due to the producer's dissatisfaction with Eisenstein's attempts to use forbidden experimental filming techniques and excessive cost overruns.  The second part was completed but not released for a decade after Eisenstein's death and a change of heart in the USSR government toward his work; the third part was only in its earliest stage of filming when shooting was stopped altogether.",
+    "tr": "Büyük usta Eisenstein’dan sinema sanatına büyük yenilikler getiren, bir sinema klasiği. İlk Rus çarı Ivan’ı konu alan, epik tarzda yapılmış düşündürücü bir film. Filmde tarihe Korkunç Ivan olarak geçen Rus çarının öyküsü konu ediliyor. Eisenstein, Korkunç Ivanı üç bölüm halinde çekmeyi tasarlamıştı ancak bu trajedi-operanın sadace iki bölümünü çekebildi. Çünkü Stalin, filmin ikinci bölümünün İvan’ı zayıf bir kişilik olarak gösterdiğini düşünmekteydir. Ve bu ikinci bölüm ancak Stalin’in ölümünden beş yıl sonra gösterime çıkabildi."
+  },
+  "poster": {
+    "tr": "/rzFWfdq6CXLCnlfXTTZs9W9dMR2.jpg",
+    "en": "/rzFWfdq6CXLCnlfXTTZs9W9dMR2.jpg"
+  },
+  "backdrops": [
+    "/ohn9zA2dUbVuo4ajx32Em97qvMr.jpg",
+    "/gNDzfMM6bfTI5w9WNfX140SvGF3.jpg",
+    "/MRTRdKCK2SMwPnD7pWP7rllLCx.jpg",
+    "/xKGW6781eZERxtEl0ncHAEFJ04n.jpg",
+    "/bG30Hu1AvkkfZ9HoEyFSdQOg00b.jpg",
+    "/3UNSbCbMffcbAeQcE3eqWzyWQVj.jpg",
+    "/9r1WaTGa424PyCAFqbqBs5VzwOQ.jpg",
+    "/m0MG3w3s4FDskkqfmfQdu1SiniN.jpg",
+    "/vpi77Q5NXcei1IT9tzvG3qW67qS.jpg",
+    "/w7q4NgsjJshCDQFdAz3gGOvqhA6.jpg"
+  ],
+  "trailerKey": "JcJkHCihTmE",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    2505,
+    4849,
+    10202,
+    7154,
+    13027,
+    14765,
+    34038,
+    161257
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [
+    "ru"
+  ],
+  "studios": [
+    "Mosfilm",
+    "TsOKS"
+  ],
+  "crew": [
+    {
+      "personId": 9603,
+      "job": "writer"
+    },
+    {
+      "personId": 9603,
+      "job": "director"
+    },
+    {
+      "personId": 58024,
+      "job": "composer"
+    },
+    {
+      "personId": 9603,
+      "job": "producer"
+    },
+    {
+      "personId": 9606,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1391349,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 67502,
+      "character": "Czar Ivan IV",
+      "order": 0
+    },
+    {
+      "personId": 146916,
+      "character": "Czarina Anastasia Romanovna",
+      "order": 1
+    },
+    {
+      "personId": 146917,
+      "character": "Boyarina Efrosinia Staritskaya",
+      "order": 2
+    },
+    {
+      "personId": 562643,
+      "character": "Prince Andrei Kurbsky",
+      "order": 3
+    },
+    {
+      "personId": 144841,
+      "character": "Czar's Guard Malyuta Skuratov",
+      "order": 4
+    },
+    {
+      "personId": 1449309,
+      "character": "Czar's Guard Aleksei Basmanov",
+      "order": 5
+    },
+    {
+      "personId": 1191123,
+      "character": "Fyodor Basmanov",
+      "order": 6
+    },
+    {
+      "personId": 233375,
+      "character": "Vladimir Andreyevich Staritsky",
+      "order": 7
+    },
+    {
+      "personId": 67504,
+      "character": "Boyar Fyodor Kolychev",
+      "order": 8
+    },
+    {
+      "personId": 2349662,
+      "character": "Novgorod's Archbishop Pimen",
+      "order": 9
+    },
+    {
+      "personId": 1550339,
+      "character": "Archdeacon",
+      "order": 10
+    },
+    {
+      "personId": 560103,
+      "character": "Piotr Volynetz",
+      "order": 11
+    },
+    {
+      "personId": 144821,
+      "character": "Nikola, Simpleton Beggar",
+      "order": 12
+    },
+    {
+      "personId": 543872,
+      "character": "Kaspar von Oldenbock, Livonian Ambassador",
+      "order": 13
+    },
+    {
+      "personId": 1857655,
+      "character": "The Stranger",
+      "order": 14
+    },
+    {
+      "personId": 729890,
+      "character": "Sigismond, King of Poland",
+      "order": 15
+    },
+    {
+      "personId": 1352392,
+      "character": "Smiling Woman in the Church (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 128310,
+      "character": "(uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1170787,
+      "character": "Sigismond's court lady",
+      "order": 18
+    },
+    {
+      "personId": 2511410,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 240,
+  "sources": [
+    "cult-list"
+  ]
+}

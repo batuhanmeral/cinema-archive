@@ -1,0 +1,177 @@
+{
+  "tmdbId": 36495,
+  "slug": "the-great-mcginty-1940",
+  "year": 1940,
+  "runtime": 82,
+  "originalTitle": "The Great McGinty",
+  "title": {
+    "en": "The Great McGinty",
+    "tr": "The Great McGinty"
+  },
+  "overview": {
+    "en": "Told in flashback, Depression-era bum Dan McGinty is recruited by the city's political machine to help with vote fraud. His great aptitude for this brings rapid promotion from \"the boss,\" who finally decides he'd be ideal as a new, nominally \"reform\" mayor; but this candidacy requires marriage. His in-name-only marriage to honest Catherine proves the beginning of the end for dishonest Dan...",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/2Lrt9YthfN9Iay4QyiLz4pdp2k0.jpg",
+    "en": "/gwXvRH9ULR6xZPZ1rirbQeY5Yls.jpg"
+  },
+  "backdrops": [
+    "/8lWbcydL0imbHJAO0IcnuXtvOKg.jpg",
+    "/zRWuLEu2atXzsjOFiLfl2GkcRcm.jpg"
+  ],
+  "trailerKey": "OpT06whw7nk",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    6078,
+    5571,
+    12999,
+    156766,
+    178862,
+    203826,
+    226737
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ru"
+  ],
+  "studios": [
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 30249,
+      "job": "director"
+    },
+    {
+      "personId": 30249,
+      "job": "writer"
+    },
+    {
+      "personId": 14972,
+      "job": "producer"
+    },
+    {
+      "personId": 2916,
+      "job": "composer"
+    },
+    {
+      "personId": 18744,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 41755,
+      "character": "Daniel 'Dan' McGinty",
+      "order": 0
+    },
+    {
+      "personId": 115448,
+      "character": "Catharine McGinty",
+      "order": 1
+    },
+    {
+      "personId": 30719,
+      "character": "The Boss",
+      "order": 2
+    },
+    {
+      "personId": 87698,
+      "character": "George",
+      "order": 3
+    },
+    {
+      "personId": 21510,
+      "character": "Skeeters - The Politician",
+      "order": 4
+    },
+    {
+      "personId": 13979,
+      "character": "Tommy Thompson",
+      "order": 5
+    },
+    {
+      "personId": 986013,
+      "character": "Louie - The Boss' Bodyguard",
+      "order": 6
+    },
+    {
+      "personId": 29263,
+      "character": "Mayor Wilfred H. Tillinghast",
+      "order": 7
+    },
+    {
+      "personId": 590532,
+      "character": "Bessy - The Maid",
+      "order": 8
+    },
+    {
+      "personId": 34277,
+      "character": "Mr. Maxwell",
+      "order": 9
+    },
+    {
+      "personId": 144398,
+      "character": "The Dancing Girl",
+      "order": 10
+    },
+    {
+      "personId": 85997,
+      "character": "Madame Juliette La Jolla",
+      "order": 11
+    },
+    {
+      "personId": 103932,
+      "character": "The Boss' Chauffeur",
+      "order": 12
+    },
+    {
+      "personId": 89672,
+      "character": "The Lookout - At Felgman's",
+      "order": 13
+    },
+    {
+      "personId": 120046,
+      "character": "Benny Felgman",
+      "order": 14
+    },
+    {
+      "personId": 1671388,
+      "character": "Donnie - Catherine's Boy, Age 4",
+      "order": 15
+    },
+    {
+      "personId": 1195213,
+      "character": "Mary - Catherine's Girl, Age 6",
+      "order": 16
+    },
+    {
+      "personId": 1470919,
+      "character": "Donnie - Catherine's Boy, Age 9",
+      "order": 17
+    },
+    {
+      "personId": 1667358,
+      "character": "Mary - Catherine's Girl, Age 11",
+      "order": 18
+    },
+    {
+      "personId": 1317036,
+      "character": "Charlie - Cashier (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 82,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "tmdbId": 101,
+  "slug": "leon-the-professional-1994",
+  "year": 1994,
+  "runtime": 111,
+  "originalTitle": "Léon",
+  "title": {
+    "en": "Léon: The Professional",
+    "tr": "Leon: Sevginin Gücü"
+  },
+  "overview": {
+    "en": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+    "tr": "Mathilda, New York’ta yaşayan ailesi dağılmış 12 yaşında küçük bir kızdır. Ailesini sevmeyen Mathilda için en değerli varlığı küçük kardeşidir. Babası uyuşturucu işlerine bulaşınca mafya ailenin tüm bireylerini öldürür. O sırada alışverişte olan Mathilda ise olaydan kılpayı kurtulur ve Leon’un kaldığı daireye saklanır. Leon ise çok soğukkanlı bir katildir. Ancak Mathilda’ya karşı içten bir sevgi besler ve ona kol kanat gerer. Aslında babalık, arkadaşlık gibi kavramlar ona çok yabancıdır."
+  },
+  "poster": {
+    "tr": "/5wc5a1z0POdwMfDVrjbeTEhfygV.jpg",
+    "en": "/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg"
+  },
+  "backdrops": [
+    "/jRJrQ72VLyEnVsvwfep8Xjlvu8c.jpg",
+    "/jynfI114q3kOAbIiVjVfFFmttU2.jpg",
+    "/tF4ARbICMV9lw3zfdbcgH1VN3Qq.jpg",
+    "/bguFhzIGpQdGQ6uizm07oMKbgHi.jpg",
+    "/2hS80sTgsSmK0T61bd5J9YBc52k.jpg",
+    "/g5iswWrQAmDN1t1foNveRtGOXgb.jpg",
+    "/1UWszQdHI7j3zBqA4kx8Lk60Di8.jpg",
+    "/erRKAGEjtz3XKYKp8TaSbLrIoB2.jpg",
+    "/fj0hwDJEOOHllRim2BMt5L7tbjf.jpg",
+    "/1QriHRjihrmS13QBibbbEmlWhYu.jpg"
+  ],
+  "trailerKey": "DD-6bmOY__g",
+  "genreIds": [
+    80,
+    18,
+    28
+  ],
+  "keywordIds": [
+    922,
+    242,
+    2356,
+    782,
+    796,
+    417,
+    1470,
+    2708,
+    697,
+    3149,
+    4613,
+    9748,
+    9826,
+    9957,
+    10226,
+    10703,
+    206671,
+    207268,
+    233083
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "it"
+  ],
+  "studios": [
+    "Gaumont",
+    "Les Films du Dauphin"
+  ],
+  "crew": [
+    {
+      "personId": 59,
+      "job": "writer"
+    },
+    {
+      "personId": 60,
+      "job": "producer"
+    },
+    {
+      "personId": 997,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 996,
+      "job": "composer"
+    },
+    {
+      "personId": 59,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1003,
+      "character": "Léon Montana",
+      "order": 0
+    },
+    {
+      "personId": 524,
+      "character": "Mathilda Lando",
+      "order": 1
+    },
+    {
+      "personId": 64,
+      "character": "Norman Stansfield",
+      "order": 2
+    },
+    {
+      "personId": 1004,
+      "character": "Old Tony",
+      "order": 3
+    },
+    {
+      "personId": 1005,
+      "character": "Agent Malky",
+      "order": 4
+    },
+    {
+      "personId": 1010,
+      "character": "Mathilda's Father",
+      "order": 5
+    },
+    {
+      "personId": 13420,
+      "character": "Mathilda's Mother",
+      "order": 6
+    },
+    {
+      "personId": 138401,
+      "character": "Fatman",
+      "order": 7
+    },
+    {
+      "personId": 122230,
+      "character": "Mathilda's Sister",
+      "order": 8
+    },
+    {
+      "personId": 977543,
+      "character": "Mathilda's Brother",
+      "order": 9
+    },
+    {
+      "personId": 1171233,
+      "character": "Bodyguard Chief",
+      "order": 10
+    },
+    {
+      "personId": 1006,
+      "character": "1st Stansfield Man",
+      "order": 11
+    },
+    {
+      "personId": 1007,
+      "character": "2nd Stansfield man",
+      "order": 12
+    },
+    {
+      "personId": 1008,
+      "character": "3rd Stansfield man (Benny)",
+      "order": 13
+    },
+    {
+      "personId": 55275,
+      "character": "Stansfield man",
+      "order": 14
+    },
+    {
+      "personId": 60638,
+      "character": "Stansfield man",
+      "order": 15
+    },
+    {
+      "personId": 94435,
+      "character": "Leon's Taxi driver",
+      "order": 16
+    },
+    {
+      "personId": 1684441,
+      "character": "Tonto",
+      "order": 17
+    },
+    {
+      "personId": 64210,
+      "character": "Blond Babe",
+      "order": 18
+    },
+    {
+      "personId": 185351,
+      "character": "Mickey",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 16734,
+  "sources": [
+    "cult-list"
+  ]
+}

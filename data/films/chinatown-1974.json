@@ -1,0 +1,204 @@
+{
+  "tmdbId": 829,
+  "slug": "chinatown-1974",
+  "year": 1974,
+  "runtime": 130,
+  "originalTitle": "Chinatown",
+  "title": {
+    "en": "Chinatown",
+    "tr": "Çin Mahallesi"
+  },
+  "overview": {
+    "en": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+    "tr": "Mulwray'in karısı Evelyn, özel dedektif Jake Gittes'den kocasının diğer kadınlarla olan ilişkisini araştırmasını ister. Mulwray'i takip edip fotoğraflarını çeken Gittes, bir süre sonra kendini korkunç bir komplonun ve sıradışı bir ilişkiler ağının içerisinde bulur."
+  },
+  "poster": {
+    "tr": "/6MpXIpxl24e9OY4lXllgRBtrAh6.jpg",
+    "en": "/7ljxmU9L0ugUvyyg0GBkFaarjEq.jpg"
+  },
+  "backdrops": [
+    "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
+    "/eJ6kPtua2rEvjxHdCtnIobXJZSf.jpg",
+    "/pyvkujOZ5qvY2NlQVC71flfgVWE.jpg",
+    "/hkz8VV0gKmTBzPlnBb3TFAKjqUz.jpg",
+    "/nGFwmyLV2VByQslsiyJh0yqlaiG.jpg",
+    "/mJPpZhMlaWNxtPABBM4BZj7XJbL.jpg",
+    "/8jAQvUDR1GGz3NAN26q9zcyPB2x.jpg",
+    "/gvzJyFZHHKVP1s7EN1NRiXnNtLT.jpg",
+    "/ZwC7dUDUc08Zq5c4fsaKvljOXo.jpg",
+    "/p7soTIKAUZdHk2FzVdWoHflCZ5U.jpg"
+  ],
+  "trailerKey": "RKdXf-fiBcw",
+  "genreIds": [
+    80,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    3737,
+    658,
+    2337,
+    570,
+    2281,
+    1261,
+    1788,
+    3820,
+    9016,
+    10410,
+    12570,
+    12670,
+    155790,
+    207268,
+    324886
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "es",
+    "cn",
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Long Road Productions",
+    "Robert Evans Productions"
+  ],
+  "crew": [
+    {
+      "personId": 3556,
+      "job": "director"
+    },
+    {
+      "personId": 12288,
+      "job": "producer"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    },
+    {
+      "personId": 1153,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11057,
+      "job": "writer"
+    },
+    {
+      "personId": 3556,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 514,
+      "character": "J.J. 'Jake' Gittes",
+      "order": 0
+    },
+    {
+      "personId": 6450,
+      "character": "Evelyn Cross Mulwray",
+      "order": 1
+    },
+    {
+      "personId": 6593,
+      "character": "Noah Cross",
+      "order": 2
+    },
+    {
+      "personId": 12295,
+      "character": "Lieutenant Lou Escobar",
+      "order": 3
+    },
+    {
+      "personId": 4521,
+      "character": "Curly",
+      "order": 4
+    },
+    {
+      "personId": 12296,
+      "character": "Russ Yelburton",
+      "order": 5
+    },
+    {
+      "personId": 12297,
+      "character": "Hollis I. Mulwray",
+      "order": 6
+    },
+    {
+      "personId": 3556,
+      "character": "Man with Knife",
+      "order": 7
+    },
+    {
+      "personId": 6587,
+      "character": "Ida Sessions",
+      "order": 8
+    },
+    {
+      "personId": 12299,
+      "character": "Detective Loach",
+      "order": 9
+    },
+    {
+      "personId": 78937,
+      "character": "Lawrence Walsh",
+      "order": 10
+    },
+    {
+      "personId": 12298,
+      "character": "Claude Mulvihill",
+      "order": 11
+    },
+    {
+      "personId": 20904,
+      "character": "Evelyn's Butler",
+      "order": 12
+    },
+    {
+      "personId": 10194,
+      "character": "Duffy",
+      "order": 13
+    },
+    {
+      "personId": 1077252,
+      "character": "Sophie",
+      "order": 14
+    },
+    {
+      "personId": 95265,
+      "character": "Lawyer",
+      "order": 15
+    },
+    {
+      "personId": 156813,
+      "character": "Maid",
+      "order": 16
+    },
+    {
+      "personId": 164712,
+      "character": "Gardener",
+      "order": 17
+    },
+    {
+      "personId": 1077253,
+      "character": "Katherine",
+      "order": 18
+    },
+    {
+      "personId": 19400,
+      "character": "Mayor Bagby",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1,
+    "bafta": 3,
+    "golden-globe": 4
+  },
+  "voteCount": 4468,
+  "sources": [
+    "cult-list"
+  ]
+}

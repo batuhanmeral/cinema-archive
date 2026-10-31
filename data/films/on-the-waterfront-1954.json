@@ -1,0 +1,192 @@
+{
+  "tmdbId": 654,
+  "slug": "on-the-waterfront-1954",
+  "year": 1954,
+  "runtime": 108,
+  "originalTitle": "On the Waterfront",
+  "title": {
+    "en": "On the Waterfront",
+    "tr": "Rıhtımlar Üzerinde"
+  },
+  "overview": {
+    "en": "A prizefighter-turned-longshoreman with a conscience goes up against labor leaders to expose corruption, extortion, and murder among the union ranks.",
+    "tr": "Joey Doyle, rıhtımda öldürülür ve kimse ölüm hakkında birşey anlatmaya cesaret edemez. Terry Malloy ise bu limanda çalışan bir işçidir ve aynı zamanda eski bir boksördür. Terry kısa zamanda, limandaki patronların dikkatini çeker. Bu sendika ağaları limanda kendi düzenlerini kurmuştur. Ancak, Terry onların sandığından çok daha güçlü bir karakterdir."
+  },
+  "poster": {
+    "tr": "/d4S8LpbCyFJsh1tGgwGQSJdGzKm.jpg",
+    "en": "/v1RtJ1qR4v9nrnfoBVBl6hjTW9.jpg"
+  },
+  "backdrops": [
+    "/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg",
+    "/hUzRPXBUHyJhpyGV0NfBDuadbgp.jpg",
+    "/m1ZLa9fmUEmpnWvX7hWzdvRfjff.jpg",
+    "/9Rk8rz4MtTAkmD4Hh6fBK6i0253.jpg",
+    "/qBoyUP1XcefvbjP29mtfSM7jdbG.jpg",
+    "/neHcUJUxmwmzLgupVpePU3uTsAH.jpg",
+    "/w1rE5T4Zt11t9NX8I4ES9wx9VVQ.jpg",
+    "/dWajT7zwmcfM9RDpB0uJM2JgBNd.jpg",
+    "/j0qTehcyVVV1VEzrJ7YYtoFmWNw.jpg",
+    "/9cXH4AwKGZlPzvoD9JA78Fx5Mwc.jpg"
+  ],
+  "trailerKey": "boekTHsOIY8",
+  "genreIds": [
+    80,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    417,
+    586,
+    9826,
+    10391,
+    12999,
+    15137,
+    47079,
+    69467,
+    156151,
+    191308,
+    319319,
+    325811
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Columbia Pictures",
+    "Horizon Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 2746,
+      "job": "director"
+    },
+    {
+      "personId": 9850,
+      "job": "writer"
+    },
+    {
+      "personId": 6594,
+      "job": "producer"
+    },
+    {
+      "personId": 9851,
+      "job": "composer"
+    },
+    {
+      "personId": 5261,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3084,
+      "character": "Terry Malloy",
+      "order": 0
+    },
+    {
+      "personId": 2639,
+      "character": "Edie Doyle",
+      "order": 1
+    },
+    {
+      "personId": 9857,
+      "character": "Father Barry",
+      "order": 2
+    },
+    {
+      "personId": 5248,
+      "character": "Johnny Friendly",
+      "order": 3
+    },
+    {
+      "personId": 522,
+      "character": "Charley Malloy",
+      "order": 4
+    },
+    {
+      "personId": 9862,
+      "character": "Kayo Dugan",
+      "order": 5
+    },
+    {
+      "personId": 9865,
+      "character": "Glover",
+      "order": 6
+    },
+    {
+      "personId": 9866,
+      "character": "Big Mac",
+      "order": 7
+    },
+    {
+      "personId": 589670,
+      "character": "Truck",
+      "order": 8
+    },
+    {
+      "personId": 977544,
+      "character": "Tillio",
+      "order": 9
+    },
+    {
+      "personId": 89837,
+      "character": "'Pop' Doyle",
+      "order": 10
+    },
+    {
+      "personId": 88881,
+      "character": "Mott",
+      "order": 11
+    },
+    {
+      "personId": 3143,
+      "character": "Moose",
+      "order": 12
+    },
+    {
+      "personId": 976235,
+      "character": "Luke",
+      "order": 13
+    },
+    {
+      "personId": 977392,
+      "character": "Jimmy",
+      "order": 14
+    },
+    {
+      "personId": 1125637,
+      "character": "Barney",
+      "order": 15
+    },
+    {
+      "personId": 1936,
+      "character": "Gillette (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 3798291,
+      "character": "Sidney (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 218449,
+      "character": "Dues Collector (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 56266,
+      "character": "Slim (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 8
+  },
+  "voteCount": 1872,
+  "sources": [
+    "cult-list"
+  ]
+}

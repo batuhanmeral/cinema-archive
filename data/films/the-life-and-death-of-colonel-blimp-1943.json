@@ -1,0 +1,204 @@
+{
+  "tmdbId": 25037,
+  "slug": "the-life-and-death-of-colonel-blimp-1943",
+  "year": 1943,
+  "runtime": 163,
+  "originalTitle": "The Life and Death of Colonel Blimp",
+  "title": {
+    "en": "The Life and Death of Colonel Blimp",
+    "tr": "Kahraman Subay"
+  },
+  "overview": {
+    "en": "General Candy, who's overseeing an English squad in 1943, is a veteran leader who doesn't have the respect of the men he's training and is considered out-of-touch with what's needed to win the war. But it wasn't always this way. Flashing back to his early career in the Boer War and World War I, we see a dashing young officer whose life has been shaped by three different women, and by a lasting friendship with a German soldier.",
+    "tr": "Film, bize sıradışı bir adamın hayatını ve aşklarının hikayesini samimi bir şekilde anlatıyor. Öncelikle tam bir eski kafalılık örneği olan, aşırı kilolu general Clive Wyne-Candy ile tanışıyoruz. 40 yıl geriye gittiğimizde ise tamamen farklı bir adam, genç ve yakışıklı subay \"Sugar\" Candy'i görüyoruz...  Hayatına girmiş üç kadınla olan ilişkilerini ve bir Alman subayı ile ömür boyu arkadaşlığını izlerken, Candy'nin hayatındaki izleri görüp onun ordu onuru anlayışını modern çağın \"genel harp\" mefhumuna adapte etmesinin ne kadar zor olduğunu anlıyoruz..."
+  },
+  "poster": {
+    "tr": "/kgyd5uyndsXiLYKlVgH0sm7Jfkv.jpg",
+    "en": "/kgyd5uyndsXiLYKlVgH0sm7Jfkv.jpg"
+  },
+  "backdrops": [
+    "/yBwOyXnXdmOosHVnEPm2Mg3oiJP.jpg",
+    "/diR9qmgQGzY4VjG07YPoaVY2A1e.jpg",
+    "/4acJADl01VUcQpfN4szNvjHDKEB.jpg",
+    "/ojYxYkbO939H9OSayf5IKvbFA6i.jpg",
+    "/sXEWSJXYHcmEeNSLF947tVMhtj3.jpg",
+    "/7Mop5vhkTCNokOKY3paxV1yLFQ8.jpg",
+    "/5lZXUcix6sSozn8OzvnKOIQXHie.jpg",
+    "/6oismT0nNiW8Wj7dHObf6OeppMd.jpg",
+    "/nI5JnofPlvovdvQQ65Nyb3nS9le.jpg",
+    "/8oZ6vJqL72J1TatBnqDz6holysY.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    10752,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    220,
+    6092,
+    2504,
+    1956,
+    4100,
+    4107,
+    8201,
+    13065,
+    188512,
+    206081,
+    231094,
+    250065
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "studios": [
+    "The Archers",
+    "J. Arthur Rank Organisation"
+  ],
+  "crew": [
+    {
+      "personId": 68424,
+      "job": "director"
+    },
+    {
+      "personId": 37846,
+      "job": "director"
+    },
+    {
+      "personId": 68424,
+      "job": "writer"
+    },
+    {
+      "personId": 37846,
+      "job": "writer"
+    },
+    {
+      "personId": 68424,
+      "job": "producer"
+    },
+    {
+      "personId": 37846,
+      "job": "producer"
+    },
+    {
+      "personId": 20136,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1627145,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 83907,
+      "character": "Major General Clive Wynne-Candy",
+      "order": 0
+    },
+    {
+      "personId": 20141,
+      "character": "Edith Hunter / Barbara Wynne / Angela \"Johnny\" Cannon",
+      "order": 1
+    },
+    {
+      "personId": 88935,
+      "character": "Theo Kretschmar-Schuldorff",
+      "order": 2
+    },
+    {
+      "personId": 9926,
+      "character": "Col. Betteridge",
+      "order": 3
+    },
+    {
+      "personId": 146551,
+      "character": "Spud Wilson",
+      "order": 4
+    },
+    {
+      "personId": 97568,
+      "character": "Embassy Counsellor",
+      "order": 5
+    },
+    {
+      "personId": 30674,
+      "character": "Hoppy",
+      "order": 6
+    },
+    {
+      "personId": 222281,
+      "character": "Frau von Kalteneck",
+      "order": 7
+    },
+    {
+      "personId": 3673,
+      "character": "Murdoch",
+      "order": 8
+    },
+    {
+      "personId": 1015081,
+      "character": "Major Davies",
+      "order": 9
+    },
+    {
+      "personId": 104943,
+      "character": "Embassy Secretary",
+      "order": 10
+    },
+    {
+      "personId": 1473409,
+      "character": "President of Tribunal",
+      "order": 11
+    },
+    {
+      "personId": 1297319,
+      "character": "Colonel Borg (as Count Zichy)",
+      "order": 12
+    },
+    {
+      "personId": 115379,
+      "character": "Nurse Erna",
+      "order": 13
+    },
+    {
+      "personId": 558443,
+      "character": "Stuffy Graves",
+      "order": 14
+    },
+    {
+      "personId": 1107072,
+      "character": "Club Porter (1942)",
+      "order": 15
+    },
+    {
+      "personId": 1290313,
+      "character": "Period Blimp",
+      "order": 16
+    },
+    {
+      "personId": 1391657,
+      "character": "Club Porter (1902)",
+      "order": 17
+    },
+    {
+      "personId": 587795,
+      "character": "Cafe Orchestra Leader",
+      "order": 18
+    },
+    {
+      "personId": 224013,
+      "character": "Kaunitz",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 283,
+  "sources": [
+    "cult-list"
+  ]
+}

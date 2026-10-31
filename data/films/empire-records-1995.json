@@ -1,0 +1,203 @@
+{
+  "tmdbId": 13531,
+  "slug": "empire-records-1995",
+  "year": 1995,
+  "runtime": 90,
+  "originalTitle": "Empire Records",
+  "title": {
+    "en": "Empire Records",
+    "tr": "Empire Records"
+  },
+  "overview": {
+    "en": "The employees of an independent music store learn about each other as they try to stop the store from being absorbed by a large chain.",
+    "tr": "\"Ateşli Müzik\" Empire plak şirketi çalışanlarının hayatlarından bir gün sunuyor. Fakat bu gün aynı zamanda bütün çalışanlar yüzleştikleri kişisel krizleri beraberce atlatabilecekler mi? Daha önemlisi, plak şirketlerini kurumsal açgözlülüğün elinden kurtarıp bağımsızlıklarını ilân edebilecekler mi?"
+  },
+  "poster": {
+    "tr": "/7DnSO35pLK8VUE0h4D00nUY7I66.jpg",
+    "en": "/wZHGNL7Jqgvk45RuoyTT1PnThE.jpg"
+  },
+  "backdrops": [
+    "/4Jo48ALwK56YPs0ZrQw4fxkzUxG.jpg",
+    "/t5337ekLGuEuy3Ay3rfZH9315zn.jpg",
+    "/r0qmZ1rWNDxckoQPU6bFtCAk0Kg.jpg",
+    "/iINBbVj1B2RplRS5npACEoc3tDB.jpg",
+    "/mXDSX168nJXAgfJuMxHeJmc48IK.jpg",
+    "/qlmJYkUuw1UgZeCTRYKtJoCSf5p.jpg",
+    "/7hjdT5PG0sH4z1zTykijWnRfXZi.jpg",
+    "/7bcG7Md9jaXQWI2mFjEt84RApNo.jpg",
+    "/uwVQd1phv7JrC6gku84by4D4Ytk.jpg",
+    "/798fO8yH5hyKBL5vTz4ATH8V0n5.jpg"
+  ],
+  "trailerKey": "c2-LdSfXo14",
+  "genreIds": [
+    35,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    3490,
+    14669,
+    155419,
+    164246,
+    169151,
+    169152,
+    169160,
+    169161,
+    169171,
+    281237,
+    288816,
+    297793,
+    305161,
+    324713,
+    325849
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Regency Enterprises",
+    "New Regency Pictures",
+    "Riche-Ludwig Productions"
+  ],
+  "crew": [
+    {
+      "personId": 55790,
+      "job": "director"
+    },
+    {
+      "personId": 65872,
+      "job": "writer"
+    },
+    {
+      "personId": 10418,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 47052,
+      "job": "producer"
+    },
+    {
+      "personId": 376,
+      "job": "producer"
+    },
+    {
+      "personId": 18349,
+      "job": "producer"
+    },
+    {
+      "personId": 47053,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 882,
+      "character": "Corey Mason",
+      "order": 0
+    },
+    {
+      "personId": 73589,
+      "character": "A.J.",
+      "order": 1
+    },
+    {
+      "personId": 9137,
+      "character": "Gina",
+      "order": 2
+    },
+    {
+      "personId": 17346,
+      "character": "Debra",
+      "order": 3
+    },
+    {
+      "personId": 57829,
+      "character": "Joe Reaves",
+      "order": 4
+    },
+    {
+      "personId": 51792,
+      "character": "Lucas",
+      "order": 5
+    },
+    {
+      "personId": 58019,
+      "character": "Mark",
+      "order": 6
+    },
+    {
+      "personId": 101908,
+      "character": "Rex Manning",
+      "order": 7
+    },
+    {
+      "personId": 5578,
+      "character": "Jane",
+      "order": 8
+    },
+    {
+      "personId": 2839,
+      "character": "Warren",
+      "order": 9
+    },
+    {
+      "personId": 552457,
+      "character": "Berko",
+      "order": 10
+    },
+    {
+      "personId": 1113857,
+      "character": "Eddie",
+      "order": 11
+    },
+    {
+      "personId": 144165,
+      "character": "Mitchell Beck",
+      "order": 12
+    },
+    {
+      "personId": 2726916,
+      "character": "Croupier",
+      "order": 13
+    },
+    {
+      "personId": 155924,
+      "character": "Woman at Craps Table",
+      "order": 14
+    },
+    {
+      "personId": 4379988,
+      "character": "High Roller",
+      "order": 15
+    },
+    {
+      "personId": 1392383,
+      "character": "Reporter",
+      "order": 16
+    },
+    {
+      "personId": 97456,
+      "character": "Kathy",
+      "order": 17
+    },
+    {
+      "personId": 3526687,
+      "character": "Autograph Girl",
+      "order": 18
+    },
+    {
+      "personId": 306219,
+      "character": "Cop #1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 856,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "tmdbId": 31592,
+  "slug": "the-old-dark-house-1932",
+  "year": 1932,
+  "runtime": 70,
+  "originalTitle": "The Old Dark House",
+  "title": {
+    "en": "The Old Dark House",
+    "tr": "Eski Karanlık Ev"
+  },
+  "overview": {
+    "en": "In a remote region of Wales, five travelers beset by a relentless storm find shelter in an old mansion.",
+    "tr": "Galler'in ücra bir bölgesinde, amansız bir fırtınaya yakalanan beş gezgin eski bir konağa sığınır."
+  },
+  "poster": {
+    "tr": "/6rNOMWKHHqRwRtEy1HEl2nZzmYI.jpg",
+    "en": "/yhZdtwdZVa8aTjNZIiQw0liyJCH.jpg"
+  },
+  "backdrops": [
+    "/Aoknrm6AdGdPdqIIKyXzygvlEzP.jpg",
+    "/1UDpgCm49RiElP6TLX7SWDbbHJx.jpg",
+    "/dJetTTTwobw3Vf966FoMSBX804x.jpg",
+    "/wQsRMhiStQGK2Hqm9C8Ok92S3VC.jpg",
+    "/1weLHiJKmqSgbxoEBeX14jbRgMe.jpg",
+    "/2MrbsWDUOMC9XMmS5Qb7TXxoBZ1.jpg",
+    "/k7vRPLHN6muNLggA7W4GozNHQwf.jpg",
+    "/u3c7uK9SbHIq5z0c3eOzoK9G8BQ.jpg",
+    "/2aW74D88qOvazJU71BJ7sQ0fS0o.jpg",
+    "/fHeQgNZh0T5hx3pGp3L3TsGLF3x.jpg"
+  ],
+  "trailerKey": "2Hlku8RJAXk",
+  "genreIds": [
+    18,
+    27,
+    53
+  ],
+  "keywordIds": [
+    1209,
+    818,
+    6625,
+    11514,
+    12999,
+    15346,
+    41410,
+    156764,
+    172658,
+    179423,
+    238842,
+    239256,
+    254097
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 2917,
+      "job": "director"
+    },
+    {
+      "personId": 7379,
+      "job": "writer"
+    },
+    {
+      "personId": 1557,
+      "job": "producer"
+    },
+    {
+      "personId": 2085,
+      "job": "composer"
+    },
+    {
+      "personId": 2005,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2922,
+      "character": "Morgan",
+      "order": 0
+    },
+    {
+      "personId": 19550,
+      "character": "Penderel",
+      "order": 1
+    },
+    {
+      "personId": 10921,
+      "character": "Sir William Porterhouse",
+      "order": 2
+    },
+    {
+      "personId": 145832,
+      "character": "Gladys",
+      "order": 3
+    },
+    {
+      "personId": 2925,
+      "character": "Horace Femm",
+      "order": 4
+    },
+    {
+      "personId": 994475,
+      "character": "Rebecca Femm",
+      "order": 5
+    },
+    {
+      "personId": 2669,
+      "character": "Philip Waverton",
+      "order": 6
+    },
+    {
+      "personId": 8535,
+      "character": "Margaret Waverton",
+      "order": 7
+    },
+    {
+      "personId": 34331,
+      "character": "Sir Roderick Femm",
+      "order": 8
+    },
+    {
+      "personId": 1128374,
+      "character": "Saul Femm",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 320,
+  "sources": [
+    "cult-list"
+  ]
+}

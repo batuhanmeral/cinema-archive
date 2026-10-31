@@ -1,0 +1,222 @@
+{
+  "tmdbId": 391,
+  "slug": "a-fistful-of-dollars-1964",
+  "year": 1964,
+  "runtime": 99,
+  "originalTitle": "Per un pugno di dollari",
+  "title": {
+    "en": "A Fistful of Dollars",
+    "tr": "Bir Avuç Dolar"
+  },
+  "overview": {
+    "en": "The Man With No Name enters the Mexican village of San Miguel in the midst of a power struggle among the three Rojo brothers and sheriff John Baxter. When a regiment of Mexican soldiers bearing gold intended to pay for new weapons is waylaid by the Rojo brothers, the stranger inserts himself into the middle of the long-simmering battle, selling false information to both sides for his own benefit.",
+    "tr": "'İyi, Kötü, Çirkin' ve 'Bir Avuç Dolar İçin\"in tanınmış yönetmeninden, Clint Eastwood'un efsaneleşmiş 'isimsiz' karakterinin beyaz perdeye ilk defa çıktığı bu nefes kesici ve aksiyonla örülmüş western macerası sizi koltuklarınıza çivileyecek. Heyecanlı çatışma sahneleri, dinamik performanslar ve mükemmel görüntüleri ile türünün tartışmasız klasiklerinden biri. Gizemli bir silahşör (Eastwood) iki rakip kaçakçılık çetesinin korku saldığı kasvetli ve eski bir sınır kasabası olan San Miguel'e gelir ve macera başlar."
+  },
+  "poster": {
+    "tr": "/4XuSOYvRZWY6AqmNEygweiI81Ch.jpg",
+    "en": "/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg"
+  },
+  "backdrops": [
+    "/9gMkOYzk7P9QXwndhLRAC8cMZcJ.jpg",
+    "/ApjqczKExVLnHqnXEkibbBTbyTc.jpg",
+    "/rTJRWO9zHcB29JecTXHg0wUa4Xs.jpg",
+    "/ajSdS9W7gqhYWeoFOZa9ZrbNx3V.jpg",
+    "/1WpHOEFaOoP3cxVaPzEefcSLlJX.jpg",
+    "/9XBzvj9LFtWASLTRupgGaddYqZk.jpg",
+    "/tpmwYp7u1jpz2S6yhe7oTaT2Zl0.jpg",
+    "/djzllg8G6AZOgM2zxbPXFBLvOVZ.jpg",
+    "/dMEoL8n524fUIEZEYWHJ6Q5UlDl.jpg",
+    "/bBZkRw7pumVUZOKfceCycYzG7Sc.jpg"
+  ],
+  "trailerKey": "f_oZUWAdEe8",
+  "genreIds": [
+    37
+  ],
+  "keywordIds": [
+    75,
+    818,
+    6062,
+    5332,
+    2987,
+    9714,
+    9826,
+    10176,
+    156212,
+    238066,
+    293751,
+    319922,
+    342829,
+    362404
+  ],
+  "countries": [
+    "DE",
+    "IT",
+    "ES"
+  ],
+  "languages": [
+    "it",
+    "es"
+  ],
+  "studios": [
+    "Jolly Film",
+    "Ocean Films",
+    "Constantin Film"
+  ],
+  "crew": [
+    {
+      "personId": 16321,
+      "job": "producer"
+    },
+    {
+      "personId": 4385,
+      "job": "director"
+    },
+    {
+      "personId": 16324,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 14268,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1259,
+      "job": "composer"
+    },
+    {
+      "personId": 16322,
+      "job": "producer"
+    },
+    {
+      "personId": 16320,
+      "job": "writer"
+    },
+    {
+      "personId": 16319,
+      "job": "writer"
+    },
+    {
+      "personId": 4385,
+      "job": "writer"
+    },
+    {
+      "personId": 49892,
+      "job": "writer"
+    },
+    {
+      "personId": 99511,
+      "job": "writer"
+    },
+    {
+      "personId": 57639,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 190,
+      "character": "Joe",
+      "order": 0
+    },
+    {
+      "personId": 16309,
+      "character": "Marisol",
+      "order": 1
+    },
+    {
+      "personId": 14276,
+      "character": "Ramón Rojo",
+      "order": 2
+    },
+    {
+      "personId": 16310,
+      "character": "John Baxter",
+      "order": 3
+    },
+    {
+      "personId": 16312,
+      "character": "Esteban Rojo",
+      "order": 4
+    },
+    {
+      "personId": 14279,
+      "character": "Piripero",
+      "order": 5
+    },
+    {
+      "personId": 16313,
+      "character": "Don Benito Rojo / Don Miguel Rojo",
+      "order": 6
+    },
+    {
+      "personId": 16311,
+      "character": "Silvanito",
+      "order": 7
+    },
+    {
+      "personId": 16314,
+      "character": "Consuelo Baxter",
+      "order": 8
+    },
+    {
+      "personId": 16316,
+      "character": "Julián",
+      "order": 9
+    },
+    {
+      "personId": 4661,
+      "character": "Rubio",
+      "order": 10
+    },
+    {
+      "personId": 16318,
+      "character": "Chico",
+      "order": 11
+    },
+    {
+      "personId": 16317,
+      "character": "Antonio Baxter",
+      "order": 12
+    },
+    {
+      "personId": 49895,
+      "character": "Rojo Gang Member",
+      "order": 13
+    },
+    {
+      "personId": 100930,
+      "character": "Baxter Gunman #1 (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 102096,
+      "character": "Baxter Gunman #2 (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 30963,
+      "character": "Baxter Gunman #3 (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 118121,
+      "character": "Cavalry Captain (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 2336682,
+      "character": "Baxter Gunman (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 103517,
+      "character": "Rojo Gang Member Crushed by Wine Cask (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4939,
+  "sources": [
+    "cult-list"
+  ]
+}

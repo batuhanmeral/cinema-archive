@@ -1,0 +1,221 @@
+{
+  "tmdbId": 146,
+  "slug": "crouching-tiger-hidden-dragon-2000",
+  "year": 2000,
+  "runtime": 120,
+  "originalTitle": "卧虎藏龍",
+  "title": {
+    "en": "Crouching Tiger, Hidden Dragon",
+    "tr": "Kaplan ve Ejderha"
+  },
+  "overview": {
+    "en": "Two warriors in pursuit of a stolen sword and a notorious fugitive are led to an impetuous, physically-skilled, teenage nobleman's daughter, who is at a crossroads in her life.",
+    "tr": "Öykü, belirsiz bir zaman diliminde, feodal düzenin hakim olduğu Çin topraklarında geçiyor. Çalınan bir kılıcın ve ünlü bir kaçağın peşindeki iki savaşçı, iz üstündeyken soylu bir adamın kızına rast gelirler. Fiziksel açıdan şaşırtıcı derecede iyi eğitilmiş bir dövüşçü olan bu genç kız, hayatının kritik kararlarından birini vermek üzeredir. Mucizelerin olağan karşılandığı, havada yürüyen zen savaşçılarının cirit attığı bir düşsel gerçekliği koreografik olarak sinemaya taşıyan yönetmen Ang Lee, romantizm ve aksiyonun dinamik bir öykü içindeki birleşimi olarak tanımlıyor filmini."
+  },
+  "poster": {
+    "tr": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg",
+    "en": "/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg"
+  },
+  "backdrops": [
+    "/ylZ06kRUF2JKkrCG2E3qn5D9w8L.jpg",
+    "/3fmdCISiTXmRdZMdGd6b0GemRUa.jpg",
+    "/nSm9cij9VRrGDoZoS16CPnX0FqK.jpg",
+    "/uJI7jiMi0Ewbh912qKjeUZfF6si.jpg",
+    "/wkaqMkuQZSFU945tPsBwlZ0y6iA.jpg",
+    "/sAgcj4Htn6SQaoEj5yiJes0TBcB.jpg",
+    "/4yFTC2sLyYMRSfV7FYQQwmsGs1N.jpg",
+    "/k3ynAgM4VWGit6uMd28I7L7hYFj.jpg",
+    "/gCPgsPCRY9bOcVqKIkgYngpv3vZ.jpg",
+    "/1H0rPT1wxMtjlRsU4ngtyDz4J0e.jpg"
+  ],
+  "trailerKey": "q-HrIQLdaNE",
+  "genreIds": [
+    10749,
+    18,
+    28
+  ],
+  "keywordIds": [
+    779,
+    780,
+    818,
+    1938,
+    9990,
+    1262,
+    5572,
+    9725,
+    9727,
+    9748,
+    14604,
+    15126,
+    18432,
+    160279,
+    192913,
+    206071,
+    217367,
+    219404,
+    236217,
+    324713
+  ],
+  "countries": [
+    "HK",
+    "TW",
+    "US",
+    "CN"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "studios": [
+    "Edko Films",
+    "Zoom Hunt",
+    "China Film Co-Production"
+  ],
+  "crew": [
+    {
+      "personId": 1617,
+      "job": "writer"
+    },
+    {
+      "personId": 1633,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1351,
+      "job": "producer"
+    },
+    {
+      "personId": 65357,
+      "job": "producer"
+    },
+    {
+      "personId": 1618,
+      "job": "writer"
+    },
+    {
+      "personId": 28642,
+      "job": "writer"
+    },
+    {
+      "personId": 1614,
+      "job": "producer"
+    },
+    {
+      "personId": 1614,
+      "job": "director"
+    },
+    {
+      "personId": 1360,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1619,
+      "character": "Li Mu Bai",
+      "order": 0
+    },
+    {
+      "personId": 1620,
+      "character": "Yu Shu Lien",
+      "order": 1
+    },
+    {
+      "personId": 1339,
+      "character": "Jen",
+      "order": 2
+    },
+    {
+      "personId": 1622,
+      "character": "Lo",
+      "order": 3
+    },
+    {
+      "personId": 1623,
+      "character": "Sir Te",
+      "order": 4
+    },
+    {
+      "personId": 1624,
+      "character": "Jade Fox",
+      "order": 5
+    },
+    {
+      "personId": 1625,
+      "character": "Governor Yu",
+      "order": 6
+    },
+    {
+      "personId": 1626,
+      "character": "Bo",
+      "order": 7
+    },
+    {
+      "personId": 1627,
+      "character": "Madame Yu",
+      "order": 8
+    },
+    {
+      "personId": 1628,
+      "character": "Tsai",
+      "order": 9
+    },
+    {
+      "personId": 1629,
+      "character": "May",
+      "order": 10
+    },
+    {
+      "personId": 1268919,
+      "character": "Auntie Wu",
+      "order": 11
+    },
+    {
+      "personId": 4848231,
+      "character": "De Lu",
+      "order": 12
+    },
+    {
+      "personId": 1004568,
+      "character": "Maid",
+      "order": 13
+    },
+    {
+      "personId": 2284553,
+      "character": "Guo Jun Pei",
+      "order": 14
+    },
+    {
+      "personId": 4451523,
+      "character": "Gou Jun Sihung",
+      "order": 15
+    },
+    {
+      "personId": 4396196,
+      "character": "Shop Owner",
+      "order": 16
+    },
+    {
+      "personId": 1849680,
+      "character": "Captain",
+      "order": 17
+    },
+    {
+      "personId": 4483674,
+      "character": "Captain",
+      "order": 18
+    },
+    {
+      "personId": 3466176,
+      "character": "Gangster A",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1,
+    "golden-globe": 1
+  },
+  "voteCount": 3764,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "tmdbId": 29702,
+  "slug": "tenebre-1982",
+  "year": 1982,
+  "runtime": 101,
+  "originalTitle": "Tenebre",
+  "title": {
+    "en": "Tenebre",
+    "tr": "Ölümün Sesi"
+  },
+  "overview": {
+    "en": "A razor-wielding serial killer is on the loose, murdering those around Peter Neal, an American mystery author in Italy to promote his newest novel.",
+    "tr": "Roma'ya giden Amerikalı bir roman yazarı, yeni kitabında kaleme aldığı olaylarla örtüşen vahşi cinayetlerin şehre yayılmasının ardından olayları araştırmaya başlar."
+  },
+  "poster": {
+    "tr": "/itTip5N7G5HqJH25e6q7j598JWD.jpg",
+    "en": "/rR3b6pplcXb6ODwh5Qjj9EQrcEs.jpg"
+  },
+  "backdrops": [
+    "/toYJpo6mezPMzO91hWfH8TU6kPF.jpg",
+    "/mLsu08y9DY7bcfxmPdWYJhr12gJ.jpg",
+    "/dxFwwEbASnNO2ST0CdSTKJzwoLk.jpg",
+    "/iL9ZJHK9YMYutlqY2CT1QIUkACF.jpg",
+    "/y7mNT6hVvL5BoAIqUqGwsQ2QLLu.jpg",
+    "/aaTZZV0YdnnkPuLBHwuwZ0nHja2.jpg",
+    "/qbM7I4SSlfhv4BG609dWl8lYar.jpg",
+    "/796stK7CXyjEk0LAq2G8UJBlzB5.jpg",
+    "/qC3AtHJtv8Ihi9E30NI0tc2LRQr.jpg",
+    "/4zceJNGRyq2E4v9Cm5t68AfKNHG.jpg"
+  ],
+  "trailerKey": "0KwE5u-B3Cw",
+  "genreIds": [
+    27,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    588,
+    1596,
+    10714,
+    12570,
+    14676,
+    34061,
+    155251,
+    157758,
+    158927,
+    173719,
+    175233,
+    189921,
+    283201,
+    285237,
+    361094,
+    376929
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Produzioni Intersound"
+  ],
+  "crew": [
+    {
+      "personId": 15055,
+      "job": "composer"
+    },
+    {
+      "personId": 65751,
+      "job": "producer"
+    },
+    {
+      "personId": 4955,
+      "job": "director"
+    },
+    {
+      "personId": 15054,
+      "job": "composer"
+    },
+    {
+      "personId": 15053,
+      "job": "composer"
+    },
+    {
+      "personId": 4955,
+      "job": "writer"
+    },
+    {
+      "personId": 49069,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 106179,
+      "character": "Peter Neal",
+      "order": 0
+    },
+    {
+      "personId": 11163,
+      "character": "Bullmer",
+      "order": 1
+    },
+    {
+      "personId": 44959,
+      "character": "Anne",
+      "order": 2
+    },
+    {
+      "personId": 15139,
+      "character": "Detective Germani",
+      "order": 3
+    },
+    {
+      "personId": 101578,
+      "character": "Gianni",
+      "order": 4
+    },
+    {
+      "personId": 43628,
+      "character": "Tilde",
+      "order": 5
+    },
+    {
+      "personId": 1139221,
+      "character": "Jane McKerrow",
+      "order": 6
+    },
+    {
+      "personId": 102012,
+      "character": "Elsa Manni",
+      "order": 7
+    },
+    {
+      "personId": 99196,
+      "character": "Girl on Beach",
+      "order": 8
+    },
+    {
+      "personId": 103122,
+      "character": "Detective Altieri",
+      "order": 9
+    },
+    {
+      "personId": 26700,
+      "character": "Christiano Berti",
+      "order": 10
+    },
+    {
+      "personId": 32915,
+      "character": "Maria Alboretto",
+      "order": 11
+    },
+    {
+      "personId": 1139222,
+      "character": "Bullmer's secretary",
+      "order": 12
+    },
+    {
+      "personId": 933330,
+      "character": "Marion",
+      "order": 13
+    },
+    {
+      "personId": 128674,
+      "character": "Department Store Manager",
+      "order": 14
+    },
+    {
+      "personId": 2708482,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 39151,
+      "character": "John",
+      "order": 16
+    },
+    {
+      "personId": 98774,
+      "character": "Alboretto",
+      "order": 17
+    },
+    {
+      "personId": 1883974,
+      "character": "Coroner",
+      "order": 18
+    },
+    {
+      "personId": 2708487,
+      "character": "Prostitute",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 731,
+  "sources": [
+    "cult-list"
+  ]
+}

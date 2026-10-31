@@ -1,0 +1,195 @@
+{
+  "tmdbId": 11708,
+  "slug": "chitty-chitty-bang-bang-1968",
+  "year": 1968,
+  "runtime": 144,
+  "originalTitle": "Chitty Chitty Bang Bang",
+  "title": {
+    "en": "Chitty Chitty Bang Bang",
+    "tr": "Harika Otomobil"
+  },
+  "overview": {
+    "en": "A hapless inventor finally finds success with a flying car, which a dictator from a foreign government sets out to take for himself.",
+    "tr": "Birbirinden büyüleyici müziklerle bezenmiş olan filmde hikâye bir arabanın etrafında döner. Sıra dışı bilim adamı Caractacus bir araba icat etmiştir: Bu arabanın en etkileyici özelliği kendi başına hareket edebilmesidir. Kötü niyetli Baron Bomburst, gerektiğinde uçan ve yüzen bu arabaya göz dikince macera başlar."
+  },
+  "poster": {
+    "tr": "/wJ62FzGeCAs6PjCIK1as6xzdIY5.jpg",
+    "en": "/wJ62FzGeCAs6PjCIK1as6xzdIY5.jpg"
+  },
+  "backdrops": [
+    "/vOl8p3u3MKjACtpTn6CV3BB7HY.jpg",
+    "/iYfaeF9N2YZMrfgbzxq7LF4UQ95.jpg",
+    "/f5WqOkPphnN6HgVYFei53Ihsn6y.jpg",
+    "/7NU213Og0Ivgix1Q2JH87HrjVbE.jpg",
+    "/khTLAoVN48gWcVi4bHgRYycDeQN.jpg",
+    "/rJpLyTpVKsbmamVVfPBdmeWdiCP.jpg",
+    "/v9xQUKoRYCzQNzvHZFkhFKZlqTc.jpg",
+    "/sq8OVa3eidkH9mE5GqPMxVCe7xm.jpg",
+    "/pk38tXmx4GWkp6ttXpsDQomVx8o.jpg",
+    "/mpOOusKlIx3Q3NN0LZkyZ0Cpgfi.jpg"
+  ],
+  "trailerKey": "CV75eP3_WF4",
+  "genreIds": [
+    10751,
+    12,
+    14,
+    35
+  ],
+  "keywordIds": [
+    391,
+    1436,
+    7313,
+    10028,
+    258829
+  ],
+  "countries": [
+    "GB",
+    "US",
+    "FR"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "United Artists",
+    "Dramatic Features",
+    "Warfield"
+  ],
+  "crew": [
+    {
+      "personId": 1299,
+      "job": "writer"
+    },
+    {
+      "personId": 70308,
+      "job": "director"
+    },
+    {
+      "personId": 70308,
+      "job": "writer"
+    },
+    {
+      "personId": 5838,
+      "job": "composer"
+    },
+    {
+      "personId": 30923,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5839,
+      "job": "composer"
+    },
+    {
+      "personId": 9861,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 61303,
+      "character": "Caractacus Potts",
+      "order": 0
+    },
+    {
+      "personId": 70307,
+      "character": "Truly Scrumptious",
+      "order": 1
+    },
+    {
+      "personId": 30706,
+      "character": "Grandpa Potts",
+      "order": 2
+    },
+    {
+      "personId": 9908,
+      "character": "Baron Bomburst",
+      "order": 3
+    },
+    {
+      "personId": 10599,
+      "character": "Baroness Bomburst",
+      "order": 4
+    },
+    {
+      "personId": 55879,
+      "character": "Toymaker",
+      "order": 5
+    },
+    {
+      "personId": 11130,
+      "character": "Lord Scrumptious",
+      "order": 6
+    },
+    {
+      "personId": 81463,
+      "character": "Child Catcher",
+      "order": 7
+    },
+    {
+      "personId": 40942,
+      "character": "Blonde",
+      "order": 8
+    },
+    {
+      "personId": 117546,
+      "character": "Admiral",
+      "order": 9
+    },
+    {
+      "personId": 999874,
+      "character": "First Spy",
+      "order": 10
+    },
+    {
+      "personId": 1229471,
+      "character": "Second Spy",
+      "order": 11
+    },
+    {
+      "personId": 115711,
+      "character": "Chancellor",
+      "order": 12
+    },
+    {
+      "personId": 14955,
+      "character": "Captain of Guard",
+      "order": 13
+    },
+    {
+      "personId": 141799,
+      "character": "Jemima Potts",
+      "order": 14
+    },
+    {
+      "personId": 141800,
+      "character": "Jeremy Potts",
+      "order": 15
+    },
+    {
+      "personId": 9906,
+      "character": "George Coggins",
+      "order": 16
+    },
+    {
+      "personId": 40965,
+      "character": "Junkman",
+      "order": 17
+    },
+    {
+      "personId": 132102,
+      "character": "Cyril, Big Man",
+      "order": 18
+    },
+    {
+      "personId": 1376721,
+      "character": "Chef",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 780,
+  "sources": [
+    "cult-list"
+  ]
+}

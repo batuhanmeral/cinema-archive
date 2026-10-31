@@ -1,0 +1,220 @@
+{
+  "tmdbId": 9740,
+  "slug": "hannibal-2001",
+  "year": 2001,
+  "runtime": 131,
+  "originalTitle": "Hannibal",
+  "title": {
+    "en": "Hannibal",
+    "tr": "Hannibal"
+  },
+  "overview": {
+    "en": "After having successfully eluded the authorities for years, Hannibal peacefully lives in Italy in disguise as an art scholar. Trouble strikes again when he's discovered leaving a deserving few dead in the process. He returns to America to make contact with now disgraced Agent Clarice Starling, who is suffering the wrath of a malicious FBI rival as well as the media.",
+    "tr": "\"Sessizliği bozun...\" sloganıyla ürkütücü içeriğini açığa vuran Hannibal, Thomas Harris'in aynı adlı romanından sinemaya uyarlandı. Kuzuların Sessizliği'nin (hem filmin, hem de romanın) devamı niteliğindeki yapımda, uzun bir aradan sonra Amerika'ya dönen cani Hannibal Lecter'in FBI ajanı Clarice Starling'i bulma çabası konu ediliyor. Floransa'da gizleniyor olan Lecter, Amerika'da kendisiyle hesaplaşmak isteyen diğer bir suçlunun, değer verdiği yegane insan olan Starling'e zarar vermesinden kokmaktadır. İki caninin karmaşık planları arasında kalan ajan Starling, en zorlu mücadeleyi kendini korumak için verecektir..."
+  },
+  "poster": {
+    "tr": "/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg",
+    "en": "/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg"
+  },
+  "backdrops": [
+    "/1eMvglbY3wpl4nl09eYLtfstV2I.jpg",
+    "/6iLfHsyBNDDnVxZTFXus04V7a0l.jpg",
+    "/fM736e6Za4tofRqPFguhdE3MjpO.jpg",
+    "/j2ugciy4ef6IwMDSnf5uDYPyMvc.jpg",
+    "/1ta5cJiOkNlh4eGBBCT0gwSAlaM.jpg",
+    "/sJW4lgIEs2TvYpUcvCQhCMRgPaT.jpg",
+    "/zqEG6mfa48OiEOMJC2Mu6eAVLtt.jpg",
+    "/3Nb9AQaq3elLNCUBxG8VprmqfhZ.jpg",
+    "/hJrqYs6A8UjfPNKmtClhOw2FUjt.jpg",
+    "/21OReCf0OSA0REs10MsByJGMc8T.jpg"
+  ],
+  "trailerKey": "20rd9VQ1Wx0",
+  "genreIds": [
+    80,
+    18,
+    53
+  ],
+  "keywordIds": [
+    818,
+    110,
+    1812,
+    2887,
+    9663,
+    10714,
+    12565,
+    14895,
+    18486,
+    34136,
+    160313,
+    162810,
+    179430,
+    186416,
+    278235,
+    281192,
+    295907,
+    302137,
+    305691,
+    309029,
+    314730,
+    322255,
+    325801,
+    325818,
+    325825,
+    339814,
+    355372,
+    371027
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The De Laurentiis Company",
+    "Universal Pictures",
+    "Scott Free Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1255,
+      "job": "writer"
+    },
+    {
+      "personId": 943,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 19051,
+      "job": "producer"
+    },
+    {
+      "personId": 5398,
+      "job": "producer"
+    },
+    {
+      "personId": 2260,
+      "job": "writer"
+    },
+    {
+      "personId": 578,
+      "job": "director"
+    },
+    {
+      "personId": 578,
+      "job": "producer"
+    },
+    {
+      "personId": 947,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4173,
+      "character": "Dr. Hannibal Lecter",
+      "order": 0
+    },
+    {
+      "personId": 1231,
+      "character": "Clarice M. Starling",
+      "order": 1
+    },
+    {
+      "personId": 64,
+      "character": "Mason Verger",
+      "order": 2
+    },
+    {
+      "personId": 11477,
+      "character": "Paul Krendler",
+      "order": 3
+    },
+    {
+      "personId": 3753,
+      "character": "Insp. Renaldo Pazzi",
+      "order": 4
+    },
+    {
+      "personId": 6752,
+      "character": "Dr. Cordell Doemling",
+      "order": 5
+    },
+    {
+      "personId": 13936,
+      "character": "Barney Matthews",
+      "order": 6
+    },
+    {
+      "personId": 3809,
+      "character": "Allegra Pazzi",
+      "order": 7
+    },
+    {
+      "personId": 91756,
+      "character": "Evelda Drumgo",
+      "order": 8
+    },
+    {
+      "personId": 7219,
+      "character": "FBI Agent Pearsall",
+      "order": 9
+    },
+    {
+      "personId": 162754,
+      "character": "FBI Asst. Director Noonan",
+      "order": 10
+    },
+    {
+      "personId": 953778,
+      "character": "DEA Agent John Eldridge",
+      "order": 11
+    },
+    {
+      "personId": 27392,
+      "character": "Gnocco",
+      "order": 12
+    },
+    {
+      "personId": 15918,
+      "character": "Carlo",
+      "order": 13
+    },
+    {
+      "personId": 35106,
+      "character": "Matteo",
+      "order": 14
+    },
+    {
+      "personId": 1187541,
+      "character": "Piero",
+      "order": 15
+    },
+    {
+      "personId": 18112,
+      "character": "Tommaso",
+      "order": 16
+    },
+    {
+      "personId": 11841,
+      "character": "Sogliato",
+      "order": 17
+    },
+    {
+      "personId": 2257,
+      "character": "Officer Bolton",
+      "order": 18
+    },
+    {
+      "personId": 37206,
+      "character": "Special Agent Burke",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 5405,
+  "sources": [
+    "cult-list"
+  ]
+}

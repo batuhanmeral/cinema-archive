@@ -1,0 +1,205 @@
+{
+  "tmdbId": 607,
+  "slug": "men-in-black-1997",
+  "year": 1997,
+  "runtime": 98,
+  "originalTitle": "Men in Black",
+  "title": {
+    "en": "Men in Black",
+    "tr": "Siyah Giyen Adamlar"
+  },
+  "overview": {
+    "en": "After a police chase with an otherworldly being, a New York City cop is recruited as an agent in a top-secret organization established to monitor and police alien activity on Earth: the Men in Black. Agent K and new recruit Agent J find themselves in the middle of a deadly plot by an intergalactic terrorist who has arrived on Earth to assassinate two ambassadors from opposing galaxies.",
+    "tr": "Onlar evrendeki en iyi gizlenen sırdır. Yüksek bütçeler ayrılmış olmasına rağmen, gayriresmi hükümet bürosu için çalışan 'K' ve 'J' Siyah Giyen Adamlar'dır, göç servisinden sorumludurlar ve yerküremize yabancı her şeyin düzenleyicisidirler. Onlar sizin en iyi, son ve tek savunma hattınızdır. Gizlilik içinde çalışırlar ve siyah giyerler. Onlar Siyah Giyen Adamlar'dır. Dünyayı evrenin pisliklerinden korumaktadırlar."
+  },
+  "poster": {
+    "tr": "/8XvAQZqXOYubts11WbXtgdEnpJR.jpg",
+    "en": "/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg"
+  },
+  "backdrops": [
+    "/o9puyKpayQoX8ikIaYtf2PfKv3.jpg",
+    "/1GJvBE7UWU1WOVi0XREl4JQc7f8.jpg",
+    "/deKO3QN4tqgvQvjggEmDjpgat2G.jpg",
+    "/je9H1s09ozp7kkiFqDvFD8aLW9e.jpg",
+    "/hGGzI2XJ1q0JkLDo4iWprfjxaGi.jpg",
+    "/Arh3Q59d6UqNNgWXBSDAxotWYYg.jpg",
+    "/wM1aNIXSqB8GSeQY38LOUHYMYIw.jpg",
+    "/lrAz6ayKlVBpClucdgXBmVUP6HG.jpg",
+    "/iEVZScwA2vy8BlVOFBBCfbU6XxB.jpg",
+    "/aJMhYOP80cVBtq5ku3uyqASF3Ol.jpg"
+  ],
+  "trailerKey": "HYUd7AOw_lk",
+  "genreIds": [
+    28,
+    12,
+    35,
+    878
+  ],
+  "keywordIds": [
+    242,
+    3242,
+    1826,
+    3243,
+    1568,
+    1308,
+    9715,
+    2428,
+    2173,
+    2547,
+    4751,
+    3240,
+    9717,
+    9951,
+    167316,
+    174915,
+    320420,
+    321464
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Columbia Pictures",
+    "Amblin Entertainment",
+    "Parkes+MacDonald Production"
+  ],
+  "crew": [
+    {
+      "personId": 2212,
+      "job": "producer"
+    },
+    {
+      "personId": 9614,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8701,
+      "job": "producer"
+    },
+    {
+      "personId": 5174,
+      "job": "director"
+    },
+    {
+      "personId": 531,
+      "job": "composer"
+    },
+    {
+      "personId": 9612,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2176,
+      "character": "Kay",
+      "order": 0
+    },
+    {
+      "personId": 2888,
+      "character": "Jay",
+      "order": 1
+    },
+    {
+      "personId": 9625,
+      "character": "Laurel",
+      "order": 2
+    },
+    {
+      "personId": 7132,
+      "character": "Edgar",
+      "order": 3
+    },
+    {
+      "personId": 9626,
+      "character": "Zed",
+      "order": 4
+    },
+    {
+      "personId": 4252,
+      "character": "Jeebs",
+      "order": 5
+    },
+    {
+      "personId": 6751,
+      "character": "Beatrice",
+      "order": 6
+    },
+    {
+      "personId": 9628,
+      "character": "Gentle Rosenburg",
+      "order": 7
+    },
+    {
+      "personId": 9629,
+      "character": "Van Driver",
+      "order": 8
+    },
+    {
+      "personId": 9630,
+      "character": "Jose",
+      "order": 9
+    },
+    {
+      "personId": 9631,
+      "character": "Arquillian",
+      "order": 10
+    },
+    {
+      "personId": 9632,
+      "character": "INS agent Janus",
+      "order": 11
+    },
+    {
+      "personId": 9633,
+      "character": "Dee",
+      "order": 12
+    },
+    {
+      "personId": 9634,
+      "character": "1st Lt. Jake Jensen",
+      "order": 13
+    },
+    {
+      "personId": 443770,
+      "character": "Mikey",
+      "order": 14
+    },
+    {
+      "personId": 15318,
+      "character": "Perp",
+      "order": 15
+    },
+    {
+      "personId": 84626,
+      "character": "Zap-Em Man",
+      "order": 16
+    },
+    {
+      "personId": 15031,
+      "character": "Mr. Redgick",
+      "order": 17
+    },
+    {
+      "personId": 59206,
+      "character": "Mrs. Redgick",
+      "order": 18
+    },
+    {
+      "personId": 9996,
+      "character": "Passport Officer",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 15373,
+  "sources": [
+    "cult-list"
+  ]
+}

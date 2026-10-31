@@ -1,0 +1,198 @@
+{
+  "tmdbId": 10970,
+  "slug": "silent-movie-1976",
+  "year": 1976,
+  "runtime": 87,
+  "originalTitle": "Silent Movie",
+  "title": {
+    "en": "Silent Movie",
+    "tr": "Deli Dolu"
+  },
+  "overview": {
+    "en": "Aspiring filmmakers Mel Funn, Marty Eggs and Dom Bell go to a financially troubled studio with an idea for a silent movie. In an effort to make the movie more marketable, they attempt to recruit a number of big name stars to appear, while the studio's creditors attempt to thwart them.",
+    "tr": "Bir zamanlar Hollywood'un ünlü ve aranılan bir yönetmeni olan Mel Funn (Mel Brooks) alkol sorunu yüzünden uzunca bir süredir mesleğinden uzak kalmıştır. Artık içkiyi bırakmış olan bu eski komedi filmleri yönetmeni, iki sadık yardımcısı, Marty Eggs (Marty Feldman) ve Dom Bell (Dom DeLuise)'le birlikte eski güzel günlere muhteşem bir dönüş plânlamaktadır: Sessiz bir film yapacaktır. Zarar etmekte olan bir film yapımcısına (Sid Caesar) bu teklifini götürür (tabii bütün bunlar ara yazıyla verilir, çünkü izlemekte olduğumuz konusu 1970'li yıllarda geçen bu renkli film sessiz ilerlemektedir, ancak yine de yer yer bazı ses efektleri ve müzik işitilir). Yapımcı önce saçma bulduğu bu öneriye güler geçer, çünkü yıl 1976'dır ve sessiz filmlerin devri çoktan kapanmıştır. Ancak çaresizdir, çünkü \"Engulf ve Devour\" adlı bir film şirketini satın almak üzeredir.Yapımcı filmde ünlü Hollywood oyuncularının da yer almaları koşuluyla projeye yeşil ışık yakar"
+  },
+  "poster": {
+    "tr": "/AeaoOSqEU3elkpDAlKbIWcdKLJ8.jpg",
+    "en": "/AeaoOSqEU3elkpDAlKbIWcdKLJ8.jpg"
+  },
+  "backdrops": [
+    "/6MBo0C4G0O7A7JVVfVVJIJbh1fU.jpg",
+    "/lRJVxtprWNGFvXcsI8NwxLQm2TN.jpg",
+    "/dTBmiOatde8MyTeSDlyyj3FdflK.jpg",
+    "/m413OJzoHevN15L92D4riPP3MRj.jpg",
+    "/r3QjQkEkXkyGs6xjnIEgLBzDtQD.jpg",
+    "/gx8ca0WuLLQa4bEuuzQu2wgC0eo.jpg",
+    "/kCdIsLAIbkQg7109NHjCZqCXYL5.jpg",
+    "/ji2H7mPDuy8v9YUqSJ4C8xqiVic.jpg",
+    "/gGDmPqDutq6z09KyVFFfkhc6vAa.jpg",
+    "/uVvIZI2gtGFTRI4mQLBa3Q5DWRY.jpg"
+  ],
+  "trailerKey": "sGwWrtVYXWs",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    776,
+    8201,
+    5956,
+    9253,
+    10897,
+    12396,
+    154802,
+    225012,
+    325782,
+    325815
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Crossbow Productions",
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 8246,
+      "job": "writer"
+    },
+    {
+      "personId": 67674,
+      "job": "writer"
+    },
+    {
+      "personId": 67675,
+      "job": "producer"
+    },
+    {
+      "personId": 14639,
+      "job": "writer"
+    },
+    {
+      "personId": 30605,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 719,
+      "job": "composer"
+    },
+    {
+      "personId": 47845,
+      "job": "writer"
+    },
+    {
+      "personId": 14639,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14639,
+      "character": "Mel Funn",
+      "order": 0
+    },
+    {
+      "personId": 29802,
+      "character": "Marty Eggs",
+      "order": 1
+    },
+    {
+      "personId": 6844,
+      "character": "Dom Bell",
+      "order": 2
+    },
+    {
+      "personId": 8902,
+      "character": "Studio Chief",
+      "order": 3
+    },
+    {
+      "personId": 14833,
+      "character": "Engulf",
+      "order": 4
+    },
+    {
+      "personId": 72680,
+      "character": "Devour",
+      "order": 5
+    },
+    {
+      "personId": 40389,
+      "character": "Vilma Kaplan",
+      "order": 6
+    },
+    {
+      "personId": 80626,
+      "character": "Pregnant Lady",
+      "order": 7
+    },
+    {
+      "personId": 152711,
+      "character": "Newsvendor",
+      "order": 8
+    },
+    {
+      "personId": 13821,
+      "character": "Maitre d'",
+      "order": 9
+    },
+    {
+      "personId": 88450,
+      "character": "Studio Gate Guard",
+      "order": 10
+    },
+    {
+      "personId": 70172,
+      "character": "Intensive Care Nurse",
+      "order": 11
+    },
+    {
+      "personId": 102198,
+      "character": "Studio Chief's Secretary",
+      "order": 12
+    },
+    {
+      "personId": 103791,
+      "character": "Man in Tailor Shop",
+      "order": 13
+    },
+    {
+      "personId": 168211,
+      "character": "Blind Man",
+      "order": 14
+    },
+    {
+      "personId": 99939,
+      "character": "Fly-in-Soup Man",
+      "order": 15
+    },
+    {
+      "personId": 1219906,
+      "character": "Acupuncture Man",
+      "order": 16
+    },
+    {
+      "personId": 51765,
+      "character": "Motel Bellhop",
+      "order": 17
+    },
+    {
+      "personId": 26028,
+      "character": "British Officer",
+      "order": 18
+    },
+    {
+      "personId": 1607621,
+      "character": "Executive",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 361,
+  "sources": [
+    "cult-list"
+  ]
+}

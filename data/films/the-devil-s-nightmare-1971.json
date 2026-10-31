@@ -1,0 +1,157 @@
+{
+  "tmdbId": 58218,
+  "slug": "the-devil-s-nightmare-1971",
+  "year": 1971,
+  "runtime": 95,
+  "originalTitle": "La Plus Longue Nuit du Diable",
+  "title": {
+    "en": "The Devil's Nightmare",
+    "tr": "La Plus Longue Nuit du Diable"
+  },
+  "overview": {
+    "en": "Seven tourists sent by Satan to a castle are caught by a ghastly woman as they commit deadly sins.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tRvh4IpxWvRg2AKuTOIpVNXbX7d.jpg",
+    "en": "/tRvh4IpxWvRg2AKuTOIpVNXbX7d.jpg"
+  },
+  "backdrops": [
+    "/gjG04AbLprVf8CUQmmyorTud1lo.jpg",
+    "/8HAsJfoCv5AIY70ON5xd4oqhiTN.jpg",
+    "/jopwusM9WeXiNyW1lTQncX2p4WE.jpg",
+    "/kDSJfCCCGNJAd1rkmTs8vDaZs0O.jpg",
+    "/oMhfB1gNazsh4Sl52nmI8otfxit.jpg",
+    "/wnGDjm0FoJqhZq80kAZCWe8LhZ.jpg",
+    "/7xSJ7LBPMxJqmF5slgjqRcYLkhP.jpg"
+  ],
+  "trailerKey": "i3Ngri33WHM",
+  "genreIds": [
+    27,
+    14
+  ],
+  "keywordIds": [
+    5159,
+    3098,
+    10093,
+    14999,
+    15001
+  ],
+  "countries": [
+    "BE",
+    "IT"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Cetelci S.A.",
+    "Delfino Film"
+  ],
+  "crew": [
+    {
+      "personId": 97928,
+      "job": "director"
+    },
+    {
+      "personId": 1019024,
+      "job": "writer"
+    },
+    {
+      "personId": 1019023,
+      "job": "writer"
+    },
+    {
+      "personId": 97928,
+      "job": "writer"
+    },
+    {
+      "personId": 30657,
+      "job": "composer"
+    },
+    {
+      "personId": 1019023,
+      "job": "producer"
+    },
+    {
+      "personId": 1634887,
+      "job": "producer"
+    },
+    {
+      "personId": 1483890,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 97929,
+      "character": "Lisa Müller",
+      "order": 0
+    },
+    {
+      "personId": 14242,
+      "character": "Baron von Rhoneberg",
+      "order": 1
+    },
+    {
+      "personId": 13843,
+      "character": "Satan",
+      "order": 2
+    },
+    {
+      "personId": 97930,
+      "character": "Father Alvin Sorel",
+      "order": 3
+    },
+    {
+      "personId": 34619,
+      "character": "Mason",
+      "order": 4
+    },
+    {
+      "personId": 97932,
+      "character": "Nancy",
+      "order": 5
+    },
+    {
+      "personId": 97931,
+      "character": "Corinne",
+      "order": 6
+    },
+    {
+      "personId": 36932,
+      "character": "Regine",
+      "order": 7
+    },
+    {
+      "personId": 1019028,
+      "character": "Nurse Gerda",
+      "order": 8
+    },
+    {
+      "personId": 30667,
+      "character": "Howard",
+      "order": 9
+    },
+    {
+      "personId": 97933,
+      "character": "Ducha",
+      "order": 10
+    },
+    {
+      "personId": 1019029,
+      "character": "Hans",
+      "order": 11
+    },
+    {
+      "personId": 1019030,
+      "character": "",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 52,
+  "sources": [
+    "cult-list"
+  ]
+}

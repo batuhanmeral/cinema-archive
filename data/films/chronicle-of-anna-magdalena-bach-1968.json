@@ -1,0 +1,195 @@
+{
+  "tmdbId": 95600,
+  "slug": "chronicle-of-anna-magdalena-bach-1968",
+  "year": 1968,
+  "runtime": 94,
+  "originalTitle": "Chronik der Anna Magdalena Bach",
+  "title": {
+    "en": "Chronicle of Anna Magdalena Bach",
+    "tr": "Chronik der Anna Magdalena Bach"
+  },
+  "overview": {
+    "en": "The life and music of Johann Sebastian Bach as presented by his wife, Anna.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/bABKBHPge6UHlRbTkN1hgEiuOG5.jpg",
+    "en": "/bABKBHPge6UHlRbTkN1hgEiuOG5.jpg"
+  },
+  "backdrops": [
+    "/n09tR1wlRbJ8Bh6Eqz77rI5PegO.jpg",
+    "/8GDk7yIW4yExvxiXwPLzpqgDFtJ.jpg",
+    "/amGZk3GmRyBcoo9Q2VN7hrhw7dE.jpg",
+    "/1mRnVAJpC20RuUbAlAIFM1Hrucr.jpg",
+    "/juGmNknUKvRNBQWT2EfogZSh9eq.jpg",
+    "/dR1mnugVgLpIgfccKJbzZaEorBT.jpg",
+    "/ngO0i0zA9khc9xmSSjjuEVoo9NV.jpg"
+  ],
+  "trailerKey": "gjD5815D7vg",
+  "genreIds": [
+    10402,
+    18
+  ],
+  "keywordIds": [
+    187056,
+    191718,
+    201055
+  ],
+  "countries": [
+    "DE",
+    "IT"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "IDI Cinematografica",
+    "Franz Seitz Filmproduktion",
+    "Neue Filmkunst Walter Kirchner"
+  ],
+  "crew": [
+    {
+      "personId": 935136,
+      "job": "director"
+    },
+    {
+      "personId": 935137,
+      "job": "director"
+    },
+    {
+      "personId": 935136,
+      "job": "writer"
+    },
+    {
+      "personId": 935137,
+      "job": "writer"
+    },
+    {
+      "personId": 10250,
+      "job": "producer"
+    },
+    {
+      "personId": 935136,
+      "job": "producer"
+    },
+    {
+      "personId": 586958,
+      "job": "producer"
+    },
+    {
+      "personId": 1356936,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 935137,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1276482,
+      "character": "Johann Sebastian Bach",
+      "order": 0
+    },
+    {
+      "personId": 1276483,
+      "character": "Anna Magdalena Bach",
+      "order": 1
+    },
+    {
+      "personId": 12003,
+      "character": "Hölzel",
+      "order": 2
+    },
+    {
+      "personId": 1276484,
+      "character": "Steger",
+      "order": 3
+    },
+    {
+      "personId": 1276485,
+      "character": "Born",
+      "order": 4
+    },
+    {
+      "personId": 50566,
+      "character": "Rector",
+      "order": 5
+    },
+    {
+      "personId": 1276486,
+      "character": "Superintendent",
+      "order": 6
+    },
+    {
+      "personId": 1276487,
+      "character": "Prefect Kittler",
+      "order": 7
+    },
+    {
+      "personId": 1276488,
+      "character": "Prefect Krause",
+      "order": 8
+    },
+    {
+      "personId": 1276489,
+      "character": "Catherina Dorothea Bach",
+      "order": 9
+    },
+    {
+      "personId": 1276490,
+      "character": "Regine Susanna Bach",
+      "order": 10
+    },
+    {
+      "personId": 1276491,
+      "character": "Christine Sophie Henrietta Bach",
+      "order": 11
+    },
+    {
+      "personId": 1276492,
+      "character": "Johann Elias Bach",
+      "order": 12
+    },
+    {
+      "personId": 1276493,
+      "character": "Wilhelm Friedemann Bach",
+      "order": 13
+    },
+    {
+      "personId": 1377320,
+      "character": "Singer in Cantata No. 205",
+      "order": 14
+    },
+    {
+      "personId": 1171204,
+      "character": "Singer in Cantata No. 82",
+      "order": 15
+    },
+    {
+      "personId": 6393474,
+      "character": "Singer in Cantata No. 42",
+      "order": 16
+    },
+    {
+      "personId": 6393472,
+      "character": "Treble Voice in Cantata No. 140",
+      "order": 17
+    },
+    {
+      "personId": 6393476,
+      "character": "Anna Magdalena Bach in Cantata No. 244 (voice)",
+      "order": 18
+    },
+    {
+      "personId": 6393477,
+      "character": "Bass Voice in Cantata No. 140",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 46,
+  "sources": [
+    "cult-list"
+  ]
+}

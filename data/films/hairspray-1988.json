@@ -1,0 +1,199 @@
+{
+  "tmdbId": 11054,
+  "slug": "hairspray-1988",
+  "year": 1988,
+  "runtime": 92,
+  "originalTitle": "Hairspray",
+  "title": {
+    "en": "Hairspray",
+    "tr": "Hairspray"
+  },
+  "overview": {
+    "en": "'Pleasantly plump' teenager Tracy Turnblad achieves her dream of becoming a regular on the Corny Collins Dance Show. Now a teen hero, she starts using her fame to speak out for the causes she believes in, most of all integration. In doing so, she earns the wrath of the show's former star, Amber Von Tussle, as well as Amber's manipulative, pro-segregation parents. The rivalry comes to a head as Amber and Tracy vie for the title of Miss Auto Show 1963.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/n78VVWG1jsEpMCtcye13wy1RiAx.jpg",
+    "en": "/n78VVWG1jsEpMCtcye13wy1RiAx.jpg"
+  },
+  "backdrops": [
+    "/bH5OLuPjCg9Tat6G6VDbxGiP6FP.jpg",
+    "/fg9fISZQSdtcP8gJb7paZD3pYue.jpg",
+    "/ersVrGMSzq2WU6ynBQrHJhwuQ85.jpg",
+    "/azJpjumpvgmn4bf4UvQN7s2LDos.jpg",
+    "/icvmoKo8FzIJrYZCxBTIXZ6UEKw.jpg",
+    "/dNFg1H0tH2PL4joXKx8Q8eQLvot.jpg",
+    "/q1sizaPn0YwVXZx66EwmjkkYBmZ.jpg",
+    "/SlYbsOaTsVxxflQ8bBOKnxLEvP.jpg",
+    "/g5gC1mZXQy9QzcbggtetJ9ZbcYs.jpg",
+    "/hqS5fGtET4tN6Do9MPHEpaTTUID.jpg"
+  ],
+  "trailerKey": "6zgCEgeKoMk",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    258,
+    2672,
+    4098,
+    9799,
+    6984,
+    6713,
+    10131,
+    12096,
+    12425,
+    15299,
+    162753,
+    163129,
+    165567,
+    165576,
+    165583,
+    171636,
+    173242,
+    188086,
+    208728,
+    208992,
+    232488,
+    236336
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New Line Cinema",
+    "Stanley F. Buchthal",
+    "Robert Shaye Production"
+  ],
+  "crew": [
+    {
+      "personId": 10367,
+      "job": "director"
+    },
+    {
+      "personId": 67951,
+      "job": "composer"
+    },
+    {
+      "personId": 59370,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 56891,
+      "job": "producer"
+    },
+    {
+      "personId": 10367,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 70233,
+      "character": "Tracy Turnblad",
+      "order": 0
+    },
+    {
+      "personId": 10369,
+      "character": "Edna Turnblad / Arvin Hodgepile",
+      "order": 1
+    },
+    {
+      "personId": 102,
+      "character": "Velma Von Tussle",
+      "order": 2
+    },
+    {
+      "personId": 62521,
+      "character": "Amber von Tussle",
+      "order": 3
+    },
+    {
+      "personId": 67949,
+      "character": "Franklin von Tussle",
+      "order": 4
+    },
+    {
+      "personId": 2654399,
+      "character": "Penny Pingleton",
+      "order": 5
+    },
+    {
+      "personId": 67950,
+      "character": "Motormouth Maybelle",
+      "order": 6
+    },
+    {
+      "personId": 26042,
+      "character": "Wilbur Turnblad",
+      "order": 7
+    },
+    {
+      "personId": 95090,
+      "character": "Link Larkin",
+      "order": 8
+    },
+    {
+      "personId": 176655,
+      "character": "Seaweed",
+      "order": 9
+    },
+    {
+      "personId": 9292,
+      "character": "Tammy",
+      "order": 10
+    },
+    {
+      "personId": 106482,
+      "character": "Corny Collins",
+      "order": 11
+    },
+    {
+      "personId": 219809,
+      "character": "Beatnik Cat",
+      "order": 12
+    },
+    {
+      "personId": 21992,
+      "character": "Beatnik Chick",
+      "order": 13
+    },
+    {
+      "personId": 2654402,
+      "character": "Prudence Pingleton",
+      "order": 14
+    },
+    {
+      "personId": 1387826,
+      "character": "Mr. Pinky",
+      "order": 15
+    },
+    {
+      "personId": 2694,
+      "character": "Iggy",
+      "order": 16
+    },
+    {
+      "personId": 86805,
+      "character": "Bobby",
+      "order": 17
+    },
+    {
+      "personId": 92726,
+      "character": "I.Q. Jones",
+      "order": 18
+    },
+    {
+      "personId": 2654403,
+      "character": "Brad",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 471,
+  "sources": [
+    "cult-list"
+  ]
+}

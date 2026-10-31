@@ -1,0 +1,200 @@
+{
+  "tmdbId": 476,
+  "slug": "drugstore-cowboy-1989",
+  "year": 1989,
+  "runtime": 102,
+  "originalTitle": "Drugstore Cowboy",
+  "title": {
+    "en": "Drugstore Cowboy",
+    "tr": "Drugstore Cowboy"
+  },
+  "overview": {
+    "en": "Portland, Oregon, 1971. Bob Hughes is the charismatic leader of a peculiar quartet, formed by his wife, Dianne, and another couple, Rick and Nadine, who skillfully steal from drugstores and hospital medicine cabinets in order to appease their insatiable need for drugs. But neither fun nor luck last forever.",
+    "tr": "Günümüz Amerika'sının en çok tartışılan konularından biri: Uyuşturucu. Drugstore Cowboy da bu konuyu temel alan ve 1970'li yıllarda uyuşturucu bağımlılarının suçun içinde geçen hayatlarını ve kendilerini kurtarma hikayelerini anlatan güçlü bir film. Günümüzde uyuşturucuya karşı yürütülen mücadeleye rağmen bağımlıların dünyası hala bir gizem örtüsünün içinde. Drugstore Cowboy, bu kişilerin hayatını anlatan, özenle hazırlanmış gerçekçi bir film. Filmde uyuşturucunun yıkıcı/yok edici dünyasını izlerken, insan doğasının eşitsizliklere karşı kurtulma güdüsü ve umut arayışının etkileyici öyküsünü de izleyeceksiniz."
+  },
+  "poster": {
+    "tr": "/1URuvqnZcwL4wy8hIIwQ9p9AxVq.jpg",
+    "en": "/nxITSEh80jvMEGGsU8RgCzLL340.jpg"
+  },
+  "backdrops": [
+    "/ydrBuCEfMI4rxh3QFlJfXwqHEY4.jpg",
+    "/1Kd8wqED3gPgZ7ozuVDZjTUHQ2F.jpg",
+    "/bpuPh1pLmOaDCpQNfHYPpfD1hZ.jpg",
+    "/zf52xLEyao2xcVnpThmzW2Xl0aj.jpg",
+    "/t3szbqOcrsdmEmffoFvTWX5p9zH.jpg",
+    "/uAvJ0Cdj4sXHZZvvulmSnPEukEA.jpg",
+    "/fVHdUNLHXnjkrsk2oFlV4lgPNHU.jpg",
+    "/sWjOfEexnCEEi0eEO0JdTACTOSm.jpg",
+    "/kdus3mhNtyGkR4jy0EX0BOk38sX.jpg",
+    "/oEjtwcWoZEqCPB7UR7bsXwHv1XH.jpg"
+  ],
+  "trailerKey": "5_Rs8c08hM8",
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    726,
+    825,
+    1228,
+    1803,
+    2375,
+    1896,
+    2653,
+    2655,
+    4232,
+    6782,
+    12422,
+    14964,
+    241860,
+    270236,
+    325824,
+    325854
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Avenue Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 5216,
+      "job": "director"
+    },
+    {
+      "personId": 6470,
+      "job": "writer"
+    },
+    {
+      "personId": 6467,
+      "job": "producer"
+    },
+    {
+      "personId": 5216,
+      "job": "writer"
+    },
+    {
+      "personId": 5667,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5581,
+      "job": "composer"
+    },
+    {
+      "personId": 6468,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2876,
+      "character": "Bob",
+      "order": 0
+    },
+    {
+      "personId": 6473,
+      "character": "Dianne",
+      "order": 1
+    },
+    {
+      "personId": 1736,
+      "character": "Gentry",
+      "order": 2
+    },
+    {
+      "personId": 6474,
+      "character": "Rick",
+      "order": 3
+    },
+    {
+      "personId": 69122,
+      "character": "Nadine",
+      "order": 4
+    },
+    {
+      "personId": 32774,
+      "character": "Drug Counselor",
+      "order": 5
+    },
+    {
+      "personId": 6465,
+      "character": "Bob's Mother",
+      "order": 6
+    },
+    {
+      "personId": 7268,
+      "character": "David",
+      "order": 7
+    },
+    {
+      "personId": 6471,
+      "character": "Tom the Priest",
+      "order": 8
+    },
+    {
+      "personId": 1391035,
+      "character": "Druggist",
+      "order": 9
+    },
+    {
+      "personId": 2018346,
+      "character": "Cop",
+      "order": 10
+    },
+    {
+      "personId": 7269,
+      "character": "Trousinski",
+      "order": 11
+    },
+    {
+      "personId": 2018356,
+      "character": "Neighbor Lady",
+      "order": 12
+    },
+    {
+      "personId": 51339,
+      "character": "Neighbor Man",
+      "order": 13
+    },
+    {
+      "personId": 2018357,
+      "character": "Halamer",
+      "order": 14
+    },
+    {
+      "personId": 2018358,
+      "character": "Hotel Manager",
+      "order": 15
+    },
+    {
+      "personId": 5222,
+      "character": "Hotel Clerk",
+      "order": 16
+    },
+    {
+      "personId": 2018359,
+      "character": "Machinist",
+      "order": 17
+    },
+    {
+      "personId": 2018333,
+      "character": "Crying Boy",
+      "order": 18
+    },
+    {
+      "personId": 5221,
+      "character": "Accomplice",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 643,
+  "sources": [
+    "cult-list"
+  ]
+}

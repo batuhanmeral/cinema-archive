@@ -1,0 +1,184 @@
+{
+  "tmdbId": 5185,
+  "slug": "the-private-life-of-sherlock-holmes-1970",
+  "year": 1970,
+  "runtime": 125,
+  "originalTitle": "The Private Life of Sherlock Holmes",
+  "title": {
+    "en": "The Private Life of Sherlock Holmes",
+    "tr": "Sherlock Holmes’un Özel Hayatı"
+  },
+  "overview": {
+    "en": "When a bored Sherlock eagerly takes the case of Gabrielle Valladon following an attempt on her life, the search for her missing husband leads to Loch Ness and the legendary monster.",
+    "tr": "Tüm zamanların en sevilen ve en başarılı detektifi Sherlock Holmes’un gizli kalmış anıları ve birbirinden heyecanlı maceralarını anlatan filmde, kocasını kaybettiğini söyleyen güzel bir kadın, detektifimiz Sherlock Holmes’u bulur ve bu macera Dr. Watson’la birlikte onları İskoçya’ya sürükler."
+  },
+  "poster": {
+    "tr": "/ky1cLcFhfmw4ScVLVkbDL6a5Poo.jpg",
+    "en": "/vQSYu0DXkqTOEfWF21AzaqXxYCZ.jpg"
+  },
+  "backdrops": [
+    "/9FxGJdhpvDjb0qvhEjNFT3a1r4L.jpg",
+    "/8N9vAZs3Oh9xMICQzQsia0i3xb5.jpg",
+    "/vfnRcyPmkLsfHVSLUTM88L1jLn0.jpg",
+    "/t0JBdvQq3EVzkeWyD1SnvCDl3kq.jpg"
+  ],
+  "trailerKey": "sFvUB6cn_IA",
+  "genreIds": [
+    9648,
+    80,
+    35
+  ],
+  "keywordIds": [
+    191143,
+    205971,
+    229440,
+    273879
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "de",
+    "fr",
+    "ru",
+    "en"
+  ],
+  "studios": [
+    "Sir Nigel Films",
+    "United Artists",
+    "The Mirisch Company"
+  ],
+  "crew": [
+    {
+      "personId": 3146,
+      "job": "producer"
+    },
+    {
+      "personId": 7647,
+      "job": "composer"
+    },
+    {
+      "personId": 3147,
+      "job": "writer"
+    },
+    {
+      "personId": 3146,
+      "job": "writer"
+    },
+    {
+      "personId": 3146,
+      "job": "director"
+    },
+    {
+      "personId": 30923,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 41957,
+      "character": "Sherlock Holmes",
+      "order": 0
+    },
+    {
+      "personId": 13329,
+      "character": "Dr. John Watson",
+      "order": 1
+    },
+    {
+      "personId": 9763,
+      "character": "Gabrielle Valadon",
+      "order": 2
+    },
+    {
+      "personId": 113,
+      "character": "Mycroft Holmes",
+      "order": 3
+    },
+    {
+      "personId": 41985,
+      "character": "Madame Petrova",
+      "order": 4
+    },
+    {
+      "personId": 20128,
+      "character": "Nikolai Rogozhin",
+      "order": 5
+    },
+    {
+      "personId": 79641,
+      "character": "Mrs. Hudson",
+      "order": 6
+    },
+    {
+      "personId": 1228243,
+      "character": "Queen Victoria",
+      "order": 7
+    },
+    {
+      "personId": 12727,
+      "character": "Gravedigger",
+      "order": 8
+    },
+    {
+      "personId": 101723,
+      "character": "Woman in Wheelchair",
+      "order": 9
+    },
+    {
+      "personId": 199919,
+      "character": "Von Tirpitz",
+      "order": 10
+    },
+    {
+      "personId": 18763,
+      "character": "Cabby",
+      "order": 11
+    },
+    {
+      "personId": 202305,
+      "character": "Guide",
+      "order": 12
+    },
+    {
+      "personId": 1733962,
+      "character": "First Carter",
+      "order": 13
+    },
+    {
+      "personId": 108642,
+      "character": "Second Carter",
+      "order": 14
+    },
+    {
+      "personId": 189826,
+      "character": "Hotel Manager",
+      "order": 15
+    },
+    {
+      "personId": 216087,
+      "character": "Baggageman",
+      "order": 16
+    },
+    {
+      "personId": 92042,
+      "character": "Porter",
+      "order": 17
+    },
+    {
+      "personId": 1830530,
+      "character": "Monk",
+      "order": 18
+    },
+    {
+      "personId": 115604,
+      "character": "Inspector Lestrade",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 354,
+  "sources": [
+    "cult-list"
+  ]
+}

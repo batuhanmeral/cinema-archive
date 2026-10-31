@@ -1,0 +1,195 @@
+{
+  "tmdbId": 764,
+  "slug": "the-evil-dead-1983",
+  "year": 1983,
+  "runtime": 85,
+  "originalTitle": "The Evil Dead",
+  "title": {
+    "en": "The Evil Dead",
+    "tr": "Şeytanın Ölüsü"
+  },
+  "overview": {
+    "en": "In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.",
+    "tr": "Beş arkadaş haftasonunu geçirmek için ormandaki bir kulübeye gelirler. Burada, daha önce bir profesör tarafından bırakılmış teyp kaydına ve sonradan Nekronomikon'un kendisi olduğu anlaşılan Ölüler Kitabı'na rastlarla. Teybi çalıştırdıklarında profesörün kendi çevirisini yaptığı ölüleri canlandırma pasajlarını dinlerler ve ağıza alınmayacak derecede dehşetli bir kötülük ormanda açığa çıkar.Önce ormanın kendisi sonra da insanlar kötücül yaratıklara dönüşmeye başlar. Kızlardan biri ormana kaçtığında ağaçların tecavüzüne uğrar. Diğerleri de daha az korkunç olmamak üzere paylarına düşen dehşetle yüzleşeceklerdir. Filmin asıl kahramanı, eğer varsa, hiç kuşkusuz Bruce Campbell'ı türün hayranları arasında ölümsüzleştirecek olan Ash karakteridir.Soluksoluğa izlenen ve sinirbozucu derecede korkunç bu film çoktandır kült klasikleri arasında üst sıralardaki yerini korurken, Sam Raimi'nin dehasına şahit olup, şimdiki tahtına nasıl kurulduğunu merak edenler tarafından kaçırılmamalı."
+  },
+  "poster": {
+    "tr": "/qDREQZWYBEHLdfNPRRAfaroyRls.jpg",
+    "en": "/uYxQ6xhP3WjqPZtxyAOnZQWnZqn.jpg"
+  },
+  "backdrops": [
+    "/2OgSIyerY8zUNw8czWiIn6D4kos.jpg",
+    "/eUEqWIswh9yBXhPvfJsl8MBC8DG.jpg",
+    "/vDP7hXPcUtBKEOh1yhmzmeVzYsH.jpg",
+    "/HwGry7Ui0RsHG5qPMMdGkvPpkQ.jpg",
+    "/j7HrJLI6a6nYlAPDAWdnQEHfltM.jpg",
+    "/onq6lsJLX8ay5iwxEbKX3qJKeO9.jpg",
+    "/qBayL198ACrAVX9ixzFPYtqvxQX.jpg",
+    "/47rQVqyEawvkaL0pQOhRcgoqBTL.jpg",
+    "/jEcvZZWFQybPhRV1FPGkelcPI4H.jpg",
+    "/377E9KSoUGxKWuvyR1Zu9aXcU4I.jpg"
+  ],
+  "trailerKey": "0cQmKgV0cug",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    2380,
+    2879,
+    3335,
+    4010,
+    9713,
+    3623,
+    12377,
+    156174,
+    157458,
+    157459,
+    157466,
+    161261,
+    162810,
+    208327,
+    268132,
+    287274,
+    325766,
+    325818,
+    384154,
+    384156
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Renaissance Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 11469,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7623,
+      "job": "writer"
+    },
+    {
+      "personId": 7623,
+      "job": "director"
+    },
+    {
+      "personId": 11359,
+      "job": "producer"
+    },
+    {
+      "personId": 11468,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11357,
+      "character": "Ash",
+      "order": 0
+    },
+    {
+      "personId": 11462,
+      "character": "Cheryl",
+      "order": 1
+    },
+    {
+      "personId": 11463,
+      "character": "Scott",
+      "order": 2
+    },
+    {
+      "personId": 11464,
+      "character": "Linda",
+      "order": 3
+    },
+    {
+      "personId": 11465,
+      "character": "Shelly",
+      "order": 4
+    },
+    {
+      "personId": 1116941,
+      "character": "Fake Shemp",
+      "order": 5
+    },
+    {
+      "personId": 1116942,
+      "character": "Fake Shemp",
+      "order": 6
+    },
+    {
+      "personId": 1116943,
+      "character": "Fake Shemp",
+      "order": 7
+    },
+    {
+      "personId": 1116944,
+      "character": "Fake Shemp",
+      "order": 8
+    },
+    {
+      "personId": 2809509,
+      "character": "Fake Shemp",
+      "order": 9
+    },
+    {
+      "personId": 2809510,
+      "character": "Fake Shemp",
+      "order": 10
+    },
+    {
+      "personId": 2809511,
+      "character": "Fake Shemp",
+      "order": 11
+    },
+    {
+      "personId": 2809512,
+      "character": "Fake Shemp",
+      "order": 12
+    },
+    {
+      "personId": 2417365,
+      "character": "Fake Shemp",
+      "order": 13
+    },
+    {
+      "personId": 11769,
+      "character": "Fake Shemp",
+      "order": 14
+    },
+    {
+      "personId": 7629,
+      "character": "Fake Shemp",
+      "order": 15
+    },
+    {
+      "personId": 1083386,
+      "character": "Fake Shemp",
+      "order": 16
+    },
+    {
+      "personId": 2809513,
+      "character": "Fake Shemp",
+      "order": 17
+    },
+    {
+      "personId": 11641,
+      "character": "Fake Shemp",
+      "order": 18
+    },
+    {
+      "personId": 1482,
+      "character": "Fake Shemp",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4801,
+  "sources": [
+    "cult-list"
+  ]
+}

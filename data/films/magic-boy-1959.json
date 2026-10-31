@@ -1,0 +1,122 @@
+{
+  "tmdbId": 63486,
+  "slug": "magic-boy-1959",
+  "year": 1959,
+  "runtime": 83,
+  "originalTitle": "少年猿飛佐助",
+  "title": {
+    "en": "Magic Boy",
+    "tr": "Magic Boy"
+  },
+  "overview": {
+    "en": "Magically gifted boy Sasuke lives in peace, deep in the forest with his animal pals and Oyu, his elder sister. After their forest sanctuary is violated by a demon witch who devours one of Sasuke's animal companions, he vows vengeance. Leaving the forest, he sets out to master his magical gifts, making a pilgrimage to the home of the wizard Hakuunsai. While Sasuke learns the ways of magic, the demon witch terrorizes the countryside, and Sasuke works to complete his training in time.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ukrOk3p9JkJikPKgye3FHjD88GH.jpg",
+    "en": "/j4KsswUEy6gmhloYoEqnz82Go7D.jpg"
+  },
+  "backdrops": [
+    "/rKMZssoj5H5hUDSKCIkXIPzOM7g.jpg"
+  ],
+  "trailerKey": "J9ei1dozUB4",
+  "genreIds": [
+    12,
+    16,
+    10751
+  ],
+  "keywordIds": [
+    2526,
+    10278,
+    33637,
+    210024
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Toei Animation"
+  ],
+  "crew": [
+    {
+      "personId": 239442,
+      "job": "director"
+    },
+    {
+      "personId": 239443,
+      "job": "director"
+    },
+    {
+      "personId": 239445,
+      "job": "writer"
+    },
+    {
+      "personId": 1585154,
+      "job": "composer"
+    },
+    {
+      "personId": 1032241,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 70121,
+      "character": "Yukimura Sanada (voice)",
+      "order": 0
+    },
+    {
+      "personId": 239446,
+      "character": "Oyu (voice)",
+      "order": 1
+    },
+    {
+      "personId": 239447,
+      "character": "Sarutobi Sasuke (voice)",
+      "order": 2
+    },
+    {
+      "personId": 239448,
+      "character": "Okei-chan (voice)",
+      "order": 3
+    },
+    {
+      "personId": 1204021,
+      "character": "Master Tozawa Hakuun (voice)",
+      "order": 4
+    },
+    {
+      "personId": 239450,
+      "character": "Omon Yayamata (voice)",
+      "order": 5
+    },
+    {
+      "personId": 239451,
+      "character": "Gonkuro the Mountain Storm (voice)",
+      "order": 6
+    },
+    {
+      "personId": 239452,
+      "character": "Batta no Miyoshi (voice)",
+      "order": 7
+    },
+    {
+      "personId": 239453,
+      "character": "Okera no Kinta (voice)",
+      "order": 8
+    },
+    {
+      "personId": 239454,
+      "character": "Gatekeeper (voice)",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 22,
+  "sources": [
+    "cult-list"
+  ]
+}

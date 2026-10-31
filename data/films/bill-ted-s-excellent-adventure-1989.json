@@ -1,0 +1,206 @@
+{
+  "tmdbId": 1648,
+  "slug": "bill-ted-s-excellent-adventure-1989",
+  "year": 1989,
+  "runtime": 90,
+  "originalTitle": "Bill & Ted's Excellent Adventure",
+  "title": {
+    "en": "Bill & Ted's Excellent Adventure",
+    "tr": "Bill ve Ted'in Maceraları"
+  },
+  "overview": {
+    "en": "Two rock-'n-rolling teens, on the verge of failing their class, set out on a quest to make the ultimate school history report after being presented with a time machine.",
+    "tr": "Ted \"Theodore\" Logan (Keanu Reeves) ve Bill S. Preston (Alex Winter), tarih dersinden ve bu şekilde üniversiteden mezun olmak için bir araştırma yapmak zorundalar. Rufus isimli biri, gelecekten bir telefon klubesinin içine yolculuk ediyor ve onlara, varlıklarının insanoğlunun geleceği açısından çok önemli olduğunu anlatıyor. Böylece Bill ve Tedd, zaman içerisinde yolculuğa çıkıyorlar."
+  },
+  "poster": {
+    "tr": "/tV25lGWGWGEqUe3U0xjQTBgilSx.jpg",
+    "en": "/qcLGk8CkZW4rHK1kqD9Jdst5vd8.jpg"
+  },
+  "backdrops": [
+    "/9Ac0H6cdbYolC72KXm8N0DwZc2I.jpg",
+    "/A1CILmMtHpMobKvVSPWNAHd8Tey.jpg",
+    "/siAdGxe2VrlemtZ30ONTmhvCLJh.jpg",
+    "/jyi7okJmWu6nEtnmeIADIdwftND.jpg",
+    "/yJNHKqxNXo2OgzSpRa9e5DhXvPQ.jpg",
+    "/94CCJ95vRXZocycBbuvxIwM3CCP.jpg",
+    "/8gdplxQsNDGTYYTTHajsU0jUlFQ.jpg",
+    "/nifbbga6I1A5YdYpgknJrEPmMad.jpg",
+    "/1gMzE0aRxHp3NZ0yi3an3T39FuX.jpg",
+    "/6MZYe9Tg7mF8ydgLps5nyj2o5CQ.jpg"
+  ],
+  "trailerKey": "gxFxklxvE_w",
+  "genreIds": [
+    12,
+    35,
+    878
+  ],
+  "keywordIds": [
+    931,
+    5674,
+    1743,
+    4379,
+    5540,
+    5671,
+    6162,
+    4381,
+    5678,
+    5680,
+    12392,
+    207372
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "el"
+  ],
+  "studios": [
+    "DEG",
+    "Nelson Entertainment",
+    "Interscope Communications"
+  ],
+  "crew": [
+    {
+      "personId": 18356,
+      "job": "director"
+    },
+    {
+      "personId": 9184,
+      "job": "producer"
+    },
+    {
+      "personId": 18383,
+      "job": "producer"
+    },
+    {
+      "personId": 17146,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 18384,
+      "job": "producer"
+    },
+    {
+      "personId": 9612,
+      "job": "writer"
+    },
+    {
+      "personId": 18382,
+      "job": "writer"
+    },
+    {
+      "personId": 3393,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6384,
+      "character": "Ted 'Theodore' Logan",
+      "order": 0
+    },
+    {
+      "personId": 18355,
+      "character": "Bill S. Preston",
+      "order": 1
+    },
+    {
+      "personId": 15903,
+      "character": "Rufus",
+      "order": 2
+    },
+    {
+      "personId": 18359,
+      "character": "Napoleon",
+      "order": 3
+    },
+    {
+      "personId": 2550,
+      "character": "Billy the Kid",
+      "order": 4
+    },
+    {
+      "personId": 18360,
+      "character": "Socrates",
+      "order": 5
+    },
+    {
+      "personId": 18361,
+      "character": "Freud",
+      "order": 6
+    },
+    {
+      "personId": 61704,
+      "character": "Genghis Khan",
+      "order": 7
+    },
+    {
+      "personId": 35157,
+      "character": "Joan of Arc",
+      "order": 8
+    },
+    {
+      "personId": 157502,
+      "character": "Abraham Lincoln",
+      "order": 9
+    },
+    {
+      "personId": 28048,
+      "character": "Beethoven",
+      "order": 10
+    },
+    {
+      "personId": 14801,
+      "character": "Captain Logan",
+      "order": 11
+    },
+    {
+      "personId": 10939,
+      "character": "Mr. Ryan",
+      "order": 12
+    },
+    {
+      "personId": 18386,
+      "character": "Missy / Mom",
+      "order": 13
+    },
+    {
+      "personId": 12439,
+      "character": "Mr. Preston",
+      "order": 14
+    },
+    {
+      "personId": 1080213,
+      "character": "Deacon",
+      "order": 15
+    },
+    {
+      "personId": 80137,
+      "character": "Princess Joanna",
+      "order": 16
+    },
+    {
+      "personId": 154499,
+      "character": "Princess Elizabeth",
+      "order": 17
+    },
+    {
+      "personId": 1040620,
+      "character": "Ox",
+      "order": 18
+    },
+    {
+      "personId": 148239,
+      "character": "Randolf",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2216,
+  "sources": [
+    "cult-list"
+  ]
+}

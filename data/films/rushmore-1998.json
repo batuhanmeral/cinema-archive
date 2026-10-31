@@ -1,0 +1,197 @@
+{
+  "tmdbId": 11545,
+  "slug": "rushmore-1998",
+  "year": 1998,
+  "runtime": 93,
+  "originalTitle": "Rushmore",
+  "title": {
+    "en": "Rushmore",
+    "tr": "Çılgın Liseliler"
+  },
+  "overview": {
+    "en": "When a beautiful first-grade teacher arrives at a prep school, she soon attracts the attention of an ambitious teenager named Max, who quickly falls in love with her. Max turns to the father of two of his schoolmates for advice on how to woo the teacher. However, the situation soon gets complicated when Max's new friend becomes involved with her, setting the two pals against one another in a war for her attention.",
+    "tr": "Okuldan atılma noktasına gelen Max Fischer'ın Rushmore'dan ihraç edilmeye tahammül etmesi mümkün değildir. Çünkü Rushmore onun sevdiği tek şeydir. Rushmore'a öğretmen olarak atanan Rosemary’i etkilemek için her şeyi yapmaya hazır olan Max'i, Herman Blume’un da bu garip ilişkiye dahil olmasıyla daha da zor günler beklemektedir. Yalnız ama ilginç fikirlere açık bir adam olan Herman, Max'e dilediği konuda maddi desteği vermeyi hazırdır. Ancak iki arkadaşın arası ikisi birden Rosemary'e aşık olunca biraz açılmaya başlar."
+  },
+  "poster": {
+    "tr": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg",
+    "en": "/hSJ6swahAuZ8wM96lHDTwQPXUvZ.jpg"
+  },
+  "backdrops": [
+    "/kEebOhvrUkFICZV3LaGbPSXh4Rv.jpg",
+    "/yHlFaLTQi5MB2nI2z5F5rlHhUN.jpg",
+    "/a7S6tRd74NL9gB44Iy9kogcxWFW.jpg",
+    "/9jx7eRYZ5HL3rinhJhGKjM67bQl.jpg",
+    "/89CTHWI0lA90xa9oxSM3iWrBDdZ.jpg",
+    "/asC4h9U7pD72bkYcqzgTB7VJYLy.jpg",
+    "/9z7eDyhYkPZCQlsMp7RFWUBaRMp.jpg",
+    "/m6AI69LyhJu4o7auQNTmjyMHBVT.jpg",
+    "/58a2TGhS1jSX7ePsixmnrK6f0Hf.jpg",
+    "/s6OldGv67TfJQtlMR8K2gFiDmbC.jpg"
+  ],
+  "trailerKey": "846UzdeHI1g",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    3568,
+    3551,
+    4326,
+    4333,
+    6521,
+    10683,
+    162936,
+    239797,
+    296608
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "fr",
+    "en",
+    "la",
+    "es"
+  ],
+  "studios": [
+    "Touchstone Pictures",
+    "American Empirical Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 5655,
+      "job": "director"
+    },
+    {
+      "personId": 5655,
+      "job": "writer"
+    },
+    {
+      "personId": 18344,
+      "job": "producer"
+    },
+    {
+      "personId": 5666,
+      "job": "composer"
+    },
+    {
+      "personId": 887,
+      "job": "writer"
+    },
+    {
+      "personId": 5667,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5664,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17881,
+      "character": "Max Fischer",
+      "order": 0
+    },
+    {
+      "personId": 1532,
+      "character": "Herman Blume",
+      "order": 1
+    },
+    {
+      "personId": 11616,
+      "character": "Rosemary Cross",
+      "order": 2
+    },
+    {
+      "personId": 5950,
+      "character": "Bert Fischer",
+      "order": 3
+    },
+    {
+      "personId": 1248,
+      "character": "Dr. Nelson Guggenheim",
+      "order": 4
+    },
+    {
+      "personId": 15252,
+      "character": "Dirk Calloway",
+      "order": 5
+    },
+    {
+      "personId": 239981,
+      "character": "Margaret Yang",
+      "order": 6
+    },
+    {
+      "personId": 71770,
+      "character": "Magnus Buchan",
+      "order": 7
+    },
+    {
+      "personId": 36422,
+      "character": "Dr. Peter Flynn",
+      "order": 8
+    },
+    {
+      "personId": 2086041,
+      "character": "Mr. Adams",
+      "order": 9
+    },
+    {
+      "personId": 71555,
+      "character": "Coach Beck",
+      "order": 10
+    },
+    {
+      "personId": 985344,
+      "character": "Mrs. Guggenheim",
+      "order": 11
+    },
+    {
+      "personId": 2086043,
+      "character": "Ronny Blume",
+      "order": 12
+    },
+    {
+      "personId": 2086045,
+      "character": "Donny Blume",
+      "order": 13
+    },
+    {
+      "personId": 2086048,
+      "character": "Alex",
+      "order": 14
+    },
+    {
+      "personId": 2086049,
+      "character": "Mr. Obiamiwe",
+      "order": 15
+    },
+    {
+      "personId": 935,
+      "character": "Mrs. Calloway",
+      "order": 16
+    },
+    {
+      "personId": 2086051,
+      "character": "Ernie",
+      "order": 17
+    },
+    {
+      "personId": 2086053,
+      "character": "Boy Portraying Frank Serpico",
+      "order": 18
+    },
+    {
+      "personId": 2086054,
+      "character": "O'Reilly",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2845,
+  "sources": [
+    "cult-list"
+  ]
+}

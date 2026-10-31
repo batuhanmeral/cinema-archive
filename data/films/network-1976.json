@@ -1,0 +1,202 @@
+{
+  "tmdbId": 10774,
+  "slug": "network-1976",
+  "year": 1976,
+  "runtime": 122,
+  "originalTitle": "Network",
+  "title": {
+    "en": "Network",
+    "tr": "Şebeke"
+  },
+  "overview": {
+    "en": "When veteran anchorman Howard Beale is forced to retire his 25-year post because of his age, he announces to viewers that he will kill himself during his farewell broadcast. Network executives rethink their decision when his fanatical tirade results in a spike in ratings.",
+    "tr": "Şebeke, uzun yıllardır UBS Akşam Haberleri isimli programda haber spikerliği yapan Howard Beale’nin hikayesini konu alır. Beale’in ratingleri günden güne düşmektedir ve nihayetinde bir çalışma arkadaşından, iki hafta içerisinde işinden kovulacağını öğrenir. Bunu öğrendiğinde büyük bir depresyona giren adam, ertesi akşam canlı yayında, gelecek Salı günü canlı yayında intihar edeceğini anons eder. Haliyle bu şok duyurudan sonra işler fazlasıyla karışır."
+  },
+  "poster": {
+    "tr": "/uMQHgab2kZPRyxoV5Lofa08sSFu.jpg",
+    "en": "/gZ8hhuVEQ78CLND09trZJ45Eiy8.jpg"
+  },
+  "backdrops": [
+    "/m4Iyzh9YVOh0ra7UwdMoJcrjxkx.jpg",
+    "/of6OQnsvPHXEASczrBc3nVsMZ7q.jpg",
+    "/gAGna9nl0tirv6Vu73gPopvv7zi.jpg",
+    "/dlRJvZ2MiYJB5u3AnT3pevKEAYr.jpg",
+    "/5JxGRZtm0R34R1hR3pftqrj6sU3.jpg",
+    "/bODIl4B857k20AhrHylKzpLprk4.jpg",
+    "/7hOwIEJyR35NYUpZfw5qSD5fWZc.jpg",
+    "/dWZsDt7fiHCrVKhBz2qdmdj0U8P.jpg",
+    "/Am5k7Wo7Vnv28DFz5uhuToaKQmq.jpg",
+    "/kLLMeGCTfxhq7ijuWUgt6zTO9kg.jpg"
+  ],
+  "trailerKey": "T-PyQ1gMT6o",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    596,
+    242,
+    417,
+    2458,
+    8201,
+    7271,
+    9826,
+    10177,
+    12193,
+    14522,
+    14837,
+    18047,
+    18298,
+    41153,
+    169086,
+    191509,
+    202429,
+    203286,
+    203287,
+    206075,
+    225012,
+    321464,
+    325774,
+    325791,
+    325794
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 39996,
+      "job": "director"
+    },
+    {
+      "personId": 66714,
+      "job": "producer"
+    },
+    {
+      "personId": 16331,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 66715,
+      "job": "composer"
+    },
+    {
+      "personId": 31498,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6450,
+      "character": "Diana Christensen",
+      "order": 0
+    },
+    {
+      "personId": 8252,
+      "character": "Max Schumacher",
+      "order": 1
+    },
+    {
+      "personId": 29903,
+      "character": "Howard Beale",
+      "order": 2
+    },
+    {
+      "personId": 3087,
+      "character": "Frank Hackett",
+      "order": 3
+    },
+    {
+      "personId": 66712,
+      "character": "Nelson Chaney",
+      "order": 4
+    },
+    {
+      "personId": 13726,
+      "character": "Arthur Jensen",
+      "order": 5
+    },
+    {
+      "personId": 66713,
+      "character": "Great Ahmed Kahn",
+      "order": 6
+    },
+    {
+      "personId": 2244868,
+      "character": "TV Director",
+      "order": 7
+    },
+    {
+      "personId": 2244869,
+      "character": "George Bosch",
+      "order": 8
+    },
+    {
+      "personId": 51549,
+      "character": "Harry Hunter",
+      "order": 9
+    },
+    {
+      "personId": 949374,
+      "character": "Mary Ann Gifford",
+      "order": 10
+    },
+    {
+      "personId": 554628,
+      "character": "Joe Donnelly",
+      "order": 11
+    },
+    {
+      "personId": 192660,
+      "character": "Walter C. Amundsen",
+      "order": 12
+    },
+    {
+      "personId": 1909,
+      "character": "Barbara Schlesinger",
+      "order": 13
+    },
+    {
+      "personId": 1675036,
+      "character": "Milton K. Steinman",
+      "order": 14
+    },
+    {
+      "personId": 129458,
+      "character": "Jack Snowden",
+      "order": 15
+    },
+    {
+      "personId": 1026534,
+      "character": "Caroline Schumacher",
+      "order": 16
+    },
+    {
+      "personId": 81481,
+      "character": "Bill Herron",
+      "order": 17
+    },
+    {
+      "personId": 124380,
+      "character": "Arthur Zangwill",
+      "order": 18
+    },
+    {
+      "personId": 158868,
+      "character": "TV Stage Manager",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 4
+  },
+  "voteCount": 2158,
+  "sources": [
+    "cult-list"
+  ]
+}

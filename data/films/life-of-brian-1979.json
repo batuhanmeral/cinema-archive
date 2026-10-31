@@ -1,0 +1,212 @@
+{
+  "tmdbId": 583,
+  "slug": "life-of-brian-1979",
+  "year": 1979,
+  "runtime": 94,
+  "originalTitle": "Life of Brian",
+  "title": {
+    "en": "Life of Brian",
+    "tr": "Brian'ın Hayatı"
+  },
+  "overview": {
+    "en": "Brian Cohen is an average young Jewish man, but through a series of ridiculous events, he gains a reputation as the Messiah. When he's not dodging his followers or being scolded by his shrill mother, the hapless Brian has to contend with the pompous Pontius Pilate and acronym-obsessed members of a separatist movement. Rife with Monty Python's signature absurdity, the tale finds Brian's life paralleling Biblical lore, albeit with many more laughs.",
+    "tr": "Brian adında bir bebek İsa'yla aynı gece doğdu. Büyüdü, büyüdü daha da büyüdü ve oldu Brian isimli bir oğlan. Brian adındaki oğlan büyüyünce Brian adında bir delikanlı oldu, kesinlikle Brian denen bir kız değildi. İngiliz komedisinin belki de en çok tartışmaya yol açan filmi Brian'ın Hayatı, İsa'yla aynı gece doğan köylü bir çocuğun uzun hikayesini anlatıyor. Hayatları kesiştikçe kahkahalar yükseliyor. M.S 33 yılında geçen filmde sahte mesih Brian sizleri kahkahalara boğuyor. Efsanevi İngiliz komedi grubu Monty Python'ın gelmiş geçmiş en komik filmlerden birine imza attığı yapım."
+  },
+  "poster": {
+    "tr": "/lSSA64WF0M0BXnjwr2quMh6shCl.jpg",
+    "en": "/gX9Ef1ScRX6kRYHLgSJE8fFYBYN.jpg"
+  },
+  "backdrops": [
+    "/lOrM3OQhHlzEkpF7Ih3GghecrA8.jpg",
+    "/hudKBabOC0PSuAd2TCQQxinU4kn.jpg",
+    "/rMfphrYgAVyvxsvAvjClYf0KlAs.jpg",
+    "/gbLeMznYBlI7rsyg766oBwkdo2w.jpg",
+    "/aRvoRaR4l7Bxzjch5ioi5dZzrsX.jpg",
+    "/bSkJttePygyoEzUlKqKbpIokmJC.jpg",
+    "/thf3xneqpQA8ypYaoZvoPyXZhoV.jpg",
+    "/bbUXhn6dhwJhGvF97Ju8KVsTU7P.jpg",
+    "/knAFU3MEOpgtxwnDkId8u62ed9h.jpg",
+    "/ApLTLw603eWaz4vVjYKDKpaAjrZ.jpg"
+  ],
+  "trailerKey": "tK4Qb51ftd4",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    1405,
+    835,
+    3570,
+    3571,
+    3574,
+    4109,
+    8201,
+    9755,
+    11001,
+    18126,
+    236316,
+    240237,
+    272026,
+    320420,
+    322219
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "la"
+  ],
+  "studios": [
+    "Handmade Films",
+    "Python (Monty) Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 10707,
+      "job": "director"
+    },
+    {
+      "personId": 10715,
+      "job": "producer"
+    },
+    {
+      "personId": 10722,
+      "job": "writer"
+    },
+    {
+      "personId": 10713,
+      "job": "writer"
+    },
+    {
+      "personId": 8930,
+      "job": "writer"
+    },
+    {
+      "personId": 280,
+      "job": "writer"
+    },
+    {
+      "personId": 10707,
+      "job": "writer"
+    },
+    {
+      "personId": 10717,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10716,
+      "job": "composer"
+    },
+    {
+      "personId": 383,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10722,
+      "character": "Wise Man #2 / Brian Cohen / Biggus Dickus",
+      "order": 0
+    },
+    {
+      "personId": 8930,
+      "character": "Wise Man #1 / Reg / Jewish Official / First Centurion / Deadly Dirk / Arthur",
+      "order": 1
+    },
+    {
+      "personId": 280,
+      "character": "Man Even Further Forward / Revolutionary / Jailer / Blood and Thunder Prophet / Frank / Audience Member / Crucifee",
+      "order": 2
+    },
+    {
+      "personId": 10713,
+      "character": "Mr. Cheeky / Stan 'Loretta' / Harry the Haggler / Culprit Woman / Warris / Intensely Dull Youth / Jailer's Assistant / Otto / Lead Singer Crucifee",
+      "order": 3
+    },
+    {
+      "personId": 10707,
+      "character": "Mandy Cohen / Colin / Simon the Holy Man / Bob Hoskins / Saintly Passer-by / Alarmed Crucifixion Assistant",
+      "order": 4
+    },
+    {
+      "personId": 383,
+      "character": "Wise Man #3 / Mr. Big Nose / Francis / Mrs. A / Ex-Leper / Announcer / Ben / Pontius Pilate / Boring Prophet / Eddie / Shoe Follower / Nisus Wettus",
+      "order": 5
+    },
+    {
+      "personId": 10732,
+      "character": "Gregory",
+      "order": 6
+    },
+    {
+      "personId": 10733,
+      "character": "Mrs. Gregory",
+      "order": 7
+    },
+    {
+      "personId": 10734,
+      "character": "Jesus",
+      "order": 8
+    },
+    {
+      "personId": 70624,
+      "character": "A Weedy Samaritan",
+      "order": 9
+    },
+    {
+      "personId": 374,
+      "character": "False Prophet / Blind Man / Giggling Guard / Stig",
+      "order": 10
+    },
+    {
+      "personId": 179028,
+      "character": "Matthias, Son of Deuteronomy of Gath",
+      "order": 11
+    },
+    {
+      "personId": 10735,
+      "character": "Mrs. Big Nose",
+      "order": 12
+    },
+    {
+      "personId": 10737,
+      "character": "Judith Iscariot",
+      "order": 13
+    },
+    {
+      "personId": 32566,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 10738,
+      "character": "Pilate's Wife",
+      "order": 15
+    },
+    {
+      "personId": 167449,
+      "character": "Alfonso / Giggling Guard",
+      "order": 16
+    },
+    {
+      "personId": 37893,
+      "character": "Another Official Stoners Helper / Giggling Guard",
+      "order": 17
+    },
+    {
+      "personId": 70010,
+      "character": "Parvus / Official Stoners Helper / Giggling Guard",
+      "order": 18
+    },
+    {
+      "personId": 29539,
+      "character": "Spike",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 5163,
+  "sources": [
+    "cult-list"
+  ]
+}

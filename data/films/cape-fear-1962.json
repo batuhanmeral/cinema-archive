@@ -1,0 +1,192 @@
+{
+  "tmdbId": 11349,
+  "slug": "cape-fear-1962",
+  "year": 1962,
+  "runtime": 106,
+  "originalTitle": "Cape Fear",
+  "title": {
+    "en": "Cape Fear",
+    "tr": "Korkusuzlar"
+  },
+  "overview": {
+    "en": "Sam Bowden witnesses a rape committed by Max Cady and testifies against him. When released after 8 years in prison, Cady begins stalking Bowden and his family but is always clever enough not to violate the law.",
+    "tr": "Korkusuzlar, 1962 yapımı ABD filmi. Hapse girmesine yardımcı olduğu bir suçlu tarafından ailesi tehdit altında olan bir avukatın anlatıldığı filmdir."
+  },
+  "poster": {
+    "tr": "/xDqaHjMbnebtB05QWgAR8wW86sb.jpg",
+    "en": "/xDqaHjMbnebtB05QWgAR8wW86sb.jpg"
+  },
+  "backdrops": [
+    "/v4rCibmdklWP92CZg4DLJggFfYH.jpg",
+    "/gPqtCp55HWsJ2f3fEPsoXD77KQx.jpg",
+    "/vLtQ5s7IvvpyrTovuKehWoAlFOo.jpg",
+    "/lCXYo2a9S59IBpH7E6KAURuY9UD.jpg",
+    "/qae8rAKgBaT1wpYwjpK4VRPbaPo.jpg",
+    "/gTAR1VR3KSLEp5jIFuOQbZeiBrB.jpg",
+    "/sYq7DaHPiUXWPsbDFx4tjqT7wmk.jpg",
+    "/qShXvM5UncdJEGFZwI6TFoB140K.jpg",
+    "/f4Dc6rU0IfU3YKr231LbqQbAm7K.jpg",
+    "/lkx1Gx5dCE6wyB5VObCtPj9aQKp.jpg"
+  ],
+  "trailerKey": "lej6ZDMieD4",
+  "genreIds": [
+    53,
+    18,
+    80
+  ],
+  "keywordIds": [
+    1415,
+    6259,
+    351,
+    1591,
+    1422,
+    9807,
+    10909,
+    12565,
+    159803,
+    165271,
+    202371,
+    321464,
+    337539,
+    342915
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Melville-Talbot Productions",
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 18669,
+      "job": "director"
+    },
+    {
+      "personId": 69104,
+      "job": "writer"
+    },
+    {
+      "personId": 1045,
+      "job": "composer"
+    },
+    {
+      "personId": 69105,
+      "job": "producer"
+    },
+    {
+      "personId": 870,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8487,
+      "character": "Sam Bowden",
+      "order": 0
+    },
+    {
+      "personId": 10158,
+      "character": "Max Cady",
+      "order": 1
+    },
+    {
+      "personId": 40175,
+      "character": "Peggy Bowden",
+      "order": 2
+    },
+    {
+      "personId": 1936,
+      "character": "Police Chief Mark Dutton",
+      "order": 3
+    },
+    {
+      "personId": 69103,
+      "character": "Nancy Bowden",
+      "order": 4
+    },
+    {
+      "personId": 4094,
+      "character": "Attorney Dave Grafton",
+      "order": 5
+    },
+    {
+      "personId": 10169,
+      "character": "Private Detective Charles Sievers",
+      "order": 6
+    },
+    {
+      "personId": 127638,
+      "character": "Diane Taylor",
+      "order": 7
+    },
+    {
+      "personId": 153675,
+      "character": "Garner",
+      "order": 8
+    },
+    {
+      "personId": 165148,
+      "character": "Officer Marconi",
+      "order": 9
+    },
+    {
+      "personId": 166352,
+      "character": "Deputy Kersek",
+      "order": 10
+    },
+    {
+      "personId": 197477,
+      "character": "Officer Brown",
+      "order": 11
+    },
+    {
+      "personId": 2646,
+      "character": "Judge",
+      "order": 12
+    },
+    {
+      "personId": 34279,
+      "character": "Dr. Pearsall",
+      "order": 13
+    },
+    {
+      "personId": 21461,
+      "character": "Waitress",
+      "order": 14
+    },
+    {
+      "personId": 3313548,
+      "character": "Ticket Clerk",
+      "order": 15
+    },
+    {
+      "personId": 1589831,
+      "character": "Dr. Lowney",
+      "order": 16
+    },
+    {
+      "personId": 3313550,
+      "character": "Lt. Gervasi",
+      "order": 17
+    },
+    {
+      "personId": 1589834,
+      "character": "Vernon",
+      "order": 18
+    },
+    {
+      "personId": 91822,
+      "character": "Waiter",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 666,
+  "sources": [
+    "cult-list"
+  ]
+}

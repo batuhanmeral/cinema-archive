@@ -1,0 +1,164 @@
+{
+  "tmdbId": 43383,
+  "slug": "tom-brown-s-schooldays-1951",
+  "year": 1951,
+  "runtime": 93,
+  "originalTitle": "Tom Brown's Schooldays",
+  "title": {
+    "en": "Tom Brown's Schooldays",
+    "tr": "Tom Brown's Schooldays"
+  },
+  "overview": {
+    "en": "In 1830s England, Tom Brown attends a rugby boys' school, where his moral and personal growth is formed through friendship, bullying–particularly from the cruel Flashman–and the influence of headmaster Dr Thomas Arnold.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/w8CFVZLlcGsDjyJHkXxFssvyn48.jpg",
+    "en": "/w8CFVZLlcGsDjyJHkXxFssvyn48.jpg"
+  },
+  "backdrops": [
+    "/5WDP7mWl39OvaNrU2oEL2FNcUEr.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    818,
+    6271,
+    6733,
+    7912,
+    10873,
+    46962,
+    170314,
+    207928
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Talisman Productions"
+  ],
+  "crew": [
+    {
+      "personId": 106148,
+      "job": "director"
+    },
+    {
+      "personId": 9052,
+      "job": "writer"
+    },
+    {
+      "personId": 261224,
+      "job": "producer"
+    },
+    {
+      "personId": 37467,
+      "job": "composer"
+    },
+    {
+      "personId": 20416,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 67616,
+      "character": "Tom Brown",
+      "order": 0
+    },
+    {
+      "personId": 29520,
+      "character": "Thomas Arnold",
+      "order": 1
+    },
+    {
+      "personId": 30769,
+      "character": "Old Thomas",
+      "order": 2
+    },
+    {
+      "personId": 133501,
+      "character": "East",
+      "order": 3
+    },
+    {
+      "personId": 153231,
+      "character": "Flashman",
+      "order": 4
+    },
+    {
+      "personId": 39741,
+      "character": "Wilkes",
+      "order": 5
+    },
+    {
+      "personId": 996619,
+      "character": "Coach Guard",
+      "order": 6
+    },
+    {
+      "personId": 9899,
+      "character": "Squire Brown",
+      "order": 7
+    },
+    {
+      "personId": 126123,
+      "character": "Mrs. Wixie",
+      "order": 8
+    },
+    {
+      "personId": 101853,
+      "character": "Judd",
+      "order": 9
+    },
+    {
+      "personId": 1217119,
+      "character": "Mrs. Arthur",
+      "order": 10
+    },
+    {
+      "personId": 119667,
+      "character": "Black Bart",
+      "order": 11
+    },
+    {
+      "personId": 30581,
+      "character": "Master",
+      "order": 12
+    },
+    {
+      "personId": 1083619,
+      "character": "Diggs",
+      "order": 13
+    },
+    {
+      "personId": 596662,
+      "character": "Arthur",
+      "order": 14
+    },
+    {
+      "personId": 117499,
+      "character": "Mrs. Arnold",
+      "order": 15
+    },
+    {
+      "personId": 5827,
+      "character": "Sally Harrowell",
+      "order": 16
+    },
+    {
+      "personId": 99905,
+      "character": "Mrs. Brown",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 9,
+  "sources": [
+    "cult-list"
+  ]
+}

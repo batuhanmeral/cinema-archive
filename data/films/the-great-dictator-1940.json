@@ -1,0 +1,205 @@
+{
+  "tmdbId": 914,
+  "slug": "the-great-dictator-1940",
+  "year": 1940,
+  "runtime": 125,
+  "originalTitle": "The Great Dictator",
+  "title": {
+    "en": "The Great Dictator",
+    "tr": "Büyük Diktatör"
+  },
+  "overview": {
+    "en": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    "tr": "Nazi Almanya'sının tıpkısının aynısı bir başka diktatörlükte, kararları ve yönetimi ile ülkesini kırıp geçiren Diktatör Adenoid Hynkel, ülkede kendisine ikizi kadar çok benzeyen son derece saf karakterli bir Yahudi berberin yaşadığından habersizdir. Hynkel'in askerleri Yahudileri teker teker toplama kamplarına götürmek üzere toplarken Yahudi Berber'in Hynkel'e olan benzerliği nedeni ile onu Büyük Diktatör zannederler ve bu benzerlik büyük bir karışıklık yaşanmasına neden olur. Charles Chaplin'in Nazi Almanya'sını ve Hitler'i hicvettiği bu eğlenceli komedi, sinema tarihinin en başarılı hiciv örnekleri arasında yer alıyor."
+  },
+  "poster": {
+    "tr": "/8vFowRZZupdnmN8TKWkjASUsgD1.jpg",
+    "en": "/1QpO9wo7JWecZ4NiBuu625FiY1j.jpg"
+  },
+  "backdrops": [
+    "/7jTgJ24UPkWeb5zzH7ihs554xVy.jpg",
+    "/c8Pi8F1FzpNebtgXcSjC9nWCdSW.jpg",
+    "/8AMKZODrCvWe2sCy9Ts7VsLcKd6.jpg",
+    "/1d5FCqoSZSEkL38ADN2BcPAmy7g.jpg",
+    "/oyMJer7ZkzUPcEyfDeIsOHxBwxl.jpg",
+    "/cM3uhwsEbFPWK1B3FdW24Ao0sjj.jpg",
+    "/38rUhL3wBMMYSElR5Lgy8cAuEi4.jpg",
+    "/568zN089oa0fGTRukDNttORp1Qt.jpg",
+    "/nuDf9BOeoeXdIAUAmDgwrTBo80O.jpg",
+    "/vcoOomvk5PtypcDHC0EB404tUJo.jpg"
+  ],
+  "trailerKey": "i1C6qZVeFtA",
+  "genreIds": [
+    35,
+    10752
+  ],
+  "keywordIds": [
+    1453,
+    2652,
+    928,
+    2903,
+    2504,
+    407,
+    2444,
+    1755,
+    1956,
+    3061,
+    3068,
+    8201,
+    6001,
+    12999,
+    158192,
+    165431,
+    191027,
+    203493,
+    281585,
+    311315
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "eo"
+  ],
+  "studios": [
+    "Charles Chaplin Productions"
+  ],
+  "crew": [
+    {
+      "personId": 13848,
+      "job": "producer"
+    },
+    {
+      "personId": 424103,
+      "job": "composer"
+    },
+    {
+      "personId": 13848,
+      "job": "composer"
+    },
+    {
+      "personId": 14020,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 13848,
+      "job": "director"
+    },
+    {
+      "personId": 9081,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 13848,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13848,
+      "character": "Adenoid Hynkel, Dictator of Tomania / A Jewish Barber",
+      "order": 0
+    },
+    {
+      "personId": 14027,
+      "character": "Hannah",
+      "order": 1
+    },
+    {
+      "personId": 14028,
+      "character": "Benzino Napaloni, Dictator of Bacteria",
+      "order": 2
+    },
+    {
+      "personId": 14029,
+      "character": "Commander Schultz",
+      "order": 3
+    },
+    {
+      "personId": 10924,
+      "character": "Garbitsch",
+      "order": 4
+    },
+    {
+      "personId": 5464,
+      "character": "Field Marshal Herring",
+      "order": 5
+    },
+    {
+      "personId": 14030,
+      "character": "Madame Napaloni",
+      "order": 6
+    },
+    {
+      "personId": 14019,
+      "character": "Spook",
+      "order": 7
+    },
+    {
+      "personId": 14032,
+      "character": "Mr. Jaeckel",
+      "order": 8
+    },
+    {
+      "personId": 14033,
+      "character": "Mrs. Jaeckel",
+      "order": 9
+    },
+    {
+      "personId": 14034,
+      "character": "Mr. Mann",
+      "order": 10
+    },
+    {
+      "personId": 14035,
+      "character": "Mr. Agar",
+      "order": 11
+    },
+    {
+      "personId": 30195,
+      "character": "Barber's Customer",
+      "order": 12
+    },
+    {
+      "personId": 139176,
+      "character": "Jewish Woman",
+      "order": 13
+    },
+    {
+      "personId": 13856,
+      "character": "Storm Trooper Stealing Fruit",
+      "order": 14
+    },
+    {
+      "personId": 1421303,
+      "character": "Blonde Secretary",
+      "order": 15
+    },
+    {
+      "personId": 141586,
+      "character": "Tomanian Storm Trooper",
+      "order": 16
+    },
+    {
+      "personId": 131045,
+      "character": "Tomanian Commandant at Osterlich / Robert O. Davis",
+      "order": 17
+    },
+    {
+      "personId": 133342,
+      "character": "Whitewashed Storm Trooper",
+      "order": 18
+    },
+    {
+      "personId": 141587,
+      "character": "Secretary",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3857,
+  "sources": [
+    "cult-list"
+  ]
+}

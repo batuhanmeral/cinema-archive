@@ -1,0 +1,205 @@
+{
+  "tmdbId": 10364,
+  "slug": "catch-22-1970",
+  "year": 1970,
+  "runtime": 121,
+  "originalTitle": "Catch-22",
+  "title": {
+    "en": "Catch-22",
+    "tr": "Catch-22"
+  },
+  "overview": {
+    "en": "A WWII military pilot makes a valiant effort to be certified insane in order to be excused from flying missions. But there's a catch.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/eSB3i3vvFiRTszmZVawWqROzM6p.jpg",
+    "en": "/eSB3i3vvFiRTszmZVawWqROzM6p.jpg"
+  },
+  "backdrops": [
+    "/90H58Povv5fRxuJxN0OhVRs0ghC.jpg",
+    "/hgzQXAXorsgqpOyyFl2Dj2Yembj.jpg",
+    "/xJchL2r4o5nmalI3OxN0cYuzIDW.jpg",
+    "/lWPEcBCEvbTX0VtSnSnXu6jSvH1.jpg",
+    "/9e5puK4vHcU3GjAms8hifGwEGtO.jpg",
+    "/7Oju2DdZTL7RUnoKctRvH4u1n8N.jpg",
+    "/2OsvA4bQ5DV97bHcLJOA0vOQTp.jpg",
+    "/fyTdSWHL491WvJ2vUiUuAzXFlXx.jpg",
+    "/lmj4PZTcNUB73o7Nki0rjcoWson.jpg",
+    "/3DZ1UY3mJexCXVu1DHMAqry6bNH.jpg"
+  ],
+  "trailerKey": "Unn8fgs8fao",
+  "genreIds": [
+    10752,
+    35
+  ],
+  "keywordIds": [
+    236,
+    2041,
+    818,
+    1755,
+    1956,
+    2532,
+    8201,
+    4595,
+    3603,
+    13065,
+    14638,
+    33564,
+    162365,
+    165431,
+    188765,
+    193744,
+    207883,
+    208189,
+    212912,
+    226190,
+    230333,
+    234492,
+    250074,
+    258200,
+    297139,
+    353914,
+    361592
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Filmways Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 8406,
+      "job": "producer"
+    },
+    {
+      "personId": 7795,
+      "job": "writer"
+    },
+    {
+      "personId": 5342,
+      "job": "director"
+    },
+    {
+      "personId": 10639,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2993,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1903,
+      "character": "Capt. John Yossarian",
+      "order": 0
+    },
+    {
+      "personId": 1936,
+      "character": "Col. Cathcart",
+      "order": 1
+    },
+    {
+      "personId": 24318,
+      "character": "Maj. Danby",
+      "order": 2
+    },
+    {
+      "personId": 64928,
+      "character": "Capt. Nately",
+      "order": 3
+    },
+    {
+      "personId": 64929,
+      "character": "Dr. \"Doc\" Daneeka",
+      "order": 4
+    },
+    {
+      "personId": 7795,
+      "character": "Lt. Col. Korn",
+      "order": 5
+    },
+    {
+      "personId": 64930,
+      "character": "Maj. Major Major",
+      "order": 6
+    },
+    {
+      "personId": 7301,
+      "character": "Chaplain Capt. A.T. Tappman",
+      "order": 7
+    },
+    {
+      "personId": 33644,
+      "character": "Nurse Duckett",
+      "order": 8
+    },
+    {
+      "personId": 8349,
+      "character": "1st Lt. Dobbs",
+      "order": 9
+    },
+    {
+      "personId": 10127,
+      "character": "1st Lt. Milo Minderbinder",
+      "order": 10
+    },
+    {
+      "personId": 40,
+      "character": "Brigadier General Dreedle",
+      "order": 11
+    },
+    {
+      "personId": 12438,
+      "character": "Capt. Orr",
+      "order": 12
+    },
+    {
+      "personId": 40000,
+      "character": "Dreedle's WAC",
+      "order": 13
+    },
+    {
+      "personId": 14064,
+      "character": "First Sgt. Towser",
+      "order": 14
+    },
+    {
+      "personId": 28164,
+      "character": "Captain Aarfy Aardvark",
+      "order": 15
+    },
+    {
+      "personId": 6168,
+      "character": "Lt. Col. Moodus",
+      "order": 16
+    },
+    {
+      "personId": 14987,
+      "character": "Captain J.S. McWatt",
+      "order": 17
+    },
+    {
+      "personId": 14836,
+      "character": "Snowden",
+      "order": 18
+    },
+    {
+      "personId": 1804407,
+      "character": "Cathcart's Receptionist",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 373,
+  "sources": [
+    "cult-list"
+  ]
+}

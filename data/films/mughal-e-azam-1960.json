@@ -1,0 +1,157 @@
+{
+  "tmdbId": 44519,
+  "slug": "mughal-e-azam-1960",
+  "year": 1960,
+  "runtime": 197,
+  "originalTitle": "मुगल-ए-आज़म",
+  "title": {
+    "en": "Mughal-e-Azam",
+    "tr": "Mughal-e-Azam"
+  },
+  "overview": {
+    "en": "In the 16th century, when Prince Salim falls in love with a beautiful courtesan named Anarkali, Emperor Akbar's disapproval leads to a battle between father and son.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lKfNZUh9CRp1EHjxgNGtrbvm55.jpg",
+    "en": "/lKfNZUh9CRp1EHjxgNGtrbvm55.jpg"
+  },
+  "backdrops": [
+    "/qdprxPdb5TJctKJb3CDGBEcfk69.jpg",
+    "/1U4V92gwVDnVjWJn6eMciOffClN.jpg",
+    "/6wvuO0Tqgszsqd72OHoKMhhzq7g.jpg",
+    "/xdEETIk1H1EWo3CSYPbxRBzJr2h.jpg",
+    "/qpTeHU5FQ7QcyiGtBXTX1CGKKiK.jpg",
+    "/4kMgZ3NbMqzdQ3LbUZB8n8SaYto.jpg",
+    "/j8vS1jrv14bu1Csh0tJ9h0egTIL.jpg",
+    "/7OCeIxZdDTZ1p1dKXOqEKHy5Vqs.jpg",
+    "/wuOb9OIdDM78Vgk0JWJNzWelWWq.jpg",
+    "/70bForLfjdWZLT7lQz9Ic6UsJEV.jpg"
+  ],
+  "trailerKey": "6PjoLgcrmcQ",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    11195,
+    733,
+    2280,
+    3071,
+    3691,
+    4178,
+    9673,
+    10614,
+    10048,
+    10703,
+    185343,
+    192342,
+    208244,
+    226774,
+    254704
+  ],
+  "countries": [
+    "IN"
+  ],
+  "languages": [
+    "hi",
+    "ur"
+  ],
+  "studios": [
+    "Sterling Investment Corp."
+  ],
+  "crew": [
+    {
+      "personId": 229248,
+      "job": "director"
+    },
+    {
+      "personId": 3396548,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 14073,
+      "job": "composer"
+    },
+    {
+      "personId": 229248,
+      "job": "writer"
+    },
+    {
+      "personId": 229248,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 229249,
+      "character": "Prince Salim",
+      "order": 0
+    },
+    {
+      "personId": 121863,
+      "character": "Emperor Akbar",
+      "order": 1
+    },
+    {
+      "personId": 229250,
+      "character": "Anarkali",
+      "order": 2
+    },
+    {
+      "personId": 230972,
+      "character": "Maharani Jodha Bai",
+      "order": 3
+    },
+    {
+      "personId": 111273,
+      "character": "Bahar",
+      "order": 4
+    },
+    {
+      "personId": 1028469,
+      "character": "Durjan Singh",
+      "order": 5
+    },
+    {
+      "personId": 927855,
+      "character": "Raja Man Singh",
+      "order": 6
+    },
+    {
+      "personId": 1289221,
+      "character": "Anarkali's mother",
+      "order": 7
+    },
+    {
+      "personId": 1335399,
+      "character": "Tansen",
+      "order": 8
+    },
+    {
+      "personId": 629439,
+      "character": "Courtesan",
+      "order": 9
+    },
+    {
+      "personId": 1009518,
+      "character": "Young Prince Salim",
+      "order": 10
+    },
+    {
+      "personId": 1730691,
+      "character": "Courtesan",
+      "order": 11
+    },
+    {
+      "personId": 2686583,
+      "character": "Kathak dancer",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 66,
+  "sources": [
+    "cult-list"
+  ]
+}

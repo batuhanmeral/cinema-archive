@@ -1,0 +1,159 @@
+{
+  "tmdbId": 18993,
+  "slug": "mysterious-island-1961",
+  "year": 1961,
+  "runtime": 101,
+  "originalTitle": "Mysterious Island",
+  "title": {
+    "en": "Mysterious Island",
+    "tr": "Esrarengiz Ada"
+  },
+  "overview": {
+    "en": "During the US Civil War, Union POWs escape in a balloon and end up stranded on a South Pacific island, inhabited by giant plants and animals. They must use their ingenuity to survive the dangers, and to devise a way to return home. Sequel to '20,000 Leagues Under the Sea' .",
+    "tr": "Amerikan iç savaşı döneminde esir tutulan bir grup kuzeyli asker, balon kullanarak hapisten kaçmayı başarır fakat patlak veren fırtına askerleri kontrolleri dışında bir yolculuk yapmaya zorlar. Yaklaşık bir haftalık yolculuklarının sonunda tropikal bir adaya ulaşmayı başaran kahramanlarımızı, yabancı oldukları bu topraklarda büyük bir macera beklemektedir. Kaptan Nemo’nun fantastik fikirlerini gerçeğe dönüştürdüğü bu ada, normal hayatta zararsız olan hayvanların dev canavarlara dönüştüğü bir yerdir."
+  },
+  "poster": {
+    "tr": "/lqLIpwISJEvERlS5fSWe8xbQDFf.jpg",
+    "en": "/mFUUoEGrWhFHxGJMZLeC9lXqfHW.jpg"
+  },
+  "backdrops": [
+    "/iPcAAV7D49lTqm9mLA7w6Ysz5mh.jpg",
+    "/rWedraIjZo6ma5ecKtemSTkNd1e.jpg",
+    "/pzIvKS5azxxpKIEBtE5u9KOnGGj.jpg",
+    "/9mAfi4MA8bd2xYKOhyCO6olRhg2.jpg",
+    "/6UteTHLeDSBYDOJprAFSqRR2fiO.jpg",
+    "/Vu4NHm2eLfQoxZyinLFr4TOyYH.jpg",
+    "/A6eXyEAGPkkSczXXsjcwqKHZYz4.jpg",
+    "/dFvcFZ8y6v08sSAeaCASSCyJ3Hn.jpg"
+  ],
+  "trailerKey": "WMJIevLFw78",
+  "genreIds": [
+    12,
+    878
+  ],
+  "keywordIds": [
+    911,
+    818,
+    339,
+    10685,
+    5299,
+    385,
+    1964,
+    3497,
+    4247,
+    7035,
+    9840,
+    7038,
+    9743,
+    10792,
+    12988,
+    15354,
+    158252,
+    166464,
+    169271,
+    179413,
+    179585,
+    183434,
+    191047,
+    191409,
+    223089,
+    239713,
+    239731,
+    315814,
+    315815,
+    315816,
+    315817,
+    362456
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Ameran Films",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 66759,
+      "job": "producer"
+    },
+    {
+      "personId": 76882,
+      "job": "director"
+    },
+    {
+      "personId": 20397,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 84940,
+      "job": "writer"
+    },
+    {
+      "personId": 76884,
+      "job": "writer"
+    },
+    {
+      "personId": 103382,
+      "job": "writer"
+    },
+    {
+      "personId": 1045,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 25536,
+      "character": "Capt. Cyrus Harding",
+      "order": 0
+    },
+    {
+      "personId": 45466,
+      "character": "Lady Mary Fairchild",
+      "order": 1
+    },
+    {
+      "personId": 30928,
+      "character": "Herbert Brown",
+      "order": 2
+    },
+    {
+      "personId": 10608,
+      "character": "Gideon Spilitt",
+      "order": 3
+    },
+    {
+      "personId": 14503,
+      "character": "Captain Nemo",
+      "order": 4
+    },
+    {
+      "personId": 119587,
+      "character": "Elena Fairchild",
+      "order": 5
+    },
+    {
+      "personId": 33220,
+      "character": "Sgt. Pencroft",
+      "order": 6
+    },
+    {
+      "personId": 119588,
+      "character": "Cpl. Neb Nugent",
+      "order": 7
+    },
+    {
+      "personId": 1236259,
+      "character": "Pirate (uncredited)",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 215,
+  "sources": [
+    "cult-list"
+  ]
+}

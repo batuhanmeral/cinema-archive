@@ -1,0 +1,183 @@
+{
+  "tmdbId": 4975,
+  "slug": "love-is-the-devil-study-for-a-portrait-of-francis-bacon-1998",
+  "year": 1998,
+  "runtime": 92,
+  "originalTitle": "Love Is the Devil: Study for a Portrait of Francis Bacon",
+  "title": {
+    "en": "Love Is the Devil: Study for a Portrait of Francis Bacon",
+    "tr": "Love Is the Devil: Study for a Portrait of Francis Bacon"
+  },
+  "overview": {
+    "en": "In the 1960s, British painter Francis Bacon surprises a burglar and invites him to share his bed. The burglar, a working class man named George Dyer, accepts. After the unique beginning to their love affair, the well-connected and volatile artist assimilates Dyer into his circle of eccentric friends, as Dyer's struggle with addiction strains their bond.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5zPTMTbYPhXXzAo5UQkeSpcmSMl.jpg",
+    "en": "/5zPTMTbYPhXXzAo5UQkeSpcmSMl.jpg"
+  },
+  "backdrops": [
+    "/2OIb7XZKkgeqS1qX64EkxKXMjC8.jpg",
+    "/71JAslFyT8jH81LYjlPSEbKSmag.jpg",
+    "/6wXqwwVeg85YX7g1GheKS5uaXbE.jpg",
+    "/fhAs2vyJfodiRlh2uvkwJrwZ7cg.jpg"
+  ],
+  "trailerKey": "Q2fjwPFPjhg",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1605,
+    697,
+    6022,
+    2936,
+    437,
+    5565,
+    158718,
+    258533,
+    259285
+  ],
+  "countries": [
+    "GB",
+    "FR",
+    "JP"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "BBC Film",
+    "BFI",
+    "Arts Council of England"
+  ],
+  "crew": [
+    {
+      "personId": 11382,
+      "job": "composer"
+    },
+    {
+      "personId": 40307,
+      "job": "director"
+    },
+    {
+      "personId": 943,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 40307,
+      "job": "writer"
+    },
+    {
+      "personId": 80687,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 937,
+      "character": "Francis Bacon",
+      "order": 0
+    },
+    {
+      "personId": 8784,
+      "character": "George Dyer",
+      "order": 1
+    },
+    {
+      "personId": 3063,
+      "character": "Muriel Belcher",
+      "order": 2
+    },
+    {
+      "personId": 40310,
+      "character": "Isabel Rawsthorne",
+      "order": 3
+    },
+    {
+      "personId": 40311,
+      "character": "Daniel Farson",
+      "order": 4
+    },
+    {
+      "personId": 39186,
+      "character": "John Deakin",
+      "order": 5
+    },
+    {
+      "personId": 40314,
+      "character": "Henrietta Moreas",
+      "order": 6
+    },
+    {
+      "personId": 1854062,
+      "character": "Parisian Art World",
+      "order": 7
+    },
+    {
+      "personId": 53768,
+      "character": "Casino",
+      "order": 8
+    },
+    {
+      "personId": 237408,
+      "character": "PC Denham",
+      "order": 9
+    },
+    {
+      "personId": 5651642,
+      "character": "Blonde Billy",
+      "order": 10
+    },
+    {
+      "personId": 5651644,
+      "character": "French Official",
+      "order": 11
+    },
+    {
+      "personId": 4414336,
+      "character": "Ian Board",
+      "order": 12
+    },
+    {
+      "personId": 3549,
+      "character": "Ken Bidwell",
+      "order": 13
+    },
+    {
+      "personId": 62498,
+      "character": "Joe Furneval",
+      "order": 14
+    },
+    {
+      "personId": 4350596,
+      "character": "Volker Dix",
+      "order": 15
+    },
+    {
+      "personId": 1712909,
+      "character": "Brighton Rent Boys",
+      "order": 16
+    },
+    {
+      "personId": 17260,
+      "character": "Brighton Rent Boys",
+      "order": 17
+    },
+    {
+      "personId": 5651646,
+      "character": "London Rent Boy",
+      "order": 18
+    },
+    {
+      "personId": 1269546,
+      "character": "Bell-Hop",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 74,
+  "sources": [
+    "cult-list"
+  ]
+}

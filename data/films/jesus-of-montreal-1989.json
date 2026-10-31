@@ -1,0 +1,197 @@
+{
+  "tmdbId": 4486,
+  "slug": "jesus-of-montreal-1989",
+  "year": 1989,
+  "runtime": 119,
+  "originalTitle": "Jésus de Montréal",
+  "title": {
+    "en": "Jesus of Montreal",
+    "tr": "Montrealli İsa"
+  },
+  "overview": {
+    "en": "A group of actors putting on an interpretive Passion Play in Montreal begin to experience a meshing of their characters and their private lives as the production takes form against the growing opposition of the Catholic church.",
+    "tr": "40 yılı aşkın süredir Tutku Oyunu, ünlü Montreal Bazilikası’nda büyük bir başarıyla sahnelenmektedir. Ancak yıllar içinde oyun eskimiş ve çağın gerisinde kalmıştır. Bu nedenle oyundan sorumlu rahip, değişiklik yapma kararı alır. Montreal’de yaşayan genç bir aktör olan Daniel (Lothaire Bluteau), oyunu modernize etmesi için görevlendirilir. Daha genç ve yaratıcı bir oyuncu kadrosu toplayarak oyunu yeniden sahneye koyar. İşvereninin onaylamamasına rağmen, gösteri büyük bir başarı kazanır. Ancak zamanla ve kaçınılmaz bir şekilde, oyuncular, İsa’nın yaşamının kendi gerçek hayatları üzerinde olağanüstü bir etkisi olduğunu fark ederler..."
+  },
+  "poster": {
+    "tr": "/evtfMmuJyCQch2JIdWO2SdGWgJA.jpg",
+    "en": "/evtfMmuJyCQch2JIdWO2SdGWgJA.jpg"
+  },
+  "backdrops": [
+    "/kEaYlYkb5wZQ6ZtydGfNhoujbQn.jpg",
+    "/cR4QDYvicagpYAKxCYbzkjIg18X.jpg",
+    "/ejfCuGASsYZvUx7IXQHTtPRRfDb.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    35,
+    10749
+  ],
+  "keywordIds": [
+    295,
+    741,
+    6719,
+    14765,
+    158194,
+    208080
+  ],
+  "countries": [
+    "CA",
+    "FR"
+  ],
+  "languages": [
+    "it",
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "CNC",
+    "Téléfilm Canada",
+    "Max Films Productions"
+  ],
+  "crew": [
+    {
+      "personId": 38516,
+      "job": "director"
+    },
+    {
+      "personId": 38517,
+      "job": "producer"
+    },
+    {
+      "personId": 38519,
+      "job": "producer"
+    },
+    {
+      "personId": 38521,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 32872,
+      "job": "producer"
+    },
+    {
+      "personId": 38516,
+      "job": "writer"
+    },
+    {
+      "personId": 1546603,
+      "job": "composer"
+    },
+    {
+      "personId": 405893,
+      "job": "composer"
+    },
+    {
+      "personId": 1556220,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 38524,
+      "character": "Daniel Coulombe",
+      "order": 0
+    },
+    {
+      "personId": 32946,
+      "character": "Mireille",
+      "order": 1
+    },
+    {
+      "personId": 38525,
+      "character": "Constance",
+      "order": 2
+    },
+    {
+      "personId": 38526,
+      "character": "Martin",
+      "order": 3
+    },
+    {
+      "personId": 38527,
+      "character": "René",
+      "order": 4
+    },
+    {
+      "personId": 38528,
+      "character": "Fr. Leclerc",
+      "order": 5
+    },
+    {
+      "personId": 38529,
+      "character": "Richard Cardinal",
+      "order": 6
+    },
+    {
+      "personId": 2208810,
+      "character": "Pascal Berger",
+      "order": 7
+    },
+    {
+      "personId": 554832,
+      "character": "Radio Host",
+      "order": 8
+    },
+    {
+      "personId": 980472,
+      "character": "TV Host",
+      "order": 9
+    },
+    {
+      "personId": 1019879,
+      "character": "TV Host",
+      "order": 10
+    },
+    {
+      "personId": 132828,
+      "character": "Agent",
+      "order": 11
+    },
+    {
+      "personId": 2767552,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 592957,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 2573108,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 557094,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1114995,
+      "character": "Jerzy",
+      "order": 16
+    },
+    {
+      "personId": 79617,
+      "character": "Security Guard",
+      "order": 17
+    },
+    {
+      "personId": 86618,
+      "character": "John Lambert",
+      "order": 18
+    },
+    {
+      "personId": 85169,
+      "character": "Eccentric",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 100,
+  "sources": [
+    "cult-list"
+  ]
+}

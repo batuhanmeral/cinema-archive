@@ -1,0 +1,162 @@
+{
+  "tmdbId": 1994,
+  "slug": "the-most-dangerous-game-1932",
+  "year": 1932,
+  "runtime": 63,
+  "originalTitle": "The Most Dangerous Game",
+  "title": {
+    "en": "The Most Dangerous Game",
+    "tr": "En Tehlikeli Oyun"
+  },
+  "overview": {
+    "en": "When legendary hunter Bob Rainsford is shipwrecked on the perilous reefs surrounding a mysterious island, he finds himself the guest of the reclusive and eccentric Count Zaroff. While he is very gracious at first, Zaroff eventually forces Rainsford and two other shipwreck survivors, brother and sister Eve and Martin Towbridge, to participate in a sadistic game of cat and mouse in which they are the prey and he is the hunter.",
+    "tr": "Akıl hastası bir avcı, kendi zevki için bir grup kazazedeyi avlar."
+  },
+  "poster": {
+    "tr": "/3aNlOIFlGOnIzxqvAWpgm5Sly1H.jpg",
+    "en": "/cujmzb64IAFRzWenfU1ukjd0rtW.jpg"
+  },
+  "backdrops": [
+    "/aV2b3tOQYZBaEcCeXxbRaEaP6W1.jpg",
+    "/pZ1WOijS37SC09Gg5kKIzQla1YJ.jpg",
+    "/psBFJubFWiAV23dAZ6D0wjQWbhe.jpg",
+    "/jgIVkmHOhBBv5JW4tOWTk0duLmS.jpg",
+    "/wv33gBiymYMhmWIp9opeC52cwbg.jpg",
+    "/nYgA9JpRVSCYa7gDlEz39FUlb4P.jpg",
+    "/qjJMtEehxMAKfhzUfOTZq1uUgZP.jpg",
+    "/t2P3kyLvKiTi0wF12cLJg0CSkCg.jpg",
+    "/ym1omE8QdSThJ0qCmU3IxTyP13K.jpg",
+    "/8IgcJJizAewHMopgUjAL2zzvn5X.jpg"
+  ],
+  "trailerKey": "DoHUfQKA_sc",
+  "genreIds": [
+    53,
+    12,
+    27,
+    28
+  ],
+  "keywordIds": [
+    3185,
+    5572,
+    9743,
+    12999,
+    33688,
+    156630,
+    156764,
+    156866,
+    161240,
+    170310,
+    181905,
+    183225,
+    183239,
+    183240,
+    199812,
+    207678,
+    224121,
+    239730
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "ru",
+    "en"
+  ],
+  "studios": [
+    "RKO Radio Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 20370,
+      "job": "director"
+    },
+    {
+      "personId": 3239,
+      "job": "director"
+    },
+    {
+      "personId": 3240,
+      "job": "writer"
+    },
+    {
+      "personId": 3249,
+      "job": "composer"
+    },
+    {
+      "personId": 35242,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20501,
+      "character": "Robert Rainsford",
+      "order": 0
+    },
+    {
+      "personId": 3242,
+      "character": "Eve Trowbridge",
+      "order": 1
+    },
+    {
+      "personId": 20502,
+      "character": "Count Zaroff",
+      "order": 2
+    },
+    {
+      "personId": 3243,
+      "character": "Martin Trowbridge",
+      "order": 3
+    },
+    {
+      "personId": 3247,
+      "character": "Ivan",
+      "order": 4
+    },
+    {
+      "personId": 3261,
+      "character": "Tartar",
+      "order": 5
+    },
+    {
+      "personId": 95729,
+      "character": "Captain",
+      "order": 6
+    },
+    {
+      "personId": 1204352,
+      "character": "Tartar Servant",
+      "order": 7
+    },
+    {
+      "personId": 3262,
+      "character": "First Mate on Yacht (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 233118,
+      "character": "Bill Woodman (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 120476,
+      "character": "Yacht Passenger 'Doc' (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 145705,
+      "character": "Passenger on Yacht (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 153277,
+      "character": "Passenger on Yacht (uncredited)",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 336,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "tmdbId": 241,
+  "slug": "natural-born-killers-1994",
+  "year": 1994,
+  "runtime": 119,
+  "originalTitle": "Natural Born Killers",
+  "title": {
+    "en": "Natural Born Killers",
+    "tr": "Katil Doğanlar"
+  },
+  "overview": {
+    "en": "Two victims of traumatized childhoods become lovers and serial murderers irresponsibly glorified by the mass media.",
+    "tr": "Senaryosunu Quentin Tarantino'nun yazdığı filmi Oliver Stone yönetmiş ve bunun yüzünden araları açılmıştı. Mickey ve Mallory birbirlerini seven ama 'doğuştan katil' olan iki aşık. Yaşadıklarını öldürerek hissedebiliyorlar belki de. Ancak 90'ların giderek çığrından çıkan medyası da onları kahraman gibi göstermekten geri kalmıyor. Böylece iki doğuştan katil yolculukları sırasında arkalarında onlarca ölü bırakarak yollarına devam ediyorlar. Yakalandıklarındaysa medya yine kurtarıcıları olarak çıkıyor karşılarına..."
+  },
+  "poster": {
+    "tr": "/58m6hL8kN56IQiEGPg42kDrwC4O.jpg",
+    "en": "/fEKZwT91gxvkAoyPgpNXo8W5fu0.jpg"
+  },
+  "backdrops": [
+    "/gGQvvkgiYf35FbG3K5Cw75m7KGt.jpg",
+    "/k3TOt50cHvTLXWYPnXP0szhiXB8.jpg",
+    "/gw7kWVy5O5Y2LfIjuwpxcscdUOK.jpg",
+    "/kn3zGuH4fhd1hG0CPFhFkWAP0tk.jpg",
+    "/deFRmSBLDARtxEPVNqTa0hPH418.jpg",
+    "/fPeFvyqNbEWFb044C4msAY1WuIB.jpg",
+    "/jGWGyi44C9cxjlaICQb1bWnxW0w.jpg",
+    "/gySR5l6fjwStp64hfzacfMoFLP9.jpg",
+    "/bmRPWmcjxxbLvaoeFTR9ot0A4Dl.jpg",
+    "/A9NKuZBRMdUERezne98TrwoFZAb.jpg"
+  ],
+  "trailerKey": "PgxH1-yeWNI",
+  "genreIds": [
+    80,
+    53,
+    18
+  ],
+  "keywordIds": [
+    5600,
+    736,
+    625,
+    1583,
+    1584,
+    1740,
+    2754,
+    9701,
+    8201,
+    206545,
+    207691,
+    251667,
+    289985,
+    294933,
+    316832,
+    320537,
+    325763,
+    325766
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "nv",
+    "ja"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Regency Enterprises",
+    "Alcor Films"
+  ],
+  "crew": [
+    {
+      "personId": 3181,
+      "job": "writer"
+    },
+    {
+      "personId": 3187,
+      "job": "composer"
+    },
+    {
+      "personId": 3184,
+      "job": "producer"
+    },
+    {
+      "personId": 1152,
+      "job": "director"
+    },
+    {
+      "personId": 149,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1152,
+      "job": "writer"
+    },
+    {
+      "personId": 3183,
+      "job": "producer"
+    },
+    {
+      "personId": 3182,
+      "job": "producer"
+    },
+    {
+      "personId": 3180,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57755,
+      "character": "Mickey Knox",
+      "order": 0
+    },
+    {
+      "personId": 3196,
+      "character": "Mallory Knox",
+      "order": 1
+    },
+    {
+      "personId": 3223,
+      "character": "Wayne Gale",
+      "order": 2
+    },
+    {
+      "personId": 2176,
+      "character": "Warden Dwight McClusky",
+      "order": 3
+    },
+    {
+      "personId": 3197,
+      "character": "Det. Jack Scagnetti",
+      "order": 4
+    },
+    {
+      "personId": 3198,
+      "character": "Mallory's Dad",
+      "order": 5
+    },
+    {
+      "personId": 3202,
+      "character": "Mallory's Mom",
+      "order": 6
+    },
+    {
+      "personId": 15440,
+      "character": "London Boy",
+      "order": 7
+    },
+    {
+      "personId": 3203,
+      "character": "Old Indian",
+      "order": 8
+    },
+    {
+      "personId": 3208,
+      "character": "Deborah",
+      "order": 9
+    },
+    {
+      "personId": 3210,
+      "character": "Kevin",
+      "order": 10
+    },
+    {
+      "personId": 3199,
+      "character": "Deputy Warden Wurlitzer",
+      "order": 11
+    },
+    {
+      "personId": 1912,
+      "character": "Mabel",
+      "order": 12
+    },
+    {
+      "personId": 3201,
+      "character": "Deputy Warden Kavanaugh",
+      "order": 13
+    },
+    {
+      "personId": 3214,
+      "character": "Dr. Emil Reingold",
+      "order": 14
+    },
+    {
+      "personId": 3204,
+      "character": "Earl",
+      "order": 15
+    },
+    {
+      "personId": 3205,
+      "character": "Sonny",
+      "order": 16
+    },
+    {
+      "personId": 3206,
+      "character": "Roger",
+      "order": 17
+    },
+    {
+      "personId": 1677045,
+      "character": "Pinball Cowboy",
+      "order": 18
+    },
+    {
+      "personId": 3207,
+      "character": "Julie",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3972,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "tmdbId": 48014,
+  "slug": "from-beyond-the-grave-1974",
+  "year": 1974,
+  "runtime": 97,
+  "originalTitle": "From Beyond the Grave",
+  "title": {
+    "en": "From Beyond the Grave",
+    "tr": "Mezarın Ötesinden"
+  },
+  "overview": {
+    "en": "Four customers purchase, or take, items from Temptations Limited, an antiques shop whose motto is “Offers You Cannot Resist.” A nasty fate awaits all of them; particularly those who cheat the shop's Proprietor.",
+    "tr": "Peter Cushing'in yaşlı bir antikacıyı canlandırdığı \"From Beyond the Grave\", R. Chetwynd-Hayes’in öykülerinden uyarlanan dört kısa bölümden oluşan bir korku antolojisidir. Her bölüm, antikacıdan alınan bir objeyle ilgili olup, objeleri satın alanların kaderleri, yaptığı alışverişlerle kötü bir şekilde değişir. David Warner’ın başrolde olduğu \"The Gate Crasher\", 400 yıllık bir aynada saklanan şeytani bir varlığın dünyaya geçişini anlatırken, Donald Pleasence ve kızı Angela Pleasence'ın yer aldığı \"An Act of Kindness\", orta sınıf bir ailenin yıkımını işler. \"The Elemental\", kötü niyetli bir periden kurtulmaya çalışan bir adamı, \"The Door\" ise eski bir kapı ile tehlikeli bir odaya geçiş yapan bir çifti konu alır. Kevin Connor’ın yönettiği bu antoloji, güçlü oyunculuklarla öne çıkar, özellikle David Warner ve Donald Pleasence’ın performansları dikkat çeker."
+  },
+  "poster": {
+    "tr": "/8oePNgUwrVGXwykTGxC9vk7dvPX.jpg",
+    "en": "/8oePNgUwrVGXwykTGxC9vk7dvPX.jpg"
+  },
+  "backdrops": [
+    "/8PhkvKTyp9V46Ufje63iXU3ayId.jpg",
+    "/bOWxPivVehJhee9DOVG3OMUooLP.jpg",
+    "/6e5gIlxTg7rbhnGChQBxGKeBFpR.jpg",
+    "/oDaV0tPiyyakj1WMzQuv4mT2JFM.jpg",
+    "/gci5xNf4chwvEq1PylKlNIC7vOC.jpg",
+    "/vRiLHhjnJE6D3xTSqClOfaQSJLa.jpg",
+    "/mUdzUfti7frLNusn39vvZITMz7s.jpg",
+    "/jXsL5c6EoUrrF96wiMSjvzSEvC5.jpg",
+    "/nRGLaJlqwhWJYS9eYKZYROhQFXT.jpg",
+    "/1Ue4TjamQao0e2BJxVGdEDT6aiS.jpg"
+  ],
+  "trailerKey": "f-_QHgLo-0Y",
+  "genreIds": [
+    14,
+    27,
+    18
+  ],
+  "keywordIds": [
+    2804,
+    9706,
+    162714
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Amicus Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 30169,
+      "job": "producer"
+    },
+    {
+      "personId": 139842,
+      "job": "writer"
+    },
+    {
+      "personId": 95329,
+      "job": "director"
+    },
+    {
+      "personId": 8934,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 296,
+      "job": "writer"
+    },
+    {
+      "personId": 90077,
+      "job": "producer"
+    },
+    {
+      "personId": 38646,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5,
+      "character": "The Proprietor",
+      "order": 0
+    },
+    {
+      "personId": 2076,
+      "character": "Edward Charlton",
+      "order": 1
+    },
+    {
+      "personId": 9221,
+      "character": "Jim Underwood",
+      "order": 2
+    },
+    {
+      "personId": 51755,
+      "character": "William Seaton",
+      "order": 3
+    },
+    {
+      "personId": 39025,
+      "character": "Reginald Warren",
+      "order": 4
+    },
+    {
+      "personId": 57399,
+      "character": "Rosemary Seaton",
+      "order": 5
+    },
+    {
+      "personId": 2481,
+      "character": "Christopher Lowe",
+      "order": 6
+    },
+    {
+      "personId": 94156,
+      "character": "Mabel Lowe",
+      "order": 7
+    },
+    {
+      "personId": 80255,
+      "character": "Madame Orloff",
+      "order": 8
+    },
+    {
+      "personId": 138166,
+      "character": "Susan Warren",
+      "order": 9
+    },
+    {
+      "personId": 37440,
+      "character": "Emily Underwood",
+      "order": 10
+    },
+    {
+      "personId": 47549,
+      "character": "Sir Michael Sinclair",
+      "order": 11
+    },
+    {
+      "personId": 139839,
+      "character": "Mr. Jeffries",
+      "order": 12
+    },
+    {
+      "personId": 139840,
+      "character": "The Face in the Mirror",
+      "order": 13
+    },
+    {
+      "personId": 1307208,
+      "character": "Pamela",
+      "order": 14
+    },
+    {
+      "personId": 29796,
+      "character": "Prostitute - Edward's First Victim",
+      "order": 15
+    },
+    {
+      "personId": 106096,
+      "character": "Burglar",
+      "order": 16
+    },
+    {
+      "personId": 190401,
+      "character": "Stephen Lowe",
+      "order": 17
+    },
+    {
+      "personId": 82552,
+      "character": "2nd Young Male New Flat Owner (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1183422,
+      "character": "2nd Workman (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 172,
+  "sources": [
+    "cult-list"
+  ]
+}

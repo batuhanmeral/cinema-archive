@@ -1,0 +1,219 @@
+{
+  "tmdbId": 8069,
+  "slug": "barbarella-1968",
+  "year": 1968,
+  "runtime": 98,
+  "originalTitle": "Barbarella",
+  "title": {
+    "en": "Barbarella",
+    "tr": "Barbarella"
+  },
+  "overview": {
+    "en": "In the far future, a highly sexual woman is tasked with finding and stopping the evil Durand-Durand. Along the way she encounters various unusual people.",
+    "tr": "MS 40,000. yüzyıldayız. Sıfır yerçekiminde salınarak vücudunu sergilemeyi ve serbest aşkı seven saf dilber Barbarella, Dünya gezegeninin uzaydaki temsilcisi olarak zor bir görev üstlenir :yeni bir icadıyla evrendeki barışı tehdit eden Duran Duran isimli çılgın dahiyi bulmak. Barbarella, Tau Ceti sistemine uzanan arayışı boyunca biribirinden ilginç ve ‘muzır’ uzaylı ırklarla, tehlikelerle karşılaşır. Hatta yakışıklı ve kör bir meleğin kanatlarında aşk yapma şansı da yakalar."
+  },
+  "poster": {
+    "tr": "/facTz5BZz4AkJal1FWgjYciekih.jpg",
+    "en": "/kfaRSR3geV3I65icyHWBBEsE9u.jpg"
+  },
+  "backdrops": [
+    "/gY8essk1UcNZMK3VRkPpdaUQLDQ.jpg",
+    "/wSWE05S7yAbP8yPvE1QSvyHHZXU.jpg",
+    "/5vGF03srSwf4XVhHdSuz1D3T54p.jpg",
+    "/o8G9Sr35VyzUnhyrgh5GEYnRQvm.jpg",
+    "/7zQspNkDEGQnxheUNLA5c3eN2FI.jpg",
+    "/84cA3MDVEaCNlvuU16Xl2XRxjtC.jpg",
+    "/sCBewjheEtZzgR2LpYEhv0MWz0A.jpg",
+    "/pdMks1kLQDdqkCxiiQjdOCsga1e.jpg",
+    "/fezaqVV5gl1voinxoy7Ux4bO1K0.jpg",
+    "/kwVs19C2vjYuY46Q4uGUrSZom3B.jpg"
+  ],
+  "trailerKey": "ZKakq5NgoxA",
+  "genreIds": [
+    878,
+    12,
+    35
+  ],
+  "keywordIds": [
+    290,
+    9835,
+    10158,
+    11239,
+    14660,
+    155493,
+    191144,
+    229786,
+    234895,
+    273439,
+    288198
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "DDL Cinematografica",
+    "Marianne Productions"
+  ],
+  "crew": [
+    {
+      "personId": 53767,
+      "job": "director"
+    },
+    {
+      "personId": 10469,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 53767,
+      "job": "writer"
+    },
+    {
+      "personId": 5398,
+      "job": "producer"
+    },
+    {
+      "personId": 28137,
+      "job": "writer"
+    },
+    {
+      "personId": 8950,
+      "job": "writer"
+    },
+    {
+      "personId": 29885,
+      "job": "writer"
+    },
+    {
+      "personId": 1172547,
+      "job": "writer"
+    },
+    {
+      "personId": 25795,
+      "job": "writer"
+    },
+    {
+      "personId": 29884,
+      "job": "writer"
+    },
+    {
+      "personId": 1251718,
+      "job": "composer"
+    },
+    {
+      "personId": 50239,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6352,
+      "character": "Barbarella",
+      "order": 0
+    },
+    {
+      "personId": 29426,
+      "character": "Pygar",
+      "order": 1
+    },
+    {
+      "personId": 53768,
+      "character": "The Great Tyrant",
+      "order": 2
+    },
+    {
+      "personId": 39690,
+      "character": "Professor Ping",
+      "order": 3
+    },
+    {
+      "personId": 20113,
+      "character": "President of Earth",
+      "order": 4
+    },
+    {
+      "personId": 47137,
+      "character": "Concierge / Durand-Durand",
+      "order": 5
+    },
+    {
+      "personId": 44439,
+      "character": "Captain Moon",
+      "order": 6
+    },
+    {
+      "personId": 38915,
+      "character": "Captain Sun",
+      "order": 7
+    },
+    {
+      "personId": 53769,
+      "character": "Stomoxys",
+      "order": 8
+    },
+    {
+      "personId": 53770,
+      "character": "Glossina",
+      "order": 9
+    },
+    {
+      "personId": 15196,
+      "character": "Dildano",
+      "order": 10
+    },
+    {
+      "personId": 32312,
+      "character": "Mark Hand",
+      "order": 11
+    },
+    {
+      "personId": 93963,
+      "character": "Jean-Paul",
+      "order": 12
+    },
+    {
+      "personId": 1274731,
+      "character": "La femme arbre",
+      "order": 13
+    },
+    {
+      "personId": 1082665,
+      "character": "The General",
+      "order": 14
+    },
+    {
+      "personId": 1016052,
+      "character": "Sogo Citizen",
+      "order": 15
+    },
+    {
+      "personId": 1082664,
+      "character": "The Suicide",
+      "order": 16
+    },
+    {
+      "personId": 11841,
+      "character": "Professor Ping (voice)",
+      "order": 17
+    },
+    {
+      "personId": 1338525,
+      "character": "Girl in Sogo (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 21181,
+      "character": "Tall Man at Party (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 887,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "tmdbId": 128770,
+  "slug": "magnitude-7-9-1980",
+  "year": 1980,
+  "runtime": 126,
+  "originalTitle": "地震列島",
+  "title": {
+    "en": "Magnitude 7.9",
+    "tr": "Magnitude 7.9"
+  },
+  "overview": {
+    "en": "A large earthquake hits Tokyo, which was predicted by a seismologist but was ignored.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/chqBtENlhOjndcsWOnYK3EdQl5H.jpg",
+    "en": "/chqBtENlhOjndcsWOnYK3EdQl5H.jpg"
+  },
+  "backdrops": [
+    "/6QYHSNsWtwA866GsUe0ByIgDkGB.jpg",
+    "/i4Ue27ng4rW6tCR6SsHkGKCGv9G.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    28,
+    878,
+    18
+  ],
+  "keywordIds": [
+    233,
+    3521,
+    10617,
+    317204
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "studios": [
+    "Toho Pictures",
+    "Toho Eizo Bijutsu",
+    "TOHO"
+  ],
+  "crew": [
+    {
+      "personId": 1087759,
+      "job": "director"
+    },
+    {
+      "personId": 1088571,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 103489,
+      "job": "composer"
+    },
+    {
+      "personId": 33727,
+      "job": "writer"
+    },
+    {
+      "personId": 1270420,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 239393,
+      "character": "Yoichi Kawazu",
+      "order": 0
+    },
+    {
+      "personId": 2642414,
+      "character": "Professor Shigeru",
+      "order": 1
+    },
+    {
+      "personId": 20828,
+      "character": "National Land Agency Director",
+      "order": 2
+    },
+    {
+      "personId": 25466,
+      "character": "Professor Watanabe",
+      "order": 3
+    },
+    {
+      "personId": 239550,
+      "character": "Chairman of the Joint Chiefs of Staff",
+      "order": 4
+    },
+    {
+      "personId": 82869,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1029306,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 213484,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 142463,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 70626,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 86858,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 33730,
+      "character": "",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 5,
+  "sources": [
+    "cult-list"
+  ]
+}

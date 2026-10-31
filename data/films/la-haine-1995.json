@@ -1,0 +1,199 @@
+{
+  "tmdbId": 406,
+  "slug": "la-haine-1995",
+  "year": 1995,
+  "runtime": 98,
+  "originalTitle": "La Haine",
+  "title": {
+    "en": "La Haine",
+    "tr": "Protesto"
+  },
+  "overview": {
+    "en": "After a chaotic night of rioting in a marginal suburb of Paris, three young friends, Vinz, Hubert and Saïd, wander around unoccupied waiting for news about the state of health of a mutual friend who has been seriously injured when confronting the police.",
+    "tr": "Paris’in gettolarında hararetli saatler yaşanmaktadır. Grup halinde dolaşan yerel gençlerle, çevreyi kuşatan polisler arasında nefret dolu bakışlardan oluşan bir gerilim vardır. Mahallenin gençlerinden Abdel, polis soruşturması sırasında dövüldüğü için hastanede ölüm döşeğinde yatmaktadır. Arkadaşı Vinz ise, Abdel’in ölmesi durumunda bir polis vurmaya ant içer."
+  },
+  "poster": {
+    "tr": "/8cxsmDEbwMoOWF2aYGEReILkbIP.jpg",
+    "en": "/a6DGCZC2fHNr07tyRumM30ALEKE.jpg"
+  },
+  "backdrops": [
+    "/viGCwLxupyoaLsa6hrnu1gYrB0B.jpg",
+    "/k61xLJgPo7ScxHLLiBzTM9IDaB7.jpg",
+    "/eujiopgBVgh3uY8kWXLwZzfaUHR.jpg",
+    "/htqMsuNHEpMv6uIlitzUp22ryaV.jpg",
+    "/hsqfWqFEvkZfFurIxIAAWJbxjg2.jpg",
+    "/fD8Alm5N2Jmmjzm4Z5AbtAWeiKj.jpg",
+    "/axNThF9ftixKvSLqTPmJ7hWkTVi.jpg",
+    "/9x8W0qtPlOolZCpoqOuZPMkFgs5.jpg",
+    "/3PGKBMDpsFhAB6xdHEJOKs3AhxW.jpg",
+    "/movqyWQUVQvR1xzWmnVIMmhMgDP.jpg"
+  ],
+  "trailerKey": "FKwcXt3JIaU",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    796,
+    898,
+    90,
+    1952,
+    1974,
+    2394,
+    3230,
+    5397,
+    12425,
+    12999,
+    15158,
+    160910,
+    161722,
+    173577,
+    186355,
+    197702,
+    208156,
+    233950,
+    248022,
+    319922,
+    337489,
+    347587
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Kasso Productions",
+    "La Sept Cinéma",
+    "Les Productions Lazennec"
+  ],
+  "crew": [
+    {
+      "personId": 2406,
+      "job": "director"
+    },
+    {
+      "personId": 5425,
+      "job": "producer"
+    },
+    {
+      "personId": 5431,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2406,
+      "job": "writer"
+    },
+    {
+      "personId": 5429,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1925,
+      "character": "Vinz",
+      "order": 0
+    },
+    {
+      "personId": 5418,
+      "character": "Hubert",
+      "order": 1
+    },
+    {
+      "personId": 5419,
+      "character": "Saïd",
+      "order": 2
+    },
+    {
+      "personId": 5420,
+      "character": "Abdel",
+      "order": 3
+    },
+    {
+      "personId": 5422,
+      "character": "Santo",
+      "order": 4
+    },
+    {
+      "personId": 5423,
+      "character": "Ordinary Man",
+      "order": 5
+    },
+    {
+      "personId": 5424,
+      "character": "Sarah",
+      "order": 6
+    },
+    {
+      "personId": 1347614,
+      "character": "Vinz's Grandmother",
+      "order": 7
+    },
+    {
+      "personId": 1347615,
+      "character": "Vinz's Aunt",
+      "order": 8
+    },
+    {
+      "personId": 579488,
+      "character": "Cook",
+      "order": 9
+    },
+    {
+      "personId": 64546,
+      "character": "Saïd's Brother",
+      "order": 10
+    },
+    {
+      "personId": 2623427,
+      "character": "Joking Boy",
+      "order": 11
+    },
+    {
+      "personId": 5442,
+      "character": "Benoît",
+      "order": 12
+    },
+    {
+      "personId": 2623429,
+      "character": "Médard",
+      "order": 13
+    },
+    {
+      "personId": 2623400,
+      "character": "Arash",
+      "order": 14
+    },
+    {
+      "personId": 2623430,
+      "character": "Young Businessman",
+      "order": 15
+    },
+    {
+      "personId": 961888,
+      "character": "Journalist",
+      "order": 16
+    },
+    {
+      "personId": 572508,
+      "character": "CRS TV Journalist",
+      "order": 17
+    },
+    {
+      "personId": 5441,
+      "character": "Darty",
+      "order": 18
+    },
+    {
+      "personId": 2399927,
+      "character": "Roundabout Man",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4770,
+  "sources": [
+    "cult-list"
+  ]
+}

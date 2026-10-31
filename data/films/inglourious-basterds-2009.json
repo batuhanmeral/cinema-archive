@@ -1,0 +1,194 @@
+{
+  "tmdbId": 16869,
+  "slug": "inglourious-basterds-2009",
+  "year": 2009,
+  "runtime": 153,
+  "originalTitle": "Inglourious Basterds",
+  "title": {
+    "en": "Inglourious Basterds",
+    "tr": "Soysuzlar Çetesi"
+  },
+  "overview": {
+    "en": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+    "tr": "Inglourious Basterds, Shosanna Dreyfus 'un ailesinin Nazi Yüzbaşısı Hans Landa 'un elinde idam edilmesi sırasında, Alman işgalindeki Fransa'da başlar. Shosanna kıl payı kurtulur ve bir sinema sahibi olarak yeni bir kimlik uyduracağı Fransa'ya gider. Avrupa'nın başka bir yerinde Teğmen Aldo Raine bir grup Yahudi askerini organize ederek hedef alınan bölgelere doğru yönlendirir. Düşmanları tarafından \"Soysuzlar\" olarak bilinen Raine'ın ekibi, etmek göreviyle Alman film yıldızı ve gizli ajan Bridget Von Hammersmark'a katılırlar. Kaderleri, Shosanna'nın hazır tuttuğu intikam planını gerçekleştireceği bir sinemanın altında birleşir..."
+  },
+  "poster": {
+    "tr": "/w3M2SpS71EBl3oXmUGHet2rCm71.jpg",
+    "en": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg"
+  },
+  "backdrops": [
+    "/1Jpkm9qZcsT0mSyVXgs4VlGjPNI.jpg",
+    "/8pEnePgGyfUqj8Qa6d91OZQ6Aih.jpg",
+    "/hg0MTIFs49ef179C9Y1HRtzqbbK.jpg",
+    "/43508X0evUDHMoyMSecsLxcy7RK.jpg",
+    "/bPnPsyo09tLRnTOb7AlsBsgnbhP.jpg",
+    "/kxtIyA7rnoSuNQUm3JAe2VqozqS.jpg",
+    "/ozK1zwPSXhetNY7pZcVZx37UQ7e.jpg",
+    "/wIqOKSfTi1LDWUjeEqe5UKXY1TD.jpg",
+    "/yVPcPk96E6Qffiyez2oJc7OKD2A.jpg",
+    "/bMJxwgLyD47CDQ6BFCT2AMMlID7.jpg"
+  ],
+  "trailerKey": "uSEDz-my7XQ",
+  "genreIds": [
+    18,
+    53,
+    10752
+  ],
+  "keywordIds": [
+    1008,
+    90,
+    1430,
+    1956,
+    2433,
+    10123,
+    13519,
+    15060,
+    174375,
+    191726,
+    231020,
+    325765,
+    325793
+  ],
+  "countries": [
+    "DE",
+    "US"
+  ],
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "it"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "The Weinstein Company",
+    "A Band Apart"
+  ],
+  "crew": [
+    {
+      "personId": 149,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2545,
+      "job": "producer"
+    },
+    {
+      "personId": 138,
+      "job": "writer"
+    },
+    {
+      "personId": 138,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 287,
+      "character": "LT. Aldo Raine",
+      "order": 0
+    },
+    {
+      "personId": 19119,
+      "character": "Shosanna",
+      "order": 1
+    },
+    {
+      "personId": 27319,
+      "character": "COL. Hans Landa",
+      "order": 2
+    },
+    {
+      "personId": 16847,
+      "character": "SGT. Donny Donowitz",
+      "order": 3
+    },
+    {
+      "personId": 17288,
+      "character": "LT. Archie Hicox",
+      "order": 4
+    },
+    {
+      "personId": 9824,
+      "character": "Bridget von Hammersmark",
+      "order": 5
+    },
+    {
+      "personId": 3872,
+      "character": "Fredrick Zoller",
+      "order": 6
+    },
+    {
+      "personId": 1844,
+      "character": "SGT. Hugo Stiglitz",
+      "order": 7
+    },
+    {
+      "personId": 32823,
+      "character": "CPL. Wilhelm Wicki",
+      "order": 8
+    },
+    {
+      "personId": 51636,
+      "character": "Marcel",
+      "order": 9
+    },
+    {
+      "personId": 107770,
+      "character": "PFC. Smithson Utivich",
+      "order": 10
+    },
+    {
+      "personId": 23286,
+      "character": "PFC. Omar Ulmer",
+      "order": 11
+    },
+    {
+      "personId": 6091,
+      "character": "Major Hellstrom",
+      "order": 12
+    },
+    {
+      "personId": 81125,
+      "character": "Perrier LaPadite",
+      "order": 13
+    },
+    {
+      "personId": 41965,
+      "character": "Joseph Goebbels",
+      "order": 14
+    },
+    {
+      "personId": 49056,
+      "character": "Hitler",
+      "order": 15
+    },
+    {
+      "personId": 12073,
+      "character": "General Ed Fenech",
+      "order": 16
+    },
+    {
+      "personId": 2539,
+      "character": "Francesca Mondino",
+      "order": 17
+    },
+    {
+      "personId": 49487,
+      "character": "SGT. Rachtman",
+      "order": 18
+    },
+    {
+      "personId": 31663,
+      "character": "Master SGT. Wilhelm / Pola Negri",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 25055,
+  "sources": [
+    "cult-list"
+  ]
+}

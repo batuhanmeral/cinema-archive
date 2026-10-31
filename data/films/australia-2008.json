@@ -1,0 +1,225 @@
+{
+  "tmdbId": 6972,
+  "slug": "australia-2008",
+  "year": 2008,
+  "runtime": 165,
+  "originalTitle": "Australia",
+  "title": {
+    "en": "Australia",
+    "tr": "Avustralya"
+  },
+  "overview": {
+    "en": "Set in northern Australia before World War II, an English aristocrat who inherits a sprawling ranch reluctantly pacts with a stock-man in order to protect her new property from a takeover plot. As the pair drive 2,000 head of cattle over unforgiving landscape, they experience the bombing of Darwin by Japanese forces firsthand.",
+    "tr": "Kendisine miras kalan toprakları almak için gelen Lady Sarah, bölgenin yerlilerinden olan sert mizaçlı ve bir o kadar da kaba olan Drover (Hugh Jackman) ile aynı safta yer almak istemese de buna mecbur kalır. Bulundukları yerden milllerce uzakta olan bu dünya harikası topraklara varabilmek için uzun bir yol kattettikten sonra Darwin isimli bu şehrin Pearl Harbor’a saldıran Japon kuvvetleri tarafından bombalandığını öğrenirler..."
+  },
+  "poster": {
+    "tr": "/tFQpccGMTWe24eWxK5U9rb7tK3M.jpg",
+    "en": "/lgnwsUpqmEz40guXX92ACETptpB.jpg"
+  },
+  "backdrops": [
+    "/baLn65OQYiXMjLy2o5yxwpa6Fga.jpg",
+    "/nAvBSevxSQREfIkAH0EsJblTu2h.jpg",
+    "/1Vn00OOonZBYKiY08RG23qLH69u.jpg",
+    "/AlpaZVUbXhnRVRsntG5tJm7Uwgw.jpg",
+    "/kK1RqxFvfvucBjcD2JgBlVRjzKM.jpg",
+    "/cvNuO6ytm0z7wwj5CZ3YmVJyeVJ.jpg",
+    "/6f7eLuYSdpfI6pncCPgAP8y3drd.jpg",
+    "/kPmdc2OhVONoxdGXA8oJ6dqC3HL.jpg",
+    "/fp4UnlhSgzGKWnIEPWWItj82HFb.jpg",
+    "/A16dyPUt8Y4IrapdMerxRy7hHuy.jpg"
+  ],
+  "trailerKey": "4XED0wWC_jc",
+  "genreIds": [
+    12,
+    10749,
+    36
+  ],
+  "keywordIds": [
+    5657,
+    440,
+    1956,
+    2752,
+    9656,
+    7856,
+    10360,
+    180393,
+    193760,
+    207883,
+    214548,
+    221178,
+    229067,
+    367949
+  ],
+  "countries": [
+    "AU",
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "zh",
+    "ja",
+    "en"
+  ],
+  "studios": [
+    "Bazmark",
+    "20th Century Fox",
+    "Dune Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 6201,
+      "job": "director"
+    },
+    {
+      "personId": 6201,
+      "job": "writer"
+    },
+    {
+      "personId": 1707,
+      "job": "writer"
+    },
+    {
+      "personId": 3558,
+      "job": "writer"
+    },
+    {
+      "personId": 1115006,
+      "job": "writer"
+    },
+    {
+      "personId": 23226,
+      "job": "producer"
+    },
+    {
+      "personId": 12202,
+      "job": "producer"
+    },
+    {
+      "personId": 6201,
+      "job": "producer"
+    },
+    {
+      "personId": 6203,
+      "job": "producer"
+    },
+    {
+      "personId": 1115007,
+      "job": "producer"
+    },
+    {
+      "personId": 37757,
+      "job": "composer"
+    },
+    {
+      "personId": 57849,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2227,
+      "character": "Lady Sarah Ashley",
+      "order": 0
+    },
+    {
+      "personId": 6968,
+      "character": "The Drover",
+      "order": 1
+    },
+    {
+      "personId": 33449,
+      "character": "Katherine",
+      "order": 2
+    },
+    {
+      "personId": 1371,
+      "character": "Neil Fletcher",
+      "order": 3
+    },
+    {
+      "personId": 29092,
+      "character": "King Carney",
+      "order": 4
+    },
+    {
+      "personId": 53023,
+      "character": "King George",
+      "order": 5
+    },
+    {
+      "personId": 45210,
+      "character": "Sergeant",
+      "order": 6
+    },
+    {
+      "personId": 208282,
+      "character": "Carney Boy",
+      "order": 7
+    },
+    {
+      "personId": 55903,
+      "character": "Carney Boy",
+      "order": 8
+    },
+    {
+      "personId": 1265157,
+      "character": "Carney Boy",
+      "order": 9
+    },
+    {
+      "personId": 1209256,
+      "character": "Carney Boy",
+      "order": 10
+    },
+    {
+      "personId": 217046,
+      "character": "Bull",
+      "order": 11
+    },
+    {
+      "personId": 108924,
+      "character": "Father Benedict",
+      "order": 12
+    },
+    {
+      "personId": 144098,
+      "character": "Gloria Carney",
+      "order": 13
+    },
+    {
+      "personId": 23,
+      "character": "Skipper (Qantas Sloop)",
+      "order": 14
+    },
+    {
+      "personId": 12210,
+      "character": "Ivan",
+      "order": 15
+    },
+    {
+      "personId": 77335,
+      "character": "Captain Dutton",
+      "order": 16
+    },
+    {
+      "personId": 150536,
+      "character": "Administrator Allsop",
+      "order": 17
+    },
+    {
+      "personId": 1222753,
+      "character": "Magarri",
+      "order": 18
+    },
+    {
+      "personId": 27752,
+      "character": "Dr. Barker",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2518,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "tmdbId": 13597,
+  "slug": "labyrinth-1986",
+  "year": 1986,
+  "runtime": 101,
+  "originalTitle": "Labyrinth",
+  "title": {
+    "en": "Labyrinth",
+    "tr": "Labirent"
+  },
+  "overview": {
+    "en": "Frustrated with babysitting on yet another weekend night, Sarah, a teenager with an active imagination, summons the Goblins to take her baby stepbrother away. When little Toby actually disappears, Sarah must follow him into a fantastical world to rescue him from the Goblin King. Guarding his castle is the labyrinth itself, a twisted maze of deception, populated with outrageous characters and unknown dangers.",
+    "tr": "Sarah için cumartesi akşamı üvey kardeşi Toby'e bakıclık yapmak eğlenceli bir fikir değildi. Toby'nin ağlamasından sıkılan Sarah, en sevdiği kitabı Labirent'teki Goblinlerin Toby'i kaçırdığını hayal eder. Fantezisi gerçek olunca Toby'i geri getirmek için illüzyonlar labirentine girer. Mistik yaratıklar tarafından korunan krallığın başında büyücü Goblin kralı vardır."
+  },
+  "poster": {
+    "tr": "/pejayhTVBEL4w8YKSfrhOjjWVlH.jpg",
+    "en": "/hbSdA1DmNA9IlfVoqJkIWYF2oYm.jpg"
+  },
+  "backdrops": [
+    "/92tb8mgjgL1S2KwrZezyPHPkQ3R.jpg",
+    "/mGkleIuPO2flRyvP8yBcUykSQsp.jpg",
+    "/vrYkUgAdfKr1jQNwcp5aWzj1mSg.jpg",
+    "/yeHOdebVlqWFCdyaMrUwq5z4Lfz.jpg",
+    "/gdv9ymSRr6XvpWpE4IsXPx51WiB.jpg",
+    "/8ez6hcZVImHpMyNW9FCTQb27hYh.jpg",
+    "/ii8BszVSLML4UFKLl8Vqewmamhi.jpg",
+    "/pzsOOHWK0VKijsCW2aB8jkK0Dbj.jpg",
+    "/2oMaHvLQmfEZ3Zb8VeiZ6JB1T61.jpg",
+    "/lXfwS6hlo4ZR05iMGsEUYkX2u5W.jpg"
+  ],
+  "trailerKey": "8bJy0GF2RZ0",
+  "genreIds": [
+    12,
+    10751,
+    14
+  ],
+  "keywordIds": [
+    10084,
+    4776,
+    2158,
+    3098,
+    4344,
+    6300,
+    2604,
+    9887,
+    4725,
+    10683,
+    9825,
+    10809,
+    11691,
+    164246,
+    170362,
+    170865,
+    189094,
+    266562,
+    272909,
+    286709,
+    296728,
+    317389,
+    325776,
+    325807
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Henson Associates",
+    "Lucasfilm Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 55983,
+      "job": "director"
+    },
+    {
+      "personId": 7020,
+      "job": "composer"
+    },
+    {
+      "personId": 21516,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10707,
+      "job": "writer"
+    },
+    {
+      "personId": 12681,
+      "job": "producer"
+    },
+    {
+      "personId": 58251,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7487,
+      "character": "Jareth",
+      "order": 0
+    },
+    {
+      "personId": 6161,
+      "character": "Sarah",
+      "order": 1
+    },
+    {
+      "personId": 68794,
+      "character": "Toby",
+      "order": 2
+    },
+    {
+      "personId": 68795,
+      "character": "Stepmother",
+      "order": 3
+    },
+    {
+      "personId": 47808,
+      "character": "Father",
+      "order": 4
+    },
+    {
+      "personId": 65298,
+      "character": "Hoggle / Goblin (voice)",
+      "order": 5
+    },
+    {
+      "personId": 193254,
+      "character": "Didymus / The Hat",
+      "order": 6
+    },
+    {
+      "personId": 1329518,
+      "character": "Ludo / Firey 2 / Goblin (voice)",
+      "order": 7
+    },
+    {
+      "personId": 3548,
+      "character": "The Worm / Goblin (voice)",
+      "order": 8
+    },
+    {
+      "personId": 1225208,
+      "character": "The Junk Lady (voice)",
+      "order": 9
+    },
+    {
+      "personId": 64181,
+      "character": "Didymus / The Hat / The Four Guards / Left Door Knocker / Firey 3 (voice)",
+      "order": 10
+    },
+    {
+      "personId": 189120,
+      "character": "The Worm / The Junk Lady / Firey 2",
+      "order": 11
+    },
+    {
+      "personId": 1329519,
+      "character": "Didymus / Firey 1",
+      "order": 12
+    },
+    {
+      "personId": 7908,
+      "character": "The Wiseman",
+      "order": 13
+    },
+    {
+      "personId": 39741,
+      "character": "The Wiseman (voice)",
+      "order": 14
+    },
+    {
+      "personId": 64180,
+      "character": "The Four Guards / Firey 4 / Ambrosius (voice)",
+      "order": 15
+    },
+    {
+      "personId": 77156,
+      "character": "The Four Guards / Firey 1 / Ambrosius (voice)",
+      "order": 16
+    },
+    {
+      "personId": 1329495,
+      "character": "Fairy",
+      "order": 17
+    },
+    {
+      "personId": 1329496,
+      "character": "Hoggle",
+      "order": 18
+    },
+    {
+      "personId": 220893,
+      "character": "Ludo / Firey 3",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2898,
+  "sources": [
+    "cult-list"
+  ]
+}

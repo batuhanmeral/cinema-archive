@@ -1,0 +1,221 @@
+{
+  "tmdbId": 252,
+  "slug": "willy-wonka-the-chocolate-factory-1971",
+  "year": 1971,
+  "runtime": 100,
+  "originalTitle": "Willy Wonka & the Chocolate Factory",
+  "title": {
+    "en": "Willy Wonka & the Chocolate Factory",
+    "tr": "Willy Wonka ve Çikolata Fabrikası"
+  },
+  "overview": {
+    "en": "When eccentric candy man Willy Wonka promises a lifetime supply of sweets and a tour of his chocolate factory to five lucky kids, penniless Charlie Bucket seeks the golden ticket that will make him a winner.",
+    "tr": "Charlie, zengin ailelerin şımarık çocukları ile birlikte Willy Wonka'nın çikolata fabrikasını gezmeye hak kazanır. Yolculuk esnasında sayıları gittikçe azalır. Bu bir geziden çok aslında bir sınavdır."
+  },
+  "poster": {
+    "tr": "/i89n894itv4hjDcWypSq2cHo5AM.jpg",
+    "en": "/vmpsZkrs4Uvkp9r1atL8B3frA63.jpg"
+  },
+  "backdrops": [
+    "/idfNNlVwjVkBQrM2eWpLZiDOTIc.jpg",
+    "/iiusvOLB4ytkZ6FSFMlGHvt33uW.jpg",
+    "/4LsV3U4Mha3GjpsTNx7tqW1xny2.jpg",
+    "/qCkbEdrmThVfvCgjAkvkue7BrGM.jpg",
+    "/ko7hMSCtXoJFfpYAIbrowwgH0eq.jpg",
+    "/zXZ5S0WZi6yQi6CXOzU3EBb7bs7.jpg",
+    "/aAL7kV0l3yZtbCFs7J8m4gXldqR.jpg",
+    "/7ACuRG24JosBD2jI8vN93TeUlmr.jpg",
+    "/gGpr7eTX52EemriT53tNptjXzSN.jpg",
+    "/qm88JmGbATOZvBlAhYEuoRYAzRU.jpg"
+  ],
+  "trailerKey": "2WKPKnggJqk",
+  "genreIds": [
+    10751,
+    14,
+    35
+  ],
+  "keywordIds": [
+    730,
+    1382,
+    818,
+    715,
+    985,
+    987,
+    1158,
+    986,
+    2803,
+    3899,
+    4344,
+    9457,
+    10508,
+    15101,
+    202873,
+    226028,
+    245358,
+    259376,
+    276775,
+    282127,
+    309974,
+    324713,
+    325835,
+    325836,
+    325845
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "fr",
+    "en",
+    "it",
+    "de"
+  ],
+  "studios": [
+    "Wolper Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 3451,
+      "job": "director"
+    },
+    {
+      "personId": 3452,
+      "job": "producer"
+    },
+    {
+      "personId": 3453,
+      "job": "producer"
+    },
+    {
+      "personId": 3454,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3616,
+      "job": "composer"
+    },
+    {
+      "personId": 3375,
+      "job": "composer"
+    },
+    {
+      "personId": 1299,
+      "job": "writer"
+    },
+    {
+      "personId": 81409,
+      "job": "writer"
+    },
+    {
+      "personId": 3616,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3462,
+      "character": "Charlie",
+      "order": 0
+    },
+    {
+      "personId": 3460,
+      "character": "Willy Wonka",
+      "order": 1
+    },
+    {
+      "personId": 3461,
+      "character": "Grandpa Joe",
+      "order": 2
+    },
+    {
+      "personId": 3473,
+      "character": "Mrs. Bucket",
+      "order": 3
+    },
+    {
+      "personId": 3464,
+      "character": "Veruca Salt",
+      "order": 4
+    },
+    {
+      "personId": 3463,
+      "character": "Mr. Salt",
+      "order": 5
+    },
+    {
+      "personId": 3468,
+      "character": "Violet Beauregarde",
+      "order": 6
+    },
+    {
+      "personId": 3467,
+      "character": "Mr. Beauregarde",
+      "order": 7
+    },
+    {
+      "personId": 3470,
+      "character": "Mike Teevee",
+      "order": 8
+    },
+    {
+      "personId": 3469,
+      "character": "Mrs. Teevee",
+      "order": 9
+    },
+    {
+      "personId": 1672153,
+      "character": "Augustus Gloop",
+      "order": 10
+    },
+    {
+      "personId": 3471,
+      "character": "Mrs. Gloop",
+      "order": 11
+    },
+    {
+      "personId": 3474,
+      "character": "Bill",
+      "order": 12
+    },
+    {
+      "personId": 3475,
+      "character": "Mr. Turkentine",
+      "order": 13
+    },
+    {
+      "personId": 3617,
+      "character": "Mr. Slugworth",
+      "order": 14
+    },
+    {
+      "personId": 3476,
+      "character": "The Tinker",
+      "order": 15
+    },
+    {
+      "personId": 951286,
+      "character": "Mr. Jopeck",
+      "order": 16
+    },
+    {
+      "personId": 97869,
+      "character": "Winkelmann",
+      "order": 17
+    },
+    {
+      "personId": 1686605,
+      "character": "Grandma Josephine (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1686607,
+      "character": "Grandpa George (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4130,
+  "sources": [
+    "cult-list"
+  ]
+}

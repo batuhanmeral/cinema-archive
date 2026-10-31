@@ -1,0 +1,212 @@
+{
+  "tmdbId": 26648,
+  "slug": "the-night-porter-1974",
+  "year": 1974,
+  "runtime": 118,
+  "originalTitle": "Il portiere di notte",
+  "title": {
+    "en": "The Night Porter",
+    "tr": "Gece Bekçisi"
+  },
+  "overview": {
+    "en": "A concentration camp survivor discovers her former torturer and lover working as a porter at a hotel in postwar Vienna. When the couple attempt to re-create their sadomasochistic relationship, his former SS comrades begin to stalk them.",
+    "tr": "2. Dünya savaşı 13 yıl önce sona ermiş. Fakat savaşın hem cellatları hem de kurbanları Avrupa sokaklarında. Viyana'da bir otelde bir Nazi subayı ile, kamptaki esirlerinden biri karşılaşır. Başlangıçta ikisi de karşılaşmanın şokunu üzerinden atamaz. Fakat zamanla kamptaki erotik ve şiddet dolu oyunları, önce otel odasında sonra sığınacakları bir evde devam eder. Zamanında sevgi-nefret ilişkisi ile bağlı olan iki düşman, aynı tarafta yer alır."
+  },
+  "poster": {
+    "tr": "/yOhmx8uUNm3ZlYcF3Rqps8avaet.jpg",
+    "en": "/zTUYhMdh2Jwk5s9jbrU4mCH3CY4.jpg"
+  },
+  "backdrops": [
+    "/xbQPQQ4VbzNM4GYSDiYzsVPX2LH.jpg",
+    "/tufG6gslSRSMS0WaJLz3psUKUZQ.jpg",
+    "/ljaYQnoTmdawkRqUquu4kCMQqO9.jpg",
+    "/iqmNd9BN6AxtudFpiwI4b8x0rja.jpg",
+    "/5Rx1orUfxMnG5HzGf0dzdikNczk.jpg",
+    "/g8MdZ2nJKWJ5YXbDqOXFpXROp1n.jpg",
+    "/efFKbu6j6tfVRa1LjiS1bdBtf8f.jpg",
+    "/rWpjp2ZyDj6lSKHB00x2PJyZL5S.jpg",
+    "/heJm9sBGtckXBGxNbF0ALVLy0sp.jpg",
+    "/n6tuRF5HWjqMh1vob4T0do6np5S.jpg"
+  ],
+  "trailerKey": "wC7NPWSyx0I",
+  "genreIds": [
+    10752,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    612,
+    5136,
+    1631,
+    1664,
+    6373,
+    9856,
+    18267,
+    33720,
+    187056,
+    187236,
+    194921,
+    207515,
+    208611,
+    221749,
+    252067
+  ],
+  "countries": [
+    "IT",
+    "FR"
+  ],
+  "languages": [
+    "de",
+    "la",
+    "en"
+  ],
+  "studios": [
+    "Lotar Film Productions",
+    "Les Productions Artistes Associés"
+  ],
+  "crew": [
+    {
+      "personId": 67750,
+      "job": "director"
+    },
+    {
+      "personId": 67750,
+      "job": "writer"
+    },
+    {
+      "personId": 29895,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1163699,
+      "job": "writer"
+    },
+    {
+      "personId": 1163700,
+      "job": "composer"
+    },
+    {
+      "personId": 1984228,
+      "job": "producer"
+    },
+    {
+      "personId": 32051,
+      "job": "producer"
+    },
+    {
+      "personId": 18839,
+      "job": "writer"
+    },
+    {
+      "personId": 18838,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21605,
+      "character": "Max",
+      "order": 0
+    },
+    {
+      "personId": 44079,
+      "character": "Lucia",
+      "order": 1
+    },
+    {
+      "personId": 25333,
+      "character": "Klaus",
+      "order": 2
+    },
+    {
+      "personId": 4961,
+      "character": "Hans",
+      "order": 3
+    },
+    {
+      "personId": 101551,
+      "character": "Stumm",
+      "order": 4
+    },
+    {
+      "personId": 31696,
+      "character": "Countess Stein",
+      "order": 5
+    },
+    {
+      "personId": 129007,
+      "character": "Adolph",
+      "order": 6
+    },
+    {
+      "personId": 39151,
+      "character": "Atherton",
+      "order": 7
+    },
+    {
+      "personId": 1163701,
+      "character": "Bert",
+      "order": 8
+    },
+    {
+      "personId": 146997,
+      "character": "Day Porter",
+      "order": 9
+    },
+    {
+      "personId": 100427,
+      "character": "Kurt",
+      "order": 10
+    },
+    {
+      "personId": 1608792,
+      "character": "Dobson",
+      "order": 11
+    },
+    {
+      "personId": 1065412,
+      "character": "Mario",
+      "order": 12
+    },
+    {
+      "personId": 3529543,
+      "character": "Greta",
+      "order": 13
+    },
+    {
+      "personId": 32066,
+      "character": "The Neighbor",
+      "order": 14
+    },
+    {
+      "personId": 85649,
+      "character": "Concierge",
+      "order": 15
+    },
+    {
+      "personId": 1708668,
+      "character": "Jacob",
+      "order": 16
+    },
+    {
+      "personId": 239666,
+      "character": "Bit Role (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 3592918,
+      "character": "Porter (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 85348,
+      "character": "Opera Audience (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 402,
+  "sources": [
+    "cult-list"
+  ]
+}

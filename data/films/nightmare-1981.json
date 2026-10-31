@@ -1,0 +1,169 @@
+{
+  "tmdbId": 40368,
+  "slug": "nightmare-1981",
+  "year": 1981,
+  "runtime": 99,
+  "originalTitle": "Nightmare",
+  "title": {
+    "en": "Nightmare",
+    "tr": "Nightmare"
+  },
+  "overview": {
+    "en": "A drug-treated schizophrenic plagued by horrible nightmares is released from the hospital and goes on a killing spree.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/OFysFt0EIXHW89iv38VURpKpKW.jpg",
+    "en": "/OFysFt0EIXHW89iv38VURpKpKW.jpg"
+  },
+  "backdrops": [
+    "/9NZVtsa2QnZHgdh7iOd4mc8CgmA.jpg",
+    "/xJSg6WNAVSraK2P1pJrHdbN1XJA.jpg",
+    "/gElBrWPY3oLVhPamWrJcvUrm2kU.jpg",
+    "/beRJAUwWgiHQilHg1qYMcX9pGKy.jpg",
+    "/FRPRmMFpGQlDkQIkfIvlZpMReT.jpg",
+    "/z76OVmL54n6hM2e5T9UW35IcaO0.jpg",
+    "/47oFTSOsHkQHaiaF7C24hpaVXsb.jpg",
+    "/2FO3MdC9gBRZ2pXfTpemptoxUyL.jpg",
+    "/wfURlXCsehv1xAR9hwsyEEAPdT7.jpg",
+    "/6WTe5k9QKjq1xJeLX0VQ9zuBpSA.jpg"
+  ],
+  "trailerKey": "EnzvbulBV3A",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    3030,
+    10292,
+    9826,
+    12339,
+    189921
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Goldmine Productions"
+  ],
+  "crew": [
+    {
+      "personId": 140848,
+      "job": "director"
+    },
+    {
+      "personId": 140848,
+      "job": "writer"
+    },
+    {
+      "personId": 20844,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1494668,
+      "job": "composer"
+    },
+    {
+      "personId": 101297,
+      "job": "producer"
+    },
+    {
+      "personId": 2316252,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 140850,
+      "character": "George Tatum",
+      "order": 0
+    },
+    {
+      "personId": 140851,
+      "character": "Susan Temper",
+      "order": 1
+    },
+    {
+      "personId": 556923,
+      "character": "C.J. Temper",
+      "order": 2
+    },
+    {
+      "personId": 104528,
+      "character": "Bob Rosen",
+      "order": 3
+    },
+    {
+      "personId": 556924,
+      "character": "Kathy the Babysitter",
+      "order": 4
+    },
+    {
+      "personId": 101297,
+      "character": "Paul Williamson (as William Milling)",
+      "order": 5
+    },
+    {
+      "personId": 556926,
+      "character": "Young George",
+      "order": 6
+    },
+    {
+      "personId": 556927,
+      "character": "George's Father (as William S. Kirksey)",
+      "order": 7
+    },
+    {
+      "personId": 556928,
+      "character": "George's Mother",
+      "order": 8
+    },
+    {
+      "personId": 556929,
+      "character": "Tammy Temper",
+      "order": 9
+    },
+    {
+      "personId": 556930,
+      "character": "Kim Temper",
+      "order": 10
+    },
+    {
+      "personId": 556931,
+      "character": "Barbara",
+      "order": 11
+    },
+    {
+      "personId": 556932,
+      "character": "Steve",
+      "order": 12
+    },
+    {
+      "personId": 556933,
+      "character": "Joe",
+      "order": 13
+    },
+    {
+      "personId": 2316252,
+      "character": "Man With Cigar",
+      "order": 14
+    },
+    {
+      "personId": 1861826,
+      "character": "Woman in Booth",
+      "order": 15
+    },
+    {
+      "personId": 1985224,
+      "character": "",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 124,
+  "sources": [
+    "cult-list"
+  ]
+}

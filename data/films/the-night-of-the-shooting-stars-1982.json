@@ -1,0 +1,194 @@
+{
+  "tmdbId": 42130,
+  "slug": "the-night-of-the-shooting-stars-1982",
+  "year": 1982,
+  "runtime": 105,
+  "originalTitle": "La notte di San Lorenzo",
+  "title": {
+    "en": "The Night of the Shooting Stars",
+    "tr": "La notte di San Lorenzo"
+  },
+  "overview": {
+    "en": "The Night of San Lorenzo, the night of the shooting stars, is the night when dreams come true in Italian folklore. In 1944, a group of Italians flee their town after hearing rumours that the Nazis plan to blow it up and that the Americans are about to arrive to liberate them.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/u9QgkfHj90rr33KhjLlk5tr7bVg.jpg",
+    "en": "/u9QgkfHj90rr33KhjLlk5tr7bVg.jpg"
+  },
+  "backdrops": [
+    "/oWtUJSIfN4umPrwiHwawhMuDZlL.jpg",
+    "/nQgLyKUOJTjgWacxBkxNSSEUinS.jpg",
+    "/kQdMSjeIT7Xngq6DX0uMHS3ppJ4.jpg",
+    "/lGANCSuXOylaRmaUFNiHyII4Pl1.jpg",
+    "/9BagoISZ6zBIN1tusCMO6RPBt4D.jpg",
+    "/iPISjpGwOIfbxk9aMBiLub0KwDh.jpg",
+    "/gNVcA2rNbvK3uGWEBIhEyZoOHB3.jpg",
+    "/zFwj7syJ3OPQ09XJ39FJimMwBIj.jpg"
+  ],
+  "trailerKey": "ADIph1-og3o",
+  "genreIds": [
+    10752,
+    18
+  ],
+  "keywordIds": [
+    393,
+    174594
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "de",
+    "it"
+  ],
+  "studios": [
+    "Ager Cinematografica",
+    "RAI"
+  ],
+  "crew": [
+    {
+      "personId": 24279,
+      "job": "director"
+    },
+    {
+      "personId": 24281,
+      "job": "director"
+    },
+    {
+      "personId": 15191,
+      "job": "writer"
+    },
+    {
+      "personId": 24279,
+      "job": "writer"
+    },
+    {
+      "personId": 24281,
+      "job": "writer"
+    },
+    {
+      "personId": 332350,
+      "job": "producer"
+    },
+    {
+      "personId": 9245,
+      "job": "composer"
+    },
+    {
+      "personId": 66641,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 332350,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27208,
+      "character": "Galvano",
+      "order": 0
+    },
+    {
+      "personId": 16314,
+      "character": "Concetta",
+      "order": 1
+    },
+    {
+      "personId": 119950,
+      "character": "Corrado",
+      "order": 2
+    },
+    {
+      "personId": 995398,
+      "character": "Belindia",
+      "order": 3
+    },
+    {
+      "personId": 128250,
+      "character": "Nicola",
+      "order": 4
+    },
+    {
+      "personId": 224430,
+      "character": "Mara",
+      "order": 5
+    },
+    {
+      "personId": 995401,
+      "character": "Rosanna",
+      "order": 6
+    },
+    {
+      "personId": 995402,
+      "character": "Bishop",
+      "order": 7
+    },
+    {
+      "personId": 995403,
+      "character": "Cecilia",
+      "order": 8
+    },
+    {
+      "personId": 240893,
+      "character": "La Scardigli",
+      "order": 9
+    },
+    {
+      "personId": 27279,
+      "character": "Father Marmugi",
+      "order": 10
+    },
+    {
+      "personId": 229667,
+      "character": "Marmugi Junior",
+      "order": 11
+    },
+    {
+      "personId": 2666217,
+      "character": "Bruno",
+      "order": 12
+    },
+    {
+      "personId": 120276,
+      "character": "Dilvo",
+      "order": 13
+    },
+    {
+      "personId": 234396,
+      "character": "Priest",
+      "order": 14
+    },
+    {
+      "personId": 2666220,
+      "character": "Olinto",
+      "order": 15
+    },
+    {
+      "personId": 2470550,
+      "character": "Rosanna's Fascist Cousin",
+      "order": 16
+    },
+    {
+      "personId": 2666221,
+      "character": "Requiem",
+      "order": 17
+    },
+    {
+      "personId": 12773,
+      "character": "Signora Migliorati",
+      "order": 18
+    },
+    {
+      "personId": 2666222,
+      "character": "Belindia's Father",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 135,
+  "sources": [
+    "cult-list"
+  ]
+}

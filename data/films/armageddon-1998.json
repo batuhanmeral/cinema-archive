@@ -1,0 +1,220 @@
+{
+  "tmdbId": 95,
+  "slug": "armageddon-1998",
+  "year": 1998,
+  "runtime": 151,
+  "originalTitle": "Armageddon",
+  "title": {
+    "en": "Armageddon",
+    "tr": "Armageddon"
+  },
+  "overview": {
+    "en": "When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn't good enough for his daughter, until the mission proves otherwise.",
+    "tr": "New York'a zarar veren ufak meteor parçalarından sonra NASA dünyaya hızla yaklaşmakta olan büyük bir meteor tespit eder. Teksas büyüklüğündeki bu meteoru zararsız hale getirmek için bir plan yapılır. Meteora ulaşılacak ve 250 metre derinlikte bir kazı yapılarak merkezine nükleer patlayıcı yerleştirilecektir. İşin başına konunun uzmanı Harry Stamper getirilir. Harry 10 gün gibi kısa bir zamanda astronotları eğitemeyeceğini söyler ve göreve kendi ekibini dahil eder. Plan başarılı olursa meteor ikiye ayrılacak ve dünyanın iki yanından, zarar vermeden geçip uzaklaşacaktır."
+  },
+  "poster": {
+    "tr": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",
+    "en": "/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg"
+  },
+  "backdrops": [
+    "/kh3KoeyQpzqScweErLqEmBjNDLr.jpg",
+    "/1cO6OQJxz7YhTZ4V1OlkYfebeJa.jpg",
+    "/8aiT2TYAGOI113WfA5gCL1S7eFm.jpg",
+    "/sODk4VuMTt8S56zYFOr1Kx8BFqu.jpg",
+    "/1IPAi26iNZCpODfpaQl5FVuOWvq.jpg",
+    "/cNbfn2nMdbXzblC9MUrVMgJSSCn.jpg",
+    "/dUVkqqs5wR52UBwdJa0LigGFl1z.jpg",
+    "/AyNvBrZzzDT9jdAES0izikmSKM.jpg",
+    "/4G9jDfoTqrXgWDdC9r1bNJHCjSA.jpg",
+    "/mNolUtAPmRx8kiqYqj2eLKHa3yH.jpg"
+  ],
+  "trailerKey": "pCWKG2HVqRE",
+  "genreIds": [
+    28,
+    878,
+    12
+  ],
+  "keywordIds": [
+    5600,
+    4776,
+    1826,
+    305,
+    521,
+    83,
+    843,
+    90,
+    1423,
+    1430,
+    1432,
+    697,
+    5096,
+    3366,
+    10150,
+    9882,
+    10617,
+    13027,
+    14626,
+    179431,
+    189411,
+    193552,
+    202371,
+    206692,
+    211487,
+    211659,
+    325778,
+    325783
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ru"
+  ],
+  "studios": [
+    "Touchstone Pictures",
+    "Jerry Bruckheimer Films",
+    "Valhalla Motion Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 865,
+      "job": "director"
+    },
+    {
+      "personId": 865,
+      "job": "producer"
+    },
+    {
+      "personId": 770,
+      "job": "producer"
+    },
+    {
+      "personId": 869,
+      "job": "producer"
+    },
+    {
+      "personId": 892,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 894,
+      "job": "composer"
+    },
+    {
+      "personId": 876,
+      "job": "writer"
+    },
+    {
+      "personId": 15344,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62,
+      "character": "Harry S. Stamper",
+      "order": 0
+    },
+    {
+      "personId": 879,
+      "character": "Dan Truman",
+      "order": 1
+    },
+    {
+      "personId": 880,
+      "character": "A.J. Frost",
+      "order": 2
+    },
+    {
+      "personId": 882,
+      "character": "Grace Stamper",
+      "order": 3
+    },
+    {
+      "personId": 883,
+      "character": "Chick",
+      "order": 4
+    },
+    {
+      "personId": 884,
+      "character": "Rockhound",
+      "order": 5
+    },
+    {
+      "personId": 886,
+      "character": "Willie Sharp",
+      "order": 6
+    },
+    {
+      "personId": 887,
+      "character": "Oscar",
+      "order": 7
+    },
+    {
+      "personId": 61981,
+      "character": "Bear",
+      "order": 8
+    },
+    {
+      "personId": 53,
+      "character": "Lev Andropov",
+      "order": 9
+    },
+    {
+      "personId": 236327,
+      "character": "Max",
+      "order": 10
+    },
+    {
+      "personId": 42707,
+      "character": "Jennifer Watts",
+      "order": 11
+    },
+    {
+      "personId": 65827,
+      "character": "General Kimsey",
+      "order": 12
+    },
+    {
+      "personId": 8191,
+      "character": "Flight Director Clark",
+      "order": 13
+    },
+    {
+      "personId": 11355,
+      "character": "Ronald Quincy",
+      "order": 14
+    },
+    {
+      "personId": 42373,
+      "character": "Gruber",
+      "order": 15
+    },
+    {
+      "personId": 230726,
+      "character": "Noonan",
+      "order": 16
+    },
+    {
+      "personId": 63941,
+      "character": "Colonel Davis",
+      "order": 17
+    },
+    {
+      "personId": 42731,
+      "character": "Co-Pilot Tucker",
+      "order": 18
+    },
+    {
+      "personId": 58950,
+      "character": "Halsey",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 8936,
+  "sources": [
+    "cult-list"
+  ]
+}

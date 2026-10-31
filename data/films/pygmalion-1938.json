@@ -1,0 +1,201 @@
+{
+  "tmdbId": 25016,
+  "slug": "pygmalion-1938",
+  "year": 1938,
+  "runtime": 96,
+  "originalTitle": "Pygmalion",
+  "title": {
+    "en": "Pygmalion",
+    "tr": "Çiçekci Kız - Bir Kadın Yarattım"
+  },
+  "overview": {
+    "en": "When linguistics professor Henry Higgins boasts that he can pass off Cockney flower girl Eliza Doolittle as a princess with only six months' training, Colonel George Pickering takes him up on the bet. Eliza moves into Higgins's home and begins her rigorous training after the professor comes to a financial agreement with her dustman father, Alfred. But the plucky young woman is not the only one undergoing a transformation.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dIrQHvgSEAfpaz3fBnrRpvo0e8u.jpg",
+    "en": "/26c1dsWsigwXmIR5n5zvitwj0Iu.jpg"
+  },
+  "backdrops": [
+    "/9R4Zmk9vDP2Lk0JNOaAw09LG3lU.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    622,
+    1992,
+    1822,
+    4375,
+    4262,
+    4834,
+    5535,
+    10181,
+    10508,
+    41355,
+    165282,
+    165290,
+    166233,
+    173661,
+    192311,
+    220453,
+    239089,
+    240237,
+    242660,
+    242661,
+    242662,
+    242663
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Gabriel Pascal Productions",
+    "J. Arthur Rank Organisation"
+  ],
+  "crew": [
+    {
+      "personId": 11493,
+      "job": "director"
+    },
+    {
+      "personId": 32919,
+      "job": "director"
+    },
+    {
+      "personId": 33085,
+      "job": "writer"
+    },
+    {
+      "personId": 10537,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 133237,
+      "job": "writer"
+    },
+    {
+      "personId": 101373,
+      "job": "producer"
+    },
+    {
+      "personId": 29725,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11493,
+      "character": "Henry Higgins",
+      "order": 0
+    },
+    {
+      "personId": 13325,
+      "character": "Eliza Doolittle",
+      "order": 1
+    },
+    {
+      "personId": 106154,
+      "character": "Alfred Doolittle",
+      "order": 2
+    },
+    {
+      "personId": 90644,
+      "character": "Mrs. Higgins",
+      "order": 3
+    },
+    {
+      "personId": 248150,
+      "character": "Colonel George Pickering",
+      "order": 4
+    },
+    {
+      "personId": 590276,
+      "character": "Mrs. Pearce",
+      "order": 5
+    },
+    {
+      "personId": 14152,
+      "character": "Freddy Eynsford-Hill",
+      "order": 6
+    },
+    {
+      "personId": 12730,
+      "character": "Mrs. Eynsford-Hill",
+      "order": 7
+    },
+    {
+      "personId": 133246,
+      "character": "Clara Eynsford-Hill",
+      "order": 8
+    },
+    {
+      "personId": 47668,
+      "character": "Count Aristid Karpathy",
+      "order": 9
+    },
+    {
+      "personId": 977958,
+      "character": "Ambassadress",
+      "order": 10
+    },
+    {
+      "personId": 144361,
+      "character": "Duchess",
+      "order": 11
+    },
+    {
+      "personId": 1043450,
+      "character": "Grand Old Lady",
+      "order": 12
+    },
+    {
+      "personId": 558276,
+      "character": "Mr. Birchwood",
+      "order": 13
+    },
+    {
+      "personId": 89209,
+      "character": "Sarcastic Bystander",
+      "order": 14
+    },
+    {
+      "personId": 589032,
+      "character": "First Policeman",
+      "order": 15
+    },
+    {
+      "personId": 975949,
+      "character": "Ysabel",
+      "order": 16
+    },
+    {
+      "personId": 1216912,
+      "character": "Perfide",
+      "order": 17
+    },
+    {
+      "personId": 46098,
+      "character": "A Lady",
+      "order": 18
+    },
+    {
+      "personId": 554381,
+      "character": "First Bystander",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 168,
+  "sources": [
+    "cult-list"
+  ]
+}

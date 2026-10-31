@@ -1,0 +1,178 @@
+{
+  "tmdbId": 26201,
+  "slug": "the-sea-hawk-1940",
+  "year": 1940,
+  "runtime": 127,
+  "originalTitle": "The Sea Hawk",
+  "title": {
+    "en": "The Sea Hawk",
+    "tr": "Deniz Şahini"
+  },
+  "overview": {
+    "en": "Dashing pirate Geoffrey Thorpe plunders Spanish ships for Queen Elizabeth I and falls in love with Dona Maria, a beautiful Spanish royal he captures.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/mBJhR84lKoScUPSUfC9mO4yEhjf.jpg",
+    "en": "/mBJhR84lKoScUPSUfC9mO4yEhjf.jpg"
+  },
+  "backdrops": [
+    "/lNwNk3ShY2KMir9FgRPLpIaOzH3.jpg",
+    "/ishvkb7T721yRDFEwkP5znQgbT5.jpg",
+    "/AvxUNwprlMlASwvOUSBs917hfkG.jpg",
+    "/w8hRbGbmeasxk7QHfPipSNixwq7.jpg",
+    "/dS6ucPCZmBlM7QApqHWheUmzOYo.jpg",
+    "/vwwDbn5Zh2NO3ksDjwaQSwSnujN.jpg"
+  ],
+  "trailerKey": "2RYcYg9YFqg",
+  "genreIds": [
+    12
+  ],
+  "keywordIds": [
+    7153,
+    9725,
+    12988,
+    157186,
+    160856,
+    208244,
+    290334
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 4109,
+      "job": "director"
+    },
+    {
+      "personId": 3428,
+      "job": "writer"
+    },
+    {
+      "personId": 67428,
+      "job": "writer"
+    },
+    {
+      "personId": 67429,
+      "job": "composer"
+    },
+    {
+      "personId": 8714,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8724,
+      "character": "Captain Geoffrey Thorpe",
+      "order": 0
+    },
+    {
+      "personId": 94850,
+      "character": "Doña Maria Alvarez de Cordoba",
+      "order": 1
+    },
+    {
+      "personId": 4113,
+      "character": "Don José Alvarez de Cordoba",
+      "order": 2
+    },
+    {
+      "personId": 8841,
+      "character": "Admiral Sir John Burleson",
+      "order": 3
+    },
+    {
+      "personId": 30126,
+      "character": "Queen Elizabeth",
+      "order": 4
+    },
+    {
+      "personId": 8729,
+      "character": "Carl Pitt",
+      "order": 5
+    },
+    {
+      "personId": 10924,
+      "character": "Lord Wolfingham",
+      "order": 6
+    },
+    {
+      "personId": 2929,
+      "character": "Miss Latham",
+      "order": 7
+    },
+    {
+      "personId": 82382,
+      "character": "Abbott",
+      "order": 8
+    },
+    {
+      "personId": 29273,
+      "character": "Capt. Lopez",
+      "order": 9
+    },
+    {
+      "personId": 18805,
+      "character": "Danny Logan",
+      "order": 10
+    },
+    {
+      "personId": 92907,
+      "character": "King Philip II",
+      "order": 11
+    },
+    {
+      "personId": 588668,
+      "character": "Oliver Scott",
+      "order": 12
+    },
+    {
+      "personId": 95623,
+      "character": "Martin Burke",
+      "order": 13
+    },
+    {
+      "personId": 98445,
+      "character": "William Tuttle",
+      "order": 14
+    },
+    {
+      "personId": 13557,
+      "character": "Walter Boggs",
+      "order": 15
+    },
+    {
+      "personId": 103176,
+      "character": "Inquisitor",
+      "order": 16
+    },
+    {
+      "personId": 543546,
+      "character": "Monty Preston",
+      "order": 17
+    },
+    {
+      "personId": 102327,
+      "character": "Kroner",
+      "order": 18
+    },
+    {
+      "personId": 103493,
+      "character": "Capt. Mendoza",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 167,
+  "sources": [
+    "cult-list"
+  ]
+}

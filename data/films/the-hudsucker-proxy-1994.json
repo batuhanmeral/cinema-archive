@@ -1,0 +1,209 @@
+{
+  "tmdbId": 11934,
+  "slug": "the-hudsucker-proxy-1994",
+  "year": 1994,
+  "runtime": 111,
+  "originalTitle": "The Hudsucker Proxy",
+  "title": {
+    "en": "The Hudsucker Proxy",
+    "tr": "Bir Şirket Komedisi"
+  },
+  "overview": {
+    "en": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+    "tr": "Pek zeki sayılmayacak taşralı genç Norville Barnes'ın kafasında çocuklar için ideal olduğunu düşündüğü bir oyuncak projesi vardır. Bunu gerçek yapabilme hayalleri içinde büyük şehire gelir ve en alttan işe koyulur: devasa bir şirket olan Hudsucker Industries'de memur olarak çalışmaya başlar. Bunlar olurken şirket yönetim kurulu, başkan Waring Hudsucker'ın trajikomik intiharı ile sarsılır. Gücü ele geçirme fırsatını kaçırmak istemeyen müdürlerden Sidney Mussberger, kendisine projesini anlatmaya gelen Barnes'ın naifliğinden yararlanmaya çalışır ve bir aptalı yönetim kurulu başkanlığına getirerek şirketi parmağında oynatabileceğini düşünür. Oysa Barnes'ın çılgın projesi basit bir hulahoptan başka bir şey değildir ama beklenmedik başarısı işleri karmakarışık edecektir."
+  },
+  "poster": {
+    "tr": "/xBQBr6Q1OTivouBK66oFgy86n03.jpg",
+    "en": "/bp5Kg9iT9oSXsECgDkNJVqvIrxX.jpg"
+  },
+  "backdrops": [
+    "/c43BxV3gM685ZDy2Tq7zAUMwFN7.jpg",
+    "/gXo423uIRgBOsfQrrqJfVVcySif.jpg",
+    "/i5i5kO8rUYdavebZ6dtH94rNfjl.jpg",
+    "/kVR7pDbyoiGMAT0juhuPD342wM5.jpg",
+    "/tYcuccasqhrc2g6G87UWQNmPMZ0.jpg",
+    "/isWd6lwWYwrwkvzGnJF52zxWynB.jpg",
+    "/xHQ6o2NtKt00qAuHtsZU3p34KG0.jpg",
+    "/u6tkBBb6qOFQdtwuDX8DGMx9nek.jpg",
+    "/s7W5RnRLJGsbBmCC463Wf4KbTTE.jpg",
+    "/4nPThwdVmUsQSBqhvIdhb5O7mge.jpg"
+  ],
+  "trailerKey": "2o5yi6hFg4Q",
+  "genreIds": [
+    35,
+    18,
+    14
+  ],
+  "keywordIds": [
+    613,
+    242,
+    736,
+    236,
+    4812,
+    417,
+    1568,
+    1436,
+    5306,
+    5340,
+    6133,
+    10594,
+    155457,
+    203525,
+    203528,
+    208611,
+    220219
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "PolyGram Filmed Entertainment",
+    "Silver Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1223,
+      "job": "director"
+    },
+    {
+      "personId": 1224,
+      "job": "producer"
+    },
+    {
+      "personId": 151,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7623,
+      "job": "writer"
+    },
+    {
+      "personId": 1225,
+      "job": "composer"
+    },
+    {
+      "personId": 1224,
+      "job": "writer"
+    },
+    {
+      "personId": 1223,
+      "job": "writer"
+    },
+    {
+      "personId": 1224,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 504,
+      "character": "Norville Barnes",
+      "order": 0
+    },
+    {
+      "personId": 10431,
+      "character": "Amy Archer",
+      "order": 1
+    },
+    {
+      "personId": 3636,
+      "character": "Sidney J. Mussburger",
+      "order": 2
+    },
+    {
+      "personId": 1466,
+      "character": "Waring Hudsucker",
+      "order": 3
+    },
+    {
+      "personId": 108717,
+      "character": "Buzz",
+      "order": 4
+    },
+    {
+      "personId": 4251,
+      "character": "Chief",
+      "order": 5
+    },
+    {
+      "personId": 8854,
+      "character": "Moses",
+      "order": 6
+    },
+    {
+      "personId": 11357,
+      "character": "Smitty",
+      "order": 7
+    },
+    {
+      "personId": 4510,
+      "character": "Aloysius",
+      "order": 8
+    },
+    {
+      "personId": 168648,
+      "character": "Benny",
+      "order": 9
+    },
+    {
+      "personId": 4887,
+      "character": "Lou",
+      "order": 10
+    },
+    {
+      "personId": 12888,
+      "character": "Board Member",
+      "order": 11
+    },
+    {
+      "personId": 4257,
+      "character": "Board Member (Myron Addison)",
+      "order": 12
+    },
+    {
+      "personId": 1527344,
+      "character": "Board Member",
+      "order": 13
+    },
+    {
+      "personId": 192660,
+      "character": "Board Member",
+      "order": 14
+    },
+    {
+      "personId": 3367586,
+      "character": "Board Member",
+      "order": 15
+    },
+    {
+      "personId": 129665,
+      "character": "Board Member",
+      "order": 16
+    },
+    {
+      "personId": 5172,
+      "character": "Board Member",
+      "order": 17
+    },
+    {
+      "personId": 3820276,
+      "character": "Board Member",
+      "order": 18
+    },
+    {
+      "personId": 9294,
+      "character": "Dr. Hugo Bronfenbrenner",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1253,
+  "sources": [
+    "cult-list"
+  ]
+}

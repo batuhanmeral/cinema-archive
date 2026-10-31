@@ -1,0 +1,201 @@
+{
+  "tmdbId": 14675,
+  "slug": "the-awful-truth-1937",
+  "year": 1937,
+  "runtime": 91,
+  "originalTitle": "The Awful Truth",
+  "title": {
+    "en": "The Awful Truth",
+    "tr": "Müthiş Gerçek"
+  },
+  "overview": {
+    "en": "Unfounded suspicions lead a married couple to begin divorce proceedings, whereupon they start undermining each other's attempts to find new romance.",
+    "tr": "Jerry ve Lucy Warriner çifti çılgın, serserice bir yüksek sosyete hayatı sürdürmektedirler. Çok mutlu olmalarına rağmen, birbirlerinin sadakatinden şüphe etmeye başlarlar. Sonunda boşanmaya karar verirler. Lucy köpeklerinin velayetini almaya hak kazanır ama Jerry’nin köpeği ziyaret etme hakkı vardır. Boşanmaları henüz sonuçlanmadan ikisi de başka insanlarla yeni ilişkilere başlarlar. Lucy Oklahomalı petrol zengini ama sıkıcı, annesiyle birlikte seyahat etmekte olan Dan Leeson ile tanışır. Jerry sosyeteye yeni girmiş, bir mirasın varisi olan Barbara Vance’a kur yapmaktadır. Jerry ve Lucy birbirlerinin planlarını bozmaya çalışmaktadır ve bu durum oldukça komik sonuçlar doğurur."
+  },
+  "poster": {
+    "tr": "/2VtsJoxvjpcMpwh0gweS8IMfHxO.jpg",
+    "en": "/2VtsJoxvjpcMpwh0gweS8IMfHxO.jpg"
+  },
+  "backdrops": [
+    "/zCrpH2cAjYJnPNjSv1QYPYVDLKV.jpg",
+    "/hkYHYp6IrVbDE39ffoGofTIsVj5.jpg",
+    "/908jIXTs96bFW3JLiiCYCFQ9Ibv.jpg",
+    "/aXdUWHkhFkkdkqMc7ARXsLI2Wna.jpg",
+    "/oZbNIskUsF74YIoJDfpWbnZCDIZ.jpg",
+    "/tIldQmLWR9oZXDgxkogXmq8Cvt2.jpg",
+    "/yzohVsDPiPRN5OpSAyfnzp4qsGR.jpg",
+    "/1GmMxmrciVhnIp4z1V53BfCcqnI.jpg",
+    "/3LhnOr9Yh1fCyDbrDxKJsR5zNvs.jpg",
+    "/7vEt4yNJzhmCJhH22t1RgKrHz7m.jpg"
+  ],
+  "trailerKey": "FeRYj5IeBug",
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    1157,
+    213,
+    12335,
+    9799,
+    6894,
+    10226,
+    12541,
+    15160,
+    15162,
+    41185,
+    155457,
+    173297,
+    181050,
+    231374,
+    239072,
+    239145,
+    256330,
+    308448,
+    312949,
+    324123,
+    324429
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "fr",
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 30008,
+      "job": "director"
+    },
+    {
+      "personId": 125363,
+      "job": "writer"
+    },
+    {
+      "personId": 17761,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30008,
+      "job": "producer"
+    },
+    {
+      "personId": 34173,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 77158,
+      "character": "Lucy Warriner",
+      "order": 0
+    },
+    {
+      "personId": 2638,
+      "character": "Jerry Warriner",
+      "order": 1
+    },
+    {
+      "personId": 1208,
+      "character": "Dan Leeson",
+      "order": 2
+    },
+    {
+      "personId": 77159,
+      "character": "Armand Duvalle",
+      "order": 3
+    },
+    {
+      "personId": 77160,
+      "character": "Aunt Patsy",
+      "order": 4
+    },
+    {
+      "personId": 90377,
+      "character": "Barbara Vance",
+      "order": 5
+    },
+    {
+      "personId": 34268,
+      "character": "Mrs. Leeson",
+      "order": 6
+    },
+    {
+      "personId": 89725,
+      "character": "Dixie Belle Lee",
+      "order": 7
+    },
+    {
+      "personId": 96741,
+      "character": "Frank Randall",
+      "order": 8
+    },
+    {
+      "personId": 33007,
+      "character": "Mr. Vance",
+      "order": 9
+    },
+    {
+      "personId": 81941,
+      "character": "Mrs. Vance",
+      "order": 10
+    },
+    {
+      "personId": 117697,
+      "character": "Lord Fabian (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 120785,
+      "character": "Motor Cop (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1240252,
+      "character": "Motor Cop (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 976964,
+      "character": "Mrs. Barnsley (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 85957,
+      "character": "Lucy's Attorney's Wife (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 121323,
+      "character": "Viola Heath (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 975856,
+      "character": "Jerry's Attorney (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 99378,
+      "character": "Vance's Butler (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2012,
+      "character": "Mr. Barnsley (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 379,
+  "sources": [
+    "cult-list"
+  ]
+}

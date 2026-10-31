@@ -1,0 +1,210 @@
+{
+  "tmdbId": 7459,
+  "slug": "speed-racer-2008",
+  "year": 2008,
+  "runtime": 135,
+  "originalTitle": "Speed Racer",
+  "title": {
+    "en": "Speed Racer",
+    "tr": "Hızlı Yarışcı"
+  },
+  "overview": {
+    "en": "Speed Racer is a young and brilliant racing driver. When corruption in the racing leagues costs his brother his life, Speed must team up with the police and the mysterious Racer X to bring an end to the corruption and criminal activities.",
+    "tr": "Pistte fırtına gibi giden, yarış öncesinde, sırasında ve sonrasında toz attıran Speed Racer, direksiyon başında doğal bir yetenektir. Yarış arabalarının içinde doğan Speed, saldırgan, içgüdüleriyle hareket eden, korkusuz biridir. Tek gerçek rakibi, idol olarak gördüğü ağabeyinin anısıdır. Speed efsanevi bir yarışçı olan ağabeyi Rex Racer’ın bir yarış sırasında ölümünün ardından kalan boşluğu doldurmak istemektedir.Ailesinin ve kız arkadaşının desteğiyle, Speed bir zamanlar rakibi olan gizemli Racer X’le işbirliği yapar. Amacı, ağabeyinin canını alan, ölüme meydan okuyan, “Crucible” adlı cross-country rallisini kazanmaktır."
+  },
+  "poster": {
+    "tr": "/dYDxwz6cNct2T0QVrBgqOzepwRQ.jpg",
+    "en": "/x800OyHuJ9JDuhHLtdPLkH1vBjw.jpg"
+  },
+  "backdrops": [
+    "/kH14XvCHKfMRz1sNsAMY0KpAKb0.jpg",
+    "/tE6q22ALq8ESBLM4K9qv9xfXvFn.jpg",
+    "/4CLeg52cRU2hBZk2O6bvsAf57sD.jpg",
+    "/4lXZkIp40nwcxEYhrCCGjs0qUXw.jpg",
+    "/vX2yfqVqw6mgafFhieyKdBU6srj.jpg",
+    "/9sv72zLn2gRK7M5kUUB8lCRMHJ0.jpg",
+    "/tkXqkgtg8mhW1raTWWJ9ugd6ng8.jpg",
+    "/o17ow23s4tOPMAf9QglQsjIylCL.jpg",
+    "/gmajPEDdGycl5RF7cnAus84f8LL.jpg",
+    "/AisTvcsM1tpQRhR59PUq6t2HNM5.jpg"
+  ],
+  "trailerKey": "M_RpBi3W1Eo",
+  "genreIds": [
+    10751,
+    28,
+    12,
+    35
+  ],
+  "keywordIds": [
+    830,
+    697,
+    2552,
+    18035,
+    179431,
+    187056,
+    245230,
+    269769,
+    309974,
+    324713,
+    325810,
+    325855
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Village Roadshow Pictures",
+    "Silver Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 9340,
+      "job": "writer"
+    },
+    {
+      "personId": 15347,
+      "job": "composer"
+    },
+    {
+      "personId": 8528,
+      "job": "producer"
+    },
+    {
+      "personId": 9340,
+      "job": "director"
+    },
+    {
+      "personId": 9339,
+      "job": "writer"
+    },
+    {
+      "personId": 9340,
+      "job": "producer"
+    },
+    {
+      "personId": 9339,
+      "job": "director"
+    },
+    {
+      "personId": 9339,
+      "job": "producer"
+    },
+    {
+      "personId": 1091,
+      "job": "producer"
+    },
+    {
+      "personId": 6800,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 46593,
+      "character": "Speed",
+      "order": 0
+    },
+    {
+      "personId": 6886,
+      "character": "Trixie",
+      "order": 1
+    },
+    {
+      "personId": 1230,
+      "character": "Pops",
+      "order": 2
+    },
+    {
+      "personId": 4038,
+      "character": "Mom",
+      "order": 3
+    },
+    {
+      "personId": 28657,
+      "character": "Racer X",
+      "order": 4
+    },
+    {
+      "personId": 11279,
+      "character": "Royalton",
+      "order": 5
+    },
+    {
+      "personId": 1611576,
+      "character": "Spritle",
+      "order": 6
+    },
+    {
+      "personId": 11953,
+      "character": "Inspector Detector",
+      "order": 7
+    },
+    {
+      "personId": 9195,
+      "character": "Mr. Musha",
+      "order": 8
+    },
+    {
+      "personId": 112013,
+      "character": "Taejo Togokahn",
+      "order": 9
+    },
+    {
+      "personId": 6487,
+      "character": "Ben Burns",
+      "order": 10
+    },
+    {
+      "personId": 93111,
+      "character": "Sparky",
+      "order": 11
+    },
+    {
+      "personId": 42642,
+      "character": "Cruncher Block",
+      "order": 12
+    },
+    {
+      "personId": 114034,
+      "character": "Snake Oiler",
+      "order": 13
+    },
+    {
+      "personId": 1856,
+      "character": "Cannonball Taylor",
+      "order": 14
+    },
+    {
+      "personId": 53368,
+      "character": "Rex",
+      "order": 15
+    },
+    {
+      "personId": 27084,
+      "character": "Horuko",
+      "order": 16
+    },
+    {
+      "personId": 1050936,
+      "character": "Minx",
+      "order": 17
+    },
+    {
+      "personId": 26100,
+      "character": "Johnny 'Goodboy' Jones",
+      "order": 18
+    },
+    {
+      "personId": 178622,
+      "character": "Casa Christo Announcer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1879,
+  "sources": [
+    "cult-list"
+  ]
+}

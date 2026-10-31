@@ -1,0 +1,87 @@
+{
+  "tmdbId": 47658,
+  "slug": "this-filthy-world-2006",
+  "year": 2006,
+  "runtime": 86,
+  "originalTitle": "This Filthy World",
+  "title": {
+    "en": "This Filthy World",
+    "tr": "This Filthy World"
+  },
+  "overview": {
+    "en": "In this filmed version of cult film director John Waters' popular one-man show, the Pink Flamingos and A Dirty Shame director takes the stage to discuss everything from his early influences, fondest career memories, and notorious struggles against the MPAA rating system. Part endearing memoir and part hilarious lecture, This Filthy World touches on everything from the insanity of contemporary pop culture to the director's unforgettable early collaborations with inimitable Pink Flamingos star Divine.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/eQS4FYQ5ba5urrcLGUEyP7P6ljB.jpg",
+    "en": "/sYimLBSBzSVoPjXNFmv66Ml2UfI.jpg"
+  },
+  "backdrops": [
+    "/k5bAZUer22aXtlZfhjpXNTuzAYB.jpg"
+  ],
+  "trailerKey": "5ECWd_YXjtQ",
+  "genreIds": [
+    99,
+    35
+  ],
+  "keywordIds": [
+    824,
+    11316,
+    11634,
+    158718,
+    220192,
+    222228
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Cinemavault",
+    "Filthy World"
+  ],
+  "crew": [
+    {
+      "personId": 60074,
+      "job": "director"
+    },
+    {
+      "personId": 554925,
+      "job": "composer"
+    },
+    {
+      "personId": 10367,
+      "job": "writer"
+    },
+    {
+      "personId": 554927,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 554926,
+      "job": "composer"
+    },
+    {
+      "personId": 555668,
+      "job": "producer"
+    },
+    {
+      "personId": 60074,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10367,
+      "character": "Self",
+      "order": 0
+    }
+  ],
+  "awards": {},
+  "voteCount": 48,
+  "sources": [
+    "cult-list"
+  ]
+}

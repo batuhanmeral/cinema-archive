@@ -1,0 +1,197 @@
+{
+  "tmdbId": 1892,
+  "slug": "return-of-the-jedi-1983",
+  "year": 1983,
+  "runtime": 132,
+  "originalTitle": "Return of the Jedi",
+  "title": {
+    "en": "Return of the Jedi",
+    "tr": "Yıldız Savaşları: Jedi'nin Dönüşü"
+  },
+  "overview": {
+    "en": "Luke Skywalker leads a mission to rescue his friend Han Solo from the clutches of Jabba the Hutt, the Emperor prepares to crush the Rebellion with a more powerful Death Star, and the Rebel fleet mounts a massive attack on the space station. Luke Skywalker confronts Darth Vader in a final climactic duel before the evil Emperor.",
+    "tr": "Yıldız Savaşları: Jedi'nin Dönüşü'nde İmparatorluk, çok daha güçlü bir Ölüm Yıldızı ile Asileri vurmaya hazırlanırken Asi donanması da uzay istasyonuna büyük bir saldırı düzenler. Luke Skywalker, İmparator'dan önce Darth Vader ile son ve büyük bir düelloya tutuşur."
+  },
+  "poster": {
+    "tr": "/jxtM1EwUO5GuucY6MqGR9r17AYN.jpg",
+    "en": "/xxCnFmRZ83jHTZsBiceG4IBUGoq.jpg"
+  },
+  "backdrops": [
+    "/ziECpBRIyclmBNaFSWlvCfsKbMD.jpg",
+    "/iP2tEA2A77qhbhRfcFkiD6WFOqH.jpg",
+    "/soJdiy91Mcyj29GzEgZ5svFcuZg.jpg",
+    "/r2IOBOeg5wLfLtyOnT5Pur6Tl4q.jpg",
+    "/8vG0vicedQKdmpNggqyHgYH8T0t.jpg",
+    "/zgLadRY6f8Ydgf9sKpiq3tPYBUM.jpg",
+    "/emBl8L1h3lP39XmLBmegVElqsDF.jpg",
+    "/shGL2I5kHezQI2z6Zuan4PAQn5k.jpg",
+    "/qQQ1hV1t4XwSL15FaN8npNood4K.jpg",
+    "/kXi613lOSTzZIlR9p05Zoj9TO0Z.jpg"
+  ],
+  "trailerKey": "MAW1E3JIQZE",
+  "genreIds": [
+    12,
+    28,
+    878
+  ],
+  "keywordIds": [
+    1612,
+    380,
+    526,
+    2280,
+    2902,
+    5144,
+    5774,
+    9663,
+    18034,
+    161176,
+    325778,
+    371623
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Lucasfilm Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 8844,
+      "job": "writer"
+    },
+    {
+      "personId": 19800,
+      "job": "director"
+    },
+    {
+      "personId": 1,
+      "job": "writer"
+    },
+    {
+      "personId": 665,
+      "job": "producer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 10668,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8934,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2,
+      "character": "Luke Skywalker",
+      "order": 0
+    },
+    {
+      "personId": 3,
+      "character": "Han Solo",
+      "order": 1
+    },
+    {
+      "personId": 4,
+      "character": "Princess Leia",
+      "order": 2
+    },
+    {
+      "personId": 3799,
+      "character": "Lando Calrissian",
+      "order": 3
+    },
+    {
+      "personId": 6,
+      "character": "C-3PO",
+      "order": 4
+    },
+    {
+      "personId": 24343,
+      "character": "Chewbacca",
+      "order": 5
+    },
+    {
+      "personId": 28235,
+      "character": "Anakin Skywalker",
+      "order": 6
+    },
+    {
+      "personId": 27762,
+      "character": "The Emperor",
+      "order": 7
+    },
+    {
+      "personId": 7908,
+      "character": "Yoda (voice)",
+      "order": 8
+    },
+    {
+      "personId": 15152,
+      "character": "Darth Vader (voice)",
+      "order": 9
+    },
+    {
+      "personId": 24342,
+      "character": "Darth Vader",
+      "order": 10
+    },
+    {
+      "personId": 12248,
+      "character": "Ben 'Obi-Wan' Kenobi",
+      "order": 11
+    },
+    {
+      "personId": 130,
+      "character": "R2-D2 / Paploo",
+      "order": 12
+    },
+    {
+      "personId": 1230989,
+      "character": "Moff Jerjerrod",
+      "order": 13
+    },
+    {
+      "personId": 10734,
+      "character": "Admiral Piett",
+      "order": 14
+    },
+    {
+      "personId": 199055,
+      "character": "Bib Fortuna",
+      "order": 15
+    },
+    {
+      "personId": 47698,
+      "character": "Wedge",
+      "order": 16
+    },
+    {
+      "personId": 114761,
+      "character": "Admiral Ackbar",
+      "order": 17
+    },
+    {
+      "personId": 17484,
+      "character": "General Madine",
+      "order": 18
+    },
+    {
+      "personId": 37442,
+      "character": "Mon Mothma",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 17495,
+  "sources": [
+    "cult-list"
+  ]
+}

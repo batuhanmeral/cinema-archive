@@ -1,0 +1,214 @@
+{
+  "tmdbId": 935,
+  "slug": "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb-1964",
+  "year": 1964,
+  "runtime": 95,
+  "originalTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+  "title": {
+    "en": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "tr": "Dr. Garipaşk"
+  },
+  "overview": {
+    "en": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop it.",
+    "tr": "Soğuk Savaş döneminde Ruslara saldırmak için bahane aramakta olan çılgın general Jack D. Ripper, Rusların 'Amerikan halkının vücut sıvılarını kirlettiği' gerekçesiyle SSCB'ye sürpriz bir nükleer saldırı yapmaya karar verir. Nükleer silahlarla yüklü bir Amerikan uçağı Rus sınırına yakın bir bölgede Soğuk Savaş döneminin tipik devriye uçuşlarından birini yapmaktayken mürettebat Ripper'dan SSCB'ye saldırı emrini alır. Fakat Rus büyükelçisi DeSadesky, Amerikan makamlarına Rus savunma teknolojisinin geldiği son noktanın ürünü olan 'Doomsday Device'dan bahsettiğinde ve başkanın danışmanlarından eski Nazi bilimadamı Dr. Strangelove, buluşun olduğunu doğruladığında durum daha da tehlikeli bir hal alır. 'Doomsday Device', SSCB'ye yapılacak herhangi bir nükleer saldırıda dünyadaki tüm canlıların yok olmasına sebep olacak bir silahtır."
+  },
+  "poster": {
+    "tr": "/4h6LkHGFW8PgAOimwUquly6UdNn.jpg",
+    "en": "/gHm96BRW4GoI339rF1vYoYTB6Qe.jpg"
+  },
+  "backdrops": [
+    "/sTp8K0SfcC2RQef1Tu160z3niHO.jpg",
+    "/7i0L2ee4Iy0aXV6vR5u1ZmblOrx.jpg",
+    "/4LmNLvXP5SZ5TrZEkNhC7dbjUNV.jpg",
+    "/AezAkLbfBM6IvsJQYzUuPleg8QS.jpg",
+    "/ucNViai3c1g1C48iU4QN59svRV5.jpg",
+    "/dqmujMrdDn6LFkODiDlc5iJBf5p.jpg",
+    "/cMzbxUoUwXEWDKhz3JGrWfnOlE2.jpg",
+    "/7SuN5Oaq3sKKr05wVeUGlv9LZEg.jpg",
+    "/wLjiLmBzZlbjn2VfMLpxDK6FvkZ.jpg",
+    "/vZVpzfSnqt053u4oYKwg2MNOi52.jpg"
+  ],
+  "trailerKey": "XjLsIWZdWmc",
+  "genreIds": [
+    35,
+    10752
+  ],
+  "keywordIds": [
+    840,
+    1402,
+    2106,
+    2531,
+    10123,
+    3312,
+    8201,
+    12999,
+    33424,
+    160370,
+    160377,
+    160381,
+    160387,
+    165431,
+    194825,
+    214655,
+    225012,
+    320420,
+    325773,
+    325815,
+    325846,
+    364573
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Hawk Films",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 240,
+      "job": "writer"
+    },
+    {
+      "personId": 7753,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 240,
+      "job": "producer"
+    },
+    {
+      "personId": 14252,
+      "job": "composer"
+    },
+    {
+      "personId": 8950,
+      "job": "writer"
+    },
+    {
+      "personId": 257,
+      "job": "producer"
+    },
+    {
+      "personId": 14250,
+      "job": "writer"
+    },
+    {
+      "personId": 240,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12446,
+      "character": "Group Capt. Lionel Mandrake / President Merkin Muffley / Dr. Strangelove",
+      "order": 0
+    },
+    {
+      "personId": 862,
+      "character": "General 'Buck' Turgidson",
+      "order": 1
+    },
+    {
+      "personId": 3088,
+      "character": "Brigadier General Jack D. Ripper",
+      "order": 2
+    },
+    {
+      "personId": 4966,
+      "character": "Colonel Bat Guano",
+      "order": 3
+    },
+    {
+      "personId": 14253,
+      "character": "Major \"King\" Kong",
+      "order": 4
+    },
+    {
+      "personId": 6600,
+      "character": "Botschafter De Sadesky",
+      "order": 5
+    },
+    {
+      "personId": 15152,
+      "character": "Lt. Lothar Zogg",
+      "order": 6
+    },
+    {
+      "personId": 126354,
+      "character": "Miss Scott",
+      "order": 7
+    },
+    {
+      "personId": 12485,
+      "character": "Mr. Staines",
+      "order": 8
+    },
+    {
+      "personId": 1332529,
+      "character": "Lt. Dietrich",
+      "order": 9
+    },
+    {
+      "personId": 1236452,
+      "character": "Adm. Randolph",
+      "order": 10
+    },
+    {
+      "personId": 948173,
+      "character": "Lt. Kivel",
+      "order": 11
+    },
+    {
+      "personId": 1332531,
+      "character": "Frank",
+      "order": 12
+    },
+    {
+      "personId": 10657,
+      "character": "Capt. 'Ace' Owens",
+      "order": 13
+    },
+    {
+      "personId": 186212,
+      "character": "Burpelson AFB Defense Team Member",
+      "order": 14
+    },
+    {
+      "personId": 185044,
+      "character": "Lt. Goldberg",
+      "order": 15
+    },
+    {
+      "personId": 1332532,
+      "character": "Burpelson AFB Defense Team Member",
+      "order": 16
+    },
+    {
+      "personId": 1063405,
+      "character": "Burpelson AFB Defense Team Member",
+      "order": 17
+    },
+    {
+      "personId": 117301,
+      "character": "Gen. Faceman",
+      "order": 18
+    },
+    {
+      "personId": 184980,
+      "character": "Mandrake' aide (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "bafta": 3
+  },
+  "voteCount": 6446,
+  "sources": [
+    "cult-list"
+  ]
+}

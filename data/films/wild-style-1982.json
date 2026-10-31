@@ -1,0 +1,178 @@
+{
+  "tmdbId": 14243,
+  "slug": "wild-style-1982",
+  "year": 1982,
+  "runtime": 82,
+  "originalTitle": "Wild Style",
+  "title": {
+    "en": "Wild Style",
+    "tr": "Wild Style"
+  },
+  "overview": {
+    "en": "Legendary New York graffiti artist Lee Quinones plays the part of Zoro, the city's hottest and most elusive graffiti writer. The actual story of the movie concerns the tension between Zoro's passion for his art and his personal life, particularly his strained relationship with fellow artist Rose.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/bhlf38aasEZjgdWQOzXwMhaOvGU.jpg",
+    "en": "/bhlf38aasEZjgdWQOzXwMhaOvGU.jpg"
+  },
+  "backdrops": [
+    "/rVSMDp4LvwaUuys5EvAsyC2wBJR.jpg",
+    "/8fMzZHEgWTWdJQb1KV376TTWoOU.jpg",
+    "/3Pmz0scbdjWYgWA7b8IbkVYcSSe.jpg"
+  ],
+  "trailerKey": "iq96MJpFrsA",
+  "genreIds": [
+    18,
+    10402
+  ],
+  "keywordIds": [
+    2815
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Wild Style"
+  ],
+  "crew": [
+    {
+      "personId": 1048452,
+      "job": "director"
+    },
+    {
+      "personId": 1048452,
+      "job": "writer"
+    },
+    {
+      "personId": 1609422,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1985221,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1048452,
+      "job": "producer"
+    },
+    {
+      "personId": 936885,
+      "job": "composer"
+    },
+    {
+      "personId": 240799,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1652668,
+      "character": "Raymond \"Zoro\"",
+      "order": 0
+    },
+    {
+      "personId": 1654468,
+      "character": "Rose \"Lady Bug\"",
+      "order": 1
+    },
+    {
+      "personId": 240799,
+      "character": "\"Phade\"",
+      "order": 2
+    },
+    {
+      "personId": 82757,
+      "character": "Virginia",
+      "order": 3
+    },
+    {
+      "personId": 1442426,
+      "character": "Z-Roc",
+      "order": 4
+    },
+    {
+      "personId": 1343597,
+      "character": "Chief Rocker",
+      "order": 5
+    },
+    {
+      "personId": 3741593,
+      "character": "Hector",
+      "order": 6
+    },
+    {
+      "personId": 3741594,
+      "character": "Chico",
+      "order": 7
+    },
+    {
+      "personId": 3741595,
+      "character": "Niva",
+      "order": 8
+    },
+    {
+      "personId": 1319315,
+      "character": "Museum Curator",
+      "order": 9
+    },
+    {
+      "personId": 3741596,
+      "character": "Union Crew",
+      "order": 10
+    },
+    {
+      "personId": 2343336,
+      "character": "Union Crew",
+      "order": 11
+    },
+    {
+      "personId": 3741600,
+      "character": "Union Crew",
+      "order": 12
+    },
+    {
+      "personId": 3741602,
+      "character": "Union Crew",
+      "order": 13
+    },
+    {
+      "personId": 3741607,
+      "character": "Fly Girl",
+      "order": 14
+    },
+    {
+      "personId": 3741608,
+      "character": "Fly Girl",
+      "order": 15
+    },
+    {
+      "personId": 3741609,
+      "character": "Fly Girl",
+      "order": 16
+    },
+    {
+      "personId": 3741610,
+      "character": "Fly Girl",
+      "order": 17
+    },
+    {
+      "personId": 3741611,
+      "character": "Fly Girl",
+      "order": 18
+    },
+    {
+      "personId": 3741612,
+      "character": "Street Kid / Electric Force",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 62,
+  "sources": [
+    "cult-list"
+  ]
+}

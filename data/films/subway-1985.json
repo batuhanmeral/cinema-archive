@@ -1,0 +1,208 @@
+{
+  "tmdbId": 10656,
+  "slug": "subway-1985",
+  "year": 1985,
+  "runtime": 104,
+  "originalTitle": "Subway",
+  "title": {
+    "en": "Subway",
+    "tr": "Yeraltı"
+  },
+  "overview": {
+    "en": "Fred, a raffish safe blower, takes refuge in the Paris Metro after being chased by the henchmen of a shady businessman from whom he has just stolen some documents. While hiding out in the back rooms and conduits of the Metro, Fred encounters a subterranean society of eccentric characters and petty criminals.",
+    "tr": "Lambert, yeni soyduğu milyonerin sıkılmış ve güzel eşine aşık olan bir hipster hırsızı canlandırıyor. Kadın çalınan belgelerini geri istiyor, o ise onun kalbini kazanmaya çalışıyor. Çeteler ve metro polisinin peşlerinde olduğu bu kaçışta, ikili metro altındaki vahşi labirentte sığınak arar ve bu yeraltı dünyasında yaşayan Jean Reno (Mission: Impossible, Godzilla) gibi tuhaf karakterlerle bir araya gelir. Sonuç, hiç yavaşlamayan, komik ve hareketli bir macera olur."
+  },
+  "poster": {
+    "tr": "/d6hhRYOVS4eK4jUv3cDPnRB1FGI.jpg",
+    "en": "/5EOFUWs0ImeyiRUtFpbHuGGTNUx.jpg"
+  },
+  "backdrops": [
+    "/6rU0esULUJyEukYD2mtpUunORag.jpg",
+    "/qvLaS8Vs00EOwIeKcTCA0zjliMW.jpg",
+    "/oJuxVwei4MEWr6NJZFKWvzm6u6r.jpg",
+    "/pIvvJwseDK32kxeC8CpaRgS0FFU.jpg",
+    "/3s7algeJbKGpcXAsmU8pxopPQJt.jpg",
+    "/ejCBZKbnaZHbNvPT6nGNltPguyM.jpg",
+    "/5kqqJrn9ejocqZ6DrSFr44aQMHl.jpg",
+    "/avtQdiXAZK81CLpREYvY5iCuWaT.jpg",
+    "/oTutUXbsGaJbdg3210Jmdxv1FKP.jpg",
+    "/64V0ZUKJBOxeJlcVBqFvgghPMpj.jpg"
+  ],
+  "trailerKey": "UdpLg2NHIco",
+  "genreIds": [
+    28,
+    53
+  ],
+  "keywordIds": [
+    1761,
+    90,
+    1463,
+    1936,
+    1552,
+    15009,
+    156037,
+    173919
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Gaumont",
+    "Les Films du Loup",
+    "TSF Productions"
+  ],
+  "crew": [
+    {
+      "personId": 59,
+      "job": "director"
+    },
+    {
+      "personId": 66078,
+      "job": "producer"
+    },
+    {
+      "personId": 59,
+      "job": "producer"
+    },
+    {
+      "personId": 996,
+      "job": "composer"
+    },
+    {
+      "personId": 2160,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 59,
+      "job": "writer"
+    },
+    {
+      "personId": 1074298,
+      "job": "writer"
+    },
+    {
+      "personId": 21504,
+      "job": "writer"
+    },
+    {
+      "personId": 1286154,
+      "job": "writer"
+    },
+    {
+      "personId": 2800,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6553,
+      "character": "Helena",
+      "order": 0
+    },
+    {
+      "personId": 38559,
+      "character": "Fred",
+      "order": 1
+    },
+    {
+      "personId": 1977,
+      "character": "Le Fleuriste",
+      "order": 2
+    },
+    {
+      "personId": 24629,
+      "character": "Le Commissaire Gesberg",
+      "order": 3
+    },
+    {
+      "personId": 7037,
+      "character": "Le Roller",
+      "order": 4
+    },
+    {
+      "personId": 28281,
+      "character": "Batman",
+      "order": 5
+    },
+    {
+      "personId": 2168,
+      "character": "Le Chef de Station",
+      "order": 6
+    },
+    {
+      "personId": 1003,
+      "character": "Le Batteur",
+      "order": 7
+    },
+    {
+      "personId": 4396,
+      "character": "Robin",
+      "order": 8
+    },
+    {
+      "personId": 18186,
+      "character": "Jean",
+      "order": 9
+    },
+    {
+      "personId": 996,
+      "character": "Le Bassiste",
+      "order": 10
+    },
+    {
+      "personId": 2512252,
+      "character": "Le Chanteur",
+      "order": 11
+    },
+    {
+      "personId": 2512259,
+      "character": "Le Guitariste",
+      "order": 12
+    },
+    {
+      "personId": 2117139,
+      "character": "Le Saxophoniste",
+      "order": 13
+    },
+    {
+      "personId": 2512260,
+      "character": "Le Percussioniste",
+      "order": 14
+    },
+    {
+      "personId": 1138,
+      "character": "Le Vendeur",
+      "order": 15
+    },
+    {
+      "personId": 2512261,
+      "character": "Gros Bill",
+      "order": 16
+    },
+    {
+      "personId": 82924,
+      "character": "Le Mari",
+      "order": 17
+    },
+    {
+      "personId": 38501,
+      "character": "La Femme du Préfet",
+      "order": 18
+    },
+    {
+      "personId": 2512263,
+      "character": "Le Pré fet",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cesar": 3
+  },
+  "voteCount": 544,
+  "sources": [
+    "cult-list"
+  ]
+}

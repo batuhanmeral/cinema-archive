@@ -1,0 +1,187 @@
+{
+  "tmdbId": 1594,
+  "slug": "a-shot-in-the-dark-1964",
+  "year": 1964,
+  "runtime": 102,
+  "originalTitle": "A Shot in the Dark",
+  "title": {
+    "en": "A Shot in the Dark",
+    "tr": "Karanlıkta Bir Çığlık"
+  },
+  "overview": {
+    "en": "Inspector Jacques Clouseau, smitten with the accused maid Maria Gambrelli, unwittingly turns a straightforward murder investigation into a comedic series of mishaps, testing the patience of his irritable boss Charles Dreyfus as casualties mount.",
+    "tr": "Paris'in varlıklı isimlerinden Benjamin Ballon'un hizmetçisi Maria Gambrelli, aşığının cesedi başında elinde bir silahla yakalanınca, esrarı çözmek üzere Pembe Panter vakâsıyla meşhur müfettiş Jacques Clouseau, yanlışlıkla da olsa göreve getirilir. Her türlü delil tersine işaret ettiği halde Clouseau genç ve güzel Maria'nın büyüsüne kapılmış bir halde gerçekleri görmek istemez. Bunlar olurken Baş Müfettiş Dreyfus, neden bir türlü kendisi dışında kimsenin Clouseau'nun tam bir baş belası ve beceriksizin teki olduğunu farkedemediğini düşünüp kendi kendini yemektedir. Maria bir kez daha bir cinayet mahallinde, Ballon'un bahçıvan'ının cesedinin başında yakalandığında da; evin bir diğer hizmetçisi Dudu'nun cesedi bulunduğunda da tüm gözler genç kadına dönecek, gelin görün ki Clouseau ısrarla burnunun dikine gidecektir."
+  },
+  "poster": {
+    "tr": "/wcNy3jf7JZjZS7tmvZ1VsTTYiYY.jpg",
+    "en": "/pR6tNqNLYIbRRYC5TFKWVWaVvvK.jpg"
+  },
+  "backdrops": [
+    "/26O2JCu4cyR7U3ga1GT7BhTj888.jpg",
+    "/vG027Nr32grjLTvlYUq9LQ6Z1qb.jpg",
+    "/dlO2wT1t8ujrK1TYZIeFIyqTQSl.jpg",
+    "/lcCsBDfX5xrS7hNR5bpLM6bX8aQ.jpg",
+    "/3qowKWaHNxmiDPsAWsZKc5BDKpB.jpg",
+    "/plx5YuFiJ89mwBrhIE5Qh41zamc.jpg",
+    "/kMn0tHrUaZysa9w7dozHsRMNicv.jpg",
+    "/4lzAHIEoAfnM2GkxLdr0ZPePnbZ.jpg",
+    "/tncrK6fc1vlHzi0iXj3ts2XF9Mo.jpg",
+    "/5md3BLlQn7ABsizaVuI7TBcX6p1.jpg"
+  ],
+  "trailerKey": "y6elEZvYS7w",
+  "genreIds": [
+    35,
+    9648,
+    80
+  ],
+  "keywordIds": [
+    2619,
+    3839,
+    9663
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "United Artists",
+    "The Mirisch Company"
+  ],
+  "crew": [
+    {
+      "personId": 1927,
+      "job": "director"
+    },
+    {
+      "personId": 1927,
+      "job": "writer"
+    },
+    {
+      "personId": 1938,
+      "job": "composer"
+    },
+    {
+      "personId": 1927,
+      "job": "producer"
+    },
+    {
+      "personId": 30923,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 57922,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12446,
+      "character": "Jacques Clouseau",
+      "order": 0
+    },
+    {
+      "personId": 17844,
+      "character": "Maria Gambrelli",
+      "order": 1
+    },
+    {
+      "personId": 3361,
+      "character": "Benjamin Ballon",
+      "order": 2
+    },
+    {
+      "personId": 14503,
+      "character": "Charles Dreyfus",
+      "order": 3
+    },
+    {
+      "personId": 14107,
+      "character": "Hercule LaJoy",
+      "order": 4
+    },
+    {
+      "personId": 124737,
+      "character": "Simone",
+      "order": 5
+    },
+    {
+      "personId": 126354,
+      "character": "Dominique Ballon",
+      "order": 6
+    },
+    {
+      "personId": 21944,
+      "character": "Kato",
+      "order": 7
+    },
+    {
+      "personId": 47848,
+      "character": "François",
+      "order": 8
+    },
+    {
+      "personId": 101722,
+      "character": "Madame LaFarge",
+      "order": 9
+    },
+    {
+      "personId": 32303,
+      "character": "Pierre",
+      "order": 10
+    },
+    {
+      "personId": 96175,
+      "character": "Dudu",
+      "order": 11
+    },
+    {
+      "personId": 95125,
+      "character": "Georges",
+      "order": 12
+    },
+    {
+      "personId": 9912,
+      "character": "Maurice",
+      "order": 13
+    },
+    {
+      "personId": 93164,
+      "character": "Receptionist",
+      "order": 14
+    },
+    {
+      "personId": 89065,
+      "character": "Henri LaFarge",
+      "order": 15
+    },
+    {
+      "personId": 31439,
+      "character": "Camp Attendant",
+      "order": 16
+    },
+    {
+      "personId": 1039759,
+      "character": "Game Warden",
+      "order": 17
+    },
+    {
+      "personId": 1391834,
+      "character": "Gendarme",
+      "order": 18
+    },
+    {
+      "personId": 1407905,
+      "character": "The Doctor",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 690,
+  "sources": [
+    "cult-list"
+  ]
+}

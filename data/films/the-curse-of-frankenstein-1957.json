@@ -1,0 +1,185 @@
+{
+  "tmdbId": 3079,
+  "slug": "the-curse-of-frankenstein-1957",
+  "year": 1957,
+  "runtime": 83,
+  "originalTitle": "The Curse of Frankenstein",
+  "title": {
+    "en": "The Curse of Frankenstein",
+    "tr": "Frankenstein'ın Laneti"
+  },
+  "overview": {
+    "en": "Baron Victor Frankenstein has discovered life's secret and unleashed a blood-curdling chain of events resulting from his creation: a cursed creature with a horrid face — and a tendency to kill.",
+    "tr": "Baron Victor Frankenstein hayatın gizemini keşfetti ve kendini insanın kanını donduracak olaylar zincirinin akışına bıraktı; Korkunç suratlı lanetlenmiş bir yaratık ve öldürmeye karşı bir eğilim. Christopher Lee, Frankenstein'ın Laneti\"nin \"herşeyi başlatan film\" olduğunu söyledi. İngilterenin Hammer stüdyolarından çıkan bu heyecan verici klasik film, Lee ve Peter Cushing'in (Victor) birlikte oynadığı bir dizi korku hiti başlattı."
+  },
+  "poster": {
+    "tr": "/r9PDkqKhzdo54aqnOL88wUJY49B.jpg",
+    "en": "/wikqwKV8HrGgvJuwFL9PcP6hTE7.jpg"
+  },
+  "backdrops": [
+    "/80rSvzQF3bie1WBFTbGgjXahxFR.jpg",
+    "/5UfnkAPHGWjbWh71CfOJ660HCMx.jpg",
+    "/5Hw9NUjWoEo9vJus3ECiwRWl8HH.jpg",
+    "/izNFPz3XYABlW2Wt4en8xoTDDxc.jpg",
+    "/78HxF4w1YuDDIM8cVOfDphyyKoZ.jpg",
+    "/spQnLi5Adf3iQkk2KBH5lzpg7ZJ.jpg",
+    "/6mKxUOf8Hj6CX7bwJZyFZC0cVpZ.jpg",
+    "/pLm4sqCT51e4P4Y1narXmoHpOFE.jpg",
+    "/uwl9hUb8x999sHTphMtjhJFWREy.jpg",
+    "/722FOMLnezKENEdXxiWyhzeOftt.jpg"
+  ],
+  "trailerKey": "3dShEw3PAuQ",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    1706,
+    3335,
+    10326,
+    6317,
+    10125,
+    9714,
+    9748,
+    9826,
+    11181,
+    10122,
+    11581,
+    13031,
+    15032,
+    166862,
+    171826,
+    174413,
+    203836,
+    258464,
+    273293,
+    325765
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Hammer Film Productions"
+  ],
+  "crew": [
+    {
+      "personId": 30169,
+      "job": "producer"
+    },
+    {
+      "personId": 30168,
+      "job": "producer"
+    },
+    {
+      "personId": 29667,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 29662,
+      "job": "director"
+    },
+    {
+      "personId": 30700,
+      "job": "writer"
+    },
+    {
+      "personId": 30137,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5,
+      "character": "Baron Victor Frankenstein",
+      "order": 0
+    },
+    {
+      "personId": 101499,
+      "character": "Elizabeth",
+      "order": 1
+    },
+    {
+      "personId": 30187,
+      "character": "Paul Krempe",
+      "order": 2
+    },
+    {
+      "personId": 113,
+      "character": "The Creature",
+      "order": 3
+    },
+    {
+      "personId": 30188,
+      "character": "Young Victor",
+      "order": 4
+    },
+    {
+      "personId": 30189,
+      "character": "Justine",
+      "order": 5
+    },
+    {
+      "personId": 30190,
+      "character": "Prof. Bernstein",
+      "order": 6
+    },
+    {
+      "personId": 30191,
+      "character": "Aunt",
+      "order": 7
+    },
+    {
+      "personId": 89898,
+      "character": "Grandpa",
+      "order": 8
+    },
+    {
+      "personId": 1481288,
+      "character": "Little Boy",
+      "order": 9
+    },
+    {
+      "personId": 1221548,
+      "character": "Priest",
+      "order": 10
+    },
+    {
+      "personId": 552226,
+      "character": "Warder",
+      "order": 11
+    },
+    {
+      "personId": 1293858,
+      "character": "Burgomaster",
+      "order": 12
+    },
+    {
+      "personId": 101942,
+      "character": "Lecturer",
+      "order": 13
+    },
+    {
+      "personId": 1481290,
+      "character": "Uncle",
+      "order": 14
+    },
+    {
+      "personId": 3481971,
+      "character": "Young Elizabeth",
+      "order": 15
+    },
+    {
+      "personId": 140147,
+      "character": "Wife",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 365,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "tmdbId": 2989,
+  "slug": "roar-1981",
+  "year": 1981,
+  "runtime": 95,
+  "originalTitle": "Roar",
+  "title": {
+    "en": "Roar",
+    "tr": "Roar"
+  },
+  "overview": {
+    "en": "Roar follows a family who are attacked by various African animals at the secluded home of their keeper.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/7AoDfoRDQ0hfoyasvl0J2PIFUJ0.jpg",
+    "en": "/57hcEHbjsEeD2bn32igm8rptbsq.jpg"
+  },
+  "backdrops": [
+    "/iJCJ1ThBmuYtJyi3rgQWl56qVXt.jpg",
+    "/wRbZ8p9PddRDvbr2IR2lacdBx8x.jpg",
+    "/vSah0c02oOLSwyicIgqEQX10b5p.jpg",
+    "/qba7q8bNuedX7Y6DB9Uh6MXRhJr.jpg",
+    "/mWXShM606n4R8IopuWZ3sJZBIWX.jpg",
+    "/6oI6rAPkZ5fVpHdR5pIcW0YAdng.jpg",
+    "/AofFXa6v8ERRbMJAbGeMu5mrSym.jpg",
+    "/qLb3LkpWWR4iGGXg6kY5QsKyFC2.jpg",
+    "/8T6pdMh3sIzbnMOvMtlBYmc0R2P.jpg",
+    "/mWjORgf5AhvlCl88oTYxEclfx9E.jpg"
+  ],
+  "trailerKey": "9RmnuHTJI9U",
+  "genreIds": [
+    35,
+    12,
+    53,
+    27
+  ],
+  "keywordIds": [
+    2857,
+    4809,
+    409,
+    2043,
+    5160,
+    4459,
+    4478,
+    7639,
+    9902,
+    10787,
+    211504,
+    211505
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "American Filmworks"
+  ],
+  "crew": [
+    {
+      "personId": 29342,
+      "job": "producer"
+    },
+    {
+      "personId": 6929,
+      "job": "producer"
+    },
+    {
+      "personId": 29342,
+      "job": "director"
+    },
+    {
+      "personId": 2209,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1185752,
+      "job": "producer"
+    },
+    {
+      "personId": 29342,
+      "job": "writer"
+    },
+    {
+      "personId": 29376,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6929,
+      "character": "Madeleine",
+      "order": 0
+    },
+    {
+      "personId": 29369,
+      "character": "Melanie",
+      "order": 1
+    },
+    {
+      "personId": 89246,
+      "character": "John",
+      "order": 2
+    },
+    {
+      "personId": 29372,
+      "character": "Jerry",
+      "order": 3
+    },
+    {
+      "personId": 29373,
+      "character": "Mativo",
+      "order": 4
+    },
+    {
+      "personId": 4088507,
+      "character": "Frank",
+      "order": 5
+    },
+    {
+      "personId": 29375,
+      "character": "Prentiss",
+      "order": 6
+    },
+    {
+      "personId": 29374,
+      "character": "Rick",
+      "order": 7
+    },
+    {
+      "personId": 4088508,
+      "character": "Airport Personnel",
+      "order": 8
+    },
+    {
+      "personId": 4088509,
+      "character": "Airport Personnel",
+      "order": 9
+    },
+    {
+      "personId": 34660,
+      "character": "Committee",
+      "order": 10
+    },
+    {
+      "personId": 4088510,
+      "character": "Committee",
+      "order": 11
+    },
+    {
+      "personId": 4088511,
+      "character": "Committee",
+      "order": 12
+    },
+    {
+      "personId": 47458,
+      "character": "Committee",
+      "order": 13
+    },
+    {
+      "personId": 4088512,
+      "character": "Committee",
+      "order": 14
+    },
+    {
+      "personId": 4088513,
+      "character": "Committee",
+      "order": 15
+    },
+    {
+      "personId": 4088514,
+      "character": "Committee",
+      "order": 16
+    },
+    {
+      "personId": 4088515,
+      "character": "Committee",
+      "order": 17
+    },
+    {
+      "personId": 29342,
+      "character": "Hank",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 136,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "tmdbId": 42590,
+  "slug": "the-clowns-1970",
+  "year": 1970,
+  "runtime": 93,
+  "originalTitle": "I Clowns",
+  "title": {
+    "en": "The Clowns",
+    "tr": "Palyaçolar"
+  },
+  "overview": {
+    "en": "Fellini exposes his great attraction for the clowns and the world of the circus first recalling a childhood experience when the circus arrives nearby his home. Then he joins his crew and travel from Italy to Paris chasing the last greatest European clowns still live in these countries. He also meets Anita Ekberg trying to buy a panther in a circus.",
+    "tr": "Fellini’nin sirke ve gerçeküstüne duyduğu büyük ilgi, son başyapıtlarından biri olan Palyaçolar’da gün ışığına çıktı. Film Fellini’nin çocukluğunda palyaçolarla ilgili saplantısını yansıtıyor ve küçük bir çocuğun, odasının penceresinden, kurulmakta olan bir sirki izlemesiyle başlıyor. Her ne kadar komik olsa ve “belgesel komedi” olarak adlandırılsa da, bu film otorite, yoksulluk, tevazu ve kibir gibi daha derin insanlık durumlarını inceler, bunların tümü de yörenin seks delisi berduşu, cüce bir rahibe ve sakat bir Mussolini destekçisi gibi karakterler olan palyaçolar aracılığıyla verilir. Ardından, Fellini’nin gençliğindeki bu palyaçoları Paris’te aramaya koyulup başlarına neler geldiğini öğrenmeye çalışmasıyla film, anlatıdan ve düşsel havasından uzaklaşıp daha belgesele yakın bir yaklaşım benimser."
+  },
+  "poster": {
+    "tr": "/uS7GdwTpn5c1bcRkjL5bbE4m8Fl.jpg",
+    "en": "/uS7GdwTpn5c1bcRkjL5bbE4m8Fl.jpg"
+  },
+  "backdrops": [
+    "/lEvdinLO1qmc6dAHsRArExHtjYw.jpg"
+  ],
+  "trailerKey": "RnelLLS5Jl0",
+  "genreIds": [
+    10770,
+    35
+  ],
+  "keywordIds": [
+    236316
+  ],
+  "countries": [
+    "IT",
+    "FR",
+    "DE"
+  ],
+  "languages": [
+    "de",
+    "it",
+    "fr"
+  ],
+  "studios": [
+    "RAI",
+    "Compagnia Leone Cinematografica",
+    "ORTF"
+  ],
+  "crew": [
+    {
+      "personId": 4415,
+      "job": "director"
+    },
+    {
+      "personId": 4415,
+      "job": "writer"
+    },
+    {
+      "personId": 67884,
+      "job": "writer"
+    },
+    {
+      "personId": 25320,
+      "job": "producer"
+    },
+    {
+      "personId": 50819,
+      "job": "producer"
+    },
+    {
+      "personId": 931090,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3098,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 132476,
+      "character": "Clown",
+      "order": 0
+    },
+    {
+      "personId": 106346,
+      "character": "Clown",
+      "order": 1
+    },
+    {
+      "personId": 532144,
+      "character": "Clown",
+      "order": 2
+    },
+    {
+      "personId": 5172427,
+      "character": "Clown",
+      "order": 3
+    },
+    {
+      "personId": 994871,
+      "character": "Clown",
+      "order": 4
+    },
+    {
+      "personId": 5172428,
+      "character": "Clown",
+      "order": 5
+    },
+    {
+      "personId": 1177603,
+      "character": "Clown",
+      "order": 6
+    },
+    {
+      "personId": 3361310,
+      "character": "Clown",
+      "order": 7
+    },
+    {
+      "personId": 5172429,
+      "character": "Clown",
+      "order": 8
+    },
+    {
+      "personId": 5172430,
+      "character": "Clown",
+      "order": 9
+    },
+    {
+      "personId": 37124,
+      "character": "Clown",
+      "order": 10
+    },
+    {
+      "personId": 544552,
+      "character": "Clown",
+      "order": 11
+    },
+    {
+      "personId": 1041222,
+      "character": "Clown",
+      "order": 12
+    },
+    {
+      "personId": 5172431,
+      "character": "Clown",
+      "order": 13
+    },
+    {
+      "personId": 5172432,
+      "character": "Clown",
+      "order": 14
+    },
+    {
+      "personId": 5172434,
+      "character": "Clown",
+      "order": 15
+    },
+    {
+      "personId": 134215,
+      "character": "Clown",
+      "order": 16
+    },
+    {
+      "personId": 136411,
+      "character": "Clown",
+      "order": 17
+    },
+    {
+      "personId": 45983,
+      "character": "Clown",
+      "order": 18
+    },
+    {
+      "personId": 1074800,
+      "character": "Clown",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 105,
+  "sources": [
+    "cult-list"
+  ]
+}

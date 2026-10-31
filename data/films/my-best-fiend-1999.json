@@ -1,0 +1,185 @@
+{
+  "tmdbId": 8672,
+  "slug": "my-best-fiend-1999",
+  "year": 1999,
+  "runtime": 99,
+  "originalTitle": "Mein liebster Feind",
+  "title": {
+    "en": "My Best Fiend",
+    "tr": "Mein liebster Feind"
+  },
+  "overview": {
+    "en": "A film that describes the love-hate relationship between Werner Herzog and Klaus Kinski, the deep trust between the director and the actor, and their independently and simultaneously hatched plans to murder one another.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/osoW8CtE9zuCK7Bre0cnVsoXQjY.jpg",
+    "en": "/bhUtbPlKeXqesoHtWJ39QAB8TFR.jpg"
+  },
+  "backdrops": [
+    "/rsNlLP0LKa20YG3NGS0KmMNOyGP.jpg",
+    "/sR1VvdWKLHlWkuT92POIForDRb4.jpg",
+    "/78OdxB62rfAwMh5CHFfpFyOYfxt.jpg",
+    "/vxZs9jHec0DRCZZLP7o8yQRi8OO.jpg",
+    "/dYeAXrTSefEC8z77PB5MMaBzZRd.jpg"
+  ],
+  "trailerKey": "Lae8FewbnuU",
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    1291,
+    233083,
+    235736,
+    269678,
+    345473,
+    345868
+  ],
+  "countries": [
+    "DE",
+    "GB"
+  ],
+  "languages": [
+    "de",
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Café Productions",
+    "Zephir Film",
+    "Werner Herzog Filmproduktion"
+  ],
+  "crew": [
+    {
+      "personId": 6818,
+      "job": "director"
+    },
+    {
+      "personId": 56064,
+      "job": "producer"
+    },
+    {
+      "personId": 27042,
+      "job": "producer"
+    },
+    {
+      "personId": 20552,
+      "job": "composer"
+    },
+    {
+      "personId": 6826,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6818,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6818,
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "personId": 14277,
+      "character": "Self (archive footage)",
+      "order": 1
+    },
+    {
+      "personId": 4959,
+      "character": "Self",
+      "order": 2
+    },
+    {
+      "personId": 10627,
+      "character": "Self",
+      "order": 3
+    },
+    {
+      "personId": 1101334,
+      "character": "Self",
+      "order": 4
+    },
+    {
+      "personId": 2793370,
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "personId": 3637926,
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "personId": 1101335,
+      "character": "Self",
+      "order": 7
+    },
+    {
+      "personId": 1101333,
+      "character": "Self (archive footage)",
+      "order": 8
+    },
+    {
+      "personId": 129456,
+      "character": "Self (archive footage)",
+      "order": 9
+    },
+    {
+      "personId": 1101336,
+      "character": "Self (archive footage)",
+      "order": 10
+    },
+    {
+      "personId": 1101331,
+      "character": "Self (also archive footage)",
+      "order": 11
+    },
+    {
+      "personId": 1101332,
+      "character": "Self (also archive footage)",
+      "order": 12
+    },
+    {
+      "personId": 57381,
+      "character": "Self (archive footage)",
+      "order": 13
+    },
+    {
+      "personId": 1428,
+      "character": "Self (archive footage)",
+      "order": 14
+    },
+    {
+      "personId": 50871,
+      "character": "Self (archive footage)",
+      "order": 15
+    },
+    {
+      "personId": 20553,
+      "character": "Self (archive footage)",
+      "order": 16
+    },
+    {
+      "personId": 4765,
+      "character": "Self (archive footage)",
+      "order": 17
+    },
+    {
+      "personId": 49497,
+      "character": "Self (archive footage)",
+      "order": 18
+    },
+    {
+      "personId": 27042,
+      "character": "Self (archive footage)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 233,
+  "sources": [
+    "cult-list"
+  ]
+}

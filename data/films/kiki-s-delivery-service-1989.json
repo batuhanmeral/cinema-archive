@@ -1,0 +1,200 @@
+{
+  "tmdbId": 16859,
+  "slug": "kiki-s-delivery-service-1989",
+  "year": 1989,
+  "runtime": 103,
+  "originalTitle": "魔女の宅急便",
+  "title": {
+    "en": "Kiki's Delivery Service",
+    "tr": "Küçük Cadı Kiki"
+  },
+  "overview": {
+    "en": "A young witch, on her mandatory year of independent life, finds fitting into a new community difficult while she supports herself by running an air courier service.",
+    "tr": "Kiki 13 yaşında bir cadıdır. Geleneklere göre tam bir cadı olabilmesi için bir yıl kendi seçeceği bir şehirde ailesinden ayrı yaşaması gerekmektedir. Kiki, kedisi Jiji ile annesinin hediye ettigi süpürgeye binerek evinden ayrılır ve başka cadısı olmayan bir şehirde karar kılar. Kiki, şehirde uçma yeteneğinden faydalanacağı bir kurye servisi açmak istemektedir. Şehirdeki ilk gününde tanıştığı birinin fırınında ona yardımcı olurken aynı zamanda hayalini kurduğu işi yapmaya başlar ve zamanla cadılık yeteneklerini kaybettiğini fark eder. Yeteneklerini tekrar kazanmaya çalışırken bir arkadaşının da hayatını kurtarması gerekir."
+  },
+  "poster": {
+    "tr": "/uq8UlhwNAHpAbQANBwPTW8looka.jpg",
+    "en": "/pN4iKcvpyxkhtyOKUKe2tTqEDYm.jpg"
+  },
+  "backdrops": [
+    "/h5pAEVma835u8xoE60kmLVopLct.jpg",
+    "/uf8tdftecVXTxpsDONQjpoOW4Bk.jpg",
+    "/8bbezmHxayJ74TEKt6l6QZYUOCi.jpg",
+    "/ooGaNXI2OYszAajCFdIXLr73E1S.jpg",
+    "/monWrC5SjiOVYbXhD1MwfzfaZGm.jpg",
+    "/mWCbUv4Ae10mjDc1gyZIqrlx0LD.jpg",
+    "/2lp6WKRoDXANmi9yy63TCbpwSzr.jpg",
+    "/aC4oNwvmdFaB1MX60Ww0Vc79cgd.jpg",
+    "/bfpAal2oO553JOfmFthvcdSJlHV.jpg",
+    "/yuH7IrvaejzUBMilmfHSEUbv9Q1.jpg"
+  ],
+  "trailerKey": "nu4OX6RKeLY",
+  "genreIds": [
+    16,
+    10751,
+    14
+  ],
+  "keywordIds": [
+    616,
+    389,
+    2343,
+    1642,
+    5248,
+    7397,
+    10683,
+    11322,
+    15101,
+    15284,
+    178898,
+    182282,
+    187224,
+    188748,
+    188839,
+    188840,
+    210024,
+    288816,
+    322942,
+    325806,
+    325820
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Studio Ghibli",
+    "Tokuma Shoten",
+    "Nippon Television Network Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 608,
+      "job": "producer"
+    },
+    {
+      "personId": 608,
+      "job": "writer"
+    },
+    {
+      "personId": 608,
+      "job": "director"
+    },
+    {
+      "personId": 636,
+      "job": "composer"
+    },
+    {
+      "personId": 552594,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 68470,
+      "character": "Kiki / Ursula (voice)",
+      "order": 0
+    },
+    {
+      "personId": 218144,
+      "character": "Jiji (voice)",
+      "order": 1
+    },
+    {
+      "personId": 68472,
+      "character": "Tombo (voice)",
+      "order": 2
+    },
+    {
+      "personId": 57736,
+      "character": "Osono (voice)",
+      "order": 3
+    },
+    {
+      "personId": 552598,
+      "character": "Kokiri (voice)",
+      "order": 4
+    },
+    {
+      "personId": 552599,
+      "character": "Okino (voice)",
+      "order": 5
+    },
+    {
+      "personId": 40453,
+      "character": "Old Lady (voice)",
+      "order": 6
+    },
+    {
+      "personId": 551769,
+      "character": "Bertha (voice)",
+      "order": 7
+    },
+    {
+      "personId": 1684,
+      "character": "Ketto (voice)",
+      "order": 8
+    },
+    {
+      "personId": 20664,
+      "character": "Bakery Worker / Policeman (voice)",
+      "order": 9
+    },
+    {
+      "personId": 101913,
+      "character": "Maki (voice)",
+      "order": 10
+    },
+    {
+      "personId": 552600,
+      "character": "Young Senpai Witch (voice)",
+      "order": 11
+    },
+    {
+      "personId": 76396,
+      "character": "Ketto's Mother (voice)",
+      "order": 12
+    },
+    {
+      "personId": 111373,
+      "character": "Ketto's Father (voice)",
+      "order": 13
+    },
+    {
+      "personId": 55664,
+      "character": "Baby (voice)",
+      "order": 14
+    },
+    {
+      "personId": 552601,
+      "character": "Ketto's Grandmother (voice)",
+      "order": 15
+    },
+    {
+      "personId": 552602,
+      "character": "Boy (voice)",
+      "order": 16
+    },
+    {
+      "personId": 65438,
+      "character": "Hotel Receptionist (voice)",
+      "order": 17
+    },
+    {
+      "personId": 552603,
+      "character": "Boy (voice)",
+      "order": 18
+    },
+    {
+      "personId": 552604,
+      "character": "Dora (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4806,
+  "sources": [
+    "cult-list"
+  ]
+}

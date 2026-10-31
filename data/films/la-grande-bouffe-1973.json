@@ -1,0 +1,192 @@
+{
+  "tmdbId": 10102,
+  "slug": "la-grande-bouffe-1973",
+  "year": 1973,
+  "runtime": 130,
+  "originalTitle": "La Grande Bouffe",
+  "title": {
+    "en": "La Grande Bouffe",
+    "tr": "La Grande Bouffe"
+  },
+  "overview": {
+    "en": "Four friends gather at a villa with the intention of eating themselves to death.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/g4wOgslrQKprlQl927h0lQQ3P99.jpg",
+    "en": "/g4wOgslrQKprlQl927h0lQQ3P99.jpg"
+  },
+  "backdrops": [
+    "/jM6KRCEIIY1pGUIGemnp1rNY6ko.jpg",
+    "/jbej8dWVWs8XidF5FFmOfUFvnGZ.jpg",
+    "/balOC3EBkFtmpP1WQDY35GaoQeF.jpg",
+    "/7P01mkgduUa5ls4tNeaDCCowbAz.jpg",
+    "/64D4K19v2Kp5wiy3ZL6tIyyVuXf.jpg",
+    "/sxfKS6T6hcoidFhICCc3ZBAariE.jpg",
+    "/b5HOqYMK389KSJYYds1bKBk8mC.jpg",
+    "/l32Gg8r3x2AHCWwXzRlPPGTTCLk.jpg",
+    "/nwMqmJUXGZqSLl9uywEMQ0SDkkH.jpg",
+    "/kzk5hJwOkMiHwU1fW0FMinImAq2.jpg"
+  ],
+  "trailerKey": "usASQnTtaWA",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    236,
+    550,
+    160246,
+    207769
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "it",
+    "fr"
+  ],
+  "studios": [
+    "Capitolina Produzioni Cinematografiche",
+    "Films 66",
+    "Mara Films"
+  ],
+  "crew": [
+    {
+      "personId": 63947,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 37590,
+      "job": "writer"
+    },
+    {
+      "personId": 39645,
+      "job": "writer"
+    },
+    {
+      "personId": 19052,
+      "job": "producer"
+    },
+    {
+      "personId": 34264,
+      "job": "director"
+    },
+    {
+      "personId": 34264,
+      "job": "writer"
+    },
+    {
+      "personId": 20075,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5676,
+      "character": "Marcello",
+      "order": 0
+    },
+    {
+      "personId": 32312,
+      "character": "Ugo",
+      "order": 1
+    },
+    {
+      "personId": 3784,
+      "character": "Michel",
+      "order": 2
+    },
+    {
+      "personId": 24366,
+      "character": "Philippe",
+      "order": 3
+    },
+    {
+      "personId": 10262,
+      "character": "Andrea",
+      "order": 4
+    },
+    {
+      "personId": 1500819,
+      "character": "Danielle",
+      "order": 5
+    },
+    {
+      "personId": 225235,
+      "character": "Anne",
+      "order": 6
+    },
+    {
+      "personId": 1500822,
+      "character": "Nicole",
+      "order": 7
+    },
+    {
+      "personId": 36315,
+      "character": "Madeleine",
+      "order": 8
+    },
+    {
+      "personId": 1500823,
+      "character": "Hector",
+      "order": 9
+    },
+    {
+      "personId": 240092,
+      "character": "Chef",
+      "order": 10
+    },
+    {
+      "personId": 1767593,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 3068779,
+      "character": "Le délégué de l'ambassade de Chine",
+      "order": 12
+    },
+    {
+      "personId": 35362,
+      "character": "Braguti",
+      "order": 13
+    },
+    {
+      "personId": 18770,
+      "character": "Pierre",
+      "order": 14
+    },
+    {
+      "personId": 3068782,
+      "character": "Barbara",
+      "order": 15
+    },
+    {
+      "personId": 1502642,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 3068785,
+      "character": "Mini",
+      "order": 17
+    },
+    {
+      "personId": 118795,
+      "character": "Zack",
+      "order": 18
+    },
+    {
+      "personId": 1130613,
+      "character": "La secrétaire",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 565,
+  "sources": [
+    "cult-list"
+  ]
+}

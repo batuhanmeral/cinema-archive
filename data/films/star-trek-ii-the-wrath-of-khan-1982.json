@@ -1,0 +1,215 @@
+{
+  "tmdbId": 154,
+  "slug": "star-trek-ii-the-wrath-of-khan-1982",
+  "year": 1982,
+  "runtime": 113,
+  "originalTitle": "Star Trek II: The Wrath of Khan",
+  "title": {
+    "en": "Star Trek II: The Wrath of Khan",
+    "tr": "Uzay Yolu II: Han'ın Gazabı"
+  },
+  "overview": {
+    "en": "The starship Enterprise and its crew is pulled back into action when old nemesis, Khan, steals a top secret device called Project Genesis.",
+    "tr": "Genetik olarak bir superman gibi geliştirilmiş olan Khan megalomanyak ve tehlikeli bir suçlu olduğundan yıllar önce ıssız Ceti Alpha 5 gezegenine sürülmüştür. Oğlunun ölümü ve kendi bahtsız kaderinden ötürü Kaptan Kirk'ü suçlamakta ve intikam hisleriyle yanıp tutuşmaktadır.Komutan Chekov yanlışlıkla Khan'ın olduğu yere ışınlanınca, bu tehlikeli düşman sonunda aradığı fırsatı bulur. Kurbanlarının beynini kontrol etmeye yarayan parazimsi bir yaratığı kullanan Khan Yıldızgemisi Reliant'ı ele geçirmeyi başarır. Gemiyi ve bir araştırma projesinden yağmaladığı ekipmanı kullanarak Kirk'ü yoketmeyi planlamaktadır. 'Genesis Effect' isimli projenin asıl amacı sıfırdan bir gezegende canlı yaşamını başlatmaktır. Ancak ekipmanın yeni dünyalar yaratmaya vakıf olan kudreti, aynı zamanda varolanları yoketmeye de imkan tanımaktadır.Kirk ve ekibi bir kez daha tüm güçleri ve cesaretleriyle arkadaşlarını kurtarmak ve Khan'ı sonsuza dek susturmak zorundadırlar."
+  },
+  "poster": {
+    "tr": "/gUn0tBvkU8aaJoVNqYD2hzbA63v.jpg",
+    "en": "/53J4DyS0wMp5r3XYJvzUh9cf0Hz.jpg"
+  },
+  "backdrops": [
+    "/oXs8kp1oX5N0Mte6U8UUAwmLwt6.jpg",
+    "/meqmvZjKpQ7WRhpZvIoKIAvioSD.jpg",
+    "/o23tzOE3GglpkjYuI0meXbPyAsd.jpg",
+    "/gQI4ZLed4WLQXwwbhrt1Z9BtasE.jpg",
+    "/bITgj58Q0rg5y7oshzbZzsKcxB.jpg",
+    "/9uUUey0emZQPDVczOJA2pe4SEMQ.jpg",
+    "/vYczQDDVTAyZac9pViqyTrBauHC.jpg",
+    "/5tcBZE5hUuhMhF5bAuG7OCMx4AO.jpg",
+    "/5brGJw1OCWMzBnJycZHQmZNzHYD.jpg",
+    "/yBI6LjHruai31qsS9xornuYWEZX.jpg"
+  ],
+  "trailerKey": "vOIYaRb6XpQ",
+  "genreIds": [
+    28,
+    12,
+    878
+  ],
+  "keywordIds": [
+    1612,
+    314,
+    6017,
+    1423,
+    1430,
+    3822,
+    747,
+    1599,
+    1613,
+    1615,
+    1617,
+    1618,
+    5218,
+    1472,
+    9663,
+    9748,
+    33424,
+    41177,
+    161176,
+    162810,
+    171493,
+    173971,
+    193897,
+    200918,
+    202371,
+    232076,
+    252634,
+    316241,
+    325766,
+    325771,
+    325772,
+    325791,
+    325797,
+    325799
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1798,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1792,
+      "job": "writer"
+    },
+    {
+      "personId": 1788,
+      "job": "director"
+    },
+    {
+      "personId": 1790,
+      "job": "producer"
+    },
+    {
+      "personId": 1729,
+      "job": "composer"
+    },
+    {
+      "personId": 1788,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1748,
+      "character": "Admiral James T. Kirk",
+      "order": 0
+    },
+    {
+      "personId": 1749,
+      "character": "Captain Spock",
+      "order": 1
+    },
+    {
+      "personId": 1793,
+      "character": "Khan Noonien Singh",
+      "order": 2
+    },
+    {
+      "personId": 1750,
+      "character": "Dr. Leonard 'Bones' McCoy",
+      "order": 3
+    },
+    {
+      "personId": 1751,
+      "character": "Cmdr. Montgomery 'Scotty' Scott",
+      "order": 4
+    },
+    {
+      "personId": 1754,
+      "character": "Cmdr. Pavel Chekov",
+      "order": 5
+    },
+    {
+      "personId": 1752,
+      "character": "Cmdr. Hikaru Sulu",
+      "order": 6
+    },
+    {
+      "personId": 1753,
+      "character": "Cmdr. Uhura",
+      "order": 7
+    },
+    {
+      "personId": 1794,
+      "character": "Dr. Carol Marcus",
+      "order": 8
+    },
+    {
+      "personId": 1795,
+      "character": "Dr. David Marcus",
+      "order": 9
+    },
+    {
+      "personId": 1818,
+      "character": "Captain Clark Terrell",
+      "order": 10
+    },
+    {
+      "personId": 1796,
+      "character": "Lt. Saavik",
+      "order": 11
+    },
+    {
+      "personId": 104054,
+      "character": "Joachim",
+      "order": 12
+    },
+    {
+      "personId": 87066,
+      "character": "Preston",
+      "order": 13
+    },
+    {
+      "personId": 104505,
+      "character": "Jedda",
+      "order": 14
+    },
+    {
+      "personId": 1214565,
+      "character": "Kyle",
+      "order": 15
+    },
+    {
+      "personId": 157612,
+      "character": "Beach",
+      "order": 16
+    },
+    {
+      "personId": 36821,
+      "character": "Cadet",
+      "order": 17
+    },
+    {
+      "personId": 166071,
+      "character": "Madison",
+      "order": 18
+    },
+    {
+      "personId": 70777,
+      "character": "March",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2254,
+  "sources": [
+    "cult-list"
+  ]
+}

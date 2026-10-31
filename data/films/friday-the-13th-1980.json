@@ -1,0 +1,196 @@
+{
+  "tmdbId": 4488,
+  "slug": "friday-the-13th-1980",
+  "year": 1980,
+  "runtime": 95,
+  "originalTitle": "Friday the 13th",
+  "title": {
+    "en": "Friday the 13th",
+    "tr": "13. Cuma"
+  },
+  "overview": {
+    "en": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
+    "tr": "Camp Crystal Lake on yıllar önce esrarengiz cinayetlerin yaşandığı, terkedilmiş bir gençlik kampıdır. Bir girişimci kampı tekrar hizmete açmaya karar vererek yakışıklı delikanlılar ve güzel genç kızlardan oluşan bir kadroyu işe alır. Bir yağmur fırtınası kampı dünyanın geri kalanından soyutladığında korkunç ölümler başlar. Gençler sırayla, korkunç derecede yaratıcı şekilde cinayete kurban gitmektedir."
+  },
+  "poster": {
+    "tr": "/5xFe6Yk8ytft7obw0EodQD1611o.jpg",
+    "en": "/HzrPn1gEHWixfMOvOehOTlHROo.jpg"
+  },
+  "backdrops": [
+    "/16zzKM5vDxnYiqG6Tg6wOkOLSmj.jpg",
+    "/edVRp9npNwQwJtD05KyZlzp1J2p.jpg",
+    "/llLB2MWIRqWfBHENc5m63RcKR8G.jpg",
+    "/90f4YD4Je0N0ay6qBR1Zonlkzdz.jpg",
+    "/tDFVGlUQGXo3gcT0KgkdMyIpft3.jpg",
+    "/mlwaDS6uRBcshe9KCwiz5WXQ6Yu.jpg",
+    "/maZXf2VjqQlbyDH10PFnyZkJXTv.jpg",
+    "/e5Z35sfdHd3bnUdrzKPEvgcx4Db.jpg",
+    "/8uYbexsonCUDsfFLNyXkMhV3qfe.jpg",
+    "/Y4E38GCezVsm7zT7ZwNP7ULNZE.jpg"
+  ],
+  "trailerKey": "8nYuu5jpWVs",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    1889,
+    586,
+    793,
+    5767,
+    4426,
+    3335,
+    3289,
+    9720,
+    9748,
+    9826,
+    10333,
+    10714,
+    3623,
+    11663,
+    12339,
+    13088,
+    14676,
+    208611,
+    296608,
+    342626
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Sean S. Cunningham Films",
+    "Georgetown Productions"
+  ],
+  "crew": [
+    {
+      "personId": 38686,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 35475,
+      "job": "producer"
+    },
+    {
+      "personId": 35475,
+      "job": "director"
+    },
+    {
+      "personId": 20953,
+      "job": "composer"
+    },
+    {
+      "personId": 38685,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 37470,
+      "character": "Alice",
+      "order": 0
+    },
+    {
+      "personId": 37473,
+      "character": "Marcie",
+      "order": 1
+    },
+    {
+      "personId": 1011510,
+      "character": "Annie",
+      "order": 2
+    },
+    {
+      "personId": 4724,
+      "character": "Jack",
+      "order": 3
+    },
+    {
+      "personId": 37469,
+      "character": "Mrs. Voorhees",
+      "order": 4
+    },
+    {
+      "personId": 37471,
+      "character": "Bill",
+      "order": 5
+    },
+    {
+      "personId": 37472,
+      "character": "Brenda",
+      "order": 6
+    },
+    {
+      "personId": 190040,
+      "character": "Ned",
+      "order": 7
+    },
+    {
+      "personId": 1081852,
+      "character": "Steve Christy",
+      "order": 8
+    },
+    {
+      "personId": 170970,
+      "character": "Truck Driver",
+      "order": 9
+    },
+    {
+      "personId": 174248,
+      "character": "Sgt. Tierney",
+      "order": 10
+    },
+    {
+      "personId": 1019045,
+      "character": "Officer Dorf",
+      "order": 11
+    },
+    {
+      "personId": 1014310,
+      "character": "Crazy Ralph",
+      "order": 12
+    },
+    {
+      "personId": 1205570,
+      "character": "Barry",
+      "order": 13
+    },
+    {
+      "personId": 1205571,
+      "character": "Claudette",
+      "order": 14
+    },
+    {
+      "personId": 1205572,
+      "character": "Trudy",
+      "order": 15
+    },
+    {
+      "personId": 1205573,
+      "character": "Sandy",
+      "order": 16
+    },
+    {
+      "personId": 1205574,
+      "character": "Operator",
+      "order": 17
+    },
+    {
+      "personId": 1205575,
+      "character": "Doctor",
+      "order": 18
+    },
+    {
+      "personId": 106207,
+      "character": "Jason",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3562,
+  "sources": [
+    "cult-list"
+  ]
+}

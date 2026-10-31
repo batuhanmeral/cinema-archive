@@ -1,0 +1,187 @@
+{
+  "tmdbId": 28569,
+  "slug": "splendor-in-the-grass-1961",
+  "year": 1961,
+  "runtime": 124,
+  "originalTitle": "Splendor in the Grass",
+  "title": {
+    "en": "Splendor in the Grass",
+    "tr": "Aşk Bahçesi"
+  },
+  "overview": {
+    "en": "A fragile Kansas girl's unrequited and forbidden love for a handsome young man from the town's most powerful family drives her to heartbreak and madness.",
+    "tr": "David Amram'ın güçlü müziğinin ilk notalarından ve Bud'la (ilk rolündeki Warren Beaty) Deanie'nin (Natalie Wood) gürüldeyen bir şelalenin yanı başında bir arabanın içinde öpüştükleri ilk görüntülerden itibaren, Aşk Bahçesi, en başarılı Hollywood melodramlarının cazibesinin bir özeti gibidir. Toplumun baskıladığı tutkular (öykü 1928'de Kansas'ta geçer), her şiddetli renk, ses ve hareket patlamasında, yeri değiştirilmiş biçimde ifade bulur.  Duyguların bastırılması bu filmin her anında mevcuttur, insanları korkunç, işlevsiz yönlere sürükleyen bir güçtür bu. Erkekler başarılı ve maço olmak zorundayken, kadınlar bekaretle fahişelik arasında seçim yapmak zorundadır. Tıpkı Barbara Loden'in unutulmaz biçimde canlandırdığı, Bud'un kalender, özgür kız kardeşi Ginny gibi."
+  },
+  "poster": {
+    "tr": "/n6Kw8Ui93SMhrk1MupCFwUg04vq.jpg",
+    "en": "/n6Kw8Ui93SMhrk1MupCFwUg04vq.jpg"
+  },
+  "backdrops": [
+    "/q9rYoYD7ckkBrmc2RtRlCOWpPXi.jpg",
+    "/4zyJ9IIfr8xydxvYtf9XOOcabci.jpg",
+    "/fKKtcRNKeKIqy5zEa2zkupJegQL.jpg",
+    "/aKlvUAEWFH9bM5eIfKQwlYj6AYZ.jpg",
+    "/glYrTJEGfj2s5y7yFXOQPtEafyg.jpg",
+    "/2BQuhGYKSpP0NDczrVHVZc4rhcn.jpg",
+    "/4KpJqGDGHgDoYC7lXuuN5xmDW58.jpg",
+    "/4E5UkVC6bEly5pAzkYFxiyyMiVp.jpg",
+    "/3I5Dsam910xWbTEk69o04i8lVkC.jpg",
+    "/3VIlHshnxV6Vwxz6Ega6llvGZiF.jpg"
+  ],
+  "trailerKey": "dWDkdsZQq_c",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    2884,
+    3691,
+    7658,
+    10048,
+    18732,
+    187243,
+    207876
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Newton Productions",
+    "NBI Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 122953,
+      "job": "writer"
+    },
+    {
+      "personId": 14725,
+      "job": "composer"
+    },
+    {
+      "personId": 2746,
+      "job": "producer"
+    },
+    {
+      "personId": 2746,
+      "job": "director"
+    },
+    {
+      "personId": 5261,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2769,
+      "character": "Wilma \"Deanie\" Loomis",
+      "order": 0
+    },
+    {
+      "personId": 6449,
+      "character": "Bud Stamper",
+      "order": 1
+    },
+    {
+      "personId": 3798,
+      "character": "Ace Stamper",
+      "order": 2
+    },
+    {
+      "personId": 83566,
+      "character": "Mrs. Loomis",
+      "order": 3
+    },
+    {
+      "personId": 123012,
+      "character": "Ginny Stamper",
+      "order": 4
+    },
+    {
+      "personId": 79731,
+      "character": "Angelina",
+      "order": 5
+    },
+    {
+      "personId": 123013,
+      "character": "Del Loomis",
+      "order": 6
+    },
+    {
+      "personId": 976801,
+      "character": "Doc Smiley",
+      "order": 7
+    },
+    {
+      "personId": 191758,
+      "character": "Juanita Howard",
+      "order": 8
+    },
+    {
+      "personId": 195061,
+      "character": "Miss Metcalf",
+      "order": 9
+    },
+    {
+      "personId": 246,
+      "character": "Allen 'Toots' Tuttle",
+      "order": 10
+    },
+    {
+      "personId": 18365,
+      "character": "Kay",
+      "order": 11
+    },
+    {
+      "personId": 933704,
+      "character": "Mrs. Stamper",
+      "order": 12
+    },
+    {
+      "personId": 67099,
+      "character": "Hazel",
+      "order": 13
+    },
+    {
+      "personId": 111701,
+      "character": "June",
+      "order": 14
+    },
+    {
+      "personId": 102859,
+      "character": "Carolyn",
+      "order": 15
+    },
+    {
+      "personId": 89784,
+      "character": "Texas Guinan",
+      "order": 16
+    },
+    {
+      "personId": 160575,
+      "character": "Glenn",
+      "order": 17
+    },
+    {
+      "personId": 2016631,
+      "character": "Student (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 111387,
+      "character": "Oil Field Worker at Party (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 320,
+  "sources": [
+    "cult-list"
+  ]
+}

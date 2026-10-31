@@ -1,0 +1,184 @@
+{
+  "tmdbId": 46059,
+  "slug": "the-hot-rock-1972",
+  "year": 1972,
+  "runtime": 101,
+  "originalTitle": "The Hot Rock",
+  "title": {
+    "en": "The Hot Rock",
+    "tr": "Belalı Elmas"
+  },
+  "overview": {
+    "en": "Dortmunder and his pals plan to steal a huge diamond from a museum. But this turns out to be only the first time they have to steal it...",
+    "tr": "Dortmunder ve arkadaşları bir müzeden devasa bir elmas çalmayı planlıyorlar. Ancak bunun onu çalmaları gereken ilk sefer olduğu ortaya çıkıyor..."
+  },
+  "poster": {
+    "tr": "/vzfGNqmANfRbavk5XdQTsfnjmeH.jpg",
+    "en": "/th34YQpg13oWP5n7vw2S06wUMuF.jpg"
+  },
+  "backdrops": [
+    "/aWCVLOsrSOzdbT4zIg4AIpnNopR.jpg",
+    "/7jsIuVpDmZRH0DO6oaGsPCtCgQl.jpg",
+    "/zv7FS98FICfhk3k8g9oFi3jeqAj.jpg",
+    "/2HIwl95W0tKumXuSihMM0YlYjWk.jpg",
+    "/bnT1TQmv6IRp6i7EWH1nio5w6Ro.jpg",
+    "/66rndocKpFoLNgQKejzYllSQOJR.jpg",
+    "/9EdQBtiRXZ0Qxxwajz8qLf843RN.jpg",
+    "/9fxxBhM78HOm4Avn8BTThI7VeLl.jpg",
+    "/53rF0ci0kajtfKqocUHsQsBaAHU.jpg",
+    "/fCozzPEet0kueS6t2EiOU9wb3qa.jpg"
+  ],
+  "trailerKey": "48APEydOt64",
+  "genreIds": [
+    80,
+    35
+  ],
+  "keywordIds": [
+    14604,
+    40903,
+    156236
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Landers-Roberts Productions",
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 12804,
+      "job": "director"
+    },
+    {
+      "personId": 348,
+      "job": "writer"
+    },
+    {
+      "personId": 76018,
+      "job": "producer"
+    },
+    {
+      "personId": 76017,
+      "job": "producer"
+    },
+    {
+      "personId": 13301,
+      "job": "composer"
+    },
+    {
+      "personId": 1266787,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4135,
+      "character": "John Dortmunder",
+      "order": 0
+    },
+    {
+      "personId": 18364,
+      "character": "Andrew Kelp",
+      "order": 1
+    },
+    {
+      "personId": 5372,
+      "character": "Stanley Murch",
+      "order": 2
+    },
+    {
+      "personId": 78416,
+      "character": "Alan Greenburg",
+      "order": 3
+    },
+    {
+      "personId": 6561,
+      "character": "Dr. Amusa",
+      "order": 4
+    },
+    {
+      "personId": 7072,
+      "character": "Lt. Hoover",
+      "order": 5
+    },
+    {
+      "personId": 556062,
+      "character": "\"Sis\" Clara Kelp",
+      "order": 6
+    },
+    {
+      "personId": 66071,
+      "character": "Ma Murch",
+      "order": 7
+    },
+    {
+      "personId": 36927,
+      "character": "Frank, the Prison Warden",
+      "order": 8
+    },
+    {
+      "personId": 13524,
+      "character": "Policeman",
+      "order": 9
+    },
+    {
+      "personId": 18861,
+      "character": "Abe Greenberg",
+      "order": 10
+    },
+    {
+      "personId": 69026,
+      "character": "Rollo the Bartender",
+      "order": 11
+    },
+    {
+      "personId": 81549,
+      "character": "Happy Hippie",
+      "order": 12
+    },
+    {
+      "personId": 1217995,
+      "character": "Cop At Police Station",
+      "order": 13
+    },
+    {
+      "personId": 1242308,
+      "character": "Policeman",
+      "order": 14
+    },
+    {
+      "personId": 3802,
+      "character": "Dr. Strauss",
+      "order": 15
+    },
+    {
+      "personId": 1191737,
+      "character": "Albert",
+      "order": 16
+    },
+    {
+      "personId": 104153,
+      "character": "Miasmo",
+      "order": 17
+    },
+    {
+      "personId": 3137060,
+      "character": "Bird Lady",
+      "order": 18
+    },
+    {
+      "personId": 132682,
+      "character": "Otto",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 137,
+  "sources": [
+    "cult-list"
+  ]
+}

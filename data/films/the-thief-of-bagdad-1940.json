@@ -1,0 +1,204 @@
+{
+  "tmdbId": 12232,
+  "slug": "the-thief-of-bagdad-1940",
+  "year": 1940,
+  "runtime": 107,
+  "originalTitle": "The Thief of Bagdad",
+  "title": {
+    "en": "The Thief of Bagdad",
+    "tr": "Bağdat Hırsızı"
+  },
+  "overview": {
+    "en": "When Prince Ahmad is blinded and cast out of Bagdad by the nefarious Jaffar, he joins forces with the scrappy thief Abu to win back his royal place, as well as the heart of a beautiful princess.",
+    "tr": "Prens Ahmed, Bağdad'ın meşru kralıdır, ancak kör edilmiş ve dilenciliğe kadar düşmüştür. Büyük Vezir Cafer'in esiri olarak hapishanede Abu ile tanışır, ki Bağdad'ın en meşhur hırsızıdır Abu. Bu ikili birlikte Cafer'in hapishanesinden kaçarlar ve bir dizi ilginç maceraya atılırlar. Maceralarının arasında şişedeki cinden, uçan mekanik bir halıya, her şeyi gören büyülü bir mücevherden güzel bir prensese pek çok şeyle karşılaşmak da var... Pek çok filme ve animasyona ilham veren meşhur kült film."
+  },
+  "poster": {
+    "tr": "/8Fs29JYTOkDluTXgbvLRIaps6PO.jpg",
+    "en": "/8Fs29JYTOkDluTXgbvLRIaps6PO.jpg"
+  },
+  "backdrops": [
+    "/oaSBgbi0czdGjtXllTTIMj1H3th.jpg",
+    "/xainlHC8NPVzxWSOUxXMB9wQXqz.jpg",
+    "/keM6554KJem8XdQAFRMTg7YqPpI.jpg",
+    "/n85nTuPUSeMGfN4CAB64i7bzdoB.jpg",
+    "/sYR0atXhlnwghqUv5XYCV5IawvZ.jpg",
+    "/yATE3lcTKcV6TumzF3Vr1TSEl4g.jpg"
+  ],
+  "trailerKey": "7F_FNm5GABw",
+  "genreIds": [
+    12,
+    14,
+    10749
+  ],
+  "keywordIds": [
+    7376,
+    699,
+    3888,
+    3987,
+    4892,
+    4895,
+    5894,
+    9792,
+    9392,
+    9727,
+    41178,
+    164092,
+    190536,
+    191012,
+    223449,
+    236458,
+    241980,
+    244145,
+    325856
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "London Films Productions",
+    "Alexander Korda Films"
+  ],
+  "crew": [
+    {
+      "personId": 20136,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 68424,
+      "job": "director"
+    },
+    {
+      "personId": 7647,
+      "job": "composer"
+    },
+    {
+      "personId": 2490,
+      "job": "producer"
+    },
+    {
+      "personId": 71788,
+      "job": "director"
+    },
+    {
+      "personId": 71787,
+      "job": "director"
+    },
+    {
+      "personId": 47395,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3001,
+      "character": "Jaffar",
+      "order": 0
+    },
+    {
+      "personId": 71784,
+      "character": "Abu",
+      "order": 1
+    },
+    {
+      "personId": 39800,
+      "character": "Princess",
+      "order": 2
+    },
+    {
+      "personId": 71785,
+      "character": "Ahmad",
+      "order": 3
+    },
+    {
+      "personId": 1276503,
+      "character": "Djinn",
+      "order": 4
+    },
+    {
+      "personId": 47395,
+      "character": "Sultan",
+      "order": 5
+    },
+    {
+      "personId": 1043451,
+      "character": "The Old King",
+      "order": 6
+    },
+    {
+      "personId": 568361,
+      "character": "Halima",
+      "order": 7
+    },
+    {
+      "personId": 982660,
+      "character": "The Merchant",
+      "order": 8
+    },
+    {
+      "personId": 552408,
+      "character": "Astrologer",
+      "order": 9
+    },
+    {
+      "personId": 1249787,
+      "character": "Singer",
+      "order": 10
+    },
+    {
+      "personId": 990435,
+      "character": "Jailer",
+      "order": 11
+    },
+    {
+      "personId": 95027,
+      "character": "The Story Teller",
+      "order": 12
+    },
+    {
+      "personId": 1463007,
+      "character": "Man Selling Fish (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1533981,
+      "character": "Lady (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 30262,
+      "character": "Man of Basra (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1123250,
+      "character": "Citizen (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1289535,
+      "character": "Citizen (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 5826,
+      "character": "Princess's Maid (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1534323,
+      "character": "Urchin in Bagdad Market (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 315,
+  "sources": [
+    "cult-list"
+  ]
+}

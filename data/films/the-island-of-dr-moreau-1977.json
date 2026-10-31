@@ -1,0 +1,150 @@
+{
+  "tmdbId": 26932,
+  "slug": "the-island-of-dr-moreau-1977",
+  "year": 1977,
+  "runtime": 99,
+  "originalTitle": "The Island of Dr. Moreau",
+  "title": {
+    "en": "The Island of Dr. Moreau",
+    "tr": "Doktor Moreau'nun Adası"
+  },
+  "overview": {
+    "en": "A ship-wrecked man floats ashore on an island in the Pacific Ocean. The island is inhabited by a scientist, Dr. Moreau, who in an experiment has turned beasts into human beings.",
+    "tr": "Andrew Braddock, denizin ortasında bir gemi kazası geçirir. Günlerce kürek çekerek sürüklenen bir filikadan sonra, başka bir kazazede ile birlikte bilinmeyen bir adaya vurur. Bu adanın, bilim insanı Dr. Paul Moreau'ya ait olduğu ortaya çıkar. Moreau, Braddock'u misafir olarak karşılar ancak onunla ilgili çok farklı planları vardır. Braddock, adadaki diğer sakinlerle ilgili tuhaf şeyler olduğunu keşfeder. İlk bakışta insan gibi görünen bu varlıkların gerçek doğası çok farklı ve ürperticidir. Dr. Moreau'nun Adası, yazar H.G. Wells'in en ünlü kitap uyarlamalarından biridir."
+  },
+  "poster": {
+    "tr": "/q5kWAWxb3eWCkxFNT6WCipAnpQe.jpg",
+    "en": "/q5kWAWxb3eWCkxFNT6WCipAnpQe.jpg"
+  },
+  "backdrops": [
+    "/t4d80bW4Vn86EVIQW0eV2NjhFBh.jpg",
+    "/vLlv18KreqjpaFeyJcgRaYxZlq9.jpg",
+    "/wNXMVAlB4wxjZ6PRSBi78Q8iKt8.jpg",
+    "/5ASLq2mXEhZemQYbNR6RCqDpKLO.jpg",
+    "/wnOTISra5D5s4h8DgQg5iUOvmiY.jpg",
+    "/7Dgcq9Oo6mROlpzEtgjJISAuO8i.jpg",
+    "/htn7J3JFkEIGeoajLuREDiVxtjL.jpg",
+    "/54FWdXoB40BCwaYhlmaK1vB7sle.jpg"
+  ],
+  "trailerKey": "h56KU83R8q4",
+  "genreIds": [
+    878,
+    27,
+    12
+  ],
+  "keywordIds": [
+    2041,
+    1706,
+    6017,
+    1852,
+    9410,
+    9714
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "American International Pictures",
+    "Major Productions"
+  ],
+  "crew": [
+    {
+      "personId": 9108,
+      "job": "director"
+    },
+    {
+      "personId": 96626,
+      "job": "writer"
+    },
+    {
+      "personId": 52025,
+      "job": "composer"
+    },
+    {
+      "personId": 40052,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 38062,
+      "job": "producer"
+    },
+    {
+      "personId": 1390216,
+      "job": "producer"
+    },
+    {
+      "personId": 102650,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13784,
+      "character": "Dr. Paul Moreau",
+      "order": 0
+    },
+    {
+      "personId": 13919,
+      "character": "Andrew Braddock",
+      "order": 1
+    },
+    {
+      "personId": 13327,
+      "character": "Montgomery",
+      "order": 2
+    },
+    {
+      "personId": 10938,
+      "character": "Maria",
+      "order": 3
+    },
+    {
+      "personId": 5403,
+      "character": "Sayer of the Law",
+      "order": 4
+    },
+    {
+      "personId": 69934,
+      "character": "M'Ling",
+      "order": 5
+    },
+    {
+      "personId": 2804847,
+      "character": "Boarman",
+      "order": 6
+    },
+    {
+      "personId": 1365358,
+      "character": "Bullman",
+      "order": 7
+    },
+    {
+      "personId": 1074242,
+      "character": "Hyena Man",
+      "order": 8
+    },
+    {
+      "personId": 1535407,
+      "character": "Lionman",
+      "order": 9
+    },
+    {
+      "personId": 2847470,
+      "character": "Tigerman",
+      "order": 10
+    },
+    {
+      "personId": 81693,
+      "character": "Bearman",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 182,
+  "sources": [
+    "cult-list"
+  ]
+}

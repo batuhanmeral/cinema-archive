@@ -1,0 +1,207 @@
+{
+  "tmdbId": 613,
+  "slug": "downfall-2004",
+  "year": 2004,
+  "runtime": 155,
+  "originalTitle": "Der Untergang",
+  "title": {
+    "en": "Downfall",
+    "tr": "Çöküş"
+  },
+  "overview": {
+    "en": "In April of 1945, Germany stands at the brink of defeat with the Russian Army closing in from the east and the Allied Expeditionary Force attacking from the west. In Berlin, capital of the Third Reich, Adolf Hitler proclaims that Germany will still achieve victory and orders his generals and advisers to fight to the last man. When the end finally does come, and Hitler lies dead by his own hand, what is left of his military must find a way to end the killing that is the Battle of Berlin, and lay down their arms in surrender.",
+    "tr": "Hitler ve yakın arkadaşları kendilerini sığınaklarda güvene almışlardır. Aralarında Führer'in özel sekreteri Traudi Junge de vardır. Berlin artık düşmüş bir kaledir fakat Hitler, şehirden çıkmayı ve teslim olmayı kabul etmemektedir. Halkının tüm fertleri dışarıda yok edilirken o, son yolculuğuna hazırlanmaktadır. Birlikte intihar etmeden birkaç saat önce Eva Braun ile evlenirler. Cesetleri düşman eline geçmemesi için yakılır. Führer'in peşinden yıllarca sadık bir şekilde gitmiş birçok insanın durumu da farklı değildir. Berlin düşerken herkesin ölümle yaşam arasında seçim yapma saati giderek yaklaşmaktadır."
+  },
+  "poster": {
+    "tr": "/6hDEtyNW133mFddxS9GjAMv4Pix.jpg",
+    "en": "/cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg"
+  },
+  "backdrops": [
+    "/xgAEfHByamMdRCA31oERQrsiutF.jpg",
+    "/grRV8O63Ee3e6NmFO2SqQfqV2nT.jpg",
+    "/cT80aGpjWZLn8rd7cLtsbktFMhf.jpg",
+    "/7GaIhvhZ9szV0AdYgejtZ8fXaEB.jpg",
+    "/uQgk45kWn7vu2Ub2ia6av1WkEJu.jpg",
+    "/vhoFZWnqp3SUeZ3Ah1TmfjRNxHd.jpg",
+    "/t5ncc3FQHGEl0L8GvFiBr222uSt.jpg",
+    "/hvINcZ57JNLHylfjTVB6hd0Uefz.jpg",
+    "/xk8aRohvlTWN4D9SGxGW6uYupg8.jpg",
+    "/8ZfZnSeiwwlSfWrmoC1nAtuozUI.jpg"
+  ],
+  "trailerKey": "Bp1RXmM1-60",
+  "genreIds": [
+    18,
+    36,
+    10752
+  ],
+  "keywordIds": [
+    3737,
+    818,
+    2652,
+    1443,
+    407,
+    351,
+    2300,
+    2052,
+    1956,
+    2321,
+    2535,
+    2850,
+    3054,
+    3055,
+    3060,
+    3061,
+    1698,
+    3065,
+    3068,
+    9672,
+    6165,
+    33671,
+    207883,
+    241930
+  ],
+  "countries": [
+    "AT",
+    "DE",
+    "IT"
+  ],
+  "languages": [
+    "hu",
+    "de",
+    "ru"
+  ],
+  "studios": [
+    "NDR",
+    "ORF",
+    "ARD Degeto"
+  ],
+  "crew": [
+    {
+      "personId": 673,
+      "job": "producer"
+    },
+    {
+      "personId": 5135,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8804,
+      "job": "composer"
+    },
+    {
+      "personId": 673,
+      "job": "writer"
+    },
+    {
+      "personId": 7832,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2310,
+      "character": "Adolf Hitler",
+      "order": 0
+    },
+    {
+      "personId": 5644,
+      "character": "Traudl Junge",
+      "order": 1
+    },
+    {
+      "personId": 680,
+      "character": "Magda Goebbels",
+      "order": 2
+    },
+    {
+      "personId": 8796,
+      "character": "Joseph Goebbels",
+      "order": 3
+    },
+    {
+      "personId": 8797,
+      "character": "Eva Braun",
+      "order": 4
+    },
+    {
+      "personId": 1086,
+      "character": "Albert Speer",
+      "order": 5
+    },
+    {
+      "personId": 7803,
+      "character": "Prof. Dr. Ernst-Günter Schenck",
+      "order": 6
+    },
+    {
+      "personId": 3491,
+      "character": "SS-Gruppenführer Hermann Fegelein",
+      "order": 7
+    },
+    {
+      "personId": 8799,
+      "character": "Reichsführer SS Heinrich Himmler",
+      "order": 8
+    },
+    {
+      "personId": 8800,
+      "character": "Gerda Christian",
+      "order": 9
+    },
+    {
+      "personId": 8801,
+      "character": "General der Infanterie Hans Krebs",
+      "order": 10
+    },
+    {
+      "personId": 5646,
+      "character": "General der Infanterie Wilhelm Burgdorf",
+      "order": 11
+    },
+    {
+      "personId": 8802,
+      "character": "General der Artillerie Helmuth Weidling",
+      "order": 12
+    },
+    {
+      "personId": 1846,
+      "character": "SS-Brigadeführer Wilhelm Mohnke",
+      "order": 13
+    },
+    {
+      "personId": 37102,
+      "character": "Generaloberst Alfred Jodl",
+      "order": 14
+    },
+    {
+      "personId": 10744,
+      "character": "SS-Hauptsturmführer Otto Günsche",
+      "order": 15
+    },
+    {
+      "personId": 18944,
+      "character": "Kammerdiener Heinz Linge",
+      "order": 16
+    },
+    {
+      "personId": 8199,
+      "character": "Martin Bormann",
+      "order": 17
+    },
+    {
+      "personId": 50143,
+      "character": "Peter Kranz",
+      "order": 18
+    },
+    {
+      "personId": 4534,
+      "character": "Prof. Dr. Werner Haase",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4519,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "tmdbId": 89,
+  "slug": "indiana-jones-and-the-last-crusade-1989",
+  "year": 1989,
+  "runtime": 127,
+  "originalTitle": "Indiana Jones and the Last Crusade",
+  "title": {
+    "en": "Indiana Jones and the Last Crusade",
+    "tr": "Indiana Jones: Son Macera"
+  },
+  "overview": {
+    "en": "In 1938, an art collector appeals to eminent archaeologist Dr. Indiana Jones to embark on a search for the Holy Grail. Indy learns that a medieval historian has vanished while searching for it, and the missing man is his own father, Dr. Henry Jones Sr.. He sets out to rescue his father by following clues in the old man's notebook, which his father had mailed to him before he went missing. Indy arrives in Venice, where he enlists the help of a beautiful academic, Dr. Elsa Schneider, along with Marcus Brody and Sallah. Together they must stop the Nazis from recovering the power of eternal life and taking over the world!",
+    "tr": "Tarihin en ünlü maceracı arkeologu Indiana Jones’a babası Dr. Henry Jones tarafından bir günlük gönderilir. Bu günlüğün içerisinde gizemli Kutsal Kase’ye dair bazı ipuçları ve bir harita bulunmaktadır. Özel bir koleksiyoncudan babasının ortadan kaybolduğunu öğrenen Indiana Jones, müze kuruatörü Marcus Brody’i de yanına alarak İtalya’ya babasını aramaya gider. Burada kendilerini buldukları yer ise bir Nazi bölgesidir ve Naziler de Kutsal Kase’nin peşindedir. Babasını kurtarmaya giden Indiana’nın birincil hedefi Kutsal Kase’yi Nazilerden önce ele geçirmek olacaktır."
+  },
+  "poster": {
+    "tr": "/grTXFQ12RWr0u4qmAEqFFrWOQpg.jpg",
+    "en": "/sizg1AU8f8JDZX4QIgE4pjUMBvx.jpg"
+  },
+  "backdrops": [
+    "/je2QsgBLEy4lzsvWprwfoZKmIX1.jpg",
+    "/267Mdb5i1AXuVN64DhVEOUPmM25.jpg",
+    "/S6lLHuyh86V6SDRkSBsbuVTE6n.jpg",
+    "/12fvZHskx57kQfNEUXJ3v0flWYQ.jpg",
+    "/7KGdTzKux4fp5sW7hUM33NWqBU1.jpg",
+    "/2Y7nbXrDtHwAfcTX7KBN0z40OAy.jpg",
+    "/4waXf28obXu6azfrAgtc7RjhgMT.jpg",
+    "/mepkgQAeLXd5SCwdFvHn17lv849.jpg",
+    "/r48vHoEjYnZtkfcbJBm4JZF4f1Q.jpg",
+    "/1d2OdjNv2F7ZTakossPZvrYQQTf.jpg"
+  ],
+  "trailerKey": "DKg36LBVgfg",
+  "genreIds": [
+    12,
+    28
+  ],
+  "keywordIds": [
+    83,
+    2652,
+    113,
+    110,
+    2847,
+    2901,
+    74,
+    483,
+    3156,
+    3520,
+    11117,
+    5737,
+    9663,
+    11489,
+    12391,
+    15272,
+    33479,
+    41585,
+    41586,
+    156386,
+    161257,
+    169990,
+    191004,
+    195295,
+    208760,
+    209305,
+    214548,
+    222832,
+    240119,
+    241930,
+    272219,
+    279911,
+    303295,
+    303310,
+    325811
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "ar",
+    "en",
+    "de",
+    "el"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "Lucasfilm Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 488,
+      "job": "director"
+    },
+    {
+      "personId": 711,
+      "job": "producer"
+    },
+    {
+      "personId": 737,
+      "job": "writer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 666,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3,
+      "character": "Indiana Jones",
+      "order": 0
+    },
+    {
+      "personId": 738,
+      "character": "Professor Henry Jones",
+      "order": 1
+    },
+    {
+      "personId": 656,
+      "character": "Marcus Brody",
+      "order": 2
+    },
+    {
+      "personId": 739,
+      "character": "Elsa",
+      "order": 3
+    },
+    {
+      "personId": 655,
+      "character": "Sallah",
+      "order": 4
+    },
+    {
+      "personId": 740,
+      "character": "Walter Donovan",
+      "order": 5
+    },
+    {
+      "personId": 741,
+      "character": "Young Indy",
+      "order": 6
+    },
+    {
+      "personId": 742,
+      "character": "Vogel",
+      "order": 7
+    },
+    {
+      "personId": 743,
+      "character": "Kazım",
+      "order": 8
+    },
+    {
+      "personId": 744,
+      "character": "Grail Knight",
+      "order": 9
+    },
+    {
+      "personId": 745,
+      "character": "Fedora",
+      "order": 10
+    },
+    {
+      "personId": 746,
+      "character": "Sultan",
+      "order": 11
+    },
+    {
+      "personId": 747,
+      "character": "Young Henry",
+      "order": 12
+    },
+    {
+      "personId": 748,
+      "character": "Panama Hat",
+      "order": 13
+    },
+    {
+      "personId": 749,
+      "character": "Mrs. Donovan",
+      "order": 14
+    },
+    {
+      "personId": 649,
+      "character": "Butler",
+      "order": 15
+    },
+    {
+      "personId": 1402876,
+      "character": "Herman",
+      "order": 16
+    },
+    {
+      "personId": 3039,
+      "character": "Roscoe",
+      "order": 17
+    },
+    {
+      "personId": 1020340,
+      "character": "Half Breed",
+      "order": 18
+    },
+    {
+      "personId": 1402879,
+      "character": "Rough Rider",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 11491,
+  "sources": [
+    "cult-list"
+  ]
+}

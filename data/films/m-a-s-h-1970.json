@@ -1,0 +1,198 @@
+{
+  "tmdbId": 651,
+  "slug": "m-a-s-h-1970",
+  "year": 1970,
+  "runtime": 116,
+  "originalTitle": "M*A*S*H",
+  "title": {
+    "en": "M*A*S*H",
+    "tr": "Cephede Eğlence"
+  },
+  "overview": {
+    "en": "One of the world's most acclaimed comedies, M*A*S*H focuses on three Korean War Army surgeons brilliantly brought to life by Donald Sutherland, Tom Skerritt and Elliott Gould. Though highly skilled and deeply dedicated, they adopt a hilarious, lunatic lifestyle as an antidote to the tragedies of their Mobile Army Surgical Hospital, and in the process infuriate Army bureaucrats. Robert Duvall, Gary Burghoff and Sally Kellerman co-star as a sanctimonious Major, an other-worldly Corporal, and a self-righteous yet lusty nurse.",
+    "tr": "Filmde 1951 yılında Kore Savaşı sırasında cephenin gerisinde görev yapan ve MASH ('Seyyar Ordu Cerrahi Hastanesi' anlamına gelen 'Mobile Army Surgical Hospital' kelimelerinin baş harflerinden oluşan bir kısaltmadır) adı verilen sahra hastanelerinden birinde görev yapan ve genel olarak 'kasap' olarak adlandırılan bir grup cerrah ve yardımcı personelin serüvenleri anlatılmaktadır. Bu cerrahlar ekibinin hiç biri meslekten asker değildir. Buraya sivil hastanelerden gelmişlerdir. Dolayısı ile askeri disiplin buradaki çadır hastanelerde en son görülecek şeydir. Her gün yapılan ağır ameliyatlar, kesilen uzuvlar, ölen insanlar ve savaşın diğer acıları arasında gülmeye, eğlenmeye ve gırgırlarını geçmeye vakit bulabilirler, tabii asli görevlerini hiç aksatmadan. Aslında filmde tek bir çarpışma sahnesi yer almaz, buna rağmen MASH en büyük savaş karşıtı filmlerden biridir..."
+  },
+  "poster": {
+    "tr": "/on8Q9LhtHYNhmITjUMpgOUkIG8o.jpg",
+    "en": "/xZHNAcCVd5gUy68MBc4CmDqmely.jpg"
+  },
+  "backdrops": [
+    "/xtdppb9qsfX0Z2cUJ0OiaNR6UV1.jpg",
+    "/3YWL6rZmvZxCQw2qEwxPGrqhYku.jpg",
+    "/u4u4c5I12Vt6lZI3j6e8CAbOMnW.jpg",
+    "/ekRpN8gN88MhoFGD24LNDiENX8i.jpg",
+    "/by0rA1QlPMy1s17oYSxnORsIny5.jpg",
+    "/nNTeRHqopJ2PcBO1uN3g6WYjrgZ.jpg",
+    "/rV0P2iD3d6yUN3rMMcxfUIHGSoa.jpg",
+    "/29JVfZuKtzaiLhC54RO2mc0XgwN.jpg",
+    "/gCECHUFHiJoo1v76plp0yLnNm9W.jpg",
+    "/i0P6MvNK0doAn0xVF1y4nrTJ4l3.jpg"
+  ],
+  "trailerKey": "NJ6quIFtbXs",
+  "genreIds": [
+    35,
+    18,
+    10752
+  ],
+  "keywordIds": [
+    818,
+    10123,
+    3262,
+    3263,
+    3264,
+    11138,
+    13005,
+    157959,
+    165431,
+    198421,
+    208611,
+    220811,
+    260672,
+    332778
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ja",
+    "ko"
+  ],
+  "studios": [
+    "Ingo Preminger Productions",
+    "20th Century Fox",
+    "Aspen Productions"
+  ],
+  "crew": [
+    {
+      "personId": 9796,
+      "job": "composer"
+    },
+    {
+      "personId": 9789,
+      "job": "director"
+    },
+    {
+      "personId": 9793,
+      "job": "producer"
+    },
+    {
+      "personId": 7509,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9791,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 55636,
+      "character": "Hawkeye Pierce",
+      "order": 0
+    },
+    {
+      "personId": 827,
+      "character": "Trapper John McIntyre",
+      "order": 1
+    },
+    {
+      "personId": 4139,
+      "character": "Duke Forrest",
+      "order": 2
+    },
+    {
+      "personId": 9805,
+      "character": "Maj. Margaret 'Hot Lips' O'Houlihan",
+      "order": 3
+    },
+    {
+      "personId": 3087,
+      "character": "Maj. Frank Burns",
+      "order": 4
+    },
+    {
+      "personId": 9806,
+      "character": "Lt. Col. Henry Blake",
+      "order": 5
+    },
+    {
+      "personId": 9807,
+      "character": "Father John Mulcahy",
+      "order": 6
+    },
+    {
+      "personId": 9808,
+      "character": "St. Major Wade Vollmer",
+      "order": 7
+    },
+    {
+      "personId": 9809,
+      "character": "Lt. 'Dish' Schneider",
+      "order": 8
+    },
+    {
+      "personId": 9810,
+      "character": "Cpl. 'Radar' O'Reilly",
+      "order": 9
+    },
+    {
+      "personId": 9811,
+      "character": "Dr. Oliver 'Spearchucker' Jones",
+      "order": 10
+    },
+    {
+      "personId": 4776,
+      "character": "'Me Lai' Marston",
+      "order": 11
+    },
+    {
+      "personId": 1225418,
+      "character": "Lt. Leslie",
+      "order": 12
+    },
+    {
+      "personId": 1509280,
+      "character": "PFC. Seidman",
+      "order": 13
+    },
+    {
+      "personId": 161681,
+      "character": "Sgt. Gorman",
+      "order": 14
+    },
+    {
+      "personId": 1663268,
+      "character": "Ho-Jon",
+      "order": 15
+    },
+    {
+      "personId": 30612,
+      "character": "Cpl. Judson",
+      "order": 16
+    },
+    {
+      "personId": 24046,
+      "character": "Capt. 'Painless' Waldowski",
+      "order": 17
+    },
+    {
+      "personId": 1663269,
+      "character": "Capt. Storch",
+      "order": 18
+    },
+    {
+      "personId": 8555,
+      "character": "'Ugly John'",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1,
+    "cannes": 1
+  },
+  "voteCount": 1215,
+  "sources": [
+    "cult-list"
+  ]
+}

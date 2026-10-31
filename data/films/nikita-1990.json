@@ -1,0 +1,193 @@
+{
+  "tmdbId": 9322,
+  "slug": "nikita-1990",
+  "year": 1990,
+  "runtime": 117,
+  "originalTitle": "Nikita",
+  "title": {
+    "en": "Nikita",
+    "tr": "Nikita"
+  },
+  "overview": {
+    "en": "A beautiful felon, sentenced to life in prison for the murder of a policeman, is given a second chance – as a secret political assassin controlled by the government.",
+    "tr": "Bir soygun sırasında yakalanıp hapse düşen Nikita'nın kaybedecek hiçbir şeyi yoktur. Fransız gizli servisi, kendileri için tetikçi olmasını teklif eder. Kabul etmemesi durumunda ise zaten cenazesi kaldırılmıştır."
+  },
+  "poster": {
+    "tr": "/1ulQDewUG4KKHOhpXdGKm3GdLFq.jpg",
+    "en": "/1ulQDewUG4KKHOhpXdGKm3GdLFq.jpg"
+  },
+  "backdrops": [
+    "/ciXTaqQgLglDfDB5MIBYZOhMXUs.jpg",
+    "/mdCsfoc1gzcQlBXhk61pYD43y4O.jpg",
+    "/7sEnZXoXegOnuWiwxG9qAKHtb7L.jpg",
+    "/rlQeFfAnqj9IxPBVB5OclHxQ6Dt.jpg",
+    "/se7vyiQA19aN7BkyfQMAHXsgzF3.jpg",
+    "/j0s1duGb9eVZZ3iMdZTS7gVykQi.jpg",
+    "/eABixYGVTo73AerX5GJEyP4dvQE.jpg",
+    "/8XUK9VUluW8KE98JPZlcDgsKdbg.jpg",
+    "/xlhJQ7yP1AWqloNEKp4ejsajVQ1.jpg",
+    "/9ULt1q512M1tT6zNtQd8wxBqmDA.jpg"
+  ],
+  "trailerKey": "Gh8RoDMUUsA",
+  "genreIds": [
+    28,
+    53
+  ],
+  "keywordIds": [
+    4654,
+    110,
+    1366,
+    1308,
+    2653,
+    5422,
+    9840,
+    9679,
+    12366,
+    12367,
+    12422,
+    41336
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "it"
+  ],
+  "studios": [
+    "Gaumont",
+    "Cecchi Gori Group Tiger Cinematografica",
+    "Les Films du Loup"
+  ],
+  "crew": [
+    {
+      "personId": 59,
+      "job": "director"
+    },
+    {
+      "personId": 60,
+      "job": "producer"
+    },
+    {
+      "personId": 996,
+      "job": "composer"
+    },
+    {
+      "personId": 997,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 59,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57298,
+      "character": "Nikita",
+      "order": 0
+    },
+    {
+      "personId": 7037,
+      "character": "Marco",
+      "order": 1
+    },
+    {
+      "personId": 10698,
+      "character": "Bob",
+      "order": 2
+    },
+    {
+      "personId": 1003,
+      "character": "Victor, the Cleaner",
+      "order": 3
+    },
+    {
+      "personId": 2170,
+      "character": "Rico",
+      "order": 4
+    },
+    {
+      "personId": 14812,
+      "character": "Armande",
+      "order": 5
+    },
+    {
+      "personId": 57299,
+      "character": "Coyotte",
+      "order": 6
+    },
+    {
+      "personId": 24763,
+      "character": "Interrogation Cop",
+      "order": 7
+    },
+    {
+      "personId": 72090,
+      "character": "The Pharmacist",
+      "order": 8
+    },
+    {
+      "personId": 2168,
+      "character": "The Embassy Attaché",
+      "order": 9
+    },
+    {
+      "personId": 550110,
+      "character": "The Ambassador / Jules, his double",
+      "order": 10
+    },
+    {
+      "personId": 57300,
+      "character": "Zap",
+      "order": 11
+    },
+    {
+      "personId": 1679686,
+      "character": "The Punk",
+      "order": 12
+    },
+    {
+      "personId": 1491164,
+      "character": "Pharmacy Cop",
+      "order": 13
+    },
+    {
+      "personId": 1679687,
+      "character": "The Pharmacist",
+      "order": 14
+    },
+    {
+      "personId": 25333,
+      "character": "Chief Grossman",
+      "order": 15
+    },
+    {
+      "personId": 1679860,
+      "character": "Pharmacy Cop",
+      "order": 16
+    },
+    {
+      "personId": 1679864,
+      "character": "Pharmacy Cop",
+      "order": 17
+    },
+    {
+      "personId": 579326,
+      "character": "Pharmacy Cop",
+      "order": 18
+    },
+    {
+      "personId": 1679866,
+      "character": "Trainee Cop",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2252,
+  "sources": [
+    "cult-list"
+  ]
+}

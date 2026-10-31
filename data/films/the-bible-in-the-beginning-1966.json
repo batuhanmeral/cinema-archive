@@ -1,0 +1,192 @@
+{
+  "tmdbId": 2525,
+  "slug": "the-bible-in-the-beginning-1966",
+  "year": 1966,
+  "runtime": 175,
+  "originalTitle": "The Bible: In the Beginning...",
+  "title": {
+    "en": "The Bible: In the Beginning...",
+    "tr": "Peygamberler Tarihi"
+  },
+  "overview": {
+    "en": "Covering only the first 22 chapters of the Book of Genesis, vignettes include: Adam and Eve frolicking in the Garden of Eden until their indulgence in the forbidden fruit sees them driven out; Cain murdering his brother Abel; Noah building an ark to preserve the animals of the world from the coming flood; and Abraham making a covenant with God.",
+    "tr": "Peygamberler Tarihi, İncil'in Yaratılış bölümünü (Adem ile Havva'dan Nuh Tufanı'na kadar) epik bir sinema diliyle aktarıyor. Huston aynı zamanda Nuh rolüyle kamera karşısına geçiyor. Film, görsel efektleri ve Toshiro Mayuzumi'nin bestelediği senfonik müziklerle döneminin ötesinde bir teknik sunuyor."
+  },
+  "poster": {
+    "tr": "/2BtesvzFQJYFS2sPVVbUdet0TTC.jpg",
+    "en": "/ieeRDCyqdtQ41DESITzhpZkH3CU.jpg"
+  },
+  "backdrops": [
+    "/ucAfZRSs1jP5trOoE6GZNoDpgvs.jpg",
+    "/6zeowgbJ57HnrbeDEOTc2bIAoIB.jpg",
+    "/6xBqZoj40gIAyLSuemwI38c6OID.jpg",
+    "/6J6VDo90qtJ7u3ujVrdyXry4TqR.jpg",
+    "/fgHy3k1oj0m3K2gFMtjOj40wcnI.jpg",
+    "/1PgIPAWUYrGKVVbYIVgBG3wKxh7.jpg",
+    "/jFbWvcliY7NQbmAPDllGcm9Xtve.jpg",
+    "/6OvMLm70qNBVDD0sHPpvidZ9OAL.jpg",
+    "/jNDPsnWynwwPJM8wSO4nMgjSGGS.jpg",
+    "/eXxaCEBqsB8C4UAlBrK9WlyRYQi.jpg"
+  ],
+  "trailerKey": "uDrSn0wrJTU",
+  "genreIds": [
+    12,
+    36,
+    18
+  ],
+  "keywordIds": [
+    5966,
+    747,
+    3036,
+    9706,
+    173272,
+    186756,
+    189886,
+    195790,
+    210450,
+    215127,
+    229731,
+    253695
+  ],
+  "countries": [
+    "IT",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Thalia AG",
+    "DDL Cinematografica",
+    "Seven Arts Productions"
+  ],
+  "crew": [
+    {
+      "personId": 6593,
+      "job": "director"
+    },
+    {
+      "personId": 15131,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5398,
+      "job": "producer"
+    },
+    {
+      "personId": 25800,
+      "job": "composer"
+    },
+    {
+      "personId": 25796,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2536,
+      "character": "Adam",
+      "order": 0
+    },
+    {
+      "personId": 25779,
+      "character": "Eve",
+      "order": 1
+    },
+    {
+      "personId": 194,
+      "character": "Cain",
+      "order": 2
+    },
+    {
+      "personId": 6593,
+      "character": "Noah",
+      "order": 3
+    },
+    {
+      "personId": 10020,
+      "character": "Nimrod",
+      "order": 4
+    },
+    {
+      "personId": 862,
+      "character": "Abraham",
+      "order": 5
+    },
+    {
+      "personId": 25787,
+      "character": "Sarah",
+      "order": 6
+    },
+    {
+      "personId": 11390,
+      "character": "The Three Angels",
+      "order": 7
+    },
+    {
+      "personId": 25788,
+      "character": "Hagar",
+      "order": 8
+    },
+    {
+      "personId": 4961,
+      "character": "Lot",
+      "order": 9
+    },
+    {
+      "personId": 25789,
+      "character": "Lot's wife",
+      "order": 10
+    },
+    {
+      "personId": 22383,
+      "character": "Abel",
+      "order": 11
+    },
+    {
+      "personId": 25780,
+      "character": "Noah's wife",
+      "order": 12
+    },
+    {
+      "personId": 11841,
+      "character": "Abraham's Steward",
+      "order": 13
+    },
+    {
+      "personId": 25782,
+      "character": "Ham",
+      "order": 14
+    },
+    {
+      "personId": 1428054,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 994437,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 25791,
+      "character": "Lot's daughter # 2",
+      "order": 17
+    },
+    {
+      "personId": 25781,
+      "character": "Shem",
+      "order": 18
+    },
+    {
+      "personId": 1019113,
+      "character": "Nimrod's wife",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 305,
+  "sources": [
+    "cult-list"
+  ]
+}

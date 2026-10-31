@@ -1,0 +1,117 @@
+{
+  "tmdbId": 104729,
+  "slug": "midnight-1982",
+  "year": 1982,
+  "runtime": 94,
+  "originalTitle": "Midnight",
+  "title": {
+    "en": "Midnight",
+    "tr": "Midnight"
+  },
+  "overview": {
+    "en": "While hitchhiking to escape an abusive home life, a teenage girl is picked up by a couple on a camping trip. The trip turns deadly when a group of Satanists, hellbent on resurrecting their dead mother, attack the campers.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/v4Nmsv4fwlOUO2GMtE0N2MUpW3H.jpg",
+    "en": "/v4Nmsv4fwlOUO2GMtE0N2MUpW3H.jpg"
+  },
+  "backdrops": [
+    "/p4KhT3E16smLzVJy4nkHG0k653o.jpg",
+    "/iNOVE2QeU81TqphF4RmJmFUE0Xq.jpg",
+    "/xTF1IfCur23Mu2R2yZ02bBUvZDL.jpg",
+    "/3hcu1QWKB8FPUx9H2VmBixm6pPW.jpg",
+    "/cszRcMYUzsYkS9RTDibAqiqPMCh.jpg",
+    "/favIgHpvu1lYAqmXCzoBTUee0LK.jpg",
+    "/yGYKJTwYuXMhZhZ5teVjabZZgqz.jpg",
+    "/3ZJz15e6nbfwxPTHJ62JXdEakkY.jpg",
+    "/5tK4KPYlnYimObkxaBOwH3ejqMx.jpg",
+    "/tgUdWkrilXmhyBjvnem01Bi3MMN.jpg"
+  ],
+  "trailerKey": "Qw2fyAZ_dYk",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    15378,
+    163055
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Congregational Productions"
+  ],
+  "crew": [
+    {
+      "personId": 64831,
+      "job": "director"
+    },
+    {
+      "personId": 3748440,
+      "job": "composer"
+    },
+    {
+      "personId": 3748441,
+      "job": "producer"
+    },
+    {
+      "personId": 64831,
+      "job": "writer"
+    },
+    {
+      "personId": 103823,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1271612,
+      "character": "Nancy Johnson",
+      "order": 0
+    },
+    {
+      "personId": 6937,
+      "character": "Bert Johnson",
+      "order": 1
+    },
+    {
+      "personId": 102809,
+      "character": "Tom",
+      "order": 2
+    },
+    {
+      "personId": 1271613,
+      "character": "Hank",
+      "order": 3
+    },
+    {
+      "personId": 1926680,
+      "character": "Harriet Johnson",
+      "order": 4
+    },
+    {
+      "personId": 15057,
+      "character": "Abraham",
+      "order": 5
+    },
+    {
+      "personId": 1706719,
+      "character": "Luke",
+      "order": 6
+    },
+    {
+      "personId": 1707701,
+      "character": "Mama",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 24,
+  "sources": [
+    "cult-list"
+  ]
+}

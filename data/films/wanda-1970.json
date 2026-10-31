@@ -1,0 +1,177 @@
+{
+  "tmdbId": 80560,
+  "slug": "wanda-1970",
+  "year": 1970,
+  "runtime": 103,
+  "originalTitle": "Wanda",
+  "title": {
+    "en": "Wanda",
+    "tr": "Wanda"
+  },
+  "overview": {
+    "en": "After a string of abusive relationships, Wanda abandons her family and seeks solace in the company of a petty criminal.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/izuJ7cUhcihFnTpfsdSnkMCHsRQ.jpg",
+    "en": "/izuJ7cUhcihFnTpfsdSnkMCHsRQ.jpg"
+  },
+  "backdrops": [
+    "/7UdzaHsaYSN6U6xKu1lvwo2tTVz.jpg",
+    "/x9e20OP119zvZX1M4fjRQuYjQ1T.jpg",
+    "/bL1etbhvRGhHhpjbwzHZbXNwM5R.jpg",
+    "/mhjELbpxIGkJYXDqfmNrK9mG42f.jpg",
+    "/8Xp7YLJ4THrA63irA5wGR8NhjIE.jpg",
+    "/pJui7SjTQUDSFG3eT0xF2znbmeu.jpg",
+    "/acmRKt95IDcEJfQerN6Z9IOyCZS.jpg",
+    "/pyNlo6HlXizOZ4vWqSnmjtr6ZI0.jpg",
+    "/bPB8H9SNtVMlHJHZn7vO6K8UwA2.jpg",
+    "/1oZltIzGzSbIa7ufXh2aw57pajU.jpg"
+  ],
+  "trailerKey": "KF32MBvdy70",
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    904,
+    9727,
+    9935,
+    187056
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Foundation for Filmakers",
+    "Televentures"
+  ],
+  "crew": [
+    {
+      "personId": 123012,
+      "job": "writer"
+    },
+    {
+      "personId": 123012,
+      "job": "director"
+    },
+    {
+      "personId": 955133,
+      "job": "producer"
+    },
+    {
+      "personId": 1120041,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 123012,
+      "character": "Wanda Goronski",
+      "order": 0
+    },
+    {
+      "personId": 2979,
+      "character": "Mr. Dennis",
+      "order": 1
+    },
+    {
+      "personId": 589676,
+      "character": "Wanda's Sister",
+      "order": 2
+    },
+    {
+      "personId": 1175671,
+      "character": "Brother In Law",
+      "order": 3
+    },
+    {
+      "personId": 1175672,
+      "character": "Husband",
+      "order": 4
+    },
+    {
+      "personId": 2124434,
+      "character": "Miss Godek",
+      "order": 5
+    },
+    {
+      "personId": 565514,
+      "character": "Girl in Roadhouse",
+      "order": 6
+    },
+    {
+      "personId": 2893890,
+      "character": "Tony",
+      "order": 7
+    },
+    {
+      "personId": 2893891,
+      "character": "Judge",
+      "order": 8
+    },
+    {
+      "personId": 2893892,
+      "character": "Court Clerk",
+      "order": 9
+    },
+    {
+      "personId": 2893893,
+      "character": "Factory Owner",
+      "order": 10
+    },
+    {
+      "personId": 2893894,
+      "character": "Factory Owners Wife",
+      "order": 11
+    },
+    {
+      "personId": 2893896,
+      "character": "Travelling Salesman",
+      "order": 12
+    },
+    {
+      "personId": 2893899,
+      "character": "Joe",
+      "order": 13
+    },
+    {
+      "personId": 2893900,
+      "character": "Father",
+      "order": 14
+    },
+    {
+      "personId": 2893901,
+      "character": "Mr. Anderson",
+      "order": 15
+    },
+    {
+      "personId": 2893903,
+      "character": "Mrs. Anderson",
+      "order": 16
+    },
+    {
+      "personId": 1411607,
+      "character": "Anderson Daughter",
+      "order": 17
+    },
+    {
+      "personId": 2893904,
+      "character": "Anderson Daughter",
+      "order": 18
+    },
+    {
+      "personId": 2893905,
+      "character": "Newscaster",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 165,
+  "sources": [
+    "cult-list"
+  ]
+}

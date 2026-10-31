@@ -1,0 +1,219 @@
+{
+  "tmdbId": 1923,
+  "slug": "twin-peaks-fire-walk-with-me-1992",
+  "year": 1992,
+  "runtime": 135,
+  "originalTitle": "Twin Peaks: Fire Walk with Me",
+  "title": {
+    "en": "Twin Peaks: Fire Walk with Me",
+    "tr": "İkiz Tepeler: Ateşte Benimle Yürü"
+  },
+  "overview": {
+    "en": "In the questionable town of Deer Meadow, Washington, FBI Agent Desmond inexplicably disappears while hunting for the man who murdered a teen girl. The killer is never apprehended, and, after experiencing dark visions and supernatural encounters, Agent Dale Cooper chillingly predicts that the culprit will claim another life. Meanwhile, in the more cozy town of Twin Peaks, hedonistic beauty Laura Palmer hangs with lowlifes and seems destined for a grisly fate.",
+    "tr": "\"İkiz Tepeler: Ateşte Benimle Yürü\", FBI Ajanı Chet Desmond'ın Teresa Banks adlı genç bir garson kızın cinayetini soruşturması ile başlıyor ve ertesi yıl Twin Peaks kasabasında işlenen yeni bir cinayetle sürüyor. Gündüzleri sıradan bir lise öğrencisi olan Laura Palmer, gecelerini uyuşturucu parası için fahişelik yaparak geçirir. Laura ve arkadaşlarının verdiği bir seks partisi Twin Peaks kasabasında asla unutulmayacaktır."
+  },
+  "poster": {
+    "tr": "/mxsGXqetGnirf99qapYd5MMY1VL.jpg",
+    "en": "/Acua5L9cLRCHKL9JsDBJqqlo36m.jpg"
+  },
+  "backdrops": [
+    "/g5G19q0xgkzWEvfcGo1KcL8nQOk.jpg",
+    "/cMy6YIWjrPu2RTFGbRR08fvIsPo.jpg",
+    "/yXbHbNzqPu2eVPTGwbri6yN4cnA.jpg",
+    "/wrldL7IUMEMsrsAtQW9AKF6QKm.jpg",
+    "/73fH1MoISwT5sYUikAdEk6f8CM3.jpg",
+    "/tE1ORrBx7sqxdnZMLSqSjEZf4jJ.jpg",
+    "/amGU1FpELmenVvNmPShW58Orepy.jpg",
+    "/3ZGtS6XLaPaUb3AokNVtuGDdSF7.jpg",
+    "/iyWLmpOETrRuwEqxr7LKkCVvFqW.jpg",
+    "/vVC4MXzPKXWDAzAJg7yeNphOgzd.jpg"
+  ],
+  "trailerKey": "vCUxM9UZrd0",
+  "genreIds": [
+    18,
+    9648,
+    27
+  ],
+  "keywordIds": [
+    6270,
+    1415,
+    848,
+    739,
+    703,
+    1812,
+    1803,
+    1817,
+    5340,
+    6152,
+    9887,
+    9675,
+    10614,
+    9826,
+    11004,
+    10714,
+    10809,
+    13059,
+    14707,
+    14964,
+    33841,
+    164218,
+    164724,
+    171341,
+    192241,
+    208271,
+    210608,
+    234763,
+    238137,
+    241827,
+    256183,
+    269769,
+    272551,
+    281776,
+    282133,
+    295809
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "la"
+  ],
+  "studios": [
+    "CiBy Pictures",
+    "Twin Peaks Productions"
+  ],
+  "crew": [
+    {
+      "personId": 5602,
+      "job": "director"
+    },
+    {
+      "personId": 20004,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 15802,
+      "job": "producer"
+    },
+    {
+      "personId": 5628,
+      "job": "composer"
+    },
+    {
+      "personId": 15797,
+      "job": "writer"
+    },
+    {
+      "personId": 5602,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6726,
+      "character": "Laura Palmer",
+      "order": 0
+    },
+    {
+      "personId": 6719,
+      "character": "Leland Palmer",
+      "order": 1
+    },
+    {
+      "personId": 6714,
+      "character": "Shelly Johnson",
+      "order": 2
+    },
+    {
+      "personId": 6715,
+      "character": "Bobby Briggs",
+      "order": 3
+    },
+    {
+      "personId": 15796,
+      "character": "Ronette Pulaski",
+      "order": 4
+    },
+    {
+      "personId": 7487,
+      "character": "Phillip Jeffries",
+      "order": 5
+    },
+    {
+      "personId": 9323,
+      "character": "Leo Johnson",
+      "order": 6
+    },
+    {
+      "personId": 15860,
+      "character": "Albert Rosenfield",
+      "order": 7
+    },
+    {
+      "personId": 59789,
+      "character": "Teresa Banks",
+      "order": 8
+    },
+    {
+      "personId": 69122,
+      "character": "Annie Blackburn",
+      "order": 9
+    },
+    {
+      "personId": 6591,
+      "character": "Special Agent Chester Desmond",
+      "order": 10
+    },
+    {
+      "personId": 20005,
+      "character": "Donna Hayward",
+      "order": 11
+    },
+    {
+      "personId": 152759,
+      "character": "Norma Jennings",
+      "order": 12
+    },
+    {
+      "personId": 5602,
+      "character": "Gordon Cole",
+      "order": 13
+    },
+    {
+      "personId": 6717,
+      "character": "James Hurley",
+      "order": 14
+    },
+    {
+      "personId": 920,
+      "character": "Woodsman",
+      "order": 15
+    },
+    {
+      "personId": 5048,
+      "character": "Carl Rodd",
+      "order": 16
+    },
+    {
+      "personId": 2628,
+      "character": "Sam Stanley",
+      "order": 17
+    },
+    {
+      "personId": 15799,
+      "character": "Harold Smith",
+      "order": 18
+    },
+    {
+      "personId": 6465,
+      "character": "Sarah Palmer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2390,
+  "sources": [
+    "cult-list"
+  ]
+}

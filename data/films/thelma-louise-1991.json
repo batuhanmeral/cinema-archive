@@ -1,0 +1,232 @@
+{
+  "tmdbId": 1541,
+  "slug": "thelma-louise-1991",
+  "year": 1991,
+  "runtime": 130,
+  "originalTitle": "Thelma & Louise",
+  "title": {
+    "en": "Thelma & Louise",
+    "tr": "Thelma ve Louise"
+  },
+  "overview": {
+    "en": "Taking a break from their dreary lives, close friends Thelma and Louise embark on a short weekend trip that ends in unforeseen incriminating circumstances. As fugitives, both women rediscover the strength of their bond and their newfound resilience.",
+    "tr": "Erkek arkadaşından bıkan Arkansaslı garson kız Louise (Susan Sarandon), ihmalkar ve cinsiyet ayrımcısı kocasıyla birlikte sıkıcı bir hayatı olan arkadaşı Thelma'yı (Geena Davis) ayartır. Birlikte özgürlükle dolu bir haftasonu araba seyahatine çıkarlar.İlk uğrak yerleri olan barda gevşeyip dansederler ve yöre erkekleriyle eğlenip hoş bir akşam geçirirler. Ancak bir adam Thelma'yı park yerine kadar izleyip tecavüze yeltenince Louise yetişip onu öldürmek zorunda kalır. Polisin kendilerine hiç bir zaman inanmayacağı paranoyasına kapılan kadınlar kaçmaya karar verirler ve bir anda kanun kaçağı durumuna düşerler. Son olaylardan kötü etkilenen Thelma kafayı toparlamak için genç bir kovboy olan J.D (Brad Pitt) ile bir gecelik ilişki yaşar ve işler daha da sarpa sarar."
+  },
+  "poster": {
+    "tr": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg",
+    "en": "/vbRAGLzbC75QfiKD1lKjmnQGuph.jpg"
+  },
+  "backdrops": [
+    "/gXPtXbvI0nfLihu1dXgehAxsvm1.jpg",
+    "/cot4kbRIuoOE4XjZhgcXG0IDIOH.jpg",
+    "/u49EZzHvGCNrHdQxkc3hhLmQEPP.jpg",
+    "/e6T00r0BO3UlgBcPKnAUbS4rPyx.jpg",
+    "/h3RPxNpCxaRE7VlAagQrZ5RvzEU.jpg",
+    "/vmvSqWQTEaMAj1pudBZAGEolkdK.jpg",
+    "/frT8WRHMFUxE3bBesxZbXXiWwdQ.jpg",
+    "/aPbLJchSIrKuaTzNaemWEQUtZvw.jpg",
+    "/dFzMt7lJYwDMnOejlxIiPYnCW76.jpg",
+    "/XlFM4bxwPSfAtnza39QR3J5r83.jpg"
+  ],
+  "trailerKey": "g8Uti7PDLnI",
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    642,
+    828,
+    531,
+    2801,
+    3306,
+    3451,
+    5248,
+    5521,
+    5522,
+    7312,
+    9727,
+    10850,
+    9826,
+    10085,
+    10562,
+    11546,
+    15214,
+    18034,
+    18087,
+    155573,
+    165038,
+    167043,
+    168713,
+    190327,
+    212737,
+    215061,
+    217310,
+    235153,
+    240484,
+    254167,
+    254795,
+    259376,
+    266753,
+    292593,
+    293649,
+    296912,
+    325778,
+    325781,
+    325810,
+    325811,
+    325812,
+    325830,
+    325832,
+    325842,
+    347822,
+    351331
+  ],
+  "countries": [
+    "GB",
+    "US",
+    "FR"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Scott Free Productions",
+    "Star Partners III",
+    "MGM-Pathé Communications"
+  ],
+  "crew": [
+    {
+      "personId": 947,
+      "job": "composer"
+    },
+    {
+      "personId": 17398,
+      "job": "producer"
+    },
+    {
+      "personId": 578,
+      "job": "director"
+    },
+    {
+      "personId": 578,
+      "job": "producer"
+    },
+    {
+      "personId": 7783,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 17397,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4038,
+      "character": "Louise",
+      "order": 0
+    },
+    {
+      "personId": 16935,
+      "character": "Thelma",
+      "order": 1
+    },
+    {
+      "personId": 1037,
+      "character": "Hal",
+      "order": 2
+    },
+    {
+      "personId": 147,
+      "character": "Jimmy",
+      "order": 3
+    },
+    {
+      "personId": 4443,
+      "character": "Darryl",
+      "order": 4
+    },
+    {
+      "personId": 537,
+      "character": "Max",
+      "order": 5
+    },
+    {
+      "personId": 287,
+      "character": "J.D.",
+      "order": 6
+    },
+    {
+      "personId": 17396,
+      "character": "Harlan",
+      "order": 7
+    },
+    {
+      "personId": 5148,
+      "character": "Lena, the Waitress",
+      "order": 8
+    },
+    {
+      "personId": 37203,
+      "character": "State Trooper",
+      "order": 9
+    },
+    {
+      "personId": 63214,
+      "character": "Albert",
+      "order": 10
+    },
+    {
+      "personId": 45308,
+      "character": "Major",
+      "order": 11
+    },
+    {
+      "personId": 174906,
+      "character": "East Indian Motel Clerk",
+      "order": 12
+    },
+    {
+      "personId": 172271,
+      "character": "Waitress",
+      "order": 13
+    },
+    {
+      "personId": 616377,
+      "character": "Surveilance Man",
+      "order": 14
+    },
+    {
+      "personId": 941194,
+      "character": "Plainclothes Cop",
+      "order": 15
+    },
+    {
+      "personId": 1875001,
+      "character": "I.D. Tech",
+      "order": 16
+    },
+    {
+      "personId": 2065031,
+      "character": "Silver Bullet Dancer",
+      "order": 17
+    },
+    {
+      "personId": 2065032,
+      "character": "Girl Smoker",
+      "order": 18
+    },
+    {
+      "personId": 1875002,
+      "character": "Mountain Bike Rider",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 4059,
+  "sources": [
+    "cult-list"
+  ]
+}

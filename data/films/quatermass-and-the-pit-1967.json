@@ -1,0 +1,187 @@
+{
+  "tmdbId": 26912,
+  "slug": "quatermass-and-the-pit-1967",
+  "year": 1967,
+  "runtime": 97,
+  "originalTitle": "Quatermass and the Pit",
+  "title": {
+    "en": "Quatermass and the Pit",
+    "tr": "Dr. Quatermass ve Çukur"
+  },
+  "overview": {
+    "en": "A mysterious artifact unearthed below a London Underground station proves to have powerful psychic effects on the people around.",
+    "tr": "Londra Metrosu'nda kazı yapan işçiler bir çok insan kemiğine rastlarlar, bunun üzerine hemen polise haber verilir. Polis, konuyu araştırması için Profesör Bernard Quatermass ve Dr. Mathew Roney'e haber gönderir. Bilim adamları çalışmaya başladıktan bir müddet sonra metro inşaatında kazılar esnasında 5 milyon yıl önce dünyaya düşmüş bir ufo bulurlar. Bundan sonra konuya askerler el koyar ve ufodan kaynaklanan garip olaylar patlak vermeye başlar."
+  },
+  "poster": {
+    "tr": "/AvruSt4xRIbXO8gVxPzHupbf5A2.jpg",
+    "en": "/AvruSt4xRIbXO8gVxPzHupbf5A2.jpg"
+  },
+  "backdrops": [
+    "/4thlb8BV5BFWtD1whfH5a21bmJ8.jpg",
+    "/7tNDFo5h2VlPXDQz70HpsOF7VwM.jpg",
+    "/b2fIcSQGs94O7mIXNEUK94AqcXk.jpg",
+    "/zqnDSm1Bjcqm69DiVo0sRKWCNCg.jpg",
+    "/cSIuITAtm3XJ0c5l5cTFwIbxD7d.jpg",
+    "/dctxCN7WjtrS85XXeylQb8hvkT.jpg",
+    "/cDRRmWrOpNxDpZ0SwNyW2H4ps1P.jpg",
+    "/bY1vmbVV2v2ObwafzOrNOLNO9hk.jpg",
+    "/giozxVr2JsCalI8knIvMyDoMf1b.jpg",
+    "/w8ReyTPPDimqb1q1QtvTm9JnkBx.jpg"
+  ],
+  "trailerKey": "BhDUbQ9xFMM",
+  "genreIds": [
+    878,
+    27
+  ],
+  "keywordIds": [
+    1612,
+    212,
+    1992,
+    1719,
+    2187,
+    7033,
+    10539,
+    14760,
+    210434,
+    269769,
+    325778
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Hammer Film Productions"
+  ],
+  "crew": [
+    {
+      "personId": 26134,
+      "job": "director"
+    },
+    {
+      "personId": 66202,
+      "job": "writer"
+    },
+    {
+      "personId": 30138,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 29665,
+      "job": "producer"
+    },
+    {
+      "personId": 43790,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 53815,
+      "character": "Prof. Bernard Quatermass",
+      "order": 0
+    },
+    {
+      "personId": 12250,
+      "character": "Dr. Mathew Roney",
+      "order": 1
+    },
+    {
+      "personId": 101478,
+      "character": "Barbara Judd",
+      "order": 2
+    },
+    {
+      "personId": 740,
+      "character": "Colonel Breen",
+      "order": 3
+    },
+    {
+      "personId": 76184,
+      "character": "Captain Potter",
+      "order": 4
+    },
+    {
+      "personId": 114533,
+      "character": "Sergeant Cleghorn",
+      "order": 5
+    },
+    {
+      "personId": 29659,
+      "character": "Sladden",
+      "order": 6
+    },
+    {
+      "personId": 28482,
+      "character": "Howell",
+      "order": 7
+    },
+    {
+      "personId": 184981,
+      "character": "Minister",
+      "order": 8
+    },
+    {
+      "personId": 89771,
+      "character": "Police Sergeant Ellis",
+      "order": 9
+    },
+    {
+      "personId": 47383,
+      "character": "Abbey Librarian",
+      "order": 10
+    },
+    {
+      "personId": 13332,
+      "character": "Vicar",
+      "order": 11
+    },
+    {
+      "personId": 30420,
+      "character": "Jerry Watson",
+      "order": 12
+    },
+    {
+      "personId": 18760,
+      "character": "Miss Dobson",
+      "order": 13
+    },
+    {
+      "personId": 96180,
+      "character": "Journalist",
+      "order": 14
+    },
+    {
+      "personId": 1231171,
+      "character": "Sapper West",
+      "order": 15
+    },
+    {
+      "personId": 134144,
+      "character": "Elderly Journalist",
+      "order": 16
+    },
+    {
+      "personId": 1231604,
+      "character": "Pub Customer",
+      "order": 17
+    },
+    {
+      "personId": 229365,
+      "character": "Blonde",
+      "order": 18
+    },
+    {
+      "personId": 80498,
+      "character": "Johnson",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 286,
+  "sources": [
+    "cult-list"
+  ]
+}

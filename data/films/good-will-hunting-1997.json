@@ -1,0 +1,204 @@
+{
+  "tmdbId": 489,
+  "slug": "good-will-hunting-1997",
+  "year": 1997,
+  "runtime": 127,
+  "originalTitle": "Good Will Hunting",
+  "title": {
+    "en": "Good Will Hunting",
+    "tr": "Can Dostum"
+  },
+  "overview": {
+    "en": "Will Hunting is a headstrong, working-class genius who is failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor, who might be the only man who can reach him.",
+    "tr": "Can Dostum’da Will Hunting, toplumdaki genel zeka seviyesinin çok çok üzerinde bir zeka seviyesine sahip, MIT’de temizlikçi olarak çalışan genç bir çocuktur. Temizlik yaptığı bir akşamlardan, bir sınıfın tahtasında yazılı olan bir matematik sorusuna denk gelir. Çözülmesi neredeyse imkânsız olan bu soruyu rahatça çözen Will, sessiz sedasız ortadan kaybolur. Kısa zaman içerisinde soruyu yazan profesör tarafından keşfedilen Will, bu başarıyı diğer sorularda da sürdürecektir. Ancak bir kavga nedeniyle hapis cezasına çarptırılan gencin, bu beladan kurtulabilmek için profesöre ihtiyacı vardır."
+  },
+  "poster": {
+    "tr": "/rcvidea8xtCZF32x6ATUlLYfpJ5.jpg",
+    "en": "/bABCBKYBK7A5G1x0FzoeoNfuj2.jpg"
+  },
+  "backdrops": [
+    "/bpV8wn48s82au37QyUJ51S7X2Vf.jpg",
+    "/4ywKTlsIllvQYRiZJPwYACJIHY8.jpg",
+    "/uzM4Rdr7aMQNdT8MqKY5Mic733N.jpg",
+    "/cqegECy0S1NbwtQwlYKcF6GMe87.jpg",
+    "/vbpZxGxZQGkCZdYyQqoM26YS98.jpg",
+    "/vsHhkiU8AfKPTDuwAit1bTpibEW.jpg",
+    "/xj1Sv1xm4Y0ydBueGuf10Y9qM0O.jpg",
+    "/oLsts7ct0NVkdYpx5rZg10MG6zh.jpg",
+    "/jTQ1ulyMbrjVQdWMobQINMwDqL9.jpg",
+    "/nBemIVLygG18e0DLRWo5YadqdWB.jpg"
+  ],
+  "trailerKey": "ReIJ1lbL-Q8",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1680,
+    6009,
+    6257,
+    3230,
+    9856,
+    11268,
+    10756,
+    13043,
+    33519,
+    155939,
+    209206,
+    212059,
+    228041,
+    230113,
+    287814,
+    296918,
+    319397,
+    325761,
+    345081,
+    345082,
+    345083
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Lawrence Bender Productions",
+    "Be Gentlemen Limited Partnership",
+    "Miramax"
+  ],
+  "crew": [
+    {
+      "personId": 2545,
+      "job": "producer"
+    },
+    {
+      "personId": 5216,
+      "job": "director"
+    },
+    {
+      "personId": 6626,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1892,
+      "job": "writer"
+    },
+    {
+      "personId": 880,
+      "job": "writer"
+    },
+    {
+      "personId": 531,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1892,
+      "character": "Will Hunting",
+      "order": 0
+    },
+    {
+      "personId": 2157,
+      "character": "Sean Maguire",
+      "order": 1
+    },
+    {
+      "personId": 880,
+      "character": "Chuckie Sullivan",
+      "order": 2
+    },
+    {
+      "personId": 1640,
+      "character": "Gerald Lambeau",
+      "order": 3
+    },
+    {
+      "personId": 6613,
+      "character": "Skylar",
+      "order": 4
+    },
+    {
+      "personId": 1893,
+      "character": "Morgan O'Mally",
+      "order": 5
+    },
+    {
+      "personId": 6614,
+      "character": "Billy McBride",
+      "order": 6
+    },
+    {
+      "personId": 6623,
+      "character": "MIT Student",
+      "order": 7
+    },
+    {
+      "personId": 6615,
+      "character": "Tom",
+      "order": 8
+    },
+    {
+      "personId": 6616,
+      "character": "Krystyn",
+      "order": 9
+    },
+    {
+      "personId": 6617,
+      "character": "Cathy",
+      "order": 10
+    },
+    {
+      "personId": 6618,
+      "character": "Barbershop Quartet #1",
+      "order": 11
+    },
+    {
+      "personId": 6619,
+      "character": "Barbershop Quartet #2",
+      "order": 12
+    },
+    {
+      "personId": 6620,
+      "character": "Barbershop Quartet #3",
+      "order": 13
+    },
+    {
+      "personId": 6621,
+      "character": "Barbershop Quartet #4",
+      "order": 14
+    },
+    {
+      "personId": 2841,
+      "character": "MIT Student",
+      "order": 15
+    },
+    {
+      "personId": 6622,
+      "character": "MIT Student",
+      "order": 16
+    },
+    {
+      "personId": 1281440,
+      "character": "Girl on Street",
+      "order": 17
+    },
+    {
+      "personId": 1281441,
+      "character": "Carmine Scarpaglia",
+      "order": 18
+    },
+    {
+      "personId": 163438,
+      "character": "Carmine Friend #1",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 14514,
+  "sources": [
+    "cult-list"
+  ]
+}

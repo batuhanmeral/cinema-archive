@@ -1,0 +1,188 @@
+{
+  "tmdbId": 170,
+  "slug": "28-days-later-2002",
+  "year": 2002,
+  "runtime": 113,
+  "originalTitle": "28 Days Later",
+  "title": {
+    "en": "28 Days Later",
+    "tr": "28 Gün Sonra"
+  },
+  "overview": {
+    "en": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+    "tr": "İngiltere'de bir genetik araştırmalar ensitüsünde insan doğasındaki şiddet ve öfkeyle ilgili bazı tehlikeli deneyler yapılmış ve bunun sonucunda 'rage' adını verdikleri bir virüs geliştirilmiştir. Bir grup aktivist, biliminsanlarının maymunlara zarar verdikleri gerekçesiyle deneylerin yapıldığı binaya sızarak korunaklı kafeslerde tutulan ve 'rage' virüsü aşılanan maymunlardan birini serbest bırakırlar. Fakat serbest kalan maymun kafesten çıkar çıkmaz eylemcilerden birine saldırır ve olaylar içinden çıkılmaz bir hal alır."
+  },
+  "poster": {
+    "tr": "/3BF0L0fQm3oLC2yWJIPyUBRG2Q5.jpg",
+    "en": "/sQckQRt17VaWbo39GIu0TMOiszq.jpg"
+  },
+  "backdrops": [
+    "/4npL5g0QOxuIZKsEx6SnC8niDuo.jpg",
+    "/3s7uwQKH0WmaeO7VCqAOK3C5gjF.jpg",
+    "/x085XrfEmU31QeXgMFttmuoGr0Y.jpg",
+    "/aJFwk1clMal1prxAvKAgHxKPAf.jpg",
+    "/bp1vDzHZCKVPoVRxvwaXoMBXAlq.jpg",
+    "/rJP8rrfbWPYgpNqwHSHQ5wlBpIm.jpg",
+    "/f1tnO7PvxmECOSIeU9OLn9MssKp.jpg",
+    "/c1sm7cW00FElsrPesriLGejvsVQ.jpg",
+    "/gsIDpjsYbvBXxTTxEkjWVhkQnTK.jpg",
+    "/sb611J551OUiwXyRGKfiASzpGpd.jpg"
+  ],
+  "trailerKey": "mWEhfF27O0c",
+  "genreIds": [
+    27,
+    53,
+    878
+  ],
+  "keywordIds": [
+    212,
+    4884,
+    9744,
+    12377,
+    14707,
+    50009,
+    186565,
+    188957,
+    208418,
+    359337
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ],
+  "studios": [
+    "DNA Films"
+  ],
+  "crew": [
+    {
+      "personId": 2034,
+      "job": "director"
+    },
+    {
+      "personId": 1570,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2035,
+      "job": "producer"
+    },
+    {
+      "personId": 960,
+      "job": "composer"
+    },
+    {
+      "personId": 2036,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2037,
+      "character": "Jim",
+      "order": 0
+    },
+    {
+      "personId": 2038,
+      "character": "Selena",
+      "order": 1
+    },
+    {
+      "personId": 2039,
+      "character": "Frank",
+      "order": 2
+    },
+    {
+      "personId": 2058,
+      "character": "Hannah",
+      "order": 3
+    },
+    {
+      "personId": 2040,
+      "character": "Major Henry West",
+      "order": 4
+    },
+    {
+      "personId": 2050,
+      "character": "Mark",
+      "order": 5
+    },
+    {
+      "personId": 68307,
+      "character": "Private Clifton",
+      "order": 6
+    },
+    {
+      "personId": 2258,
+      "character": "Seargent Farrell",
+      "order": 7
+    },
+    {
+      "personId": 63003,
+      "character": "Corporal Mitchell",
+      "order": 8
+    },
+    {
+      "personId": 29237,
+      "character": "Private Jones",
+      "order": 9
+    },
+    {
+      "personId": 195446,
+      "character": "Private Bell",
+      "order": 10
+    },
+    {
+      "personId": 82107,
+      "character": "Private Bedford",
+      "order": 11
+    },
+    {
+      "personId": 2067293,
+      "character": "Private Davis",
+      "order": 12
+    },
+    {
+      "personId": 63080,
+      "character": "Private Mailer",
+      "order": 13
+    },
+    {
+      "personId": 2052,
+      "character": "Jim's Father",
+      "order": 14
+    },
+    {
+      "personId": 2054,
+      "character": "Jim's Mother",
+      "order": 15
+    },
+    {
+      "personId": 2060,
+      "character": "Activist",
+      "order": 16
+    },
+    {
+      "personId": 2061,
+      "character": "Activist",
+      "order": 17
+    },
+    {
+      "personId": 2063,
+      "character": "Activist",
+      "order": 18
+    },
+    {
+      "personId": 2065,
+      "character": "Scientist",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 9028,
+  "sources": [
+    "cult-list"
+  ]
+}

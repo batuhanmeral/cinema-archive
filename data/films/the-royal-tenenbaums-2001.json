@@ -1,0 +1,198 @@
+{
+  "tmdbId": 9428,
+  "slug": "the-royal-tenenbaums-2001",
+  "year": 2001,
+  "runtime": 110,
+  "originalTitle": "The Royal Tenenbaums",
+  "title": {
+    "en": "The Royal Tenenbaums",
+    "tr": "Tenenbaum Ailesi"
+  },
+  "overview": {
+    "en": "Royal Tenenbaum and his wife Etheline had three children and then they separated. All three children are extraordinary --- all geniuses. Virtually all memory of the brilliance of the young Tenenbaums was subsequently erased by two decades of betrayal, failure, and disaster. Most of this was generally considered to be their father's fault. \"The Royal Tenenbaums\" is the story of the family's sudden, unexpected reunion one recent winter.",
+    "tr": "Royal Tenenbaum ve karısı Etheline’nin üç çocukları vardır: Chas , Richie ve Margot. Ve Çift bir gün ayrılma kararı alır. Oysa o güne dek; Chas çocuk sayılacak yaştayken emlak işine girmiştir ve uluslararası finans dünyasında neler olup bittiğini bilecek düzeydedir. Margot oyun yazmaktadır ve henüz dokuzuncu sınıftayken elli bin USD’lik Braveman Grant ödülünün sahibi olmuştur. Richie teniste küçükler şampiyonudur ve U.S. Nationals finallerini üç yıl üst üste kazanmıştır. Şimdi, genç Tenenbaum’ların tüm bu parlak hayatı üzerinden ihanet, başarısızlık ve felaket dolu 20 yıl geçmiş ve herşeyin sorumlusu olarak kabul edilen kişi, genellikle ailenin babasıdır. The Royal Tenenbaums, bir dahiler ailesinin ve bu ailenin birdenbire, umulmadık şekilde bir kış toplantısı için yeniden biraraya gelmesinin hikayesidir."
+  },
+  "poster": {
+    "tr": "/nG7hZJn7wQTSDCQT39Gy3s3tbrp.jpg",
+    "en": "/syaECBy6irxSgeF0m5ltGPNTWXL.jpg"
+  },
+  "backdrops": [
+    "/g2s22rGjCTCYsjI1iAflem7HjdG.jpg",
+    "/aoy8HmDvoGPwWiGnQKFErg7FVYB.jpg",
+    "/cbuX448RKetr5Y5cZkmJEfu3xji.jpg",
+    "/m4x1TS3H4pwbFhvSlJWJac7WjC.jpg",
+    "/a1XL7isNoCftulne4uqrypTaiLD.jpg",
+    "/9NpvsVQxFKJZyhJYI81XsaF9NST.jpg",
+    "/yvsvXrSRBMYXhATIlnd0WMOziut.jpg",
+    "/9DT8LouUaE5RIXh9s4GQyDF788f.jpg",
+    "/R4MqE4CkKwIpxUCUzNJrwDPgAq.jpg",
+    "/lt27eeJpg3hvsS4cLRxGz9wxP09.jpg"
+  ],
+  "trailerKey": "-DNAI9bhBFU",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    3446,
+    3170,
+    4232,
+    5561,
+    6564,
+    10041,
+    155294,
+    325824
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Touchstone Pictures",
+    "American Empirical Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 5655,
+      "job": "director"
+    },
+    {
+      "personId": 5655,
+      "job": "producer"
+    },
+    {
+      "personId": 5664,
+      "job": "producer"
+    },
+    {
+      "personId": 2997,
+      "job": "producer"
+    },
+    {
+      "personId": 5666,
+      "job": "composer"
+    },
+    {
+      "personId": 5667,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5655,
+      "job": "writer"
+    },
+    {
+      "personId": 887,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 193,
+      "character": "Royal Tenenbaum",
+      "order": 0
+    },
+    {
+      "personId": 5657,
+      "character": "Etheline Tenenbaum",
+      "order": 1
+    },
+    {
+      "personId": 7399,
+      "character": "Chas Tenenbaum",
+      "order": 2
+    },
+    {
+      "personId": 12052,
+      "character": "Margot Tenenbaum",
+      "order": 3
+    },
+    {
+      "personId": 36422,
+      "character": "Richie Tenenbaum",
+      "order": 4
+    },
+    {
+      "personId": 887,
+      "character": "Eli Cash",
+      "order": 5
+    },
+    {
+      "personId": 1532,
+      "character": "Raleigh St. Clair",
+      "order": 6
+    },
+    {
+      "personId": 2047,
+      "character": "Henry Sherman",
+      "order": 7
+    },
+    {
+      "personId": 5950,
+      "character": "Dusty",
+      "order": 8
+    },
+    {
+      "personId": 8690,
+      "character": "Pagoda",
+      "order": 9
+    },
+    {
+      "personId": 7447,
+      "character": "Narrator (voice)",
+      "order": 10
+    },
+    {
+      "personId": 1226596,
+      "character": "Ari Tenenbaum",
+      "order": 11
+    },
+    {
+      "personId": 57772,
+      "character": "Uzi Tenenbaum",
+      "order": 12
+    },
+    {
+      "personId": 1916913,
+      "character": "Young Chas Tenenbaum",
+      "order": 13
+    },
+    {
+      "personId": 946171,
+      "character": "Young Margot Tenenbaum",
+      "order": 14
+    },
+    {
+      "personId": 1916914,
+      "character": "Young Richie Tenenbaum",
+      "order": 15
+    },
+    {
+      "personId": 1545799,
+      "character": "Dudley Heinsbergen",
+      "order": 16
+    },
+    {
+      "personId": 1916915,
+      "character": "Young Eli Cash",
+      "order": 17
+    },
+    {
+      "personId": 19511,
+      "character": "Peter Bradley",
+      "order": 18
+    },
+    {
+      "personId": 2086089,
+      "character": "Detective",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 5261,
+  "sources": [
+    "cult-list"
+  ]
+}

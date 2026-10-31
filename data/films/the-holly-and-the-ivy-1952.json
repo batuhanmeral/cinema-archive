@@ -1,0 +1,136 @@
+{
+  "tmdbId": 79817,
+  "slug": "the-holly-and-the-ivy-1952",
+  "year": 1952,
+  "runtime": 83,
+  "originalTitle": "The Holly and the Ivy",
+  "title": {
+    "en": "The Holly and the Ivy",
+    "tr": "The Holly and the Ivy"
+  },
+  "overview": {
+    "en": "An English clergyman's neglect of his grown children, in his zeal to tend to his parishioners, comes to the surface at a Christmas family gathering.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ivKbMaB1KLZf4gaogkxRs7EHmMQ.jpg",
+    "en": "/GPO493LmTvI4JI78J89iGEGZG8.jpg"
+  },
+  "backdrops": [
+    "/uH1Z4v7iXGYcgIZ6vIb7loMNXr6.jpg",
+    "/w8THCNGipyYuKZUKfZ243eJRUHo.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    65,
+    12999,
+    207317
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "London Films Productions",
+    "De Grunwald Productions"
+  ],
+  "crew": [
+    {
+      "personId": 126126,
+      "job": "director"
+    },
+    {
+      "personId": 119322,
+      "job": "writer"
+    },
+    {
+      "personId": 119322,
+      "job": "producer"
+    },
+    {
+      "personId": 12241,
+      "job": "composer"
+    },
+    {
+      "personId": 21783,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12689,
+      "character": "Reverend Martin Gregory",
+      "order": 0
+    },
+    {
+      "personId": 12725,
+      "character": "Jenny Gregory",
+      "order": 1
+    },
+    {
+      "personId": 80255,
+      "character": "Margaret Gregory",
+      "order": 2
+    },
+    {
+      "personId": 656,
+      "character": "Michael Gregory",
+      "order": 3
+    },
+    {
+      "personId": 90624,
+      "character": "David Paterson",
+      "order": 4
+    },
+    {
+      "personId": 30227,
+      "character": "Richard Wyndham",
+      "order": 5
+    },
+    {
+      "personId": 1313977,
+      "character": "Aunt Lydia",
+      "order": 6
+    },
+    {
+      "personId": 106153,
+      "character": "Aunt Bridget",
+      "order": 7
+    },
+    {
+      "personId": 73245,
+      "character": "Company Sergeant Major",
+      "order": 8
+    },
+    {
+      "personId": 41958,
+      "character": "Major",
+      "order": 9
+    },
+    {
+      "personId": 9926,
+      "character": "Lord B.",
+      "order": 10
+    },
+    {
+      "personId": 1152423,
+      "character": "Clubman",
+      "order": 11
+    },
+    {
+      "personId": 87747,
+      "character": "Neighbour",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 32,
+  "sources": [
+    "cult-list"
+  ]
+}

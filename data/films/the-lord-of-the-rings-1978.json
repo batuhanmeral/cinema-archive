@@ -1,0 +1,197 @@
+{
+  "tmdbId": 123,
+  "slug": "the-lord-of-the-rings-1978",
+  "year": 1978,
+  "runtime": 132,
+  "originalTitle": "The Lord of the Rings",
+  "title": {
+    "en": "The Lord of the Rings",
+    "tr": "Yüzüklerin Efendisi"
+  },
+  "overview": {
+    "en": "Young Hobbit Frodo Baggins is thrown into an amazing adventure when he's tasked with destroying the One Ring, created by the dark lord Sauron. Frodo must travel in a small fellowship of nine warriors and accomplices. But it won't be an easy journey for the Fellowship of the Ring, on the ultimate quest to rid Middle-earth of evil.",
+    "tr": "Frodo olarak bilinen genç bir Hobbit, Karanlık Lord Sauron tarafından yaratılan Tek Yüzük'ü yok etme görevine atandığında inanılmaz bir maceraya atıldı. Gandelf, Aragorn ve Boromir dahil olmak üzere üç savaşçı ile görevlendirildi. Ama Yüzük Kardeşliği için kolay bir yolculuk olmayacak."
+  },
+  "poster": {
+    "tr": "/DKvQ1DanwEWu8p71LU2fneBz4I.jpg",
+    "en": "/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg"
+  },
+  "backdrops": [
+    "/jOuCWdh0BE6XPu2Vpjl08wDAeFz.jpg",
+    "/x9McE1WFKnAHludiY7xfd7modDC.jpg",
+    "/rBe5PsSJsghKuM2bvRzjXFvKH3S.jpg",
+    "/TXSxV23MWYkezZ3219gtgcSX6n.jpg",
+    "/coC9SPhnr3u9aROls7PjmX9nTV4.jpg",
+    "/x1iOj7itb8vu0eAmVw05zaiPY1H.jpg",
+    "/ziCeVrdOtmuO3y93Weu6xYtHe02.jpg"
+  ],
+  "trailerKey": "wPe6BNPUmI0",
+  "genreIds": [
+    12,
+    16,
+    14
+  ],
+  "keywordIds": [
+    10364,
+    818,
+    603,
+    604,
+    11173,
+    170362,
+    177912,
+    189092,
+    189093,
+    209374,
+    211227,
+    269233,
+    297442,
+    380963
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Fantasy Films",
+    "The Saul Zaentz Company"
+  ],
+  "crew": [
+    {
+      "personId": 2027,
+      "job": "composer"
+    },
+    {
+      "personId": 16384,
+      "job": "director"
+    },
+    {
+      "personId": 16387,
+      "job": "producer"
+    },
+    {
+      "personId": 16389,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 16386,
+      "job": "writer"
+    },
+    {
+      "personId": 1310,
+      "job": "producer"
+    },
+    {
+      "personId": 16385,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16270,
+      "character": "Frodo (voice)",
+      "order": 0
+    },
+    {
+      "personId": 16271,
+      "character": "Gandalf (voice)",
+      "order": 1
+    },
+    {
+      "personId": 16272,
+      "character": "Sam (voice)",
+      "order": 2
+    },
+    {
+      "personId": 5049,
+      "character": "Aragorn (voice)",
+      "order": 3
+    },
+    {
+      "personId": 16273,
+      "character": "Merry (voice)",
+      "order": 4
+    },
+    {
+      "personId": 16274,
+      "character": "Pippin (voice)",
+      "order": 5
+    },
+    {
+      "personId": 16380,
+      "character": "Boromir (voice)",
+      "order": 6
+    },
+    {
+      "personId": 6,
+      "character": "Legolas (voice)",
+      "order": 7
+    },
+    {
+      "personId": 16381,
+      "character": "Gimli (voice)",
+      "order": 8
+    },
+    {
+      "personId": 16275,
+      "character": "Bilbo (voice)",
+      "order": 9
+    },
+    {
+      "personId": 16382,
+      "character": "Gollum (voice)",
+      "order": 10
+    },
+    {
+      "personId": 16383,
+      "character": "Saruman (voice)",
+      "order": 11
+    },
+    {
+      "personId": 694,
+      "character": "Theoden (voice)",
+      "order": 12
+    },
+    {
+      "personId": 10029,
+      "character": "Elrond (voice)",
+      "order": 13
+    },
+    {
+      "personId": 55688,
+      "character": "Galadriel (voice)",
+      "order": 14
+    },
+    {
+      "personId": 111330,
+      "character": "Wormtongue (voice)",
+      "order": 15
+    },
+    {
+      "personId": 101512,
+      "character": "Treebeard (voice)",
+      "order": 16
+    },
+    {
+      "personId": 12828,
+      "character": "Innkeeper (voice)",
+      "order": 17
+    },
+    {
+      "personId": 12659,
+      "character": "Character Actor (voice)",
+      "order": 18
+    },
+    {
+      "personId": 127193,
+      "character": "Character Actor (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1104,
+  "sources": [
+    "cult-list"
+  ]
+}

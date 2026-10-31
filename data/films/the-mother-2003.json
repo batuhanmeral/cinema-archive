@@ -1,0 +1,123 @@
+{
+  "tmdbId": 59210,
+  "slug": "the-mother-2003",
+  "year": 2003,
+  "runtime": 112,
+  "originalTitle": "The Mother",
+  "title": {
+    "en": "The Mother",
+    "tr": "The Mother"
+  },
+  "overview": {
+    "en": "A grandmother has a passionate affair with a man half her age, who is also sleeping with her daughter.",
+    "tr": "May ve kocası Toots, yuppie oğullarının Londra’nın banliyösündeki evine geçici bir ziyaret için geldiklerinde, pek de sevimli olmayan gelinlerinin ve yaramaz torunlarının yaşamlarında iğreti bir yere ilişirler. Toots’un ani ölümü ailenin bireylerini fazla etkilemez, ancak kendini güçsüz hisseden May, evine yalnız dönmekten çekinir; oğlunun ve gelininin isteksizliğine rağmen onların evinde bir süre daha kalmaya karar verir.\r Kısa zaman içinde May ile evin tadilatında çalışan yakışıklı inşaat ustası Darren arasında başlayan sıcak ilişki, May’in daha canlı, daha bakımlı ve cinselliğe daha açık bir insan olmasını sağlayacaktır. May’in Darren’a duyduğu ilginin anlaşılmayacak bir tarafı yoktur aslında; zira Darren çok çekicidir ve May’in evdeki varlığını kabullenir gözüken tek insandır. Ancak bu çekimin May için can acıtan bir tarafı da vardır çünkü Darren, annesine karşı duyduğu öfkeyle ve mutsuz bir yaşamla başa çıkmaya çalışan kızının sevgilisidir."
+  },
+  "poster": {
+    "tr": "/uCoIolCRu8edvQidFDMOdKLPH3t.jpg",
+    "en": "/orz4yFTLaovOvEn458e4kVd3spQ.jpg"
+  },
+  "backdrops": [
+    "/nKg5kyHwYzJU7US64unJfCkjQEd.jpg",
+    "/nMjIjo8NsH67FEmhglsY7OFs0EQ.jpg"
+  ],
+  "trailerKey": "zDWv4U5CvJQ",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    970,
+    14720,
+    157799
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "BBC Film",
+    "Free Range Films",
+    "Renaissance Films"
+  ],
+  "crew": [
+    {
+      "personId": 7017,
+      "job": "director"
+    },
+    {
+      "personId": 18846,
+      "job": "producer"
+    },
+    {
+      "personId": 1073310,
+      "job": "composer"
+    },
+    {
+      "personId": 68720,
+      "job": "writer"
+    },
+    {
+      "personId": 26192,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 77287,
+      "character": "May",
+      "order": 0
+    },
+    {
+      "personId": 8784,
+      "character": "Darren",
+      "order": 1
+    },
+    {
+      "personId": 386,
+      "character": "Toots",
+      "order": 2
+    },
+    {
+      "personId": 978,
+      "character": "Bobby",
+      "order": 3
+    },
+    {
+      "personId": 75063,
+      "character": "Paula",
+      "order": 4
+    },
+    {
+      "personId": 145632,
+      "character": "Helen",
+      "order": 5
+    },
+    {
+      "personId": 1225205,
+      "character": "Au Pair",
+      "order": 6
+    },
+    {
+      "personId": 32060,
+      "character": "Polish Cleaner",
+      "order": 7
+    },
+    {
+      "personId": 31923,
+      "character": "Bruce",
+      "order": 8
+    },
+    {
+      "personId": 1413045,
+      "character": "Estate Agent",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 73,
+  "sources": [
+    "cult-list"
+  ]
+}

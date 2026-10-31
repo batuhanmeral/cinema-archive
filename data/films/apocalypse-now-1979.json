@@ -1,0 +1,217 @@
+{
+  "tmdbId": 28,
+  "slug": "apocalypse-now-1979",
+  "year": 1979,
+  "runtime": 147,
+  "originalTitle": "Apocalypse Now",
+  "title": {
+    "en": "Apocalypse Now",
+    "tr": "Kıyamet"
+  },
+  "overview": {
+    "en": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
+    "tr": "Yönetmenin kurguladığı Final Cut versiyonu ile izleyici karşısına çıkan film, Vietnam'da görev alan bir Amerikan askerine verilen görev sonrasında yaşananları konu ediyor. Yüzbaşı Benjamin Willard, zorlu bir görevle karşı karşıyadır. Willard'dan, Vietnam Savaşı sırasında ordu emirlerini görmezden gelip kendisini tanrı ilan eden özel tim albayını öldürmesi istenir. Willard, gizli görevi yerine getirmeye çalışırken kendisini zorlu durumlarla karşı karşıya bulur."
+  },
+  "poster": {
+    "tr": "/d4upwbYvt4p293O4Fo38alH9mQ3.jpg",
+    "en": "/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg"
+  },
+  "backdrops": [
+    "/9Qs9oyn4iE8QtQjGZ0Hp2WyYNXT.jpg",
+    "/8viWxsL4lwmQZB8QHOCHwMvBGXd.jpg",
+    "/1oWqzZft4AfDvtu48Z1J8t93DDM.jpg",
+    "/1wLx5AaCo4v8czLkLwwZEWSd9Hk.jpg",
+    "/iaN0D6G1UFgiX9u1EGXAYMK0yqI.jpg",
+    "/jmMCq2YPt7m71McPbsYIg5aOGUe.jpg",
+    "/49fzLedFVKgGgFChLMuulDJBY1c.jpg",
+    "/eN5G8vTWLnZxJ0LTd4g27oPObcZ.jpg",
+    "/tMBcxV354RtWahwscwr0fSMVSJh.jpg",
+    "/tf4m8pNngFKzQPZCf9jQRqwf1Ku.jpg"
+  ],
+  "trailerKey": "9l-ViOOFH-s",
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    1008,
+    2957,
+    736,
+    10364,
+    2956,
+    2959,
+    591,
+    2960,
+    6092,
+    726,
+    818,
+    3269,
+    6255,
+    9887,
+    10148,
+    10403,
+    10787,
+    11323,
+    14707,
+    158244,
+    162365,
+    162810,
+    165431,
+    309974,
+    325775,
+    325801
+  ],
+  "countries": [
+    "US",
+    "PH"
+  ],
+  "languages": [
+    "km",
+    "en",
+    "fr",
+    "vi"
+  ],
+  "studios": [
+    "American Zoetrope"
+  ],
+  "crew": [
+    {
+      "personId": 1776,
+      "job": "producer"
+    },
+    {
+      "personId": 1776,
+      "job": "director"
+    },
+    {
+      "personId": 2872,
+      "job": "composer"
+    },
+    {
+      "personId": 7202,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8328,
+      "job": "writer"
+    },
+    {
+      "personId": 1776,
+      "job": "composer"
+    },
+    {
+      "personId": 1776,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8349,
+      "character": "Captain Benjamin Willard",
+      "order": 0
+    },
+    {
+      "personId": 3084,
+      "character": "Colonel Walter Kurtz",
+      "order": 1
+    },
+    {
+      "personId": 8351,
+      "character": "Jay 'Chef' Hicks",
+      "order": 2
+    },
+    {
+      "personId": 8354,
+      "character": "Chief Phillips",
+      "order": 3
+    },
+    {
+      "personId": 2975,
+      "character": "Tyrone 'Clean' Miller",
+      "order": 4
+    },
+    {
+      "personId": 8350,
+      "character": "Lance B. Johnson",
+      "order": 5
+    },
+    {
+      "personId": 3087,
+      "character": "Lieutenant Colonel Bill Kilgore",
+      "order": 6
+    },
+    {
+      "personId": 3173,
+      "character": "General Corman",
+      "order": 7
+    },
+    {
+      "personId": 3,
+      "character": "Colonel",
+      "order": 8
+    },
+    {
+      "personId": 8346,
+      "character": "Jerry, Civilian",
+      "order": 9
+    },
+    {
+      "personId": 349,
+      "character": "Lieutenant Richard M. Colby",
+      "order": 10
+    },
+    {
+      "personId": 1402117,
+      "character": "Mike from San Diego",
+      "order": 11
+    },
+    {
+      "personId": 1739,
+      "character": "Kilgore's Gunner",
+      "order": 12
+    },
+    {
+      "personId": 80874,
+      "character": "Supply Sergeant",
+      "order": 13
+    },
+    {
+      "personId": 550106,
+      "character": "Playmate of the Year",
+      "order": 14
+    },
+    {
+      "personId": 2778,
+      "character": "Photojournalist",
+      "order": 15
+    },
+    {
+      "personId": 13023,
+      "character": "Miss May",
+      "order": 16
+    },
+    {
+      "personId": 1664821,
+      "character": "Playmate",
+      "order": 17
+    },
+    {
+      "personId": 9893,
+      "character": "Roxanne Sarrault",
+      "order": 18
+    },
+    {
+      "personId": 14320,
+      "character": "Soldier in Trench",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2,
+    "cannes": 1
+  },
+  "voteCount": 9514,
+  "sources": [
+    "cult-list"
+  ]
+}

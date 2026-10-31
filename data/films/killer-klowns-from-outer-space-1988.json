@@ -1,0 +1,206 @@
+{
+  "tmdbId": 16296,
+  "slug": "killer-klowns-from-outer-space-1988",
+  "year": 1988,
+  "runtime": 86,
+  "originalTitle": "Killer Klowns from Outer Space",
+  "title": {
+    "en": "Killer Klowns from Outer Space",
+    "tr": "Uzaydan Gelen Katil Palyaçolar"
+  },
+  "overview": {
+    "en": "Aliens disguised as clowns crash land on Earth in a rural town to capture unsuspecting victims in cotton candy cocoons for later consumption.",
+    "tr": "Filmde uzaydan gelen palyaçolar, kasabayı kendilerine özgü türlü yöntemlerle katlederler. Balonlar, pamuk şekerler, gölge oyunları vb. unsurlar normalde insana zevk verebilecek iken, katil palyaçolar sayesinde bir kabusa dönüşür. Onların sirkleri, şekere buladıkları ölü insanlarla doludur. Bütün bunlar izleyici için tamamen korku yaratmaktan çok, izleyiciyi eğlendirmeyi de amaçlamış."
+  },
+  "poster": {
+    "tr": "/lHdAk5T42ofyi3NTjmrdyR7xPmY.jpg",
+    "en": "/AtMEp5pLpJr4wOMCxVezTKi2okL.jpg"
+  },
+  "backdrops": [
+    "/1p9DUV104eeXvFvfyI6ALzKbBbp.jpg",
+    "/30Z4DjbSJEW9oZv4hAksiAmji7r.jpg",
+    "/iNwikASCon9M7Srm3TO4SE7D7rm.jpg",
+    "/y5qPvzwcpqaKaVmOcE7Mlhlbaqd.jpg",
+    "/ibFzbRVlVUTWBf4IZ8Osm9xSgWm.jpg",
+    "/yZ7LrkTiCG68I3K08YtDSEH4On8.jpg",
+    "/854U1q8d5RZKuP8A1d9eF5DtyCY.jpg",
+    "/RpiDMuOHwct0PRS0jM7cKJOgB2.jpg",
+    "/zoQOMpk80wK685NERhKaoISlJdm.jpg",
+    "/uroe4YpfkTlim3y8X2eNdJyVIY5.jpg"
+  ],
+  "trailerKey": "ETiSMS4i1as",
+  "genreIds": [
+    35,
+    27,
+    878
+  ],
+  "keywordIds": [
+    3199,
+    9739,
+    155493,
+    177317,
+    177329,
+    191327,
+    252937,
+    309974,
+    315058,
+    322268,
+    323910,
+    357390
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Sarlui / Diamant Production",
+    "Chiodo Bros. Productions"
+  ],
+  "crew": [
+    {
+      "personId": 80247,
+      "job": "director"
+    },
+    {
+      "personId": 80249,
+      "job": "writer"
+    },
+    {
+      "personId": 80247,
+      "job": "writer"
+    },
+    {
+      "personId": 80251,
+      "job": "writer"
+    },
+    {
+      "personId": 63656,
+      "job": "composer"
+    },
+    {
+      "personId": 80249,
+      "job": "producer"
+    },
+    {
+      "personId": 80251,
+      "job": "producer"
+    },
+    {
+      "personId": 80247,
+      "job": "producer"
+    },
+    {
+      "personId": 101005,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 80245,
+      "character": "Mike Tobacco",
+      "order": 0
+    },
+    {
+      "personId": 20363,
+      "character": "Debbie Stone",
+      "order": 1
+    },
+    {
+      "personId": 80246,
+      "character": "Dave Hanson",
+      "order": 2
+    },
+    {
+      "personId": 17580,
+      "character": "Curtis Mooney",
+      "order": 3
+    },
+    {
+      "personId": 19968,
+      "character": "Farmer Gene Green",
+      "order": 4
+    },
+    {
+      "personId": 80103,
+      "character": "Bob McReed",
+      "order": 5
+    },
+    {
+      "personId": 1706337,
+      "character": "Rich Terenzi",
+      "order": 6
+    },
+    {
+      "personId": 1706339,
+      "character": "Paul Terenzi",
+      "order": 7
+    },
+    {
+      "personId": 1706340,
+      "character": "Stacy",
+      "order": 8
+    },
+    {
+      "personId": 1706342,
+      "character": "Tracy",
+      "order": 9
+    },
+    {
+      "personId": 1706343,
+      "character": "Punk #1",
+      "order": 10
+    },
+    {
+      "personId": 1074167,
+      "character": "Punk #2",
+      "order": 11
+    },
+    {
+      "personId": 1706344,
+      "character": "Mrs. Franco",
+      "order": 12
+    },
+    {
+      "personId": 1192199,
+      "character": "Mr. Myers",
+      "order": 13
+    },
+    {
+      "personId": 2154959,
+      "character": "Mom #1",
+      "order": 14
+    },
+    {
+      "personId": 1331148,
+      "character": "Mom #2",
+      "order": 15
+    },
+    {
+      "personId": 2154960,
+      "character": "Little Girl",
+      "order": 16
+    },
+    {
+      "personId": 2154961,
+      "character": "Waitress",
+      "order": 17
+    },
+    {
+      "personId": 1089421,
+      "character": "Slug",
+      "order": 18
+    },
+    {
+      "personId": 2154962,
+      "character": "Sheila",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1244,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "tmdbId": 29854,
+  "slug": "seizure-1974",
+  "year": 1974,
+  "runtime": 94,
+  "originalTitle": "Seizure",
+  "title": {
+    "en": "Seizure",
+    "tr": "Seizure"
+  },
+  "overview": {
+    "en": "A disturbed author's house party becomes a scene of carnage when three of his homicidal creations appear.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5vY4XtaLvSJxRHg3QQI9Zq0pH4f.jpg",
+    "en": "/cyKcL4kQJzdMoB63RZoLcDvq7kC.jpg"
+  },
+  "backdrops": [
+    "/gYxqNliatlJDh4rFLwwbHvyp6do.jpg",
+    "/ld3azaHiEKwAO3snqgc3DrX0RP5.jpg",
+    "/l1Z925G8J44V3smpiuUXGZKPIx7.jpg",
+    "/yiCdeul4RViZ9CygcQbHwuNuEGS.jpg",
+    "/pJH7torAinvVI77LLMqSPVsBAv8.jpg",
+    "/tExLEm18dDMWCFBvt26aIxAT1m2.jpg",
+    "/gA1dOgLUvTkoxrARu3WEfkeTrfV.jpg",
+    "/kELCWD60J5K6gJE5nvAuG87Ch0N.jpg",
+    "/cVEdG9QV0C620AjG6K4xBeme2oi.jpg"
+  ],
+  "trailerKey": "ji-yfYlCrbc",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    1566,
+    3030,
+    13028
+  ],
+  "countries": [
+    "CA",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Cinerama Productions",
+    "Cine Films Inc."
+  ],
+  "crew": [
+    {
+      "personId": 1152,
+      "job": "director"
+    },
+    {
+      "personId": 1152,
+      "job": "writer"
+    },
+    {
+      "personId": 105037,
+      "job": "producer"
+    },
+    {
+      "personId": 117559,
+      "job": "writer"
+    },
+    {
+      "personId": 4564463,
+      "job": "producer"
+    },
+    {
+      "personId": 4564464,
+      "job": "producer"
+    },
+    {
+      "personId": 1171734,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2355110,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 105061,
+      "character": "Edmund Blackstone",
+      "order": 0
+    },
+    {
+      "personId": 9925,
+      "character": "The Queen",
+      "order": 1
+    },
+    {
+      "personId": 105062,
+      "character": "Charlie Hughes",
+      "order": 2
+    },
+    {
+      "personId": 94978,
+      "character": "Nicole Blackstone",
+      "order": 3
+    },
+    {
+      "personId": 10343,
+      "character": "The Spider",
+      "order": 4
+    },
+    {
+      "personId": 105063,
+      "character": "Eunice Kahn",
+      "order": 5
+    },
+    {
+      "personId": 105064,
+      "character": "Serge Kahn",
+      "order": 6
+    },
+    {
+      "personId": 45363,
+      "character": "Mark Frost",
+      "order": 7
+    },
+    {
+      "personId": 100552,
+      "character": "Mikki Hughes",
+      "order": 8
+    },
+    {
+      "personId": 31186,
+      "character": "Gerald",
+      "order": 9
+    },
+    {
+      "personId": 3171132,
+      "character": "Jason Blackstone",
+      "order": 10
+    },
+    {
+      "personId": 105065,
+      "character": "Jackal",
+      "order": 11
+    },
+    {
+      "personId": 1321313,
+      "character": "Betsy",
+      "order": 12
+    },
+    {
+      "personId": 4564457,
+      "character": "Arris",
+      "order": 13
+    },
+    {
+      "personId": 4564459,
+      "character": "Gas Station Attendant",
+      "order": 14
+    },
+    {
+      "personId": 2916099,
+      "character": "Milkman",
+      "order": 15
+    },
+    {
+      "personId": 1152,
+      "character": "Anchor (voice) (uncredited)",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 35,
+  "sources": [
+    "cult-list"
+  ]
+}

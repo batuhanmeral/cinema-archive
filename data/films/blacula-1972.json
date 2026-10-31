@@ -1,0 +1,186 @@
+{
+  "tmdbId": 30566,
+  "slug": "blacula-1972",
+  "year": 1972,
+  "runtime": 93,
+  "originalTitle": "Blacula",
+  "title": {
+    "en": "Blacula",
+    "tr": "Blacula"
+  },
+  "overview": {
+    "en": "An 18th century African prince is turned into a vampire while visiting Transylvania. Two centuries later, he rises from his coffin attacking various residents of Los Angeles and meets Tina, a woman who he believes is the reincarnation of his deceased wife.",
+    "tr": "18. yüzyılda yaşamış Afrikalı bir prens, Transilvanya'yı ziyaret ederken vampire dönüşür. İki yüzyıl sonra tabutundan çıkarak Los Angeles'ın çeşitli sakinlerine saldırır ve ölen karısının reenkarnasyonu olduğuna inandığı Tina ile tanışır."
+  },
+  "poster": {
+    "tr": "/yLqtFeZfRPoUUzzro3ogCdobB6q.jpg",
+    "en": "/yLqtFeZfRPoUUzzro3ogCdobB6q.jpg"
+  },
+  "backdrops": [
+    "/yd2v918VZTg0sDmONrIGb3yQtwG.jpg",
+    "/sSIkzQbmjzrThWBaIV3H9YgQ1T9.jpg",
+    "/4vCeVuJc6NV50hiEXQCmf3WoMWN.jpg",
+    "/kEDokgzcVskRRKkDfLoIDjaf1cj.jpg",
+    "/3wxgHP7LRSi3s6gvmpHonv45Tz1.jpg",
+    "/aIs81wYv2dWd8daN99ZajgAdvz2.jpg",
+    "/rYFBgiYEYpb2gTA1DFHwql8APD9.jpg"
+  ],
+  "trailerKey": "V8Sfrhj5IP4",
+  "genreIds": [
+    27,
+    14
+  ],
+  "keywordIds": [
+    1734,
+    3133,
+    2334,
+    5484,
+    10326,
+    9826,
+    10601,
+    156179
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "American International Pictures",
+    "Power Productions"
+  ],
+  "crew": [
+    {
+      "personId": 106540,
+      "job": "director"
+    },
+    {
+      "personId": 106541,
+      "job": "writer"
+    },
+    {
+      "personId": 1382922,
+      "job": "composer"
+    },
+    {
+      "personId": 1033804,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 106542,
+      "job": "writer"
+    },
+    {
+      "personId": 1176369,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16028,
+      "character": "Blacula / Prince Mamuwalde",
+      "order": 0
+    },
+    {
+      "personId": 6780,
+      "character": "Tina",
+      "order": 1
+    },
+    {
+      "personId": 65398,
+      "character": "Michelle",
+      "order": 2
+    },
+    {
+      "personId": 86138,
+      "character": "Gordon Thomas",
+      "order": 3
+    },
+    {
+      "personId": 13950,
+      "character": "Lt. John \"Jack\" Peters",
+      "order": 4
+    },
+    {
+      "personId": 15719,
+      "character": "Dracula",
+      "order": 5
+    },
+    {
+      "personId": 937883,
+      "character": "Skillet",
+      "order": 6
+    },
+    {
+      "personId": 3339,
+      "character": "Sam",
+      "order": 7
+    },
+    {
+      "personId": 1232039,
+      "character": "Nancy",
+      "order": 8
+    },
+    {
+      "personId": 84331,
+      "character": "Juanita Jones",
+      "order": 9
+    },
+    {
+      "personId": 1374721,
+      "character": "Swenson",
+      "order": 10
+    },
+    {
+      "personId": 51187,
+      "character": "Bobby McCoy",
+      "order": 11
+    },
+    {
+      "personId": 1374722,
+      "character": "Billy Schaffer",
+      "order": 12
+    },
+    {
+      "personId": 151528,
+      "character": "Barnes",
+      "order": 13
+    },
+    {
+      "personId": 5414932,
+      "character": "Self (The Hues Corporation)",
+      "order": 14
+    },
+    {
+      "personId": 5414933,
+      "character": "Self (The Hues Corporation)",
+      "order": 15
+    },
+    {
+      "personId": 5414934,
+      "character": "Self (The Hues Corporation)",
+      "order": 16
+    },
+    {
+      "personId": 5414935,
+      "character": "Self (The Hues Corporation)",
+      "order": 17
+    },
+    {
+      "personId": 2579725,
+      "character": "Real Estate Agent",
+      "order": 18
+    },
+    {
+      "personId": 13313,
+      "character": "Narrator of Theatrical Trailer (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 187,
+  "sources": [
+    "cult-list"
+  ]
+}

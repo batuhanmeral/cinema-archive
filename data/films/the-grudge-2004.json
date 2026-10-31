@@ -1,0 +1,201 @@
+{
+  "tmdbId": 1970,
+  "slug": "the-grudge-2004",
+  "year": 2004,
+  "runtime": 92,
+  "originalTitle": "The Grudge",
+  "title": {
+    "en": "The Grudge",
+    "tr": "Garez"
+  },
+  "overview": {
+    "en": "An American nurse living and working in Tokyo is exposed to a mysterious supernatural curse, one that locks a person in a powerful rage before claiming their life and spreading to another victim.",
+    "tr": "Karen uluslar arası öğrenci değişim programıyla Tokyo'ya gelmiş ve eğitimine devam etmektedir. Ancak program gereği yeni geldiği şehirde sosyal hizmetler için çalışmak zorundadır ve O da hastabakıcılığı tercih eder.  Amerikalı bir ailenin yatalak annesine bakmakla görevlendirilen genç kız ilk defa girdiği bu evde üst kattan gelen acayip sesler duyar. Olanı biteni araştırırken, bir anne ile oğlunun uzun yıllar önce bu evde öldürülmüş olduğunu öğrenir. Bu katliamdan sonraysa evin her yeni sahibinin başına benzer felaketler gelir. Karen kendini çok kısa zamanda bu dehşet çemberinin içinde bulur. Eğer intikam için dönen ruhlardan daha hızlı davranmazsa, aynı trajik sonla kendisi de karşılaşacaktır..."
+  },
+  "poster": {
+    "tr": "/nDrRVO6zixhrYChodT97sX5ixzL.jpg",
+    "en": "/5AGB8FVELnhMMw3nO372sw1xp58.jpg"
+  },
+  "backdrops": [
+    "/3F2BYZy8H74lWUEKfP5lTPFxEq8.jpg",
+    "/e8nfiNRrcUfebNLPKtR6dzgV1M1.jpg",
+    "/dAMCO2gU2Iatm6PkwDhcwT67Rpa.jpg",
+    "/yefSD6lp3jOBYkBeY5QxRRKTJME.jpg",
+    "/azCFDojFTP6SZLNubTAR3RaVNEb.jpg",
+    "/873mZBgEzwfwaBYZuY4V31BRrLJ.jpg",
+    "/sU3ib8cPFUYfRaTe4osXitfoBdC.jpg",
+    "/wUAQ3PZlxAW6q1p0tQSWanYnJiA.jpg",
+    "/5nD5lR3CPPVsTUXKUEQXbD28caA.jpg",
+    "/utgvpMHyU1RcRaYeXke3ySFeFjG.jpg"
+  ],
+  "trailerKey": "tqn2t3PefdY",
+  "genreIds": [
+    27,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    428,
+    6095,
+    9714,
+    10541,
+    12369,
+    172972,
+    172980,
+    314730,
+    322255,
+    325818,
+    325839
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "ja",
+    "en"
+  ],
+  "studios": [
+    "Ghost House Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 20310,
+      "job": "director"
+    },
+    {
+      "personId": 7623,
+      "job": "producer"
+    },
+    {
+      "personId": 11359,
+      "job": "producer"
+    },
+    {
+      "personId": 20310,
+      "job": "writer"
+    },
+    {
+      "personId": 20355,
+      "job": "writer"
+    },
+    {
+      "personId": 20316,
+      "job": "producer"
+    },
+    {
+      "personId": 19155,
+      "job": "composer"
+    },
+    {
+      "personId": 135383,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11863,
+      "character": "Karen Davis",
+      "order": 0
+    },
+    {
+      "personId": 20386,
+      "character": "Doug McCarthy",
+      "order": 1
+    },
+    {
+      "personId": 20329,
+      "character": "Kayako Saeki",
+      "order": 2
+    },
+    {
+      "personId": 552504,
+      "character": "Toshio Saeki",
+      "order": 3
+    },
+    {
+      "personId": 15338,
+      "character": "Matthew Williams",
+      "order": 4
+    },
+    {
+      "personId": 20387,
+      "character": "Jennifer Williams",
+      "order": 5
+    },
+    {
+      "personId": 20388,
+      "character": "Susan Williams",
+      "order": 6
+    },
+    {
+      "personId": 6465,
+      "character": "Emma Williams",
+      "order": 7
+    },
+    {
+      "personId": 8984,
+      "character": "Peter Kirk",
+      "order": 8
+    },
+    {
+      "personId": 20389,
+      "character": "Maria Kirk",
+      "order": 9
+    },
+    {
+      "personId": 11769,
+      "character": "Alex Jones",
+      "order": 10
+    },
+    {
+      "personId": 4994,
+      "character": "Det. Hideto Nakagawa",
+      "order": 11
+    },
+    {
+      "personId": 592147,
+      "character": "Yoko Sekine",
+      "order": 12
+    },
+    {
+      "personId": 216330,
+      "character": "Takeo Saeki",
+      "order": 13
+    },
+    {
+      "personId": 107110,
+      "character": "Igarashi",
+      "order": 14
+    },
+    {
+      "personId": 1190018,
+      "character": "Suzuki",
+      "order": 15
+    },
+    {
+      "personId": 79458,
+      "character": "Guard",
+      "order": 16
+    },
+    {
+      "personId": 555026,
+      "character": "Peter's Co-worker",
+      "order": 17
+    },
+    {
+      "personId": 2617062,
+      "character": "Policeman",
+      "order": 18
+    },
+    {
+      "personId": 2601509,
+      "character": "Mother",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3344,
+  "sources": [
+    "cult-list"
+  ]
+}

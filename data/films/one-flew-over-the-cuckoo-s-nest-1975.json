@@ -1,0 +1,203 @@
+{
+  "tmdbId": 510,
+  "slug": "one-flew-over-the-cuckoo-s-nest-1975",
+  "year": 1975,
+  "runtime": 135,
+  "originalTitle": "One Flew Over the Cuckoo's Nest",
+  "title": {
+    "en": "One Flew Over the Cuckoo's Nest",
+    "tr": "Guguk Kuşu"
+  },
+  "overview": {
+    "en": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, domineering nurse who runs the ward.",
+    "tr": "Eyalet Akıl Hastanesi'nde kısa bir tatil kulağa pek de kötü gelmiyor, öyle değil mi? Randle P. McMurphy, damarlarında kan yerine elektrik dolaşan, ağzı çok iyi laf yapan özgür ruhlu bir mahkumdur. McMurphy, deli numarası yaparak kendisini \"kaçıklar\" olarak nitelediği adamların yanına aldırır. Hemen ardından, onun bulaşıcı düzensizlik sevdası, yeni geldiği yerdeki uyuşturucu rutinle karşı karşıya gelir. McMurphy, Dünya Kupası maçları oynanırken yeni arkadaşlarının yatıştırıcı ilaçlara boğulmuş bir şekilde ortalıkta bornozlarla dolaşmasına dayanamaz."
+  },
+  "poster": {
+    "tr": "/ctsV8lVuuuQqAYvv4dJuN5GYwMU.jpg",
+    "en": "/3jcbDmRFiQ83drXNOvRDeKHxS0C.jpg"
+  },
+  "backdrops": [
+    "/vMylmakO2K9cZexNUze8wa9muJp.jpg",
+    "/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg",
+    "/6Oa3zTiluBz2W8D2ou1MY16dUiF.jpg",
+    "/2m7AeluzVswgzOQOHPW1HDXF7r6.jpg",
+    "/LoDYW2OR5jWxhc6HpHgb2VpaAI.jpg",
+    "/cdxVHfMdLMptoGUFaN6LYOyy81f.jpg",
+    "/hb3FLfyoFcm47l2KDyBtKP7x3eF.jpg",
+    "/oje9d0EXQyQcxsqHQor4xFVGjrd.jpg",
+    "/5hll0hYssHbJiKxFcsQQLL7BhSP.jpg",
+    "/oTV0CvRgSXjQ7pE7qPjLcpfbldF.jpg"
+  ],
+  "trailerKey": "F4da9uRIg8c",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    791,
+    6054,
+    818,
+    428,
+    2574,
+    2803,
+    4924,
+    1897,
+    11612,
+    14784,
+    166726,
+    190939,
+    208788,
+    309029,
+    325779,
+    325793,
+    325830
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Fantasy Films"
+  ],
+  "crew": [
+    {
+      "personId": 3974,
+      "job": "director"
+    },
+    {
+      "personId": 4181,
+      "job": "writer"
+    },
+    {
+      "personId": 7065,
+      "job": "writer"
+    },
+    {
+      "personId": 3392,
+      "job": "producer"
+    },
+    {
+      "personId": 1310,
+      "job": "producer"
+    },
+    {
+      "personId": 7066,
+      "job": "composer"
+    },
+    {
+      "personId": 7067,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 514,
+      "character": "Randle Patrick McMurphy",
+      "order": 0
+    },
+    {
+      "personId": 1370,
+      "character": "Billy Bibbit",
+      "order": 1
+    },
+    {
+      "personId": 7071,
+      "character": "Nurse Mildred Ratched",
+      "order": 2
+    },
+    {
+      "personId": 518,
+      "character": "Martini",
+      "order": 3
+    },
+    {
+      "personId": 7072,
+      "character": "Dale Harding",
+      "order": 4
+    },
+    {
+      "personId": 7077,
+      "character": "Orderly Turkle",
+      "order": 5
+    },
+    {
+      "personId": 1062,
+      "character": "Max Taber",
+      "order": 6
+    },
+    {
+      "personId": 68301,
+      "character": "Chief Bromden",
+      "order": 7
+    },
+    {
+      "personId": 7075,
+      "character": "Dr. John Spivey",
+      "order": 8
+    },
+    {
+      "personId": 7073,
+      "character": "Ellis",
+      "order": 9
+    },
+    {
+      "personId": 7085,
+      "character": "Charlie Cheswick",
+      "order": 10
+    },
+    {
+      "personId": 7079,
+      "character": "Jim Sefelt",
+      "order": 11
+    },
+    {
+      "personId": 3418,
+      "character": "Bruce Fredrickson",
+      "order": 12
+    },
+    {
+      "personId": 7074,
+      "character": "Col. Matterson",
+      "order": 13
+    },
+    {
+      "personId": 7076,
+      "character": "Miller",
+      "order": 14
+    },
+    {
+      "personId": 7078,
+      "character": "Warren",
+      "order": 15
+    },
+    {
+      "personId": 7080,
+      "character": "Bancini",
+      "order": 16
+    },
+    {
+      "personId": 7083,
+      "character": "Beans Garfield",
+      "order": 17
+    },
+    {
+      "personId": 7082,
+      "character": "Washington",
+      "order": 18
+    },
+    {
+      "personId": 136195,
+      "character": "Hap Arlich",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 5,
+    "bafta": 2
+  },
+  "voteCount": 11920,
+  "sources": [
+    "cult-list"
+  ]
+}

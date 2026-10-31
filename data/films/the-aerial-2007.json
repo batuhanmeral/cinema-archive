@@ -1,0 +1,171 @@
+{
+  "tmdbId": 13317,
+  "slug": "the-aerial-2007",
+  "year": 2007,
+  "runtime": 99,
+  "originalTitle": "La antena",
+  "title": {
+    "en": "The Aerial",
+    "tr": "La antena"
+  },
+  "overview": {
+    "en": "An entire city has lost its voice. Mr. TV, the owner of the city's only television channel, is carrying out a sinister plan to control all of the city's inhabitants.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yzIQjYVETJUVESS7H4ULZXj2gCf.jpg",
+    "en": "/yzIQjYVETJUVESS7H4ULZXj2gCf.jpg"
+  },
+  "backdrops": [
+    "/86Gtth53XVRsg1clWcNpSX9iZpG.jpg",
+    "/xy7lAlRJh3aQCoqjdc5UpOQhaPt.jpg"
+  ],
+  "trailerKey": "dMs0n0qUMUY",
+  "genreIds": [
+    878,
+    18
+  ],
+  "keywordIds": [
+    4565,
+    1755,
+    154802
+  ],
+  "countries": [
+    "AR"
+  ],
+  "languages": [],
+  "studios": [
+    "LadobleA",
+    "Cine Argentino",
+    "Hubert Bals Fund"
+  ],
+  "crew": [
+    {
+      "personId": 113625,
+      "job": "director"
+    },
+    {
+      "personId": 113632,
+      "job": "composer"
+    },
+    {
+      "personId": 113633,
+      "job": "producer"
+    },
+    {
+      "personId": 113625,
+      "job": "writer"
+    },
+    {
+      "personId": 1622813,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 69311,
+      "character": "Sohn von Mr. Tv",
+      "order": 0
+    },
+    {
+      "personId": 113626,
+      "character": "Mr. TV",
+      "order": 1
+    },
+    {
+      "personId": 105736,
+      "character": "Krankenschwester",
+      "order": 2
+    },
+    {
+      "personId": 113627,
+      "character": "Der Erfinder",
+      "order": 3
+    },
+    {
+      "personId": 113628,
+      "character": "Die Stimme",
+      "order": 4
+    },
+    {
+      "personId": 113629,
+      "character": "Ana",
+      "order": 5
+    },
+    {
+      "personId": 113630,
+      "character": "Tomás",
+      "order": 6
+    },
+    {
+      "personId": 4282481,
+      "character": "El hombre ratón",
+      "order": 7
+    },
+    {
+      "personId": 122711,
+      "character": "El abuelo",
+      "order": 8
+    },
+    {
+      "personId": 5496986,
+      "character": "El Doctor Y",
+      "order": 9
+    },
+    {
+      "personId": 3343944,
+      "character": "Niña hada",
+      "order": 10
+    },
+    {
+      "personId": 5496988,
+      "character": "Hombre silueta 1",
+      "order": 11
+    },
+    {
+      "personId": 5496990,
+      "character": "Hombre silueta 2",
+      "order": 12
+    },
+    {
+      "personId": 3986943,
+      "character": "Hombre silueta 3",
+      "order": 13
+    },
+    {
+      "personId": 4633068,
+      "character": "Niña vestida de blanco",
+      "order": 14
+    },
+    {
+      "personId": 5496991,
+      "character": "Madre",
+      "order": 15
+    },
+    {
+      "personId": 5496993,
+      "character": "Hijo",
+      "order": 16
+    },
+    {
+      "personId": 1622486,
+      "character": "Boxeador 1",
+      "order": 17
+    },
+    {
+      "personId": 5496997,
+      "character": "Boxeador 2",
+      "order": 18
+    },
+    {
+      "personId": 5496999,
+      "character": "Relator",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 118,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "tmdbId": 1052,
+  "slug": "blow-up-1966",
+  "year": 1966,
+  "runtime": 111,
+  "originalTitle": "Blow-Up",
+  "title": {
+    "en": "Blow-Up",
+    "tr": "Cinayeti Gördüm"
+  },
+  "overview": {
+    "en": "A successful mod photographer in London whose world is bounded by fashion, pop music, marijuana, and easy sex, feels his life is boring and despairing. But in the course of a single day he unknowingly captures a death on film.",
+    "tr": "Oldukça yetenekli olmasına karşın işine karşı hiçbir ruh beslemeyen bir fotoğrafçı, amaçsız bir şekilde bir çok insanın ya da modelin fotoğrafını çekmektedir. Bir gün parktaki bir çiftin fotoğrafını çeker. Eve dönüp karanlık odada fotoğrafı büyütünce hiç farketmediği bir durum dikkatini çekiverir. Fotoğraf karesi, işlenen bir suçun en çarpıcı kanıtı olmuştur * Bir şeyin gerçek olup olmadığını nesnel kanıtlarla değil, gerçekliğini savunan kişinin inancıyla ölçülebileceğini anlatan film, muhakkak izlenmesi gereken başarılı bir yapım. Usta yönetmen Michelangelo Antonioni'nin başyapıtlarından biri sayılan Blowup, zenginlik ve şöhretin insanın yalnızlığına ve ruhunun ihtiyaçlarına çözüm sağlayamayacak değerler olduğunu anlatan önemli bir yapım olarak sinema tarihinde yerini alıyor * Öncelikle bu filmi bütünlemesine anlamak için Julio Cortazar'ın aynı isimdeki öyküsünü okumalısınız"
+  },
+  "poster": {
+    "tr": "/2RUlwOH73uhRWrqq8aMJWrK2NiX.jpg",
+    "en": "/tiq3QOrJqlVlN8q6bJqVsTzKyrb.jpg"
+  },
+  "backdrops": [
+    "/buMxKBaI6MBYgyhWuWVLgt8WPZV.jpg",
+    "/1TOB9YhatqxIj5IMIZmnrwdL7AL.jpg",
+    "/5CV0NMn0C0Z4LXwAelLtiqUL9tO.jpg",
+    "/cH2ToDxS8mdTztsaZafdutBY3wd.jpg",
+    "/wMzhXt8Vgef1ARU4LlD6NvY4tNe.jpg",
+    "/aZdahtU6j7MZulafbaQ55dQ0Su5.jpg",
+    "/9RAaKHI485Ms8T843PgWpv1UJTS.jpg",
+    "/99nYMPGr74TslH5ZSWXjNUM83ss.jpg",
+    "/xl7BfI6JbATD78qgc1ViI0nOudU.jpg",
+    "/rWtRkNGkg05rET8taCA96c7heLb.jpg"
+  ],
+  "trailerKey": "PRENEOHlcbw",
+  "genreIds": [
+    18,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    212,
+    1565,
+    1003,
+    1437,
+    6025,
+    2619,
+    3307,
+    4659,
+    4661,
+    4689,
+    9826,
+    12192,
+    13092,
+    14964,
+    15166,
+    15216,
+    173242,
+    210470
+  ],
+  "countries": [
+    "GB",
+    "US",
+    "IT"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Bridge Films",
+    "Carlo Ponti Production",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 15189,
+      "job": "writer"
+    },
+    {
+      "personId": 15191,
+      "job": "writer"
+    },
+    {
+      "personId": 15189,
+      "job": "director"
+    },
+    {
+      "personId": 15193,
+      "job": "composer"
+    },
+    {
+      "personId": 15194,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3778,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15196,
+      "character": "Thomas",
+      "order": 0
+    },
+    {
+      "personId": 13333,
+      "character": "Jane",
+      "order": 1
+    },
+    {
+      "personId": 15197,
+      "character": "Patricia",
+      "order": 2
+    },
+    {
+      "personId": 15198,
+      "character": "Bill",
+      "order": 3
+    },
+    {
+      "personId": 15199,
+      "character": "Veruschka",
+      "order": 4
+    },
+    {
+      "personId": 15200,
+      "character": "The Blonde",
+      "order": 5
+    },
+    {
+      "personId": 15201,
+      "character": "The Brunette",
+      "order": 6
+    },
+    {
+      "personId": 15202,
+      "character": "Ron",
+      "order": 7
+    },
+    {
+      "personId": 15203,
+      "character": "Mime",
+      "order": 8
+    },
+    {
+      "personId": 15204,
+      "character": "Mime",
+      "order": 9
+    },
+    {
+      "personId": 87463,
+      "character": "Self - The Yardbirds (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 107602,
+      "character": "Self - The Yardbirds (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 10075,
+      "character": "Thomas's Receptionist (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 929411,
+      "character": "Antique Shop Owner (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1343489,
+      "character": "Model (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 3261378,
+      "character": "Model (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 2114860,
+      "character": "Homeless Man (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 3706918,
+      "character": "Homeless Man (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 15190,
+      "character": "Homeless Man (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1663806,
+      "character": "Self - The Yardbirds (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cannes": 1
+  },
+  "voteCount": 1439,
+  "sources": [
+    "cult-list"
+  ]
+}

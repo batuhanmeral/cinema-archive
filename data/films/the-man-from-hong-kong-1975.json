@@ -1,0 +1,188 @@
+{
+  "tmdbId": 21990,
+  "slug": "the-man-from-hong-kong-1975",
+  "year": 1975,
+  "runtime": 106,
+  "originalTitle": "The Man from Hong Kong",
+  "title": {
+    "en": "The Man from Hong Kong",
+    "tr": "The Man from Hong Kong"
+  },
+  "overview": {
+    "en": "Australian authorities arrest a man believed to be connected to the Sydney criminal underworld and send for Inspector Fang Sing Leng from Hong Kong to question him. After the alleged criminal is assassinated, Inspector Leng and the Sydney police try to hunt down those responsible and hope to solve their case along the way.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lCLUFxMNxcutYcSXbMySWDJvAUd.jpg",
+    "en": "/nw8vFHlsFJpf5MPDsfp8B2AS11U.jpg"
+  },
+  "backdrops": [
+    "/y1MJJPzf3FUOQgdNv037BLMjioM.jpg",
+    "/iw8oZnCC7Y7tixE48DMQova9LVY.jpg",
+    "/jPvr87g3qjMwzoTMQFqlllNoj7A.jpg",
+    "/gYEPqXoNwfAC4CCpEI18mhfu9go.jpg",
+    "/ug2OUcjKnrOdNPjZPb7ZVPbotCJ.jpg",
+    "/riVHeqaxwzqnihMb2kdjZevCipe.jpg",
+    "/4fEiYblhS4qZhMpOTMPJQYqeZKv.jpg",
+    "/l7meQOfInBR3Dc6h8WmbCwRuyew.jpg",
+    "/uAp6O2BfsKCGvmPtVA28pFmUFLY.jpg",
+    "/hG9aXp7d8wrnHq85zxtp60CQRaX.jpg"
+  ],
+  "trailerKey": "fS-wUJv2AqU",
+  "genreIds": [
+    28,
+    80,
+    12,
+    18
+  ],
+  "keywordIds": [
+    5657,
+    779,
+    417,
+    6149,
+    12354
+  ],
+  "countries": [
+    "AU",
+    "HK",
+    "GB"
+  ],
+  "languages": [],
+  "studios": [
+    "The Movie Company Pty. Ltd.",
+    "Orange Sky Golden Harvest"
+  ],
+  "crew": [
+    {
+      "personId": 84981,
+      "job": "director"
+    },
+    {
+      "personId": 1479885,
+      "job": "composer"
+    },
+    {
+      "personId": 69555,
+      "job": "producer"
+    },
+    {
+      "personId": 46323,
+      "job": "producer"
+    },
+    {
+      "personId": 31027,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 84981,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 584527,
+      "character": "Fang",
+      "order": 0
+    },
+    {
+      "personId": 10167,
+      "character": "Wilton",
+      "order": 1
+    },
+    {
+      "personId": 26060,
+      "character": "Morrie Grosse",
+      "order": 2
+    },
+    {
+      "personId": 94809,
+      "character": "Bob Taylor",
+      "order": 3
+    },
+    {
+      "personId": 1170771,
+      "character": "Caroline Thorne",
+      "order": 4
+    },
+    {
+      "personId": 129268,
+      "character": "Assassin",
+      "order": 5
+    },
+    {
+      "personId": 94813,
+      "character": "Angelica",
+      "order": 6
+    },
+    {
+      "personId": 10025,
+      "character": "Willard",
+      "order": 7
+    },
+    {
+      "personId": 62410,
+      "character": "Win Chan",
+      "order": 8
+    },
+    {
+      "personId": 94808,
+      "character": "Veterinary Doctor",
+      "order": 9
+    },
+    {
+      "personId": 23,
+      "character": "Peterson",
+      "order": 10
+    },
+    {
+      "personId": 3054284,
+      "character": "Drug Courier",
+      "order": 11
+    },
+    {
+      "personId": 4510959,
+      "character": "Chinese Girl",
+      "order": 12
+    },
+    {
+      "personId": 1217075,
+      "character": "Charles",
+      "order": 13
+    },
+    {
+      "personId": 174495,
+      "character": "Martial Arts Heavy",
+      "order": 14
+    },
+    {
+      "personId": 4510960,
+      "character": "Martial Arts Heavy",
+      "order": 15
+    },
+    {
+      "personId": 84981,
+      "character": "Martial Arts Heavy",
+      "order": 16
+    },
+    {
+      "personId": 3078909,
+      "character": "Wilton's Bodyguard",
+      "order": 17
+    },
+    {
+      "personId": 2744634,
+      "character": "Wilton's Bodyguard",
+      "order": 18
+    },
+    {
+      "personId": 26749,
+      "character": "Wilton's Bodyguard",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 62,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "tmdbId": 603,
+  "slug": "the-matrix-1999",
+  "year": 1999,
+  "runtime": 136,
+  "originalTitle": "The Matrix",
+  "title": {
+    "en": "The Matrix",
+    "tr": "Matrix"
+  },
+  "overview": {
+    "en": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+    "tr": "Bir bilgisayar programcısı olan Thomas Anderson aynı zamanda Neo takma isimli çok usta bir bilgisayar korsanıdır. Ancak siyah takım elbiseli ve gözlüklü adamların yakın takibindedir. Bu takibin nedenini ise karşılaşacağı Morpheus'dan öğrenecektir. Neo, birden kendini Morpheus'un anlattıklarına güvenmek zorunda kaldığı büyük bir komplonun içinde bulacaktır. İçinde yaşadığımızı sandığımız bu dünya tamamiyle aldatıcıdır. Tüm insanlık aslında uzaydan gelen yaratıkların köleleridir. Neo, Trinity ve Morpheus'un da yardımıyla kendilerini bu düzeni yıkmaya adayan bir grubun içine katılır."
+  },
+  "poster": {
+    "tr": "/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg",
+    "en": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+  },
+  "backdrops": [
+    "/icmmSD4vTTDKOq2vvdulafOGw93.jpg",
+    "/oMsxZEvz9a708d49b6UdZK1KAo5.jpg",
+    "/8K9qHeM6G6QjQN0C5XKFGvK5lzM.jpg",
+    "/ncEsesgOJDNrTUED89hYbA117wo.jpg",
+    "/fNG7i7RqMErkcqhohV2a6cV1Ehy.jpg",
+    "/waCRuAW5ocONRehP556vPexVXA9.jpg",
+    "/oCkOhekO65sH5o3UnnWPStYHEnv.jpg",
+    "/m8jVrOxO0ZpGXRgauzfqSGoJGc0.jpg",
+    "/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+    "/3jG51VWbG66hOfU3M077ne24hQx.jpg"
+  ],
+  "trailerKey": "FVI84Dfx2-I",
+  "genreIds": [
+    28,
+    878
+  ],
+  "keywordIds": [
+    312,
+    779,
+    663,
+    310,
+    83,
+    530,
+    490,
+    4565,
+    1501,
+    3074,
+    4238,
+    3972,
+    12190,
+    163540,
+    194063,
+    221385,
+    238160,
+    282217
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Village Roadshow Pictures",
+    "Groucho II Film Partnership",
+    "Silver Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1091,
+      "job": "producer"
+    },
+    {
+      "personId": 9341,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4949,
+      "job": "composer"
+    },
+    {
+      "personId": 9340,
+      "job": "director"
+    },
+    {
+      "personId": 9340,
+      "job": "writer"
+    },
+    {
+      "personId": 9339,
+      "job": "writer"
+    },
+    {
+      "personId": 9339,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6384,
+      "character": "Neo",
+      "order": 0
+    },
+    {
+      "personId": 2975,
+      "character": "Morpheus",
+      "order": 1
+    },
+    {
+      "personId": 530,
+      "character": "Trinity",
+      "order": 2
+    },
+    {
+      "personId": 1331,
+      "character": "Agent Smith",
+      "order": 3
+    },
+    {
+      "personId": 9364,
+      "character": "Oracle",
+      "order": 4
+    },
+    {
+      "personId": 532,
+      "character": "Cypher",
+      "order": 5
+    },
+    {
+      "personId": 9372,
+      "character": "Tank",
+      "order": 6
+    },
+    {
+      "personId": 7244,
+      "character": "Apoc",
+      "order": 7
+    },
+    {
+      "personId": 9374,
+      "character": "Mouse",
+      "order": 8
+    },
+    {
+      "personId": 9376,
+      "character": "Switch",
+      "order": 9
+    },
+    {
+      "personId": 9378,
+      "character": "Dozer",
+      "order": 10
+    },
+    {
+      "personId": 9380,
+      "character": "Agent Brown",
+      "order": 11
+    },
+    {
+      "personId": 39545,
+      "character": "Agent Jones",
+      "order": 12
+    },
+    {
+      "personId": 9383,
+      "character": "Rhineheart",
+      "order": 13
+    },
+    {
+      "personId": 9384,
+      "character": "Choi",
+      "order": 14
+    },
+    {
+      "personId": 181214,
+      "character": "Dujour",
+      "order": 15
+    },
+    {
+      "personId": 1090466,
+      "character": "Priestess",
+      "order": 16
+    },
+    {
+      "personId": 218366,
+      "character": "Spoon Boy",
+      "order": 17
+    },
+    {
+      "personId": 1209244,
+      "character": "Potential",
+      "order": 18
+    },
+    {
+      "personId": 1209245,
+      "character": "Potential",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 4,
+    "bafta": 2
+  },
+  "voteCount": 29101,
+  "sources": [
+    "cult-list"
+  ]
+}

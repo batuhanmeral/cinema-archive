@@ -1,0 +1,205 @@
+{
+  "tmdbId": 50070,
+  "slug": "the-sign-of-the-cross-1932",
+  "year": 1932,
+  "runtime": 126,
+  "originalTitle": "The Sign of the Cross",
+  "title": {
+    "en": "The Sign of the Cross",
+    "tr": "The Sign of the Cross"
+  },
+  "overview": {
+    "en": "A Roman soldier becomes torn between his love for a Christian woman and his loyalty to Emperor Nero.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qJdANRQy3BkTJGxXXHKMVoUigSD.jpg",
+    "en": "/AjkrduhIxjeCGNwSmpINTkVNd36.jpg"
+  },
+  "backdrops": [
+    "/9FntIH0fQjEKm5ZARBjU6a7G2pD.jpg",
+    "/pUaqToFAtzWuVDjka55rnwMQ4qr.jpg",
+    "/GTVye8E5SFjlYOxsThthPBKf7U.jpg",
+    "/ca5wD2bWx8dDbT0Au9UYMu5RqIa.jpg",
+    "/o1Wq94ULFry5PeQAPKXexjWkMva.jpg",
+    "/qbRz5G0PBcNILWpTuLTd75syG5k.jpg",
+    "/jgKJKyiy1XR7VJwzPquPJ0MyQJ8.jpg",
+    "/yUKWDhMkjCREr0Ph6BYAp5THzbg.jpg",
+    "/hY6BAy3cIYCLfKjHbpfIY7IKmWG.jpg",
+    "/768sV2dbJcxIDy4y6PbCs4O8ewV.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    1395,
+    5049,
+    10490,
+    156764,
+    192659,
+    192772,
+    196307,
+    222185,
+    273060,
+    278700,
+    285073,
+    304976,
+    343043
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 29756,
+      "job": "writer"
+    },
+    {
+      "personId": 8636,
+      "job": "director"
+    },
+    {
+      "personId": 30208,
+      "job": "writer"
+    },
+    {
+      "personId": 121115,
+      "job": "composer"
+    },
+    {
+      "personId": 8636,
+      "job": "producer"
+    },
+    {
+      "personId": 13337,
+      "job": "composer"
+    },
+    {
+      "personId": 1532469,
+      "job": "composer"
+    },
+    {
+      "personId": 9081,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1532468,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13576,
+      "character": "Marcus Superbus - Prefect of Rome",
+      "order": 0
+    },
+    {
+      "personId": 32924,
+      "character": "Mercia",
+      "order": 1
+    },
+    {
+      "personId": 30155,
+      "character": "Empress Poppaea",
+      "order": 2
+    },
+    {
+      "personId": 10921,
+      "character": "Emperor Nero Claudius Caesar",
+      "order": 3
+    },
+    {
+      "personId": 84230,
+      "character": "Tigellinus",
+      "order": 4
+    },
+    {
+      "personId": 25176,
+      "character": "Titus",
+      "order": 5
+    },
+    {
+      "personId": 33005,
+      "character": "Favius Fontelas",
+      "order": 6
+    },
+    {
+      "personId": 1036292,
+      "character": "Stephan",
+      "order": 7
+    },
+    {
+      "personId": 89744,
+      "character": "Glabrio",
+      "order": 8
+    },
+    {
+      "personId": 1053099,
+      "character": "Dacia",
+      "order": 9
+    },
+    {
+      "personId": 97982,
+      "character": "Licinius",
+      "order": 10
+    },
+    {
+      "personId": 1159955,
+      "character": "Ancaria",
+      "order": 11
+    },
+    {
+      "personId": 30197,
+      "character": "Viturius",
+      "order": 12
+    },
+    {
+      "personId": 32430,
+      "character": "Strabo",
+      "order": 13
+    },
+    {
+      "personId": 1159956,
+      "character": "Servillius",
+      "order": 14
+    },
+    {
+      "personId": 1159957,
+      "character": "Tybul",
+      "order": 15
+    },
+    {
+      "personId": 1159958,
+      "character": "Philodemus",
+      "order": 16
+    },
+    {
+      "personId": 30017,
+      "character": "Tyros",
+      "order": 17
+    },
+    {
+      "personId": 30553,
+      "character": "Colosseum Spectator (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 8516,
+      "character": "Christian Martyr / Gladiator Leader / Voice in Coliseum Mob (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 56,
+  "sources": [
+    "cult-list"
+  ]
+}

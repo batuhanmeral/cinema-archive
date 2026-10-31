@@ -1,0 +1,200 @@
+{
+  "tmdbId": 10363,
+  "slug": "purple-noon-1960",
+  "year": 1960,
+  "runtime": 118,
+  "originalTitle": "Plein soleil",
+  "title": {
+    "en": "Purple Noon",
+    "tr": "Kızgın Güneş"
+  },
+  "overview": {
+    "en": "Tom Ripley is a talented mimic, moocher, forger and all-around criminal improviser; but there's more to Tom Ripley than even he can guess.",
+    "tr": "Varlıklı bir Amerikalı işadamı olan Bay Greenleaf, Avrupa'da sorumsuz ve şımarık bir hayat yaşayan oğlu Philippe'i tekrar Amerika'ya geri dönmeye ikna etmesi için Tom Ripley'i görevlendirir. Bu görevinin karşılığında Tom, 5000 dolar alacak ve tüm masrafları karşılanacaktır. Avrupa'da yaşadığı rahat hayatı bırakmaya hiç de niyeti olmayan maceracı ruhlu Philippe, Tom'u sürekli oyalamaya başlar."
+  },
+  "poster": {
+    "tr": "/xGVRU34izQwG8YQNfVOSfKPhD3S.jpg",
+    "en": "/xGVRU34izQwG8YQNfVOSfKPhD3S.jpg"
+  },
+  "backdrops": [
+    "/hoehDIHtCBlHyygkCnWdZllf3Gt.jpg",
+    "/kwgEMjxqvSqpDZZ426ktsW0Reqz.jpg",
+    "/2o2BQxcTRaCZkeqQMDKZ21ACe01.jpg",
+    "/xcmRrohIELE82enwItjbOxy1NDS.jpg",
+    "/xtY4YdVv8GJSdKeCv7YmTfLrLpn.jpg",
+    "/sXkzUoZLbnVo8eDzxjhL9RUsPgz.jpg",
+    "/d34za8faZk2zeSnrXEthF0h7a8r.jpg",
+    "/9LKopH83Aj41d2oudCFTLyAEzia.jpg",
+    "/wRMUb4hrgD868hNiRjCkbPXqRv0.jpg",
+    "/y0fVWZeySjJe8jwDZOeW558jcy8.jpg"
+  ],
+  "trailerKey": "tWnvLNTzt-k",
+  "genreIds": [
+    80,
+    18,
+    53
+  ],
+  "keywordIds": [
+    544,
+    4812,
+    851,
+    818,
+    6149,
+    383,
+    3180,
+    33626,
+    155845,
+    209096
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "it"
+  ],
+  "studios": [
+    "Paris Film Production",
+    "Titanus",
+    "Robert et Raymond Hakim"
+  ],
+  "crew": [
+    {
+      "personId": 9740,
+      "job": "director"
+    },
+    {
+      "personId": 3098,
+      "job": "composer"
+    },
+    {
+      "personId": 19084,
+      "job": "writer"
+    },
+    {
+      "personId": 1657,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9750,
+      "job": "producer"
+    },
+    {
+      "personId": 9751,
+      "job": "producer"
+    },
+    {
+      "personId": 9740,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15135,
+      "character": "Tom Ripley",
+      "order": 0
+    },
+    {
+      "personId": 39644,
+      "character": "Marge Duval",
+      "order": 1
+    },
+    {
+      "personId": 15395,
+      "character": "Philippe Greenleaf",
+      "order": 2
+    },
+    {
+      "personId": 37728,
+      "character": "Inspector Riccordi",
+      "order": 3
+    },
+    {
+      "personId": 13733,
+      "character": "O'Brien",
+      "order": 4
+    },
+    {
+      "personId": 35958,
+      "character": "Freddy Miles",
+      "order": 5
+    },
+    {
+      "personId": 40165,
+      "character": "Signora Gianna",
+      "order": 6
+    },
+    {
+      "personId": 64926,
+      "character": "Belgian Lady",
+      "order": 7
+    },
+    {
+      "personId": 99530,
+      "character": "Agency Director",
+      "order": 8
+    },
+    {
+      "personId": 3107265,
+      "character": "Mr. Greenleaf",
+      "order": 9
+    },
+    {
+      "personId": 3107266,
+      "character": "Housekeeper",
+      "order": 10
+    },
+    {
+      "personId": 3107267,
+      "character": "Boris",
+      "order": 11
+    },
+    {
+      "personId": 543816,
+      "character": "Mrs. Popova",
+      "order": 12
+    },
+    {
+      "personId": 6250,
+      "character": "Freddy's Companion (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 101549,
+      "character": "Blind Man (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 9740,
+      "character": "Clumsy Waiter (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 578020,
+      "character": "Ingrid (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 2961978,
+      "character": "Police Inspector (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1279004,
+      "character": "Purchaser of the Yacht (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 45983,
+      "character": "(uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 635,
+  "sources": [
+    "cult-list"
+  ]
+}

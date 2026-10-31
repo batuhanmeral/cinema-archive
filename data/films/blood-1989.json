@@ -1,0 +1,154 @@
+{
+  "tmdbId": 46821,
+  "slug": "blood-1989",
+  "year": 1989,
+  "runtime": 95,
+  "originalTitle": "O Sangue",
+  "title": {
+    "en": "Blood",
+    "tr": "O Sangue"
+  },
+  "overview": {
+    "en": "Nino, tough but sickly, and his older brother Vicente live in the country with their father. After their father disappears ― we’re never sure why ― murder is suggested. Vicente brings his girlfriend to the house, and a different kind of family is established as the three youngsters grow fiercely protective of each other. But their uncle grows suspicious about the fate of the missing father and forcibly kidnaps Nino, taking him away to the city and leaving Vicente to locate him there.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/d36emiQPzuHjwmj4BlFYCaw30j5.jpg",
+    "en": "/eQkantIWXrGNln5gYhloBTG13om.jpg"
+  },
+  "backdrops": [
+    "/jwMyGyoPQQwlGVrc8socmFTHYva.jpg",
+    "/a95WwuePbVbcwLJ7xGDjVHUxpcz.jpg",
+    "/uvMII3LgacbzXS2UYNgvPQ6Wv8z.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    9648
+  ],
+  "keywordIds": [
+    10235
+  ],
+  "countries": [
+    "PT"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "RTP",
+    "Tropico Filmes",
+    "Instituto Português de Cinema (IPC)"
+  ],
+  "crew": [
+    {
+      "personId": 256841,
+      "job": "director"
+    },
+    {
+      "personId": 1300146,
+      "job": "producer"
+    },
+    {
+      "personId": 1540816,
+      "job": "producer"
+    },
+    {
+      "personId": 256841,
+      "job": "writer"
+    },
+    {
+      "personId": 1112003,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1079261,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 67044,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1865251,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 249397,
+      "character": "Vicente",
+      "order": 0
+    },
+    {
+      "personId": 569200,
+      "character": "Nino",
+      "order": 1
+    },
+    {
+      "personId": 223274,
+      "character": "Clara",
+      "order": 2
+    },
+    {
+      "personId": 234486,
+      "character": "The Uncle",
+      "order": 3
+    },
+    {
+      "personId": 233943,
+      "character": "The Father",
+      "order": 4
+    },
+    {
+      "personId": 1007545,
+      "character": "The Woman",
+      "order": 5
+    },
+    {
+      "personId": 108453,
+      "character": "1st creditor",
+      "order": 6
+    },
+    {
+      "personId": 1321736,
+      "character": "2nd creditor",
+      "order": 7
+    },
+    {
+      "personId": 150499,
+      "character": "Zeca",
+      "order": 8
+    },
+    {
+      "personId": 1863078,
+      "character": "Rosa",
+      "order": 9
+    },
+    {
+      "personId": 560281,
+      "character": "Partner",
+      "order": 10
+    },
+    {
+      "personId": 279256,
+      "character": "The Uncle's Lover",
+      "order": 11
+    },
+    {
+      "personId": 1863080,
+      "character": "Boy in the warehouse",
+      "order": 12
+    },
+    {
+      "personId": 44794,
+      "character": "Pedro",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 29,
+  "sources": [
+    "cult-list"
+  ]
+}

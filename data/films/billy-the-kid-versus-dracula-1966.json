@@ -1,0 +1,153 @@
+{
+  "tmdbId": 56165,
+  "slug": "billy-the-kid-versus-dracula-1966",
+  "year": 1966,
+  "runtime": 74,
+  "originalTitle": "Billy the Kid Versus Dracula",
+  "title": {
+    "en": "Billy the Kid Versus Dracula",
+    "tr": "Billy the Kid Versus Dracula"
+  },
+  "overview": {
+    "en": "Dracula travels to the American West, intent on making a beautiful ranch owner his next victim. Her fiance, outlaw Billy the Kid, finds out about it and rushes to save her.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/A822lbDC7VkH6ZBR5wbVYl8C6K1.jpg",
+    "en": "/A822lbDC7VkH6ZBR5wbVYl8C6K1.jpg"
+  },
+  "backdrops": [
+    "/t04FA7toFWM2lO4g4tGOwwlbKMm.jpg",
+    "/hwYYMYa0UseScCuL8Pa83axrm9c.jpg",
+    "/z7xHSov5HeaN9MFZPKfKgqIQF4Y.jpg",
+    "/6aY9yZg557qLpY8vzSEZRhLH5Tp.jpg",
+    "/tozGjKBOl76BziIAhP9J97yxihN.jpg",
+    "/dqz3qdBAkyAIvem92KlrVrYaiON.jpg",
+    "/AdsrC6eSgWtDI5TS4K8al70hBMo.jpg"
+  ],
+  "trailerKey": "rE-chhwi0bw",
+  "genreIds": [
+    27,
+    37
+  ],
+  "keywordIds": [
+    4062,
+    3133,
+    1964,
+    5155,
+    9503,
+    10950,
+    155291,
+    192945,
+    261274
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "studios": [
+    "Circle Productions Inc."
+  ],
+  "crew": [
+    {
+      "personId": 30833,
+      "job": "director"
+    },
+    {
+      "personId": 30837,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30835,
+      "job": "producer"
+    },
+    {
+      "personId": 30834,
+      "job": "writer"
+    },
+    {
+      "personId": 30836,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8516,
+      "character": "Count Dracula",
+      "order": 0
+    },
+    {
+      "personId": 95742,
+      "character": "William 'Billy the Kid' Bonney",
+      "order": 1
+    },
+    {
+      "personId": 1069762,
+      "character": "Elizabeth 'Betty' Bentley",
+      "order": 2
+    },
+    {
+      "personId": 101481,
+      "character": "Eva Oster",
+      "order": 3
+    },
+    {
+      "personId": 153539,
+      "character": "Franz Oster",
+      "order": 4
+    },
+    {
+      "personId": 30552,
+      "character": "Dr. Henrietta Hull",
+      "order": 5
+    },
+    {
+      "personId": 33969,
+      "character": "Sheriff Griffin",
+      "order": 6
+    },
+    {
+      "personId": 165478,
+      "character": "Lisa Oster",
+      "order": 7
+    },
+    {
+      "personId": 43822,
+      "character": "Pete the Saloonkeeper",
+      "order": 8
+    },
+    {
+      "personId": 97257,
+      "character": "Mary Ann Bentley",
+      "order": 9
+    },
+    {
+      "personId": 34084,
+      "character": "James Underhill",
+      "order": 10
+    },
+    {
+      "personId": 153387,
+      "character": "Joe Flake",
+      "order": 11
+    },
+    {
+      "personId": 4316,
+      "character": "Ben Dooley",
+      "order": 12
+    },
+    {
+      "personId": 128179,
+      "character": "Sandy Newman",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 53,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "tmdbId": 34208,
+  "slug": "katalin-varga-2009",
+  "year": 2009,
+  "runtime": 81,
+  "originalTitle": "Katalin Varga",
+  "title": {
+    "en": "Katalin Varga",
+    "tr": "Katalin Varga"
+  },
+  "overview": {
+    "en": "In the beautiful, otherworldly Carpathian Mountains a woman is traveling with a small boy in a horse and cart, looking to punish those who once abused her. For years, Katalin has been keeping a terrible secret. Hitchhiking with two men, she was brutally raped in the woods. Although she has kept silent about what happened, she has not forgotten, and her son Órban serves as a living reminder.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rJDPimLlUrsu3zxR7AWh91al6TV.jpg",
+    "en": "/8fmUO0bpR8Q6BsvvDg3MyMWAghb.jpg"
+  },
+  "backdrops": [
+    "/xBVhu6e0h8tzhECN3oceal5GxMP.jpg",
+    "/drWSUAnM5I2HeCI08DnT5FsXG7t.jpg",
+    "/iRZ2kCrle1F7t0qUrQfLkUCpbMH.jpg",
+    "/mps9kHiuHc2LMfHL1wahf7RkU9C.jpg",
+    "/4dwsgJ5S6JPkLVu2h5IN1rqlIQa.jpg",
+    "/76U7yHfC6khMgfNTwxmHPKXT6kD.jpg"
+  ],
+  "trailerKey": "8PTjObn2W5I",
+  "genreIds": [
+    53,
+    18,
+    80
+  ],
+  "keywordIds": [
+    570,
+    272,
+    9748,
+    179882,
+    243182,
+    243185
+  ],
+  "countries": [
+    "RO",
+    "GB"
+  ],
+  "languages": [
+    "hu",
+    "ro"
+  ],
+  "studios": [
+    "Romanian National Center for Cinematography",
+    "Libra Film",
+    "Ross Sanders Production International"
+  ],
+  "crew": [
+    {
+      "personId": 583857,
+      "job": "writer"
+    },
+    {
+      "personId": 583857,
+      "job": "director"
+    },
+    {
+      "personId": 1586299,
+      "job": "composer"
+    },
+    {
+      "personId": 1586300,
+      "job": "composer"
+    },
+    {
+      "personId": 1476236,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 583857,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 583855,
+      "character": "Katalin Varga",
+      "order": 0
+    },
+    {
+      "personId": 1586306,
+      "character": "Orbán Varga",
+      "order": 1
+    },
+    {
+      "personId": 1586307,
+      "character": "Zsigmond Varga",
+      "order": 2
+    },
+    {
+      "personId": 1586308,
+      "character": "Gergely",
+      "order": 3
+    },
+    {
+      "personId": 559777,
+      "character": "Antal Borlan",
+      "order": 4
+    },
+    {
+      "personId": 1586309,
+      "character": "Etelka Borlan",
+      "order": 5
+    },
+    {
+      "personId": 1102366,
+      "character": "Wife",
+      "order": 6
+    },
+    {
+      "personId": 1944655,
+      "character": "Husband",
+      "order": 7
+    },
+    {
+      "personId": 1979897,
+      "character": "Gergely's Brother-in-Law",
+      "order": 8
+    },
+    {
+      "personId": 1853418,
+      "character": "Zsuzsa",
+      "order": 9
+    },
+    {
+      "personId": 1390683,
+      "character": "Poultry Man",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 58,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "tmdbId": 747,
+  "slug": "shaun-of-the-dead-2004",
+  "year": 2004,
+  "runtime": 99,
+  "originalTitle": "Shaun of the Dead",
+  "title": {
+    "en": "Shaun of the Dead",
+    "tr": "Zombilerin Şafağı"
+  },
+  "overview": {
+    "en": "Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.",
+    "tr": "Shaun, hayatında ciddi olarak daha hiçbir şeyi başaramamıştır. Tüm hayatı, ne için yaptığını hala bilmediği işi, iki deli ev arkadaşı Ed ve Pete, kız arkadaşı Liz ve annesi arasında gidip gelmektedir. Hayatındaki en önemli şeyse kendini bulduğu tek yer olan Winchester adlı bardır. Liz tarafından ilgisiz olmakla, annesi tarafından yeteneksiz olmakla suçlanır, arkadaşları ise onun hakkında yorum yapacak kadar bile akıllı değildir. Shaun bir gün hayatının fırsatını yakalayacağını düşünmekle zamanını harcarken bütün Kuzey Londra'yı zombiler basar. Sokaklar ölülerin işgali altında kalınca ve ölüm hemen yanı başınızda olunca ne hissedersiniz? Tabii ki Shaun gibi sevdiğiniz herkesi kurtarmayı. Zaten kurtarılacaklar listesinde sadece dört isim vardır; Liz, Ed, Pete ve annesi."
+  },
+  "poster": {
+    "tr": "/6BO2TbLDzIZPnmRfDIgHaTn1D6k.jpg",
+    "en": "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg"
+  },
+  "backdrops": [
+    "/asoDCKpnYLrnQlroigvDXXFcTfJ.jpg",
+    "/xFcrqBOqCJOLQUCumHDJdDSMZYd.jpg",
+    "/mrdHbaCp3ysDrzUHle5eQlY9Vzu.jpg",
+    "/ggw4bPO0IZfTltOVJXQkVOZdmuL.jpg",
+    "/5GUuHcOoaqFyo1cfa3seMMGXgPL.jpg",
+    "/mCprpot2Q2WbwtWEQMVS2q33ZtC.jpg",
+    "/pnsLbdNsKyoCSIaWWK6fPzUTvrD.jpg",
+    "/wb34q3VgzHgL8frVMywrN3wXmqx.jpg",
+    "/4lr2VqOcw9YROMnOWoHtUR9xGxA.jpg",
+    "/dCShRbkis2ftkW9cUhQ117ew2JW.jpg"
+  ],
+  "trailerKey": "_QuY93B2FS0",
+  "genreIds": [
+    27,
+    35
+  ],
+  "keywordIds": [
+    212,
+    10123,
+    8201,
+    6581,
+    9755,
+    8631,
+    9713,
+    10349,
+    12377,
+    50009,
+    155479,
+    164698,
+    186565,
+    357318,
+    364488,
+    374479
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "WT² Productions",
+    "Big Talk Studios"
+  ],
+  "crew": [
+    {
+      "personId": 11090,
+      "job": "director"
+    },
+    {
+      "personId": 11112,
+      "job": "producer"
+    },
+    {
+      "personId": 11113,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 71774,
+      "job": "composer"
+    },
+    {
+      "personId": 1323809,
+      "job": "composer"
+    },
+    {
+      "personId": 11108,
+      "job": "writer"
+    },
+    {
+      "personId": 11090,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11108,
+      "character": "Shaun",
+      "order": 0
+    },
+    {
+      "personId": 11109,
+      "character": "Ed",
+      "order": 1
+    },
+    {
+      "personId": 11110,
+      "character": "Liz",
+      "order": 2
+    },
+    {
+      "personId": 11111,
+      "character": "Dianne",
+      "order": 3
+    },
+    {
+      "personId": 7028,
+      "character": "David",
+      "order": 4
+    },
+    {
+      "personId": 47730,
+      "character": "Yvonne",
+      "order": 5
+    },
+    {
+      "personId": 1249,
+      "character": "Barbara",
+      "order": 6
+    },
+    {
+      "personId": 2440,
+      "character": "Phillip",
+      "order": 7
+    },
+    {
+      "personId": 7060,
+      "character": "Declan",
+      "order": 8
+    },
+    {
+      "personId": 26209,
+      "character": "Cousin Tom",
+      "order": 9
+    },
+    {
+      "personId": 11115,
+      "character": "Pete",
+      "order": 10
+    },
+    {
+      "personId": 28847,
+      "character": "Noel",
+      "order": 11
+    },
+    {
+      "personId": 34551,
+      "character": "Mark",
+      "order": 12
+    },
+    {
+      "personId": 120931,
+      "character": "Maggie",
+      "order": 13
+    },
+    {
+      "personId": 137471,
+      "character": "Yvonne's Mum",
+      "order": 14
+    },
+    {
+      "personId": 11117,
+      "character": "John",
+      "order": 15
+    },
+    {
+      "personId": 11116,
+      "character": "Mary",
+      "order": 16
+    },
+    {
+      "personId": 1445662,
+      "character": "Nelson",
+      "order": 17
+    },
+    {
+      "personId": 1445663,
+      "character": "Snakehips",
+      "order": 18
+    },
+    {
+      "personId": 1418542,
+      "character": "Bernie",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 9767,
+  "sources": [
+    "cult-list"
+  ]
+}

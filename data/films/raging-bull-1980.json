@@ -1,0 +1,211 @@
+{
+  "tmdbId": 1578,
+  "slug": "raging-bull-1980",
+  "year": 1980,
+  "runtime": 129,
+  "originalTitle": "Raging Bull",
+  "title": {
+    "en": "Raging Bull",
+    "tr": "Kızgın Boğa"
+  },
+  "overview": {
+    "en": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+    "tr": "Boksör Jakc la mottanın kendi ağzından anlattığı şampiyonluklardan bar komedyenliğine uzanan hırslı hayat hikayesi.Usta yönetmen Martin Scorsese'nin yönettiği bu film protesto amacıyla siyah-beyaz çekilmiştir,aynı zamanda sinema eleştirmenleri ve yönetmenleri tarafından tüm zamanların en iyi filmleri içinde ilk 10 sıradadır."
+  },
+  "poster": {
+    "tr": "/dskWEaGztJE2PGJFUjkJaGUWa99.jpg",
+    "en": "/1WV7WlTS8LI1L5NkCgjWT9GSW3O.jpg"
+  },
+  "backdrops": [
+    "/tvNuhRlpRozDgsX1zR9gQ2aHv1X.jpg",
+    "/wgq2oA1aJiawBlRDIU8agXk7DQQ.jpg",
+    "/6t4jqCok1yGBn7z7CKlCsWsjoNX.jpg",
+    "/yL89QDlifY50ypzjF5ak9WJrjxr.jpg",
+    "/aAStHDJgD97k4g4Zf0NLqbAmrvZ.jpg",
+    "/6I6ZuOVee7WRJbeIN0eUXsgWDi6.jpg",
+    "/h6DLj3DVV4gjUBVp0Ug5VBmQ0PE.jpg",
+    "/5uSqLYuyHVtPLAofVdRLB3AnrWB.jpg",
+    "/kHjzv0pubJmcH55KjPdkbXUgoC5.jpg",
+    "/5NK9CenzhJcaf89Hi7xoGYXTLKN.jpg"
+  ],
+  "trailerKey": "G5RHRg6zEhY",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    1196,
+    242,
+    931,
+    396,
+    6075,
+    5301,
+    2340,
+    2320,
+    2792,
+    5565,
+    5572,
+    5573,
+    11925,
+    12999,
+    155464,
+    161307,
+    202371,
+    209476,
+    261264,
+    323809,
+    325773,
+    325823,
+    325835,
+    325854
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "United Artists",
+    "Winkler Films"
+  ],
+  "crew": [
+    {
+      "personId": 16514,
+      "job": "producer"
+    },
+    {
+      "personId": 1044,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11472,
+      "job": "producer"
+    },
+    {
+      "personId": 17657,
+      "job": "composer"
+    },
+    {
+      "personId": 1032,
+      "job": "director"
+    },
+    {
+      "personId": 1035,
+      "job": "writer"
+    },
+    {
+      "personId": 2554,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 380,
+      "character": "Jake LaMotta",
+      "order": 0
+    },
+    {
+      "personId": 14702,
+      "character": "Vickie LaMotta",
+      "order": 1
+    },
+    {
+      "personId": 4517,
+      "character": "Joey LaMotta",
+      "order": 2
+    },
+    {
+      "personId": 7164,
+      "character": "Salvy Batts",
+      "order": 3
+    },
+    {
+      "personId": 17651,
+      "character": "Tommy Como",
+      "order": 4
+    },
+    {
+      "personId": 17652,
+      "character": "Lenore",
+      "order": 5
+    },
+    {
+      "personId": 17653,
+      "character": "Mario",
+      "order": 6
+    },
+    {
+      "personId": 4692,
+      "character": "Patsy",
+      "order": 7
+    },
+    {
+      "personId": 1888773,
+      "character": "Guido",
+      "order": 8
+    },
+    {
+      "personId": 3872579,
+      "character": "Toppy",
+      "order": 9
+    },
+    {
+      "personId": 3872580,
+      "character": "Irma",
+      "order": 10
+    },
+    {
+      "personId": 1006721,
+      "character": "Charlie - Man with Como",
+      "order": 11
+    },
+    {
+      "personId": 3353077,
+      "character": "Radio Announcer",
+      "order": 12
+    },
+    {
+      "personId": 2548126,
+      "character": "Eddie Eagan",
+      "order": 13
+    },
+    {
+      "personId": 559279,
+      "character": "Emma - Miss 48's",
+      "order": 14
+    },
+    {
+      "personId": 2568316,
+      "character": "Dr. Pinto",
+      "order": 15
+    },
+    {
+      "personId": 1498313,
+      "character": "Comedian",
+      "order": 16
+    },
+    {
+      "personId": 2458132,
+      "character": "Jimmy Reeves (Reeves Fight)",
+      "order": 17
+    },
+    {
+      "personId": 16643,
+      "character": "Ring Announcer (Reeves Fight)",
+      "order": 18
+    },
+    {
+      "personId": 3872589,
+      "character": "Referee (Reeves Fight)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 4960,
+  "sources": [
+    "cult-list"
+  ]
+}

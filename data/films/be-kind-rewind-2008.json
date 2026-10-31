@@ -1,0 +1,187 @@
+{
+  "tmdbId": 4953,
+  "slug": "be-kind-rewind-2008",
+  "year": 2008,
+  "runtime": 102,
+  "originalTitle": "Be Kind Rewind",
+  "title": {
+    "en": "Be Kind Rewind",
+    "tr": "Lütfen Başa Sarın"
+  },
+  "overview": {
+    "en": "A man whose brain becomes magnetized unintentionally destroys every tape in his friend's video store. In order to satisfy the store's most loyal renter, an aging woman with signs of dementia, the two men set out to remake the lost films.",
+    "tr": "Jerry manyetik güçlere sahiptir ancak bunu henüz fark edememiştir. Hergün video kaset kiraladığı dükkana son gidişinde bir sorunla karşılaşır. Dükkandaki yarıdan fazla video kaset silinmiştir ve bunun nedeni Jerry'nin manyetik gücüdür. Jerry batacağını düşünen dükkan sahibine inanılmaz bir fikir verir. Silinmiş filmlerin yerine kendileri o filmleri çekecektir. Böylece Ghost Busters, Robocop ve Aslan Kral gibi kültleşmiş filmlerin kopyalarını çekmeye koyulurlar. Dükkana gelen müşterilerin tepkisi, bunun hiç de iyi bir fikir olmadığını düşünen dükkan sahibini çok şaşırtacaktır: Çünkü filmleri beğenilmiştir."
+  },
+  "poster": {
+    "tr": "/f0oX20YrQEiVPDH9InCQ1d3Cm66.jpg",
+    "en": "/f0oX20YrQEiVPDH9InCQ1d3Cm66.jpg"
+  },
+  "backdrops": [
+    "/hwEoWxONiQn6Hwh4b8NZnehHQx0.jpg",
+    "/nbmPpumlhuR8jcmW4buPQzliKU3.jpg",
+    "/eXjElmRZSVhsqLwPHiHmo8GjN3h.jpg",
+    "/jKkqUbRbjQTjuD98wAz9PgyOdEl.jpg",
+    "/6fCDeMRaA8JSYJRlQSD5JeDUPgu.jpg",
+    "/4DrzZH5fsGt3oRJBNJPSSoMP7oR.jpg",
+    "/colWiaZ11JXUxm4Re9L7Q1907US.jpg"
+  ],
+  "trailerKey": "Dko0wesoCRc",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    6262,
+    4368,
+    34053,
+    177185
+  ],
+  "countries": [
+    "US",
+    "FR"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Partizan Films",
+    "Partizan Films"
+  ],
+  "crew": [
+    {
+      "personId": 4276,
+      "job": "producer"
+    },
+    {
+      "personId": 201,
+      "job": "writer"
+    },
+    {
+      "personId": 313,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 201,
+      "job": "director"
+    },
+    {
+      "personId": 4278,
+      "job": "composer"
+    },
+    {
+      "personId": 4231,
+      "job": "producer"
+    },
+    {
+      "personId": 201,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 70851,
+      "character": "Jerry",
+      "order": 0
+    },
+    {
+      "personId": 4239,
+      "character": "Mike",
+      "order": 1
+    },
+    {
+      "personId": 2047,
+      "character": "Mr. Fletcher",
+      "order": 2
+    },
+    {
+      "personId": 12021,
+      "character": "Ms. Kimberley",
+      "order": 3
+    },
+    {
+      "personId": 53936,
+      "character": "Alma",
+      "order": 4
+    },
+    {
+      "personId": 2982130,
+      "character": "Wilson",
+      "order": 5
+    },
+    {
+      "personId": 87292,
+      "character": "Craig",
+      "order": 6
+    },
+    {
+      "personId": 6070,
+      "character": "Manny",
+      "order": 7
+    },
+    {
+      "personId": 34111,
+      "character": "James",
+      "order": 8
+    },
+    {
+      "personId": 1234888,
+      "character": "Kid 2",
+      "order": 9
+    },
+    {
+      "personId": 210,
+      "character": "Kid 3",
+      "order": 10
+    },
+    {
+      "personId": 40250,
+      "character": "Mr. Rooney",
+      "order": 11
+    },
+    {
+      "personId": 10205,
+      "character": "Ms. Lawson",
+      "order": 12
+    },
+    {
+      "personId": 1308302,
+      "character": "Sherry",
+      "order": 13
+    },
+    {
+      "personId": 103173,
+      "character": "West Coast Video Employee Passaic",
+      "order": 14
+    },
+    {
+      "personId": 59841,
+      "character": "Officer Julian",
+      "order": 15
+    },
+    {
+      "personId": 2349916,
+      "character": "Andrea",
+      "order": 16
+    },
+    {
+      "personId": 1211946,
+      "character": "Mr. Baker",
+      "order": 17
+    },
+    {
+      "personId": 112560,
+      "character": "Q",
+      "order": 18
+    },
+    {
+      "personId": 114144,
+      "character": "Randy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1556,
+  "sources": [
+    "cult-list"
+  ]
+}

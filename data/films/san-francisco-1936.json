@@ -1,0 +1,203 @@
+{
+  "tmdbId": 43881,
+  "slug": "san-francisco-1936",
+  "year": 1936,
+  "runtime": 115,
+  "originalTitle": "San Francisco",
+  "title": {
+    "en": "San Francisco",
+    "tr": "San Francisco"
+  },
+  "overview": {
+    "en": "A beautiful singer and a battling priest try to reform a Barbary Coast saloon owner in the days before the great earthquake and subsequent fires in 1906.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/zQF1UDB0ck4dRfKAn4XixGrCkjx.jpg",
+    "en": "/zQF1UDB0ck4dRfKAn4XixGrCkjx.jpg"
+  },
+  "backdrops": [
+    "/paFUPuG8ImGQwCtR8vgwTW9iZWB.jpg",
+    "/ndb9DOjs5Lm6G7Eniu1mAx4sYGc.jpg",
+    "/akoyNkBqqp2xU8YdYIUOyUeNpad.jpg",
+    "/tfxbeKUz99NpIGbknfwVnnMEc2I.jpg"
+  ],
+  "trailerKey": "Eawnyxm9vWs",
+  "genreIds": [
+    18,
+    10749,
+    10402
+  ],
+  "keywordIds": [
+    582,
+    3521,
+    10093,
+    18071,
+    155512,
+    164920,
+    168268,
+    179567,
+    189411,
+    192005,
+    228753,
+    235561,
+    236170,
+    238172
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 32427,
+      "job": "director"
+    },
+    {
+      "personId": 11436,
+      "job": "writer"
+    },
+    {
+      "personId": 254114,
+      "job": "producer"
+    },
+    {
+      "personId": 1355976,
+      "job": "producer"
+    },
+    {
+      "personId": 32427,
+      "job": "producer"
+    },
+    {
+      "personId": 72066,
+      "job": "composer"
+    },
+    {
+      "personId": 101711,
+      "job": "composer"
+    },
+    {
+      "personId": 127523,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30012,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11492,
+      "character": "Blackie Norton",
+      "order": 0
+    },
+    {
+      "personId": 98462,
+      "character": "Mary Blake",
+      "order": 1
+    },
+    {
+      "personId": 12147,
+      "character": "Father Tim Mullin",
+      "order": 2
+    },
+    {
+      "personId": 93910,
+      "character": "Jack Burley",
+      "order": 3
+    },
+    {
+      "personId": 13965,
+      "character": "Mrs. Maisie Burley",
+      "order": 4
+    },
+    {
+      "personId": 100306,
+      "character": "Mat",
+      "order": 5
+    },
+    {
+      "personId": 149133,
+      "character": "Trixie",
+      "order": 6
+    },
+    {
+      "personId": 99458,
+      "character": "Della Bailey",
+      "order": 7
+    },
+    {
+      "personId": 32435,
+      "character": "'Babe'",
+      "order": 8
+    },
+    {
+      "personId": 30018,
+      "character": "Sheriff",
+      "order": 9
+    },
+    {
+      "personId": 1027241,
+      "character": "Professor",
+      "order": 10
+    },
+    {
+      "personId": 1046029,
+      "character": "Signor Baldini",
+      "order": 11
+    },
+    {
+      "personId": 34091,
+      "character": "'Chick'",
+      "order": 12
+    },
+    {
+      "personId": 112364,
+      "character": "'Alaska'",
+      "order": 13
+    },
+    {
+      "personId": 96053,
+      "character": "Tony",
+      "order": 14
+    },
+    {
+      "personId": 8519,
+      "character": "'Red' Kelly",
+      "order": 15
+    },
+    {
+      "personId": 29987,
+      "character": "Freddie Duane",
+      "order": 16
+    },
+    {
+      "personId": 74876,
+      "character": "Hazeltine",
+      "order": 17
+    },
+    {
+      "personId": 120778,
+      "character": "Madame Albani (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 141070,
+      "character": "Drunk's Girl (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 92,
+  "sources": [
+    "cult-list"
+  ]
+}

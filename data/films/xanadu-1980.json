@@ -1,0 +1,187 @@
+{
+  "tmdbId": 15668,
+  "slug": "xanadu-1980",
+  "year": 1980,
+  "runtime": 96,
+  "originalTitle": "Xanadu",
+  "title": {
+    "en": "Xanadu",
+    "tr": "Xanadu"
+  },
+  "overview": {
+    "en": "Kira, a Greek muse incarnated on Earth to inspire people, helps Dan McGuire and an artist named Sonny Malone to meet. She inspires them to build a huge disco roller rink called Xanadu.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4r1cHzhksHO3u1QS1Ct9mId7kQL.jpg",
+    "en": "/9zCkz5n80SmVAOHLEolAO4Iav0q.jpg"
+  },
+  "backdrops": [
+    "/sPiDLXc3MytlZk01nblRMsCymE0.jpg",
+    "/tj0UzAnR1texxcYi0eeafY4fRGZ.jpg",
+    "/qUvW97uRvhfwXlvRZK8vBMqa09y.jpg",
+    "/tJVzFSmPDN5RuAJDBqwXuOS2fiH.jpg",
+    "/pbOUIjLpt6o4ymIkdyKr91yXQ3d.jpg",
+    "/1W2b7MDlBt9r4PVxu65WNoNv2HA.jpg",
+    "/qbnym14YRlIqyu0YwlWa7QDB2ph.jpg",
+    "/mlZ6ECQJAxW7eWxBeLBAp6d5z0j.jpg",
+    "/v5wa7Zs9YWzilxRrGBSpgqPMeQR.jpg",
+    "/xmNaOHleuffjvsyvov3crRQZfyU.jpg"
+  ],
+  "trailerKey": "qdK5W-S0sW4",
+  "genreIds": [
+    14,
+    878,
+    10749
+  ],
+  "keywordIds": [
+    4344,
+    6234,
+    11663,
+    155490,
+    155493,
+    206491
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1196748,
+      "job": "writer"
+    },
+    {
+      "personId": 51521,
+      "job": "director"
+    },
+    {
+      "personId": 73936,
+      "job": "writer"
+    },
+    {
+      "personId": 1093,
+      "job": "producer"
+    },
+    {
+      "personId": 29707,
+      "job": "composer"
+    },
+    {
+      "personId": 14536,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8892,
+      "character": "Kira",
+      "order": 0
+    },
+    {
+      "personId": 13294,
+      "character": "Danny McGuire",
+      "order": 1
+    },
+    {
+      "personId": 36409,
+      "character": "Sonny Malone",
+      "order": 2
+    },
+    {
+      "personId": 157936,
+      "character": "Simpson",
+      "order": 3
+    },
+    {
+      "personId": 129292,
+      "character": "Sandra",
+      "order": 4
+    },
+    {
+      "personId": 162139,
+      "character": "Richie",
+      "order": 5
+    },
+    {
+      "personId": 130440,
+      "character": "Jo",
+      "order": 6
+    },
+    {
+      "personId": 1220923,
+      "character": "Helen",
+      "order": 7
+    },
+    {
+      "personId": 45378,
+      "character": "Muse 1",
+      "order": 8
+    },
+    {
+      "personId": 1318655,
+      "character": "Muse 2",
+      "order": 9
+    },
+    {
+      "personId": 1318656,
+      "character": "Muse 3",
+      "order": 10
+    },
+    {
+      "personId": 1318657,
+      "character": "Muse 4",
+      "order": 11
+    },
+    {
+      "personId": 178148,
+      "character": "Muse 5",
+      "order": 12
+    },
+    {
+      "personId": 137347,
+      "character": "Muse 6",
+      "order": 13
+    },
+    {
+      "personId": 1318658,
+      "character": "Muse 7",
+      "order": 14
+    },
+    {
+      "personId": 1318659,
+      "character": "Muse 8",
+      "order": 15
+    },
+    {
+      "personId": 1318660,
+      "character": "Male Guard",
+      "order": 16
+    },
+    {
+      "personId": 98902,
+      "character": "Female Guard",
+      "order": 17
+    },
+    {
+      "personId": 22490,
+      "character": "Young Danny McGuire / Xanadu Dancer",
+      "order": 18
+    },
+    {
+      "personId": 2417555,
+      "character": "Dancer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 297,
+  "sources": [
+    "cult-list"
+  ]
+}

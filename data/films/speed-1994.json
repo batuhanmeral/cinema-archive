@@ -1,0 +1,205 @@
+{
+  "tmdbId": 1637,
+  "slug": "speed-1994",
+  "year": 1994,
+  "runtime": 116,
+  "originalTitle": "Speed",
+  "title": {
+    "en": "Speed",
+    "tr": "Hız Tuzağı"
+  },
+  "overview": {
+    "en": "Tensions run high when a crazed bomber rigs a Los Angeles bus with a device that will kill everyone on board if the vehicle's speed dips below fifty miles per hour.",
+    "tr": "Howard fidye istemek için bombalı saldırılar düzenleyen polis tarafından aranılan bir suçludur.Bir otobüse yerleştirdiği özel bombayla yine fidye istemektedir.Genç bir polis memuru olan Jack hızı 80 km altına düşerse içinde bomba patlayacak olan otobüsün içindekileri kurtarmakla görevlendirilmiştir..Ona yardım edecek olan kişiyse otobüs şöförünün yerine geçmek zorunda kalan ve ehliyeti aşırı hız nedeniyle alınmış olan Annie'dir."
+  },
+  "poster": {
+    "tr": "/1SnUyCMbp64xBGWChfMO0sYIJUQ.jpg",
+    "en": "/o1Zs7VaS9y2GYH9CLeWxaVLWd3x.jpg"
+  },
+  "backdrops": [
+    "/bWjvYgY2kfhnfzvEDk96yiCz2oJ.jpg",
+    "/lywmuPU5Hr1Mnpb9UGeDbILmkTx.jpg",
+    "/kJQS6jxxtNTaWI8jw7ynck97rgl.jpg",
+    "/dAi6Yymj9SqSMg6BzF6PW5Qhirh.jpg",
+    "/7YhbLEnFDTpiwFXxbsuLU5GR4Dg.jpg",
+    "/uAhR6XBZvQPri0ACAXi7veHJCWq.jpg",
+    "/nHsgbDJXLGEh1YHUV7IWlLmsURZ.jpg",
+    "/oZffRVreECBpRcKe4lDa2mWf3tH.jpg",
+    "/cmQDhWpypTuEFNY7FqiXXvsUxsA.jpg",
+    "/zbM8PflNb7u1zdGyAtIQSUp4hvM.jpg"
+  ],
+  "trailerKey": "3q_4xiR3VJQ",
+  "genreIds": [
+    28,
+    53
+  ],
+  "keywordIds": [
+    1470,
+    2532,
+    8010,
+    12670,
+    33594,
+    157251,
+    167377,
+    173316,
+    177489,
+    182216,
+    187270,
+    202371,
+    208319,
+    216966,
+    275777,
+    314730,
+    325778,
+    325811,
+    330094,
+    349792,
+    349793
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox",
+    "The Mark Gordon Company"
+  ],
+  "crew": [
+    {
+      "personId": 10765,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9989,
+      "job": "composer"
+    },
+    {
+      "personId": 6048,
+      "job": "producer"
+    },
+    {
+      "personId": 2209,
+      "job": "director"
+    },
+    {
+      "personId": 21206,
+      "job": "writer"
+    },
+    {
+      "personId": 12891,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6384,
+      "character": "Jack Traven",
+      "order": 0
+    },
+    {
+      "personId": 2778,
+      "character": "Howard Payne",
+      "order": 1
+    },
+    {
+      "personId": 18277,
+      "character": "Annie",
+      "order": 2
+    },
+    {
+      "personId": 3977,
+      "character": "Capt. McMahon",
+      "order": 3
+    },
+    {
+      "personId": 8447,
+      "character": "Harry",
+      "order": 4
+    },
+    {
+      "personId": 2394,
+      "character": "Stephens",
+      "order": 5
+    },
+    {
+      "personId": 2683,
+      "character": "Jaguar Owner",
+      "order": 6
+    },
+    {
+      "personId": 3205,
+      "character": "Norwood",
+      "order": 7
+    },
+    {
+      "personId": 5151,
+      "character": "Helen",
+      "order": 8
+    },
+    {
+      "personId": 12056,
+      "character": "Sam",
+      "order": 9
+    },
+    {
+      "personId": 33712,
+      "character": "Ortiz",
+      "order": 10
+    },
+    {
+      "personId": 52418,
+      "character": "Terry",
+      "order": 11
+    },
+    {
+      "personId": 157048,
+      "character": "Mrs. Kamino",
+      "order": 12
+    },
+    {
+      "personId": 2119353,
+      "character": "Ray",
+      "order": 13
+    },
+    {
+      "personId": 1872781,
+      "character": "Bus Passenger #1",
+      "order": 14
+    },
+    {
+      "personId": 1734769,
+      "character": "Bus Passenger #2",
+      "order": 15
+    },
+    {
+      "personId": 1872782,
+      "character": "Bus Passenger #3",
+      "order": 16
+    },
+    {
+      "personId": 1872784,
+      "character": "Robin",
+      "order": 17
+    },
+    {
+      "personId": 33713,
+      "character": "Bagwell",
+      "order": 18
+    },
+    {
+      "personId": 161897,
+      "character": "Young Executive",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2,
+    "bafta": 2
+  },
+  "voteCount": 7159,
+  "sources": [
+    "cult-list"
+  ]
+}

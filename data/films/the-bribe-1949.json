@@ -1,0 +1,180 @@
+{
+  "tmdbId": 25509,
+  "slug": "the-bribe-1949",
+  "year": 1949,
+  "runtime": 98,
+  "originalTitle": "The Bribe",
+  "title": {
+    "en": "The Bribe",
+    "tr": "The Bribe"
+  },
+  "overview": {
+    "en": "United States Federal agent Rigby travels to the Central American island Carlotta to investigate a stolen aircraft engines smuggling racket.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lpSkLEOCFbFpmwmTuprWLl5DRRg.jpg",
+    "en": "/r4tljirE4dStc6nhu1Nnk4PmaIQ.jpg"
+  },
+  "backdrops": [
+    "/lNURX5jBR2yomeJZip2GBwmfl9O.jpg",
+    "/uXSLz7Ga1XmRRyl1JZ3boUpyx0d.jpg",
+    "/jzO5m8EoUA1aqDazJgG3ZCekHKS.jpg",
+    "/7L1y5J6yiFlc50mvsWeDpZp4XNT.jpg"
+  ],
+  "trailerKey": "Rgh62TdVhjs",
+  "genreIds": [
+    80,
+    18,
+    53
+  ],
+  "keywordIds": [
+    6212,
+    2334,
+    9807,
+    156208,
+    171439,
+    208458,
+    209319,
+    227960
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 93906,
+      "job": "director"
+    },
+    {
+      "personId": 30174,
+      "job": "producer"
+    },
+    {
+      "personId": 7647,
+      "job": "composer"
+    },
+    {
+      "personId": 14678,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 39760,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 82216,
+      "character": "Rigby",
+      "order": 0
+    },
+    {
+      "personId": 25787,
+      "character": "Elizabeth Hintten",
+      "order": 1
+    },
+    {
+      "personId": 10921,
+      "character": "J.J. Bealer",
+      "order": 2
+    },
+    {
+      "personId": 1905,
+      "character": "Carwood",
+      "order": 3
+    },
+    {
+      "personId": 85437,
+      "character": "Tugwell 'Tug' Hintten",
+      "order": 4
+    },
+    {
+      "personId": 17756,
+      "character": "Dr. Warren",
+      "order": 5
+    },
+    {
+      "personId": 14508,
+      "character": "Gibbs",
+      "order": 6
+    },
+    {
+      "personId": 94335,
+      "character": "Emilio Gomez",
+      "order": 7
+    },
+    {
+      "personId": 94401,
+      "character": "Pablo Gomez",
+      "order": 8
+    },
+    {
+      "personId": 136832,
+      "character": "Flute Player (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 155252,
+      "character": "Bellboy (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 1099216,
+      "character": "Club Patron (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 127671,
+      "character": "Bellboy (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 2493976,
+      "character": "Rhumba Dancer (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 2230405,
+      "character": "Old Townsman (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1119591,
+      "character": "French Tourist (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 153296,
+      "character": "Waiter (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1065476,
+      "character": "Waiter (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 136779,
+      "character": "Second Hotel Clerk (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1768529,
+      "character": "Club Patron (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 35,
+  "sources": [
+    "cult-list"
+  ]
+}

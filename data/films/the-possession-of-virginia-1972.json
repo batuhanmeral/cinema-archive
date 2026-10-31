@@ -1,0 +1,161 @@
+{
+  "tmdbId": 146705,
+  "slug": "the-possession-of-virginia-1972",
+  "year": 1972,
+  "runtime": 86,
+  "originalTitle": "Le diable est parmi nous",
+  "title": {
+    "en": "The Possession of Virginia",
+    "tr": "Le diable est parmi nous"
+  },
+  "overview": {
+    "en": "When his friend suddenly commits suicide, reporter Paul senses something strange about it. When he starts investigating, a series of sinister events leads him to a deadly Satanic cult.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/zLC7tUnO7qwJiu4tySFpkVjOdGr.jpg",
+    "en": "/zLC7tUnO7qwJiu4tySFpkVjOdGr.jpg"
+  },
+  "backdrops": [
+    "/kjApFF7YWYsRbXpPAgxnaG4XbS1.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    27,
+    9648
+  ],
+  "keywordIds": [
+    3099,
+    6158
+  ],
+  "countries": [
+    "CA"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Astral Films"
+  ],
+  "crew": [
+    {
+      "personId": 224814,
+      "job": "director"
+    },
+    {
+      "personId": 31180,
+      "job": "writer"
+    },
+    {
+      "personId": 103867,
+      "job": "writer"
+    },
+    {
+      "personId": 31180,
+      "job": "producer"
+    },
+    {
+      "personId": 1328734,
+      "job": "producer"
+    },
+    {
+      "personId": 1328735,
+      "job": "composer"
+    },
+    {
+      "personId": 1328736,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 31181,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24902,
+      "character": "Helene",
+      "order": 0
+    },
+    {
+      "personId": 34971,
+      "character": "Paul Drouin",
+      "order": 1
+    },
+    {
+      "personId": 135336,
+      "character": "Virginia",
+      "order": 2
+    },
+    {
+      "personId": 1294211,
+      "character": "\"Grandmother\"",
+      "order": 3
+    },
+    {
+      "personId": 2846816,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 3220471,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1491524,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 3220474,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 3220475,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1943354,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 2359554,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 544819,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1191547,
+      "character": "Questionning Police Officer",
+      "order": 12
+    },
+    {
+      "personId": 1096951,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 3220477,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1011219,
+      "character": "(As Ernest Guimont)",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 8,
+  "sources": [
+    "cult-list"
+  ]
+}

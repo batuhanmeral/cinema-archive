@@ -1,0 +1,188 @@
+{
+  "tmdbId": 43461,
+  "slug": "odd-man-out-1947",
+  "year": 1947,
+  "runtime": 116,
+  "originalTitle": "Odd Man Out",
+  "title": {
+    "en": "Odd Man Out",
+    "tr": "Ölümden Kuvvetli"
+  },
+  "overview": {
+    "en": "Belfast police conduct a door-to-door manhunt for an IRA gunman wounded in a daring robbery.",
+    "tr": "Johnny McQueen (James Mason) ve çetesi uzunca bir zamandan beri Kathleen ve annesinin yanında saklanmaktadır.Yaklaşık 6 aydır bir fabrika soygunu üzerinde planlar yapmaktadır.Her bir ayrıntı gözden geçirilir ve soygun işine başlanacaktır ancak arkadaşları Johnny'nin bu işe hazır olmadığını düşünmektedirler.Çünkü Johnny ara sıra halisünasyon görmektedir ve bazen bu durumdan dolayı bilinç kaybı yaşamaktadır.Arkadaşlarının tüm ısrarlarına rağmen Johnny çetesinin başında fabrika soygunu işine girer.Paraları alıp kaçarken Johnny yaşadığı bilinç kaybı yüzünden arkadaşlarından geride kalır bu esnada istemeyerek de olsa bir güvenlik görevlisini öldürür ancak kendisi de ağır yaralanır.Arkadaşları arabaya binmesine yardım ederken onu düşürürler ama kaçmaktan ve Johnny'i de geride bırakmaktan başka çareleri kalmamıştır.Johnny bir şekilde yaralı halde iken bir barakada izini kaybettirir.Adamları onu bulmak için her yolu denemektedirler ama tüm polis departmanı peşlerindedir..."
+  },
+  "poster": {
+    "tr": "/zfNkremz9WlWK5gIaqqFwElc7rz.jpg",
+    "en": "/n5rcNybAq4odchshfpSexiDBsKY.jpg"
+  },
+  "backdrops": [
+    "/uLAgNcZjhFegHoZvms8mn9BneJ3.jpg",
+    "/tSlhryW5ZQMRrAfJEwMgBRiuQhR.jpg",
+    "/eb4aHemLxnyjqTqPNAQA0q1oyCw.jpg",
+    "/wdjSirMdLnHbl50JlEYkErbFZyR.jpg",
+    "/nzfiVCM1YPWJqPFDccmVV01r4Ie.jpg",
+    "/vUrqI1BsOXdAPkBHegX94xlDkOO.jpg",
+    "/j4panYOiMj1OOWqaJ8lWfx2SvwU.jpg",
+    "/2nRU0Smr8nr7y2gMsBa3USTdgzi.jpg",
+    "/5rmhy9ygIxemeFOfrasWq9XU3Mg.jpg",
+    "/5Vsf4CVQ9XWuPaXNBpvOdUNtr03.jpg"
+  ],
+  "trailerKey": "EsLLfuNOvws",
+  "genreIds": [
+    80,
+    18,
+    53
+  ],
+  "keywordIds": [
+    9807,
+    12999,
+    14552,
+    155451
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Two Cities Films",
+    "J. Arthur Rank Organisation"
+  ],
+  "crew": [
+    {
+      "personId": 15378,
+      "job": "director"
+    },
+    {
+      "personId": 131454,
+      "job": "writer"
+    },
+    {
+      "personId": 65854,
+      "job": "writer"
+    },
+    {
+      "personId": 12720,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 15378,
+      "job": "producer"
+    },
+    {
+      "personId": 39054,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2091,
+      "character": "Johnny McQueen",
+      "order": 0
+    },
+    {
+      "personId": 29520,
+      "character": "Lukey",
+      "order": 1
+    },
+    {
+      "personId": 4973,
+      "character": "Pat",
+      "order": 2
+    },
+    {
+      "personId": 131447,
+      "character": "Shell",
+      "order": 3
+    },
+    {
+      "personId": 98152,
+      "character": "Kathleen Sullivan",
+      "order": 4
+    },
+    {
+      "personId": 73245,
+      "character": "Fencie - the barman",
+      "order": 5
+    },
+    {
+      "personId": 131449,
+      "character": "Rosie",
+      "order": 6
+    },
+    {
+      "personId": 131451,
+      "character": "Father Tom",
+      "order": 7
+    },
+    {
+      "personId": 85410,
+      "character": "Inspector",
+      "order": 8
+    },
+    {
+      "personId": 106153,
+      "character": "Theresa O'Brien",
+      "order": 9
+    },
+    {
+      "personId": 115605,
+      "character": "Tober",
+      "order": 10
+    },
+    {
+      "personId": 251,
+      "character": "Dennis",
+      "order": 11
+    },
+    {
+      "personId": 6836,
+      "character": "Nolan",
+      "order": 12
+    },
+    {
+      "personId": 567797,
+      "character": "Grannie",
+      "order": 13
+    },
+    {
+      "personId": 567798,
+      "character": "Maudie",
+      "order": 14
+    },
+    {
+      "personId": 567799,
+      "character": "Murphy",
+      "order": 15
+    },
+    {
+      "personId": 101501,
+      "character": "'Gin' Jimmy, the cabbie",
+      "order": 16
+    },
+    {
+      "personId": 109863,
+      "character": "Tom",
+      "order": 17
+    },
+    {
+      "personId": 1906946,
+      "character": "Maureen",
+      "order": 18
+    },
+    {
+      "personId": 3079507,
+      "character": "Cashier",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "bafta": 1
+  },
+  "voteCount": 236,
+  "sources": [
+    "cult-list"
+  ]
+}

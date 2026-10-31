@@ -1,0 +1,217 @@
+{
+  "tmdbId": 10839,
+  "slug": "cross-of-iron-1977",
+  "year": 1977,
+  "runtime": 133,
+  "originalTitle": "Cross of Iron",
+  "title": {
+    "en": "Cross of Iron",
+    "tr": "Şeref Madalyası"
+  },
+  "overview": {
+    "en": "It is 1943, and the German army—ravaged and demoralised—is hastily retreating from the Russian front. In the midst of the madness, conflict brews between the aristocratic yet ultimately pusillanimous Captain Stransky and the courageous Corporal Steiner. Stransky is the only man who believes that the Third Reich is still vastly superior to the Russian army. However, within his pompous persona lies a quivering coward who longs for the Iron Cross so that he can return to Berlin a hero. Steiner, on the other hand is cynical, defiantly non-conformist and more concerned with the safety of his own men rather than the horde of military decorations offered to him by his superiors.",
+    "tr": "İkinci Dünya Savaşının önemli cephelerinden olan Rusya cephesinde büyük değişiklikler olmuştur. Rusya'ya saldıran Alman orduları yanlış zaman ve yetersiz malzeme yüzünden inanılmaz hızla girdikleri bu topraklardan geri çekilmek zorunda kalmışlardır. Savaş alanındaki kurnazlıkları sayesinde hayatta kalmayı başaran Çavuş Steiner ve emrindeki birliğe yeni atanan komutanları Yüzbaşı Stransky arasında çok kısa bir zaman içinde bir sürtüşme başlar. Aslen Prusyalı aristokrat bir aileden gelen bu yeni komutan her ne pahasına olursa olsun şeref madalyası almaya çalışmaktadır. Aralarındaki hava gergindir çünkü çavuş, askerler arasında adeta bir efsane haline gelmek üzeredir."
+  },
+  "poster": {
+    "tr": "/fR6pqh5aFn0fawsn7sR2zC15swx.jpg",
+    "en": "/fR6pqh5aFn0fawsn7sR2zC15swx.jpg"
+  },
+  "backdrops": [
+    "/5aLzi9TOpeItTIoXMcwUuAGs0wK.jpg",
+    "/edUMdGAWTwc6RA2uhvagZJkrhAw.jpg",
+    "/knddWFL7b6A5F3h8GA0G78svfJg.jpg",
+    "/As6qh6c5ipiVPwo9JZVYLVRr7ZY.jpg",
+    "/xR5i9CMekajSfHE44f4Atv68c9D.jpg",
+    "/9eUdYMk2Byfwo94uClTHduc3AUS.jpg",
+    "/6NzqfCn722uP6QwzPsG8SoXykvP.jpg",
+    "/q1Qg9uj3haAT2T0au0g2RTbacMT.jpg",
+    "/grrshKl0KENHC2zpXEDBnyT8hlb.jpg",
+    "/AbDjKsjpk8jHgaFTcmR1Ch0iDY7.jpg"
+  ],
+  "trailerKey": "PBn3kOvK_qI",
+  "genreIds": [
+    18,
+    28,
+    36,
+    10752
+  ],
+  "keywordIds": [
+    6062,
+    1956,
+    4933,
+    4302,
+    7156,
+    9683,
+    11400,
+    210434,
+    325806
+  ],
+  "countries": [
+    "DE",
+    "GB"
+  ],
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "ru"
+  ],
+  "studios": [
+    "Rapid Film",
+    "EMI Films",
+    "Terra-Filmkunst"
+  ],
+  "crew": [
+    {
+      "personId": 7767,
+      "job": "director"
+    },
+    {
+      "personId": 36845,
+      "job": "producer"
+    },
+    {
+      "personId": 67065,
+      "job": "producer"
+    },
+    {
+      "personId": 67066,
+      "job": "producer"
+    },
+    {
+      "personId": 12142,
+      "job": "composer"
+    },
+    {
+      "personId": 14944,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2665,
+      "job": "writer"
+    },
+    {
+      "personId": 67062,
+      "job": "writer"
+    },
+    {
+      "personId": 67064,
+      "job": "writer"
+    },
+    {
+      "personId": 1604463,
+      "job": "composer"
+    },
+    {
+      "personId": 133490,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5563,
+      "character": "Unteroffizier / Feldwebel Rolf Steiner",
+      "order": 0
+    },
+    {
+      "personId": 12150,
+      "character": "Hauptmann Stransky",
+      "order": 1
+    },
+    {
+      "personId": 2091,
+      "character": "Oberst Brandt",
+      "order": 2
+    },
+    {
+      "personId": 2076,
+      "character": "Hauptmann Kiesel",
+      "order": 3
+    },
+    {
+      "personId": 9927,
+      "character": "Unteroffizier Krüger",
+      "order": 4
+    },
+    {
+      "personId": 20016,
+      "character": "Gefreiter Kern",
+      "order": 5
+    },
+    {
+      "personId": 37346,
+      "character": "Leutnant Treibig",
+      "order": 6
+    },
+    {
+      "personId": 37338,
+      "character": "Anselm",
+      "order": 7
+    },
+    {
+      "personId": 21833,
+      "character": "Schütze Maag",
+      "order": 8
+    },
+    {
+      "personId": 36496,
+      "character": "Unteroffizier Schnurrbart",
+      "order": 9
+    },
+    {
+      "personId": 1313503,
+      "character": "Dietz",
+      "order": 10
+    },
+    {
+      "personId": 44439,
+      "character": "Marga",
+      "order": 11
+    },
+    {
+      "personId": 22623,
+      "character": "Zoll",
+      "order": 12
+    },
+    {
+      "personId": 12776,
+      "character": "Eva",
+      "order": 13
+    },
+    {
+      "personId": 584933,
+      "character": "Hauptmann Pucher (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 590362,
+      "character": "Leutnant Meyer (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1889231,
+      "character": "Nurse Sadie Finkelstein (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 36845,
+      "character": "Hartwig (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1604364,
+      "character": "Schütze Maag (voice) (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1423212,
+      "character": "Boy Soldier (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 511,
+  "sources": [
+    "cult-list"
+  ]
+}

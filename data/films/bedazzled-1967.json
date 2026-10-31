@@ -1,0 +1,179 @@
+{
+  "tmdbId": 18209,
+  "slug": "bedazzled-1967",
+  "year": 1967,
+  "runtime": 103,
+  "originalTitle": "Bedazzled",
+  "title": {
+    "en": "Bedazzled",
+    "tr": "Bedazzled"
+  },
+  "overview": {
+    "en": "A hapless loser sells his soul to the Devil in exchange for seven wishes, but has trouble winning over the girl of his dreams.",
+    "tr": "Talihsiz bir kumarbaz, yedi dilek karşılığında ruhunu Şeytan'a satar ama hayallerinin kızını kazanmakta zorlanır."
+  },
+  "poster": {
+    "tr": "/4POWJtOXt19PWfO18rHpw5GIQc6.jpg",
+    "en": "/6DcsnPHpg1pzheHhB1YIejqe6nM.jpg"
+  },
+  "backdrops": [
+    "/sBamOaM3FaslIjcLikWKaPyKB3b.jpg",
+    "/i3fkCA1syexLsxINZJad5ERteT5.jpg",
+    "/fws5qlFGXrWcuZMgvsZFsSEAF2J.jpg",
+    "/40KefJO9CxGvUDntzulbpTwAtPT.jpg",
+    "/cJJMxq7OdJprdYqjmPRwXMjAcZN.jpg",
+    "/8qVtkxE3fQnLY8qzLI9Y0v8kchD.jpg",
+    "/lTTAW1ke6YVrYSZPfyJfZVilu2k.jpg",
+    "/pBqizLiYFfAd6tSv8cZRAiFUIwk.jpg",
+    "/xie7nK1wQXYNpAZGwAfViklNjXr.jpg",
+    "/chCuTgJL59gDpUL2SbcgS4dddtu.jpg"
+  ],
+  "trailerKey": "FsyqpUP1knQ",
+  "genreIds": [
+    14,
+    35,
+    10749
+  ],
+  "keywordIds": [
+    14999,
+    185459
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Stanley Donen Films"
+  ],
+  "crew": [
+    {
+      "personId": 13284,
+      "job": "director"
+    },
+    {
+      "personId": 56819,
+      "job": "composer"
+    },
+    {
+      "personId": 13284,
+      "job": "producer"
+    },
+    {
+      "personId": 959727,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 18266,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18266,
+      "character": "George Spiggot",
+      "order": 0
+    },
+    {
+      "personId": 56819,
+      "character": "Stanley Moon",
+      "order": 1
+    },
+    {
+      "personId": 45453,
+      "character": "Margaret",
+      "order": 2
+    },
+    {
+      "personId": 21462,
+      "character": "Lilian Lust",
+      "order": 3
+    },
+    {
+      "personId": 2262358,
+      "character": "Vanity",
+      "order": 4
+    },
+    {
+      "personId": 1125461,
+      "character": "Anger",
+      "order": 5
+    },
+    {
+      "personId": 22,
+      "character": "Envy",
+      "order": 6
+    },
+    {
+      "personId": 107499,
+      "character": "Gluttony",
+      "order": 7
+    },
+    {
+      "personId": 107500,
+      "character": "Avarice",
+      "order": 8
+    },
+    {
+      "personId": 30676,
+      "character": "Sloth",
+      "order": 9
+    },
+    {
+      "personId": 2267,
+      "character": "Inspector Clarke",
+      "order": 10
+    },
+    {
+      "personId": 113543,
+      "character": "Randolph",
+      "order": 11
+    },
+    {
+      "personId": 107540,
+      "character": "Lord Dowdy",
+      "order": 12
+    },
+    {
+      "personId": 1849180,
+      "character": "Mrs. Wisby",
+      "order": 13
+    },
+    {
+      "personId": 93172,
+      "character": "Vicar",
+      "order": 14
+    },
+    {
+      "personId": 114554,
+      "character": "St. Peter",
+      "order": 15
+    },
+    {
+      "personId": 114834,
+      "character": "Sister Phoebe",
+      "order": 16
+    },
+    {
+      "personId": 1221533,
+      "character": "Cardinal (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 14018,
+      "character": "Seed - Sir Stanley Moon's Butler (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 47480,
+      "character": "God (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 185,
+  "sources": [
+    "cult-list"
+  ]
+}

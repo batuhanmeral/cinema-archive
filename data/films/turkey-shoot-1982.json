@@ -1,0 +1,164 @@
+{
+  "tmdbId": 39899,
+  "slug": "turkey-shoot-1982",
+  "year": 1982,
+  "runtime": 93,
+  "originalTitle": "Turkey Shoot",
+  "title": {
+    "en": "Turkey Shoot",
+    "tr": "Turkey Shoot"
+  },
+  "overview": {
+    "en": "In the near future, after an unspecified holocaust, survivors are herded into prison camps. There, they are hunted for sport by the leaders of the camp. Paul, one of the newest prisoners, is determined not to go down as quietly as the others.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/837jSfdQYvhqToMPfAGdci6zszG.jpg",
+    "en": "/837jSfdQYvhqToMPfAGdci6zszG.jpg"
+  },
+  "backdrops": [
+    "/4u4iFWgBifaSIxgk4PTedwtTwp0.jpg",
+    "/f7zZNswz2YEGd8HgKCFGPAO3Imx.jpg",
+    "/hp0gnNBrRaqQcwlZXTYtWSlgsaJ.jpg",
+    "/2RMsvw6Shna6lnMuhBKsITq1b3Q.jpg"
+  ],
+  "trailerKey": "C4epmyHEzZg",
+  "genreIds": [
+    878,
+    28,
+    27
+  ],
+  "keywordIds": [
+    2964,
+    570,
+    10685,
+    4426,
+    4565,
+    10123,
+    3544,
+    8201,
+    10349,
+    12564,
+    13006,
+    14601,
+    18508,
+    34079
+  ],
+  "countries": [
+    "AU",
+    "GB"
+  ],
+  "languages": [],
+  "studios": [
+    "FGH",
+    "Hemdale",
+    "Filmco Limited"
+  ],
+  "crew": [
+    {
+      "personId": 84981,
+      "job": "director"
+    },
+    {
+      "personId": 1372343,
+      "job": "writer"
+    },
+    {
+      "personId": 1372342,
+      "job": "writer"
+    },
+    {
+      "personId": 58438,
+      "job": "composer"
+    },
+    {
+      "personId": 1267326,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1311623,
+      "job": "producer"
+    },
+    {
+      "personId": 101190,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 52023,
+      "character": "Paul Anders",
+      "order": 0
+    },
+    {
+      "personId": 24695,
+      "character": "Chris Walters",
+      "order": 1
+    },
+    {
+      "personId": 25536,
+      "character": "Charles Thatcher",
+      "order": 2
+    },
+    {
+      "personId": 152489,
+      "character": "Jennifer",
+      "order": 3
+    },
+    {
+      "personId": 110010,
+      "character": "Secretary Mallory",
+      "order": 4
+    },
+    {
+      "personId": 113884,
+      "character": "Rita Daniels",
+      "order": 5
+    },
+    {
+      "personId": 94809,
+      "character": "Chief Guard Ritter",
+      "order": 6
+    },
+    {
+      "personId": 114285,
+      "character": "Tito",
+      "order": 7
+    },
+    {
+      "personId": 44843,
+      "character": "Red",
+      "order": 8
+    },
+    {
+      "personId": 139785,
+      "character": "Dodge",
+      "order": 9
+    },
+    {
+      "personId": 57799,
+      "character": "Griff",
+      "order": 10
+    },
+    {
+      "personId": 954286,
+      "character": "Alph",
+      "order": 11
+    },
+    {
+      "personId": 1271816,
+      "character": "Andy",
+      "order": 12
+    },
+    {
+      "personId": 1230569,
+      "character": "Melinda",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 105,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "tmdbId": 40962,
+  "slug": "ironweed-1987",
+  "year": 1987,
+  "runtime": 143,
+  "originalTitle": "Ironweed",
+  "title": {
+    "en": "Ironweed",
+    "tr": "Sonsuz Matem"
+  },
+  "overview": {
+    "en": "An alcoholic drifter spends Halloween in his hometown of Albany, New York after returning there for the first time in decades.",
+    "tr": "Helen NewYork'ta yaşayan, evsiz, eski bir şarkıcıdır. İçkiye düşkünlüğü, girdiği kötü ilişkiler ve başına gelen talihsiz olaylar sonucu sokaklarda yaşamaya başlamıştır. Kendisi gibi bir evsiz olan Francis de bir karısı, ailesi, hatta torunu olmasına rağmen evinde yaşamak yerine sokakları tercih etmiştir. Geçici bir iş ve karnını doyurmak için yaşam mücadelesine giren birçok umutsuz insan da, tıpkı Francis ve Helen gibi fırtınalı bir hayatın içinde, büyük bir sefaletle başbaşadırlar."
+  },
+  "poster": {
+    "tr": "/rqVu5FREmvI83jyPpY4jxLTVRxd.jpg",
+    "en": "/gqugkL0Ommznugmb0Tdl3NMhMMx.jpg"
+  },
+  "backdrops": [
+    "/j2yWP61M3pClxZetm8zlc7wMqQx.jpg",
+    "/jiP8NQOIs8nGGMaS4uGnnxBqae8.jpg",
+    "/2WrVjk2CFpEmNGXEvbhiFPIzLgp.jpg",
+    "/sWoSFX4eyCoYTjGp7CVaPHQ3oWO.jpg",
+    "/sqr66WW2Wlm1L1r3KHRk1Qc7YGB.jpg",
+    "/w7us3zX4uNyVJ9OxDy4BYvVpFe9.jpg",
+    "/vbQFoIOxi79zOOOeIXAOwoJzl8r.jpg",
+    "/oEfPeZMLuSjfv3ACW10JT7HjzN0.jpg"
+  ],
+  "trailerKey": "w_0TJ6GtaLM",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    3446,
+    1797,
+    2981,
+    13017,
+    14540,
+    33457,
+    161194,
+    173719,
+    188991,
+    196164,
+    203826,
+    214548,
+    232816,
+    274905,
+    288947,
+    336097
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Taft Entertainment Pictures",
+    "Keith Barish Productions"
+  ],
+  "crew": [
+    {
+      "personId": 40542,
+      "job": "director"
+    },
+    {
+      "personId": 21725,
+      "job": "producer"
+    },
+    {
+      "personId": 70189,
+      "job": "producer"
+    },
+    {
+      "personId": 54979,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 22000,
+      "job": "writer"
+    },
+    {
+      "personId": 719,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 514,
+      "character": "Francis Phelan",
+      "order": 0
+    },
+    {
+      "personId": 5064,
+      "character": "Helen Archer",
+      "order": 1
+    },
+    {
+      "personId": 14701,
+      "character": "Annie Phelan",
+      "order": 2
+    },
+    {
+      "personId": 38085,
+      "character": "Billy",
+      "order": 3
+    },
+    {
+      "personId": 6200,
+      "character": "Peg",
+      "order": 4
+    },
+    {
+      "personId": 56266,
+      "character": "Oscar Reo",
+      "order": 5
+    },
+    {
+      "personId": 60700,
+      "character": "Katrina",
+      "order": 6
+    },
+    {
+      "personId": 2887,
+      "character": "Rudy",
+      "order": 7
+    },
+    {
+      "personId": 75019,
+      "character": "Pee Wee",
+      "order": 8
+    },
+    {
+      "personId": 78729,
+      "character": "Harold Allen",
+      "order": 9
+    },
+    {
+      "personId": 16433,
+      "character": "Reverend Chester",
+      "order": 10
+    },
+    {
+      "personId": 171425,
+      "character": "Nora",
+      "order": 11
+    },
+    {
+      "personId": 1226696,
+      "character": "Rowdy Dick",
+      "order": 12
+    },
+    {
+      "personId": 4887,
+      "character": "Jack",
+      "order": 13
+    },
+    {
+      "personId": 1217974,
+      "character": "Rosskam",
+      "order": 14
+    },
+    {
+      "personId": 153694,
+      "character": "Librarian",
+      "order": 15
+    },
+    {
+      "personId": 9633,
+      "character": "Donovan",
+      "order": 16
+    },
+    {
+      "personId": 1139749,
+      "character": "Clara",
+      "order": 17
+    },
+    {
+      "personId": 3194637,
+      "character": "Flower Girl",
+      "order": 18
+    },
+    {
+      "personId": 3194638,
+      "character": "Elderly Woman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 149,
+  "sources": [
+    "cult-list"
+  ]
+}

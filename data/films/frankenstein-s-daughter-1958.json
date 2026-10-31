@@ -1,0 +1,147 @@
+{
+  "tmdbId": 45674,
+  "slug": "frankenstein-s-daughter-1958",
+  "year": 1958,
+  "runtime": 85,
+  "originalTitle": "Frankenstein's Daughter",
+  "title": {
+    "en": "Frankenstein's Daughter",
+    "tr": "Frankenstein's Daughter"
+  },
+  "overview": {
+    "en": "Dr. Frankenstein's insane grandson attempts to create horrible monsters in modern day L.A.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/n8n3VS6qiLbiQvh435wceDB53NJ.jpg",
+    "en": "/yPCJ7CnbcyKfnjILtSD3o9ZycMf.jpg"
+  },
+  "backdrops": [
+    "/oqQ8LeUEjkvBTctRI6TZSjgUqTT.jpg",
+    "/Aliu8UL39wCvcVjuDUaNSxSecAf.jpg",
+    "/kIoNPcLmKGIhNhg0gBhWBpsi4t4.jpg",
+    "/hIsWXnCiykjv9TwmC1WGfmUs5ke.jpg",
+    "/cSUrtEYLqb3AF6a5J7l3HAf4FZp.jpg",
+    "/rUi0hjuJFPPgsTaG3eNmRmP5P42.jpg",
+    "/o5EtgvjdBK4kIWDXfOZSVLuWYhT.jpg",
+    "/6QWnO0pf5mjo91fejMYnD7FkL9y.jpg",
+    "/rGQX7BHfB5RtRxGh8Ka0u0usavx.jpg",
+    "/csD2M2aPy69ET9dbcwQM8nRKIKn.jpg"
+  ],
+  "trailerKey": "E9tRKC9_I5s",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Layton Film Productions Inc."
+  ],
+  "crew": [
+    {
+      "personId": 31308,
+      "job": "director"
+    },
+    {
+      "personId": 950432,
+      "job": "producer"
+    },
+    {
+      "personId": 136111,
+      "job": "composer"
+    },
+    {
+      "personId": 1148558,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1295354,
+      "job": "producer"
+    },
+    {
+      "personId": 131043,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 101741,
+      "character": "Oliver Frank(enstein)",
+      "order": 0
+    },
+    {
+      "personId": 102826,
+      "character": "Trudy Morton",
+      "order": 1
+    },
+    {
+      "personId": 8331,
+      "character": "Johnny Bruder",
+      "order": 2
+    },
+    {
+      "personId": 1226669,
+      "character": "Prof. Carter Morton",
+      "order": 3
+    },
+    {
+      "personId": 153470,
+      "character": "Elsu",
+      "order": 4
+    },
+    {
+      "personId": 1045763,
+      "character": "The Monster",
+      "order": 5
+    },
+    {
+      "personId": 133569,
+      "character": "Suzie Lawler",
+      "order": 6
+    },
+    {
+      "personId": 133570,
+      "character": "Don",
+      "order": 7
+    },
+    {
+      "personId": 82747,
+      "character": "Police Lt. Boyle",
+      "order": 8
+    },
+    {
+      "personId": 12315,
+      "character": "Police Det. Bill Dillon",
+      "order": 9
+    },
+    {
+      "personId": 3054054,
+      "character": "Hysterical Woman",
+      "order": 10
+    },
+    {
+      "personId": 1745317,
+      "character": "Mr. Rockwell",
+      "order": 11
+    },
+    {
+      "personId": 1289815,
+      "character": "Loading Dock Foreman",
+      "order": 12
+    },
+    {
+      "personId": 100341,
+      "character": "Loading Dock Worker Mack",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 29,
+  "sources": [
+    "cult-list"
+  ]
+}

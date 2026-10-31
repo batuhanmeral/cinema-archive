@@ -1,0 +1,191 @@
+{
+  "tmdbId": 9612,
+  "slug": "coneheads-1993",
+  "year": 1993,
+  "runtime": 87,
+  "originalTitle": "Coneheads",
+  "title": {
+    "en": "Coneheads",
+    "tr": "Sivri Kafalar"
+  },
+  "overview": {
+    "en": "A pair of aliens arrive on Earth to prepare for invasion, but crash instead. With enormous cone-shaped heads, robotlike walks and an appetite for toilet paper, aliens Beldar and Prymatt don't exactly blend in with the population of Paramus, N.J. But for some reason, everyone believes them when they say they're from France.",
+    "tr": "İki uzaylı olan Beldar Sivrikafa (Dan Aykroyd) ve karısı Prymatt Sivrikafa (Jane Curtin) karı-kocadırlar. Güneşe gitmek yolunda olan ve ordan kendi gezegenlerine gidecek olan çift bir ara dünyadan geçmek zorunda kalırlar. O anda radalara yakalanınca, korsan uçak zann edilip New Jersey Milli Hava Korumasının F-16 isimli uçağı tarafından saldırıya uğranılır. Neye uğradıklarını şaşıran çift bir anda dünyaya inerler. Geldiklerinde bir otelde oda tutarlar, kafaları sivri olduğundan dolayı bazı insanlar onlardan korkmaktadırlar. Kendileride bazı garip davranışlar sergilemektedir (örneğin sabun yemek gibi). Beldar, ertesi gün bir yerde çalışmaya başlar ki, müşteriler (Eddie Griffin) ve patronu ondan süphelensede Beldar, o kadar iyi teknolojik aletler hazırlıyordur ki bu patronunu sevindirmektedir ancak Beldar hem çalışırken hem de gezegenleri ile iletişim kurmak için burdan bazı aletler çalmaktadır."
+  },
+  "poster": {
+    "tr": "/4eHnstayi28SCHv8ATcISFEv1Rl.jpg",
+    "en": "/4eHnstayi28SCHv8ATcISFEv1Rl.jpg"
+  },
+  "backdrops": [
+    "/pvh2cyUUu7BYghoRqlV9jsd5Pdh.jpg",
+    "/k8QwSWFdVNQow0IU3xrgAKD7RHe.jpg",
+    "/mm9u8iUq2tWGd9p0bDxECrqeMl3.jpg",
+    "/rZs0mp3P228o66dg6KljxSmJGJP.jpg",
+    "/4UcM1YNilghe33ncLpqNGpFyIka.jpg",
+    "/nQMLdJNH21fPXKlVfz4dyeUFBPy.jpg",
+    "/cx5oOSzU27xf4ZRZljOjxnT9lhS.jpg",
+    "/kCVQCU7UP6WC0MDi0gfJXs1fiLA.jpg"
+  ],
+  "trailerKey": "_Q8CpaejCk8",
+  "genreIds": [
+    35,
+    878
+  ],
+  "keywordIds": [
+    1603,
+    4862,
+    6968,
+    164246,
+    315609
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 18308,
+      "job": "director"
+    },
+    {
+      "personId": 58182,
+      "job": "writer"
+    },
+    {
+      "personId": 707,
+      "job": "writer"
+    },
+    {
+      "personId": 56156,
+      "job": "writer"
+    },
+    {
+      "personId": 56157,
+      "job": "writer"
+    },
+    {
+      "personId": 56158,
+      "job": "producer"
+    },
+    {
+      "personId": 3393,
+      "job": "composer"
+    },
+    {
+      "personId": 16464,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 707,
+      "character": "Beldar",
+      "order": 0
+    },
+    {
+      "personId": 58184,
+      "character": "Prymatt",
+      "order": 1
+    },
+    {
+      "personId": 21731,
+      "character": "Gorman Seedling, INS Deputy Commissioner",
+      "order": 2
+    },
+    {
+      "personId": 35159,
+      "character": "Laarta",
+      "order": 3
+    },
+    {
+      "personId": 1206,
+      "character": "Larry Farber",
+      "order": 4
+    },
+    {
+      "personId": 9259,
+      "character": "Lisa Farber",
+      "order": 5
+    },
+    {
+      "personId": 58198,
+      "character": "Ronnie the Mechanic",
+      "order": 6
+    },
+    {
+      "personId": 60950,
+      "character": "Eli Turnbull, INS Agent",
+      "order": 7
+    },
+    {
+      "personId": 57119,
+      "character": "Otto",
+      "order": 8
+    },
+    {
+      "personId": 14104,
+      "character": "Marlax",
+      "order": 9
+    },
+    {
+      "personId": 129332,
+      "character": "Gladys Johnson, Driving Student",
+      "order": 10
+    },
+    {
+      "personId": 61961,
+      "character": "Highmaster",
+      "order": 11
+    },
+    {
+      "personId": 58001,
+      "character": "Connie Conehead",
+      "order": 12
+    },
+    {
+      "personId": 16430,
+      "character": "Air Traffic Controller",
+      "order": 13
+    },
+    {
+      "personId": 226651,
+      "character": "Captain Air Traffic",
+      "order": 14
+    },
+    {
+      "personId": 11089,
+      "character": "F-16 Pilot",
+      "order": 15
+    },
+    {
+      "personId": 1465383,
+      "character": "Ang Pilot",
+      "order": 16
+    },
+    {
+      "personId": 50807,
+      "character": "Motel Clerk",
+      "order": 17
+    },
+    {
+      "personId": 62842,
+      "character": "Customer",
+      "order": 18
+    },
+    {
+      "personId": 19292,
+      "character": "Carmine",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1096,
+  "sources": [
+    "cult-list"
+  ]
+}

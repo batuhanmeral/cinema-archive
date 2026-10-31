@@ -1,0 +1,202 @@
+{
+  "tmdbId": 563,
+  "slug": "starship-troopers-1997",
+  "year": 1997,
+  "runtime": 129,
+  "originalTitle": "Starship Troopers",
+  "title": {
+    "en": "Starship Troopers",
+    "tr": "Yıldız Gemisi Askerleri"
+  },
+  "overview": {
+    "en": "Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \"the Bugs.\"",
+    "tr": "Johnny Rico, liseden mezun olduktan sonra, Yıldız Gemisi pilotu olmak için donanma akademisine kaydolan kız arkadaşı Carmen'i etkilemek için Mobil Piyade Birliği'ne katılır. Trajik bir eğitim kazası meydana gelince, Johnny yanlış nedenlerle piyadelere katıldığını fark eder. İnsanlık ile \"Böcekler\" olarak bilinen araknoid bir tür arasındaki yıldızlararası bir savaş başladığı sırada istifasını vermek üzeredir."
+  },
+  "poster": {
+    "tr": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+    "en": "/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg"
+  },
+  "backdrops": [
+    "/9qokUngA9fAgBy7skSyZj2irOfR.jpg",
+    "/7PR2yMwXuXelAcp3qpJ3isZCdd0.jpg",
+    "/uceohbhT4QLNRzdLmOtVBXAzxlW.jpg",
+    "/7iEfnj3rfyunky6BzvnlwqfoEF0.jpg",
+    "/j0BB9DoqobGvRqKVeAveP70hWi2.jpg",
+    "/zHkaKyt6eTqFpjUXWav0qdEbbye.jpg",
+    "/h3WZqzEBWmHYC7DCQ5aidnbV5oe.jpg",
+    "/zgMTIsWeF4VSitPIoUQ7WjNlgm4.jpg",
+    "/5aWx2iMQWTNwRulaev3kCwEHNi3.jpg",
+    "/dWppzl043LEV2l3XBH1uz6EzVm3.jpg"
+  ],
+  "trailerKey": "zPYuV_jGk7M",
+  "genreIds": [
+    12,
+    28,
+    53,
+    878
+  ],
+  "keywordIds": [
+    1612,
+    1826,
+    6092,
+    305,
+    818,
+    1423,
+    2051,
+    4565,
+    2900,
+    2902,
+    8201,
+    7035,
+    13031,
+    13065,
+    14909,
+    161247,
+    162365,
+    208736
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "TriStar Pictures",
+    "Touchstone Pictures",
+    "Jon Davison Productions"
+  ],
+  "crew": [
+    {
+      "personId": 7722,
+      "job": "writer"
+    },
+    {
+      "personId": 7728,
+      "job": "composer"
+    },
+    {
+      "personId": 7726,
+      "job": "producer"
+    },
+    {
+      "personId": 7723,
+      "job": "producer"
+    },
+    {
+      "personId": 10491,
+      "job": "director"
+    },
+    {
+      "personId": 5241,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27763,
+      "character": "Johnny D. Rico",
+      "order": 0
+    },
+    {
+      "personId": 2133,
+      "character": "Dizzy Flores",
+      "order": 1
+    },
+    {
+      "personId": 9205,
+      "character": "Carmen Ibañez",
+      "order": 2
+    },
+    {
+      "personId": 28410,
+      "character": "Private Ace Levy",
+      "order": 3
+    },
+    {
+      "personId": 41686,
+      "character": "Colonel Carl Jenkins",
+      "order": 4
+    },
+    {
+      "personId": 6574,
+      "character": "Career Sergeant Zim",
+      "order": 5
+    },
+    {
+      "personId": 11086,
+      "character": "Lieutenant Jean Rasczak",
+      "order": 6
+    },
+    {
+      "personId": 41687,
+      "character": "Zander Barcalow",
+      "order": 7
+    },
+    {
+      "personId": 41688,
+      "character": "Private Sugar Watkins",
+      "order": 8
+    },
+    {
+      "personId": 41689,
+      "character": "Biology Teacher",
+      "order": 9
+    },
+    {
+      "personId": 41690,
+      "character": "Katrina McIntire",
+      "order": 10
+    },
+    {
+      "personId": 9258,
+      "character": "Lieutenant Willy",
+      "order": 11
+    },
+    {
+      "personId": 41691,
+      "character": "Corporal Birdie",
+      "order": 12
+    },
+    {
+      "personId": 5945,
+      "character": "Sky Marshal Dienes",
+      "order": 13
+    },
+    {
+      "personId": 23970,
+      "character": "Sky Marshal Tehat Meru",
+      "order": 14
+    },
+    {
+      "personId": 20189,
+      "character": "Cadet Lumbreiser",
+      "order": 15
+    },
+    {
+      "personId": 153940,
+      "character": "Djana'D",
+      "order": 16
+    },
+    {
+      "personId": 101777,
+      "character": "Expert",
+      "order": 17
+    },
+    {
+      "personId": 3211,
+      "character": "General",
+      "order": 18
+    },
+    {
+      "personId": 14329,
+      "character": "Commanding Officer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 5798,
+  "sources": [
+    "cult-list"
+  ]
+}

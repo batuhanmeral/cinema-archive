@@ -1,0 +1,216 @@
+{
+  "tmdbId": 346,
+  "slug": "seven-samurai-1954",
+  "year": 1954,
+  "runtime": 207,
+  "originalTitle": "七人の侍",
+  "title": {
+    "en": "Seven Samurai",
+    "tr": "Yedi Samuray"
+  },
+  "overview": {
+    "en": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
+    "tr": "Usta Samuray Kambei'nin cesareti ve fedakarlığına şahit olan bir grup köylü ondan sürekli olarak haydutların baskınlarına uğrayan köylerini korumasını isterler. Kambei bu isteği herhangi bir çıkarı olmamasına rağmen kabul eder ve ilk olarak kısa süre sonra müridi olan genç samuray Katsushiro'yu, ardından da güç kullanmaya meraklı bir samuray olarak görünen fakat sonradan bir çiftçinin oğlu olduğu ortaya çıkan Kikuchiyo'yu yanına alır. Takımına dört yeni samuray daha ekleyerek köyü savunmaya girişen Kambei köylüler tarafından sevinçle karşılanır ve herkesin sevgisini kazanır; bir süre sonra onlara kendilerini savunmayı öğretmeye başlar. Bu arada haydutlar köyün sınırlarında dolaşmakta ve yeni saldırıları için uygun bir zaman kollamaktadırlar..."
+  },
+  "poster": {
+    "tr": "/vEozs67O7RwjDhuCG9q6k3xtVYL.jpg",
+    "en": "/8OKmBV5BUFzmozIC3pPWKHy17kx.jpg"
+  },
+  "backdrops": [
+    "/mzI1JXm8sX5fia3ifPS2jGPUh2n.jpg",
+    "/qvZ91FwMq6O47VViAr8vZNQz3WI.jpg",
+    "/sJNNMCc6B7KZIY3LH3JMYJJNH5j.jpg",
+    "/6AdFHG5fTtcdmyJQdFbnSgiauv2.jpg",
+    "/yXZGgqjlM93PdNEbtfU05CKGVYh.jpg",
+    "/xH593JP6kYfvX4jgppiZxxzAQwp.jpg",
+    "/bTGczYh4GSFjAPRrIb9oCi7CkSq.jpg",
+    "/2g2TOGrz83UURTkm5ix16qAiJZz.jpg",
+    "/nKnk7j6OlSTxXyrOvrnAwP7hV5Y.jpg",
+    "/fANI8642Hb5Aw6G7j4toTpnQRBT.jpg"
+  ],
+  "trailerKey": "RsRN65PlaIM",
+  "genreIds": [
+    28,
+    18
+  ],
+  "keywordIds": [
+    779,
+    233,
+    1462,
+    1938,
+    4402,
+    5331,
+    4631,
+    5329,
+    5330,
+    11426,
+    3691,
+    12999,
+    14643,
+    15060,
+    33344,
+    33558,
+    154846,
+    186753,
+    208244,
+    210754,
+    225219,
+    229151,
+    233409,
+    254655,
+    259384,
+    312122,
+    312285,
+    312898,
+    315053,
+    325811,
+    325830,
+    342828
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "TOHO"
+  ],
+  "crew": [
+    {
+      "personId": 5026,
+      "job": "writer"
+    },
+    {
+      "personId": 7449,
+      "job": "writer"
+    },
+    {
+      "personId": 20827,
+      "job": "writer"
+    },
+    {
+      "personId": 5026,
+      "job": "director"
+    },
+    {
+      "personId": 20832,
+      "job": "producer"
+    },
+    {
+      "personId": 34380,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7460,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 7450,
+      "character": "Kikuchiyo",
+      "order": 0
+    },
+    {
+      "personId": 7453,
+      "character": "Kambei Shimada",
+      "order": 1
+    },
+    {
+      "personId": 20828,
+      "character": "Gorobei Katayama",
+      "order": 2
+    },
+    {
+      "personId": 20829,
+      "character": "Kyuzo",
+      "order": 3
+    },
+    {
+      "personId": 7454,
+      "character": "Heihachi Hayashida",
+      "order": 4
+    },
+    {
+      "personId": 7457,
+      "character": "Shichiroji",
+      "order": 5
+    },
+    {
+      "personId": 20830,
+      "character": "Katsushiro Okamoto",
+      "order": 6
+    },
+    {
+      "personId": 20831,
+      "character": "Shino",
+      "order": 7
+    },
+    {
+      "personId": 554250,
+      "character": "Rikichi's Wife",
+      "order": 8
+    },
+    {
+      "personId": 96552,
+      "character": "Manzô - Father of Shino",
+      "order": 9
+    },
+    {
+      "personId": 134272,
+      "character": "Mosuke",
+      "order": 10
+    },
+    {
+      "personId": 34377,
+      "character": "Yohei",
+      "order": 11
+    },
+    {
+      "personId": 17540,
+      "character": "Rikichi",
+      "order": 12
+    },
+    {
+      "personId": 108028,
+      "character": "Gisaku, the Old Man",
+      "order": 13
+    },
+    {
+      "personId": 106165,
+      "character": "Kidnapper",
+      "order": 14
+    },
+    {
+      "personId": 228547,
+      "character": "Coolie A",
+      "order": 15
+    },
+    {
+      "personId": 134294,
+      "character": "Bun Seller",
+      "order": 16
+    },
+    {
+      "personId": 134406,
+      "character": "Grandfather of Kidnapped Girl",
+      "order": 17
+    },
+    {
+      "personId": 134020,
+      "character": "Samurai",
+      "order": 18
+    },
+    {
+      "personId": 7455,
+      "character": "Bandit Scout",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4437,
+  "sources": [
+    "cult-list"
+  ]
+}

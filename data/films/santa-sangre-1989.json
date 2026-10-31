@@ -1,0 +1,203 @@
+{
+  "tmdbId": 19236,
+  "slug": "santa-sangre-1989",
+  "year": 1989,
+  "runtime": 122,
+  "originalTitle": "Santa Sangre",
+  "title": {
+    "en": "Santa Sangre",
+    "tr": "Santa Sangre"
+  },
+  "overview": {
+    "en": "A former circus artist escapes from a mental hospital to rejoin his armless, cult leader mother, and is forced to enact brutal murders in her name.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6VTra0NR4ygRnq3bD922I4rU0Mq.jpg",
+    "en": "/6VTra0NR4ygRnq3bD922I4rU0Mq.jpg"
+  },
+  "backdrops": [
+    "/Am5FMJgYbHbTtWFtGPYPTAD8TuM.jpg",
+    "/6LJUfxWh7Ru42pClv2wwPZKEja0.jpg",
+    "/c7oniMNgRzc25np6NrcXUbvISJU.jpg",
+    "/1SLfBJZRTQWVFmm4BBMTeX6owUg.jpg",
+    "/y3XkjEhBlY8lYJBgEBPDvEEinEL.jpg",
+    "/aIT8M5f8P1HoQcJnszsQgzPgPHL.jpg",
+    "/k0ZzdDXdQA9K0BsYxmqXFzJkmFq.jpg",
+    "/8tFtQ7wciIKQ9hNQ01ld4so0g3b.jpg",
+    "/a8FeYtvdhYYQ6sq5iR7fv8lfVtp.jpg",
+    "/xagyvqRj6KRzMadnCR4TwaCdLtM.jpg"
+  ],
+  "trailerKey": "qcw8aCoddX8",
+  "genreIds": [
+    27,
+    18,
+    53
+  ],
+  "keywordIds": [
+    236,
+    1547,
+    2857,
+    3739,
+    291,
+    2754,
+    3199,
+    3307,
+    10292,
+    9887,
+    6415,
+    15216,
+    41410,
+    41557,
+    239936
+  ],
+  "countries": [
+    "IT",
+    "MX"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Productora Fílmica Real",
+    "Produzioni Intersound"
+  ],
+  "crew": [
+    {
+      "personId": 55119,
+      "job": "writer"
+    },
+    {
+      "personId": 556753,
+      "job": "writer"
+    },
+    {
+      "personId": 65751,
+      "job": "writer"
+    },
+    {
+      "personId": 65751,
+      "job": "producer"
+    },
+    {
+      "personId": 55119,
+      "job": "director"
+    },
+    {
+      "personId": 1264843,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7741,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 143443,
+      "character": "Fenix",
+      "order": 0
+    },
+    {
+      "personId": 86489,
+      "character": "Concha",
+      "order": 1
+    },
+    {
+      "personId": 93655,
+      "character": "Orgo",
+      "order": 2
+    },
+    {
+      "personId": 143444,
+      "character": "The Tattooed Woman",
+      "order": 3
+    },
+    {
+      "personId": 143445,
+      "character": "Alma",
+      "order": 4
+    },
+    {
+      "personId": 19579,
+      "character": "Young Fenix",
+      "order": 5
+    },
+    {
+      "personId": 143446,
+      "character": "Young Alma",
+      "order": 6
+    },
+    {
+      "personId": 1099084,
+      "character": "Pimp",
+      "order": 7
+    },
+    {
+      "personId": 1099085,
+      "character": "Aladin",
+      "order": 8
+    },
+    {
+      "personId": 1099086,
+      "character": "Rubi",
+      "order": 9
+    },
+    {
+      "personId": 2379800,
+      "character": "Fat Prostitute",
+      "order": 10
+    },
+    {
+      "personId": 533561,
+      "character": "Monsignor",
+      "order": 11
+    },
+    {
+      "personId": 2379801,
+      "character": "The Saint",
+      "order": 12
+    },
+    {
+      "personId": 2379802,
+      "character": "Trini",
+      "order": 13
+    },
+    {
+      "personId": 31597,
+      "character": "Box-office Attendant",
+      "order": 14
+    },
+    {
+      "personId": 2379803,
+      "character": "Business man",
+      "order": 15
+    },
+    {
+      "personId": 2379804,
+      "character": "Monsignor's Chauffeur",
+      "order": 16
+    },
+    {
+      "personId": 5882,
+      "character": "Monsignor's Secretary",
+      "order": 17
+    },
+    {
+      "personId": 953792,
+      "character": "Doctor",
+      "order": 18
+    },
+    {
+      "personId": 85148,
+      "character": "Orderly 1",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 528,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "tmdbId": 19383,
+  "slug": "targets-1968",
+  "year": 1968,
+  "runtime": 90,
+  "originalTitle": "Targets",
+  "title": {
+    "en": "Targets",
+    "tr": "Hedef"
+  },
+  "overview": {
+    "en": "An aging horror-movie icon's fate intersects with that of a seemingly ordinary young man on a psychotic shooting spree around Los Angeles.",
+    "tr": "Peter Bogdanovich'in ilk filminde eski bir deniz subayı olan Bobby Thompson, adeta azılı bir katile dönüşmüştür. Karısını ve annesini öldürdükten sonra tamamen silahlanır ve pek çok tüfekle tabanca edinir. 1966'da güneşli bir Teksas sabahında eyaleti adeta kana bular, bir süpermarkete ateş açarak 14 kişiyi öldürür ve 32 kişiyi de yaralar. Filmde yaşını almış ve devrinin bittiğine inanan bir korku filmi yıldızı Byron Orlok sektörden sıkılmıştır. Üstelik ona göre gazetelerde rastgele yayınlanan cinayet hikayelerinin dahi korku filmlerinin daha önüne geçtiğinden yakınmaktadır. İki karakter zamanla ilginç bir şekilde karşılaşacak ve aynı zaman diliminde ve mekanda yer alacaklardır."
+  },
+  "poster": {
+    "tr": "/n0xQThLhrymktXzQbD0KwwUMXSB.jpg",
+    "en": "/29HGQN8bEBALscATtQSjhf02ubX.jpg"
+  },
+  "backdrops": [
+    "/yaDYZCgwwVltJRKuXtTjlXN47HE.jpg",
+    "/4BWKgipcFzDOZQPDZtmKGZVhEoU.jpg",
+    "/6hsPh9V0xGahqlUUnkZDxsLwIcB.jpg",
+    "/uOqlZu6GS9pHz72JPEk9VHvaUEr.jpg",
+    "/vzfnrmhL9PcHi9tvclbHgvIfiMo.jpg",
+    "/8PjqpiO1eOmCxuoSaVa6c2LmBEP.jpg",
+    "/fQwPjdI5I5ZfW9YQKeSW8xDipZt.jpg",
+    "/uFDwzwjtsyxlaX8EnWHb5ah7bfQ.jpg",
+    "/cTE6HuiPoG5v6o5QWLUK9UVQwWL.jpg",
+    "/gNPRBAh5JDzCw7onW1rDUfEyB86.jpg"
+  ],
+  "trailerKey": "2ZY0ZC9d6Tc",
+  "genreIds": [
+    53,
+    80,
+    27
+  ],
+  "keywordIds": [
+    1589,
+    422,
+    10339,
+    9826,
+    10714,
+    12355,
+    12670,
+    17987,
+    155507,
+    162262
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Saticoy Productions",
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 39012,
+      "job": "writer"
+    },
+    {
+      "personId": 39012,
+      "job": "director"
+    },
+    {
+      "personId": 91999,
+      "job": "composer"
+    },
+    {
+      "personId": 39012,
+      "job": "producer"
+    },
+    {
+      "personId": 26959,
+      "job": "writer"
+    },
+    {
+      "personId": 8862,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 84628,
+      "character": "Bobby Thompson",
+      "order": 0
+    },
+    {
+      "personId": 2922,
+      "character": "Byron Orlok",
+      "order": 1
+    },
+    {
+      "personId": 84629,
+      "character": "Ed Loughlin",
+      "order": 2
+    },
+    {
+      "personId": 44823,
+      "character": "Marshall Smith",
+      "order": 3
+    },
+    {
+      "personId": 84630,
+      "character": "Jenny",
+      "order": 4
+    },
+    {
+      "personId": 39012,
+      "character": "Sammy Michaels",
+      "order": 5
+    },
+    {
+      "personId": 20550,
+      "character": "Chauffeur",
+      "order": 6
+    },
+    {
+      "personId": 42142,
+      "character": "Salesman - 1st Gunshop",
+      "order": 7
+    },
+    {
+      "personId": 120265,
+      "character": "Robert Thompson Sr.",
+      "order": 8
+    },
+    {
+      "personId": 84631,
+      "character": "Charlotte Thompson",
+      "order": 9
+    },
+    {
+      "personId": 84632,
+      "character": "Ilene Thompson",
+      "order": 10
+    },
+    {
+      "personId": 1502966,
+      "character": "Waiter",
+      "order": 11
+    },
+    {
+      "personId": 7645,
+      "character": "Salesman - 2nd Gunshop",
+      "order": 12
+    },
+    {
+      "personId": 68898,
+      "character": "Kip Larkin",
+      "order": 13
+    },
+    {
+      "personId": 129222,
+      "character": "Larkin's Girl",
+      "order": 14
+    },
+    {
+      "personId": 45634,
+      "character": "Gas Tank Worker",
+      "order": 15
+    },
+    {
+      "personId": 1779783,
+      "character": "Woman on Freeway",
+      "order": 16
+    },
+    {
+      "personId": 664,
+      "character": "Ticket Boy",
+      "order": 17
+    },
+    {
+      "personId": 3640102,
+      "character": "Projectionist",
+      "order": 18
+    },
+    {
+      "personId": 3150286,
+      "character": "Drive-In Manager",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 257,
+  "sources": [
+    "cult-list"
+  ]
+}

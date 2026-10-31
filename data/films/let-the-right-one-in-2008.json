@@ -1,0 +1,195 @@
+{
+  "tmdbId": 13310,
+  "slug": "let-the-right-one-in-2008",
+  "year": 2008,
+  "runtime": 115,
+  "originalTitle": "Låt den rätte komma in",
+  "title": {
+    "en": "Let the Right One In",
+    "tr": "Gir Kanıma"
+  },
+  "overview": {
+    "en": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
+    "tr": "Stockholm'de 1982 yılında geçen hikaye iki çocuk arasındaki sıradışı ilişkiyi anlatıyor. Alt sınıfın yaşadığı devasa binaların arasında bulunan karlar içinde bir parkta vakit geçiren Oskar, soğuktan etkilenmeyen, beyaz yüzlü ve gizemli Eli ile tanışır. İki çocuk yakınlaşırken, fonda aynı mahallede çeşitli cinayetlerin işlendiğini görürüz. Uzun süredir vampir olan Eli'nin kan ihtiyacı babası tarafından giderilmektedir. Fakat zamanla Eli'nin durumu iki çocuğun da başını belaya sokar... 2008'in en iyi filmleri arasında kabul edilen Let the Right One In, korkunç vampir filmleri ile sanat sinemasının çarpıcı bir karışımı. Görüntüleri, atmosferi ve bıçak sırtı romantik hikayesiyle unutulmaz bir çalışma."
+  },
+  "poster": {
+    "tr": "/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg",
+    "en": "/7IG4WjaAOVDlLvLUkh513HSwhW8.jpg"
+  },
+  "backdrops": [
+    "/gH3lvKcY6EDMXrUtqZEiHPVV91n.jpg",
+    "/2l7T1uDcOkivwUq3wDO8gGL5JAi.jpg",
+    "/3wQQhOMQNxJFqDMh7YO5QZ00S14.jpg",
+    "/t4KHDaLHjPmBlnMLuN4Ohq01bh2.jpg",
+    "/wftgc3KcMSlQaBXwTbe9XrVUmfB.jpg",
+    "/49fFaToKnGkZkM0sgIcdaf54A2g.jpg",
+    "/imBq8mdYO1xEMtcopuL06uTr9Ju.jpg",
+    "/sLhCoekLegcdRpANMGtwzVxbkLj.jpg",
+    "/ydyn7piXJ5NTyXzKgfJVQOe7KrN.jpg",
+    "/jtmoGmQBcbi2Nyz8UCHWUXBOkoa.jpg"
+  ],
+  "trailerKey": "o2LywKbT5oM",
+  "genreIds": [
+    27,
+    18
+  ],
+  "keywordIds": [
+    818,
+    3133,
+    1192,
+    6733,
+    5502,
+    10624,
+    9668,
+    9826,
+    11402,
+    18127,
+    165100
+  ],
+  "countries": [
+    "DE",
+    "SE"
+  ],
+  "languages": [
+    "es",
+    "sv"
+  ],
+  "studios": [
+    "EFTI",
+    "Bavaria Film International",
+    "Sandrew Metronome Sverige"
+  ],
+  "crew": [
+    {
+      "personId": 74396,
+      "job": "director"
+    },
+    {
+      "personId": 74401,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 74397,
+      "job": "writer"
+    },
+    {
+      "personId": 74400,
+      "job": "producer"
+    },
+    {
+      "personId": 74399,
+      "job": "producer"
+    },
+    {
+      "personId": 32717,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 74382,
+      "character": "Oskar",
+      "order": 0
+    },
+    {
+      "personId": 74383,
+      "character": "Eli",
+      "order": 1
+    },
+    {
+      "personId": 74384,
+      "character": "Håkan",
+      "order": 2
+    },
+    {
+      "personId": 74385,
+      "character": "Erik",
+      "order": 3
+    },
+    {
+      "personId": 74386,
+      "character": "Yvonne",
+      "order": 4
+    },
+    {
+      "personId": 74387,
+      "character": "Lacke",
+      "order": 5
+    },
+    {
+      "personId": 74388,
+      "character": "Virginia",
+      "order": 6
+    },
+    {
+      "personId": 6301,
+      "character": "Jocke",
+      "order": 7
+    },
+    {
+      "personId": 74389,
+      "character": "Gösta",
+      "order": 8
+    },
+    {
+      "personId": 74390,
+      "character": "Morgan",
+      "order": 9
+    },
+    {
+      "personId": 74391,
+      "character": "Larry",
+      "order": 10
+    },
+    {
+      "personId": 74392,
+      "character": "Magister Avila",
+      "order": 11
+    },
+    {
+      "personId": 74393,
+      "character": "Conny",
+      "order": 12
+    },
+    {
+      "personId": 74394,
+      "character": "Andreas",
+      "order": 13
+    },
+    {
+      "personId": 74395,
+      "character": "Martin",
+      "order": 14
+    },
+    {
+      "personId": 1463026,
+      "character": "Jimmy",
+      "order": 15
+    },
+    {
+      "personId": 2419848,
+      "character": "Janne, Erik's Friend",
+      "order": 16
+    },
+    {
+      "personId": 1264127,
+      "character": "Hospital Receptionist",
+      "order": 17
+    },
+    {
+      "personId": 1943738,
+      "character": "Virginia's Nurse",
+      "order": 18
+    },
+    {
+      "personId": 4235685,
+      "character": "Teacher",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3399,
+  "sources": [
+    "cult-list"
+  ]
+}

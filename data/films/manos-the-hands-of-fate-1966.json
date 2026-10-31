@@ -1,0 +1,177 @@
+{
+  "tmdbId": 22293,
+  "slug": "manos-the-hands-of-fate-1966",
+  "year": 1966,
+  "runtime": 74,
+  "originalTitle": "\"MANOS\" The Hands of Fate",
+  "title": {
+    "en": "\"MANOS\" The Hands of Fate",
+    "tr": "\"MANOS\" The Hands of Fate"
+  },
+  "overview": {
+    "en": "A family gets lost on the road and stumbles upon a hidden, underground, devil-worshiping cult led by the fearsome Master and his servant Torgo.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/aJZsXdJWgtVCSE3SOcOkMPNpbkV.jpg",
+    "en": "/qgBynnIk8QmWimUcDGVT0s7vxYv.jpg"
+  },
+  "backdrops": [
+    "/gjGKifHKf41mPaJWQ3jgCR2cXEH.jpg",
+    "/cjbIk6T7NqhX6myBGyQXU3j9ngk.jpg",
+    "/pLNjM3a7d85zpMNrJ1SktkYbXJ7.jpg",
+    "/gOxFyKPj2WTyLP4N02APk1A9hPP.jpg",
+    "/azboYihnp0J8dHiA9Qrq1VJpY6d.jpg",
+    "/zE7GX3Qu6iL85Jvehlbuo2Tm1oc.jpg",
+    "/mpnifcUaGccnEdt0cZwSkQLOYeI.jpg",
+    "/ggw19UBINvcyvnDnI85SuACxzf4.jpg",
+    "/oqaeRYHUw2U4GivhTkIqlnUtKWe.jpg",
+    "/zBa62wfRhtHMKlP68kdulovaGbQ.jpg"
+  ],
+  "trailerKey": "sF03ZFt8t8w",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    657,
+    2858,
+    1419,
+    6158,
+    6751,
+    4382,
+    10855,
+    156178,
+    164218,
+    209404,
+    285961
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Norm-Iris",
+    "Emerson Film Enterprises",
+    "Sun City Films"
+  ],
+  "crew": [
+    {
+      "personId": 88571,
+      "job": "director"
+    },
+    {
+      "personId": 88574,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 121151,
+      "job": "composer"
+    },
+    {
+      "personId": 121152,
+      "job": "composer"
+    },
+    {
+      "personId": 88571,
+      "job": "writer"
+    },
+    {
+      "personId": 88571,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 88571,
+      "character": "Michael",
+      "order": 0
+    },
+    {
+      "personId": 88575,
+      "character": "The Master",
+      "order": 1
+    },
+    {
+      "personId": 1634509,
+      "character": "Torgo",
+      "order": 2
+    },
+    {
+      "personId": 121161,
+      "character": "Margaret",
+      "order": 3
+    },
+    {
+      "personId": 121162,
+      "character": "Master's Wife",
+      "order": 4
+    },
+    {
+      "personId": 121163,
+      "character": "Master's Wife",
+      "order": 5
+    },
+    {
+      "personId": 121164,
+      "character": "Master's Wife",
+      "order": 6
+    },
+    {
+      "personId": 121165,
+      "character": "Debbie",
+      "order": 7
+    },
+    {
+      "personId": 121166,
+      "character": "Teenager in Car",
+      "order": 8
+    },
+    {
+      "personId": 121167,
+      "character": "Teenager in Car",
+      "order": 9
+    },
+    {
+      "personId": 121168,
+      "character": "Cop",
+      "order": 10
+    },
+    {
+      "personId": 121169,
+      "character": "Master's Wife",
+      "order": 11
+    },
+    {
+      "personId": 121170,
+      "character": "Master's Wife",
+      "order": 12
+    },
+    {
+      "personId": 121171,
+      "character": "Master's Wife",
+      "order": 13
+    },
+    {
+      "personId": 121172,
+      "character": "Girl in Convertible",
+      "order": 14
+    },
+    {
+      "personId": 121173,
+      "character": "Girl in Convertible",
+      "order": 15
+    },
+    {
+      "personId": 121174,
+      "character": "Cop",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 239,
+  "sources": [
+    "cult-list"
+  ]
+}

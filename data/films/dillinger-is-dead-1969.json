@@ -1,0 +1,120 @@
+{
+  "tmdbId": 56693,
+  "slug": "dillinger-is-dead-1969",
+  "year": 1969,
+  "runtime": 95,
+  "originalTitle": "Dillinger è morto",
+  "title": {
+    "en": "Dillinger Is Dead",
+    "tr": "Dillinger è morto"
+  },
+  "overview": {
+    "en": "A man decides to cook for himself and finds a revolver (which may have belonged to John Dillinger) hidden in his kitchen.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4JykpUFcI2j0Vo2UCYazUmIN1Rh.jpg",
+    "en": "/4JykpUFcI2j0Vo2UCYazUmIN1Rh.jpg"
+  },
+  "backdrops": [
+    "/5f2NnHhhvQgE6mHwNCPnoVQwiVv.jpg",
+    "/zTN1WluFKw4aZ5T8F3MtE7VszID.jpg",
+    "/lSl7yna4xx2zO8MkozoAjYS6LPO.jpg"
+  ],
+  "trailerKey": "0UQeDWwzDFE",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Pegaso Cinematografica"
+  ],
+  "crew": [
+    {
+      "personId": 34264,
+      "job": "director"
+    },
+    {
+      "personId": 548636,
+      "job": "composer"
+    },
+    {
+      "personId": 34264,
+      "job": "writer"
+    },
+    {
+      "personId": 1857535,
+      "job": "producer"
+    },
+    {
+      "personId": 63947,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1857536,
+      "job": "producer"
+    },
+    {
+      "personId": 1052170,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3784,
+      "character": "Glauco",
+      "order": 0
+    },
+    {
+      "personId": 53768,
+      "character": "Ginette - La moglie di Glauco",
+      "order": 1
+    },
+    {
+      "personId": 1043966,
+      "character": "Marinaio",
+      "order": 2
+    },
+    {
+      "personId": 1094813,
+      "character": "Capitano",
+      "order": 3
+    },
+    {
+      "personId": 6014,
+      "character": "Sabine - la cameriera",
+      "order": 4
+    },
+    {
+      "personId": 41118,
+      "character": "Proprietaria del battello",
+      "order": 5
+    },
+    {
+      "personId": 1093219,
+      "character": "Cinema critic",
+      "order": 6
+    },
+    {
+      "personId": 2094620,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1082853,
+      "character": "Young man in film (uncredited)",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 148,
+  "sources": [
+    "cult-list"
+  ]
+}

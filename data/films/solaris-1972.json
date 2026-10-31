@@ -1,0 +1,187 @@
+{
+  "tmdbId": 593,
+  "slug": "solaris-1972",
+  "year": 1972,
+  "runtime": 167,
+  "originalTitle": "Солярис",
+  "title": {
+    "en": "Solaris",
+    "tr": "Solaris"
+  },
+  "overview": {
+    "en": "A psychologist is sent to a space station orbiting a planet called Solaris to investigate the death of a doctor and the mental problems of cosmonauts on the station. He soon discovers that the water on the planet is a type of brain which brings out repressed memories and obsessions.",
+    "tr": "Ünlü bilimkurgu yazarı Stanislaw Lem'in kitabından uyarlanmış olan Solaris'te, araştırma yapılan bir gezegendeki, bir çeşit zeka barındırdığı bilinen, fakat açıklanamayan olaylar yüzünden çok gizli tutulan Solaris Okyanusu görevi anlatılıyor. Uzay üssündeki üç bilim adamının başına açıklanamayan olayların gelmesiyle birlikte, filmimizin ana karakteri, görevi devamı hakkında karar vermek üzere Solaris Okyanusu üzerindeki üsse gönderilir. İstasyonda hayat durmuş gibidir ve hayatta kalan iki bilim adamı da çok gizemli ve ketum davranmaktadır. Üste, yedi yıl önce ölmüş olan karısıyla karşılaşmasıyla birlikte, bu yabancı zekanın doğasını anlamaya başlar..."
+  },
+  "poster": {
+    "tr": "/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg",
+    "en": "/pgqj7QoBPWFLLKtLEpPmFYFRMgB.jpg"
+  },
+  "backdrops": [
+    "/jZv1u7uzpOE5JOc2MmrvPUZWoyb.jpg",
+    "/u2WWbWaq10mTQbYX8WpfhmR4jem.jpg",
+    "/qjPhauZx2vOi3gNKsQfJZHeGemB.jpg",
+    "/bWeXkzqMmM22MVJKi5VzjgPEPpi.jpg",
+    "/siwPlXZdCsircAfGlGZLn6ceW7c.jpg",
+    "/mm3aNTjFvuo0jeitneRDc1ZUNjI.jpg",
+    "/lddwPwvhMQXeQjMpLe7yaPjTQOm.jpg",
+    "/7bQ0HAHgACe23tZzrgDUGEIvzLp.jpg",
+    "/7mS0UlNoRh9HEvcuqRl0S8y49jh.jpg",
+    "/fLexvsY2sZqGrJkgmLSEvLsRusO.jpg"
+  ],
+  "trailerKey": "BBYJH6UAAfw",
+  "genreIds": [
+    18,
+    878,
+    9648
+  ],
+  "keywordIds": [
+    1565,
+    818,
+    1603,
+    1228,
+    2117,
+    2111,
+    3298,
+    3801,
+    14626
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [
+    "ru"
+  ],
+  "studios": [
+    "Unit Four",
+    "Creative Unit of Writers & Cinema Workers",
+    "Mosfilm"
+  ],
+  "crew": [
+    {
+      "personId": 8452,
+      "job": "writer"
+    },
+    {
+      "personId": 8452,
+      "job": "director"
+    },
+    {
+      "personId": 8461,
+      "job": "composer"
+    },
+    {
+      "personId": 8462,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1111972,
+      "job": "writer"
+    },
+    {
+      "personId": 560802,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1190211,
+      "character": "Hari",
+      "order": 0
+    },
+    {
+      "personId": 1190206,
+      "character": "Kris Kelvin",
+      "order": 1
+    },
+    {
+      "personId": 8474,
+      "character": "Dr. Snaut",
+      "order": 2
+    },
+    {
+      "personId": 8476,
+      "character": "Henri Berton",
+      "order": 3
+    },
+    {
+      "personId": 1190992,
+      "character": "Kelvin's Father",
+      "order": 4
+    },
+    {
+      "personId": 8475,
+      "character": "Dr. Sartorius",
+      "order": 5
+    },
+    {
+      "personId": 8479,
+      "character": "Kelvin's Mother",
+      "order": 6
+    },
+    {
+      "personId": 4974482,
+      "character": "Henri Berton's Son",
+      "order": 7
+    },
+    {
+      "personId": 2579448,
+      "character": "Guest of Dr. Gibarian",
+      "order": 8
+    },
+    {
+      "personId": 4974486,
+      "character": "Kris Kelvin's Niece",
+      "order": 9
+    },
+    {
+      "personId": 55517,
+      "character": "Shanahan, Chairman of the Anri Berton Commission",
+      "order": 10
+    },
+    {
+      "personId": 1335417,
+      "character": "Professor Tarkhe",
+      "order": 11
+    },
+    {
+      "personId": 8480,
+      "character": "Anna",
+      "order": 12
+    },
+    {
+      "personId": 8478,
+      "character": "Dr. Gibarian",
+      "order": 13
+    },
+    {
+      "personId": 1132676,
+      "character": "Chairman of the Scientific Conference",
+      "order": 14
+    },
+    {
+      "personId": 4974492,
+      "character": "Member of the Academic Council",
+      "order": 15
+    },
+    {
+      "personId": 4974493,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 564897,
+      "character": "Prof. Messenger",
+      "order": 17
+    },
+    {
+      "personId": 1176536,
+      "character": "",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 1933,
+  "sources": [
+    "cult-list"
+  ]
+}

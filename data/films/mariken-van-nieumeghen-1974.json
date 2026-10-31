@@ -1,0 +1,90 @@
+{
+  "tmdbId": 79527,
+  "slug": "mariken-van-nieumeghen-1974",
+  "year": 1974,
+  "runtime": 80,
+  "originalTitle": "Mariken van Nieumeghen",
+  "title": {
+    "en": "Mariken van Nieumeghen",
+    "tr": "Mariken van Nieumeghen"
+  },
+  "overview": {
+    "en": "After being chased from her uncle's home by her scolding aunt, the young Mariken wanders outside of town and encounters Moenen, the devil disguised as a one-eyed, itinerant scholar, who offers to teach her magic and the seven liberal arts in return for her submission.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/3E1nj9hFQvjm0GXUnsim152Ru35.jpg",
+    "en": "/3E1nj9hFQvjm0GXUnsim152Ru35.jpg"
+  },
+  "backdrops": [
+    "/9gY6AfeyPlkAldaQBW4YeYD73xX.jpg",
+    "/rbrWIpW9eqdQwetAf27wxFsvvRd.jpg",
+    "/tqqf69eFoZE1q6AxDcDjl17LQJO.jpg",
+    "/2RE5FBsGIpq4a55mFOQ61NRGY7s.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    14
+  ],
+  "keywordIds": [],
+  "countries": [
+    "NL"
+  ],
+  "languages": [
+    "nl"
+  ],
+  "studios": [
+    "Jos Stelling Filmprodukties BV",
+    "Parkfilm"
+  ],
+  "crew": [
+    {
+      "personId": 226101,
+      "job": "director"
+    },
+    {
+      "personId": 226101,
+      "job": "writer"
+    },
+    {
+      "personId": 1475609,
+      "job": "producer"
+    },
+    {
+      "personId": 226101,
+      "job": "producer"
+    },
+    {
+      "personId": 1249230,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 587383,
+      "character": "Mariken",
+      "order": 0
+    },
+    {
+      "personId": 587384,
+      "character": "Aunt",
+      "order": 1
+    },
+    {
+      "personId": 587385,
+      "character": "Uncle",
+      "order": 2
+    },
+    {
+      "personId": 226102,
+      "character": "Rijk Heer",
+      "order": 3
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "cult-list"
+  ]
+}

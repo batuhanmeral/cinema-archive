@@ -1,0 +1,192 @@
+{
+  "tmdbId": 2614,
+  "slug": "innerspace-1987",
+  "year": 1987,
+  "runtime": 120,
+  "originalTitle": "Innerspace",
+  "title": {
+    "en": "Innerspace",
+    "tr": "İçimde Biri Var"
+  },
+  "overview": {
+    "en": "Test pilot Tuck Pendleton volunteers to test a special vessel for a miniaturization experiment. Accidentally injected into a neurotic hypochondriac, Jack Putter, Tuck must convince Jack to find his ex-girlfriend, Lydia Maxwell, to help him extract Tuck and his ship and re-enlarge them before his oxygen runs out.",
+    "tr": "Jack Putter, bugün kendini komik hissediyor. Gününü 25 saat yaşayan bu hastalık hastası için hiçbirşey yeni değildi. Ama yeni olan bir şey vardı. Jack birşeyler duyuyordu. \"Bana sahip oluyorlar\" diye ağlıyordu. Jack birşeyler duyuyordu. ‘Jack’in duyduğu ses Tuck Pendleton’a aitti. Gizli bir minyatürleşme projesi yolunda gitmemiş ve yanlışlıkla Jack’in içine enjekte edilmiştir."
+  },
+  "poster": {
+    "tr": "/fwTT6iHFqGit8gxNwJOybtq2ZLO.jpg",
+    "en": "/A4azclZQjqeQxXvcok3rdUmuq8a.jpg"
+  },
+  "backdrops": [
+    "/p8qrKPDDVoIqeWiLYURqz5NdeLR.jpg",
+    "/zSRtn62QmYlqUhznOjRJC0yKEzE.jpg",
+    "/pyIOFhxxRrZ5xGSv2B4skUYJs9W.jpg",
+    "/au0TiKmEWYqsrU3UbFCgKKZsjxh.jpg",
+    "/yT3A0uNU6qKpbCmK6VfqYFEXiwD.jpg",
+    "/cDEseDgCAYCEUT6q1n0U742X3tZ.jpg",
+    "/xnOPVEqZWX8T5YlYzNzMeewtXMd.jpg",
+    "/iYh8IuvEahlJVO7xIxQ8FWN7gU1.jpg",
+    "/tFwiUj0nEVQMh6V7ao5NYkxDAVv.jpg",
+    "/8iUmpvLeRcVeihqwowRW3n3WEaH.jpg"
+  ],
+  "trailerKey": "_2qGnuDw9WE",
+  "genreIds": [
+    28,
+    35,
+    878
+  ],
+  "keywordIds": [
+    1706,
+    582,
+    3722,
+    6380,
+    12101,
+    190444,
+    323692
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Amblin Entertainment",
+    "Warner Bros. Pictures",
+    "The Guber-Peters Company"
+  ],
+  "crew": [
+    {
+      "personId": 4600,
+      "job": "director"
+    },
+    {
+      "personId": 737,
+      "job": "writer"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    },
+    {
+      "personId": 27485,
+      "job": "writer"
+    },
+    {
+      "personId": 2082,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 16154,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6065,
+      "character": "Lt. Tuck Pendleton",
+      "order": 0
+    },
+    {
+      "personId": 519,
+      "character": "Jack Putter",
+      "order": 1
+    },
+    {
+      "personId": 5344,
+      "character": "Lydia Maxwell",
+      "order": 2
+    },
+    {
+      "personId": 34597,
+      "character": "Victor Eugene Scrimshaw",
+      "order": 3
+    },
+    {
+      "personId": 26490,
+      "character": "Dr. Margaret Canker",
+      "order": 4
+    },
+    {
+      "personId": 26491,
+      "character": "Mr. Igoe",
+      "order": 5
+    },
+    {
+      "personId": 16180,
+      "character": "The Cowboy",
+      "order": 6
+    },
+    {
+      "personId": 37600,
+      "character": "Wendy",
+      "order": 7
+    },
+    {
+      "personId": 27540,
+      "character": "Pete Blanchard",
+      "order": 8
+    },
+    {
+      "personId": 15992,
+      "character": "Dr. Greenbush",
+      "order": 9
+    },
+    {
+      "personId": 19439,
+      "character": "Mr. Wormwood",
+      "order": 10
+    },
+    {
+      "personId": 16156,
+      "character": "Ozzie Wexler",
+      "order": 11
+    },
+    {
+      "personId": 78003,
+      "character": "Dr. Niles",
+      "order": 12
+    },
+    {
+      "personId": 863,
+      "character": "Lydia's Editor",
+      "order": 13
+    },
+    {
+      "personId": 40230,
+      "character": "Duane",
+      "order": 14
+    },
+    {
+      "personId": 7210,
+      "character": "Dream Lady",
+      "order": 15
+    },
+    {
+      "personId": 93670,
+      "character": "Messenger",
+      "order": 16
+    },
+    {
+      "personId": 102441,
+      "character": "Cab Driver",
+      "order": 17
+    },
+    {
+      "personId": 103069,
+      "character": "Man in Restroom",
+      "order": 18
+    },
+    {
+      "personId": 59196,
+      "character": "Waiting Room Patient",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 1478,
+  "sources": [
+    "cult-list"
+  ]
+}

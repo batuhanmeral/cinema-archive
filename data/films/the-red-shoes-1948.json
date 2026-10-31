@@ -1,0 +1,202 @@
+{
+  "tmdbId": 19542,
+  "slug": "the-red-shoes-1948",
+  "year": 1948,
+  "runtime": 133,
+  "originalTitle": "The Red Shoes",
+  "title": {
+    "en": "The Red Shoes",
+    "tr": "Kırmızı Pabuçlar"
+  },
+  "overview": {
+    "en": "A fledgling ballerina falls in love with a brilliant composer, but the jealous head of the ballet company plots to drive them apart.",
+    "tr": "Victoria Page, genç ve oldukça yetenekli bir balerindir. Güzel dansçının kariyeri, mükemmeliyetçi bir sahne yöneticisi olan Boris Lermantov'un ellerinde yükselişe geçer. Victoria, sahnede bir yıldız gibi parlarken, bunun bedelini ödeyeceğini henüz bilmemektedir.  İdealist bir besteci olan Julian Craster, Red Shoes isimli bestesi ile ün yapmıştır. Victoria'ya aşık olan Julian, genç balerinin kalbini kazanır. Ancak her ikisinin de ummadığı bir düşmanları vardır. Boris Lermantov, Victoria'nın Julian ile olan beraberliğini onaylamaz. Bunun üzerine Victoria, Julian ile evlenmek için sahneleri ve Lermantov'u arkasında bırakır. Ancak bu bile onları Lermantov'un hışmından korumayacaktır."
+  },
+  "poster": {
+    "tr": "/vPvpBWFWDvEXuQBkoYgA6A89GVp.jpg",
+    "en": "/cFuK9l2h2QgmptKxutmCec38vxr.jpg"
+  },
+  "backdrops": [
+    "/cSbBSHHiy849SUhyTW6FX4Dbj43.jpg",
+    "/Aa1jUhkenqspgGQlqbsXFax6iW.jpg",
+    "/xQfD7SvRwt9GsVcNJwsALSHxaXB.jpg",
+    "/5N3xfpHHjtObC63E6zKO4lixRMi.jpg",
+    "/9r0I5tqlJnpmVWnEdcKaygK4NTs.jpg",
+    "/nN5msmAf5E1tSxlGS5k6ZlcKfkg.jpg",
+    "/ukG9jyLxlRAh5khPmB8kxqbDoK5.jpg",
+    "/9fTy7CYAN2RHgmtD6Fref2t3GOI.jpg",
+    "/T96jN0JCnWcEClf0vPrlPP1sEl.jpg",
+    "/oQMoXlJetO87u1Nrd3hUZv2jvrH.jpg"
+  ],
+  "trailerKey": "_mHgGU4AbOA",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    1691,
+    1605,
+    212,
+    1346,
+    1233,
+    4118,
+    10551,
+    238526,
+    283297,
+    307626
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "ru",
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "The Archers"
+  ],
+  "crew": [
+    {
+      "personId": 68424,
+      "job": "producer"
+    },
+    {
+      "personId": 37846,
+      "job": "director"
+    },
+    {
+      "personId": 68424,
+      "job": "director"
+    },
+    {
+      "personId": 37846,
+      "job": "producer"
+    },
+    {
+      "personId": 6603,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 68424,
+      "job": "writer"
+    },
+    {
+      "personId": 37846,
+      "job": "writer"
+    },
+    {
+      "personId": 68427,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 88935,
+      "character": "Boris Lermontov",
+      "order": 0
+    },
+    {
+      "personId": 38037,
+      "character": "Julian Craster",
+      "order": 1
+    },
+    {
+      "personId": 68422,
+      "character": "Victoria Page",
+      "order": 2
+    },
+    {
+      "personId": 81463,
+      "character": "Ivan Boleslawsky",
+      "order": 3
+    },
+    {
+      "personId": 88937,
+      "character": "Grischa Ljubov",
+      "order": 4
+    },
+    {
+      "personId": 29137,
+      "character": "Sergei Ratov",
+      "order": 5
+    },
+    {
+      "personId": 88938,
+      "character": "Irina Boronskaja",
+      "order": 6
+    },
+    {
+      "personId": 56875,
+      "character": "Livy",
+      "order": 7
+    },
+    {
+      "personId": 1671935,
+      "character": "Terry",
+      "order": 8
+    },
+    {
+      "personId": 1671936,
+      "character": "Ike",
+      "order": 9
+    },
+    {
+      "personId": 1284613,
+      "character": "A Balletomane",
+      "order": 10
+    },
+    {
+      "personId": 115608,
+      "character": "Her Mate",
+      "order": 11
+    },
+    {
+      "personId": 47662,
+      "character": "Prof. Palmer",
+      "order": 12
+    },
+    {
+      "personId": 95226,
+      "character": "Dimitri",
+      "order": 13
+    },
+    {
+      "personId": 144361,
+      "character": "Lady Neston",
+      "order": 14
+    },
+    {
+      "personId": 27946,
+      "character": "Stage-Door Keeper",
+      "order": 15
+    },
+    {
+      "personId": 47014,
+      "character": "Lord Oldham",
+      "order": 16
+    },
+    {
+      "personId": 1671937,
+      "character": "Marie Rambert",
+      "order": 17
+    },
+    {
+      "personId": 1671938,
+      "character": "Gwladys - Vicky's friend",
+      "order": 18
+    },
+    {
+      "personId": 587106,
+      "character": "M. Boudin",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 786,
+  "sources": [
+    "cult-list"
+  ]
+}

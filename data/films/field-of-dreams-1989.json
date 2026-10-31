@@ -1,0 +1,199 @@
+{
+  "tmdbId": 2323,
+  "slug": "field-of-dreams-1989",
+  "year": 1989,
+  "runtime": 105,
+  "originalTitle": "Field of Dreams",
+  "title": {
+    "en": "Field of Dreams",
+    "tr": "Düşler Tarlası"
+  },
+  "overview": {
+    "en": "Ray Kinsella is an Iowa farmer who hears a mysterious voice telling him to turn his cornfield into a baseball diamond. He does, but the voice's directions don't stop -- even after the spirits of deceased ballplayers turn up to play.",
+    "tr": "Ray Kinsella ( Kevin Costner), ailesiyle Iowa'ya yeni yerleşmiş ve çiftçiliğe başlamıştır. Bir gün yine tarlasında çalışırken gizemli bir sesin ona \"İnşa ederse geleceklerini\" söyler. Ray bunu tek şekilde yorumlar : ses, tarlasına beysbol stadyumu inşa etmesini söylemektedir. Eşi bu yoruma çok güvenmese de Ray'e kalbindeki sesi dinlemesini söyler. Ray stadyumu inşa etmeye başlar, bu sırada gizemli sesler kendisini bir beysbol uzmanı olan Terence Man'e (James Earl Jones) yönlendirir ve ikili Ray'e gaipten ve düşlerinde gelen mesajların izini sürmeye başlar... Bu mesajlar ikiliyi tek kelimeyle inanılmaz bir maceraya sürükleyecektir."
+  },
+  "poster": {
+    "tr": "/5QadeARjfKXPc0kPzfshcGfH2Nh.jpg",
+    "en": "/8PT4sAcneQ7MtZ1Mqoe2EyOJHmZ.jpg"
+  },
+  "backdrops": [
+    "/g5gwbwR98yN1TvycqHCJZhCPa7O.jpg",
+    "/truDuwEGbE1qwYP1IY1ymkJNZda.jpg",
+    "/4srHHwIQvDEw4Ya42Cdfn3V1yhb.jpg",
+    "/3yDqfGE5YZKMa6PiI0vxHowR1Pg.jpg",
+    "/c2n5iJNo6MtXP0rE9LYwkaW9XmN.jpg",
+    "/3hxGPkmIEIgd7OZbnqyW6rtSXCH.jpg",
+    "/2AWo623mhcrSo46f7gmqH4clgV8.jpg",
+    "/g0oa6QpxNN4SmfbKUpD4Kp1N6bh.jpg",
+    "/lYAhYUR2kORi2M1WjLOzZ0U12zF.jpg",
+    "/hhTetGsfPVEgQRPSkpMRQTbCHj.jpg"
+  ],
+  "trailerKey": "-jUOGhUqGdk",
+  "genreIds": [
+    18,
+    14
+  ],
+  "keywordIds": [
+    4932,
+    802,
+    818,
+    6075,
+    1480,
+    2029,
+    2618,
+    7312,
+    10818,
+    13005,
+    158086,
+    158679,
+    162846,
+    163976,
+    227655,
+    227656,
+    272987
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Universal Pictures",
+    "Gordon Company",
+    "Carolco Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 7681,
+      "job": "producer"
+    },
+    {
+      "personId": 1093,
+      "job": "producer"
+    },
+    {
+      "personId": 1729,
+      "job": "composer"
+    },
+    {
+      "personId": 23968,
+      "job": "director"
+    },
+    {
+      "personId": 23968,
+      "job": "writer"
+    },
+    {
+      "personId": 23969,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1269,
+      "character": "Ray Kinsella",
+      "order": 0
+    },
+    {
+      "personId": 23882,
+      "character": "Annie Kinsella",
+      "order": 1
+    },
+    {
+      "personId": 12930,
+      "character": "Karin Kinsella",
+      "order": 2
+    },
+    {
+      "personId": 11477,
+      "character": "\"Shoeless\" Joe Jackson",
+      "order": 3
+    },
+    {
+      "personId": 23881,
+      "character": "Mark",
+      "order": 4
+    },
+    {
+      "personId": 15152,
+      "character": "Terrence Mann",
+      "order": 5
+    },
+    {
+      "personId": 13784,
+      "character": "Doc \"Moonlight\" Graham",
+      "order": 6
+    },
+    {
+      "personId": 11805,
+      "character": "Archie Graham",
+      "order": 7
+    },
+    {
+      "personId": 23974,
+      "character": "John Kinsella",
+      "order": 8
+    },
+    {
+      "personId": 111594,
+      "character": "Feed Store Farmer",
+      "order": 9
+    },
+    {
+      "personId": 2800993,
+      "character": "Feed Store Lady",
+      "order": 10
+    },
+    {
+      "personId": 44850,
+      "character": "Annie's Mother",
+      "order": 11
+    },
+    {
+      "personId": 944116,
+      "character": "Dee, Mark's Wife",
+      "order": 12
+    },
+    {
+      "personId": 154295,
+      "character": "Buck Weaver - 3B",
+      "order": 13
+    },
+    {
+      "personId": 9276,
+      "character": "Eddie Cicotte - P",
+      "order": 14
+    },
+    {
+      "personId": 152780,
+      "character": "Swede Risberg - C",
+      "order": 15
+    },
+    {
+      "personId": 44792,
+      "character": "Chick Gandil - 1B",
+      "order": 16
+    },
+    {
+      "personId": 23975,
+      "character": "Beulah Gasnick",
+      "order": 17
+    },
+    {
+      "personId": 9628,
+      "character": "Principal",
+      "order": 18
+    },
+    {
+      "personId": 92119,
+      "character": "PTA Heckler",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1780,
+  "sources": [
+    "cult-list"
+  ]
+}

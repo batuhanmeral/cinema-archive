@@ -1,0 +1,210 @@
+{
+  "tmdbId": 10858,
+  "slug": "nixon-1995",
+  "year": 1995,
+  "runtime": 192,
+  "originalTitle": "Nixon",
+  "title": {
+    "en": "Nixon",
+    "tr": "Nixon"
+  },
+  "overview": {
+    "en": "A look at President Richard M. Nixon—a man carrying the fate of the world on his shoulders while battling the self-destructive demands from within—spanning his troubled boyhood in California to the shocking Watergate scandal that would end his Presidency.",
+    "tr": "ABD'nin 37. Başkanı, gerek politikaları gerekse skandallarıyla 70'li yıllara damgasını vuran Richard Nixon'ın hayatından kesitler veren film, oyuncu kadrosu ve etkileyici senaryosuyla dikkat çekiyor. Richard Nixon rolünde birinci sınıf bir oyunculuk sergileyen Anthony Hopkins unutulacak gibi değil."
+  },
+  "poster": {
+    "tr": "/cz2MTGr2wpDZLirgV2rGHBdA2t3.jpg",
+    "en": "/ORlTkdDwWU94O16MlwfIR4g5Hk.jpg"
+  },
+  "backdrops": [
+    "/zAaFQHZV23SJgSwRBvW5PeD219H.jpg",
+    "/q44BiguSEQUMljuUyYShruKXBmX.jpg",
+    "/wAbYvWvuqmV58pmgE1aYzP8W1vw.jpg",
+    "/bEsi9OUn33xjSf6l5Tnl4Zd4Bki.jpg",
+    "/j53XGVKJcMQMx5MUK0YLPRE8YFf.jpg",
+    "/uIuY1bprzRUSRzb0E2zxscJwOgj.jpg",
+    "/yRuxeVscdhXKD3DhpWzzNM5LdxR.jpg",
+    "/pa9o0IgfACF7ZwPBF6EcCGkpCud.jpg",
+    "/1sVsZsqgR1KiGR6ZPg0v36oCQH4.jpg",
+    "/d35M52TgAFeWByQnsayyOd8bfuJ.jpg"
+  ],
+  "trailerKey": "dO2LWKpeyI8",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    840,
+    521,
+    6086,
+    2946,
+    1228,
+    4240,
+    5565,
+    6165,
+    9376,
+    208992,
+    325763,
+    325796,
+    325797,
+    325799,
+    325804,
+    325806,
+    325819
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Cinergi Pictures",
+    "Illusion Entertainment Group"
+  ],
+  "crew": [
+    {
+      "personId": 17786,
+      "job": "writer"
+    },
+    {
+      "personId": 1152,
+      "job": "director"
+    },
+    {
+      "personId": 1152,
+      "job": "writer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 1152,
+      "job": "producer"
+    },
+    {
+      "personId": 149,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 17785,
+      "job": "writer"
+    },
+    {
+      "personId": 3184,
+      "job": "producer"
+    },
+    {
+      "personId": 56967,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4173,
+      "character": "Richard Nixon",
+      "order": 0
+    },
+    {
+      "personId": 11148,
+      "character": "Pat Nixon",
+      "order": 1
+    },
+    {
+      "personId": 6280,
+      "character": "Alexander Haig",
+      "order": 2
+    },
+    {
+      "personId": 228,
+      "character": "E. Howard Hunt",
+      "order": 3
+    },
+    {
+      "personId": 382,
+      "character": "J. Edgar Hoover",
+      "order": 4
+    },
+    {
+      "personId": 5249,
+      "character": "John Mitchell",
+      "order": 5
+    },
+    {
+      "personId": 19839,
+      "character": "Ron Ziegler",
+      "order": 6
+    },
+    {
+      "personId": 11076,
+      "character": "John Dean",
+      "order": 7
+    },
+    {
+      "personId": 7004,
+      "character": "Henry Kissinger",
+      "order": 8
+    },
+    {
+      "personId": 2453,
+      "character": "Hannah Nixon",
+      "order": 9
+    },
+    {
+      "personId": 22131,
+      "character": "John Ehrlichman",
+      "order": 10
+    },
+    {
+      "personId": 4512,
+      "character": "H.R. Haldeman",
+      "order": 11
+    },
+    {
+      "personId": 70843,
+      "character": "Clyde Tolson",
+      "order": 12
+    },
+    {
+      "personId": 14721,
+      "character": "Charles Colson",
+      "order": 13
+    },
+    {
+      "personId": 56687,
+      "character": "Murray Chotiner",
+      "order": 14
+    },
+    {
+      "personId": 49425,
+      "character": "Julie Nixon Eisenhower",
+      "order": 15
+    },
+    {
+      "personId": 19453,
+      "character": "Frank Nixon",
+      "order": 16
+    },
+    {
+      "personId": 3417,
+      "character": "Harold Nixon",
+      "order": 17
+    },
+    {
+      "personId": 6840,
+      "character": "Jack Jones",
+      "order": 18
+    },
+    {
+      "personId": 52995,
+      "character": "Nelson Rockefeller",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 416,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "tmdbId": 10409,
+  "slug": "strictly-ballroom-1992",
+  "year": 1992,
+  "runtime": 94,
+  "originalTitle": "Strictly Ballroom",
+  "title": {
+    "en": "Strictly Ballroom",
+    "tr": "Strictly Ballroom"
+  },
+  "overview": {
+    "en": "Brave new steps put Scott's career in jeopardy. With a new partner and determination, can he still succeed?",
+    "tr": "Scott Hastings, Avustralya Dans Federasyonu'nun düzenlediği geleneksel balo salonu dans yarışmasını kazanmayı hedefleyen hırslı ve atletik bir dansçıdır.\r Partneri Liz, Scott'un başına buyrukluğuna kızıp ekibi terkeder. Bunun üzerine yeni partner arayan Scott, Fran adında acemi bir dansçıyla tanışır. Fran'a güvenmeyen Scott, onun İspanyol ailesiyle tanıştığında ve dans üzerine kurulu kültürlerini tanıdığında fikirleri değişir."
+  },
+  "poster": {
+    "tr": "/f6vs4DQGuNpLuA5Z7k69uuKpbVG.jpg",
+    "en": "/f6vs4DQGuNpLuA5Z7k69uuKpbVG.jpg"
+  },
+  "backdrops": [
+    "/5gPUA8ABoBK4D1GUkL1NXTSS8Wq.jpg",
+    "/qLMTrendbJvnJfTHf9LfiiaaFJl.jpg",
+    "/3YdMRvhyq8jYl5GTH3XS0VwEcbR.jpg",
+    "/zF3Tki8hRzcNvns49BmLuy0kXjv.jpg",
+    "/cYUEx9KVdwWz9xtUeC0Bk7S4cQI.jpg",
+    "/243ya6gyGLMlpKkBQ7dlJALvnV8.jpg",
+    "/8gmSCTmvVeq55EBKeoYohk8Ox4I.jpg",
+    "/1oA6WPNoMB0fctGtLoPtsy5SqUb.jpg",
+    "/rHKsEiNezVWySesOmhK4W2r0E5W.jpg",
+    "/d7PCxVGBRQZEPjlOe97f605ifYV.jpg"
+  ],
+  "trailerKey": "PLwfNOrIqSs",
+  "genreIds": [
+    35,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    1691,
+    1157,
+    733,
+    970,
+    4375,
+    10104,
+    4087,
+    4344,
+    10181,
+    9104,
+    9856,
+    10106,
+    13072,
+    40897,
+    169071,
+    207008,
+    221692,
+    242850
+  ],
+  "countries": [
+    "AU"
+  ],
+  "languages": [
+    "es",
+    "en"
+  ],
+  "studios": [
+    "Beyond Films",
+    "M & A",
+    "Australian Film Finance Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 6201,
+      "job": "director"
+    },
+    {
+      "personId": 6201,
+      "job": "writer"
+    },
+    {
+      "personId": 6211,
+      "job": "writer"
+    },
+    {
+      "personId": 55904,
+      "job": "producer"
+    },
+    {
+      "personId": 37757,
+      "job": "composer"
+    },
+    {
+      "personId": 51981,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24589,
+      "character": "Scott Hastings",
+      "order": 0
+    },
+    {
+      "personId": 65010,
+      "character": "Fran",
+      "order": 1
+    },
+    {
+      "personId": 23,
+      "character": "Barry Fife",
+      "order": 2
+    },
+    {
+      "personId": 65011,
+      "character": "Shirley Hastings",
+      "order": 3
+    },
+    {
+      "personId": 14226,
+      "character": "Liz Holt",
+      "order": 4
+    },
+    {
+      "personId": 127137,
+      "character": "Les Kendall",
+      "order": 5
+    },
+    {
+      "personId": 150536,
+      "character": "Doug Hastings",
+      "order": 6
+    },
+    {
+      "personId": 543654,
+      "character": "Ken Railings",
+      "order": 7
+    },
+    {
+      "personId": 543656,
+      "character": "Tina Sparkle",
+      "order": 8
+    },
+    {
+      "personId": 110008,
+      "character": "Charm Leachman",
+      "order": 9
+    },
+    {
+      "personId": 214979,
+      "character": "Wayne Burns",
+      "order": 10
+    },
+    {
+      "personId": 1997594,
+      "character": "Rico",
+      "order": 11
+    },
+    {
+      "personId": 1997595,
+      "character": "Ya Ya",
+      "order": 12
+    },
+    {
+      "personId": 214546,
+      "character": "Kylie Hastings",
+      "order": 13
+    },
+    {
+      "personId": 543657,
+      "character": "Luke",
+      "order": 14
+    },
+    {
+      "personId": 107651,
+      "character": "State Finals MC J.J. Silvers",
+      "order": 15
+    },
+    {
+      "personId": 220837,
+      "character": "Nathan Starkey",
+      "order": 16
+    },
+    {
+      "personId": 543655,
+      "character": "Pam Short",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 399,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "tmdbId": 3127,
+  "slug": "the-revenge-of-frankenstein-1958",
+  "year": 1958,
+  "runtime": 90,
+  "originalTitle": "The Revenge of Frankenstein",
+  "title": {
+    "en": "The Revenge of Frankenstein",
+    "tr": "The Revenge of Frankenstein"
+  },
+  "overview": {
+    "en": "Rescued from the guillotine by his devoted dwarf Fritz, the Baron relocates to Carlsbruck, where he continues his gruesome experiments.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/3SKLAELeQFislTtdXF9r1aVp4a7.jpg",
+    "en": "/3SKLAELeQFislTtdXF9r1aVp4a7.jpg"
+  },
+  "backdrops": [
+    "/6AoqlNIjbiCLhJ3LU374PLQ3Y7m.jpg",
+    "/gW82B1O31J8ryzHIEeJBAOG9RFo.jpg",
+    "/oEcfaN2GMsbew75W0ZtSiVemRyp.jpg",
+    "/uYkRhx99msTSz5MTReoF5siEkJ1.jpg",
+    "/4fuKgS6n6yH9eMMYxGC8kXCvnST.jpg",
+    "/mnHVOgE2JbAyLYtMJ8z064KiE9P.jpg",
+    "/wIPNYmwY9X6lJyjFAesL7BCEYCc.jpg",
+    "/kwG4aVEv8XC0rypPtWiCvem72jF.jpg",
+    "/u0C15qaeRg9timrLjTjHIDhGcrS.jpg",
+    "/e886lL3WnC6hnPnnwitiQZv7bhp.jpg"
+  ],
+  "trailerKey": "_nkd3AlNug8",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    212,
+    3335,
+    6317,
+    10125,
+    9663,
+    9826,
+    11181,
+    10122,
+    157943,
+    171247,
+    203836,
+    218105,
+    258464,
+    269485,
+    273293
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "la"
+  ],
+  "studios": [
+    "Hammer Film Productions"
+  ],
+  "crew": [
+    {
+      "personId": 29662,
+      "job": "director"
+    },
+    {
+      "personId": 30168,
+      "job": "producer"
+    },
+    {
+      "personId": 29667,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30700,
+      "job": "writer"
+    },
+    {
+      "personId": 30701,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5,
+      "character": "Dr. Victor Stein",
+      "order": 0
+    },
+    {
+      "personId": 30704,
+      "character": "Dr. Hans Kleve",
+      "order": 1
+    },
+    {
+      "personId": 9877,
+      "character": "Margaret Conrad",
+      "order": 2
+    },
+    {
+      "personId": 30705,
+      "character": "Karl",
+      "order": 3
+    },
+    {
+      "personId": 12816,
+      "character": "Bergman",
+      "order": 4
+    },
+    {
+      "personId": 30706,
+      "character": "Fritz",
+      "order": 5
+    },
+    {
+      "personId": 30707,
+      "character": "Dwarf",
+      "order": 6
+    },
+    {
+      "personId": 30708,
+      "character": "Up Patient",
+      "order": 7
+    },
+    {
+      "personId": 30709,
+      "character": "Inspector",
+      "order": 8
+    },
+    {
+      "personId": 24340,
+      "character": "Kurt",
+      "order": 9
+    },
+    {
+      "personId": 93172,
+      "character": "President",
+      "order": 10
+    },
+    {
+      "personId": 117300,
+      "character": "Molke",
+      "order": 11
+    },
+    {
+      "personId": 2102314,
+      "character": "Countess Barscynska",
+      "order": 12
+    },
+    {
+      "personId": 3024293,
+      "character": "Vera Barscynska",
+      "order": 13
+    },
+    {
+      "personId": 104305,
+      "character": "Janitor",
+      "order": 14
+    },
+    {
+      "personId": 121680,
+      "character": "Boy",
+      "order": 15
+    },
+    {
+      "personId": 133040,
+      "character": "Girl",
+      "order": 16
+    },
+    {
+      "personId": 2706908,
+      "character": "Manservant (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1465803,
+      "character": "Kleine (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 3024295,
+      "character": "Policeman (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 159,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "tmdbId": 27970,
+  "slug": "werewolf-of-london-1935",
+  "year": 1935,
+  "runtime": 75,
+  "originalTitle": "Werewolf of London",
+  "title": {
+    "en": "Werewolf of London",
+    "tr": "Werewolf of London"
+  },
+  "overview": {
+    "en": "A strange animal attack turns a botanist into a bloodthirsty monster.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/78kD3Fpvgd8qubKMbhS5dKofjR8.jpg",
+    "en": "/78kD3Fpvgd8qubKMbhS5dKofjR8.jpg"
+  },
+  "backdrops": [
+    "/mE2TnC4VC5Ilv7dHsZkVfGQy9CA.jpg",
+    "/axPC7u2dZhZY4sk5mjIZ4gjlnxP.jpg",
+    "/wMT9OuFIDKYt9obUE14SazVqAk0.jpg",
+    "/dg75NhJyhTHmZbUpDJ7Dx513Mhf.jpg",
+    "/8a3AOKV7T7EeLNNRV18Ep0PA2v.jpg",
+    "/fSAVWTl0zGMXthMzJ5JFlyRq3I6.jpg",
+    "/f4VRHaXamtrJOLkqFM7JzVSEsCY.jpg",
+    "/zZP0Sr97uu2Y5iDtIp8LqAYcj4K.jpg",
+    "/k7yAtRIEqSvGCcV78V7iSAlhjRt.jpg",
+    "/hYxe2Asl3tqcayFPezDBL75CW18.jpg"
+  ],
+  "trailerKey": "swDiECXLX8o",
+  "genreIds": [
+    27,
+    14
+  ],
+  "keywordIds": [
+    212,
+    1299,
+    305,
+    486,
+    2172,
+    6582,
+    10125,
+    11155,
+    9826,
+    12564,
+    12999,
+    13031,
+    228001
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "la",
+    "en",
+    "cn"
+  ],
+  "studios": [
+    "Universal Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 99325,
+      "job": "director"
+    },
+    {
+      "personId": 128436,
+      "job": "writer"
+    },
+    {
+      "personId": 134806,
+      "job": "composer"
+    },
+    {
+      "personId": 78833,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3968975,
+      "job": "writer"
+    },
+    {
+      "personId": 30268,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 40180,
+      "character": "Dr. Wilfred Glendon",
+      "order": 0
+    },
+    {
+      "personId": 13342,
+      "character": "Dr. Yogami",
+      "order": 1
+    },
+    {
+      "personId": 2924,
+      "character": "Lisa Glendon",
+      "order": 2
+    },
+    {
+      "personId": 82488,
+      "character": "Paul Ames",
+      "order": 3
+    },
+    {
+      "personId": 13343,
+      "character": "Sir Thomas Forsythe",
+      "order": 4
+    },
+    {
+      "personId": 20369,
+      "character": "Ettie Coombes",
+      "order": 5
+    },
+    {
+      "personId": 99326,
+      "character": "Hugh Renwick",
+      "order": 6
+    },
+    {
+      "personId": 2099,
+      "character": "Hawkins",
+      "order": 7
+    },
+    {
+      "personId": 99327,
+      "character": "Lady Forsythe",
+      "order": 8
+    },
+    {
+      "personId": 8232,
+      "character": "Mrs. Whack",
+      "order": 9
+    },
+    {
+      "personId": 8522,
+      "character": "Mrs. Moncaster",
+      "order": 10
+    },
+    {
+      "personId": 99328,
+      "character": "Daisy",
+      "order": 11
+    },
+    {
+      "personId": 2933,
+      "character": "Timothy the Falden Caretaker (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 89727,
+      "character": "Priest (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 121095,
+      "character": "Detective Evans (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 148565,
+      "character": "Yogami's Housekeeper Millie (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 119702,
+      "character": "Girl in Goose Lane (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 29603,
+      "character": "Drunk Woman (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 30145,
+      "character": "Officer Jenkins (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2870427,
+      "character": "The Prima Donna",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 158,
+  "sources": [
+    "cult-list"
+  ]
+}

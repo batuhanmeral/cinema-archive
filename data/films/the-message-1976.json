@@ -1,0 +1,210 @@
+{
+  "tmdbId": 26842,
+  "slug": "the-message-1976",
+  "year": 1976,
+  "runtime": 178,
+  "originalTitle": "The Message",
+  "title": {
+    "en": "The Message",
+    "tr": "Çağrı"
+  },
+  "overview": {
+    "en": "In sixth-century Mecca, Prophet Muhammad receives his first revelation from God as a messenger. Three years later, he's not alone in his quest and publicly declares his prophecy. Muhammad is fought by Abu Sufian and his wife Hind, rulers of Mecca. Muhammad's followers are hunted and tortured but he continues his calling.",
+    "tr": "6. yüzyılda Mekke. İslam tarihçilerinin Cahiliye Devri olarak anmaktan hoşlandıkları dönemdeyiz. Şehrin ileri gelenlerinin Mekke maddelerin pençesinde acımasızca yönettiği rivayet ediliyor. Kız çocukların yeni doğduklarında diri diri gömüldüklerinin anlatıldığı acımasız bir dönem. Böyle karanlık bir çağda, Hz. Cebrail tarafından ziyaret edilen Hz. Muhammed insanları tek bir Tanrı'ya tapmaya davet ediyor ve şehre hükmedenlerin vahşi metotlarına karşı çıkıyor.Allah'tan inen bir ayet, peygamberin silaha sarılmasını ve Mekke ordularına karşı direnmesini emrediyor. Müslümanların ordusu tecrübesiz olduğu halde Bedir savaşını kazanıyor. Uhud savaşının ardındansa 10 yıllık bir barışa evet diyerek arada geçen süreyi İslam'ı yaymak için kullanıyorlar. Muhammed'in Allah'ın elçisi olduğu, Allah'tan başka tanrı olmadığı haberi Arap yarımadasını hızla katediyor."
+  },
+  "poster": {
+    "tr": "/jKkOOWWtDvlFCD9mUn7Uzt3Mf48.jpg",
+    "en": "/qVCBMg4ZuLPnWhIWJHD9IP4nIuY.jpg"
+  },
+  "backdrops": [
+    "/nTKLYX1yDUUj5XNAaI8KGHWRBiB.jpg",
+    "/1NhT0qWlEj22UoTgvhTAzQJfZZi.jpg",
+    "/4eRoQN8Q7se140GihG5KFIZnDfW.jpg",
+    "/s98KKO9cgbvHszaaxIcYPrbFYMT.jpg",
+    "/rqODzehgQ8Hl0tcUd7qIcy8Pc9Z.jpg",
+    "/k6wkBvaiKSk18yadR3gCIKILAke.jpg",
+    "/zEBnnTstWjooNhxVAEfRImZbhOg.jpg",
+    "/9cLuqxZT3ArFwFC4jtZxPuWraqJ.jpg",
+    "/wPZcbw5ayzrAkoObDFO6G0K2vo6.jpg"
+  ],
+  "trailerKey": "gCyWycOx3nI",
+  "genreIds": [
+    12,
+    18,
+    28,
+    36
+  ],
+  "keywordIds": [
+    539,
+    789,
+    187,
+    11001,
+    12562,
+    173259,
+    230252,
+    316227
+  ],
+  "countries": [
+    "LY",
+    "GB",
+    "LB",
+    "KW",
+    "MA"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Filmco International Productions",
+    "Falcon International Productions"
+  ],
+  "crew": [
+    {
+      "personId": 30921,
+      "job": "producer"
+    },
+    {
+      "personId": 66203,
+      "job": "director"
+    },
+    {
+      "personId": 66203,
+      "job": "producer"
+    },
+    {
+      "personId": 1324540,
+      "job": "writer"
+    },
+    {
+      "personId": 1492597,
+      "job": "writer"
+    },
+    {
+      "personId": 1983668,
+      "job": "writer"
+    },
+    {
+      "personId": 1983667,
+      "job": "writer"
+    },
+    {
+      "personId": 138762,
+      "job": "writer"
+    },
+    {
+      "personId": 2704,
+      "job": "composer"
+    },
+    {
+      "personId": 12242,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5401,
+      "character": "Hamza",
+      "order": 0
+    },
+    {
+      "personId": 18847,
+      "character": "Hind",
+      "order": 1
+    },
+    {
+      "personId": 16074,
+      "character": "Abu Sufyan",
+      "order": 2
+    },
+    {
+      "personId": 40530,
+      "character": "Bilal",
+      "order": 3
+    },
+    {
+      "personId": 1007561,
+      "character": "Khalid",
+      "order": 4
+    },
+    {
+      "personId": 17356,
+      "character": "Ammar",
+      "order": 5
+    },
+    {
+      "personId": 947789,
+      "character": "Suheil",
+      "order": 6
+    },
+    {
+      "personId": 26679,
+      "character": "Zaid",
+      "order": 7
+    },
+    {
+      "personId": 10029,
+      "character": "Abu-Talib",
+      "order": 8
+    },
+    {
+      "personId": 9912,
+      "character": "Abu-Jahal",
+      "order": 9
+    },
+    {
+      "personId": 10513,
+      "character": "Otba",
+      "order": 10
+    },
+    {
+      "personId": 39001,
+      "character": "Somaya",
+      "order": 11
+    },
+    {
+      "personId": 24742,
+      "character": "Umaya",
+      "order": 12
+    },
+    {
+      "personId": 1409366,
+      "character": "Jaafar",
+      "order": 13
+    },
+    {
+      "personId": 47547,
+      "character": "Salool",
+      "order": 14
+    },
+    {
+      "personId": 1220006,
+      "character": "Amr",
+      "order": 15
+    },
+    {
+      "personId": 2246,
+      "character": "An-Najashi",
+      "order": 16
+    },
+    {
+      "personId": 24738,
+      "character": "Waleed",
+      "order": 17
+    },
+    {
+      "personId": 29872,
+      "character": "Héraclius - Byzantine Emperor",
+      "order": 18
+    },
+    {
+      "personId": 1355155,
+      "character": "Muqawqis - Patriarch of Alexandria",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 426,
+  "sources": [
+    "cult-list"
+  ]
+}

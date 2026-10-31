@@ -1,0 +1,192 @@
+{
+  "tmdbId": 12921,
+  "slug": "strange-brew-1983",
+  "year": 1983,
+  "runtime": 90,
+  "originalTitle": "Strange Brew",
+  "title": {
+    "en": "Strange Brew",
+    "tr": "Strange Brew"
+  },
+  "overview": {
+    "en": "Something is rotten at the Elsinore Brewery. Bob and Doug McKenzie (as seen on SCTV) help the orphan Pam regain the brewery founded by her recently-deceased father. But to do so, they must confront the suspicious Brewmeister Smith and two teams of vicious hockey players.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rScplcvRHX7o7XK88SFb5mddo8y.jpg",
+    "en": "/rScplcvRHX7o7XK88SFb5mddo8y.jpg"
+  },
+  "backdrops": [
+    "/qabl7DcjGHyoV7DUEhpVhuS7IkH.jpg",
+    "/y5yCGyPKS0gk5IOne2y1FYuzJQm.jpg",
+    "/6YAFWFHgCq3LfAgfDFgkfJyQkEp.jpg",
+    "/yo9LBopih67LcfFyHB5BvDHPBlZ.jpg",
+    "/rg3fKKYjghjwPWoj2c4vHJg1BLB.jpg",
+    "/sb5u4ckk9gXmfre9A4r9294ECpx.jpg",
+    "/hqiMv11Kan0WIEITwJp5FTnwKo7.jpg",
+    "/xiPUSzMRVOPHJBdu1PubKKiWMGj.jpg",
+    "/8RBEzcVyFHmFtIwPWagxQKwOfRO.jpg",
+    "/kMAIYkfVvIoTCL5uRPE9IEeA3ES.jpg"
+  ],
+  "trailerKey": "JfUyZ6bEYGo",
+  "genreIds": [
+    35,
+    80,
+    878
+  ],
+  "keywordIds": [
+    164218,
+    190021,
+    309974,
+    325844
+  ],
+  "countries": [
+    "US",
+    "CA"
+  ],
+  "languages": [],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 61961,
+      "job": "writer"
+    },
+    {
+      "personId": 61961,
+      "job": "director"
+    },
+    {
+      "personId": 8872,
+      "job": "director"
+    },
+    {
+      "personId": 8872,
+      "job": "writer"
+    },
+    {
+      "personId": 50239,
+      "job": "composer"
+    },
+    {
+      "personId": 1491533,
+      "job": "producer"
+    },
+    {
+      "personId": 84906,
+      "job": "writer"
+    },
+    {
+      "personId": 1590,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 61961,
+      "character": "Doug McKenzie",
+      "order": 0
+    },
+    {
+      "personId": 8872,
+      "character": "Bob McKenzie",
+      "order": 1
+    },
+    {
+      "personId": 2201,
+      "character": "Brewmeister Smith",
+      "order": 2
+    },
+    {
+      "personId": 15900,
+      "character": "Claude Elsinore",
+      "order": 3
+    },
+    {
+      "personId": 34917,
+      "character": "Pam Elsinore",
+      "order": 4
+    },
+    {
+      "personId": 58475,
+      "character": "Jean LaRose",
+      "order": 5
+    },
+    {
+      "personId": 1351508,
+      "character": "Beer Store Clerk",
+      "order": 6
+    },
+    {
+      "personId": 974991,
+      "character": "The Inspector",
+      "order": 7
+    },
+    {
+      "personId": 33923,
+      "character": "Voice of Mr. McKenzie",
+      "order": 8
+    },
+    {
+      "personId": 166519,
+      "character": "Jack Hawkland",
+      "order": 9
+    },
+    {
+      "personId": 1145894,
+      "character": "Fire Chief",
+      "order": 10
+    },
+    {
+      "personId": 1193676,
+      "character": "Henry Green",
+      "order": 11
+    },
+    {
+      "personId": 28023,
+      "character": "Ted",
+      "order": 12
+    },
+    {
+      "personId": 1228013,
+      "character": "Gertrude",
+      "order": 13
+    },
+    {
+      "personId": 2449741,
+      "character": "The Judge",
+      "order": 14
+    },
+    {
+      "personId": 2464562,
+      "character": "Bailiff",
+      "order": 15
+    },
+    {
+      "personId": 1504833,
+      "character": "Man in the Alley",
+      "order": 16
+    },
+    {
+      "personId": 2202414,
+      "character": "Pensioner",
+      "order": 17
+    },
+    {
+      "personId": 2442389,
+      "character": "Lady in Movie",
+      "order": 18
+    },
+    {
+      "personId": 1231704,
+      "character": "Man in Movie",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 234,
+  "sources": [
+    "cult-list"
+  ]
+}

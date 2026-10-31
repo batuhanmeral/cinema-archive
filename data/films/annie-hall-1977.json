@@ -1,0 +1,203 @@
+{
+  "tmdbId": 703,
+  "slug": "annie-hall-1977",
+  "year": 1977,
+  "runtime": 93,
+  "originalTitle": "Annie Hall",
+  "title": {
+    "en": "Annie Hall",
+    "tr": "Annie Hall"
+  },
+  "overview": {
+    "en": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+    "tr": "New York'lu komedyen yazar Alvy Singer aşkın peşinden gitmek istese de, yaşadığı entellektüel ortamda aradığını bulabileceği konusunda oldukça umutsuzdur. En az kendisi kadar nörotik olan şarkıcı Annie Hall ile tanışması ise önyargılarını sona erdirir. Yoğun olduğu kadar farklı olan bir ilişki yaşamaya başlarlar. Annie Hall'u etkileyici kılan, aşk üzerine öncekilerden farklı şeyler söylemeye çalışması. Komedi ve romantizm karışımı film, 70ler de gezinmek isteyenler ya da klişe aşk tasvirlerinden sıkılmışlar için iyi bir alternatif."
+  },
+  "poster": {
+    "tr": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg",
+    "en": "/dEtjPywhDbAXYjoFfhBC4U9unU7.jpg"
+  },
+  "backdrops": [
+    "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+    "/7OFjvTED8YEeg9dWcxQ0ddMeZsh.jpg",
+    "/m11t1czEL6edHkkCskWHaEh8xjY.jpg",
+    "/hR646N8FYx7BcyFK6WWohEd448.jpg",
+    "/fdfML2moLu8NdQbEphwbpHE4zYd.jpg",
+    "/j1HtRQ49L4idPoZkBPsBG8GmcWN.jpg",
+    "/5BlDEppEwtbhBHXTMCkG5xbSm0j.jpg",
+    "/1xn5TDfpr7WY2tVteIHXdiKenui.jpg",
+    "/5RhMEtJkwOJuUvBsaZNUy49IUoD.jpg",
+    "/moeRdtfIoUijT1Wd4rQFYFRl6Wh.jpg"
+  ],
+  "trailerKey": "Bj4ZoeRMHwU",
+  "genreIds": [
+    35,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    242,
+    6075,
+    1488,
+    2398,
+    3489,
+    2150,
+    2835,
+    3485,
+    9799,
+    9673,
+    10229,
+    11687,
+    325857
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "studios": [
+    "Jack Rollins & Charles H. Joffe Productions",
+    "United Artists"
+  ],
+  "crew": [
+    {
+      "personId": 1243,
+      "job": "director"
+    },
+    {
+      "personId": 6993,
+      "job": "producer"
+    },
+    {
+      "personId": 6994,
+      "job": "producer"
+    },
+    {
+      "personId": 3097,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1243,
+      "job": "writer"
+    },
+    {
+      "personId": 10439,
+      "job": "writer"
+    },
+    {
+      "personId": 29352,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3092,
+      "character": "Annie Hall",
+      "order": 0
+    },
+    {
+      "personId": 1243,
+      "character": "Alvy Singer",
+      "order": 1
+    },
+    {
+      "personId": 10555,
+      "character": "Rob",
+      "order": 2
+    },
+    {
+      "personId": 10556,
+      "character": "Allison",
+      "order": 3
+    },
+    {
+      "personId": 10557,
+      "character": "Tony Lacey",
+      "order": 4
+    },
+    {
+      "personId": 10409,
+      "character": "Pam",
+      "order": 5
+    },
+    {
+      "personId": 10558,
+      "character": "Robin",
+      "order": 6
+    },
+    {
+      "personId": 10559,
+      "character": "Mrs. Hall",
+      "order": 7
+    },
+    {
+      "personId": 4690,
+      "character": "Duane Hall",
+      "order": 8
+    },
+    {
+      "personId": 10560,
+      "character": "Dad Hall",
+      "order": 9
+    },
+    {
+      "personId": 10561,
+      "character": "Grammy Hall",
+      "order": 10
+    },
+    {
+      "personId": 10562,
+      "character": "Alvy's Dad",
+      "order": 11
+    },
+    {
+      "personId": 10563,
+      "character": "Alvy's Mom",
+      "order": 12
+    },
+    {
+      "personId": 10564,
+      "character": "Alvy - Age 9",
+      "order": 13
+    },
+    {
+      "personId": 1726163,
+      "character": "Alvy's Aunt",
+      "order": 14
+    },
+    {
+      "personId": 1726165,
+      "character": "Alvy's Uncle",
+      "order": 15
+    },
+    {
+      "personId": 1217974,
+      "character": "Joey Nichols",
+      "order": 16
+    },
+    {
+      "personId": 940121,
+      "character": "Aunt Tessie",
+      "order": 17
+    },
+    {
+      "personId": 1462345,
+      "character": "Man in Theatre Line",
+      "order": 18
+    },
+    {
+      "personId": 10566,
+      "character": "Marshall McLuhan",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 4,
+    "golden-globe": 1
+  },
+  "voteCount": 4385,
+  "sources": [
+    "cult-list"
+  ]
+}

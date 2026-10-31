@@ -1,0 +1,203 @@
+{
+  "tmdbId": 161,
+  "slug": "ocean-s-eleven-2001",
+  "year": 2001,
+  "runtime": 116,
+  "originalTitle": "Ocean's Eleven",
+  "title": {
+    "en": "Ocean's Eleven",
+    "tr": "Ocean's Eleven"
+  },
+  "overview": {
+    "en": "Less than 24 hours into his parole, charismatic thief Danny Ocean is already rolling out his next plan: In one night, Danny's hand-picked crew of specialists will attempt to steal more than $150 million from three Las Vegas casinos. But to score the cash, Danny risks his chances of reconciling with ex-wife, Tess.",
+    "tr": "Danny Ocean hapisten yeni çıkmış bir soyguncudur. Ancak Danny'nin hapisten çıkınca giriştiği ilk şey tarihin en büyük kumarhane soygununu gerçekleştirmeye çalışmak olacaktır. Danny, rakiplerine karşı acımasızlığı ile ünlü Terry Benedict adlı adamın Las Vegas'taki 3 kumarhanesini birden aynı gecede soymayı planlamaktadır. Bunun için eski ortağı Rusty ile temasa geçer. Rusty ve Danny, bu imkansız soygunu gerçekleştirebilmek için her biri işinde uzman olan isimlerden oluşan bir takım oluştururlar. 11 kişiden oluşan bu takım soygunu başarıyla gerçekleştirirse her biri hayatının sonuna kadar yetecek paraya sahip olacaktır. Ancak başarısız olur da yakalanırlarsa Terry Benedict'in gazabına uğrayacaklardır."
+  },
+  "poster": {
+    "tr": "/hQQCdZrsHtZyR6NbKH2YyCqd2fR.jpg",
+    "en": "/v5D7K4EHuQHFSjveq8LGxdSfrGS.jpg"
+  },
+  "backdrops": [
+    "/43BEez1EGdmNpg8rcPUFToujlii.jpg",
+    "/boI3myFhWBvQcru4zZ15aJ0u3CX.jpg",
+    "/ncoqdHs1poUaBqyKic9YI8ai7MP.jpg",
+    "/4CHlGJ9lUN97SsdUpMCA8pvvp1F.jpg",
+    "/uMzSOKWeNj378tTb9WsaiVIrB2s.jpg",
+    "/a7WuvDWkm4AfvoKFv2ADVfdOvaP.jpg",
+    "/vnV3sF3X7XsG12Fvek4ZK5Bk93a.jpg",
+    "/1hYH0PHG2mno2O8ziKy2eT1ViYm.jpg",
+    "/t8K3S93OzurRKgyTmAUabXWO7MX.jpg",
+    "/ybTQT32KoowYfWSLYO19hJaApfi.jpg"
+  ],
+  "trailerKey": "n3epi9hPbqQ",
+  "genreIds": [
+    53,
+    80
+  ],
+  "keywordIds": [
+    585,
+    3430,
+    10051,
+    10453,
+    9714,
+    9728,
+    14570,
+    15051,
+    41180,
+    155816,
+    156121,
+    159355,
+    159358,
+    159894,
+    174511,
+    191604,
+    217041,
+    251794,
+    303918,
+    305800,
+    332430,
+    352205,
+    352305
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "zh",
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Village Roadshow Pictures",
+    "NPV Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 1888,
+      "job": "producer"
+    },
+    {
+      "personId": 1886,
+      "job": "writer"
+    },
+    {
+      "personId": 1889,
+      "job": "composer"
+    },
+    {
+      "personId": 1884,
+      "job": "director"
+    },
+    {
+      "personId": 1884,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1461,
+      "character": "Danny Ocean",
+      "order": 0
+    },
+    {
+      "personId": 287,
+      "character": "Rusty Ryan",
+      "order": 1
+    },
+    {
+      "personId": 1271,
+      "character": "Terry Benedict",
+      "order": 2
+    },
+    {
+      "personId": 1892,
+      "character": "Linus Caldwell",
+      "order": 3
+    },
+    {
+      "personId": 1204,
+      "character": "Tess Ocean",
+      "order": 4
+    },
+    {
+      "personId": 1893,
+      "character": "Virgil Malloy",
+      "order": 5
+    },
+    {
+      "personId": 1894,
+      "character": "Turk Malloy",
+      "order": 6
+    },
+    {
+      "personId": 1896,
+      "character": "Basher Tarr",
+      "order": 7
+    },
+    {
+      "personId": 827,
+      "character": "Reuben Tishkoff",
+      "order": 8
+    },
+    {
+      "personId": 1898,
+      "character": "Livingston Dell",
+      "order": 9
+    },
+    {
+      "personId": 1897,
+      "character": "Frank Catton",
+      "order": 10
+    },
+    {
+      "personId": 1900,
+      "character": "Yen",
+      "order": 11
+    },
+    {
+      "personId": 1895,
+      "character": "Saul Bloom",
+      "order": 12
+    },
+    {
+      "personId": 155206,
+      "character": "Board Member #1 (voice)",
+      "order": 13
+    },
+    {
+      "personId": 1296511,
+      "character": "Board Member #2 (voice)",
+      "order": 14
+    },
+    {
+      "personId": 1077235,
+      "character": "Board Member #3 (voice)",
+      "order": 15
+    },
+    {
+      "personId": 2630277,
+      "character": "Blackjack Dealer",
+      "order": 16
+    },
+    {
+      "personId": 149638,
+      "character": "Bartender",
+      "order": 17
+    },
+    {
+      "personId": 62713,
+      "character": "Security Guard",
+      "order": 18
+    },
+    {
+      "personId": 80156,
+      "character": "Lockbox Carrier",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 13063,
+  "sources": [
+    "cult-list"
+  ]
+}

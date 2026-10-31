@@ -1,0 +1,195 @@
+{
+  "tmdbId": 832,
+  "slug": "m-1931",
+  "year": 1931,
+  "runtime": 110,
+  "originalTitle": "M - Eine Stadt sucht einen Mörder",
+  "title": {
+    "en": "M",
+    "tr": "M - Bir Şehir Katilini Arıyor"
+  },
+  "overview": {
+    "en": "In this classic German thriller, Hans Beckert, a serial killer who preys on children, becomes the focus of a massive Berlin police manhunt. Beckert's heinous crimes are so repellant and disruptive to city life that he is even targeted by others in the seedy underworld network. With both cops and criminals in pursuit, the murderer soon realizes that people are on his trail, sending him into a tense, panicked attempt to escape justice.",
+    "tr": "Usta yönetmen Fritz Lang’ın kült suç filminde Berlin sokaklarında amansız bir mücadeleye sebep olan bir seri katil hikayesi konu edilir. Sadece çocukları öldüren bu psikopat seri katili durdurmak için çalışmaya başlayan şehrin polis teşkilatı, sokakları sıkı bir denetim altına alır. Katilin yakalanmamasından fazlasıyla tedirgin olan halkın yanısıra, bu baskıdan şikayetçi olan başka bir grup daha vardır. Polisin sıkı denetimi yüzünden yakalanmaktan korkan diğer sokak suçluları ve dilenceler de kendi aralarında organize olarak bu operasyonun bir an önce sona ermesi için katilin peşine düşer. Artık polislerin yanısıra suçlunun peşinde olan yasadışı bir oluşum..."
+  },
+  "poster": {
+    "tr": "/jk3T2ytbfJWsbCwG4MEhbzqz70O.jpg",
+    "en": "/5jAaU3LStpQNlaBnZYsExMlvsBQ.jpg"
+  },
+  "backdrops": [
+    "/r8Un26Y8GhcIdtmVZVnUOccnHaj.jpg",
+    "/mQUOFbRoRG9t8oS0SOk955flHJq.jpg",
+    "/bE5E4TV6lZFwhXDd5f7sWxDnedb.jpg",
+    "/5Pk1rGAtyblh9Xaq72T7ARCQSDQ.jpg",
+    "/gaeSaugDn7ZfrAU3qoaPunb1d2u.jpg",
+    "/czULBNVlzFFsCyXNTgllIvTPEgf.jpg",
+    "/hwOvliNEvDIIAD2gl7LNnWZ97M8.jpg",
+    "/ndtwxsdXnI6tWruG5eYFUDSmJDZ.jpg",
+    "/56mC5y81W3vIku1uA08Rkaf7HxZ.jpg",
+    "/n30ehRSfwYkR73CQSgqNbYqdORC.jpg"
+  ],
+  "trailerKey": "nsVproWjN6c",
+  "genreIds": [
+    18,
+    53,
+    80
+  ],
+  "keywordIds": [
+    220,
+    74,
+    6259,
+    1752,
+    1468,
+    5340,
+    9807,
+    10291,
+    10714,
+    12999,
+    15009,
+    156764,
+    176182,
+    179874,
+    244516,
+    301096,
+    323114,
+    325842
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Nero-Film AG"
+  ],
+  "crew": [
+    {
+      "personId": 68,
+      "job": "director"
+    },
+    {
+      "personId": 68,
+      "job": "writer"
+    },
+    {
+      "personId": 9836,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 157,
+      "job": "writer"
+    },
+    {
+      "personId": 13902,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2094,
+      "character": "Hans Beckert",
+      "order": 0
+    },
+    {
+      "personId": 12322,
+      "character": "Frau Beckmann",
+      "order": 1
+    },
+    {
+      "personId": 12323,
+      "character": "Elsie Beckmann",
+      "order": 2
+    },
+    {
+      "personId": 12324,
+      "character": "Inspector Karl Lohmann",
+      "order": 3
+    },
+    {
+      "personId": 79,
+      "character": "Inspector Groeber",
+      "order": 4
+    },
+    {
+      "personId": 12325,
+      "character": "Schränker",
+      "order": 5
+    },
+    {
+      "personId": 12326,
+      "character": "Franz",
+      "order": 6
+    },
+    {
+      "personId": 28068,
+      "character": "The Cheater",
+      "order": 7
+    },
+    {
+      "personId": 219738,
+      "character": "Pickpocket with Six Watches",
+      "order": 8
+    },
+    {
+      "personId": 28066,
+      "character": "Bauernfänger",
+      "order": 9
+    },
+    {
+      "personId": 67254,
+      "character": "Becker's 'Attorney'",
+      "order": 10
+    },
+    {
+      "personId": 29129,
+      "character": "Blind Panhandler",
+      "order": 11
+    },
+    {
+      "personId": 1197288,
+      "character": "Minister",
+      "order": 12
+    },
+    {
+      "personId": 14182,
+      "character": "Police Chief",
+      "order": 13
+    },
+    {
+      "personId": 2913,
+      "character": "Criminal Secretary",
+      "order": 14
+    },
+    {
+      "personId": 225291,
+      "character": "Damowitz",
+      "order": 15
+    },
+    {
+      "personId": 2898,
+      "character": "Bartender",
+      "order": 16
+    },
+    {
+      "personId": 46501,
+      "character": "Prostitute",
+      "order": 17
+    },
+    {
+      "personId": 2235411,
+      "character": "Secretary in the Police Archives",
+      "order": 18
+    },
+    {
+      "personId": 1291482,
+      "character": "(uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2584,
+  "sources": [
+    "cult-list"
+  ]
+}

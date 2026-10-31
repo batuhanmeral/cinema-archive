@@ -1,0 +1,179 @@
+{
+  "tmdbId": 5842,
+  "slug": "versus-2000",
+  "year": 2000,
+  "runtime": 120,
+  "originalTitle": "ヴァーサス",
+  "title": {
+    "en": "Versus",
+    "tr": "Versus"
+  },
+  "overview": {
+    "en": "A group of ruthless gangsters, an unknown woman and an escaped convict have met, in The Forest of Resurrection, the 444th portal to the other side. Their troubles start when those once killed and buried in the forest come back from the dead.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dEk6Fpm4lkEBQBVpzTOLau7qgR9.jpg",
+    "en": "/dEk6Fpm4lkEBQBVpzTOLau7qgR9.jpg"
+  },
+  "backdrops": [
+    "/9g8hXjpCj09NvIzd97W1XZX330L.jpg",
+    "/rZjRoASxOOyafFruGRuDBzL7dZ8.jpg",
+    "/3lJmGcWHsNY7drBwkCUGiUOXlrv.jpg",
+    "/mdcXcjxh6AhfhUpdrQC6AuNyaST.jpg",
+    "/cIn6bKN0sQnxUPjxSDeHcrPvhFC.jpg",
+    "/wJ0pSpqWqcoxVGfHyqFjp9qyLYK.jpg",
+    "/efXHOurKkN8ztRE6yySG3f4gUCQ.jpg",
+    "/tcFzHhSVHwMpZZ9KniCLsW3p15d.jpg",
+    "/vKya5AXUYBWLcMkMwYbx2aSETH0.jpg",
+    "/1rBZuXKgq7L0HLJxt4UGJbfAQfH.jpg"
+  ],
+  "trailerKey": "wg7ljhZuJJc",
+  "genreIds": [
+    27,
+    14,
+    28,
+    53,
+    12
+  ],
+  "keywordIds": [
+    233,
+    1462,
+    1794,
+    5774,
+    7118,
+    12377,
+    12415,
+    202409,
+    235261
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "KSS",
+    "napalm FiLMS",
+    "WEVCO Produce Company"
+  ],
+  "crew": [
+    {
+      "personId": 45996,
+      "job": "director"
+    },
+    {
+      "personId": 45996,
+      "job": "writer"
+    },
+    {
+      "personId": 107941,
+      "job": "writer"
+    },
+    {
+      "personId": 2314064,
+      "job": "producer"
+    },
+    {
+      "personId": 961515,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 929309,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 45992,
+      "character": "Prisoner KSC2-303",
+      "order": 0
+    },
+    {
+      "personId": 45993,
+      "character": "The Man",
+      "order": 1
+    },
+    {
+      "personId": 1053950,
+      "character": "Yakuza Leader with Butterfly Knife",
+      "order": 2
+    },
+    {
+      "personId": 45995,
+      "character": "Crazy Yakuza with Amulet",
+      "order": 3
+    },
+    {
+      "personId": 1053951,
+      "character": "Motorcycle-riding Yakuza with Revolver",
+      "order": 4
+    },
+    {
+      "personId": 45994,
+      "character": "The Girl",
+      "order": 5
+    },
+    {
+      "personId": 134553,
+      "character": "Yakuza with Glasses",
+      "order": 6
+    },
+    {
+      "personId": 134548,
+      "character": "Red-haired Assassin",
+      "order": 7
+    },
+    {
+      "personId": 1053952,
+      "character": "Long-haired Female Assassin",
+      "order": 8
+    },
+    {
+      "personId": 223290,
+      "character": "One-handed Cop",
+      "order": 9
+    },
+    {
+      "personId": 1053953,
+      "character": "Samurai Warrior",
+      "order": 10
+    },
+    {
+      "personId": 1053954,
+      "character": "Cop with Barrett",
+      "order": 11
+    },
+    {
+      "personId": 1053955,
+      "character": "Short-haired Female Assassin",
+      "order": 12
+    },
+    {
+      "personId": 1053956,
+      "character": "Yakuza Zombie in Alligator-skin Coat",
+      "order": 13
+    },
+    {
+      "personId": 1053957,
+      "character": "Prisoner",
+      "order": 14
+    },
+    {
+      "personId": 121750,
+      "character": "Extra (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1480886,
+      "character": "Extra (uncredited)",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 209,
+  "sources": [
+    "cult-list"
+  ]
+}

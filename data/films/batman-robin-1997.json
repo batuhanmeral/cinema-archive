@@ -1,0 +1,189 @@
+{
+  "tmdbId": 415,
+  "slug": "batman-robin-1997",
+  "year": 1997,
+  "runtime": 125,
+  "originalTitle": "Batman & Robin",
+  "title": {
+    "en": "Batman & Robin",
+    "tr": "Batman ve Robin"
+  },
+  "overview": {
+    "en": "Batman and his sidekick Robin attempt to the foil the sinister schemes of a deranged set of new villains, most notably the melancholy Mr. Freeze, who wants to make Gotham City into an arctic region, and the sultry Poison Ivy, a botanical femme fatale. As the Dynamic Duo contend with these bad guys, a third hero, Batgirl, joins the ranks of the city's crime-fighters.",
+    "tr": "Batman ve Robin, Gotham şehrinin kötü adamlarını durdurmak için tekrar birlikte çalışmaya başlamışlardır. Ancak aralarında bazı sorunlar oluşur. Kendisine zehirli sarmaşık (Poision İvy) denilen ve istediği herkesi kendisine aşık edebilme yeteneğine sahip olan kadın ve amacına ulaşabilmek için dokunduğu her şeyi dondurabilmesiyle bilinen Mr. Freeze, bu macera boyunca ikilinin mücadele edeceği kötü karakterlerdir."
+  },
+  "poster": {
+    "tr": "/r6TZjc1c0S2k5KTamL66Q2OuyoJ.jpg",
+    "en": "/cGRDufDDSrFrv7VI4YnmWnslne0.jpg"
+  },
+  "backdrops": [
+    "/3eKBHl5pYrXDd26Mc8zYxG8CHex.jpg",
+    "/rpOqHZMNIaI4qP4r7nw1B7oA0mx.jpg",
+    "/kEuQWHte2erRpAICrYqkAZaZAAY.jpg",
+    "/tgPFZxhDuxWd4VXYaz8eAUznGTF.jpg",
+    "/hFOBkSRHJyxQHNC7cgY4VnTOY5w.jpg",
+    "/w11Kv8oYZ65NTSPo7wPCTAPFfUW.jpg",
+    "/m4UT6yKXhXgbzxpeV35L4jLoJoP.jpg",
+    "/sb1HmSj91B0Pu6BWLwx2gn0XOIP.jpg",
+    "/rREVL1BKqXIhSM2My60wEja43Og.jpg",
+    "/lJ4oFPli3tofy2INAtgmkXfgoYa.jpg"
+  ],
+  "trailerKey": "Zc7sjDHW2KY",
+  "genreIds": [
+    28,
+    878,
+    12
+  ],
+  "keywordIds": [
+    851,
+    848,
+    853,
+    9715,
+    2219,
+    9717,
+    10452,
+    33637,
+    163074,
+    269233,
+    279414
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Polygram Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 5580,
+      "job": "producer"
+    },
+    {
+      "personId": 5582,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5572,
+      "job": "director"
+    },
+    {
+      "personId": 5581,
+      "job": "composer"
+    },
+    {
+      "personId": 5575,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1461,
+      "character": "Batman / Bruce Wayne",
+      "order": 0
+    },
+    {
+      "personId": 5577,
+      "character": "Robin / Dick Grayson",
+      "order": 1
+    },
+    {
+      "personId": 1100,
+      "character": "Mr. Freeze / Dr. Victor Fries",
+      "order": 2
+    },
+    {
+      "personId": 139,
+      "character": "Poison Ivy / Dr. Pamela Isley",
+      "order": 3
+    },
+    {
+      "personId": 5588,
+      "character": "Batgirl / Barbara Wilson",
+      "order": 4
+    },
+    {
+      "personId": 3796,
+      "character": "Alfred Pennyworth",
+      "order": 5
+    },
+    {
+      "personId": 3798,
+      "character": "Commissioner Gordon",
+      "order": 6
+    },
+    {
+      "personId": 5589,
+      "character": "Dr. Jason Woodrue",
+      "order": 7
+    },
+    {
+      "personId": 5590,
+      "character": "Julie Madison",
+      "order": 8
+    },
+    {
+      "personId": 2535,
+      "character": "Ms. B. Haven",
+      "order": 9
+    },
+    {
+      "personId": 1233092,
+      "character": "Nora Fries",
+      "order": 10
+    },
+    {
+      "personId": 5579,
+      "character": "Gossip Gerty",
+      "order": 11
+    },
+    {
+      "personId": 66813,
+      "character": "Bane",
+      "order": 12
+    },
+    {
+      "personId": 107332,
+      "character": "Aztec Museum Guard",
+      "order": 13
+    },
+    {
+      "personId": 174037,
+      "character": "Antonio Diego / Bane",
+      "order": 14
+    },
+    {
+      "personId": 27564,
+      "character": "Young Bruce Wayne",
+      "order": 15
+    },
+    {
+      "personId": 1567941,
+      "character": "Young Alfred",
+      "order": 16
+    },
+    {
+      "personId": 1172972,
+      "character": "Snowy Cones Thug #1",
+      "order": 17
+    },
+    {
+      "personId": 1720437,
+      "character": "Snowy Cones Thug #2",
+      "order": 18
+    },
+    {
+      "personId": 2691557,
+      "character": "Snowy Cones Thug #3",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 5618,
+  "sources": [
+    "cult-list"
+  ]
+}

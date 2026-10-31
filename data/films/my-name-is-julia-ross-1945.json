@@ -1,0 +1,175 @@
+{
+  "tmdbId": 42077,
+  "slug": "my-name-is-julia-ross-1945",
+  "year": 1945,
+  "runtime": 65,
+  "originalTitle": "My Name Is Julia Ross",
+  "title": {
+    "en": "My Name Is Julia Ross",
+    "tr": "My Name Is Julia Ross"
+  },
+  "overview": {
+    "en": "Julia Ross secures employment with a wealthy widow and goes to live at her house. Two days later, she awakens in a different house in different clothes and with a new identity.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ofUTB5ojMTr6mndUxVQan5p8p2X.jpg",
+    "en": "/ofUTB5ojMTr6mndUxVQan5p8p2X.jpg"
+  },
+  "backdrops": [
+    "/13CXPW0fPfjsZQ6fmjY7QNI1tRY.jpg",
+    "/gFl2UbHNznIxxsp4kkKX7lB8uGX.jpg",
+    "/gNnvoqv7bIdxZ6SMEXjw5DjdiPm.jpg",
+    "/8lNxXWRQzBg353B6aUCMODk58Y9.jpg",
+    "/ss9Lv3tVCRrfOAyejLccfReDAiQ.jpg",
+    "/qmiK6i25wxdzJEHffZjhsd2NoS.jpg",
+    "/47ORGexCakn1elaqr4TyQiql4MR.jpg",
+    "/6nmOowy7KGpzU7ZUVgvy3EAeWnP.jpg",
+    "/3DZ4Yh7QoYhBotek5m6iX1T0CWV.jpg",
+    "/wxlBIoOmPZL4jGDkY6FdMrFz4xH.jpg"
+  ],
+  "trailerKey": "98yTPTmBLac",
+  "genreIds": [
+    53,
+    9648
+  ],
+  "keywordIds": [
+    1930,
+    3394,
+    8079,
+    9807,
+    14987,
+    41329,
+    240237,
+    240482,
+    286578
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 86004,
+      "job": "director"
+    },
+    {
+      "personId": 6452,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 96725,
+      "job": "producer"
+    },
+    {
+      "personId": 105478,
+      "job": "writer"
+    },
+    {
+      "personId": 18577,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13026,
+      "character": "Julia Ross",
+      "order": 0
+    },
+    {
+      "personId": 14299,
+      "character": "Mrs. Hughes",
+      "order": 1
+    },
+    {
+      "personId": 14564,
+      "character": "Ralph Hughes",
+      "order": 2
+    },
+    {
+      "personId": 2907,
+      "character": "Dennis Bruce",
+      "order": 3
+    },
+    {
+      "personId": 98495,
+      "character": "Sparkes",
+      "order": 4
+    },
+    {
+      "personId": 21878,
+      "character": "Mrs. Mackie",
+      "order": 5
+    },
+    {
+      "personId": 39802,
+      "character": "Alice (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 1540998,
+      "character": "Bertha (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 101742,
+      "character": "Peters (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 111585,
+      "character": "Mrs. Robinson (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 1417246,
+      "character": "Policeman (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 32192,
+      "character": "The Reverend Lewis (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 30136,
+      "character": "Policeman (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 34368,
+      "character": "Nurse (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 120454,
+      "character": "Gatekeeper (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 112359,
+      "character": "Robinson (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 86349,
+      "character": "McQuarrie (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 117695,
+      "character": "Dr. Keller (uncredited)",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 74,
+  "sources": [
+    "cult-list"
+  ]
+}

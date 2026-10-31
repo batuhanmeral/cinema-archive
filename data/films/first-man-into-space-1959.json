@@ -1,0 +1,145 @@
+{
+  "tmdbId": 28955,
+  "slug": "first-man-into-space-1959",
+  "year": 1959,
+  "runtime": 77,
+  "originalTitle": "First Man into Space",
+  "title": {
+    "en": "First Man into Space",
+    "tr": "First Man into Space"
+  },
+  "overview": {
+    "en": "The first pilot to leave Earth's atmosphere lands, then vanishes; but something with a craving for blood prowls the countryside...",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lKBIGRetSbZ6cBRWqaNzwHvkgy9.jpg",
+    "en": "/lKBIGRetSbZ6cBRWqaNzwHvkgy9.jpg"
+  },
+  "backdrops": [
+    "/mUMttVYif1VVyeYhigkBHLb8K2b.jpg",
+    "/c3DfIpE29ZRux6A4VAu9rkr78qd.jpg",
+    "/baGnvyWUZXttzCNUmYHDEzs7MGG.jpg"
+  ],
+  "trailerKey": "94TEO7MKHJw",
+  "genreIds": [
+    878,
+    27,
+    18
+  ],
+  "keywordIds": [
+    1299,
+    1852,
+    3801,
+    6394,
+    9882,
+    11034,
+    12999,
+    14626,
+    190444
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [],
+  "studios": [
+    "Amalgamated Productions"
+  ],
+  "crew": [
+    {
+      "personId": 31287,
+      "job": "writer"
+    },
+    {
+      "personId": 130946,
+      "job": "writer"
+    },
+    {
+      "personId": 40599,
+      "job": "director"
+    },
+    {
+      "personId": 31287,
+      "job": "producer"
+    },
+    {
+      "personId": 999160,
+      "job": "composer"
+    },
+    {
+      "personId": 11123,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 130946,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 84233,
+      "character": "Cmdr. Charles Ernest Prescott",
+      "order": 0
+    },
+    {
+      "personId": 70510,
+      "character": "Tia Francesca",
+      "order": 1
+    },
+    {
+      "personId": 160888,
+      "character": "Lt. Dan Milton Prescott",
+      "order": 2
+    },
+    {
+      "personId": 67677,
+      "character": "Capt. Ben Richards",
+      "order": 3
+    },
+    {
+      "personId": 38068,
+      "character": "Dr. Paul von Essen",
+      "order": 4
+    },
+    {
+      "personId": 29305,
+      "character": "Police Chief Wilson",
+      "order": 5
+    },
+    {
+      "personId": 21607,
+      "character": "Mexican Consul - Ramon de Guerrera",
+      "order": 6
+    },
+    {
+      "personId": 115068,
+      "character": "State Dept. Official, Harold Atkins",
+      "order": 7
+    },
+    {
+      "personId": 133221,
+      "character": "Ratings Control Room",
+      "order": 8
+    },
+    {
+      "personId": 38069,
+      "character": "Ratings Control Room",
+      "order": 9
+    },
+    {
+      "personId": 169549,
+      "character": "Ratings Control Room",
+      "order": 10
+    },
+    {
+      "personId": 113701,
+      "character": "Witney",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 61,
+  "sources": [
+    "cult-list"
+  ]
+}

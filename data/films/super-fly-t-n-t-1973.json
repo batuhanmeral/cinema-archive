@@ -1,0 +1,123 @@
+{
+  "tmdbId": 119327,
+  "slug": "super-fly-t-n-t-1973",
+  "year": 1973,
+  "runtime": 87,
+  "originalTitle": "Super Fly T.N.T.",
+  "title": {
+    "en": "Super Fly T.N.T.",
+    "tr": "Super Fly T.N.T."
+  },
+  "overview": {
+    "en": "A Harlem drug dealer and his girlfriend retire to Rome, where he joins an African revolution.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/bCnfkAxjvbN9Yz5FCsLv4nx8hnt.jpg",
+    "en": "/bCnfkAxjvbN9Yz5FCsLv4nx8hnt.jpg"
+  },
+  "backdrops": [
+    "/r9N4oQ5bDiIbcpZWY1qSvxybfT7.jpg",
+    "/hloyaWojAyEfh3maCk0Y3N0NZ2w.jpg",
+    "/rmtChONpFvzyPmH57lUFCsg1DXB.jpg",
+    "/lqzByBgUlvAB6szTAOIFhCpatjq.jpg",
+    "/zdArsOVUrGhYlmt04Q6xVMgvJWA.jpg"
+  ],
+  "trailerKey": "5kgCpC4a93E",
+  "genreIds": [
+    28
+  ],
+  "keywordIds": [
+    10601
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "Superfly Ltd.",
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 19741,
+      "job": "writer"
+    },
+    {
+      "personId": 995572,
+      "job": "writer"
+    },
+    {
+      "personId": 55841,
+      "job": "director"
+    },
+    {
+      "personId": 2784267,
+      "job": "composer"
+    },
+    {
+      "personId": 1021785,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 55841,
+      "character": "Priest",
+      "order": 0
+    },
+    {
+      "personId": 24368,
+      "character": "Dr. Lamine Sonko",
+      "order": 1
+    },
+    {
+      "personId": 173682,
+      "character": "Georgia",
+      "order": 2
+    },
+    {
+      "personId": 8294,
+      "character": "Jordan Gaines",
+      "order": 3
+    },
+    {
+      "personId": 102101,
+      "character": "Lefebre",
+      "order": 4
+    },
+    {
+      "personId": 102026,
+      "character": "Matty Smith",
+      "order": 5
+    },
+    {
+      "personId": 1044225,
+      "character": "Customs Man",
+      "order": 6
+    },
+    {
+      "personId": 1128174,
+      "character": "Riding Instructress",
+      "order": 7
+    },
+    {
+      "personId": 98492,
+      "character": "Rik",
+      "order": 8
+    },
+    {
+      "personId": 976293,
+      "character": "Poker player",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "cult-list"
+  ]
+}

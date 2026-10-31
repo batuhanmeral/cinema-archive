@@ -1,0 +1,73 @@
+{
+  "tmdbId": 162865,
+  "slug": "war-comes-to-america-1945",
+  "year": 1945,
+  "runtime": 70,
+  "originalTitle": "War Comes to America",
+  "title": {
+    "en": "War Comes to America",
+    "tr": "War Comes to America"
+  },
+  "overview": {
+    "en": "The seventh and final film of Frank Capra's Why We Fight World War II propaganda film series. This entry attempts to describe the factors leading up to America's entry into the Second World War.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/e2zocBTXIsYfp0DSNydcvzdNgxy.jpg",
+    "en": "/h3CZ2b08I4ID1YJlplv9ju9LREu.jpg"
+  },
+  "backdrops": [
+    "/lps6XS9jhrKZqhVHfcG8KKrhnaG.jpg",
+    "/hadoQfzoIQ6T1FHOpejdn4dUBKa.jpg",
+    "/aUhCFmGybQuDR0WLpBSDN5DZfHR.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99,
+    10752
+  ],
+  "keywordIds": [
+    1956
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "War Activities Committee of the Motion Pictures Industry",
+    "U.S. Army Pictorial Services"
+  ],
+  "crew": [
+    {
+      "personId": 2662,
+      "job": "director"
+    },
+    {
+      "personId": 37361,
+      "job": "director"
+    },
+    {
+      "personId": 4082,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19020,
+      "character": "Narrator",
+      "order": 0
+    },
+    {
+      "personId": 19411,
+      "character": "Narrator",
+      "order": 1
+    }
+  ],
+  "awards": {},
+  "voteCount": 19,
+  "sources": [
+    "cult-list"
+  ]
+}

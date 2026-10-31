@@ -1,0 +1,189 @@
+{
+  "tmdbId": 32044,
+  "slug": "california-split-1974",
+  "year": 1974,
+  "runtime": 108,
+  "originalTitle": "California Split",
+  "title": {
+    "en": "California Split",
+    "tr": "California Split"
+  },
+  "overview": {
+    "en": "Carefree single guy Charlie Waters rooms with two lovely prostitutes, Barbara Miller and Susan Peters, and lives to gamble. Along with his glum betting buddy, Bill Denny, Charlie sets out on a gambling streak in search of the ever-elusive big payday. While Charlie and Bill have some lucky moments, they also have to contend with serious setbacks that threaten to derail their hedonistic betting binge.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/udVed0KSaQw93zURmwWY6JMYqPX.jpg",
+    "en": "/gTwTozw3C7bALqBKqMkZFCwK4Bt.jpg"
+  },
+  "backdrops": [
+    "/k2BYzk2FxH9NY5TZKS3PbcyGBXR.jpg",
+    "/uOnG2FkMuUaJPrh1eodAFOXvnoW.jpg",
+    "/iKiccjQ661nHa9JxCyAyhJ7Ygix.jpg",
+    "/u7nvGIkZivtDphH35oAUWtqb24k.jpg",
+    "/i9e5SkSgMWHlHclyFUcOwbKuq32.jpg",
+    "/zikEijmrPWGJFCE43YYHMhb6fpB.jpg",
+    "/4rfeamQqOCQ9b1oD7KEK0dzW5Qx.jpg",
+    "/s4Oxm8FtGze1zuDSfC1Uj39E6Vr.jpg",
+    "/gBeMfBmdl40QnMDJUwUmxhWZthE.jpg",
+    "/miGmoeQGFzfuGDK6ZXOi9o5caRn.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    6054,
+    585,
+    383,
+    395,
+    1721,
+    5305,
+    6433,
+    5573,
+    6593,
+    40898,
+    165533
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Spelling-Goldberg Productions",
+    "Persky-Bright Productions",
+    "Columbia Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 9789,
+      "job": "director"
+    },
+    {
+      "personId": 22035,
+      "job": "writer"
+    },
+    {
+      "personId": 30605,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9789,
+      "job": "producer"
+    },
+    {
+      "personId": 22035,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18364,
+      "character": "Bill Denny",
+      "order": 0
+    },
+    {
+      "personId": 827,
+      "character": "Charlie Waters",
+      "order": 1
+    },
+    {
+      "personId": 86136,
+      "character": "Barbara Miller",
+      "order": 2
+    },
+    {
+      "personId": 30622,
+      "character": "Susan Peters",
+      "order": 3
+    },
+    {
+      "personId": 101747,
+      "character": "Lew",
+      "order": 4
+    },
+    {
+      "personId": 22035,
+      "character": "Sparkie",
+      "order": 5
+    },
+    {
+      "personId": 30621,
+      "character": "Helen Brown",
+      "order": 6
+    },
+    {
+      "personId": 116489,
+      "character": "Lady on the Bus",
+      "order": 7
+    },
+    {
+      "personId": 128000,
+      "character": "Reno Barmaid",
+      "order": 8
+    },
+    {
+      "personId": 1405572,
+      "character": "Robber",
+      "order": 9
+    },
+    {
+      "personId": 4785,
+      "character": "Lloyd Harris",
+      "order": 10
+    },
+    {
+      "personId": 1220731,
+      "character": "Receptionist",
+      "order": 11
+    },
+    {
+      "personId": 19446,
+      "character": "First Bartender",
+      "order": 12
+    },
+    {
+      "personId": 1513127,
+      "character": "Go-Go Girl",
+      "order": 13
+    },
+    {
+      "personId": 1513128,
+      "character": "Mother",
+      "order": 14
+    },
+    {
+      "personId": 62590,
+      "character": "Second Bartender",
+      "order": 15
+    },
+    {
+      "personId": 1513129,
+      "character": "Woman at Bar",
+      "order": 16
+    },
+    {
+      "personId": 74763,
+      "character": "Man at Bar",
+      "order": 17
+    },
+    {
+      "personId": 1513132,
+      "character": "Harvey",
+      "order": 18
+    },
+    {
+      "personId": 52616,
+      "character": "Used Car Salesman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 149,
+  "sources": [
+    "cult-list"
+  ]
+}

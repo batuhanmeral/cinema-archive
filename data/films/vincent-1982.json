@@ -1,0 +1,84 @@
+{
+  "tmdbId": 32085,
+  "slug": "vincent-1982",
+  "year": 1982,
+  "runtime": 6,
+  "originalTitle": "Vincent",
+  "title": {
+    "en": "Vincent",
+    "tr": "Vincent"
+  },
+  "overview": {
+    "en": "Young Vincent Malloy dreams of being just like Vincent Price and loses himself in macabre daydreams that annoy his mother.",
+    "tr": "Tim Burton imzalı bu kısa metraj animasyonda Vincent Malloy adinda 7 yasindaki bir çocuğun kendini Edgar Allen Poe kitaplarının değişmez kahramanı Vincent Price'la ozdeslestirmesi ve hayali \"karanlık dünyasında\" yaşadıklarını anlatılıyor.Bu kısa filmin bir diğer özelliği de Tim Burton'ın ilk filmi olması."
+  },
+  "poster": {
+    "tr": "/sH8CMLnuXbQv9T61mUCPHxZotDJ.jpg",
+    "en": "/jRIFN6WJOeJUInJlzRUEb6E1vkB.jpg"
+  },
+  "backdrops": [
+    "/7OY9BSM5CYQiHvonQhlQiJGaEnL.jpg",
+    "/oC5wiK3PinIpaNlQnfciu4FsL14.jpg",
+    "/g3oUS4d20xoWYkEC8uMQeo0Gxlb.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    16,
+    14
+  ],
+  "keywordIds": [
+    2398,
+    5893,
+    10121,
+    11931,
+    12999,
+    33505,
+    162810,
+    263548,
+    302275,
+    336644
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Walt Disney Productions"
+  ],
+  "crew": [
+    {
+      "personId": 510,
+      "job": "director"
+    },
+    {
+      "personId": 510,
+      "job": "writer"
+    },
+    {
+      "personId": 110546,
+      "job": "composer"
+    },
+    {
+      "personId": 1226,
+      "job": "producer"
+    },
+    {
+      "personId": 110545,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1905,
+      "character": "Narrator (voice)",
+      "order": 0
+    }
+  ],
+  "awards": {},
+  "voteCount": 952,
+  "sources": [
+    "cult-list"
+  ]
+}

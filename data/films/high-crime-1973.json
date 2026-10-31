@@ -1,0 +1,205 @@
+{
+  "tmdbId": 87362,
+  "slug": "high-crime-1973",
+  "year": 1973,
+  "runtime": 103,
+  "originalTitle": "La polizia incrimina la legge assolve",
+  "title": {
+    "en": "High Crime",
+    "tr": "La polizia incrimina la legge assolve"
+  },
+  "overview": {
+    "en": "An Italian police inspector matches wits with a powerful European drug ring. As he comes closer to the top of the underworld organization, his odds of survival decrease.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/sCdlstfvym9IPe3fqJVUv4ejmnZ.jpg",
+    "en": "/seILBAuWVkqA8MgSu8lebAIw0EV.jpg"
+  },
+  "backdrops": [
+    "/4IInqBezTWANI1HChTVRMGWCbJf.jpg",
+    "/8WlnmVR6StK94HkPjb5s8QmcN0i.jpg",
+    "/q765SzuOdN3oEveOwBseGJ7byXC.jpg",
+    "/nXuaXKRI2NuEzcHScnZTEYXFSu6.jpg",
+    "/i63xTawnm3W1GMzmyw3XAqL2Rt2.jpg",
+    "/eC7N5LZRjhTC4pCn0YlOwcXJjgW.jpg",
+    "/zPv0KN8bbLGMtALsk5ScEn5GeJD.jpg",
+    "/vxZu3e4TLzDQJKjGgpgXBfow8GD.jpg",
+    "/h5QFAHHBwT7tE54UCVCX1XhrFjb.jpg",
+    "/y0hFKIeVphVCZnUbmgefgJe0oeP.jpg"
+  ],
+  "trailerKey": "TQV046CuPVE",
+  "genreIds": [
+    80,
+    53
+  ],
+  "keywordIds": [],
+  "countries": [
+    "FR",
+    "IT",
+    "ES"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "fr",
+    "it"
+  ],
+  "studios": [
+    "Capitolina Produzioni Cinematografiche",
+    "Star Films S.A."
+  ],
+  "crew": [
+    {
+      "personId": 50739,
+      "job": "director"
+    },
+    {
+      "personId": 92928,
+      "job": "writer"
+    },
+    {
+      "personId": 1016262,
+      "job": "writer"
+    },
+    {
+      "personId": 56722,
+      "job": "writer"
+    },
+    {
+      "personId": 55647,
+      "job": "writer"
+    },
+    {
+      "personId": 98746,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 18837,
+      "job": "composer"
+    },
+    {
+      "personId": 69043,
+      "job": "producer"
+    },
+    {
+      "personId": 18836,
+      "job": "composer"
+    },
+    {
+      "personId": 50739,
+      "job": "writer"
+    },
+    {
+      "personId": 402454,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 22383,
+      "character": "Commissario Belli",
+      "order": 0
+    },
+    {
+      "personId": 6577,
+      "character": "Commissioner Aldo Scavino",
+      "order": 1
+    },
+    {
+      "personId": 14821,
+      "character": "Cafiero",
+      "order": 2
+    },
+    {
+      "personId": 123968,
+      "character": "Anita",
+      "order": 3
+    },
+    {
+      "personId": 24599,
+      "character": "Umberto Griva",
+      "order": 4
+    },
+    {
+      "personId": 41063,
+      "character": "Franco Griva",
+      "order": 5
+    },
+    {
+      "personId": 99482,
+      "character": "Chicca",
+      "order": 6
+    },
+    {
+      "personId": 16316,
+      "character": "Rico",
+      "order": 7
+    },
+    {
+      "personId": 20948,
+      "character": "Mirella",
+      "order": 8
+    },
+    {
+      "personId": 44962,
+      "character": "Cammarano",
+      "order": 9
+    },
+    {
+      "personId": 27432,
+      "character": "Belli's Assistant",
+      "order": 10
+    },
+    {
+      "personId": 27196,
+      "character": "Rivalta",
+      "order": 11
+    },
+    {
+      "personId": 592993,
+      "character": "Scavino's Wife",
+      "order": 12
+    },
+    {
+      "personId": 33819,
+      "character": "Scavino's Assassin",
+      "order": 13
+    },
+    {
+      "personId": 45580,
+      "character": "Killer",
+      "order": 14
+    },
+    {
+      "personId": 32830,
+      "character": "Scorfano",
+      "order": 15
+    },
+    {
+      "personId": 1334263,
+      "character": "Tony, Cafiero's Servant",
+      "order": 16
+    },
+    {
+      "personId": 1091538,
+      "character": "Griva Associate",
+      "order": 17
+    },
+    {
+      "personId": 32042,
+      "character": "Man at Chicca's House",
+      "order": 18
+    },
+    {
+      "personId": 50739,
+      "character": "Reporter",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 44,
+  "sources": [
+    "cult-list"
+  ]
+}

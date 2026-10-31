@@ -1,0 +1,175 @@
+{
+  "tmdbId": 52677,
+  "slug": "the-crime-of-monsieur-lange-1936",
+  "year": 1936,
+  "runtime": 80,
+  "originalTitle": "Le Crime de Monsieur Lange",
+  "title": {
+    "en": "The Crime of Monsieur Lange",
+    "tr": "Le Crime de Monsieur Lange"
+  },
+  "overview": {
+    "en": "Mild-mannered novelist of Western fiction, Amédée Lange, and his colleagues take over a publishing house after their exploitative boss disappears, only for the superior to return and try to reclaim the profits from their successful cooperative.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gCGunDNK9UGecWF5d1vEKkLbVuE.jpg",
+    "en": "/60hxomQqqzJTxo64QFEvvesOQCl.jpg"
+  },
+  "backdrops": [
+    "/k9UBAuSLZq9ACLzGStRYDKDU2uu.jpg",
+    "/pTtrArhGyeCVEHBPFt6pncLYXEM.jpg",
+    "/xNBWwkl1FE27pQGElGIGxWPRMrU.jpg"
+  ],
+  "trailerKey": "F7YjUceObN8",
+  "genreIds": [
+    18,
+    80,
+    35
+  ],
+  "keywordIds": [
+    3864
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Films Obéron"
+  ],
+  "crew": [
+    {
+      "personId": 1377563,
+      "job": "producer"
+    },
+    {
+      "personId": 11530,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 36997,
+      "job": "composer"
+    },
+    {
+      "personId": 11555,
+      "job": "composer"
+    },
+    {
+      "personId": 11528,
+      "job": "writer"
+    },
+    {
+      "personId": 11528,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 112754,
+      "character": "Monsieur Lange",
+      "order": 0
+    },
+    {
+      "personId": 32006,
+      "character": "Valentine",
+      "order": 1
+    },
+    {
+      "personId": 97251,
+      "character": "Batala",
+      "order": 2
+    },
+    {
+      "personId": 102848,
+      "character": "Concierge",
+      "order": 3
+    },
+    {
+      "personId": 11537,
+      "character": "Concierge's Wife",
+      "order": 4
+    },
+    {
+      "personId": 139769,
+      "character": "Estelle",
+      "order": 5
+    },
+    {
+      "personId": 28609,
+      "character": "Son Meunier",
+      "order": 6
+    },
+    {
+      "personId": 239398,
+      "character": "Charles, concierges' son",
+      "order": 7
+    },
+    {
+      "personId": 133184,
+      "character": "Mr. Baigneur",
+      "order": 8
+    },
+    {
+      "personId": 11551,
+      "character": "Inspector Itkine / Batala's Cousin",
+      "order": 9
+    },
+    {
+      "personId": 579733,
+      "character": "Foreman",
+      "order": 10
+    },
+    {
+      "personId": 556944,
+      "character": "Edith",
+      "order": 11
+    },
+    {
+      "personId": 11550,
+      "character": "Model Maker",
+      "order": 12
+    },
+    {
+      "personId": 1980732,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 579800,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 40969,
+      "character": "Client at the Auberge",
+      "order": 15
+    },
+    {
+      "personId": 3404727,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 3404599,
+      "character": "Typesetter",
+      "order": 17
+    },
+    {
+      "personId": 44129,
+      "character": "Priest in the Train (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2667998,
+      "character": "Typesetter (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 100,
+  "sources": [
+    "cult-list"
+  ]
+}

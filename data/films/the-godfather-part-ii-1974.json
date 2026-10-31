@@ -1,0 +1,212 @@
+{
+  "tmdbId": 240,
+  "slug": "the-godfather-part-ii-1974",
+  "year": 1974,
+  "runtime": 202,
+  "originalTitle": "The Godfather Part II",
+  "title": {
+    "en": "The Godfather Part II",
+    "tr": "Baba II"
+  },
+  "overview": {
+    "en": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+    "tr": "Genç Vito Corleone, Amerika'ya yeni gelmiştir. 1917 yılında, New York şehri'nin yerel mafyalarından birinin liderini öldürünce saygınlık kazanır ve korkulan biri haline gelir.Bu arada, 50 yıl sonra, Michael Corleone, Washington'da senato komitesine aile işleriyle ilgili ifade vermektedir.1972 yapımı ilk filmin devamı niteliğinde, yine yazar Mario Puzo ve yönetmen Francis Ford Coppola'nın yaratıcı ellerinden çıkmış usta işi bir yapım. Eleştirmenler tarafından, önceki filmden daha başarılı bulunan az sayıdaki devam filminden biri olarak kabul ediliyor."
+  },
+  "poster": {
+    "tr": "/3Yaj5y25485A2YeixwayoP8ywZ0.jpg",
+    "en": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg"
+  },
+  "backdrops": [
+    "/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+    "/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
+    "/3ggZWEoa2aegF6AYyjyNRm8noM5.jpg",
+    "/oo4PVK6AyLZN49BokxDFGyclN86.jpg",
+    "/pGzqRKrYeK4LogoysNro0vG8d8N.jpg",
+    "/w7ws1KHEtB08Kq0f8S5ec3iBWnv.jpg",
+    "/9byroI1lMAkvTDdxQkZFSNN5p7L.jpg",
+    "/5jScpSvY0crlX85kFmDkkSrPkSm.jpg",
+    "/yw8o1uEi8KDqoFQ8xG5GvVC0JLc.jpg",
+    "/oqXLOAafLHvyWvOchoqv31cJwEo.jpg"
+  ],
+  "trailerKey": "9O1Iy9od7-A",
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    613,
+    242,
+    818,
+    700,
+    701,
+    131,
+    3149,
+    6049,
+    1936,
+    1715,
+    2944,
+    9663,
+    9748,
+    9826,
+    10085,
+    10291,
+    11259,
+    10391,
+    10909,
+    14632,
+    155538,
+    156024,
+    208611,
+    252123,
+    312898
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "la",
+    "es"
+  ],
+  "studios": [
+    "Paramount Pictures",
+    "The Coppola Company",
+    "American Zoetrope"
+  ],
+  "crew": [
+    {
+      "personId": 1776,
+      "job": "producer"
+    },
+    {
+      "personId": 3097,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3098,
+      "job": "composer"
+    },
+    {
+      "personId": 3083,
+      "job": "writer"
+    },
+    {
+      "personId": 1776,
+      "job": "writer"
+    },
+    {
+      "personId": 1776,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1158,
+      "character": "Don Michael Corleone",
+      "order": 0
+    },
+    {
+      "personId": 3087,
+      "character": "Tom Hagen",
+      "order": 1
+    },
+    {
+      "personId": 3092,
+      "character": "Kay Corleone",
+      "order": 2
+    },
+    {
+      "personId": 380,
+      "character": "Vito Corleone",
+      "order": 3
+    },
+    {
+      "personId": 3096,
+      "character": "Frederico 'Fredo' Corleone",
+      "order": 4
+    },
+    {
+      "personId": 3094,
+      "character": "Constanzia 'Connie' Corleone",
+      "order": 5
+    },
+    {
+      "personId": 3171,
+      "character": "Hyman Roth",
+      "order": 6
+    },
+    {
+      "personId": 3172,
+      "character": "Frank Pentangeli",
+      "order": 7
+    },
+    {
+      "personId": 3173,
+      "character": "Senator Pat Geary",
+      "order": 8
+    },
+    {
+      "personId": 3174,
+      "character": "Al Neri",
+      "order": 9
+    },
+    {
+      "personId": 3281,
+      "character": "Don Fanucci",
+      "order": 10
+    },
+    {
+      "personId": 1213795,
+      "character": "Rocco Lampone",
+      "order": 11
+    },
+    {
+      "personId": 9257,
+      "character": "Young Clemenza",
+      "order": 12
+    },
+    {
+      "personId": 11480,
+      "character": "Genco Abbandando",
+      "order": 13
+    },
+    {
+      "personId": 3279,
+      "character": "Young Mama Corleone",
+      "order": 14
+    },
+    {
+      "personId": 933716,
+      "character": "Mama Corleone",
+      "order": 15
+    },
+    {
+      "personId": 15659,
+      "character": "Deanna Corleone",
+      "order": 16
+    },
+    {
+      "personId": 14151,
+      "character": "Signor Roberto",
+      "order": 17
+    },
+    {
+      "personId": 68186,
+      "character": "Johnny Ola",
+      "order": 18
+    },
+    {
+      "personId": 99788,
+      "character": "Michael's Bodyguard",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 6
+  },
+  "voteCount": 14535,
+  "sources": [
+    "cult-list"
+  ]
+}

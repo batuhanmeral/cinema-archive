@@ -1,0 +1,186 @@
+{
+  "tmdbId": 22292,
+  "slug": "the-ghost-and-mrs-muir-1947",
+  "year": 1947,
+  "runtime": 105,
+  "originalTitle": "The Ghost and Mrs. Muir",
+  "title": {
+    "en": "The Ghost and Mrs. Muir",
+    "tr": "Hayalet ve Bayan Muir"
+  },
+  "overview": {
+    "en": "In 1900, young widow Lucy Muir learns that her seaside cottage is haunted and forms a unique relationship with the ghost.",
+    "tr": "Bir denizcinin hayaleti olan Kaptan Gregg (Rex Harrison), uzun yıllar yaşadığı evinden ayrılmak istememektedir. Eve gelen kiracıların hepsini korkutup kaçırmıştır. Ama romantik bir genç kadın olan Lucy Muir (Gene Tierney), deniz kenarındaki sakin bir tepede olan bu evi çok beğenir. Küçük kızı Anna (Natalie Wood) ile birlikte, şehrin gürültüsünün uzağında sakin bir yaşam arzulamaktadır. Burasının hayaletli bir yer olduğunu belirten komisyoncunun tüm ısrarlarına rağmen vazgeçmez ve evi kiralar. İlk gece, esrarengiz Kaptan Gregg gelir ve Lucy Muir’e kendisiyle ilgili söylenen saçmalıklari açıklar kızgınlıkla: İntihar etmediğini, tersine, bir kaza sonucu yasamdan ayrıldığını bu güzel kadına anlatır. Lucy Muir korkmuştur, ama yine de bu sözünü esirgemeyen, sert oldugu kadar da içtenlikli ve yapmacıksız davranan Kaptan’a yakınlık duymuştur. Ve Lucy Muir evde kalmaya karar verir."
+  },
+  "poster": {
+    "tr": "/idoD3cwfwj86BPvVoWVgWhnT2xq.jpg",
+    "en": "/aFdHBIEj0ehjpEHRAUdXT1MJxum.jpg"
+  },
+  "backdrops": [
+    "/2km4LO6IRqBCcLBLSb9sgJq1hTd.jpg",
+    "/oVpICknmyUXanD433Xymkr6LAU6.jpg",
+    "/m1QTfbKD90j63Gh9bOJt0g67LvA.jpg",
+    "/lPo9NfVtXboC9xYNYHgGYmx4ocl.jpg",
+    "/xi662W65fXp9rQ2AnnPNtXfMjlT.jpg",
+    "/nVrn20vB7UDfOdHdBsDl2IiWGWe.jpg",
+    "/eJ1PRh7ihOkbcu1R6QmNAfoJ0DF.jpg",
+    "/3KH7hlU2r0yO8uXBylOSLWwrkc3.jpg",
+    "/l0UanVDRZNcJpwRZlQmpehiCZwD.jpg",
+    "/qoxuIrJeNcaCnrb7xcqGsntEFKr.jpg"
+  ],
+  "trailerKey": "n-X00-BoG9o",
+  "genreIds": [
+    10749,
+    14,
+    18
+  ],
+  "keywordIds": [
+    658,
+    4129,
+    3303,
+    11826,
+    12999,
+    15162,
+    39737,
+    162846,
+    170173,
+    187224,
+    190742,
+    191482,
+    226974,
+    236170
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 10601,
+      "job": "director"
+    },
+    {
+      "personId": 116326,
+      "job": "writer"
+    },
+    {
+      "personId": 30919,
+      "job": "producer"
+    },
+    {
+      "personId": 3148,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1045,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20124,
+      "character": "Lucy Muir",
+      "order": 0
+    },
+    {
+      "personId": 35321,
+      "character": "Capt. Daniel Gregg",
+      "order": 1
+    },
+    {
+      "personId": 3361,
+      "character": "Miles Fairley",
+      "order": 2
+    },
+    {
+      "personId": 88569,
+      "character": "Martha Huggins",
+      "order": 3
+    },
+    {
+      "personId": 88570,
+      "character": "Anna Muir as an Adult",
+      "order": 4
+    },
+    {
+      "personId": 88460,
+      "character": "Mrs. Fairley",
+      "order": 5
+    },
+    {
+      "personId": 92908,
+      "character": "Mr. Coombe",
+      "order": 6
+    },
+    {
+      "personId": 2769,
+      "character": "Anna Muir as a Child",
+      "order": 7
+    },
+    {
+      "personId": 95263,
+      "character": "Angelica Muir",
+      "order": 8
+    },
+    {
+      "personId": 130063,
+      "character": "Eva Muir",
+      "order": 9
+    },
+    {
+      "personId": 119542,
+      "character": "Man Ordered Out of Train Compartment by Captain (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 99217,
+      "character": "Gardener (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 120440,
+      "character": "Author Displaced by Lucy (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 239022,
+      "character": "Sproule - London Publisher (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1422446,
+      "character": "Enquiries at Sproule's (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 148868,
+      "character": "Porter (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 124091,
+      "character": "Bill - Anna's Fiance (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 132701,
+      "character": "Mr. Scroggins (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 149081,
+      "character": "Fairley Maid (uncredited)",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 376,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "tmdbId": 9659,
+  "slug": "mad-max-1979",
+  "year": 1979,
+  "runtime": 91,
+  "originalTitle": "Mad Max",
+  "title": {
+    "en": "Mad Max",
+    "tr": "Çılgın Maks"
+  },
+  "overview": {
+    "en": "In the ravaged near-future, a savage motorcycle gang rules the road. Terrorizing innocent civilians while tearing up the streets, the ruthless gang laughs in the face of a police force hell-bent on stopping them.",
+    "tr": "Mel Gibson’un Max Rockatansky adında bıkkın bir polisi canlandırdığı film, peşine düştüğü çetenin yardımcısını öldürmesinden sonra kendisini ve ailesini hayatta tutmak için harekete geçen bir polisin hikayesini anlatıyor."
+  },
+  "poster": {
+    "tr": "/4s9vc6W7kSIowPgtjAAGccKGWj2.jpg",
+    "en": "/5LrI4GiCSrChgkdskVZiwv643Kg.jpg"
+  },
+  "backdrops": [
+    "/pcSaAUI0H2iMzHoT2jH71Zp71qV.jpg",
+    "/mWQg2INejtX1PCWRAN4vseadA6H.jpg",
+    "/2eYiXlynI2mSuYJPUkHupJm2dJp.jpg",
+    "/uL5DoOuMho1QY7OK5IqacYH9QHK.jpg",
+    "/oQIBypbvcAwtTVu26G81Xxhd57x.jpg",
+    "/iojuitFQi3Rb05ps7rBhJTdnYGs.jpg",
+    "/fUQpUgeX4k7OfX9VLRWJoi3niky.jpg",
+    "/vmtgwLQugNNCy3meLkPwiJDDsDH.jpg",
+    "/yhF12g35SLnXvHC46KY1plZvjtG.jpg",
+    "/aiyxGAdM58C5oR6LfCinmiqFXPz.jpg"
+  ],
+  "trailerKey": "E3F8IegOcjA",
+  "genreIds": [
+    28,
+    53,
+    878
+  ],
+  "keywordIds": [
+    5657,
+    5175,
+    1009,
+    473,
+    4565,
+    4458,
+    2804,
+    3289,
+    3450,
+    5144,
+    6239,
+    6951,
+    8015,
+    9104,
+    9276,
+    7002,
+    13158,
+    14735,
+    14736,
+    18114,
+    175428,
+    200918,
+    201864,
+    202371,
+    219404,
+    262588,
+    269233,
+    312898,
+    325766,
+    325816,
+    325823,
+    325839,
+    325855
+  ],
+  "countries": [
+    "AU"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Kennedy Miller Productions"
+  ],
+  "crew": [
+    {
+      "personId": 58438,
+      "job": "composer"
+    },
+    {
+      "personId": 951895,
+      "job": "producer"
+    },
+    {
+      "personId": 20629,
+      "job": "writer"
+    },
+    {
+      "personId": 20629,
+      "job": "director"
+    },
+    {
+      "personId": 28240,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 58407,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2461,
+      "character": "Max Rockatansky",
+      "order": 0
+    },
+    {
+      "personId": 58401,
+      "character": "Jessie Rockatansky",
+      "order": 1
+    },
+    {
+      "personId": 26060,
+      "character": "Toecutter",
+      "order": 2
+    },
+    {
+      "personId": 45211,
+      "character": "Jim Goose",
+      "order": 3
+    },
+    {
+      "personId": 1125220,
+      "character": "Johnny the Boy",
+      "order": 4
+    },
+    {
+      "personId": 94809,
+      "character": "Fifi",
+      "order": 5
+    },
+    {
+      "personId": 141381,
+      "character": "Nightrider",
+      "order": 6
+    },
+    {
+      "personId": 413762,
+      "character": "Nightrider's Girl",
+      "order": 7
+    },
+    {
+      "personId": 1125222,
+      "character": "Nurse",
+      "order": 8
+    },
+    {
+      "personId": 1125223,
+      "character": "Mudguts",
+      "order": 9
+    },
+    {
+      "personId": 1125224,
+      "character": "Clunk",
+      "order": 10
+    },
+    {
+      "personId": 172747,
+      "character": "Underground Mechanic",
+      "order": 11
+    },
+    {
+      "personId": 1125225,
+      "character": "Singer",
+      "order": 12
+    },
+    {
+      "personId": 252659,
+      "character": "Sarse",
+      "order": 13
+    },
+    {
+      "personId": 1466390,
+      "character": "Toddler",
+      "order": 14
+    },
+    {
+      "personId": 2262080,
+      "character": "Ziggy",
+      "order": 15
+    },
+    {
+      "personId": 1230289,
+      "character": "Station Master",
+      "order": 16
+    },
+    {
+      "personId": 91491,
+      "character": "Diabando",
+      "order": 17
+    },
+    {
+      "personId": 187073,
+      "character": "Benno",
+      "order": 18
+    },
+    {
+      "personId": 1466392,
+      "character": "Grinner",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 5179,
+  "sources": [
+    "cult-list"
+  ]
+}

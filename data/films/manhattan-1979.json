@@ -1,0 +1,195 @@
+{
+  "tmdbId": 696,
+  "slug": "manhattan-1979",
+  "year": 1979,
+  "runtime": 96,
+  "originalTitle": "Manhattan",
+  "title": {
+    "en": "Manhattan",
+    "tr": "Manhattan"
+  },
+  "overview": {
+    "en": "Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.",
+    "tr": "Stil ve varlığın, mizah ve insanlığın muhteşem bir bileşimi!  42 yaşındaki Manhattan yerlisi Isaac Davis işinden nefret etmektedir. 17 yaşında Tracy adında hiç sevmediği kız arkadaşı ve evlilikleri hakkında bir kitap yazan Jill adında lezbiyen bir eski karısı vardır. Ve Isaac onu boğazlamak istemektedir. Ancak en iyi arkadaşının seksi ve entellektüel metresi Mary ile tanışınca, Isaac tepeden tırnağa şehvetle dolar * Manhattan, New York aşığı Allen’ın kendi şehrine, semtine yazdığı bir aşk mektubu gibidir, kendi dünyasına bir güzellemedir.  Manhattan, 70’ler sonu Amerikası’nın güvensizliğini başarıyla yakalamış bir film. Eskisinden daha çok kazanan, daha fazla özgürlüğe ve seçme hakkına sahip olan şehirliler, suçluluk ve güvensizlik duygularıyla boğuşuyorlar. Bu zeka eseri, dengeli, aynı zamanda hüzünlü siyah/beyaz komedi en sevilen filmler arasındaki yerini hep korudu."
+  },
+  "poster": {
+    "tr": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg",
+    "en": "/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg"
+  },
+  "backdrops": [
+    "/nvnpsUc5V1rBT9mLLz5LrIQw4MR.jpg",
+    "/odXPsc6GyLlAHa64orhAkpmYNLU.jpg",
+    "/ohJFDJRU547aWFVjaM3ppY0oFj6.jpg",
+    "/adnSTomHU9YyqV2lx38CgM0UxLS.jpg",
+    "/cznCGSAV3FQ1PEttoE4wjaZf6X0.jpg",
+    "/hPFZzguY6bUvhfu9s0ynik58tOC.jpg",
+    "/4k8L2wdZtMx3KxjKvOCtN3EfK76.jpg",
+    "/cMJAGEOsBSicnFcYdUQVMELFnqd.jpg",
+    "/8iQ7UED1uyLhsbAiPbnMBGC9ato.jpg",
+    "/bXs8DSQzWzx95uOQwxZFO1Cftzw.jpg"
+  ],
+  "trailerKey": "J5c93q3gU3w",
+  "genreIds": [
+    35,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    596,
+    2087,
+    242,
+    818,
+    9672,
+    9673,
+    11869,
+    12999,
+    13028,
+    14534,
+    15160,
+    33722,
+    168346,
+    193682,
+    325843
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "United Artists",
+    "Jack Rollins & Charles H. Joffe Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1243,
+      "job": "director"
+    },
+    {
+      "personId": 6993,
+      "job": "producer"
+    },
+    {
+      "personId": 3097,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1243,
+      "job": "writer"
+    },
+    {
+      "personId": 10439,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1243,
+      "character": "Isaac Davis",
+      "order": 0
+    },
+    {
+      "personId": 3092,
+      "character": "Mary Wilkie",
+      "order": 1
+    },
+    {
+      "personId": 4776,
+      "character": "Yale",
+      "order": 2
+    },
+    {
+      "personId": 10447,
+      "character": "Tracy",
+      "order": 3
+    },
+    {
+      "personId": 5064,
+      "character": "Jill",
+      "order": 4
+    },
+    {
+      "personId": 10448,
+      "character": "Emily",
+      "order": 5
+    },
+    {
+      "personId": 10449,
+      "character": "Connie",
+      "order": 6
+    },
+    {
+      "personId": 10450,
+      "character": "Dennis",
+      "order": 7
+    },
+    {
+      "personId": 80482,
+      "character": "Television Director",
+      "order": 8
+    },
+    {
+      "personId": 67951,
+      "character": "Television Producer",
+      "order": 9
+    },
+    {
+      "personId": 43203,
+      "character": "Party Guest",
+      "order": 10
+    },
+    {
+      "personId": 2598881,
+      "character": "Ike's Son",
+      "order": 11
+    },
+    {
+      "personId": 12900,
+      "character": "Jeremiah",
+      "order": 12
+    },
+    {
+      "personId": 1276096,
+      "character": "Party Guest",
+      "order": 13
+    },
+    {
+      "personId": 1267159,
+      "character": "Guest of Honor",
+      "order": 14
+    },
+    {
+      "personId": 163851,
+      "character": "Party Guest",
+      "order": 15
+    },
+    {
+      "personId": 118071,
+      "character": "Television Actor #1",
+      "order": 16
+    },
+    {
+      "personId": 650,
+      "character": "Television Actor #2",
+      "order": 17
+    },
+    {
+      "personId": 33533,
+      "character": "Television Actor #3",
+      "order": 18
+    },
+    {
+      "personId": 95975,
+      "character": "Shakespearean Actor",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cesar": 2
+  },
+  "voteCount": 2704,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "tmdbId": 15371,
+  "slug": "the-castle-of-cagliostro-1979",
+  "year": 1979,
+  "runtime": 102,
+  "originalTitle": "ルパン三世 カリオストロの城",
+  "title": {
+    "en": "The Castle of Cagliostro",
+    "tr": "Cagliostro'nun Şatosu"
+  },
+  "overview": {
+    "en": "After a successful robbery leaves famed thief Lupin the Third and his partner Jigen with nothing but a large amount of expertly crafted counterfeit bills, he decides to track down the forgers responsible—and steal any other treasures he may find in the Castle of Cagliostro, including the 'damsel in distress' he finds imprisoned there.",
+    "tr": "Meşhur uluslararası hırsız Lupin, Monte Carlo’da bir kumarhane üzerine çalışırken keşfettiği para sahtekarlığı izini Avrupa’da monarşiyle yönetilen ufak bir ülke olan Cagliostro’ya kadar sürer. Eksantrik hırsızlardan oluşan küçük ekibiyle kötü yürekli Kont Cagliostro’nun yönettiği ülkeye varır. Burada zorla kontla evlendirilmek istenen güzel Clarice ile tanışırlar ve gizli bir hazinenin varlığını da keşfederler."
+  },
+  "poster": {
+    "tr": "/p7xL3WYeclgtGCLrWfBrXKdBV7d.jpg",
+    "en": "/hSFdyWptoDHuXlFZGzIrfVell4Q.jpg"
+  },
+  "backdrops": [
+    "/nGReyn5irBs4f5RWJjryDdbNfky.jpg",
+    "/gLwXdKjUmbGRbImFg7sibJrRfor.jpg",
+    "/fCf8WfsRJEDFf1N6gA6o4ICRYp.jpg",
+    "/2osgO4HFdtlyQjXmMi5ORqM4PeC.jpg",
+    "/mGMMEvs1KSFC332HmAHKJuieCNE.jpg",
+    "/hxW8VwKnLl1QdvrX49PQJsnsI58.jpg",
+    "/eVsnPp2HtAwSHlFFkVEziqJEDO9.jpg",
+    "/g94iU9b2qJDvs4wukICvoYv8xdQ.jpg",
+    "/awQBflimAfr6DVqIabjHBrD2eIE.jpg",
+    "/roztWul6YIyBbELeTghrzdotQK6.jpg"
+  ],
+  "trailerKey": "xmKP3zp3Mug",
+  "genreIds": [
+    16,
+    12,
+    35,
+    80
+  ],
+  "keywordIds": [
+    1454,
+    1462,
+    585,
+    389,
+    3098,
+    6932,
+    9727,
+    10889,
+    13141,
+    158992,
+    180996,
+    210024,
+    269769,
+    324713,
+    325856
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Tokyo Movie Shinsha",
+    "Telecom Animation Film"
+  ],
+  "crew": [
+    {
+      "personId": 608,
+      "job": "director"
+    },
+    {
+      "personId": 78174,
+      "job": "producer"
+    },
+    {
+      "personId": 608,
+      "job": "writer"
+    },
+    {
+      "personId": 78366,
+      "job": "writer"
+    },
+    {
+      "personId": 78367,
+      "job": "composer"
+    },
+    {
+      "personId": 78368,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 109746,
+      "character": "Arsène Lupin III (voice)",
+      "order": 0
+    },
+    {
+      "personId": 82508,
+      "character": "Daisuke Jigen (voice)",
+      "order": 1
+    },
+    {
+      "personId": 109747,
+      "character": "Fujiko Mine (voice)",
+      "order": 2
+    },
+    {
+      "personId": 1222049,
+      "character": "Goemon Ishikawa XIII (voice)",
+      "order": 3
+    },
+    {
+      "personId": 616,
+      "character": "Inspector Koichi Zenigata (voice)",
+      "order": 4
+    },
+    {
+      "personId": 613,
+      "character": "Lady Clarisse de Cagliostro (voice)",
+      "order": 5
+    },
+    {
+      "personId": 58158,
+      "character": "Count Cagliostro (voice)",
+      "order": 6
+    },
+    {
+      "personId": 618,
+      "character": "Gardener (voice)",
+      "order": 7
+    },
+    {
+      "personId": 617,
+      "character": "Jodo (voice)",
+      "order": 8
+    },
+    {
+      "personId": 553106,
+      "character": "Gustav (voice)",
+      "order": 9
+    },
+    {
+      "personId": 553100,
+      "character": "Archbishop (voice)",
+      "order": 10
+    },
+    {
+      "personId": 552680,
+      "character": "Archbishop's Driver (voice)",
+      "order": 11
+    },
+    {
+      "personId": 553104,
+      "character": "Interpol Chief (voice)",
+      "order": 12
+    },
+    {
+      "personId": 553102,
+      "character": "Servant (voice)",
+      "order": 13
+    },
+    {
+      "personId": 142706,
+      "character": "German Delegate (voice)",
+      "order": 14
+    },
+    {
+      "personId": 83932,
+      "character": "British Delegate (voice)",
+      "order": 15
+    },
+    {
+      "personId": 553099,
+      "character": "Soviet Delegate (voice)",
+      "order": 16
+    },
+    {
+      "personId": 553097,
+      "character": "Japanese Delegate (voice)",
+      "order": 17
+    },
+    {
+      "personId": 553108,
+      "character": "Saitama Riot Police Captain (voice)",
+      "order": 18
+    },
+    {
+      "personId": 553107,
+      "character": "Waitress (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1190,
+  "sources": [
+    "cult-list"
+  ]
+}

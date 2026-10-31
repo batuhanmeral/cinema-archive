@@ -1,0 +1,202 @@
+{
+  "tmdbId": 24,
+  "slug": "kill-bill-vol-1-2003",
+  "year": 2003,
+  "runtime": 111,
+  "originalTitle": "Kill Bill: Vol. 1",
+  "title": {
+    "en": "Kill Bill: Vol. 1",
+    "tr": "Kill Bill: Vol. 1"
+  },
+  "overview": {
+    "en": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
+    "tr": "Sıra dışı yazar ve yönetmen Quentin Tarantino'nun büyük beğeni kazanan dördüncü filmi olan, acımasız bir ihaneti ve destansı bir kan davasını konu alan heyecan ve gerilimi yüksek Kill Bill: Volume 1'de başrollerde Uma Thurman (Pulp Fiction), Lucy Liu (Charlie's Angels, Chicago) ve Vivica A Fox' u (Two Can Play That Game) izleyeceksiniz. Kendi nikah töreninde başına bir kurşun isabet ettikten dört yıl sonra, Gelin (Thurman) komadan çıkar ve intikam alma vakti geldiğine karar verir! Eski patronu Bill (David Carradine) ve onun ölümcül uluslararası suikast ekibi tarafından vurulduğu göz önüne alınırsa artık kendisinin başlatmadığı ancak bitirmeye kararlı olduğu bir ölüm kalım savaşı onu beklemektedir. Tüm dünyada ses getiren aksiyon dolu nükteli bu film, mutlaka görülmesi gereken bir yapım."
+  },
+  "poster": {
+    "tr": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+    "en": "/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg"
+  },
+  "backdrops": [
+    "/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg",
+    "/4nV8HonU5h8NyvF6sJX4q1PYtt9.jpg",
+    "/gPA8Th4CyuL5IeTzHE2THkxihkU.jpg",
+    "/pcXvjjMOacxXJDqAaZQH26UKn1C.jpg",
+    "/ibS07SKBUAUiJE4FxL65K3hpwHa.jpg",
+    "/xfBmht9jbpOHA7fGr6SRjDfnMJC.jpg",
+    "/iffzIhuLAO38Po6sh1s6ZEVwlNL.jpg",
+    "/p3WiF8qYS7Qp17YRYgrFh7gf9P9.jpg",
+    "/4nGRusJJGw4q4bfvsxyXDZFHqNO.jpg",
+    "/toBh6jTjwM2z9q44k0z5wBfIOr4.jpg"
+  ],
+  "trailerKey": "sXwXk3jcrfU",
+  "genreIds": [
+    28,
+    80
+  ],
+  "keywordIds": [
+    779,
+    233,
+    780,
+    1938,
+    1794,
+    1908,
+    9725,
+    9748,
+    7002,
+    10704,
+    11322,
+    162388,
+    261264,
+    262404
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ja",
+    "fr"
+  ],
+  "studios": [
+    "Miramax",
+    "A Band Apart",
+    "Super Cool ManChu"
+  ],
+  "crew": [
+    {
+      "personId": 2545,
+      "job": "producer"
+    },
+    {
+      "personId": 149,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 138,
+      "job": "writer"
+    },
+    {
+      "personId": 150,
+      "job": "composer"
+    },
+    {
+      "personId": 235121,
+      "job": "producer"
+    },
+    {
+      "personId": 66591,
+      "job": "composer"
+    },
+    {
+      "personId": 138,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 139,
+      "character": "The Bride",
+      "order": 0
+    },
+    {
+      "personId": 140,
+      "character": "O-Ren Ishii",
+      "order": 1
+    },
+    {
+      "personId": 2535,
+      "character": "Vernita Green",
+      "order": 2
+    },
+    {
+      "personId": 589,
+      "character": "Elle Driver",
+      "order": 3
+    },
+    {
+      "personId": 141,
+      "character": "Bill",
+      "order": 4
+    },
+    {
+      "personId": 147,
+      "character": "Budd",
+      "order": 5
+    },
+    {
+      "personId": 2539,
+      "character": "Sofie Fatale",
+      "order": 6
+    },
+    {
+      "personId": 2538,
+      "character": "Gogo Yubari",
+      "order": 7
+    },
+    {
+      "personId": 2537,
+      "character": "Hattori Hanzo",
+      "order": 8
+    },
+    {
+      "personId": 240171,
+      "character": "Johnny Mo",
+      "order": 9
+    },
+    {
+      "personId": 2536,
+      "character": "Earl McGraw",
+      "order": 10
+    },
+    {
+      "personId": 2234,
+      "character": "Buck",
+      "order": 11
+    },
+    {
+      "personId": 2541,
+      "character": "Boss Tanaka",
+      "order": 12
+    },
+    {
+      "personId": 138435,
+      "character": "Bald Guy (Sushi Shop)",
+      "order": 13
+    },
+    {
+      "personId": 545394,
+      "character": "Proprietor",
+      "order": 14
+    },
+    {
+      "personId": 87312,
+      "character": "Edgar McGraw",
+      "order": 15
+    },
+    {
+      "personId": 58616,
+      "character": "Charlie Brown",
+      "order": 16
+    },
+    {
+      "personId": 58477,
+      "character": "Trucker",
+      "order": 17
+    },
+    {
+      "personId": 79458,
+      "character": "Tokyo Business Man",
+      "order": 18
+    },
+    {
+      "personId": 1594799,
+      "character": "Crazy 88 #1 (Miki)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 19650,
+  "sources": [
+    "cult-list"
+  ]
+}

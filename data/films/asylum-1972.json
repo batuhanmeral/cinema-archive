@@ -1,0 +1,162 @@
+{
+  "tmdbId": 25993,
+  "slug": "asylum-1972",
+  "year": 1972,
+  "runtime": 88,
+  "originalTitle": "Asylum",
+  "title": {
+    "en": "Asylum",
+    "tr": "Akıl Hastaneleri"
+  },
+  "overview": {
+    "en": "A young psychiatrist applies for a job at a mental asylum and must pass a test by interviewing four patients. He must figure out which of the patients, is in fact, the doctor that he would be replacing if hired.",
+    "tr": "Bir akıl hastanesinde iş bulabilmek için genç bir psikiyatrist, akıl hastanesindeki dört hastayla görüşmek zorundadır."
+  },
+  "poster": {
+    "tr": "/vETvqWG44fgj4XLAU135Z2rncwT.jpg",
+    "en": "/vETvqWG44fgj4XLAU135Z2rncwT.jpg"
+  },
+  "backdrops": [
+    "/l9IKF6kDynHbsQMSJuEl6bBPRD7.jpg",
+    "/bmbgAZO8tK3jFzcxRXfcq8rlJd3.jpg",
+    "/g4ctQQxqyHfaeJEVUN4nhVuSNPz.jpg",
+    "/kcBYH5p6RLSSmPbfa7CKC1qzvjg.jpg",
+    "/dbjBWMSMPn9u6dWobxlcf0wHUBJ.jpg",
+    "/kvLb434GBaO1c6dUl5Tb6JZzWlM.jpg",
+    "/f9DnzLEEp0e8cRTlnDa5jasHsRP.jpg",
+    "/36lmYeQ4aLSbWKIb90GZvdbNO9c.jpg",
+    "/3iDamDjxQvl5kTvA0OJCvunCaEC.jpg",
+    "/oXl6Il9vSFxUswTB7svWazQIC3C.jpg"
+  ],
+  "trailerKey": "9yig3s-S-iY",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    2884,
+    4924,
+    9706,
+    15106,
+    160174,
+    247779,
+    357347,
+    357348
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Amicus Productions"
+  ],
+  "crew": [
+    {
+      "personId": 26134,
+      "job": "director"
+    },
+    {
+      "personId": 7299,
+      "job": "writer"
+    },
+    {
+      "personId": 38646,
+      "job": "composer"
+    },
+    {
+      "personId": 20105,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 90077,
+      "job": "producer"
+    },
+    {
+      "personId": 30169,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5,
+      "character": "Smith",
+      "order": 0
+    },
+    {
+      "personId": 2264,
+      "character": "Dr. Lionel Rutherford",
+      "order": 1
+    },
+    {
+      "personId": 14503,
+      "character": "Byron",
+      "order": 2
+    },
+    {
+      "personId": 10341,
+      "character": "Lucy",
+      "order": 3
+    },
+    {
+      "personId": 101851,
+      "character": "Bruno",
+      "order": 4
+    },
+    {
+      "personId": 44079,
+      "character": "Barbara",
+      "order": 5
+    },
+    {
+      "personId": 30121,
+      "character": "Bonnie",
+      "order": 6
+    },
+    {
+      "personId": 24682,
+      "character": "Dr. Martin",
+      "order": 7
+    },
+    {
+      "personId": 15736,
+      "character": "Ruth",
+      "order": 8
+    },
+    {
+      "personId": 20393,
+      "character": "Walter",
+      "order": 9
+    },
+    {
+      "personId": 39066,
+      "character": "George",
+      "order": 10
+    },
+    {
+      "personId": 123209,
+      "character": "Max Reynolds",
+      "order": 11
+    },
+    {
+      "personId": 17161,
+      "character": "Anna",
+      "order": 12
+    },
+    {
+      "personId": 47398,
+      "character": "Nurse Higgins",
+      "order": 13
+    },
+    {
+      "personId": 16697,
+      "character": "Mr. Stebbins",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 216,
+  "sources": [
+    "cult-list"
+  ]
+}

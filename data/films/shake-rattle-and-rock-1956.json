@@ -1,0 +1,132 @@
+{
+  "tmdbId": 104501,
+  "slug": "shake-rattle-and-rock-1956",
+  "year": 1956,
+  "runtime": 83,
+  "originalTitle": "Shake, Rattle and Rock!",
+  "title": {
+    "en": "Shake, Rattle and Rock!",
+    "tr": "Shake, Rattle and Rock!"
+  },
+  "overview": {
+    "en": "A TV star meets with opposition from adults who object to the opening of a rock 'n' roll palace for teens.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ar3PggnQs2Fti6ux9HGJk3KYs4t.jpg",
+    "en": "/ar3PggnQs2Fti6ux9HGJk3KYs4t.jpg"
+  },
+  "backdrops": [
+    "/1jTiMpgPbhRiHsoisLZaQ8uQCw8.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    10402,
+    35,
+    18
+  ],
+  "keywordIds": [
+    578
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "American International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 31764,
+      "job": "director"
+    },
+    {
+      "personId": 78858,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29718,
+      "character": "Garry Nelson",
+      "order": 0
+    },
+    {
+      "personId": 103462,
+      "character": "June Fitzdingle",
+      "order": 1
+    },
+    {
+      "personId": 34759,
+      "character": "Albert 'Axe' McAllister",
+      "order": 2
+    },
+    {
+      "personId": 34748,
+      "character": "Eustace Fentwick III",
+      "order": 3
+    },
+    {
+      "personId": 532942,
+      "character": "Fats Domino",
+      "order": 4
+    },
+    {
+      "personId": 90333,
+      "character": "Horace Fitzdingle",
+      "order": 5
+    },
+    {
+      "personId": 10804,
+      "character": "Georgianna Fitzdingle",
+      "order": 6
+    },
+    {
+      "personId": 30237,
+      "character": "Judge McCombs",
+      "order": 7
+    },
+    {
+      "personId": 27035,
+      "character": "Bugsy Smith",
+      "order": 8
+    },
+    {
+      "personId": 30238,
+      "character": "Frank",
+      "order": 9
+    },
+    {
+      "personId": 2101,
+      "character": "Hiram",
+      "order": 10
+    },
+    {
+      "personId": 30216,
+      "character": "Armtrong",
+      "order": 11
+    },
+    {
+      "personId": 213713,
+      "character": "Aloysius Pentigrouch",
+      "order": 12
+    },
+    {
+      "personId": 81974,
+      "character": "Policeman",
+      "order": 13
+    },
+    {
+      "personId": 1124393,
+      "character": "Big Joe Turner",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 5,
+  "sources": [
+    "cult-list"
+  ]
+}

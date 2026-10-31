@@ -1,0 +1,211 @@
+{
+  "tmdbId": 16,
+  "slug": "dancer-in-the-dark-2000",
+  "year": 2000,
+  "runtime": 140,
+  "originalTitle": "Dancer in the Dark",
+  "title": {
+    "en": "Dancer in the Dark",
+    "tr": "Karanlıkta Dans"
+  },
+  "overview": {
+    "en": "Selma, a Czech immigrant on the verge of blindness, struggles to make ends meet for herself and her young son, who has inherited the same genetic disorder and will suffer the same fate without an expensive operation. When life becomes increasingly difficult, Selma learns to cope through her love of musicals, dreaming up little numbers to the rhythmic beats of her surroundings.",
+    "tr": "10 yaşındaki oğlu Gene ile bir karavanda yaşayan Çek göçmeni Selma Jezkova kalıtsal bir hastalık yüzünden kör olmak üzeredir. Bu hastalığını oğlunu da etkileyeceğini bilen Selma, çelik fabrikasında canla başla çalışarak biriktirdiği parayla oğlunu ameliyat ettirme arzusu içerisindedir. Ancak gelişen olaylar Selma'yı işin içinden çıkamaz hale getirir."
+  },
+  "poster": {
+    "tr": "/pWzOfTJRZHPNO1VNrMnNFqRcJwg.jpg",
+    "en": "/8Wdd3fQfbbQeoSfWpHrDfaFNhBU.jpg"
+  },
+  "backdrops": [
+    "/gs70htixF6j1oqrrwsM4lVfcgNN.jpg",
+    "/8RZP61TmKoB48BVfYUtsePb9u1i.jpg",
+    "/v9rRy9q2p9qBISLoW3XfH9Cwnlm.jpg",
+    "/aG3SpPpsloWf8p47cud8GbKRYsD.jpg",
+    "/vxvzf0cGtFY2Vpw5ULWumCIW6Ri.jpg",
+    "/utkV97cll4im7ccq7cR9McHFVnm.jpg",
+    "/ymElgSlEzTZjff9rlNG5Fl8Q9KG.jpg",
+    "/n2M35C3EAJM5cJlkRbGKxHcYwOH.jpg",
+    "/aGAn2zJahVXDg8TOaIwKJGApIal.jpg",
+    "/dvDHsWLtzOX6xThQ5TEcGCdPnSK.jpg"
+  ],
+  "trailerKey": "ddcCwLqtT8w",
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    730,
+    30,
+    2356,
+    1741,
+    246,
+    2480,
+    1415,
+    2487,
+    2489,
+    642,
+    6148,
+    4344,
+    5248,
+    9826,
+    11061,
+    15090,
+    155781,
+    188841,
+    240237,
+    324886
+  ],
+  "countries": [
+    "DK",
+    "FI",
+    "FR",
+    "DE",
+    "IS",
+    "NL",
+    "NO",
+    "SE"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Zentropa Entertainments",
+    "DR",
+    "SVT Drama"
+  ],
+  "crew": [
+    {
+      "personId": 42,
+      "job": "director"
+    },
+    {
+      "personId": 6146,
+      "job": "producer"
+    },
+    {
+      "personId": 1632,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 50630,
+      "job": "producer"
+    },
+    {
+      "personId": 47,
+      "job": "composer"
+    },
+    {
+      "personId": 42,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 47,
+      "character": "Selma Jezkova",
+      "order": 0
+    },
+    {
+      "personId": 50,
+      "character": "Kathy",
+      "order": 1
+    },
+    {
+      "personId": 52,
+      "character": "Bill Houston",
+      "order": 2
+    },
+    {
+      "personId": 53,
+      "character": "Jeff",
+      "order": 3
+    },
+    {
+      "personId": 6748,
+      "character": "Oldrich Novy",
+      "order": 4
+    },
+    {
+      "personId": 2617,
+      "character": "Linda Houston",
+      "order": 5
+    },
+    {
+      "personId": 6749,
+      "character": "Gene Jezkova",
+      "order": 6
+    },
+    {
+      "personId": 1642,
+      "character": "Norman",
+      "order": 7
+    },
+    {
+      "personId": 6750,
+      "character": "Samuel",
+      "order": 8
+    },
+    {
+      "personId": 6751,
+      "character": "Brenda",
+      "order": 9
+    },
+    {
+      "personId": 6752,
+      "character": "District Attorney",
+      "order": 10
+    },
+    {
+      "personId": 1646,
+      "character": "Dr. Porkorny",
+      "order": 11
+    },
+    {
+      "personId": 6121,
+      "character": "Morty",
+      "order": 12
+    },
+    {
+      "personId": 6753,
+      "character": "Judge",
+      "order": 13
+    },
+    {
+      "personId": 6754,
+      "character": "Receptionist",
+      "order": 14
+    },
+    {
+      "personId": 6755,
+      "character": "Defense Attorney / Dancer",
+      "order": 15
+    },
+    {
+      "personId": 6756,
+      "character": "Suzan / Dancer",
+      "order": 16
+    },
+    {
+      "personId": 6757,
+      "character": "Angry Man",
+      "order": 17
+    },
+    {
+      "personId": 6758,
+      "character": "Detective",
+      "order": 18
+    },
+    {
+      "personId": 1439629,
+      "character": "Officer of the Court / Dancer",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cannes": 1
+  },
+  "voteCount": 2101,
+  "sources": [
+    "cult-list"
+  ]
+}

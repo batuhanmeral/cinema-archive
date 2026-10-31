@@ -1,0 +1,203 @@
+{
+  "tmdbId": 5548,
+  "slug": "robocop-1987",
+  "year": 1987,
+  "runtime": 102,
+  "originalTitle": "RoboCop",
+  "title": {
+    "en": "RoboCop",
+    "tr": "RoboCop"
+  },
+  "overview": {
+    "en": "In a violent, near-apocalyptic Detroit, evil corporation Omni Consumer Products wins a contract from the city government to privatize the police force. To test their crime-eradicating cyborgs, the company leads street cop Alex Murphy into an armed confrontation with crime lord Boddicker so they can use his body to support their untested RoboCop prototype. But when RoboCop learns of the company's nefarious plans, he turns on his masters.",
+    "tr": "Artık kasabada yeni bir kanun adamı var. O yarı insan yarı makine! \"Temel İçgüdü\"nün yönetmeninden, yüksek teknoloji ürünü, adalet için savaşan bir polisin maceralarını anlatan muhteşem bir bilim kurgu klasiği. İyi ve başarılı bir polis görev sırasında bir patlamaya maruz kalır. Yeni bir buluş üzerinde çalışan bilim adamları ve doktorlar bu polisi Robocop adında durdurulamayan suç savaşcısı bir cyborg haline getirir..."
+  },
+  "poster": {
+    "tr": "/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",
+    "en": "/hHtOgGb3NihlyRATHlKPaFApbrd.jpg"
+  },
+  "backdrops": [
+    "/pRSTtNlcADoQkfeBGtFQNE1FDpb.jpg",
+    "/vMGkly71Jm2KwHN407mxheMGUYR.jpg",
+    "/8g7x7AuY6Dj2MWVlKaPXq6oCyGl.jpg",
+    "/YDQxFCNIKGtfuSeTdGLqdfc6Tg.jpg",
+    "/9hRVHqT4zfdUgfri98TcqJPS2cf.jpg",
+    "/7WUS3j7UmYEulWkFSouRl5VxYis.jpg",
+    "/xcaX6BZ1JUPSVMH2gBkWIckLLaA.jpg",
+    "/AnQOYkORBcZ6LPyW5k2GDsOlZip.jpg",
+    "/f2z14VbxMB02Oojb3xHHwlA1pcM.jpg",
+    "/p4KFCK1nv00Wb9WEpUyfSR4H2Mr.jpg"
+  ],
+  "trailerKey": "IqvRDhW-XVA",
+  "genreIds": [
+    28,
+    53,
+    878
+  ],
+  "keywordIds": [
+    1706,
+    186,
+    679,
+    853,
+    4565,
+    1501,
+    10891,
+    11738,
+    12190,
+    12375,
+    18021,
+    163081,
+    163082,
+    163540,
+    187293,
+    188970,
+    196164,
+    200234,
+    238160,
+    241814,
+    365954
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Orion Pictures",
+    "Jon Davison Productions"
+  ],
+  "crew": [
+    {
+      "personId": 10491,
+      "job": "director"
+    },
+    {
+      "personId": 8277,
+      "job": "producer"
+    },
+    {
+      "personId": 7728,
+      "job": "composer"
+    },
+    {
+      "personId": 5241,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7722,
+      "job": "writer"
+    },
+    {
+      "personId": 44036,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 27811,
+      "character": "Officer Alex J. Murphy / RoboCop",
+      "order": 0
+    },
+    {
+      "personId": 44038,
+      "character": "Officer Anne Lewis",
+      "order": 1
+    },
+    {
+      "personId": 6836,
+      "character": "The Old Man",
+      "order": 2
+    },
+    {
+      "personId": 780,
+      "character": "Dick Jones",
+      "order": 3
+    },
+    {
+      "personId": 2115,
+      "character": "Clarence Boddicker",
+      "order": 4
+    },
+    {
+      "personId": 15860,
+      "character": "Bob Morton",
+      "order": 5
+    },
+    {
+      "personId": 30615,
+      "character": "Sgt. Warren Reed",
+      "order": 6
+    },
+    {
+      "personId": 6719,
+      "character": "Leon Nash",
+      "order": 7
+    },
+    {
+      "personId": 44042,
+      "character": "Johnson",
+      "order": 8
+    },
+    {
+      "personId": 32393,
+      "character": "Emil Antonowsky",
+      "order": 9
+    },
+    {
+      "personId": 44043,
+      "character": "Joe Cox",
+      "order": 10
+    },
+    {
+      "personId": 100062,
+      "character": "Kaplan",
+      "order": 11
+    },
+    {
+      "personId": 105312,
+      "character": "Steve Minh",
+      "order": 12
+    },
+    {
+      "personId": 999522,
+      "character": "Walker",
+      "order": 13
+    },
+    {
+      "personId": 106768,
+      "character": "Sal",
+      "order": 14
+    },
+    {
+      "personId": 94557,
+      "character": "Miller",
+      "order": 15
+    },
+    {
+      "personId": 67579,
+      "character": "Manson",
+      "order": 16
+    },
+    {
+      "personId": 59221,
+      "character": "Lt. Hedgecock",
+      "order": 17
+    },
+    {
+      "personId": 16618,
+      "character": "Bobby",
+      "order": 18
+    },
+    {
+      "personId": 179188,
+      "character": "Dougy",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 6052,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "tmdbId": 155,
+  "slug": "the-dark-knight-2008",
+  "year": 2008,
+  "runtime": 152,
+  "originalTitle": "The Dark Knight",
+  "title": {
+    "en": "The Dark Knight",
+    "tr": "Kara Şövalye"
+  },
+  "overview": {
+    "en": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "tr": "Batman, Teğmen Jim Gordon ve Bölge Savcısı Harvey Dent’in yardımlarıyla, şehir sokaklarını sarmış olan suç örgütlerinden geriye kalanları temizlemeye girişir. Bu ortaklığın etkili olduğu açıktır, ama ekip kısa süre sonra kendilerini, Joker olarak bilinen ve Gotham şehri sakinlerini daha önce de dehşete boğmuş olan suç dehasının yarattığı karmaşanın ortasında bulurlar."
+  },
+  "poster": {
+    "tr": "/7IPCEr7ifdH5CtU97QG7XgAAtOp.jpg",
+    "en": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  "backdrops": [
+    "/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+    "/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg",
+    "/oOv2oUXcAaNXakRqUPxYq5lJURz.jpg",
+    "/6fA9nie4ROlkyZAUlgKNjGNCbHG.jpg",
+    "/enNubozHn9pXi0ycTVYUWfpHZm.jpg",
+    "/plDp52MirFHc2PMJRMNWoG0kfr3.jpg",
+    "/pbEkjhdfP7yuDcMB78YEZwgD4IN.jpg",
+    "/hkBaDkMWbLaf8B1lsWsKX7Ew3Xq.jpg",
+    "/x5f2uTfw0Pqc5QI4ch5AHICee2o.jpg",
+    "/pjyzrh1bdv1UTpDRHvM850TJAmT.jpg"
+  ],
+  "trailerKey": "_PZpmTj1Q8Q",
+  "genreIds": [
+    28,
+    53,
+    80
+  ],
+  "keywordIds": [
+    4426,
+    4630,
+    1308,
+    853,
+    9715,
+    2095,
+    3151,
+    9717,
+    7002,
+    10291,
+    10044,
+    14625,
+    18023,
+    33518,
+    33637,
+    163074,
+    207268,
+    325778
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "zh"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Legendary Pictures",
+    "Syncopy"
+  ],
+  "crew": [
+    {
+      "personId": 527,
+      "job": "writer"
+    },
+    {
+      "personId": 947,
+      "job": "composer"
+    },
+    {
+      "personId": 559,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1213,
+      "job": "composer"
+    },
+    {
+      "personId": 525,
+      "job": "producer"
+    },
+    {
+      "personId": 282,
+      "job": "producer"
+    },
+    {
+      "personId": 556,
+      "job": "producer"
+    },
+    {
+      "personId": 525,
+      "job": "writer"
+    },
+    {
+      "personId": 525,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3894,
+      "character": "Bruce Wayne",
+      "order": 0
+    },
+    {
+      "personId": 1810,
+      "character": "Joker",
+      "order": 1
+    },
+    {
+      "personId": 6383,
+      "character": "Harvey Dent",
+      "order": 2
+    },
+    {
+      "personId": 3895,
+      "character": "Alfred",
+      "order": 3
+    },
+    {
+      "personId": 1579,
+      "character": "Rachel",
+      "order": 4
+    },
+    {
+      "personId": 64,
+      "character": "Gordon",
+      "order": 5
+    },
+    {
+      "personId": 192,
+      "character": "Lucius Fox",
+      "order": 6
+    },
+    {
+      "personId": 53651,
+      "character": "Ramirez",
+      "order": 7
+    },
+    {
+      "personId": 57597,
+      "character": "Wuertz",
+      "order": 8
+    },
+    {
+      "personId": 2037,
+      "character": "Scarecrow",
+      "order": 9
+    },
+    {
+      "personId": 101015,
+      "character": "Lau",
+      "order": 10
+    },
+    {
+      "personId": 21316,
+      "character": "Mayor",
+      "order": 11
+    },
+    {
+      "personId": 21315,
+      "character": "Maroni",
+      "order": 12
+    },
+    {
+      "personId": 13939,
+      "character": "Chechen",
+      "order": 13
+    },
+    {
+      "personId": 1904,
+      "character": "Engel",
+      "order": 14
+    },
+    {
+      "personId": 87957,
+      "character": "Stephens",
+      "order": 15
+    },
+    {
+      "personId": 128386,
+      "character": "Loeb",
+      "order": 16
+    },
+    {
+      "personId": 34544,
+      "character": "Reese",
+      "order": 17
+    },
+    {
+      "personId": 58692,
+      "character": "Barbara Gordon",
+      "order": 18
+    },
+    {
+      "personId": 18052,
+      "character": "James Gordon",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 2
+  },
+  "voteCount": 37128,
+  "sources": [
+    "cult-list"
+  ]
+}

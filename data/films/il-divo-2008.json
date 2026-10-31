@@ -1,0 +1,201 @@
+{
+  "tmdbId": 8832,
+  "slug": "il-divo-2008",
+  "year": 2008,
+  "runtime": 113,
+  "originalTitle": "Il Divo",
+  "title": {
+    "en": "Il Divo",
+    "tr": "Il Divo"
+  },
+  "overview": {
+    "en": "Italy, early '90s. Calm, clever and inscrutable, politician Giulio Andreotti has been synonymous with power for decades. He has survived everything: electoral battles, terrorist massacres, loss of friends, slanderous accusations; but now certain repentant mobsters implicate him in the crimes of Cosa Nostra.",
+    "tr": "Son elli yılın en önemli İtalyan siyasetçilerinden Giulio Andreotti'nin yolsuzluk dolu meslek yaşamını ele alan film, aynı zamanda İtalya'daki siyasi ortamın keskin ve sıradışı bir portesini çiziyor..."
+  },
+  "poster": {
+    "tr": "/vhvn9FYhDn8hVjFibiQuFVtDzgx.jpg",
+    "en": "/g1bgM34ZGldqcGkucmaGZe4pMBu.jpg"
+  },
+  "backdrops": [
+    "/5hFCQu0856yDUsvdJYZ25ufCIgW.jpg",
+    "/f0QGUAdHs2eDMuUXO9GhViYe1bj.jpg",
+    "/k8x7FN1RiWjry7gkMeNpEaQV0FL.jpg",
+    "/49AGPHy340JiFobrJmsxJTvvVki.jpg",
+    "/eyYleKQ84UWPjbXWz3CMJQZuJML.jpg",
+    "/fgwAmIB4uIBIAdgLOofWKPwN2pb.jpg",
+    "/uKei6ATNixZpYmRiCZygpTzF57V.jpg"
+  ],
+  "trailerKey": "cw-qm-liCPA",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    6078,
+    131,
+    716,
+    1228,
+    2569,
+    5565,
+    10391,
+    191970,
+    208289,
+    210608,
+    215036,
+    225677,
+    232675,
+    255066,
+    255067
+  ],
+  "countries": [
+    "IT",
+    "FR"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "studios": [
+    "Indigo Film",
+    "Lucky Red",
+    "Parco Film"
+  ],
+  "crew": [
+    {
+      "personId": 56194,
+      "job": "director"
+    },
+    {
+      "personId": 933273,
+      "job": "producer"
+    },
+    {
+      "personId": 1034124,
+      "job": "composer"
+    },
+    {
+      "personId": 7560,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 31011,
+      "job": "producer"
+    },
+    {
+      "personId": 933274,
+      "job": "producer"
+    },
+    {
+      "personId": 56194,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 72782,
+      "character": "Giulio Andreotti",
+      "order": 0
+    },
+    {
+      "personId": 225301,
+      "character": "Livia Danese",
+      "order": 1
+    },
+    {
+      "personId": 543560,
+      "character": "Eugenio Scalfari",
+      "order": 2
+    },
+    {
+      "personId": 24608,
+      "character": "Franco Evangelisti",
+      "order": 3
+    },
+    {
+      "personId": 120638,
+      "character": "Paolo Cirino Pomicino",
+      "order": 4
+    },
+    {
+      "personId": 128227,
+      "character": "Salvo Lima",
+      "order": 5
+    },
+    {
+      "personId": 1034677,
+      "character": "Don Mario Canciani",
+      "order": 6
+    },
+    {
+      "personId": 67321,
+      "character": "Signora Enea",
+      "order": 7
+    },
+    {
+      "personId": 128223,
+      "character": "Mino Pecorelli",
+      "order": 8
+    },
+    {
+      "personId": 1033152,
+      "character": "Aldo Moro",
+      "order": 9
+    },
+    {
+      "personId": 72779,
+      "character": "Vincenzo Scotti",
+      "order": 10
+    },
+    {
+      "personId": 131632,
+      "character": "Vittorio Sbardella",
+      "order": 11
+    },
+    {
+      "personId": 129968,
+      "character": "Giuseppe Ciarrapico",
+      "order": 12
+    },
+    {
+      "personId": 1039477,
+      "character": "Judge Scarpinato",
+      "order": 13
+    },
+    {
+      "personId": 1049240,
+      "character": "Gaspare Mutolo",
+      "order": 14
+    },
+    {
+      "personId": 1049241,
+      "character": "Oscar Luigi Scalfaro",
+      "order": 15
+    },
+    {
+      "personId": 1872667,
+      "character": "Larry Schoenbach",
+      "order": 16
+    },
+    {
+      "personId": 118583,
+      "character": "Lima's Killer",
+      "order": 17
+    },
+    {
+      "personId": 1872668,
+      "character": "Doctor",
+      "order": 18
+    },
+    {
+      "personId": 1872669,
+      "character": "Tommaso Buscetta",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cannes": 1
+  },
+  "voteCount": 1210,
+  "sources": [
+    "cult-list"
+  ]
+}

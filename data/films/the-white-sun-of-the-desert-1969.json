@@ -1,0 +1,176 @@
+{
+  "tmdbId": 20848,
+  "slug": "the-white-sun-of-the-desert-1969",
+  "year": 1969,
+  "runtime": 83,
+  "originalTitle": "Белое солнце пустыни",
+  "title": {
+    "en": "The White Sun of the Desert",
+    "tr": "The White Sun of the Desert"
+  },
+  "overview": {
+    "en": "The setting is the east shore of the Caspian Sea (today's Turkmenistan) where the Red Army soldier Fyodor Sukhov has been fighting the Civil War in Russian Asia for a number of years. After being hospitalised and then demobbed, he sets off home to join his wife, only to be caught up in a desert fight between a Red Army cavalry unit and Basmachi guerrillas. The cavalry unit commander, Rahimov, \"convinces\" Sukhov to help, temporarily, with the protection of abandoned women of the Basmachi guerrilla leader Abdullah's harem. Leaving a young Red Army soldier, Petrukha, to assist Sukhov with the task, Rahimov and his cavalry unit set out to pursue fleeing Abdullah.Sukhov and women from Abdullah's harem return to a nearby shore town. Soon, looking for a seaway across the border, Abdullah and his gang come to the same town...",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/csdE5gGp4rWrgpuVKDNSxXlL0Hw.jpg",
+    "en": "/csdE5gGp4rWrgpuVKDNSxXlL0Hw.jpg"
+  },
+  "backdrops": [
+    "/wsl9ig1xEGX7q7SidK3gaOMmqY9.jpg",
+    "/iTttcSvZw2qwxQ6vikaj0ehX2te.jpg",
+    "/jYoGlM7pDZpF4DuM8ltih4lEnyO.jpg"
+  ],
+  "trailerKey": "QU24JzKG8WQ",
+  "genreIds": [
+    28,
+    18,
+    12,
+    10752
+  ],
+  "keywordIds": [
+    393,
+    18034,
+    193008,
+    210184
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [
+    "ru"
+  ],
+  "studios": [
+    "Lenfilm",
+    "Mosfilm"
+  ],
+  "crew": [
+    {
+      "personId": 98838,
+      "job": "director"
+    },
+    {
+      "personId": 143286,
+      "job": "writer"
+    },
+    {
+      "personId": 63965,
+      "job": "composer"
+    },
+    {
+      "personId": 549139,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 82798,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1119005,
+      "character": "Sukhov",
+      "order": 0
+    },
+    {
+      "personId": 86729,
+      "character": "Vereshchagin",
+      "order": 1
+    },
+    {
+      "personId": 86640,
+      "character": "Said",
+      "order": 2
+    },
+    {
+      "personId": 124268,
+      "character": "Abdulla",
+      "order": 3
+    },
+    {
+      "personId": 1499362,
+      "character": "Nastasya",
+      "order": 4
+    },
+    {
+      "personId": 124267,
+      "character": "Petrukha",
+      "order": 5
+    },
+    {
+      "personId": 3382954,
+      "character": "Gulchatai",
+      "order": 6
+    },
+    {
+      "personId": 124274,
+      "character": "Rakhimov",
+      "order": 7
+    },
+    {
+      "personId": 124275,
+      "character": "Lebedev",
+      "order": 8
+    },
+    {
+      "personId": 2404219,
+      "character": "Semyon",
+      "order": 9
+    },
+    {
+      "personId": 124276,
+      "character": "Катерина Матвеевна, жена Сухова",
+      "order": 10
+    },
+    {
+      "personId": 3382968,
+      "character": "Саида, старшая жена Абдуллы",
+      "order": 11
+    },
+    {
+      "personId": 3382960,
+      "character": "Хафиза, жена Абдуллы",
+      "order": 12
+    },
+    {
+      "personId": 3382961,
+      "character": "Ибрагим, бандит",
+      "order": 13
+    },
+    {
+      "personId": 3382964,
+      "character": "Аристарх, бандит",
+      "order": 14
+    },
+    {
+      "personId": 3382962,
+      "character": "Джамиля, жена Абдуллы",
+      "order": 15
+    },
+    {
+      "personId": 3382963,
+      "character": "Зарина, жена Абдуллы",
+      "order": 16
+    },
+    {
+      "personId": 3382967,
+      "character": "Зульфия, жена Абдуллы",
+      "order": 17
+    },
+    {
+      "personId": 124273,
+      "character": "Зухра, жена Абдуллы",
+      "order": 18
+    },
+    {
+      "personId": 2891398,
+      "character": "Гюзель, жена Абдуллы",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 190,
+  "sources": [
+    "cult-list"
+  ]
+}

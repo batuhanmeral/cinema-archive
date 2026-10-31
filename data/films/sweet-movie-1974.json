@@ -1,0 +1,196 @@
+{
+  "tmdbId": 1559,
+  "slug": "sweet-movie-1974",
+  "year": 1974,
+  "runtime": 98,
+  "originalTitle": "Sweet Movie",
+  "title": {
+    "en": "Sweet Movie",
+    "tr": "Sweet Movie"
+  },
+  "overview": {
+    "en": "The winner of the Miss World Virginity contest marries, escapes from her masochistic husband and ends up involved in a world of debauchery.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/64SaF3kOOaLPUVflDhXZLrB0xjt.jpg",
+    "en": "/5uG4olMWeST7hCHFU2UZsJtIaA3.jpg"
+  },
+  "backdrops": [
+    "/bUGORbmvkJQcnlpeKW3wux4BCeG.jpg",
+    "/3nNk0ll1uV5dTL3NAntsQLeMz5l.jpg",
+    "/uAsQfBaUU7gGlWEPYbDIOD84qWW.jpg",
+    "/cWjVcRPSfPsQO9Q8RokfXR2B08e.jpg",
+    "/d9D0EvcAmeapzyHIIuj36lJXFN6.jpg",
+    "/uWVA1yziMuiUo1aNGBWjYGT7tsL.jpg",
+    "/5EUd6NPd5HskTI5DO0ml5D3dNdb.jpg",
+    "/iBMKe8yiLNxSvLJZj43ScP0hhf9.jpg",
+    "/ezDosDaRlkTXMUWGwAsL0yUOHZ2.jpg",
+    "/kU1i5OhJnwEtGYSNMOaMi5RQo7u.jpg"
+  ],
+  "trailerKey": "QO0BJi5j_wg",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    715,
+    5549,
+    9887,
+    15216,
+    267122
+  ],
+  "countries": [
+    "CA",
+    "DE",
+    "FR"
+  ],
+  "languages": [
+    "it",
+    "es",
+    "de",
+    "fr",
+    "pl",
+    "en"
+  ],
+  "studios": [
+    "Maran Film",
+    "V. M. Productions",
+    "Mojack Film Ltée"
+  ],
+  "crew": [
+    {
+      "personId": 17554,
+      "job": "director"
+    },
+    {
+      "personId": 17556,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 17558,
+      "job": "composer"
+    },
+    {
+      "personId": 17554,
+      "job": "writer"
+    },
+    {
+      "personId": 19052,
+      "job": "producer"
+    },
+    {
+      "personId": 36996,
+      "job": "producer"
+    },
+    {
+      "personId": 1995914,
+      "job": "writer"
+    },
+    {
+      "personId": 1995915,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17576,
+      "character": "Miss Monde 1984 / Miss Canada",
+      "order": 0
+    },
+    {
+      "personId": 17577,
+      "character": "Potemkin Sailor",
+      "order": 1
+    },
+    {
+      "personId": 17575,
+      "character": "Capt. Anna Planeta",
+      "order": 2
+    },
+    {
+      "personId": 17578,
+      "character": "El Macho",
+      "order": 3
+    },
+    {
+      "personId": 17580,
+      "character": "Aristote Alplanalpe, AKA M. Kapital",
+      "order": 4
+    },
+    {
+      "personId": 1081421,
+      "character": "Mrs. Alplanalpe",
+      "order": 5
+    },
+    {
+      "personId": 17571,
+      "character": "Jeremiah Muscle",
+      "order": 6
+    },
+    {
+      "personId": 17581,
+      "character": "Mama Communa",
+      "order": 7
+    },
+    {
+      "personId": 221792,
+      "character": "Dr. Mittlefinger",
+      "order": 8
+    },
+    {
+      "personId": 1317517,
+      "character": "Member of Therapie-Komune",
+      "order": 9
+    },
+    {
+      "personId": 1126220,
+      "character": "Member of Therapie-Komune",
+      "order": 10
+    },
+    {
+      "personId": 1081828,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 70440,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1692469,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1614696,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 592875,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 39724,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 49505,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1240575,
+      "character": "",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 155,
+  "sources": [
+    "cult-list"
+  ]
+}

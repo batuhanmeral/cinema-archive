@@ -1,0 +1,190 @@
+{
+  "tmdbId": 12259,
+  "slug": "sholay-1975",
+  "year": 1975,
+  "runtime": 208,
+  "originalTitle": "शोले",
+  "title": {
+    "en": "Sholay",
+    "tr": "Intikam ve Yasa  / Solay"
+  },
+  "overview": {
+    "en": "After his family is slain by notorious bandit Gabbar Singh, former Inspector Thakur Baldev Singh enlists low-level outlaws Jai and Veeru to capture Gabbar and seek revenge.",
+    "tr": "Emekli polis Thakur Baldev Singh küçük Ramgarh köyüne korku salan bir haydut çetesinin lideri olan Gabbar Singh’i yakalamak için Jaidev ve Veeru isimli iki mahkumla anlaşır. Gabbar Thakur’un tüm ailesini öldürür ve kollarını kestirir. Kendi başına intikam alamayan Thakur Baldev Singh Veeru ve Jaidev’i görevlendirir. İkili Gabbar Singh’i canlı yakalamayı ve onu Baldev Singh’e teslim etmeyi kabul eder. Ancak işler planlandığı gibi gitmez. Veeru yerli at arabası sürücüsü Basanti’ye aşık olur. Jai de Baldev Singh’in dul gelini Radha’dan hoşlanmaktadır. İşleri daha da kötüleştiren Gabbar’ın Jai ile Veeru’yu öldürmeye yemin edip Basanti’yi rehin alması olur. Ancak Jaidev ve Veeru o kadar zekidir ki hiçbir haydut onları yenemeyecektir."
+  },
+  "poster": {
+    "tr": "/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg",
+    "en": "/ya9bwgqA4eNl5bQ9QqS0jcmRoBS.jpg"
+  },
+  "backdrops": [
+    "/mUAvhPWY4r7O32txXa7VvzKMrhJ.jpg",
+    "/8aYAfAPolsRFrHbP1rafeSgg2Ew.jpg",
+    "/6c7REQEvAqCORUjcSpPurOBZlqA.jpg",
+    "/oCU8EsxFzgwelyMB9EBz5cRpHg4.jpg",
+    "/ddmvLofVUwXIlPlsZPDQrgziiWy.jpg",
+    "/41GZEHFXsk33smZniBXXiTjtl92.jpg",
+    "/nu3Hd3K4ZXCHsPkanuJ2csY0bOC.jpg",
+    "/eTisfQYXBJAAhgQJusUhT6ToQ2M.jpg"
+  ],
+  "trailerKey": "RDY97iu1_q8",
+  "genreIds": [
+    28
+  ],
+  "keywordIds": [
+    6149,
+    1721,
+    5331,
+    3230,
+    4344,
+    33344,
+    209941,
+    215492,
+    237517,
+    252204,
+    258484,
+    285795
+  ],
+  "countries": [
+    "IN"
+  ],
+  "languages": [
+    "hi"
+  ],
+  "studios": [
+    "Sippy Films",
+    "NH Studioz"
+  ],
+  "crew": [
+    {
+      "personId": 85446,
+      "job": "director"
+    },
+    {
+      "personId": 81986,
+      "job": "writer"
+    },
+    {
+      "personId": 81984,
+      "job": "writer"
+    },
+    {
+      "personId": 131907,
+      "job": "producer"
+    },
+    {
+      "personId": 1533853,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 88141,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85655,
+      "character": "Veeru",
+      "order": 0
+    },
+    {
+      "personId": 35780,
+      "character": "Jai",
+      "order": 1
+    },
+    {
+      "personId": 86509,
+      "character": "Thakur Baldev Singh",
+      "order": 2
+    },
+    {
+      "personId": 86510,
+      "character": "Gabbar Singh",
+      "order": 3
+    },
+    {
+      "personId": 35781,
+      "character": "Basanti",
+      "order": 4
+    },
+    {
+      "personId": 35743,
+      "character": "Radha",
+      "order": 5
+    },
+    {
+      "personId": 630988,
+      "character": "Mausi",
+      "order": 6
+    },
+    {
+      "personId": 85673,
+      "character": "Sambha",
+      "order": 7
+    },
+    {
+      "personId": 934092,
+      "character": "Kaalia",
+      "order": 8
+    },
+    {
+      "personId": 230969,
+      "character": "Imaam Saheb",
+      "order": 9
+    },
+    {
+      "personId": 86019,
+      "character": "Jailor",
+      "order": 10
+    },
+    {
+      "personId": 618699,
+      "character": "Soorma Bhopali",
+      "order": 11
+    },
+    {
+      "personId": 110099,
+      "character": "Ramlal",
+      "order": 12
+    },
+    {
+      "personId": 593144,
+      "character": "Hariram",
+      "order": 13
+    },
+    {
+      "personId": 110096,
+      "character": "Narmalaji",
+      "order": 14
+    },
+    {
+      "personId": 994514,
+      "character": "Ahmed",
+      "order": 15
+    },
+    {
+      "personId": 2472615,
+      "character": "Elder Son of Thakur",
+      "order": 16
+    },
+    {
+      "personId": 2183588,
+      "character": "Ninni",
+      "order": 17
+    },
+    {
+      "personId": 927964,
+      "character": "Geetha",
+      "order": 18
+    },
+    {
+      "personId": 1028459,
+      "character": "Jailor",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 339,
+  "sources": [
+    "cult-list"
+  ]
+}

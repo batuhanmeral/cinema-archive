@@ -1,0 +1,181 @@
+{
+  "tmdbId": 42178,
+  "slug": "winter-kills-1979",
+  "year": 1979,
+  "runtime": 97,
+  "originalTitle": "Winter Kills",
+  "title": {
+    "en": "Winter Kills",
+    "tr": "Winter Kills"
+  },
+  "overview": {
+    "en": "The younger brother of an assassinated US President is led down a rabbit hole of conspiracies and dead ends after learning of a man claiming to be the real shooter.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qDGAY2FCuRX82VOfi0Lr47SCnTl.jpg",
+    "en": "/qDGAY2FCuRX82VOfi0Lr47SCnTl.jpg"
+  },
+  "backdrops": [
+    "/2u0VxcEoI9RqnV7yugE5Dihlkc6.jpg",
+    "/j6Mshto7QfMk80TUzvzJLfCI3Sm.jpg",
+    "/ziCNLn7diiq5k61tNGTrdGHCqCt.jpg",
+    "/kRR1INKRlFtYoBW4Ft7mwrgRkCt.jpg",
+    "/o6CLoObM8sbiKzmWG0n7NOHA1n7.jpg",
+    "/ilc08rYt0sG0nG4J6EvSaIXOXMQ.jpg",
+    "/z4sDKJrlToiKteiNDZnfdCGMZsG.jpg",
+    "/bzkQYX2lBomDwwTo9kKQkxcF7FG.jpg"
+  ],
+  "trailerKey": "wMCJcLvTKY8",
+  "genreIds": [
+    18,
+    9648,
+    53,
+    35
+  ],
+  "keywordIds": [
+    190434
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Winter Gold Productions"
+  ],
+  "crew": [
+    {
+      "personId": 6385,
+      "job": "director"
+    },
+    {
+      "personId": 6385,
+      "job": "writer"
+    },
+    {
+      "personId": 12235,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2704,
+      "job": "composer"
+    },
+    {
+      "personId": 11789,
+      "job": "producer"
+    },
+    {
+      "personId": 65407,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1229,
+      "character": "Nick Kegan",
+      "order": 0
+    },
+    {
+      "personId": 6593,
+      "character": "Pa Kegan",
+      "order": 1
+    },
+    {
+      "personId": 7301,
+      "character": "John Cerruti",
+      "order": 2
+    },
+    {
+      "personId": 3265,
+      "character": "Joe Diamond",
+      "order": 3
+    },
+    {
+      "personId": 3088,
+      "character": "Z.K. Dawson",
+      "order": 4
+    },
+    {
+      "personId": 10487,
+      "character": "Emma Kegan",
+      "order": 5
+    },
+    {
+      "personId": 21708,
+      "character": "Frank Mayo",
+      "order": 6
+    },
+    {
+      "personId": 44049,
+      "character": "Yvette Malone",
+      "order": 7
+    },
+    {
+      "personId": 14562,
+      "character": "Gameboy Baker",
+      "order": 8
+    },
+    {
+      "personId": 7450,
+      "character": "Keith",
+      "order": 9
+    },
+    {
+      "personId": 16420,
+      "character": "Keifitz",
+      "order": 10
+    },
+    {
+      "personId": 54127,
+      "character": "Miles Garner",
+      "order": 11
+    },
+    {
+      "personId": 14529,
+      "character": "Captain Heller One",
+      "order": 12
+    },
+    {
+      "personId": 2557826,
+      "character": "Ray Doty",
+      "order": 13
+    },
+    {
+      "personId": 1405573,
+      "character": "Captain Heller Two",
+      "order": 14
+    },
+    {
+      "personId": 1943168,
+      "character": "Irving Mentor",
+      "order": 15
+    },
+    {
+      "personId": 1475003,
+      "character": "Jeffreys",
+      "order": 16
+    },
+    {
+      "personId": 1221185,
+      "character": "First Mate of T.K.",
+      "order": 17
+    },
+    {
+      "personId": 161448,
+      "character": "Doctor",
+      "order": 18
+    },
+    {
+      "personId": 16525,
+      "character": "Arthur Fletcher",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 71,
+  "sources": [
+    "cult-list"
+  ]
+}

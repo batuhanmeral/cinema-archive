@@ -1,0 +1,201 @@
+{
+  "tmdbId": 11009,
+  "slug": "saturday-night-fever-1977",
+  "year": 1977,
+  "runtime": 118,
+  "originalTitle": "Saturday Night Fever",
+  "title": {
+    "en": "Saturday Night Fever",
+    "tr": "Cumartesi Gecesi Ateşi"
+  },
+  "overview": {
+    "en": "Tony spends his Saturdays at a disco where his stylish moves raise his popularity among the patrons. But his life outside the disco is not easy and things change when he gets attracted to Stephanie.",
+    "tr": "Tony'nin hayatındaki en büyük zevki dans etmektir. Hatta bundan başka bir şeyi düşünmez bile. Her cumartesi gecesi takıldıkları diskoda dans eden Tony, bu hobisinin üzerine gider ve dans pistlerinin kralı olma hayalini gerçekleştirmek ister.\r Gittiği diskoda Stephanie adlı kızla tanıştıktan sonra ise hayatı değişmeye başlar. Kendisi gibi dansı bir tutku haline getirmiş olan Stephanie ile dans partneri olan Tony, şehirde düzenlenen büyük bir dans yarışmasına katılırlar ve hayalleri gerçek olmak üzeredir."
+  },
+  "poster": {
+    "tr": "/9MLcUWadYhBFPGsFLYOwJolYvY9.jpg",
+    "en": "/zxt6LhH2QWJzS5eMtNoxbbkogal.jpg"
+  },
+  "backdrops": [
+    "/iihMna17sTxP3zwlWBsKZbvDiGZ.jpg",
+    "/hsExnzxtgMOyew6uI1NwOD7Pu04.jpg",
+    "/rksaWEQwMAeJQJVMBIsDph5nLCT.jpg",
+    "/hlpWOhePlwZ5cME1uro0cyc9Wu0.jpg",
+    "/oTeii6fHbYUHIkOud5cgYzQicp7.jpg",
+    "/cItRkpBIuZC4gjJ6r65AotEzpNX.jpg",
+    "/sR4K6wIOS4IuG41Va279D0o0bMd.jpg",
+    "/6EJGF4jJajJ4M4xLHoyYdASXfSu.jpg",
+    "/go7fxk1rzCvKXiK0tumJFHAId3n.jpg",
+    "/3ynD6pxnRzdCpUuEkivRIftXFpJ.jpg"
+  ],
+  "trailerKey": "lX2FffaLdks",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1342,
+    1346,
+    1808,
+    155490,
+    210162,
+    239187,
+    247336,
+    315310,
+    325771,
+    325780,
+    325846
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Robert Stigwood Organization",
+    "Paramount Pictures",
+    "SNF Productions"
+  ],
+  "crew": [
+    {
+      "personId": 21512,
+      "job": "writer"
+    },
+    {
+      "personId": 8879,
+      "job": "producer"
+    },
+    {
+      "personId": 12840,
+      "job": "director"
+    },
+    {
+      "personId": 66887,
+      "job": "composer"
+    },
+    {
+      "personId": 66885,
+      "job": "composer"
+    },
+    {
+      "personId": 25212,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 66886,
+      "job": "composer"
+    },
+    {
+      "personId": 8422,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8891,
+      "character": "Tony Manero",
+      "order": 0
+    },
+    {
+      "personId": 67787,
+      "character": "Stephanie",
+      "order": 1
+    },
+    {
+      "personId": 62014,
+      "character": "Bobby C.",
+      "order": 2
+    },
+    {
+      "personId": 67788,
+      "character": "Joey",
+      "order": 3
+    },
+    {
+      "personId": 174563,
+      "character": "Double J.",
+      "order": 4
+    },
+    {
+      "personId": 1216751,
+      "character": "Annette",
+      "order": 5
+    },
+    {
+      "personId": 171758,
+      "character": "Gus",
+      "order": 6
+    },
+    {
+      "personId": 20972,
+      "character": "Flo",
+      "order": 7
+    },
+    {
+      "personId": 119054,
+      "character": "Frank, Jr.",
+      "order": 8
+    },
+    {
+      "personId": 118132,
+      "character": "Fusco",
+      "order": 9
+    },
+    {
+      "personId": 951077,
+      "character": "Grandmother",
+      "order": 10
+    },
+    {
+      "personId": 1191736,
+      "character": "Linda",
+      "order": 11
+    },
+    {
+      "personId": 59695,
+      "character": "Doreen",
+      "order": 12
+    },
+    {
+      "personId": 1161044,
+      "character": "Pete",
+      "order": 13
+    },
+    {
+      "personId": 33492,
+      "character": "Paint Store Customer",
+      "order": 14
+    },
+    {
+      "personId": 1191737,
+      "character": "Becker",
+      "order": 15
+    },
+    {
+      "personId": 1191738,
+      "character": "Girl in Disco",
+      "order": 16
+    },
+    {
+      "personId": 53122,
+      "character": "Connie",
+      "order": 17
+    },
+    {
+      "personId": 1671975,
+      "character": "Jay Langhart",
+      "order": 18
+    },
+    {
+      "personId": 77255,
+      "character": "Haberdashery Salesman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2171,
+  "sources": [
+    "cult-list"
+  ]
+}

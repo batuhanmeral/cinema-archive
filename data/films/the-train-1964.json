@@ -1,0 +1,217 @@
+{
+  "tmdbId": 3482,
+  "slug": "the-train-1964",
+  "year": 1964,
+  "runtime": 133,
+  "originalTitle": "The Train",
+  "title": {
+    "en": "The Train",
+    "tr": "Tren"
+  },
+  "overview": {
+    "en": "As the Allied forces approach Paris in August 1944, German Colonel Von Waldheim is desperate to take all of France's greatest paintings to Germany. He manages to secure a train to transport the valuable art works even as the chaos of retreat descends upon them. The French resistance however wants to stop them from stealing their national treasures but have received orders from London that they are not to be destroyed. The station master, Labiche, is tasked with scheduling the train and making it all happen smoothly but he is also part of a dwindling group of resistance fighters tasked with preventing the theft. He and others stage an elaborate ruse to keep the train from ever leaving French territory.",
+    "tr": "Usta yönetmen John Frankenheimer'in imzasını taşıyan filmde, Paris her an Nazilerin kontrolünden çıkıp özgürlüğüne kavuşabilecek gibidir. En azından Alman subayı Albay Franz von Waldheim (Paul Scofield)'in aldığı istihbarat bu yöndedir. Yukarıdan ona gelen emir Jeu de Paume müzesindeki paha biçilmez sanat eserlerini anayurda getirmesi şeklindedir. Eserler Almanya'ya bir trenle sevk edilecek; demiryolu müfettişi Labiche (Burt Lancaster) de bu sevkiyata engel olmaya çalışacaktır. Tren sahnelerinde gerçek trenler ve istasyonlar kullanmakta ısrar eden Frankenheimer'in ne kadar haklı olduğu görülmüş, filme son derece gerçekçi ve heyecan dolu bir hava katan sahneler birçok yönetmeni etkilemişti."
+  },
+  "poster": {
+    "tr": "/bzgPLB7efMohled42PIn6CcOTnO.jpg",
+    "en": "/9hCN2wgZaszUjEgLp65OK4uwfRT.jpg"
+  },
+  "backdrops": [
+    "/JnukHKeQNTaCCpsXiCk1VYtVTH.jpg",
+    "/tL5uUcgmpcCZOnrnjPcNwz1LGqY.jpg",
+    "/kRQOykxekL7Lr77NHbmIHt8iyLt.jpg",
+    "/rlB6tUf80BTTk7IUWYMbvlJjdbP.jpg",
+    "/apvZHogV7EBZWWEjUzULqX88xnh.jpg",
+    "/yCZ1ewGS2iiWcuaXqVLBArgph1h.jpg",
+    "/x8BsPsPyX50qGhxVAAyPVpo6lA6.jpg",
+    "/8Ax0Fy5hI2BzeGUxIyv5llFqNuQ.jpg",
+    "/yr03yfZZ973aCIEmL7bcY2oqGZJ.jpg",
+    "/65Ixfe35wlVxgZdEIJUV2Zo7qfu.jpg"
+  ],
+  "trailerKey": "KDpjtVI1z9g",
+  "genreIds": [
+    10752,
+    53
+  ],
+  "keywordIds": [
+    254,
+    90,
+    2652,
+    1956,
+    5918,
+    5375,
+    4655,
+    10663,
+    9904,
+    12999,
+    14789,
+    156031
+  ],
+  "countries": [
+    "FR",
+    "IT",
+    "US"
+  ],
+  "languages": [
+    "de",
+    "en"
+  ],
+  "studios": [
+    "Les Productions Artistes Associés",
+    "Les Films Ariane",
+    "Dear Film"
+  ],
+  "crew": [
+    {
+      "personId": 12342,
+      "job": "writer"
+    },
+    {
+      "personId": 6835,
+      "job": "writer"
+    },
+    {
+      "personId": 32108,
+      "job": "writer"
+    },
+    {
+      "personId": 13776,
+      "job": "director"
+    },
+    {
+      "personId": 10470,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 32109,
+      "job": "producer"
+    },
+    {
+      "personId": 32097,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2704,
+      "job": "composer"
+    },
+    {
+      "personId": 32107,
+      "job": "writer"
+    },
+    {
+      "personId": 69319,
+      "job": "writer"
+    },
+    {
+      "personId": 29628,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13784,
+      "character": "Paul Labiche",
+      "order": 0
+    },
+    {
+      "personId": 13324,
+      "character": "von Waldheim",
+      "order": 1
+    },
+    {
+      "personId": 14812,
+      "character": "Christine",
+      "order": 2
+    },
+    {
+      "personId": 30720,
+      "character": "Mademoiselle Villard",
+      "order": 3
+    },
+    {
+      "personId": 12748,
+      "character": "Papa Boul",
+      "order": 4
+    },
+    {
+      "personId": 14121,
+      "character": "Maj. Herren",
+      "order": 5
+    },
+    {
+      "personId": 1655,
+      "character": "Didont",
+      "order": 6
+    },
+    {
+      "personId": 32112,
+      "character": "Pesquet",
+      "order": 7
+    },
+    {
+      "personId": 18964,
+      "character": "General von Lubitz",
+      "order": 8
+    },
+    {
+      "personId": 5764,
+      "character": "Octave",
+      "order": 9
+    },
+    {
+      "personId": 26890,
+      "character": "Jacques",
+      "order": 10
+    },
+    {
+      "personId": 41716,
+      "character": "Spinet",
+      "order": 11
+    },
+    {
+      "personId": 948462,
+      "character": "Schmidt",
+      "order": 12
+    },
+    {
+      "personId": 31779,
+      "character": "Schwartz",
+      "order": 13
+    },
+    {
+      "personId": 22623,
+      "character": "Pilzer",
+      "order": 14
+    },
+    {
+      "personId": 33793,
+      "character": "Major",
+      "order": 15
+    },
+    {
+      "personId": 13696,
+      "character": "Dietrich",
+      "order": 16
+    },
+    {
+      "personId": 1004175,
+      "character": "Railroad Worker",
+      "order": 17
+    },
+    {
+      "personId": 143534,
+      "character": "Grote",
+      "order": 18
+    },
+    {
+      "personId": 1162643,
+      "character": "Robert",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 403,
+  "sources": [
+    "cult-list"
+  ]
+}

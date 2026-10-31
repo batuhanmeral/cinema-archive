@@ -1,0 +1,203 @@
+{
+  "tmdbId": 7191,
+  "slug": "cloverfield-2008",
+  "year": 2008,
+  "runtime": 85,
+  "originalTitle": "Cloverfield",
+  "title": {
+    "en": "Cloverfield",
+    "tr": "Canavar"
+  },
+  "overview": {
+    "en": "Five young New Yorkers throw their friend a going-away party the night that a monster the size of a skyscraper descends upon the city. Told from the point of view of their video camera, the film is a document of their attempt to survive the most surreal, horrifying event of their lives.",
+    "tr": "New York’taki bir barda kulakları sağır eden bir gürültü duyulur, bardaki kargaşa sırasında davetliler merdivenden aşağıya kaçmaya çalışırken New York caddelerini alev alev yanan yıkıntı ve enkazlar kaplar. Ardından Manhattan tarafında şiddetli bir patlama olur, Özgürlük Heykelinin kafası tıpkı dev bir top güllesi gibi caddeye çarpar. New York’a düzenlenen bir canavar saldırısına tanıklık eden insanların öyküsü."
+  },
+  "poster": {
+    "tr": "/maNm9gkWYLuEJMWiTXfww7bKtmB.jpg",
+    "en": "/qIegUGJqyMMCRjkKV1s7A9MqdJ8.jpg"
+  },
+  "backdrops": [
+    "/6ms6RdNcQUAnjBY26aM85xC2wV0.jpg",
+    "/b4lLeQY714frhMecNwmCZVzk9k3.jpg",
+    "/1c0Ouyya5iIeblBrTd29A4W9Ez3.jpg",
+    "/4bFj3pUdFCO6tbOkNTCzAWncJU8.jpg",
+    "/vq0KjWWk0B4KhqtrXhAG7mmxLj9.jpg",
+    "/zuz9kkacCnMsKxIc3SjDwJ1yzba.jpg",
+    "/z1chRzkka5Z1gkGy6zqeAwDjixw.jpg",
+    "/yGv7vtPrmDTXc5PoiYmP16KWUrT.jpg",
+    "/aGQtiDd9D7WR9AxP3fHf0CDfIm2.jpg",
+    "/rK8dkU5N4QQmYaZh4hZuN33mcPj.jpg"
+  ],
+  "trailerKey": "wxqSIsxMlYQ",
+  "genreIds": [
+    28,
+    53,
+    878
+  ],
+  "keywordIds": [
+    6898,
+    1299,
+    4630,
+    1418,
+    6152,
+    11100,
+    9951,
+    10617,
+    14602,
+    14796,
+    50009,
+    161791,
+    162365,
+    163053,
+    179430,
+    207082,
+    232076,
+    276164,
+    325839,
+    365784,
+    365923
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "ru",
+    "en"
+  ],
+  "studios": [
+    "Bad Robot"
+  ],
+  "crew": [
+    {
+      "personId": 15344,
+      "job": "producer"
+    },
+    {
+      "personId": 47506,
+      "job": "writer"
+    },
+    {
+      "personId": 36224,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 32278,
+      "job": "director"
+    },
+    {
+      "personId": 28977,
+      "job": "producer"
+    },
+    {
+      "personId": 15347,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 51988,
+      "character": "Marlena",
+      "order": 0
+    },
+    {
+      "personId": 51989,
+      "character": "Lily",
+      "order": 1
+    },
+    {
+      "personId": 51990,
+      "character": "Hud",
+      "order": 2
+    },
+    {
+      "personId": 51991,
+      "character": "Rob Hawkins",
+      "order": 3
+    },
+    {
+      "personId": 6858,
+      "character": "Jason Hawkins",
+      "order": 4
+    },
+    {
+      "personId": 51992,
+      "character": "Beth McIntyre",
+      "order": 5
+    },
+    {
+      "personId": 51993,
+      "character": "Bodega Cashier",
+      "order": 6
+    },
+    {
+      "personId": 51994,
+      "character": "Jenn",
+      "order": 7
+    },
+    {
+      "personId": 51995,
+      "character": "Antonio",
+      "order": 8
+    },
+    {
+      "personId": 51996,
+      "character": "Charlie",
+      "order": 9
+    },
+    {
+      "personId": 51997,
+      "character": "Clark",
+      "order": 10
+    },
+    {
+      "personId": 51998,
+      "character": "Heather",
+      "order": 11
+    },
+    {
+      "personId": 51999,
+      "character": "Lei",
+      "order": 12
+    },
+    {
+      "personId": 78431,
+      "character": "Travis",
+      "order": 13
+    },
+    {
+      "personId": 209670,
+      "character": "Party Goer",
+      "order": 14
+    },
+    {
+      "personId": 1205127,
+      "character": "Party Goer",
+      "order": 15
+    },
+    {
+      "personId": 203750,
+      "character": "Party Goer",
+      "order": 16
+    },
+    {
+      "personId": 150209,
+      "character": "Party Goer",
+      "order": 17
+    },
+    {
+      "personId": 1205128,
+      "character": "Party Goer",
+      "order": 18
+    },
+    {
+      "personId": 1205129,
+      "character": "Party Goer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 8209,
+  "sources": [
+    "cult-list"
+  ]
+}

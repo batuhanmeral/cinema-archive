@@ -1,0 +1,187 @@
+{
+  "tmdbId": 24452,
+  "slug": "the-little-shop-of-horrors-1960",
+  "year": 1960,
+  "runtime": 73,
+  "originalTitle": "The Little Shop of Horrors",
+  "title": {
+    "en": "The Little Shop of Horrors",
+    "tr": "The Little Shop of Horrors"
+  },
+  "overview": {
+    "en": "Seymour works in a skid row florist shop and is in love with his beautiful co-worker, Audrey. He creates a new plant that not only talks but cannot survive without human flesh and blood.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/s9MrumN9oCfv1rFoEvMLwucWD7V.jpg",
+    "en": "/s9MrumN9oCfv1rFoEvMLwucWD7V.jpg"
+  },
+  "backdrops": [
+    "/sGz7JApiDtClRFxffIw3WgRK8y2.jpg",
+    "/1KAdy1pd5Yct2aoW1N5Hl5DMKia.jpg",
+    "/xELfnv0psIVAtnUgMtDL7hqTTx3.jpg"
+  ],
+  "trailerKey": "amlXKaqk2jg",
+  "genreIds": [
+    27,
+    35,
+    14
+  ],
+  "keywordIds": [
+    2779,
+    2879,
+    10123,
+    3302,
+    8183,
+    12999,
+    155806,
+    157444,
+    188952,
+    210234,
+    309974,
+    325832
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Santa Clara Productions",
+    "Roger Corman Productions",
+    "The Filmgroup"
+  ],
+  "crew": [
+    {
+      "personId": 102429,
+      "job": "director"
+    },
+    {
+      "personId": 102429,
+      "job": "producer"
+    },
+    {
+      "personId": 52140,
+      "job": "writer"
+    },
+    {
+      "personId": 91999,
+      "job": "composer"
+    },
+    {
+      "personId": 40387,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 89036,
+      "job": "composer"
+    },
+    {
+      "personId": 102429,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 98452,
+      "character": "Seymour Krelboined",
+      "order": 0
+    },
+    {
+      "personId": 16182,
+      "character": "Audrey Fulquard",
+      "order": 1
+    },
+    {
+      "personId": 30647,
+      "character": "Gravis Mushnick",
+      "order": 2
+    },
+    {
+      "personId": 102441,
+      "character": "Burson Fouch",
+      "order": 3
+    },
+    {
+      "personId": 102652,
+      "character": "Winifred Krelboined",
+      "order": 4
+    },
+    {
+      "personId": 114525,
+      "character": "Shirley",
+      "order": 5
+    },
+    {
+      "personId": 114526,
+      "character": "Teenage Girl",
+      "order": 6
+    },
+    {
+      "personId": 102726,
+      "character": "Siddie Shiva",
+      "order": 7
+    },
+    {
+      "personId": 114527,
+      "character": "Hortense Feuchtwanger",
+      "order": 8
+    },
+    {
+      "personId": 102727,
+      "character": "Joe Fink",
+      "order": 9
+    },
+    {
+      "personId": 114528,
+      "character": "Frank Stoolie",
+      "order": 10
+    },
+    {
+      "personId": 114529,
+      "character": "Leonora Clyde",
+      "order": 11
+    },
+    {
+      "personId": 102650,
+      "character": "Phoebus Farb",
+      "order": 12
+    },
+    {
+      "personId": 514,
+      "character": "Wilbur Force",
+      "order": 13
+    },
+    {
+      "personId": 114530,
+      "character": "Waitress",
+      "order": 14
+    },
+    {
+      "personId": 52140,
+      "character": "Screaming Patient / Audrey Junior (voice) / Burglar (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 47001,
+      "character": "Man in Crowd Outside Shop (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1634865,
+      "character": "Drunk (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 596378,
+      "character": "Tramp (uncredited)",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 489,
+  "sources": [
+    "cult-list"
+  ]
+}

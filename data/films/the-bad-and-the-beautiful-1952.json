@@ -1,0 +1,184 @@
+{
+  "tmdbId": 32499,
+  "slug": "the-bad-and-the-beautiful-1952",
+  "year": 1952,
+  "runtime": 118,
+  "originalTitle": "The Bad and the Beautiful",
+  "title": {
+    "en": "The Bad and the Beautiful",
+    "tr": "The Bad and the Beautiful"
+  },
+  "overview": {
+    "en": "Told in flashback form, the film traces the rise and fall of a tough, ambitious Hollywood producer, Jonathan Shields, as seen through the eyes of various acquaintances, including a writer, James Lee Bartlow; a star, Georgia Lorrison; and a director, Fred Amiel. He is a hard-driving, ambitious man who ruthlessly uses everyone on the way to becoming one of Hollywood's top movie makers.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ajAXzTiPkL7JxeCRw5lQBqrKNGx.jpg",
+    "en": "/ajAXzTiPkL7JxeCRw5lQBqrKNGx.jpg"
+  },
+  "backdrops": [
+    "/omvyf5m1RKkZq7w8obrOEDhY5E0.jpg",
+    "/jVyVSD0w4Bg3r67geP0LvkizfC5.jpg",
+    "/1kwQgrJUKDf64qtzdO0OXNg4CNA.jpg",
+    "/rBnDWuY3pvBFNlJpPQNYQ0gEE1H.jpg",
+    "/mEulAYVvg3SOTEMOze8d6o7kd1q.jpg",
+    "/roBZ02l6v4n06rn3NdhWqa7z13q.jpg",
+    "/naNjHHzryJfl2n8zcqti36APV2A.jpg",
+    "/9666G02CNN0ZGjSpzGQzbJn4U9h.jpg",
+    "/la2CLIwky7ozjY7ftnWEwTHhtqH.jpg",
+    "/xg8LEhCRqsqe4zk65Ub4SaZbkLU.jpg"
+  ],
+  "trailerKey": "T4mG-4HBn1w",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    886,
+    6974,
+    9856,
+    12396,
+    12999,
+    171826
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 11783,
+      "job": "producer"
+    },
+    {
+      "personId": 30295,
+      "job": "writer"
+    },
+    {
+      "personId": 13980,
+      "job": "director"
+    },
+    {
+      "personId": 18593,
+      "job": "composer"
+    },
+    {
+      "personId": 10005,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29623,
+      "character": "Georgia Lorrison",
+      "order": 0
+    },
+    {
+      "personId": 2090,
+      "character": "Jonathan Shields",
+      "order": 1
+    },
+    {
+      "personId": 12308,
+      "character": "Harry Pebbel",
+      "order": 2
+    },
+    {
+      "personId": 19328,
+      "character": "James Lee Bartlow",
+      "order": 3
+    },
+    {
+      "personId": 40433,
+      "character": "Fred Amiel",
+      "order": 4
+    },
+    {
+      "personId": 77081,
+      "character": "Rosemary Bartlow",
+      "order": 5
+    },
+    {
+      "personId": 2642,
+      "character": "Henry Whitfield",
+      "order": 6
+    },
+    {
+      "personId": 29273,
+      "character": "Victor \"Gaucho\" Ribera",
+      "order": 7
+    },
+    {
+      "personId": 11033,
+      "character": "Syd Murphy",
+      "order": 8
+    },
+    {
+      "personId": 88570,
+      "character": "Kay Amiel",
+      "order": 9
+    },
+    {
+      "personId": 121765,
+      "character": "Lila",
+      "order": 10
+    },
+    {
+      "personId": 110940,
+      "character": "Gus",
+      "order": 11
+    },
+    {
+      "personId": 5041,
+      "character": "Von Ellstein",
+      "order": 12
+    },
+    {
+      "personId": 2053950,
+      "character": "Blonde Dancing with Gaucho (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 3343,
+      "character": "Mr. Z (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 34505,
+      "character": "Sheriff (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 13942,
+      "character": "Georgia's Makeup Artist (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 112965,
+      "character": "Joe (Party Guest) (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 117723,
+      "character": "Evelyn Lucien (Costumer) (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2054371,
+      "character": "Ferraday (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 5
+  },
+  "voteCount": 316,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "tmdbId": 14241,
+  "slug": "7-faces-of-dr-lao-1964",
+  "year": 1964,
+  "runtime": 100,
+  "originalTitle": "7 Faces of Dr. Lao",
+  "title": {
+    "en": "7 Faces of Dr. Lao",
+    "tr": "7 Faces of Dr. Lao"
+  },
+  "overview": {
+    "en": "An old Chinese man rides into the town of Abalone, Arizona and changes it forever, as the citizens see themselves reflected in the mirror of Lao's mysterious circus of mythical beasts.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dwUTdtGUDmCb3Tiz6iTzBuONGTQ.jpg",
+    "en": "/jnZae8tLGqZhlxyItqfmAfyn5Ad.jpg"
+  },
+  "backdrops": [
+    "/1CYIvjmkhVYJblOYPucgfF9EXQQ.jpg",
+    "/uyfEja1uRu2kYc7tC7wnwgT2pss.jpg",
+    "/406x8iaMITOiYtvb1HmxcE8NV7W.jpg",
+    "/eSZKA1gfbh0Et8br6E5XGAMO1zf.jpg",
+    "/2v88AZm2oxLGgjISYcAQMxOdpx.jpg"
+  ],
+  "trailerKey": "XUej2Wcqn4o",
+  "genreIds": [
+    14,
+    10751,
+    37,
+    35
+  ],
+  "keywordIds": [
+    2343,
+    291,
+    1859,
+    8873,
+    10863,
+    18044,
+    180940,
+    191143
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "George Pal Productions",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 5467,
+      "job": "composer"
+    },
+    {
+      "personId": 930242,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 21869,
+      "job": "director"
+    },
+    {
+      "personId": 46443,
+      "job": "writer"
+    },
+    {
+      "personId": 21869,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 40206,
+      "character": "Dr. Lao / The Abominable Snowman / Merlin the Magician / Apollonius of Tyana / Pan / The Giant Serpent / Medusa / Audience Member",
+      "order": 0
+    },
+    {
+      "personId": 22090,
+      "character": "Angela Benedict",
+      "order": 1
+    },
+    {
+      "personId": 857,
+      "character": "Clint Stark",
+      "order": 2
+    },
+    {
+      "personId": 41231,
+      "character": "Ed Cunningham / Transformed Pan",
+      "order": 3
+    },
+    {
+      "personId": 30297,
+      "character": "Tim Mitchell",
+      "order": 4
+    },
+    {
+      "personId": 5740,
+      "character": "Mrs. Howard Cassin",
+      "order": 5
+    },
+    {
+      "personId": 102002,
+      "character": "Kate Lindquist",
+      "order": 6
+    },
+    {
+      "personId": 4119,
+      "character": "Luther Lindquist",
+      "order": 7
+    },
+    {
+      "personId": 179462,
+      "character": "Peter Ramsey",
+      "order": 8
+    },
+    {
+      "personId": 153578,
+      "character": "Mrs. Peter Ramsey",
+      "order": 9
+    },
+    {
+      "personId": 165590,
+      "character": "George C. George",
+      "order": 10
+    },
+    {
+      "personId": 19968,
+      "character": "Carey",
+      "order": 11
+    },
+    {
+      "personId": 113726,
+      "character": "Sarah Benedict",
+      "order": 12
+    },
+    {
+      "personId": 34130,
+      "character": "Lucas",
+      "order": 13
+    },
+    {
+      "personId": 44676,
+      "character": "Lean Cowboy",
+      "order": 14
+    },
+    {
+      "personId": 93622,
+      "character": "Mayor James Sargent",
+      "order": 15
+    },
+    {
+      "personId": 55701,
+      "character": "Fat Cowboy",
+      "order": 16
+    },
+    {
+      "personId": 13298,
+      "character": "Toothless Cowboy",
+      "order": 17
+    },
+    {
+      "personId": 163333,
+      "character": "Mike Benedict",
+      "order": 18
+    },
+    {
+      "personId": 2781999,
+      "character": "Little Girl",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 102,
+  "sources": [
+    "cult-list"
+  ]
+}

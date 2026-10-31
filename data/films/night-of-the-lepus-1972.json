@@ -1,0 +1,189 @@
+{
+  "tmdbId": 38761,
+  "slug": "night-of-the-lepus-1972",
+  "year": 1972,
+  "runtime": 88,
+  "originalTitle": "Night of the Lepus",
+  "title": {
+    "en": "Night of the Lepus",
+    "tr": "Night of the Lepus"
+  },
+  "overview": {
+    "en": "Rancher Cole Hillman is fed up of rabbits plaguing his fields. Zoologist Roy Bennett conducts an experiment to curb their population, but it gives rise to giant rabbits that terrorise the town.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wF8paiOb7E1JWb6mvec0TCTNq5W.jpg",
+    "en": "/cDwtUMqkXezUzUUapuzwOvRPfhK.jpg"
+  },
+  "backdrops": [
+    "/kw56BJUXYTtGH3UFq4Fb1BkPHj0.jpg",
+    "/vaw5MXTZmzrhdxR4mEbuCpmSDCe.jpg",
+    "/aQzSNro6DafzSBYJqQzS6SkYzAP.jpg",
+    "/uEz1R29esorP4fyb5VH3qSc2Ql8.jpg",
+    "/qkVtMQNZSwIg361DeKIlxUZYnTr.jpg",
+    "/4PoPHsN8333FdMohprPDSLPth7E.jpg",
+    "/yYAOsw2OFkJKKQi3B0HAxBmuJC5.jpg",
+    "/dNhFaxK2DD5c1tTlGGlKZflkbfr.jpg",
+    "/uB6KrocBwpVn4m52M5z6j9lkoSb.jpg",
+    "/AjzAw9OQqmAtVlrb017XtjROp8D.jpg"
+  ],
+  "trailerKey": "AA910vCNRe4",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    5160,
+    15199,
+    155493,
+    158251,
+    158252,
+    158253,
+    158254,
+    158256,
+    158259,
+    158261
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "A.C. Lyles Productions",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 123969,
+      "job": "director"
+    },
+    {
+      "personId": 232184,
+      "job": "writer"
+    },
+    {
+      "personId": 232185,
+      "job": "writer"
+    },
+    {
+      "personId": 232186,
+      "job": "producer"
+    },
+    {
+      "personId": 232187,
+      "job": "composer"
+    },
+    {
+      "personId": 47453,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 38761,
+      "character": "Roy Bennett",
+      "order": 0
+    },
+    {
+      "personId": 7302,
+      "character": "Gerry Bennett",
+      "order": 1
+    },
+    {
+      "personId": 19181,
+      "character": "Cole Hillman",
+      "order": 2
+    },
+    {
+      "personId": 1750,
+      "character": "Elgin Clark",
+      "order": 3
+    },
+    {
+      "personId": 8496,
+      "character": "Sheriff Cody",
+      "order": 4
+    },
+    {
+      "personId": 218480,
+      "character": "Amanda Bennett",
+      "order": 5
+    },
+    {
+      "personId": 232182,
+      "character": "Jackie Hillman",
+      "order": 6
+    },
+    {
+      "personId": 114232,
+      "character": "Jud",
+      "order": 7
+    },
+    {
+      "personId": 3052892,
+      "character": "Frank",
+      "order": 8
+    },
+    {
+      "personId": 1749993,
+      "character": "Mildred",
+      "order": 9
+    },
+    {
+      "personId": 224635,
+      "character": "Dr. Leopold",
+      "order": 10
+    },
+    {
+      "personId": 3052894,
+      "character": "Professor Dirkson",
+      "order": 11
+    },
+    {
+      "personId": 3052895,
+      "character": "Deputy Jason",
+      "order": 12
+    },
+    {
+      "personId": 2885031,
+      "character": "Housekeeper",
+      "order": 13
+    },
+    {
+      "personId": 1154284,
+      "character": "Walker",
+      "order": 14
+    },
+    {
+      "personId": 2453338,
+      "character": "Major White",
+      "order": 15
+    },
+    {
+      "personId": 120739,
+      "character": "Dispatcher",
+      "order": 16
+    },
+    {
+      "personId": 1920041,
+      "character": "Leslie",
+      "order": 17
+    },
+    {
+      "personId": 67064,
+      "character": "Truck Driver",
+      "order": 18
+    },
+    {
+      "personId": 1683135,
+      "character": "Doctor",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 124,
+  "sources": [
+    "cult-list"
+  ]
+}

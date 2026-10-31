@@ -1,0 +1,205 @@
+{
+  "tmdbId": 27064,
+  "slug": "mishima-a-life-in-four-chapters-1985",
+  "year": 1985,
+  "runtime": 121,
+  "originalTitle": "Mishima: A Life in Four Chapters",
+  "title": {
+    "en": "Mishima: A Life in Four Chapters",
+    "tr": "Mishima"
+  },
+  "overview": {
+    "en": "A fictional account of the life of Japanese author Yukio Mishima, combining dramatizations of three of his novels and a depiction of the events of November 25th, 1970.",
+    "tr": "Paul Schrader'in Japon yazar-eylemci Yukio Mishima hakkındaki sıra dışı filmi, Japonca çekilmiş (Roy Schneider'in az miktardaki İngilizce dış sesine rağmen) zengin bir Amerikan sanat filmi, yani bir anomalidir. Mishima bir narsist, devrimci bir vatansever, samuray özentisi ve muhtemelen 20. yüzyılın en önemli Japon yazarıdır. Taksi Şoförü'ndeki Travis Bickle'nin yaratıcısının, kendini ruhen Mishima'ya yakın gördüğü aşikârdır ama film sadece bir saygı gösterisi değildir. Schrader, Mishima'nın takındığı pek çok maskeyi büyük bir zeka ve açıklıkla ortaya döker."
+  },
+  "poster": {
+    "tr": "/4kIXsE4SwUjO0eUqpolsHNO5GLH.jpg",
+    "en": "/6P9jhxgdLGJMxlteZzuIcMQtM96.jpg"
+  },
+  "backdrops": [
+    "/8OkbEyJZmKS3X0zCDjvyvdH8yNU.jpg",
+    "/qoVogSFeGN65DJousXdIeBcOIzu.jpg",
+    "/yNPOKmKrjoqKGOrk0C7JmaVONMT.jpg",
+    "/5GIZ20iDPuPoFkYk0zW4q0Fne0H.jpg",
+    "/gJ3hMSSYFyZ6HccOV9jgirKyBhO.jpg",
+    "/2ErRbysPsXusEzerMh2y3Hc5TuF.jpg",
+    "/ogfrWeWmr29mTQlgyGWg7gLdILU.jpg",
+    "/hSzw0L4E7Ecx6e4XoYUY8ztsswO.jpg",
+    "/8B8gC8cOo4WUJ6wk3kHn6DXiEQI.jpg",
+    "/tK6TLLHLWTyCLhSpkr1Am6axUlJ.jpg"
+  ],
+  "trailerKey": "5nVKJDSrxNg",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    236,
+    1284,
+    1627,
+    1628,
+    6285,
+    10818,
+    14893,
+    158718,
+    258533,
+    268327
+  ],
+  "countries": [
+    "JP",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "studios": [
+    "Lucasfilm Ltd.",
+    "American Zoetrope",
+    "Filmlink International"
+  ],
+  "crew": [
+    {
+      "personId": 1035,
+      "job": "director"
+    },
+    {
+      "personId": 1035,
+      "job": "writer"
+    },
+    {
+      "personId": 70280,
+      "job": "writer"
+    },
+    {
+      "personId": 50871,
+      "job": "producer"
+    },
+    {
+      "personId": 1551,
+      "job": "composer"
+    },
+    {
+      "personId": 1527,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 553314,
+      "job": "writer"
+    },
+    {
+      "personId": 553217,
+      "job": "producer"
+    },
+    {
+      "personId": 553315,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 95345,
+      "character": "Yukio Mishima",
+      "order": 0
+    },
+    {
+      "personId": 132956,
+      "character": "Morita",
+      "order": 1
+    },
+    {
+      "personId": 55783,
+      "character": "Cadet #1",
+      "order": 2
+    },
+    {
+      "personId": 553316,
+      "character": "Cadet #2",
+      "order": 3
+    },
+    {
+      "personId": 68706,
+      "character": "Cadet #3",
+      "order": 4
+    },
+    {
+      "personId": 226744,
+      "character": "General Mashita",
+      "order": 5
+    },
+    {
+      "personId": 33137,
+      "character": "Mother",
+      "order": 6
+    },
+    {
+      "personId": 96863,
+      "character": "Mishima, Age 18-19",
+      "order": 7
+    },
+    {
+      "personId": 96864,
+      "character": "Mishima, Age 9-14",
+      "order": 8
+    },
+    {
+      "personId": 553318,
+      "character": "Mishima, Age 5",
+      "order": 9
+    },
+    {
+      "personId": 553319,
+      "character": "Literary Friend",
+      "order": 10
+    },
+    {
+      "personId": 553320,
+      "character": "Dancing Friend",
+      "order": 11
+    },
+    {
+      "personId": 40453,
+      "character": "Grandmother",
+      "order": 12
+    },
+    {
+      "personId": 1098347,
+      "character": "Mizoguchi",
+      "order": 13
+    },
+    {
+      "personId": 553323,
+      "character": "Mariko",
+      "order": 14
+    },
+    {
+      "personId": 553324,
+      "character": "First Girl",
+      "order": 15
+    },
+    {
+      "personId": 553325,
+      "character": "Second Girl",
+      "order": 16
+    },
+    {
+      "personId": 110311,
+      "character": "Madame",
+      "order": 17
+    },
+    {
+      "personId": 58662,
+      "character": "Kashiwagi",
+      "order": 18
+    },
+    {
+      "personId": 79944,
+      "character": "Osamu",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 380,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "tmdbId": 19933,
+  "slug": "the-brave-little-toaster-1987",
+  "year": 1987,
+  "runtime": 90,
+  "originalTitle": "The Brave Little Toaster",
+  "title": {
+    "en": "The Brave Little Toaster",
+    "tr": "The Brave Little Toaster"
+  },
+  "overview": {
+    "en": "A group of dated appliances, finding themselves stranded in a summer home that their family had just sold, decide to seek out their eight year old 'master'.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/mEZcPMNRqTcotOZSttN5MtmJbu1.jpg",
+    "en": "/cmc2jmaB8AkhGE6KctTbw6BPeve.jpg"
+  },
+  "backdrops": [
+    "/oRz5fPPkQ3A4mSVSOTJqWS9Rmgn.jpg",
+    "/b1SezVtcoMZciWPCooak6psozBe.jpg",
+    "/1StdeuPCUYSo78OOFgy7fxQfW0h.jpg",
+    "/gextlWInUL6jGRLwvXfbweDBiDH.jpg",
+    "/lx5mQkHaRTDftLostXpNnc1oxZt.jpg",
+    "/hPK5DC8zpFoHk9sRXMdk4iaIF2b.jpg",
+    "/4v9oKVu3IH2mvKNnNta5lfI3fI0.jpg"
+  ],
+  "trailerKey": "bpGLpD25dpU",
+  "genreIds": [
+    16,
+    12,
+    14,
+    10751
+  ],
+  "keywordIds": [
+    905,
+    4344,
+    10683,
+    9825,
+    162420,
+    163949,
+    164364,
+    189092,
+    209386,
+    209387,
+    220004,
+    258744,
+    281237,
+    314923,
+    326722
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Kushner-Locke Company",
+    "Hyperion Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 108217,
+      "job": "director"
+    },
+    {
+      "personId": 6889,
+      "job": "producer"
+    },
+    {
+      "personId": 108217,
+      "job": "writer"
+    },
+    {
+      "personId": 7911,
+      "job": "writer"
+    },
+    {
+      "personId": 12229,
+      "job": "producer"
+    },
+    {
+      "personId": 3393,
+      "job": "composer"
+    },
+    {
+      "personId": 58099,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 56055,
+      "character": "Toaster (voice)",
+      "order": 0
+    },
+    {
+      "personId": 16165,
+      "character": "The Radio (voice)",
+      "order": 1
+    },
+    {
+      "personId": 28168,
+      "character": "Lampy / Zeke (voice)",
+      "order": 2
+    },
+    {
+      "personId": 14104,
+      "character": "Air Conditioner / Hanging Lamp (voice)",
+      "order": 3
+    },
+    {
+      "personId": 1498595,
+      "character": "Blanky / Young Rob (The Master) (voice)",
+      "order": 4
+    },
+    {
+      "personId": 150739,
+      "character": "Kirby (voice)",
+      "order": 5
+    },
+    {
+      "personId": 7911,
+      "character": "Elmo St. Peters (voice)",
+      "order": 6
+    },
+    {
+      "personId": 42702,
+      "character": "Mish-Mash / Two-Face Sewing Machine (voice)",
+      "order": 7
+    },
+    {
+      "personId": 1498596,
+      "character": "Rob (The Master) (voice)",
+      "order": 8
+    },
+    {
+      "personId": 1498598,
+      "character": "Chris (voice)",
+      "order": 9
+    },
+    {
+      "personId": 13924,
+      "character": "Mother / Two-Face Sewing Machine (voice) (as Mindy Stern)",
+      "order": 10
+    },
+    {
+      "personId": 115032,
+      "character": "Plugsy (voice)",
+      "order": 11
+    },
+    {
+      "personId": 19545,
+      "character": "Lamp (voice)",
+      "order": 12
+    },
+    {
+      "personId": 1434077,
+      "character": "Entertainment Complex (voice)",
+      "order": 13
+    },
+    {
+      "personId": 2256784,
+      "character": "Computer (voice)",
+      "order": 14
+    },
+    {
+      "personId": 2256785,
+      "character": "Black And White TV (voice)",
+      "order": 15
+    },
+    {
+      "personId": 2256786,
+      "character": "Spanish Announcer (voice)",
+      "order": 16
+    },
+    {
+      "personId": 5090394,
+      "character": "Chorus (voice)",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 501,
+  "sources": [
+    "cult-list"
+  ]
+}

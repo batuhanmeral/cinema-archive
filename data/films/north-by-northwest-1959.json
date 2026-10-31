@@ -1,0 +1,204 @@
+{
+  "tmdbId": 213,
+  "slug": "north-by-northwest-1959",
+  "year": 1959,
+  "runtime": 137,
+  "originalTitle": "North by Northwest",
+  "title": {
+    "en": "North by Northwest",
+    "tr": "Gizli Teşkilat"
+  },
+  "overview": {
+    "en": "Advertising man Roger Thornhill is mistaken for a spy, triggering a deadly cross-country chase.",
+    "tr": "Cary Grant yönetmen Alfred Hitchcock'un en güzel gerilim filmlerinden biri olan bu filmde casus zannedilen masum bir adamı oynuyor. New York'taki Plaza Oteli'nden ayrılmak üzere olan reklamcı Roger Thornhill tam \"George Kaplan\" adı anons edildiğinde ayağa kalkmak talihsizliğine uğrar. Böylece yanlış anlamaya dayalı ölümcül bir olayı ve durmaksızın süren bir kedi fare oyununu başlatır. Onu öldürmek isteyen casus ajanlar ve onun birini öldürdüğünden kuşkulanan polis Amerika'nın her yerinde amansız bir takip başlatır."
+  },
+  "poster": {
+    "tr": "/l2F4kSfKEd88ycRqIltygc63H5X.jpg",
+    "en": "/i3g0KIoXYx5RvyVaraYx9n2LCli.jpg"
+  },
+  "backdrops": [
+    "/fONtQBk12LGjQo4q6bXDROVQmTy.jpg",
+    "/OR8oloCZ3klJtB7Y0i8pSqWw5a.jpg",
+    "/x0V0wRM0UQ79iJM9jHH4RX0GIBp.jpg",
+    "/uL7nTO46KAup4bkYmz1A3on036B.jpg",
+    "/qTwNhBX7SXiEufHFGZz5fPL1O5m.jpg",
+    "/kydCUg9250fR9VkyMwBwKCJ0GAS.jpg",
+    "/ukJZb0By1JCfR436RAbAQ1O1mMK.jpg",
+    "/yWp1S4cRgzhLRsysmhl7traKuuZ.jpg",
+    "/ntOzOcys7tntwm8tZ8QAhgDN5EO.jpg",
+    "/j4iv7uZIJObxHROWdZvM0Vt5PmQ.jpg"
+  ],
+  "trailerKey": "cPNiwc3ogIo",
+  "genreIds": [
+    53,
+    12
+  ],
+  "keywordIds": [
+    242,
+    441,
+    4654,
+    5265,
+    470,
+    2106,
+    10325,
+    9758,
+    9840,
+    10718,
+    10562,
+    15086,
+    15124,
+    15291,
+    163049,
+    167043,
+    180172,
+    256087,
+    295538,
+    300485,
+    309974,
+    314730,
+    322942,
+    323921,
+    323922,
+    323923,
+    325811,
+    361716
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 2636,
+      "job": "director"
+    },
+    {
+      "personId": 2636,
+      "job": "producer"
+    },
+    {
+      "personId": 1045,
+      "job": "composer"
+    },
+    {
+      "personId": 2654,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2637,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2638,
+      "character": "Roger Thornhill",
+      "order": 0
+    },
+    {
+      "personId": 2639,
+      "character": "Eve Kendall",
+      "order": 1
+    },
+    {
+      "personId": 2091,
+      "character": "Phillip Vandamm",
+      "order": 2
+    },
+    {
+      "personId": 2640,
+      "character": "Clara Thornhill",
+      "order": 3
+    },
+    {
+      "personId": 2642,
+      "character": "Professor",
+      "order": 4
+    },
+    {
+      "personId": 2643,
+      "character": "Mrs. Townsend",
+      "order": 5
+    },
+    {
+      "personId": 2644,
+      "character": "Lester Townsend",
+      "order": 6
+    },
+    {
+      "personId": 2641,
+      "character": "Leonard",
+      "order": 7
+    },
+    {
+      "personId": 2645,
+      "character": "Valerian",
+      "order": 8
+    },
+    {
+      "personId": 2646,
+      "character": "Victor Larrabee",
+      "order": 9
+    },
+    {
+      "personId": 2647,
+      "character": "Licht",
+      "order": 10
+    },
+    {
+      "personId": 2648,
+      "character": "Auctioneer",
+      "order": 11
+    },
+    {
+      "personId": 2649,
+      "character": "Dr. Cross",
+      "order": 12
+    },
+    {
+      "personId": 2650,
+      "character": "Sergeant Flamm",
+      "order": 13
+    },
+    {
+      "personId": 2651,
+      "character": "Captain Junket",
+      "order": 14
+    },
+    {
+      "personId": 2652,
+      "character": "Charley",
+      "order": 15
+    },
+    {
+      "personId": 1214642,
+      "character": "Anna, the Menacing Housekeeper (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 2745,
+      "character": "Maggie - Thornhill's Secretary (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 133738,
+      "character": "Sergeant Emile Klinger (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 18870,
+      "character": "Ticket Seller (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4702,
+  "sources": [
+    "cult-list"
+  ]
+}

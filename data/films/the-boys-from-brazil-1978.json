@@ -1,0 +1,192 @@
+{
+  "tmdbId": 16241,
+  "slug": "the-boys-from-brazil-1978",
+  "year": 1978,
+  "runtime": 125,
+  "originalTitle": "The Boys from Brazil",
+  "title": {
+    "en": "The Boys from Brazil",
+    "tr": "Vahşetin Çocukları"
+  },
+  "overview": {
+    "en": "Nazi hunter Ezra Lieberman discovers a sinister and bizarre plot, masterminded by Dr. Josef Mengele, to rekindle the Third Reich.",
+    "tr": "2.Dünya Savaşı bitmiş olabilir, ancak bazı Naziler Güney Amerika'ya yerleşmiş ve orada büyük Nazi imparatorluğunu yeniden kurabilmek için çalışmalarına devam etmektedirler.  Genç bir musevi nazi avcısı, efsanevi avcı Ezra Lieberman'ın çalışmalarından ilham alarak Güney Amerika'ya kaçan Nazileri araştırmaktadır. Paraguay'da çalışmalarını sürdüren Dr. Josef Mengele, genç adamın hedefi haline gelir. Sadist bilimadamı, savaş yıllarında Auschwitz'deki esirlerin üzerinde yürüttüğü biyolojik deneyleri Paraguay'da devam ettirmektedir."
+  },
+  "poster": {
+    "tr": "/w7IZT1HJNmWcEj3Axwlwhya02OX.jpg",
+    "en": "/dSgWAndpMGJVLYm1PquqBySgJvA.jpg"
+  },
+  "backdrops": [
+    "/3sjEoFwtHHlX6kdqJ8ZAUvt3kq6.jpg",
+    "/b3cQYxzX4osv5roTlMKpoL00jDq.jpg",
+    "/9BOsfEwhbsaB0T5dC95efSxPDcZ.jpg",
+    "/oF7qE1xhiCAQJwIiwT6zbvLGNbf.jpg",
+    "/xlmLKUQ2ec1IkEwFmUakbw1Mwxn.jpg",
+    "/nL2DwnrYPNusk9S9Ywrw7tJwDOm.jpg",
+    "/rlKv1HIkelMe0FsKH56bg5OIeKO.jpg",
+    "/A3in5C62sbScAmml6dxgl8vMY4V.jpg",
+    "/fdOBIZaeZLkxNHOQtv1SoFa8Dch.jpg",
+    "/h1Aes2KlCSl01r0zt01usSJWvrm.jpg"
+  ],
+  "trailerKey": "MYC8kiHhL2c",
+  "genreIds": [
+    18,
+    9648,
+    878
+  ],
+  "keywordIds": [
+    818,
+    2652,
+    7904,
+    10249,
+    156149,
+    161255,
+    161256,
+    215131,
+    249462
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Producer Circle Co.",
+    "ITC Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 13265,
+      "job": "director"
+    },
+    {
+      "personId": 53387,
+      "job": "writer"
+    },
+    {
+      "personId": 58102,
+      "job": "producer"
+    },
+    {
+      "personId": 17634,
+      "job": "producer"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    },
+    {
+      "personId": 1657,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8487,
+      "character": "Dr. Josef Mengele",
+      "order": 0
+    },
+    {
+      "personId": 3359,
+      "character": "Ezra Lieberman",
+      "order": 1
+    },
+    {
+      "personId": 2091,
+      "character": "Eduard Seibert",
+      "order": 2
+    },
+    {
+      "personId": 27932,
+      "character": "Esther Lieberman",
+      "order": 3
+    },
+    {
+      "personId": 93051,
+      "character": "Frieda Maloney",
+      "order": 4
+    },
+    {
+      "personId": 26472,
+      "character": "Barry Kohler",
+      "order": 5
+    },
+    {
+      "personId": 656,
+      "character": "Sidney Beynon",
+      "order": 6
+    },
+    {
+      "personId": 18998,
+      "character": "Mrs. Doring",
+      "order": 7
+    },
+    {
+      "personId": 82863,
+      "character": "Henry Wheelock",
+      "order": 8
+    },
+    {
+      "personId": 44261,
+      "character": "David Bennett",
+      "order": 9
+    },
+    {
+      "personId": 32394,
+      "character": "Mrs. Curry",
+      "order": 10
+    },
+    {
+      "personId": 1808342,
+      "character": "Jack Curry / Simon Harrington / Erich Doring / Bobby Wheelock",
+      "order": 11
+    },
+    {
+      "personId": 2310,
+      "character": "Professor Bruckner",
+      "order": 12
+    },
+    {
+      "personId": 6610,
+      "character": "Mundt",
+      "order": 13
+    },
+    {
+      "personId": 16106,
+      "character": "Strasser",
+      "order": 14
+    },
+    {
+      "personId": 14121,
+      "character": "Lofquist",
+      "order": 15
+    },
+    {
+      "personId": 3796,
+      "character": "Mr. Harrington",
+      "order": 16
+    },
+    {
+      "personId": 32019,
+      "character": "Fassler",
+      "order": 17
+    },
+    {
+      "personId": 5012,
+      "character": "Dietrich Hessen",
+      "order": 18
+    },
+    {
+      "personId": 2272,
+      "character": "Trausteiner",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 473,
+  "sources": [
+    "cult-list"
+  ]
+}

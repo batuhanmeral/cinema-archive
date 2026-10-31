@@ -1,0 +1,169 @@
+{
+  "tmdbId": 26030,
+  "slug": "bob-le-flambeur-1956",
+  "year": 1956,
+  "runtime": 103,
+  "originalTitle": "Bob le flambeur",
+  "title": {
+    "en": "Bob le Flambeur",
+    "tr": "Kumarbaz Bob"
+  },
+  "overview": {
+    "en": "In Paris, Bob Montagne is practically synonymous with gambling -- and winning. He is kind, classy and well-liked by virtually everyone in town, including police inspector Ledru. However, when Bob's luck turns sour, he begins to lose friends and makes the most desperate gamble of his life: to rob the Deauville casino during Grand Prix weekend, when the vaults are full. Unfortunately, Bob soon learns that the game is rigged and the cops are on to him.",
+    "tr": "İhtiyar Bob eski bir hırsızdır 20 seneönce hapishaneye girmiştir ve tahliye olduktan sonra sadecekumar oynamayı tercih etmiştir.Fakat son bir büyük vurgun yapma hırsı Bob’un yaşamında yeni bir heyecan oluşturur. Artık soygunu bir saplantı haline getiren Bob arkadaşlarıyla beraber kusursuz bir kumarhane soygunu planlar. Ancak unuttuğu bir şey vardır, o da hiçbir şeyin kusursuz olmadığıdır. Soygun yapacakları, ekiptekilerin hataları yüzünden polis tarafından tespit edilir. Fakat soygun gecesi nedense Bob’un şansı yaver gider ve ummadığı bir günde kazanmaya başlar. Acaba Bob’un talihi geri mi gelmiştir?"
+  },
+  "poster": {
+    "tr": "/3CIfIDtD1I1rYY3ooaya8iZHlD8.jpg",
+    "en": "/3CIfIDtD1I1rYY3ooaya8iZHlD8.jpg"
+  },
+  "backdrops": [
+    "/dCrnWaEegDW8AycG0HVu8WuPLFf.jpg",
+    "/jzdDhoDmoE0Mj4ABwQMJeg4AiHs.jpg",
+    "/1PtvYg67vW03gjQgekkfMxnYSOs.jpg",
+    "/gwWdauQK3euOoaZDKinCe6yxACe.jpg",
+    "/gCcuDzz447v0EGb6a2TKRBHYBPj.jpg",
+    "/sD3fYFWaoLzMPFDcKrGFPrXFJG3.jpg",
+    "/buB0496q3Wi4saPWHGzIcUkRjVG.jpg",
+    "/oWQ4vzRwPNu2FO9vE1LwasvRwtD.jpg",
+    "/gIsZ0vkF3Pj00WAtaUigyOb2gzv.jpg",
+    "/jhAmWdxeS2bIuUWvhuybv5uR85X.jpg"
+  ],
+  "trailerKey": "1NJBRyUDeA4",
+  "genreIds": [
+    18,
+    28,
+    80
+  ],
+  "keywordIds": [
+    642,
+    585,
+    90,
+    395,
+    1407,
+    643,
+    14604,
+    155841,
+    156121,
+    159339,
+    160838,
+    191308,
+    262695
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Productions Cyme",
+    "Mondial",
+    "Play Art"
+  ],
+  "crew": [
+    {
+      "personId": 3831,
+      "job": "director"
+    },
+    {
+      "personId": 3831,
+      "job": "producer"
+    },
+    {
+      "personId": 37456,
+      "job": "producer"
+    },
+    {
+      "personId": 1657,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 111300,
+      "job": "composer"
+    },
+    {
+      "personId": 111301,
+      "job": "composer"
+    },
+    {
+      "personId": 1520976,
+      "job": "producer"
+    },
+    {
+      "personId": 3831,
+      "job": "writer"
+    },
+    {
+      "personId": 14228,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 94603,
+      "character": "Robert 'Bob le Flambeur' Montagné",
+      "order": 0
+    },
+    {
+      "personId": 55778,
+      "character": "Anne",
+      "order": 1
+    },
+    {
+      "personId": 39093,
+      "character": "Paulo",
+      "order": 2
+    },
+    {
+      "personId": 27443,
+      "character": "Marc",
+      "order": 3
+    },
+    {
+      "personId": 1656,
+      "character": "Police Commissary Ledru",
+      "order": 4
+    },
+    {
+      "personId": 40976,
+      "character": "Jean, the Croupier",
+      "order": 5
+    },
+    {
+      "personId": 13696,
+      "character": "McKimmie, the Sponsor",
+      "order": 6
+    },
+    {
+      "personId": 111304,
+      "character": "Suzanne, Jean's Girlfriend",
+      "order": 7
+    },
+    {
+      "personId": 111305,
+      "character": "Yvonne",
+      "order": 8
+    },
+    {
+      "personId": 111306,
+      "character": "Inspector Morin",
+      "order": 9
+    },
+    {
+      "personId": 111303,
+      "character": "Roger",
+      "order": 10
+    },
+    {
+      "personId": 3831,
+      "character": "Narrator (voice) (uncredited)",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 308,
+  "sources": [
+    "cult-list"
+  ]
+}

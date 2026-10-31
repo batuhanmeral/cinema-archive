@@ -1,0 +1,183 @@
+{
+  "tmdbId": 27726,
+  "slug": "q-1982",
+  "year": 1982,
+  "runtime": 93,
+  "originalTitle": "Q",
+  "title": {
+    "en": "Q",
+    "tr": "Q"
+  },
+  "overview": {
+    "en": "A fleeing gangland flunky discovers the New York nest of Aztec deity Quetzalcoatl, the man-eating flying serpent.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/f3oV0egV5qkc2qoMGkj7zSQm0NQ.jpg",
+    "en": "/uFdZ1e96OaV27Khii02JrYcm4uU.jpg"
+  },
+  "backdrops": [
+    "/16ipaP7TnijuXopfVeZG5LGVRG5.jpg",
+    "/h0YwGfmudCohqo01BjlKJ2YCdyS.jpg",
+    "/l6hkc0DBjvdrTavmxAP4I55nDzx.jpg",
+    "/9wNEUrTYYHRuVG0YM6YDYtmQ9pW.jpg",
+    "/m9u1eS4Tscodkr3zmUxTrpWAatI.jpg",
+    "/m53xoxL077EjqnnuyrbEHITKhhc.jpg",
+    "/3UiqTjxwHxq1rYNnARj8fhNwO8C.jpg",
+    "/zKvpvaQOSGfacKgic7jytzM7KNn.jpg",
+    "/sIDn0KjWoP5W4BFf6yAvFle9Jth.jpg",
+    "/v6t0euZA8YmL4GQ7pPxFbPi3udp.jpg"
+  ],
+  "trailerKey": "9bjsag2vYlQ",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    242,
+    1299,
+    3754,
+    156393,
+    156593,
+    162632,
+    210614
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Larco Productions",
+    "Arkoff International"
+  ],
+  "crew": [
+    {
+      "personId": 19266,
+      "job": "director"
+    },
+    {
+      "personId": 19266,
+      "job": "writer"
+    },
+    {
+      "personId": 98606,
+      "job": "composer"
+    },
+    {
+      "personId": 17765,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 19266,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21030,
+      "character": "Jimmy Quinn",
+      "order": 0
+    },
+    {
+      "personId": 12407,
+      "character": "Joan",
+      "order": 1
+    },
+    {
+      "personId": 141,
+      "character": "Shepard",
+      "order": 2
+    },
+    {
+      "personId": 6487,
+      "character": "Powell",
+      "order": 3
+    },
+    {
+      "personId": 99880,
+      "character": "Lt. Murray",
+      "order": 4
+    },
+    {
+      "personId": 155607,
+      "character": "Commissioner",
+      "order": 5
+    },
+    {
+      "personId": 171469,
+      "character": "Capt. Fletcher",
+      "order": 6
+    },
+    {
+      "personId": 138097,
+      "character": "Det. Clifford",
+      "order": 7
+    },
+    {
+      "personId": 585195,
+      "character": "Det. Hoberman",
+      "order": 8
+    },
+    {
+      "personId": 55196,
+      "character": "Mrs. Pauley",
+      "order": 9
+    },
+    {
+      "personId": 176473,
+      "character": "The Victim",
+      "order": 10
+    },
+    {
+      "personId": 31007,
+      "character": "Doyle",
+      "order": 11
+    },
+    {
+      "personId": 1095032,
+      "character": "Webb",
+      "order": 12
+    },
+    {
+      "personId": 196159,
+      "character": "Curator",
+      "order": 13
+    },
+    {
+      "personId": 19511,
+      "character": "The Professor",
+      "order": 14
+    },
+    {
+      "personId": 8692,
+      "character": "The Watchman",
+      "order": 15
+    },
+    {
+      "personId": 174906,
+      "character": "Kahsa",
+      "order": 16
+    },
+    {
+      "personId": 2439501,
+      "character": "Officer Banyon",
+      "order": 17
+    },
+    {
+      "personId": 102574,
+      "character": "First Robber",
+      "order": 18
+    },
+    {
+      "personId": 2439502,
+      "character": "Second Robber",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 514,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "tmdbId": 10873,
+  "slug": "shadow-of-the-vampire-2000",
+  "year": 2000,
+  "runtime": 95,
+  "originalTitle": "Shadow of the Vampire",
+  "title": {
+    "en": "Shadow of the Vampire",
+    "tr": "Vampirin Gölgesi"
+  },
+  "overview": {
+    "en": "Director F.W. Murnau makes a Faustian pact with a vampire to get him to star in his 1922 film \"Nosferatu.\"",
+    "tr": "1922'de çekilen tüm zamanların en müthiş sessiz vampir filmi olan Nosferatu'run, film çekimleri sırasında yaşanan olaylar çok güzel bir kurgu içerisinde anlatılıyor. Filmde, yönetmen F.W. Murnau (John Malkovich) vampir rolü için gerçek bir vampir olan Max Schreck (Willem Dafoe) ile anlaşır. Karşılığında ise filmin final sahnesinde uyuşturucu bağımlısı yıldız oyuncusu Greta'nın boynunu vadeder!"
+  },
+  "poster": {
+    "tr": "/nWm7DWi8X4D87XkM5qr9BhTJHq6.jpg",
+    "en": "/ooe8qfwSvmFdlf6FtSFaqErdM8g.jpg"
+  },
+  "backdrops": [
+    "/cKKhk85c1TZSYy6ZF94QpUH8bRw.jpg",
+    "/ge1lPGIfRmEy7xMEDw6jnQANgy.jpg",
+    "/4JDEpCKXuz0XheCp8p7S7Fo9APm.jpg",
+    "/kW39bowSmyycurPTjc5WP3IXgyR.jpg",
+    "/tjyilNxcCG3uHR0xG2n5E5rxEx3.jpg",
+    "/9NsNlPTIKDJLxl0x98V6YVcCBRe.jpg",
+    "/cYBBS5toKaoBLf0JDGBB7VXPkiE.jpg",
+    "/aqRfIxvghNFfoPXt5IaFd7RlCaJ.jpg",
+    "/xHkoTFmOfBzKOyVu8QEfIRtwICD.jpg",
+    "/yxstvrTtZFkutWnQDnN3lLTXU75.jpg"
+  ],
+  "trailerKey": "_B15iesNMa8",
+  "genreIds": [
+    18,
+    27
+  ],
+  "keywordIds": [
+    3133,
+    886,
+    179860
+  ],
+  "countries": [
+    "LU",
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "studios": [
+    "BBC Film",
+    "Saturn Films",
+    "Long Shot Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 67507,
+      "job": "composer"
+    },
+    {
+      "personId": 67506,
+      "job": "writer"
+    },
+    {
+      "personId": 2963,
+      "job": "producer"
+    },
+    {
+      "personId": 17279,
+      "job": "director"
+    },
+    {
+      "personId": 11408,
+      "job": "producer"
+    },
+    {
+      "personId": 1528910,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6949,
+      "character": "F. W. Murnau",
+      "order": 0
+    },
+    {
+      "personId": 5293,
+      "character": "Max Schreck",
+      "order": 1
+    },
+    {
+      "personId": 1646,
+      "character": "Albin Grau",
+      "order": 2
+    },
+    {
+      "personId": 2130,
+      "character": "Fritz Arno Wagner",
+      "order": 3
+    },
+    {
+      "personId": 2462,
+      "character": "Greta Schröder",
+      "order": 4
+    },
+    {
+      "personId": 1926,
+      "character": "Gustav von Wangenhein",
+      "order": 5
+    },
+    {
+      "personId": 1222737,
+      "character": "Henrik Galeen",
+      "order": 6
+    },
+    {
+      "personId": 554271,
+      "character": "Paul",
+      "order": 7
+    },
+    {
+      "personId": 20523,
+      "character": "Wolfgang Müller",
+      "order": 8
+    },
+    {
+      "personId": 554272,
+      "character": "Elke",
+      "order": 9
+    },
+    {
+      "personId": 554273,
+      "character": "Maria",
+      "order": 10
+    },
+    {
+      "personId": 554274,
+      "character": "Innkeeper",
+      "order": 11
+    },
+    {
+      "personId": 554275,
+      "character": "Innkeeper's Wife",
+      "order": 12
+    },
+    {
+      "personId": 549499,
+      "character": "Reporter 1",
+      "order": 13
+    },
+    {
+      "personId": 18956,
+      "character": "Reporter 2",
+      "order": 14
+    },
+    {
+      "personId": 586277,
+      "character": "Reporter 3",
+      "order": 15
+    },
+    {
+      "personId": 1663296,
+      "character": "Drunken Woman",
+      "order": 16
+    },
+    {
+      "personId": 1439662,
+      "character": "Old Woman",
+      "order": 17
+    },
+    {
+      "personId": 5030716,
+      "character": "Murnau’s Crew",
+      "order": 18
+    },
+    {
+      "personId": 4609604,
+      "character": "Murnau’s Crew",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 714,
+  "sources": [
+    "cult-list"
+  ]
+}

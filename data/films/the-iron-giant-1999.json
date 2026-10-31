@@ -1,0 +1,211 @@
+{
+  "tmdbId": 10386,
+  "slug": "the-iron-giant-1999",
+  "year": 1999,
+  "runtime": 86,
+  "originalTitle": "The Iron Giant",
+  "title": {
+    "en": "The Iron Giant",
+    "tr": "Demir Dev"
+  },
+  "overview": {
+    "en": "In the small town of Rockwell, Maine in October 1957, a giant metal machine befriends a nine-year-old boy and ultimately finds its humanity by unselfishly saving people from their own fears and prejudices.",
+    "tr": "1958 yılında dev bir robot, Amerika’nın Maine eyaletinin küçük bir kasabasına düşer ve çevre halkını dehşete düşürür. Bir gün Hogarth adında 9 yaşında bir çocukla arkadaş olur ve bu arkadaşlık ona insaniyet ve cömertlik kavramlarını kazandırır."
+  },
+  "poster": {
+    "tr": "/k1Cv5CHJvqGWK1xJDUJz8DojFEy.jpg",
+    "en": "/bMr9Ir2hCFu2R72pjCA43uRMT4r.jpg"
+  },
+  "backdrops": [
+    "/gZ78dyRH9hXeH94ASjuvD9Vw4b5.jpg",
+    "/wfClZdRb1x4LZ8B73Y9RSn8XAPa.jpg",
+    "/ni5cXCrrGzoiIEoIwOzGiIwMZlH.jpg",
+    "/41jBNeamguFypWSpHMSeKZPEWgh.jpg",
+    "/hQ3EFcsY015LTHNylWgTAHWX4bQ.jpg",
+    "/vIjAutSlijLMVvsbUjpD83qOYY4.jpg",
+    "/aUPk96ghei7ohFKBwFMyd2AYoIV.jpg",
+    "/sT5qrk9S5WsiPvk3yYz4hzH043p.jpg",
+    "/2jYida8jDr9xSxhGv39M7iRYREJ.jpg",
+    "/v9Esp0kCM0Q9HVPBj4nOTeXvS6d.jpg"
+  ],
+  "trailerKey": "2izFEWmzPdk",
+  "genreIds": [
+    16,
+    18,
+    10751,
+    878,
+    12
+  ],
+  "keywordIds": [
+    6054,
+    1415,
+    818,
+    1430,
+    3289,
+    9927,
+    10221,
+    14544,
+    160879,
+    166594,
+    205726,
+    208611,
+    220903,
+    221656,
+    234125,
+    240237,
+    287333,
+    303848,
+    318600,
+    325775,
+    325824,
+    339074,
+    372143,
+    373091,
+    377506,
+    384096
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Feature Animation"
+  ],
+  "crew": [
+    {
+      "personId": 7714,
+      "job": "composer"
+    },
+    {
+      "personId": 77919,
+      "job": "writer"
+    },
+    {
+      "personId": 65332,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7087,
+      "job": "director"
+    },
+    {
+      "personId": 588701,
+      "job": "producer"
+    },
+    {
+      "personId": 34894,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4491,
+      "character": "Annie Hughes (voice)",
+      "order": 0
+    },
+    {
+      "personId": 18688,
+      "character": "Dean McCoppin (voice)",
+      "order": 1
+    },
+    {
+      "personId": 12835,
+      "character": "The Iron Giant (voice)",
+      "order": 2
+    },
+    {
+      "personId": 16433,
+      "character": "Foreman Marv Loach / Floyd Turbeaux (voice)",
+      "order": 3
+    },
+    {
+      "personId": 9599,
+      "character": "Mrs. Lynley Tensedge (voice)",
+      "order": 4
+    },
+    {
+      "personId": 4443,
+      "character": "Kent Mansley (voice)",
+      "order": 5
+    },
+    {
+      "personId": 4251,
+      "character": "General Rogard (voice)",
+      "order": 6
+    },
+    {
+      "personId": 116027,
+      "character": "Hogarth Hughes (voice)",
+      "order": 7
+    },
+    {
+      "personId": 588,
+      "character": "Earl Stutz (voice)",
+      "order": 8
+    },
+    {
+      "personId": 19545,
+      "character": "Additional Voices (voice)",
+      "order": 9
+    },
+    {
+      "personId": 78317,
+      "character": "Additional Voices (voice)",
+      "order": 10
+    },
+    {
+      "personId": 30695,
+      "character": "Additional Voices (voice)",
+      "order": 11
+    },
+    {
+      "personId": 1075148,
+      "character": "Additional Voices (voice)",
+      "order": 12
+    },
+    {
+      "personId": 1075150,
+      "character": "Additional Voices (voice)",
+      "order": 13
+    },
+    {
+      "personId": 70615,
+      "character": "Additional Voices (voice)",
+      "order": 14
+    },
+    {
+      "personId": 35172,
+      "character": "Additional Voices (voice)",
+      "order": 15
+    },
+    {
+      "personId": 81843,
+      "character": "Additional Voices (voice)",
+      "order": 16
+    },
+    {
+      "personId": 1407907,
+      "character": "Additional Voices (voice)",
+      "order": 17
+    },
+    {
+      "personId": 86006,
+      "character": "Additional Voices (voice)",
+      "order": 18
+    },
+    {
+      "personId": 84213,
+      "character": "Additional Voices (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "bafta": 1
+  },
+  "voteCount": 6439,
+  "sources": [
+    "cult-list"
+  ]
+}

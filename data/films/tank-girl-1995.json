@@ -1,0 +1,202 @@
+{
+  "tmdbId": 9067,
+  "slug": "tank-girl-1995",
+  "year": 1995,
+  "runtime": 104,
+  "originalTitle": "Tank Girl",
+  "title": {
+    "en": "Tank Girl",
+    "tr": "Tank Girl"
+  },
+  "overview": {
+    "en": "After a comet disrupts the rain cycle of Earth, the planet has become a desolate, barren desert by the year 2033. With resources scarce, Kesslee, head of the powerful and evil Water & Power Corporation, the de facto government, has taken control of the water supply. Unwilling to cower under Kesslee's tyrannical rule, a pair of outlaws known as Tank Girl and Jet Girl rise up, joining the mysterious rebel Rippers to destroy the corrupt system.",
+    "tr": "Yıl 2033. Ekolojik felaketin ardından dünya çölleşmiş durumda. İnsan hayatı için en değerli madde, aynı zamanda en az bulunan şey olan, su. Tank Girl, yüksek teknoloji ürünü silahlarla donattığı eski model bir tankla birlikte, baskıcı devlete kafa tutan serseri ve özgür ruhlu, feminist bir kadın. Hükümet güçlerinin başındaki kötü mizaçlı Kesslee'ye karşı verdiği tuhaf mücadelede kahramanımızın en büyük yardımcıları birer mutant olan arkadaşları ve elbette en yakın dostu kangurusu."
+  },
+  "poster": {
+    "tr": "/qohdY3BcJ98sFneOUAWp0FmH4Z6.jpg",
+    "en": "/qohdY3BcJ98sFneOUAWp0FmH4Z6.jpg"
+  },
+  "backdrops": [
+    "/57hqf5nKwogxUXpxVQIbkdmeDiX.jpg",
+    "/jlRT2jOhmKLAKrV1cu3VgpLfw9u.jpg",
+    "/qt9LK3vztCTsON5bbZID5BI0R4l.jpg",
+    "/nVtaBvPHQ0zi01ajY7zye6Njte0.jpg",
+    "/3b2YLAKKxjdew8i0xCu9orNOLS6.jpg",
+    "/rmG0rboJMA9sE6vttQCM2eXXJ2Q.jpg",
+    "/ja8hdoetiUrsRSuComE27B9aNFs.jpg",
+    "/n0hLpeTGnyiHOYjY5MnU1VgeyPM.jpg",
+    "/yWdaNrUYsBvELBkxWO24e5x7zEz.jpg",
+    "/dhJ82krVwQfu9JasCZ6IcZBdqZS.jpg"
+  ],
+  "trailerKey": "a9UXppnnTgk",
+  "genreIds": [
+    28,
+    35,
+    878
+  ],
+  "keywordIds": [
+    4565,
+    11117,
+    5484,
+    9717,
+    18034,
+    155333,
+    168297,
+    187056,
+    208662,
+    256328,
+    271672
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Trilogy Entertainment Group",
+    "United Artists",
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 42119,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7217,
+      "job": "writer"
+    },
+    {
+      "personId": 56891,
+      "job": "director"
+    },
+    {
+      "personId": 56892,
+      "job": "producer"
+    },
+    {
+      "personId": 2182,
+      "job": "producer"
+    },
+    {
+      "personId": 2185,
+      "job": "producer"
+    },
+    {
+      "personId": 2184,
+      "job": "producer"
+    },
+    {
+      "personId": 5912,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15309,
+      "character": "Rebecca / Tank Girl",
+      "order": 0
+    },
+    {
+      "personId": 3489,
+      "character": "Jet Girl",
+      "order": 1
+    },
+    {
+      "personId": 56890,
+      "character": "Kesslee",
+      "order": 2
+    },
+    {
+      "personId": 21411,
+      "character": "T-Saint",
+      "order": 3
+    },
+    {
+      "personId": 54865,
+      "character": "Booga",
+      "order": 4
+    },
+    {
+      "personId": 38951,
+      "character": "Deetee",
+      "order": 5
+    },
+    {
+      "personId": 9306,
+      "character": "Donner",
+      "order": 6
+    },
+    {
+      "personId": 1280,
+      "character": "Sgt. Small",
+      "order": 7
+    },
+    {
+      "personId": 59260,
+      "character": "Sub Girl",
+      "order": 8
+    },
+    {
+      "personId": 13604,
+      "character": "Rat Face",
+      "order": 9
+    },
+    {
+      "personId": 20904,
+      "character": "Che'tsai",
+      "order": 10
+    },
+    {
+      "personId": 31028,
+      "character": "Trooper in Trench",
+      "order": 11
+    },
+    {
+      "personId": 1028072,
+      "character": "Liquid Silver Dancer",
+      "order": 12
+    },
+    {
+      "personId": 1748010,
+      "character": "Sam",
+      "order": 13
+    },
+    {
+      "personId": 113785,
+      "character": "Richard",
+      "order": 14
+    },
+    {
+      "personId": 51321,
+      "character": "Model",
+      "order": 15
+    },
+    {
+      "personId": 21735,
+      "character": "Max",
+      "order": 16
+    },
+    {
+      "personId": 88522,
+      "character": "Capt. Derouche",
+      "order": 17
+    },
+    {
+      "personId": 37042,
+      "character": "The Madam",
+      "order": 18
+    },
+    {
+      "personId": 1748021,
+      "character": "Additional Ripper",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 605,
+  "sources": [
+    "cult-list"
+  ]
+}

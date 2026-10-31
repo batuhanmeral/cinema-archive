@@ -1,0 +1,198 @@
+{
+  "tmdbId": 9652,
+  "slug": "the-passenger-1975",
+  "year": 1975,
+  "runtime": 126,
+  "originalTitle": "Professione: reporter",
+  "title": {
+    "en": "The Passenger",
+    "tr": "Yolcu"
+  },
+  "overview": {
+    "en": "David Locke is a world-weary American journalist who has been sent to cover a conflict in northern Africa, but he makes little progress with the story. When he discovers the body of a stranger who looks similar to him, Locke assumes the dead man's identity. However, he soon finds out that the man was an arms dealer, leading Locke into dangerous situations. Aided by a beautiful woman, Locke attempts to avoid both the police and criminals out to get him.",
+    "tr": "Mesleğini kullanarak yaşadığı düzene başkaldırıp daha öteye gitmek ve zorla baş etmek uğrunda cesaret gösteren bir gazetecidir kahramanımız. David Locke, bir Kuzey Afrika ülkesine gerillalarla röportaj yapmaya gider. Artık hayatı eskisi gibi olmayacaktır. Burada hayatının en ilginç olaylarının içine girecek ve hayatının akışını sonsuza dek değiştirecektir.  Otelde tanıştığı bir arkadaşının ölmesi üzerine David onun yerine geçecektir. Robertson isimli bu adamın bütün kimlik bilgilerini ve randevu defterini de yanına alarak yeni kimliği ile yeni bir hayata başlamaya karar verir. Başka bir insanın yerine geçmenin sanıldığı kadar kolay olmadığını, Robertson’un hayatı ile ilgili sırları keşfettikçe daha iyi anlayacaktır."
+  },
+  "poster": {
+    "tr": "/A8jYH43plz70dNmHy82zAHGTqxN.jpg",
+    "en": "/rYfnOaYYgAuoI8R0JiAV72jAESS.jpg"
+  },
+  "backdrops": [
+    "/9H64mSSezN1T9CQKgbgV06BCZM4.jpg",
+    "/xSMY8Qsoq6BRXsHuaQiNie0S8b.jpg",
+    "/bWuSmPzjmACERhQcGsn4C0X14C2.jpg",
+    "/2aX37sS3wIEwL6cHalrzK1GUGSF.jpg",
+    "/sob4ZCEoS4sZq5PMIXp9VyAczFc.jpg",
+    "/btD9ehx86BJ2zMASZCOyDU6f7oo.jpg",
+    "/cQhCsW6koNaCNX78v2wPrJQIOU8.jpg",
+    "/l37TnStxxSR5uoi6xipbs06h30W.jpg",
+    "/kxavjxCmZOmSvks0ohVMoAw2OYt.jpg",
+    "/jqMTv8fn95Z2epZbmHOs6ruzMbE.jpg"
+  ],
+  "trailerKey": "fkA5YIzrAmI",
+  "genreIds": [
+    18,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    612,
+    736,
+    212,
+    107,
+    409,
+    5299,
+    1284,
+    2437,
+    3022,
+    1295,
+    9276,
+    12193,
+    18034,
+    33788,
+    177035,
+    204019,
+    298330,
+    305009
+  ],
+  "countries": [
+    "IT",
+    "FR",
+    "ES",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "C. C. Champion",
+    "CIPI Cinematografica",
+    "Les Films Concordia"
+  ],
+  "crew": [
+    {
+      "personId": 11379,
+      "job": "writer"
+    },
+    {
+      "personId": 49069,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3778,
+      "job": "producer"
+    },
+    {
+      "personId": 58341,
+      "job": "composer"
+    },
+    {
+      "personId": 15189,
+      "job": "director"
+    },
+    {
+      "personId": 58340,
+      "job": "writer"
+    },
+    {
+      "personId": 15189,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 514,
+      "character": "David Locke",
+      "order": 0
+    },
+    {
+      "personId": 18329,
+      "character": "Girl",
+      "order": 1
+    },
+    {
+      "personId": 39027,
+      "character": "Rachel Locke",
+      "order": 2
+    },
+    {
+      "personId": 58339,
+      "character": "Martin Knight",
+      "order": 3
+    },
+    {
+      "personId": 782,
+      "character": "Stephen",
+      "order": 4
+    },
+    {
+      "personId": 1070389,
+      "character": "Achebe",
+      "order": 5
+    },
+    {
+      "personId": 100901,
+      "character": "Hotel Keeper (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 118795,
+      "character": "Witch Doctor (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 46585,
+      "character": "German Stranger (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 1307296,
+      "character": "Murderer (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 31349,
+      "character": "Police Inspector (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 3222,
+      "character": "David Robertson (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 4388818,
+      "character": "(uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 2007138,
+      "character": "(uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 2034680,
+      "character": "Hotel Clerk (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 4388819,
+      "character": "Murderer's Accomplice (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 40975,
+      "character": "(uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1868546,
+      "character": "Cameraman (uncredited)",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 568,
+  "sources": [
+    "cult-list"
+  ]
+}

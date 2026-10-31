@@ -1,0 +1,193 @@
+{
+  "tmdbId": 307,
+  "slug": "rome-open-city-1945",
+  "year": 1945,
+  "runtime": 104,
+  "originalTitle": "Roma città aperta",
+  "title": {
+    "en": "Rome, Open City",
+    "tr": "Roma, Açık Şehir"
+  },
+  "overview": {
+    "en": "During the Nazi occupation of 1944 Rome, Resistance leader Giorgio Manfredi is pursued by the Nazis as he seeks refuge and a means of escape.",
+    "tr": "2.Dünya Savaşı 'nın sonlarına doğru 1944 yılında Nazi işgali altındaki Roma şehrinde yaşayan bir grup insanın hikayesi anlatılır.Gestapo Nazilere karşı yapılan direniş hareketinin lideri olan Giorgio Manfredi (Marcello Pagliero) 'nin peşine düşmüştür.Yakın arkadaşı Francesco (Francesco Grandjacquet),Francesco'nun evlenmek üzere olduğu dul Pina (Anna Magnani)ve Rahip Don Pietro Pellegrini (Aldo Fabrizi) birlikte Giorgio'nun bir an önce Roma'dan ayrılabilmesi için yeni bir kimlik edinmesine yardımcı olurlar."
+  },
+  "poster": {
+    "tr": "/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg",
+    "en": "/ijGV4v8JxgbNzgEhqKdzHdaZn8a.jpg"
+  },
+  "backdrops": [
+    "/tt1YwEB5UVDKxCYwZEtpNUaDJIi.jpg",
+    "/mJ7olj1rAiexqlyBwj4i9c4CsQU.jpg",
+    "/cztYhbawTjK9m8lFBd97Yl5Zd8r.jpg",
+    "/8XLosS3smgScb6BvES60upsksDv.jpg",
+    "/djxX2DndikGSOWpabaQeqsdgCOI.jpg",
+    "/c0FaHir6C31dRFl3UulRynQeZmA.jpg",
+    "/xyr4pKGxu8uZ77Rh4Eos6d89gKi.jpg",
+    "/49KJs2jPEhHdk2zWgzVUsTx1q5G.jpg",
+    "/51iu14UosS6zTat9F3gYoWovgBw.jpg",
+    "/eGs1TWgCo5Qt6Z8tfA0YuiXEoH6.jpg"
+  ],
+  "trailerKey": "5uzXxXnGfVs",
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    2652,
+    588,
+    836,
+    1755,
+    1803,
+    1805,
+    1806,
+    1956,
+    189422,
+    196096,
+    207883,
+    208408,
+    252193,
+    325773
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it",
+    "la",
+    "de"
+  ],
+  "studios": [
+    "Excelsa Film"
+  ],
+  "crew": [
+    {
+      "personId": 4416,
+      "job": "composer"
+    },
+    {
+      "personId": 4417,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4410,
+      "job": "director"
+    },
+    {
+      "personId": 4413,
+      "job": "writer"
+    },
+    {
+      "personId": 54928,
+      "job": "producer"
+    },
+    {
+      "personId": 4411,
+      "job": "producer"
+    },
+    {
+      "personId": 4410,
+      "job": "producer"
+    },
+    {
+      "personId": 4410,
+      "job": "writer"
+    },
+    {
+      "personId": 4415,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4420,
+      "character": "Don Pietro Pellegrini",
+      "order": 0
+    },
+    {
+      "personId": 4422,
+      "character": "Giorgio Manfredi aka Luigi Ferraris",
+      "order": 1
+    },
+    {
+      "personId": 4424,
+      "character": "Major Fritz Bergmann",
+      "order": 2
+    },
+    {
+      "personId": 4421,
+      "character": "Pina",
+      "order": 3
+    },
+    {
+      "personId": 4426,
+      "character": "Marina Mari",
+      "order": 4
+    },
+    {
+      "personId": 4425,
+      "character": "Francesco",
+      "order": 5
+    },
+    {
+      "personId": 4423,
+      "character": "Marcello",
+      "order": 6
+    },
+    {
+      "personId": 5001,
+      "character": "Austrian Deserter",
+      "order": 7
+    },
+    {
+      "personId": 5002,
+      "character": "Captain Hartmann",
+      "order": 8
+    },
+    {
+      "personId": 5003,
+      "character": "Lauretta",
+      "order": 9
+    },
+    {
+      "personId": 18337,
+      "character": "Ingrid",
+      "order": 10
+    },
+    {
+      "personId": 132194,
+      "character": "Agostino the Sexton",
+      "order": 11
+    },
+    {
+      "personId": 374218,
+      "character": "Neighborhood Police Sergeant",
+      "order": 12
+    },
+    {
+      "personId": 32669,
+      "character": "Police Commissioner",
+      "order": 13
+    },
+    {
+      "personId": 132479,
+      "character": "Grandfather (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1459391,
+      "character": "Nannina (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 543796,
+      "character": "The Priest (uncredited)",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 1014,
+  "sources": [
+    "cult-list"
+  ]
+}

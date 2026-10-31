@@ -1,0 +1,186 @@
+{
+  "tmdbId": 963,
+  "slug": "the-maltese-falcon-1941",
+  "year": 1941,
+  "runtime": 100,
+  "originalTitle": "The Maltese Falcon",
+  "title": {
+    "en": "The Maltese Falcon",
+    "tr": "Malta Şahini"
+  },
+  "overview": {
+    "en": "A private detective takes on a case that involves him with three eccentric criminals, a beautiful liar, and their quest for a priceless statuette.",
+    "tr": "Özel dedektif Sam Spade, ortağı Miles Archer ve sekreterinden oluşan dedektiflik bürosunda her gün sıradan ve bilindik işlerin peşinde koşarken müşteri olarak gelen Brigid O'Shaughnessy'nin hayatlarına girmesi ile herşeyin değişeceğinden habersizdir. Brigid, kardeşinin birlikte kaçtığı belalı sevgilisini bulmaları için iki dedektifi tutunca Archer, adamı bulmak için hemen peşine düşer. Fakat ortağının bu yolculuk sırasında gizemli bir şekilde öldürülmesi sonucu, Brigid'in aslında yalan söylemiş olduğu ortaya çıkar. Bütün bu yalanların uzandığı nokta, Malta Şahini adlı paha biçilmez bir heykele ulaşabilmektir. Sandığından çok daha büyük bir belanın içine batmış olduğunu anlayan Sam için artık sadece kendisini kurtarmak vardır."
+  },
+  "poster": {
+    "tr": "/cBlwsT9B1b2CvjWxuB8oeHOJkbD.jpg",
+    "en": "/bf4o6Uzw5wqLjdKwRuiDrN1xyvl.jpg"
+  },
+  "backdrops": [
+    "/5lMm0MmAviP6DF45nxBVOT9LCwK.jpg",
+    "/guhVuJAqSEMrUgKMB04y0SXJr8Q.jpg",
+    "/9xzVKUGbVKrrgwlmshJ8SxI5mL7.jpg",
+    "/oOPFBpfhueb8zJT80lQDP1qxVTa.jpg",
+    "/zNBkNibBSLVljpkWWLQKbD84Soa.jpg",
+    "/8j4DT4JWda3XYmSkHzBBxJlyBgk.jpg",
+    "/bPXFY1qJS6hMEWjTKHCFoTbLWkd.jpg",
+    "/rI9BCk3U1NjIxnLPXF7yv2ogWsy.jpg",
+    "/53oYEMJjbpMy4WTNycrlK4WF0yt.jpg",
+    "/qlndzxlcXQj9scIwnN1hnQg9Uyg.jpg"
+  ],
+  "trailerKey": "Yv-BPuqhW9U",
+  "genreIds": [
+    9648,
+    80,
+    53
+  ],
+  "keywordIds": [
+    818,
+    582,
+    697,
+    703,
+    9807,
+    9826,
+    11151,
+    12570,
+    12999,
+    155790,
+    155843,
+    185525,
+    261264
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 2005,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6593,
+      "job": "writer"
+    },
+    {
+      "personId": 6593,
+      "job": "director"
+    },
+    {
+      "personId": 4100,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4110,
+      "character": "Samuel Spade",
+      "order": 0
+    },
+    {
+      "personId": 13992,
+      "character": "Brigid O'Shaughnessy",
+      "order": 1
+    },
+    {
+      "personId": 14450,
+      "character": "Iva Archer",
+      "order": 2
+    },
+    {
+      "personId": 2094,
+      "character": "Joel Cairo",
+      "order": 3
+    },
+    {
+      "personId": 14451,
+      "character": "Lt. of Detectives Dundy",
+      "order": 4
+    },
+    {
+      "personId": 5740,
+      "character": "Effie Perine",
+      "order": 5
+    },
+    {
+      "personId": 4114,
+      "character": "Kasper Gutman",
+      "order": 6
+    },
+    {
+      "personId": 4303,
+      "character": "Detective Tom Polhaus",
+      "order": 7
+    },
+    {
+      "personId": 14452,
+      "character": "Miles Archer",
+      "order": 8
+    },
+    {
+      "personId": 3339,
+      "character": "Wilmer Cook",
+      "order": 9
+    },
+    {
+      "personId": 14453,
+      "character": "Luke",
+      "order": 10
+    },
+    {
+      "personId": 14454,
+      "character": "Frank Richman",
+      "order": 11
+    },
+    {
+      "personId": 14455,
+      "character": "District Attorney Bryan",
+      "order": 12
+    },
+    {
+      "personId": 15978,
+      "character": "Reporter (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 96259,
+      "character": "Bit Part (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 97981,
+      "character": "Stenographer (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 95311,
+      "character": "Policeman (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 2776,
+      "character": "Reporter (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 19020,
+      "character": "Captain Jacoby (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 13856,
+      "character": "Reporter (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1973,
+  "sources": [
+    "cult-list"
+  ]
+}

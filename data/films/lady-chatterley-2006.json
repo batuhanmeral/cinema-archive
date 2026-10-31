@@ -1,0 +1,146 @@
+{
+  "tmdbId": 3542,
+  "slug": "lady-chatterley-2006",
+  "year": 2006,
+  "runtime": 167,
+  "originalTitle": "Lady Chatterley",
+  "title": {
+    "en": "Lady Chatterley",
+    "tr": "Lady Chatterley"
+  },
+  "overview": {
+    "en": "After a crippling injury leaves her husband impotent, Lady Chatterly is torn between her love for her husband and her physical desires. With her husband's consent, she seeks out other means of fulfilling her needs.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/A1Rk4mtHrai2harr7MM5Vn9mfwU.jpg",
+    "en": "/A1Rk4mtHrai2harr7MM5Vn9mfwU.jpg"
+  },
+  "backdrops": [
+    "/jfHbKVLes49W1s1SaPua7ijhWJG.jpg",
+    "/5n69btTr1OtOfoy3o9WpdWp2zPs.jpg",
+    "/fqZgGPKvUkCibYBnrub09Qa78P7.jpg",
+    "/vhaUkp8AlnM1CXZwcFGvEBaQvho.jpg",
+    "/vRj69Rd3F7s3W70CzE68kTvlxpX.jpg"
+  ],
+  "trailerKey": "MDq0jqey5SI",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    1605,
+    1009,
+    1655,
+    1664,
+    2564,
+    4029,
+    4115,
+    3691,
+    4902,
+    13027,
+    34094,
+    187056
+  ],
+  "countries": [
+    "BE",
+    "FR",
+    "GB"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Maïa Films",
+    "Les Films du Lendemain",
+    "ARTE France Cinéma"
+  ],
+  "crew": [
+    {
+      "personId": 32501,
+      "job": "director"
+    },
+    {
+      "personId": 32504,
+      "job": "composer"
+    },
+    {
+      "personId": 32506,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 41792,
+      "job": "producer"
+    },
+    {
+      "personId": 32502,
+      "job": "writer"
+    },
+    {
+      "personId": 32501,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32511,
+      "character": "Constance",
+      "order": 0
+    },
+    {
+      "personId": 32512,
+      "character": "Parkin",
+      "order": 1
+    },
+    {
+      "personId": 23388,
+      "character": "Clifford",
+      "order": 2
+    },
+    {
+      "personId": 7281,
+      "character": "Mrs. Bolton",
+      "order": 3
+    },
+    {
+      "personId": 32513,
+      "character": "Hilda",
+      "order": 4
+    },
+    {
+      "personId": 32514,
+      "character": "Constance Vater",
+      "order": 5
+    },
+    {
+      "personId": 32515,
+      "character": "Tommy Dukes",
+      "order": 6
+    },
+    {
+      "personId": 23224,
+      "character": "Harry Winterslo",
+      "order": 7
+    },
+    {
+      "personId": 1459592,
+      "character": "Mineur",
+      "order": 8
+    },
+    {
+      "personId": 3520584,
+      "character": "Marshall",
+      "order": 9
+    },
+    {
+      "personId": 1076071,
+      "character": "Le médecin",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 119,
+  "sources": [
+    "cult-list"
+  ]
+}

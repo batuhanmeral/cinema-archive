@@ -1,0 +1,142 @@
+{
+  "tmdbId": 28503,
+  "slug": "dementia-13-1963",
+  "year": 1963,
+  "runtime": 75,
+  "originalTitle": "Dementia 13",
+  "title": {
+    "en": "Dementia 13",
+    "tr": "Dementia 13"
+  },
+  "overview": {
+    "en": "A scheming widow hatches a bold plan to acquire her late husband's inheritance, unaware that she is being targeted by an ax murderer who lurks in the family's estate.",
+    "tr": "Yedi yıl önce gölde boğularak ölen genç Kathleen'in acısı hala annesi Lady Haloran'ı yiyip bitirmektedir. Düzenli olarak kızının mezarını ziyaret etmek suretiyle kendisine işkence eden Lady Haloran'ın çilesi bitecek gibi değildir. Şimdi de gelini Louise kalp krizi geçiren kocasının cesedini, sırf mirasın dışında kalmamak için saklamıştır ve şatoda esrarengiz olaylar birbirini izlemektedir."
+  },
+  "poster": {
+    "tr": "/aLv5491Q11zhIZbpqz7rnRZkSLZ.jpg",
+    "en": "/qSfelcriV7J7oOp24QKsry7tylY.jpg"
+  },
+  "backdrops": [
+    "/z2ZiFPibdguCYJBN9rZeHCMHxcO.jpg",
+    "/xrHrdJtMmldO6QeNgz4wYQBbX8H.jpg",
+    "/y5bg1w6cu8mlPa1iD0S8MX6y55C.jpg",
+    "/rQWevCfNdtGWq5Isfw6MnNXyJz8.jpg",
+    "/nLX8EjeywyQOnpTejyTG2GHt3gh.jpg",
+    "/7Qnk6JCU7slBEjvZ4VL4jyApkG7.jpg",
+    "/5nOuYybtlVgMvSexQ96oerpNy3c.jpg",
+    "/qnHBY2VeGpt6etM8Vvfyudm5Xc8.jpg",
+    "/5iprbnSG1Cvb61gjLSJSNWxxIC0.jpg",
+    "/vK1CJmd0iiWlgmhwiKv7iZBhciP.jpg"
+  ],
+  "trailerKey": "T5Lu2G0O3TA",
+  "genreIds": [
+    27,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    1786,
+    3098,
+    41171,
+    41351,
+    160588,
+    164218,
+    233450
+  ],
+  "countries": [
+    "IE",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Filmgroup",
+    "Roger Corman Productions",
+    "American International Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 1776,
+      "job": "writer"
+    },
+    {
+      "personId": 102429,
+      "job": "producer"
+    },
+    {
+      "personId": 1776,
+      "job": "director"
+    },
+    {
+      "personId": 1344189,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 91999,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15699,
+      "character": "Richard Haloran",
+      "order": 0
+    },
+    {
+      "personId": 77485,
+      "character": "Louise Haloran",
+      "order": 1
+    },
+    {
+      "personId": 100996,
+      "character": "Billy Haloran",
+      "order": 2
+    },
+    {
+      "personId": 98249,
+      "character": "Kane",
+      "order": 3
+    },
+    {
+      "personId": 2264,
+      "character": "Justin Caleb",
+      "order": 4
+    },
+    {
+      "personId": 100997,
+      "character": "Lady Haloran",
+      "order": 5
+    },
+    {
+      "personId": 100998,
+      "character": "John Haloran",
+      "order": 6
+    },
+    {
+      "personId": 100999,
+      "character": "Simon",
+      "order": 7
+    },
+    {
+      "personId": 101000,
+      "character": "Arthur",
+      "order": 8
+    },
+    {
+      "personId": 101001,
+      "character": "Lillian",
+      "order": 9
+    },
+    {
+      "personId": 101002,
+      "character": "Kathleen",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 201,
+  "sources": [
+    "cult-list"
+  ]
+}

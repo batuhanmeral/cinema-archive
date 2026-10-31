@@ -1,0 +1,231 @@
+{
+  "tmdbId": 2666,
+  "slug": "dark-city-1998",
+  "year": 1998,
+  "runtime": 101,
+  "originalTitle": "Dark City",
+  "title": {
+    "en": "Dark City",
+    "tr": "Karanlık Şehir"
+  },
+  "overview": {
+    "en": "A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun and run by beings with telekinetic powers who seek the souls of humans.",
+    "tr": "John Murdock, bir sabah nasıl geldiğini bilmediği yabancı bir otel odasında uyanır ve vahşice işlenmiş cinayetlerin katili olarak arandığını fark eder. Hafızasını kaybetmiş olduğu için cinayetleri işleyip işlemediğini dahi hatırlıyamamaktadır. Yeraltında yaşayan garip canlılarla karşılaşır. The Strangers olarak tanımlanan, zamanı durdurma ve dünyanın fiziksel yapısını değiştirme gücüne sahip olan bu yaratıklar, direkt olarak insan beynine hakim olabilmekte ve olayları istedikleri şekilde yönlendirebilmektedirler. Bu yaratıkların bir şekilde yokedilmesi gerekmektedir ve bunu yapabilecek tek kişi de Murdocktur. Esrarengiz Dr. Schreber'in yardımıyla bir adım ileri giderek çocukluğundan ve karısı Emma ile ilgili anılardan birşeyler hatırlamaya başlayan Murdock, bu anılar sayesinde suçlandığı cinayetlerle ilgili kendisine yardımcı olacak bir takım ipuçları elde etmeyi başarır."
+  },
+  "poster": {
+    "tr": "/4WdcFYdjWB1dGsJmjUNVIzPYDcY.jpg",
+    "en": "/AdBe2ow8hdlT2aLBYuUjs0Xkqkw.jpg"
+  },
+  "backdrops": [
+    "/6XJqHZ8Z2w45suyiYFIyqlk55TJ.jpg",
+    "/bmAzESah8IUNRQX5MqeyUrhE5Pr.jpg",
+    "/6KychqgDpABqqH3Rj9qd85znOry.jpg",
+    "/s438kT0RQUy1Mrjh5bhSm4c4xAg.jpg",
+    "/sWi4SSeVPii4NU365Df9vzX1yOX.jpg",
+    "/a3feuQry3eflAmOcG6I9GYozAA3.jpg",
+    "/gHvcE5pdzrht0AzmAEsIiVbw9lJ.jpg",
+    "/6Q77J7WGYrtaeUfbVF5gUZw7cmN.jpg",
+    "/q3LOJscvxKVJmTCorwNnK6zyU0e.jpg",
+    "/cS992RPEJQ4S45IiNSLqlMl2ins.jpg"
+  ],
+  "trailerKey": "30mmoegSQCs",
+  "genreIds": [
+    9648,
+    878
+  ],
+  "keywordIds": [
+    966,
+    1453,
+    1706,
+    2340,
+    4565,
+    2116,
+    2887,
+    10125,
+    10718,
+    10714,
+    10937,
+    12190,
+    12965,
+    33465,
+    161982,
+    163252,
+    175629,
+    178657,
+    187008,
+    187046,
+    202647,
+    207268,
+    207898,
+    214730,
+    222802,
+    224389,
+    232469,
+    232580,
+    238790,
+    239390,
+    239797,
+    257258,
+    276384,
+    287274,
+    287448,
+    287875,
+    299769,
+    314730,
+    334115,
+    355984,
+    360774
+  ],
+  "countries": [
+    "AU",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "New Line Cinema",
+    "Mystery Clock Cinema"
+  ],
+  "crew": [
+    {
+      "personId": 21085,
+      "job": "writer"
+    },
+    {
+      "personId": 7020,
+      "job": "composer"
+    },
+    {
+      "personId": 8299,
+      "job": "producer"
+    },
+    {
+      "personId": 120,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 23649,
+      "job": "writer"
+    },
+    {
+      "personId": 3893,
+      "job": "writer"
+    },
+    {
+      "personId": 21085,
+      "job": "director"
+    },
+    {
+      "personId": 21085,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17328,
+      "character": "John Murdoch",
+      "order": 0
+    },
+    {
+      "personId": 227,
+      "character": "Inspector Frank Bumstead",
+      "order": 1
+    },
+    {
+      "personId": 2628,
+      "character": "Dr. Daniel P. Schreber",
+      "order": 2
+    },
+    {
+      "personId": 6161,
+      "character": "Emma Murdoch",
+      "order": 3
+    },
+    {
+      "personId": 13474,
+      "character": "Mr. Hand",
+      "order": 4
+    },
+    {
+      "personId": 385,
+      "character": "Mr. Book",
+      "order": 5
+    },
+    {
+      "personId": 27752,
+      "character": "Mr. Wall",
+      "order": 6
+    },
+    {
+      "personId": 27753,
+      "character": "Det. Eddie Walenski",
+      "order": 7
+    },
+    {
+      "personId": 8398,
+      "character": "Karl Harris",
+      "order": 8
+    },
+    {
+      "personId": 27754,
+      "character": "Officer Husselbeck",
+      "order": 9
+    },
+    {
+      "personId": 27755,
+      "character": "May",
+      "order": 10
+    },
+    {
+      "personId": 40046,
+      "character": "Chief Inspector Stromboli",
+      "order": 11
+    },
+    {
+      "personId": 1040112,
+      "character": "Hotel Manager / Vendor",
+      "order": 12
+    },
+    {
+      "personId": 152463,
+      "character": "Taxi Driver",
+      "order": 13
+    },
+    {
+      "personId": 15340,
+      "character": "Mr. Rain",
+      "order": 14
+    },
+    {
+      "personId": 1121516,
+      "character": "Mr. Sleep",
+      "order": 15
+    },
+    {
+      "personId": 1860582,
+      "character": "Mr. Sleep Filming Double",
+      "order": 16
+    },
+    {
+      "personId": 933024,
+      "character": "Mr. Quick",
+      "order": 17
+    },
+    {
+      "personId": 75712,
+      "character": "Stranger",
+      "order": 18
+    },
+    {
+      "personId": 1371,
+      "character": "Schreber's Assistant",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3414,
+  "sources": [
+    "cult-list"
+  ]
+}

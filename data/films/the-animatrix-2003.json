@@ -1,0 +1,273 @@
+{
+  "tmdbId": 55931,
+  "slug": "the-animatrix-2003",
+  "year": 2003,
+  "runtime": 102,
+  "originalTitle": "The Animatrix",
+  "title": {
+    "en": "The Animatrix",
+    "tr": "Animatrix"
+  },
+  "overview": {
+    "en": "Straight from the creators of the groundbreaking Matrix trilogy, this collection of short animated films from the world's leading anime directors fuses computer graphics and Japanese anime to provide the background of the Matrix universe and the conflict between man and machines. The shorts include Final Flight of the Osiris, The Second Renaissance, Kid's Story, Program, World Record, Beyond, A Detective Story and Matriculated.",
+    "tr": "MATRIX DÜNYASINA 9 KISA FİLMLE İNANILMAZ BİR GEZİNTİ.  CG-animasyon ve Japon anime sanatının dünyadaki en yetenekli anime yönetmenleri tarafından geliştirilmiş geleceğin yıldızı Animatrix'e hoşgeldiniz. Matrix'in öncesini tanıyın ve insanlığın son şehirlerini, makinalarla savaşları ve insanlığın önlenemeyen düşüşüne şahit olun. Osiris'in Son Uçuşu'nu görün, Matrix Reloaded filmi ve Enter The Matrix oyununa hazırlanın. Matrix üzerine başka hiçbir yerde bulunmayan bilgilere ulaşın. Şimdi bağlanmanın tam zamanı.  FİLMLER:  OSIRIS'İN SON UÇUŞU | İKİNCİ RÖNESANS BÖLÜM I & II | ÇOCUĞUN HİKAYESİ | PROGRAM |  DÜNYA REKORU | ÖTESİ | BİR DEDEKTİF HİKAYESİ | MEZUNİYET"
+  },
+  "poster": {
+    "tr": "/eDjIG2hAeMU5cxLrd6oiQqdqoZt.jpg",
+    "en": "/g52SOsTvdjzY8oPIn5znLJMzLHG.jpg"
+  },
+  "backdrops": [
+    "/6EnDIsjiel1qOfsIKQInwl80Zua.jpg",
+    "/SnbAkQ7mUTSVd4AYjUEKXJBVfq.jpg",
+    "/7a4WHNllmX5ZGR0MfYJDPhV69eM.jpg",
+    "/gh1FaDG6vWyMhumt4K6wEFxrvNm.jpg",
+    "/lIscI7N6Ai1PIoOKrlMKe9L1ycx.jpg",
+    "/pJIWNQJUbnwEIzw49SzNd9lwjay.jpg",
+    "/rBsQXDn76oL475N43dkspfxlEWt.jpg",
+    "/gfscLi8PvQEhBrZ9IFLnaSIYlWX.jpg",
+    "/6r3Q2C7vi6eDhT8H41bdBisnUIb.jpg",
+    "/3ucOJQP6TccG36TsjwVlOeDh8q2.jpg"
+  ],
+  "trailerKey": "94fPVqJqBGA",
+  "genreIds": [
+    16,
+    878
+  ],
+  "keywordIds": [
+    779,
+    310,
+    2157,
+    4563,
+    4565,
+    4458,
+    9706,
+    12190,
+    161919,
+    171366,
+    175629,
+    185199,
+    190200,
+    210024,
+    219404,
+    251513
+  ],
+  "countries": [
+    "JP",
+    "US",
+    "KR"
+  ],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Village Roadshow Pictures",
+    "Silver Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 28249,
+      "job": "director"
+    },
+    {
+      "personId": 56339,
+      "job": "director"
+    },
+    {
+      "personId": 56340,
+      "job": "director"
+    },
+    {
+      "personId": 56341,
+      "job": "director"
+    },
+    {
+      "personId": 183,
+      "job": "director"
+    },
+    {
+      "personId": 56342,
+      "job": "director"
+    },
+    {
+      "personId": 56339,
+      "job": "writer"
+    },
+    {
+      "personId": 183,
+      "job": "writer"
+    },
+    {
+      "personId": 56342,
+      "job": "writer"
+    },
+    {
+      "personId": 28249,
+      "job": "writer"
+    },
+    {
+      "personId": 56343,
+      "job": "producer"
+    },
+    {
+      "personId": 56344,
+      "job": "producer"
+    },
+    {
+      "personId": 1114900,
+      "job": "producer"
+    },
+    {
+      "personId": 39726,
+      "job": "producer"
+    },
+    {
+      "personId": 1114901,
+      "job": "producer"
+    },
+    {
+      "personId": 90162,
+      "job": "producer"
+    },
+    {
+      "personId": 9339,
+      "job": "producer"
+    },
+    {
+      "personId": 9340,
+      "job": "producer"
+    },
+    {
+      "personId": 4949,
+      "job": "composer"
+    },
+    {
+      "personId": 56345,
+      "job": "composer"
+    },
+    {
+      "personId": 56346,
+      "job": "composer"
+    },
+    {
+      "personId": 56338,
+      "job": "director"
+    },
+    {
+      "personId": 9339,
+      "job": "writer"
+    },
+    {
+      "personId": 9340,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6384,
+      "character": "Neo (\"Kid's Story\") (voice)",
+      "order": 0
+    },
+    {
+      "personId": 530,
+      "character": "Trinity (\"Kid's Story\" and \"A Detective Story\") (voice)",
+      "order": 1
+    },
+    {
+      "personId": 56347,
+      "character": "The Kid (\"Kid's Story\") (voice)",
+      "order": 2
+    },
+    {
+      "personId": 21063,
+      "character": "Jue (\"Final Flight of the Osiris\") / Manabu (\"Beyond\") (voice)",
+      "order": 3
+    },
+    {
+      "personId": 89251,
+      "character": "Alexa (\"Matriculated\") (voice)",
+      "order": 4
+    },
+    {
+      "personId": 31531,
+      "character": "Crew Man (\"Final Flight of the Osiris\") / Kaiser (\"Program\") (voice)",
+      "order": 5
+    },
+    {
+      "personId": 24362,
+      "character": "Thadeus (\"Final Flight of Osiris\") / Cop (\"Kid's Story\") / Agent #2 (\"World Record\")",
+      "order": 6
+    },
+    {
+      "personId": 78798,
+      "character": "Operator (\"Final Flight of Osiris\")",
+      "order": 7
+    },
+    {
+      "personId": 123532,
+      "character": "Pilot (\"Final Flight of Osiris\")",
+      "order": 8
+    },
+    {
+      "personId": 15762,
+      "character": "Crew Woman (\"Final Flight of Osiris\") / Nurse (\"World Record\") / Misha (\"Beyond\")",
+      "order": 9
+    },
+    {
+      "personId": 1212032,
+      "character": "Old Woman (\"Final Flight of Osiris\")",
+      "order": 10
+    },
+    {
+      "personId": 51958,
+      "character": "The Instructor (\"The Second Renaissance Part I & II\") / Narrator (\"World Record\")",
+      "order": 11
+    },
+    {
+      "personId": 9349,
+      "character": "01 Versatran Spokesman (\"The Second Renaissance Part I & II\")",
+      "order": 12
+    },
+    {
+      "personId": 73016,
+      "character": "Kid (\"The Second Renaissance Part I & II\")",
+      "order": 13
+    },
+    {
+      "personId": 17414,
+      "character": "Mother (\"The Second Renaissance Part I & II\")",
+      "order": 14
+    },
+    {
+      "personId": 28248,
+      "character": "Additional Voices (\"The Second Renaissance Part I & II\") / Monaka (\"Matriculated\")",
+      "order": 15
+    },
+    {
+      "personId": 19506,
+      "character": "Additional Voices (\"The Second Renaissance Part I & II\") / Ash (\"A Detective Story\") / Raul (\"Matriculated\")",
+      "order": 16
+    },
+    {
+      "personId": 56348,
+      "character": "Teacher (\"Kid's Story\")",
+      "order": 17
+    },
+    {
+      "personId": 41558,
+      "character": "Cis (\"Program\") / Yoko (\"Beyond\")",
+      "order": 18
+    },
+    {
+      "personId": 31549,
+      "character": "Duo (\"Program\")",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1871,
+  "sources": [
+    "cult-list"
+  ]
+}

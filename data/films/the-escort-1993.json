@@ -1,0 +1,170 @@
+{
+  "tmdbId": 68806,
+  "slug": "the-escort-1993",
+  "year": 1993,
+  "runtime": 96,
+  "originalTitle": "La scorta",
+  "title": {
+    "en": "The Escort",
+    "tr": "La scorta"
+  },
+  "overview": {
+    "en": "The film shows the difficulties of an honest, imperiled judge and his bodyguard of four men, trying to clean up a Sicilian town. Corrupt local politicians, working hand-in-hand with the Mafia, will stop at nothing to prevent exposure of their rackets.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/bhUUl8DosoGRDiGuSGu5GXDdGzT.jpg",
+    "en": "/bhUUl8DosoGRDiGuSGu5GXDdGzT.jpg"
+  },
+  "backdrops": [
+    "/cQfQkpfysYatTyU8ksQOXv0Gg8e.jpg"
+  ],
+  "trailerKey": "kd4eDke73oI",
+  "genreIds": [
+    53,
+    80,
+    18
+  ],
+  "keywordIds": [
+    10391,
+    282787
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Claudio Bonivento Productions"
+  ],
+  "crew": [
+    {
+      "personId": 105114,
+      "job": "director"
+    },
+    {
+      "personId": 129439,
+      "job": "writer"
+    },
+    {
+      "personId": 105120,
+      "job": "writer"
+    },
+    {
+      "personId": 1259,
+      "job": "composer"
+    },
+    {
+      "personId": 1293823,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 23961,
+      "character": "Angelo Mandolesi",
+      "order": 0
+    },
+    {
+      "personId": 27392,
+      "character": "Andrea Corsale",
+      "order": 1
+    },
+    {
+      "personId": 96974,
+      "character": "Assistant Prosecuting Magistrate Michele de Francesco",
+      "order": 2
+    },
+    {
+      "personId": 128117,
+      "character": "Fabio Muzzi",
+      "order": 3
+    },
+    {
+      "personId": 119992,
+      "character": "Polizzi",
+      "order": 4
+    },
+    {
+      "personId": 929443,
+      "character": "Salvatore Genna",
+      "order": 5
+    },
+    {
+      "personId": 1874281,
+      "character": "Presidente Caruso",
+      "order": 6
+    },
+    {
+      "personId": 126975,
+      "character": "Raffaele Frasca",
+      "order": 7
+    },
+    {
+      "personId": 71296,
+      "character": "Nicola Torre",
+      "order": 8
+    },
+    {
+      "personId": 78711,
+      "character": "Anna Spano",
+      "order": 9
+    },
+    {
+      "personId": 1949950,
+      "character": "Marco Corini",
+      "order": 10
+    },
+    {
+      "personId": 226832,
+      "character": "Lia Corsale",
+      "order": 11
+    },
+    {
+      "personId": 27647,
+      "character": "Giudice Luigi Barresi",
+      "order": 12
+    },
+    {
+      "personId": 120656,
+      "character": "informatore",
+      "order": 13
+    },
+    {
+      "personId": 1701604,
+      "character": "Nino Carabba",
+      "order": 14
+    },
+    {
+      "personId": 1026461,
+      "character": "Rosalia Carabba",
+      "order": 15
+    },
+    {
+      "personId": 1604213,
+      "character": "Maresciallo",
+      "order": 16
+    },
+    {
+      "personId": 119352,
+      "character": "Farina",
+      "order": 17
+    },
+    {
+      "personId": 553806,
+      "character": "La madre di Angelo",
+      "order": 18
+    },
+    {
+      "personId": 105120,
+      "character": "la moglie del giudice",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 47,
+  "sources": [
+    "cult-list"
+  ]
+}

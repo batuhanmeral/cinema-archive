@@ -1,0 +1,201 @@
+{
+  "tmdbId": 759,
+  "slug": "gentlemen-prefer-blondes-1953",
+  "year": 1953,
+  "runtime": 91,
+  "originalTitle": "Gentlemen Prefer Blondes",
+  "title": {
+    "en": "Gentlemen Prefer Blondes",
+    "tr": "Erkekler Sarışınları Sever"
+  },
+  "overview": {
+    "en": "Lorelei Lee is a beautiful showgirl engaged to be married to the wealthy Gus Esmond, much to the disapproval of Gus' rich father, Esmond Sr., who thinks that Lorelei is just after his money. When Lorelei goes on a cruise accompanied only by her best friend, Dorothy Shaw, Esmond Sr. hires Ernie Malone, a private detective, to follow her and report any questionable behavior that would disqualify her from the marriage.",
+    "tr": "Lorelei ve Dorothy taşradan büyük şehire gelmiş iki genç kadındır. Bir müzikholde dansçılık ve şarkıcılık yapan bu iki genç kadın Paris'e giden bir transatlantikte iş bulurlar. Çok geçmeden Lorelei ve Dorothy'nin etrafını zengin adamlar sarar. Zengin bir koca bulmayı isteyen Lorelei ve Dorothy aşkın anlamını öğreneceklerdir."
+  },
+  "poster": {
+    "tr": "/mQH0TkpNuflfeT8lOokklLz1C58.jpg",
+    "en": "/oeWYAdgpAAs7DLixzrAZy1F3Paq.jpg"
+  },
+  "backdrops": [
+    "/xORxfun2s1Gn43nPbYkMpQZZ9sK.jpg",
+    "/ykOnOlXq0UhEMiqzeIEQEWwIA6W.jpg",
+    "/egZ9L3kpieyHx7TnsLyt7dNRRc7.jpg",
+    "/s4cW5IvqKrltb1ThaPc0TOJqqDS.jpg",
+    "/hkuAkORYyZbdxuBQ9YZP57BWwrn.jpg",
+    "/q21mBOQuakCOLkh9ITtRciCtm5Q.jpg",
+    "/uGw61CcdDqyj0U0D7M83IeoQp5Z.jpg",
+    "/jnYGtYTHLPTFcnvKxnpAACGfW3K.jpg",
+    "/mhcRZ6S829iVnOYA7hCyEdsIj1Q.jpg",
+    "/rFXW1eGKRZJWjRTX4nLCwgYhbCj.jpg"
+  ],
+  "trailerKey": "TOqfJEPB8rI",
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    642,
+    90,
+    1384,
+    970,
+    6099,
+    3897,
+    4344,
+    33626,
+    156221,
+    157286,
+    191808,
+    208611,
+    259376,
+    259426,
+    288816,
+    325782
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "20th Century Fox"
+  ],
+  "crew": [
+    {
+      "personId": 4358,
+      "job": "writer"
+    },
+    {
+      "personId": 11438,
+      "job": "producer"
+    },
+    {
+      "personId": 11442,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11435,
+      "job": "director"
+    },
+    {
+      "personId": 146672,
+      "job": "composer"
+    },
+    {
+      "personId": 11441,
+      "job": "composer"
+    },
+    {
+      "personId": 11435,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11165,
+      "character": "Dorothy Shaw",
+      "order": 0
+    },
+    {
+      "personId": 3149,
+      "character": "Lorelei Lee",
+      "order": 1
+    },
+    {
+      "personId": 11169,
+      "character": "Sir Francis 'Piggy' Beekman",
+      "order": 2
+    },
+    {
+      "personId": 11168,
+      "character": "Ernie Malone",
+      "order": 3
+    },
+    {
+      "personId": 11170,
+      "character": "Gus Esmond Jr.",
+      "order": 4
+    },
+    {
+      "personId": 11171,
+      "character": "Henry Spofford III",
+      "order": 5
+    },
+    {
+      "personId": 4121,
+      "character": "Magistrate",
+      "order": 6
+    },
+    {
+      "personId": 11172,
+      "character": "Mr. Esmond Sr.",
+      "order": 7
+    },
+    {
+      "personId": 10926,
+      "character": "Lady Beekman",
+      "order": 8
+    },
+    {
+      "personId": 48961,
+      "character": "Watson",
+      "order": 9
+    },
+    {
+      "personId": 30847,
+      "character": "Hotel Manager",
+      "order": 10
+    },
+    {
+      "personId": 2953170,
+      "character": "Wedding Guest (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1504551,
+      "character": "Captain of Waiters (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1217408,
+      "character": "Musician (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1466128,
+      "character": "Ship Passenger (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1468854,
+      "character": "Courtroom Spectator (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 2561054,
+      "character": "Small Role (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 4421832,
+      "character": "Chorus Girl (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 4421833,
+      "character": "Chorus Girl (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2448792,
+      "character": "Courtroom Spectator (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1122,
+  "sources": [
+    "cult-list"
+  ]
+}

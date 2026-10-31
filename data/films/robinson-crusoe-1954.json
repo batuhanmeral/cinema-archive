@@ -1,0 +1,121 @@
+{
+  "tmdbId": 54979,
+  "slug": "robinson-crusoe-1954",
+  "year": 1954,
+  "runtime": 90,
+  "originalTitle": "Robinson Crusoe",
+  "title": {
+    "en": "Robinson Crusoe",
+    "tr": "Robinson Crusoe"
+  },
+  "overview": {
+    "en": "The titular adventurer, after defying his parents to go to sea, survives a shipwreck and becomes a castaway on a deserted island for nearly thirty years, learning to build a new life from scratch, discovering companionship with a native man he names Friday, and eventually returning to civilisation a changed man, finding wealth and new challenges.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/jZU3j6mVlidq5G1Hr6wpfS1Pwlj.jpg",
+    "en": "/1loBnQ2Bl1qzGNvUdtGTmVo8GnV.jpg"
+  },
+  "backdrops": [
+    "/1cmKxkRkiGYo0DaPSYZOwYG1Yx2.jpg",
+    "/qycaM9VWFvm0cvylTXtZV2fgto5.jpg",
+    "/pbJcSupdYWUnHOdgeHaRJHeN6a9.jpg",
+    "/gjAweqnhzzxYkJmZxe0nVP39Br2.jpg",
+    "/ux3ZCiyvK9oEhL2whHsFf01hKKM.jpg"
+  ],
+  "trailerKey": "f195WWXMt-A",
+  "genreIds": [
+    12,
+    18
+  ],
+  "keywordIds": [
+    1860,
+    2041,
+    977,
+    2580,
+    9957,
+    14895,
+    33477,
+    155746,
+    157524
+  ],
+  "countries": [
+    "MX",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Producciones Tepeyac",
+    "Oscar Dancigers Production"
+  ],
+  "crew": [
+    {
+      "personId": 793,
+      "job": "writer"
+    },
+    {
+      "personId": 793,
+      "job": "director"
+    },
+    {
+      "personId": 22596,
+      "job": "writer"
+    },
+    {
+      "personId": 11963,
+      "job": "producer"
+    },
+    {
+      "personId": 57311,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 95015,
+      "job": "composer"
+    },
+    {
+      "personId": 11962,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6836,
+      "character": "Robinson Crusoe",
+      "order": 0
+    },
+    {
+      "personId": 31887,
+      "character": "Friday",
+      "order": 1
+    },
+    {
+      "personId": 179477,
+      "character": "Captain Oberzo",
+      "order": 2
+    },
+    {
+      "personId": 179489,
+      "character": "Bosun",
+      "order": 3
+    },
+    {
+      "personId": 103565,
+      "character": "Pirate",
+      "order": 4
+    },
+    {
+      "personId": 179522,
+      "character": "Leader of the Mutiny",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 103,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,124 @@
+name: Security
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 5 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# Aynı ref'te tek tarama koşar: PR'da eskisi iptal edilir, diğer olaylarda yenisi bitmesini bekler
+concurrency:
+  group: security-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+jobs:
+  gitleaks:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: read
+    steps:
+      # Tüm geçmiş taranır; eski commit'e sızmış sır da yakalansın
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      # v3 yalnızca Node 24 çalışma zamanı geçişi; girdi/davranış v2 ile aynı
+      - uses: gitleaks/gitleaks-action@e0c47f4f8be36e29cdc102c57e68cb5cbf0e8d1e # v3.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  semgrep:
+    runs-on: ubuntu-latest
+    # Sürüm 1.182.1; digest ile sabitlendi
+    container: semgrep/semgrep@sha256:451b3d875c00dac7ed5db5293e584a07de11449a409c10b3c2d2652f429630b6
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - run: >-
+          semgrep scan
+          --config .semgrep --config p/typescript --config p/react --config p/nextjs --config p/github-actions
+          --severity ERROR --severity WARNING
+          --error --metrics=off --sarif-output=semgrep.sarif
+      # Tarama başarısız olsa da bulgular incelenebilsin
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: semgrep-sarif
+          path: semgrep.sarif
+
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: pnpm/action-setup@ea17c68df8912ef543352723c149a84f56e3d413 # v6.1.0
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version-file: .nvmrc
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm audit --audit-level high
+
+  sbom:
+    # PR'larda SBOM üretmeye gerek yok; yalnızca main/zamanlanmış/elle çalıştırmada
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: anchore/sbom-action@66cbf4bc1f1c0d2edc94016e65bc221b6bb0ad6c # v0.24.3
+        with:
+          path: .
+          format: cyclonedx-json
+          artifact-name: sbom-cyclonedx
+
+  zap:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: pnpm/action-setup@ea17c68df8912ef543352723c149a84f56e3d413 # v6.1.0
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version-file: .nvmrc
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm build
+        env:
+          SITE_URL: https://sinemaarsivi.com
+      # Slug lock.json'dan okunur; sabit yazılırsa veri değişince tarama 404'e düşer
+      - id: slug
+        run: echo "value=$(jq -r '.films[] | select(.tmdbId == 1398) | .slug' data/lock.json)" >> "$GITHUB_OUTPUT"
+      # Başlıkları serve.json verir; ZAP üretimdekiyle aynı başlıkları görür
+      - name: Serve the static export
+        env:
+          SLUG: ${{ steps.slug.outputs.value }}
+        run: |
+          pnpm serve:out > /dev/null 2>&1 &
+          for _ in $(seq 30); do
+            curl -sf "http://localhost:4173/film/$SLUG" > /dev/null && exit 0
+            sleep 1
+          done
+          echo "serve did not become ready" >&2
+          exit 1
+      # -I: uyarılar başarısız saymaz; zap-rules.tsv'deki FAIL kuralları sayar
+      - uses: zaproxy/action-baseline@de8ad967d3548d44ef623df22cf95c3b0baf8b25 # v0.15.0
+        with:
+          target: http://localhost:4173/film/${{ steps.slug.outputs.value }}
+          # ZAP 2.17.0; :stable etiketi değişebileceği için digest ile sabitlendi
+          docker_name: ghcr.io/zaproxy/zaproxy@sha256:030d3df57735dacbb83464854758e674dd9ad01d79d12a129a8e58b1fd384238
+          rules_file_name: security/zap-rules.tsv
+          cmd_options: '-I'
+          fail_action: true
+          allow_issue_writing: false
+          artifact_name: zap-report

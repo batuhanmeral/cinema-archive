@@ -1,0 +1,178 @@
+{
+  "tmdbId": 44000,
+  "slug": "trog-1970",
+  "year": 1970,
+  "runtime": 91,
+  "originalTitle": "Trog",
+  "title": {
+    "en": "Trog",
+    "tr": "Trog"
+  },
+  "overview": {
+    "en": "Anthropologist Dr Brockton unearths a primitive troglodyte — an Ice Age 'missing link': half-caveman, half-ape — in a local cave. Through experimentation, she manages to communicate with and domesticate him before he's released by an irate land developer and goes on a rampage, terrorising the local citizenry.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tGSYOU7ozwVTjutl9T8SshPTzPd.jpg",
+    "en": "/2Hj5H6HtEahC4dO31uc60TbLT02.jpg"
+  },
+  "backdrops": [
+    "/x68NlwH8LstpVfcBKnFQ9bsNB1A.jpg",
+    "/vYRVvYhW6LVzy3YRVGFo97X2wdB.jpg",
+    "/o63wjcIrZ4YsPU29A54aN2EUFyB.jpg",
+    "/sGxSVU1PB1ncaDsc1sofUcNdT17.jpg",
+    "/hXj9L7Iyuy9ZojUk1ymOnVM66k7.jpg"
+  ],
+  "trailerKey": "68JrnoSzgVo",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    1964,
+    9826,
+    191414,
+    214516,
+    242244,
+    261759
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Herman Cohen Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 5629,
+      "job": "director"
+    },
+    {
+      "personId": 31253,
+      "job": "writer"
+    },
+    {
+      "personId": 31252,
+      "job": "producer"
+    },
+    {
+      "personId": 29056,
+      "job": "composer"
+    },
+    {
+      "personId": 30932,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 31550,
+      "character": "Dr. Brockton",
+      "order": 0
+    },
+    {
+      "personId": 3796,
+      "character": "Sam Murdock",
+      "order": 1
+    },
+    {
+      "personId": 63000,
+      "character": "Inspector Greenham",
+      "order": 2
+    },
+    {
+      "personId": 130000,
+      "character": "Anne Brockton",
+      "order": 3
+    },
+    {
+      "personId": 199340,
+      "character": "Malcolm Travers",
+      "order": 4
+    },
+    {
+      "personId": 41961,
+      "character": "Cliff",
+      "order": 5
+    },
+    {
+      "personId": 11131,
+      "character": "Magistrate",
+      "order": 6
+    },
+    {
+      "personId": 14755,
+      "character": "Dr. Selbourne",
+      "order": 7
+    },
+    {
+      "personId": 175971,
+      "character": "Bill",
+      "order": 8
+    },
+    {
+      "personId": 89526,
+      "character": "Dr. Richard Warren",
+      "order": 9
+    },
+    {
+      "personId": 176282,
+      "character": "Colonel Vickers",
+      "order": 10
+    },
+    {
+      "personId": 5570,
+      "character": "Alan Davis",
+      "order": 11
+    },
+    {
+      "personId": 51729,
+      "character": "Little Girl",
+      "order": 12
+    },
+    {
+      "personId": 114533,
+      "character": "Reporter",
+      "order": 13
+    },
+    {
+      "personId": 1558152,
+      "character": "Trog",
+      "order": 14
+    },
+    {
+      "personId": 1407894,
+      "character": "Anaesthetist (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1214099,
+      "character": "John Dennis (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 4804933,
+      "character": "Police Officer (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1000163,
+      "character": "Professor Manoskiensky (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 189404,
+      "character": "TV Crewman (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 44,
+  "sources": [
+    "cult-list"
+  ]
+}

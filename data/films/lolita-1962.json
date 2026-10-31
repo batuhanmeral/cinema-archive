@@ -1,0 +1,215 @@
+{
+  "tmdbId": 802,
+  "slug": "lolita-1962",
+  "year": 1962,
+  "runtime": 154,
+  "originalTitle": "Lolita",
+  "title": {
+    "en": "Lolita",
+    "tr": "Lolita"
+  },
+  "overview": {
+    "en": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
+    "tr": "New Hampshire'e yeni gelmiş Humbert aşık olduğu kişiye ulaşabilmek için büyük bir plan yapar; Charlotte Haze'la evlenecek ve böylece onun erken gelişmiş, güzeller güzeli kızına her zaman yakın olacaktır.\r Usta yönetmen ve yapımcı Stanley Kubrick cinsel tutkuları, Vladimir Nabokov'un romanını temel alarak keşfe çıkıyor. Kubrick, aynı konuyu 37 yıl sonra Eyes Wide Shut ile tekrar ele aldı..."
+  },
+  "poster": {
+    "tr": "/8Puqbeh0D95DpXFWep1rmH78btu.jpg",
+    "en": "/8Puqbeh0D95DpXFWep1rmH78btu.jpg"
+  },
+  "backdrops": [
+    "/5N7Kl2ekPad4hY77liQxlO9vqMS.jpg",
+    "/40JNQ4FOekM1LDgUC5mDcM8bZyl.jpg",
+    "/aoq23NUjv6ULYglJOYRCiy2URnx.jpg",
+    "/geVe65VGyRfC3B4eTtF65FAd0il.jpg",
+    "/8atCGpxXxP5g2RvwVqilFVMIh4I.jpg",
+    "/Auhon5seJPvU0zmRgyN7Tw1oGLy.jpg",
+    "/wEGmJPdT8QyBOQtUhkKV2HOgHL8.jpg",
+    "/fAg5XuaFq0aC7eECjqkvf5JM0Wz.jpg",
+    "/gNl5f01w5nVnW60Nazm73OOdlU0.jpg",
+    "/3s1IIPOzL9R2xXDOiM3Zn88zqK7.jpg"
+  ],
+  "trailerKey": "KOgioT6OTGc",
+  "genreIds": [
+    18,
+    35,
+    10749
+  ],
+  "keywordIds": [
+    612,
+    894,
+    2087,
+    1415,
+    7879,
+    818,
+    459,
+    5767,
+    1599,
+    697,
+    3746,
+    4129,
+    1486,
+    1664,
+    2086,
+    2669,
+    2913,
+    3182,
+    4125,
+    4126,
+    4127,
+    3691,
+    4130,
+    14669,
+    229706
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Seven Arts Productions",
+    "Harris Kubrick Pictures",
+    "A.A. Productions, Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 3349,
+      "job": "producer"
+    },
+    {
+      "personId": 10339,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12008,
+      "job": "composer"
+    },
+    {
+      "personId": 4360,
+      "job": "composer"
+    },
+    {
+      "personId": 240,
+      "job": "director"
+    },
+    {
+      "personId": 12007,
+      "job": "writer"
+    },
+    {
+      "personId": 30988,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2091,
+      "character": "Prof. Humbert Humbert",
+      "order": 0
+    },
+    {
+      "personId": 7632,
+      "character": "Charlotte Haze",
+      "order": 1
+    },
+    {
+      "personId": 12445,
+      "character": "Dolores \"Lolita\" Haze",
+      "order": 2
+    },
+    {
+      "personId": 12450,
+      "character": "Richard T. \"Dick\" Siller",
+      "order": 3
+    },
+    {
+      "personId": 12449,
+      "character": "John Farlow",
+      "order": 4
+    },
+    {
+      "personId": 12448,
+      "character": "Jean Farlow",
+      "order": 5
+    },
+    {
+      "personId": 9878,
+      "character": "Nurse Mary Lore",
+      "order": 6
+    },
+    {
+      "personId": 9913,
+      "character": "Physician",
+      "order": 7
+    },
+    {
+      "personId": 12451,
+      "character": "George Swine",
+      "order": 8
+    },
+    {
+      "personId": 12452,
+      "character": "Mrs. Starch",
+      "order": 9
+    },
+    {
+      "personId": 106628,
+      "character": "Vivian Darkbloom",
+      "order": 10
+    },
+    {
+      "personId": 943721,
+      "character": "Miss Lebone",
+      "order": 11
+    },
+    {
+      "personId": 96762,
+      "character": "Frederick Beale Sr.",
+      "order": 12
+    },
+    {
+      "personId": 2639482,
+      "character": "Miss Fromkiss",
+      "order": 13
+    },
+    {
+      "personId": 12447,
+      "character": "Tom",
+      "order": 14
+    },
+    {
+      "personId": 108653,
+      "character": "Charlie Sedgewick",
+      "order": 15
+    },
+    {
+      "personId": 81933,
+      "character": "Man",
+      "order": 16
+    },
+    {
+      "personId": 584084,
+      "character": "Potts",
+      "order": 17
+    },
+    {
+      "personId": 93479,
+      "character": "Bill Crest",
+      "order": 18
+    },
+    {
+      "personId": 12446,
+      "character": "Clare Quilty",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "golden-globe": 1
+  },
+  "voteCount": 2329,
+  "sources": [
+    "cult-list"
+  ]
+}

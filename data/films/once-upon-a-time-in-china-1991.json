@@ -1,0 +1,222 @@
+{
+  "tmdbId": 10617,
+  "slug": "once-upon-a-time-in-china-1991",
+  "year": 1991,
+  "runtime": 133,
+  "originalTitle": "黃飛鴻",
+  "title": {
+    "en": "Once Upon a Time in China",
+    "tr": "Bir Zamanlar Çin'de"
+  },
+  "overview": {
+    "en": "In late 19th-century Canton, legendary hero Wong Fei-Hung battles foreign forces' (English, French and American) plundering of China. When Aunt Yee returns from America totally westernised, Wong assumes the role of protector. This proves difficult when his martial arts school and local militia become involved in fierce battles with foreign and local governments. As violence escalates, even Aunt Yee has to question her new western ideals, but is it possible to fight guns with Kung Fu?",
+    "tr": "Whong ile Aunt Yee arasında alevlenen bir aşka tanık olacağımız film, aksiyon, drama ve komediyi etkileyici bir şekilde harmanlayarak izleyiciye sunuyor. Çin'in karmaşık bir zaman dilimini anlatan bu destansı macerada, Çin'in lidersiz kaldığı bir dönemde güçlü çeteler, süvarilere saldırır. Dövüş ustası Wong Fei-Nurg, kendisi kadar iyi bir dövüşcü olan Kong adlı bir paralı askere karşı mücadele veriyor. Bununla beraber Wong Çin hükümetiyle Avrupalılar'ın yaptığı savaşın da tam ortasında kalmıştır. Genç Chung, Woog'a yardım etmektedir, beraber üvey kuzeni Yee'yi korumak zorundadırlar ancak Wong, Yee'ye aşık olmuştur. Bütün bunlar yetmezmiş gibi Wong, bir çok küçük çocuktan oluşan öğrencilerini de korumak zorundadır..."
+  },
+  "poster": {
+    "tr": "/dkBQC0jmkmTOJJMgwsBdgkzZ6Ry.jpg",
+    "en": "/6oBrdOS9E1WNPaRKcRDxx7F2df1.jpg"
+  },
+  "backdrops": [
+    "/biVmfYIszyykJ1o5Wlj9zF1wmsE.jpg",
+    "/shl0ELODK3VgHr7pu8VTz2a8olW.jpg",
+    "/J7kjAZbRynS5vEgXZauzkXxxBE.jpg",
+    "/eYPq4A6pIHWlhd6eTJsDYuFfEux.jpg",
+    "/xfd6aLdSAAeR8lFppCozPYPnyj2.jpg",
+    "/nuia5N3pPwpw5e3uXpeb7VzXcJ1.jpg",
+    "/cS12oRofErBGnKT488YOm0E1FmC.jpg",
+    "/6Dq4gwPb6bMyqrrLBSo4pjc1JEj.jpg",
+    "/pQuOferKvFBEM1ggeX4KnoKGwTj.jpg",
+    "/sIxa4QOYsYLTEeo5WGs7NgSkGZZ.jpg"
+  ],
+  "trailerKey": "x95gXieo3f0",
+  "genreIds": [
+    28,
+    18
+  ],
+  "keywordIds": [
+    779,
+    780,
+    1701,
+    478,
+    12337,
+    207928,
+    236217
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn",
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Paragon Films",
+    "Orange Sky Golden Harvest"
+  ],
+  "crew": [
+    {
+      "personId": 26731,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 65957,
+      "job": "composer"
+    },
+    {
+      "personId": 26760,
+      "job": "director"
+    },
+    {
+      "personId": 26760,
+      "job": "producer"
+    },
+    {
+      "personId": 65963,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 65960,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 65961,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 65962,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 56811,
+      "job": "composer"
+    },
+    {
+      "personId": 65954,
+      "job": "writer"
+    },
+    {
+      "personId": 553866,
+      "job": "writer"
+    },
+    {
+      "personId": 26760,
+      "job": "writer"
+    },
+    {
+      "personId": 65956,
+      "job": "writer"
+    },
+    {
+      "personId": 46323,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1336,
+      "character": "Wong Fei Hung",
+      "order": 0
+    },
+    {
+      "personId": 62414,
+      "character": "Leung Foon",
+      "order": 1
+    },
+    {
+      "personId": 25245,
+      "character": "Buck Teeth So",
+      "order": 2
+    },
+    {
+      "personId": 65987,
+      "character": "13th Aunt",
+      "order": 3
+    },
+    {
+      "personId": 65966,
+      "character": "Porky Wing",
+      "order": 4
+    },
+    {
+      "personId": 1360252,
+      "character": "Ling Wan Kai",
+      "order": 5
+    },
+    {
+      "personId": 239091,
+      "character": "Iron Robe Yim Chun Tung",
+      "order": 6
+    },
+    {
+      "personId": 65974,
+      "character": "Naval Commander Lau",
+      "order": 7
+    },
+    {
+      "personId": 134704,
+      "character": "Grand Uncle Chueng",
+      "order": 8
+    },
+    {
+      "personId": 297204,
+      "character": "Shaho Gang Leader",
+      "order": 9
+    },
+    {
+      "personId": 65975,
+      "character": "Yim's Opponent",
+      "order": 10
+    },
+    {
+      "personId": 588144,
+      "character": "Governor",
+      "order": 11
+    },
+    {
+      "personId": 65976,
+      "character": "Honorable Manchu Soldier",
+      "order": 12
+    },
+    {
+      "personId": 131732,
+      "character": "Shaho Gang Member",
+      "order": 13
+    },
+    {
+      "personId": 65967,
+      "character": "Mr. Jackson",
+      "order": 14
+    },
+    {
+      "personId": 65969,
+      "character": "British General Wickens",
+      "order": 15
+    },
+    {
+      "personId": 65965,
+      "character": "Tiger",
+      "order": 16
+    },
+    {
+      "personId": 1611482,
+      "character": "Jesuit Priest",
+      "order": 17
+    },
+    {
+      "personId": 1338555,
+      "character": "Opera Troupe Boss",
+      "order": 18
+    },
+    {
+      "personId": 1611483,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 511,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "tmdbId": 3593,
+  "slug": "dr-cyclops-1940",
+  "year": 1940,
+  "runtime": 63,
+  "originalTitle": "Dr. Cyclops",
+  "title": {
+    "en": "Dr. Cyclops",
+    "tr": "Doktor Kiklops"
+  },
+  "overview": {
+    "en": "Four explorers are summoned to Peru by the brilliant physicist Dr Thorkel. They discover a rich source of radium and a half-mad Thorkel who shrinks them down to one-fifth their normal size when they threaten to stop his unorthodox experimentation.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qLsEEx1cy2ouISG7982sX4xNltQ.jpg",
+    "en": "/33x6Y8r3mp4jw8SdlHdwDp2CA49.jpg"
+  },
+  "backdrops": [
+    "/nHbIdtHO6oENW1FNOJRX11CdIY1.jpg",
+    "/kws2tZ2nC2jOkESh9c1XleTwLqU.jpg",
+    "/qWWbdchBAhnpcUPfgRncf5hK0F4.jpg",
+    "/pU4NUCqkT6nKTNyfeFZpNzdWkKM.jpg",
+    "/tjQehaq2gN9yPw6yRBxzraipp1t.jpg",
+    "/hiU1BRdBoQih2Pqly5jqsdqwb2L.jpg",
+    "/cpQe4WJI2BLIYXwRezPCIS3WRuR.jpg"
+  ],
+  "trailerKey": "vz2ChHGknUw",
+  "genreIds": [
+    12,
+    27,
+    878
+  ],
+  "keywordIds": [
+    2490,
+    1706,
+    5967,
+    1963,
+    5968,
+    6380,
+    6978,
+    10125,
+    9826,
+    10124,
+    12101,
+    159075,
+    161294,
+    180982,
+    191881,
+    294280,
+    309905,
+    336182
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Paramount Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 33245,
+      "job": "writer"
+    },
+    {
+      "personId": 3238,
+      "job": "producer"
+    },
+    {
+      "personId": 14959,
+      "job": "composer"
+    },
+    {
+      "personId": 33246,
+      "job": "writer"
+    },
+    {
+      "personId": 33247,
+      "job": "producer"
+    },
+    {
+      "personId": 29983,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3239,
+      "job": "director"
+    },
+    {
+      "personId": 33249,
+      "job": "composer"
+    },
+    {
+      "personId": 33248,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2755,
+      "character": "Dr. Alexander Thorkel",
+      "order": 0
+    },
+    {
+      "personId": 33251,
+      "character": "Bill Stockton",
+      "order": 1
+    },
+    {
+      "personId": 33252,
+      "character": "Dr. Mary Robinson",
+      "order": 2
+    },
+    {
+      "personId": 2502,
+      "character": "Dr. Rupert Bulfinch",
+      "order": 3
+    },
+    {
+      "personId": 14666,
+      "character": "Steve Baker",
+      "order": 4
+    },
+    {
+      "personId": 33253,
+      "character": "Pedro",
+      "order": 5
+    },
+    {
+      "personId": 8496,
+      "character": "Dr. Mendoza",
+      "order": 6
+    },
+    {
+      "personId": 3245,
+      "character": "Prof. Kendall",
+      "order": 7
+    },
+    {
+      "personId": 1217392,
+      "character": "Woman (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 120342,
+      "character": "Silent Indian (uncredited)",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 75,
+  "sources": [
+    "cult-list"
+  ]
+}

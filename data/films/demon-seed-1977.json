@@ -1,0 +1,190 @@
+{
+  "tmdbId": 18775,
+  "slug": "demon-seed-1977",
+  "year": 1977,
+  "runtime": 94,
+  "originalTitle": "Demon Seed",
+  "title": {
+    "en": "Demon Seed",
+    "tr": "Şeytan Tohumu"
+  },
+  "overview": {
+    "en": "A scientist creates Proteus, an organic supercomputer with artificial intelligence which becomes obsessed with human beings, and in particular the creator's wife.",
+    "tr": "Süper gelişmiş bir bilgisayar, yaratıcısının karısına tecavüz eder. Niyeti kendi ‘evladını’ yaratmaktır."
+  },
+  "poster": {
+    "tr": "/8rAbL1cI5TYB1RmXsPPHnLwnDsi.jpg",
+    "en": "/8rAbL1cI5TYB1RmXsPPHnLwnDsi.jpg"
+  },
+  "backdrops": [
+    "/gZnYAzOakSL5QK519ixYKF2Qben.jpg",
+    "/UJZePu7YMnmj4B6d7ilmXMI0c5.jpg",
+    "/w3HwEVXjTlQCseVoLcNXSMBZFi7.jpg",
+    "/7rTbAaVI1M3gbx5h9QENFy5H0aG.jpg",
+    "/p6jk4rMLnmef6jqN95hb6w0nmi0.jpg",
+    "/e7rSO2lRF4y7XGtwlpq1TfylqpE.jpg",
+    "/npJJj4bfRRykb7rUck68MJMt7v4.jpg",
+    "/dCGCCg1KT08MGKnnvxlvRoL2GsW.jpg"
+  ],
+  "trailerKey": "zNUEp5A9eKU",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    312,
+    570,
+    310,
+    6104,
+    1576,
+    15365,
+    199320,
+    222334,
+    258206,
+    298590,
+    339149,
+    339151
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 95462,
+      "job": "director"
+    },
+    {
+      "personId": 27240,
+      "job": "producer"
+    },
+    {
+      "personId": 7769,
+      "job": "composer"
+    },
+    {
+      "personId": 2287,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 56961,
+      "job": "writer"
+    },
+    {
+      "personId": 127535,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1666,
+      "character": "Susan Harris",
+      "order": 0
+    },
+    {
+      "personId": 6839,
+      "character": "Alex Harris",
+      "order": 1
+    },
+    {
+      "personId": 26283,
+      "character": "Walter Gabler",
+      "order": 2
+    },
+    {
+      "personId": 85988,
+      "character": "Petrosian",
+      "order": 3
+    },
+    {
+      "personId": 86633,
+      "character": "Soong Yen",
+      "order": 4
+    },
+    {
+      "personId": 82750,
+      "character": "Cameron",
+      "order": 5
+    },
+    {
+      "personId": 53552,
+      "character": "Royce",
+      "order": 6
+    },
+    {
+      "personId": 127536,
+      "character": "Mokri",
+      "order": 7
+    },
+    {
+      "personId": 49939,
+      "character": "Warner",
+      "order": 8
+    },
+    {
+      "personId": 182726,
+      "character": "Mrs. Talbert",
+      "order": 9
+    },
+    {
+      "personId": 2051480,
+      "character": "Amy",
+      "order": 10
+    },
+    {
+      "personId": 166120,
+      "character": "Marlene",
+      "order": 11
+    },
+    {
+      "personId": 33853,
+      "character": "Baby",
+      "order": 12
+    },
+    {
+      "personId": 4282469,
+      "character": "Baby",
+      "order": 13
+    },
+    {
+      "personId": 1918545,
+      "character": "Night Operator",
+      "order": 14
+    },
+    {
+      "personId": 4282472,
+      "character": "Technician",
+      "order": 15
+    },
+    {
+      "personId": 1421260,
+      "character": "Technician",
+      "order": 16
+    },
+    {
+      "personId": 4282473,
+      "character": "Joan Kemp",
+      "order": 17
+    },
+    {
+      "personId": 68382,
+      "character": "Scientist",
+      "order": 18
+    },
+    {
+      "personId": 4282475,
+      "character": "Housekeeper",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 286,
+  "sources": [
+    "cult-list"
+  ]
+}

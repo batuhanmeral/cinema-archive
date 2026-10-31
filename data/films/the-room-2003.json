@@ -1,0 +1,188 @@
+{
+  "tmdbId": 17473,
+  "slug": "the-room-2003",
+  "year": 2003,
+  "runtime": 100,
+  "originalTitle": "The Room",
+  "title": {
+    "en": "The Room",
+    "tr": "The Room"
+  },
+  "overview": {
+    "en": "Johnny is a successful banker with great respect for and dedication to the people in his life, especially his future wife Lisa. The happy-go-lucky guy sees his world being torn apart when his friends begin to betray him one-by-one.",
+    "tr": "Arkadaşları birer birer ona ihanet etmeye başlayınca mutlu ve şanslı bir bankacının dünyası gözlerinin önünde parçalanmaya başlar."
+  },
+  "poster": {
+    "tr": "/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg",
+    "en": "/9QscHN4pXj6Ja1k7e1ZT4vWDGnr.jpg"
+  },
+  "backdrops": [
+    "/mX7mlE1kaGohnSVDMSTlrvisYf7.jpg",
+    "/mz4lKE1bPRGOeoC14bf09SJw1tu.jpg",
+    "/iNAakCh6X4FF7Fk6VUQzme7FitU.jpg",
+    "/fsyLxF8eIfZ2Z7DXmjD6n9vHmb8.jpg",
+    "/aweURUQTtTBnoJH7cocw8eGaGRG.jpg",
+    "/bOZLzmv9XdU9BArw8I2a8m0ivsE.jpg",
+    "/6OnOH5FIp0ZJQgPlu0ehDfXzVyp.jpg",
+    "/lt2JU9UQrhy9aKC4VDjaw2WvOYy.jpg",
+    "/tzwwbky0vxAQz1eainCscyK3ids.jpg",
+    "/kwp19neT6lFSbVqkXpFtxX4OzpR.jpg"
+  ],
+  "trailerKey": "cG_e8k9PILM",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    1326,
+    582,
+    9713,
+    9914,
+    11505,
+    14534,
+    14720,
+    157286,
+    165402,
+    323812
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Chloe Productions",
+    "TPW Films",
+    "Wiseau-Films"
+  ],
+  "crew": [
+    {
+      "personId": 81916,
+      "job": "director"
+    },
+    {
+      "personId": 81916,
+      "job": "producer"
+    },
+    {
+      "personId": 81916,
+      "job": "writer"
+    },
+    {
+      "personId": 1330244,
+      "job": "composer"
+    },
+    {
+      "personId": 1085780,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 81916,
+      "character": "Johnny",
+      "order": 0
+    },
+    {
+      "personId": 81917,
+      "character": "Lisa",
+      "order": 1
+    },
+    {
+      "personId": 81918,
+      "character": "Mark",
+      "order": 2
+    },
+    {
+      "personId": 81919,
+      "character": "Denny",
+      "order": 3
+    },
+    {
+      "personId": 81920,
+      "character": "Claudette",
+      "order": 4
+    },
+    {
+      "personId": 81921,
+      "character": "Michelle",
+      "order": 5
+    },
+    {
+      "personId": 81923,
+      "character": "Peter",
+      "order": 6
+    },
+    {
+      "personId": 81922,
+      "character": "Mike",
+      "order": 7
+    },
+    {
+      "personId": 81924,
+      "character": "Steven",
+      "order": 8
+    },
+    {
+      "personId": 81925,
+      "character": "Chris-R",
+      "order": 9
+    },
+    {
+      "personId": 4489613,
+      "character": "Party Member #1",
+      "order": 10
+    },
+    {
+      "personId": 4489614,
+      "character": "Party Member #2",
+      "order": 11
+    },
+    {
+      "personId": 4489615,
+      "character": "Party Member #3",
+      "order": 12
+    },
+    {
+      "personId": 2550361,
+      "character": "Party Member #4",
+      "order": 13
+    },
+    {
+      "personId": 3982690,
+      "character": "Susan",
+      "order": 14
+    },
+    {
+      "personId": 1190367,
+      "character": "Barista #2",
+      "order": 15
+    },
+    {
+      "personId": 4489618,
+      "character": "Coffee Shop Customer #1",
+      "order": 16
+    },
+    {
+      "personId": 4489619,
+      "character": "Coffee Shop Customer #2",
+      "order": 17
+    },
+    {
+      "personId": 4489620,
+      "character": "Coffee Shop Customer #3",
+      "order": 18
+    },
+    {
+      "personId": 4489621,
+      "character": "Coffee Shop Customer #4",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1605,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "tmdbId": 43337,
+  "slug": "the-inauguration-of-the-pleasure-dome-1954",
+  "year": 1954,
+  "runtime": 38,
+  "originalTitle": "The Inauguration of the Pleasure Dome",
+  "title": {
+    "en": "The Inauguration of the Pleasure Dome",
+    "tr": "The Inauguration of the Pleasure Dome"
+  },
+  "overview": {
+    "en": "Lord Shiva wakes. A convocation of magicians in the guise of figures from mythology; a masquerade party at which Pan is the prize. The wine of Hecate is poured: Pan's cup is poisoned by Shiva. Kali blesses the assembly as a bacchic rite ensues.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/kuVWKVYBu6IFficxSqrOxAAf5c3.jpg",
+    "en": "/3r1oKVYx8EbNzJNQTX48kjceiFX.jpg"
+  },
+  "backdrops": [
+    "/c9ncNmkavVvxmu8imIV98GEjpSk.jpg",
+    "/rpK6roZPro7PHZ29E8hwTWw6CkN.jpg",
+    "/wAeuqzuJUI5xsjlfZGmnLV3avYG.jpg",
+    "/2XDaSEGpMjTv5VxR6uKJX6jpmx8.jpg",
+    "/Ai9ecMPYWjGeuV5zyMqkE24vjbh.jpg",
+    "/lfVHwOua8UpsYPvbnDjbgLI6vmg.jpg",
+    "/i2fS7biDzowYj0tZSBYEZzEKBwc.jpg",
+    "/cAlw8ZvGfYGuJgDYMXQJtZhYwit.jpg",
+    "/tHr5heiuryUxlEHmPD9thfCv5MD.jpg",
+    "/r4PwEPOLb9N3jRQKXhIqMY1WBfp.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    14,
+    10402
+  ],
+  "keywordIds": [
+    2343,
+    5457,
+    156174,
+    263548
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 146964,
+      "job": "director"
+    },
+    {
+      "personId": 146964,
+      "job": "writer"
+    },
+    {
+      "personId": 146964,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1660302,
+      "character": "Lord Shiva / Osiris / Nero / The Great Beast",
+      "order": 0
+    },
+    {
+      "personId": 121366,
+      "character": "The Scarlet Woman / Kali",
+      "order": 1
+    },
+    {
+      "personId": 1660303,
+      "character": "Aphrodite",
+      "order": 2
+    },
+    {
+      "personId": 2382977,
+      "character": "Isis",
+      "order": 3
+    },
+    {
+      "personId": 2382978,
+      "character": "Lilith",
+      "order": 4
+    },
+    {
+      "personId": 985119,
+      "character": "Astarte",
+      "order": 5
+    },
+    {
+      "personId": 121340,
+      "character": "Pan",
+      "order": 6
+    },
+    {
+      "personId": 44725,
+      "character": "Cesare / Slave / Sleep-walker",
+      "order": 7
+    },
+    {
+      "personId": 146964,
+      "character": "Hecate",
+      "order": 8
+    },
+    {
+      "personId": 2382979,
+      "character": "Ganymede",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 73,
+  "sources": [
+    "cult-list"
+  ]
+}

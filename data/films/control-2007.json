@@ -1,0 +1,198 @@
+{
+  "tmdbId": 5708,
+  "slug": "control-2007",
+  "year": 2007,
+  "runtime": 122,
+  "originalTitle": "Control",
+  "title": {
+    "en": "Control",
+    "tr": "Kontrol"
+  },
+  "overview": {
+    "en": "The story of Joy Division’s lead singer Ian Curtis, from his schoolboy days in 1973 to his suicide on the eve of the band's first American tour in 1980.",
+    "tr": "Efsanevi punk grubu Joy Division'un heyecan ve hüzün dolu hikayesi...  Ian Curtis adlı genç müzisyen dönemin ve punk tarihinin en ünlü grubu olan Sex Pistols'ın bir konserinden çıktıktan sonra, aynı tarz müzik yapmaya karar verir ve Joy Division adlı grubu kurar. Curts'in liderliğindeki bu yeni punk grubu kısa sürede Manchester müzik piyasasını etkileyecektir. Bir anda yükselen ve 24 yaşında intihar eden Ian Curtis'in hikayesi eşi Debbie Curtis'in anıları eşliğinde anlatılıyor..."
+  },
+  "poster": {
+    "tr": "/jOJiaOhwrDdwqTRZvZOhbndqHGp.jpg",
+    "en": "/jOJiaOhwrDdwqTRZvZOhbndqHGp.jpg"
+  },
+  "backdrops": [
+    "/AhXLn61RxOgxjkyAzjqILJRIfpX.jpg",
+    "/dwxdn3ppDAn7QtaLlhGDEErWfg9.jpg",
+    "/uJbBU53hXbaLcwiODtCF2OpT5ok.jpg",
+    "/3RSD4wJeHI36sXhNpm3dHi85UX7.jpg",
+    "/ifOxmbZf9oq79FsZxPGYBtLUSin.jpg",
+    "/v3pBEWwUAU2w55IeQMkrJFMwbha.jpg",
+    "/nVjvrqmRYIT4Hh4abadwBZNEAlK.jpg",
+    "/rRK0kXkw37aRUC0uyj0GG8dsqXi.jpg",
+    "/latT2Wf8tzHCsPLKA0EoX1HxCzB.jpg",
+    "/tcQT6Xc3mVEa4djIfRDmMgxDzbw.jpg"
+  ],
+  "trailerKey": "XCbOrTbBr6Y",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    236,
+    1605,
+    578,
+    4183,
+    1944,
+    1279,
+    4470,
+    4741,
+    4746,
+    5716,
+    12999,
+    34094,
+    312369,
+    325854
+  ],
+  "countries": [
+    "GB",
+    "JP"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "NorthSee",
+    "EM Media",
+    "3 Dogs & a Pony"
+  ],
+  "crew": [
+    {
+      "personId": 45053,
+      "job": "writer"
+    },
+    {
+      "personId": 32451,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 45052,
+      "job": "producer"
+    },
+    {
+      "personId": 45052,
+      "job": "director"
+    },
+    {
+      "personId": 45054,
+      "job": "producer"
+    },
+    {
+      "personId": 3873535,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32987,
+      "character": "Ian Curtis",
+      "order": 0
+    },
+    {
+      "personId": 2206,
+      "character": "Debbie Curtis",
+      "order": 1
+    },
+    {
+      "personId": 5644,
+      "character": "Annik Honoré",
+      "order": 2
+    },
+    {
+      "personId": 29234,
+      "character": "Hooky",
+      "order": 3
+    },
+    {
+      "personId": 20286,
+      "character": "Rob Greton",
+      "order": 4
+    },
+    {
+      "personId": 45050,
+      "character": "Tony Wilson",
+      "order": 5
+    },
+    {
+      "personId": 45049,
+      "character": "Bernard Sumner",
+      "order": 6
+    },
+    {
+      "personId": 45051,
+      "character": "Steve Morris",
+      "order": 7
+    },
+    {
+      "personId": 108145,
+      "character": "Twinny",
+      "order": 8
+    },
+    {
+      "personId": 1232078,
+      "character": "Terry",
+      "order": 9
+    },
+    {
+      "personId": 19903,
+      "character": "Ian's Father",
+      "order": 10
+    },
+    {
+      "personId": 148143,
+      "character": "Ian’s Mother",
+      "order": 11
+    },
+    {
+      "personId": 1821216,
+      "character": "Ian's Sister",
+      "order": 12
+    },
+    {
+      "personId": 86133,
+      "character": "Nick",
+      "order": 13
+    },
+    {
+      "personId": 1821220,
+      "character": "Chemistry Teacher",
+      "order": 14
+    },
+    {
+      "personId": 1528816,
+      "character": "Mrs. Brady",
+      "order": 15
+    },
+    {
+      "personId": 118610,
+      "character": "Debbie's Mother",
+      "order": 16
+    },
+    {
+      "personId": 1821219,
+      "character": "Martin Hannet",
+      "order": 17
+    },
+    {
+      "personId": 938983,
+      "character": "Self",
+      "order": 18
+    },
+    {
+      "personId": 3873554,
+      "character": "MC",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "bafta": 1
+  },
+  "voteCount": 985,
+  "sources": [
+    "cult-list"
+  ]
+}

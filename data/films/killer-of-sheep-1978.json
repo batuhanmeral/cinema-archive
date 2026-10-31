@@ -1,0 +1,105 @@
+{
+  "tmdbId": 27432,
+  "slug": "killer-of-sheep-1978",
+  "year": 1978,
+  "runtime": 80,
+  "originalTitle": "Killer of Sheep",
+  "title": {
+    "en": "Killer of Sheep",
+    "tr": "Koyun Katili"
+  },
+  "overview": {
+    "en": "An African-American man working at a slaughterhouse in the Watts area of Los Angeles leads a dissatisfied and listless existence.",
+    "tr": "Los Angeles’in siyahların yaşadığı bir kenar mahallesinde, Watts mahallesinde, gündüz derilerini soyduğu, yani öldürdüğü koyunların rüyalarına girmesinden korktuğu için olacak gece uyumayan bir adamın, Stan’in (Henry G. Sanders) ve onun gözünden çevresindekilerin hikayesini anlatıyor."
+  },
+  "poster": {
+    "tr": "/z1CqJKI6gmdAMprD1NOYSCHVXEv.jpg",
+    "en": "/7LpSGSeIblS4DSnnpuRLJ7IHdTy.jpg"
+  },
+  "backdrops": [
+    "/r763vsubExGcDJypctYuLLJmhB.jpg",
+    "/5s8LZZW2ifa1ZsEd5sMNawVqaWh.jpg",
+    "/uOtjCaOiDHefHWEJuLhujzOtjkC.jpg",
+    "/x4DM15OkmKEcK7y4dXqSFdn6ob3.jpg",
+    "/eTYP6wx5e39pGYtGGI3PRffEsjI.jpg",
+    "/4bFPf690g9B3JxdX1KxKysXfFo1.jpg",
+    "/9XvqMkYJjVq4GAWVopD8k2HBjnG.jpg",
+    "/7absUesTf0JLZ2AS3feI1E8ToUF.jpg",
+    "/wurqnAEFTyhLigLRf3jEwG2fEUd.jpg",
+    "/lVGSdoFS2lKsYfy700y08OKeGPe.jpg"
+  ],
+  "trailerKey": "bORJQ8dF9tQ",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    10594,
+    11547,
+    240240,
+    325784
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Milestone Films"
+  ],
+  "crew": [
+    {
+      "personId": 97755,
+      "job": "director"
+    },
+    {
+      "personId": 97755,
+      "job": "writer"
+    },
+    {
+      "personId": 97755,
+      "job": "producer"
+    },
+    {
+      "personId": 97755,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 16506,
+      "character": "Stan",
+      "order": 0
+    },
+    {
+      "personId": 143438,
+      "character": "Stan's Wife",
+      "order": 1
+    },
+    {
+      "personId": 143439,
+      "character": "Bracy",
+      "order": 2
+    },
+    {
+      "personId": 143440,
+      "character": "Stan's Daughter",
+      "order": 3
+    },
+    {
+      "personId": 122289,
+      "character": "Eugene",
+      "order": 4
+    },
+    {
+      "personId": 143441,
+      "character": "Stan's Son",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 154,
+  "sources": [
+    "cult-list"
+  ]
+}

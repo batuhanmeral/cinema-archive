@@ -1,0 +1,204 @@
+{
+  "tmdbId": 16905,
+  "slug": "captain-blood-1935",
+  "year": 1935,
+  "runtime": 119,
+  "originalTitle": "Captain Blood",
+  "title": {
+    "en": "Captain Blood",
+    "tr": "Kanlı Korsan"
+  },
+  "overview": {
+    "en": "Dr. Peter Blood, unjustly convicted of treason and exiled from England, becomes a notorious pirate.",
+    "tr": "Bu klasik serüvende Errol Flynn ve Olivia de Havilland başrolü paylaşmaktadır. Yaralı İngiliz asileri tedavi eden Doktor Peter Blood (Flynn) tutuklanır ve Jamaika'ya köle olarak yollanır. Burada valinin kızı Arabella'nın (de Havilland) dikkatini çeker ve Arabella onu satın alır. Ama Blood önderlik ettiği diğer kölelerle kaçar ve korsan Kaptan Blood olarak Jamaikalıların yüreğine korku salar. Ta ki İspanyollar saldırana ve Blood, Arabella ile Jamaika'yı İngiltere'nin düşmanlarından kurtarana değin."
+  },
+  "poster": {
+    "tr": "/z3efGn3APJDlV7ndodHvwn5OQvn.jpg",
+    "en": "/eqrv7btRfKviaYxEu1Yyjlin7Po.jpg"
+  },
+  "backdrops": [
+    "/liv4C6089TmYVJUZ9ntXKugQMkd.jpg",
+    "/h1ppviHkSw6nneKPdXvfS8hzOjt.jpg",
+    "/dMuV3ggg2VNoHvcfanqGTAq1RK1.jpg",
+    "/yJOkgTMpH1XsPImSIUFsedTSFqe.jpg",
+    "/m63xHvAt85Sy6Q3HoQEGZQv3cAj.jpg",
+    "/gVCUB5cYjZVzNyBS46Q6RXLfmSr.jpg",
+    "/qPbqDDSwZ0CyN3NRZqtLktcsE1A.jpg",
+    "/6qckcmafponcV0JNTt1dLYTxgRl.jpg",
+    "/8PntkfpKcgSPkkx2NaPYbSbgNKv.jpg",
+    "/xxTRmPePi0MVBC6oNQ0XSxCmpcl.jpg"
+  ],
+  "trailerKey": "4HmoyQcoBd0",
+  "genreIds": [
+    12
+  ],
+  "keywordIds": [
+    5744,
+    3266,
+    4849,
+    10202,
+    9725,
+    10395,
+    12988,
+    13005,
+    14906,
+    41721,
+    157186,
+    161242,
+    171774,
+    182677,
+    185200,
+    207941,
+    209069
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "es"
+  ],
+  "studios": [
+    "First National Pictures",
+    "Cosmopolitan Productions",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 4109,
+      "job": "director"
+    },
+    {
+      "personId": 4509,
+      "job": "writer"
+    },
+    {
+      "personId": 67429,
+      "job": "composer"
+    },
+    {
+      "personId": 18573,
+      "job": "producer"
+    },
+    {
+      "personId": 2774,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 14284,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1102133,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8724,
+      "character": "Dr. Peter Blood",
+      "order": 0
+    },
+    {
+      "personId": 8725,
+      "character": "Arabella Bishop",
+      "order": 1
+    },
+    {
+      "personId": 2495,
+      "character": "Colonel Bishop",
+      "order": 2
+    },
+    {
+      "personId": 8727,
+      "character": "Levasseur",
+      "order": 3
+    },
+    {
+      "personId": 134867,
+      "character": "Jeremy Pitt",
+      "order": 4
+    },
+    {
+      "personId": 30002,
+      "character": "Hagthorpe",
+      "order": 5
+    },
+    {
+      "personId": 81934,
+      "character": "Lord Willoughby",
+      "order": 6
+    },
+    {
+      "personId": 88672,
+      "character": "Wolverstone",
+      "order": 7
+    },
+    {
+      "personId": 85897,
+      "character": "Dr. Bronson",
+      "order": 8
+    },
+    {
+      "personId": 14968,
+      "character": "Dr. Whacker",
+      "order": 9
+    },
+    {
+      "personId": 13965,
+      "character": "Mrs. Barlow",
+      "order": 10
+    },
+    {
+      "personId": 3371,
+      "character": "Honesty Nutall",
+      "order": 11
+    },
+    {
+      "personId": 134868,
+      "character": "Reverend Ogle",
+      "order": 12
+    },
+    {
+      "personId": 29600,
+      "character": "Capt. Gardner",
+      "order": 13
+    },
+    {
+      "personId": 32139,
+      "character": "Andrew Baynes",
+      "order": 14
+    },
+    {
+      "personId": 30686,
+      "character": "Cahusac",
+      "order": 15
+    },
+    {
+      "personId": 103493,
+      "character": "Don Diego",
+      "order": 16
+    },
+    {
+      "personId": 134869,
+      "character": "Governor Steed",
+      "order": 17
+    },
+    {
+      "personId": 589812,
+      "character": "Governor's Attendant",
+      "order": 18
+    },
+    {
+      "personId": 98052,
+      "character": "Kent",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 287,
+  "sources": [
+    "cult-list"
+  ]
+}

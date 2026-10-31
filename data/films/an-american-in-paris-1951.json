@@ -1,0 +1,191 @@
+{
+  "tmdbId": 2769,
+  "slug": "an-american-in-paris-1951",
+  "year": 1951,
+  "runtime": 113,
+  "originalTitle": "An American in Paris",
+  "title": {
+    "en": "An American in Paris",
+    "tr": "Paris'te Bir Amerikali"
+  },
+  "overview": {
+    "en": "Jerry Mulligan is an exuberant American expatriate in Paris trying to make a reputation as a painter. His friend Adam is a struggling concert pianist who's a long time associate of a famous French singer, Henri Baurel. A lonely society woman, Milo Roberts, takes Jerry under her wing and supports him, but is interested in more than his art.",
+    "tr": "Savaş sonrası Paris’te kalan iki Amerikalı, ressam Jerry Mulligan ve besteci Adam Cook, Paris’in bir sanatçı için en ideal yer olduğuna inanmaktadırlar. Jerry, Fransız arkadaşının nişanlısı Lise Bouvier ve zengin dul Milo Roberts arasında kalır. Kısa sürede filizlenen Jerry ile Lise’nin yasak aşkı, ünlü ressamların tablolarından esinlenmiş dekorlar önünde gösterişli bir dans şölenine dönüşür."
+  },
+  "poster": {
+    "tr": "/lyDXkvG53ldz6Cf7dbjJl7TaoP5.jpg",
+    "en": "/7W6cMmZulZpjmz18soTIorSQrOo.jpg"
+  },
+  "backdrops": [
+    "/k6Unnx1OCgVteDDzWJLXTw05VGZ.jpg",
+    "/vCbU01mTJLhTrCgqX9VPRqoh0pT.jpg",
+    "/hmrRyMYHeokPyTbyLL7WkuWm31M.jpg",
+    "/23D41xHy0d38nMg6z2QQmf9qBBr.jpg",
+    "/hVvW015x8cD2X0KthGovw27EpF2.jpg",
+    "/qJgARRcMNQofOOQKqq8YEevoDrC.jpg",
+    "/195kQfF5DjzITTS3WIuRG2VyfgB.jpg",
+    "/isGRRGOVDSNt0wMjmmv6d7CGNxX.jpg",
+    "/bV3DzoXIWvuLLgQepKMTEO6q8F3.jpg",
+    "/sGMya7SDCBHAHwLK2caSWggMiAz.jpg"
+  ],
+  "trailerKey": "1XMXAleA1eQ",
+  "genreIds": [
+    10402,
+    10749,
+    35
+  ],
+  "keywordIds": [
+    613,
+    90,
+    4344,
+    437,
+    5488,
+    12990
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 13980,
+      "job": "director"
+    },
+    {
+      "personId": 27968,
+      "job": "writer"
+    },
+    {
+      "personId": 9055,
+      "job": "producer"
+    },
+    {
+      "personId": 958533,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 20153,
+      "job": "composer"
+    },
+    {
+      "personId": 554823,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13294,
+      "character": "Jerry Mulligan",
+      "order": 0
+    },
+    {
+      "personId": 5320,
+      "character": "Lise Bouvier",
+      "order": 1
+    },
+    {
+      "personId": 27966,
+      "character": "Adam Cook",
+      "order": 2
+    },
+    {
+      "personId": 27967,
+      "character": "Henri Baurel",
+      "order": 3
+    },
+    {
+      "personId": 13026,
+      "character": "Milo Roberts",
+      "order": 4
+    },
+    {
+      "personId": 3842837,
+      "character": "Ballet Dancer (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 3096345,
+      "character": "Child in Ballet (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 1735151,
+      "character": "Frenchman (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 1421075,
+      "character": "Mathilde Mattieu (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 1672198,
+      "character": "Smiling Young Man (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 3842840,
+      "character": "Ballet Dancer (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 2727938,
+      "character": "Ballet Dancer (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 43824,
+      "character": "Edna Mae Bestram (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 3842843,
+      "character": "Patron at Flodair Café (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1184839,
+      "character": "Maid (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 3814652,
+      "character": "Bartender (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 120545,
+      "character": "Georges Matthieu (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 3332469,
+      "character": "Dancer (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1671132,
+      "character": "Artist (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 96709,
+      "character": "Saxophonist in Cafe (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 6
+  },
+  "voteCount": 683,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "tmdbId": 900,
+  "slug": "bringing-up-baby-1938",
+  "year": 1938,
+  "runtime": 102,
+  "originalTitle": "Bringing Up Baby",
+  "title": {
+    "en": "Bringing Up Baby",
+    "tr": "Tehlikeli Bebek"
+  },
+  "overview": {
+    "en": "David Huxley is waiting to get a bone he needs for his museum collection. Through a series of strange circumstances, he meets Susan Vance, and the duo have a series of misadventures which include a leopard called Baby.",
+    "tr": "David Huxley müze koleksiyonu için bir takım kemiklere ihtiyaç duymaktadır. Bu kemikleri bulmaya çalıştığı dönemde Susan Vance ile tanışır. İkili \"Bebek\" adını verdikleri bir leoparla birlikte garip bir maceraya atılırlar."
+  },
+  "poster": {
+    "tr": "/lKIDRafGr7bdpeErrZcrhdYnj5l.jpg",
+    "en": "/vTNNOtemaYmtx3k2NpsLMRJKEwZ.jpg"
+  },
+  "backdrops": [
+    "/fzJgCQh2NBnUYlms8EGyr4bPNz3.jpg",
+    "/hA3Ka1kIgkIOrkphR1QzMbswpV3.jpg",
+    "/c1aezOQySwAu7KIcLygtYKoBbs9.jpg",
+    "/8lWlYLe163649EmZfIFeDkXt8XG.jpg",
+    "/q1gm3dk5yJGsP5V5yn8uGL4E36T.jpg",
+    "/2lsUbPJefQpzWY4B7AdBwaJCAHy.jpg",
+    "/kRQ6B6aXBuhwaPFY2kUfnydjCyQ.jpg",
+    "/svLvB7bAN2pQ37pOO7x6kTFE9e9.jpg",
+    "/bRdtacH2iPsAG1pGVmP4jEnJOcJ.jpg",
+    "/kHAmBE4rvVDQmlChuukOzam8Lzz.jpg"
+  ],
+  "trailerKey": "Qlf6gHD-YEM",
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    378,
+    1651,
+    2598,
+    2172,
+    4477,
+    4478,
+    4479,
+    12090,
+    12999,
+    15106,
+    155457,
+    320420,
+    325781,
+    325782
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "RKO Radio Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 13809,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11435,
+      "job": "director"
+    },
+    {
+      "personId": 13802,
+      "job": "writer"
+    },
+    {
+      "personId": 4345,
+      "job": "composer"
+    },
+    {
+      "personId": 11435,
+      "job": "producer"
+    },
+    {
+      "personId": 13803,
+      "job": "writer"
+    },
+    {
+      "personId": 11435,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6598,
+      "character": "Susan",
+      "order": 0
+    },
+    {
+      "personId": 2638,
+      "character": "David",
+      "order": 1
+    },
+    {
+      "personId": 2436,
+      "character": "Major Applegate",
+      "order": 2
+    },
+    {
+      "personId": 13819,
+      "character": "Slocum",
+      "order": 3
+    },
+    {
+      "personId": 13820,
+      "character": "Mr. Gogarty",
+      "order": 4
+    },
+    {
+      "personId": 13816,
+      "character": "Aunt Elizabeth",
+      "order": 5
+    },
+    {
+      "personId": 13821,
+      "character": "Dr. Lehman",
+      "order": 6
+    },
+    {
+      "personId": 13822,
+      "character": "Mrs. Gogarty",
+      "order": 7
+    },
+    {
+      "personId": 13823,
+      "character": "Mr. Peabody",
+      "order": 8
+    },
+    {
+      "personId": 13824,
+      "character": "Mrs. Lehman",
+      "order": 9
+    },
+    {
+      "personId": 13818,
+      "character": "Alice Swallow",
+      "order": 10
+    },
+    {
+      "personId": 13825,
+      "character": "Elmer",
+      "order": 11
+    },
+    {
+      "personId": 1263061,
+      "character": "David's Caddy (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 100763,
+      "character": "Joe (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 4303,
+      "character": "Motorcycle Cop (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 2672,
+      "character": "Circus Roustabout (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1278337,
+      "character": "Hatcheck Girl (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 34294,
+      "character": "Zoo Official (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 104714,
+      "character": "(uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 128944,
+      "character": "Midget (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1139,
+  "sources": [
+    "cult-list"
+  ]
+}

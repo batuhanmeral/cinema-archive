@@ -1,0 +1,182 @@
+{
+  "tmdbId": 9325,
+  "slug": "the-jungle-book-1967",
+  "year": 1967,
+  "runtime": 78,
+  "originalTitle": "The Jungle Book",
+  "title": {
+    "en": "The Jungle Book",
+    "tr": "Orman Çocuğu"
+  },
+  "overview": {
+    "en": "The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
+    "tr": "Disney animasyonları arasında muhtemelen en sevileni, Rudyard Kipling’in yazdığı, vahşi ormanlarda kurtlarca yetiştirilmiş bir oğlan çocuğunun hikâyesini anlatan Orman Çocuğu’dur. Zoltan Korda (1942) ve Stephen Sommers’in (1994), çocuğun uygarlığa geri döndükten sonraki deneyimlerini anlatan canlı-aksiyon versiyonlarından farklı olarak bu çizgi film, Mowgli’nin vahşi hayattaki son gününü anlatır. Zira acımasız Kaplan Shere Khan’ın geri döndüğü orman, kahramanımız için güvenli olmaktan çıkar. Mowgli önce kararsız kalır, sonra da aynı Pinokyo gibi, yolunu şaşırır ve Kaa’yla (yılan) Kral Louie’nin (maymun) elinden, ancak dostları Bagheera (bir panter) ve Baloo (ayı) sayesinde kurtulur."
+  },
+  "poster": {
+    "tr": "/81pL2j3Junz6fzhEaVzSNE8c8pF.jpg",
+    "en": "/yN1kuupnPTLUprgfvC5WapgrxG4.jpg"
+  },
+  "backdrops": [
+    "/zj8XS0l1cWStpKnuD1LFMB3VoV1.jpg",
+    "/3sbmRuIpYEH5dMvec4z4JxKQHoj.jpg",
+    "/mTWY8zBVWtE4hYsnOiCTWNBw59j.jpg",
+    "/kaDVFvPLeE7v16n69yidrAPh2t4.jpg",
+    "/4TxfSIsjXjbz38Ewb11EKpYPxRd.jpg",
+    "/qTbVjInPbaTaQOVsdX5ocyv9CYl.jpg",
+    "/r8SgT00J2qr3Z8lk3rHUk6H4yxL.jpg",
+    "/huBjAsz78fgmZdzELQth4xwmRO4.jpg",
+    "/eahjE5ztbkz3ppgnK0e7ACX1oUY.jpg",
+    "/VVmZMO5Dx1eNTvYDdEMti0ViXQ.jpg"
+  ],
+  "trailerKey": "qdkU9NmI0jA",
+  "genreIds": [
+    10751,
+    16,
+    12
+  ],
+  "keywordIds": [
+    818,
+    2398,
+    2526,
+    6513,
+    3289,
+    4344,
+    5650,
+    10683,
+    11477,
+    10787,
+    13014,
+    14636,
+    230873
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Walt Disney Productions"
+  ],
+  "crew": [
+    {
+      "personId": 2106,
+      "job": "producer"
+    },
+    {
+      "personId": 57337,
+      "job": "composer"
+    },
+    {
+      "personId": 57314,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57331,
+      "character": "Mowgli the Man Cub (voice)",
+      "order": 0
+    },
+    {
+      "personId": 57329,
+      "character": "Baloo the Bear (voice)",
+      "order": 1
+    },
+    {
+      "personId": 21877,
+      "character": "Bagheera the Panther (voice)",
+      "order": 2
+    },
+    {
+      "personId": 3361,
+      "character": "Shere Khan the Tiger (voice)",
+      "order": 3
+    },
+    {
+      "personId": 34759,
+      "character": "Kaa the Snake (voice)",
+      "order": 4
+    },
+    {
+      "personId": 57330,
+      "character": "King Louie of the Apes (voice)",
+      "order": 5
+    },
+    {
+      "personId": 22602,
+      "character": "Col. Hathi the Elephant / Buzzie (voice)",
+      "order": 6
+    },
+    {
+      "personId": 15661,
+      "character": "Junior (voice)",
+      "order": 7
+    },
+    {
+      "personId": 193778,
+      "character": "Dizzy (voice)",
+      "order": 8
+    },
+    {
+      "personId": 951459,
+      "character": "Flaps (voice)",
+      "order": 9
+    },
+    {
+      "personId": 24826,
+      "character": "Akela (voice)",
+      "order": 10
+    },
+    {
+      "personId": 71781,
+      "character": "Rama (voice)",
+      "order": 11
+    },
+    {
+      "personId": 102860,
+      "character": "The Girl (voice)",
+      "order": 12
+    },
+    {
+      "personId": 67290,
+      "character": "Winifred (voice)",
+      "order": 13
+    },
+    {
+      "personId": 1224636,
+      "character": "Shere Khan (singing) / Elephant Soldier (voice) (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1218964,
+      "character": "Ziggy (voice) (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 25627,
+      "character": "Slob Elephant (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1890518,
+      "character": "Bandar-Log (voice) (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 4058115,
+      "character": "Bandar-Log (voice) (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1236102,
+      "character": "Flunky Monkey (voice) (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 6827,
+  "sources": [
+    "cult-list"
+  ]
+}

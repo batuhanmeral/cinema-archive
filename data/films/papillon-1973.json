@@ -1,0 +1,203 @@
+{
+  "tmdbId": 5924,
+  "slug": "papillon-1973",
+  "year": 1973,
+  "runtime": 151,
+  "originalTitle": "Papillon",
+  "title": {
+    "en": "Papillon",
+    "tr": "Kelebek"
+  },
+  "overview": {
+    "en": "A man befriends a fellow criminal as the two of them begin serving their sentence on a dreadful prison island, which inspires the man to plot his escape.",
+    "tr": "Henri Channiere'nin romanından uyarlanan bu film ihtilalden sonra hapis cezasına çarptırılan bir grup Fransız mahkumun yaşadıklarını anlatan etkileyici ve dram yüklü bir macera. Fransız Guyana'sındaki kaçışı olmayan bir adada ki hapishaneye gönderilen kelebek lakaplı Henri \"Papillion\" Charriere (Steve Mcqueen) sürekli olarak kaçmaya çalışmaktadır ve bu çabaları başarısız olur. Oda bundan asla vazgeçmeyecektir. Burada tanıştığı Louis Depo (Dustin Hoffman)'la oluşan dostluklarıyla birlikte onunda yardımını alan Henri hapishanenin vahşi kurallarına karşı daha büyük bir azimle mücadelesine devam eder."
+  },
+  "poster": {
+    "tr": "/356oqQpug682OERsWV0bGZ0YxwQ.jpg",
+    "en": "/iEX7InvPSZeMzBVjYrEnD3Od7ZY.jpg"
+  },
+  "backdrops": [
+    "/fmd17jnQxHanXC6wqqXRLocm60O.jpg",
+    "/eqfDbMQmc41HVXYb2g8tJSVyUZC.jpg",
+    "/4JRzY8erTjf1ctsLMcf5PZPcWnD.jpg",
+    "/hUm9gDXyyNKXWYQjdUMlLMifSVs.jpg",
+    "/1xTUtI25j3TpKtJ7dyFvqCP2qaO.jpg",
+    "/5Ceh3HK6pxhwiLrS6hZOz9hjXeN.jpg",
+    "/gr1x4lWEeoHsdf8fcDCmhEDzLjX.jpg",
+    "/sRFDdbAiNlrQyPTaBrJI8XswLbX.jpg",
+    "/3AmgU5CAABmGgfZaKxxApHvKRSz.jpg",
+    "/fEobRXw2M4H13J2up03FstqHpTb.jpg"
+  ],
+  "trailerKey": "uJ3BOD7bcRc",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    378,
+    10685,
+    9777,
+    10787,
+    11267,
+    14641,
+    156630,
+    158527,
+    181962,
+    186718,
+    187196,
+    193275,
+    195897,
+    204725,
+    214548
+  ],
+  "countries": [
+    "US",
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Allied Artists Pictures",
+    "Solar Productions",
+    "Corona-General"
+  ],
+  "crew": [
+    {
+      "personId": 10931,
+      "job": "writer"
+    },
+    {
+      "personId": 40532,
+      "job": "producer"
+    },
+    {
+      "personId": 19102,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 13265,
+      "job": "producer"
+    },
+    {
+      "personId": 13265,
+      "job": "director"
+    },
+    {
+      "personId": 11993,
+      "job": "writer"
+    },
+    {
+      "personId": 1760,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13565,
+      "character": "Henri \"Papillon\" Charriere",
+      "order": 0
+    },
+    {
+      "personId": 4483,
+      "character": "Louis Dega",
+      "order": 1
+    },
+    {
+      "personId": 15666,
+      "character": "Indian Chief",
+      "order": 2
+    },
+    {
+      "personId": 14062,
+      "character": "Julot",
+      "order": 3
+    },
+    {
+      "personId": 2516,
+      "character": "Toussaint",
+      "order": 4
+    },
+    {
+      "personId": 49356,
+      "character": "Maturette",
+      "order": 5
+    },
+    {
+      "personId": 13263,
+      "character": "Clusiot",
+      "order": 6
+    },
+    {
+      "personId": 49357,
+      "character": "Lariot",
+      "order": 7
+    },
+    {
+      "personId": 11028,
+      "character": "Dr. Chatal",
+      "order": 8
+    },
+    {
+      "personId": 993183,
+      "character": "Zoraima",
+      "order": 9
+    },
+    {
+      "personId": 16030,
+      "character": "Warden Barrot",
+      "order": 10
+    },
+    {
+      "personId": 3014,
+      "character": "Pascal",
+      "order": 11
+    },
+    {
+      "personId": 18914,
+      "character": "Antonio",
+      "order": 12
+    },
+    {
+      "personId": 14069,
+      "character": "Sergeant",
+      "order": 13
+    },
+    {
+      "personId": 140345,
+      "character": "Guard",
+      "order": 14
+    },
+    {
+      "personId": 161405,
+      "character": "Santini",
+      "order": 15
+    },
+    {
+      "personId": 94994,
+      "character": "Mother Superior",
+      "order": 16
+    },
+    {
+      "personId": 152681,
+      "character": "Butterfly Trader",
+      "order": 17
+    },
+    {
+      "personId": 198320,
+      "character": "Old Con",
+      "order": 18
+    },
+    {
+      "personId": 122007,
+      "character": "Commandant",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2217,
+  "sources": [
+    "cult-list"
+  ]
+}

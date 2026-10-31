@@ -1,0 +1,215 @@
+{
+  "tmdbId": 31767,
+  "slug": "the-devils-1971",
+  "year": 1971,
+  "runtime": 112,
+  "originalTitle": "The Devils",
+  "title": {
+    "en": "The Devils",
+    "tr": "Şeytanlar"
+  },
+  "overview": {
+    "en": "In 1634 France, charismatic Father Urbain Grandier becomes the target of sexually depraved Sister Jeanne's accusations of witchcraft, which corrupt officials of church and state are all too happy to exploit.​​​​​​​​​​​​​​​​",
+    "tr": "Fransanın bağımsız Loudun eyaletindeki Ursuline rahibelerinin şeytan tarafından ele geçirilmelerine sebep olan büyüleri yapmakla suçlanan Peder Urbain Grandier’in, bildik şeytan filmleriyle alakası olmayan, akla hayale seslenen hikayesi. Sene 1634."
+  },
+  "poster": {
+    "tr": "/y1k7eiOFc6fzm8XeTa1kNGx6JIs.jpg",
+    "en": "/3u3jsP5yMDJW3SXYteqkQjI6ggq.jpg"
+  },
+  "backdrops": [
+    "/8ApwSMdd9QehKjvW3fOmKVrnZXv.jpg",
+    "/pcWO53Qqd2VNKVNNWz1bkyirfsq.jpg",
+    "/brA5IjnrSX2ElMgK1s0weiyDtrl.jpg",
+    "/xIkntWMUvzYau6PrvQ2oDm3Cq7E.jpg",
+    "/AkVjV96chqS9KdQGdHPlP0V9bxa.jpg",
+    "/AipVqRPrqkKA4EhSJjh6RIma9n3.jpg",
+    "/9eICyxM7UPsjarOFCCwzdDvPpwU.jpg",
+    "/9wGO7S7sE29fcJ8s4Qasqa4OjJ3.jpg",
+    "/xZkl9cifYfSjuV6Dj6wA6lQU3O7.jpg",
+    "/bjF3AC1RyzJlYgB8aU3RhLvNKl3.jpg"
+  ],
+  "trailerKey": "ImeXlanF3iY",
+  "genreIds": [
+    18,
+    36,
+    27
+  ],
+  "keywordIds": [
+    818,
+    459,
+    745,
+    4630,
+    186,
+    344,
+    2804,
+    8201,
+    9887,
+    9672,
+    10181,
+    7412,
+    5083,
+    10093,
+    13006,
+    14783,
+    15060,
+    157008,
+    161216,
+    165470,
+    192772,
+    195222,
+    201028,
+    207941,
+    210162,
+    226350,
+    232091,
+    295907,
+    309029,
+    325778,
+    343511,
+    358290,
+    379816
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "la"
+  ],
+  "studios": [
+    "Russo Productions"
+  ],
+  "crew": [
+    {
+      "personId": 32327,
+      "job": "director"
+    },
+    {
+      "personId": 32327,
+      "job": "writer"
+    },
+    {
+      "personId": 32327,
+      "job": "producer"
+    },
+    {
+      "personId": 39106,
+      "job": "producer"
+    },
+    {
+      "personId": 10639,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1351566,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 13333,
+      "character": "Sister Jeanne des Anges",
+      "order": 0
+    },
+    {
+      "personId": 936,
+      "character": "Father Urbain Grandier",
+      "order": 1
+    },
+    {
+      "personId": 27393,
+      "character": "Baron de Laubardemont",
+      "order": 2
+    },
+    {
+      "personId": 77312,
+      "character": "Ibert",
+      "order": 3
+    },
+    {
+      "personId": 9138,
+      "character": "Madeleine de Brou",
+      "order": 4
+    },
+    {
+      "personId": 31722,
+      "character": "Father-Canon Jean Mignon",
+      "order": 5
+    },
+    {
+      "personId": 10505,
+      "character": "Father Pierre Barre",
+      "order": 6
+    },
+    {
+      "personId": 92434,
+      "character": "Philippe Trincant",
+      "order": 7
+    },
+    {
+      "personId": 124513,
+      "character": "Adam",
+      "order": 8
+    },
+    {
+      "personId": 1040902,
+      "character": "Cardinal Richelieu",
+      "order": 9
+    },
+    {
+      "personId": 202288,
+      "character": "King Louis XIII",
+      "order": 10
+    },
+    {
+      "personId": 14465,
+      "character": "Louis Trincant",
+      "order": 11
+    },
+    {
+      "personId": 14823,
+      "character": "Rangier",
+      "order": 12
+    },
+    {
+      "personId": 10734,
+      "character": "Legrand",
+      "order": 13
+    },
+    {
+      "personId": 203505,
+      "character": "Sister Agnes (miscredited as Sister Judith)",
+      "order": 14
+    },
+    {
+      "personId": 97169,
+      "character": "Sister Catherine",
+      "order": 15
+    },
+    {
+      "personId": 32060,
+      "character": "Sister Iza",
+      "order": 16
+    },
+    {
+      "personId": 18768,
+      "character": "Nun (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 215990,
+      "character": "Gossiping Woman (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2574542,
+      "character": "Citizen (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 484,
+  "sources": [
+    "cult-list"
+  ]
+}

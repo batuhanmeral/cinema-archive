@@ -1,0 +1,194 @@
+{
+  "tmdbId": 42021,
+  "slug": "ginger-and-fred-1986",
+  "year": 1986,
+  "runtime": 125,
+  "originalTitle": "Ginger e Fred",
+  "title": {
+    "en": "Ginger and Fred",
+    "tr": "Ginger e Fred"
+  },
+  "overview": {
+    "en": "Amelia and Pippo are reunited after several decades to perform their old music-hall act, imitating Fred Astaire and Ginger Rogers, on a TV variety show.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/nuhHvDVQLIDzpLpomBHilS1hliL.jpg",
+    "en": "/nuhHvDVQLIDzpLpomBHilS1hliL.jpg"
+  },
+  "backdrops": [
+    "/29g05m6Sk7LN736Z8ukWWr5fgqV.jpg",
+    "/7YjjphrUKt9tdtVEcm5mJQZ4DYX.jpg",
+    "/cfLS9gA3PoNlBN1eOqJMthBaS97.jpg",
+    "/e1WvnxVEF1oTJu8s3OlgDmHlL6U.jpg",
+    "/zlTJalDxlrprmBC7ayalXRI6lzh.jpg",
+    "/bO6NtG2bsUqhD7wzo29yyW6Kd7w.jpg",
+    "/9lqQWuQxikTvoye7PW4UbYHCYnh.jpg",
+    "/pyV1VFp9pkkLR2BzyeAQ586RGjH.jpg",
+    "/5dY4Xp5CpkQ6cMGdeFHfxY7JPdK.jpg",
+    "/7AqpeHk699d8X7MXtuX9dVPbS2f.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    207242
+  ],
+  "countries": [
+    "FR",
+    "DE",
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "it"
+  ],
+  "studios": [
+    "PEA",
+    "Revcom Films",
+    "Les Films Ariane"
+  ],
+  "crew": [
+    {
+      "personId": 4415,
+      "job": "director"
+    },
+    {
+      "personId": 5820,
+      "job": "producer"
+    },
+    {
+      "personId": 4415,
+      "job": "writer"
+    },
+    {
+      "personId": 15191,
+      "job": "writer"
+    },
+    {
+      "personId": 5396,
+      "job": "writer"
+    },
+    {
+      "personId": 9245,
+      "job": "composer"
+    },
+    {
+      "personId": 26267,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2361,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5402,
+      "character": "Amelia \"Ginger\" Bonetti",
+      "order": 0
+    },
+    {
+      "personId": 5676,
+      "character": "Pippo \"Fred\" Botticella",
+      "order": 1
+    },
+    {
+      "personId": 30832,
+      "character": "Aurelio, \"Ed Ecco A Voi\" Host",
+      "order": 2
+    },
+    {
+      "personId": 91971,
+      "character": "Admiral Aulenti",
+      "order": 3
+    },
+    {
+      "personId": 994193,
+      "character": "Evelina Pollini",
+      "order": 4
+    },
+    {
+      "personId": 64524,
+      "character": "Florenzio",
+      "order": 5
+    },
+    {
+      "personId": 994194,
+      "character": "Brother Gerolamo",
+      "order": 6
+    },
+    {
+      "personId": 47039,
+      "character": "Toto",
+      "order": 7
+    },
+    {
+      "personId": 1076431,
+      "character": "Author",
+      "order": 8
+    },
+    {
+      "personId": 5568,
+      "character": "(credit only)",
+      "order": 9
+    },
+    {
+      "personId": 6698,
+      "character": "Armando Bissanti",
+      "order": 10
+    },
+    {
+      "personId": 149954,
+      "character": "Production Inspector",
+      "order": 11
+    },
+    {
+      "personId": 120116,
+      "character": "Barbara, TeleFlash Reporter",
+      "order": 12
+    },
+    {
+      "personId": 3338162,
+      "character": "Journalist",
+      "order": 13
+    },
+    {
+      "personId": 240914,
+      "character": "Clark Gable",
+      "order": 14
+    },
+    {
+      "personId": 3338164,
+      "character": "Clairvoyant",
+      "order": 15
+    },
+    {
+      "personId": 3338166,
+      "character": "Stefania",
+      "order": 16
+    },
+    {
+      "personId": 123545,
+      "character": "Catanzaro",
+      "order": 17
+    },
+    {
+      "personId": 3944266,
+      "character": "Kidnapped Lawyer",
+      "order": 18
+    },
+    {
+      "personId": 78669,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 144,
+  "sources": [
+    "cult-list"
+  ]
+}

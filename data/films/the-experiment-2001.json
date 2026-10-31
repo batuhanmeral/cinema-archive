@@ -1,0 +1,225 @@
+{
+  "tmdbId": 575,
+  "slug": "the-experiment-2001",
+  "year": 2001,
+  "runtime": 120,
+  "originalTitle": "Das Experiment",
+  "title": {
+    "en": "The Experiment",
+    "tr": "Deney"
+  },
+  "overview": {
+    "en": "20 volunteers agree to take part in a seemingly well-paid experiment advertised by the university. It is supposed to be about aggressive behavior in an artificial prison situation. A journalist senses a story behind the ad and smuggles himself in among the test subjects. They are randomly divided into prisoners and guards. What seems like a game at the beginning soon turns into bloody seriousness.",
+    "tr": "Bilim insanları insanların içgüdüsel dürtülerini ölçebilmek adına bir deney kurgulamaya karar verirler. Deneye göre 8 kişi gardiyan, 12 kişi tutuklu olarak yalancı bir hapishaneye alınırlar. Gardiyanlar, gardiyan rolünü; mahkumlar ise mahkum rolünü oynayacaklardır. Her şey bir oyun olarak başlar ancak durumun gittikçe daha ciddi bir hal almaya başlaması, oraya para için gelen yirmi kişiyi rollerinin içerisine mahkum eder. Artık sahte gardiyanlar gerçek gardiyan gibi davranmaya başlayacaklardır. Bilim insanları deneyin kontrolünü kaybedeceklerdir."
+  },
+  "poster": {
+    "tr": "/fSAbzho37GLkS07g9tkbAHHa88v.jpg",
+    "en": "/o6Yq5XcFfsmG5IVEy4qdJ8levmj.jpg"
+  },
+  "backdrops": [
+    "/cTw7AMZ82cxNDYYzqhF73MDs794.jpg",
+    "/uxMcyp2U1SKpAK3gOMkBugCxn0X.jpg",
+    "/6LrSj1vsYALVLTf2RCCfJFWimM7.jpg",
+    "/aWpJVkYvYueNSRGME9uvAO7VTpf.jpg",
+    "/j5YKNTgUQOXjxdUw8wbRuSWvf0s.jpg",
+    "/gtboRdoQEkDpt0vbo4oB0CGUcF6.jpg",
+    "/d4Y9djDUWtc9njT3stZWCpYt1KL.jpg",
+    "/sVNMpba2dlPnFAcsKPUTrGn096V.jpg",
+    "/9gBfbwfvmaPq7rQpqWbjQDlekq5.jpg",
+    "/r4kBRADRsPpWs2yMBzUmZD3ctHs.jpg"
+  ],
+  "trailerKey": "MG_xQs9_MGQ",
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    378,
+    736,
+    570,
+    1563,
+    1706,
+    818,
+    1002,
+    2885,
+    2876,
+    2878,
+    2879,
+    2880,
+    2883,
+    2887,
+    13006,
+    33740,
+    200918,
+    309974,
+    311315,
+    315053,
+    325766,
+    325773,
+    325775,
+    325776,
+    325791,
+    325792,
+    325804
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Fanes Film",
+    "Typhoon Film",
+    "Senator Film"
+  ],
+  "crew": [
+    {
+      "personId": 7832,
+      "job": "director"
+    },
+    {
+      "personId": 7836,
+      "job": "composer"
+    },
+    {
+      "personId": 5135,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7841,
+      "job": "producer"
+    },
+    {
+      "personId": 5651,
+      "job": "producer"
+    },
+    {
+      "personId": 7842,
+      "job": "producer"
+    },
+    {
+      "personId": 2782832,
+      "job": "producer"
+    },
+    {
+      "personId": 7835,
+      "job": "writer"
+    },
+    {
+      "personId": 7833,
+      "job": "writer"
+    },
+    {
+      "personId": 7834,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 677,
+      "character": "Tarek Fahd, Prisoner Nr. 77",
+      "order": 0
+    },
+    {
+      "personId": 7803,
+      "character": "Robert Steinhoff, Prisoner Nr. 38",
+      "order": 1
+    },
+    {
+      "personId": 5646,
+      "character": "Berus",
+      "order": 2
+    },
+    {
+      "personId": 7827,
+      "character": "Dora",
+      "order": 3
+    },
+    {
+      "personId": 7822,
+      "character": "Professor Dr. Klaus Thon",
+      "order": 4
+    },
+    {
+      "personId": 7823,
+      "character": "Dr. Jutta Grimm",
+      "order": 5
+    },
+    {
+      "personId": 7804,
+      "character": "Günther Schütte, Prisoner Nr. 82",
+      "order": 6
+    },
+    {
+      "personId": 7805,
+      "character": "Joe Maier, Prisoner Nr. 69",
+      "order": 7
+    },
+    {
+      "personId": 7815,
+      "character": "Kamps",
+      "order": 8
+    },
+    {
+      "personId": 7816,
+      "character": "Eckert",
+      "order": 9
+    },
+    {
+      "personId": 7817,
+      "character": "Bosch",
+      "order": 10
+    },
+    {
+      "personId": 7818,
+      "character": "Renzel",
+      "order": 11
+    },
+    {
+      "personId": 7824,
+      "character": "Lars",
+      "order": 12
+    },
+    {
+      "personId": 7811,
+      "character": "Prisoner Nr. 11",
+      "order": 13
+    },
+    {
+      "personId": 7809,
+      "character": "Prisoner Nr. 15",
+      "order": 14
+    },
+    {
+      "personId": 7808,
+      "character": "Prisoner Nr. 21",
+      "order": 15
+    },
+    {
+      "personId": 7807,
+      "character": "Prisoner Nr. 40",
+      "order": 16
+    },
+    {
+      "personId": 7806,
+      "character": "Prisoner Nr. 53",
+      "order": 17
+    },
+    {
+      "personId": 7810,
+      "character": "Prisoner Nr. 74",
+      "order": 18
+    },
+    {
+      "personId": 7812,
+      "character": "Prisoner Nr. 86",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1290,
+  "sources": [
+    "cult-list"
+  ]
+}

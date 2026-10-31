@@ -1,0 +1,102 @@
+{
+  "generatedAt": "2026-10-31T11:31:50.279Z",
+  "counts": {
+    "listRows": 2821,
+    "films": 2682,
+    "added": 0,
+    "missingFromSources": 0,
+    "review": 0,
+    "adultExcluded": 11,
+    "skipped": 7
+  },
+  "added": [],
+  "missingFromSources": [],
+  "review": [],
+  "adultExcluded": [
+    {
+      "wikiTitle": "Behind the Green Door",
+      "tmdbId": 24992,
+      "title": "Behind the Green Door"
+    },
+    {
+      "wikiTitle": "Boys in the Sand",
+      "tmdbId": 154123,
+      "title": "Boys in the Sand"
+    },
+    {
+      "wikiTitle": "Café Flesh",
+      "tmdbId": 30824,
+      "title": "Café Flesh"
+    },
+    {
+      "wikiTitle": "Debbie Does Dallas",
+      "tmdbId": 188412,
+      "title": "Debbie Does Dallas"
+    },
+    {
+      "wikiTitle": "Deep Throat (film)",
+      "tmdbId": 5853,
+      "title": "Deep Throat"
+    },
+    {
+      "wikiTitle": "The Devil in Miss Jones",
+      "tmdbId": 284109,
+      "title": "The Devil in Miss Jones"
+    },
+    {
+      "wikiTitle": "The Good Old Naughty Days",
+      "tmdbId": 48783,
+      "title": "The Good Old Naughty Days"
+    },
+    {
+      "wikiTitle": "New Wave Hookers",
+      "tmdbId": 360230,
+      "title": "New Wave Hookers"
+    },
+    {
+      "wikiTitle": "The Opening of Misty Beethoven",
+      "tmdbId": 36804,
+      "title": "The Opening of Misty Beethoven"
+    },
+    {
+      "wikiTitle": "Thundercrack!",
+      "tmdbId": 47681,
+      "title": "Thundercrack!"
+    },
+    {
+      "wikiTitle": "World's Biggest Gang Bang",
+      "tmdbId": 977136,
+      "title": "The World's Biggest Gang Bang"
+    }
+  ],
+  "skipped": [
+    {
+      "wikiTitle": "Amerika (miniseries)",
+      "note": "TV miniseries (TMDB TV 9115), not a film"
+    },
+    {
+      "wikiTitle": "Astro Boy (1963 TV series)",
+      "note": "TV series, not a film"
+    },
+    {
+      "wikiTitle": "The Creator's Game",
+      "note": "TMDB entry 466007 has no release date"
+    },
+    {
+      "wikiTitle": "Heimat (1984 film)",
+      "note": "TV series of 11 episodes (TMDB TV 43059)"
+    },
+    {
+      "wikiTitle": "An Inspector Calls (1982 film)",
+      "note": "BBC TV serial; article redirects to the TV series"
+    },
+    {
+      "wikiTitle": "The Stand (1994 film)",
+      "note": "TV miniseries (TMDB TV 9045), not a film"
+    },
+    {
+      "wikiTitle": "Troops (film)",
+      "note": "TMDB entry 1718771 has no release date or director"
+    }
+  ]
+}

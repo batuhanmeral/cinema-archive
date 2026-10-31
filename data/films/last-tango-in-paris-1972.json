@@ -1,0 +1,191 @@
+{
+  "tmdbId": 1643,
+  "slug": "last-tango-in-paris-1972",
+  "year": 1972,
+  "runtime": 129,
+  "originalTitle": "Ultimo tango a Parigi",
+  "title": {
+    "en": "Last Tango in Paris",
+    "tr": "Paris'te Son Tango"
+  },
+  "overview": {
+    "en": "A recently widowed American begins an anonymous sexual relationship with a young Parisian woman.",
+    "tr": "Jeanne, evlilik hazırlıklarını sürdürürken bir yandan da evlenince oturmak için bir ev aramaktadır. Bir gün çok beğendiği bir evi gezerken çok ilginç ve garip bir adamla tanışır. Paul, kendinden yaşça büyük ve tanıdığı bütün erkeklerden farklı bir adamdır. Aralarındaki çekime karşı koyamaz ve birlikte olurlar. Uzunca bir süre sadece birlikte olabilmek için bu evin çatısı altında buluşacak ama birbirlerinin dışarıdaki hayatlarına dair hiçbir soru sormayacak ve hiçbir şey bilmeyeceklerdir. Bu, Paul'ün ilişkilerinin devam edebilmesi için koymuş olduğu bir şarttır. Paul'ün karamsar ruhuna karşılık Jeanne'in capcanlı gençliği, koydukları bu sert kurallara dayanamayacaktır."
+  },
+  "poster": {
+    "tr": "/dNgdUdNOWfHsZI3lDu6Epig7H2P.jpg",
+    "en": "/vDuI72CpwWYIWJzNNA01PA2Utdr.jpg"
+  },
+  "backdrops": [
+    "/hExTiLbfB93HwEwkeQxb3q4nHtQ.jpg",
+    "/b443iPaFCxWHzyoaLuzSsKJeTwf.jpg",
+    "/qeZdw2fLkAIdp2B1BCtwYtltcn.jpg",
+    "/mohANeMRp8iBkK6QcNGSZI2fz6G.jpg",
+    "/7Dd7oLCO4Qb32mpaUcBSAvV1LHi.jpg",
+    "/6FJq4tVjA28Bj2ClCggdT7VHdF.jpg",
+    "/2EiXgIft7upP2Es8vOsdEH17SX6.jpg",
+    "/jjtH0BTwO5026jyT4P4IFpbBQMw.jpg",
+    "/5FrE9m4m5VnPYHZkr2V5UXGSThI.jpg",
+    "/7OATjMKpTl77LuWLiryCvnZ8gmP.jpg"
+  ],
+  "trailerKey": "_0Vj-B6JVmQ",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    90,
+    4480,
+    9673,
+    10614,
+    14534,
+    34094,
+    161034,
+    201200
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Les Productions Artistes Associés",
+    "PEA"
+  ],
+  "crew": [
+    {
+      "personId": 4956,
+      "job": "director"
+    },
+    {
+      "personId": 4956,
+      "job": "writer"
+    },
+    {
+      "personId": 5820,
+      "job": "producer"
+    },
+    {
+      "personId": 7202,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4667,
+      "job": "writer"
+    },
+    {
+      "personId": 18332,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3084,
+      "character": "Paul",
+      "order": 0
+    },
+    {
+      "personId": 18329,
+      "character": "Jeanne",
+      "order": 1
+    },
+    {
+      "personId": 4426,
+      "character": "Rosa's Mother",
+      "order": 2
+    },
+    {
+      "personId": 18337,
+      "character": "Prostitute",
+      "order": 3
+    },
+    {
+      "personId": 1653,
+      "character": "Tom",
+      "order": 4
+    },
+    {
+      "personId": 18214,
+      "character": "Jeanne's Mother",
+      "order": 5
+    },
+    {
+      "personId": 16926,
+      "character": "Catherine",
+      "order": 6
+    },
+    {
+      "personId": 18338,
+      "character": "Olympia",
+      "order": 7
+    },
+    {
+      "personId": 18336,
+      "character": "Monique",
+      "order": 8
+    },
+    {
+      "personId": 6295,
+      "character": "Mouchette",
+      "order": 9
+    },
+    {
+      "personId": 5110023,
+      "character": "TV Sound Engineer",
+      "order": 10
+    },
+    {
+      "personId": 39724,
+      "character": "Script Girl",
+      "order": 11
+    },
+    {
+      "personId": 68153,
+      "character": "Cameraman",
+      "order": 12
+    },
+    {
+      "personId": 18340,
+      "character": "Marcel",
+      "order": 13
+    },
+    {
+      "personId": 5110027,
+      "character": "TV Assistant Cameraman",
+      "order": 14
+    },
+    {
+      "personId": 18339,
+      "character": "Rosa",
+      "order": 15
+    },
+    {
+      "personId": 559887,
+      "character": "Christine",
+      "order": 16
+    },
+    {
+      "personId": 5110031,
+      "character": "Tango Orchestra Leader",
+      "order": 17
+    },
+    {
+      "personId": 5110033,
+      "character": "President of Tango Jury",
+      "order": 18
+    },
+    {
+      "personId": 586308,
+      "character": "Concierge",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1392,
+  "sources": [
+    "cult-list"
+  ]
+}

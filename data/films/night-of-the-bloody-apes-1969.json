@@ -1,0 +1,123 @@
+{
+  "tmdbId": 42610,
+  "slug": "night-of-the-bloody-apes-1969",
+  "year": 1969,
+  "runtime": 81,
+  "originalTitle": "La horripilante bestia humana",
+  "title": {
+    "en": "Night of the Bloody Apes",
+    "tr": "La horripilante bestia humana"
+  },
+  "overview": {
+    "en": "A surgeon transplants the heart of an ape into his ailing son with horrific results.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/2rLfvA4Dl1FA17UUCXpuVXVO28S.jpg",
+    "en": "/ssE6dACUHnCDGDjATXWX8eiQNLO.jpg"
+  },
+  "backdrops": [
+    "/iF20QYCoE86ybUIKgLiNtBoQH39.jpg",
+    "/4lsUlVwNECaFA9n89L9Ft8x32y6.jpg",
+    "/fMUhmapEvEXnTeerV1Bidi6oRfA.jpg",
+    "/nm6k32oC7Prt4WMyDyzHqCTBrfS.jpg",
+    "/fYuwVHYN9PrRVKMzvvw5bfkYFiN.jpg"
+  ],
+  "trailerKey": "1PY6Sv8Rafs",
+  "genreIds": [
+    27,
+    878
+  ],
+  "keywordIds": [
+    1604,
+    570,
+    627,
+    690,
+    5970,
+    10292,
+    10770,
+    185221,
+    189921
+  ],
+  "countries": [
+    "MX"
+  ],
+  "languages": [],
+  "studios": [
+    "Cinematográfica Calderón S.A."
+  ],
+  "crew": [
+    {
+      "personId": 1028011,
+      "job": "writer"
+    },
+    {
+      "personId": 1028011,
+      "job": "director"
+    },
+    {
+      "personId": 31219,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 31866,
+      "job": "composer"
+    },
+    {
+      "personId": 31316,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 223079,
+      "character": "Dr. Krallman",
+      "order": 0
+    },
+    {
+      "personId": 22890,
+      "character": "Goyo",
+      "order": 1
+    },
+    {
+      "personId": 102306,
+      "character": "Lt. Arturo Martinez",
+      "order": 2
+    },
+    {
+      "personId": 140605,
+      "character": "Lucy Ossorio",
+      "order": 3
+    },
+    {
+      "personId": 223055,
+      "character": "Julio Krallman",
+      "order": 4
+    },
+    {
+      "personId": 590226,
+      "character": "Monstruo",
+      "order": 5
+    },
+    {
+      "personId": 1028016,
+      "character": "Redhead victim",
+      "order": 6
+    },
+    {
+      "personId": 112211,
+      "character": "Woman in Shower",
+      "order": 7
+    },
+    {
+      "personId": 105135,
+      "character": "Security Chief",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 59,
+  "sources": [
+    "cult-list"
+  ]
+}

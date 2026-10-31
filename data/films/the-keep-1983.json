@@ -1,0 +1,196 @@
+{
+  "tmdbId": 26198,
+  "slug": "the-keep-1983",
+  "year": 1983,
+  "runtime": 96,
+  "originalTitle": "The Keep",
+  "title": {
+    "en": "The Keep",
+    "tr": "The Keep"
+  },
+  "overview": {
+    "en": "Set during World War II, a German army garrison is sent to guard a mountain pass in a village in Romania's Carpathian mountains and sets up barracks in an ancient stone fortress. Two of the soldiers unwittingly release a mysterious entity that kills or corrupts those within its influence, drawing the attention of a Gestapo commander, a Jewish scholar, and a mysterious traveller.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yd9wU3oajNxwaFHQ02rtTBuSFJD.jpg",
+    "en": "/yd9wU3oajNxwaFHQ02rtTBuSFJD.jpg"
+  },
+  "backdrops": [
+    "/gSYclSelh61CUXhmk2lbOJNPjuc.jpg",
+    "/5AqQV982X3GKpajh0jxOiYiJdEw.jpg",
+    "/q6ZvxrE0MpFUCLaWvAyyqqjD9Xz.jpg",
+    "/iQYwVxXDSBMfZB4JTW5LRi7sBZR.jpg",
+    "/t1vZRDE5SN8exBRty6Jrm6jKD6x.jpg",
+    "/UE1zaL8P6TRHgxdw4NTSiTgmHT.jpg",
+    "/lVQebrwAHy6aOawhVReTSFyGbZF.jpg",
+    "/4LZ8iTwZKkJo1L15itjus4MCU18.jpg",
+    "/hMg6UrFoWMIgYaLu7KVXtSBK1t3.jpg",
+    "/v1IeCmZ8zEvO2YW3cnKo99oJy1D.jpg"
+  ],
+  "trailerKey": "Tiu3-nbLoyY",
+  "genreIds": [
+    27,
+    14
+  ],
+  "keywordIds": [
+    2652,
+    1799,
+    1956,
+    15001,
+    177895,
+    179882,
+    207883
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Paramount Pictures",
+    "Associated Capital",
+    "Capital Equipment Leasing"
+  ],
+  "crew": [
+    {
+      "personId": 638,
+      "job": "director"
+    },
+    {
+      "personId": 638,
+      "job": "writer"
+    },
+    {
+      "personId": 13017,
+      "job": "producer"
+    },
+    {
+      "personId": 21516,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 44827,
+      "job": "producer"
+    },
+    {
+      "personId": 47927,
+      "job": "composer"
+    },
+    {
+      "personId": 69600,
+      "job": "composer"
+    },
+    {
+      "personId": 69601,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 349,
+      "character": "Glaeken Trismegestus",
+      "order": 0
+    },
+    {
+      "personId": 19958,
+      "character": "Eva Cuza",
+      "order": 1
+    },
+    {
+      "personId": 920,
+      "character": "Captain Klaus Woermann",
+      "order": 2
+    },
+    {
+      "personId": 10360,
+      "character": "Father Mihail Fonescu",
+      "order": 3
+    },
+    {
+      "personId": 5168,
+      "character": "Major Kaempffer",
+      "order": 4
+    },
+    {
+      "personId": 1327,
+      "character": "Dr. Theodore Cuza",
+      "order": 5
+    },
+    {
+      "personId": 938390,
+      "character": "Alexandru",
+      "order": 6
+    },
+    {
+      "personId": 1185546,
+      "character": "Tomescu",
+      "order": 7
+    },
+    {
+      "personId": 199055,
+      "character": "Radu Molasar",
+      "order": 8
+    },
+    {
+      "personId": 1569592,
+      "character": "Lutz",
+      "order": 9
+    },
+    {
+      "personId": 659,
+      "character": "S.S. Adjutant",
+      "order": 10
+    },
+    {
+      "personId": 2679334,
+      "character": "Otto",
+      "order": 11
+    },
+    {
+      "personId": 39001,
+      "character": "Josefa",
+      "order": 12
+    },
+    {
+      "personId": 1705493,
+      "character": "Border Guard 1",
+      "order": 13
+    },
+    {
+      "personId": 27422,
+      "character": "Border Guard 2",
+      "order": 14
+    },
+    {
+      "personId": 255920,
+      "character": "Alexandru's Son",
+      "order": 15
+    },
+    {
+      "personId": 24735,
+      "character": "Alexandru's Second Son",
+      "order": 16
+    },
+    {
+      "personId": 1831879,
+      "character": "Josefa's Son",
+      "order": 17
+    },
+    {
+      "personId": 2021229,
+      "character": "Carlos",
+      "order": 18
+    },
+    {
+      "personId": 202714,
+      "character": "S.S. Kommando",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 341,
+  "sources": [
+    "cult-list"
+  ]
+}

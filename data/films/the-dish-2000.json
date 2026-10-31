@@ -1,0 +1,209 @@
+{
+  "tmdbId": 5257,
+  "slug": "the-dish-2000",
+  "year": 2000,
+  "runtime": 101,
+  "originalTitle": "The Dish",
+  "title": {
+    "en": "The Dish",
+    "tr": "Tabak"
+  },
+  "overview": {
+    "en": "A group of maverick scientists on a remote Australian sheep farm are the globe's only hope for obtaining the epic images of man's first steps on the moon.",
+    "tr": "Avustralya'nın Apollo 11 görevi sırasında aydan çekilen resimlerin aktarılmasında üstlendiği görevle ilgili oldukça nostaljik bir komedi."
+  },
+  "poster": {
+    "tr": "/zG83o1wpU3p7QTd382K4HtctLq0.jpg",
+    "en": "/zG83o1wpU3p7QTd382K4HtctLq0.jpg"
+  },
+  "backdrops": [
+    "/qoAdFnxQPVi7n1fQ3SxXuMB780d.jpg",
+    "/iz6m50DvB0vDAYQGJDXGbhwOHSW.jpg",
+    "/rY1FcmerUUU32VcDJ4ylZrTkH6.jpg",
+    "/3UarEa1B7MWyDaeajUdC7kcKC0E.jpg",
+    "/bpLOxe4yqo11DSJQBnlJ2lfN85e.jpg",
+    "/h8T1Vp1PNVMZHXzFOihKZ8gmbbQ.jpg",
+    "/kHrYlnnGRNGkecyxfRDs36th6oR.jpg",
+    "/qauxA2VfugQc4LJes0BoZXeyWho.jpg"
+  ],
+  "trailerKey": "8dyGpXcQl-g",
+  "genreIds": [
+    35,
+    18,
+    36
+  ],
+  "keywordIds": [
+    5657,
+    1432,
+    9672,
+    7422,
+    184017,
+    208992,
+    227533,
+    362050
+  ],
+  "countries": [
+    "AU"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Working Dog",
+    "Distant Horizon"
+  ],
+  "crew": [
+    {
+      "personId": 42378,
+      "job": "director"
+    },
+    {
+      "personId": 1498879,
+      "job": "writer"
+    },
+    {
+      "personId": 42380,
+      "job": "writer"
+    },
+    {
+      "personId": 42381,
+      "job": "writer"
+    },
+    {
+      "personId": 42378,
+      "job": "writer"
+    },
+    {
+      "personId": 1498879,
+      "job": "producer"
+    },
+    {
+      "personId": 42380,
+      "job": "producer"
+    },
+    {
+      "personId": 42381,
+      "job": "producer"
+    },
+    {
+      "personId": 42378,
+      "job": "producer"
+    },
+    {
+      "personId": 42383,
+      "job": "composer"
+    },
+    {
+      "personId": 42384,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4783,
+      "character": "Cliff Buxton - Dish Master",
+      "order": 0
+    },
+    {
+      "personId": 9657,
+      "character": "Al Burnett - From NASA",
+      "order": 1
+    },
+    {
+      "personId": 85620,
+      "character": "Ross 'Mitch' Mitchell - Maneuvers",
+      "order": 2
+    },
+    {
+      "personId": 75738,
+      "character": "Glenn Latham - Electronics",
+      "order": 3
+    },
+    {
+      "personId": 159297,
+      "character": "Janine Kellerman - The Girl",
+      "order": 4
+    },
+    {
+      "personId": 94793,
+      "character": "Mayor Robert 'Bob' McIntyre",
+      "order": 5
+    },
+    {
+      "personId": 13728,
+      "character": "U.S. Ambassador Howard",
+      "order": 6
+    },
+    {
+      "personId": 42393,
+      "character": "Prime Minister",
+      "order": 7
+    },
+    {
+      "personId": 1236171,
+      "character": "Rudi Kellerman - Safeguard",
+      "order": 8
+    },
+    {
+      "personId": 79695,
+      "character": "Len Purvis",
+      "order": 9
+    },
+    {
+      "personId": 217991,
+      "character": "May McIntyre - The Mom",
+      "order": 10
+    },
+    {
+      "personId": 1501359,
+      "character": "Billy McIntyre - The Kid",
+      "order": 11
+    },
+    {
+      "personId": 129579,
+      "character": "Marie McIntyre - The Teenager",
+      "order": 12
+    },
+    {
+      "personId": 1198284,
+      "character": "Keith Morrison - The Soldier",
+      "order": 13
+    },
+    {
+      "personId": 3054,
+      "character": "Miss Nolan - Teacher",
+      "order": 14
+    },
+    {
+      "personId": 42387,
+      "character": "Damien - Student",
+      "order": 15
+    },
+    {
+      "personId": 1838428,
+      "character": "Mr. Callen",
+      "order": 16
+    },
+    {
+      "personId": 42388,
+      "character": "Graeme - Student",
+      "order": 17
+    },
+    {
+      "personId": 42389,
+      "character": "Melanie - Student",
+      "order": 18
+    },
+    {
+      "personId": 42390,
+      "character": "Nicholas",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 245,
+  "sources": [
+    "cult-list"
+  ]
+}

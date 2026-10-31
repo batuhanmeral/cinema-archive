@@ -1,0 +1,222 @@
+{
+  "tmdbId": 1948,
+  "slug": "crank-2006",
+  "year": 2006,
+  "runtime": 88,
+  "originalTitle": "Crank",
+  "title": {
+    "en": "Crank",
+    "tr": "Tetikçi"
+  },
+  "overview": {
+    "en": "Chev Chelios, a hit man wanting to go straight, lets his latest target slip away. Then he awakes the next morning to a phone call that informs him he has been poisoned and has only an hour to live unless he keeps adrenaline coursing through his body while he searches for an antidote.",
+    "tr": "Adrenalininizi yükseltmek istiyorsanız bunun pek çok yolu var ve bugün tetikçi Chev Chelios'un (Jason Statham) hepsine ihtiyacı olacak. Çünkü işleri yoluna koymak, kız arkadaşına veda etmek ve bütün bunların hepsini kendine yakışır bir şekilde yapmak için sadece bir saati var. Şimdi tek soru, bütün bunları görecek kadar hayatta kalabilecek mi?"
+  },
+  "poster": {
+    "tr": "/jX9OTXpXlvEIGp9jp9kGhMqlTnE.jpg",
+    "en": "/toaY9CoMAy37QNv8HbbUqWS4X1Q.jpg"
+  },
+  "backdrops": [
+    "/uugYtn4SLdKBYgAobqhGpdWavxP.jpg",
+    "/6EX31EmX6lo0SPZB93Ls2ReBfbd.jpg",
+    "/kSTvteM3ekuoeO7u7GJtZQkZuom.jpg",
+    "/6bM38zLBe4CMDUgTPXNqQq3Mykg.jpg",
+    "/dbXhv4agJ0c2NNCHr2K2OKolpYy.jpg",
+    "/xCB02ebMOe2xaAPffVemQPzSgbY.jpg",
+    "/lLzQONKNKrwFKcEHHQXdw16wViz.jpg",
+    "/A8AK5bAMtU46hBKa3D6AvWRazLt.jpg",
+    "/9rIdcgOin6Cj7MwNrINgXl6OMDh.jpg",
+    "/iF7Ay1Q0D0IbEq1rjSetrRKed1N.jpg"
+  ],
+  "trailerKey": "218nsccFpag",
+  "genreIds": [
+    28,
+    53,
+    80
+  ],
+  "keywordIds": [
+    782,
+    720,
+    2708,
+    351,
+    5572,
+    8181,
+    9748,
+    10950,
+    14735,
+    14964,
+    15156,
+    159546,
+    163516,
+    166093,
+    177127,
+    179430,
+    185686,
+    226710,
+    232076,
+    309974,
+    325816
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "ko"
+  ],
+  "studios": [
+    "Lakeshore Entertainment",
+    "RadicalMedia",
+    "GreeneStreet Films"
+  ],
+  "crew": [
+    {
+      "personId": 1005950,
+      "job": "producer"
+    },
+    {
+      "personId": 3955,
+      "job": "producer"
+    },
+    {
+      "personId": 20192,
+      "job": "director"
+    },
+    {
+      "personId": 20193,
+      "job": "director"
+    },
+    {
+      "personId": 20192,
+      "job": "writer"
+    },
+    {
+      "personId": 3953,
+      "job": "producer"
+    },
+    {
+      "personId": 20193,
+      "job": "writer"
+    },
+    {
+      "personId": 68602,
+      "job": "producer"
+    },
+    {
+      "personId": 1002641,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2214,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 976,
+      "character": "Chev",
+      "order": 0
+    },
+    {
+      "personId": 20189,
+      "character": "Eve",
+      "order": 1
+    },
+    {
+      "personId": 20191,
+      "character": "Verona",
+      "order": 2
+    },
+    {
+      "personId": 20190,
+      "character": "Kaylo",
+      "order": 3
+    },
+    {
+      "personId": 20309,
+      "character": "Doc Miles",
+      "order": 4
+    },
+    {
+      "personId": 171136,
+      "character": "Carlito",
+      "order": 5
+    },
+    {
+      "personId": 117187,
+      "character": "Orlando",
+      "order": 6
+    },
+    {
+      "personId": 39391,
+      "character": "Haitian Cabbie",
+      "order": 7
+    },
+    {
+      "personId": 77870,
+      "character": "Hospital Doctor",
+      "order": 8
+    },
+    {
+      "personId": 962169,
+      "character": "Alex",
+      "order": 9
+    },
+    {
+      "personId": 91387,
+      "character": "Don Kim",
+      "order": 10
+    },
+    {
+      "personId": 1212687,
+      "character": "Chocolate",
+      "order": 11
+    },
+    {
+      "personId": 123102,
+      "character": "Arab Cabbie",
+      "order": 12
+    },
+    {
+      "personId": 1310647,
+      "character": "Man in Garage",
+      "order": 13
+    },
+    {
+      "personId": 1260146,
+      "character": "Sin City Brother",
+      "order": 14
+    },
+    {
+      "personId": 62735,
+      "character": "Convenience Store Clerk",
+      "order": 15
+    },
+    {
+      "personId": 1874839,
+      "character": "Verona Crew #1",
+      "order": 16
+    },
+    {
+      "personId": 1502956,
+      "character": "Verona Crew #2",
+      "order": 17
+    },
+    {
+      "personId": 1197372,
+      "character": "Verona Crew #3",
+      "order": 18
+    },
+    {
+      "personId": 1874841,
+      "character": "Hightower",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 4442,
+  "sources": [
+    "cult-list"
+  ]
+}

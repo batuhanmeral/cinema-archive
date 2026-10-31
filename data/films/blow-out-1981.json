@@ -1,0 +1,202 @@
+{
+  "tmdbId": 11644,
+  "slug": "blow-out-1981",
+  "year": 1981,
+  "runtime": 108,
+  "originalTitle": "Blow Out",
+  "title": {
+    "en": "Blow Out",
+    "tr": "Patlama"
+  },
+  "overview": {
+    "en": "While recording sound effects for a slasher flick, Jack Terry stumbles upon a real-life horror: a car careening off a bridge and into a river. Jack jumps into the water and fishes out Sally from the car, but the other passenger is already dead — a governor intending to run for president. As Jack does some investigating of his tapes, and starts a perilous romance with Sally, he enters a tangled web of conspiracy that might leave him dead.",
+    "tr": "ir araba kazasıyla ortaya çıkan korkunç gerçekler! Jack Terri, yetenekli bir ses teknisyenidir. Hayatını korku filmleri için eşsiz sesler kaydederek kazanmaktadır, fakat bir gün elinde olmadan içinde başkan adayının bulunduğu ve hayatını kaybettiği bir otomobil kazasının sesini kayda alır. Aynı otomobilde başkan adayının genç ve güzel metresi Sally de vardır ve ağır yaralanmıştır. Jack bir anda kendini, filmlerini aratmayacak kadar gizemli ve korku dolu bir hayatın içinde bulur. Çok yakında Jack ve Sally'den sadece biri hayatta kalacaktır çünkü bu skandal tıpkı bir şok dalgası gibi hükümetin üst düzeylerini de etkileyecektir."
+  },
+  "poster": {
+    "tr": "/uFzMscVLDrTaYd6KXOXlr6dly7w.jpg",
+    "en": "/weMW1wLzeagP3tw6BfmYf1iL7dz.jpg"
+  },
+  "backdrops": [
+    "/nk87CtgZ7wd86W37oJHGYAJbmLz.jpg",
+    "/x0hbNwcFSzA7dIDrOjzMoP8i9b2.jpg",
+    "/jdnEzsmTrgU8palNlXXMdrU4SiE.jpg",
+    "/weoSUhUfrkNwy2oBs6IdWcUsl1m.jpg",
+    "/ifzYnajGFWIJ6ljeSeHYeSGIOu6.jpg",
+    "/2O9oc1Y5B1ex8h7SrCJNyytAgzv.jpg",
+    "/AfxFpYlShi1pjMjTzkDZs9ugMBq.jpg",
+    "/pTn3YkWSw1MKy21C6dpIhSjqN8M.jpg",
+    "/sYNeULrfxMecMBvvAUIEKTVnmtS.jpg",
+    "/r1WBbezHCmoRcLaMfn4zzSGJgsq.jpg"
+  ],
+  "trailerKey": "rDve1A5EAvk",
+  "genreIds": [
+    80,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    276,
+    2708,
+    2946,
+    6078,
+    2380,
+    2340,
+    6151,
+    4881,
+    10410,
+    11335,
+    12570,
+    13063,
+    154901,
+    189430,
+    207268,
+    209817,
+    267160,
+    291153,
+    361094
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Cinema 77",
+    "Geria Productions",
+    "George Litto Productions"
+  ],
+  "crew": [
+    {
+      "personId": 14138,
+      "job": "composer"
+    },
+    {
+      "personId": 67877,
+      "job": "producer"
+    },
+    {
+      "personId": 1150,
+      "job": "director"
+    },
+    {
+      "personId": 12235,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1150,
+      "job": "writer"
+    },
+    {
+      "personId": 73516,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 8891,
+      "character": "Jack Terry",
+      "order": 0
+    },
+    {
+      "personId": 44038,
+      "character": "Sally Badina",
+      "order": 1
+    },
+    {
+      "personId": 12074,
+      "character": "Burke",
+      "order": 2
+    },
+    {
+      "personId": 11901,
+      "character": "Manny Karp",
+      "order": 3
+    },
+    {
+      "personId": 73513,
+      "character": "Sam",
+      "order": 4
+    },
+    {
+      "personId": 73515,
+      "character": "Det. Mackey",
+      "order": 5
+    },
+    {
+      "personId": 13728,
+      "character": "Lawrence Henry",
+      "order": 6
+    },
+    {
+      "personId": 22107,
+      "character": "Hooker",
+      "order": 7
+    },
+    {
+      "personId": 12439,
+      "character": "Detective at Hospital",
+      "order": 8
+    },
+    {
+      "personId": 174653,
+      "character": "Coed Lover",
+      "order": 9
+    },
+    {
+      "personId": 1117284,
+      "character": "Coed Lover",
+      "order": 10
+    },
+    {
+      "personId": 73514,
+      "character": "Donahue",
+      "order": 11
+    },
+    {
+      "personId": 197399,
+      "character": "Sue",
+      "order": 12
+    },
+    {
+      "personId": 1344729,
+      "character": "Girl Lover",
+      "order": 13
+    },
+    {
+      "personId": 1345867,
+      "character": "Boy Lover",
+      "order": 14
+    },
+    {
+      "personId": 1209900,
+      "character": "Train Passenger",
+      "order": 15
+    },
+    {
+      "personId": 1793542,
+      "character": "Dancing Coed",
+      "order": 16
+    },
+    {
+      "personId": 555067,
+      "character": "Dancing Coed",
+      "order": 17
+    },
+    {
+      "personId": 2298215,
+      "character": "Ecstatic Coed",
+      "order": 18
+    },
+    {
+      "personId": 2298216,
+      "character": "Studious Coed",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1798,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "tmdbId": 78,
+  "slug": "blade-runner-1982",
+  "year": 1982,
+  "runtime": 118,
+  "originalTitle": "Blade Runner",
+  "title": {
+    "en": "Blade Runner",
+    "tr": "Bıçak Sırtı"
+  },
+  "overview": {
+    "en": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
+    "tr": "2019'un dumanla boğuşan distopik Los Angeles'ında, kısa ömürlerini uzatmanın bir yolunu bulmak için yaratıcılarını arayarak Dünya'ya kaçan birkaç Replicant'ı yok etmek için Rick Deckard emeklilikten çağrılır."
+  },
+  "poster": {
+    "tr": "/8VGASxEyFErWwEXDbyEKX9lKntZ.jpg",
+    "en": "/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg"
+  },
+  "backdrops": [
+    "/eIi3klFf7mp3oL5EEF4mLIDs26r.jpg",
+    "/wfQTVBIQj1wJUe0jV3OZ4zOivIO.jpg",
+    "/qr7dUqleMRd0VgollazbmyP9XjI.jpg",
+    "/c8iM9ipgkZNDSyfQYNSKBB7ORaG.jpg",
+    "/hJ5R9d6QuH3tzr8L8neZZTuzNXm.jpg",
+    "/cFZRtb1Q4whERknfYtj7Fjsvxpg.jpg",
+    "/s2zFcsLxnsu94T3iPq16Wv0i7Nz.jpg",
+    "/mgEa0PnoEICKcphLKiYcpIxhaJT.jpg",
+    "/2spEHYDcyE9r9mS7AFEscfKVDzO.jpg",
+    "/nVvixN2c5ZsDz8Foici2Zfvi7jS.jpg"
+  ],
+  "trailerKey": "qoEyZoOTtss",
+  "genreIds": [
+    878,
+    18,
+    53
+  ],
+  "keywordIds": [
+    803,
+    391,
+    801,
+    310,
+    6017,
+    818,
+    4565,
+    9685,
+    10718,
+    12190,
+    12670,
+    33457,
+    156189,
+    163227,
+    178657,
+    202647,
+    207268,
+    210162,
+    215131,
+    220903,
+    233512,
+    257783,
+    314730,
+    325761,
+    325811,
+    369049
+  ],
+  "countries": [
+    "US",
+    "HK",
+    "GB"
+  ],
+  "languages": [
+    "en",
+    "de",
+    "cn",
+    "ja",
+    "hu"
+  ],
+  "studios": [
+    "Shaw Brothers",
+    "The Ladd Company",
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 581,
+      "job": "producer"
+    },
+    {
+      "personId": 578,
+      "job": "director"
+    },
+    {
+      "personId": 594,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7191,
+      "job": "writer"
+    },
+    {
+      "personId": 583,
+      "job": "writer"
+    },
+    {
+      "personId": 595,
+      "job": "composer"
+    },
+    {
+      "personId": 21918,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3,
+      "character": "Deckard",
+      "order": 0
+    },
+    {
+      "personId": 585,
+      "character": "Batty",
+      "order": 1
+    },
+    {
+      "personId": 586,
+      "character": "Rachael",
+      "order": 2
+    },
+    {
+      "personId": 587,
+      "character": "Gaff",
+      "order": 3
+    },
+    {
+      "personId": 588,
+      "character": "Bryant",
+      "order": 4
+    },
+    {
+      "personId": 589,
+      "character": "Pris",
+      "order": 5
+    },
+    {
+      "personId": 590,
+      "character": "Sebastian",
+      "order": 6
+    },
+    {
+      "personId": 591,
+      "character": "Leon",
+      "order": 7
+    },
+    {
+      "personId": 592,
+      "character": "Tyrell",
+      "order": 8
+    },
+    {
+      "personId": 593,
+      "character": "Zhora",
+      "order": 9
+    },
+    {
+      "personId": 20904,
+      "character": "Chew",
+      "order": 10
+    },
+    {
+      "personId": 58495,
+      "character": "Holden",
+      "order": 11
+    },
+    {
+      "personId": 53760,
+      "character": "Bear",
+      "order": 12
+    },
+    {
+      "personId": 943481,
+      "character": "Kaiser",
+      "order": 13
+    },
+    {
+      "personId": 107074,
+      "character": "Taffey Lewis",
+      "order": 14
+    },
+    {
+      "personId": 951333,
+      "character": "Cambodian Lady",
+      "order": 15
+    },
+    {
+      "personId": 1221198,
+      "character": "Sushi Master",
+      "order": 16
+    },
+    {
+      "personId": 949610,
+      "character": "Saleslady",
+      "order": 17
+    },
+    {
+      "personId": 112965,
+      "character": "Abdul Ben Hassan",
+      "order": 18
+    },
+    {
+      "personId": 1198993,
+      "character": "Showgirl (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "bafta": 2
+  },
+  "voteCount": 15571,
+  "sources": [
+    "cult-list"
+  ]
+}

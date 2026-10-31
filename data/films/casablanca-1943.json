@@ -1,0 +1,207 @@
+{
+  "tmdbId": 289,
+  "slug": "casablanca-1943",
+  "year": 1943,
+  "runtime": 102,
+  "originalTitle": "Casablanca",
+  "title": {
+    "en": "Casablanca",
+    "tr": "Kazablanka"
+  },
+  "overview": {
+    "en": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+    "tr": "İkinci dünya savaşında çok direnişli örgütün lideri Victor Lazlow Alman konsantrsayonu kampından kaçarak Casablanca'ya gelir. Amacı Lizbon'a oradanda ABD'ye iltica etmektir. Fakat bütün umutları şans eseri Casablanca'nın en meşhur gece kulübünün sahibi olan Rick'e bağlamıştır. Rick kaçış için gerekli olan pasaportlara sahib olan tek kişidir. Öte yandan Ricky'in Victor'un yakalanması ya da öldürülmesi için gerekli nedeni vardır. Victor'un karısı Ilsa Ricky bir zamanlar kendisini terk ettiğine inandığı ve kalbinin derinliklerine gömdüğü büyük aşkıdır."
+  },
+  "poster": {
+    "tr": "/LYOxIeQ1SsSjGQ4c4saBaQdYTJ.jpg",
+    "en": "/l8pgzdhSP7yb4emKDx4Lh8vXwGX.jpg"
+  },
+  "backdrops": [
+    "/bln0pnieTax3KrEpG5ZjN3fi1sw.jpg",
+    "/87wqeMeUeMRLjsE1IWNKJcPlpuC.jpg",
+    "/rrsG3xYrWifoduZtsIZ4ntoDfBY.jpg",
+    "/sylXi9qVR7pgBkqyFiDHdhWKuo9.jpg",
+    "/wOfzdzC0QZyhUIlyjeMuUYSb8Ax.jpg",
+    "/lruHzoBv0ZTEgC43rs9g9aEjJPI.jpg",
+    "/lddKOCOu6EaQBllJpqxuWOgvpVq.jpg",
+    "/j65IzG43eBm44ogNiryioRcsba2.jpg",
+    "/vbn6fWNsAXMcrN7umvgJgxr8Isn.jpg",
+    "/nPJWEg7Qbg92Ta3IzFLrfiTIOna.jpg"
+  ],
+  "trailerKey": "MF7JH_54d8c",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    417,
+    2652,
+    10685,
+    128,
+    836,
+    470,
+    1627,
+    1623,
+    1624,
+    1626,
+    1628,
+    1956,
+    1629,
+    9807,
+    12999,
+    273967,
+    309029,
+    324429
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "de",
+    "fr",
+    "it",
+    "en"
+  ],
+  "studios": [
+    "Warner Bros. Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 4109,
+      "job": "director"
+    },
+    {
+      "personId": 4123,
+      "job": "producer"
+    },
+    {
+      "personId": 3249,
+      "job": "composer"
+    },
+    {
+      "personId": 2005,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2665,
+      "job": "writer"
+    },
+    {
+      "personId": 2666,
+      "job": "writer"
+    },
+    {
+      "personId": 4508,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4110,
+      "character": "Rick Blaine",
+      "order": 0
+    },
+    {
+      "personId": 4111,
+      "character": "Ilsa Lund",
+      "order": 1
+    },
+    {
+      "personId": 4112,
+      "character": "Victor Laszlo",
+      "order": 2
+    },
+    {
+      "personId": 4113,
+      "character": "Captain Louis Renault",
+      "order": 3
+    },
+    {
+      "personId": 3001,
+      "character": "Major Heinrich Strasser",
+      "order": 4
+    },
+    {
+      "personId": 4114,
+      "character": "Signor Ferrari",
+      "order": 5
+    },
+    {
+      "personId": 2094,
+      "character": "Ugarte",
+      "order": 6
+    },
+    {
+      "personId": 94110,
+      "character": "Carl",
+      "order": 7
+    },
+    {
+      "personId": 4116,
+      "character": "Yvonne",
+      "order": 8
+    },
+    {
+      "personId": 4117,
+      "character": "Sam",
+      "order": 9
+    },
+    {
+      "personId": 4118,
+      "character": "Annina Brandel",
+      "order": 10
+    },
+    {
+      "personId": 4119,
+      "character": "Berger",
+      "order": 11
+    },
+    {
+      "personId": 4120,
+      "character": "Sascha",
+      "order": 12
+    },
+    {
+      "personId": 2313,
+      "character": "Pickpocket",
+      "order": 13
+    },
+    {
+      "personId": 1406724,
+      "character": "Arab (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1331750,
+      "character": "Guest at Rick's (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 121320,
+      "character": "Bar Patron (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 2540426,
+      "character": "French Soldier / Singer (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1224787,
+      "character": "Refugee at Rick's (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1331753,
+      "character": "Overseer (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 3
+  },
+  "voteCount": 6306,
+  "sources": [
+    "cult-list"
+  ]
+}

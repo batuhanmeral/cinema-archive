@@ -1,0 +1,206 @@
+{
+  "tmdbId": 8337,
+  "slug": "they-live-1988",
+  "year": 1988,
+  "runtime": 93,
+  "originalTitle": "They Live",
+  "title": {
+    "en": "They Live",
+    "tr": "Yaşıyorlar"
+  },
+  "overview": {
+    "en": "A lone drifter stumbles upon a unique pair of sunglasses that reveal aliens are systematically gaining control of the Earth by masquerading as humans and lulling the public into submission.",
+    "tr": "Yakın gelecek... İnsanlık büyük bir kaos içinde... Hayatını sürdürebilmek için yolu büyük şehre düşen John NADA adındaki kasabalı bir işçi, korkunç bir keşif yapar: Tüm Dünya, başka bir boyuttan gelen ve beyinleri kontrol edebilen insan formundaki uzaylılar tarafından istila edilmiştir! Bu korkunç istilayı önlemek için Nada'nın sahip olduğu silahlar, sadece bir makineli tüfek ve özel güneş gözlükleridir! Acaba Nada, uzaylıların yayın istasyonunu durdurabilecek ve onların gerçek kimliklerini ortaya çıkarabilecek midir? Büyük usta John CARPENTER'dan, artık bir klasik olmuş gerilim/bilim-kurgu türünde karamsar bir gelecek tablosu..."
+  },
+  "poster": {
+    "tr": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg",
+    "en": "/ngnybFTuopfbfmmEeX9jjBQQmF6.jpg"
+  },
+  "backdrops": [
+    "/bwyLycDaQdS3rS4crpbYssYLJRy.jpg",
+    "/3k2DQBryXzaL7DoAtu6veWWluwt.jpg",
+    "/ybQY0GgRrSx8hvH97MxOydQlfp1.jpg",
+    "/mq37KmVnHaB6MpAx1uiKBrVDrxG.jpg",
+    "/faWmnpDRoG0Yv9NLKOFtLro6qMq.jpg",
+    "/sEeBP3ap9dvsKsHRcuSYQMXd0vi.jpg",
+    "/1LId2EdDPRfxGjdJxjCYB2QjxLx.jpg",
+    "/heV82ASGEoAvhF3SWEUvzHh6k66.jpg",
+    "/hMqx9wh4f3D3RTOHVteA41FcU3J.jpg",
+    "/9A88UHYxHzDMCmdrVm1NJVBAaY5.jpg"
+  ],
+  "trailerKey": "vSVQ975eTBI",
+  "genreIds": [
+    878,
+    28,
+    53
+  ],
+  "keywordIds": [
+    592,
+    4565,
+    9990,
+    9951,
+    11479,
+    12670,
+    14909,
+    15208,
+    15211,
+    41405,
+    174244,
+    202371,
+    210434,
+    212737,
+    249732,
+    273439,
+    298530,
+    309974,
+    320420,
+    323141,
+    325811,
+    337327,
+    342626,
+    359767
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Alive Films",
+    "Larry Franco Productions"
+  ],
+  "crew": [
+    {
+      "personId": 11770,
+      "job": "director"
+    },
+    {
+      "personId": 11770,
+      "job": "writer"
+    },
+    {
+      "personId": 511,
+      "job": "producer"
+    },
+    {
+      "personId": 11770,
+      "job": "composer"
+    },
+    {
+      "personId": 15445,
+      "job": "composer"
+    },
+    {
+      "personId": 24956,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 44240,
+      "character": "John Nada",
+      "order": 0
+    },
+    {
+      "personId": 65827,
+      "character": "Frank Armitage",
+      "order": 1
+    },
+    {
+      "personId": 41229,
+      "character": "Holly Thompsen",
+      "order": 2
+    },
+    {
+      "personId": 54564,
+      "character": "Drifter",
+      "order": 3
+    },
+    {
+      "personId": 6916,
+      "character": "Gilbert",
+      "order": 4
+    },
+    {
+      "personId": 54565,
+      "character": "Street Preacher",
+      "order": 5
+    },
+    {
+      "personId": 1172156,
+      "character": "Family Man",
+      "order": 6
+    },
+    {
+      "personId": 86345,
+      "character": "Bearded Man",
+      "order": 7
+    },
+    {
+      "personId": 104059,
+      "character": "Brown Haired Woman",
+      "order": 8
+    },
+    {
+      "personId": 58623,
+      "character": "Black Revolutionary",
+      "order": 9
+    },
+    {
+      "personId": 1485654,
+      "character": "Family Man's Daughter",
+      "order": 10
+    },
+    {
+      "personId": 1485655,
+      "character": "Female Interviewer",
+      "order": 11
+    },
+    {
+      "personId": 158986,
+      "character": "Ingenue",
+      "order": 12
+    },
+    {
+      "personId": 7139,
+      "character": "Foreman",
+      "order": 13
+    },
+    {
+      "personId": 1485656,
+      "character": "Black Junkie",
+      "order": 14
+    },
+    {
+      "personId": 52622,
+      "character": "Well Dressed Customer",
+      "order": 15
+    },
+    {
+      "personId": 95805,
+      "character": "Vendor",
+      "order": 16
+    },
+    {
+      "personId": 1485657,
+      "character": "Rich Lady",
+      "order": 17
+    },
+    {
+      "personId": 1190889,
+      "character": "Depressed Human",
+      "order": 18
+    },
+    {
+      "personId": 1485658,
+      "character": "Arab Clerk",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3713,
+  "sources": [
+    "cult-list"
+  ]
+}

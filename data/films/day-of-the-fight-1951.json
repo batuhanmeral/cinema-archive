@@ -1,0 +1,112 @@
+{
+  "tmdbId": 45966,
+  "slug": "day-of-the-fight-1951",
+  "year": 1951,
+  "runtime": 13,
+  "originalTitle": "Day of the Fight",
+  "title": {
+    "en": "Day of the Fight",
+    "tr": "Day of the Fight"
+  },
+  "overview": {
+    "en": "Stanley Kubrick’s debut documentary, following Irish-American middleweight boxer Walter Cartier on April 17, 1950—the day of his bout with Bobby James. The film traces Cartier’s quiet morning rituals, training, and anxious hours before the match, culminating in his swift victory that night in Newark. Opening with a brief history of boxing, Kubrick’s tightly crafted short captures the discipline, isolation, and tension behind a fighter’s daily routine.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/7OEwDK1Fdz8R7Xo9cDWANjiz7vH.jpg",
+    "en": "/4caX3IZkf7n2QCbxaJO3hyn0SCm.jpg"
+  },
+  "backdrops": [
+    "/lt1Lan9bmG29JjqaMad5tkRpCHJ.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    586,
+    2792,
+    7375,
+    18396,
+    209476,
+    263548
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "RKO Radio Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 240,
+      "job": "director"
+    },
+    {
+      "personId": 240,
+      "job": "producer"
+    },
+    {
+      "personId": 240,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3350,
+      "job": "composer"
+    },
+    {
+      "personId": 228938,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 134299,
+      "character": "Self, Walter's twin brother and manager",
+      "order": 0
+    },
+    {
+      "personId": 134308,
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "personId": 134309,
+      "character": "Self, boxing historian",
+      "order": 2
+    },
+    {
+      "personId": 134310,
+      "character": "Self, Walter's opponent",
+      "order": 3
+    },
+    {
+      "personId": 134314,
+      "character": "Self, female fan in crowd (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 240,
+      "character": "Self (man at ringside with camera) (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 39759,
+      "character": "Self",
+      "order": 6
+    },
+    {
+      "personId": 1242953,
+      "character": "Narrator",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 179,
+  "sources": [
+    "cult-list"
+  ]
+}

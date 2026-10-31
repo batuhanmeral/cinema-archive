@@ -1,0 +1,222 @@
+{
+  "tmdbId": 18,
+  "slug": "the-fifth-element-1997",
+  "year": 1997,
+  "runtime": 126,
+  "originalTitle": "Le Cinquième Élément",
+  "title": {
+    "en": "The Fifth Element",
+    "tr": "Beşinci Güç"
+  },
+  "overview": {
+    "en": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
+    "tr": "23. yüzyılda New York. Dünya yok olmanın eşiğindedir. Her 5000 yılda bir geri dönerek yaşamı yok etmeye çalışan şeytani güç, bir gezegen biçiminde hızla dünyaya yaklaşmaktadır. Tek kurtuluş beşinci güç olarak adlandırılan, kimsenin ne olduğunu bilmediği elementin dünyaya ulaşmasıdır.Bunu başaracak tek kişi eski bir asker olan taksi şoförü Korben Dallas'dır. Ancak onun ilgilenmesi gereken mükemmel güzellikte bir yaratık vardır."
+  },
+  "poster": {
+    "tr": "/Q2sXW0nceeGhJNRfB6X3oVYzG0.jpg",
+    "en": "/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg"
+  },
+  "backdrops": [
+    "/dwN0kPGrLbFRxyL3F3J3t4ShQx.jpg",
+    "/wgvc3PmjQGtYYDWaeuV867mnFDs.jpg",
+    "/bx1W729hyWQqNQoiq9LsX30FBf.jpg",
+    "/te8612S3Ln7pNNO1sSy8SQMx4y1.jpg",
+    "/jW21PoKwqs79wk6bfiYezox63mK.jpg",
+    "/cwBMFjJpTIGWoVwK192NlOXNAr8.jpg",
+    "/cjFFNmp9ZXzxjvRR2ADxtKvQhyQ.jpg",
+    "/xM3Skp43605TuoynmQ1tKjTMCHN.jpg",
+    "/8a35VAcLRNk7YMCM0gcqnIQPGIq.jpg",
+    "/iY0Wcjnaicd2vsrNqli5sMvqgRg.jpg"
+  ],
+  "trailerKey": "5Sg2RkdkSvk",
+  "genreIds": [
+    878,
+    28,
+    12
+  ],
+  "keywordIds": [
+    242,
+    391,
+    444,
+    1160,
+    4776,
+    83,
+    679,
+    4565,
+    2095,
+    3622,
+    3801,
+    4238,
+    6163,
+    4862,
+    10150,
+    10093,
+    10950,
+    11148,
+    11290,
+    12190,
+    41586,
+    161176,
+    162365,
+    164920,
+    214715,
+    229863,
+    234630,
+    248516,
+    252937,
+    269233,
+    298517,
+    320420
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "sv",
+    "de"
+  ],
+  "studios": [
+    "Gaumont"
+  ],
+  "crew": [
+    {
+      "personId": 60,
+      "job": "producer"
+    },
+    {
+      "personId": 61,
+      "job": "writer"
+    },
+    {
+      "personId": 59,
+      "job": "director"
+    },
+    {
+      "personId": 997,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 59,
+      "job": "writer"
+    },
+    {
+      "personId": 1440850,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 996,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62,
+      "character": "Korben Dallas",
+      "order": 0
+    },
+    {
+      "personId": 63,
+      "character": "Leeloo",
+      "order": 1
+    },
+    {
+      "personId": 64,
+      "character": "Zorg",
+      "order": 2
+    },
+    {
+      "personId": 65,
+      "character": "Cornelius",
+      "order": 3
+    },
+    {
+      "personId": 66,
+      "character": "Ruby Rhod",
+      "order": 4
+    },
+    {
+      "personId": 8395,
+      "character": "Billy",
+      "order": 5
+    },
+    {
+      "personId": 591,
+      "character": "General Munro",
+      "order": 6
+    },
+    {
+      "personId": 8396,
+      "character": "President Lindberg",
+      "order": 7
+    },
+    {
+      "personId": 7400,
+      "character": "Fog",
+      "order": 8
+    },
+    {
+      "personId": 8397,
+      "character": "David",
+      "order": 9
+    },
+    {
+      "personId": 183500,
+      "character": "Right Arm",
+      "order": 10
+    },
+    {
+      "personId": 12642,
+      "character": "General Staedert",
+      "order": 11
+    },
+    {
+      "personId": 8398,
+      "character": "Professor Pacoli",
+      "order": 12
+    },
+    {
+      "personId": 2406,
+      "character": "Mugger",
+      "order": 13
+    },
+    {
+      "personId": 8399,
+      "character": "Mactilburgh",
+      "order": 14
+    },
+    {
+      "personId": 8400,
+      "character": "Thai",
+      "order": 15
+    },
+    {
+      "personId": 16792,
+      "character": "Neighbour",
+      "order": 16
+    },
+    {
+      "personId": 28897,
+      "character": "Major Iceborg",
+      "order": 17
+    },
+    {
+      "personId": 10208,
+      "character": "General Tudor",
+      "order": 18
+    },
+    {
+      "personId": 64210,
+      "character": "Diva",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "bafta": 1,
+    "cesar": 3
+  },
+  "voteCount": 12300,
+  "sources": [
+    "cult-list"
+  ]
+}

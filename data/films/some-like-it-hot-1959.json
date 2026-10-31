@@ -1,0 +1,208 @@
+{
+  "tmdbId": 239,
+  "slug": "some-like-it-hot-1959",
+  "year": 1959,
+  "runtime": 123,
+  "originalTitle": "Some Like It Hot",
+  "title": {
+    "en": "Some Like It Hot",
+    "tr": "Bazıları Sıcak Sever"
+  },
+  "overview": {
+    "en": "In Prohibition-era Chicago, musicians Joe and Jerry witness a mob hit, and flee the state in an all-female band disguised as Josephine and Daphne, but further complications set in.",
+    "tr": "İki işsiz komedyen Joe ve Jerry, tesadüfen mafyanın sevgililer gününde yaptığı bir katliama tanık olurlar. Arkasında şahit bırakmak istemeyen gangsterler ikilinin peşine düşer. Canlarını kurtarmak için yollara düşen ikili, Miami'ye turneye gitmekte olan ve tamamı kadınlardan oluşan bir müzik grubuna katılırlar.  Kadın kılığında grupla yola çıkarlar ancak her ikisi de grubun solisti sarışın bomba Sugar Kane'e aşık olurlar ancak kimlikleri ortaya çıkmasın diye güzel kadına karşı duygularını belli edememektedirler. Bunun üzerine Joe, üçüncü bir kimlik yaratarak utangaç bir milyoner olarak Kane'e yaklaşmayı dener. Öte yandan Jerry'nin de başı, kadın kimliğine aşık olan bir milyonerle derttedir."
+  },
+  "poster": {
+    "tr": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
+    "en": "/hVIKyTK13AvOGv7ICmJjK44DTzp.jpg"
+  },
+  "backdrops": [
+    "/5zTwAcnI3zCJ0mucPPnoBtkSWEV.jpg",
+    "/iSbhQqeDnkvFuP7QWwy0qeX0LYy.jpg",
+    "/sv2VnbZmgy2rkrtkA2nz7rzH0VK.jpg",
+    "/m7v4Qi1y7UFgMZn2sIWoTXDpYSu.jpg",
+    "/jhtwnfqmzcrqIRu27uuNpePkBvD.jpg",
+    "/eKNZWRWmP3Cx4RbPDFJDD07lsZR.jpg",
+    "/87POTfBxNhis9eLCa5NBFLZyuSC.jpg",
+    "/qA2bcyQ2mi3jKLOxQlzx0aZtuo2.jpg",
+    "/23mz2x1JIjZ95xP5qcjEUITPc5U.jpg",
+    "/7034kJknAf9EWhDQUK0naHLJwjh.jpg"
+  ],
+  "trailerKey": "97TYs2YXbJw",
+  "genreIds": [
+    35,
+    10749,
+    80
+  ],
+  "keywordIds": [
+    520,
+    1196,
+    108,
+    4048,
+    3864,
+    9758,
+    10562,
+    10391,
+    12090,
+    12999,
+    13008,
+    15155,
+    15214,
+    155457,
+    160395,
+    160396,
+    160397,
+    160404,
+    170827,
+    175208,
+    186915,
+    217140,
+    320205,
+    325782,
+    354081
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The Mirisch Company"
+  ],
+  "crew": [
+    {
+      "personId": 3146,
+      "job": "director"
+    },
+    {
+      "personId": 3146,
+      "job": "producer"
+    },
+    {
+      "personId": 3148,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3146,
+      "job": "writer"
+    },
+    {
+      "personId": 4100,
+      "job": "composer"
+    },
+    {
+      "personId": 3147,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3150,
+      "character": "Joe (Josephine)",
+      "order": 0
+    },
+    {
+      "personId": 3151,
+      "character": "Jerry (Daphne)",
+      "order": 1
+    },
+    {
+      "personId": 3149,
+      "character": "Sugar Kane Kowalczyk",
+      "order": 2
+    },
+    {
+      "personId": 3152,
+      "character": "Spats Colombo",
+      "order": 3
+    },
+    {
+      "personId": 3155,
+      "character": "Detective Mulligan",
+      "order": 4
+    },
+    {
+      "personId": 3156,
+      "character": "Osgood Fielding III",
+      "order": 5
+    },
+    {
+      "personId": 3160,
+      "character": "Little Bonaparte",
+      "order": 6
+    },
+    {
+      "personId": 3161,
+      "character": "Sweet Sue",
+      "order": 7
+    },
+    {
+      "personId": 1700403,
+      "character": "Sig Poliakoff",
+      "order": 8
+    },
+    {
+      "personId": 3163,
+      "character": "Toothpick Charlie",
+      "order": 9
+    },
+    {
+      "personId": 1238851,
+      "character": "Beinstock",
+      "order": 10
+    },
+    {
+      "personId": 84229,
+      "character": "Spats' Henchman",
+      "order": 11
+    },
+    {
+      "personId": 1045763,
+      "character": "Spats' Henchman",
+      "order": 12
+    },
+    {
+      "personId": 164975,
+      "character": "Dolores",
+      "order": 13
+    },
+    {
+      "personId": 3168,
+      "character": "Nellie",
+      "order": 14
+    },
+    {
+      "personId": 81501,
+      "character": "Johnny Paradise",
+      "order": 15
+    },
+    {
+      "personId": 1344987,
+      "character": "Band Member (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 4258167,
+      "character": "Band Member (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1358269,
+      "character": "Band Member (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2501534,
+      "character": "Bellhop (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 4041,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "tmdbId": 1378,
+  "slug": "shortbus-2006",
+  "year": 2006,
+  "runtime": 101,
+  "originalTitle": "Shortbus",
+  "title": {
+    "en": "Shortbus",
+    "tr": "Shortbus"
+  },
+  "overview": {
+    "en": "In post-9/11 New York City, an eclectic group of citizens find their lives entangled, personally, romantically, and sexually, at Shortbus, an underground Brooklyn salon infamous for its blend of art, music, politics, and carnality.",
+    "tr": "Bir çok New York'lu, exclusive club olan Shortbus'a sex yaşamlarındaki problemlere çözüm bulabilmek amacıyla gelmektedir. Rob ve Sophia çok mutlu bir çifttir fakat Sophia hayatında hiç orgazmı yaşamamıştır. Bu ironik durum onun peşini iş yaşamında da bırakmaz çünkü kendisi bir çift danışmanıdır ve bu tür sorunları kendi hastalarında da görmektedir. Hastalarından ikisi, Jamie ve James, 5 senedir birbirlerine sadık kalabilmiş bir gay çifttir. Fakat James artık bu ilişkiye başka erkekleri de katmak istemektedir. Ceth bu aileye katılabilecek çok uygun bir insandır; fakat caddenin diğer tarafında oturan röntgenci Caleb'in bu konudaki düşünceleri çok daha farklıdır. Jamie'lerin kışkırtmasıyla Sophie, Severin'i ziyaret eder. Tüm çiftleri Shortbus Club'da ilginç deneyimler beklemektedir."
+  },
+  "poster": {
+    "tr": "/s8QBrWgpZpYrySSyTQ0xbFLPKrS.jpg",
+    "en": "/s8QBrWgpZpYrySSyTQ0xbFLPKrS.jpg"
+  },
+  "backdrops": [
+    "/oOGKH94nhD2cd4AzQJUKCm5IQyZ.jpg",
+    "/a9VOWosINcLNJQb3hNZAqEShVTM.jpg",
+    "/qxMUkWgC1SidDDXtM6LApFWEJto.jpg",
+    "/yalwebZiz5GFOMUOob8chL5qE2Y.jpg",
+    "/wS7nQdqKeOtnSSKIOmPVWNO9pkJ.jpg",
+    "/iVROuoiS2KW4hS3cYfAosixpVhZ.jpg",
+    "/oTK6OFdoaeKBX9wJHjjSuPQMy7N.jpg",
+    "/iufGUnZYpytgOLIQc48FQAq5VdI.jpg",
+    "/7aDkDHzaUuTcPjA0iScNlLtVC2A.jpg",
+    "/bshrWL5c1rwp4XKfxYyecC1Iv0O.jpg"
+  ],
+  "trailerKey": "txkMNU6wnak",
+  "genreIds": [
+    10749,
+    35,
+    18
+  ],
+  "keywordIds": [
+    242,
+    460,
+    463,
+    571,
+    1252,
+    1664,
+    3201,
+    2426,
+    3456,
+    7089,
+    10180,
+    155870,
+    158713,
+    158718,
+    258533,
+    282903,
+    369770
+  ],
+  "countries": [
+    "US",
+    "NL"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Fortissimo Films",
+    "Q Television",
+    "Process Productions"
+  ],
+  "crew": [
+    {
+      "personId": 17114,
+      "job": "director"
+    },
+    {
+      "personId": 17114,
+      "job": "writer"
+    },
+    {
+      "personId": 19758,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 17114,
+      "job": "producer"
+    },
+    {
+      "personId": 1076672,
+      "job": "composer"
+    },
+    {
+      "personId": 25500,
+      "job": "producer"
+    },
+    {
+      "personId": 25501,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19766,
+      "character": "Sofia",
+      "order": 0
+    },
+    {
+      "personId": 19764,
+      "character": "James",
+      "order": 1
+    },
+    {
+      "personId": 19762,
+      "character": "Jamie",
+      "order": 2
+    },
+    {
+      "personId": 19761,
+      "character": "Severin",
+      "order": 3
+    },
+    {
+      "personId": 19760,
+      "character": "Ceth",
+      "order": 4
+    },
+    {
+      "personId": 19763,
+      "character": "Rob",
+      "order": 5
+    },
+    {
+      "personId": 36545,
+      "character": "Jesse",
+      "order": 6
+    },
+    {
+      "personId": 19765,
+      "character": "Caleb",
+      "order": 7
+    },
+    {
+      "personId": 36546,
+      "character": "Tobias, the Mayor",
+      "order": 8
+    },
+    {
+      "personId": 36548,
+      "character": "Creamy",
+      "order": 9
+    },
+    {
+      "personId": 3541,
+      "character": "Jacuzzi Hunter",
+      "order": 10
+    },
+    {
+      "personId": 1437482,
+      "character": "Jacuzzi Hunted",
+      "order": 11
+    },
+    {
+      "personId": 55959,
+      "character": "Dead Man in the Jacuzzi",
+      "order": 12
+    },
+    {
+      "personId": 36554,
+      "character": "Ann, Our Lady of the Gutter",
+      "order": 13
+    },
+    {
+      "personId": 36542,
+      "character": "Leah",
+      "order": 14
+    },
+    {
+      "personId": 36547,
+      "character": "Nick",
+      "order": 15
+    },
+    {
+      "personId": 36563,
+      "character": "Mx Justin Vivian Bond",
+      "order": 16
+    },
+    {
+      "personId": 36543,
+      "character": "Dr. Donut",
+      "order": 17
+    },
+    {
+      "personId": 1788931,
+      "character": "Murray Hill",
+      "order": 18
+    },
+    {
+      "personId": 2553958,
+      "character": "Sex-Not-Bombs Room D.J.",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 617,
+  "sources": [
+    "cult-list"
+  ]
+}

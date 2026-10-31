@@ -1,0 +1,188 @@
+{
+  "tmdbId": 1893,
+  "slug": "star-wars-episode-i-the-phantom-menace-1999",
+  "year": 1999,
+  "runtime": 136,
+  "originalTitle": "Star Wars: Episode I - The Phantom Menace",
+  "title": {
+    "en": "Star Wars: Episode I - The Phantom Menace",
+    "tr": "Yıldız Savaşları: Bölüm I - Gizli Tehlike"
+  },
+  "overview": {
+    "en": "Anakin Skywalker, a young slave strong with the Force, is discovered on Tatooine. Meanwhile, the evil Sith have returned, enacting their plot for revenge against the Jedi.",
+    "tr": "Yıldız Savaşları: Bölüm I - Gizli Tehlike'de Anakin Skywalker'ın yolculuğundaki ilk önemli adımlarına eşlik edin. Kraliçe Amidala'yı Naboo gezegeninin işgalinden kurtardıktan sonra çöl gezegen Tatooine'e iniş yapan Jedi Ustası Qui-Gon Jinn ve öğrencisi Jedi Obi-Wan Kenobi, güç yönünden olağanüstü yeteneğe sahip 9 yaşındaki genç köle Anakin Skywalker'ı keşfeder. Anakin, heyecanlı bir mücadelenin ardından Pod Yarışı'nı kazanır ve ödül olarak özgürlüğünü alarak Jedi eğitimi almak için evini terk eder. Kahramanlarımız Naboo gezegenine dönerler. Anakin ve Kraliçe büyük işgal kuvvetleriyle uğraşırken iki Jedi, Darth Maul adlı ölümcül düşmanla mücadele eder. Daha sonra anlaşılacaktır ki bu işgal tekrar ortaya çıkan ve Sith olarak bilinen karanlık güçlerin uğursuz planının yalnızca ilk adımıdır."
+  },
+  "poster": {
+    "tr": "/oHVjAucv1yMPIxwBX6WvEMNJvTj.jpg",
+    "en": "/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg"
+  },
+  "backdrops": [
+    "/5fu7fzy4NZTsL1Jap00UBIInAuB.jpg",
+    "/wDe8LzwuvHYYiuwyNfxdYQq8ti4.jpg",
+    "/fpEYSEpbPAQMppYRyRA66EZoWCX.jpg",
+    "/aTXhYyxx23AGWAqrkrs1fNGhgSO.jpg",
+    "/dhkztgCspLkl1bKTdX9lR81PAPG.jpg",
+    "/lpz6V7q0IxUQI1Ia6xENuc66zF5.jpg",
+    "/a8SBSwSGcF6JvymKPjegDGrxOo2.jpg",
+    "/8MynmjcKSvGdcxjVwsx3TWwOTBa.jpg",
+    "/9r4IRZUJ564J38EcLRPM9uUZlVp.jpg",
+    "/qDEvctVfAheD7x9Rzz8xcFRAGAU.jpg"
+  ],
+  "trailerKey": "J3kyYFHdRsM",
+  "genreIds": [
+    12,
+    28,
+    878
+  ],
+  "keywordIds": [
+    4270,
+    1399,
+    2063,
+    530,
+    2011,
+    4488,
+    6128,
+    9675,
+    161176,
+    325761,
+    371623
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Lucasfilm Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 6800,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 19801,
+      "job": "producer"
+    },
+    {
+      "personId": 1,
+      "job": "director"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 1,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3896,
+      "character": "Qui-Gon Jinn",
+      "order": 0
+    },
+    {
+      "personId": 3061,
+      "character": "Obi-Wan Kenobi",
+      "order": 1
+    },
+    {
+      "personId": 524,
+      "character": "Padmé Amidala",
+      "order": 2
+    },
+    {
+      "personId": 33196,
+      "character": "Anakin Skywalker",
+      "order": 3
+    },
+    {
+      "personId": 27762,
+      "character": "Senator Palpatine",
+      "order": 4
+    },
+    {
+      "personId": 33190,
+      "character": "Shmi Skywalker",
+      "order": 5
+    },
+    {
+      "personId": 31923,
+      "character": "Governor Sio Bibble",
+      "order": 6
+    },
+    {
+      "personId": 31925,
+      "character": "Captain Panaka",
+      "order": 7
+    },
+    {
+      "personId": 33197,
+      "character": "Jar Jar Binks",
+      "order": 8
+    },
+    {
+      "personId": 6,
+      "character": "C-3PO (voice)",
+      "order": 9
+    },
+    {
+      "personId": 130,
+      "character": "R2-D2",
+      "order": 10
+    },
+    {
+      "personId": 7908,
+      "character": "Yoda (voice)",
+      "order": 11
+    },
+    {
+      "personId": 28641,
+      "character": "Chancellor Valorum",
+      "order": 12
+    },
+    {
+      "personId": 8318,
+      "character": "Boss Nass (voice)",
+      "order": 13
+    },
+    {
+      "personId": 33198,
+      "character": "Watto (voice)",
+      "order": 14
+    },
+    {
+      "personId": 11007,
+      "character": "Darth Maul",
+      "order": 15
+    },
+    {
+      "personId": 1074722,
+      "character": "Sebulba (voice)",
+      "order": 16
+    },
+    {
+      "personId": 11184,
+      "character": "Wald / Pod race spectator / Mos Espa Citizen",
+      "order": 17
+    },
+    {
+      "personId": 25441,
+      "character": "Captain Tarpals",
+      "order": 18
+    },
+    {
+      "personId": 20806,
+      "character": "Nute Gunray / Ki-Adi-Mundi / Lott Dodd / Republic Cruiser Pilot",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 16375,
+  "sources": [
+    "cult-list"
+  ]
+}

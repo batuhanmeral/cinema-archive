@@ -1,0 +1,181 @@
+{
+  "tmdbId": 26811,
+  "slug": "dr-terror-s-house-of-horrors-1965",
+  "year": 1965,
+  "runtime": 98,
+  "originalTitle": "Dr. Terror's House of Horrors",
+  "title": {
+    "en": "Dr. Terror's House of Horrors",
+    "tr": "Dr. Terror's House of Horrors"
+  },
+  "overview": {
+    "en": "Five train passengers are joined by a mysterious fortuneteller who offers to read Tarot. A quintet of stories unfold: an architect returns to his ancestral home to find a vengeful werewolf; a doctor suspects his new wife is a vampire; an intelligent vine takes over a house; a jazz musician plagiarises music from a voodoo ceremony; and a pompous art critic is pursued by a disembodied hand.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ccQtFSAGievlTYpuS88PCTHzLu7.jpg",
+    "en": "/ccQtFSAGievlTYpuS88PCTHzLu7.jpg"
+  },
+  "backdrops": [
+    "/cIVYC9J2iuMpFFuVzBaibsUzhGP.jpg",
+    "/lX9j2uDbhJONuhQqUFjcRPQB6Ja.jpg",
+    "/fFPLEFpD7FAphs1X9L3CaY2moLv.jpg",
+    "/qT1INs8fmdAWprwlTkPnwuu3gmS.jpg",
+    "/2pe939DYDaWSYeQx9xgLAgJMFgO.jpg",
+    "/5zOGFTFMwwtmHErfwyCmebzRFMi.jpg",
+    "/ub992adfZBMADaYpDev6lqS96m3.jpg",
+    "/8KPZomcui2csOyAR2QRBQd3cG5K.jpg",
+    "/aEVhu1Z1SCauLuYzO2yKTvcFeWg.jpg",
+    "/x63WDNaNjSy4gHJQW6EYeRSjiaf.jpg"
+  ],
+  "trailerKey": "sHgrprYdsJg",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    9706,
+    178259
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Amicus Productions"
+  ],
+  "crew": [
+    {
+      "personId": 5629,
+      "job": "director"
+    },
+    {
+      "personId": 90077,
+      "job": "writer"
+    },
+    {
+      "personId": 30169,
+      "job": "producer"
+    },
+    {
+      "personId": 90077,
+      "job": "producer"
+    },
+    {
+      "personId": 588901,
+      "job": "composer"
+    },
+    {
+      "personId": 8934,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5,
+      "character": "Dr. Sandor Schreck aka \"Dr. Terror\"",
+      "order": 0
+    },
+    {
+      "personId": 113,
+      "character": "Franklyn Marsh",
+      "order": 1
+    },
+    {
+      "personId": 83754,
+      "character": "Biff Bailey",
+      "order": 2
+    },
+    {
+      "personId": 1108271,
+      "character": "Bill Rogers",
+      "order": 3
+    },
+    {
+      "personId": 55636,
+      "character": "Bob Carroll",
+      "order": 4
+    },
+    {
+      "personId": 131109,
+      "character": "Jim Dawson",
+      "order": 5
+    },
+    {
+      "personId": 9874,
+      "character": "Hopkins (segment 2 \"Creeping Vine\")",
+      "order": 6
+    },
+    {
+      "personId": 199919,
+      "character": "Caleb (segment 1 \"Werewolf\")",
+      "order": 7
+    },
+    {
+      "personId": 122922,
+      "character": "Mrs. Deirdre Biddulph (segment 1 \"Werewolf\")",
+      "order": 8
+    },
+    {
+      "personId": 30673,
+      "character": "Valda (segment 1 \"Werewolf\")",
+      "order": 9
+    },
+    {
+      "personId": 89208,
+      "character": "Tod (segment 1 \"Werewolf\")",
+      "order": 10
+    },
+    {
+      "personId": 106995,
+      "character": "Ann Rogers (segment \"Creeping Vine\")",
+      "order": 11
+    },
+    {
+      "personId": 55037,
+      "character": "Jerry Drake (segment 2 \"Creeping Vine\")",
+      "order": 12
+    },
+    {
+      "personId": 3930,
+      "character": "Carol Rogers (segment 2 \"Creeping Vine\")",
+      "order": 13
+    },
+    {
+      "personId": 575450,
+      "character": "Sammy Coin (segment 3 \"Voodoo\")",
+      "order": 14
+    },
+    {
+      "personId": 92010,
+      "character": "Roy Shine (segment 3 \"Voodoo\")",
+      "order": 15
+    },
+    {
+      "personId": 199899,
+      "character": "Vrim (segment 3 \"Voodoo\")",
+      "order": 16
+    },
+    {
+      "personId": 77312,
+      "character": "Dr. Blake (segment 5 \"Vampire\")",
+      "order": 17
+    },
+    {
+      "personId": 106996,
+      "character": "Nicolle (segment 5 \"Vampire\")",
+      "order": 18
+    },
+    {
+      "personId": 3796,
+      "character": "Eric Landor (segment 4 \"Disembodied Hand\")",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 203,
+  "sources": [
+    "cult-list"
+  ]
+}

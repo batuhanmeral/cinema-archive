@@ -1,0 +1,188 @@
+{
+  "tmdbId": 10896,
+  "slug": "tin-men-1987",
+  "year": 1987,
+  "runtime": 112,
+  "originalTitle": "Tin Men",
+  "title": {
+    "en": "Tin Men",
+    "tr": "Sahtekarlar"
+  },
+  "overview": {
+    "en": "A minor car accident drives two rival aluminum-siding salesmen to the ridiculous extremes of man versus man in 1963 Baltimore.",
+    "tr": "Ernest Tilley ve Bill \"BB\" Babowsky, 1963'te Baltimore, Maryland'de kapı kapı dolaşan rakip alüminyum dış cephe kaplama satıcılarıdır. BB, satış konuşmalarıyla saf ve çekici genç kadınları dolandıran, düzgün konuşan bir dolandırıcıyken, Tilley bahtsız bir kaybedendir."
+  },
+  "poster": {
+    "tr": "/5rWE9ft0Uc2kuDWlkg5vQth58XZ.jpg",
+    "en": "/rbeQ0aHasvnzcD8yXtBJpgSctlp.jpg"
+  },
+  "backdrops": [
+    "/A3NklJi0P1tx9d05NZstJVmL5JS.jpg",
+    "/wW5YuGLTAlPn81udbByeBjn4p4M.jpg",
+    "/sfamulM50frtyj33KOmKc8qGJjF.jpg"
+  ],
+  "trailerKey": "ajetxCpdwbY",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    6054,
+    271,
+    6062,
+    2672,
+    9823,
+    11454,
+    13063,
+    194228,
+    208992,
+    268283
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Silver Screen Partners II",
+    "Touchstone Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 11958,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8246,
+      "job": "director"
+    },
+    {
+      "personId": 2416205,
+      "job": "composer"
+    },
+    {
+      "personId": 8246,
+      "job": "writer"
+    },
+    {
+      "personId": 2416206,
+      "job": "composer"
+    },
+    {
+      "personId": 185224,
+      "job": "composer"
+    },
+    {
+      "personId": 5162,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3037,
+      "character": "Bill 'BB' Babowsky",
+      "order": 0
+    },
+    {
+      "personId": 518,
+      "character": "Ernest Tilley",
+      "order": 1
+    },
+    {
+      "personId": 10767,
+      "character": "Nora Tilley",
+      "order": 2
+    },
+    {
+      "personId": 4251,
+      "character": "Moe Adams",
+      "order": 3
+    },
+    {
+      "personId": 167823,
+      "character": "Sam",
+      "order": 4
+    },
+    {
+      "personId": 157444,
+      "character": "Gil",
+      "order": 5
+    },
+    {
+      "personId": 5950,
+      "character": "Cheese",
+      "order": 6
+    },
+    {
+      "personId": 9257,
+      "character": "Mouse",
+      "order": 7
+    },
+    {
+      "personId": 22131,
+      "character": "Wing",
+      "order": 8
+    },
+    {
+      "personId": 4255,
+      "character": "Carly",
+      "order": 9
+    },
+    {
+      "personId": 13525,
+      "character": "Looney",
+      "order": 10
+    },
+    {
+      "personId": 22053,
+      "character": "Stanley",
+      "order": 11
+    },
+    {
+      "personId": 1274,
+      "character": "Masters",
+      "order": 12
+    },
+    {
+      "personId": 56695,
+      "character": "Bagel",
+      "order": 13
+    },
+    {
+      "personId": 77013,
+      "character": "Nellie",
+      "order": 14
+    },
+    {
+      "personId": 2766796,
+      "character": "Ada",
+      "order": 15
+    },
+    {
+      "personId": 171351,
+      "character": "Mr. Shubner",
+      "order": 16
+    },
+    {
+      "personId": 2766797,
+      "character": "Mrs. Shubner",
+      "order": 17
+    },
+    {
+      "personId": 1224618,
+      "character": "Suburban Housewife",
+      "order": 18
+    },
+    {
+      "personId": 1181585,
+      "character": "Suburban Husband",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 147,
+  "sources": [
+    "cult-list"
+  ]
+}

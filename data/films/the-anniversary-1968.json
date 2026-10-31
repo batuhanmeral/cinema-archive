@@ -1,0 +1,119 @@
+{
+  "tmdbId": 58293,
+  "slug": "the-anniversary-1968",
+  "year": 1968,
+  "runtime": 95,
+  "originalTitle": "The Anniversary",
+  "title": {
+    "en": "The Anniversary",
+    "tr": "The Anniversary"
+  },
+  "overview": {
+    "en": "Mrs Taggart always celebrates her anniversary with her grown sons. It’s a tradition practised since the death of her husband and she is determined for it to continue. None of her three sons have dared to cross their ruthless domineering mother but this anniversary they intend to try. With cruel and brutal twists, the family get-together becomes a social nightmare beyond endurance.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/g5VFZLUhhqkJa5Qo0Wh3pxN7qkR.jpg",
+    "en": "/g5VFZLUhhqkJa5Qo0Wh3pxN7qkR.jpg"
+  },
+  "backdrops": [
+    "/sq7Q3jKNo2Z8byxWNOmK4k2OTvt.jpg"
+  ],
+  "trailerKey": "HYT8GiD1sa4",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    2887
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Hammer Film Productions",
+    "Seven Arts Productions"
+  ],
+  "crew": [
+    {
+      "personId": 30700,
+      "job": "writer"
+    },
+    {
+      "personId": 83135,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30700,
+      "job": "producer"
+    },
+    {
+      "personId": 26134,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3380,
+      "character": "Mrs. Taggart",
+      "order": 0
+    },
+    {
+      "personId": 93839,
+      "character": "Karen Taggart",
+      "order": 1
+    },
+    {
+      "personId": 10507,
+      "character": "Terry Taggart",
+      "order": 2
+    },
+    {
+      "personId": 33109,
+      "character": "Henry Taggart",
+      "order": 3
+    },
+    {
+      "personId": 134234,
+      "character": "Tom Taggart",
+      "order": 4
+    },
+    {
+      "personId": 240217,
+      "character": "Shirley Blair",
+      "order": 5
+    },
+    {
+      "personId": 3548,
+      "character": "Mr. Bird",
+      "order": 6
+    },
+    {
+      "personId": 213984,
+      "character": "Florist",
+      "order": 7
+    },
+    {
+      "personId": 117300,
+      "character": "Headwaiter",
+      "order": 8
+    },
+    {
+      "personId": 2012942,
+      "character": "Construction Worker",
+      "order": 9
+    },
+    {
+      "personId": 1220375,
+      "character": "Construction Worker",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 45,
+  "sources": [
+    "cult-list"
+  ]
+}

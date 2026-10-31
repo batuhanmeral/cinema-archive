@@ -1,0 +1,195 @@
+{
+  "tmdbId": 2649,
+  "slug": "the-game-1997",
+  "year": 1997,
+  "runtime": 129,
+  "originalTitle": "The Game",
+  "title": {
+    "en": "The Game",
+    "tr": "Oyun"
+  },
+  "overview": {
+    "en": "In honor of his birthday, San Francisco banker Nicholas Van Orton, a financial genius and a cold-hearted loner, receives an unusual present from his younger brother, Conrad: a gift certificate to play a unique kind of game. In nary a nanosecond, Nicholas finds himself consumed by a dangerous set of ever-changing rules, unable to distinguish where the charade ends and reality begins.",
+    "tr": "Nicholas Van Orton hem iş hem de özel hayatında kontrolü elinde tutmaya alışkın, zeki ve başarılı bir işadamıdır. Bu düzenli hayatı, kardeşi Conrad'ın ona verdiği alışıldığın dışındaki doğumgünü hediyesi ile köklü değişikliklere uğrayacaktır. Artık bir ölüm kalımsavaşı başlamıştır."
+  },
+  "poster": {
+    "tr": "/8ujzXZBOYCWdMWyYNT2B9OxUNlI.jpg",
+    "en": "/4UOa079915QjiTA2u5hT2yKVgUu.jpg"
+  },
+  "backdrops": [
+    "/k7GM13qRYSour3lk90Dq1EwdpoW.jpg",
+    "/b2s8QpoY5J0sGHYBF7GrhNfQi6K.jpg",
+    "/sjNXaMPWOH47VEtvE77BqUzHatB.jpg",
+    "/lwtyEltOqeCNVkryfRmuXCgLX0.jpg",
+    "/jn76WKxahB6Mzh55kURAB5HaPfs.jpg",
+    "/p2LmzeniRoG7O6lgZAeNxywYTvS.jpg",
+    "/3Y9TU6iA0jIq1HfVM7KVHs8y7cj.jpg",
+    "/kKGsABSgBpT6mo2qULrPyWzzrAT.jpg",
+    "/23utco3SQsZWnbPy8zFdUgTsS3y.jpg",
+    "/mBnceKVcUPmg7WP3F70uU5Wi5mI.jpg"
+  ],
+  "trailerKey": "DnhDqMJcKZ4",
+  "genreIds": [
+    18,
+    53,
+    9648
+  ],
+  "keywordIds": [
+    582,
+    2887,
+    3883,
+    9228,
+    190703,
+    298530,
+    325777
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "cn",
+    "de",
+    "en"
+  ],
+  "studios": [
+    "PolyGram Filmed Entertainment",
+    "Propaganda Films"
+  ],
+  "crew": [
+    {
+      "personId": 10688,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 322,
+      "job": "producer"
+    },
+    {
+      "personId": 117,
+      "job": "composer"
+    },
+    {
+      "personId": 7475,
+      "job": "producer"
+    },
+    {
+      "personId": 7215,
+      "job": "writer"
+    },
+    {
+      "personId": 7467,
+      "job": "director"
+    },
+    {
+      "personId": 7214,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3392,
+      "character": "Nicholas Van Orton",
+      "order": 0
+    },
+    {
+      "personId": 2228,
+      "character": "Conrad Van Orton",
+      "order": 1
+    },
+    {
+      "personId": 13549,
+      "character": "Christine",
+      "order": 2
+    },
+    {
+      "personId": 8986,
+      "character": "Jim Feingold",
+      "order": 3
+    },
+    {
+      "personId": 14849,
+      "character": "Samuel Sutherland",
+      "order": 4
+    },
+    {
+      "personId": 14701,
+      "character": "Ilsa",
+      "order": 5
+    },
+    {
+      "personId": 27570,
+      "character": "Elizabeth",
+      "order": 6
+    },
+    {
+      "personId": 12647,
+      "character": "Anson Baer",
+      "order": 7
+    },
+    {
+      "personId": 176340,
+      "character": "Nicholas' Father",
+      "order": 8
+    },
+    {
+      "personId": 1075080,
+      "character": "Young Nicholas",
+      "order": 9
+    },
+    {
+      "personId": 1075081,
+      "character": "Nicholas' Mother",
+      "order": 10
+    },
+    {
+      "personId": 154954,
+      "character": "Maria",
+      "order": 11
+    },
+    {
+      "personId": 178446,
+      "character": "Maggie",
+      "order": 12
+    },
+    {
+      "personId": 553720,
+      "character": "Daniel Schorr",
+      "order": 13
+    },
+    {
+      "personId": 104504,
+      "character": "Power Executive",
+      "order": 14
+    },
+    {
+      "personId": 51931,
+      "character": "Obsequious Executive",
+      "order": 15
+    },
+    {
+      "personId": 65397,
+      "character": "Cynthia, CRS Receptionist",
+      "order": 16
+    },
+    {
+      "personId": 1615294,
+      "character": "CRS Data Collating Technician",
+      "order": 17
+    },
+    {
+      "personId": 2724317,
+      "character": "James the Bartender",
+      "order": 18
+    },
+    {
+      "personId": 19468,
+      "character": "New Member Ted",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 7692,
+  "sources": [
+    "cult-list"
+  ]
+}

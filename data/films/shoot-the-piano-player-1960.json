@@ -1,0 +1,162 @@
+{
+  "tmdbId": 1818,
+  "slug": "shoot-the-piano-player-1960",
+  "year": 1960,
+  "runtime": 85,
+  "originalTitle": "Tirez sur le pianiste",
+  "title": {
+    "en": "Shoot the Piano Player",
+    "tr": "Piyanisti Vurun"
+  },
+  "overview": {
+    "en": "Charlie is a former classical pianist who has changed his name and now plays jazz in a grimy Paris bar. When Charlie's brothers, Richard and Chico, surface and ask for Charlie's help while on the run from gangsters they have scammed, he aids their escape. Soon Charlie and Lena, a waitress at the same bar, face trouble when the gangsters arrive, looking for his brothers.",
+    "tr": "Charlie, barlarda piyano çalarak hayatını kazanmaya çalışan bir piyanisttir. En büyük sorunlarından biri mafyayla başı derde giren kardeşi Chico'dur.  Kardeşini bu belalı adamlardan kurtarmak için ona yardım eden Charlie, bu sefer de kendisini büyük bir belaya bulaştırır. Kardeşine yardım etmesinden dolayı, bu sefer de mafyanın kendi peşine düşmesi ile sıkı bir mücadelenin içine girer.  Bu mücadelede ona en çok desek veren de piyano çaldığı barda çalışan Lena'dır. Lena'nın Charlie'ye duyduğu büyük aşk, tüm tehlikelerine rağmen sevdiği adamın yanında olmasını sağlar. İkilinin gittikçe artan yakınlaşması ile Charlie'nin geçmişi hakkındaki bazı gerçekler de ortaya çıkacaktır. Charlie, acaba gerçekten Charlie değil midir?"
+  },
+  "poster": {
+    "tr": "/6UhMIZaaoe2HUU7sEIwYpuYgugh.jpg",
+    "en": "/9hFy8LJshKYvW5vzguEhvgphIHJ.jpg"
+  },
+  "backdrops": [
+    "/kgAZX0WXLuK6YYQ6lKN2UdF1Tho.jpg",
+    "/pLPPdxjsP0GxhGKCwVYxtgSkWSj.jpg",
+    "/myyeO9NegSII4RCfiwdpt0VVsKZ.jpg",
+    "/8QtTFhpFgzjXcSyqJNwTPS6xDRL.jpg",
+    "/ppJKTfhYAg5yXkSiwIqD6zNhrpt.jpg",
+    "/ajJA4IPcz94vzwjvDBq2XN6RH5M.jpg",
+    "/8Zlrrk16iuyE8PX3YcHOqlDi8kz.jpg",
+    "/nqVsZqZVMz0HZQxooc2EIw1TwYg.jpg",
+    "/j85qLprN58SbG2E6zWVvyMSXTvl.jpg",
+    "/6Ou0bj4swZiVnyB0dgwHERHDzlL.jpg"
+  ],
+  "trailerKey": "wCq3Q2jUg20",
+  "genreIds": [
+    18,
+    53,
+    80
+  ],
+  "keywordIds": [
+    818,
+    1416,
+    3017,
+    5823,
+    10291,
+    12999,
+    14743,
+    155845,
+    207268
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Les Films de la Pléiade"
+  ],
+  "crew": [
+    {
+      "personId": 1650,
+      "job": "director"
+    },
+    {
+      "personId": 18196,
+      "job": "producer"
+    },
+    {
+      "personId": 3535,
+      "job": "composer"
+    },
+    {
+      "personId": 3540,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10268,
+      "character": "Charlie Kohler/Edouard Saroyan",
+      "order": 0
+    },
+    {
+      "personId": 18218,
+      "character": "Léna",
+      "order": 1
+    },
+    {
+      "personId": 19269,
+      "character": "Thérèse Saroyan",
+      "order": 2
+    },
+    {
+      "personId": 19270,
+      "character": "Clarisse",
+      "order": 3
+    },
+    {
+      "personId": 148302,
+      "character": "Plyne",
+      "order": 4
+    },
+    {
+      "personId": 3834,
+      "character": "Momo",
+      "order": 5
+    },
+    {
+      "personId": 150939,
+      "character": "Fido Saroyan",
+      "order": 6
+    },
+    {
+      "personId": 1655,
+      "character": "Chico Saroyan",
+      "order": 7
+    },
+    {
+      "personId": 1533137,
+      "character": "Richard Saroyan",
+      "order": 8
+    },
+    {
+      "personId": 3573,
+      "character": "Ernest",
+      "order": 9
+    },
+    {
+      "personId": 1010125,
+      "character": "Lars Schmeel",
+      "order": 10
+    },
+    {
+      "personId": 545469,
+      "character": "Passerby",
+      "order": 11
+    },
+    {
+      "personId": 32323,
+      "character": "Le chanteur",
+      "order": 12
+    },
+    {
+      "personId": 3514,
+      "character": "Mammy",
+      "order": 13
+    },
+    {
+      "personId": 1004633,
+      "character": "La mère (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 39331,
+      "character": "Concierge (uncredited)",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 461,
+  "sources": [
+    "cult-list"
+  ]
+}

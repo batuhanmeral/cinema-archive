@@ -1,0 +1,212 @@
+{
+  "tmdbId": 7512,
+  "slug": "idiocracy-2006",
+  "year": 2006,
+  "runtime": 85,
+  "originalTitle": "Idiocracy",
+  "title": {
+    "en": "Idiocracy",
+    "tr": "Ahmaklar"
+  },
+  "overview": {
+    "en": "To test its top-secret Human Hibernation Project, the Pentagon picks the most average European-Americans it can find - an Army private and a prostitute - and sends them to the year 2505 after a series of freak events. But when they arrive, they find a civilization so dumbed-down that they're the smartest people around.",
+    "tr": "Sıradan bir Amerikalı gibi görünen asker Joe Bauers, Amerikan hükümeti tarafından yürütülen özel bir proje kapsamında uyutulur. Ancak uyutulduğu yerde unutulan kahramanımız, 500 yıl sonra uyandığında toplumun fazlasıyla değiştiğini görecektir. Tümüyle aptallaşan insanlardan kurulu bu yeni toplumda, o artık ‘en akıllı’ kişidir."
+  },
+  "poster": {
+    "tr": "/kiXM03WDBDd5i5iGdHP6Y5KDYSg.jpg",
+    "en": "/q7sn0A3BkBxvzdwVFOGmJGE2vF8.jpg"
+  },
+  "backdrops": [
+    "/9Z4msMhKvNp63sOB1ZvxPMPvqz3.jpg",
+    "/tIGN7t3Pav9lNEmIeuR3tOo0Rzn.jpg",
+    "/knSZnOkXBIbHG7N72UBIIVN9GH2.jpg",
+    "/RAEXzAweARriJaSKLWLJqJgHMv.jpg",
+    "/1RbxsL6o1Zf6Vsqeg4qaFOB1da8.jpg",
+    "/5jMZLhLzUsQRQZjyuIRCgtWWJOk.jpg",
+    "/jGsxSy9pMmVZfIxkJK3UdmBFPHF.jpg",
+    "/p5zxHf6iIalU0vofyv9lYUel2ol.jpg",
+    "/xmNRJyb1bRY9cWBaetx4pezMWNy.jpg"
+  ],
+  "trailerKey": "clYwX8Z43zg",
+  "genreIds": [
+    35,
+    878,
+    12,
+    53
+  ],
+  "keywordIds": [
+    2964,
+    6092,
+    549,
+    840,
+    1705,
+    1706,
+    1395,
+    592,
+    4565,
+    10123,
+    6567,
+    6241,
+    7151,
+    11514,
+    12400,
+    18420,
+    33451,
+    33483,
+    164124,
+    179430,
+    201069,
+    210434,
+    233155,
+    264597,
+    266753,
+    320420
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox",
+    "Ternion Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 17403,
+      "job": "director"
+    },
+    {
+      "personId": 17403,
+      "job": "writer"
+    },
+    {
+      "personId": 52803,
+      "job": "writer"
+    },
+    {
+      "personId": 17403,
+      "job": "producer"
+    },
+    {
+      "personId": 52804,
+      "job": "producer"
+    },
+    {
+      "personId": 10572,
+      "job": "composer"
+    },
+    {
+      "personId": 17146,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 36422,
+      "character": "Joe Bauers",
+      "order": 0
+    },
+    {
+      "personId": 52792,
+      "character": "Rita",
+      "order": 1
+    },
+    {
+      "personId": 51298,
+      "character": "Frito",
+      "order": 2
+    },
+    {
+      "personId": 53256,
+      "character": "President Camacho",
+      "order": 3
+    },
+    {
+      "personId": 52793,
+      "character": "Secretary of Defense",
+      "order": 4
+    },
+    {
+      "personId": 52794,
+      "character": "Secretary of State",
+      "order": 5
+    },
+    {
+      "personId": 52795,
+      "character": "Prosecutor",
+      "order": 6
+    },
+    {
+      "personId": 52796,
+      "character": "Bailiff",
+      "order": 7
+    },
+    {
+      "personId": 52797,
+      "character": "Sgt. Keller",
+      "order": 8
+    },
+    {
+      "personId": 182680,
+      "character": "Officer Collins",
+      "order": 9
+    },
+    {
+      "personId": 52798,
+      "character": "Hospital Technician",
+      "order": 10
+    },
+    {
+      "personId": 15033,
+      "character": "Doctor",
+      "order": 11
+    },
+    {
+      "personId": 2533354,
+      "character": "Cop #1",
+      "order": 12
+    },
+    {
+      "personId": 52800,
+      "character": "Horny Guy",
+      "order": 13
+    },
+    {
+      "personId": 52801,
+      "character": "Yuppie Husband",
+      "order": 14
+    },
+    {
+      "personId": 21005,
+      "character": "Yuppie Wife",
+      "order": 15
+    },
+    {
+      "personId": 52802,
+      "character": "Trashy Guy",
+      "order": 16
+    },
+    {
+      "personId": 1375020,
+      "character": "Slutty Girl",
+      "order": 17
+    },
+    {
+      "personId": 1375021,
+      "character": "New Slutty Girl",
+      "order": 18
+    },
+    {
+      "personId": 1375022,
+      "character": "Trashy Teen Jock",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3902,
+  "sources": [
+    "cult-list"
+  ]
+}

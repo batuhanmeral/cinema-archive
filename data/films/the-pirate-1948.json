@@ -1,0 +1,193 @@
+{
+  "tmdbId": 35032,
+  "slug": "the-pirate-1948",
+  "year": 1948,
+  "runtime": 102,
+  "originalTitle": "The Pirate",
+  "title": {
+    "en": "The Pirate",
+    "tr": "Korsan Aşkı"
+  },
+  "overview": {
+    "en": "A girl is engaged to the local richman, but meanwhile she has dreams about the legendary pirate Macoco. A traveling singer falls in love with her and to impress her he poses as the pirate.",
+    "tr": "Bir kız, yerel zengin bir adamla nişanlıdır, ancak bu arada efsanevi korsan Macoco ile ilgili rüyalar görmektedir. Gezgin bir şarkıcı kıza aşık olur ve onu etkilemek için korsan kılığına girer."
+  },
+  "poster": {
+    "tr": "/ltoy9asHYuLcEq78jjvZPjH6LCG.jpg",
+    "en": "/nGD98jlpvCy0rD2md2UOK8PtFQy.jpg"
+  },
+  "backdrops": [
+    "/2muSlCu6jJ3Rk6YqVlsMccgY5Ah.jpg",
+    "/nYAWpmsmoX9FrTinl9y75r75Q.jpg",
+    "/is0qmdw71jQzkIo6QrrHBtMH5wb.jpg",
+    "/sqDk8JjOPO4eJSdKqHCBYlQuDsp.jpg",
+    "/kAUfMIst47qmZ9S4DtOpdDsDWAd.jpg",
+    "/e3Pt4HJtApq9CyNMtOokuGwNm7a.jpg",
+    "/rsmPnrjgKbc6vaspsseMePBQAL8.jpg",
+    "/6RO0tB6LxdeaIt0CjqW9U2ZeV7B.jpg",
+    "/yJVIcCRHep9JdJrl58vkGceqEQe.jpg",
+    "/a0vzNdUVxRcNW9LPFp8sldPldZH.jpg"
+  ],
+  "trailerKey": "_2Un-4TJHlg",
+  "genreIds": [
+    10402,
+    10749,
+    35,
+    12
+  ],
+  "keywordIds": [
+    4344,
+    12988,
+    157186
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer"
+  ],
+  "crew": [
+    {
+      "personId": 13980,
+      "job": "director"
+    },
+    {
+      "personId": 9055,
+      "job": "producer"
+    },
+    {
+      "personId": 10537,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 26160,
+      "job": "writer"
+    },
+    {
+      "personId": 26159,
+      "job": "writer"
+    },
+    {
+      "personId": 95665,
+      "job": "composer"
+    },
+    {
+      "personId": 554823,
+      "job": "composer"
+    },
+    {
+      "personId": 69394,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9066,
+      "character": "Manuela Alva",
+      "order": 0
+    },
+    {
+      "personId": 13294,
+      "character": "Serafin",
+      "order": 1
+    },
+    {
+      "personId": 37884,
+      "character": "Don Pedro Vargas",
+      "order": 2
+    },
+    {
+      "personId": 3366,
+      "character": "Aunt Inez",
+      "order": 3
+    },
+    {
+      "personId": 5832,
+      "character": "The Advocate",
+      "order": 4
+    },
+    {
+      "personId": 30417,
+      "character": "The Viceroy",
+      "order": 5
+    },
+    {
+      "personId": 1005050,
+      "character": "Performer",
+      "order": 6
+    },
+    {
+      "personId": 103934,
+      "character": "Performer",
+      "order": 7
+    },
+    {
+      "personId": 114371,
+      "character": "Uncle Capucho",
+      "order": 8
+    },
+    {
+      "personId": 83442,
+      "character": "Isabella",
+      "order": 9
+    },
+    {
+      "personId": 1508012,
+      "character": "Mercedes",
+      "order": 10
+    },
+    {
+      "personId": 1508013,
+      "character": "Lizarda",
+      "order": 11
+    },
+    {
+      "personId": 995471,
+      "character": "Casilda",
+      "order": 12
+    },
+    {
+      "personId": 2120617,
+      "character": "Eloise",
+      "order": 13
+    },
+    {
+      "personId": 167926,
+      "character": "Gumbo",
+      "order": 14
+    },
+    {
+      "personId": 1046244,
+      "character": "Bolo",
+      "order": 15
+    },
+    {
+      "personId": 1669750,
+      "character": "Juggler",
+      "order": 16
+    },
+    {
+      "personId": 165738,
+      "character": "Trillo",
+      "order": 17
+    },
+    {
+      "personId": 114402,
+      "character": "Official (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 3340,
+      "character": "Madame Lucia (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 111,
+  "sources": [
+    "cult-list"
+  ]
+}

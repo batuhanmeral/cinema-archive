@@ -1,0 +1,124 @@
+{
+  "tmdbId": 74831,
+  "slug": "the-devil-s-wedding-night-1973",
+  "year": 1973,
+  "runtime": 83,
+  "originalTitle": "Il plenilunio delle vergini",
+  "title": {
+    "en": "The Devil's Wedding Night",
+    "tr": "Il plenilunio delle vergini"
+  },
+  "overview": {
+    "en": "The 1800s: scholarly Karl Schiller believes he's found the ring of the Nibelungen, which holds great power. It's at Castle Dracula. His twin, Franz, a gambler, asks if vampires frighten Karl; Karl shows him an Egyptian amulet, which may protect him. Franz takes the amulet and sets out ahead of his brother, arriving at the castle first. There he finds a countess who invites him to dine. Later that night, Karl arrives. Coincidently, it's the Night of the Virgin Moon, a night that falls every fifty years and draws five virgins from the surrounding village to the castle not be heard from again. Can Karl protect his brother, find the ring, and rescue any of the women?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/7dXtC1zkssrvQSo25u9muvoGrns.jpg",
+    "en": "/7dXtC1zkssrvQSo25u9muvoGrns.jpg"
+  },
+  "backdrops": [
+    "/hDNwmi99YyGupHaXsgenIuKwQU5.jpg",
+    "/k4N3D83vEXuScC1zxz1rhkZDaJT.jpg",
+    "/kbrO0YXt17HVj46TIQJvw6idXSB.jpg",
+    "/lFnfKWwPIAaDsNBGIRwv7TnnsXD.jpg"
+  ],
+  "trailerKey": "RtvAA1M59xQ",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    3133,
+    5155
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Virginia Cinematografica"
+  ],
+  "crew": [
+    {
+      "personId": 31775,
+      "job": "director"
+    },
+    {
+      "personId": 102063,
+      "job": "director"
+    },
+    {
+      "personId": 31775,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6890,
+      "job": "writer"
+    },
+    {
+      "personId": 89277,
+      "job": "writer"
+    },
+    {
+      "personId": 574030,
+      "job": "writer"
+    },
+    {
+      "personId": 1127101,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6890,
+      "character": "Karl Schiller/Franz Schiller",
+      "order": 0
+    },
+    {
+      "personId": 30664,
+      "character": "La Contessa Dolingen de Vries (as Sara Bay)",
+      "order": 1
+    },
+    {
+      "personId": 224433,
+      "character": "Lara the Zombie",
+      "order": 2
+    },
+    {
+      "personId": 30891,
+      "character": "The Vampire Monster (as Ciro Papas)",
+      "order": 3
+    },
+    {
+      "personId": 556939,
+      "character": "The Mysterious Man (as Alexander Getty)",
+      "order": 4
+    },
+    {
+      "personId": 574031,
+      "character": "Tanya the Innkeeper's Daughter (as Francesca Romana Davila)",
+      "order": 5
+    },
+    {
+      "personId": 101240,
+      "character": "The Innkeeper (as Mort Baxter)",
+      "order": 6
+    },
+    {
+      "personId": 287120,
+      "character": "First Villager at Inn (as George Dolfin)",
+      "order": 7
+    },
+    {
+      "personId": 539963,
+      "character": "Second Villager at Inn (as Stephen Hopper)",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 44,
+  "sources": [
+    "cult-list"
+  ]
+}

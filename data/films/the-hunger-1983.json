@@ -1,0 +1,193 @@
+{
+  "tmdbId": 11654,
+  "slug": "the-hunger-1983",
+  "year": 1983,
+  "runtime": 97,
+  "originalTitle": "The Hunger",
+  "title": {
+    "en": "The Hunger",
+    "tr": "Açlık"
+  },
+  "overview": {
+    "en": "Five-thousand-year-old vampire Miriam promises her lovers the gift of eternal life. When John, her cellist companion for centuries, discovers that he has suddenly begun growing old, he attempts to seek out the help of Dr. Sarah Roberts, a researcher on the mechanisms of aging.",
+    "tr": "Açlık, karanlık ve stilize atmosferi, karşıt kültür öğeleri, lezbiyen alt metni ve çarpıcı kadrosu sayesinde popülerleşmiş bir çağdaş kült korku klasiği. Öykü alternatif bir aşk üçgenine odaklanıyor: Uyku ve yaşlanma üzerine araştırmalar yapan bir doktor ile bir vampir çift. Dört bin yaşındaki ölümsüz Miriam, 18. yüzyılda baştan çıkardığı ancak şimdi hızla yaşlanmakta olan sevgilisi John ile Manhattan'da yaşamaktadır. Yaşlanmayı durdurmak için Sarah'yla temasa geçer, ama sonunda onu da baştan çıkartır."
+  },
+  "poster": {
+    "tr": "/jQD1pHFA7s3zynR1vgp7IUjZXZR.jpg",
+    "en": "/fv83BVy6t1dcvPiBX5TBpgLZYcX.jpg"
+  },
+  "backdrops": [
+    "/ypxHyok9dSz9HZ3uZkzNK5OQe7m.jpg",
+    "/jQrUWPRC4dAfO7nHrK7CDgr7hSs.jpg",
+    "/l3Dfr31cKzwKj38ch41oTzamLCn.jpg",
+    "/iTcNyLdz5FrnUtd9hkAkdE0WOO1.jpg",
+    "/amKvH1aOOkrmlZMxFNvvGOC0zkA.jpg",
+    "/x8QTuUhGdx8PIAFs8lQol7E7xGW.jpg",
+    "/qw9p7gBroQt99fjG0cwtLHohQR9.jpg",
+    "/cPyiFUo1HwUVj8fKjpssS0UavBq.jpg",
+    "/xm0l2q1OMkDaRrqGTviYqcmh04o.jpg",
+    "/upN0r5FVzqmnWNdN4alX4xW0Fap.jpg"
+  ],
+  "trailerKey": "g7DzTgy6_Vk",
+  "genreIds": [
+    27,
+    18
+  ],
+  "keywordIds": [
+    242,
+    818,
+    4978,
+    3133,
+    190352,
+    191881,
+    232469,
+    238332
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Metro-Goldwyn-Mayer",
+    "The Richard Shepherd Company"
+  ],
+  "crew": [
+    {
+      "personId": 893,
+      "job": "director"
+    },
+    {
+      "personId": 7189,
+      "job": "writer"
+    },
+    {
+      "personId": 1929,
+      "job": "producer"
+    },
+    {
+      "personId": 70380,
+      "job": "composer"
+    },
+    {
+      "personId": 70381,
+      "job": "composer"
+    },
+    {
+      "personId": 5582,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 70378,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 50,
+      "character": "Miriam Blaylock",
+      "order": 0
+    },
+    {
+      "personId": 7487,
+      "character": "John Blaylock",
+      "order": 1
+    },
+    {
+      "personId": 4038,
+      "character": "Sarah Roberts",
+      "order": 2
+    },
+    {
+      "personId": 44301,
+      "character": "Tom Haver",
+      "order": 3
+    },
+    {
+      "personId": 70377,
+      "character": "Alice Cavender",
+      "order": 4
+    },
+    {
+      "personId": 6486,
+      "character": "Lieutenant Allegrezza",
+      "order": 5
+    },
+    {
+      "personId": 185950,
+      "character": "Charlie Humphries",
+      "order": 6
+    },
+    {
+      "personId": 162413,
+      "character": "Phyllis",
+      "order": 7
+    },
+    {
+      "personId": 60990,
+      "character": "Ron",
+      "order": 8
+    },
+    {
+      "personId": 37042,
+      "character": "Young Woman from Disco",
+      "order": 9
+    },
+    {
+      "personId": 557337,
+      "character": "Young Man from Disco",
+      "order": 10
+    },
+    {
+      "personId": 10657,
+      "character": "Arthur Jelinek",
+      "order": 11
+    },
+    {
+      "personId": 563347,
+      "character": "Performer in Club (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 178411,
+      "character": "TV Host",
+      "order": 13
+    },
+    {
+      "personId": 29258,
+      "character": "Lillybelle",
+      "order": 14
+    },
+    {
+      "personId": 59872,
+      "character": "1st Phone Booth Youth",
+      "order": 15
+    },
+    {
+      "personId": 5293,
+      "character": "2nd Phone Booth Youth",
+      "order": 16
+    },
+    {
+      "personId": 31921,
+      "character": "Girl in London House",
+      "order": 17
+    },
+    {
+      "personId": 26667,
+      "character": "Boy in London House",
+      "order": 18
+    },
+    {
+      "personId": 172695,
+      "character": "Waiting Room Nurse",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 689,
+  "sources": [
+    "cult-list"
+  ]
+}

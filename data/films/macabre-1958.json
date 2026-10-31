@@ -1,0 +1,180 @@
+{
+  "tmdbId": 29393,
+  "slug": "macabre-1958",
+  "year": 1958,
+  "runtime": 72,
+  "originalTitle": "Macabre",
+  "title": {
+    "en": "Macabre",
+    "tr": "Macabre"
+  },
+  "overview": {
+    "en": "After his wife and her blind sister have died under his care, a doctor's young daughter is kidnapped and reported as buried alive, leaving him with mere hours to find and rescue her.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9APm7cJaJaaFXNNuUKSNjLaIQcr.jpg",
+    "en": "/9APm7cJaJaaFXNNuUKSNjLaIQcr.jpg"
+  },
+  "backdrops": [
+    "/vkos6AyXzuLzQAbeRcwl7uxNE7H.jpg",
+    "/oVW8B5ggoL9pe9tpfZc9qF0ZjrC.jpg",
+    "/rV2rtyCUOWi5Vz3TuFi88gq0Ol5.jpg",
+    "/erMC1iU6QuBMclp9IDwiEYclBgB.jpg",
+    "/u0XnglLOaxKg0O9p24ZLaNlW1Ci.jpg",
+    "/aNFnIwgMsAHVDTBGfMJUjw1AjfA.jpg"
+  ],
+  "trailerKey": "sxBiEGzcXcU",
+  "genreIds": [
+    27,
+    53,
+    9648
+  ],
+  "keywordIds": [
+    5600,
+    4776,
+    456,
+    818,
+    428,
+    5332,
+    5340,
+    5905,
+    7172,
+    5923,
+    10656,
+    9826,
+    10911,
+    13005,
+    13092,
+    17997,
+    18052,
+    162335,
+    164092,
+    166512,
+    169977,
+    170865,
+    171251,
+    197430,
+    199850,
+    238328,
+    240275,
+    259941,
+    260192,
+    263443,
+    297390,
+    326438,
+    359054,
+    360330
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "William Castle Productions"
+  ],
+  "crew": [
+    {
+      "personId": 3428,
+      "job": "producer"
+    },
+    {
+      "personId": 30968,
+      "job": "producer"
+    },
+    {
+      "personId": 12011,
+      "job": "director"
+    },
+    {
+      "personId": 12011,
+      "job": "producer"
+    },
+    {
+      "personId": 57522,
+      "job": "writer"
+    },
+    {
+      "personId": 99452,
+      "job": "composer"
+    },
+    {
+      "personId": 30970,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 46099,
+      "character": "Dr. Rodney Barrett",
+      "order": 0
+    },
+    {
+      "personId": 40186,
+      "character": "Nurse Polly Baron",
+      "order": 1
+    },
+    {
+      "personId": 2771,
+      "character": "Sheriff Jim Tyloe",
+      "order": 2
+    },
+    {
+      "personId": 103718,
+      "character": "Ed Quigley, mortician",
+      "order": 3
+    },
+    {
+      "personId": 5738,
+      "character": "Miss Kushins",
+      "order": 4
+    },
+    {
+      "personId": 10928,
+      "character": "Jode Wetherby",
+      "order": 5
+    },
+    {
+      "personId": 103717,
+      "character": "Sylvia Stevenson",
+      "order": 6
+    },
+    {
+      "personId": 103716,
+      "character": "Nancy Wetherby",
+      "order": 7
+    },
+    {
+      "personId": 105725,
+      "character": "Nick, chauffeur",
+      "order": 8
+    },
+    {
+      "personId": 564934,
+      "character": "Alice Wetherby Barrett",
+      "order": 9
+    },
+    {
+      "personId": 78857,
+      "character": "Hummel, cemetery caretaker",
+      "order": 10
+    },
+    {
+      "personId": 1745317,
+      "character": "Preacher",
+      "order": 11
+    },
+    {
+      "personId": 1812163,
+      "character": "Marge Barrett",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 49,
+  "sources": [
+    "cult-list"
+  ]
+}

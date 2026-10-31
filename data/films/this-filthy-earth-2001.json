@@ -1,0 +1,169 @@
+{
+  "tmdbId": 113821,
+  "slug": "this-filthy-earth-2001",
+  "year": 2001,
+  "runtime": 111,
+  "originalTitle": "This Filthy Earth",
+  "title": {
+    "en": "This Filthy Earth",
+    "tr": "This Filthy Earth"
+  },
+  "overview": {
+    "en": "The tragic story of two sisters whose lives are disrupted by two men. Amidst a landscape of rural hardship and a community consumed with superstition, events unfurl which threaten their sibling bond.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vWL0FIFUpQXUmJkT4DRXO9NwqMI.jpg",
+    "en": "/vWL0FIFUpQXUmJkT4DRXO9NwqMI.jpg"
+  },
+  "backdrops": [
+    "/eF6OfTxJYqJhJEJ1CYLD7BzWlkU.jpg",
+    "/egpJ0rhJZlM1fycTv8pmAZRUjGS.jpg",
+    "/lk6WtHb96I3j4ptynZ8SJGALlyF.jpg",
+    "/w5nZhE0AT5wTwfGgp9YdcrrT6e2.jpg",
+    "/58knZA00R5NqDyfWtrIvg6XXajq.jpg",
+    "/pMWRiOWjRIO9XVtXaX5yPodiVT3.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    27,
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 79872,
+      "job": "director"
+    },
+    {
+      "personId": 94013,
+      "job": "writer"
+    },
+    {
+      "personId": 95910,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3240747,
+      "job": "producer"
+    },
+    {
+      "personId": 79872,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1057876,
+      "character": "Francine",
+      "order": 0
+    },
+    {
+      "personId": 1057877,
+      "character": "Buto",
+      "order": 1
+    },
+    {
+      "personId": 1057878,
+      "character": "Kath",
+      "order": 2
+    },
+    {
+      "personId": 146280,
+      "character": "Lek",
+      "order": 3
+    },
+    {
+      "personId": 27393,
+      "character": "Papa",
+      "order": 4
+    },
+    {
+      "personId": 1743317,
+      "character": "Armandine",
+      "order": 5
+    },
+    {
+      "personId": 27641,
+      "character": "Jesus Christ",
+      "order": 6
+    },
+    {
+      "personId": 3240755,
+      "character": "Megan",
+      "order": 7
+    },
+    {
+      "personId": 3240756,
+      "character": "Joey",
+      "order": 8
+    },
+    {
+      "personId": 1543495,
+      "character": "Perry",
+      "order": 9
+    },
+    {
+      "personId": 105489,
+      "character": "Gibbon",
+      "order": 10
+    },
+    {
+      "personId": 3240759,
+      "character": "Barman",
+      "order": 11
+    },
+    {
+      "personId": 3240760,
+      "character": "Maggie",
+      "order": 12
+    },
+    {
+      "personId": 3240761,
+      "character": "Etta",
+      "order": 13
+    },
+    {
+      "personId": 2230475,
+      "character": "Mr Holt",
+      "order": 14
+    },
+    {
+      "personId": 3240762,
+      "character": "Mrs Holt",
+      "order": 15
+    },
+    {
+      "personId": 3240763,
+      "character": "Priest",
+      "order": 16
+    },
+    {
+      "personId": 3240764,
+      "character": "Circus Performer",
+      "order": 17
+    },
+    {
+      "personId": 3240765,
+      "character": "Circus Woman",
+      "order": 18
+    },
+    {
+      "personId": 3240766,
+      "character": "Circus Girl",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 9,
+  "sources": [
+    "cult-list"
+  ]
+}

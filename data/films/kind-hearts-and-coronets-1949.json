@@ -1,0 +1,200 @@
+{
+  "tmdbId": 11898,
+  "slug": "kind-hearts-and-coronets-1949",
+  "year": 1949,
+  "runtime": 104,
+  "originalTitle": "Kind Hearts and Coronets",
+  "title": {
+    "en": "Kind Hearts and Coronets",
+    "tr": "Yumuşak Kalpler"
+  },
+  "overview": {
+    "en": "When his mother eloped with an Italian opera singer, Louis Mazzini was cut off from her aristocratic family. After the family refuses to let her be buried in the family mausoleum, Louis avenges his mother's death by attempting to murder every family member who stands between himself and the family fortune. But when he finds himself torn between his longtime love and the widow of one of his victims, his plans go awry.",
+    "tr": "Chalfont Dükü'nün küçük kızı, meteliksiz bir İtalyan şarkıcıyla kaçınca, ailesi onu reddeder. Kadın oğlu Louis'ye soylu atalarını anlatır ama, ailesi her türlü yardımı reddettiği için Louis bir kumaşçı dükkânında çalışmak zorunda kalır. D'Ascoyne ailesinin, annesiyle olan akrabalıklarını inatla kabul etmemesinden incinen Louis, kendisi ile aile unvanı arasındaki her türlü engeli ortadan kaldırarak hakkı olanı elde etmeye karar verir.  Önce Henley'deki pis bir hafta sonunda en iğrenç kuzenini katleder, sonra da amatör fotoğrafçı olan bir başka kuzenini havaya uçurur. Din adamı olan bir amca zehirlenir; kadınlara oy hakkı verilmesi için mücadele eden bir hala balonunda vurulup düşürülür; asker bir amca en ünlü seferini anlatırken tuzağa düşürülür; ve denizci bir amca, bir çarpışmanın ardından teknesiyle birlikte denizin dibini boylar. Bu durum Louis'yi Chalfont ünvanının tek varisi yapar,"
+  },
+  "poster": {
+    "tr": "/eBvpyRjD3DcCsWgdV6Y9oqPS7dO.jpg",
+    "en": "/eBvpyRjD3DcCsWgdV6Y9oqPS7dO.jpg"
+  },
+  "backdrops": [
+    "/psDC2NgH2nj1mFeoMY2PwLkVBRv.jpg",
+    "/r7jtS16I3vgVvqapgCa7RMkZnvj.jpg",
+    "/l8EbKu5N61jRKgOPa7dBXVvT8VJ.jpg",
+    "/hBrvHcyahjoQTWEJvPxmd0R8p9O.jpg",
+    "/piUzo0RCBiVMDOZX0drgmchM81p.jpg",
+    "/4QUMREX8N95RxFfJdAyTe4I4Tr3.jpg",
+    "/dWaT6TPGDgbdr1Xv0tTW2pqPF3s.jpg",
+    "/sW5xXVFX65QrhqBtWk0cu4vIlbB.jpg"
+  ],
+  "trailerKey": "fVli0y9bQoA",
+  "genreIds": [
+    35,
+    80
+  ],
+  "keywordIds": [
+    378,
+    931,
+    818,
+    924,
+    351,
+    4129,
+    2125,
+    10123,
+    3497,
+    4235,
+    5493,
+    10229,
+    12999,
+    14676,
+    161506,
+    226325,
+    234626,
+    236170,
+    309426,
+    309974
+  ],
+  "countries": [
+    "GB"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Ealing Studios",
+    "J. Arthur Rank Organisation",
+    "Michael Balcon Productions"
+  ],
+  "crew": [
+    {
+      "personId": 3601,
+      "job": "producer"
+    },
+    {
+      "personId": 70864,
+      "job": "director"
+    },
+    {
+      "personId": 70867,
+      "job": "composer"
+    },
+    {
+      "personId": 70864,
+      "job": "writer"
+    },
+    {
+      "personId": 11995,
+      "job": "writer"
+    },
+    {
+      "personId": 666,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30766,
+      "character": "Louis Mazzini / His Father",
+      "order": 0
+    },
+    {
+      "personId": 12248,
+      "character": "The D'Ascoyne Family: The Duke / The Banker / The Parson / The General / The Admiral / Young Ascoyne / Young Henry / Lady Agatha",
+      "order": 1
+    },
+    {
+      "personId": 45466,
+      "character": "Sibella",
+      "order": 2
+    },
+    {
+      "personId": 2924,
+      "character": "Edith D'Ascoyne",
+      "order": 3
+    },
+    {
+      "personId": 1445519,
+      "character": "Mama",
+      "order": 4
+    },
+    {
+      "personId": 47395,
+      "character": "The Hangman",
+      "order": 5
+    },
+    {
+      "personId": 47403,
+      "character": "The Prison Governor",
+      "order": 6
+    },
+    {
+      "personId": 97249,
+      "character": "Lionel Holland",
+      "order": 7
+    },
+    {
+      "personId": 614073,
+      "character": "Crown Counsel",
+      "order": 8
+    },
+    {
+      "personId": 10021,
+      "character": "Lord High Steward",
+      "order": 9
+    },
+    {
+      "personId": 47017,
+      "character": "Mr. Perkins",
+      "order": 10
+    },
+    {
+      "personId": 1416017,
+      "character": "Inspector Burgoyne",
+      "order": 11
+    },
+    {
+      "personId": 936927,
+      "character": "The Farmer",
+      "order": 12
+    },
+    {
+      "personId": 189308,
+      "character": "The Schoolmistress",
+      "order": 13
+    },
+    {
+      "personId": 92700,
+      "character": "Maud Redpole",
+      "order": 14
+    },
+    {
+      "personId": 185195,
+      "character": "The Girl in the Punt",
+      "order": 15
+    },
+    {
+      "personId": 39024,
+      "character": "The Reporter",
+      "order": 16
+    },
+    {
+      "personId": 97217,
+      "character": "First Lord Delivering Verdict (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 587796,
+      "character": "Lady Redpole (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1370812,
+      "character": "Gamekeeper Hoskins (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 637,
+  "sources": [
+    "cult-list"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "tmdbId": 9474,
+  "slug": "my-name-is-nobody-1973",
+  "year": 1973,
+  "runtime": 117,
+  "originalTitle": "Il mio nome è Nessuno",
+  "title": {
+    "en": "My Name Is Nobody",
+    "tr": "Benim Adım Hiç Kimse"
+  },
+  "overview": {
+    "en": "Jack Beauregard, an aging gunman of the Old West, only wants to retire in peace and move to Europe, but a young gunfighter known as \"Nobody\" who idolizes Beauregard wants him to go out in a blaze of glory. So, he arranges for Jack to face the 150-man gang known as The Wild Bunch and earn his place in history.",
+    "tr": "Jack Beauregard devrinin son silahşörüdür. Suçların büyüdüğü ve organize olmaya başladığı bir devirde sadece iyi bir silah ve onu kullanan kişi artık herşeyi ifade edememektedir ve \"Vahşi Batı\" artık son demlerini yaşamaktadır. Vergi, merkezi otorite, senato gibi terimler gündelik hayatın popüler sözcükleri haline gelmiştir. Gözleri uzağı eskisi gibi seçemeyen ve içgüdüleriyle silahına davranan Jack, Vahşi Batı'nın acımasız dünyasında yaşlanabilecek kadar yaşamış bir silahşör olarak kimseyi öldürmekten yana değildir. Yinede eski düşmanları ve ondan daha hızlı olduğunu kanıtlamak isteyen şöhret meraklısı pek çok silahşör Jack'i ortadan kaldırmak istemektedir... Tam bu anda karşısına çıkan ve kendisine Hiç kimse diyen genç, ona hayatının son günlerini huzur içerisinde geçirmesini sağlayacak bir teklifte bulunur. Jack'in kaderi Vahşi 150 ile kesişecek ve adı tarih kitaplarına geçecektir..."
+  },
+  "poster": {
+    "tr": "/tJQEVI1p00Jh9TUgNEI623iu7ST.jpg",
+    "en": "/tJQEVI1p00Jh9TUgNEI623iu7ST.jpg"
+  },
+  "backdrops": [
+    "/n09wUpQSQFARSTmEI57xVS7xWol.jpg",
+    "/kROYGycX5fiNpD27ziUVmHTdyZ6.jpg",
+    "/aEds41XQKi3Ghtg6PNbcLX8aJzc.jpg",
+    "/7d1yr20hQI3opmk9410o3111WNl.jpg",
+    "/4II0fdNtTMR0elrMgQSn9wfYuuk.jpg",
+    "/lp6uT8gpC21SRS4aVPjbiKL45uQ.jpg",
+    "/qtdsgMOo5ozwK6kuOjJmBdATIEz.jpg",
+    "/oERDcm4YgJXhrdcxTEqsbyJrMAu.jpg",
+    "/i2P8ZPxrY8D77F20GFBoLoIPRnU.jpg",
+    "/WsPOzVpoWb0tDqwJR1pdQS1dVz.jpg"
+  ],
+  "trailerKey": "TMUX8y8bXWE",
+  "genreIds": [
+    35,
+    37
+  ],
+  "keywordIds": [
+    1701,
+    156212,
+    225012,
+    276775,
+    319397
+  ],
+  "countries": [
+    "FR",
+    "DE",
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Rafran Cinematografica",
+    "Les Films Jacques Leitienne",
+    "Alcinter"
+  ],
+  "crew": [
+    {
+      "personId": 57639,
+      "job": "director"
+    },
+    {
+      "personId": 50818,
+      "job": "writer"
+    },
+    {
+      "personId": 4986,
+      "job": "producer"
+    },
+    {
+      "personId": 1259,
+      "job": "composer"
+    },
+    {
+      "personId": 5556,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 24665,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 53196,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15140,
+      "character": "Nobody",
+      "order": 0
+    },
+    {
+      "personId": 4958,
+      "character": "Jack Beauregard",
+      "order": 1
+    },
+    {
+      "personId": 39953,
+      "character": "Sullivan",
+      "order": 2
+    },
+    {
+      "personId": 1107,
+      "character": "Honest John",
+      "order": 3
+    },
+    {
+      "personId": 108279,
+      "character": "Jim",
+      "order": 4
+    },
+    {
+      "personId": 95082,
+      "character": "Red",
+      "order": 5
+    },
+    {
+      "personId": 41280,
+      "character": "False barber",
+      "order": 6
+    },
+    {
+      "personId": 18071,
+      "character": "Leader of the Wild Bunch",
+      "order": 7
+    },
+    {
+      "personId": 179188,
+      "character": "Squirrel",
+      "order": 8
+    },
+    {
+      "personId": 45035,
+      "character": "Sheriff",
+      "order": 9
+    },
+    {
+      "personId": 16318,
+      "character": "Pedro",
+      "order": 10
+    },
+    {
+      "personId": 39461,
+      "character": "Don John",
+      "order": 11
+    },
+    {
+      "personId": 4661,
+      "character": "Porteley",
+      "order": 12
+    },
+    {
+      "personId": 18840,
+      "character": "Rex",
+      "order": 13
+    },
+    {
+      "personId": 558739,
+      "character": "Big Gun",
+      "order": 14
+    },
+    {
+      "personId": 5568,
+      "character": "Scape",
+      "order": 15
+    },
+    {
+      "personId": 72664,
+      "character": "Ferroviere",
+      "order": 16
+    },
+    {
+      "personId": 1330874,
+      "character": "Juan",
+      "order": 17
+    },
+    {
+      "personId": 1910461,
+      "character": "Dirty",
+      "order": 18
+    },
+    {
+      "personId": 1440813,
+      "character": "Carnival Barker",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1107,
+  "sources": [
+    "cult-list"
+  ]
+}

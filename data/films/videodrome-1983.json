@@ -1,0 +1,202 @@
+{
+  "tmdbId": 837,
+  "slug": "videodrome-1983",
+  "year": 1983,
+  "runtime": 88,
+  "originalTitle": "Videodrome",
+  "title": {
+    "en": "Videodrome",
+    "tr": "Ekrandaki Dehşet"
+  },
+  "overview": {
+    "en": "As the president of a trashy TV channel, Max Renn is desperate for new programming to attract viewers. When he happens upon \"Videodrome,\" a TV show dedicated to gratuitous torture and punishment, Max sees a potential hit and broadcasts the show on his channel. However, after his girlfriend auditions for the show and never returns, Max investigates the truth behind Videodrome and discovers that the graphic violence may not be as fake as he thought.",
+    "tr": "Belden aşağı yayınlara prim veren ucuz bir televizyonun yöneticisi olan Max Renn, çaresizce rating’leri arttıracak bir program arayışındayken ilginç bir korsan yayına denk gelir. Videodrome isimli underground yayın, ilk başta gerçek cinayetlere yer veren bir \"snuff\" tv havasındadır. Videodrome’u keşfettikçe altüst edici görüntüler, teknolojiye tapınma, sado-mazoşizm ve cinsellik içerikli yayınlar Max’ın profesyonel ilgisinin kişisel merakına yenik düşmesine sebep olur."
+  },
+  "poster": {
+    "tr": "/qqqkiZSU9EBGZ1KiDmfn07S7qvv.jpg",
+    "en": "/dBqp1SxlqnJEHYDM9sNelXoQsO1.jpg"
+  },
+  "backdrops": [
+    "/bmei17OFPW37CIMMqukaZmnX4dK.jpg",
+    "/iFW5ZSIkRQLcHCCUGGUqf3FLBia.jpg",
+    "/7hEiflFbOpXECLrHIGEuV8QsJik.jpg",
+    "/kIQszOniJOd1ULFUfdk4yDR0W5c.jpg",
+    "/eBS1nvaQ7BMdsSlkoLyKapf0FEY.jpg",
+    "/rjinOPH5Mlcw6d59CrnqHKFEVfS.jpg",
+    "/6yDT0h8CmpYxWGdgVVSFaATRebs.jpg",
+    "/50whM0T9ynenyJd3gb85HSSnXpz.jpg",
+    "/6pqBKZWfTpAJf3eoWyyqyG4aYvO.jpg",
+    "/vCLILR73xCfjxBlbWpNBqfNop4I.jpg"
+  ],
+  "trailerKey": "v8BUXKcp8zE",
+  "genreIds": [
+    27,
+    878,
+    9648
+  ],
+  "keywordIds": [
+    236,
+    4563,
+    3740,
+    2449,
+    6255,
+    2340,
+    4565,
+    4227,
+    3298,
+    3307,
+    9887,
+    6373,
+    11616,
+    12190,
+    12400,
+    180374,
+    193594,
+    210162,
+    254053,
+    254054,
+    291355,
+    325843,
+    325844,
+    370542
+  ],
+  "countries": [
+    "CA"
+  ],
+  "languages": [
+    "en",
+    "ja"
+  ],
+  "studios": [
+    "Filmplan International"
+  ],
+  "crew": [
+    {
+      "personId": 224,
+      "job": "director"
+    },
+    {
+      "personId": 12476,
+      "job": "producer"
+    },
+    {
+      "personId": 117,
+      "job": "composer"
+    },
+    {
+      "personId": 7413,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 224,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4512,
+      "character": "Max Renn",
+      "order": 0
+    },
+    {
+      "personId": 102,
+      "character": "Nicki Brand",
+      "order": 1
+    },
+    {
+      "personId": 12482,
+      "character": "Bianca O'Blivion",
+      "order": 2
+    },
+    {
+      "personId": 12483,
+      "character": "Harlan",
+      "order": 3
+    },
+    {
+      "personId": 12716,
+      "character": "Barry Convex",
+      "order": 4
+    },
+    {
+      "personId": 12485,
+      "character": "Brian O'Blivion",
+      "order": 5
+    },
+    {
+      "personId": 12486,
+      "character": "Masha",
+      "order": 6
+    },
+    {
+      "personId": 12487,
+      "character": "Bridey",
+      "order": 7
+    },
+    {
+      "personId": 12488,
+      "character": "Moses",
+      "order": 8
+    },
+    {
+      "personId": 12489,
+      "character": "Raphael",
+      "order": 9
+    },
+    {
+      "personId": 12490,
+      "character": "Rena King",
+      "order": 10
+    },
+    {
+      "personId": 1567231,
+      "character": "Brolley",
+      "order": 11
+    },
+    {
+      "personId": 189644,
+      "character": "Japanese Salesman",
+      "order": 12
+    },
+    {
+      "personId": 1722163,
+      "character": "Japanese Salesman",
+      "order": 13
+    },
+    {
+      "personId": 83024,
+      "character": "Matron",
+      "order": 14
+    },
+    {
+      "personId": 138877,
+      "character": "Sidewalk Derelict",
+      "order": 15
+    },
+    {
+      "personId": 1722164,
+      "character": "Newscaster",
+      "order": 16
+    },
+    {
+      "personId": 4568,
+      "character": "Woman Caller",
+      "order": 17
+    },
+    {
+      "personId": 1722165,
+      "character": "Bellydancer",
+      "order": 18
+    },
+    {
+      "personId": 224,
+      "character": "Max Renn (Helmet Scenes) (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2618,
+  "sources": [
+    "cult-list"
+  ]
+}

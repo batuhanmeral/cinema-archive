@@ -1,0 +1,201 @@
+{
+  "tmdbId": 11,
+  "slug": "star-wars-1977",
+  "year": 1977,
+  "runtime": 121,
+  "originalTitle": "Star Wars",
+  "title": {
+    "en": "Star Wars",
+    "tr": "Yıldız Savaşları: Yeni Umut"
+  },
+  "overview": {
+    "en": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+    "tr": "Yıldız Savaşları: Yeni Umut'ta Luke Skywalker, galaksiyi değiştirecek bir yolculuğa çıkar. Luke, İmparatorluğun kuruluşundan 19 yıl sonra çöl gezegen Tatooine'de yıllardır tek başına yaşayan Obi-Wan Kenobi ile karşılaşınca Asiler İttifakı mücadelesinin içine çekilir. Obi-Wan, Luke'u Jedi olarak eğitmeye başlarken Luke da güzel Asi Prenses Leia'yı Darth Vader ve kötü İmparatorluğun pençesinden kurtarmak için Obi-Wan ile zorlu bir göreve girişir."
+  },
+  "poster": {
+    "tr": "/fT9pEpt2pd0m7ZC0shQo08E77xI.jpg",
+    "en": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg"
+  },
+  "backdrops": [
+    "/zqkmTXzjkAgXmEWLRsY4UpTWCeo.jpg",
+    "/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+    "/yrdAamkeqXHm0UYukk8xgoCvc7G.jpg",
+    "/3H94YlnYWVLKQKEnfTBKvrCmHmt.jpg",
+    "/jBFxXKCrViA88hhO59fDx0Av4P.jpg",
+    "/yUiXA68FfQeA8cRBhd0Ao0jIRZt.jpg",
+    "/2w4xG178RpB4MDAIfTkqAuSJzec.jpg",
+    "/p2NKvoDTvmpAxPfJQtyRtsIkxf9.jpg",
+    "/1tSsgsfVVRULrLJrAclUGpQyEgm.jpg",
+    "/aDYSnJAK0BTVeE8osOy22Kz3SXY.jpg"
+  ],
+  "trailerKey": "i-vsILeJ8_8",
+  "genreIds": [
+    12,
+    28,
+    878
+  ],
+  "keywordIds": [
+    11195,
+    4270,
+    11196,
+    803,
+    4271,
+    6212,
+    6089,
+    526,
+    11107,
+    9882,
+    13194,
+    18034,
+    33637,
+    158455,
+    161176,
+    177912,
+    178712,
+    207372,
+    325842,
+    371623
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Lucasfilm Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 7753,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 491,
+      "job": "composer"
+    },
+    {
+      "personId": 12401,
+      "job": "producer"
+    },
+    {
+      "personId": 1,
+      "job": "writer"
+    },
+    {
+      "personId": 1,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2,
+      "character": "Luke Skywalker",
+      "order": 0
+    },
+    {
+      "personId": 3,
+      "character": "Han Solo",
+      "order": 1
+    },
+    {
+      "personId": 4,
+      "character": "Princess Leia Organa",
+      "order": 2
+    },
+    {
+      "personId": 5,
+      "character": "Grand Moff Tarkin",
+      "order": 3
+    },
+    {
+      "personId": 12248,
+      "character": "Obi-Wan \"Ben\" Kenobi",
+      "order": 4
+    },
+    {
+      "personId": 6,
+      "character": "C-3PO",
+      "order": 5
+    },
+    {
+      "personId": 130,
+      "character": "R2-D2",
+      "order": 6
+    },
+    {
+      "personId": 24343,
+      "character": "Chewbacca",
+      "order": 7
+    },
+    {
+      "personId": 24342,
+      "character": "Darth Vader (performer)",
+      "order": 8
+    },
+    {
+      "personId": 15152,
+      "character": "Darth Vader (voice) (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 33032,
+      "character": "Uncle Owen",
+      "order": 10
+    },
+    {
+      "personId": 131625,
+      "character": "Aunt Beru",
+      "order": 11
+    },
+    {
+      "personId": 132538,
+      "character": "Chief Jawa",
+      "order": 12
+    },
+    {
+      "personId": 216087,
+      "character": "General Dodonna",
+      "order": 13
+    },
+    {
+      "personId": 69249,
+      "character": "General Willard",
+      "order": 14
+    },
+    {
+      "personId": 47401,
+      "character": "Red Leader",
+      "order": 15
+    },
+    {
+      "personId": 47698,
+      "character": "Red Two (Wedge Antilles)",
+      "order": 16
+    },
+    {
+      "personId": 17356,
+      "character": "Red Three (Biggs Darklighter)",
+      "order": 17
+    },
+    {
+      "personId": 162432,
+      "character": "Red Four (John \"D\")",
+      "order": 18
+    },
+    {
+      "personId": 663,
+      "character": "Red Six (Porkins)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 7,
+    "bafta": 1,
+    "golden-globe": 1
+  },
+  "voteCount": 23091,
+  "sources": [
+    "cult-list"
+  ]
+}

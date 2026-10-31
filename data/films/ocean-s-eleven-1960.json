@@ -1,0 +1,191 @@
+{
+  "tmdbId": 299,
+  "slug": "ocean-s-eleven-1960",
+  "year": 1960,
+  "runtime": 127,
+  "originalTitle": "Ocean's Eleven",
+  "title": {
+    "en": "Ocean's Eleven",
+    "tr": "Soyguncular"
+  },
+  "overview": {
+    "en": "Danny Ocean and his gang attempt to rob the five biggest casinos in Las Vegas in one night.",
+    "tr": "II. Dünya Savaşı'nda yan yana çarpışmış on bir eski silah arkadaşı, yaklaşık 20 yıl sonra Los Angeles'ta buluşurlar. Şimdi uslanmaz bir kumarbaza dönüşmüş olan Danny Ocean'ın örgütlediği grup, yılbaşı gecesi müthiş soygun yapmak üzere çalışmalara başlar.On birlerin her birini bu soyguna katılmaya iten bir sebep vardır. Biri beysbol oyuncusu olmak için gerekli parayı bulmak adına bu işe girerken; kanser olan bir diğeri çocuklarının geleceği için hayatını tehlikeye atmıştır. Bir başkası karısını striptiz kulübünden kurtarmak istemektedir. Danny'nin örgütlediği soygun ise gerçekten sıfır hatayla gerçekleştirilmek zorundadır: Tek gecede Las Vegas'ın en büyük beş kumarhanesini soymak!"
+  },
+  "poster": {
+    "tr": "/A4R6u7SidBPVXMVzGSysCiRGTRz.jpg",
+    "en": "/b7bKFcjrV5O3Ka34JSBOOA2oiHY.jpg"
+  },
+  "backdrops": [
+    "/4svggv4gfe6vHsrGpaRMzrXLozt.jpg",
+    "/9icOgO6LfxlbRww7YLeiLqyHwQq.jpg",
+    "/z1MNaq5WSfmZsDPXmvUWui1q4aK.jpg",
+    "/vJLSt7NvYP85nR4XJ8CxnMadf6G.jpg",
+    "/tiOCLtJES7S0dWnptYlPA7vboZp.jpg",
+    "/uJev2rgnrOMXg3ZCo0lU4rbMwY0.jpg",
+    "/wDolcy8yrrxPTnLG9QDi7M3IOLR.jpg",
+    "/35FkWsGxF3ggPU31NPLGASU9Pot.jpg",
+    "/zrWfNsORsUDB5cPGfroq3nuF3dx.jpg",
+    "/8qKJWPBBHGxLQLmkq8vJMz6rB1I.jpg"
+  ],
+  "trailerKey": "ppVby97BNiw",
+  "genreIds": [
+    80,
+    35,
+    53
+  ],
+  "keywordIds": [
+    613,
+    642,
+    585,
+    700,
+    395,
+    584,
+    1574,
+    10051,
+    9727,
+    160488,
+    179431
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Warner Bros. Pictures",
+    "Dorchester"
+  ],
+  "crew": [
+    {
+      "personId": 2000,
+      "job": "director"
+    },
+    {
+      "personId": 2000,
+      "job": "producer"
+    },
+    {
+      "personId": 4357,
+      "job": "writer"
+    },
+    {
+      "personId": 4358,
+      "job": "writer"
+    },
+    {
+      "personId": 3637,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4360,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4347,
+      "character": "Danny Ocean",
+      "order": 0
+    },
+    {
+      "personId": 4299,
+      "character": "Sam Harmon",
+      "order": 1
+    },
+    {
+      "personId": 20156,
+      "character": "Josh Howard",
+      "order": 2
+    },
+    {
+      "personId": 4353,
+      "character": "Jimmy Foster",
+      "order": 3
+    },
+    {
+      "personId": 4301,
+      "character": "Beatrice Ocean",
+      "order": 4
+    },
+    {
+      "personId": 3090,
+      "character": "Anthony Bergdorf",
+      "order": 5
+    },
+    {
+      "personId": 4355,
+      "character": "Duke Santos",
+      "order": 6
+    },
+    {
+      "personId": 4356,
+      "character": "Adele Ekstrom",
+      "order": 7
+    },
+    {
+      "personId": 4361,
+      "character": "\"Mushy\" O'Connors",
+      "order": 8
+    },
+    {
+      "personId": 30719,
+      "character": "Spyros Acebos",
+      "order": 9
+    },
+    {
+      "personId": 14731,
+      "character": "Roger Corneal",
+      "order": 10
+    },
+    {
+      "personId": 139926,
+      "character": "Mrs. Restes",
+      "order": 11
+    },
+    {
+      "personId": 152682,
+      "character": "Vince Massler",
+      "order": 12
+    },
+    {
+      "personId": 93623,
+      "character": "\"Curly\" Steffans",
+      "order": 13
+    },
+    {
+      "personId": 101479,
+      "character": "Mrs. Bergdorf",
+      "order": 14
+    },
+    {
+      "personId": 14064,
+      "character": "Peter Rheimer",
+      "order": 15
+    },
+    {
+      "personId": 951145,
+      "character": "Louis Jackson",
+      "order": 16
+    },
+    {
+      "personId": 567530,
+      "character": "Mr. Kelly",
+      "order": 17
+    },
+    {
+      "personId": 32894,
+      "character": "Adele's Date",
+      "order": 18
+    },
+    {
+      "personId": 2784,
+      "character": "Sheriff Wimmer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 429,
+  "sources": [
+    "cult-list"
+  ]
+}

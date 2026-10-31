@@ -1,0 +1,254 @@
+{
+  "tmdbId": 841,
+  "slug": "dune-1984",
+  "year": 1984,
+  "runtime": 136,
+  "originalTitle": "Dune",
+  "title": {
+    "en": "Dune",
+    "tr": "Dune"
+  },
+  "overview": {
+    "en": "In the year 10,191, the most precious substance in the universe is the spice Melange. The spice extends life. The spice expands consciousness. The spice is vital to space travel.  The spice exists on only one planet in the entire universe, the vast desert planet Arrakis, also known as Dune.  Its native inhabitants, the Fremen, have long held a prophecy that a man would come, a messiah who would lead them to true freedom.",
+    "tr": "Frank Herbert'in ünlü bilimkurgu klasiği romanından uyarlanan film, çöl gezegeni Dune'u kontolü altına almak isteyen 3 ırkın savaşını ve gezegen halkının beklediği Mesih'in gelişini anlatıyor."
+  },
+  "poster": {
+    "tr": "/4kJmUCE7mkVJjXa7A0g2rY4IGTm.jpg",
+    "en": "/ngUaHgSZGkKy1Izwjk7qwZLOC5A.jpg"
+  },
+  "backdrops": [
+    "/5wJ2tckpvwcxGCAgZiccodwEJpf.jpg",
+    "/cAOaUTJzUG8vfXcThFNIC5tUMig.jpg",
+    "/pSff0QRTXrsQjgAJjlCNAnu3Cic.jpg",
+    "/qbTDjY7p4o3b4E4nqxyGCc15xhu.jpg",
+    "/1hzCYE8lWLZKgOCsb1pbngGoO7i.jpg",
+    "/hAER4i9U5CF67avzNYcf5mHL3tv.jpg",
+    "/jMn5PkukmFHYYKGxbDXxAC7rU6v.jpg",
+    "/kt3dPGaP7zMVnSfouyecjDusE4W.jpg",
+    "/aItjtf5ZofzUEXGzh85VLs2zIcP.jpg",
+    "/r2o4yLgeOj4JdVJUGcN2CeMjcuB.jpg"
+  ],
+  "trailerKey": "hjRG8kvMFw0",
+  "genreIds": [
+    28,
+    878,
+    12
+  ],
+  "keywordIds": [
+    616,
+    11195,
+    4270,
+    11196,
+    2964,
+    1826,
+    6092,
+    1299,
+    818,
+    530,
+    1815,
+    2766,
+    1475,
+    2052,
+    4565,
+    2280,
+    3074,
+    3801,
+    3386,
+    6074,
+    4235,
+    4238,
+    4743,
+    4278,
+    9552,
+    10028,
+    11933,
+    13129,
+    14601,
+    14946,
+    14964,
+    18034,
+    33841,
+    158144,
+    161176,
+    162484,
+    194063,
+    197602,
+    230479,
+    314730,
+    325811
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "The De Laurentiis Company"
+  ],
+  "crew": [
+    {
+      "personId": 12507,
+      "job": "producer"
+    },
+    {
+      "personId": 5602,
+      "job": "director"
+    },
+    {
+      "personId": 5629,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5602,
+      "job": "writer"
+    },
+    {
+      "personId": 5398,
+      "job": "producer"
+    },
+    {
+      "personId": 37317,
+      "job": "composer"
+    },
+    {
+      "personId": 957917,
+      "job": "composer"
+    },
+    {
+      "personId": 1624071,
+      "job": "composer"
+    },
+    {
+      "personId": 957919,
+      "job": "composer"
+    },
+    {
+      "personId": 56187,
+      "job": "composer"
+    },
+    {
+      "personId": 558641,
+      "job": "composer"
+    },
+    {
+      "personId": 220908,
+      "job": "composer"
+    },
+    {
+      "personId": 72538,
+      "job": "composer"
+    },
+    {
+      "personId": 1367506,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6677,
+      "character": "Paul Atreides",
+      "order": 0
+    },
+    {
+      "personId": 12513,
+      "character": "Lady Jessica",
+      "order": 1
+    },
+    {
+      "personId": 2387,
+      "character": "Gurney Halleck",
+      "order": 2
+    },
+    {
+      "personId": 12516,
+      "character": "Shadout Mapes",
+      "order": 3
+    },
+    {
+      "personId": 12515,
+      "character": "Padisha Emperor Shaddam IV",
+      "order": 4
+    },
+    {
+      "personId": 12517,
+      "character": "Thufir Hawat",
+      "order": 5
+    },
+    {
+      "personId": 1370,
+      "character": "Piter De Vries",
+      "order": 6
+    },
+    {
+      "personId": 12518,
+      "character": "Duncan Idaho",
+      "order": 7
+    },
+    {
+      "personId": 12519,
+      "character": "Princess Irulan",
+      "order": 8
+    },
+    {
+      "personId": 12520,
+      "character": "Reverend Mother Ramallo",
+      "order": 9
+    },
+    {
+      "personId": 5616,
+      "character": "Stilgar",
+      "order": 10
+    },
+    {
+      "personId": 982,
+      "character": "Feyd Rautha",
+      "order": 11
+    },
+    {
+      "personId": 12521,
+      "character": "Baron Vladimir Harkonnen",
+      "order": 12
+    },
+    {
+      "personId": 6718,
+      "character": "Nefud",
+      "order": 13
+    },
+    {
+      "personId": 12522,
+      "character": "Reverend Mother Gaius Helen Mohiam",
+      "order": 14
+    },
+    {
+      "personId": 920,
+      "character": "Duke Leto Atreides",
+      "order": 15
+    },
+    {
+      "personId": 12514,
+      "character": "The Baron's Doctor",
+      "order": 16
+    },
+    {
+      "personId": 39782,
+      "character": "The Beast Rabban",
+      "order": 17
+    },
+    {
+      "personId": 923,
+      "character": "Doctor Wellington Yueh",
+      "order": 18
+    },
+    {
+      "personId": 2201,
+      "character": "Doctor Kynes",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3591,
+  "sources": [
+    "cult-list"
+  ]
+}

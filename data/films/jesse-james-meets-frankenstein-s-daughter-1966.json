@@ -1,0 +1,157 @@
+{
+  "tmdbId": 3149,
+  "slug": "jesse-james-meets-frankenstein-s-daughter-1966",
+  "year": 1966,
+  "runtime": 83,
+  "originalTitle": "Jesse James Meets Frankenstein's Daughter",
+  "title": {
+    "en": "Jesse James Meets Frankenstein's Daughter",
+    "tr": "Jesse James Meets Frankenstein's Daughter"
+  },
+  "overview": {
+    "en": "Dr. Frankenstein's Granddaughter Maria, and her brother assistant Rudolph, moved to the old west because the lightning storms there are more frequent and intense, which allows them to work on the experiments of their grandfather. But the experiments are failing and Rudolph's been secretly killing the corpses afterwards. Meanwhile, the Lopez family leaves the town because of the evil going on there",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/v4CQ0oP2ISRReZABJNcVWrvetCY.jpg",
+    "en": "/v4CQ0oP2ISRReZABJNcVWrvetCY.jpg"
+  },
+  "backdrops": [
+    "/macLGPewy8OarjOYPjPOXa34uu5.jpg"
+  ],
+  "trailerKey": "UbjzpAW5rdo",
+  "genreIds": [
+    27,
+    37,
+    878
+  ],
+  "keywordIds": [
+    534,
+    10125,
+    9910,
+    155493
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Circle Productions"
+  ],
+  "crew": [
+    {
+      "personId": 30833,
+      "job": "director"
+    },
+    {
+      "personId": 30834,
+      "job": "writer"
+    },
+    {
+      "personId": 30835,
+      "job": "producer"
+    },
+    {
+      "personId": 30837,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 30836,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 30844,
+      "character": "Jesse James",
+      "order": 0
+    },
+    {
+      "personId": 30845,
+      "character": "Dr. Maria Frankenstein",
+      "order": 1
+    },
+    {
+      "personId": 4306,
+      "character": "Juanita Lopez",
+      "order": 2
+    },
+    {
+      "personId": 15976,
+      "character": "Hank Tracy / Igor",
+      "order": 3
+    },
+    {
+      "personId": 30846,
+      "character": "Marshal MacPhee",
+      "order": 4
+    },
+    {
+      "personId": 30847,
+      "character": "Dr. Rudolf Frankenstein",
+      "order": 5
+    },
+    {
+      "personId": 30848,
+      "character": "Lonny Curry",
+      "order": 6
+    },
+    {
+      "personId": 30849,
+      "character": "Jensen",
+      "order": 7
+    },
+    {
+      "personId": 56924,
+      "character": "Saloon Owner",
+      "order": 8
+    },
+    {
+      "personId": 166335,
+      "character": "Butch Curry",
+      "order": 9
+    },
+    {
+      "personId": 176462,
+      "character": "Manuel Lopez",
+      "order": 10
+    },
+    {
+      "personId": 160643,
+      "character": "Nina Lopez",
+      "order": 11
+    },
+    {
+      "personId": 94897,
+      "character": "Pete Ketchum",
+      "order": 12
+    },
+    {
+      "personId": 1231329,
+      "character": "Stacy",
+      "order": 13
+    },
+    {
+      "personId": 166352,
+      "character": "Deputy Andy",
+      "order": 14
+    },
+    {
+      "personId": 170562,
+      "character": "Townsman",
+      "order": 15
+    },
+    {
+      "personId": 141070,
+      "character": "Townswoman",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 31,
+  "sources": [
+    "cult-list"
+  ]
+}

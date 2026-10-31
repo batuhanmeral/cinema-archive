@@ -1,0 +1,182 @@
+{
+  "tmdbId": 39885,
+  "slug": "the-transgressor-1974",
+  "year": 1974,
+  "runtime": 91,
+  "originalTitle": "聖獣学園",
+  "title": {
+    "en": "The Transgressor",
+    "tr": "The Transgressor"
+  },
+  "overview": {
+    "en": "18 years after the mysterious death of her mother, Maya takes religious vows to find out what terrible things happened to her mother inside the Sacred Heart Convent. As soon as the door closes to the nunnery, the nuns start torturing her. She also has to deal with a lecherous archbishops and a lesbian mother superior.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/v4Aae3oDI7XkHnUlzlsCUIIGI17.jpg",
+    "en": "/v4Aae3oDI7XkHnUlzlsCUIIGI17.jpg"
+  },
+  "backdrops": [
+    "/kUQeWZBubjrSmhWrlhu6ldqrNBn.jpg",
+    "/o66nkW4OM2yoVTXtKoc2Nsu7TS9.jpg",
+    "/dayFSpdWVBPGXgoTUmPDnfDe3dD.jpg",
+    "/kwZsa5Cc2RXc0BBpNoJIl543Jsi.jpg",
+    "/5ZlwhP6Izy4SClzhQ2Gn3baHZIw.jpg",
+    "/71Eh7rzdCtn0JGmank5tFWYrhFz.jpg",
+    "/sJTFIjFd7t430gVlKoqI3fW9dgf.jpg",
+    "/1I1igSIIW9vsyCo3aE3u8IUhlz2.jpg",
+    "/f3CPJ7JzYXklXjPxtHkaYgLJpPX.jpg",
+    "/ybTDwPGWiOfCv1jcQEDYYqqq7X.jpg"
+  ],
+  "trailerKey": "3NktNQ-givc",
+  "genreIds": [
+    18,
+    53,
+    27
+  ],
+  "keywordIds": [
+    1664,
+    33841,
+    159551,
+    190370,
+    195222
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Toei Company"
+  ],
+  "crew": [
+    {
+      "personId": 95588,
+      "job": "director"
+    },
+    {
+      "personId": 95592,
+      "job": "writer"
+    },
+    {
+      "personId": 95588,
+      "job": "writer"
+    },
+    {
+      "personId": 1739509,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 549666,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1029306,
+      "character": "Maya Takigawa",
+      "order": 0
+    },
+    {
+      "personId": 1119496,
+      "character": "Matsuko Ishida",
+      "order": 1
+    },
+    {
+      "personId": 1098546,
+      "character": "Hisako Kitano",
+      "order": 2
+    },
+    {
+      "personId": 95580,
+      "character": "Natalie Green",
+      "order": 3
+    },
+    {
+      "personId": 1273293,
+      "character": "Tatsuhei Kameda",
+      "order": 4
+    },
+    {
+      "personId": 1269506,
+      "character": "Tamao Oka",
+      "order": 5
+    },
+    {
+      "personId": 1014849,
+      "character": "Kaoru Onotsuka",
+      "order": 6
+    },
+    {
+      "personId": 2608904,
+      "character": "Janetto",
+      "order": 7
+    },
+    {
+      "personId": 581883,
+      "character": "Youko Watanabe",
+      "order": 8
+    },
+    {
+      "personId": 95584,
+      "character": "Emi Takanami",
+      "order": 9
+    },
+    {
+      "personId": 138420,
+      "character": "Mie Mitsuko",
+      "order": 10
+    },
+    {
+      "personId": 2797448,
+      "character": "Michiko Shinohara",
+      "order": 11
+    },
+    {
+      "personId": 2797449,
+      "character": "Keiko Kitano",
+      "order": 12
+    },
+    {
+      "personId": 236092,
+      "character": "Sadako Matsumara",
+      "order": 13
+    },
+    {
+      "personId": 127837,
+      "character": "Aya Ogasahara",
+      "order": 14
+    },
+    {
+      "personId": 224662,
+      "character": "Priest Kakinuma",
+      "order": 15
+    },
+    {
+      "personId": 1119487,
+      "character": "Kenta Aoki",
+      "order": 16
+    },
+    {
+      "personId": 1971690,
+      "character": "Norihisa Kojima",
+      "order": 17
+    },
+    {
+      "personId": 1270585,
+      "character": "Tanaka",
+      "order": 18
+    },
+    {
+      "personId": 5740837,
+      "character": "Mika Nakagami",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 67,
+  "sources": [
+    "cult-list"
+  ]
+}
