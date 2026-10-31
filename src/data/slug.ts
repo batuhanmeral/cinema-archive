@@ -14,12 +14,16 @@ const SPECIAL_CHARS: Record<string, string> = {
   đ: 'd',
   Đ: 'd',
 }
+// Harfler tek yerde (eşlemenin anahtarları) tutulur; anahtarlarda düzenli ifade özel karakteri yok.
+const SPECIAL_PATTERN = new RegExp(`[${Object.keys(SPECIAL_CHARS).join('')}]`, 'g')
+// NFKD'nin ayırdığı birleşik aksan işaretleri (U+0300–U+036F).
+const COMBINING_MARKS = /[\u0300-\u036f]/g
 
 export function slugify(text: string): string {
   return text
-    .replace(/[ıİœŒæÆßøØłŁđĐ]/g, (char) => SPECIAL_CHARS[char] ?? char)
+    .replace(SPECIAL_PATTERN, (char) => SPECIAL_CHARS[char] ?? char)
     .normalize('NFKD')
-    .replace(/[̀-ͯ]/g, '')
+    .replace(COMBINING_MARKS, '')
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '')

@@ -11,7 +11,7 @@ on:
 permissions:
   contents: read
 
-# Aynı ref için eski taramayı iptal et, kuyruk birikmesin
+# Aynı ref'te tek tarama koşar: PR'da eskisi iptal edilir, diğer olaylarda yenisi bitmesini bekler
 concurrency:
   group: security-${{ github.ref }}
   cancel-in-progress: ${{ github.event_name == 'pull_request' }}
