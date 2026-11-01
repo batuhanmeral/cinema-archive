@@ -246,6 +246,7 @@ export async function runImport(deps: ImportDeps): Promise<ImportOutput> {
     added: added.map(toRef),
     missingFromSources: missingPublishable.map(toRef),
     ...reportParts,
+    groups: { movements: [], collections: [] },
   }
   return {
     films,

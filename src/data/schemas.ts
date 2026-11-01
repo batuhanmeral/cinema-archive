@@ -7,9 +7,10 @@ export const TRAILER_KEY_PATTERN = /^[A-Za-z0-9_-]{1,64}$/
 export const tmdbPathSchema = z.string().regex(/^\/[A-Za-z0-9_-]+\.(jpg|png|svg)$/)
 
 const idSchema = z.number().int().positive()
-const slugSchema = z.string().regex(SLUG_PATTERN)
+const yearSchema = z.number().int().min(1880).max(2100)
+export const slugSchema = z.string().regex(SLUG_PATTERN)
 const nonEmptySchema = z.string().min(1)
-const localizedSchema = z.object({ tr: nonEmptySchema, en: nonEmptySchema })
+export const localizedSchema = z.object({ tr: nonEmptySchema, en: nonEmptySchema })
 
 export const crewJobSchema = z.enum(['director', 'writer', 'producer', 'cinematographer', 'composer'])
 export type CrewJob = z.infer<typeof crewJobSchema>
@@ -17,7 +18,7 @@ export type CrewJob = z.infer<typeof crewJobSchema>
 export const filmSchema = z.object({
   tmdbId: idSchema,
   slug: slugSchema,
-  year: z.number().int().min(1880).max(2100),
+  year: yearSchema,
   runtime: idSchema.nullable(),
   originalTitle: nonEmptySchema,
   title: localizedSchema,
@@ -76,3 +77,31 @@ export const peopleFileSchema = z.array(personSchema)
 export const genresFileSchema = z.array(genreSchema)
 export const themesFileSchema = z.array(themeSchema)
 export const awardGroupsFileSchema = z.array(awardGroupSchema)
+
+// Süren akımın bitişi null'dır; bitiş başlangıçtan önce olamaz.
+export const yearRangeSchema = z
+  .object({ start: yearSchema, end: yearSchema.nullable() })
+  .refine(({ start, end }) => end === null || end >= start, 'end must not precede start')
+export type YearRange = z.infer<typeof yearRangeSchema>
+
+const countriesSchema = z.array(z.string().regex(/^[A-Z]{2}$/)).min(1)
+
+export const movementSchema = z.object({
+  slug: slugSchema,
+  name: localizedSchema,
+  years: yearRangeSchema,
+  countries: countriesSchema,
+  pioneerIds: z.array(idSchema),
+  filmIds: z.array(idSchema).min(1),
+})
+export type Movement = z.infer<typeof movementSchema>
+
+export const collectionSchema = z.object({
+  slug: slugSchema,
+  name: localizedSchema,
+  filmIds: z.array(idSchema).min(1),
+})
+export type Collection = z.infer<typeof collectionSchema>
+
+export const movementsFileSchema = z.array(movementSchema)
+export const collectionsFileSchema = z.array(collectionSchema)

@@ -33,6 +33,7 @@ function validOutput(overrides: Partial<ImportOutput> = {}): ImportOutput {
       review: [],
       adultExcluded: [],
       skipped: [],
+      groups: { movements: [], collections: [] },
     },
     keywords: [{ id: 1, name: 'zone', films: 1 }],
     ...overrides,
