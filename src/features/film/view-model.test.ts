@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { makeFilm, makePerson } from '@/data/fixtures'
+import { makeCollection, makeFilm, makeMovement, makePerson } from '@/data/fixtures'
 import type { Film } from '@/data/schemas'
 import {
   CREW_ROW_LIMIT,
@@ -30,6 +30,8 @@ function makeContext(): FilmViewContext {
     themes: new Map([
       [4565, { keywordId: 4565, name: 'dystopia', tr: 'Distopya', en: 'Dystopia' }],
     ]),
+    movements: [],
+    collections: [],
     awardGroups: [
       { key: 'oscar', tr: 'Oscar', en: 'Oscar', qids: ['Q19020'] },
       { key: 'cannes', tr: 'Cannes', en: 'Cannes', qids: ['Q42369'] },
@@ -121,25 +123,46 @@ describe('buildFilmView', () => {
   it('lists genres then allowlisted themes as tags, linked to the archive', () => {
     const view = buildFilmView(makeFilm({ genreIds: [878], keywordIds: [4565, 999999] }), 'tr', ctx)
     expect(view.tags).toEqual([
-      { text: 'Bilim-Kurgu', href: '/arsiv?genre=878' },
-      { text: 'Distopya', href: '/arsiv?theme=4565' },
+      { text: 'Bilim-Kurgu', href: '/arsiv?genre=878', prefetch: false },
+      { text: 'Distopya', href: '/arsiv?theme=4565', prefetch: false },
     ])
     expect(view.tags.some((t) => t.href?.includes('999999'))).toBe(false)
+  })
+
+  it('puts movement then collection tags first, with default prefetch', () => {
+    const view = buildFilmView(makeFilm({ genreIds: [878] }), 'tr', {
+      ...ctx,
+      movements: [makeMovement()],
+      collections: [makeCollection()],
+    })
+    expect(view.tags.slice(0, 3)).toEqual([
+      { text: 'Fransız Yeni Dalgası', href: '/akim/french-new-wave' },
+      { text: 'Yavaş Sinema', href: '/koleksiyon/slow-cinema' },
+      { text: 'Bilim-Kurgu', href: '/arsiv?genre=878', prefetch: false },
+    ])
+  })
+
+  it('keeps prefetch off for every archive and person link in tags and index', () => {
+    const view = buildFilmView(makeFilm(fullFilm), 'tr', ctx)
+    const items = [...view.tags, ...view.index.flatMap((r) => r.items)]
+    const linked = items.filter((i) => i.href?.startsWith('/arsiv') || i.href?.startsWith('/kisi'))
+    expect(linked.length).toBeGreaterThan(5)
+    expect(linked.every((i) => i.prefetch === false)).toBe(true)
   })
 
   it('links country and language to the archive with localized names', () => {
     const view = buildFilmView(makeFilm(), 'en', ctx)
     expect(row(view, 'country').items).toEqual([
-      { text: 'Soviet Union', href: '/en/archive?country=SU' },
+      { text: 'Soviet Union', href: '/en/archive?country=SU', prefetch: false },
     ])
     expect(row(view, 'language').items).toEqual([
-      { text: 'Russian', href: '/en/archive?language=ru' },
+      { text: 'Russian', href: '/en/archive?language=ru', prefetch: false },
     ])
   })
 
   it('links the year to its decade', () => {
     expect(row(buildFilmView(makeFilm(), 'en', ctx), 'year').items).toEqual([
-      { text: '1979', href: '/en/archive?decade=1970' },
+      { text: '1979', href: '/en/archive?decade=1970', prefetch: false },
     ])
   })
 
@@ -158,11 +181,11 @@ describe('buildFilmView', () => {
   it('links people only when they have a page', () => {
     const view = buildFilmView(makeFilm(fullFilm), 'tr', ctx)
     expect(row(view, 'director').items).toEqual([
-      { text: 'Andrei Tarkovsky', href: '/kisi/andrei-tarkovsky' },
+      { text: 'Andrei Tarkovsky', href: '/kisi/andrei-tarkovsky', prefetch: false },
     ])
     expect(row(view, 'producer').items).toEqual([{ text: 'Aleksandra Demidova' }])
     expect(row(view, 'composer').items).toEqual([
-      { text: 'Eduard Artemyev', href: '/kisi/eduard-artemyev' },
+      { text: 'Eduard Artemyev', href: '/kisi/eduard-artemyev', prefetch: false },
     ])
     expect(view.directors).toEqual([
       {

@@ -41,10 +41,9 @@ export function FilmHero({ view }: { view: FilmView; locale: Locale }) {
               {view.tags.map((tag) => (
                 <li key={tag.href ?? tag.text} className="mr-4">
                   {tag.href ? (
-                    // Arşiv sayfası M4'te gelir; o zamana kadar ön yükleme 404 üretir.
                     <Link
                       href={tag.href}
-                      prefetch={false}
+                      prefetch={tag.prefetch}
                       className="border-b border-accent text-accent"
                     >
                       {tag.text}

@@ -17,6 +17,8 @@ const MAIN_SIZES = '(max-width: 767px) 100vw, 600px'
 // Tam genişlikte 1x ekran w1280 alır; 2x ekranda da 600 px sınırı korunur.
 const FULL_SIZES = '(max-width: 767px) 100vw, (min-resolution: 2dppx) 600px, 1200px'
 const SIDE_SIZES = '(max-width: 767px) 50vw, 400px'
+// Tek yan kare mobilde tam genişlik olduğundan 50vw yetersiz kalır.
+const SINGLE_SIDE_SIZES = '(max-width: 767px) 100vw, 400px'
 
 // Veri şemada doğrulanır; görünüm modeli düz string taşıdığından URL kurulmadan önce yine denetlenir.
 function trailerUrl(key: string | null): string | null {
@@ -33,6 +35,7 @@ export function TrailerAndStills({ view, locale }: { view: FilmView; locale: Loc
   const sideStills = rest.slice(0, SIDE_STILLS)
   // Tek yan kare mobilde iki sütunu kaplar; masaüstünde tek satırda büyük karenin boyuna uzar.
   const sideClass = sideStills.length === 1 ? 'col-span-2 md:col-span-1' : ''
+  const sideSizes = sideStills.length === 1 ? SINGLE_SIDE_SIZES : SIDE_SIZES
   const mainSizes = sideStills.length === 0 ? FULL_SIZES : MAIN_SIZES
   // Kare yoksa afiş, kırpılmadan oynatma yüzeyi olur.
   const cover = mainStill ? (
@@ -63,7 +66,7 @@ export function TrailerAndStills({ view, locale }: { view: FilmView; locale: Loc
         </div>
         {sideStills.map((still) => (
           <div key={still} className={`relative aspect-video md:aspect-auto ${sideClass}`}>
-            <Image src={still} alt="" fill sizes={SIDE_SIZES} className="object-cover" />
+            <Image src={still} alt="" fill sizes={sideSizes} className="object-cover" />
           </div>
         ))}
       </div>

@@ -1,57 +1,81 @@
 import type { Film } from '@/data/schemas'
+import type { SimilarReasonKey } from '@/lib/i18n/messages'
+import type { Membership } from '@/lib/membership'
 
-export type SimilarReason = 'same-director' | 'shared-tag' | 'genre-decade'
+export type SimilarReason = SimilarReasonKey
 export type SimilarFilm = { film: Film; reason: SimilarReason }
 
 export const SIMILAR_LIMIT = 12
 
-// Spec §7.2 önceliği: yönetmen her zaman etiketin, etiket her zaman tür+dönemin önünde.
-const SAME_DIRECTOR_SCORE = 100
-const SHARED_TAG_SCORE = 10
-const GENRE_DECADE_SCORE = 5
 const DECADE = 10
 
-type Scored = SimilarFilm & { score: number }
+// Sıralama sözlük sırasıdır: üst basamak, alttakilerin toplamıyla asla geçilemez.
+type Signals = {
+  sameDirector: boolean
+  sameMovement: boolean
+  sharedCollections: number
+  sharedThemes: number
+  genreDecade: boolean
+}
+type Scored = SimilarFilm & { signals: Signals }
 
 const decadeOf = (film: Film) => Math.floor(film.year / DECADE)
 
 const directorIds = (film: Film) =>
   film.crew.filter((member) => member.job === 'director').map((member) => member.personId)
 
+const slugsOf = (groups: { slug: string }[]) => new Set(groups.map((group) => group.slug))
+
+function reasonOf(signals: Signals): SimilarReason | null {
+  if (signals.sameDirector) return 'same-director'
+  if (signals.sameMovement) return 'same-movement'
+  if (signals.sharedCollections > 0) return 'same-collection'
+  if (signals.sharedThemes > 0) return 'shared-tag'
+  return signals.genreDecade ? 'genre-decade' : null
+}
+
 function byRank(a: Scored, b: Scored): number {
-  if (a.score !== b.score) return b.score - a.score
-  if (a.film.voteCount !== b.film.voteCount) return b.film.voteCount - a.film.voteCount
-  return a.film.slug < b.film.slug ? -1 : 1
+  const x = a.signals
+  const y = b.signals
+  return (
+    Number(y.sameDirector) - Number(x.sameDirector) ||
+    Number(y.sameMovement) - Number(x.sameMovement) ||
+    y.sharedCollections - x.sharedCollections ||
+    y.sharedThemes - x.sharedThemes ||
+    Number(y.genreDecade) - Number(x.genreDecade) ||
+    b.film.voteCount - a.film.voteCount ||
+    (a.film.slug < b.film.slug ? -1 : 1)
+  )
 }
 
 export function findSimilarFilms(
   target: Film,
   all: Film[],
   allowedThemeIds: ReadonlySet<number>,
+  membership: Membership,
   limit = SIMILAR_LIMIT,
 ): SimilarFilm[] {
   const targetDirectors = new Set(directorIds(target))
   const targetThemes = new Set(target.keywordIds.filter((id) => allowedThemeIds.has(id)))
   const targetGenres = new Set(target.genreIds)
   const targetDecade = decadeOf(target)
+  const targetMovements = slugsOf(membership.movementsOf(target.tmdbId))
+  const targetCollections = slugsOf(membership.collectionsOf(target.tmdbId))
 
   const scored = all.flatMap((film): Scored[] => {
     if (film.slug === target.slug) return []
-    const sameDirector = directorIds(film).some((id) => targetDirectors.has(id))
-    const sharedTags = new Set(film.keywordIds.filter((id) => targetThemes.has(id))).size
-    const genreDecade =
-      decadeOf(film) === targetDecade && film.genreIds.some((id) => targetGenres.has(id))
-    const score =
-      (sameDirector ? SAME_DIRECTOR_SCORE : 0) +
-      sharedTags * SHARED_TAG_SCORE +
-      (genreDecade ? GENRE_DECADE_SCORE : 0)
-    if (score === 0) return []
-    const reason: SimilarReason = sameDirector
-      ? 'same-director'
-      : sharedTags > 0
-        ? 'shared-tag'
-        : 'genre-decade'
-    return [{ film, reason, score }]
+    const signals: Signals = {
+      sameDirector: directorIds(film).some((id) => targetDirectors.has(id)),
+      sameMovement: membership.movementsOf(film.tmdbId).some((m) => targetMovements.has(m.slug)),
+      sharedCollections: membership
+        .collectionsOf(film.tmdbId)
+        .filter((c) => targetCollections.has(c.slug)).length,
+      sharedThemes: new Set(film.keywordIds.filter((id) => targetThemes.has(id))).size,
+      genreDecade:
+        decadeOf(film) === targetDecade && film.genreIds.some((id) => targetGenres.has(id)),
+    }
+    const reason = reasonOf(signals)
+    return reason ? [{ film, reason, signals }] : []
   })
 
   return scored

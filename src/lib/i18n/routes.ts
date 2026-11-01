@@ -36,6 +36,22 @@ export function personHref(locale: Locale, slug: string): string {
   return localePath(locale, [SEGMENTS.person[locale], slug])
 }
 
+export function movementHref(locale: Locale, slug: string): string {
+  return localePath(locale, [SEGMENTS.movement[locale], slug])
+}
+
+export function movementsHref(locale: Locale): string {
+  return localePath(locale, [SEGMENTS.movements[locale]])
+}
+
+export function collectionHref(locale: Locale, slug: string): string {
+  return localePath(locale, [SEGMENTS.collection[locale], slug])
+}
+
+export function collectionsHref(locale: Locale): string {
+  return localePath(locale, [SEGMENTS.collections[locale]])
+}
+
 export function archiveHref(locale: Locale, filter: ArchiveFilter): string {
   const query = new URLSearchParams()
   for (const [key, value] of Object.entries(filter)) {

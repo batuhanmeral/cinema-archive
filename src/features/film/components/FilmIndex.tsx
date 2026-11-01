@@ -1,14 +1,15 @@
 import Link from 'next/link'
 import { Fragment } from 'react'
-import type { IndexRow, LinkItem } from '../view-model'
+import type { LinkItem } from '@/lib/link-items'
+import type { IndexRow } from '../view-model'
 
 function IndexItem({ item }: { item: LinkItem }) {
   if (!item.href) return item.text
   return (
-    // Arşiv (M4) ve kişi (M5) sayfaları henüz yok; o aşamalarda ön yükleme açılır.
+    // Arşiv (M4) ve kişi (M5) bağlantıları prefetch: false taşır; sayfaları henüz yok.
     <Link
       href={item.href}
-      prefetch={false}
+      prefetch={item.prefetch}
       className="transition-colors duration-150 hover:text-accent"
     >
       {item.text}

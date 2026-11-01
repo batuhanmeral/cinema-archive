@@ -14,14 +14,17 @@ export async function FilmPage({ slug, locale }: { slug: string; locale: Locale 
   const film = store.filmBySlug(slug)
   if (!film) notFound()
 
+  const membership = store.membership()
   const view = buildFilmView(film, locale, {
     people: store.people(),
     genres: store.genres(),
     themes: store.themes(),
+    movements: membership.movementsOf(film.tmdbId),
+    collections: membership.collectionsOf(film.tmdbId),
     awardGroups: store.awardGroups(),
   })
   const similar = buildSimilarCards(
-    findSimilarFilms(film, store.films(), new Set(store.themes().keys())),
+    findSimilarFilms(film, store.films(), new Set(store.themes().keys()), membership),
     locale,
     store.people(),
   )

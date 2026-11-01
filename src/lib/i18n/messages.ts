@@ -1,4 +1,3 @@
-import type { SimilarReason } from '@/features/film/similar'
 import type { Locale } from './locale'
 
 type FilmIndexKey =
@@ -16,16 +15,26 @@ type FilmIndexKey =
   | 'cinematographer'
   | 'composer'
 
+export type SimilarReasonKey =
+  'same-director' | 'same-movement' | 'same-collection' | 'shared-tag' | 'genre-decade'
+
 export type Messages = {
   credit: string
-  nav: { home: string; switchLanguage: string }
+  nav: {
+    home: string
+    switchLanguage: string
+    movements: string
+    collections: string
+    menu: string
+    skip: string
+  }
   film: {
     sections: { trailer: string; cast: string; similar: string }
     playTrailer: string
     index: Record<FilmIndexKey, string>
     directorRole: string
     minutes: (n: number) => string
-    similarReason: Record<SimilarReason, string>
+    similarReason: Record<SimilarReasonKey, string>
   }
   rail: { previous: string; next: string }
 }
@@ -34,7 +43,14 @@ export const messages: Record<Locale, Messages> = {
   tr: {
     credit:
       "Bu site TMDB API'sini kullanır, ancak TMDB tarafından onaylanmamış ya da desteklenmemiştir.",
-    nav: { home: 'Ana sayfa', switchLanguage: 'İngilizce sürüme geç' },
+    nav: {
+      home: 'Ana sayfa',
+      switchLanguage: 'İngilizce sürüme geç',
+      movements: 'Akımlar',
+      collections: 'Koleksiyonlar',
+      menu: 'Menü',
+      skip: 'İçeriğe atla',
+    },
     film: {
       sections: {
         trailer: 'Fragman ve kareler',
@@ -61,6 +77,8 @@ export const messages: Record<Locale, Messages> = {
       minutes: (n) => `${n} dk`,
       similarReason: {
         'same-director': 'Aynı yönetmen',
+        'same-movement': 'Aynı akım',
+        'same-collection': 'Aynı koleksiyon',
         'shared-tag': 'Ortak etiket',
         'genre-decade': 'Aynı tür ve dönem',
       },
@@ -69,7 +87,14 @@ export const messages: Record<Locale, Messages> = {
   },
   en: {
     credit: 'This product uses the TMDB API but is not endorsed or certified by TMDB.',
-    nav: { home: 'Home', switchLanguage: 'Switch to Turkish' },
+    nav: {
+      home: 'Home',
+      switchLanguage: 'Switch to Turkish',
+      movements: 'Movements',
+      collections: 'Collections',
+      menu: 'Menu',
+      skip: 'Skip to content',
+    },
     film: {
       sections: {
         trailer: 'Trailer and stills',
@@ -96,6 +121,8 @@ export const messages: Record<Locale, Messages> = {
       minutes: (n) => `${n} min`,
       similarReason: {
         'same-director': 'Same director',
+        'same-movement': 'Same movement',
+        'same-collection': 'Same collection',
         'shared-tag': 'Shared tag',
         'genre-decade': 'Same genre and decade',
       },

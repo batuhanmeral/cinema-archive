@@ -1,4 +1,4 @@
-import type { Film, Person } from './schemas'
+import type { Collection, Film, Movement, Person } from './schemas'
 
 export function makeFilm(overrides: Partial<Film> = {}): Film {
   return {
@@ -35,6 +35,27 @@ export function makePerson(overrides: Partial<Person> = {}): Person {
     name: 'Andrei Tarkovsky',
     profilePath: '/tarkovsky.jpg',
     slug: 'andrei-tarkovsky',
+    ...overrides,
+  }
+}
+
+export function makeMovement(overrides: Partial<Movement> = {}): Movement {
+  return {
+    slug: 'french-new-wave',
+    name: { tr: 'Fransız Yeni Dalgası', en: 'French New Wave' },
+    years: { start: 1958, end: 1968 },
+    countries: ['FR'],
+    pioneerIds: [],
+    filmIds: [1398],
+    ...overrides,
+  }
+}
+
+export function makeCollection(overrides: Partial<Collection> = {}): Collection {
+  return {
+    slug: 'slow-cinema',
+    name: { tr: 'Yavaş Sinema', en: 'Slow Cinema' },
+    filmIds: [1398],
     ...overrides,
   }
 }
