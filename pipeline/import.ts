@@ -3,11 +3,18 @@ import { CACHE_DIR, CONCURRENCY, userAgent } from './config'
 import { readContent } from './content'
 import { loadPipelineEnv } from './env'
 import { createHttpClient } from './lib/http'
-import { matchFixesFileSchema } from './schemas'
+import {
+  collectionContentFileSchema,
+  matchFixesFileSchema,
+  movementContentFileSchema,
+  movementListsFileSchema,
+  yesilcamFileSchema,
+} from './schemas'
 import { runImport } from './run-import'
 import { fetchGenres, fetchMovie, searchMovies } from './sources/tmdb'
-import { fetchAwardCounts, fetchTmdbIdsForQids } from './sources/wikidata'
+import { fetchAwardCounts, fetchGenreQids, fetchTmdbIdsForQids } from './sources/wikidata'
 import { fetchCultList, resolveWikidataIds } from './sources/wikipedia'
+import { fetchArticleFilmLinks, fetchCategoryMembers } from './sources/wikipedia-pages'
 import { readPreviousState, writeImportOutput } from './write-output'
 
 const DATA_DIR = 'data'
@@ -29,6 +36,18 @@ async function main(): Promise<void> {
   await readContent(CONTENT_DIR, 'themes.json', themesFileSchema)
   const awardGroups = await readContent(CONTENT_DIR, 'awards.json', awardGroupsFileSchema)
   const fixes = await readContent(CONTENT_DIR, 'match-fixes.json', matchFixesFileSchema)
+  const movements = await readContent(CONTENT_DIR, 'movements.json', movementContentFileSchema)
+  const movementLists = await readContent(
+    CONTENT_DIR,
+    'movement-lists.json',
+    movementListsFileSchema,
+  )
+  const collections = await readContent(
+    CONTENT_DIR,
+    'collections.json',
+    collectionContentFileSchema,
+  )
+  const yesilcam = await readContent(CONTENT_DIR, 'yesilcam.json', yesilcamFileSchema)
   const prev = await readPreviousState(DATA_DIR)
   const clock = new Date()
 
@@ -40,8 +59,17 @@ async function main(): Promise<void> {
     searchMovies: (query) => searchMovies(tmdb, query),
     awardCounts: (ids) => fetchAwardCounts(wikidata, ids, awardGroups),
     fetchGenres: () => fetchGenres(tmdb),
+    categoryMembers: (category) => fetchCategoryMembers(wikipedia, category),
+    articleFilmLinks: (article) => fetchArticleFilmLinks(wikipedia, article),
+    genreQids: (ids) => fetchGenreQids(wikidata, ids),
+    movements,
+    movementLists,
+    collections,
+    yesilcam,
     prevLock: prev.lock,
     prevPeople: prev.people,
+    prevMovements: prev.movements,
+    prevCollections: prev.collections,
     fixes,
     today: clock.toISOString().slice(0, 10),
     now: clock.toISOString(),

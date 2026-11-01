@@ -36,6 +36,17 @@ function validOutput(overrides: Partial<ImportOutput> = {}): ImportOutput {
       groups: { movements: [], collections: [] },
     },
     keywords: [{ id: 1, name: 'zone', films: 1 }],
+    movements: [
+      {
+        slug: 'soviet-cinema',
+        name: { tr: 'Sovyet Sineması', en: 'Soviet Cinema' },
+        years: { start: 1975, end: null },
+        countries: ['SU'],
+        pioneerIds: [8452],
+        filmIds: [1398],
+      },
+    ],
+    collections: [{ slug: 'zone', name: { tr: 'Bölge', en: 'Zone' }, filmIds: [1398] }],
     ...overrides,
   }
 }
@@ -105,15 +116,42 @@ describe('writeImportOutput', () => {
     expect(await readFile(join(dir, 'people.json'), 'utf8')).toBe(peopleBefore)
   })
 
+  it('writes nothing when a movement has no films', async () => {
+    const dir = await tempDir()
+    const [soviet] = validOutput().movements
+    const output = validOutput({ movements: [{ ...soviet!, filmIds: [] }] })
+    await expect(writeImportOutput(dir, output)).rejects.toThrow(/movements\.json/)
+    expect(await readdir(dir)).toEqual([])
+  })
+
   it('round-trips through readPreviousState', async () => {
     const dir = await tempDir()
     const output = validOutput()
     await writeImportOutput(dir, output)
-    expect(await readPreviousState(dir)).toEqual({ lock: output.lock, people: output.people })
+    expect((await readdir(dir)).sort()).toEqual([
+      'collections.json',
+      'films',
+      'genres.json',
+      'lock.json',
+      'movements.json',
+      'people.json',
+      'reports',
+    ])
+    expect(await readPreviousState(dir)).toEqual({
+      lock: output.lock,
+      people: output.people,
+      movements: output.movements,
+      collections: output.collections,
+    })
   })
 
   it('returns nulls when no previous state exists', async () => {
-    expect(await readPreviousState(await tempDir())).toEqual({ lock: null, people: null })
+    expect(await readPreviousState(await tempDir())).toEqual({
+      lock: null,
+      people: null,
+      movements: null,
+      collections: null,
+    })
   })
 
   it('names the file when a stored JSON file is malformed', async () => {

@@ -163,4 +163,5 @@ export const collectionContentFileSchema = z
 export const yesilcamRowSchema = listFilmSchema.extend({
   basis: z.enum(['altin-portakal', 'hand']),
 })
+export type YesilcamRow = z.infer<typeof yesilcamRowSchema>
 export const yesilcamFileSchema = z.array(yesilcamRowSchema)

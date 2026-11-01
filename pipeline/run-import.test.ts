@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import { HttpError } from './lib/http'
 import { type ImportDeps, runImport } from './run-import'
+import type { CollectionContent, MovementContent, MovementList } from './schemas'
 import type { TmdbMovie } from './sources/tmdb'
 import type { CultListEntry } from './sources/wikipedia'
 
@@ -68,8 +69,17 @@ function fakeDeps(overrides: Partial<ImportDeps> = {}): ImportDeps {
     searchMovies: async () => [],
     awardCounts: async () => new Map([[1398, { oscar: 1 }]]),
     fetchGenres: async () => [{ id: 878, tr: 'Bilim Kurgu', en: 'Science Fiction' }],
+    categoryMembers: async () => [],
+    articleFilmLinks: async () => [],
+    genreQids: async () => new Map(),
+    movements: [],
+    movementLists: [],
+    collections: [],
+    yesilcam: [],
     prevLock: null,
     prevPeople: null,
+    prevMovements: null,
+    prevCollections: null,
     fixes: [],
     today: '2026-10-30',
     now: '2026-10-30T10:00:00.000Z',
@@ -307,5 +317,350 @@ describe('runImport', () => {
       },
     })
     await expect(runImport(deps)).rejects.toThrow(/1398/)
+  })
+})
+
+// Her başlık Q<tmdbId> öğesine çözülür; bilinmeyen başlığın Wikidata öğesi yoktur.
+function wiki(titles: Record<string, number>): Partial<ImportDeps> {
+  return {
+    resolveWikidataIds: async (asked) =>
+      new Map(asked.map((t) => [t, titles[t] === undefined ? null : `Q${titles[t]}`])),
+    tmdbIdsForQids: async (qids) => new Map(qids.map((q) => [q, [Number(q.slice(1))]])),
+  }
+}
+
+function moviesById(...list: TmdbMovie[]): Pick<ImportDeps, 'fetchMovie'> {
+  const byId = new Map(list.map((m) => [m.id, m]))
+  return {
+    fetchMovie: async (id) => {
+      const found = byId.get(id)
+      if (!found) throw new HttpError(404, `https://api.test/movie/${id}`)
+      return found
+    },
+  }
+}
+
+function movement(overrides: Partial<MovementContent> = {}): MovementContent {
+  return {
+    slug: 'soviet-cinema',
+    name: { tr: 'Sovyet Sineması', en: 'Soviet Cinema' },
+    years: { start: 1975, end: 1985 },
+    countries: ['SU'],
+    wikipedia: { article: 'Soviet cinema', categories: ['Soviet films'] },
+    pioneerIds: [8452],
+    ...overrides,
+  }
+}
+
+function collection(slug: string, rule: CollectionContent['rule']): CollectionContent {
+  return { slug, name: { tr: slug, en: slug }, rule }
+}
+
+const stalker = movie(1398)
+const mirror = movie(500, {
+  title: 'Mirror',
+  original_title: 'Зеркало',
+  release_date: '1975-03-07',
+})
+const soviet = { 'Stalker (1979 film)': 1398, 'Mirror (1975 film)': 500 }
+const sovietCategory = async (category: string) =>
+  category === 'Soviet films' ? ['Stalker (1979 film)', 'Mirror (1975 film)'] : []
+
+describe('runImport movements, yesilcam and collections', () => {
+  it('selects cult and non-cult category films and merges their lock sources', async () => {
+    const out = await runImport(
+      fakeDeps({
+        ...wiki(soviet),
+        ...moviesById(stalker, mirror),
+        movements: [movement()],
+        categoryMembers: sovietCategory,
+      }),
+    )
+    expect(out.movements).toEqual([
+      {
+        slug: 'soviet-cinema',
+        name: { tr: 'Sovyet Sineması', en: 'Soviet Cinema' },
+        years: { start: 1975, end: 1985 },
+        countries: ['SU'],
+        pioneerIds: [8452],
+        filmIds: [500, 1398],
+      },
+    ])
+    expect(out.lock.films.map((e) => [e.tmdbId, e.sources])).toEqual([
+      [500, ['movement:soviet-cinema']],
+      [1398, ['cult-list', 'movement:soviet-cinema']],
+    ])
+    expect(out.films.find((f) => f.tmdbId === 500)).toMatchObject({
+      slug: 'mirror-1975',
+      sources: ['movement:soviet-cinema'],
+    })
+    expect(out.report.groups.movements).toEqual([
+      { slug: 'soviet-cinema', films: 2, candidates: 2, added: [500, 1398], removed: [] },
+    ])
+  })
+
+  it('drops a wiki candidate outside the years but keeps a hand-list row of that year', async () => {
+    const loulou = movie(600, {
+      title: 'Loulou',
+      release_date: '1980-09-10',
+      production_countries: [{ iso_3166_1: 'FR' }],
+    })
+    const handFilm = movie(601, {
+      title: 'Hand Film',
+      release_date: '1980-01-01',
+      production_countries: [{ iso_3166_1: 'FR' }],
+    })
+    const newWave = movement({
+      slug: 'french-new-wave',
+      years: { start: 1958, end: 1966 },
+      countries: ['FR'],
+      wikipedia: { article: 'French New Wave', categories: [] },
+      pioneerIds: [],
+    })
+    const lists: MovementList[] = [
+      {
+        movement: 'french-new-wave',
+        source: 'bfi',
+        url: 'https://www.bfi.org.uk/list',
+        films: [{ title: 'Hand Film', year: 1980, directors: ['Andrei Tarkovsky'] }],
+      },
+    ]
+    const out = await runImport(
+      fakeDeps({
+        ...wiki({ ...soviet, 'Loulou (1980 film)': 600 }),
+        ...moviesById(stalker, loulou, handFilm),
+        movements: [newWave],
+        movementLists: lists,
+        articleFilmLinks: async () => ['Loulou (1980 film)'],
+        searchMovies: async () => [
+          {
+            id: 601,
+            title: 'Hand Film',
+            original_title: 'Hand Film',
+            release_date: '1980-01-01',
+            adult: false,
+          },
+        ],
+      }),
+    )
+    expect(out.movements.map((m) => m.filmIds)).toEqual([[601]])
+    expect(out.lock.films.map((e) => e.tmdbId)).toEqual([601, 1398])
+    expect(out.report.groups.movements[0]).toMatchObject({ films: 1, candidates: 1 })
+  })
+
+  it('keeps an adult category film out of movements, collections, films and the lock', async () => {
+    const adult = movie(700, { title: 'Blue Zone', release_date: '1978-01-01', adult: true })
+    const out = await runImport(
+      fakeDeps({
+        ...wiki({ ...soviet, 'Blue Zone (1978 film)': 700 }),
+        ...moviesById(stalker, mirror, adult),
+        movements: [movement()],
+        collections: [collection('soviet-films', { countries: ['SU'] })],
+        categoryMembers: async () => ['Stalker (1979 film)', 'Blue Zone (1978 film)'],
+      }),
+    )
+    expect(out.movements[0]?.filmIds).toEqual([1398])
+    expect(out.collections.map((c) => c.filmIds)).toEqual([[1398]])
+    expect(out.films.map((f) => f.tmdbId)).toEqual([1398])
+    expect(out.lock.films.map((e) => e.tmdbId)).toEqual([1398])
+    expect(out.report.adultExcluded).toEqual([
+      { wikiTitle: 'Blue Zone (1978 film)', tmdbId: 700, title: 'Blue Zone' },
+    ])
+    expect(out.report.counts.adultExcluded).toBe(1)
+  })
+
+  it('lists a locked film that turned adult once when it is also a wiki candidate', async () => {
+    const adult = movie(700, { title: 'Blue Zone', release_date: '1978-01-01', adult: true })
+    const out = await runImport(
+      fakeDeps({
+        ...wiki({ ...soviet, 'Blue Zone (1978 film)': 700 }),
+        ...moviesById(stalker, adult),
+        movements: [movement()],
+        categoryMembers: async () => ['Stalker (1979 film)', 'Blue Zone (1978 film)'],
+        prevLock: {
+          version: 1,
+          films: [
+            { tmdbId: 700, slug: 'blue-zone-1978', sources: ['cult-list'], addedAt: '2026-11-01' },
+          ],
+        },
+      }),
+    )
+    expect(out.report.adultExcluded.map((e) => e.tmdbId)).toEqual([700])
+    expect(out.films.map((f) => f.tmdbId)).toEqual([1398])
+  })
+
+  it('imports a Yeşilçam row by search into the films and a sources collection', async () => {
+    const susuzYaz = movie(800, {
+      title: 'Dry Summer',
+      original_title: 'Susuz Yaz',
+      release_date: '1963-01-01',
+      production_countries: [{ iso_3166_1: 'TR' }],
+      credits: {
+        cast: [],
+        crew: [{ id: 900, name: 'Metin Erksan', job: 'Director', profile_path: null }],
+      },
+    })
+    const out = await runImport(
+      fakeDeps({
+        ...moviesById(stalker, susuzYaz),
+        yesilcam: [
+          { title: 'Susuz Yaz', year: 1963, directors: ['Metin Erksan'], basis: 'altin-portakal' },
+        ],
+        collections: [collection('yesilcam-classics', { sources: ['yesilcam'] })],
+        searchMovies: async (query) =>
+          query === 'Susuz Yaz'
+            ? [
+                {
+                  id: 800,
+                  title: 'Dry Summer',
+                  original_title: 'Susuz Yaz',
+                  release_date: '1963-01-01',
+                  adult: false,
+                },
+              ]
+            : [],
+      }),
+    )
+    expect(out.films.find((f) => f.tmdbId === 800)?.sources).toEqual(['yesilcam'])
+    expect(out.collections).toEqual([
+      {
+        slug: 'yesilcam-classics',
+        name: { tr: 'yesilcam-classics', en: 'yesilcam-classics' },
+        filmIds: [800],
+      },
+    ])
+    expect(out.report.groups.collections).toEqual([
+      { slug: 'yesilcam-classics', films: 1, candidates: 1, added: [800], removed: [] },
+    ])
+    expect(out.report.counts.listRows).toBe(2)
+  })
+
+  it('reports a film that left a movement as removed, keeps it, and is stable on re-run', async () => {
+    const deps = fakeDeps({
+      ...wiki(soviet),
+      ...moviesById(stalker, mirror),
+      movements: [movement()],
+      categoryMembers: async () => ['Stalker (1979 film)'],
+      prevLock: {
+        version: 1,
+        films: [
+          {
+            tmdbId: 500,
+            slug: 'mirror-1975',
+            sources: ['movement:soviet-cinema'],
+            addedAt: '2026-11-01',
+          },
+          { tmdbId: 1398, slug: 'stalker-1979', sources: ['cult-list'], addedAt: '2026-11-01' },
+        ],
+      },
+      prevMovements: [
+        {
+          slug: 'soviet-cinema',
+          name: { tr: 'Sovyet Sineması', en: 'Soviet Cinema' },
+          years: { start: 1975, end: 1985 },
+          countries: ['SU'],
+          pioneerIds: [8452],
+          filmIds: [500, 1398],
+        },
+      ],
+    })
+    const out = await runImport(deps)
+    expect(out.lock.films.map((e) => e.tmdbId)).toEqual([500, 1398])
+    expect(out.films.map((f) => f.slug)).toEqual(['mirror-1975', 'stalker-1979'])
+    expect(out.movements[0]?.filmIds).toEqual([1398])
+    expect(out.report.groups.movements).toEqual([
+      { slug: 'soviet-cinema', films: 1, candidates: 1, added: [], removed: [500] },
+    ])
+
+    const again = await runImport(deps)
+    expect(again.movements).toEqual(out.movements)
+    const next = await runImport({ ...deps, prevLock: out.lock, prevMovements: out.movements })
+    expect(next.movements).toEqual(out.movements)
+    expect(next.report.groups.movements[0]).toMatchObject({ added: [], removed: [] })
+  })
+
+  it('throws when a pioneer directs none of the movement films', async () => {
+    const deps = fakeDeps({
+      ...wiki(soviet),
+      ...moviesById(stalker, mirror),
+      movements: [movement({ pioneerIds: [8452, 9999] })],
+      categoryMembers: sovietCategory,
+    })
+    await expect(runImport(deps)).rejects.toThrow(
+      'Movement "soviet-cinema" pioneer 9999 directs none of its films',
+    )
+  })
+
+  it('throws when a movement ends up with no published films', async () => {
+    const deps = fakeDeps({ ...wiki(soviet), movements: [movement({ pioneerIds: [] })] })
+    await expect(runImport(deps)).rejects.toThrow(/soviet-cinema/)
+  })
+
+  it('throws when a movement list names an unknown movement', async () => {
+    const deps = fakeDeps({
+      movementLists: [
+        {
+          movement: 'no-such-movement',
+          source: 'mubi',
+          url: 'https://mubi.com/list',
+          films: [{ title: 'Nowhere', year: 1977, directors: [] }],
+        },
+      ],
+    })
+    await expect(runImport(deps)).rejects.toThrow(/no-such-movement/)
+  })
+
+  it('puts an unmatched hand-list row in review under its synthetic wikiTitle', async () => {
+    const out = await runImport(
+      fakeDeps({
+        ...wiki(soviet),
+        ...moviesById(stalker, mirror),
+        movements: [movement()],
+        categoryMembers: sovietCategory,
+        movementLists: [
+          {
+            movement: 'soviet-cinema',
+            source: 'mubi',
+            url: 'https://mubi.com/list',
+            films: [{ title: 'Nowhere', year: 1977, directors: [] }],
+          },
+        ],
+      }),
+    )
+    expect(out.report.review).toMatchObject([
+      { wikiTitle: 'mubi:soviet-cinema:Nowhere (1977)', reason: 'unmatched' },
+    ])
+    expect(out.report.counts.review).toBe(1)
+  })
+
+  it('writes movements chronologically and collections in content order', async () => {
+    const later = movement({ slug: 'later-cinema', years: { start: 1977, end: null } })
+    const out = await runImport(
+      fakeDeps({
+        ...wiki(soviet),
+        ...moviesById(stalker, mirror),
+        movements: [later, movement()],
+        categoryMembers: sovietCategory,
+        collections: [
+          collection('zone', { wikipediaCategories: ['Soviet films'] }),
+          collection('empty', { countries: ['JP'] }),
+          collection('genre', { wikidataGenres: ['Q471839'] }),
+        ],
+        genreQids: async (ids) => new Map(ids.map((id) => [id, id === 500 ? ['Q471839'] : []])),
+      }),
+    )
+    expect(out.movements.map((m) => [m.slug, m.filmIds])).toEqual([
+      ['soviet-cinema', [500, 1398]],
+      ['later-cinema', [1398]],
+    ])
+    expect(out.collections.map((c) => [c.slug, c.filmIds])).toEqual([
+      ['zone', [500, 1398]],
+      ['genre', [500]],
+    ])
+    expect(out.report.groups.collections.map((g) => [g.slug, g.films])).toEqual([
+      ['zone', 2],
+      ['empty', 0],
+      ['genre', 1],
+    ])
   })
 })
