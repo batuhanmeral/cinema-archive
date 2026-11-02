@@ -1,0 +1,136 @@
+{
+  "tmdbId": 32928,
+  "slug": "the-extraordinary-adventures-of-mr-west-in-the-land-of-the-bolsheviks-1924",
+  "year": 1924,
+  "runtime": 77,
+  "originalTitle": "Необычайные приключения мистера Веста в стране большевиков",
+  "title": {
+    "en": "The Extraordinary Adventures of Mr. West in the Land of the Bolsheviks",
+    "tr": "The Extraordinary Adventures of Mr. West in the Land of the Bolsheviks"
+  },
+  "overview": {
+    "en": "An ignorant and prejudiced American’s visit of Soviet Russia goes off the rails after his luggage is stolen and he is separated from his bodyguard.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6uoYCtCPsTZfX8hfUwiuHq7VY4.jpg",
+    "en": "/6uoYCtCPsTZfX8hfUwiuHq7VY4.jpg"
+  },
+  "backdrops": [
+    "/ygNepnLDqtjDhZb6jARWGdlfcCD.jpg",
+    "/fNM3YE8b4bJFkeLXn6B7nti34xV.jpg",
+    "/pTmeOUP6DskWjBXqzM6DxRBS6DL.jpg",
+    "/o343hQ8SfJEueb3bsFehY2VL6r6.jpg",
+    "/ylEeWHEsaBu6SOMaaszidrvmh3n.jpg",
+    "/s3drVT79hQ1GfdKkVMBcuEbliWF.jpg",
+    "/5go4Bx4khky7DdC4qxJsSRMv2Kx.jpg",
+    "/tG6ol0dppxsdQOF33wHUhigxEvC.jpg",
+    "/wH94D3dFPzR2pk4Uejs5ebpcT2h.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    322268,
+    367255
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Goskino"
+  ],
+  "crew": [
+    {
+      "personId": 228729,
+      "job": "director"
+    },
+    {
+      "personId": 1551440,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 144821,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1093970,
+      "character": "Mr. West",
+      "order": 0
+    },
+    {
+      "personId": 144826,
+      "character": "Jeddy - The Cowboy",
+      "order": 1
+    },
+    {
+      "personId": 1396140,
+      "character": "Countess von Saks",
+      "order": 2
+    },
+    {
+      "personId": 144821,
+      "character": "Zhban",
+      "order": 3
+    },
+    {
+      "personId": 144833,
+      "character": "The One-Eyed Man",
+      "order": 4
+    },
+    {
+      "personId": 1073949,
+      "character": "The Dandy",
+      "order": 5
+    },
+    {
+      "personId": 1573244,
+      "character": "Ellie - the American girl",
+      "order": 6
+    },
+    {
+      "personId": 2506096,
+      "character": "Senka Svishch",
+      "order": 7
+    },
+    {
+      "personId": 1396144,
+      "character": "Crook",
+      "order": 8
+    },
+    {
+      "personId": 1270900,
+      "character": "Crook",
+      "order": 9
+    },
+    {
+      "personId": 2377942,
+      "character": "Crook",
+      "order": 10
+    },
+    {
+      "personId": 1423507,
+      "character": "Policeman",
+      "order": 11
+    },
+    {
+      "personId": 144829,
+      "character": "Quarrelsome young man",
+      "order": 12
+    },
+    {
+      "personId": 2373486,
+      "character": "Mr. West's wife (uncredited)",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 34,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

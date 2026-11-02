@@ -1,0 +1,159 @@
+{
+  "tmdbId": 99216,
+  "slug": "cabin-fever-2000",
+  "year": 2000,
+  "runtime": 102,
+  "originalTitle": "Når nettene blir lange",
+  "title": {
+    "en": "Cabin Fever",
+    "tr": "Når nettene blir lange"
+  },
+  "overview": {
+    "en": "The entire extended family is happily on its way to a nostalgic Christmas at a rented cabin in the mountains. The cabin becomes cramped, however, when mom and dad and four grown-up children with their respective families, a dog and in-laws from Poland squeeze inside the frozen cabin walls in 30-below-zero weather.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/hu80jE3gUcN0xTCLQwsxzcY6xh.jpg",
+    "en": "/hu80jE3gUcN0xTCLQwsxzcY6xh.jpg"
+  },
+  "backdrops": [
+    "/3MD2lJKT127huhznV0adjoNgZI4.jpg",
+    "/8Cv5qZfacdCRwcfjpHQS5ZHi2u3.jpg",
+    "/yfujvU2qIvLPF3p3EQA5KmNRs9R.jpg",
+    "/iM7xHpnZDV6tUrfdaxAzEXnHGjJ.jpg",
+    "/hIKS2RKJbaoHmg7Y8OCbWlk50MB.jpg",
+    "/2RBcVsfmZaC4xh8Tj3lGVcwdS2o.jpg",
+    "/5lBHvYrhM3JGpqod1yDBpBfBFA9.jpg",
+    "/bBKMRPhWEyQejVlofLhKtCEIxsS.jpg",
+    "/4K89qTU8kvfp9YDuPTRvyavr30F.jpg",
+    "/5FX2X46zn4bCW6eq5GXoZdWrvMw.jpg"
+  ],
+  "trailerKey": "mivOpmk_rz8",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    10041,
+    187056,
+    207317,
+    315002
+  ],
+  "countries": [
+    "DK",
+    "NO",
+    "SE"
+  ],
+  "languages": [
+    "de",
+    "no",
+    "pl",
+    "en"
+  ],
+  "studios": [
+    "Freedom from Fear"
+  ],
+  "crew": [
+    {
+      "personId": 1020084,
+      "job": "producer"
+    },
+    {
+      "personId": 1020084,
+      "job": "director"
+    },
+    {
+      "personId": 1020084,
+      "job": "writer"
+    },
+    {
+      "personId": 5993,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1374823,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 22229,
+      "character": "Gunnar",
+      "order": 0
+    },
+    {
+      "personId": 1003231,
+      "character": "Liv",
+      "order": 1
+    },
+    {
+      "personId": 1145,
+      "character": "Stanislaw",
+      "order": 2
+    },
+    {
+      "personId": 73552,
+      "character": "Astrid",
+      "order": 3
+    },
+    {
+      "personId": 111537,
+      "character": "Eivind",
+      "order": 4
+    },
+    {
+      "personId": 1480272,
+      "character": "Siri",
+      "order": 5
+    },
+    {
+      "personId": 1414441,
+      "character": "Per Arne",
+      "order": 6
+    },
+    {
+      "personId": 1357891,
+      "character": "Kari",
+      "order": 7
+    },
+    {
+      "personId": 40622,
+      "character": "Irina",
+      "order": 8
+    },
+    {
+      "personId": 85807,
+      "character": "The Swede",
+      "order": 9
+    },
+    {
+      "personId": 7119,
+      "character": "Olek",
+      "order": 10
+    },
+    {
+      "personId": 3049787,
+      "character": "Martin",
+      "order": 11
+    },
+    {
+      "personId": 3049788,
+      "character": "Morten",
+      "order": 12
+    },
+    {
+      "personId": 3049790,
+      "character": "Lukasz",
+      "order": 13
+    },
+    {
+      "personId": 236454,
+      "character": "",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 8,
+  "sources": [
+    "movement:dogme-95"
+  ]
+}

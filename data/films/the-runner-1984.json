@@ -1,0 +1,111 @@
+{
+  "tmdbId": 213938,
+  "slug": "the-runner-1984",
+  "year": 1984,
+  "runtime": 94,
+  "originalTitle": "دونده",
+  "title": {
+    "en": "The Runner",
+    "tr": "The Runner"
+  },
+  "overview": {
+    "en": "A young orphan named Amiro lives alone in an abandoned tanker in the Iranian port city of Abadan. He survives by shining shoes, selling water, and collecting deposit bottles. Although he sometimes finds himself at odds with both adults and competing older kids, he finds solace in dreams about departing cargo ships and airplanes—and by running.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4X2Lle2CWxGCKcoYyMgqT2x43rR.jpg",
+    "en": "/xl6w3naVjOnIXsIDmeJ2tUCQ6Xv.jpg"
+  },
+  "backdrops": [
+    "/fUDpdaHbMn27JOW9B6oQK50sXt4.jpg",
+    "/naRx1PtWYfdBdkt3Gw156WHbndN.jpg",
+    "/20PjbAyIUnCjLJwZTZRsZwinTiN.jpg",
+    "/zA7xcIz2O6r7BgzXQWgSU9pPoE3.jpg",
+    "/3wD4VskKlCxn5jpwNEjOdR3PgSY.jpg",
+    "/bhWFBbFUohEbTb7YsK3lJSoDtDv.jpg",
+    "/CZk3y8s9bhmXLu5a0neqEF10tt.jpg",
+    "/6qFCXRfrSckUBQplS02al8BSdCu.jpg",
+    "/gc3gJHdiQam8Ll10QZBCtR44dwu.jpg",
+    "/pGqh5HWi5H8aL49TfWEoKSv3ucA.jpg"
+  ],
+  "trailerKey": "gEQ-6MryfYc",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    13014,
+    18009,
+    157955,
+    208568,
+    258037
+  ],
+  "countries": [
+    "IR"
+  ],
+  "languages": [
+    "fa"
+  ],
+  "studios": [
+    "Kanoon",
+    "Studio of the Voice and Portrait of the Islamic Revolution of Iran"
+  ],
+  "crew": [
+    {
+      "personId": 1118657,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 72196,
+      "job": "director"
+    },
+    {
+      "personId": 3605618,
+      "job": "writer"
+    },
+    {
+      "personId": 1118641,
+      "job": "producer"
+    },
+    {
+      "personId": 72196,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1274877,
+      "character": "Amiro",
+      "order": 0
+    },
+    {
+      "personId": 1654096,
+      "character": "",
+      "order": 1
+    },
+    {
+      "personId": 1654097,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 1654098,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 1654099,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1654100,
+      "character": "",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 42,
+  "sources": [
+    "movement:iranian-new-wave"
+  ]
+}

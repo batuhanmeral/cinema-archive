@@ -1,0 +1,157 @@
+{
+  "tmdbId": 195282,
+  "slug": "the-brave-warrior-1968",
+  "year": 1968,
+  "runtime": 77,
+  "originalTitle": "O Bravo Guerreiro",
+  "title": {
+    "en": "The Brave Warrior",
+    "tr": "O Bravo Guerreiro"
+  },
+  "overview": {
+    "en": "Young congressman Miguel Horta represents a party that is directly opposed to the present government. He slyly switches parties in order to gain favor with those in power, seriously compromising his own ideals and ethics in the process.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/QDJvSmyqLX3L2KRkDCi5EplfiA.jpg",
+    "en": "/QDJvSmyqLX3L2KRkDCi5EplfiA.jpg"
+  },
+  "backdrops": [
+    "/3zRQEjQtDtT88mZRo0kaMyTSX2L.jpg",
+    "/vhe99R83UrjtSxQQ1paMwA7y9lR.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Difilm",
+    "Saga Filmes"
+  ],
+  "crew": [
+    {
+      "personId": 3656,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1046311,
+      "job": "composer"
+    },
+    {
+      "personId": 1175689,
+      "job": "director"
+    },
+    {
+      "personId": 1175689,
+      "job": "producer"
+    },
+    {
+      "personId": 1175689,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 103667,
+      "character": "Miguel Horta",
+      "order": 0
+    },
+    {
+      "personId": 1068934,
+      "character": "Augusto",
+      "order": 1
+    },
+    {
+      "personId": 589371,
+      "character": "Conrado Frota",
+      "order": 2
+    },
+    {
+      "personId": 1175690,
+      "character": "Virgilio",
+      "order": 3
+    },
+    {
+      "personId": 55033,
+      "character": "Clara Horta",
+      "order": 4
+    },
+    {
+      "personId": 1288897,
+      "character": "Honorio",
+      "order": 5
+    },
+    {
+      "personId": 1329479,
+      "character": "Governor",
+      "order": 6
+    },
+    {
+      "personId": 1501679,
+      "character": "Ferreira",
+      "order": 7
+    },
+    {
+      "personId": 1618221,
+      "character": "Senator O'Finney",
+      "order": 8
+    },
+    {
+      "personId": 1549803,
+      "character": "Professor",
+      "order": 9
+    },
+    {
+      "personId": 42125,
+      "character": "Sindicalista",
+      "order": 10
+    },
+    {
+      "personId": 1506081,
+      "character": "Deputado do Partido Radical",
+      "order": 11
+    },
+    {
+      "personId": 1175409,
+      "character": "Linda",
+      "order": 12
+    },
+    {
+      "personId": 1257190,
+      "character": "Pericles",
+      "order": 13
+    },
+    {
+      "personId": 112112,
+      "character": "Union Hanger-On",
+      "order": 14
+    },
+    {
+      "personId": 1083199,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 930476,
+      "character": "Líder estudantil",
+      "order": 16
+    },
+    {
+      "personId": 234572,
+      "character": "Rodrigues",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 8,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

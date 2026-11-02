@@ -1,0 +1,194 @@
+{
+  "tmdbId": 106373,
+  "slug": "that-day-on-the-beach-1983",
+  "year": 1983,
+  "runtime": 166,
+  "originalTitle": "海灘的一天",
+  "title": {
+    "en": "That Day, on the Beach",
+    "tr": "That Day, on the Beach"
+  },
+  "overview": {
+    "en": "Two friends who haven't seen each other for thirteen years reunite. One is a successful concert pianist just back from a European tour and the other has just started a new business.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/83GRYRWEXWkfGbDBIpEhXdEhONA.jpg",
+    "en": "/83GRYRWEXWkfGbDBIpEhXdEhONA.jpg"
+  },
+  "backdrops": [
+    "/fJFncz5uUEUXTk32r1m4fcyptVs.jpg",
+    "/nRYyv0SnI7vJsKcEp3CKB9T0hnJ.jpg",
+    "/olnkSPwpvy1UlriaBIUH3Zdvitu.jpg",
+    "/t2f3qFU7XSkFhFXHWekyuQAEflH.jpg",
+    "/iUieeF70KwMNzRFV3Mrz4lfpKYb.jpg",
+    "/6cA5LPjxFv4lidm9QBs8dEeYp9T.jpg",
+    "/xbVLCqTQLMaQw1cmJ3xxLzdx1RX.jpg",
+    "/zwyGK1GpF8AnNayioWkEvn0wT1.jpg",
+    "/eL1FeOLzNbVk5fwHBEgGTPzFVIp.jpg",
+    "/orZQZCc5gUJhjPi44CPLLf0Nbxe.jpg"
+  ],
+  "trailerKey": "WUk7PRE0W9c",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    966,
+    9322,
+    14743
+  ],
+  "countries": [
+    "TW"
+  ],
+  "languages": [
+    "zh",
+    "ja",
+    "de"
+  ],
+  "studios": [
+    "Central Motion Picture Corporation",
+    "Cinema City Company Limited"
+  ],
+  "crew": [
+    {
+      "personId": 143035,
+      "job": "writer"
+    },
+    {
+      "personId": 143035,
+      "job": "director"
+    },
+    {
+      "personId": 143036,
+      "job": "writer"
+    },
+    {
+      "personId": 240177,
+      "job": "producer"
+    },
+    {
+      "personId": 1357,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2807313,
+      "job": "producer"
+    },
+    {
+      "personId": 1554164,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1405058,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 26739,
+      "character": "Lin Jiali",
+      "order": 0
+    },
+    {
+      "personId": 1504457,
+      "character": "Tan Weiqing",
+      "order": 1
+    },
+    {
+      "personId": 1554124,
+      "character": "Ah Cai",
+      "order": 2
+    },
+    {
+      "personId": 1715072,
+      "character": "Cheng Dewei",
+      "order": 3
+    },
+    {
+      "personId": 581786,
+      "character": "Fisherman",
+      "order": 4
+    },
+    {
+      "personId": 1186305,
+      "character": "Hsin Hsin",
+      "order": 5
+    },
+    {
+      "personId": 1656521,
+      "character": "Young Lin Jiali",
+      "order": 6
+    },
+    {
+      "personId": 1641895,
+      "character": "Lin",
+      "order": 7
+    },
+    {
+      "personId": 69835,
+      "character": "Jiali's Mother",
+      "order": 8
+    },
+    {
+      "personId": 1888220,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1888221,
+      "character": "Ping Ping",
+      "order": 10
+    },
+    {
+      "personId": 1888222,
+      "character": "Hsiao Hui",
+      "order": 11
+    },
+    {
+      "personId": 1888223,
+      "character": "Policeman",
+      "order": 12
+    },
+    {
+      "personId": 143036,
+      "character": "Piano Tuner",
+      "order": 13
+    },
+    {
+      "personId": 1092246,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 64992,
+      "character": "Ah Cai's Executive",
+      "order": 15
+    },
+    {
+      "personId": 3406762,
+      "character": "Mori / Lin Jia-Sen",
+      "order": 16
+    },
+    {
+      "personId": 3406763,
+      "character": "Birgit",
+      "order": 17
+    },
+    {
+      "personId": 1158868,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1158874,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 60,
+  "sources": [
+    "movement:new-taiwan-cinema"
+  ]
+}

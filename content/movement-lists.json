@@ -1,1 +1,709 @@
-[]
+[
+  {
+    "movement": "german-expressionism",
+    "source": "bfi",
+    "url": "https://www.bfi.org.uk/lists/10-great-german-expressionist-films",
+    "films": [
+      {
+        "title": "The Cabinet of Dr. Caligari",
+        "year": 1920,
+        "directors": ["Robert Wiene"]
+      },
+      {
+        "title": "From Morn to Midnight",
+        "year": 1920,
+        "directors": ["Karl Heinz Martin"]
+      },
+      {
+        "title": "The Golem: How He Came into the World",
+        "year": 1920,
+        "directors": ["Paul Wegener", "Carl Boese"]
+      },
+      {
+        "title": "Nosferatu",
+        "year": 1922,
+        "directors": ["F.W. Murnau"]
+      },
+      {
+        "title": "Warning Shadows",
+        "year": 1923,
+        "directors": ["Arthur Robison"]
+      },
+      {
+        "title": "The Hands of Orlac",
+        "year": 1924,
+        "directors": ["Robert Wiene"]
+      },
+      {
+        "title": "Waxworks",
+        "year": 1924,
+        "directors": ["Paul Leni"]
+      },
+      {
+        "title": "Variety",
+        "year": 1925,
+        "directors": ["E.A. Dupont"]
+      },
+      {
+        "title": "The Student of Prague",
+        "year": 1926,
+        "directors": ["Henrik Galeen"]
+      },
+      {
+        "title": "Metropolis",
+        "year": 1927,
+        "directors": ["Fritz Lang"]
+      }
+    ]
+  },
+  {
+    "movement": "italian-neorealism",
+    "source": "bfi",
+    "url": "https://www.bfi.org.uk/lists/10-great-italian-neorealist-films",
+    "films": [
+      {
+        "title": "Ossessione",
+        "year": 1943,
+        "directors": ["Luchino Visconti"]
+      },
+      {
+        "title": "La terra trema",
+        "year": 1948,
+        "directors": ["Luchino Visconti"]
+      },
+      {
+        "title": "Germany, Year Zero",
+        "year": 1948,
+        "directors": ["Roberto Rossellini"]
+      },
+      {
+        "title": "Francesco, giullare di Dio",
+        "year": 1950,
+        "directors": ["Roberto Rossellini"]
+      },
+      {
+        "title": "Umberto D.",
+        "year": 1952,
+        "directors": ["Vittorio De Sica"]
+      },
+      {
+        "title": "La strada",
+        "year": 1954,
+        "directors": ["Federico Fellini"]
+      },
+      {
+        "title": "Il tetto",
+        "year": 1956,
+        "directors": ["Vittorio De Sica"]
+      }
+    ]
+  },
+  {
+    "movement": "japanese-new-wave",
+    "source": "bfi",
+    "url": "https://www.bfi.org.uk/features/where-begin-japanese-new-wave",
+    "films": [
+      {
+        "title": "Woman of the Dunes",
+        "year": 1964,
+        "directors": ["Hiroshi Teshigahara"]
+      },
+      {
+        "title": "The Face of Another",
+        "year": 1966,
+        "directors": ["Hiroshi Teshigahara"]
+      },
+      {
+        "title": "Pigs and Battleships",
+        "year": 1961,
+        "directors": ["Shohei Imamura"]
+      },
+      {
+        "title": "The Insect Woman",
+        "year": 1963,
+        "directors": ["Shohei Imamura"]
+      },
+      {
+        "title": "A Man Vanishes",
+        "year": 1967,
+        "directors": ["Shohei Imamura"]
+      },
+      {
+        "title": "Bad Boys",
+        "year": 1961,
+        "directors": ["Susumu Hani"]
+      },
+      {
+        "title": "She and He",
+        "year": 1963,
+        "directors": ["Susumu Hani"]
+      },
+      {
+        "title": "Night and Fog in Japan",
+        "year": 1960,
+        "directors": ["Nagisa Oshima"]
+      },
+      {
+        "title": "Cruel Story of Youth",
+        "year": 1960,
+        "directors": ["Nagisa Oshima"]
+      },
+      {
+        "title": "Death by Hanging",
+        "year": 1968,
+        "directors": ["Nagisa Oshima"]
+      },
+      {
+        "title": "Diary of a Shinjuku Thief",
+        "year": 1969,
+        "directors": ["Nagisa Oshima"]
+      },
+      {
+        "title": "Boy",
+        "year": 1969,
+        "directors": ["Nagisa Oshima"]
+      },
+      {
+        "title": "The Man Who Left His Will on Film",
+        "year": 1970,
+        "directors": ["Nagisa Oshima"]
+      },
+      {
+        "title": "Onibaba",
+        "year": 1964,
+        "directors": ["Kaneto Shindo"]
+      },
+      {
+        "title": "Funeral Parade of Roses",
+        "year": 1969,
+        "directors": ["Toshio Matsumoto"]
+      },
+      {
+        "title": "Eros + Massacre",
+        "year": 1969,
+        "directors": ["Kiju Yoshida"]
+      },
+      {
+        "title": "Heroic Purgatory",
+        "year": 1970,
+        "directors": ["Kiju Yoshida"]
+      },
+      {
+        "title": "Coup d'état",
+        "year": 1973,
+        "directors": ["Kiju Yoshida"]
+      }
+    ]
+  },
+  {
+    "movement": "french-new-wave",
+    "source": "bfi",
+    "url": "https://www.bfi.org.uk/lists/10-great-french-new-wave-films",
+    "films": [
+      {
+        "title": "Hiroshima mon amour",
+        "year": 1959,
+        "directors": ["Alain Resnais"]
+      },
+      {
+        "title": "Breathless",
+        "year": 1960,
+        "directors": ["Jean-Luc Godard"]
+      },
+      {
+        "title": "Les Bonnes Femmes",
+        "year": 1960,
+        "directors": ["Claude Chabrol"]
+      },
+      {
+        "title": "Shoot the Piano Player",
+        "year": 1960,
+        "directors": ["François Truffaut"]
+      },
+      {
+        "title": "Lola",
+        "year": 1961,
+        "directors": ["Jacques Demy"]
+      },
+      {
+        "title": "Adieu Philippine",
+        "year": 1962,
+        "directors": ["Jacques Rozier"]
+      },
+      {
+        "title": "Cléo from 5 to 7",
+        "year": 1962,
+        "directors": ["Agnès Varda"]
+      },
+      {
+        "title": "Le Mépris",
+        "year": 1963,
+        "directors": ["Jean-Luc Godard"]
+      },
+      {
+        "title": "Claire's Knee",
+        "year": 1970,
+        "directors": ["Eric Rohmer"]
+      },
+      {
+        "title": "Céline and Julie Go Boating",
+        "year": 1974,
+        "directors": ["Jacques Rivette"]
+      }
+    ]
+  },
+  {
+    "movement": "cinema-novo",
+    "source": "bfi",
+    "url": "https://www.bfi.org.uk/lists/10-great-cinema-novo-films",
+    "films": [
+      {
+        "title": "Five Times Favela",
+        "year": 1962,
+        "directors": [
+          "Miguel Borges",
+          "Joaquim Pedro de Andrade",
+          "Carlos Diegues",
+          "Marcos Farias",
+          "Leon Hirszman"
+        ]
+      },
+      {
+        "title": "Ganga Zumba",
+        "year": 1963,
+        "directors": ["Carlos Diegues"]
+      },
+      {
+        "title": "Barren Lives",
+        "year": 1963,
+        "directors": ["Nelson Pereira dos Santos"]
+      },
+      {
+        "title": "Black God, White Devil",
+        "year": 1964,
+        "directors": ["Glauber Rocha"]
+      },
+      {
+        "title": "São Paulo, Incorporated",
+        "year": 1965,
+        "directors": ["Luis Sergio Person"]
+      },
+      {
+        "title": "The Deceased",
+        "year": 1965,
+        "directors": ["Leon Hirszman"]
+      },
+      {
+        "title": "The Interview",
+        "year": 1966,
+        "directors": ["Helena Solberg"]
+      },
+      {
+        "title": "Entranced Earth",
+        "year": 1967,
+        "directors": ["Glauber Rocha"]
+      },
+      {
+        "title": "Macunaíma",
+        "year": 1969,
+        "directors": ["Joaquim Pedro de Andrade"]
+      },
+      {
+        "title": "How Tasty Was My Little Frenchman",
+        "year": 1971,
+        "directors": ["Nelson Pereira dos Santos"]
+      }
+    ]
+  },
+  {
+    "movement": "new-german-cinema",
+    "source": "bfi",
+    "url": "https://www.bfi.org.uk/lists/10-great-new-german-cinema-films",
+    "films": [
+      {
+        "title": "Not Reconciled",
+        "year": 1965,
+        "directors": ["Jean-Marie Straub", "Daniele Huillet"]
+      },
+      {
+        "title": "Yesterday Girl",
+        "year": 1966,
+        "directors": ["Alexander Kluge"]
+      },
+      {
+        "title": "It Is Not the Homosexual Who Is Perverse, but the Society in Which He Lives",
+        "year": 1971,
+        "directors": ["Rosa von Praunheim"]
+      },
+      {
+        "title": "Aguirre, Wrath of God",
+        "year": 1972,
+        "directors": ["Werner Herzog"]
+      },
+      {
+        "title": "Ali: Fear Eats the Soul",
+        "year": 1974,
+        "directors": ["Rainer Werner Fassbinder"]
+      },
+      {
+        "title": "Alice in the Cities",
+        "year": 1974,
+        "directors": ["Wim Wenders"]
+      },
+      {
+        "title": "The Lost Honour of Katharina Blum",
+        "year": 1975,
+        "directors": ["Volker Schlöndorff", "Margarethe von Trotta"]
+      },
+      {
+        "title": "Germany in Autumn",
+        "year": 1978,
+        "directors": [
+          "Alf Brustellin",
+          "Hans Peter Cloos",
+          "Rainer Werner Fassbinder",
+          "Alexander Kluge",
+          "Beate Mainka-Jellinghaus",
+          "Maximiliane Mainka",
+          "Edgar Reitz",
+          "Katja Rupé",
+          "Volker Schlöndorff",
+          "Peter Schubert",
+          "Bernhard Sinkel"
+        ]
+      },
+      {
+        "title": "The Marriage of Maria Braun",
+        "year": 1978,
+        "directors": ["Rainer Werner Fassbinder"]
+      },
+      {
+        "title": "The Tin Drum",
+        "year": 1979,
+        "directors": ["Volker Schlöndorff"]
+      }
+    ]
+  },
+  {
+    "movement": "czechoslovak-new-wave",
+    "source": "bfi",
+    "url": "https://www.bfi.org.uk/lists/10-great-slovak-new-wave-films",
+    "films": [
+      {
+        "title": "A Song of the Grey Pigeon",
+        "year": 1961,
+        "directors": ["Stanislav Barabáš"]
+      },
+      {
+        "title": "The Sun in a Net",
+        "year": 1963,
+        "directors": ["Štefan Uher"]
+      },
+      {
+        "title": "The Boxer and Death",
+        "year": 1963,
+        "directors": ["Peter Solan"]
+      },
+      {
+        "title": "Before Tonight Is Over",
+        "year": 1966,
+        "directors": ["Peter Solan"]
+      },
+      {
+        "title": "The Miraculous Virgin",
+        "year": 1967,
+        "directors": ["Štefan Uher"]
+      },
+      {
+        "title": "Dragon's Return",
+        "year": 1968,
+        "directors": ["Eduard Grečner"]
+      },
+      {
+        "title": "The Man Who Lies",
+        "year": 1968,
+        "directors": ["Alain Robbe-Grillet"]
+      },
+      {
+        "title": "Celebration in the Botanical Garden",
+        "year": 1969,
+        "directors": ["Elo Havetta"]
+      },
+      {
+        "title": "Birds, Orphans and Fools",
+        "year": 1969,
+        "directors": ["Juraj Jakubisko"]
+      },
+      {
+        "title": "Pictures of the Old World",
+        "year": 1972,
+        "directors": ["Dušan Hanák"]
+      }
+    ]
+  },
+  {
+    "movement": "new-hollywood",
+    "source": "bfi",
+    "url": "https://www.bfi.org.uk/lists/great-new-hollywood-film-every-year-1967-1982",
+    "films": [
+      {
+        "title": "Bonnie and Clyde",
+        "year": 1967,
+        "directors": ["Arthur Penn"]
+      },
+      {
+        "title": "Petulia",
+        "year": 1968,
+        "directors": ["Richard Lester"]
+      },
+      {
+        "title": "The Wild Bunch",
+        "year": 1969,
+        "directors": ["Sam Peckinpah"]
+      },
+      {
+        "title": "Five Easy Pieces",
+        "year": 1970,
+        "directors": ["Bob Rafelson"]
+      },
+      {
+        "title": "The Last Picture Show",
+        "year": 1971,
+        "directors": ["Peter Bogdanovich"]
+      },
+      {
+        "title": "Fat City",
+        "year": 1972,
+        "directors": ["John Huston"]
+      },
+      {
+        "title": "Badlands",
+        "year": 1973,
+        "directors": ["Terrence Malick"]
+      },
+      {
+        "title": "Chinatown",
+        "year": 1974,
+        "directors": ["Roman Polanski"]
+      },
+      {
+        "title": "Nashville",
+        "year": 1975,
+        "directors": ["Robert Altman"]
+      },
+      {
+        "title": "Taxi Driver",
+        "year": 1976,
+        "directors": ["Martin Scorsese"]
+      },
+      {
+        "title": "3 Women",
+        "year": 1977,
+        "directors": ["Robert Altman"]
+      },
+      {
+        "title": "An Unmarried Woman",
+        "year": 1978,
+        "directors": ["Paul Mazursky"]
+      },
+      {
+        "title": "Apocalypse Now",
+        "year": 1979,
+        "directors": ["Francis Ford Coppola"]
+      },
+      {
+        "title": "Heaven's Gate",
+        "year": 1980,
+        "directors": ["Michael Cimino"]
+      },
+      {
+        "title": "Blow Out",
+        "year": 1981,
+        "directors": ["Brian De Palma"]
+      },
+      {
+        "title": "One from the Heart",
+        "year": 1982,
+        "directors": ["Francis Ford Coppola"]
+      }
+    ]
+  },
+  {
+    "movement": "dogme-95",
+    "source": "bfi",
+    "url": "https://www.bfi.org.uk/features/where-begin-with-dogme-95",
+    "films": [
+      {
+        "title": "Festen",
+        "year": 1998,
+        "directors": ["Thomas Vinterberg"]
+      },
+      {
+        "title": "The Idiots",
+        "year": 1998,
+        "directors": ["Lars von Trier"]
+      },
+      {
+        "title": "Mifune's Last Song",
+        "year": 1999,
+        "directors": ["Søren Kragh-Jacobsen"]
+      },
+      {
+        "title": "Italian for Beginners",
+        "year": 2000,
+        "directors": ["Lone Scherfig"]
+      },
+      {
+        "title": "Julien Donkey-Boy",
+        "year": 1999,
+        "directors": ["Harmony Korine"]
+      },
+      {
+        "title": "Fuckland",
+        "year": 2000,
+        "directors": ["José Luis Marques"]
+      }
+    ]
+  },
+  {
+    "movement": "romanian-new-wave",
+    "source": "bfi",
+    "url": "https://www.bfi.org.uk/lists/10-great-romanian-new-wave-films",
+    "films": [
+      {
+        "title": "4 Months, 3 Weeks and 2 Days",
+        "year": 2007,
+        "directors": ["Cristian Mungiu"]
+      },
+      {
+        "title": "California Dreamin' (Endless)",
+        "year": 2007,
+        "directors": ["Cristian Nemescu"]
+      },
+      {
+        "title": "Police, Adjective",
+        "year": 2009,
+        "directors": ["Corneliu Porumboiu"]
+      },
+      {
+        "title": "If I Want to Whistle, I Whistle",
+        "year": 2010,
+        "directors": ["Florin Șerban"]
+      },
+      {
+        "title": "Tuesday, after Christmas",
+        "year": 2010,
+        "directors": ["Radu Muntean"]
+      },
+      {
+        "title": "Aurora",
+        "year": 2010,
+        "directors": ["Cristi Puiu"]
+      },
+      {
+        "title": "The Autobiography of Nicolae Ceaușescu",
+        "year": 2010,
+        "directors": ["Andrei Ujică"]
+      },
+      {
+        "title": "Child's Pose",
+        "year": 2013,
+        "directors": ["Călin Peter Netzer"]
+      },
+      {
+        "title": "Touch Me Not",
+        "year": 2018,
+        "directors": ["Adina Pintilie"]
+      },
+      {
+        "title": "Bad Luck Banging or Loony Porn",
+        "year": 2021,
+        "directors": ["Radu Jude"]
+      }
+    ]
+  },
+  {
+    "movement": "new-taiwan-cinema",
+    "source": "bfi",
+    "url": "https://www.bfi.org.uk/features/many-voices-behind-taiwan-new-cinema",
+    "films": [
+      {
+        "title": "In Our Time",
+        "year": 1982,
+        "directors": []
+      },
+      {
+        "title": "The Green, Green Grass of Home",
+        "year": 1982,
+        "directors": []
+      },
+      {
+        "title": "Growing Up",
+        "year": 1983,
+        "directors": ["Chen Kun-hou"]
+      },
+      {
+        "title": "The Sandwich Man",
+        "year": 1983,
+        "directors": []
+      },
+      {
+        "title": "The Boys from Fengkuei",
+        "year": 1983,
+        "directors": []
+      },
+      {
+        "title": "That Day, on the Beach",
+        "year": 1983,
+        "directors": []
+      },
+      {
+        "title": "Out of the Blue",
+        "year": 1984,
+        "directors": ["Chen Kun-hou"]
+      },
+      {
+        "title": "My Favourite Season",
+        "year": 1985,
+        "directors": ["Chen Kun-hou"]
+      },
+      {
+        "title": "Kuei-mei, a Woman",
+        "year": 1985,
+        "directors": ["Chang Yi"]
+      },
+      {
+        "title": "Autumn Tempest",
+        "year": 1988,
+        "directors": ["Huang Yu-shan"]
+      }
+    ]
+  },
+  {
+    "movement": "new-french-extremity",
+    "source": "bfi",
+    "url": "https://www.bfi.org.uk/features/pleasures-pain-new-french-extremity",
+    "films": [
+      {
+        "title": "Baise-moi",
+        "year": 2000,
+        "directors": []
+      },
+      {
+        "title": "Trouble Every Day",
+        "year": 2001,
+        "directors": ["Claire Denis"]
+      },
+      {
+        "title": "In My Skin",
+        "year": 2002,
+        "directors": ["Marina de Van"]
+      },
+      {
+        "title": "Romance",
+        "year": 1999,
+        "directors": ["Catherine Breillat"]
+      }
+    ]
+  }
+]

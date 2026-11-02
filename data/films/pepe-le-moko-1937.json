@@ -1,0 +1,204 @@
+{
+  "tmdbId": 26252,
+  "slug": "pepe-le-moko-1937",
+  "year": 1937,
+  "runtime": 94,
+  "originalTitle": "Pépé le Moko",
+  "title": {
+    "en": "Pépé le Moko",
+    "tr": "Pépé le Moko"
+  },
+  "overview": {
+    "en": "Pépé le Moko, one of France's most wanted criminals, hides out in the Casbah section of Algiers. He knows police will be waiting for him if he tries to leave the city. When Pépé meets Gaby, a gorgeous woman from Paris who is lost in the Casbah, he falls for her.",
+    "tr": "Pépé le Moko, Paris'teki bir gangster çetesinin lideridir. Ancak Fransa polisinin yeraltı dünyasında suç patronlarını tek tek tutukluyor olması büyük baskı yaratmaktadır. Pépé'nin hayatı, Gaby'e aşık olmasıyla tamamıyla değişir. Gaby, sofistike bir turist kadındır ve Pépé ile birlikte yeni evlerinde yaşamak istemektedir. Ancak bu durum Pépé'nin sevgilisi Ines'i çılgına çevirecektir. Aralarında yaşanan bu tehlikeli aşk üçgeni, ünlü mafya babasının Dedektif Slimane tarafından izinin sürülmesini kolaylaştıracak ve onun saltanatını tehlikeye atacaktır."
+  },
+  "poster": {
+    "tr": "/y6FTSnCSBVJVPa7M1LuVroLN0ag.jpg",
+    "en": "/RqwmPaeb7IPBxrWOLlGLVUqB7k.jpg"
+  },
+  "backdrops": [
+    "/1TTAzRytr8mI63i1Dw4pl61zuj6.jpg",
+    "/ip5VWXIJ7mt3M3zciekkP6LnhA3.jpg",
+    "/ygqz9yzkcnaUaNNAsJiV8ROFO2y.jpg",
+    "/uJ8PhLKW228jni1daOf4VyRx4Hw.jpg",
+    "/rVjzIRimPU0XehOfb8FP6CGIosY.jpg",
+    "/8HGhEsv0NzhgyT90QBaaJfb8l8a.jpg",
+    "/ekPOKW0eW7vFvVrtIervZVOBSQA.jpg",
+    "/wNbB5HR0wnBgnsclOlHdFrC1XkO.jpg",
+    "/corbK8wMV2Z2sPaVjKxbGtVmmK5.jpg",
+    "/rk0JRAkxRy0ABBiasvZucLQ0qlB.jpg"
+  ],
+  "trailerKey": "8Lh-1-G9tzQ",
+  "genreIds": [
+    18,
+    80,
+    10749
+  ],
+  "keywordIds": [
+    818,
+    9807,
+    12999,
+    155845,
+    156123,
+    169449,
+    170212,
+    170444,
+    187203,
+    229411
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "ar",
+    "fr"
+  ],
+  "studios": [
+    "Paris Film Production"
+  ],
+  "crew": [
+    {
+      "personId": 39058,
+      "job": "director"
+    },
+    {
+      "personId": 9751,
+      "job": "producer"
+    },
+    {
+      "personId": 9750,
+      "job": "producer"
+    },
+    {
+      "personId": 39140,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 89085,
+      "job": "composer"
+    },
+    {
+      "personId": 89086,
+      "job": "composer"
+    },
+    {
+      "personId": 29732,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 39058,
+      "job": "writer"
+    },
+    {
+      "personId": 1294215,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11544,
+      "character": "Pépé le Moko",
+      "order": 0
+    },
+    {
+      "personId": 94949,
+      "character": "Gaby, the Parisian",
+      "order": 1
+    },
+    {
+      "personId": 94937,
+      "character": "Carlos",
+      "order": 2
+    },
+    {
+      "personId": 94940,
+      "character": "Inspector Slimane",
+      "order": 3
+    },
+    {
+      "personId": 94941,
+      "character": "Pierrot",
+      "order": 4
+    },
+    {
+      "personId": 94950,
+      "character": "Inès, Pépé's mistress",
+      "order": 5
+    },
+    {
+      "personId": 94938,
+      "character": "The Great Father",
+      "order": 6
+    },
+    {
+      "personId": 94939,
+      "character": "Régis",
+      "order": 7
+    },
+    {
+      "personId": 4121,
+      "character": "L'Arbi",
+      "order": 8
+    },
+    {
+      "personId": 94942,
+      "character": "Maxime",
+      "order": 9
+    },
+    {
+      "personId": 11543,
+      "character": "Jimmy",
+      "order": 10
+    },
+    {
+      "personId": 94943,
+      "character": "Meunier",
+      "order": 11
+    },
+    {
+      "personId": 94944,
+      "character": "Louvain",
+      "order": 12
+    },
+    {
+      "personId": 94945,
+      "character": "Max",
+      "order": 13
+    },
+    {
+      "personId": 94946,
+      "character": "Gravère",
+      "order": 14
+    },
+    {
+      "personId": 94947,
+      "character": "Gendron",
+      "order": 15
+    },
+    {
+      "personId": 94948,
+      "character": "Janvier",
+      "order": 16
+    },
+    {
+      "personId": 11548,
+      "character": "Barsac",
+      "order": 17
+    },
+    {
+      "personId": 94951,
+      "character": "Tania",
+      "order": 18
+    },
+    {
+      "personId": 94952,
+      "character": "Aïcha",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 200,
+  "sources": [
+    "movement:french-poetic-realism"
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "tmdbId": 46982,
+  "slug": "black-peter-1964",
+  "year": 1964,
+  "runtime": 89,
+  "originalTitle": "Černý Petr",
+  "title": {
+    "en": "Black Peter",
+    "tr": "Černý Petr"
+  },
+  "overview": {
+    "en": "A few days in the life of a Czechoslovak teenager when he starts work.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/103gre18aXhXeh0121STX05adkJ.jpg",
+    "en": "/103gre18aXhXeh0121STX05adkJ.jpg"
+  },
+  "backdrops": [
+    "/jWUjXdQF7b3L6kRGfoCZLjSBbDg.jpg",
+    "/9pv0Uqtxrh6XHJu3NrOmo5XhY5z.jpg",
+    "/eqPM70K4zfHdus3uukEzXEAEtM8.jpg"
+  ],
+  "trailerKey": "e8Vz_VDUm9A",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    704,
+    970
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "Filmové studio Barrandov"
+  ],
+  "crew": [
+    {
+      "personId": 120482,
+      "job": "writer"
+    },
+    {
+      "personId": 3974,
+      "job": "writer"
+    },
+    {
+      "personId": 1136794,
+      "job": "composer"
+    },
+    {
+      "personId": 3974,
+      "job": "director"
+    },
+    {
+      "personId": 1182648,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1537355,
+      "character": "Petr",
+      "order": 0
+    },
+    {
+      "personId": 1537639,
+      "character": "Pavla",
+      "order": 1
+    },
+    {
+      "personId": 120481,
+      "character": "Petr's father",
+      "order": 2
+    },
+    {
+      "personId": 544206,
+      "character": "Čenda",
+      "order": 3
+    },
+    {
+      "personId": 1183363,
+      "character": "Láďa",
+      "order": 4
+    },
+    {
+      "personId": 1537640,
+      "character": "Zdeněk",
+      "order": 5
+    },
+    {
+      "personId": 1537641,
+      "character": "Shop manager",
+      "order": 6
+    },
+    {
+      "personId": 1537642,
+      "character": "Mason master",
+      "order": 7
+    },
+    {
+      "personId": 1537643,
+      "character": "Petr's mother",
+      "order": 8
+    },
+    {
+      "personId": 1537644,
+      "character": "Suspicious customer",
+      "order": 9
+    },
+    {
+      "personId": 1537645,
+      "character": "Stockkeepper",
+      "order": 10
+    },
+    {
+      "personId": 1537646,
+      "character": "Shoplifter",
+      "order": 11
+    },
+    {
+      "personId": 1537356,
+      "character": "Girl in blue",
+      "order": 12
+    },
+    {
+      "personId": 1183257,
+      "character": "Pavla's friend",
+      "order": 13
+    },
+    {
+      "personId": 1466228,
+      "character": "Pavla's friend",
+      "order": 14
+    },
+    {
+      "personId": 1537647,
+      "character": "Mára",
+      "order": 15
+    },
+    {
+      "personId": 1537648,
+      "character": "Láďa's friend",
+      "order": 16
+    },
+    {
+      "personId": 1537372,
+      "character": "Girl in the boat",
+      "order": 17
+    },
+    {
+      "personId": 72795,
+      "character": "Mára (voice)",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 77,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

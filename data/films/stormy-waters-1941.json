@@ -1,0 +1,163 @@
+{
+  "tmdbId": 64897,
+  "slug": "stormy-waters-1941",
+  "year": 1941,
+  "runtime": 91,
+  "originalTitle": "Remorques",
+  "title": {
+    "en": "Stormy Waters",
+    "tr": "Remorques"
+  },
+  "overview": {
+    "en": "A married tugboat captain falls for a woman he rescues from a sinking ship.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dM9qttcCSS8053iRD8ILd1J5E5F.jpg",
+    "en": "/dM9qttcCSS8053iRD8ILd1J5E5F.jpg"
+  },
+  "backdrops": [
+    "/pXPjDpdX91rW8eFMqse6WVzEeSE.jpg",
+    "/lxVfLth9LndjnzM4ygtw9TUM6Ef.jpg",
+    "/c0kOBw4DBxC488Szxwj9te4EyIR.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    168683
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Maítrise Artisanale de l'Industrie Cinematographique (MAIC)",
+    "Sedis"
+  ],
+  "crew": [
+    {
+      "personId": 238377,
+      "job": "director"
+    },
+    {
+      "personId": 1600186,
+      "job": "composer"
+    },
+    {
+      "personId": 2579,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11544,
+      "character": "Le capitaine André Laurent",
+      "order": 0
+    },
+    {
+      "personId": 236906,
+      "character": "Yvonne Laurent",
+      "order": 1
+    },
+    {
+      "personId": 35254,
+      "character": "Catherine",
+      "order": 2
+    },
+    {
+      "personId": 34583,
+      "character": "Le Bosco",
+      "order": 3
+    },
+    {
+      "personId": 9745,
+      "character": "Renée Tanguy",
+      "order": 4
+    },
+    {
+      "personId": 142941,
+      "character": "Marc, le capitaine du « Mirva »",
+      "order": 5
+    },
+    {
+      "personId": 11550,
+      "character": "Le radio",
+      "order": 6
+    },
+    {
+      "personId": 133190,
+      "character": "Gabriel Tanguy",
+      "order": 7
+    },
+    {
+      "personId": 94943,
+      "character": "Georges",
+      "order": 8
+    },
+    {
+      "personId": 543929,
+      "character": "Le docteur Maulette",
+      "order": 9
+    },
+    {
+      "personId": 1600187,
+      "character": "Marie Poubennec",
+      "order": 10
+    },
+    {
+      "personId": 72230,
+      "character": "Le Meur",
+      "order": 11
+    },
+    {
+      "personId": 579733,
+      "character": "Pierre Poubennec",
+      "order": 12
+    },
+    {
+      "personId": 1600188,
+      "character": "Roger",
+      "order": 13
+    },
+    {
+      "personId": 1121839,
+      "character": "L'armateur",
+      "order": 14
+    },
+    {
+      "personId": 5964,
+      "character": "Un matelot du « Mirva » (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 142985,
+      "character": "Un matelot au mariage (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 145076,
+      "character": "Un invité à la noce (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 39209,
+      "character": "Un marin du « Cyclope » (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 37990,
+      "character": "L'administrateur (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 74,
+  "sources": [
+    "movement:french-poetic-realism"
+  ]
+}

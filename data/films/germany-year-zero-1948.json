@@ -1,0 +1,180 @@
+{
+  "tmdbId": 8016,
+  "slug": "germany-year-zero-1948",
+  "year": 1948,
+  "runtime": 74,
+  "originalTitle": "Germania anno zero",
+  "title": {
+    "en": "Germany, Year Zero",
+    "tr": "Almanya, Sıfır Yılı"
+  },
+  "overview": {
+    "en": "In the ruins of post-WWII Berlin, a twelve-year-old boy is left to his own devices in order to help provide for his family.",
+    "tr": "Bombaların harabeye dönüştürdüğü bir binada hasta babası ve iki kardeşiyle yaşayan küçük Edmund, yıkık şehirde tek başına dolaşır, karaborsacı bir grup gencin tuzağına düşer ve Nazi sempatizanı eski öğretmeninin uğursuz fikirlerinden etkilenir."
+  },
+  "poster": {
+    "tr": "/sdxegsjrrvujXvv2GLPENyDlWDI.jpg",
+    "en": "/sdxegsjrrvujXvv2GLPENyDlWDI.jpg"
+  },
+  "backdrops": [
+    "/vblx2TkQFrBrEORsEssizgEqakT.jpg",
+    "/a8ZFfiOdoB5hJMyaAfPAHKuedFa.jpg",
+    "/tybXFMsqvShS6TQGJIurpInPhGy.jpg",
+    "/52CCDwZQVIliCoHbMOLvgudrNIo.jpg",
+    "/u7XziFIhKZBZJAWCXUP6GGvgH5S.jpg"
+  ],
+  "trailerKey": "JM_KpDmdF98",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    220,
+    2652,
+    1956,
+    158987,
+    208349,
+    208408,
+    252193
+  ],
+  "countries": [
+    "FR",
+    "DE",
+    "IT"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "studios": [
+    "Produzione Salvo D'Angelo",
+    "Tevere Film",
+    "SAFDI"
+  ],
+  "crew": [
+    {
+      "personId": 40533,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4410,
+      "job": "writer"
+    },
+    {
+      "personId": 4416,
+      "job": "composer"
+    },
+    {
+      "personId": 4410,
+      "job": "director"
+    },
+    {
+      "personId": 4410,
+      "job": "producer"
+    },
+    {
+      "personId": 121311,
+      "job": "writer"
+    },
+    {
+      "personId": 122016,
+      "job": "writer"
+    },
+    {
+      "personId": 4413,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 53627,
+      "character": "Edmund",
+      "order": 0
+    },
+    {
+      "personId": 53628,
+      "character": "Father",
+      "order": 1
+    },
+    {
+      "personId": 53629,
+      "character": "Eva",
+      "order": 2
+    },
+    {
+      "personId": 52109,
+      "character": "Karl-Heinz",
+      "order": 3
+    },
+    {
+      "personId": 53630,
+      "character": "Teacher",
+      "order": 4
+    },
+    {
+      "personId": 1878020,
+      "character": "Frau Rademaker (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 36825,
+      "character": "Jo (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 1878021,
+      "character": "Thilde (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 10279,
+      "character": "Self (archive footage) (voice) (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 1878022,
+      "character": "Doctor (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 1878023,
+      "character": "Eva's Friend (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 1878024,
+      "character": "Christl (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1878025,
+      "character": "General's Woman (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1878026,
+      "character": "Refugee (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1878027,
+      "character": "Herr Rademaker (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1422510,
+      "character": "Rademacher's Daughter (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 106679,
+      "character": "General Von Laubniz (uncredited)",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 439,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

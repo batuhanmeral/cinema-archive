@@ -1,0 +1,146 @@
+{
+  "tmdbId": 94803,
+  "slug": "variety-1925",
+  "year": 1925,
+  "runtime": 104,
+  "originalTitle": "Varieté",
+  "title": {
+    "en": "Variety",
+    "tr": "Varieté"
+  },
+  "overview": {
+    "en": "Murderer “Boss” Huller—after having spent ten years in prison—breaks his silence to tell the warden his story.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rcpMbxYrYLngdyQrt1lK4QkpV06.jpg",
+    "en": "/94oMH542EHqPa39YaqvpAj0RqDd.jpg"
+  },
+  "backdrops": [
+    "/qOHv2xgyyJUNiItZgYlWe5BEStM.jpg",
+    "/ceccHjRDqaKYUnhv2ajvc4oPW9f.jpg",
+    "/inMaQ1B5lwalU1Uu5LJdJOOT9ns.jpg"
+  ],
+  "trailerKey": "vQ46TEBYFA0",
+  "genreIds": [
+    18,
+    80,
+    10749
+  ],
+  "keywordIds": [
+    378,
+    5153,
+    154802,
+    180181
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "UFA"
+  ],
+  "crew": [
+    {
+      "personId": 49208,
+      "job": "director"
+    },
+    {
+      "personId": 49208,
+      "job": "writer"
+    },
+    {
+      "personId": 70,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 28982,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 67,
+      "job": "producer"
+    },
+    {
+      "personId": 48052,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2895,
+      "character": "Boss Huller",
+      "order": 0
+    },
+    {
+      "personId": 35420,
+      "character": "Frau Huller",
+      "order": 1
+    },
+    {
+      "personId": 48057,
+      "character": "Bertha-Marie",
+      "order": 2
+    },
+    {
+      "personId": 97213,
+      "character": "Artinelli",
+      "order": 3
+    },
+    {
+      "personId": 1207391,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 29129,
+      "character": "Seemann",
+      "order": 5
+    },
+    {
+      "personId": 2897,
+      "character": "Hafenarbeiter",
+      "order": 6
+    },
+    {
+      "personId": 225292,
+      "character": "Zuschauer auf dem Jahrmarkt",
+      "order": 7
+    },
+    {
+      "personId": 1565959,
+      "character": "Spanischer Artist",
+      "order": 8
+    },
+    {
+      "personId": 1565960,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 29163,
+      "character": "Zuschauerin im Varieté",
+      "order": 10
+    },
+    {
+      "personId": 3000,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 2068802,
+      "character": "Tänzer",
+      "order": 12
+    },
+    {
+      "personId": 2069173,
+      "character": "Jongleur",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 43,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

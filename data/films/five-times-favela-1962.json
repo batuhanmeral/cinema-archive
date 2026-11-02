@@ -1,0 +1,232 @@
+{
+  "tmdbId": 253374,
+  "slug": "five-times-favela-1962",
+  "year": 1962,
+  "runtime": 92,
+  "originalTitle": "Cinco Vezes Favela",
+  "title": {
+    "en": "Five Times Favela",
+    "tr": "Cinco Vezes Favela"
+  },
+  "overview": {
+    "en": "Five segments about the hardships faced by people living in slums on hills in Rio de Janeiro.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/uNusV4wPclnLVuVKZ7Anj2iP9kQ.jpg",
+    "en": "/uNusV4wPclnLVuVKZ7Anj2iP9kQ.jpg"
+  },
+  "backdrops": [
+    "/jlkVjK2QxEcXs9rVi5tpfwEARnx.jpg",
+    "/mbNMtbyvtRI6AqSyxzdKPhP6SLC.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Centro Popular de Cultura - União Nacional dos Estudantes",
+    "Instituto Nacional do Livro",
+    "Saga Filmes"
+  ],
+  "crew": [
+    {
+      "personId": 1068939,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1980794,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1322810,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1263002,
+      "job": "director"
+    },
+    {
+      "personId": 1185869,
+      "job": "director"
+    },
+    {
+      "personId": 254884,
+      "job": "director"
+    },
+    {
+      "personId": 112117,
+      "job": "director"
+    },
+    {
+      "personId": 1549809,
+      "job": "director"
+    },
+    {
+      "personId": 1980790,
+      "job": "composer"
+    },
+    {
+      "personId": 1980791,
+      "job": "composer"
+    },
+    {
+      "personId": 1068936,
+      "job": "composer"
+    },
+    {
+      "personId": 1263002,
+      "job": "producer"
+    },
+    {
+      "personId": 223344,
+      "job": "writer"
+    },
+    {
+      "personId": 1980789,
+      "job": "writer"
+    },
+    {
+      "personId": 1549809,
+      "job": "writer"
+    },
+    {
+      "personId": 112117,
+      "job": "writer"
+    },
+    {
+      "personId": 1185869,
+      "job": "producer"
+    },
+    {
+      "personId": 1153199,
+      "job": "writer"
+    },
+    {
+      "personId": 1263002,
+      "job": "writer"
+    },
+    {
+      "personId": 1185869,
+      "job": "writer"
+    },
+    {
+      "personId": 254884,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 223344,
+      "character": "João (segment \"Um Favelado\")",
+      "order": 0
+    },
+    {
+      "personId": 2010186,
+      "character": "(segment \"Um Favelado\")",
+      "order": 1
+    },
+    {
+      "personId": 1175409,
+      "character": "(segment \"Um Favelado\")",
+      "order": 2
+    },
+    {
+      "personId": 1434808,
+      "character": "(segment \"Um Favelado\")",
+      "order": 3
+    },
+    {
+      "personId": 3857205,
+      "character": "(segment \"Um Favelado\")",
+      "order": 4
+    },
+    {
+      "personId": 3857206,
+      "character": "(segment \"Um Favelado\")",
+      "order": 5
+    },
+    {
+      "personId": 1980789,
+      "character": "(segment \"Um Favelado\")",
+      "order": 6
+    },
+    {
+      "personId": 3857172,
+      "character": "(segment \"Um Favelado\")",
+      "order": 7
+    },
+    {
+      "personId": 1174873,
+      "character": "(segment \"Um Favelado\")",
+      "order": 8
+    },
+    {
+      "personId": 3857208,
+      "character": "(segment \"Um Favelado\")",
+      "order": 9
+    },
+    {
+      "personId": 1130505,
+      "character": "(segment \"Um Favelado\") / (segment \"Couro de Gato\")",
+      "order": 10
+    },
+    {
+      "personId": 1486230,
+      "character": "(segment \"Zé da Cachorra\")",
+      "order": 11
+    },
+    {
+      "personId": 1921341,
+      "character": "(segment \"Zé da Cachorra\")",
+      "order": 12
+    },
+    {
+      "personId": 3857211,
+      "character": "(segment \"Zé da Cachorra\")",
+      "order": 13
+    },
+    {
+      "personId": 3857212,
+      "character": "(segment \"Zé da Cachorra\")",
+      "order": 14
+    },
+    {
+      "personId": 3857213,
+      "character": "(segment \"Zé da Cachorra\")",
+      "order": 15
+    },
+    {
+      "personId": 3857214,
+      "character": "(segment \"Zé da Cachorra\")",
+      "order": 16
+    },
+    {
+      "personId": 3857215,
+      "character": "(segment \"Zé da Cachorra\")",
+      "order": 17
+    },
+    {
+      "personId": 3857216,
+      "character": "(segment \"Zé da Cachorra\")",
+      "order": 18
+    },
+    {
+      "personId": 3857218,
+      "character": "(segment \"Zé da Cachorra\")",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

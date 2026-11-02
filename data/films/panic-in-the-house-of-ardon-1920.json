@@ -1,0 +1,92 @@
+{
+  "tmdbId": 426733,
+  "slug": "panic-in-the-house-of-ardon-1920",
+  "year": 1920,
+  "runtime": 81,
+  "originalTitle": "Der Schrecken im Hause Ardon",
+  "title": {
+    "en": "Panic in the House of Ardon",
+    "tr": "Der Schrecken im Hause Ardon"
+  },
+  "overview": {
+    "en": "A crime syndicate targets the wife of a chemist to gain access to her husband's research.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/aSmdNyFNkAkzun7z1GtrDtM6av0.jpg",
+    "en": "/aSmdNyFNkAkzun7z1GtrDtM6av0.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    154802,
+    156835
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Stuart Webbs-Film Company"
+  ],
+  "crew": [
+    {
+      "personId": 590704,
+      "job": "producer"
+    },
+    {
+      "personId": 2991,
+      "job": "director"
+    },
+    {
+      "personId": 70,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 48060,
+      "character": "Stuart Webbs",
+      "order": 0
+    },
+    {
+      "personId": 9840,
+      "character": "",
+      "order": 1
+    },
+    {
+      "personId": 1505142,
+      "character": "Chemikers Frau",
+      "order": 2
+    },
+    {
+      "personId": 1465313,
+      "character": "Alfons Ardon",
+      "order": 3
+    },
+    {
+      "personId": 14182,
+      "character": "Welteroberer",
+      "order": 4
+    },
+    {
+      "personId": 29179,
+      "character": "Diener",
+      "order": 5
+    },
+    {
+      "personId": 9843,
+      "character": "",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 0,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

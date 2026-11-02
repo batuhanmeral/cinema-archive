@@ -1,0 +1,205 @@
+{
+  "tmdbId": 41213,
+  "slug": "the-fabulous-baron-munchausen-1962",
+  "year": 1962,
+  "runtime": 85,
+  "originalTitle": "Baron Prášil",
+  "title": {
+    "en": "The Fabulous Baron Munchausen",
+    "tr": "Baron Prášil"
+  },
+  "overview": {
+    "en": "A 20th century man lands on the Moon and discovers that Baron Munchausen has beaten him to it, accompanied by Cyrano de Bergerac and the characters from Jules Verne's novels about the conquest of the satellite.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/azAhyBd8netxD18VdYo7C4oUvbR.jpg",
+    "en": "/azAhyBd8netxD18VdYo7C4oUvbR.jpg"
+  },
+  "backdrops": [
+    "/elfVwrfn5goenMteFuYboz5q2BN.jpg",
+    "/jf4yWqnxsmYUzAAKYsCgW9CC27D.jpg",
+    "/6SuKvD04TLsNZJamqGVrWJLCTXF.jpg",
+    "/wd9tSwT1TE7lKUyGFdXI0morrRw.jpg",
+    "/lOnjPsd2lqokFTQpefLkms6WAdb.jpg",
+    "/iBaoUcIPEh5dFCYQxLn8gJZpRQm.jpg",
+    "/kEogr8mYn3um3qJIzdBggMNk2EY.jpg",
+    "/92HAAyIKqE55y1rhFDhCSdcMkQT.jpg",
+    "/7YtC1X1ljZwe7SxWGU7mEmJcHKP.jpg",
+    "/jIIXopsvY2fh2yRUAulB9dBKUku.jpg"
+  ],
+  "trailerKey": "Na1h7ozW9VQ",
+  "genreIds": [
+    16,
+    14,
+    12,
+    35
+  ],
+  "keywordIds": [
+    7376,
+    1605,
+    305,
+    818,
+    1402,
+    270,
+    2770,
+    3258,
+    3259,
+    3998,
+    4892,
+    7422,
+    7038,
+    9552,
+    11029,
+    13131,
+    15073,
+    165369,
+    185590,
+    198136,
+    200189,
+    207715,
+    226139,
+    232916,
+    239705,
+    239708,
+    239709
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "Krátký film Praha – Filmové studio Gottwaldov"
+  ],
+  "crew": [
+    {
+      "personId": 53859,
+      "job": "director"
+    },
+    {
+      "personId": 53859,
+      "job": "writer"
+    },
+    {
+      "personId": 544515,
+      "job": "composer"
+    },
+    {
+      "personId": 1398519,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 137032,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 93426,
+      "character": "baron Prášil",
+      "order": 0
+    },
+    {
+      "personId": 28828,
+      "character": "princezna Bianca di Castelo Negro",
+      "order": 1
+    },
+    {
+      "personId": 134722,
+      "character": "astronaut Toník",
+      "order": 2
+    },
+    {
+      "personId": 134721,
+      "character": "básník Cyrano z Bergeracu",
+      "order": 3
+    },
+    {
+      "personId": 134720,
+      "character": "kapitán holandské lodi",
+      "order": 4
+    },
+    {
+      "personId": 73557,
+      "character": "sultán",
+      "order": 5
+    },
+    {
+      "personId": 235668,
+      "character": "generál, velitel pevnosti",
+      "order": 6
+    },
+    {
+      "personId": 44213,
+      "character": "admirál",
+      "order": 7
+    },
+    {
+      "personId": 227727,
+      "character": "důstojník pevnostní stráže",
+      "order": 8
+    },
+    {
+      "personId": 1777176,
+      "character": "tanečnice ze sultánova harému",
+      "order": 9
+    },
+    {
+      "personId": 213327,
+      "character": "španělský námořník",
+      "order": 10
+    },
+    {
+      "personId": 137035,
+      "character": "harpunář-trosečník",
+      "order": 11
+    },
+    {
+      "personId": 1192441,
+      "character": "kapitán Nicholl",
+      "order": 12
+    },
+    {
+      "personId": 1337930,
+      "character": "Barbicane, předseda dělového klubu",
+      "order": 13
+    },
+    {
+      "personId": 144141,
+      "character": "Michal Ardan",
+      "order": 14
+    },
+    {
+      "personId": 544289,
+      "character": "lodník",
+      "order": 15
+    },
+    {
+      "personId": 77375,
+      "character": "vrchní eunuch Hadži Baban",
+      "order": 16
+    },
+    {
+      "personId": 1678818,
+      "character": "námořník",
+      "order": 17
+    },
+    {
+      "personId": 213326,
+      "character": "španělský generál, velitel nepřátelského vojska",
+      "order": 18
+    },
+    {
+      "personId": 138842,
+      "character": "hráč šachů",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 96,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

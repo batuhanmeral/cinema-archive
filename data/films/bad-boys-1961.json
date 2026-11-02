@@ -1,0 +1,81 @@
+{
+  "tmdbId": 164695,
+  "slug": "bad-boys-1961",
+  "year": 1961,
+  "runtime": 89,
+  "originalTitle": "不良少年",
+  "title": {
+    "en": "Bad Boys",
+    "tr": "Bad Boys"
+  },
+  "overview": {
+    "en": "A young delinquent takes part in a robbery and is sentenced to a juvenile detention center, where he clashes with other youths and reflects on his life experiences.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rxcztj5IsoSxFAlWsqMmnKdNUq6.jpg",
+    "en": "/rxcztj5IsoSxFAlWsqMmnKdNUq6.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    209998
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Iwanami Productions"
+  ],
+  "crew": [
+    {
+      "personId": 51808,
+      "job": "composer"
+    },
+    {
+      "personId": 1041699,
+      "job": "director"
+    },
+    {
+      "personId": 228520,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1041699,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1527356,
+      "character": "",
+      "order": 0
+    },
+    {
+      "personId": 1958524,
+      "character": "",
+      "order": 1
+    },
+    {
+      "personId": 1958525,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 1807014,
+      "character": "",
+      "order": 3
+    }
+  ],
+  "awards": {},
+  "voteCount": 7,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

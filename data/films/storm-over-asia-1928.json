@@ -1,0 +1,128 @@
+{
+  "tmdbId": 84273,
+  "slug": "storm-over-asia-1928",
+  "year": 1928,
+  "runtime": 131,
+  "originalTitle": "Потомок Чингисхана",
+  "title": {
+    "en": "Storm Over Asia",
+    "tr": "Storm Over Asia"
+  },
+  "overview": {
+    "en": "Lowly Mongolian trapper Bair, shunned by his fellow trappers for fighting with a trader, flees his trading post and joins the Soviet partisans trying to oust the occupying British forces. After Bair is captured and shot by the British, they find an amulet on him suggesting he is a descendant of Genghis Khan. The soldiers nurse Bair back to health and use him to establish a puppet government, unaware that their plan will backfire when the puppet breaks his strings.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/myksAJCJsrwAtCs4YMYuNmSaXi7.jpg",
+    "en": "/7Alfb1jGm9CJpqlfsn28hGgX69g.jpg"
+  },
+  "backdrops": [
+    "/lblZfPwOR8kRltqVvELTcVZ8Qwq.jpg",
+    "/mQRWmCGhSEIl2JaJ5l10AQx8ieO.jpg",
+    "/sBvzd28PrcIlPGxR5hJUy6v842D.jpg",
+    "/gVdwaS7Kl33xRzUNFBJtsTKtt9x.jpg",
+    "/extQNKqWGM67VWoIVoP0FDTgqTW.jpg",
+    "/aWuJLQUYaOrfXCkDx9HKAbK4Nzg.jpg",
+    "/bFB2cP4UjjWsKgK4FD3JVkIzlGb.jpg",
+    "/4lUihHpTyXSjFqS0fbHkTuVvXyi.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10752,
+    36
+  ],
+  "keywordIds": [
+    6536,
+    15182,
+    154802,
+    181242,
+    296518
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Mezhrabpomfilm"
+  ],
+  "crew": [
+    {
+      "personId": 144821,
+      "job": "director"
+    },
+    {
+      "personId": 144825,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1386059,
+      "job": "writer"
+    },
+    {
+      "personId": 2098696,
+      "job": "writer"
+    },
+    {
+      "personId": 4991941,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 930656,
+      "character": "Bair",
+      "order": 0
+    },
+    {
+      "personId": 1347526,
+      "character": "The British Commandant",
+      "order": 1
+    },
+    {
+      "personId": 1064931,
+      "character": "The Russian Rebel Leader",
+      "order": 2
+    },
+    {
+      "personId": 1170787,
+      "character": "Commandant's blonde daughter",
+      "order": 3
+    },
+    {
+      "personId": 144826,
+      "character": "English soldier, pipe smoker",
+      "order": 4
+    },
+    {
+      "personId": 1623816,
+      "character": "English soldier",
+      "order": 5
+    },
+    {
+      "personId": 1270903,
+      "character": "Henry Hughes",
+      "order": 6
+    },
+    {
+      "personId": 1386056,
+      "character": "The Commandant's Wife",
+      "order": 7
+    },
+    {
+      "personId": 1627608,
+      "character": "The Lama",
+      "order": 8
+    },
+    {
+      "personId": 1423504,
+      "character": "Englishman",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 66,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

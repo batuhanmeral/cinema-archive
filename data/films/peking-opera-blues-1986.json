@@ -1,0 +1,187 @@
+{
+  "tmdbId": 39776,
+  "slug": "peking-opera-blues-1986",
+  "year": 1986,
+  "runtime": 105,
+  "originalTitle": "刀馬旦",
+  "title": {
+    "en": "Peking Opera Blues",
+    "tr": "Peking Opera Blues"
+  },
+  "overview": {
+    "en": "In 1913 Beijing, three fierce women—disguised rebel Tsao Wan, jewel-seeking Sheung Hung, and opera heiress Pai Niu—embark on a daring quest filled with intrigue and betrayal, challenging societal norms amidst political turmoil and the vibrant world of Peking Opera.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6IcSrruE0hpBvqo40DRfX65nBRX.jpg",
+    "en": "/dICRXKGHOmKpoJHtuR2LmfkXO1K.jpg"
+  },
+  "backdrops": [
+    "/1q42MXLtlsE7IdpUh7X55V3glf2.jpg",
+    "/e9YA3eaAYbClXQivVuxEdEcVEhw.jpg",
+    "/5IX25rpfwqMUX1asKbwQleXafKV.jpg",
+    "/kUUPHesQLQePqobQNjW7UD6WOdA.jpg",
+    "/sVziRO8RqPBupnHCb9vcCb1U3Ph.jpg",
+    "/1f77dgupZm8zi9BbeMRYHAsxmLK.jpg",
+    "/s9cihKSP5iVDzAvp3HlLRptubQL.jpg",
+    "/AuT3F14b70QKKXnhYXMcLXrxib0.jpg",
+    "/iTM73gUDsjVgQWYihWwqikzBhkQ.jpg",
+    "/etBl99gK1wJ7dCcjETjyeBLBSgJ.jpg"
+  ],
+  "trailerKey": "7BeNzmpB0ZM",
+  "genreIds": [
+    28,
+    35,
+    18
+  ],
+  "keywordIds": [
+    4004,
+    210184,
+    217463,
+    368155
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn",
+    "zh"
+  ],
+  "studios": [
+    "Film Workshop",
+    "Cinema City Company Limited"
+  ],
+  "crew": [
+    {
+      "personId": 26760,
+      "job": "director"
+    },
+    {
+      "personId": 238409,
+      "job": "writer"
+    },
+    {
+      "personId": 56811,
+      "job": "composer"
+    },
+    {
+      "personId": 29692,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1417200,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 26760,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 56830,
+      "character": "Tsao Wan",
+      "order": 0
+    },
+    {
+      "personId": 67046,
+      "character": "Pai Niu",
+      "order": 1
+    },
+    {
+      "personId": 102880,
+      "character": "Sheung Hung",
+      "order": 2
+    },
+    {
+      "personId": 65197,
+      "character": "Ling Pak Hoi",
+      "order": 3
+    },
+    {
+      "personId": 1266162,
+      "character": "Tung Man",
+      "order": 4
+    },
+    {
+      "personId": 134704,
+      "character": "Boss Wong",
+      "order": 5
+    },
+    {
+      "personId": 87733,
+      "character": "Fa Kam Siu",
+      "order": 6
+    },
+    {
+      "personId": 229302,
+      "character": "Commander Liu",
+      "order": 7
+    },
+    {
+      "personId": 10885,
+      "character": "General Cho",
+      "order": 8
+    },
+    {
+      "personId": 238412,
+      "character": "General Tun",
+      "order": 9
+    },
+    {
+      "personId": 29692,
+      "character": "Theatre Doorman",
+      "order": 10
+    },
+    {
+      "personId": 17247,
+      "character": "Mr. Kam",
+      "order": 11
+    },
+    {
+      "personId": 29693,
+      "character": "General Cho's Interpreter",
+      "order": 12
+    },
+    {
+      "personId": 1135185,
+      "character": "General Tun's Adjutant",
+      "order": 13
+    },
+    {
+      "personId": 88495,
+      "character": "General Tun's Wife",
+      "order": 14
+    },
+    {
+      "personId": 1404424,
+      "character": "General Tun's Wife",
+      "order": 15
+    },
+    {
+      "personId": 1624693,
+      "character": "Ms. Choi",
+      "order": 16
+    },
+    {
+      "personId": 1109778,
+      "character": "Captain",
+      "order": 17
+    },
+    {
+      "personId": 1134504,
+      "character": "Comrade Sung",
+      "order": 18
+    },
+    {
+      "personId": 119449,
+      "character": "General Cho's Officer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 92,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

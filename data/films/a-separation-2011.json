@@ -1,0 +1,155 @@
+{
+  "tmdbId": 60243,
+  "slug": "a-separation-2011",
+  "year": 2011,
+  "runtime": 123,
+  "originalTitle": "جدایی نادر از سیمین",
+  "title": {
+    "en": "A Separation",
+    "tr": "Bir Ayrılık"
+  },
+  "overview": {
+    "en": "A married couple are faced with a difficult decision – to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+    "tr": "Simin, kızının daha iyi şartlarda büyümesi için kocası Nader ve kızı Termeh ile birlikte İran'ı terk etmek istemektedir. Nader'in Alzheimer hastası babasını bırakmayı reddetmesi üzerine boşanma davası açan Simin, dava talebi reddedilince anne babasının evine gider. Termeh ise babasıyla kalmaya karar vermiştir. Nader kızına ve babasına bakması için genç bir kadın tutar; ama bu durum daha fazla soruna yol açacaktır."
+  },
+  "poster": {
+    "tr": "/sTzvO0QG6dteVbOH1Qi73nubgLd.jpg",
+    "en": "/wQVvASmpm8jGhJBQU20OkoMcNzi.jpg"
+  },
+  "backdrops": [
+    "/6DEl5KfpKkS6ZEiy4s9s7EukpAB.jpg",
+    "/wVATRh2WUCoQeQAURBmcnE3peeE.jpg",
+    "/kcXBa2ru0PXcGI8U3JiInsG6FRR.jpg",
+    "/vSQ2FK4LzevXeHeXvEHb7t4I0SW.jpg",
+    "/mJrSFyb7uoqiICUmvIIzeOerA5K.jpg",
+    "/a0Yrsf28FDvCQRJxJYzPIf9P37f.jpg",
+    "/2wW15ZefdMEt1xlyKS5n6hQNNh6.jpg"
+  ],
+  "trailerKey": "58Onuy5USTc",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1625,
+    6069,
+    5903,
+    5986,
+    10594,
+    13097,
+    15160,
+    18009,
+    155209,
+    171848,
+    208789,
+    281659
+  ],
+  "countries": [
+    "IR",
+    "FR"
+  ],
+  "languages": [
+    "fa"
+  ],
+  "studios": [
+    "Asghar Farhadi Productions",
+    "Memento Production"
+  ],
+  "crew": [
+    {
+      "personId": 229931,
+      "job": "producer"
+    },
+    {
+      "personId": 1083064,
+      "job": "composer"
+    },
+    {
+      "personId": 229931,
+      "job": "director"
+    },
+    {
+      "personId": 545097,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 229931,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 559566,
+      "character": "Nader",
+      "order": 0
+    },
+    {
+      "personId": 240240,
+      "character": "Simin",
+      "order": 1
+    },
+    {
+      "personId": 229933,
+      "character": "Hojjat",
+      "order": 2
+    },
+    {
+      "personId": 559567,
+      "character": "Razieh",
+      "order": 3
+    },
+    {
+      "personId": 1589296,
+      "character": "Termeh",
+      "order": 4
+    },
+    {
+      "personId": 559568,
+      "character": "Nader's Father",
+      "order": 5
+    },
+    {
+      "personId": 240243,
+      "character": "Miss Ghahraii - Termeh's Teacher",
+      "order": 6
+    },
+    {
+      "personId": 41525,
+      "character": "Interrogator",
+      "order": 7
+    },
+    {
+      "personId": 240242,
+      "character": "Somayyeh - Razieh's Daughter",
+      "order": 8
+    },
+    {
+      "personId": 1029121,
+      "character": "Mrs. Kalaani",
+      "order": 9
+    },
+    {
+      "personId": 559569,
+      "character": "Simin's Mother",
+      "order": 10
+    },
+    {
+      "personId": 1141703,
+      "character": "Soldier",
+      "order": 11
+    },
+    {
+      "personId": 2382987,
+      "character": "Hospital Receptionist",
+      "order": 12
+    }
+  ],
+  "awards": {
+    "oscar": 1,
+    "berlin": 1,
+    "cesar": 1
+  },
+  "voteCount": 2060,
+  "sources": [
+    "movement:iranian-new-wave"
+  ]
+}

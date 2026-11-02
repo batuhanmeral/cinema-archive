@@ -1,0 +1,109 @@
+{
+  "tmdbId": 98200,
+  "slug": "bed-and-sofa-1927",
+  "year": 1927,
+  "runtime": 87,
+  "originalTitle": "Третья Мещанская",
+  "title": {
+    "en": "Bed and Sofa",
+    "tr": "Bed and Sofa"
+  },
+  "overview": {
+    "en": "Life changes for a Moscow couple after they allow an old friend of the husband’s to move in.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/uEYi67LRcdPa94bpbtCm0EqwuIQ.jpg",
+    "en": "/uEYi67LRcdPa94bpbtCm0EqwuIQ.jpg"
+  },
+  "backdrops": [
+    "/5VL3Rh6jW7lNQH5ZBUqA01XNacy.jpg",
+    "/ej81ByBdnNeyDk4qUlejSlLx7tB.jpg",
+    "/ya6yYGPN4v0t50cEO3ECYNniXHE.jpg",
+    "/uisOU0x35lgPtMSvfPiEDyVHP1M.jpg",
+    "/iofnBGIPffUSYjRTmc7XOAnOgzV.jpg",
+    "/w9LoP7FoAqVuwCVjRz1ze65YMkI.jpg",
+    "/d6SnfD89Onqc9H8nqWp13WhRhoS.jpg",
+    "/46YwNyHnyaKFkiw1LSOTQrBLqZJ.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    918,
+    128,
+    9673,
+    12401,
+    12999,
+    170749
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Sovkino"
+  ],
+  "crew": [
+    {
+      "personId": 1601860,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1016204,
+      "job": "director"
+    },
+    {
+      "personId": 1016204,
+      "job": "writer"
+    },
+    {
+      "personId": 1391344,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29198,
+      "character": "Kolya, husband",
+      "order": 0
+    },
+    {
+      "personId": 1387663,
+      "character": "Lyudmila Semyonova, wife",
+      "order": 1
+    },
+    {
+      "personId": 144829,
+      "character": "Volodya Fogel, friend and neighbour",
+      "order": 2
+    },
+    {
+      "personId": 1190985,
+      "character": "Street sweeper",
+      "order": 3
+    },
+    {
+      "personId": 1387664,
+      "character": "Nurse",
+      "order": 4
+    },
+    {
+      "personId": 1190986,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 2029766,
+      "character": "(uncredited)",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 40,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

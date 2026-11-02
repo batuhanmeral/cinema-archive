@@ -1,0 +1,161 @@
+{
+  "tmdbId": 184465,
+  "slug": "the-death-ray-1925",
+  "year": 1925,
+  "runtime": 125,
+  "originalTitle": "Луч смерти",
+  "title": {
+    "en": "The Death Ray",
+    "tr": "The Death Ray"
+  },
+  "overview": {
+    "en": "In a Western capitalist country where a fascist government attempts to suppress a socialist uprising, revolutionary leader Thomas Lamm is imprisoned by the government but he escapes to the Soviet Union. There, he meets the engineer Podobed who invents the 'death ray' – a device which explodes gunpowder and fuel mixtures at a distance.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/jB97qClwdNDWFxKp0Ryi8KP6xgd.jpg",
+    "en": "/jB97qClwdNDWFxKp0Ryi8KP6xgd.jpg"
+  },
+  "backdrops": [
+    "/sn096j1Li5TqZXG8iL2d32qDtVJ.jpg",
+    "/tJapuiKwv6CrayvCQrHuSDryN0z.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    878,
+    18,
+    53
+  ],
+  "keywordIds": [
+    215678,
+    296518
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Goskino"
+  ],
+  "crew": [
+    {
+      "personId": 228729,
+      "job": "director"
+    },
+    {
+      "personId": 144821,
+      "job": "writer"
+    },
+    {
+      "personId": 1551440,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1093970,
+      "character": "Podobed, engineer-inventor",
+      "order": 0
+    },
+    {
+      "personId": 144821,
+      "character": "Pater Revo, catholic priest",
+      "order": 1
+    },
+    {
+      "personId": 144833,
+      "character": "Tomas Lann",
+      "order": 2
+    },
+    {
+      "personId": 144829,
+      "character": "Fog, fascist",
+      "order": 3
+    },
+    {
+      "personId": 1396140,
+      "character": "Sharpshooter / Sister Edith",
+      "order": 4
+    },
+    {
+      "personId": 2964313,
+      "character": "Freddie, Edith's son",
+      "order": 5
+    },
+    {
+      "personId": 5613903,
+      "character": "Stoker's daughter",
+      "order": 6
+    },
+    {
+      "personId": 5613904,
+      "character": "Shura, Podobed's assistant",
+      "order": 7
+    },
+    {
+      "personId": 1423507,
+      "character": "Rapp, electric technician",
+      "order": 8
+    },
+    {
+      "personId": 1179680,
+      "character": "Rapp's wife",
+      "order": 9
+    },
+    {
+      "personId": 1396144,
+      "character": "Ruller, factory owner / Circus director",
+      "order": 10
+    },
+    {
+      "personId": 1073949,
+      "character": "Hard, leader of fascists",
+      "order": 11
+    },
+    {
+      "personId": 5613905,
+      "character": "Ruller's nephew",
+      "order": 12
+    },
+    {
+      "personId": 1127956,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 228729,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1269761,
+      "character": "Factory worker",
+      "order": 15
+    },
+    {
+      "personId": 86747,
+      "character": "Agent",
+      "order": 16
+    },
+    {
+      "personId": 1270900,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1627608,
+      "character": "Gendarme",
+      "order": 18
+    },
+    {
+      "personId": 2373486,
+      "character": "Worker woman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 12,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "tmdbId": 153832,
+  "slug": "little-lise-1930",
+  "year": 1930,
+  "runtime": 84,
+  "originalTitle": "La Petite Lise",
+  "title": {
+    "en": "Little Lise",
+    "tr": "La Petite Lise"
+  },
+  "overview": {
+    "en": "Victor Berthier, a good man but also a very jealous one, killed his wife in a fit of jealousy. After serving a few years in a chain gang, he is released for good behavior. He feels very happy to be able to return to Paris and to meet Lise, his daughter, again. But, to his dismay, he finds that Lise, through the fault of André, her lover and pimp, has unwillingly committed a murder.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6OfyuooFBiXLhtQJVqfyMEaiXsX.jpg",
+    "en": "/6OfyuooFBiXLhtQJVqfyMEaiXsX.jpg"
+  },
+  "backdrops": [
+    "/aYfjkSv14AtFNxNs8wa7tPb47aY.jpg",
+    "/5KoPfehSH6HOHw8xJN0IgFrLk86.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    931
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Pathé-Natan"
+  ],
+  "crew": [
+    {
+      "personId": 238377,
+      "job": "director"
+    },
+    {
+      "personId": 39206,
+      "job": "writer"
+    },
+    {
+      "personId": 1393081,
+      "job": "producer"
+    },
+    {
+      "personId": 1093443,
+      "job": "producer"
+    },
+    {
+      "personId": 11530,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1063182,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1600186,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 139769,
+      "character": "Lise",
+      "order": 0
+    },
+    {
+      "personId": 535561,
+      "character": "Victor Berthier",
+      "order": 1
+    },
+    {
+      "personId": 3594,
+      "character": "André",
+      "order": 2
+    },
+    {
+      "personId": 544477,
+      "character": "Le danseur noir",
+      "order": 3
+    },
+    {
+      "personId": 590406,
+      "character": "Un client de Lise",
+      "order": 4
+    },
+    {
+      "personId": 117803,
+      "character": "Un joueur de billard",
+      "order": 5
+    },
+    {
+      "personId": 1004643,
+      "character": "Un bagnard",
+      "order": 6
+    },
+    {
+      "personId": 11600,
+      "character": "L'usurier",
+      "order": 7
+    },
+    {
+      "personId": 1403283,
+      "character": "M. Bazet",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 19,
+  "sources": [
+    "movement:french-poetic-realism"
+  ]
+}

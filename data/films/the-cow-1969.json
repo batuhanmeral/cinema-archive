@@ -1,0 +1,128 @@
+{
+  "tmdbId": 43984,
+  "slug": "the-cow-1969",
+  "year": 1969,
+  "runtime": 105,
+  "originalTitle": "گاو",
+  "title": {
+    "en": "The Cow",
+    "tr": "İnek"
+  },
+  "overview": {
+    "en": "An old villager deeply in love with his cow goes to the capital for a while. While he's there, the cow dies and now the villagers are afraid of his possible reaction to it when he returns.",
+    "tr": "Söylentiye göre Humeyni, İnek'i izledikten sonra, belki de sinemaya biraz yer açmak iyi olabilir, diye düşünmüştür. Film, fakir bir köydeki tek ineğin sahibi olmakla gurur duyan Hasan'ın hikâyesini anlatır. Bir gün, Hasan işteyken, beklenmedik bir şekilde ineğin öldüğü haberi yayılır ve gerçeği kendisinden saklayan kasaba halkı hayvanın kaybolduğunu söyler. Kimliği ve konumu büyük ölçüde bu ineğe bağlı olan Hasan, giderek yükselen ve nihayet deliliğe varan bir saplantıyla ineği arar. Masraflarının büyük bölümü Şah Hükümeti'nce finanse edilen filmin yapımcıları, İnek'te sunulan son derece geri ve yoksul İran görüntüsüne öfkelenerek, yönetmeni, filmde bir açıklamayla, bu hikâyenin mevcut rejimden çok daha eski bir tarihe dayandığını belirtmesi için zorlarlar."
+  },
+  "poster": {
+    "tr": "/9MVUDF3o1ihrWSgGSvkF7IPesF9.jpg",
+    "en": "/tx8d9RM6xRTjMuridJs44L0PtCY.jpg"
+  },
+  "backdrops": [
+    "/732Q6M5iyCljGQjymNmGLkPXA3d.jpg",
+    "/flETnag1W4j6E5WMuBpdtGI0WJt.jpg",
+    "/h1zTrdUjE1TRTEXDLZUln2K3sVV.jpg",
+    "/uJHVZ6IbSYc5PHjybHPE2EGE23E.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "IR"
+  ],
+  "languages": [
+    "fa"
+  ],
+  "studios": [
+    "Central Film Office of the Iranian Ministry of Culture"
+  ],
+  "crew": [
+    {
+      "personId": 120227,
+      "job": "director"
+    },
+    {
+      "personId": 120227,
+      "job": "producer"
+    },
+    {
+      "personId": 1316486,
+      "job": "composer"
+    },
+    {
+      "personId": 120227,
+      "job": "writer"
+    },
+    {
+      "personId": 1996165,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 931289,
+      "character": "Masht Hassan",
+      "order": 0
+    },
+    {
+      "personId": 1088243,
+      "character": "Hassan's Wife",
+      "order": 1
+    },
+    {
+      "personId": 931290,
+      "character": "Islam",
+      "order": 2
+    },
+    {
+      "personId": 1351402,
+      "character": "Abbas",
+      "order": 3
+    },
+    {
+      "personId": 1351403,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1351404,
+      "character": "Kadkhoda",
+      "order": 5
+    },
+    {
+      "personId": 1351405,
+      "character": "Boy",
+      "order": 6
+    },
+    {
+      "personId": 1098596,
+      "character": "Old Woman",
+      "order": 7
+    },
+    {
+      "personId": 1416751,
+      "character": "Esmayil",
+      "order": 8
+    },
+    {
+      "personId": 1552757,
+      "character": "Jabbar",
+      "order": 9
+    },
+    {
+      "personId": 1698408,
+      "character": "Esmayil's Sister",
+      "order": 10
+    },
+    {
+      "personId": 1891302,
+      "character": "Madman",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 88,
+  "sources": [
+    "movement:iranian-new-wave"
+  ]
+}

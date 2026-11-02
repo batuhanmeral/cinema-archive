@@ -1,0 +1,108 @@
+{
+  "tmdbId": 126644,
+  "slug": "by-the-law-1926",
+  "year": 1926,
+  "runtime": 80,
+  "originalTitle": "По закону",
+  "title": {
+    "en": "By the Law",
+    "tr": "By the Law"
+  },
+  "overview": {
+    "en": "After a man kills two members of his Yukon gold prospecting team, the other two surviving members struggle to keep him subdued for the next several months until they can turn him over to the law.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/2LpGKcjV0oHN60Wpi3jWKjqXI1H.jpg",
+    "en": "/2LpGKcjV0oHN60Wpi3jWKjqXI1H.jpg"
+  },
+  "backdrops": [
+    "/w7d5y6TXGFhRCi31KJ7B19bnet3.jpg",
+    "/hNPtG6VFNgGf5gNkYhXVCAvhE47.jpg",
+    "/vaBOFhmfsy2tWvNvC5HlQaPOlvL.jpg",
+    "/2SA2vJEl6a8G7qdrvSs6BNZh41H.jpg",
+    "/4UqNhzErBZFrSS689dwWWER7gn5.jpg",
+    "/msMIy8qoSKtdBUhe1rb3iD8yG6s.jpg",
+    "/eQN80tNfvgcDIvVj8maRFED6oE2.jpg",
+    "/amPMJpzWm7LCcB8IoBzt5rfWaa2.jpg",
+    "/bgXUxxjdWw9ir4eD0ePpihEEKeJ.jpg"
+  ],
+  "trailerKey": "ycElt5k821Y",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    9826,
+    12999,
+    161242,
+    180808,
+    189390,
+    198735,
+    207876,
+    267733,
+    275473,
+    295333
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Sovkino"
+  ],
+  "crew": [
+    {
+      "personId": 228729,
+      "job": "director"
+    },
+    {
+      "personId": 228729,
+      "job": "writer"
+    },
+    {
+      "personId": 1391344,
+      "job": "writer"
+    },
+    {
+      "personId": 1396150,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1396140,
+      "character": "Edith Nelson",
+      "order": 0
+    },
+    {
+      "personId": 144829,
+      "character": "Michael Dennin",
+      "order": 1
+    },
+    {
+      "personId": 1396144,
+      "character": "Harky",
+      "order": 2
+    },
+    {
+      "personId": 1093970,
+      "character": "Dutchy",
+      "order": 3
+    },
+    {
+      "personId": 1396146,
+      "character": "Jack",
+      "order": 4
+    },
+    {
+      "personId": 144833,
+      "character": "Hans Nelson",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 43,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

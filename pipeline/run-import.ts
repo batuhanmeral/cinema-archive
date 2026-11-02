@@ -304,12 +304,12 @@ export async function runImport(deps: ImportDeps): Promise<ImportOutput> {
     }
   })
   const factsOf = await gatherCollectionFacts(deps.collections, films, deps)
-  const { collections } = buildCollections(deps.collections, films, factsOf)
+  const { collections, sizes } = buildCollections(deps.collections, films, factsOf)
   const groups: ImportReport['groups'] = {
     movements: movementResults.map(({ report }) => report),
     collections: deps.collections.map(({ slug }) => {
       const filmIds = collections.find((c) => c.slug === slug)?.filmIds ?? []
-      return groupReport(slug, filmIds, filmIds.length, deps.prevCollections)
+      return groupReport(slug, filmIds, sizes.get(slug) ?? 0, deps.prevCollections)
     }),
   }
 

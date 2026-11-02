@@ -1,0 +1,188 @@
+{
+  "tmdbId": 98193,
+  "slug": "death-by-hanging-1968",
+  "year": 1968,
+  "runtime": 118,
+  "originalTitle": "絞死刑",
+  "title": {
+    "en": "Death by Hanging",
+    "tr": "Asılarak İdam"
+  },
+  "overview": {
+    "en": "A Korean man is sentenced to death in Japan but somehow survives his execution, sending the authorities into a panic about what to do next.",
+    "tr": "Tam anlamıyla bir kara mizah. R. adlı suçlu asılarak idam edilir fakat ölmez. İdam odasında bulunanlar (savcı, müdür, güvenlikçi, doktor, rahip) R.'nin bilinci olmadığından asılamayacağını söylerler. Rahip, \"bu adam R. değil, çünkü ruhu uçtu gitti\" der. Böylece R.'ye R. olduğunu kanıtlamaya çalışırlar. Bundan sonra bir kısım komik parodilere başlarlar. İdam, ölüm cezası üzerine felsefi, siyasi, ahlaki düşünmeye sevkeden bir film. Tiyatro üslubuyla olaya yaklaştığı için hızlı film usulüne uygun değil, biraz ağır, ama mizah yoluyla bunu kapatıyor."
+  },
+  "poster": {
+    "tr": "/tszrnBe8XACsDxLJjt1rKfFHfHi.jpg",
+    "en": "/tszrnBe8XACsDxLJjt1rKfFHfHi.jpg"
+  },
+  "backdrops": [
+    "/2lqj0xTaA4XKPxgFX18jER3bgUy.jpg",
+    "/swBY0GOL3o5CaZwuFnTkm5yffcR.jpg",
+    "/cKUC9uV9VwQCMEKOFUs9nfRrMNM.jpg",
+    "/AgIRKvX5azkrDQSEEWk7oDLZqub.jpg"
+  ],
+  "trailerKey": "Pl0i8lMIRqM",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    8201,
+    270709
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Art Theatre Guild",
+    "Sozosha"
+  ],
+  "crew": [
+    {
+      "personId": 46230,
+      "job": "director"
+    },
+    {
+      "personId": 140624,
+      "job": "writer"
+    },
+    {
+      "personId": 1429885,
+      "job": "writer"
+    },
+    {
+      "personId": 140623,
+      "job": "writer"
+    },
+    {
+      "personId": 46230,
+      "job": "writer"
+    },
+    {
+      "personId": 1034270,
+      "job": "composer"
+    },
+    {
+      "personId": 1093431,
+      "job": "producer"
+    },
+    {
+      "personId": 1093432,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1093414,
+      "job": "producer"
+    },
+    {
+      "personId": 46230,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1016195,
+      "character": "R",
+      "order": 0
+    },
+    {
+      "personId": 33730,
+      "character": "Prison warden",
+      "order": 1
+    },
+    {
+      "personId": 224662,
+      "character": "Education Officer",
+      "order": 2
+    },
+    {
+      "personId": 548020,
+      "character": "Priest",
+      "order": 3
+    },
+    {
+      "personId": 134812,
+      "character": "Chief of Guards",
+      "order": 4
+    },
+    {
+      "personId": 138748,
+      "character": "Doctor",
+      "order": 5
+    },
+    {
+      "personId": 133603,
+      "character": "District attorney",
+      "order": 6
+    },
+    {
+      "personId": 1016194,
+      "character": "Secretary of the D.A.",
+      "order": 7
+    },
+    {
+      "personId": 552315,
+      "character": "Woman",
+      "order": 8
+    },
+    {
+      "personId": 46230,
+      "character": "Narrator (voice)",
+      "order": 9
+    },
+    {
+      "personId": 2500414,
+      "character": "Guard",
+      "order": 10
+    },
+    {
+      "personId": 3077284,
+      "character": "Guard",
+      "order": 11
+    },
+    {
+      "personId": 140620,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 4130064,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 4130065,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 4130066,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 4130067,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 4130068,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 4130069,
+      "character": "",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 124,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

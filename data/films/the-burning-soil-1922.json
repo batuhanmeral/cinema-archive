@@ -1,0 +1,123 @@
+{
+  "tmdbId": 55549,
+  "slug": "the-burning-soil-1922",
+  "year": 1922,
+  "runtime": 98,
+  "originalTitle": "Der brennende Acker",
+  "title": {
+    "en": "The Burning Soil",
+    "tr": "Der brennende Acker"
+  },
+  "overview": {
+    "en": "When farmer Rog dies, his eldest Peter takes over the farm while his youngest Johannes is determined for a better life: he becomes secretary to Count Rudenberg and starts courting his daughter Gerda. When he learns that the Count, who is terminally ill, has bequeathed a piece of land under which lies a petroleum field to his second wife, he courts her instead.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lORHdoWSl3e1MnranH9SsFvvfdq.jpg",
+    "en": "/lORHdoWSl3e1MnranH9SsFvvfdq.jpg"
+  },
+  "backdrops": [
+    "/8Eo501fYyvBRzdhdzlOGQP2QDfP.jpg",
+    "/bnBzudQXbAygDVCWFtvr2qg5mhw.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    236,
+    5332,
+    9673,
+    9748,
+    14514
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Deulig Film",
+    "Goron Film"
+  ],
+  "crew": [
+    {
+      "personId": 9076,
+      "job": "director"
+    },
+    {
+      "personId": 55138,
+      "job": "writer"
+    },
+    {
+      "personId": 222584,
+      "job": "writer"
+    },
+    {
+      "personId": 157,
+      "job": "writer"
+    },
+    {
+      "personId": 1550863,
+      "job": "producer"
+    },
+    {
+      "personId": 1550873,
+      "job": "composer"
+    },
+    {
+      "personId": 70,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9836,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3000,
+      "character": "Der alte Rog / Old Rog",
+      "order": 0
+    },
+    {
+      "personId": 48029,
+      "character": "Peter Rog",
+      "order": 1
+    },
+    {
+      "personId": 48058,
+      "character": "Johannes Rog",
+      "order": 2
+    },
+    {
+      "personId": 2904,
+      "character": "Graf Rudenburg / Count Rudenburg",
+      "order": 3
+    },
+    {
+      "personId": 48057,
+      "character": "Gerda, Rudenburgs Tochter / Gerda, Rudenburg's daughter",
+      "order": 4
+    },
+    {
+      "personId": 115380,
+      "character": "Helga, Rudenburgs zweite Frau / Helga, Rudenburg's 2nd wife",
+      "order": 5
+    },
+    {
+      "personId": 73,
+      "character": "Ludwig von Lellewel",
+      "order": 6
+    },
+    {
+      "personId": 1098409,
+      "character": "",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 25,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

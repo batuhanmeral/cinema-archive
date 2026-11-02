@@ -1,0 +1,128 @@
+{
+  "tmdbId": 66654,
+  "slug": "shoot-or-be-shot-2002",
+  "year": 2002,
+  "runtime": 90,
+  "originalTitle": "Shoot or Be Shot!",
+  "title": {
+    "en": "Shoot or Be Shot!",
+    "tr": "Shoot or Be Shot!"
+  },
+  "overview": {
+    "en": "An escaped mental patient holds a film crew hostage and forces them to film his screenplay.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rgks58Z2Mo2YV03gCMyZimpkukh.jpg",
+    "en": "/ixaeoSnPhzjDF5uIrYf57jArFPO.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 587437,
+      "job": "director"
+    },
+    {
+      "personId": 587437,
+      "job": "writer"
+    },
+    {
+      "personId": 4952060,
+      "job": "producer"
+    },
+    {
+      "personId": 5995570,
+      "job": "writer"
+    },
+    {
+      "personId": 5995571,
+      "job": "writer"
+    },
+    {
+      "personId": 587437,
+      "job": "producer"
+    },
+    {
+      "personId": 2095,
+      "job": "producer"
+    },
+    {
+      "personId": 1055975,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1748,
+      "character": "Harvey Wilkes",
+      "order": 0
+    },
+    {
+      "personId": 64825,
+      "character": "Jack Yeager",
+      "order": 1
+    },
+    {
+      "personId": 149589,
+      "character": "Ben Steinman",
+      "order": 2
+    },
+    {
+      "personId": 157836,
+      "character": "Heidi / Fiona",
+      "order": 3
+    },
+    {
+      "personId": 29712,
+      "character": "Uncle Bill",
+      "order": 4
+    },
+    {
+      "personId": 76542,
+      "character": "Sven",
+      "order": 5
+    },
+    {
+      "personId": 1225803,
+      "character": "Ashley",
+      "order": 6
+    },
+    {
+      "personId": 961740,
+      "character": "Rachel",
+      "order": 7
+    },
+    {
+      "personId": 19226,
+      "character": "Hector",
+      "order": 8
+    },
+    {
+      "personId": 25313,
+      "character": "Lupe",
+      "order": 9
+    },
+    {
+      "personId": 98533,
+      "character": "Jaded Actress",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 4,
+  "sources": [
+    "movement:dogme-95"
+  ]
+}

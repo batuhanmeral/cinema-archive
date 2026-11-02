@@ -1,0 +1,146 @@
+{
+  "tmdbId": 4173,
+  "slug": "stromboli-1950",
+  "year": 1950,
+  "runtime": 107,
+  "originalTitle": "Stromboli (Terra di Dio)",
+  "title": {
+    "en": "Stromboli",
+    "tr": "Stromboli"
+  },
+  "overview": {
+    "en": "After the end of WWII, a young Lithuanian woman and a young Italian man from Stromboli impulsively marry, but married life on the island is more demanding than she can accept.",
+    "tr": "Soğuk Baltık ülkelerinde yaşayan genç bir kadın olan Karen, hapishaneden yeni kaçmış olan balıkçı Antonio ile evlenir. Ancak Antonio'nun yaşadığı Stromboi kasabasındaki hayatları Karen'ın bir türlü alışamayacağı doğal bir felaketle tehdit altındadır: Bir volkan."
+  },
+  "poster": {
+    "tr": "/tsyyzGSspKsawHocchfokskwbeM.jpg",
+    "en": "/oscdCQe6W1TorOXAIagkyW9B1fG.jpg"
+  },
+  "backdrops": [
+    "/58wyozfcoM7mFiA0soOJfHEA27N.jpg",
+    "/7NLj0l9Fcnmx8Aea0BYSl9cxWPV.jpg",
+    "/1UJQVWtjr4BivOwjWZ75GnFrlm.jpg",
+    "/28qg1pjV05yUZ91ujm0oZ3sEwqN.jpg",
+    "/oqBmvMdYLM1c67KyShSEq5wctR9.jpg",
+    "/khtcl4Zbz6s4yVJTPVGghBoqie9.jpg",
+    "/sWjfigR4kJvWPup4VNVhyzVHqKS.jpg",
+    "/pD7MDnkkesVIkxqVGJLCXAb7Zad.jpg",
+    "/8tmhVe5CfnUbiph7F6kPUTAmpDC.jpg",
+    "/oZnrghUJAraKT2WBSTxVIZ8QZVM.jpg"
+  ],
+  "trailerKey": "n1cWuVFEtsU",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    5420,
+    3686,
+    11004,
+    160224,
+    161197,
+    163398,
+    215257,
+    253793,
+    262803
+  ],
+  "countries": [
+    "IT",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "it",
+    "es"
+  ],
+  "studios": [
+    "RKO Radio Pictures",
+    "Berit Film",
+    "The Criterion Collection"
+  ],
+  "crew": [
+    {
+      "personId": 4410,
+      "job": "director"
+    },
+    {
+      "personId": 4410,
+      "job": "producer"
+    },
+    {
+      "personId": 4416,
+      "job": "composer"
+    },
+    {
+      "personId": 5399,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4413,
+      "job": "writer"
+    },
+    {
+      "personId": 93955,
+      "job": "writer"
+    },
+    {
+      "personId": 110205,
+      "job": "writer"
+    },
+    {
+      "personId": 97471,
+      "job": "writer"
+    },
+    {
+      "personId": 224445,
+      "job": "writer"
+    },
+    {
+      "personId": 4410,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4111,
+      "character": "Karin Bjornsen",
+      "order": 0
+    },
+    {
+      "personId": 35190,
+      "character": "Antonio Mastrostefano",
+      "order": 1
+    },
+    {
+      "personId": 110205,
+      "character": "The Priest",
+      "order": 2
+    },
+    {
+      "personId": 224455,
+      "character": "The Man from the Lighthouse",
+      "order": 3
+    },
+    {
+      "personId": 1605940,
+      "character": "Man with Guitar (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 1605941,
+      "character": "Child (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 129000,
+      "character": "Man (uncredited)",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 235,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

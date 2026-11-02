@@ -1,0 +1,193 @@
+{
+  "tmdbId": 319993,
+  "slug": "aferim-2015",
+  "year": 2015,
+  "runtime": 108,
+  "originalTitle": "Aferim!",
+  "title": {
+    "en": "Aferim!",
+    "tr": "Aferim!"
+  },
+  "overview": {
+    "en": "Set in early 19th century Wallachia, Romania, a policeman, Costandin, is hired by a nobleman to find a Gypsy slave who has run away from his estate after having an affair with his wife.",
+    "tr": "19. yüzyılda Wallachia'da geçen filmde Costandin isimli bir polis, güçlü bir toprak sahibi tarafından karısının aşığı olan köleleri Carfin'i bulması için görevlendirilir. Köle Carfin, efendisinin karısı Sultana ile ilişki yaşadıktan sonra izini kaybettirir. Costandin'in kaçağı bulmak için atıldığı görev, başına beklemediği maceraların geleceği bir yolculuğa neden olacaktır."
+  },
+  "poster": {
+    "tr": "/fQyRszfnlXPFqQSWlqvdDDo42Ze.jpg",
+    "en": "/fQyRszfnlXPFqQSWlqvdDDo42Ze.jpg"
+  },
+  "backdrops": [
+    "/sFhI2qDM2s5QdcdXQDxj4XxFEkn.jpg",
+    "/lqWbv3kG7qUA1nSzfhdCvAlzP10.jpg",
+    "/wXh6ont9r1H44jdyudS189VGxwj.jpg",
+    "/c2zl09m86gTxz5UdJ5XXZb5XVlh.jpg",
+    "/nLQXMUfMY4MDZIUy3FnByfeBE4Y.jpg",
+    "/xMAwmoz9HSiOBmi2KcFP8LKeEUZ.jpg"
+  ],
+  "trailerKey": "xH-UMRih_z4",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    596,
+    394,
+    179882,
+    207928
+  ],
+  "countries": [
+    "BG",
+    "CZ",
+    "RO"
+  ],
+  "languages": [
+    "ro",
+    "tr"
+  ],
+  "studios": [
+    "Hi Film Productions",
+    "Klas Film",
+    "Endorfilm"
+  ],
+  "crew": [
+    {
+      "personId": 60407,
+      "job": "producer"
+    },
+    {
+      "personId": 588822,
+      "job": "writer"
+    },
+    {
+      "personId": 1315263,
+      "job": "writer"
+    },
+    {
+      "personId": 931382,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 588822,
+      "job": "director"
+    },
+    {
+      "personId": 2330307,
+      "job": "producer"
+    },
+    {
+      "personId": 2330311,
+      "job": "composer"
+    },
+    {
+      "personId": 2330310,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 479941,
+      "character": "Costandin",
+      "order": 0
+    },
+    {
+      "personId": 1427391,
+      "character": "Ioniță",
+      "order": 1
+    },
+    {
+      "personId": 592230,
+      "character": "Carfin Pandolean",
+      "order": 2
+    },
+    {
+      "personId": 1315264,
+      "character": "Iordache",
+      "order": 3
+    },
+    {
+      "personId": 39961,
+      "character": "Craftsman's Wife",
+      "order": 4
+    },
+    {
+      "personId": 557862,
+      "character": "Craftsman",
+      "order": 5
+    },
+    {
+      "personId": 559779,
+      "character": "Priest on the road",
+      "order": 6
+    },
+    {
+      "personId": 1112874,
+      "character": "Sultana",
+      "order": 7
+    },
+    {
+      "personId": 1628053,
+      "character": "Zambila",
+      "order": 8
+    },
+    {
+      "personId": 592227,
+      "character": "Traveller",
+      "order": 9
+    },
+    {
+      "personId": 60422,
+      "character": "Vasile",
+      "order": 10
+    },
+    {
+      "personId": 1427393,
+      "character": "Tintiric",
+      "order": 11
+    },
+    {
+      "personId": 2234068,
+      "character": "Traveller",
+      "order": 12
+    },
+    {
+      "personId": 2697391,
+      "character": "Traveller",
+      "order": 13
+    },
+    {
+      "personId": 559777,
+      "character": "Slugă",
+      "order": 14
+    },
+    {
+      "personId": 2495754,
+      "character": "Fisherman",
+      "order": 15
+    },
+    {
+      "personId": 1422075,
+      "character": "Monk",
+      "order": 16
+    },
+    {
+      "personId": 2106098,
+      "character": "Zapciu",
+      "order": 17
+    },
+    {
+      "personId": 5899944,
+      "character": "Foreign Traveller",
+      "order": 18
+    },
+    {
+      "personId": 1791361,
+      "character": "Villager",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 127,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

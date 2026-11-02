@@ -1,1 +1,242 @@
-[]
+[
+  {
+    "title": "Gurbet Kuşları",
+    "year": 1964,
+    "directors": ["Halit Refiğ"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Aşk ve Kin",
+    "year": 1964,
+    "directors": ["Turgut Demirağ"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Bozuk Düzen",
+    "year": 1965,
+    "directors": ["Haldun Dormen"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Zalimler",
+    "year": 1966,
+    "directors": ["Yılmaz Duru"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Bir Millet Uyanıyor",
+    "year": 1966,
+    "directors": ["Ertem Eğilmez"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Güzel Bir Gün İçin",
+    "year": 1966,
+    "directors": ["Haldun Dormen"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "İnce Cumali",
+    "year": 1967,
+    "directors": ["Yılmaz Duru"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Bir Çirkin Adam",
+    "year": 1969,
+    "directors": ["Yılmaz Güney"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Ankara Ekspresi",
+    "year": 1970,
+    "directors": ["Muzaffer Arslan"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Zulüm",
+    "year": 1972,
+    "directors": ["Atıf Yılmaz"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Hayat mı Bu",
+    "year": 1972,
+    "directors": ["Orhan Aksoy"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Düğün",
+    "year": 1973,
+    "directors": ["Lütfi Ömer Akad"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Endişe",
+    "year": 1974,
+    "directors": ["Yılmaz Güney", "Şerif Gören"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Deli Yusuf",
+    "year": 1975,
+    "directors": ["Atıf Yılmaz"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Kara Çarşaflı Gelin",
+    "year": 1975,
+    "directors": ["Süreyya Duru"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Maden",
+    "year": 1978,
+    "directors": ["Yavuz Özkan"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Demiryol",
+    "year": 1979,
+    "directors": ["Yavuz Özkan"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Sürü",
+    "year": 1979,
+    "directors": ["Zeki Ökten", "Yılmaz Güney"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Çirkinler de Sever",
+    "year": 1981,
+    "directors": ["Sinan Çetin"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Faize Hücum",
+    "year": 1982,
+    "directors": ["Zeki Ökten"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Bir Yudum Sevgi",
+    "year": 1984,
+    "directors": ["Atıf Yılmaz"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Dul Bir Kadın",
+    "year": 1985,
+    "directors": ["Atıf Yılmaz"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Aaahh Belinda",
+    "year": 1986,
+    "directors": ["Atıf Yılmaz"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Muhsin Bey",
+    "year": 1987,
+    "directors": ["Yavuz Turgul"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Gece Yolculuğu",
+    "year": 1987,
+    "directors": ["Ömer Kavur"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Uçurtmayı Vurmasınlar",
+    "year": 1989,
+    "directors": ["Tunç Başaran"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Karılar Koğuşu",
+    "year": 1990,
+    "directors": ["Halit Refiğ"],
+    "basis": "altin-portakal"
+  },
+  {
+    "title": "Yılanların Öcü",
+    "year": 1962,
+    "directors": ["Metin Erksan"],
+    "basis": "hand"
+  },
+  {
+    "title": "Susuz Yaz",
+    "year": 1964,
+    "directors": ["Metin Erksan"],
+    "basis": "hand"
+  },
+  {
+    "title": "Vesikalı Yarim",
+    "year": 1968,
+    "directors": ["Lütfi Ömer Akad"],
+    "basis": "hand"
+  },
+  {
+    "title": "Umut",
+    "year": 1970,
+    "directors": ["Yılmaz Güney"],
+    "basis": "hand"
+  },
+  {
+    "title": "Gelin",
+    "year": 1973,
+    "directors": ["Lütfi Ömer Akad"],
+    "basis": "hand"
+  },
+  {
+    "title": "Canım Kardeşim",
+    "year": 1973,
+    "directors": ["Ertem Eğilmez"],
+    "basis": "hand"
+  },
+  {
+    "title": "Arkadaş",
+    "year": 1974,
+    "directors": ["Yılmaz Güney"],
+    "basis": "hand"
+  },
+  {
+    "title": "Hababam Sınıfı",
+    "year": 1975,
+    "directors": ["Ertem Eğilmez"],
+    "basis": "hand"
+  },
+  {
+    "title": "Süt Kardeşler",
+    "year": 1976,
+    "directors": ["Ertem Eğilmez"],
+    "basis": "hand"
+  },
+  {
+    "title": "Tosun Paşa",
+    "year": 1976,
+    "directors": ["Kartal Tibet"],
+    "basis": "hand"
+  },
+  {
+    "title": "Selvi Boylum Al Yazmalım",
+    "year": 1977,
+    "directors": ["Atıf Yılmaz"],
+    "basis": "hand"
+  },
+  {
+    "title": "Neşeli Günler",
+    "year": 1978,
+    "directors": ["Orhan Aksoy"],
+    "basis": "hand"
+  },
+  {
+    "title": "Dünyayı Kurtaran Adam",
+    "year": 1982,
+    "directors": ["Çetin İnanç"],
+    "basis": "hand"
+  }
+]

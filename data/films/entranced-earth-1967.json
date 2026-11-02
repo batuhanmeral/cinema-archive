@@ -1,0 +1,184 @@
+{
+  "tmdbId": 67062,
+  "slug": "entranced-earth-1967",
+  "year": 1967,
+  "runtime": 108,
+  "originalTitle": "Terra em Transe",
+  "title": {
+    "en": "Entranced Earth",
+    "tr": "Trans Halindeki Ülke"
+  },
+  "overview": {
+    "en": "Eldorado, a fictitious country in America, is sparkling with the internal struggle for political power. In the eye of this social convulsion, the jaded journalist Paulo Martins opposes two equally corrupt political candidates: a pseudopopulist and a conservative. In this context, Paulo is torn between the madness of the elite and the blind submission of the masses. But, in this complex tropical reality, nothing really is what it seems to be.",
+    "tr": "Hayali bir Latin Amerika ülkesinde, Eldorado’da, idealist ve anarşist şair ve gazeteci Paulo Martins, halk yardakçısı vali Felipe Viera ve muhafazakâr cumhurbaşkanı Porfirio Diaz’a karşı mücadele eder ve devrimciler tarafından desteklenir. Bir tarafta egemen olanlar, toprak sahipleri, ekonomik ya da siyasal gücü ele geçirenler, öte yanda da ezilenler, yanıltılan, sömürülen, boyun eğen ya da başkaldıranlar...  Brezilya’da 1964 Martında ordu solcu başkanı devirip diktatörlük kurduktan birkaç yıl sonra (1967) çekilmiş olan “Trans Halindeki Ülke”, böyle bir darbe hiç direnişle karşılaşmadan, nasıl bu kadar çabuk yerleşebilir mi diyor acaba?"
+  },
+  "poster": {
+    "tr": "/kuBU2eGzZyCBYxChYBUGbyTQ052.jpg",
+    "en": "/m1snnJ6ddcUc1xxIvSDZw0URKnn.jpg"
+  },
+  "backdrops": [
+    "/xCSzJsUmgd61nXjxoslbWOgOlbY.jpg",
+    "/woLDuKsCXw71g0ByvBeSoGm8jQ4.jpg",
+    "/e5PChVgN4TFKJqRUXjOBbUYnwAl.jpg",
+    "/gNxu6ZaIxBYEk8KSnlPUsjgnvC3.jpg",
+    "/2kSvYIHBhmZOSaSVv9CB2DNsluN.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    490,
+    496,
+    7606,
+    202760,
+    209984,
+    212737,
+    222797,
+    237740,
+    254816,
+    298254,
+    298528,
+    311315,
+    342622
+  ],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Mapa Filmes",
+    "Difilm"
+  ],
+  "crew": [
+    {
+      "personId": 544845,
+      "job": "director"
+    },
+    {
+      "personId": 544845,
+      "job": "writer"
+    },
+    {
+      "personId": 1028394,
+      "job": "composer"
+    },
+    {
+      "personId": 544845,
+      "job": "producer"
+    },
+    {
+      "personId": 12388,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 545810,
+      "character": "Paulo Martins",
+      "order": 0
+    },
+    {
+      "personId": 213618,
+      "character": "Porfírio Diaz",
+      "order": 1
+    },
+    {
+      "personId": 57379,
+      "character": "Felipe Vieira",
+      "order": 2
+    },
+    {
+      "personId": 545811,
+      "character": "Sara",
+      "order": 3
+    },
+    {
+      "personId": 1257190,
+      "character": "Don Julio Fuentes",
+      "order": 4
+    },
+    {
+      "personId": 112112,
+      "character": "Álvaro",
+      "order": 5
+    },
+    {
+      "personId": 545812,
+      "character": "Silvia",
+      "order": 6
+    },
+    {
+      "personId": 12399,
+      "character": "Padre Gil",
+      "order": 7
+    },
+    {
+      "personId": 332422,
+      "character": "Senador",
+      "order": 8
+    },
+    {
+      "personId": 102555,
+      "character": "Aldo",
+      "order": 9
+    },
+    {
+      "personId": 1461948,
+      "character": "Marinho",
+      "order": 10
+    },
+    {
+      "personId": 1068934,
+      "character": "Capitão",
+      "order": 11
+    },
+    {
+      "personId": 223344,
+      "character": "Homem do Povo",
+      "order": 12
+    },
+    {
+      "personId": 936090,
+      "character": "Segurança",
+      "order": 13
+    },
+    {
+      "personId": 103667,
+      "character": "Homem no Comício",
+      "order": 14
+    },
+    {
+      "personId": 1165017,
+      "character": "Mulher de Felício",
+      "order": 15
+    },
+    {
+      "personId": 1150992,
+      "character": "Felício",
+      "order": 16
+    },
+    {
+      "personId": 1302719,
+      "character": "Jerônimo",
+      "order": 17
+    },
+    {
+      "personId": 590428,
+      "character": "Repórter",
+      "order": 18
+    },
+    {
+      "personId": 4795459,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 125,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

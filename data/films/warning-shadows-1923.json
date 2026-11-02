@@ -1,0 +1,135 @@
+{
+  "tmdbId": 84956,
+  "slug": "warning-shadows-1923",
+  "year": 1923,
+  "runtime": 90,
+  "originalTitle": "Schatten – Eine nächtliche Halluzination",
+  "title": {
+    "en": "Warning Shadows",
+    "tr": "Schatten – Eine nächtliche Halluzination"
+  },
+  "overview": {
+    "en": "During a dinner given by a wealthy baron and his wife, attended by four of her suitors in a 19th century German manor, a shadow-player rescues the marriage by giving all the guests a vision what might happen tonight if the baron stays jealous and the suitors do not reduce their advances towards his beautiful wife. Or was it a vision?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vSQRXcGKVuvNmvAeJZj3Sw42FWi.jpg",
+    "en": "/vSQRXcGKVuvNmvAeJZj3Sw42FWi.jpg"
+  },
+  "backdrops": [
+    "/iCMEKUaCek72iqfRzxd0YwApONJ.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    27
+  ],
+  "keywordIds": [
+    179874,
+    244516
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Pan-Film"
+  ],
+  "crew": [
+    {
+      "personId": 1098405,
+      "job": "producer"
+    },
+    {
+      "personId": 48049,
+      "job": "writer"
+    },
+    {
+      "personId": 37413,
+      "job": "writer"
+    },
+    {
+      "personId": 48049,
+      "job": "director"
+    },
+    {
+      "personId": 9835,
+      "job": "producer"
+    },
+    {
+      "personId": 9836,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1544443,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9842,
+      "character": "Shadowplayer",
+      "order": 0
+    },
+    {
+      "personId": 13905,
+      "character": "The Count",
+      "order": 1
+    },
+    {
+      "personId": 931506,
+      "character": "His Wife",
+      "order": 2
+    },
+    {
+      "personId": 9840,
+      "character": "Her Lover",
+      "order": 3
+    },
+    {
+      "personId": 1098409,
+      "character": "A Servant",
+      "order": 4
+    },
+    {
+      "personId": 1098410,
+      "character": "The Maid",
+      "order": 5
+    },
+    {
+      "personId": 78,
+      "character": "Diener",
+      "order": 6
+    },
+    {
+      "personId": 225291,
+      "character": "2. Diener",
+      "order": 7
+    },
+    {
+      "personId": 47213,
+      "character": "2. Kavalier",
+      "order": 8
+    },
+    {
+      "personId": 35423,
+      "character": "3. Kavalier",
+      "order": 9
+    },
+    {
+      "personId": 77,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 20533,
+      "character": "",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 39,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "tmdbId": 6511,
+  "slug": "the-consequence-1977",
+  "year": 1977,
+  "runtime": 100,
+  "originalTitle": "Die Konsequenz",
+  "title": {
+    "en": "The Consequence",
+    "tr": "Die Konsequenz"
+  },
+  "overview": {
+    "en": "Thomas, the son of a prison warden, falls for Martin, one of the prison inmates. After Martin is released, they try to build a relationship and a life together but, no one will leave them alone.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/f3C0yGsPJ4oM7z6l73aqi98amP8.jpg",
+    "en": "/5b2rC6cgglPMab6LbQauTfBJmv2.jpg"
+  },
+  "backdrops": [
+    "/xlLghn5EG7QDryBYrptp2WEFv8X.jpg",
+    "/xofleyqDJzL2gazUt9g3oxKH6m3.jpg",
+    "/adYhwnKtylhl9PjzPTUcUjYUe7K.jpg",
+    "/bItQ9f2PycgfCly8FsT1UTKPRMz.jpg",
+    "/hcw8rf1Ql4DbQlTzj1UJX8wbQSM.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10749,
+    10770
+  ],
+  "keywordIds": [
+    378,
+    4320,
+    10180
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "WDR",
+    "Solaris Film"
+  ],
+  "crew": [
+    {
+      "personId": 5231,
+      "job": "director"
+    },
+    {
+      "personId": 50203,
+      "job": "writer"
+    },
+    {
+      "personId": 5231,
+      "job": "writer"
+    },
+    {
+      "personId": 673,
+      "job": "producer"
+    },
+    {
+      "personId": 2534511,
+      "job": "composer"
+    },
+    {
+      "personId": 45043,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 920,
+      "character": "Martin Kurath",
+      "order": 0
+    },
+    {
+      "personId": 38977,
+      "character": "Thomas Manzoni",
+      "order": 1
+    },
+    {
+      "personId": 41602,
+      "character": "Erzieher Diethelm",
+      "order": 2
+    },
+    {
+      "personId": 35263,
+      "character": "Anstaltsleiter Rusterholz",
+      "order": 3
+    },
+    {
+      "personId": 4014541,
+      "character": "Enrico",
+      "order": 4
+    },
+    {
+      "personId": 50204,
+      "character": "Babette",
+      "order": 5
+    },
+    {
+      "personId": 50205,
+      "character": "Giorgio Manzoni",
+      "order": 6
+    },
+    {
+      "personId": 50206,
+      "character": "Frau Manzoni",
+      "order": 7
+    },
+    {
+      "personId": 50207,
+      "character": "Direktor Reichmuth",
+      "order": 8
+    },
+    {
+      "personId": 50208,
+      "character": "Clemens Krauthagen",
+      "order": 9
+    },
+    {
+      "personId": 24195,
+      "character": "Hehler Oskar",
+      "order": 10
+    },
+    {
+      "personId": 50209,
+      "character": "-",
+      "order": 11
+    },
+    {
+      "personId": 46042,
+      "character": "Häftling Joseph Bloch",
+      "order": 12
+    },
+    {
+      "personId": 50210,
+      "character": "Häftling Kunz",
+      "order": 13
+    },
+    {
+      "personId": 50203,
+      "character": "Häftling Lemmi",
+      "order": 14
+    },
+    {
+      "personId": 50211,
+      "character": "Schlumberger",
+      "order": 15
+    },
+    {
+      "personId": 50212,
+      "character": "Benny",
+      "order": 16
+    },
+    {
+      "personId": 50213,
+      "character": "-",
+      "order": 17
+    },
+    {
+      "personId": 50214,
+      "character": "-",
+      "order": 18
+    },
+    {
+      "personId": 50215,
+      "character": "-",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 34,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

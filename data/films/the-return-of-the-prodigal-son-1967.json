@@ -1,0 +1,175 @@
+{
+  "tmdbId": 104306,
+  "slug": "the-return-of-the-prodigal-son-1967",
+  "year": 1967,
+  "runtime": 98,
+  "originalTitle": "Návrat ztraceného syna",
+  "title": {
+    "en": "The Return of the Prodigal Son",
+    "tr": "Návrat ztraceného syna"
+  },
+  "overview": {
+    "en": "Engineer Jan Sebek (Jan Kacer) is undergoing treatment in a mental home after his unsuccessful attempt to commit suicide. His therapist, via discussions both with the patient and with people who know him, tries to find out what made the young and seemingly satisfied man decide to end his own life. Jan's pretty wife Jana (Jana Brejchová) claims not to know about anything but she is conducting an affair with a family friend, almost publicly and with the blessing of her parents.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lCsUhoVcUpdipjEMNHxhvBf6pFn.jpg",
+    "en": "/sRdYZGu0u8HX1NzLersFWG9T7jL.jpg"
+  },
+  "backdrops": [
+    "/uxfQFC44okqtXhlrN44pQAYApIw.jpg",
+    "/adnkIx8N1YcAuftzNFuDUiHULmp.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    596,
+    1157,
+    1252,
+    2884,
+    7368,
+    13005,
+    156455,
+    170356
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "Filmové studio Barrandov"
+  ],
+  "crew": [
+    {
+      "personId": 1035927,
+      "job": "director"
+    },
+    {
+      "personId": 1136807,
+      "job": "writer"
+    },
+    {
+      "personId": 1035927,
+      "job": "writer"
+    },
+    {
+      "personId": 588762,
+      "job": "composer"
+    },
+    {
+      "personId": 1425227,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 543889,
+      "character": "Jan Sebek",
+      "order": 0
+    },
+    {
+      "personId": 28828,
+      "character": "Jana",
+      "order": 1
+    },
+    {
+      "personId": 11720,
+      "character": "Jirí",
+      "order": 2
+    },
+    {
+      "personId": 1136815,
+      "character": "Doctor",
+      "order": 3
+    },
+    {
+      "personId": 544260,
+      "character": "Olga",
+      "order": 4
+    },
+    {
+      "personId": 1136814,
+      "character": "Jana's Mother",
+      "order": 5
+    },
+    {
+      "personId": 1136813,
+      "character": "Jana's Father",
+      "order": 6
+    },
+    {
+      "personId": 1136816,
+      "character": "zdravotní sestra",
+      "order": 7
+    },
+    {
+      "personId": 1136812,
+      "character": "Zdeněk",
+      "order": 8
+    },
+    {
+      "personId": 235640,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1136811,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1991800,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1295224,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1136819,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 544649,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 592088,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 11733,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 2411241,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 3528765,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 3528766,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 18,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

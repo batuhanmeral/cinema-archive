@@ -1,0 +1,101 @@
+{
+  "tmdbId": 453913,
+  "slug": "zalimler-1966",
+  "year": 1966,
+  "runtime": null,
+  "originalTitle": "Zalimler",
+  "title": {
+    "en": "Zalimler",
+    "tr": "Zalimler"
+  },
+  "overview": {
+    "en": null,
+    "tr": "Bir İmam Hatip Okulu talebesiyle, küçük yaşlarda sözlendirilen yedi köylü ağa kızının kan davasına dönüşen aşklarının öyküsü."
+  },
+  "poster": {
+    "tr": "/hSZhZXPj3Xk0m2iMJgp0aIwhUXZ.jpg",
+    "en": "/hSZhZXPj3Xk0m2iMJgp0aIwhUXZ.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    10749,
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [
+    "Dadaş Film"
+  ],
+  "crew": [
+    {
+      "personId": 1384593,
+      "job": "director"
+    },
+    {
+      "personId": 1323385,
+      "job": "producer"
+    },
+    {
+      "personId": 1384593,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1384593,
+      "character": "",
+      "order": 0
+    },
+    {
+      "personId": 1321319,
+      "character": "",
+      "order": 1
+    },
+    {
+      "personId": 1324079,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 1320055,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 590773,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 571439,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1381947,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 1509661,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1296132,
+      "character": "Ahmet Turgutlu",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 1,
+  "sources": [
+    "yesilcam"
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "tmdbId": 198897,
+  "slug": "the-song-of-the-grey-pigeon-1961",
+  "year": 1961,
+  "runtime": 98,
+  "originalTitle": "Pieseň o sivom holubovi",
+  "title": {
+    "en": "The Song of the Grey Pigeon",
+    "tr": "Pieseň o sivom holubovi"
+  },
+  "overview": {
+    "en": "An unusual children's film set during World War II in Czechoslovakia, this compelling drama unfolds five different segments that present the war through the eyes of three youngsters. The three have a series of adventures which include saving a soldier from being captured by the Germans, helping out the resistance fighters, and meeting up with a young Russian woman trained in guerrilla warfare. As they learn more about life and danger, various circumstances constantly recall the reality of war itself. The title comes from a wounded pigeon under the care of one of the youngsters.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/8c69OIeARFJS4Svi8fpQ4551ic6.jpg",
+    "en": "/8c69OIeARFJS4Svi8fpQ4551ic6.jpg"
+  },
+  "backdrops": [
+    "/pfvHrmJefG3sZJcJ1yKZSTQV9ba.jpg",
+    "/7bgNj8E3yWyXYHrp5XrQUt5qqwG.jpg",
+    "/89F9Kz8ObfEmPUlrSRac0S0U81F.jpg",
+    "/pjoJwmArsB6LPYultalHz9U25cy.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    1956
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "de",
+    "ru",
+    "sk"
+  ],
+  "studios": [
+    "Štúdio hraných filmov Bratislava"
+  ],
+  "crew": [
+    {
+      "personId": 1303782,
+      "job": "writer"
+    },
+    {
+      "personId": 544515,
+      "job": "composer"
+    },
+    {
+      "personId": 134162,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1132537,
+      "job": "writer"
+    },
+    {
+      "personId": 137565,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1303786,
+      "character": "Rudko Hrudka",
+      "order": 0
+    },
+    {
+      "personId": 1303788,
+      "character": "Vinco",
+      "order": 1
+    },
+    {
+      "personId": 1303784,
+      "character": "Martin",
+      "order": 2
+    },
+    {
+      "personId": 1093790,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 548093,
+      "character": "Milan's father",
+      "order": 4
+    },
+    {
+      "personId": 1132523,
+      "character": "Rudko's father",
+      "order": 5
+    },
+    {
+      "personId": 137020,
+      "character": "Fero Šlosiarik",
+      "order": 6
+    },
+    {
+      "personId": 23500,
+      "character": "Natasa",
+      "order": 7
+    },
+    {
+      "personId": 1262115,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1303790,
+      "character": "Verona",
+      "order": 9
+    },
+    {
+      "personId": 1303785,
+      "character": "Andriuša",
+      "order": 10
+    },
+    {
+      "personId": 138063,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 592082,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 3430598,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 3430599,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1303787,
+      "character": "Milan",
+      "order": 15
+    },
+    {
+      "personId": 3395941,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 2133735,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1199664,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1132475,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 9,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

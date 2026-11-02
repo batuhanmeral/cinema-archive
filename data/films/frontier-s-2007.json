@@ -1,0 +1,186 @@
+{
+  "tmdbId": 13492,
+  "slug": "frontier-s-2007",
+  "year": 2007,
+  "runtime": 108,
+  "originalTitle": "Frontière(s)",
+  "title": {
+    "en": "Frontier(s)",
+    "tr": "Sınır(da)"
+  },
+  "overview": {
+    "en": "A gang of young thieves flee Paris during the violent aftermath of a political election, only to hole up at an Inn run by neo-Nazis.",
+    "tr": "Fransız başkanlık seçimlerinde muhalif taraflar karşı karşıya gelirler. Varoşlarda ayaklanma çıkmış, her köşede alevler yükselmektedir. Kent merkezindeki kargaşa ortamından yararlanmak isteyen küçük bir hırsız çetesi, bir soygun hazırlığındadır. Başarılı oldukları takdirde ülke dışına kaçaçak ve çetenin kadın üyesinin çocuğunu aldırabilmesi için gereken parayı elde edeceklerdir. Ancak soygun sırasında işler kötü gider ve grup bölünür. Polisten kaçmaya çalışan bazı çete üyeleri, sınır yakınlarında ıssız bir pansiyona saklanırlar. Soyguncular; otel sahibinin eski bir Nazi olduğundan habersizdir. Pansiyon sahibi faşist fantezilerini soyguncular üzerinde uygulamaya başladığında; genç çete üyeleri için azap ve çilelerle dolu günler başlamıştır. Otelin karanlık ve ürkütücü odalarında her türlü aşağılama ve işkenceye tabi tutulan çete üyeleri; evrensel özgürlüğün gerçek anlamını öğrenmeye başlayacaklardır."
+  },
+  "poster": {
+    "tr": "/op7kGoRWIxxSLwUAXxYpruTjN3e.jpg",
+    "en": "/6GISAjE0XiSucmzXIhb1tdnV2yC.jpg"
+  },
+  "backdrops": [
+    "/pOmbRwfiuLJPEiZRVnEKQVywRdT.jpg",
+    "/eylAS0ll4UvtN2a4UIQRem3AypU.jpg",
+    "/tvcx12hEMeJMcKViZxIn6MxGC8e.jpg",
+    "/ycoMIjN5sXtOrfwUJnEGx1m3Icf.jpg"
+  ],
+  "trailerKey": "GmmpJSiqU3Y",
+  "genreIds": [
+    18,
+    27,
+    28,
+    53
+  ],
+  "keywordIds": [
+    2652,
+    3713,
+    4426,
+    6259,
+    1755,
+    3183,
+    2804,
+    10292,
+    10125,
+    9849,
+    10776,
+    9991,
+    10250,
+    11729,
+    11579,
+    12997,
+    13006,
+    13092,
+    13129,
+    14601,
+    14624,
+    14895,
+    34079,
+    50009,
+    157444,
+    167942,
+    178034,
+    183435,
+    208339,
+    224663,
+    278235,
+    287303,
+    308750,
+    322255,
+    365846
+  ],
+  "countries": [
+    "FR",
+    "CH"
+  ],
+  "languages": [
+    "fr",
+    "de"
+  ],
+  "studios": [
+    "Chemin Vert",
+    "Cartel Productions",
+    "EuropaCorp"
+  ],
+  "crew": [
+    {
+      "personId": 18184,
+      "job": "director"
+    },
+    {
+      "personId": 1191104,
+      "job": "producer"
+    },
+    {
+      "personId": 1282402,
+      "job": "composer"
+    },
+    {
+      "personId": 45843,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 18184,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 49025,
+      "character": "Goëtz",
+      "order": 0
+    },
+    {
+      "personId": 82318,
+      "character": "Farid",
+      "order": 1
+    },
+    {
+      "personId": 82314,
+      "character": "Yasmine",
+      "order": 2
+    },
+    {
+      "personId": 25342,
+      "character": "Alex",
+      "order": 3
+    },
+    {
+      "personId": 35970,
+      "character": "Mr Bean",
+      "order": 4
+    },
+    {
+      "personId": 48409,
+      "character": "Tom",
+      "order": 5
+    },
+    {
+      "personId": 82317,
+      "character": "Eva",
+      "order": 6
+    },
+    {
+      "personId": 82319,
+      "character": "Klaudia",
+      "order": 7
+    },
+    {
+      "personId": 77192,
+      "character": "Gilberte",
+      "order": 8
+    },
+    {
+      "personId": 146498,
+      "character": "La mere",
+      "order": 9
+    },
+    {
+      "personId": 89624,
+      "character": "Sami",
+      "order": 10
+    },
+    {
+      "personId": 1156349,
+      "character": "Hans",
+      "order": 11
+    },
+    {
+      "personId": 1166147,
+      "character": "Von Geisler",
+      "order": 12
+    },
+    {
+      "personId": 1370577,
+      "character": "Policeman",
+      "order": 13
+    },
+    {
+      "personId": 1370578,
+      "character": "Nurse",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 849,
+  "sources": [
+    "movement:new-french-extremity"
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "tmdbId": 68883,
+  "slug": "rouge-1987",
+  "year": 1987,
+  "runtime": 96,
+  "originalTitle": "胭脂扣",
+  "title": {
+    "en": "Rouge",
+    "tr": "Rouge"
+  },
+  "overview": {
+    "en": "Amid the opulent teahouses of 1930s Hong Kong, a humble courtesan and the wayward scion of a wealthy family fall in love and embrace death by suicide pact. Fifty years later, her ghost returns to find him, drawing a young contemporary couple into her quest to rekindle a passion that may be as illusory as time itself.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/q2wAAeGagOmqmqEkEgveLJYBj89.jpg",
+    "en": "/q2wAAeGagOmqmqEkEgveLJYBj89.jpg"
+  },
+  "backdrops": [
+    "/s8GWXd1iRY4bXc3Ny33D9h4V77o.jpg",
+    "/whVT09bg07tIdgVZehiSnKiCzfd.jpg",
+    "/asWFFwKMXDHerszcCKsuCPtIgbR.jpg",
+    "/azH4uyHX8oCCJfiokzlThZ7rSb6.jpg",
+    "/cAPeEP9ILUs2WdapvWy7i5noGy1.jpg",
+    "/qSVBdYVbS2Abui6oGJdzSizhk94.jpg",
+    "/z235D0KnczlWAd7nK4PSLIa3qni.jpg",
+    "/4kpbkS9V4QJcQBnvxvRfRojdFyI.jpg",
+    "/e7Z58Mz2tOMzYP1q1ZehN7XkCre.jpg",
+    "/bs9iA4FL6RbtGSU3v5QASPEZEbj.jpg"
+  ],
+  "trailerKey": "GESBqO7UDxU",
+  "genreIds": [
+    18,
+    14,
+    10749,
+    9648
+  ],
+  "keywordIds": [
+    1411
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn"
+  ],
+  "studios": [
+    "Golden Way Films",
+    "Orange Sky Golden Harvest"
+  ],
+  "crew": [
+    {
+      "personId": 96861,
+      "job": "director"
+    },
+    {
+      "personId": 67766,
+      "job": "writer"
+    },
+    {
+      "personId": 18897,
+      "job": "producer"
+    },
+    {
+      "personId": 62416,
+      "job": "producer"
+    },
+    {
+      "personId": 65962,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1042723,
+      "job": "writer"
+    },
+    {
+      "personId": 1178936,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 44917,
+      "character": "Fleur",
+      "order": 0
+    },
+    {
+      "personId": 69637,
+      "character": "Chan Chen-Pang",
+      "order": 1
+    },
+    {
+      "personId": 148886,
+      "character": "Yuen",
+      "order": 2
+    },
+    {
+      "personId": 69638,
+      "character": "Chor",
+      "order": 3
+    },
+    {
+      "personId": 227780,
+      "character": "Shu-Hsien",
+      "order": 4
+    },
+    {
+      "personId": 554183,
+      "character": "Chen-Pang's Mother",
+      "order": 5
+    },
+    {
+      "personId": 4027448,
+      "character": "Chen-Pang's Father",
+      "order": 6
+    },
+    {
+      "personId": 238841,
+      "character": "Ho Hsi",
+      "order": 7
+    },
+    {
+      "personId": 131955,
+      "character": "Movie Director",
+      "order": 8
+    },
+    {
+      "personId": 84205,
+      "character": "Actress Portraying Ghost",
+      "order": 9
+    },
+    {
+      "personId": 70439,
+      "character": "Brothel Patron",
+      "order": 10
+    },
+    {
+      "personId": 1929276,
+      "character": "Fortune Teller",
+      "order": 11
+    },
+    {
+      "personId": 25252,
+      "character": "Courtesan",
+      "order": 12
+    },
+    {
+      "personId": 1275568,
+      "character": "Boss of Antique Shop",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 96,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

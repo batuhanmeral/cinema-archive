@@ -132,6 +132,7 @@ export const collectionRuleSchema = z
       .min(1)
       .optional(),
     wikipediaCategories: z.array(z.string()).min(1).optional(),
+    wikipediaArticles: z.array(z.string()).min(1).optional(),
     tmdbGenres: z.array(z.number().int()).min(1).optional(),
     countries: countriesSchema.optional(),
     years: z.object({ start: z.number(), end: z.number() }).optional(),
@@ -142,6 +143,7 @@ export const collectionRuleSchema = z
       Boolean(
         rule.wikidataGenres ??
         rule.wikipediaCategories ??
+        rule.wikipediaArticles ??
         rule.tmdbGenres ??
         rule.countries ??
         rule.sources,

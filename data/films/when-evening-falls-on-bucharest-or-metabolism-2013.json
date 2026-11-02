@@ -1,0 +1,124 @@
+{
+  "tmdbId": 214069,
+  "slug": "when-evening-falls-on-bucharest-or-metabolism-2013",
+  "year": 2013,
+  "runtime": 89,
+  "originalTitle": "Când se lasa seara peste Bucuresti sau metabolism",
+  "title": {
+    "en": "When Evening Falls on Bucharest or Metabolism",
+    "tr": "Bükreş'te Gece Çöktüğünde ya da Metabolizma"
+  },
+  "overview": {
+    "en": "A director with two weeks left on his latest production fakes an ulcer to pursue a romance with his lead actress.",
+    "tr": "Romanya'nın önde gelen \"Yeni Dalga\" yönetmenlerinden Corneliu Porumboiu, dünyanın halini absürt bir nüktedanlıkla ele aldığı Bükreş'in Doğusu ve Polis, Sıfat filmlerinin ardından üçüncü uzun metrajında bu kez sinema dünyasına dalıyor. Bu film içindeki filmin yönetmeni Paul, çekimlerin son gününde, ilişki yaşadığı oyuncusu Alina'yla çıplak bir sahne çekmeye karar verir. Ama ertesi gün fikrini değiştirir ve yapımcısını arayıp ülseri olduğunu söyler. İlk uluslararası gösterimini Locarno Film Festivali'nde yapan ve yönetmenin alametifarikası plan sekanslardan oluşan filmin çıkış noktası Romanya'da sinemaya verilen devlet desteği için getirilen yeni şartlar olmuş."
+  },
+  "poster": {
+    "tr": "/gBLL5CVkY4GcUTjhDIGdU9vrdJc.jpg",
+    "en": "/gBLL5CVkY4GcUTjhDIGdU9vrdJc.jpg"
+  },
+  "backdrops": [
+    "/la81Cyy4orCmE2z5tgUmfJfWtTd.jpg",
+    "/huki7ISWj9NtQgrQoTucBradvE1.jpg",
+    "/eoLK7ia8qFnvQ3L1C07yQ7tKk2Z.jpg",
+    "/b1vREkVT4tnHBcu1kpWfnO20SwT.jpg",
+    "/zl1l5TWjGTLwS7DSo18KKFAyaLh.jpg",
+    "/6IqheWQnFevASYWOpf9mN9KU6fR.jpg"
+  ],
+  "trailerKey": "KEo2EZ_Q-js",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    34196
+  ],
+  "countries": [
+    "RO",
+    "FR"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "Les films du Worso",
+    "42 Km Film"
+  ],
+  "crew": [
+    {
+      "personId": 109293,
+      "job": "director"
+    },
+    {
+      "personId": 109293,
+      "job": "writer"
+    },
+    {
+      "personId": 1451499,
+      "job": "producer"
+    },
+    {
+      "personId": 1326660,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6027982,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1198711,
+      "character": "Alina",
+      "order": 0
+    },
+    {
+      "personId": 931367,
+      "character": "Paul",
+      "order": 1
+    },
+    {
+      "personId": 1112874,
+      "character": "Magda",
+      "order": 2
+    },
+    {
+      "personId": 1163608,
+      "character": "Laur",
+      "order": 3
+    },
+    {
+      "personId": 2483602,
+      "character": "Doctorul",
+      "order": 4
+    },
+    {
+      "personId": 1146969,
+      "character": "Machioza",
+      "order": 5
+    },
+    {
+      "personId": 1899149,
+      "character": "Receptionerul",
+      "order": 6
+    },
+    {
+      "personId": 1833453,
+      "character": "Marius",
+      "order": 7
+    },
+    {
+      "personId": 1899150,
+      "character": "Irina",
+      "order": 8
+    },
+    {
+      "personId": 1899152,
+      "character": "Dinu",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 28,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

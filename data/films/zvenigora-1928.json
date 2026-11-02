@@ -1,0 +1,140 @@
+{
+  "tmdbId": 82088,
+  "slug": "zvenigora-1928",
+  "year": 1928,
+  "runtime": 92,
+  "originalTitle": "Звенигора",
+  "title": {
+    "en": "Zvenigora",
+    "tr": "Zvenigora"
+  },
+  "overview": {
+    "en": "An old man tells his grandson of a legendary treasure buried beneath the hills of Zvenigora, setting in motion a sweeping cinematic poem that intertwines Ukrainian folklore, history, and revolution.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/3Ry20Hx3xnjDOisWdbLVATFZnXy.jpg",
+    "en": "/3Ry20Hx3xnjDOisWdbLVATFZnXy.jpg"
+  },
+  "backdrops": [
+    "/e8H8a7dAsvV1fFzftg6feGue2G8.jpg",
+    "/6yPjmdaEpkX9c5raKNXeGuSA2He.jpg"
+  ],
+  "trailerKey": "9dHNh0hNrxw",
+  "genreIds": [
+    18,
+    14
+  ],
+  "keywordIds": [
+    941,
+    2020,
+    189108
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "VUFKU",
+    "Odeska Kinofabryka"
+  ],
+  "crew": [
+    {
+      "personId": 141713,
+      "job": "director"
+    },
+    {
+      "personId": 3756193,
+      "job": "writer"
+    },
+    {
+      "personId": 1762893,
+      "job": "writer"
+    },
+    {
+      "personId": 1209868,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 141713,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 592960,
+      "character": "Grandpa / General",
+      "order": 0
+    },
+    {
+      "personId": 592961,
+      "character": "Timoshka, First Grandson",
+      "order": 1
+    },
+    {
+      "personId": 1706581,
+      "character": "Pavel, Second Grandson",
+      "order": 2
+    },
+    {
+      "personId": 5369944,
+      "character": "Oksana / Roksana",
+      "order": 3
+    },
+    {
+      "personId": 1762895,
+      "character": "Scythian Leader (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 2156248,
+      "character": "Monk (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 5935542,
+      "character": "Pavel's Friend (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 3642173,
+      "character": "Spectator (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 2376036,
+      "character": "Timoshka's Wife (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 6095227,
+      "character": "Ataman (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 3218493,
+      "character": "Fat Officer (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 237489,
+      "character": "Peasant (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1934757,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1910419,
+      "character": "",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 34,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

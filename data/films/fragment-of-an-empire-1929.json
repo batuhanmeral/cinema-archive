@@ -1,0 +1,119 @@
+{
+  "tmdbId": 167354,
+  "slug": "fragment-of-an-empire-1929",
+  "year": 1929,
+  "runtime": 110,
+  "originalTitle": "Обломок империи",
+  "title": {
+    "en": "Fragment of an Empire",
+    "tr": "Fragment of an Empire"
+  },
+  "overview": {
+    "en": "Director Frederick Ermler’s last silent feature and the last of four collaborations with actor Fiodor Nikitin. Nikitin plays an officer who spends a decade after the Great War as a shell-shocked amnesiac, until a glimpse of a woman through a train window sparks the return of his memory. He makes his way back to St. Petersburg, now Leningrad, a man out of time who struggles to make sense of the new society brought about by the revolution.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/h5lnD1zd0Cy4CtQ7EW8oQq52x2E.jpg",
+    "en": "/tv5YVAjiUM6J0xOVQ2U8JT705QE.jpg"
+  },
+  "backdrops": [
+    "/4FigKwOBjaRD3OL6wWMdX4VwadJ.jpg",
+    "/9wTebqwEo0Xf4aS3txecDAm7Nsw.jpg",
+    "/hZBi5HUaeEDPe40Wk6mMaeXz14L.jpg"
+  ],
+  "trailerKey": "LjxmWkoGYaE",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    2903,
+    6078
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Sovkino"
+  ],
+  "crew": [
+    {
+      "personId": 272506,
+      "job": "writer"
+    },
+    {
+      "personId": 272506,
+      "job": "director"
+    },
+    {
+      "personId": 1740540,
+      "job": "writer"
+    },
+    {
+      "personId": 1307826,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 560106,
+      "character": "Filimonov",
+      "order": 0
+    },
+    {
+      "personId": 1387663,
+      "character": "Filimonov's wife",
+      "order": 1
+    },
+    {
+      "personId": 1402374,
+      "character": "Filimonov's wife's new husband",
+      "order": 2
+    },
+    {
+      "personId": 1540569,
+      "character": "Passenger in the train",
+      "order": 3
+    },
+    {
+      "personId": 1041535,
+      "character": "The wounded soldier",
+      "order": 4
+    },
+    {
+      "personId": 624719,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1157569,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 1871442,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1611265,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 4872030,
+      "character": "Drunkard",
+      "order": 9
+    },
+    {
+      "personId": 1386803,
+      "character": "Officer",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 25,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

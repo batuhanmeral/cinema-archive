@@ -1,0 +1,98 @@
+{
+  "tmdbId": 475963,
+  "slug": "pororoca-2018",
+  "year": 2018,
+  "runtime": 153,
+  "originalTitle": "Pororoca",
+  "title": {
+    "en": "Pororoca",
+    "tr": "Pororoca"
+  },
+  "overview": {
+    "en": "Cristina and Tudor have founded a happy family with their two children, Maria and Ilie. They are in their thirties and live an ordinary life in a nice apartment in a Romanian town, but one Sunday morning when Tudor takes his kids to the park, Maria disappears. Their lives abruptly change forever.",
+    "tr": "Adını Amazon nehrindeki dev gelgit dalgalarından alan, Romen Yeni Dalga sinemasının yeni başarılı örneklerinden Pororoca, beş yaşındaki küçük kızlarının ortadan kaybolmasıyla hayatları alt-üst olan bir aileyi gözlemliyor. Yönetmen Constantin Popescu, bu üçüncü uzun metrajlı filminde özellikle 18 dakikalık kesintisiz park planıyla teknik kusursuzluğu yakalıyor. Babayı oynayan Bogdan Dumitrache’ye dünya prömiyerini yaptığı San Sebastian Film Festivali’nde ödül getiren Pororoca, öfke, keder, suçluluk, çaresizlik ve takıntı gibi insani duyguları bir kayıp olayı üzerinden ele alarak belki de her anne-babanın aslında korkup çekindikleri bir olguyu perdeye taşıyor."
+  },
+  "poster": {
+    "tr": "/jltYp1tpffJA9UgWx0KEJerTMgi.jpg",
+    "en": "/jltYp1tpffJA9UgWx0KEJerTMgi.jpg"
+  },
+  "backdrops": [
+    "/gBF9GFGllpYeBbRMTdYWGKZbqEG.jpg",
+    "/oTH5ISjMgChKEg9i0EnjQij2Z8F.jpg",
+    "/uJdiTIq2BpcH2TtemqJikAyXcCF.jpg",
+    "/tsgHMn1vZs58AYU4Xv49j3zlDlM.jpg"
+  ],
+  "trailerKey": "sG1LOWnos9s",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    170865
+  ],
+  "countries": [
+    "RO",
+    "FR"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "Irreverence Films",
+    "Scharf Advertising",
+    "Scharf Film"
+  ],
+  "crew": [
+    {
+      "personId": 122778,
+      "job": "director"
+    },
+    {
+      "personId": 122778,
+      "job": "writer"
+    },
+    {
+      "personId": 1885156,
+      "job": "producer"
+    },
+    {
+      "personId": 1285544,
+      "job": "producer"
+    },
+    {
+      "personId": 1285544,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 931367,
+      "character": "Tudor",
+      "order": 0
+    },
+    {
+      "personId": 1413084,
+      "character": "Cristina",
+      "order": 1
+    },
+    {
+      "personId": 1904359,
+      "character": "Pricop",
+      "order": 2
+    },
+    {
+      "personId": 1904360,
+      "character": "Ilie",
+      "order": 3
+    },
+    {
+      "personId": 1904361,
+      "character": "Maria",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 42,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

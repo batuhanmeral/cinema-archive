@@ -1,0 +1,123 @@
+{
+  "tmdbId": 175503,
+  "slug": "from-morning-to-midnight-1920",
+  "year": 1920,
+  "runtime": 72,
+  "originalTitle": "Von morgens bis mitternachts",
+  "title": {
+    "en": "From Morning to Midnight",
+    "tr": "Von morgens bis mitternachts"
+  },
+  "overview": {
+    "en": "A cashier in a bank in a small German town is alerted to the power of money by the visit of a rich Italian lady. He embezzles 60,000 Marks and leaves for the capital city, where he attempts to find satisfaction in politics, sport, love and religion.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/phrxYtv83YAgN2G2QKUKHOAZ37w.jpg",
+    "en": "/phrxYtv83YAgN2G2QKUKHOAZ37w.jpg"
+  },
+  "backdrops": [
+    "/u5tuzyInZ3uSWs6e3W720wqAzJx.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    80,
+    35
+  ],
+  "keywordIds": [
+    179874,
+    182541,
+    244516
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Ilag-Film"
+  ],
+  "crew": [
+    {
+      "personId": 591500,
+      "job": "director"
+    },
+    {
+      "personId": 591500,
+      "job": "writer"
+    },
+    {
+      "personId": 1622444,
+      "job": "writer"
+    },
+    {
+      "personId": 1139396,
+      "job": "writer"
+    },
+    {
+      "personId": 28982,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29177,
+      "character": "Kassierer",
+      "order": 0
+    },
+    {
+      "personId": 1010377,
+      "character": "Dame",
+      "order": 1
+    },
+    {
+      "personId": 3007,
+      "character": "Sohn der Dame",
+      "order": 2
+    },
+    {
+      "personId": 40996,
+      "character": "Tochter / Bettlerin / Heilsarmee-Mädchen / Dirne",
+      "order": 3
+    },
+    {
+      "personId": 29139,
+      "character": "Fatter Herr",
+      "order": 4
+    },
+    {
+      "personId": 48062,
+      "character": "Großmutter",
+      "order": 5
+    },
+    {
+      "personId": 1914703,
+      "character": "Bankdirektor",
+      "order": 6
+    },
+    {
+      "personId": 36142,
+      "character": "Tröder",
+      "order": 7
+    },
+    {
+      "personId": 995606,
+      "character": "Frau",
+      "order": 8
+    },
+    {
+      "personId": 1914705,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 37889,
+      "character": "",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 27,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "tmdbId": 111718,
+  "slug": "the-sun-s-burial-1960",
+  "year": 1960,
+  "runtime": 88,
+  "originalTitle": "太陽の墓場",
+  "title": {
+    "en": "The Sun's Burial",
+    "tr": "The Sun's Burial"
+  },
+  "overview": {
+    "en": "In Osaka's slum, capricious folks without futures engage in pilfering, assault and robbery, prostitution, and the trading of ID cards and blood.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yKruoEfZtL7TakCG2nFcB6HG50N.jpg",
+    "en": "/yKruoEfZtL7TakCG2nFcB6HG50N.jpg"
+  },
+  "backdrops": [
+    "/i0OR8iLJdPGgY8SXuAALqGCVOkj.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    10766,
+    10642,
+    12987,
+    13059,
+    180498,
+    209998,
+    235085,
+    284439
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Shochiku"
+  ],
+  "crew": [
+    {
+      "personId": 46230,
+      "job": "director"
+    },
+    {
+      "personId": 548020,
+      "job": "writer"
+    },
+    {
+      "personId": 46230,
+      "job": "writer"
+    },
+    {
+      "personId": 1542937,
+      "job": "composer"
+    },
+    {
+      "personId": 548021,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1542936,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 551776,
+      "character": "Shin",
+      "order": 0
+    },
+    {
+      "personId": 1097520,
+      "character": "Hanako",
+      "order": 1
+    },
+    {
+      "personId": 142698,
+      "character": "Takeshi",
+      "order": 2
+    },
+    {
+      "personId": 224662,
+      "character": "Yosehei",
+      "order": 3
+    },
+    {
+      "personId": 96552,
+      "character": "Batasuke",
+      "order": 4
+    },
+    {
+      "personId": 55666,
+      "character": "Chika",
+      "order": 5
+    },
+    {
+      "personId": 110304,
+      "character": "Yotsematsu",
+      "order": 6
+    },
+    {
+      "personId": 50656,
+      "character": "Yasu",
+      "order": 7
+    },
+    {
+      "personId": 33730,
+      "character": "Sakaguchi",
+      "order": 8
+    },
+    {
+      "personId": 138748,
+      "character": "Masa",
+      "order": 9
+    },
+    {
+      "personId": 99247,
+      "character": "Thief",
+      "order": 10
+    },
+    {
+      "personId": 81278,
+      "character": "Black Glasses",
+      "order": 11
+    },
+    {
+      "personId": 97203,
+      "character": "Doranya",
+      "order": 12
+    },
+    {
+      "personId": 97629,
+      "character": "Goro Murata",
+      "order": 13
+    },
+    {
+      "personId": 1852050,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 2017762,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1697253,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 552187,
+      "character": "Boss of the Ohama Clan",
+      "order": 17
+    },
+    {
+      "personId": 617,
+      "character": "Yari",
+      "order": 18
+    },
+    {
+      "personId": 2612620,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 33,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

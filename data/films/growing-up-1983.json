@@ -1,0 +1,127 @@
+{
+  "tmdbId": 176656,
+  "slug": "growing-up-1983",
+  "year": 1983,
+  "runtime": 100,
+  "originalTitle": "小畢的故事",
+  "title": {
+    "en": "Growing Up",
+    "tr": "Growing Up"
+  },
+  "overview": {
+    "en": "The story follows a young man as he changes from an intelligently aware youth, to a teenager with much less confidence than he once had, and finally, to a stable adult.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qKOpFro8nAjoQ5arJ7Xi3QiCY4K.jpg",
+    "en": "/qKOpFro8nAjoQ5arJ7Xi3QiCY4K.jpg"
+  },
+  "backdrops": [
+    "/qVCd8wG9QhxaU208ZSNcuWtjGSs.jpg",
+    "/oViPljxZVIIWlO9JpdVmY0ivG6E.jpg"
+  ],
+  "trailerKey": "EdWSU5x4L2Q",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "TW"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "studios": [
+    "Central Motion Picture Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 1158874,
+      "job": "director"
+    },
+    {
+      "personId": 1324807,
+      "job": "writer"
+    },
+    {
+      "personId": 64992,
+      "job": "writer"
+    },
+    {
+      "personId": 1158874,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1399240,
+      "character": "Lin Hsiu-Ying",
+      "order": 0
+    },
+    {
+      "personId": 1074179,
+      "character": "Pi Da-shun",
+      "order": 1
+    },
+    {
+      "personId": 69830,
+      "character": "Shiao Pi",
+      "order": 2
+    },
+    {
+      "personId": 3607978,
+      "character": "Young Shiao Pi",
+      "order": 3
+    },
+    {
+      "personId": 238889,
+      "character": "Sweet Potato's Father",
+      "order": 4
+    },
+    {
+      "personId": 1125807,
+      "character": "Mrs. Zhu",
+      "order": 5
+    },
+    {
+      "personId": 1366128,
+      "character": "Adult Shiao Pi",
+      "order": 6
+    },
+    {
+      "personId": 1173739,
+      "character": "Mr. Zhu",
+      "order": 7
+    },
+    {
+      "personId": 81174,
+      "character": "Shiao Pi's Younger Brother",
+      "order": 8
+    },
+    {
+      "personId": 3546871,
+      "character": "Hsiao Yun",
+      "order": 9
+    },
+    {
+      "personId": 1179221,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1139706,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1413371,
+      "character": "",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 15,
+  "sources": [
+    "movement:new-taiwan-cinema"
+  ]
+}

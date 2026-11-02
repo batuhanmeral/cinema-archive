@@ -1,0 +1,77 @@
+{
+  "tmdbId": 262806,
+  "slug": "the-forty-first-1927",
+  "year": 1927,
+  "runtime": 66,
+  "originalTitle": "Сорок первый",
+  "title": {
+    "en": "The Forty-First",
+    "tr": "The Forty-First"
+  },
+  "overview": {
+    "en": "A young woman sharpshooter fighting with the Reds in Turkestan misses her forty-first victim, a handsome White lieutenant, and ends up escorting him, by boat, into captivity across the Aral Sea. A storm strands the two on an island.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/zA5JEZ49UY2kOUf6Ejt0wndgU5Z.jpg",
+    "en": "/zA5JEZ49UY2kOUf6Ejt0wndgU5Z.jpg"
+  },
+  "backdrops": [
+    "/cExcM4sGwWMDMvRjQVc4055JfQ2.jpg",
+    "/sxqY1T3Y1uLu8WicJA07mZHFIYr.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    10752
+  ],
+  "keywordIds": [],
+  "countries": [
+    "SU"
+  ],
+  "languages": [
+    "ru"
+  ],
+  "studios": [
+    "Mezhrabpom-Rus"
+  ],
+  "crew": [
+    {
+      "personId": 1085341,
+      "job": "director"
+    },
+    {
+      "personId": 1372100,
+      "job": "writer"
+    },
+    {
+      "personId": 1386313,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4991941,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 588740,
+      "character": "Maryutka Basova",
+      "order": 0
+    },
+    {
+      "personId": 29144,
+      "character": "Lieutenant Govorukha-Otrok",
+      "order": 1
+    },
+    {
+      "personId": 1308341,
+      "character": "Commissar Arsentiy Yevsyukov",
+      "order": 2
+    }
+  ],
+  "awards": {},
+  "voteCount": 15,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

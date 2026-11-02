@@ -1,0 +1,131 @@
+{
+  "tmdbId": 98914,
+  "slug": "mother-1926",
+  "year": 1926,
+  "runtime": 87,
+  "originalTitle": "Мать",
+  "title": {
+    "en": "Mother",
+    "tr": "Ana"
+  },
+  "overview": {
+    "en": "A Soviet woman is caught between her husband and son, who find themselves on opposing sides of the Russian Revolution.",
+    "tr": "Bir Sovyet kadını, Rus Devrimi'nin karşıt taraflarında yer alan kocası ve oğlu arasında kalır."
+  },
+  "poster": {
+    "tr": "/y5uZbzA2KHHOUezQ7bpoIAU4rYX.jpg",
+    "en": "/u9u71FR74RVndbAbW3rlmts0QyS.jpg"
+  },
+  "backdrops": [
+    "/7m8Bdr7LB3AkGBZtmVg8WXJHQum.jpg",
+    "/2OacO4XVZFz4nyFudM1uEog4gk6.jpg",
+    "/1042LGs3hKDjrJ4Fq60aDBj5Orh.jpg",
+    "/m4iXKCjqnyDAorUbCjPWVF9LAQi.jpg",
+    "/rXZL8vhUUWMQtGB5VwDm6jDWxDR.jpg",
+    "/A6pRTo9TNuNEYbvl2ocTJSLewsc.jpg",
+    "/mT0kjTpOWoQZV7W289UZclUzPuK.jpg",
+    "/6x0J2EwjdvCZaJcf5JHukExcD3J.jpg",
+    "/lfUdfdSxlnpgO3pKBOz9wGMWwTb.jpg",
+    "/yPI1kxZ2I43FRiTaIfeYsVm98am.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    12999,
+    154802
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Mezhrabpom-Rus"
+  ],
+  "crew": [
+    {
+      "personId": 144821,
+      "job": "director"
+    },
+    {
+      "personId": 3624736,
+      "job": "writer"
+    },
+    {
+      "personId": 144825,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4991941,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1064930,
+      "character": "Pelageya Nilovna Vlasova, the Mother",
+      "order": 0
+    },
+    {
+      "personId": 29198,
+      "character": "Pavel Vlasov, the Son",
+      "order": 1
+    },
+    {
+      "personId": 1064931,
+      "character": "Vlasov, the Father",
+      "order": 2
+    },
+    {
+      "personId": 144840,
+      "character": "Anna",
+      "order": 3
+    },
+    {
+      "personId": 29144,
+      "character": "Vessovchtchnikov",
+      "order": 4
+    },
+    {
+      "personId": 144821,
+      "character": "Police Officer",
+      "order": 5
+    },
+    {
+      "personId": 9611,
+      "character": "Young Prisoner",
+      "order": 6
+    },
+    {
+      "personId": 3934057,
+      "character": "Judge",
+      "order": 7
+    },
+    {
+      "personId": 1627608,
+      "character": "Prison warden",
+      "order": 8
+    },
+    {
+      "personId": 237489,
+      "character": "Student",
+      "order": 9
+    },
+    {
+      "personId": 3390353,
+      "character": "Worker",
+      "order": 10
+    },
+    {
+      "personId": 1755167,
+      "character": "",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 82,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

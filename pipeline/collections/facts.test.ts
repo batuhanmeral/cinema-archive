@@ -17,6 +17,9 @@ describe('gatherCollectionFacts', () => {
       [makeFilm()],
       {
         ...titleDeps,
+        articleFilmLinks: async () => {
+          throw new Error('articles are not needed')
+        },
         categoryMembers: async (category) => (category === 'Cat A' ? ['1398', '2'] : ['1398']),
         genreQids: async () => {
           throw new Error('genres are not needed')
@@ -26,9 +29,14 @@ describe('gatherCollectionFacts', () => {
     expect(factsOf(1398)).toEqual({
       wikidataGenres: new Set(),
       categories: new Set(['Cat A', 'Cat B']),
+      articles: new Set(),
     })
     expect(factsOf(2).categories).toEqual(new Set(['Cat A']))
-    expect(factsOf(3)).toEqual({ wikidataGenres: new Set(), categories: new Set() })
+    expect(factsOf(3)).toEqual({
+      wikidataGenres: new Set(),
+      categories: new Set(),
+      articles: new Set(),
+    })
   })
 
   it('reads Wikidata genres of the published films when a rule needs them', async () => {
@@ -38,6 +46,9 @@ describe('gatherCollectionFacts', () => {
       [makeFilm(), makeFilm({ tmdbId: 2, slug: 'alien-1979' })],
       {
         ...titleDeps,
+        articleFilmLinks: async () => {
+          throw new Error('articles are not needed')
+        },
         categoryMembers: async () => [],
         genreQids: async (ids) => {
           asked.push(ids)
@@ -48,5 +59,27 @@ describe('gatherCollectionFacts', () => {
     expect(asked).toEqual([[1398, 2]])
     expect(factsOf(2).wikidataGenres).toEqual(new Set(['Q1', 'Q5']))
     expect(factsOf(1398).wikidataGenres).toEqual(new Set())
+  })
+
+  it('reads the films linked in each rule article', async () => {
+    const asked: string[] = []
+    const factsOf = await gatherCollectionFacts(
+      [{ slug: 'm', name: { tr: 'M', en: 'M' }, rule: { wikipediaArticles: ['Midnight movie'] } }],
+      [makeFilm()],
+      {
+        ...titleDeps,
+        articleFilmLinks: async (article) => {
+          asked.push(article)
+          return ['1398']
+        },
+        categoryMembers: async () => {
+          throw new Error('categories are not needed')
+        },
+        genreQids: async () => new Map(),
+      },
+    )
+    expect(asked).toEqual(['Midnight movie'])
+    expect(factsOf(1398).articles).toEqual(new Set(['Midnight movie']))
+    expect(factsOf(2).articles).toEqual(new Set())
   })
 })

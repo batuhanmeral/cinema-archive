@@ -1,0 +1,46 @@
+{
+  "tmdbId": 504847,
+  "slug": "resin-2001",
+  "year": 2001,
+  "runtime": 87,
+  "originalTitle": "Resin",
+  "title": {
+    "en": "Resin",
+    "tr": "Resin"
+  },
+  "overview": {
+    "en": "A drug dealer, after getting arrested, beat-up in jail and his first felony conviction, vows to make one final score and a fresh start; but instead winds up in a showdown with a malicious legal system threatening to steal his most valued posessions: his freedom and his life.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5Mlif4pm9d5VNnP5R8f5uTYRcV2.jpg",
+    "en": "/5Mlif4pm9d5VNnP5R8f5uTYRcV2.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 1977060,
+      "job": "director"
+    },
+    {
+      "personId": 1977061,
+      "job": "director"
+    }
+  ],
+  "cast": [],
+  "awards": {},
+  "voteCount": 1,
+  "sources": [
+    "movement:dogme-95"
+  ]
+}

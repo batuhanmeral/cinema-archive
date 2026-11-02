@@ -1,0 +1,176 @@
+{
+  "tmdbId": 45871,
+  "slug": "the-mission-1999",
+  "year": 1999,
+  "runtime": 84,
+  "originalTitle": "鎗火",
+  "title": {
+    "en": "The Mission",
+    "tr": "The Mission"
+  },
+  "overview": {
+    "en": "Triad boss Lung, who has just escaped being killed in an assassination attempt hires the killers Curtis, James, Mike, Roy and Shin for his protection.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/oDhY2UjbT64vqfO1NDiPH0AxQIx.jpg",
+    "en": "/oDhY2UjbT64vqfO1NDiPH0AxQIx.jpg"
+  },
+  "backdrops": [
+    "/jNxw6CREDD6dYK443LWrjCNQyI7.jpg",
+    "/vpODfnWEvaa4gWsAmLTrdnE5vtP.jpg",
+    "/dk7Qw7kGSWiFnxJ8bHRHaeqCIU6.jpg",
+    "/bujArZtaVZ8Yn1XpNUUzAMquJY3.jpg",
+    "/pHn9mqUAlDSA74FOjfOb3enAzbi.jpg",
+    "/xhIQ1YNpy9gfG56gRoUjV9StYGb.jpg",
+    "/83bKHfXYKPwTBRZZpddDSe5LiwA.jpg",
+    "/jQ0t9oXVCEVvQJHN4oKCOT265yd.jpg",
+    "/cHrnfOdrmYeyHZ6PmtisuxryCsl.jpg",
+    "/1a9NSoaZuDHwr9Hp3zejq8PpXmf.jpg"
+  ],
+  "trailerKey": "EwHckUJu2Xs",
+  "genreIds": [
+    28,
+    80,
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn"
+  ],
+  "studios": [
+    "Milkyway Image"
+  ],
+  "crew": [
+    {
+      "personId": 25239,
+      "job": "writer"
+    },
+    {
+      "personId": 25236,
+      "job": "director"
+    },
+    {
+      "personId": 72736,
+      "job": "composer"
+    },
+    {
+      "personId": 25240,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 25236,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 66717,
+      "character": "Curtis",
+      "order": 0
+    },
+    {
+      "personId": 63584,
+      "character": "Roy",
+      "order": 1
+    },
+    {
+      "personId": 223915,
+      "character": "Shin",
+      "order": 2
+    },
+    {
+      "personId": 12466,
+      "character": "Mike",
+      "order": 3
+    },
+    {
+      "personId": 25251,
+      "character": "James",
+      "order": 4
+    },
+    {
+      "personId": 20519,
+      "character": "Frank",
+      "order": 5
+    },
+    {
+      "personId": 612216,
+      "character": "Boss Lung",
+      "order": 6
+    },
+    {
+      "personId": 945583,
+      "character": "Fat Cheung",
+      "order": 7
+    },
+    {
+      "personId": 223917,
+      "character": "Lung's Wife",
+      "order": 8
+    },
+    {
+      "personId": 65939,
+      "character": "Warehouse Assassin",
+      "order": 9
+    },
+    {
+      "personId": 25253,
+      "character": "Cop",
+      "order": 10
+    },
+    {
+      "personId": 1615894,
+      "character": "Scared Bodyguard",
+      "order": 11
+    },
+    {
+      "personId": 1172955,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1357123,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1357559,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 25242,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1388362,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 3039815,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1619521,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1633177,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 182,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "tmdbId": 63213,
+  "slug": "the-man-who-lies-1968",
+  "year": 1968,
+  "runtime": 97,
+  "originalTitle": "L'Homme qui ment",
+  "title": {
+    "en": "The Man Who Lies",
+    "tr": "L'Homme qui ment"
+  },
+  "overview": {
+    "en": "A man may or may not have betrayed a resistance fighter during World War II. He has supposedly been shot down by the Nazis and wanders into town. Mourning the death of an unseen comrade, he is taken in by the family of the dead rebel. He engages in a superfluous affair and witnesses the lesbian relationship between the man's sister and a female servant. When passions subside, the family has doubts about the reliability of the man's story.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/oe1w5aSLgwNozAE2K4hhmZgVTtV.jpg",
+    "en": "/oeDlFUujTSbph2CvtSh148yy03A.jpg"
+  },
+  "backdrops": [
+    "/pq8JxWkSfnrdPeou1R7zWBi9ebs.jpg",
+    "/6tvFZ9eHWMLPPsCbAi4m4Gw3i1x.jpg",
+    "/jgevtiT80Ypw59TqA3G41Dm3OhY.jpg",
+    "/kRvPC1xf5LVMk3Audo1VOHUHMni.jpg",
+    "/lZRmj0j8Efmsj9woS8eIpP1jZNk.jpg",
+    "/u2u5npDnQRSVV4dTfmkboasnZ5u.jpg"
+  ],
+  "trailerKey": "kxs8VfZr1FU",
+  "genreIds": [
+    9648,
+    18,
+    10752
+  ],
+  "keywordIds": [
+    1501,
+    1956,
+    3394,
+    217140
+  ],
+  "countries": [
+    "XC",
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Štúdio hraných filmov Bratislava",
+    "Lux Compagnie Cinématographique de France",
+    "Como Films"
+  ],
+  "crew": [
+    {
+      "personId": 34590,
+      "job": "director"
+    },
+    {
+      "personId": 1832329,
+      "job": "composer"
+    },
+    {
+      "personId": 34590,
+      "job": "writer"
+    },
+    {
+      "personId": 10253,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11986,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1352,
+      "character": "Jan Robin / Boris Varissa",
+      "order": 0
+    },
+    {
+      "personId": 583690,
+      "character": "Maria",
+      "order": 1
+    },
+    {
+      "personId": 236627,
+      "character": "Laura",
+      "order": 2
+    },
+    {
+      "personId": 1777363,
+      "character": "Lisa the Barmaid",
+      "order": 3
+    },
+    {
+      "personId": 118981,
+      "character": "Druggist",
+      "order": 4
+    },
+    {
+      "personId": 236628,
+      "character": "Sylvia",
+      "order": 5
+    },
+    {
+      "personId": 236626,
+      "character": "Jean",
+      "order": 6
+    },
+    {
+      "personId": 134168,
+      "character": "Taverner",
+      "order": 7
+    },
+    {
+      "personId": 124143,
+      "character": "Franz",
+      "order": 8
+    },
+    {
+      "personId": 1132530,
+      "character": "Father",
+      "order": 9
+    },
+    {
+      "personId": 1434075,
+      "character": "Vladimir",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 44,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

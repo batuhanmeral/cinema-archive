@@ -1,0 +1,93 @@
+{
+  "tmdbId": 19006,
+  "slug": "the-flat-1968",
+  "year": 1968,
+  "runtime": 13,
+  "originalTitle": "Byt",
+  "title": {
+    "en": "The Flat",
+    "tr": "Byt"
+  },
+  "overview": {
+    "en": "A man is trapped in a sinister flat, where nothing seems to obey the laws of nature.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xKsqN59YT7alBtqLNWg6PkRxilG.jpg",
+    "en": "/xKsqN59YT7alBtqLNWg6PkRxilG.jpg"
+  },
+  "backdrops": [
+    "/mwBRs1zEshYQhld1sHpDzXyk7T1.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    16,
+    27
+  ],
+  "keywordIds": [
+    2847,
+    3358,
+    3307,
+    9887,
+    1295,
+    10121,
+    207769,
+    209220,
+    227581,
+    239601,
+    253858,
+    263548,
+    285070,
+    297768,
+    323371,
+    351901,
+    377316,
+    377467,
+    377470,
+    377472,
+    377475,
+    377479
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [],
+  "studios": [
+    "Krátký film Praha – Studio animovaných filmů"
+  ],
+  "crew": [
+    {
+      "personId": 83784,
+      "job": "director"
+    },
+    {
+      "personId": 551675,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 83784,
+      "job": "writer"
+    },
+    {
+      "personId": 544515,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 83997,
+      "character": "Man",
+      "order": 0
+    },
+    {
+      "personId": 83998,
+      "character": "Visitor",
+      "order": 1
+    }
+  ],
+  "awards": {},
+  "voteCount": 51,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

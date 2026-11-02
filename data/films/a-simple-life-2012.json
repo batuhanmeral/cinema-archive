@@ -1,0 +1,196 @@
+{
+  "tmdbId": 91186,
+  "slug": "a-simple-life-2012",
+  "year": 2012,
+  "runtime": 118,
+  "originalTitle": "桃姐",
+  "title": {
+    "en": "A Simple Life",
+    "tr": "A Simple Life"
+  },
+  "overview": {
+    "en": "After suffering a stroke, an altruistic maid announces that she wants to quit her job and move into an old people's home.",
+    "tr": "Genç bir adam ile bir hizmetçi arasındaki bağ bir anne ile oğlununki kadar güçlü olabilir mi? Gerçek bir olaydan ilham alan ve filmin yapımcısı Roger ile “amah”sı (hizmetçi-dadı) Ah Tao arasındaki ilişkiyi işleyen Sade Bir Hayat, Hong Kong’un Oscar adayı oldu.  Ah Tao kalp krizi geçirince, 60 yıldır çalıştığı ailenin yanından ayrılır ve bir huzurevine yerleşir. Fakat Roger yıllarca kendisine bakan bu kadını yalnız bırakmamaya karar verir."
+  },
+  "poster": {
+    "tr": "/pL0mtka6FKRtlEX6jM9OteDjlTi.jpg",
+    "en": "/mCtMH8zkD55KrUm4BYK4nSFB5Rv.jpg"
+  },
+  "backdrops": [
+    "/qgL2W53BCTgyhOcX9mjlDpJA4SP.jpg",
+    "/hrJbkWXhRsX6NHYKgjmlOpzUD7S.jpg",
+    "/4Z2LpzIGl3Mb4EdVfZ0X9E77U2j.jpg",
+    "/3Y9klIwp5bc47ckV9PEqqOH5fDv.jpg",
+    "/hukiUTjvtWzD5ej1uMLoBg7sx0s.jpg",
+    "/xoYRgBjSKMznL8bLvzQngUwUQan.jpg",
+    "/gEfK67dXXvyqGR4hc7tZSuF9ySQ.jpg",
+    "/h933sfcfn49ItYYP6CjerPy4ZEm.jpg",
+    "/6hg6oUAYAz3fli6UesJjSpzGWeE.jpg",
+    "/9ECYLQzeaN5W8x6PiUX5blqdzqJ.jpg"
+  ],
+  "trailerKey": "LGerZCQwvjE",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    13097,
+    155208,
+    157769,
+    187056
+  ],
+  "countries": [
+    "CN",
+    "HK"
+  ],
+  "languages": [
+    "zh",
+    "cn",
+    "en"
+  ],
+  "studios": [
+    "Sil-Metropole Organisation",
+    "Focus Films Limited",
+    "Bona Film Group"
+  ],
+  "crew": [
+    {
+      "personId": 1100745,
+      "job": "producer"
+    },
+    {
+      "personId": 123199,
+      "job": "director"
+    },
+    {
+      "personId": 25471,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 987991,
+      "job": "producer"
+    },
+    {
+      "personId": 86319,
+      "job": "writer"
+    },
+    {
+      "personId": 1392196,
+      "job": "composer"
+    },
+    {
+      "personId": 1100745,
+      "job": "writer"
+    },
+    {
+      "personId": 123199,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 25246,
+      "character": "Roger Leung",
+      "order": 0
+    },
+    {
+      "personId": 87840,
+      "character": "Ah Tao",
+      "order": 1
+    },
+    {
+      "personId": 124992,
+      "character": "Ms. Choi",
+      "order": 2
+    },
+    {
+      "personId": 1163179,
+      "character": "Roger's Mother",
+      "order": 3
+    },
+    {
+      "personId": 87733,
+      "character": "Uncle Kin",
+      "order": 4
+    },
+    {
+      "personId": 1163180,
+      "character": "Head Master",
+      "order": 5
+    },
+    {
+      "personId": 1163183,
+      "character": "Sharon",
+      "order": 6
+    },
+    {
+      "personId": 1163186,
+      "character": "Carmen",
+      "order": 7
+    },
+    {
+      "personId": 236195,
+      "character": "Aunt Kam's Daughter",
+      "order": 8
+    },
+    {
+      "personId": 1163184,
+      "character": "Jason",
+      "order": 9
+    },
+    {
+      "personId": 1163181,
+      "character": "Mui Gu",
+      "order": 10
+    },
+    {
+      "personId": 66717,
+      "character": "Grasshopper",
+      "order": 11
+    },
+    {
+      "personId": 118742,
+      "character": "Dentist",
+      "order": 12
+    },
+    {
+      "personId": 46323,
+      "character": "Guest at Premiere",
+      "order": 13
+    },
+    {
+      "personId": 71067,
+      "character": "Filmmaker",
+      "order": 14
+    },
+    {
+      "personId": 26760,
+      "character": "Director Tsui",
+      "order": 15
+    },
+    {
+      "personId": 62410,
+      "character": "Director Hung",
+      "order": 16
+    },
+    {
+      "personId": 116906,
+      "character": "Guest at Premiere",
+      "order": 17
+    },
+    {
+      "personId": 5057422,
+      "character": "Roger's High School Buddy, Henzi",
+      "order": 18
+    },
+    {
+      "personId": 123195,
+      "character": "Roger's High School Buddy, Ah Chun",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 190,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

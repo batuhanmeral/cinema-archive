@@ -1,15 +1,24 @@
 {
-  "generatedAt": "2026-10-31T11:31:50.279Z",
+  "generatedAt": "2026-11-05T11:42:40.510Z",
   "counts": {
-    "listRows": 2821,
-    "films": 2682,
-    "added": 0,
+    "listRows": 2982,
+    "films": 3118,
+    "added": 2,
     "missingFromSources": 0,
     "review": 0,
     "adultExcluded": 11,
-    "skipped": 7
+    "skipped": 8
   },
-  "added": [],
+  "added": [
+    {
+      "tmdbId": 83651,
+      "slug": "the-chaos-class-1975"
+    },
+    {
+      "tmdbId": 651293,
+      "slug": "demir-yol-1979"
+    }
+  ],
   "missingFromSources": [],
   "review": [],
   "adultExcluded": [
@@ -97,6 +106,306 @@
     {
       "wikiTitle": "Troops (film)",
       "note": "TMDB entry 1718771 has no release date or director"
+    },
+    {
+      "wikiTitle": "bfi:cinema-novo:The Interview (1966)",
+      "note": "Helena Solberg short documentary; not on TMDB"
     }
-  ]
+  ],
+  "groups": {
+    "movements": [
+      {
+        "slug": "german-expressionism",
+        "films": 34,
+        "candidates": 34,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "surrealist-cinema",
+        "films": 40,
+        "candidates": 80,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "soviet-montage",
+        "films": 40,
+        "candidates": 98,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "french-poetic-realism",
+        "films": 19,
+        "candidates": 19,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "italian-neorealism",
+        "films": 21,
+        "candidates": 21,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "french-new-wave",
+        "films": 15,
+        "candidates": 15,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "cinema-novo",
+        "films": 19,
+        "candidates": 19,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "czechoslovak-new-wave",
+        "films": 36,
+        "candidates": 36,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "japanese-new-wave",
+        "films": 40,
+        "candidates": 52,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "new-german-cinema",
+        "films": 28,
+        "candidates": 28,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "new-hollywood",
+        "films": 40,
+        "candidates": 63,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "iranian-new-wave",
+        "films": 22,
+        "candidates": 22,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "hong-kong-new-wave",
+        "films": 40,
+        "candidates": 63,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "new-taiwan-cinema",
+        "films": 19,
+        "candidates": 19,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "dogme-95",
+        "films": 28,
+        "candidates": 28,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "new-turkish-cinema",
+        "films": 23,
+        "candidates": 23,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "new-french-extremity",
+        "films": 35,
+        "candidates": 35,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "romanian-new-wave",
+        "films": 40,
+        "candidates": 51,
+        "added": [],
+        "removed": []
+      }
+    ],
+    "collections": [
+      {
+        "slug": "silent-cinema-masterpieces",
+        "films": 100,
+        "candidates": 119,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "classic-hollywood",
+        "films": 100,
+        "candidates": 375,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "yesilcam-classics",
+        "films": 40,
+        "candidates": 40,
+        "added": [
+          83651,
+          651293
+        ],
+        "removed": []
+      },
+      {
+        "slug": "soviet-art-cinema",
+        "films": 54,
+        "candidates": 54,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "film-noir",
+        "films": 70,
+        "candidates": 70,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "neo-noir",
+        "films": 87,
+        "candidates": 87,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "spaghetti-western",
+        "films": 14,
+        "candidates": 14,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "samurai-and-jidaigeki",
+        "films": 12,
+        "candidates": 12,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "hong-kong-martial-arts-and-action",
+        "films": 52,
+        "candidates": 52,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "giallo",
+        "films": 10,
+        "candidates": 10,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "midnight-movies",
+        "films": 22,
+        "candidates": 22,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "blaxploitation",
+        "films": 26,
+        "candidates": 26,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "1950s-b-movie-science-fiction",
+        "films": 63,
+        "candidates": 63,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "1980s-action-classics",
+        "films": 59,
+        "candidates": 59,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "1980s-coming-of-age",
+        "films": 30,
+        "candidates": 30,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "1990s-independent-crime",
+        "films": 27,
+        "candidates": 27,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "gangster-and-heist-epics",
+        "films": 73,
+        "candidates": 73,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "cyberpunk-and-dystopia",
+        "films": 85,
+        "candidates": 85,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "black-comedy",
+        "films": 44,
+        "candidates": 44,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "cult-road-and-post-apocalyptic",
+        "films": 71,
+        "candidates": 71,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "cult-animation",
+        "films": 73,
+        "candidates": 73,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "1980s-slasher",
+        "films": 21,
+        "candidates": 21,
+        "added": [],
+        "removed": []
+      },
+      {
+        "slug": "body-horror",
+        "films": 21,
+        "candidates": 21,
+        "added": [],
+        "removed": []
+      }
+    ]
+  }
 }

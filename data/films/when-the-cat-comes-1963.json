@@ -1,0 +1,178 @@
+{
+  "tmdbId": 47852,
+  "slug": "when-the-cat-comes-1963",
+  "year": 1963,
+  "runtime": 104,
+  "originalTitle": "Až přijde kocour",
+  "title": {
+    "en": "When the Cat Comes",
+    "tr": "Až přijde kocour"
+  },
+  "overview": {
+    "en": "While old Oliva tells a group of children about his life as a sailor and how he met Diana and her cat with sunglasses, a strange circus arrives in town.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/o7i3VkgltQYKY63j822W7L2Bryk.jpg",
+    "en": "/6QUc9D4JzbqGcVAS8NgbQ4LYoun.jpg"
+  },
+  "backdrops": [
+    "/34hxgcQLgVBE6yZemjjWMoPQlTj.jpg",
+    "/bFFw0zYBNA7HmMTVZUNEcjyF668.jpg",
+    "/xpjPWiTY1ev2zS4KyHFZMEsvQ0W.jpg",
+    "/5WIze6O0kfgEKo2tvXIYJnWQXrW.jpg",
+    "/nFSzGtkLsh79BMJfqDEiriK91UN.jpg",
+    "/wg3nLxBQN6LaLUTPBoNAxo4Y3Qy.jpg",
+    "/i5FsnktkiVl9qbclkT3mad1mF3W.jpg",
+    "/v9pJ0WoT0fHPEmvoJMPQLjVVRZp.jpg",
+    "/vP5JHaO14iWiYVP18SDHrVYBzX0.jpg"
+  ],
+  "trailerKey": "6NSoSFWf_U4",
+  "genreIds": [
+    35,
+    14
+  ],
+  "keywordIds": [
+    977,
+    9719,
+    236458
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "Filmové studio Barrandov"
+  ],
+  "crew": [
+    {
+      "personId": 137071,
+      "job": "writer"
+    },
+    {
+      "personId": 137032,
+      "job": "writer"
+    },
+    {
+      "personId": 137071,
+      "job": "director"
+    },
+    {
+      "personId": 543891,
+      "job": "composer"
+    },
+    {
+      "personId": 223731,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 134720,
+      "character": "Oliva",
+      "order": 0
+    },
+    {
+      "personId": 235666,
+      "character": "Diana",
+      "order": 1
+    },
+    {
+      "personId": 11733,
+      "character": "Robert",
+      "order": 2
+    },
+    {
+      "personId": 137020,
+      "character": "Karel",
+      "order": 3
+    },
+    {
+      "personId": 55732,
+      "character": "School Janitor",
+      "order": 4
+    },
+    {
+      "personId": 140618,
+      "character": "Julie",
+      "order": 5
+    },
+    {
+      "personId": 227727,
+      "character": "Janek",
+      "order": 6
+    },
+    {
+      "personId": 327724,
+      "character": "Marjánka",
+      "order": 7
+    },
+    {
+      "personId": 1278855,
+      "character": "Gossipy Woman",
+      "order": 8
+    },
+    {
+      "personId": 11686,
+      "character": "Růžena",
+      "order": 9
+    },
+    {
+      "personId": 235688,
+      "character": "Restaurant Manager",
+      "order": 10
+    },
+    {
+      "personId": 548099,
+      "character": "Restaurant Manager's Wife",
+      "order": 11
+    },
+    {
+      "personId": 1376404,
+      "character": "Thief",
+      "order": 12
+    },
+    {
+      "personId": 1784268,
+      "character": "Miller",
+      "order": 13
+    },
+    {
+      "personId": 137076,
+      "character": "SNB Officer",
+      "order": 14
+    },
+    {
+      "personId": 563091,
+      "character": "Joska",
+      "order": 15
+    },
+    {
+      "personId": 3461033,
+      "character": "Olda",
+      "order": 16
+    },
+    {
+      "personId": 3466253,
+      "character": "Petříček",
+      "order": 17
+    },
+    {
+      "personId": 3466255,
+      "character": "Jindřiška",
+      "order": 18
+    },
+    {
+      "personId": 592084,
+      "character": "Unfaithful Mistress (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 80,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

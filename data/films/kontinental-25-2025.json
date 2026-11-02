@@ -1,0 +1,196 @@
+{
+  "tmdbId": 1410189,
+  "slug": "kontinental-25-2025",
+  "year": 2025,
+  "runtime": 109,
+  "originalTitle": "Kontinental '25",
+  "title": {
+    "en": "Kontinental '25",
+    "tr": "Kontinental '25"
+  },
+  "overview": {
+    "en": "Orsolya is a bailiff in Cluj, the main city in Transylvania. One day she has to evict a homeless man from a cellar, an action with tragic consequences that triggers a moral crisis which Orsolya must weather as best she can.",
+    "tr": "Macar asıllı Rumen bir icra memuru, rutin bir davanın ters gitmesinin ardından vicdani bir kriz yaşar."
+  },
+  "poster": {
+    "tr": "/zilOI4BxPxKK3BbyJSHEdOTiTaJ.jpg",
+    "en": "/zilOI4BxPxKK3BbyJSHEdOTiTaJ.jpg"
+  },
+  "backdrops": [
+    "/kjpVGGCel4TDZNMDaddnpmlzT7G.jpg",
+    "/ggBZGcIx7aqELRIoVEVyLK1IFQy.jpg",
+    "/cpXESkgP8PcbpdqFb2hs5MNBqyf.jpg",
+    "/emF5PK4tGdFoCeWVlI5V5QTiBaL.jpg",
+    "/nKZfillBnpN8sECn96oP53z4Nz9.jpg",
+    "/vw7Ju0iundiwV0n4Ru0wRE88lx3.jpg",
+    "/q3oWHGyFSSFejOajlTomNjocAot.jpg",
+    "/1FOSov1BN00fJAWl3fF91Bihykr.jpg",
+    "/igMkBGxT7vh6Yxw1PO4SGDvDp8X.jpg",
+    "/aYMKGHpQXvVMZEF6ZyJml2yIJfm.jpg"
+  ],
+  "trailerKey": "b9umCIsc-zc",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    236,
+    272,
+    2981,
+    8201,
+    11322,
+    33720,
+    165177,
+    233517,
+    265396,
+    302755,
+    357097
+  ],
+  "countries": [
+    "RO",
+    "BR",
+    "CH",
+    "GB",
+    "LU"
+  ],
+  "languages": [
+    "en",
+    "la",
+    "ro",
+    "de",
+    "hu"
+  ],
+  "studios": [
+    "Saga Film",
+    "RT Features",
+    "Bord Cadre Films"
+  ],
+  "crew": [
+    {
+      "personId": 588822,
+      "job": "director"
+    },
+    {
+      "personId": 588822,
+      "job": "writer"
+    },
+    {
+      "personId": 2032947,
+      "job": "producer"
+    },
+    {
+      "personId": 1300796,
+      "job": "producer"
+    },
+    {
+      "personId": 931382,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5620554,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1757075,
+      "character": "Orsolya",
+      "order": 0
+    },
+    {
+      "personId": 60422,
+      "character": "Ion",
+      "order": 1
+    },
+    {
+      "personId": 5168256,
+      "character": "Fred",
+      "order": 2
+    },
+    {
+      "personId": 5168257,
+      "character": "Dorina",
+      "order": 3
+    },
+    {
+      "personId": 592227,
+      "character": "Priest Șerban",
+      "order": 4
+    },
+    {
+      "personId": 5168259,
+      "character": "Orsolya’s Mother",
+      "order": 5
+    },
+    {
+      "personId": 2080407,
+      "character": "Irina",
+      "order": 6
+    },
+    {
+      "personId": 1124226,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1081061,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 2128510,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 931382,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 2514789,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 5828106,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 5769327,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 5828107,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 592234,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 4891163,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 3553365,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 4891161,
+      "character": "",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 48,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

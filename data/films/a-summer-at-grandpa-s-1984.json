@@ -1,0 +1,153 @@
+{
+  "tmdbId": 92989,
+  "slug": "a-summer-at-grandpa-s-1984",
+  "year": 1984,
+  "runtime": 93,
+  "originalTitle": "冬冬的假期",
+  "title": {
+    "en": "A Summer at Grandpa's",
+    "tr": "A Summer at Grandpa's"
+  },
+  "overview": {
+    "en": "A coming-of-age story about a young brother and sister whom spend a pivotal summer in the country with their grandparents.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gnmZGNut8TLk5630yiGgoMvPaah.jpg",
+    "en": "/eLOfnk8EoUwn7sS4658uLThFUNA.jpg"
+  },
+  "backdrops": [
+    "/b2TZgBgVRqy9UhMXzJ1Ww4NAuNa.jpg",
+    "/b0Jsfl5xW87GOAAFEoqaf3GAIXF.jpg",
+    "/iJj4pO8OmOKBzPSWCsUvDgWUWFf.jpg",
+    "/9suFv2oZgmeo9XdTDLDaOmY3vyG.jpg",
+    "/mHH1u0xAHEHztmonYjuUuqdNGGs.jpg",
+    "/nqan3ZFdyVp1RkYNAfti2kzKD3y.jpg",
+    "/8LE4t17Sf8ByhByG373K0Ab8WeB.jpg",
+    "/7OrcFOYhvPgJuXIQsufjq2Q08lp.jpg",
+    "/5W48XLFUe0aIB4NJI6qZ7qNwztT.jpg",
+    "/uNyy1f2p9fKnxGvZnVseT7OZs4F.jpg"
+  ],
+  "trailerKey": "8lcQU2vgrTE",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    380,
+    10683,
+    9229,
+    9914,
+    13078,
+    18035,
+    178229,
+    188460,
+    267422
+  ],
+  "countries": [
+    "TW"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "studios": [
+    "Marble Road Productions"
+  ],
+  "crew": [
+    {
+      "personId": 64992,
+      "job": "director"
+    },
+    {
+      "personId": 69831,
+      "job": "writer"
+    },
+    {
+      "personId": 64992,
+      "job": "writer"
+    },
+    {
+      "personId": 1158874,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 143035,
+      "job": "composer"
+    },
+    {
+      "personId": 1316884,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1656519,
+      "character": "Tung-tung",
+      "order": 0
+    },
+    {
+      "personId": 1656521,
+      "character": "Ting-ting",
+      "order": 1
+    },
+    {
+      "personId": 1081519,
+      "character": "Liu Chang-min",
+      "order": 2
+    },
+    {
+      "personId": 1591117,
+      "character": "Lin Pi-yun",
+      "order": 3
+    },
+    {
+      "personId": 81174,
+      "character": "Yen Cheng-kuo",
+      "order": 4
+    },
+    {
+      "personId": 1656522,
+      "character": "Huizhen",
+      "order": 5
+    },
+    {
+      "personId": 143035,
+      "character": "Guanglin",
+      "order": 6
+    },
+    {
+      "personId": 69835,
+      "character": "Tung-tung's Grandmother",
+      "order": 7
+    },
+    {
+      "personId": 1800993,
+      "character": "Tung-tung's Grandfather",
+      "order": 8
+    },
+    {
+      "personId": 136891,
+      "character": "Hanzi",
+      "order": 9
+    },
+    {
+      "personId": 1719829,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 125301,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 3786553,
+      "character": "",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 57,
+  "sources": [
+    "movement:new-taiwan-cinema"
+  ]
+}

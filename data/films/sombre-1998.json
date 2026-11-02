@@ -1,0 +1,131 @@
+{
+  "tmdbId": 56653,
+  "slug": "sombre-1998",
+  "year": 1998,
+  "runtime": 112,
+  "originalTitle": "Sombre",
+  "title": {
+    "en": "Sombre",
+    "tr": "Sombre"
+  },
+  "overview": {
+    "en": "A serial killer stalks a woman he befriended after her car broke down.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/AfzVdGL7Gv3fExrpQLfHMzLcm7E.jpg",
+    "en": "/wjhjIkeBaNONWoIpLusg7DSxWWt.jpg"
+  },
+  "backdrops": [
+    "/4STEylBCabNW3Zx689YrqAj6Hwa.jpg",
+    "/suX7BKUtpgbt7je0c8RWyPHufpF.jpg",
+    "/8zMbDTzDC8HsiaSIUjERH9MbVj8.jpg",
+    "/3wDxRkfleGaT2207FqczoVdEdwS.jpg",
+    "/cl0FEfARtGmItOaGecinUk2PhQF.jpg",
+    "/hfktjXodqveGJotTQLwzL5MGHBj.jpg",
+    "/tt7GYSidM5PZAO5uu5uPRuBygRh.jpg",
+    "/xVtqWRkZXdoP86zvOC3W1ko9ibd.jpg",
+    "/rfkBUGr46gqcYyLYHMMnnMEf8ST.jpg",
+    "/lczQOjmBmRV6DeqwOeIZfuFxPF1.jpg"
+  ],
+  "trailerKey": "ncqQPs_FasI",
+  "genreIds": [
+    18,
+    27
+  ],
+  "keywordIds": [
+    380,
+    254,
+    6844,
+    10714,
+    15216,
+    224663
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Zélie Productions",
+    "La Sept Cinéma",
+    "Studio Monteiro"
+  ],
+  "crew": [
+    {
+      "personId": 233491,
+      "job": "writer"
+    },
+    {
+      "personId": 567750,
+      "job": "writer"
+    },
+    {
+      "personId": 768,
+      "job": "writer"
+    },
+    {
+      "personId": 567750,
+      "job": "director"
+    },
+    {
+      "personId": 213278,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1160746,
+      "job": "producer"
+    },
+    {
+      "personId": 1187027,
+      "job": "composer"
+    },
+    {
+      "personId": 4761955,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 135665,
+      "character": "Jean",
+      "order": 0
+    },
+    {
+      "personId": 17257,
+      "character": "Claire",
+      "order": 1
+    },
+    {
+      "personId": 1137890,
+      "character": "First Woman",
+      "order": 2
+    },
+    {
+      "personId": 49860,
+      "character": "Man of Ball 2",
+      "order": 3
+    },
+    {
+      "personId": 1469924,
+      "character": "Christine",
+      "order": 4
+    },
+    {
+      "personId": 1469925,
+      "character": "Blindfolded Child",
+      "order": 5
+    },
+    {
+      "personId": 1469926,
+      "character": "Second Woman",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 54,
+  "sources": [
+    "movement:new-french-extremity"
+  ]
+}

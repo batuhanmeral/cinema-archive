@@ -1,0 +1,100 @@
+{
+  "tmdbId": 114194,
+  "slug": "opium-1919",
+  "year": 1919,
+  "runtime": 93,
+  "originalTitle": "Opium",
+  "title": {
+    "en": "Opium",
+    "tr": "Opium"
+  },
+  "overview": {
+    "en": "In China, Professor Gesellius has completed his long research on the many uses of opium. When he is about to return home, he hears about a special variety that produces fabulous sensations because of the way it is made, but can also cause the total destruction of the mind and body of the person who consumes it.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/p3NElouXFbuO4ytboPOOenNHmUh.jpg",
+    "en": "/p3NElouXFbuO4ytboPOOenNHmUh.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    726,
+    217875
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Monumental Filmwerke"
+  ],
+  "crew": [
+    {
+      "personId": 28980,
+      "job": "director"
+    },
+    {
+      "personId": 28980,
+      "job": "producer"
+    },
+    {
+      "personId": 28980,
+      "job": "writer"
+    },
+    {
+      "personId": 1415363,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2904,
+      "character": "Professor Gesellius",
+      "order": 0
+    },
+    {
+      "personId": 1093537,
+      "character": "Maria - Gesellius' Wife",
+      "order": 1
+    },
+    {
+      "personId": 3000,
+      "character": "Nung-Tschang",
+      "order": 2
+    },
+    {
+      "personId": 1367605,
+      "character": "Sin / Magdalena",
+      "order": 3
+    },
+    {
+      "personId": 28992,
+      "character": "Dr. Armstrong",
+      "order": 4
+    },
+    {
+      "personId": 3001,
+      "character": "Dr. Richard Armstrong Jr.",
+      "order": 5
+    },
+    {
+      "personId": 2666454,
+      "character": "Alí",
+      "order": 6
+    },
+    {
+      "personId": 2666455,
+      "character": "The Opium Girl",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 9,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

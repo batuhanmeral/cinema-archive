@@ -1,0 +1,177 @@
+{
+  "tmdbId": 285782,
+  "slug": "pension-mimosas-1935",
+  "year": 1935,
+  "runtime": 109,
+  "originalTitle": "Pension Mimosas",
+  "title": {
+    "en": "Pension Mimosas",
+    "tr": "Pension Mimosas"
+  },
+  "overview": {
+    "en": "Mr. and Mrs. Noblet run a boarding house on the French Riviera. One day, they are led by circumstances to welcome a little boy Pierre, whose father is in jail, into their home. Which makes Louise Noblet all the happier as she can't have children herself. But, after a while, Pierre's father is released from prison and reclaims his son... Time passes and Pierre, now a young adult, lives in Paris more or less on the wrong side of the law. He has a mistress, Nelly, who does not say no to other men's money... Louise, who still loves Pierre as her own son, wants only one thing - to help him get by.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/bhKcS2cLmpRviU1VFPHSAAWZw3o.jpg",
+    "en": "/bhKcS2cLmpRviU1VFPHSAAWZw3o.jpg"
+  },
+  "backdrops": [
+    "/z15D2Lm0PDwBvSh3EkETgyiMlDZ.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Société des films sonores Tobis"
+  ],
+  "crew": [
+    {
+      "personId": 1021827,
+      "job": "producer"
+    },
+    {
+      "personId": 109342,
+      "job": "director"
+    },
+    {
+      "personId": 1721823,
+      "job": "producer"
+    },
+    {
+      "personId": 239223,
+      "job": "composer"
+    },
+    {
+      "personId": 1405837,
+      "job": "producer"
+    },
+    {
+      "personId": 39206,
+      "job": "writer"
+    },
+    {
+      "personId": 109342,
+      "job": "writer"
+    },
+    {
+      "personId": 29731,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 100033,
+      "character": "Louise Noblet",
+      "order": 0
+    },
+    {
+      "personId": 142940,
+      "character": "Pierre Brabant",
+      "order": 1
+    },
+    {
+      "personId": 34824,
+      "character": "Nelly",
+      "order": 2
+    },
+    {
+      "personId": 25154,
+      "character": "Kid Parasol",
+      "order": 3
+    },
+    {
+      "personId": 545552,
+      "character": "Romani",
+      "order": 4
+    },
+    {
+      "personId": 550796,
+      "character": "Carlo",
+      "order": 5
+    },
+    {
+      "personId": 117803,
+      "character": "Morel",
+      "order": 6
+    },
+    {
+      "personId": 3401855,
+      "character": "Vilma",
+      "order": 7
+    },
+    {
+      "personId": 298988,
+      "character": "Parisian hotelier",
+      "order": 8
+    },
+    {
+      "personId": 1197883,
+      "character": "Pierre's father",
+      "order": 9
+    },
+    {
+      "personId": 298274,
+      "character": "Maid of the Mimosas guesthouse",
+      "order": 10
+    },
+    {
+      "personId": 1170384,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1211149,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1373068,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1342465,
+      "character": "Regular at the bar",
+      "order": 14
+    },
+    {
+      "personId": 3404456,
+      "character": "Countess",
+      "order": 15
+    },
+    {
+      "personId": 109344,
+      "character": "Gaston Noblet",
+      "order": 16
+    },
+    {
+      "personId": 1343430,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 37183,
+      "character": "Little rentier",
+      "order": 18
+    },
+    {
+      "personId": 588681,
+      "character": "Guest at the banquet",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "movement:french-poetic-realism"
+  ]
+}

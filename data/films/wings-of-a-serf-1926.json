@@ -1,0 +1,154 @@
+{
+  "tmdbId": 160661,
+  "slug": "wings-of-a-serf-1926",
+  "year": 1926,
+  "runtime": 73,
+  "originalTitle": "Крылья холопа",
+  "title": {
+    "en": "Wings of a Serf",
+    "tr": "Wings of a Serf"
+  },
+  "overview": {
+    "en": "This SovKino production was a major early experiment in Soviet historical film about the oprichnina period of Muscovite history, combining the costumed drama and Gothic thrills of the genre with historical materialist commentary on the dialectical collision of scientific progress and patriarchal religious tyranny under Tsar Ivan the Terrible. It follows a self-taught inventor from the serf class Nikishka, whose efforts to build a flying machine incite accusations of witchcraft. Nikishka and his beloved Fima are persecuted by the feudal lord Kurlyatev, who took their village in a petty land squabble. They’re rescued when Kurlyatev’s lands are taken by the Tsar in his autocratic campaign against the feudal system. Ivan puts Nikishka to work in his linen mill, where the young serf is coveted by Tsarina Maria Temryukovna, who the Tsar’s been ignoring in favor of his cupbearer Feodor. A series of harrowing intrigues wind a bloody dance through bedchamber, feast hall, cathedral and dungeon.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/owVGwMQtsPyIvDEBeAw4ZXbICGu.jpg",
+    "en": "/owVGwMQtsPyIvDEBeAw4ZXbICGu.jpg"
+  },
+  "backdrops": [
+    "/4WfyMBm4eJjUeFrc2xnK6EwY1fi.jpg",
+    "/ffHXIWg4gaRJQRPcJy5kOB9P6MU.jpg",
+    "/2P6PDcT5RbHwiTs03LvxgpHN8f9.jpg",
+    "/gyrAIoftRBxkFtyXxbsAlojJFUj.jpg",
+    "/mvj7Fo53YN5rnQuXgP9dL1wozCg.jpg",
+    "/xuL0KKEJSc6Zekt0k67INmVq9Bx.jpg",
+    "/y8HVBlr5dptmelIPBs6bWUqG4Vx.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Sovkino"
+  ],
+  "crew": [
+    {
+      "personId": 557271,
+      "job": "director"
+    },
+    {
+      "personId": 1391344,
+      "job": "writer"
+    },
+    {
+      "personId": 557271,
+      "job": "writer"
+    },
+    {
+      "personId": 1617977,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1350303,
+      "job": "director"
+    },
+    {
+      "personId": 3218165,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1600737,
+      "character": "Nikishka",
+      "order": 0
+    },
+    {
+      "personId": 1350303,
+      "character": "Tsar Ivan the Terrible",
+      "order": 1
+    },
+    {
+      "personId": 3218164,
+      "character": "Maria Temriukovna",
+      "order": 2
+    },
+    {
+      "personId": 2125215,
+      "character": "Tsarevich Ivan",
+      "order": 3
+    },
+    {
+      "personId": 557272,
+      "character": "Feodor Basmanov",
+      "order": 4
+    },
+    {
+      "personId": 2254801,
+      "character": "Fima",
+      "order": 5
+    },
+    {
+      "personId": 1545826,
+      "character": "Vaska Gryaznov",
+      "order": 6
+    },
+    {
+      "personId": 2779379,
+      "character": "Guard (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 5046705,
+      "character": "Metropolitan",
+      "order": 8
+    },
+    {
+      "personId": 4993968,
+      "character": "Malyuta Skuratov",
+      "order": 9
+    },
+    {
+      "personId": 1872074,
+      "character": "Lupatov",
+      "order": 10
+    },
+    {
+      "personId": 5535558,
+      "character": "Princess Kurlyateva",
+      "order": 11
+    },
+    {
+      "personId": 5536449,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 4924984,
+      "character": "Khayat",
+      "order": 13
+    },
+    {
+      "personId": 1755167,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1617964,
+      "character": "Prince Kurlyatev",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 13,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

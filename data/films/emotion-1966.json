@@ -1,0 +1,159 @@
+{
+  "tmdbId": 124517,
+  "slug": "emotion-1966",
+  "year": 1966,
+  "runtime": 39,
+  "originalTitle": "EMOTION 伝説の午後＝いつか見たドラキュラ",
+  "title": {
+    "en": "Emotion",
+    "tr": "EMOTION 伝説の午後＝いつか見たドラキュラ"
+  },
+  "overview": {
+    "en": "Experimental short film depicting the life, perhaps real, perhaps a dream, of a young girl named Emi. Emi travels to the city where she encounters her counterpart, Sari, and falls in love with…a vampire?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/8eRVo8IOlctCW0jPRLJjOCn4TIz.jpg",
+    "en": "/8eRVo8IOlctCW0jPRLJjOCn4TIz.jpg"
+  },
+  "backdrops": [
+    "/6iPqvNIWJKdieYlmDA98MYAi4mA.jpg",
+    "/cbkPNLZcUsw08QYelCxtwZVHavq.jpg",
+    "/sb7xIr3zxeH5PcB9iCgcXdQC3Rt.jpg",
+    "/mf3Z5eOlts2e5CtNdSEYSWDYOcx.jpg",
+    "/oejpaCmY2dLnB6mrZThNyHS7jfd.jpg",
+    "/mVEMpKZHoswSxbfpwnt5I0wm2xG.jpg",
+    "/eQyvvGRKUPL2H8ljw8cZMolRBdj.jpg",
+    "/5fAd5n1HhuOVuKY054Eil30scoM.jpg",
+    "/m9k45KsE6oMd52Q80TNIdP7tlrL.jpg",
+    "/8fPRNK1dwZ6kaL5NAePYLyI2Sbm.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    14,
+    27
+  ],
+  "keywordIds": [
+    10683,
+    15216,
+    263548
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 132305,
+      "job": "writer"
+    },
+    {
+      "personId": 1080199,
+      "job": "writer"
+    },
+    {
+      "personId": 132305,
+      "job": "director"
+    },
+    {
+      "personId": 1080201,
+      "job": "composer"
+    },
+    {
+      "personId": 1615472,
+      "job": "producer"
+    },
+    {
+      "personId": 132305,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1885268,
+      "character": "Emi",
+      "order": 0
+    },
+    {
+      "personId": 1080198,
+      "character": "Sari",
+      "order": 1
+    },
+    {
+      "personId": 1080199,
+      "character": "Narrator (voice)",
+      "order": 2
+    },
+    {
+      "personId": 1880405,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 1885266,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1885267,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 6584352,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 6584353,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 6584355,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1795642,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 6584350,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1880406,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 554167,
+      "character": "Narrator (voice)",
+      "order": 12
+    },
+    {
+      "personId": 1885269,
+      "character": "Emi Urawakai",
+      "order": 13
+    },
+    {
+      "personId": 593113,
+      "character": "Carmilla Karnstein (archive footage)",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 41,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

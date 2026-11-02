@@ -1,0 +1,168 @@
+{
+  "tmdbId": 32511,
+  "slug": "police-adjective-2009",
+  "year": 2009,
+  "runtime": 110,
+  "originalTitle": "Polițist, adjectiv",
+  "title": {
+    "en": "Police, Adjective",
+    "tr": "Polițist, adjectiv"
+  },
+  "overview": {
+    "en": "A cop named Cristi must go undercover to trail teen Victor who is suspected of selling pot in the north-eastern city of Vaslui.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yiimBQLll8l6SXyNjder7ToilDi.jpg",
+    "en": "/yiimBQLll8l6SXyNjder7ToilDi.jpg"
+  },
+  "backdrops": [
+    "/bzUJzGxmQdD3I7gFFLSalEN9ikx.jpg",
+    "/ts9GdYG49CG99jrYPDTfB5ZG0Zc.jpg",
+    "/rN6pf7mxScCqEH8nxX9HMwgfFVT.jpg",
+    "/u4ZkizDKxOeYbpkjguA2yewo4bR.jpg",
+    "/j39crPAE8lSab1ZYN88nr6yLUNr.jpg",
+    "/5cyMel16mOJjSS3LJrAdI8XkzAt.jpg",
+    "/ygQVtchlZguBfo94VFX6rwKfY0y.jpg"
+  ],
+  "trailerKey": "UxHIY7yP2Pw",
+  "genreIds": [
+    18,
+    35,
+    80
+  ],
+  "keywordIds": [
+    209983
+  ],
+  "countries": [
+    "RO"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "42 Km Film",
+    "Periscop Film",
+    "Racova"
+  ],
+  "crew": [
+    {
+      "personId": 109293,
+      "job": "director"
+    },
+    {
+      "personId": 109293,
+      "job": "writer"
+    },
+    {
+      "personId": 109293,
+      "job": "producer"
+    },
+    {
+      "personId": 931382,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 129565,
+      "character": "Cristi",
+      "order": 0
+    },
+    {
+      "personId": 39959,
+      "character": "Anghelache",
+      "order": 1
+    },
+    {
+      "personId": 147674,
+      "character": "Nelu",
+      "order": 2
+    },
+    {
+      "personId": 147673,
+      "character": "Anca",
+      "order": 3
+    },
+    {
+      "personId": 1899140,
+      "character": "Gina",
+      "order": 4
+    },
+    {
+      "personId": 967762,
+      "character": "Prosecutor",
+      "order": 5
+    },
+    {
+      "personId": 592233,
+      "character": "Costi",
+      "order": 6
+    },
+    {
+      "personId": 1490161,
+      "character": "Sică",
+      "order": 7
+    },
+    {
+      "personId": 134835,
+      "character": "Vali",
+      "order": 8
+    },
+    {
+      "personId": 1899142,
+      "character": "Dana",
+      "order": 9
+    },
+    {
+      "personId": 1899144,
+      "character": "Gică",
+      "order": 10
+    },
+    {
+      "personId": 1017315,
+      "character": "Officer on Duty",
+      "order": 11
+    },
+    {
+      "personId": 1899145,
+      "character": "Alex",
+      "order": 12
+    },
+    {
+      "personId": 1899146,
+      "character": "Doina",
+      "order": 13
+    },
+    {
+      "personId": 1899147,
+      "character": "Victor",
+      "order": 14
+    },
+    {
+      "personId": 3529440,
+      "character": "Alex's Father",
+      "order": 15
+    },
+    {
+      "personId": 3529444,
+      "character": "Alex's Mother",
+      "order": 16
+    },
+    {
+      "personId": 3529446,
+      "character": "Bartender",
+      "order": 17
+    },
+    {
+      "personId": 3529452,
+      "character": "Shopkeeper",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 72,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "tmdbId": 194853,
+  "slug": "the-guns-1964",
+  "year": 1964,
+  "runtime": 85,
+  "originalTitle": "Os Fuzis",
+  "title": {
+    "en": "The Guns",
+    "tr": "Os Fuzis"
+  },
+  "overview": {
+    "en": "A group of armed soldiers is sent to the Northeast of Brazil in an attempt to stop a famine-struck population from invading and stealing a food deposit in the dry backlands. While the alienation and insanity of people driven to hallucination by their latent hunger is conducted by the predictions of a religious figure, a truck driver observes the situation and remains torn between his friendship with the soldiers and his revolt against the lack of government action in fighting the misery that lingers over the region.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dTFmlDHJfZRbG830TYhc9tYdi6G.jpg",
+    "en": "/dTFmlDHJfZRbG830TYhc9tYdi6G.jpg"
+  },
+  "backdrops": [
+    "/rIVzCD3UDqtp4t5lcGBacu0qaji.jpg",
+    "/fFLn1z0ohGaWfBAVPk2nTMHZfLw.jpg",
+    "/3JbTdgBEtn2ZmD6fmQ0bPoC0BG9.jpg",
+    "/pai9USWLc2BvCEmBIDtEK1bjvI5.jpg",
+    "/gjWLjOWuECnsk1BVdJRWaP4TFUi.jpg",
+    "/y0tmDrMkMAgAKgxL32JRwm8eDcQ.jpg",
+    "/A0Ew4AS5JlaRRPHEbwrbiMZqEMz.jpg",
+    "/wptovrABAMFWbPEEecrfILenqdK.jpg",
+    "/jXcVuD7S3r8UTvoPBwysHeERHbB.jpg",
+    "/kXIQ7sJ1QxjUAnMh1GNR1KDvYKs.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    209984
+  ],
+  "countries": [
+    "AR",
+    "BR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Inbracine Filmes",
+    "Copacabana Filmes",
+    "Daga Filmes"
+  ],
+  "crew": [
+    {
+      "personId": 1175182,
+      "job": "composer"
+    },
+    {
+      "personId": 1175180,
+      "job": "producer"
+    },
+    {
+      "personId": 22456,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 20548,
+      "job": "director"
+    },
+    {
+      "personId": 1175177,
+      "job": "writer"
+    },
+    {
+      "personId": 20548,
+      "job": "writer"
+    },
+    {
+      "personId": 1175181,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12396,
+      "character": "Gaúcho",
+      "order": 0
+    },
+    {
+      "personId": 130036,
+      "character": "Mário",
+      "order": 1
+    },
+    {
+      "personId": 1091459,
+      "character": "Luísa",
+      "order": 2
+    },
+    {
+      "personId": 1175188,
+      "character": "Sargento",
+      "order": 3
+    },
+    {
+      "personId": 1164472,
+      "character": "301",
+      "order": 4
+    },
+    {
+      "personId": 103667,
+      "character": "Pedro",
+      "order": 5
+    },
+    {
+      "personId": 112112,
+      "character": "José",
+      "order": 6
+    },
+    {
+      "personId": 1395520,
+      "character": "Religious Man",
+      "order": 7
+    },
+    {
+      "personId": 229254,
+      "character": "Bar owner",
+      "order": 8
+    },
+    {
+      "personId": 563713,
+      "character": "Man with dead child",
+      "order": 9
+    },
+    {
+      "personId": 230269,
+      "character": "Voice",
+      "order": 10
+    },
+    {
+      "personId": 930476,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1175187,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1175189,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1175190,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1175191,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1062936,
+      "character": "",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 32,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

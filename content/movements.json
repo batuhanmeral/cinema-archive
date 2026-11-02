@@ -29,7 +29,7 @@
     "countries": ["SU"],
     "wikipedia": {
       "article": "Soviet montage theory",
-      "categories": []
+      "categories": ["Soviet silent feature films"]
     },
     "pioneerIds": [9603, 144821, 95111, 228729]
   },
@@ -162,7 +162,7 @@
       "start": 1960,
       "end": 1970
     },
-    "countries": ["CS", "CZ", "SK"],
+    "countries": ["XC", "CZ", "SK"],
     "wikipedia": {
       "article": "Czechoslovak New Wave",
       "categories": ["Czechoslovak New Wave films"]
@@ -194,7 +194,7 @@
     },
     "years": {
       "start": 1969,
-      "end": 1979
+      "end": null
     },
     "countries": ["IR"],
     "wikipedia": {
@@ -218,7 +218,7 @@
       "article": "Hong Kong New Wave",
       "categories": ["Hong Kong New Wave films"]
     },
-    "pioneerIds": [123199, 26760, 12453]
+    "pioneerIds": [123199, 26760, 71063]
   },
   {
     "slug": "new-taiwan-cinema",

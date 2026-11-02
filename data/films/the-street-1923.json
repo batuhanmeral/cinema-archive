@@ -1,0 +1,100 @@
+{
+  "tmdbId": 130052,
+  "slug": "the-street-1923",
+  "year": 1923,
+  "runtime": 79,
+  "originalTitle": "Die Straße",
+  "title": {
+    "en": "The Street",
+    "tr": "Die Straße"
+  },
+  "overview": {
+    "en": "The movie follows two distinct plot lines until the two eventually merge: the first is that of the bored middle-aged man seeking a departure from monotony in his life; the second is that of the blind man and the little boy, his grandson, who are interdependent. None of the characters have been given names and are therefore referred to only by description. The city is an expressionistic nightmare, a dangerous and chaotic place.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/84cRJwtD6Yonnant5pSyvbb9xJl.jpg",
+    "en": "/84cRJwtD6Yonnant5pSyvbb9xJl.jpg"
+  },
+  "backdrops": [
+    "/xT8WQzupmSgVhZsPXFlB7yr1pCD.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Stern-Film"
+  ],
+  "crew": [
+    {
+      "personId": 135425,
+      "job": "director"
+    },
+    {
+      "personId": 135425,
+      "job": "writer"
+    },
+    {
+      "personId": 49213,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 590689,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 100896,
+      "character": "The pimp",
+      "order": 0
+    },
+    {
+      "personId": 28988,
+      "character": "Dirne",
+      "order": 1
+    },
+    {
+      "personId": 1090738,
+      "character": "Herr aus der Provinz",
+      "order": 2
+    },
+    {
+      "personId": 222581,
+      "character": "Frau",
+      "order": 3
+    },
+    {
+      "personId": 9839,
+      "character": "The blind man",
+      "order": 4
+    },
+    {
+      "personId": 48029,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 2068802,
+      "character": "Street girl",
+      "order": 6
+    },
+    {
+      "personId": 29126,
+      "character": "",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 19,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

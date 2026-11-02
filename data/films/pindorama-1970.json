@@ -1,0 +1,93 @@
+{
+  "tmdbId": 198653,
+  "slug": "pindorama-1970",
+  "year": 1970,
+  "runtime": 95,
+  "originalTitle": "Pindorama",
+  "title": {
+    "en": "Pindorama",
+    "tr": "Pindorama"
+  },
+  "overview": {
+    "en": "This Brazilian film is set during the period of its initial colonial discovery and settlement. The title refers to a word the native peoples used for the coastal lands: \"pindorama,\" or \"place of the small trees.\" A ponderous and grandiose film, it was roundly booed when it was aired at the 1971 Cannes Film Festival.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4mx07muQ8GCo4KL67efmVeqwr1S.jpg",
+    "en": "/4mx07muQ8GCo4KL67efmVeqwr1S.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Companhia Cinematográfica Vera Cruz"
+  ],
+  "crew": [
+    {
+      "personId": 531780,
+      "job": "director"
+    },
+    {
+      "personId": 531780,
+      "job": "writer"
+    },
+    {
+      "personId": 240589,
+      "job": "writer"
+    },
+    {
+      "personId": 531780,
+      "job": "producer"
+    },
+    {
+      "personId": 3656,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 936090,
+      "character": "",
+      "order": 0
+    },
+    {
+      "personId": 571932,
+      "character": "",
+      "order": 1
+    },
+    {
+      "personId": 112112,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 1132198,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 55010,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1506081,
+      "character": "",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 2,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

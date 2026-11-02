@@ -1,0 +1,99 @@
+{
+  "tmdbId": 501340,
+  "slug": "cirkinler-de-sever-1981",
+  "year": 1981,
+  "runtime": null,
+  "originalTitle": "Çirkinler de Sever",
+  "title": {
+    "en": "Çirkinler de Sever",
+    "tr": "Çirkinler de Sever"
+  },
+  "overview": {
+    "en": "The story is based on a fictional account of the events that unfold between a film crew who come to shoot a movie in a remote village in Anatolia and the villagers. It attempts to convey the pure and innocent feelings that Mazlum, a young villager, has for the film actress Müjde. After the filmmakers finish their work and the crew returns to Istanbul, Mazlum follows Müjde to Istanbul due to his longing for her, leading to some interesting developments...",
+    "tr": "Hikaye; anadolunun ücra bir köyünde (Eski Kahta) sinema filmi çekmek için gelen film ekibi ile köylüler arasında geçen gelişmeleri anlatan kurgu üzerine yazılmıştır.Köylü genç Mazlum'un (İlyas Salman) Filim aktristi Müjde'ye (Müjde Ar) duyduğu saf ve temiz duyguyu anlatmaya çalışmaktadır. Filimcilerin işi bitip, ekip İstanbul'a döndükten sonra Mazlum'un Müjde'ye duyduğu özlemi nedeniyle peşinden İstanbul'a gelişi ve yaşanan ilginç gelişmeler..."
+  },
+  "poster": {
+    "tr": "/K1uRlVl2P5aQP68tOov4UCCRvA.jpg",
+    "en": "/K1uRlVl2P5aQP68tOov4UCCRvA.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    10749,
+    18,
+    35
+  ],
+  "keywordIds": [],
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 144151,
+      "job": "director"
+    },
+    {
+      "personId": 144151,
+      "job": "writer"
+    },
+    {
+      "personId": 1497108,
+      "job": "producer"
+    },
+    {
+      "personId": 550370,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 97273,
+      "character": "Mazlum",
+      "order": 0
+    },
+    {
+      "personId": 90283,
+      "character": "Müjde",
+      "order": 1
+    },
+    {
+      "personId": 1797779,
+      "character": "Kudret",
+      "order": 2
+    },
+    {
+      "personId": 97276,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 2675295,
+      "character": "Cüneyt",
+      "order": 4
+    },
+    {
+      "personId": 1202129,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 2064664,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 1078371,
+      "character": "",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 4,
+  "sources": [
+    "yesilcam"
+  ]
+}

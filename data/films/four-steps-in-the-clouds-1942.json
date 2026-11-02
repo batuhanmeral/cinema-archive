@@ -1,0 +1,182 @@
+{
+  "tmdbId": 65477,
+  "slug": "four-steps-in-the-clouds-1942",
+  "year": 1942,
+  "runtime": 88,
+  "originalTitle": "4 passi fra le nuvole",
+  "title": {
+    "en": "Four Steps in the Clouds",
+    "tr": "4 passi fra le nuvole"
+  },
+  "overview": {
+    "en": "Travelling family man Paolo agrees to pose as husband to an unwed pregnant girl he meets on a train. However, once faced with her father, things do not go as planned.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/1kMh8mMbP2qcCD36SIbDJgG3rl1.jpg",
+    "en": "/1kMh8mMbP2qcCD36SIbDJgG3rl1.jpg"
+  },
+  "backdrops": [
+    "/9ySGMhL4Yp0vNQ6lKu2pvc3B4XB.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    18011,
+    297736
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Società Italiana Cines",
+    "ENIC"
+  ],
+  "crew": [
+    {
+      "personId": 228338,
+      "job": "director"
+    },
+    {
+      "personId": 38028,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12331,
+      "job": "composer"
+    },
+    {
+      "personId": 228338,
+      "job": "writer"
+    },
+    {
+      "personId": 225481,
+      "job": "writer"
+    },
+    {
+      "personId": 12330,
+      "job": "writer"
+    },
+    {
+      "personId": 232640,
+      "job": "writer"
+    },
+    {
+      "personId": 4411,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 37191,
+      "character": "Paolo Bianchi",
+      "order": 0
+    },
+    {
+      "personId": 230555,
+      "character": "Maria",
+      "order": 1
+    },
+    {
+      "personId": 543557,
+      "character": "Antonio",
+      "order": 2
+    },
+    {
+      "personId": 543558,
+      "character": "Pasquale",
+      "order": 3
+    },
+    {
+      "personId": 5404,
+      "character": "sor Luca",
+      "order": 4
+    },
+    {
+      "personId": 233184,
+      "character": "The nervous traveler",
+      "order": 5
+    },
+    {
+      "personId": 87369,
+      "character": "The delivery boy on the bus",
+      "order": 6
+    },
+    {
+      "personId": 543559,
+      "character": "sora Lisa",
+      "order": 7
+    },
+    {
+      "personId": 543556,
+      "character": "Clara Bianchi",
+      "order": 8
+    },
+    {
+      "personId": 320502,
+      "character": "The grocer from Campolo",
+      "order": 9
+    },
+    {
+      "personId": 228864,
+      "character": "The farmer on the bus",
+      "order": 10
+    },
+    {
+      "personId": 19586,
+      "character": "The teacher on the bus",
+      "order": 11
+    },
+    {
+      "personId": 266260,
+      "character": "Signora Clelia",
+      "order": 12
+    },
+    {
+      "personId": 1303019,
+      "character": "northerner",
+      "order": 13
+    },
+    {
+      "personId": 1037957,
+      "character": "Antonio - the stationmaster",
+      "order": 14
+    },
+    {
+      "personId": 1198196,
+      "character": "Nonno Matteo",
+      "order": 15
+    },
+    {
+      "personId": 225487,
+      "character": "Magnaschi - the pharmaceutical representative",
+      "order": 16
+    },
+    {
+      "personId": 591888,
+      "character": "Francesco - the wanderer",
+      "order": 17
+    },
+    {
+      "personId": 1017981,
+      "character": "The conductor on the train",
+      "order": 18
+    },
+    {
+      "personId": 999783,
+      "character": "The trumpet player",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 35,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

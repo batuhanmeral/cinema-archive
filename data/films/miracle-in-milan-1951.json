@@ -1,0 +1,194 @@
+{
+  "tmdbId": 43379,
+  "slug": "miracle-in-milan-1951",
+  "year": 1951,
+  "runtime": 97,
+  "originalTitle": "Miracolo a Milano",
+  "title": {
+    "en": "Miracle in Milan",
+    "tr": "Miracolo a Milano"
+  },
+  "overview": {
+    "en": "Once upon a time a wise and kind old woman discovers a baby in her cabbage patch. She brings up the child and, when she dies, the boy, Totò, enters an orphanage. Totò leaves the orphanage a happy young man, and looks for work in post-war Milan. He ends up with the homeless and organizes them to build a shanty town in a vacant lot. But when greedy developers threaten the community’s land, Totò will need all the help he can get in order to find an impossible way out.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9l47FSwRvu0IETKjDVpZ2INbqvI.jpg",
+    "en": "/9l47FSwRvu0IETKjDVpZ2INbqvI.jpg"
+  },
+  "backdrops": [
+    "/auItHwCI7tvJ8C5f2B0lS5zjDZQ.jpg",
+    "/sCSLll8Lc99B2jZmtwfyigEVCCC.jpg",
+    "/oGrwlhALcUHXYy78dCKpFgi4EsI.jpg",
+    "/ihAlEyCMX9AsjEoorycQQJTtKTp.jpg",
+    "/fDcdpxwf6B5hKvh9pOcJ8octh3a.jpg",
+    "/6200wu1RdWW5J3ESVHEiQ3vIadZ.jpg",
+    "/5gb8ARaLFTY9ckPxnQw6cFi6ggL.jpg",
+    "/iVmWjQiFXYebEesTIt12Wu2Ghi4.jpg",
+    "/qycieg7MpEuNIIzAa2r5Va4mfqd.jpg",
+    "/gigOcoiCNrXvNTOtWnXN8GGmvjM.jpg"
+  ],
+  "trailerKey": "la8midGNmV4",
+  "genreIds": [
+    35,
+    14,
+    18
+  ],
+  "keywordIds": [
+    960,
+    818,
+    100,
+    2343,
+    290,
+    2706,
+    12987,
+    13014,
+    15120,
+    41005,
+    156597,
+    215741
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Produzioni De Sica",
+    "ENIC"
+  ],
+  "crew": [
+    {
+      "personId": 12329,
+      "job": "director"
+    },
+    {
+      "personId": 12330,
+      "job": "writer"
+    },
+    {
+      "personId": 12329,
+      "job": "writer"
+    },
+    {
+      "personId": 12329,
+      "job": "producer"
+    },
+    {
+      "personId": 1531324,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12331,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 592525,
+      "character": "La vecchia Lolotta",
+      "order": 0
+    },
+    {
+      "personId": 592526,
+      "character": "Totò",
+      "order": 1
+    },
+    {
+      "personId": 4962,
+      "character": "Rappi",
+      "order": 2
+    },
+    {
+      "personId": 233185,
+      "character": "Mobbi",
+      "order": 3
+    },
+    {
+      "personId": 937248,
+      "character": "Edvige",
+      "order": 4
+    },
+    {
+      "personId": 19586,
+      "character": "Marta, la signora altezzosa",
+      "order": 5
+    },
+    {
+      "personId": 136436,
+      "character": "La statua che prende vita",
+      "order": 6
+    },
+    {
+      "personId": 1606806,
+      "character": "L'innamorata infelice",
+      "order": 7
+    },
+    {
+      "personId": 227308,
+      "character": "Il sergente delle guardie",
+      "order": 8
+    },
+    {
+      "personId": 233184,
+      "character": "Alfredo",
+      "order": 9
+    },
+    {
+      "personId": 1430285,
+      "character": "Gaetano",
+      "order": 10
+    },
+    {
+      "personId": 1606807,
+      "character": "L'atleta",
+      "order": 11
+    },
+    {
+      "personId": 1037360,
+      "character": "Il comandante in secondo",
+      "order": 12
+    },
+    {
+      "personId": 1606808,
+      "character": "Il comandante in primo",
+      "order": 13
+    },
+    {
+      "personId": 1718786,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1139839,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1137514,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1718788,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 5512733,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 5512736,
+      "character": "Totò a 11 anni (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 276,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

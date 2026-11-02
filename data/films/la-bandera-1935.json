@@ -1,0 +1,180 @@
+{
+  "tmdbId": 72400,
+  "slug": "la-bandera-1935",
+  "year": 1935,
+  "runtime": 88,
+  "originalTitle": "La Bandera",
+  "title": {
+    "en": "La Bandera",
+    "tr": "La Bandera"
+  },
+  "overview": {
+    "en": "Pierre Gilieth has committed a murder in Paris. He flees to Barcelona, where he runs out of money. So he joins the Spanish Foreign Legion. He meets there two fellow countrymen, Mulot and Lucas. He tries to forget his fault... but Lucas's friendship soon appears to be less unselfish...",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qPJd23tHFXIA8LWpJeSpk0KtUTR.jpg",
+    "en": "/qPJd23tHFXIA8LWpJeSpk0KtUTR.jpg"
+  },
+  "backdrops": [
+    "/jPixwjcImLUY62kbYOh3DCucXvk.jpg",
+    "/terc8jsEALkNvf4uPg4QTUe5Svp.jpg",
+    "/umQYymzcwaz15ybUs4EMDXL8SaF.jpg",
+    "/jC7bI0zCqZ01Mn6Qo0KPXWbgzlA.jpg",
+    "/5GGKV7RaOG6TzkxMVyTAyo9KRPq.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    2905
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "SNC"
+  ],
+  "crew": [
+    {
+      "personId": 39058,
+      "job": "director"
+    },
+    {
+      "personId": 29732,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1600186,
+      "job": "composer"
+    },
+    {
+      "personId": 36997,
+      "job": "composer"
+    },
+    {
+      "personId": 39206,
+      "job": "writer"
+    },
+    {
+      "personId": 39058,
+      "job": "writer"
+    },
+    {
+      "personId": 1549759,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11544,
+      "character": "Pierre Gilieth",
+      "order": 0
+    },
+    {
+      "personId": 308779,
+      "character": "Marcel Mulot",
+      "order": 1
+    },
+    {
+      "personId": 49000,
+      "character": "Fernando Lucas",
+      "order": 2
+    },
+    {
+      "personId": 82789,
+      "character": "Aïscha el  Saloui",
+      "order": 3
+    },
+    {
+      "personId": 25159,
+      "character": "Commandant Weller",
+      "order": 4
+    },
+    {
+      "personId": 1465752,
+      "character": "Légionnaire Jacky",
+      "order": 5
+    },
+    {
+      "personId": 11543,
+      "character": "Legionnaire Muller",
+      "order": 6
+    },
+    {
+      "personId": 144963,
+      "character": "The Hotel Manager",
+      "order": 7
+    },
+    {
+      "personId": 94942,
+      "character": "\"Sego\", Saharan bar owner",
+      "order": 8
+    },
+    {
+      "personId": 35879,
+      "character": "Planche-à-Pain",
+      "order": 9
+    },
+    {
+      "personId": 94947,
+      "character": "Legionnaire with Tatoo'd Face",
+      "order": 10
+    },
+    {
+      "personId": 1342465,
+      "character": "Siméon",
+      "order": 11
+    },
+    {
+      "personId": 263123,
+      "character": "Gorlier",
+      "order": 12
+    },
+    {
+      "personId": 1416665,
+      "character": "Le sergent",
+      "order": 13
+    },
+    {
+      "personId": 580210,
+      "character": "Rosita",
+      "order": 14
+    },
+    {
+      "personId": 39471,
+      "character": "la fille de Barcelone",
+      "order": 15
+    },
+    {
+      "personId": 140361,
+      "character": "la fille du restaurant",
+      "order": 16
+    },
+    {
+      "personId": 39671,
+      "character": "la femme ivre",
+      "order": 17
+    },
+    {
+      "personId": 12272,
+      "character": "le sergent dans le train",
+      "order": 18
+    },
+    {
+      "personId": 1465753,
+      "character": "Le lieutenant",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 24,
+  "sources": [
+    "movement:french-poetic-realism"
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "tmdbId": 40641,
+  "slug": "lola-1961",
+  "year": 1961,
+  "runtime": 89,
+  "originalTitle": "Lola",
+  "title": {
+    "en": "Lola",
+    "tr": "Lola"
+  },
+  "overview": {
+    "en": "A bored young man meets with his former girlfriend, now a cabaret dancer and single mother, and soon finds himself falling back in love with her.",
+    "tr": "Canı sıkılan genç bir adam, eski sevgilisiyle buluşur. Kadın aradan geçen yıllarda değişmiştir. Tek başına çocuğunu büyütürken bir yandan da kabare dansçılığı yapar. Genç adam kısa sürede yeniden ona âşık olur."
+  },
+  "poster": {
+    "tr": "/uVLkdkTVV10fLrTPyOCBE6alwLD.jpg",
+    "en": "/3anKm9Fvg3u9F7kfCZwYASXVOwa.jpg"
+  },
+  "backdrops": [
+    "/kolJWwAr1upR4jmGiwzuwbIrDgh.jpg",
+    "/bX9WDVEdNftHE0BO3jsufoj7jKr.jpg",
+    "/toHBVabANkZMB5lTdZieJh9Gs1J.jpg",
+    "/p0z00Yxt5zZtZvRcacPlQq24iq6.jpg",
+    "/7a39d9tuwz78ZY2RLPg1JeYNj82.jpg",
+    "/mvu1Sp0lrgDgP9e7pMMyIhiyv0z.jpg",
+    "/se5U0foO2eCYlDaDUdJyfASkgkx.jpg",
+    "/j0me1z8h5kdpRCZD2sVJ2Bd2cQl.jpg",
+    "/2yzqfkqpdsiNOmmtYukNzDqQRcd.jpg",
+    "/y5Czxlo1156YFJ0nwC9zxri7Tl3.jpg"
+  ],
+  "trailerKey": "d4oUnqkJipI",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    2311,
+    12999,
+    14768,
+    187224,
+    191694
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Rome-Paris Films",
+    "Carlo Ponti Production"
+  ],
+  "crew": [
+    {
+      "personId": 24882,
+      "job": "writer"
+    },
+    {
+      "personId": 24882,
+      "job": "director"
+    },
+    {
+      "personId": 3778,
+      "job": "producer"
+    },
+    {
+      "personId": 3779,
+      "job": "producer"
+    },
+    {
+      "personId": 10934,
+      "job": "composer"
+    },
+    {
+      "personId": 3540,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5682,
+      "character": "Lola (Cécile)",
+      "order": 0
+    },
+    {
+      "personId": 46936,
+      "character": "Roland Cassard",
+      "order": 1
+    },
+    {
+      "personId": 37118,
+      "character": "Michel",
+      "order": 2
+    },
+    {
+      "personId": 39150,
+      "character": "Frankie",
+      "order": 3
+    },
+    {
+      "personId": 45477,
+      "character": "Madame Desnoyers",
+      "order": 4
+    },
+    {
+      "personId": 35879,
+      "character": "Jeanne, la mère de Michel",
+      "order": 5
+    },
+    {
+      "personId": 932594,
+      "character": "Cécile Desnoyers",
+      "order": 6
+    },
+    {
+      "personId": 3514,
+      "character": "Claire, the bar owner",
+      "order": 7
+    },
+    {
+      "personId": 7565,
+      "character": "Daisy",
+      "order": 8
+    },
+    {
+      "personId": 932595,
+      "character": "Madame Frédérique",
+      "order": 9
+    },
+    {
+      "personId": 1151713,
+      "character": "Dolly",
+      "order": 10
+    },
+    {
+      "personId": 2154596,
+      "character": "Nelly",
+      "order": 11
+    },
+    {
+      "personId": 2154597,
+      "character": "Ellen",
+      "order": 12
+    },
+    {
+      "personId": 2154599,
+      "character": "Hair Stylist's Mistress",
+      "order": 13
+    },
+    {
+      "personId": 1505259,
+      "character": "Maggie",
+      "order": 14
+    },
+    {
+      "personId": 2154601,
+      "character": "M. François, the Librarian",
+      "order": 15
+    },
+    {
+      "personId": 2154603,
+      "character": "Minnie",
+      "order": 16
+    },
+    {
+      "personId": 14241,
+      "character": "Hairstylist",
+      "order": 17
+    },
+    {
+      "personId": 2154606,
+      "character": "Yvon, Lola's Son",
+      "order": 18
+    },
+    {
+      "personId": 32372,
+      "character": "Dancing Teacher",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 308,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

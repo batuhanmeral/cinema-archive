@@ -1,0 +1,150 @@
+{
+  "tmdbId": 5562,
+  "slug": "le-beau-serge-1959",
+  "year": 1959,
+  "runtime": 98,
+  "originalTitle": "Le Beau Serge",
+  "title": {
+    "en": "Le Beau Serge",
+    "tr": "Le Beau Serge"
+  },
+  "overview": {
+    "en": "After long absence, a man returns to his hometown only to find his best friend has become an alcoholic.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dSpzj1q7AIl7SN7Ikd3oHfeD986.jpg",
+    "en": "/34oFdvigO0NKwsUBzaxeWcc9ebG.jpg"
+  },
+  "backdrops": [
+    "/xxVO3rDZQAQOS2O26eh3unf0vH7.jpg",
+    "/dICyvHSp2rnkFeAe63d3HSAkpnb.jpg",
+    "/8NahsOTii2vtlLqCzASwSo0Mh4T.jpg",
+    "/AsmsZE0aldHdKw9xHhqcwxwmf9y.jpg",
+    "/gOKNp45EkzuElq5fz5Qq5WviB5W.jpg",
+    "/r6f2vbJYxOUxSBfBBddD3zgHfX.jpg",
+    "/gsIckLA94EEqF8bYJmxV1tXeEeM.jpg",
+    "/auv1P5OnWj1W0nF2boGAiCl6XOk.jpg",
+    "/6oXuicCJQQK0TufYAMmp7KhxlfQ.jpg",
+    "/h7UlABpX5qKBBUllsZ6JNgBhx0E.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    6054,
+    1009,
+    254,
+    3725,
+    1499,
+    4640,
+    7464,
+    11004,
+    40895,
+    160246,
+    174244
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Ajym Films",
+    "Coopérative Générale du Cinéma Français"
+  ],
+  "crew": [
+    {
+      "personId": 1657,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 19069,
+      "job": "writer"
+    },
+    {
+      "personId": 19069,
+      "job": "director"
+    },
+    {
+      "personId": 1115283,
+      "job": "producer"
+    },
+    {
+      "personId": 19069,
+      "job": "producer"
+    },
+    {
+      "personId": 44128,
+      "job": "composer"
+    },
+    {
+      "personId": 19086,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24298,
+      "character": "Serge",
+      "order": 0
+    },
+    {
+      "personId": 24299,
+      "character": "François",
+      "order": 1
+    },
+    {
+      "personId": 24302,
+      "character": "Yvonne",
+      "order": 2
+    },
+    {
+      "personId": 28254,
+      "character": "Marie",
+      "order": 3
+    },
+    {
+      "personId": 44129,
+      "character": "Glomaud",
+      "order": 4
+    },
+    {
+      "personId": 40976,
+      "character": "Priester",
+      "order": 5
+    },
+    {
+      "personId": 44225,
+      "character": "Arzt Michel",
+      "order": 6
+    },
+    {
+      "personId": 24778,
+      "character": "Madame Chaunier",
+      "order": 7
+    },
+    {
+      "personId": 44226,
+      "character": "Der Bäcker",
+      "order": 8
+    },
+    {
+      "personId": 34613,
+      "character": "Jacques Rivette de la Chasuble",
+      "order": 9
+    },
+    {
+      "personId": 19069,
+      "character": "La Truffe",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 99,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

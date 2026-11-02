@@ -1,0 +1,131 @@
+{
+  "tmdbId": 618363,
+  "slug": "collective-2019",
+  "year": 2019,
+  "runtime": 109,
+  "originalTitle": "Colectiv",
+  "title": {
+    "en": "Collective",
+    "tr": "Collective"
+  },
+  "overview": {
+    "en": "In the aftermath of a tragic fire in a Romanian club, burn victims begin dying in hospitals from wounds that were not life threatening.  A team of investigative journalists move into action uncovering the mass corruption of the health system and of the state institutions. Collective follows journalists, whistle blowers, and authorities alike. An immersive and uncompromising look into a dysfunctional system, exposing corruption, propaganda, and manipulation that nowadays affect not only Romania, but societies around the world.",
+    "tr": "2015 yılında Bükreş’te Colectiv adlı bir gece kulübünde çıkan yangın sonucu 27 kişi vefat eder, 180 kişi yaralanır. Daha sonra yangında ölümcül derecede yanıkları olmayan kişiler de hastanede bir bir ölmeye başlar ve vefat edenlerin sayısı 60’a yükselir. Bir doktor ise bu duruma dayanamaz ve asıl durumu araştırmacı gazetecilere ihbar eder. Bunun üzerine itiraflar ardı ardına gelir. Bu sayede gazeteciler büyük bir sağlık hizmetleri dolandırıcılığını ortaya çıkarır."
+  },
+  "poster": {
+    "tr": "/vDgLoXJxFYavTQCwIPYWbONyEVB.jpg",
+    "en": "/oR93n0CAn2GznyHDFSRTp0J1t8c.jpg"
+  },
+  "backdrops": [
+    "/n4rFcYDIx3NfLm8zwnEeufs7V5V.jpg",
+    "/m2SJTezG29RWgS8BjFiFZCYkwOp.jpg",
+    "/1VNiBeZZ2pNS1Hi6UBiB1KoJYad.jpg"
+  ],
+  "trailerKey": "KLgGoT7v3ro",
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    417,
+    6514,
+    18339
+  ],
+  "countries": [
+    "DE",
+    "LU",
+    "RO"
+  ],
+  "languages": [
+    "en",
+    "ro"
+  ],
+  "studios": [
+    "Samsa Film",
+    "Alexander Nanau Production",
+    "HBO Europe"
+  ],
+  "crew": [
+    {
+      "personId": 1739456,
+      "job": "producer"
+    },
+    {
+      "personId": 1825093,
+      "job": "composer"
+    },
+    {
+      "personId": 1162787,
+      "job": "writer"
+    },
+    {
+      "personId": 2383027,
+      "job": "writer"
+    },
+    {
+      "personId": 1162787,
+      "job": "director"
+    },
+    {
+      "personId": 1162787,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1162787,
+      "job": "producer"
+    },
+    {
+      "personId": 931365,
+      "job": "producer"
+    },
+    {
+      "personId": 1576802,
+      "job": "producer"
+    },
+    {
+      "personId": 1440035,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2397495,
+      "character": "Himself",
+      "order": 0
+    },
+    {
+      "personId": 2397496,
+      "character": "Herself",
+      "order": 1
+    },
+    {
+      "personId": 2397497,
+      "character": "Himself",
+      "order": 2
+    },
+    {
+      "personId": 2397498,
+      "character": "Herself",
+      "order": 3
+    },
+    {
+      "personId": 2397499,
+      "character": "Himself",
+      "order": 4
+    },
+    {
+      "personId": 2397500,
+      "character": "Herself",
+      "order": 5
+    },
+    {
+      "personId": 2698858,
+      "character": "Herself",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 205,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

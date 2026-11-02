@@ -35,6 +35,14 @@ describe('collectionRuleSchema', () => {
   })
 })
 
+describe('collectionRuleSchema articles', () => {
+  it('accepts wikipediaArticles as a membership field and rejects an empty list', () => {
+    const rule = { wikipediaArticles: ['Midnight movie'], years: { start: 1968, end: 1984 } }
+    expect(collectionRuleSchema.safeParse(rule).success).toBe(true)
+    expect(collectionRuleSchema.safeParse({ wikipediaArticles: [] }).success).toBe(false)
+  })
+})
+
 describe('movementContentFileSchema', () => {
   const entry = {
     slug: 'dogme-95',

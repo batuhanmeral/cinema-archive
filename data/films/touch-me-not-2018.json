@@ -1,0 +1,133 @@
+{
+  "tmdbId": 499155,
+  "slug": "touch-me-not-2018",
+  "year": 2018,
+  "runtime": 125,
+  "originalTitle": "Touch Me Not",
+  "title": {
+    "en": "Touch Me Not",
+    "tr": "Dokunma Bana"
+  },
+  "overview": {
+    "en": "Together, a filmmaker and her characters venture into a personal research project about intimacy. On the fluid border between reality and fiction, Touch Me Not follows the emotional journeys of Laura, Tómas and Christian, offering a deeply empathic insight into their lives. Craving for intimacy yet also deeply afraid of it, they work to overcome old patterns, defense mechanisms and taboos, to cut the cord and finally be free.  Touch Me Not looks at how we can find intimacy in the most unexpected ways, at how to love another without losing ourselves.",
+    "tr": "Bir yönetmen ve 3 farklı karakter, Laura, Tomas ve Christian hep birlikte mahremiyet, güzellik algısı ve cinsel yaklaşımlar üzerine deneysel bir çalışma içine girerler. Bu çalışmalar, Laura ve diğerleriyle birlikte izleyicilerin de özellikle bedenlerine yönelik önyargılarını ciddi şekilde sarsma iddiası taşıyor."
+  },
+  "poster": {
+    "tr": "/tcz5rD4ChAqNiYDwmoa8yVyRsOY.jpg",
+    "en": "/dJJIiIDqcmJkiws8AyYmibuN6lA.jpg"
+  },
+  "backdrops": [
+    "/kqAuZJn3Oq3z2b0ZYNRwuFKeXsX.jpg",
+    "/sWDHRLzn0XhXpDfkBEMndBM9S6i.jpg",
+    "/9YuyyYUcPxFD6mHjvSQobdBLG2h.jpg",
+    "/qF6CowV5PCLYqUhjoUXTMeL2PFZ.jpg"
+  ],
+  "trailerKey": "fQ8IKnYwK1I",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    187056
+  ],
+  "countries": [
+    "BG",
+    "CZ",
+    "FR",
+    "DE",
+    "RO"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Manekino Film",
+    "Rohfilm",
+    "Agitprop"
+  ],
+  "crew": [
+    {
+      "personId": 1961679,
+      "job": "director"
+    },
+    {
+      "personId": 1961679,
+      "job": "writer"
+    },
+    {
+      "personId": 52730,
+      "job": "producer"
+    },
+    {
+      "personId": 1961679,
+      "job": "producer"
+    },
+    {
+      "personId": 2417803,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12985,
+      "character": "Laura",
+      "order": 0
+    },
+    {
+      "personId": 1961679,
+      "character": "Adina",
+      "order": 1
+    },
+    {
+      "personId": 18818,
+      "character": "Tudor",
+      "order": 2
+    },
+    {
+      "personId": 1961680,
+      "character": "Christian",
+      "order": 3
+    },
+    {
+      "personId": 1283535,
+      "character": "Mona",
+      "order": 4
+    },
+    {
+      "personId": 2417805,
+      "character": "Grit",
+      "order": 5
+    },
+    {
+      "personId": 2417806,
+      "character": "Hanna",
+      "order": 6
+    },
+    {
+      "personId": 2417807,
+      "character": "Seani",
+      "order": 7
+    },
+    {
+      "personId": 1731231,
+      "character": "Stefan",
+      "order": 8
+    },
+    {
+      "personId": 2417809,
+      "character": "Male Escort",
+      "order": 9
+    },
+    {
+      "personId": 2417810,
+      "character": "Radu",
+      "order": 10
+    }
+  ],
+  "awards": {
+    "berlin": 1
+  },
+  "voteCount": 64,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

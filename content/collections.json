@@ -1,1 +1,273 @@
-[]
+[
+  {
+    "slug": "silent-cinema-masterpieces",
+    "name": {
+      "tr": "Sessiz Sinema Başyapıtları",
+      "en": "Silent Cinema Masterpieces"
+    },
+    "rule": {
+      "wikidataGenres": ["Q226730"]
+    }
+  },
+  {
+    "slug": "classic-hollywood",
+    "name": {
+      "tr": "Klasik Hollywood",
+      "en": "Classic Hollywood"
+    },
+    "rule": {
+      "countries": ["US"],
+      "years": {
+        "start": 1930,
+        "end": 1960
+      }
+    }
+  },
+  {
+    "slug": "yesilcam-classics",
+    "name": {
+      "tr": "Yeşilçam Klasikleri",
+      "en": "Yeşilçam Classics"
+    },
+    "rule": {
+      "sources": ["yesilcam"]
+    }
+  },
+  {
+    "slug": "soviet-art-cinema",
+    "name": {
+      "tr": "Sovyet Sanat Sineması",
+      "en": "Soviet Art Cinema"
+    },
+    "rule": {
+      "countries": ["SU"]
+    }
+  },
+  {
+    "slug": "film-noir",
+    "name": {
+      "tr": "Film Noir (Kara Film)",
+      "en": "Film Noir"
+    },
+    "rule": {
+      "wikidataGenres": ["Q185867"],
+      "years": {
+        "start": 1940,
+        "end": 1959
+      }
+    }
+  },
+  {
+    "slug": "neo-noir",
+    "name": {
+      "tr": "Neo-Noir",
+      "en": "Neo-Noir"
+    },
+    "rule": {
+      "wikidataGenres": ["Q2421031"]
+    }
+  },
+  {
+    "slug": "spaghetti-western",
+    "name": {
+      "tr": "Spaghetti Western",
+      "en": "Spaghetti Western"
+    },
+    "rule": {
+      "wikipediaCategories": ["Spaghetti Western films"]
+    }
+  },
+  {
+    "slug": "samurai-and-jidaigeki",
+    "name": {
+      "tr": "Samuray ve Jidaigeki Filmleri",
+      "en": "Samurai and Jidaigeki Films"
+    },
+    "rule": {
+      "wikipediaCategories": ["Jidaigeki films", "Samurai films"]
+    }
+  },
+  {
+    "slug": "hong-kong-martial-arts-and-action",
+    "name": {
+      "tr": "Hong Kong Dövüş ve Aksiyon Sineması",
+      "en": "Hong Kong Martial Arts and Action Cinema"
+    },
+    "rule": {
+      "countries": ["HK"],
+      "tmdbGenres": [28]
+    }
+  },
+  {
+    "slug": "giallo",
+    "name": {
+      "tr": "Giallo",
+      "en": "Giallo"
+    },
+    "rule": {
+      "wikipediaCategories": ["Giallo films"]
+    }
+  },
+  {
+    "slug": "midnight-movies",
+    "name": {
+      "tr": "Gece Yarısı Filmleri",
+      "en": "Midnight Movies"
+    },
+    "rule": {
+      "wikipediaArticles": ["Midnight movie"],
+      "years": {
+        "start": 1968,
+        "end": 1984
+      }
+    }
+  },
+  {
+    "slug": "blaxploitation",
+    "name": {
+      "tr": "Blaxploitation",
+      "en": "Blaxploitation"
+    },
+    "rule": {
+      "wikidataGenres": ["Q883179"],
+      "years": {
+        "start": 1970,
+        "end": 1979
+      }
+    }
+  },
+  {
+    "slug": "1950s-b-movie-science-fiction",
+    "name": {
+      "tr": "50'lerin \"B-Tipi\" Bilimkurguları",
+      "en": "1950s B-Movie Science Fiction"
+    },
+    "rule": {
+      "tmdbGenres": [878],
+      "countries": ["US"],
+      "years": {
+        "start": 1950,
+        "end": 1959
+      }
+    }
+  },
+  {
+    "slug": "1980s-action-classics",
+    "name": {
+      "tr": "80'ler Aksiyon Klasikleri",
+      "en": "1980s Action Classics"
+    },
+    "rule": {
+      "tmdbGenres": [28],
+      "countries": ["US"],
+      "years": {
+        "start": 1980,
+        "end": 1989
+      }
+    }
+  },
+  {
+    "slug": "1980s-coming-of-age",
+    "name": {
+      "tr": "80'ler Gençlik ve Büyüme Filmleri",
+      "en": "1980s Coming-of-Age Films"
+    },
+    "rule": {
+      "wikidataGenres": ["Q102429885", "Q1146335"],
+      "countries": ["US"],
+      "years": {
+        "start": 1980,
+        "end": 1989
+      }
+    }
+  },
+  {
+    "slug": "1990s-independent-crime",
+    "name": {
+      "tr": "90'lar Bağımsız Suç Filmleri",
+      "en": "1990s Independent Crime Films"
+    },
+    "rule": {
+      "wikipediaCategories": ["American independent films"],
+      "tmdbGenres": [80],
+      "years": {
+        "start": 1990,
+        "end": 1999
+      }
+    }
+  },
+  {
+    "slug": "gangster-and-heist-epics",
+    "name": {
+      "tr": "Gangster ve Soygun Destanları",
+      "en": "Gangster and Heist Epics"
+    },
+    "rule": {
+      "wikidataGenres": ["Q7444356", "Q496523"]
+    }
+  },
+  {
+    "slug": "cyberpunk-and-dystopia",
+    "name": {
+      "tr": "Siberpunk ve Distopya",
+      "en": "Cyberpunk and Dystopia"
+    },
+    "rule": {
+      "wikidataGenres": ["Q174526", "Q20443008"]
+    }
+  },
+  {
+    "slug": "black-comedy",
+    "name": {
+      "tr": "Kara komedi",
+      "en": "Black Comedy"
+    },
+    "rule": {
+      "wikidataGenres": ["Q5778924"]
+    }
+  },
+  {
+    "slug": "cult-road-and-post-apocalyptic",
+    "name": {
+      "tr": "Kült Yol ve Post-Apokaliptik Filmler",
+      "en": "Cult Road and Post-Apocalyptic Films"
+    },
+    "rule": {
+      "wikidataGenres": ["Q628165", "Q1341051"]
+    }
+  },
+  {
+    "slug": "cult-animation",
+    "name": {
+      "tr": "Kült Animasyonlar",
+      "en": "Cult Animation"
+    },
+    "rule": {
+      "tmdbGenres": [16]
+    }
+  },
+  {
+    "slug": "1980s-slasher",
+    "name": {
+      "tr": "80'ler Slasher Filmleri",
+      "en": "1980s Slasher Films"
+    },
+    "rule": {
+      "wikidataGenres": ["Q853630"],
+      "years": {
+        "start": 1980,
+        "end": 1989
+      }
+    }
+  },
+  {
+    "slug": "body-horror",
+    "name": {
+      "tr": "Body Horror",
+      "en": "Body Horror"
+    },
+    "rule": {
+      "wikidataGenres": ["Q102260466", "Q3641550"]
+    }
+  }
+]

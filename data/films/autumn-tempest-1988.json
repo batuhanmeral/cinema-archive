@@ -1,0 +1,53 @@
+{
+  "tmdbId": 934215,
+  "slug": "autumn-tempest-1988",
+  "year": 1988,
+  "runtime": 85,
+  "originalTitle": "落山風",
+  "title": {
+    "en": "Autumn Tempest",
+    "tr": "Autumn Tempest"
+  },
+  "overview": {
+    "en": "Accustomed to the life of a young master, Wen Hsieng is forced to compromise under the pressure of family members, and arranges to go to the mountain temple to study. The environment in the temple makes it difficult for him to adapt to.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/fNyVmzs1UzThExuhRBU6cJpYin3.jpg",
+    "en": "/fNyVmzs1UzThExuhRBU6cJpYin3.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [],
+  "keywordIds": [],
+  "countries": [],
+  "languages": [],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 143036,
+      "job": "writer"
+    },
+    {
+      "personId": 1333995,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1564916,
+      "character": "Wen Hsiang",
+      "order": 0
+    },
+    {
+      "personId": 560064,
+      "character": "Su-pi",
+      "order": 1
+    }
+  ],
+  "awards": {},
+  "voteCount": 0,
+  "sources": [
+    "movement:new-taiwan-cinema"
+  ]
+}

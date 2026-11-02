@@ -1,0 +1,151 @@
+{
+  "tmdbId": 2003,
+  "slug": "anatomy-of-hell-2004",
+  "year": 2004,
+  "runtime": 77,
+  "originalTitle": "Anatomie de l'enfer",
+  "title": {
+    "en": "Anatomy of Hell",
+    "tr": "Anatomie de l'enfer"
+  },
+  "overview": {
+    "en": "A woman employs a gay man to spend four nights at her house to watch her when she's \"unwatchable\".",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/mCjueTbZd8x88DM3slyGQjmeXma.jpg",
+    "en": "/nr4e20gzCo6woVSYBXwKFFNssAt.jpg"
+  },
+  "backdrops": [
+    "/diEr7cut4E9f7Xw3bMjXDblS8Rx.jpg",
+    "/ugbZ821J4NIvFE7ya7Gwr4bsAXH.jpg",
+    "/9rjcMwpi3tt5WHNWiZpuHheNTfT.jpg",
+    "/ySVy0ge74fXkirX3eeeKnHFUS5M.jpg",
+    "/vdqeOHm7Q5oV5Erwp40GPnblyC.jpg",
+    "/fjWomAWG1HZoNE1UNKeeDDE4Tg9.jpg",
+    "/3ejTquzf9rvtNNV6kzqD9nJb3G3.jpg",
+    "/lrjcsP0s7eX8EH4aBIffeLmQKUU.jpg",
+    "/8pvRassB2OmdailBwaNK4VQKpT8.jpg",
+    "/s5uskEELEXJ8GUbe4p2py0NJR6Z.jpg"
+  ],
+  "trailerKey": "_KyPzHOasbM",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    2316,
+    2334,
+    5756,
+    5975,
+    10180,
+    187056,
+    224663,
+    267122,
+    341367,
+    365846
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "CB Films",
+    "Flach Film"
+  ],
+  "crew": [
+    {
+      "personId": 6295,
+      "job": "director"
+    },
+    {
+      "personId": 6295,
+      "job": "writer"
+    },
+    {
+      "personId": 7695,
+      "job": "producer"
+    },
+    {
+      "personId": 20572,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 20593,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 20577,
+      "character": "The Woman",
+      "order": 0
+    },
+    {
+      "personId": 7694,
+      "character": "The Man",
+      "order": 1
+    },
+    {
+      "personId": 2258787,
+      "character": "Blowjob Lover 1",
+      "order": 2
+    },
+    {
+      "personId": 2258788,
+      "character": "Blowjob Lover 2",
+      "order": 3
+    },
+    {
+      "personId": 20598,
+      "character": "Man in Bar",
+      "order": 4
+    },
+    {
+      "personId": 2258789,
+      "character": "Boy with the Bird",
+      "order": 5
+    },
+    {
+      "personId": 2258790,
+      "character": "Little Girl",
+      "order": 6
+    },
+    {
+      "personId": 2258791,
+      "character": "Boy Playing Doctor",
+      "order": 7
+    },
+    {
+      "personId": 2258792,
+      "character": "Boy Playing Doctor",
+      "order": 8
+    },
+    {
+      "personId": 2258793,
+      "character": "Boy Playing Doctor",
+      "order": 9
+    },
+    {
+      "personId": 2258794,
+      "character": "Pharmacist 1",
+      "order": 10
+    },
+    {
+      "personId": 2258795,
+      "character": "Pharmacist 2",
+      "order": 11
+    },
+    {
+      "personId": 6295,
+      "character": "Narrator (voice)",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 163,
+  "sources": [
+    "movement:new-french-extremity"
+  ]
+}

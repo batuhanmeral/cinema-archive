@@ -1,0 +1,193 @@
+{
+  "tmdbId": 44967,
+  "slug": "strike-1925",
+  "year": 1925,
+  "runtime": 89,
+  "originalTitle": "Стачка",
+  "title": {
+    "en": "Strike",
+    "tr": "Grev"
+  },
+  "overview": {
+    "en": "Just before the 1905 Bolshevik Revolution, factory workers strike against their oppressive factory bosses. When a worker is accused of stealing a piece of machinery, he commits suicide, and his colleagues revolt against the overarching Czarist regime. As the strike drags on and government officials grow increasingly desperate to end it, their methods of dealing with the rebellious workers become more and more aggressive.",
+    "tr": "Eisenstein'ın bu yapıtındaki tutumu, yöntemi, anlatımı ve biçemi nedeniyle Grev sinema tarihinde bir ilktir. Sinemanın Ekim'i dir. Avrupa-Amerikan sinemasının bilinen yöntemlerine ve felsefesine cepheden karşı çıkarak, öyküyü kaldırarak, yıldızları dışlayarak; yıldızların, başoyuncuların arka planında basit bir detay olarak yer alan hiçleri, önemsizleri, figüran olarak sunulanları topyekün \"başoyuncu\" haline getirerek, devrimin işlevini, yani \"ne işe yaradığını\" kendi sinema yönteminde anlatmıştır."
+  },
+  "poster": {
+    "tr": "/5Jo1sIJbuD9PfaS5dklj6LwxNxO.jpg",
+    "en": "/mrDTaMxQKxWZ3uEs2G58vJWJDDL.jpg"
+  },
+  "backdrops": [
+    "/bMvuciIEQKzgz0Xt7cwm2oR3nVR.jpg",
+    "/dVmZsXQusbpUdMxt5A317wINpVL.jpg",
+    "/uMdJ6pytAT65Fpi8VFJk4qs9UZt.jpg",
+    "/itb8olk1QcsldOsKSShDWItUEOj.jpg",
+    "/ymSwsliXsMToGkaw4xigbB10fiB.jpg",
+    "/rnFGfc7jEKhrWolWXt5bHNyYLG0.jpg",
+    "/pq7ZqiSSp1Gq52jtmhldmhjoliG.jpg",
+    "/pDEsc9H4aSQcqqGcYMjNhoqVzxG.jpg",
+    "/pFX8Q5H7hYXjgqpaN6SAqQ3Zdbp.jpg",
+    "/4dmUB3A8nG6GHAyf6IrYMHTxSs0.jpg"
+  ],
+  "trailerKey": "3UQMg3saU4Q",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    796,
+    4112,
+    5397,
+    8862,
+    41278,
+    154802,
+    158455,
+    159783,
+    164400,
+    186355,
+    214744,
+    226646,
+    236170,
+    246103,
+    247508,
+    257909,
+    261053,
+    265235,
+    269503,
+    279028,
+    285398,
+    296771,
+    298808,
+    310190,
+    314761,
+    321796,
+    332053,
+    344030
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Proletkult",
+    "Goskino"
+  ],
+  "crew": [
+    {
+      "personId": 213292,
+      "job": "writer"
+    },
+    {
+      "personId": 9603,
+      "job": "director"
+    },
+    {
+      "personId": 9607,
+      "job": "writer"
+    },
+    {
+      "personId": 9603,
+      "job": "writer"
+    },
+    {
+      "personId": 213293,
+      "job": "writer"
+    },
+    {
+      "personId": 9606,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1522402,
+      "job": "producer"
+    },
+    {
+      "personId": 1372102,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1189122,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 213294,
+      "character": "Police Spy",
+      "order": 0
+    },
+    {
+      "personId": 9607,
+      "character": "Factory Foreman",
+      "order": 1
+    },
+    {
+      "personId": 9727,
+      "character": "Worker",
+      "order": 2
+    },
+    {
+      "personId": 1600737,
+      "character": "Revolutionary",
+      "order": 3
+    },
+    {
+      "personId": 9609,
+      "character": "Member of Strike Committee",
+      "order": 4
+    },
+    {
+      "personId": 237489,
+      "character": "Worker",
+      "order": 5
+    },
+    {
+      "personId": 4010826,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 1600738,
+      "character": "Chief of Police",
+      "order": 7
+    },
+    {
+      "personId": 1600739,
+      "character": "Queen of Thieves",
+      "order": 8
+    },
+    {
+      "personId": 1600740,
+      "character": "Worker's wife",
+      "order": 9
+    },
+    {
+      "personId": 1600741,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1600742,
+      "character": "King of Thieves",
+      "order": 11
+    },
+    {
+      "personId": 1308319,
+      "character": "Worker (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 3934057,
+      "character": "Manufacturer",
+      "order": 13
+    },
+    {
+      "personId": 1721692,
+      "character": "",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 255,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

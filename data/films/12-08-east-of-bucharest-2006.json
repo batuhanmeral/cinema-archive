@@ -1,0 +1,171 @@
+{
+  "tmdbId": 24159,
+  "slug": "12-08-east-of-bucharest-2006",
+  "year": 2006,
+  "runtime": 89,
+  "originalTitle": "A fost sau n-a fost?",
+  "title": {
+    "en": "12:08 East of Bucharest",
+    "tr": "Bükreşin Doğusu"
+  },
+  "overview": {
+    "en": "It's the 22nd of December. Sixteen years have passed since the revolution, and in a small town Christmas is about to come. Piscoci, an old retired man is preparing for another Christmas alone. Manescu, the history teacher, tries to keep up with his debts. Jderescu, the owner of a local television post, seems not to be so interested in the upcoming holidays. For him, the time to face history has come. Along with Manescu and Piscoci, he is trying to answer for himself a question which for 16 years has not had an answer: \"Was it or wasn't it a revolution in their town?\"",
+    "tr": "Devrim gerçekten oldu mu? Peki olduysa, siz o sırada neredeydiniz? Corneliu Porumboiu’nun filmi Bükreş’in Doğusu; Romanya diktatörü Çavuşesku'nun, 22 Aralık 1989 günü saat 12.08'de Bükreş'ten kaçışının, devrimin üzerinden on altı yıl geçtikten sonra, bir televizyon programında yeniden masaya yatırılmasını konu alıyor. Programı hazırlayan aksi sunucu Jderescu’ya (Teodor Corban) ise ek iş olarak Noel Baba kılığına giren emekli Piscoci (Mircea Andreescu) ve maaşının tümünü içki borcuna yatıran tarih öğretmeni Manescu (Ion Sabdaru) eşlik ediyor... Bu tuhaf üçlü canlı yayındayken izleyicilerin de telefonla tartışmaya katılmalarıyla, devrim anıları ve bakış açıları birbirine giriyor. Bu harika durum komedisi tarihi, hafızayı ve bakış açılarını sorgularken gerçekliğin sınırlarını zorluyor. Devrim, kendi küçük kasabalarında da oldu mu, olmadı mı?"
+  },
+  "poster": {
+    "tr": "/a7bBUXKWzhtqaPDyksOebSHeD6N.jpg",
+    "en": "/a7bBUXKWzhtqaPDyksOebSHeD6N.jpg"
+  },
+  "backdrops": [
+    "/ttTmzzIeaOvYWouvg3iWJHEldF4.jpg",
+    "/2gonCzInkOgqT4rECXfd3SHuR7n.jpg",
+    "/4tqm1nUXmB6dBFfYZAiVHKydNiU.jpg",
+    "/bRNxIAWzRSICVjJnWXrqZbStJnS.jpg"
+  ],
+  "trailerKey": "AZ7MfFB14xo",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    209983
+  ],
+  "countries": [
+    "RO"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "42 Km Film"
+  ],
+  "crew": [
+    {
+      "personId": 109293,
+      "job": "director"
+    },
+    {
+      "personId": 109293,
+      "job": "writer"
+    },
+    {
+      "personId": 1637149,
+      "job": "composer"
+    },
+    {
+      "personId": 109293,
+      "job": "producer"
+    },
+    {
+      "personId": 931382,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 438968,
+      "character": "Emanoil Piscoci",
+      "order": 0
+    },
+    {
+      "personId": 479941,
+      "character": "Virgil Jderescu",
+      "order": 1
+    },
+    {
+      "personId": 85227,
+      "character": "Tiberiu Mănescu",
+      "order": 2
+    },
+    {
+      "personId": 429969,
+      "character": "Doamna Mănescu",
+      "order": 3
+    },
+    {
+      "personId": 39961,
+      "character": "Doamna Jderescu",
+      "order": 4
+    },
+    {
+      "personId": 1923767,
+      "character": "Vali",
+      "order": 5
+    },
+    {
+      "personId": 1899149,
+      "character": "Lică",
+      "order": 6
+    },
+    {
+      "personId": 1923768,
+      "character": "Vera",
+      "order": 7
+    },
+    {
+      "personId": 1923769,
+      "character": "Petrică",
+      "order": 8
+    },
+    {
+      "personId": 1255382,
+      "character": "Barman",
+      "order": 9
+    },
+    {
+      "personId": 1923770,
+      "character": "Chen",
+      "order": 10
+    },
+    {
+      "personId": 1017315,
+      "character": "Tibi",
+      "order": 11
+    },
+    {
+      "personId": 1426139,
+      "character": "Professor",
+      "order": 12
+    },
+    {
+      "personId": 1923771,
+      "character": "Vecin",
+      "order": 13
+    },
+    {
+      "personId": 1923772,
+      "character": "Maricica Dima (voice)",
+      "order": 14
+    },
+    {
+      "personId": 5319277,
+      "character": "Vasile Rebegea (voice)",
+      "order": 15
+    },
+    {
+      "personId": 5319281,
+      "character": "Ion Costăchescu (voice)",
+      "order": 16
+    },
+    {
+      "personId": 5319283,
+      "character": "Costică Bejan (voice)",
+      "order": 17
+    },
+    {
+      "personId": 5319284,
+      "character": "Gelu Isărescu (voice)",
+      "order": 18
+    },
+    {
+      "personId": 62510,
+      "character": "Tina (voice)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 128,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

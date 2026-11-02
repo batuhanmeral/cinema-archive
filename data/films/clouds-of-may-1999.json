@@ -1,0 +1,150 @@
+{
+  "tmdbId": 52072,
+  "slug": "clouds-of-may-1999",
+  "year": 1999,
+  "runtime": 130,
+  "originalTitle": "Mayıs Sıkıntısı",
+  "title": {
+    "en": "Clouds of May",
+    "tr": "Mayıs Sıkıntısı"
+  },
+  "overview": {
+    "en": "An aspiring filmmaker visits his parents and begins to devise a movie. Amidst creating and casting for the film, he encounters with family & friends who struggle with their own problems, dreams and life.",
+    "tr": "Yönetmenin kendi hayatından da parçalar taşıyan film, yurtdışını gezmiş ve başarılı bir yönetmen olmuş Muzaffer'in köye, baba evine dönmesi, akabinde çocukluğun saflığına yaptığı yolculuğu anlatıyor."
+  },
+  "poster": {
+    "tr": "/yA4jb7ANpmgmJYUuLWiKY9aUfvl.jpg",
+    "en": "/6cwYZo8NwyVxQ6r8ffwyXkZlMAh.jpg"
+  },
+  "backdrops": [
+    "/dpXNpZ0qqmU6NApl8j4XtwmjBM4.jpg",
+    "/1BM4DBnYLdaeo7ibjMwpbln6Ssi.jpg",
+    "/szbl5NB7HiiEGTJJNnJTSNaqaBp.jpg",
+    "/m3wk6Jyey0WrCgIVk5RFAh3W7ke.jpg",
+    "/djWtJYNs9YcLw4SgM6Jz77nITWT.jpg",
+    "/5H2hcSJSk24I4eInPp8g8VSK5Kw.jpg",
+    "/xBHFNsYHOKv08EW44yoxdHlFjFb.jpg",
+    "/ss4boUjP49qR06k7v3A8YUdWkaL.jpg",
+    "/k4VgUVHeOqP4zGGwAsJOtbx1wUA.jpg",
+    "/4yOIWAdFMr6mf3KXRUwOt0P0deM.jpg"
+  ],
+  "trailerKey": "k9ysLQfoQd0",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [
+    "NBC Film"
+  ],
+  "crew": [
+    {
+      "personId": 56214,
+      "job": "director"
+    },
+    {
+      "personId": 56214,
+      "job": "writer"
+    },
+    {
+      "personId": 56214,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4709045,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1397411,
+      "character": "Emin (as M. Emin Ceylan)",
+      "order": 0
+    },
+    {
+      "personId": 107521,
+      "character": "Muzaffer",
+      "order": 1
+    },
+    {
+      "personId": 1088663,
+      "character": "Fatma",
+      "order": 2
+    },
+    {
+      "personId": 107522,
+      "character": "Saffet (as M. Emin Toprak)",
+      "order": 3
+    },
+    {
+      "personId": 1397413,
+      "character": "Ali",
+      "order": 4
+    },
+    {
+      "personId": 4709275,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 4709045,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 4709276,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 4709277,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 3847633,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 4709280,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 4709283,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 4709285,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 4709286,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 4709288,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 4709291,
+      "character": "",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 83,
+  "sources": [
+    "movement:new-turkish-cinema"
+  ]
+}

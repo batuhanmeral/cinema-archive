@@ -1,0 +1,228 @@
+{
+  "tmdbId": 1791,
+  "slug": "the-piano-teacher-2001",
+  "year": 2001,
+  "runtime": 131,
+  "originalTitle": "La Pianiste",
+  "title": {
+    "en": "The Piano Teacher",
+    "tr": "Piyanist"
+  },
+  "overview": {
+    "en": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+    "tr": "Elfriede Jelinek'in Piyano Öğretmeni adlı romanından uyarlanan film, Viyana Müzik Konservatuarı'nda öğretim görevlisi olarak çalışan orta yaşlı bir kadın üzerine kurulu. Annesiyle aralarında sevgi ve nefret karışımı bir ilişki bulunan Erika Kohut adlı bu kadın, bir yandan saygı duyulan ve otoriter bir öğretmen görüntüsü çizerken diğer yandan karanlık arzuları ve müzik arasında ikilem yaşamaktadır. Viyana'nın kenar mahallelerindeki erotik gösterilere ve porno film gösteren sinemalara gidip gelen Erika, anlam katamadığı hayatında bir tür kendi kendini tüketme sürecine girmiştir. Kendine o denli yabancıdır ki bir sevgili edinememekte, geceleri parkta sevişen çiftleri gizlice seyretmekle tatmin olmaktadır. Kendisine karşı garip bir hayranlık ve tutku duyan erkek öğrencisiyle iletişim kurmasının ardından, görünüşteki hayatı ve bastırılmış arzuları arasındaki duvar yıkılmaya başlar."
+  },
+  "poster": {
+    "tr": "/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
+    "en": "/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg"
+  },
+  "backdrops": [
+    "/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+    "/eBy0DGx5PNfuV2p40l8nmUWMJhf.jpg",
+    "/4Dxv0qVcw5Z5ZFA66N2sF62CL4Z.jpg",
+    "/uoW2gaHL28IyCny0U4Kqh8vxV3M.jpg",
+    "/A9zrukef0Ey2sO1oms7fdpYyEuU.jpg",
+    "/607iR8Cl1JPVPCZ8e0swZMZmm2g.jpg",
+    "/wmlle0ywlLjxhpW5TmnsLrjoI3X.jpg",
+    "/rDzYWLTN9o1TvwOioL9j9seYEX0.jpg",
+    "/a50FsAfuo0upPov2I1TUCz7pAsh.jpg",
+    "/33i6mjLd7utBeeB4CV3dhAmWM2z.jpg"
+  ],
+  "trailerKey": "Z-frdy3mYHo",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    6029,
+    818,
+    2176,
+    2699,
+    1640,
+    3260,
+    4399,
+    3590,
+    10508,
+    9785,
+    9957,
+    11322,
+    14743,
+    15319,
+    18267,
+    18732,
+    33513,
+    156771,
+    157722,
+    157791,
+    157799,
+    157800,
+    158713,
+    164186,
+    178649,
+    207691,
+    210589,
+    222797,
+    233130,
+    240315,
+    266962,
+    272673,
+    273738,
+    282667,
+    301117,
+    307949,
+    325846
+  ],
+  "countries": [
+    "FR",
+    "AT",
+    "DE"
+  ],
+  "languages": [
+    "fr",
+    "de"
+  ],
+  "studios": [
+    "Wega Film",
+    "Les Films Alain Sarde",
+    "ARTE France Cinéma"
+  ],
+  "crew": [
+    {
+      "personId": 6011,
+      "job": "director"
+    },
+    {
+      "personId": 6011,
+      "job": "writer"
+    },
+    {
+      "personId": 6098,
+      "job": "producer"
+    },
+    {
+      "personId": 6027,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1134,
+      "job": "producer"
+    },
+    {
+      "personId": 3560,
+      "job": "producer"
+    },
+    {
+      "personId": 5460532,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 17882,
+      "character": "Erika Kohut",
+      "order": 0
+    },
+    {
+      "personId": 6014,
+      "character": "Erika's Mother",
+      "order": 1
+    },
+    {
+      "personId": 5442,
+      "character": "Walter Klemmer",
+      "order": 2
+    },
+    {
+      "personId": 19123,
+      "character": "Mme Schober",
+      "order": 3
+    },
+    {
+      "personId": 6264,
+      "character": "Dr. George Blonskij",
+      "order": 4
+    },
+    {
+      "personId": 19122,
+      "character": "Anna Schober",
+      "order": 5
+    },
+    {
+      "personId": 19124,
+      "character": "Mme Gerda Blonskij",
+      "order": 6
+    },
+    {
+      "personId": 1324138,
+      "character": "Baritone",
+      "order": 7
+    },
+    {
+      "personId": 40526,
+      "character": "L'homme en voiture",
+      "order": 8
+    },
+    {
+      "personId": 1324139,
+      "character": "Naprawnik",
+      "order": 9
+    },
+    {
+      "personId": 1103919,
+      "character": "Un professeur",
+      "order": 10
+    },
+    {
+      "personId": 1324140,
+      "character": "Le directeur",
+      "order": 11
+    },
+    {
+      "personId": 48103,
+      "character": "Un professeur",
+      "order": 12
+    },
+    {
+      "personId": 1324141,
+      "character": "Margot",
+      "order": 13
+    },
+    {
+      "personId": 141388,
+      "character": "Le professeur qui chante",
+      "order": 14
+    },
+    {
+      "personId": 1972852,
+      "character": "Teacher",
+      "order": 15
+    },
+    {
+      "personId": 1972853,
+      "character": "Teacher",
+      "order": 16
+    },
+    {
+      "personId": 1972854,
+      "character": "Teacher",
+      "order": 17
+    },
+    {
+      "personId": 1434515,
+      "character": "Teacher",
+      "order": 18
+    },
+    {
+      "personId": 146810,
+      "character": "Secretary",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cesar": 1
+  },
+  "voteCount": 1371,
+  "sources": [
+    "movement:new-french-extremity"
+  ]
+}

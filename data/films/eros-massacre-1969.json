@@ -1,0 +1,203 @@
+{
+  "tmdbId": 78117,
+  "slug": "eros-massacre-1969",
+  "year": 1969,
+  "runtime": 217,
+  "originalTitle": "エロス＋虐殺",
+  "title": {
+    "en": "Eros + Massacre",
+    "tr": "Eros + Massacre"
+  },
+  "overview": {
+    "en": "Two interwoven stories. The first is a biography of anarchist Sakae Osugi which follows his relationship with three women in the 1920s. The second centers around two 1960s students researching Osugi's theories.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/v8n58R9xGy6LXEV9LGuiRpTBe97.jpg",
+    "en": "/v8n58R9xGy6LXEV9LGuiRpTBe97.jpg"
+  },
+  "backdrops": [
+    "/zEPVHPVN72OMOAbngjDjkkPKQdJ.jpg",
+    "/6hVnDdOj6LldM7VqXnHffZIZMKs.jpg",
+    "/5fd2QbbTQOAfQToDmmug8Lm15SK.jpg",
+    "/uMww9ubIG3RKW49Wr81KQh0JQHx.jpg",
+    "/aAxag12KpZ97huE7ExHHyWLHNqZ.jpg",
+    "/pqy1R8BFb8bjrEJKzXlrdvntafm.jpg",
+    "/bvObo80IMXC7aghQDz0h3doYKuH.jpg",
+    "/aL4ANutNKBINS3JPEnZp3I1uE2c.jpg",
+    "/fbAzHQjhsluCUCyXAmxkqdShXBu.jpg",
+    "/m3S7YC0VFceCMDM1EUGXGxsudG4.jpg"
+  ],
+  "trailerKey": "NWVrSxivE1Y",
+  "genreIds": [
+    18,
+    10749,
+    36
+  ],
+  "keywordIds": [
+    233,
+    657,
+    6078,
+    3679,
+    490,
+    1523,
+    2020,
+    1925,
+    3521,
+    5879,
+    9673,
+    11718,
+    14534,
+    18249
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Gendai Eigasha"
+  ],
+  "crew": [
+    {
+      "personId": 110519,
+      "job": "director"
+    },
+    {
+      "personId": 110519,
+      "job": "writer"
+    },
+    {
+      "personId": 1136955,
+      "job": "writer"
+    },
+    {
+      "personId": 1199753,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1089018,
+      "job": "composer"
+    },
+    {
+      "personId": 1534807,
+      "job": "composer"
+    },
+    {
+      "personId": 5979442,
+      "job": "composer"
+    },
+    {
+      "personId": 5979443,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 108018,
+      "character": "Noe Ito / Mako Ito",
+      "order": 0
+    },
+    {
+      "personId": 150306,
+      "character": "Sakae Osugi",
+      "order": 1
+    },
+    {
+      "personId": 110303,
+      "character": "Itsuko Masaoka",
+      "order": 2
+    },
+    {
+      "personId": 81279,
+      "character": "Jun Tsuji",
+      "order": 3
+    },
+    {
+      "personId": 1093416,
+      "character": "Yasuko Hori",
+      "order": 4
+    },
+    {
+      "personId": 1705960,
+      "character": "Chiyoko",
+      "order": 5
+    },
+    {
+      "personId": 1305435,
+      "character": "Akiko Hiraga",
+      "order": 6
+    },
+    {
+      "personId": 2602368,
+      "character": "Toshihiko Sakai",
+      "order": 7
+    },
+    {
+      "personId": 2617393,
+      "character": "Hiroshi Okumura",
+      "order": 8
+    },
+    {
+      "personId": 12200,
+      "character": "Araya Kimura",
+      "order": 9
+    },
+    {
+      "personId": 2302095,
+      "character": "Eiko Sokutai",
+      "order": 10
+    },
+    {
+      "personId": 2617394,
+      "character": "Megumi Taroi",
+      "order": 11
+    },
+    {
+      "personId": 40452,
+      "character": "Kenji Wada",
+      "order": 12
+    },
+    {
+      "personId": 1354098,
+      "character": "Mitsuru Unema",
+      "order": 13
+    },
+    {
+      "personId": 1369125,
+      "character": "Masaji Tashiro",
+      "order": 14
+    },
+    {
+      "personId": 5238156,
+      "character": "Rickshaw Man",
+      "order": 15
+    },
+    {
+      "personId": 5238161,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 5238162,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 5238163,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 5238165,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 51,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

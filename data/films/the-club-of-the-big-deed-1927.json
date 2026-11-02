@@ -1,0 +1,139 @@
+{
+  "tmdbId": 189675,
+  "slug": "the-club-of-the-big-deed-1927",
+  "year": 1927,
+  "runtime": 96,
+  "originalTitle": "СВД - Союз великого дела",
+  "title": {
+    "en": "The Club of the Big Deed",
+    "tr": "The Club of the Big Deed"
+  },
+  "overview": {
+    "en": "Right before the Decembrist Revolt of 1825, a chevalier of fortune decides that it's time for a game. But on whom make a bet? He asks the cards. But he's not the only one who makes the choice.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/hLlWKmfdv0nJymV1hOtVA9vjY0u.jpg",
+    "en": "/hLlWKmfdv0nJymV1hOtVA9vjY0u.jpg"
+  },
+  "backdrops": [
+    "/9Zgen66OfleSp5RIBuXPTMYTuwO.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    224427
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [
+    "ru"
+  ],
+  "studios": [
+    "Sovkino",
+    "Lenfilm"
+  ],
+  "crew": [
+    {
+      "personId": 2872949,
+      "job": "writer"
+    },
+    {
+      "personId": 1869231,
+      "job": "writer"
+    },
+    {
+      "personId": 1391349,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 562326,
+      "job": "director"
+    },
+    {
+      "personId": 1037667,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1337144,
+      "character": "Lieutenant Sukhanov",
+      "order": 0
+    },
+    {
+      "personId": 624719,
+      "character": "Medoks, opportunist",
+      "order": 1
+    },
+    {
+      "personId": 1086000,
+      "character": "Young hussar",
+      "order": 2
+    },
+    {
+      "personId": 128297,
+      "character": "Circus actress",
+      "order": 3
+    },
+    {
+      "personId": 1869238,
+      "character": "Medoks's servant",
+      "order": 4
+    },
+    {
+      "personId": 1075591,
+      "character": "Vishnevskiy's wife",
+      "order": 5
+    },
+    {
+      "personId": 1461090,
+      "character": "Circus owner",
+      "order": 6
+    },
+    {
+      "personId": 1348116,
+      "character": "General Vishnevskiy",
+      "order": 7
+    },
+    {
+      "personId": 5512958,
+      "character": "General Veysmar",
+      "order": 8
+    },
+    {
+      "personId": 1386803,
+      "character": "Officer",
+      "order": 9
+    },
+    {
+      "personId": 1540569,
+      "character": "Gambler (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 1611265,
+      "character": "Boy with apples",
+      "order": 11
+    },
+    {
+      "personId": 1387663,
+      "character": "Lady at the gambling house",
+      "order": 12
+    },
+    {
+      "personId": 5231258,
+      "character": "(uncredited)",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 11,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "tmdbId": 131862,
+  "slug": "under-the-pavement-lies-the-strand-1975",
+  "year": 1975,
+  "runtime": 99,
+  "originalTitle": "Unter dem Pflaster ist der Strand",
+  "title": {
+    "en": "Under the Pavement Lies the Strand",
+    "tr": "Unter dem Pflaster ist der Strand"
+  },
+  "overview": {
+    "en": "West Berlin, 1974. The revolution didn't happen like it was supposed. Grischa, a 30-year-old actress dissatisfied with standard left-wing politics, interviews working women to find out how they deal with being both mothers and members of society.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/iSC8WorsbfmsOfnl2vcI6nwyrHL.jpg",
+    "en": "/iSC8WorsbfmsOfnl2vcI6nwyrHL.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    187056
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Helma Sanders-Brahms Filmproduktion"
+  ],
+  "crew": [
+    {
+      "personId": 1093752,
+      "job": "producer"
+    },
+    {
+      "personId": 56203,
+      "job": "producer"
+    },
+    {
+      "personId": 56203,
+      "job": "director"
+    },
+    {
+      "personId": 20553,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1093757,
+      "job": "writer"
+    },
+    {
+      "personId": 56203,
+      "job": "writer"
+    },
+    {
+      "personId": 4925,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1093757,
+      "character": "Grischa",
+      "order": 0
+    },
+    {
+      "personId": 4925,
+      "character": "Heinrich",
+      "order": 1
+    },
+    {
+      "personId": 1093758,
+      "character": "Berlin woman",
+      "order": 2
+    },
+    {
+      "personId": 1093759,
+      "character": "Berlin woman",
+      "order": 3
+    },
+    {
+      "personId": 1093760,
+      "character": "Berlin woman",
+      "order": 4
+    },
+    {
+      "personId": 1093761,
+      "character": "Berlin woman",
+      "order": 5
+    },
+    {
+      "personId": 5233,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 1488309,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 56203,
+      "character": "Narrator (voice)",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 5,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

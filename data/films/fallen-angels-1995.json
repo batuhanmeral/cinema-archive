@@ -1,0 +1,198 @@
+{
+  "tmdbId": 11220,
+  "slug": "fallen-angels-1995",
+  "year": 1995,
+  "runtime": 98,
+  "originalTitle": "墮落天使",
+  "title": {
+    "en": "Fallen Angels",
+    "tr": "Düşkün Melekler"
+  },
+  "overview": {
+    "en": "An indifferent hitman, his infatuated business partner and an ex-convict search for love and meaning as their lives cross paths in Hong Kong.",
+    "tr": "Katil, ajan için çalışmaya başlayalı yüz elli beş gün olmuştur. Hayatını kazanmak için adam öldüren katil, tam bir profesyoneldir. Bu duygular, onun işlerini düzenleyen, iş bittikten sonra temizliği yapan ve onun nerede olduğu, ne yaptığı, nasıl yaşadığı konusunda biraz saplantılı görünen ajana yöneliktir. Genç kadın, katile olan zaafıyla mücadele etmiştir ancak şans ya da şansızlık eseri ikisi bir türlü bir araya gelememiştir."
+  },
+  "poster": {
+    "tr": "/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg",
+    "en": "/yyM9BPdwttK5LKZSLvHae7QPKo1.jpg"
+  },
+  "backdrops": [
+    "/v4FepSc09TsRy2fQtUg6vvzrTq0.jpg",
+    "/2j9hKUQMEUDrfNUwLrVmy6DKUEd.jpg",
+    "/9rAcvGdJgDS1MwAvGa4idsV47Lg.jpg",
+    "/lInQVVbPjKFGX7GDcxNMXALy2Y4.jpg",
+    "/uPc5yPNmEZmDg21WOWk4deYzK2L.jpg",
+    "/caTWaNaPdRv18HCfxVBRYR9uyhJ.jpg",
+    "/vX784AqjFn9fM6MQ8rl8zT6926q.jpg",
+    "/51sEOWfbywAvRLNh4GFs1HOVMWy.jpg",
+    "/9pKwSbMk7W8WR5d4oAVog3dWNg0.jpg",
+    "/eld3iyH3tdC4DkUGlpNXoLU18cK.jpg"
+  ],
+  "trailerKey": "uxaT19BlH0M",
+  "genreIds": [
+    28,
+    10749,
+    80
+  ],
+  "keywordIds": [
+    782,
+    2708,
+    395,
+    3170,
+    3307,
+    4552,
+    9673,
+    12354,
+    13017,
+    14677,
+    15127,
+    33451,
+    34262,
+    177317
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "ja",
+    "cn",
+    "en",
+    "zh"
+  ],
+  "studios": [
+    "Jet Tone Production"
+  ],
+  "crew": [
+    {
+      "personId": 12453,
+      "job": "writer"
+    },
+    {
+      "personId": 68029,
+      "job": "composer"
+    },
+    {
+      "personId": 57617,
+      "job": "producer"
+    },
+    {
+      "personId": 1357,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12453,
+      "job": "director"
+    },
+    {
+      "personId": 1011224,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 66761,
+      "character": "Wong Chi-Ming",
+      "order": 0
+    },
+    {
+      "personId": 56816,
+      "character": "Killer's Agent",
+      "order": 1
+    },
+    {
+      "personId": 43661,
+      "character": "He Zhiwu",
+      "order": 2
+    },
+    {
+      "personId": 66762,
+      "character": "Charlie",
+      "order": 3
+    },
+    {
+      "personId": 57831,
+      "character": "Blondie",
+      "order": 4
+    },
+    {
+      "personId": 12464,
+      "character": "Wu's Father",
+      "order": 5
+    },
+    {
+      "personId": 1619797,
+      "character": "Sato",
+      "order": 6
+    },
+    {
+      "personId": 1191766,
+      "character": "Ah Hoi",
+      "order": 7
+    },
+    {
+      "personId": 999460,
+      "character": "Man Forced to Eat Ice-cream",
+      "order": 8
+    },
+    {
+      "personId": 119877,
+      "character": "Woman Pressed to Buy Vegetables",
+      "order": 9
+    },
+    {
+      "personId": 1619798,
+      "character": "Man Forced to Have His Clothes Washed",
+      "order": 10
+    },
+    {
+      "personId": 87950,
+      "character": "Victim",
+      "order": 11
+    },
+    {
+      "personId": 1509169,
+      "character": "Victim",
+      "order": 12
+    },
+    {
+      "personId": 2053757,
+      "character": "Tenant",
+      "order": 13
+    },
+    {
+      "personId": 1361018,
+      "character": "Rascal",
+      "order": 14
+    },
+    {
+      "personId": 552376,
+      "character": "Rascal",
+      "order": 15
+    },
+    {
+      "personId": 1358224,
+      "character": "Hitman",
+      "order": 16
+    },
+    {
+      "personId": 3408495,
+      "character": "Hitman",
+      "order": 17
+    },
+    {
+      "personId": 2752723,
+      "character": "Hitman",
+      "order": 18
+    },
+    {
+      "personId": 1631705,
+      "character": "Hitman",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1412,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "tmdbId": 171295,
+  "slug": "something-different-1963",
+  "year": 1963,
+  "runtime": 85,
+  "originalTitle": "O něčem jiném",
+  "title": {
+    "en": "Something Different",
+    "tr": "O něčem jiném"
+  },
+  "overview": {
+    "en": "In her first feature, Věra Chytilová uses a combination of documentary and fiction film techniques to tell two stories in counterpoint. The first follows Olympic champion gymnast Eva Bosáková, who contemplates retirement as she undergoes a gruelling training schedule; the second, a housewife who is unappreciated and ignored by her husband.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/nBKohra6KzHXo4Bxi83amaOrxPT.jpg",
+    "en": "/v4kINgu5GN5elK4qtbI93wNetsD.jpg"
+  },
+  "backdrops": [
+    "/ce2PN6CtcPlF7hz3hnmGeMRvjSw.jpg",
+    "/pxq2FjPLf3ijH7RoSoiCLwp197x.jpg",
+    "/corU1540FlQ9dJp2KAwBD9agJQu.jpg",
+    "/g3ZEATrnn0bU2PF6qwqKmRYv5Eb.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    187056,
+    224322
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "Filmové studio Barrandov"
+  ],
+  "crew": [
+    {
+      "personId": 124137,
+      "job": "writer"
+    },
+    {
+      "personId": 124137,
+      "job": "director"
+    },
+    {
+      "personId": 227134,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1136794,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1333454,
+      "character": "Věra",
+      "order": 0
+    },
+    {
+      "personId": 1192438,
+      "character": "Josef",
+      "order": 1
+    },
+    {
+      "personId": 138551,
+      "character": "Jirka",
+      "order": 2
+    },
+    {
+      "personId": 1862306,
+      "character": "Milda",
+      "order": 3
+    },
+    {
+      "personId": 1862305,
+      "character": "Trainer",
+      "order": 4
+    },
+    {
+      "personId": 1941392,
+      "character": "Trainer",
+      "order": 5
+    },
+    {
+      "personId": 1862302,
+      "character": "Eva's Husband",
+      "order": 6
+    },
+    {
+      "personId": 1862301,
+      "character": "Eva",
+      "order": 7
+    },
+    {
+      "personId": 1862303,
+      "character": "Dada",
+      "order": 8
+    },
+    {
+      "personId": 3430222,
+      "character": "Dada's Husband",
+      "order": 9
+    },
+    {
+      "personId": 3470118,
+      "character": "Journalist",
+      "order": 10
+    },
+    {
+      "personId": 3470119,
+      "character": "Pianist (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1560790,
+      "character": "Gymnast (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 55734,
+      "character": "František Filipovský (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 3470122,
+      "character": "Cameraman (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 3422165,
+      "character": "Saleswoman (uncredited)",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 30,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

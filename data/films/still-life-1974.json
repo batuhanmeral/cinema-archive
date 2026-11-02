@@ -1,0 +1,142 @@
+{
+  "tmdbId": 213592,
+  "slug": "still-life-1974",
+  "year": 1974,
+  "runtime": 90,
+  "originalTitle": "طبیعت بی‌جان",
+  "title": {
+    "en": "Still Life",
+    "tr": "Still Life"
+  },
+  "overview": {
+    "en": "A railway crossing guard and his wife live in a routine of total isolation and uneventfulness.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/iEXQDugjJzEUYyrf4RMYz2mxbxj.jpg",
+    "en": "/iEXQDugjJzEUYyrf4RMYz2mxbxj.jpg"
+  },
+  "backdrops": [
+    "/wsaEt7XtlQucK8SC5Aet75xvIJT.jpg",
+    "/tcSu8lmyv2JUKO2TZSQyRYTweTf.jpg"
+  ],
+  "trailerKey": "_utFbi1eSjM",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    7368,
+    15216,
+    193326,
+    193327
+  ],
+  "countries": [
+    "IR"
+  ],
+  "languages": [
+    "fa"
+  ],
+  "studios": [
+    "New Film Group and Telefilm"
+  ],
+  "crew": [
+    {
+      "personId": 110611,
+      "job": "producer"
+    },
+    {
+      "personId": 1198165,
+      "job": "director"
+    },
+    {
+      "personId": 1174329,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1198165,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1198168,
+      "character": "Mohamad Sardari",
+      "order": 0
+    },
+    {
+      "personId": 1198172,
+      "character": "The Old Man's Wife",
+      "order": 1
+    },
+    {
+      "personId": 1198170,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 4625197,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 2506722,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 4625198,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 4625199,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 4625200,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1198169,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 4625202,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 4625203,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 4625205,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 4625206,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 2580313,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1198171,
+      "character": "",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 28,
+  "sources": [
+    "movement:iranian-new-wave"
+  ]
+}

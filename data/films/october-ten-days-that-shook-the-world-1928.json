@@ -1,0 +1,138 @@
+{
+  "tmdbId": 697,
+  "slug": "october-ten-days-that-shook-the-world-1928",
+  "year": 1928,
+  "runtime": 115,
+  "originalTitle": "Октябрь",
+  "title": {
+    "en": "October (Ten Days that Shook the World)",
+    "tr": "Ekim"
+  },
+  "overview": {
+    "en": "As the Russian monarchy crumbles, conflicts at Petrograd intensify, with Soviet hero V.I. Lenin leading the rebellion that overthrows the tsar's Winter Palace.",
+    "tr": "Dünyayı Sarsan On Gün, tüm yönleriyle Sovyet Devrimi'nin canlı tanıklığını yapan bir sarsıcı bir yapımdır. Gerçek tanıklar ve görüntülerle, Rus tarihinin Çarlık despotizminden Bolşevik Devrimi'ne doğru akan zaman dilimindeki tüm evreleri ve olayları anlatılmaktadır. Filmde, Çarlığın baskı ve zorbalığı, halkın durumu, saray entrikaları, Rasputin, Kanlı Pazar, sosyal-demokratların tarihsel işlevi, Menşevikler ve Kerenski, Lenin ve teorisi ve işçi sınıfı artı Bolşevik Partisi, eşittir devrim denklemi yer almaktadır."
+  },
+  "poster": {
+    "tr": "/tsfz9Ak1slSnxr6mSmRD3Wj7YZS.jpg",
+    "en": "/tsfz9Ak1slSnxr6mSmRD3Wj7YZS.jpg"
+  },
+  "backdrops": [
+    "/lcFVMnRPEVpvRDpXlxGfpuz0ik3.jpg",
+    "/quCVnWjPoFfxsHL0vQTewwPLhxa.jpg",
+    "/2KehqhJd1dK0SwScrMgaf5Mzk9z.jpg",
+    "/wvR61wY0SC3E95TFTzv45DCyow4.jpg",
+    "/cJh787wOfTYUQg356nArTpqUdn1.jpg",
+    "/AqN9wIGXKTGwjfdWmum80BvNsLD.jpg",
+    "/yGhsF9wtTrqAUHOfTalt2KVhBRi.jpg",
+    "/uqGIl57BiaqvoHICAUkDmxeGJ2f.jpg",
+    "/tcqTW75Awq9JVg4xz9QJkwmWncv.jpg",
+    "/eWgTsNPqqOOA5vc6ptgHYjWRwrn.jpg"
+  ],
+  "trailerKey": "tqwLwEhUtrE",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    6086,
+    6285,
+    3462,
+    2471,
+    154802,
+    158620,
+    224427
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Sovkino"
+  ],
+  "crew": [
+    {
+      "personId": 9607,
+      "job": "writer"
+    },
+    {
+      "personId": 9603,
+      "job": "writer"
+    },
+    {
+      "personId": 2793,
+      "job": "composer"
+    },
+    {
+      "personId": 9606,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9603,
+      "job": "director"
+    },
+    {
+      "personId": 9607,
+      "job": "director"
+    },
+    {
+      "personId": 957523,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 9605,
+      "character": "Aleksandr Kerensky",
+      "order": 0
+    },
+    {
+      "personId": 10453,
+      "character": "Lenin",
+      "order": 1
+    },
+    {
+      "personId": 10454,
+      "character": "Konovalov",
+      "order": 2
+    },
+    {
+      "personId": 10455,
+      "character": "Minister Terestsenko",
+      "order": 3
+    },
+    {
+      "personId": 10456,
+      "character": "Kishkin",
+      "order": 4
+    },
+    {
+      "personId": 1899299,
+      "character": "Skobolev",
+      "order": 5
+    },
+    {
+      "personId": 1899300,
+      "character": "Bolshevik",
+      "order": 6
+    },
+    {
+      "personId": 1899301,
+      "character": "Verderevsky",
+      "order": 7
+    },
+    {
+      "personId": 9606,
+      "character": "German Soldier",
+      "order": 8
+    },
+    {
+      "personId": 5929074,
+      "character": "Kerenskiy",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 231,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "tmdbId": 136727,
+  "slug": "of-snails-and-men-2012",
+  "year": 2012,
+  "runtime": 95,
+  "originalTitle": "Despre oameni şi melci",
+  "title": {
+    "en": "Of Snails and Men",
+    "tr": "Despre oameni şi melci"
+  },
+  "overview": {
+    "en": "One worker in a bankrupt factory finds an unusual solution to save his co-workers from unemployment. If it doesn't work the factory will be privatized and sold to a French company planning to convert the plant into a snail cannery. Only 300 of the 3000 workers will keep their jobs.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qApYDHXv6s84Z5xutBPhQNCTJgl.jpg",
+    "en": "/qApYDHXv6s84Z5xutBPhQNCTJgl.jpg"
+  },
+  "backdrops": [
+    "/5wnoob7GtS6jiplzK0fYo8g9KXG.jpg",
+    "/jyQpADgNwZKtJ4aIoUNt9lohbsE.jpg",
+    "/clEuuEh5IFV3bKPKz7eZn62Ipzy.jpg"
+  ],
+  "trailerKey": "5JkJeQEaZjU",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [],
+  "countries": [
+    "RO",
+    "FR"
+  ],
+  "languages": [
+    "fr",
+    "ro",
+    "es"
+  ],
+  "studios": [
+    "Libra Film",
+    "Agat Films & Cie / Ex Nihilo"
+  ],
+  "crew": [
+    {
+      "personId": 1030521,
+      "job": "director"
+    },
+    {
+      "personId": 1114503,
+      "job": "producer"
+    },
+    {
+      "personId": 49668,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1114504,
+      "job": "writer"
+    },
+    {
+      "personId": 991466,
+      "job": "producer"
+    },
+    {
+      "personId": 1030521,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 85230,
+      "character": "George",
+      "order": 0
+    },
+    {
+      "personId": 145242,
+      "character": "Manuela",
+      "order": 1
+    },
+    {
+      "personId": 592234,
+      "character": "Nicodim",
+      "order": 2
+    },
+    {
+      "personId": 1114501,
+      "character": "Ana",
+      "order": 3
+    },
+    {
+      "personId": 49679,
+      "character": "Vladimir",
+      "order": 4
+    },
+    {
+      "personId": 1114502,
+      "character": "Tatiana",
+      "order": 5
+    },
+    {
+      "personId": 6304,
+      "character": "Robert",
+      "order": 6
+    },
+    {
+      "personId": 97084,
+      "character": "Olivier",
+      "order": 7
+    },
+    {
+      "personId": 1151789,
+      "character": "Ion",
+      "order": 8
+    },
+    {
+      "personId": 137753,
+      "character": "Carmen",
+      "order": 9
+    },
+    {
+      "personId": 2506809,
+      "character": "Viorel",
+      "order": 10
+    },
+    {
+      "personId": 1816190,
+      "character": "Mirel",
+      "order": 11
+    },
+    {
+      "personId": 2080405,
+      "character": "Manuela's Mother",
+      "order": 12
+    },
+    {
+      "personId": 129656,
+      "character": "Dr. Gina Filip",
+      "order": 13
+    },
+    {
+      "personId": 1178619,
+      "character": "Alin",
+      "order": 14
+    },
+    {
+      "personId": 1396207,
+      "character": "Sebi",
+      "order": 15
+    },
+    {
+      "personId": 1017308,
+      "character": "Giani",
+      "order": 16
+    },
+    {
+      "personId": 2506813,
+      "character": "Cătălin",
+      "order": 17
+    },
+    {
+      "personId": 1412698,
+      "character": "Emy",
+      "order": 18
+    },
+    {
+      "personId": 1451504,
+      "character": "Ciprian",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 29,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

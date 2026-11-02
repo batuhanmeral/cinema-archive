@@ -1,0 +1,201 @@
+{
+  "tmdbId": 393519,
+  "slug": "raw-2017",
+  "year": 2017,
+  "runtime": 99,
+  "originalTitle": "Grave",
+  "title": {
+    "en": "Raw",
+    "tr": "Çiğ"
+  },
+  "overview": {
+    "en": "Stringent vegetarian Justine encounters a decadent, merciless, and dangerously seductive world during her first week at veterinary school. Desperate to fit in, she strays from her principles and eats raw meat for the first time. She soon experiences terrible and unexpected consequences as her true self begins to emerge.",
+    "tr": "Justine’in tüm ailesi veterinerlikle uğraşmaktadır ve hepsi vejetaryendir. Kendisi de 16 yaşında umut vaat eden parlak bir öğrencidir. Veterinerlik okuluna başladığında acımasız ve aşırı çekici bir dünyayla tanışır. İlk bir kaç hafta içinde aile prensiplerinden sapmak zorunda kalır ve çaresizce çiğ etin tadına bakar. Justine yakında davranışlarının beklenmedik ve berbat sonuçlarıyla yüzleşecektir ve gerçek benliği ortaya çıkacaktır."
+  },
+  "poster": {
+    "tr": "/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg",
+    "en": "/kc8jT1MAiKM0iwdjAwC5lQrTNry.jpg"
+  },
+  "backdrops": [
+    "/uIemwfHFSVc6SkWxHx4f16hewUa.jpg",
+    "/46GikxYW84dRh71sWVY0eRQiHLX.jpg",
+    "/qV1pUZAEdfX3sDb8jnkCjRQhXHG.jpg",
+    "/zwQMo2wkIdDGpLSZRtlh2NFy8v2.jpg",
+    "/zsZuywzNQo3sIfNeVJUUymzLPxy.jpg",
+    "/yCJTT6bqfGL1aHvIjJVQPS2HoCI.jpg",
+    "/xQdj8UFidkc9N51VhpXGkM86Ymx.jpg",
+    "/dIsOYItcuVOqkGnY30NxEoDRiXE.jpg",
+    "/dE7zKinXqMDWCF4h7mlwL3ZmkGG.jpg",
+    "/7ZHnndBBRXnzCIIgjGe7sekvO5E.jpg"
+  ],
+  "trailerKey": "cdDZpQGsM5U",
+  "genreIds": [
+    27,
+    18
+  ],
+  "keywordIds": [
+    4459,
+    8271,
+    10079,
+    13160,
+    14895,
+    158718,
+    178444,
+    187056,
+    196944,
+    241738,
+    278235,
+    283085,
+    293649
+  ],
+  "countries": [
+    "BE",
+    "FR",
+    "US"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Wild Bunch",
+    "Rouge International",
+    "BeTV"
+  ],
+  "crew": [
+    {
+      "personId": 1392433,
+      "job": "director"
+    },
+    {
+      "personId": 1392433,
+      "job": "writer"
+    },
+    {
+      "personId": 1057377,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1618051,
+      "job": "producer"
+    },
+    {
+      "personId": 150547,
+      "job": "composer"
+    },
+    {
+      "personId": 37628,
+      "job": "producer"
+    },
+    {
+      "personId": 1438822,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1144473,
+      "character": "Justine",
+      "order": 0
+    },
+    {
+      "personId": 1438688,
+      "character": "Alexia",
+      "order": 1
+    },
+    {
+      "personId": 69197,
+      "character": "Adrien",
+      "order": 2
+    },
+    {
+      "personId": 18178,
+      "character": "Father",
+      "order": 3
+    },
+    {
+      "personId": 23392,
+      "character": "Mother",
+      "order": 4
+    },
+    {
+      "personId": 47822,
+      "character": "Truck Driver",
+      "order": 5
+    },
+    {
+      "personId": 24560,
+      "character": "Nurse",
+      "order": 6
+    },
+    {
+      "personId": 1638614,
+      "character": "BDE Chef",
+      "order": 7
+    },
+    {
+      "personId": 1770568,
+      "character": "Haze Refectory",
+      "order": 8
+    },
+    {
+      "personId": 1487313,
+      "character": "Professor Evaluations",
+      "order": 9
+    },
+    {
+      "personId": 1478179,
+      "character": "Hooded Veteran",
+      "order": 10
+    },
+    {
+      "personId": 238953,
+      "character": "Haze Corridor",
+      "order": 11
+    },
+    {
+      "personId": 1861129,
+      "character": "Corridor Veteran",
+      "order": 12
+    },
+    {
+      "personId": 1727007,
+      "character": "Haze Refectory",
+      "order": 13
+    },
+    {
+      "personId": 2575627,
+      "character": "Haze Toilet",
+      "order": 14
+    },
+    {
+      "personId": 1187236,
+      "character": "Haze Painting",
+      "order": 15
+    },
+    {
+      "personId": 1822307,
+      "character": "Barman fête CHU",
+      "order": 16
+    },
+    {
+      "personId": 1600510,
+      "character": "CHU Party Student",
+      "order": 17
+    },
+    {
+      "personId": 1133677,
+      "character": "Student Video Party CHU Morgue",
+      "order": 18
+    },
+    {
+      "personId": 1861143,
+      "character": "Haze Amphitheater",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 3526,
+  "sources": [
+    "movement:new-french-extremity"
+  ]
+}

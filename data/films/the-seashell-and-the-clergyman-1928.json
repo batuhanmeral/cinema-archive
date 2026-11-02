@@ -1,0 +1,94 @@
+{
+  "tmdbId": 118014,
+  "slug": "the-seashell-and-the-clergyman-1928",
+  "year": 1928,
+  "runtime": 41,
+  "originalTitle": "La Coquille et le Clergyman",
+  "title": {
+    "en": "The Seashell and the Clergyman",
+    "tr": "La Coquille et le Clergyman"
+  },
+  "overview": {
+    "en": "Obsessed with a general's wife, a clergyman has strange visions of death and lust, struggling against his own eroticism.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/k5NKxt5XH6rEizJWlHsK0WFLOjg.jpg",
+    "en": "/ck4PMfv136PvzEYHRFTDZGlFZW4.jpg"
+  },
+  "backdrops": [
+    "/bNhLpSZVMjjmnK4GmSjYrlXlBdi.jpg",
+    "/2I5BDH0nKrD3zvbQgOP7LiuSTeV.jpg",
+    "/yziZ5Jk4dvN2ZLWb4MADpM6GjLC.jpg",
+    "/9slCG3aSrt9jIJnh180a8drHyLQ.jpg",
+    "/nG1dbQLYsGFtmKLDFlOzWq0B4qd.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    14
+  ],
+  "keywordIds": [
+    459,
+    2039,
+    9887,
+    14794,
+    15216,
+    154802,
+    172391,
+    187056,
+    252194,
+    293336
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [],
+  "studios": [
+    "Délia Film"
+  ],
+  "crew": [
+    {
+      "personId": 997694,
+      "job": "director"
+    },
+    {
+      "personId": 11595,
+      "job": "writer"
+    },
+    {
+      "personId": 1043393,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 997694,
+      "job": "producer"
+    },
+    {
+      "personId": 997694,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1121250,
+      "character": "The Clergyman",
+      "order": 0
+    },
+    {
+      "personId": 1121251,
+      "character": "The Officer",
+      "order": 1
+    },
+    {
+      "personId": 544284,
+      "character": "The Woman",
+      "order": 2
+    }
+  ],
+  "awards": {},
+  "voteCount": 75,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

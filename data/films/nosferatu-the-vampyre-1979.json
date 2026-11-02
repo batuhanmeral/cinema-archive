@@ -1,0 +1,224 @@
+{
+  "tmdbId": 6404,
+  "slug": "nosferatu-the-vampyre-1979",
+  "year": 1979,
+  "runtime": 107,
+  "originalTitle": "Nosferatu – Phantom der Nacht",
+  "title": {
+    "en": "Nosferatu the Vampyre",
+    "tr": "Vampir Nosferatu"
+  },
+  "overview": {
+    "en": "A real estate agent leaves behind his beautiful wife to go to Transylvania to visit the mysterious Count Dracula and formalize the purchase of a property in Wismar.",
+    "tr": "Bir emlak satışı için Transilvanya'ya gönderilen Jonathan Harker'ın bu yeni müşterisi bir vampirdir. İnsan kanıyla beslenen bu hortlak ölümsüzdür ve tek isteği huzura kavuşmaktır. Ancak Harker'ın karısının fotoğrafını görünce fikrini değiştirir ve gemiyle Almanya'ya doğru yola çıkar ama beraberinde felaketi de getirecektir."
+  },
+  "poster": {
+    "tr": "/jHKzGYwf7P34vz8MhJBTN6cnaYD.jpg",
+    "en": "/jHKzGYwf7P34vz8MhJBTN6cnaYD.jpg"
+  },
+  "backdrops": [
+    "/ugDZGeweSN9EH8XrLaBHLm5AxuA.jpg",
+    "/uHudMff1vp2GDXqHD8QOA78QpNW.jpg",
+    "/wDuWnm8Zi7SVNCL6BbRQvqyCxCN.jpg",
+    "/k5KGAk8A3xT6e8FAdZvYtFTuWJb.jpg",
+    "/cSEOGRhd4WAu0Ph3XsvQGhup9Rz.jpg",
+    "/h3wvrOtDI8saCxNAgadiZOSG0Rg.jpg",
+    "/7dTjpvzcAdkRMVQx13OXTTb1Wme.jpg",
+    "/dwoDe0o7vChEg1KlCtOZ9cPyfsT.jpg",
+    "/kszfkIJJKY96hFbUTr5wjZzlvzG.jpg",
+    "/edt5Gz6p7XnWyKkEjbQNQbhcaLq.jpg"
+  ],
+  "trailerKey": "fnJqLNGBAPc",
+  "genreIds": [
+    18,
+    27
+  ],
+  "keywordIds": [
+    1415,
+    3799,
+    818,
+    272,
+    3133,
+    4197,
+    1909,
+    3501,
+    3098,
+    6095,
+    4232,
+    9714,
+    13001,
+    13005,
+    15032,
+    33505,
+    188959,
+    212634,
+    221882,
+    242789,
+    244516,
+    261274
+  ],
+  "countries": [
+    "DE",
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "pl",
+    "ro",
+    "de"
+  ],
+  "studios": [
+    "Werner Herzog Filmproduktion",
+    "Gaumont",
+    "ZDF"
+  ],
+  "crew": [
+    {
+      "personId": 6818,
+      "job": "director"
+    },
+    {
+      "personId": 49496,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 49501,
+      "job": "composer"
+    },
+    {
+      "personId": 49502,
+      "job": "composer"
+    },
+    {
+      "personId": 6818,
+      "job": "producer"
+    },
+    {
+      "personId": 12116,
+      "job": "producer"
+    },
+    {
+      "personId": 23508,
+      "job": "producer"
+    },
+    {
+      "personId": 71473,
+      "job": "composer"
+    },
+    {
+      "personId": 20552,
+      "job": "composer"
+    },
+    {
+      "personId": 6818,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14277,
+      "character": "Count Dracula",
+      "order": 0
+    },
+    {
+      "personId": 6553,
+      "character": "Lucy Harker",
+      "order": 1
+    },
+    {
+      "personId": 2310,
+      "character": "Jonathan Harker",
+      "order": 2
+    },
+    {
+      "personId": 49505,
+      "character": "Renfield",
+      "order": 3
+    },
+    {
+      "personId": 49506,
+      "character": "Dr. Van Helsing",
+      "order": 4
+    },
+    {
+      "personId": 12768,
+      "character": "Warden",
+      "order": 5
+    },
+    {
+      "personId": 24195,
+      "character": "Harbormaster",
+      "order": 6
+    },
+    {
+      "personId": 49507,
+      "character": "Schrader",
+      "order": 7
+    },
+    {
+      "personId": 49508,
+      "character": "Mina",
+      "order": 8
+    },
+    {
+      "personId": 9134,
+      "character": "Town Official",
+      "order": 9
+    },
+    {
+      "personId": 49509,
+      "character": "Clerk",
+      "order": 10
+    },
+    {
+      "personId": 49510,
+      "character": "Councilman",
+      "order": 11
+    },
+    {
+      "personId": 211077,
+      "character": "Coachman",
+      "order": 12
+    },
+    {
+      "personId": 49513,
+      "character": "Maiden",
+      "order": 13
+    },
+    {
+      "personId": 49514,
+      "character": "Pallbearer",
+      "order": 14
+    },
+    {
+      "personId": 538228,
+      "character": "Captain",
+      "order": 15
+    },
+    {
+      "personId": 1511724,
+      "character": "Abbess (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 49517,
+      "character": "Coachman (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 49520,
+      "character": "Coachman (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 49518,
+      "character": "Crier (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 1151,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

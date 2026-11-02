@@ -1,0 +1,167 @@
+{
+  "tmdbId": 46212,
+  "slug": "dragon-s-return-1968",
+  "year": 1968,
+  "runtime": 84,
+  "originalTitle": "Drak sa vracia",
+  "title": {
+    "en": "Dragon's Return",
+    "tr": "Drak sa vracia"
+  },
+  "overview": {
+    "en": "This is a ballad about love, hate, and a search for a way out of loneliness. It is a dramatic story about the strange potter, Martin Leaps, nicknamed Dragon, who is suspected by the villagers as the cause of natural disasters. He lost his wife, his home, and his freedom due to false accusations. After years he returns to his native village. Putting his own life to risk, he saves a herd of cows from a forest fire in the hills. But not even this heroic deed helps him to win back the friendship of the locals.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9DBYGjn7tHSUDnSyD0V2duzS9AE.jpg",
+    "en": "/nhLSYa1eV1MNRD06WfHjz3Pi0nR.jpg"
+  },
+  "backdrops": [
+    "/t17cJDxpoJHUt7VhDwn9ljeNin4.jpg",
+    "/2PDQ4ncLa8lxEEFo6zwT4c8o0xH.jpg",
+    "/e2EIX0dEYpM67LL5kd2emnBny2a.jpg",
+    "/gnKF3NcsqZnRwGORV5ljrfRzO4C.jpg",
+    "/alS9VqWp2OatPV4v4i4ylN6ot0A.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    818
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "sk"
+  ],
+  "studios": [
+    "Štúdio hraných filmov Bratislava"
+  ],
+  "crew": [
+    {
+      "personId": 1413722,
+      "job": "writer"
+    },
+    {
+      "personId": 1132493,
+      "job": "composer"
+    },
+    {
+      "personId": 1413722,
+      "job": "director"
+    },
+    {
+      "personId": 1132518,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 548112,
+      "character": "Dragon",
+      "order": 0
+    },
+    {
+      "personId": 1288618,
+      "character": "Simon",
+      "order": 1
+    },
+    {
+      "personId": 235666,
+      "character": "Eva",
+      "order": 2
+    },
+    {
+      "personId": 222522,
+      "character": "Village Mayor",
+      "order": 3
+    },
+    {
+      "personId": 1132530,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1132499,
+      "character": "Mlcúch",
+      "order": 5
+    },
+    {
+      "personId": 1537663,
+      "character": "Vrtich",
+      "order": 6
+    },
+    {
+      "personId": 1257684,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1280682,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 2294509,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1886704,
+      "character": "Kubuš, pásztor",
+      "order": 10
+    },
+    {
+      "personId": 1262122,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 3170768,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 2705241,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 3551834,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 3551899,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1886705,
+      "character": "Woman",
+      "order": 16
+    },
+    {
+      "personId": 2479568,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 3551900,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 3551901,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 23,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

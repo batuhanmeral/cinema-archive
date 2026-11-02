@@ -1,0 +1,199 @@
+{
+  "tmdbId": 5998,
+  "slug": "dr-mabuse-the-gambler-1922",
+  "year": 1922,
+  "runtime": 271,
+  "originalTitle": "Dr. Mabuse, der Spieler",
+  "title": {
+    "en": "Dr. Mabuse, the Gambler",
+    "tr": "Dr. Mabuse, Kumarbaz"
+  },
+  "overview": {
+    "en": "Dr. Mabuse and his organization of criminals are in the process of completing their latest scheme, a theft of information that will allow Mabuse to make huge profits on the stock exchange. Afterwards, Mabuse disguises himself and attends the Folies Bergères show, where Cara Carozza, the main attraction of the show, passes him information on Mabuse's next intended victim, the young millionaire Edgar Hull. Mabuse then uses psychic manipulation to lure Hull into a card game where he loses heavily. When Police Commissioner von Wenk begins an investigation of this mysterious crime spree, he has little to go on, and he needs to find someone who can help him.",
+    "tr": "Dr. Mabuse psikoloji konusunda üstün yeteneklerle donatılmış, hipnoz ve zihin kontrolü alanlarındaki güçleri sayesinde ise suç dünyasında aktif olarak boy gösteren kişilerden birine dönüşmüştür. Geceleri Berlin'in yeraltı kumar dünyasına adım atan Dr. Mabuse bu yeteneklerini buralarda kullanmaktadır. Suçlulardan topladığı örgütü ise Spoerri isimli bir kokain bağımlısı, tetikçisi ve şoförü Georg, Hawasch, Fine ve kendisine aşık olan Cara Carozza isimli dansçıdan oluşmaktadır. Dr. Mabuse planlarını uygulamaya geçtikleri son işlerini tamamlamaya çalışırken peşine Dedektif Wenk takılacaktır...  Usta yönetmen Fritz Lang'ın yönetmenliğini yaptığı film, Doktor Mabuse karakterinin başrolde yer aldığı Dr. Mabuse serisinin ilk filmi."
+  },
+  "poster": {
+    "tr": "/giarOpuBw8fRlNejbBbPMlRHz1I.jpg",
+    "en": "/tZ703k8zHyvsLoj8OeCnzfiMZUr.jpg"
+  },
+  "backdrops": [
+    "/sHIwzZ0GBE3Y9vMdQWtsFtc5duV.jpg",
+    "/oWWPGLmIgQ3pyXNwOOkdGpjXX61.jpg",
+    "/7PVniYBEvHyqiv4lfqzqz8NWWu3.jpg",
+    "/t2zeF4W9wj8tVaeaDTW7soGSjl7.jpg",
+    "/cXQLCs1n0T6Uhp3ARXyTKNtB7U8.jpg",
+    "/7AKaJRt4bYxU2LeXGguTjhw7YhL.jpg",
+    "/aw0w9aJT3UJDmY7HFn7Szs5xVV9.jpg",
+    "/qnFXJdGTsCCpRkZ9pV76G4CvaJH.jpg",
+    "/hIpLmgvNodrvoLKmqkka7GCeelN.jpg",
+    "/9ouXXzh2MmxW0bKdmipdgUP9yFs.jpg"
+  ],
+  "trailerKey": "MWZwOH2EKb8",
+  "genreIds": [
+    80,
+    53
+  ],
+  "keywordIds": [
+    2546,
+    2343,
+    1284,
+    7597,
+    7598,
+    10889,
+    15009,
+    15106,
+    18118,
+    154802,
+    179991,
+    183817,
+    244516
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Uco-Film GmbH"
+  ],
+  "crew": [
+    {
+      "personId": 47088,
+      "job": "composer"
+    },
+    {
+      "personId": 47087,
+      "job": "composer"
+    },
+    {
+      "personId": 68,
+      "job": "director"
+    },
+    {
+      "personId": 157,
+      "job": "writer"
+    },
+    {
+      "personId": 47086,
+      "job": "writer"
+    },
+    {
+      "personId": 28982,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 67,
+      "job": "producer"
+    },
+    {
+      "personId": 68,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 77,
+      "character": "Dr. Mabuse",
+      "order": 0
+    },
+    {
+      "personId": 28988,
+      "character": "Cara Carozza",
+      "order": 1
+    },
+    {
+      "personId": 47169,
+      "character": "Countess Dusy Told",
+      "order": 2
+    },
+    {
+      "personId": 73,
+      "character": "Count Told",
+      "order": 3
+    },
+    {
+      "personId": 29141,
+      "character": "Prosecutor von Wenk",
+      "order": 4
+    },
+    {
+      "personId": 47170,
+      "character": "Edgar Hull",
+      "order": 5
+    },
+    {
+      "personId": 47171,
+      "character": "Spoerri",
+      "order": 6
+    },
+    {
+      "personId": 47172,
+      "character": "Georg",
+      "order": 7
+    },
+    {
+      "personId": 29129,
+      "character": "Pesch",
+      "order": 8
+    },
+    {
+      "personId": 2911,
+      "character": "Hawasch",
+      "order": 9
+    },
+    {
+      "personId": 47173,
+      "character": "Fine, a servant",
+      "order": 10
+    },
+    {
+      "personId": 28130,
+      "character": "Karsten",
+      "order": 11
+    },
+    {
+      "personId": 48063,
+      "character": "The Russian",
+      "order": 12
+    },
+    {
+      "personId": 590711,
+      "character": "Emil Schramm",
+      "order": 13
+    },
+    {
+      "personId": 1290139,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 28059,
+      "character": "(uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 101365,
+      "character": "Dancer in tailcoat (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 48048,
+      "character": "Man who gets the gun (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 9846,
+      "character": "(uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 3005,
+      "character": "(uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 220,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

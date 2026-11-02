@@ -1,0 +1,145 @@
+{
+  "tmdbId": 117979,
+  "slug": "hunting-scenes-from-bavaria-1969",
+  "year": 1969,
+  "runtime": 82,
+  "originalTitle": "Jagdszenen aus Niederbayern",
+  "title": {
+    "en": "Hunting Scenes from Bavaria",
+    "tr": "Jagdszenen aus Niederbayern"
+  },
+  "overview": {
+    "en": "Abram returns to his small village and although his repairing skills are needed, people's suspicion about his sexual preferences make his life hard.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/42k6PIvy1V275XgIJg7OMu2RSwX.jpg",
+    "en": "/42k6PIvy1V275XgIJg7OMu2RSwX.jpg"
+  },
+  "backdrops": [
+    "/12TkgzTNKhQiApcypXXGCVeFSK1.jpg"
+  ],
+  "trailerKey": "KfHyqcnC5uM",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    3725,
+    2279,
+    226499,
+    262497
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Rob Houwer Film"
+  ],
+  "crew": [
+    {
+      "personId": 37313,
+      "job": "director"
+    },
+    {
+      "personId": 35831,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 37313,
+      "job": "writer"
+    },
+    {
+      "personId": 1178215,
+      "job": "writer"
+    },
+    {
+      "personId": 9120,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1178215,
+      "character": "Abram",
+      "order": 0
+    },
+    {
+      "personId": 10255,
+      "character": "Hannelore",
+      "order": 1
+    },
+    {
+      "personId": 27604,
+      "character": "Barbara",
+      "order": 2
+    },
+    {
+      "personId": 1813296,
+      "character": "Georg",
+      "order": 3
+    },
+    {
+      "personId": 26942,
+      "character": "Metzgerin",
+      "order": 4
+    },
+    {
+      "personId": 1813297,
+      "character": "Maria",
+      "order": 5
+    },
+    {
+      "personId": 2462781,
+      "character": "Hiasl",
+      "order": 6
+    },
+    {
+      "personId": 3734,
+      "character": "Paula",
+      "order": 7
+    },
+    {
+      "personId": 2462782,
+      "character": "Zenta",
+      "order": 8
+    },
+    {
+      "personId": 2462783,
+      "character": "Volker",
+      "order": 9
+    },
+    {
+      "personId": 2462784,
+      "character": "Ernstl",
+      "order": 10
+    },
+    {
+      "personId": 2462785,
+      "character": "Bürgermeister",
+      "order": 11
+    },
+    {
+      "personId": 36986,
+      "character": "Pfarrer",
+      "order": 12
+    },
+    {
+      "personId": 23566,
+      "character": "Frau des Bürgermeisters",
+      "order": 13
+    },
+    {
+      "personId": 559045,
+      "character": "Lehrerin",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 31,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

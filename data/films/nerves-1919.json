@@ -1,0 +1,109 @@
+{
+  "tmdbId": 168907,
+  "slug": "nerves-1919",
+  "year": 1919,
+  "runtime": 110,
+  "originalTitle": "Nerven",
+  "title": {
+    "en": "Nerves",
+    "tr": "Nerven"
+  },
+  "overview": {
+    "en": "The film tries to capture the \"nervous epidemic\" caused by war and misery which \"drives people mad\". This unique portrait of the life in 1919 Germany, filmed on location in Munich, describes the cases of different people from all levels of society: Factory owner Roloff, who loses his mind in view of catastrophies and social disturbances; teacher John, who is the hero of the masses; and Marja who turns into a radical revolutionary.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/8oWcLWXfG433cpVyQJXQIMjDTER.jpg",
+    "en": "/8oWcLWXfG433cpVyQJXQIMjDTER.jpg"
+  },
+  "backdrops": [
+    "/oE48o9TZ4rKGgX0ozZ5K73ZyEmJ.jpg",
+    "/uOr343CSYc259gjZS3Mh7IFkI4P.jpg",
+    "/yaFvEY3jDzbN2Sqp2KWhkMllHQ6.jpg",
+    "/68m33d4HLDtGG0HCRRq4gnobbwE.jpg",
+    "/s4EjV2b7g3ankT3Ztrap8ON4UQ9.jpg",
+    "/nKjA1hcy7dgQY2RWPRzZa1vaesU.jpg",
+    "/Djkza3LQLs68D74Be2uZxa3wsx.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    154802,
+    179874,
+    244516
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Monumental Filmwerke"
+  ],
+  "crew": [
+    {
+      "personId": 28980,
+      "job": "director"
+    },
+    {
+      "personId": 28980,
+      "job": "producer"
+    },
+    {
+      "personId": 28980,
+      "job": "writer"
+    },
+    {
+      "personId": 1415363,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2904,
+      "character": "Roloff",
+      "order": 0
+    },
+    {
+      "personId": 28990,
+      "character": "Mujer de Roloff",
+      "order": 1
+    },
+    {
+      "personId": 1010377,
+      "character": "Hija de Roloff",
+      "order": 2
+    },
+    {
+      "personId": 1628710,
+      "character": "Profesor Johannes",
+      "order": 3
+    },
+    {
+      "personId": 1783030,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1783032,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 4644409,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 4644410,
+      "character": "",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 16,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

@@ -535,6 +535,31 @@ describe('runImport movements, yesilcam and collections', () => {
     expect(out.report.counts.listRows).toBe(2)
   })
 
+  it('caps an over-limit collection at 100 and reports the matched count as candidates', async () => {
+    const ids = Array.from({ length: 103 }, (_, i) => 1000 + i)
+    const films = ids.map((id) =>
+      movie(id, {
+        title: `Film ${id}`,
+        original_title: `Film ${id}`,
+        vote_count: id - 900,
+        release_date: '1979-01-01',
+      }),
+    )
+    const out = await runImport(
+      fakeDeps({
+        ...wiki(Object.fromEntries(ids.map((id) => [`Film ${id} (1979 film)`, id]))),
+        ...moviesById(...films),
+        loadCultList: async () =>
+          ids.map((id) =>
+            entry({ wikiTitle: `Film ${id} (1979 film)`, title: `Film ${id}`, year: 1979 }),
+          ),
+        collections: [collection('soviet-films', { countries: ['SU'] })],
+      }),
+    )
+    expect(out.collections[0]?.filmIds).toHaveLength(100)
+    expect(out.report.groups.collections[0]).toMatchObject({ films: 100, candidates: 103 })
+  })
+
   it('reports a film that left a movement as removed, keeps it, and is stable on re-run', async () => {
     const deps = fakeDeps({
       ...wiki(soviet),

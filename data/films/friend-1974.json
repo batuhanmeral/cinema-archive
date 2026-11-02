@@ -1,0 +1,124 @@
+{
+  "tmdbId": 163857,
+  "slug": "friend-1974",
+  "year": 1974,
+  "runtime": 99,
+  "originalTitle": "Arkadaş",
+  "title": {
+    "en": "Friend",
+    "tr": "Arkadaş"
+  },
+  "overview": {
+    "en": "After betraying his social class, denying his peasant roots and fleeing his native village, Ahmed has become a successful businessman and has found a place in the sun among the bourgeoisie. Azem, his childhood friend, has followed a quite different way. refusing the rat race, he has remained close to people of humble origin. Politically committed, he aspires to be useful to his country and more particularly to the forsaken rural world. The two former friends meet again. Due to the influence of Azem, Ahmed gradually becomes aware that his life is a failure.",
+    "tr": "Âzem ve Cemil, dostlukları öğrencilik yıllarına dayanan iki yakın arkadaştır. Birbirlerinden uzun süre ayrı kalmalarından ve ayrı şartlar içinde yaşamalarından dolayı, hayat biçimleri de farklılaşmıştır. Dünün yoksul öğrencisi Cemil zengin olmuş, güzel karısı Necibe ve içine kapanık, narin baldızı Melike’yle mutlu bir yaşam sürdürmektedir. Ne var ki arkadaşı Âzem’in sahil kentindeki evlerine gelip, yaşamlarına girmesiyle düzenleri bozulur. Necibe’nin Cemil’i aldatması, Melike’nin Âzem’le duygusal bir ilişkiye girmesi, Âzem’in bir türlü Cemil’den vazgeçememesi olayları gittikçe daha karmaşık bir hale getirir. Toplumsal gerçeklerden bihaber yozlaşmış bir yaşam süren Cemil’le, politik olarak bilinçlenmiş, sosyalist Âzem’in fikir ayrılıkları artık kapanacak türden değildir."
+  },
+  "poster": {
+    "tr": "/lV4ODdeCEHaJ4gYFpynsZafLeew.jpg",
+    "en": "/6WxSatDacXgOWsVtkYCc8y4fVB9.jpg"
+  },
+  "backdrops": [
+    "/5X8wk7vqUNqpVIKPZTdjcfs5MQO.jpg",
+    "/5P8bFP9u40Uk326kjaFipEdXuxy.jpg",
+    "/m6aQ9uUrxRmuPP4ICWJeHxrfjJZ.jpg",
+    "/tuS9ESA1He8RGgg0m73LZJhmxJG.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    9713
+  ],
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [
+    "Güney Film"
+  ],
+  "crew": [
+    {
+      "personId": 145352,
+      "job": "director"
+    },
+    {
+      "personId": 1325440,
+      "job": "writer"
+    },
+    {
+      "personId": 1325438,
+      "job": "composer"
+    },
+    {
+      "personId": 1325439,
+      "job": "composer"
+    },
+    {
+      "personId": 145352,
+      "job": "writer"
+    },
+    {
+      "personId": 6160605,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 145352,
+      "character": "Azem",
+      "order": 0
+    },
+    {
+      "personId": 556461,
+      "character": "Semra",
+      "order": 1
+    },
+    {
+      "personId": 1325441,
+      "character": "Ahu",
+      "order": 2
+    },
+    {
+      "personId": 1325442,
+      "character": "Cemil",
+      "order": 3
+    },
+    {
+      "personId": 1325443,
+      "character": "Halil",
+      "order": 4
+    },
+    {
+      "personId": 1325460,
+      "character": "Necibe",
+      "order": 5
+    },
+    {
+      "personId": 1636328,
+      "character": "Melike - Cemil's sister-in-law",
+      "order": 6
+    },
+    {
+      "personId": 1441257,
+      "character": "Muhittin - Cemil's brother",
+      "order": 7
+    },
+    {
+      "personId": 1799041,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1888394,
+      "character": "",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 21,
+  "sources": [
+    "yesilcam"
+  ]
+}

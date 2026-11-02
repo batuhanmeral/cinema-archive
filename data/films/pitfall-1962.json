@@ -1,0 +1,169 @@
+{
+  "tmdbId": 54146,
+  "slug": "pitfall-1962",
+  "year": 1962,
+  "runtime": 97,
+  "originalTitle": "おとし穴",
+  "title": {
+    "en": "Pitfall",
+    "tr": "Pitfall"
+  },
+  "overview": {
+    "en": "A man wanders into a seemingly deserted town with his young son in search of work. But after a bit of bad luck, he joins the town's population of lost souls.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/KIRFXDuELVg86zDqDH0ESd9QoV.jpg",
+    "en": "/7VJ9RvCehgLlGI0NXmS9RUZMTND.jpg"
+  },
+  "backdrops": [
+    "/seHrbAJNkpzn8gThMH92RakIBRq.jpg",
+    "/tCxrbABrw3lHGUQjFK3sjyBF0QK.jpg",
+    "/atmmPxkOSX6jcUBNfFDFRkmTRds.jpg",
+    "/aSmgnl3dpqtH7fRkjvA1Lbd0Q2n.jpg",
+    "/2OLmlafnwy5pqbQ673eTdQ7RlA0.jpg",
+    "/fNVNzjncuA6lExsJ6fb7HitoHVF.jpg",
+    "/s89PvnJ04fPrm1kbaV9kHCGboLz.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    9648,
+    14,
+    80
+  ],
+  "keywordIds": [
+    2251,
+    3307,
+    4781,
+    11004,
+    156018,
+    162846,
+    164400,
+    166701,
+    172218,
+    209998,
+    222478,
+    240119
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Teshigahara Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1517986,
+      "job": "composer"
+    },
+    {
+      "personId": 96801,
+      "job": "director"
+    },
+    {
+      "personId": 96807,
+      "job": "writer"
+    },
+    {
+      "personId": 1089017,
+      "job": "producer"
+    },
+    {
+      "personId": 1089018,
+      "job": "composer"
+    },
+    {
+      "personId": 51808,
+      "job": "composer"
+    },
+    {
+      "personId": 96809,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 96637,
+      "character": "Otsuka",
+      "order": 0
+    },
+    {
+      "personId": 142490,
+      "character": "Shopkeeper",
+      "order": 1
+    },
+    {
+      "personId": 96805,
+      "character": "Toyama",
+      "order": 2
+    },
+    {
+      "personId": 224658,
+      "character": "Policeman",
+      "order": 3
+    },
+    {
+      "personId": 99247,
+      "character": "Man in White Suit",
+      "order": 4
+    },
+    {
+      "personId": 33730,
+      "character": "Reporter",
+      "order": 5
+    },
+    {
+      "personId": 1089020,
+      "character": "Miner's Son",
+      "order": 6
+    },
+    {
+      "personId": 224659,
+      "character": "Wife",
+      "order": 7
+    },
+    {
+      "personId": 1961028,
+      "character": "Second Union Member",
+      "order": 8
+    },
+    {
+      "personId": 1369125,
+      "character": "Photographer",
+      "order": 9
+    },
+    {
+      "personId": 2197490,
+      "character": "Second Miner",
+      "order": 10
+    },
+    {
+      "personId": 2197491,
+      "character": "Farmer",
+      "order": 11
+    },
+    {
+      "personId": 1626966,
+      "character": "Dead Miner",
+      "order": 12
+    },
+    {
+      "personId": 2197492,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 2197493,
+      "character": "Labor Boarding House Owner",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 115,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "tmdbId": 44105,
+  "slug": "destiny-2006",
+  "year": 2006,
+  "runtime": 103,
+  "originalTitle": "Kader",
+  "title": {
+    "en": "Destiny",
+    "tr": "Kader"
+  },
+  "overview": {
+    "en": "Bekir loves Uğur, who loves Zagor, who is about to get out of jail. An already tense love triangle is thrown into turmoil on a hot summer night, when Zagor kills someone, and Uğur disappears.",
+    "tr": "Bekir, hapisten çıkmak üzere olan Zagor'u seven Uğur'u sever. Zaten gergin olan bir aşk üçgeni, sıcak bir yaz gecesinde Zagor'un birini öldürmesi ve Uğur'un ortadan kaybolmasıyla altüst olur."
+  },
+  "poster": {
+    "tr": "/oHTQ6eg3WgvFiSkazto3Z3nW1Mu.jpg",
+    "en": "/bPlu0FpmWNEQIiUrpHpzDThBaXL.jpg"
+  },
+  "backdrops": [
+    "/wIlo3H6s1kjwnJQcTg8KtexCIVY.jpg",
+    "/yulBLrUBDayj0BH86vTdtcW84WB.jpg",
+    "/s6D8uWT7tFG1OFzkGMbPffflW4N.jpg",
+    "/Aewo7RLT9mEZcwMkLFOw80tW7H8.jpg",
+    "/udldsOJKg8eqtWIWteVB2C0ZsTG.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    9673,
+    159278,
+    239377,
+    305168
+  ],
+  "countries": [
+    "GR",
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [
+    "Max Productions",
+    "Greek Film Centre",
+    "Highway Productions"
+  ],
+  "crew": [
+    {
+      "personId": 145518,
+      "job": "director"
+    },
+    {
+      "personId": 145518,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 145518,
+      "job": "writer"
+    },
+    {
+      "personId": 145518,
+      "job": "producer"
+    },
+    {
+      "personId": 2171972,
+      "job": "producer"
+    },
+    {
+      "personId": 560802,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 145375,
+      "character": "Uğur",
+      "order": 0
+    },
+    {
+      "personId": 133822,
+      "character": "Bekir",
+      "order": 1
+    },
+    {
+      "personId": 1004806,
+      "character": "Cevat",
+      "order": 2
+    },
+    {
+      "personId": 1604769,
+      "character": "Uğur's Mother",
+      "order": 3
+    },
+    {
+      "personId": 592096,
+      "character": "Uğur's Father",
+      "order": 4
+    },
+    {
+      "personId": 1078918,
+      "character": "Zagor",
+      "order": 5
+    },
+    {
+      "personId": 1248247,
+      "character": "Emine",
+      "order": 6
+    },
+    {
+      "personId": 3972353,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 3972354,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1159710,
+      "character": "Kamil",
+      "order": 9
+    },
+    {
+      "personId": 40022,
+      "character": "Cemil",
+      "order": 10
+    },
+    {
+      "personId": 1888378,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 212755,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 3972356,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 3972357,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 212758,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 40024,
+      "character": "Bekir's Father",
+      "order": 16
+    },
+    {
+      "personId": 90282,
+      "character": "Irfan",
+      "order": 17
+    },
+    {
+      "personId": 145518,
+      "character": "Patron",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 121,
+  "sources": [
+    "movement:new-turkish-cinema"
+  ]
+}

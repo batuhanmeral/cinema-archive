@@ -1,0 +1,89 @@
+{
+  "tmdbId": 175869,
+  "slug": "the-treasure-1923",
+  "year": 1923,
+  "runtime": 80,
+  "originalTitle": "Der Schatz",
+  "title": {
+    "en": "The Treasure",
+    "tr": "Der Schatz"
+  },
+  "overview": {
+    "en": "On the surface a straightforward tale of the search for a buried treasure, the film is a textbook example of German expressionism, with the passions of the protagonists conveyed as much through symbolism as action.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wLwKwvBMFq9Jr890pwxscwkRazC.jpg",
+    "en": "/wLwKwvBMFq9Jr890pwxscwkRazC.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    203998,
+    203999
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Carl Froelich-Film GmbH"
+  ],
+  "crew": [
+    {
+      "personId": 13899,
+      "job": "director"
+    },
+    {
+      "personId": 1793765,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1793763,
+      "job": "writer"
+    },
+    {
+      "personId": 29110,
+      "job": "producer"
+    },
+    {
+      "personId": 13899,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29175,
+      "character": "Svetocar Badalic, Master Foundryman",
+      "order": 0
+    },
+    {
+      "personId": 3611,
+      "character": "Beate",
+      "order": 1
+    },
+    {
+      "personId": 100898,
+      "character": "Anna",
+      "order": 2
+    },
+    {
+      "personId": 3000,
+      "character": "Svetelenz",
+      "order": 3
+    },
+    {
+      "personId": 591493,
+      "character": "Arno",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 12,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

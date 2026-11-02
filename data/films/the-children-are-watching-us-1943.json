@@ -1,0 +1,197 @@
+{
+  "tmdbId": 61461,
+  "slug": "the-children-are-watching-us-1943",
+  "year": 1943,
+  "runtime": 84,
+  "originalTitle": "I bambini ci guardano",
+  "title": {
+    "en": "The Children Are Watching Us",
+    "tr": "I bambini ci guardano"
+  },
+  "overview": {
+    "en": "In his first collaboration with renowned screenwriter and longtime partner Cesare Zavattini, Vittorio De Sica examines the cataclysmic consequences of adult folly on an innocent child. Heralding the pair’s subsequent work on some of the masterpieces of Italian neorealism, The Children Are Watching Us is a vivid, deeply humane portrait of a family’s disintegration.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vEkp2FoxUFpCGeioWdUS4wb7ezh.jpg",
+    "en": "/vEkp2FoxUFpCGeioWdUS4wb7ezh.jpg"
+  },
+  "backdrops": [
+    "/jlUSRGkcPDNYAhxlezdohFHrDCa.jpg",
+    "/lNEXckMBeoqhBZFD42HE0XkEdTO.jpg",
+    "/nrwEPeSkidtIyYesAPj7fDBrE8i.jpg",
+    "/p4nWtSxg1594NOOrcVIxmcvShhT.jpg",
+    "/eHqAOq2r45julwjsBQHan8xeATs.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    6139,
+    10085,
+    157955,
+    176227,
+    216734,
+    293016
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Scalera Film",
+    "Invicta Films"
+  ],
+  "crew": [
+    {
+      "personId": 12329,
+      "job": "director"
+    },
+    {
+      "personId": 1009150,
+      "job": "writer"
+    },
+    {
+      "personId": 1662025,
+      "job": "writer"
+    },
+    {
+      "personId": 233172,
+      "job": "writer"
+    },
+    {
+      "personId": 1204959,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 238471,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4416,
+      "job": "composer"
+    },
+    {
+      "personId": 12330,
+      "job": "writer"
+    },
+    {
+      "personId": 1186405,
+      "job": "writer"
+    },
+    {
+      "personId": 12329,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 233174,
+      "character": "Andrea",
+      "order": 0
+    },
+    {
+      "personId": 233176,
+      "character": "Pricò",
+      "order": 1
+    },
+    {
+      "personId": 233175,
+      "character": "Nina",
+      "order": 2
+    },
+    {
+      "personId": 1349173,
+      "character": "Roberto",
+      "order": 3
+    },
+    {
+      "personId": 1416253,
+      "character": "Agnese",
+      "order": 4
+    },
+    {
+      "personId": 1130987,
+      "character": "La nonna",
+      "order": 5
+    },
+    {
+      "personId": 1459434,
+      "character": "Sig.ra Uberti",
+      "order": 6
+    },
+    {
+      "personId": 1021648,
+      "character": "Zia Berelli",
+      "order": 7
+    },
+    {
+      "personId": 2056527,
+      "character": "Giuliana",
+      "order": 8
+    },
+    {
+      "personId": 994417,
+      "character": "Sig.ra Resta",
+      "order": 9
+    },
+    {
+      "personId": 233177,
+      "character": "Claudio",
+      "order": 10
+    },
+    {
+      "personId": 999780,
+      "character": "Il rettore",
+      "order": 11
+    },
+    {
+      "personId": 1384917,
+      "character": "Dottore",
+      "order": 12
+    },
+    {
+      "personId": 4988219,
+      "character": "Paolina",
+      "order": 13
+    },
+    {
+      "personId": 1037957,
+      "character": "Il commendatore",
+      "order": 14
+    },
+    {
+      "personId": 1130996,
+      "character": "Gigi Sbarlani",
+      "order": 15
+    },
+    {
+      "personId": 1474548,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1300169,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 333670,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 590556,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 96,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "tmdbId": 73841,
+  "slug": "the-sword-1980",
+  "year": 1980,
+  "runtime": 85,
+  "originalTitle": "名劍",
+  "title": {
+    "en": "The Sword",
+    "tr": "The Sword"
+  },
+  "overview": {
+    "en": "Swordsman Li Mak-Jan is on a quest to duel the powerful and reclusive Hua Qian Shu. But will a cursed sword and the intrigues of the martial world bring him fame or tragedy?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/hm8G4FQJN53MpSGOtXyBAmHGHZ6.jpg",
+    "en": "/hm8G4FQJN53MpSGOtXyBAmHGHZ6.jpg"
+  },
+  "backdrops": [
+    "/4Ui8jkZdQuVI9eHpKpPk0LzIMnk.jpg",
+    "/qMmOkU5sXlypBoofkm9guczJzF7.jpg",
+    "/1c9OezQsQeilwpv19zpi6XFraTK.jpg",
+    "/1pRJAzP8TmJ9USlLO9gydJoFGLL.jpg",
+    "/vyyIVgVSLWFRAV4zdkXXWj2zuRb.jpg",
+    "/shAlu90PHKNRNAgdh9RNfUHWm0n.jpg",
+    "/fyRcT1W4fDrTbMLZchvQg8gGJHh.jpg",
+    "/csNtzHcawqFiBgOq60xXcDzJLye.jpg",
+    "/yPe1zQ453HTMoEH0SAPNP9Vxt3Z.jpg",
+    "/jGfBQuc9mIt0yl7CFCrZe1LDEK7.jpg"
+  ],
+  "trailerKey": "d12awXoCqTo",
+  "genreIds": [
+    28
+  ],
+  "keywordIds": [
+    779,
+    1400,
+    184656,
+    209985
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn"
+  ],
+  "studios": [
+    "Orange Sky Golden Harvest"
+  ],
+  "crew": [
+    {
+      "personId": 71063,
+      "job": "director"
+    },
+    {
+      "personId": 71063,
+      "job": "writer"
+    },
+    {
+      "personId": 1169070,
+      "job": "writer"
+    },
+    {
+      "personId": 565158,
+      "job": "writer"
+    },
+    {
+      "personId": 65962,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 57724,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 82401,
+      "character": "Li Mak-Jan",
+      "order": 0
+    },
+    {
+      "personId": 121394,
+      "character": "Hua Qian Shu",
+      "order": 1
+    },
+    {
+      "personId": 612216,
+      "character": "Chen Tie Yi",
+      "order": 2
+    },
+    {
+      "personId": 70674,
+      "character": "Lian Huen",
+      "order": 3
+    },
+    {
+      "personId": 1334266,
+      "character": "Hua Ying Zhi",
+      "order": 4
+    },
+    {
+      "personId": 1615858,
+      "character": "Yuen Chi",
+      "order": 5
+    },
+    {
+      "personId": 1355940,
+      "character": "Yin Siu-yu",
+      "order": 6
+    },
+    {
+      "personId": 56804,
+      "character": "Caretaker",
+      "order": 7
+    },
+    {
+      "personId": 563446,
+      "character": "Old Pigeon Man",
+      "order": 8
+    },
+    {
+      "personId": 1109778,
+      "character": "Chou Huan",
+      "order": 9
+    },
+    {
+      "personId": 1047945,
+      "character": "Wang Shi Qi",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 29,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

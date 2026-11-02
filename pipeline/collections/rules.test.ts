@@ -1,10 +1,21 @@
 import { describe, expect, it } from 'vitest'
 import { makeFilm } from '../../src/data/fixtures'
 import type { CollectionContent, CollectionRule } from '../schemas'
-import { buildCollections, matchesRule, ruleCategories, rulesNeedWikidataGenres } from './rules'
+import {
+  COLLECTION_MAX_FILMS,
+  buildCollections,
+  matchesRule,
+  ruleArticles,
+  ruleCategories,
+  rulesNeedWikidataGenres,
+} from './rules'
 import type { CollectionFacts } from './rules'
 
-const noFacts: CollectionFacts = { wikidataGenres: new Set(), categories: new Set() }
+const noFacts: CollectionFacts = {
+  wikidataGenres: new Set(),
+  categories: new Set(),
+  articles: new Set(),
+}
 const content = (slug: string, rule: CollectionRule): CollectionContent => ({
   slug,
   name: { tr: slug, en: slug },
@@ -27,11 +38,21 @@ describe('matchesRule', () => {
   })
 
   it('matches wikidata genres and categories through facts', () => {
-    const facts = { wikidataGenres: new Set(['Q1033891']), categories: new Set(['Cat A']) }
+    const facts = {
+      ...noFacts,
+      wikidataGenres: new Set(['Q1033891']),
+      categories: new Set(['Cat A']),
+    }
     expect(matchesRule({ wikidataGenres: ['Q1033891'] }, makeFilm(), facts)).toBe(true)
     expect(matchesRule({ wikidataGenres: ['Q1033891'] }, makeFilm(), noFacts)).toBe(false)
     expect(matchesRule({ wikipediaCategories: ['Cat A'] }, makeFilm(), facts)).toBe(true)
     expect(matchesRule({ wikipediaCategories: ['Cat B'] }, makeFilm(), facts)).toBe(false)
+  })
+
+  it('matches wikipedia articles through facts', () => {
+    const facts = { ...noFacts, articles: new Set(['Midnight movie']) }
+    expect(matchesRule({ wikipediaArticles: ['Midnight movie'] }, makeFilm(), facts)).toBe(true)
+    expect(matchesRule({ wikipediaArticles: ['Midnight movie'] }, makeFilm(), noFacts)).toBe(false)
   })
 
   it('matches sources against the lock sources of the film', () => {
@@ -74,6 +95,30 @@ describe('buildCollections', () => {
   })
 })
 
+describe('buildCollections cap', () => {
+  it('keeps the 100 most voted of 103 matches, sorted by year, and reports 103', () => {
+    const films = Array.from({ length: COLLECTION_MAX_FILMS + 3 }, (_, i) =>
+      makeFilm({
+        tmdbId: i + 1,
+        year: 2000 - i,
+        voteCount: i < 3 ? 1 : 100 + i,
+        countries: ['US'],
+      }),
+    )
+    const { collections, sizes } = buildCollections(
+      [content('us', { countries: ['US'] })],
+      films,
+      () => noFacts,
+    )
+    const ids = collections[0]?.filmIds ?? []
+    expect(ids).toHaveLength(COLLECTION_MAX_FILMS)
+    expect([1, 2, 3].some((id) => ids.includes(id))).toBe(false)
+    expect(ids[0]).toBe(103)
+    expect(ids.at(-1)).toBe(4)
+    expect(sizes.get('us')).toBe(103)
+  })
+})
+
 describe('rule requirements', () => {
   const contents = [
     content('a', { wikipediaCategories: ['Cat A', 'Cat B'] }),
@@ -83,6 +128,14 @@ describe('rule requirements', () => {
 
   it('lists unique categories in content order', () => {
     expect(ruleCategories(contents)).toEqual(['Cat A', 'Cat B', 'Cat C'])
+  })
+
+  it('lists unique articles in content order', () => {
+    const withArticles = [
+      content('a', { wikipediaArticles: ['Art A', 'Art B'] }),
+      content('b', { wikipediaArticles: ['Art B'] }),
+    ]
+    expect(ruleArticles(withArticles)).toEqual(['Art A', 'Art B'])
   })
 
   it('tells whether any rule uses wikidata genres', () => {

@@ -1,0 +1,177 @@
+{
+  "tmdbId": 176650,
+  "slug": "the-sandwich-man-1983",
+  "year": 1983,
+  "runtime": 105,
+  "originalTitle": "兒子的大玩偶",
+  "title": {
+    "en": "The Sandwich Man",
+    "tr": "The Sandwich Man"
+  },
+  "overview": {
+    "en": "Composed of three separate stories, the film vividly portrays Taiwan during the cold war period when the country developed its economy with help from the United States.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/2yg630Ppaj2KfRe8wulHeObjp45.jpg",
+    "en": "/2yg630Ppaj2KfRe8wulHeObjp45.jpg"
+  },
+  "backdrops": [
+    "/h9hUKGyH9j3whepXrzva6vvJOxQ.jpg",
+    "/4WUsDSNIzbiU3JT7X2TXkNQdoEV.jpg",
+    "/zKi7fyKGvHCDIF8VP0vPfPqi7MI.jpg",
+    "/6gfV5tEsWBRxnBRydUCOjAIH23M.jpg",
+    "/eNF2RFiwgsI0QVUdQd8qjNmh8C5.jpg",
+    "/z91Kmc8ONhn1ZUB8bBUfDqPhqYG.jpg",
+    "/xtY22YfGqRyu3I4lutwC9QbqBYk.jpg",
+    "/gzmXYwA8TQMRK4AXnofTMr2fT7S.jpg",
+    "/qMdrKRThwmUPtFDabssGVyOvBWj.jpg",
+    "/oSTbZTrfqHsNmgQclaSAkCu3sgc.jpg"
+  ],
+  "trailerKey": "Fx1zwuW3Qv0",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    818,
+    208992
+  ],
+  "countries": [
+    "TW"
+  ],
+  "languages": [
+    "zh",
+    "en"
+  ],
+  "studios": [
+    "Central Motion Picture Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 64992,
+      "job": "director"
+    },
+    {
+      "personId": 1158867,
+      "job": "director"
+    },
+    {
+      "personId": 1158868,
+      "job": "director"
+    },
+    {
+      "personId": 143036,
+      "job": "writer"
+    },
+    {
+      "personId": 1158874,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1578466,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1081519,
+      "character": "Kun-shu (segment \"The Sandwich Man\")",
+      "order": 0
+    },
+    {
+      "personId": 136891,
+      "character": "Ah-chu (segment \"The Sandwich Man\")",
+      "order": 1
+    },
+    {
+      "personId": 1888933,
+      "character": "Theater Manager (segment \"The Sandwich Man\")",
+      "order": 2
+    },
+    {
+      "personId": 1674097,
+      "character": "Kun-shu's Uncle (segment \"The Sandwich Man\")",
+      "order": 3
+    },
+    {
+      "personId": 3849061,
+      "character": "Kun-shu's Son (segment \"The Sandwich Man\")",
+      "order": 4
+    },
+    {
+      "personId": 1074179,
+      "character": "Lee's Father (segment \"Vicki's Hat\")",
+      "order": 5
+    },
+    {
+      "personId": 3108661,
+      "character": "Vicki (segment \"Vicki's Hat\")",
+      "order": 6
+    },
+    {
+      "personId": 3849192,
+      "character": "Wang Wu-hsiung (segment \"Vicki's Hat\")",
+      "order": 7
+    },
+    {
+      "personId": 3849194,
+      "character": "Lin Tsai-fa (segment \"Vicki's Hat\")",
+      "order": 8
+    },
+    {
+      "personId": 2565381,
+      "character": "Mei-li (segment \"Vicki's Hat\")",
+      "order": 9
+    },
+    {
+      "personId": 1324771,
+      "character": "Mrs. Chiang (segment \"The Taste of Apple\")",
+      "order": 10
+    },
+    {
+      "personId": 3108660,
+      "character": "Chiang A-fa (segment \"The Taste of Apple\")",
+      "order": 11
+    },
+    {
+      "personId": 81174,
+      "character": "Chiang A-jih (segment \"The Taste of Apple\")",
+      "order": 12
+    },
+    {
+      "personId": 3849199,
+      "character": "Chiang A-chung (segment \"The Taste of Apple\")",
+      "order": 13
+    },
+    {
+      "personId": 3817860,
+      "character": "Worker (segment \"The Taste of Apple\")",
+      "order": 14
+    },
+    {
+      "personId": 3849208,
+      "character": "Lei-ke (segment \"The Taste of Apple\")",
+      "order": 15
+    },
+    {
+      "personId": 3849210,
+      "character": "Foreign Police (segment \"The Taste of Apple\")",
+      "order": 16
+    },
+    {
+      "personId": 3849212,
+      "character": "A-fa's Daughter (segment \"The Taste of Apple\")",
+      "order": 17
+    },
+    {
+      "personId": 3849213,
+      "character": "A-fa's Daughter (segment \"The Taste of Apple\")",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 27,
+  "sources": [
+    "movement:new-taiwan-cinema"
+  ]
+}

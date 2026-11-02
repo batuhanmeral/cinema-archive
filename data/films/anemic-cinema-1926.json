@@ -1,0 +1,51 @@
+{
+  "tmdbId": 58094,
+  "slug": "anemic-cinema-1926",
+  "year": 1926,
+  "runtime": 7,
+  "originalTitle": "Anémic cinéma",
+  "title": {
+    "en": "Anemic Cinema",
+    "tr": "Anémic cinéma"
+  },
+  "overview": {
+    "en": "A spiral design spins. It's replaced by a spinning disk. These two continue in perfect alternation until the end: a spiral design, a disk. Each disk is labelled and can be read as it rotates. The messages, in French, feature puns and whimsical rhymes and alliteration. The final message comments on the spiral motif itself.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/mnmJljxFSnradmwAwarIqsod2jb.jpg",
+    "en": "/mnmJljxFSnradmwAwarIqsod2jb.jpg"
+  },
+  "backdrops": [
+    "/a7wHUERqGBfsw3byWeq6iIMk5gO.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    15216,
+    154802
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 150601,
+      "job": "director"
+    },
+    {
+      "personId": 150601,
+      "job": "writer"
+    }
+  ],
+  "cast": [],
+  "awards": {},
+  "voteCount": 91,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

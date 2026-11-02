@@ -1,0 +1,171 @@
+{
+  "tmdbId": 126325,
+  "slug": "everybody-in-our-family-2012",
+  "year": 2012,
+  "runtime": 107,
+  "originalTitle": "Toată lumea din familia noastră",
+  "title": {
+    "en": "Everybody in Our Family",
+    "tr": "Toată lumea din familia noastră"
+  },
+  "overview": {
+    "en": "Marius is a divorced man in his late thirties. His five year-old daughter Sofia lives with her mother, which causes Marius a deep frustration. On the day Marius arrives to take his daughter on their annual holiday, he is told that she is ill but he doesn't believe it and insists to take her with him. The situation soon gets out of control with all the family taking part in a web of humor, violence, childish songs, police interventions and love statements.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vazDs6SKZyprTomY4PYU8nI00Xb.jpg",
+    "en": "/vazDs6SKZyprTomY4PYU8nI00Xb.jpg"
+  },
+  "backdrops": [
+    "/9fH0DsfM7941NvvIoMq3x9cyIAV.jpg",
+    "/cEKS0rfuXd76gtuzswefyIG4S10.jpg"
+  ],
+  "trailerKey": "StNH7O2IYm8",
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    65,
+    6876,
+    15164,
+    184430,
+    238144
+  ],
+  "countries": [
+    "NL",
+    "RO"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "Hi Film Productions",
+    "Circe Films",
+    "Abis Studio"
+  ],
+  "crew": [
+    {
+      "personId": 588822,
+      "job": "director"
+    },
+    {
+      "personId": 588822,
+      "job": "writer"
+    },
+    {
+      "personId": 1162264,
+      "job": "writer"
+    },
+    {
+      "personId": 60407,
+      "job": "producer"
+    },
+    {
+      "personId": 1337632,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 592227,
+      "character": "Marius",
+      "order": 0
+    },
+    {
+      "personId": 1154241,
+      "character": "Sofia",
+      "order": 1
+    },
+    {
+      "personId": 60422,
+      "character": "Aurel",
+      "order": 2
+    },
+    {
+      "personId": 1112874,
+      "character": "Otilia",
+      "order": 3
+    },
+    {
+      "personId": 1114620,
+      "character": "Coca",
+      "order": 4
+    },
+    {
+      "personId": 1162262,
+      "character": "lady Vizureanu",
+      "order": 5
+    },
+    {
+      "personId": 1162263,
+      "character": "mister Vizureanu",
+      "order": 6
+    },
+    {
+      "personId": 3411644,
+      "character": "Florist's husband",
+      "order": 7
+    },
+    {
+      "personId": 5298470,
+      "character": "Florist",
+      "order": 8
+    },
+    {
+      "personId": 588823,
+      "character": "Chemist's daughter",
+      "order": 9
+    },
+    {
+      "personId": 1628053,
+      "character": "Chemist",
+      "order": 10
+    },
+    {
+      "personId": 5298471,
+      "character": "Market seller",
+      "order": 11
+    },
+    {
+      "personId": 1833453,
+      "character": "Boy in market",
+      "order": 12
+    },
+    {
+      "personId": 5298472,
+      "character": "Neighbor",
+      "order": 13
+    },
+    {
+      "personId": 1912611,
+      "character": "Windshield cleaner",
+      "order": 14
+    },
+    {
+      "personId": 2517252,
+      "character": "Chemist bodyguard",
+      "order": 15
+    },
+    {
+      "personId": 62510,
+      "character": "Neighbor (voice)",
+      "order": 16
+    },
+    {
+      "personId": 2223921,
+      "character": "Policeman (voice)",
+      "order": 17
+    },
+    {
+      "personId": 2720986,
+      "character": "Italian at the pharmacy",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 37,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

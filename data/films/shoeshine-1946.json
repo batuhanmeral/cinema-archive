@@ -1,0 +1,145 @@
+{
+  "tmdbId": 43469,
+  "slug": "shoeshine-1946",
+  "year": 1946,
+  "runtime": 91,
+  "originalTitle": "Sciuscià",
+  "title": {
+    "en": "Shoeshine",
+    "tr": "Kaldırım Çocukları"
+  },
+  "overview": {
+    "en": "Two shoeshine boys in postwar Rome, Italy save up to buy a horse, but their involvement as dupes in a burglary lands them in juvenile prison; the experience take a devastating toll on their friendship.",
+    "tr": "Yönetmenliğini büyük usta De Sica’nın yaptığı Sokak Çocukları, savaş sonrası Roma’da profesyonel olmayan oyuncularla çekilmiştir. Galip gelen yozlaşmış ve etkisiz siyasi sistemin ezici güçlerini yenme çabalarının gerçek öykülerinden esinlenilmiştir.  De Sica’nın filmi, fakirlik ve işsizlik dolu kaos dünyasına atılan iki genç cocuğun belalı yaşam öyküsünü anlatır. Giuseppe (Rinaldo Smordoni) ve Pasquale (Franco Interlenghi) , Amerikan subaylarının ayakkabılarını cilaladıkları sokaklarda çalışırlar."
+  },
+  "poster": {
+    "tr": "/qhhbo7rzJ1U8y1jW5cpR2j5GhvR.jpg",
+    "en": "/lsXCNNbI15hZ3ATiWMx3o4hCK76.jpg"
+  },
+  "backdrops": [
+    "/sntdwO8BFdiapa3KPKvcYOROj2q.jpg",
+    "/3AjMUvxNlZ3u0wlM4xdntrleIYt.jpg",
+    "/eytyuGoPitEb0mgqd6cPSjHIar4.jpg",
+    "/nHxDQoD4B8leyb7axSQQrb0CHJr.jpg",
+    "/b1WpTzTctCz9EOLf67a1CFtWeZz.jpg",
+    "/4NZabac9UaelnBAitTqNAE5Dfzy.jpg",
+    "/wBCvS9lPxIew7CtyNMr5pVt9BPE.jpg",
+    "/9U9S4QMUzbhI2128vETLHzmj9vP.jpg",
+    "/uUGuvcoPWhlec38KBvC1U5UwjRt.jpg",
+    "/mA9iUC4xuDirtG23dK34rurjXnB.jpg"
+  ],
+  "trailerKey": "0qcBeWoNh2k",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    663,
+    588,
+    131,
+    2449,
+    2400,
+    13014,
+    14857,
+    160224,
+    161249,
+    194260
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it",
+    "en"
+  ],
+  "studios": [
+    "Societa Cooperativa Alfa Cinematografica"
+  ],
+  "crew": [
+    {
+      "personId": 12329,
+      "job": "director"
+    },
+    {
+      "personId": 4413,
+      "job": "writer"
+    },
+    {
+      "personId": 1009150,
+      "job": "writer"
+    },
+    {
+      "personId": 233172,
+      "job": "writer"
+    },
+    {
+      "personId": 12330,
+      "job": "writer"
+    },
+    {
+      "personId": 1483817,
+      "job": "producer"
+    },
+    {
+      "personId": 69974,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12331,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 71140,
+      "character": "Pasquale Maggi",
+      "order": 0
+    },
+    {
+      "personId": 550821,
+      "character": "Giuseppe Filippucci",
+      "order": 1
+    },
+    {
+      "personId": 550822,
+      "character": "Raffaele",
+      "order": 2
+    },
+    {
+      "personId": 589221,
+      "character": "Arcangeli",
+      "order": 3
+    },
+    {
+      "personId": 233174,
+      "character": "Staffera",
+      "order": 4
+    },
+    {
+      "personId": 944148,
+      "character": "il Panza (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 1274405,
+      "character": "L'avvocato Bonavino (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 1385488,
+      "character": "Bartoli, l'assistente sociale (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 1277213,
+      "character": "il commissario (uncredited)",
+      "order": 8
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 284,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

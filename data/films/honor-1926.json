@@ -1,0 +1,131 @@
+{
+  "tmdbId": 36277,
+  "slug": "honor-1926",
+  "year": 1926,
+  "runtime": 82,
+  "originalTitle": "Նամուս",
+  "title": {
+    "en": "Honor",
+    "tr": "Honor"
+  },
+  "overview": {
+    "en": "Based on Alexander Shirvanzade's 1885 novel of the same name, the film denounces the despotic rites and customs of Caucasian families. It is widely recognized as the first Armenian feature film.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/uzSo5xw1D0H0TRxjhQoRnfzyFGu.jpg",
+    "en": "/uzSo5xw1D0H0TRxjhQoRnfzyFGu.jpg"
+  },
+  "backdrops": [
+    "/2fCWWMct5hme1r5kOPOIXDpZq5Q.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    36,
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Armenia Studio",
+    "JSC \"Sakhkinmretsvi\""
+  ],
+  "crew": [
+    {
+      "personId": 1167401,
+      "job": "director"
+    },
+    {
+      "personId": 1544155,
+      "job": "composer"
+    },
+    {
+      "personId": 1303043,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1167401,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1374705,
+      "character": "Barkhudar",
+      "order": 0
+    },
+    {
+      "personId": 1374707,
+      "character": "Gyulnaz",
+      "order": 1
+    },
+    {
+      "personId": 1324668,
+      "character": "Rustam",
+      "order": 2
+    },
+    {
+      "personId": 1324669,
+      "character": "Hayrapet",
+      "order": 3
+    },
+    {
+      "personId": 1374709,
+      "character": "Shpanik",
+      "order": 4
+    },
+    {
+      "personId": 1374710,
+      "character": "Seyran",
+      "order": 5
+    },
+    {
+      "personId": 1374711,
+      "character": "Susan",
+      "order": 6
+    },
+    {
+      "personId": 1374712,
+      "character": "Badal",
+      "order": 7
+    },
+    {
+      "personId": 2921951,
+      "character": "Susambar",
+      "order": 8
+    },
+    {
+      "personId": 2921952,
+      "character": "Sanam",
+      "order": 9
+    },
+    {
+      "personId": 1324677,
+      "character": "Smbat",
+      "order": 10
+    },
+    {
+      "personId": 1324674,
+      "character": "Storekeeper",
+      "order": 11
+    },
+    {
+      "personId": 2921955,
+      "character": "Child Dancer",
+      "order": 12
+    },
+    {
+      "personId": 1344478,
+      "character": "Mariam",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 11,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

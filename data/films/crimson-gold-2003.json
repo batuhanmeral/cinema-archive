@@ -1,0 +1,141 @@
+{
+  "tmdbId": 40427,
+  "slug": "crimson-gold-2003",
+  "year": 2003,
+  "runtime": 96,
+  "originalTitle": "طلای سرخ",
+  "title": {
+    "en": "Crimson Gold",
+    "tr": "Crimson Gold"
+  },
+  "overview": {
+    "en": "Pizza man Hussein is a daily witnesses to the unjust distribution of wealth in his native Iran. One day, he finds a purse filled with shockingly expensive receipts from an upscale jewelry store. He attempts to bring the purse back to the store, but because of his working-class attire, he's not allowed inside. Then, during a delivery, a rich man invites Hussein into his extravagant mansion – an event that spurs Hussein to make a desperate bid for wealth.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/o8MFZIqtcCyo2J1cCnpVfGa6i66.jpg",
+    "en": "/vaD2OuSqFD0XjXX8JDFJD8lxnV4.jpg"
+  },
+  "backdrops": [
+    "/l3BaM4dtnhPljmiauzvyTAcshWL.jpg",
+    "/7iRAFle07qcQZdGBETIzvhodBdK.jpg",
+    "/a7aczEOX5nsP1o8JxqNSW25Vian.jpg",
+    "/pnoqet0qyG791MUnaW4gUVx9Pwl.jpg",
+    "/6PuUbqvDrtm6skmaYlgn8hZ6t3r.jpg",
+    "/o9LEZLW2ZX6G5KsWQXNCk0McuFM.jpg",
+    "/aq01o7jCGAc0Y1mnL2sky8RN5Y6.jpg",
+    "/8wyXCupYBCwXOJIagdr1GWk37mN.jpg",
+    "/qnfY7O0LptpZSqKeeWOgQl3iBcJ.jpg",
+    "/hno22hrHzD960xPYD4QG5Zl8ZF3.jpg"
+  ],
+  "trailerKey": "SDADriMrEls",
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    1321,
+    3430,
+    3330,
+    5986,
+    14735,
+    159469
+  ],
+  "countries": [
+    "IR",
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fa"
+  ],
+  "studios": [
+    "Jafar Panahi Productions",
+    "Lumen Films",
+    "Mikado Film"
+  ],
+  "crew": [
+    {
+      "personId": 120229,
+      "job": "director"
+    },
+    {
+      "personId": 1534556,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 120229,
+      "job": "producer"
+    },
+    {
+      "personId": 17503,
+      "job": "composer"
+    },
+    {
+      "personId": 119294,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 233291,
+      "character": "Hussein",
+      "order": 0
+    },
+    {
+      "personId": 233292,
+      "character": "Ali",
+      "order": 1
+    },
+    {
+      "personId": 1890645,
+      "character": "The Bride",
+      "order": 2
+    },
+    {
+      "personId": 1890646,
+      "character": "The Jeweler",
+      "order": 3
+    },
+    {
+      "personId": 1616417,
+      "character": "The Man in the Tea House",
+      "order": 4
+    },
+    {
+      "personId": 1890648,
+      "character": "The Rich Man",
+      "order": 5
+    },
+    {
+      "personId": 1890649,
+      "character": "The Seller",
+      "order": 6
+    },
+    {
+      "personId": 1890650,
+      "character": "The Soldier",
+      "order": 7
+    },
+    {
+      "personId": 1505443,
+      "character": "Soldier",
+      "order": 8
+    },
+    {
+      "personId": 117531,
+      "character": "Soldier",
+      "order": 9
+    },
+    {
+      "personId": 1890364,
+      "character": "Ibrahim",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 108,
+  "sources": [
+    "movement:iranian-new-wave"
+  ]
+}

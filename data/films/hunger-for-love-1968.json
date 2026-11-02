@@ -1,0 +1,114 @@
+{
+  "tmdbId": 147872,
+  "slug": "hunger-for-love-1968",
+  "year": 1968,
+  "runtime": 73,
+  "originalTitle": "Fome de Amor",
+  "title": {
+    "en": "Hunger for Love",
+    "tr": "Fome de Amor"
+  },
+  "overview": {
+    "en": "An extended research tour of US university film programs introduced dos Santos to the American avant-garde filmmakers, among them Jonas Mekas and Stan Brakhage, who would directly inspire his formally radical adaptation of an allegorical short story about adultery and colonialism by Guilherme de Figueiredo. Filmed in both Manhattan and Brazil and set against the background of the Vietnam War and its protests, Hunger for Love uses a rigorously abstract soundtrack and narrative structure to evoke the acute paranoia of the period building up to the December 1968 military coup that tipped Brazil perilously close to a conservative dictatorship. With its harsh critique of the decadent tendencies of the Sixties counterculture, Hunger for Love offers a key expression of the self-consciously “ideological” phase of Cinema Novo. -Harvard Film Archive",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/3hUB8DmVijVUIXng6HwzHB4DzIM.jpg",
+    "en": "/3hUB8DmVijVUIXng6HwzHB4DzIM.jpg"
+  },
+  "backdrops": [
+    "/2AYRc6u6zT4iEDW1fYJjjt0KqTH.jpg",
+    "/qimWO7Qc1JeIDyY2rPJHYvCjyKS.jpg",
+    "/5BYirdCy5giZcvgSY0C0oWpLaZE.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "es",
+    "en",
+    "it",
+    "pt"
+  ],
+  "studios": [
+    "Herbert Richers"
+  ],
+  "crew": [
+    {
+      "personId": 12386,
+      "job": "director"
+    },
+    {
+      "personId": 12389,
+      "job": "producer"
+    },
+    {
+      "personId": 1083199,
+      "job": "producer"
+    },
+    {
+      "personId": 1266412,
+      "job": "composer"
+    },
+    {
+      "personId": 37318,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12386,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1175080,
+      "character": "Ulla",
+      "order": 0
+    },
+    {
+      "personId": 1088240,
+      "character": "Felipe",
+      "order": 1
+    },
+    {
+      "personId": 1285733,
+      "character": "Mariana",
+      "order": 2
+    },
+    {
+      "personId": 1083199,
+      "character": "Alfredo",
+      "order": 3
+    },
+    {
+      "personId": 1262986,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 930666,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1283616,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 1664386,
+      "character": "",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 11,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

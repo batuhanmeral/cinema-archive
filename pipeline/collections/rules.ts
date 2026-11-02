@@ -4,7 +4,11 @@ import type { CollectionContent, CollectionRule } from '../schemas'
 export type CollectionFacts = {
   wikidataGenres: ReadonlySet<string>
   categories: ReadonlySet<string>
+  articles: ReadonlySet<string>
 }
+
+// Sahip kararı (2026-11-05): büyük koleksiyonlar en çok oy alan 100 filme indirilir.
+export const COLLECTION_MAX_FILMS = 100
 
 const anyIn = <T>(wanted: readonly T[], has: (value: T) => boolean) => wanted.some(has)
 
@@ -22,9 +26,13 @@ export function matchesRule(rule: CollectionRule, film: Film, facts: CollectionF
   ) {
     return false
   }
+  if (rule.wikipediaArticles && !anyIn(rule.wikipediaArticles, (a) => facts.articles.has(a))) {
+    return false
+  }
   return true
 }
 
+const byVotes = (a: Film, b: Film) => b.voteCount - a.voteCount || a.tmdbId - b.tmdbId
 const byYear = (a: Film, b: Film) => a.year - b.year || a.tmdbId - b.tmdbId
 
 export function buildCollections(
@@ -35,11 +43,13 @@ export function buildCollections(
   const collections: Collection[] = []
   const sizes = new Map<string, number>()
   for (const { slug, name, rule } of contents) {
-    const filmIds = films
-      .filter((film) => matchesRule(rule, film, factsOf(film.tmdbId)))
+    const matched = films.filter((film) => matchesRule(rule, film, factsOf(film.tmdbId)))
+    const filmIds = matched
+      .sort(byVotes)
+      .slice(0, COLLECTION_MAX_FILMS)
       .sort(byYear)
       .map((film) => film.tmdbId)
-    sizes.set(slug, filmIds.length)
+    sizes.set(slug, matched.length)
     if (filmIds.length > 0) collections.push({ slug, name, filmIds })
   }
   return { collections, sizes }
@@ -50,4 +60,8 @@ export const rulesNeedWikidataGenres = (contents: CollectionContent[]): boolean 
 
 export const ruleCategories = (contents: CollectionContent[]): string[] => [
   ...new Set(contents.flatMap(({ rule }) => rule.wikipediaCategories ?? [])),
+]
+
+export const ruleArticles = (contents: CollectionContent[]): string[] => [
+  ...new Set(contents.flatMap(({ rule }) => rule.wikipediaArticles ?? [])),
 ]

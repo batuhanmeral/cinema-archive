@@ -1,0 +1,192 @@
+{
+  "tmdbId": 104744,
+  "slug": "diary-of-a-shinjuku-thief-1969",
+  "year": 1969,
+  "runtime": 96,
+  "originalTitle": "新宿泥棒日記",
+  "title": {
+    "en": "Diary of a Shinjuku Thief",
+    "tr": "Diary of a Shinjuku Thief"
+  },
+  "overview": {
+    "en": "In Tokyo's Shinjuku district, the lives of a young man prone to theft, a young woman he meets at a bookstore, and a kabuki actor intersect.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/pL81JaRXHS2f34Gy2ueQSuQRPSG.jpg",
+    "en": "/CnLDr9dQBL43JqKfNIkq0xa6wN.jpg"
+  },
+  "backdrops": [
+    "/6MQL756ncBpIvCG0S3LXyWbotNA.jpg",
+    "/rW9B2d5SBmCbJsUjqiMnOuhFntp.jpg",
+    "/owh7HxeLnPdhALje8cGZLHJI4lx.jpg",
+    "/azulVpm0FtongJVhUBlXcrDe9w1.jpg",
+    "/yagAN6f8fOqiXrPgWfNKipsU5Jj.jpg",
+    "/lMY9LhnFghQnLgGdQJomJYRVYBM.jpg"
+  ],
+  "trailerKey": "TQOPzgf7tMs",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    570,
+    9727,
+    12369,
+    12426,
+    155851,
+    267122
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "fr",
+    "ja"
+  ],
+  "studios": [
+    "Sozosha",
+    "Art Theatre Guild"
+  ],
+  "crew": [
+    {
+      "personId": 1093414,
+      "job": "producer"
+    },
+    {
+      "personId": 46230,
+      "job": "director"
+    },
+    {
+      "personId": 1169966,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1093432,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 46230,
+      "job": "writer"
+    },
+    {
+      "personId": 140624,
+      "job": "writer"
+    },
+    {
+      "personId": 140623,
+      "job": "writer"
+    },
+    {
+      "personId": 134812,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 553329,
+      "character": "Torio Okanoue",
+      "order": 0
+    },
+    {
+      "personId": 134814,
+      "character": "Umeko Suzuki",
+      "order": 1
+    },
+    {
+      "personId": 224662,
+      "character": "Himself",
+      "order": 2
+    },
+    {
+      "personId": 33730,
+      "character": "Himself",
+      "order": 3
+    },
+    {
+      "personId": 138748,
+      "character": "Himself",
+      "order": 4
+    },
+    {
+      "personId": 223017,
+      "character": "Singer",
+      "order": 5
+    },
+    {
+      "personId": 2544,
+      "character": "Actor",
+      "order": 6
+    },
+    {
+      "personId": 237322,
+      "character": "Himself",
+      "order": 7
+    },
+    {
+      "personId": 553327,
+      "character": "Actress",
+      "order": 8
+    },
+    {
+      "personId": 3881753,
+      "character": "Self",
+      "order": 9
+    },
+    {
+      "personId": 3881755,
+      "character": "Self",
+      "order": 10
+    },
+    {
+      "personId": 237322,
+      "character": "Actor",
+      "order": 11
+    },
+    {
+      "personId": 1687208,
+      "character": "Actor",
+      "order": 12
+    },
+    {
+      "personId": 308445,
+      "character": "Actor",
+      "order": 13
+    },
+    {
+      "personId": 3881759,
+      "character": "Actor",
+      "order": 14
+    },
+    {
+      "personId": 3881760,
+      "character": "Actress",
+      "order": 15
+    },
+    {
+      "personId": 133603,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1016194,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 2114478,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 3881761,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 30,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

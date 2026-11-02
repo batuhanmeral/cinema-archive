@@ -1,0 +1,102 @@
+{
+  "tmdbId": 176321,
+  "slug": "new-year-s-eve-1924",
+  "year": 1924,
+  "runtime": 66,
+  "originalTitle": "Sylvester",
+  "title": {
+    "en": "New Year's Eve",
+    "tr": "Sylvester"
+  },
+  "overview": {
+    "en": "A man must choose between his mother and his wife as the rivalry ratchets up throughout New Year's Eve. Like Pick's previous films, New Year's Eve does not use intertitles.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6ia1zoM0PTqmzRsIEuuZjAHZKPJ.jpg",
+    "en": "/6ia1zoM0PTqmzRsIEuuZjAHZKPJ.jpg"
+  },
+  "backdrops": [
+    "/qFAHjGHrGrKteMo9hTz3sr0Ktde.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Rex-Film GmbH"
+  ],
+  "crew": [
+    {
+      "personId": 28996,
+      "job": "director"
+    },
+    {
+      "personId": 2792,
+      "job": "writer"
+    },
+    {
+      "personId": 49213,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 28996,
+      "job": "producer"
+    },
+    {
+      "personId": 1988156,
+      "job": "composer"
+    },
+    {
+      "personId": 55140,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 48029,
+      "character": "Der Mann / The Man",
+      "order": 0
+    },
+    {
+      "personId": 1444297,
+      "character": "Die Frau / The Woman",
+      "order": 1
+    },
+    {
+      "personId": 48062,
+      "character": "Die Mutter / The Mother",
+      "order": 2
+    },
+    {
+      "personId": 48044,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 590711,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 67254,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 2068802,
+      "character": "",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 13,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "tmdbId": 27019,
+  "slug": "celine-and-julie-go-boating-1974",
+  "year": 1974,
+  "runtime": 194,
+  "originalTitle": "Céline et Julie vont en bateau",
+  "title": {
+    "en": "Céline and Julie Go Boating",
+    "tr": "Céline et Julie vont en bateau"
+  },
+  "overview": {
+    "en": "Julie, a daydreaming librarian, meets Céline, an enigmatic magician, and together they become the heroines of a time-warping adventure involving a haunted house, psychotropic candy, and a murder-mystery melodrama.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/h62tGTMdVVUThFwl5b4EP18cBhb.jpg",
+    "en": "/ijpehUwH4XFNFm8UcYHpRQVRQUF.jpg"
+  },
+  "backdrops": [
+    "/25s9bpJhV44AHNImuYXE3mY9o5e.jpg",
+    "/b5GLJlkFFv4gIVPHAoBUQij1JL1.jpg",
+    "/t4hl22p3Q3Q4rbmXjDUvJpkGQe1.jpg",
+    "/iEwxg0FVToElOEE2hD5do5iBQzg.jpg",
+    "/oSr9IXgkJtpI6yeUkoDU3gfffBe.jpg",
+    "/4HKMrm1mfA4Nu6tHfv56vtYuM6f.jpg",
+    "/2sTbxKAPjLsH4RzQAP6ibYduJv2.jpg",
+    "/3q9cT8YTd0FNHI7kB4hbPMXnpa9.jpg",
+    "/4ThNHGkdZ2ITMGfX4tCFObLKOOD.jpg",
+    "/rPRt1e5DHr1Ue6inRlg4m1NXsSQ.jpg"
+  ],
+  "trailerKey": "CcVuBjWpIEI",
+  "genreIds": [
+    35,
+    18,
+    14
+  ],
+  "keywordIds": [
+    90,
+    2343,
+    2591,
+    2594,
+    3358,
+    9887,
+    5248,
+    11322,
+    207046,
+    207447,
+    217420,
+    221561,
+    236316,
+    236458,
+    245702,
+    300625,
+    345821
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Les Films Christian Fechner",
+    "Action Films",
+    "Les Films 7"
+  ],
+  "crew": [
+    {
+      "personId": 73153,
+      "job": "director"
+    },
+    {
+      "personId": 227409,
+      "job": "composer"
+    },
+    {
+      "personId": 23393,
+      "job": "producer"
+    },
+    {
+      "personId": 1360050,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18228,
+      "character": "Céline",
+      "order": 0
+    },
+    {
+      "personId": 24541,
+      "character": "Julie",
+      "order": 1
+    },
+    {
+      "personId": 38341,
+      "character": "Camille",
+      "order": 2
+    },
+    {
+      "personId": 3536,
+      "character": "Sophie",
+      "order": 3
+    },
+    {
+      "personId": 23393,
+      "character": "Olivier",
+      "order": 4
+    },
+    {
+      "personId": 1531625,
+      "character": "Madlyn",
+      "order": 5
+    },
+    {
+      "personId": 1401952,
+      "character": "Poupie",
+      "order": 6
+    },
+    {
+      "personId": 548699,
+      "character": "Guilou",
+      "order": 7
+    },
+    {
+      "personId": 1505259,
+      "character": "Lil",
+      "order": 8
+    },
+    {
+      "personId": 260837,
+      "character": "M'sieur Dede",
+      "order": 9
+    },
+    {
+      "personId": 2489431,
+      "character": "Alice",
+      "order": 10
+    },
+    {
+      "personId": 1187192,
+      "character": "Myrtille",
+      "order": 11
+    },
+    {
+      "personId": 1502642,
+      "character": "Julien",
+      "order": 12
+    },
+    {
+      "personId": 2489432,
+      "character": "Boris",
+      "order": 13
+    },
+    {
+      "personId": 227409,
+      "character": "Cyrille",
+      "order": 14
+    },
+    {
+      "personId": 236609,
+      "character": "Spectateur au cabaret (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 2470079,
+      "character": "Lecteur à la bibliothèque (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 3391211,
+      "character": "Spectateur au cabaret (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 53914,
+      "character": "Spectateur au cabaret / Lecteur à la bibliohèque (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1123092,
+      "character": "Un producteur dans le cabaret (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 172,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

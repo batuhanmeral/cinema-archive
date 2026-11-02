@@ -1,0 +1,115 @@
+{
+  "tmdbId": 55544,
+  "slug": "tartuffe-1926",
+  "year": 1926,
+  "runtime": 70,
+  "originalTitle": "Herr Tartüff",
+  "title": {
+    "en": "Tartuffe",
+    "tr": "Herr Tartüff"
+  },
+  "overview": {
+    "en": "A young man shows his millionaire grandfather a film based on Molière's play \"Tartuffe\" in order to expose the old man's hypocritical governess who covets the young man's inheritance.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xRin1lHzsK8s8EMfT54wgxiD61H.jpg",
+    "en": "/xRin1lHzsK8s8EMfT54wgxiD61H.jpg"
+  },
+  "backdrops": [
+    "/1vmfytDgYC7YZNK38jT3zbA22Fg.jpg",
+    "/pURJxy07cd4SDLajzqjMo2So59c.jpg",
+    "/9WnAUz7asZ7mvpS3BY59Ygz7RW8.jpg",
+    "/9B8bnHtSD2ShNWNTQFTBnCAvP7a.jpg",
+    "/tFXnPu6pqEKiO6zc7Ngnnx3ZsEb.jpg",
+    "/pVkUPCCy5aBek3pmE3WBjBVEgh7.jpg",
+    "/hrkMlo4guJovscJEGW19mQlitg6.jpg",
+    "/iMjWwSKq5TwDdc6mL4H0K6jhbw1.jpg",
+    "/6cBFUnp37x0R8wVe1IFT1YDT3IT.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    4373,
+    154802
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "UFA"
+  ],
+  "crew": [
+    {
+      "personId": 9076,
+      "job": "director"
+    },
+    {
+      "personId": 67,
+      "job": "producer"
+    },
+    {
+      "personId": 70,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2996,
+      "job": "composer"
+    },
+    {
+      "personId": 2792,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2895,
+      "character": "Tartüff",
+      "order": 0
+    },
+    {
+      "personId": 3000,
+      "character": "Herr Orgon",
+      "order": 1
+    },
+    {
+      "personId": 3005,
+      "character": "Frau Elmire / Elmire, Orgon's wife",
+      "order": 2
+    },
+    {
+      "personId": 222579,
+      "character": "Der Greis",
+      "order": 3
+    },
+    {
+      "personId": 2898,
+      "character": "Seine Haushälterin / Housekeeper",
+      "order": 4
+    },
+    {
+      "personId": 222580,
+      "character": "Sein Enkel / Grandson",
+      "order": 5
+    },
+    {
+      "personId": 222581,
+      "character": "Dorine",
+      "order": 6
+    },
+    {
+      "personId": 48938,
+      "character": "(uncredited)",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 80,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

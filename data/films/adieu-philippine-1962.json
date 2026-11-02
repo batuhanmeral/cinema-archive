@@ -1,0 +1,194 @@
+{
+  "tmdbId": 63880,
+  "slug": "adieu-philippine-1962",
+  "year": 1962,
+  "runtime": 111,
+  "originalTitle": "Adieu Philippine",
+  "title": {
+    "en": "Adieu Philippine",
+    "tr": "Adieu Philippine"
+  },
+  "overview": {
+    "en": "Michel is a young technician in the fledgling TV industry and is due for military service in two months at the time of the Algerian War. Juliette and Liliane are inseparable best friends, and aspiring actresses, who hang around outside the TV studio. Michel invites them in to watch, flirts with them both, and dates them separately and together. When Michel goes on a holiday to Corsica, just before he is drafted, the girls follow.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/zMsWl13cKCgCV6SAALtQTZEt5Ou.jpg",
+    "en": "/zMsWl13cKCgCV6SAALtQTZEt5Ou.jpg"
+  },
+  "backdrops": [
+    "/jxFMrLsgfZNaYbl7GsI9MtICNNi.jpg",
+    "/gq9tOfLSBhGWB3ttcIEgfyRr7vT.jpg",
+    "/2Gm0CIBsqUNeomrIWfKeMOvRQ4d.jpg",
+    "/iydpnnEB17lbg5BVML5ax8NWZPN.jpg",
+    "/gIT8Do3phwxxsy0OvjhQOkMVefh.jpg",
+    "/zcv1MCjuFgCQ8ecyLwwzIvWpCJR.jpg",
+    "/u4s2wzWJGj8fUyx6GhWWQer9JTf.jpg"
+  ],
+  "trailerKey": "sP_tcOdMaZ8",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Unitec Films",
+    "Rome-Paris Films",
+    "Euro International Films"
+  ],
+  "crew": [
+    {
+      "personId": 237666,
+      "job": "director"
+    },
+    {
+      "personId": 3779,
+      "job": "producer"
+    },
+    {
+      "personId": 1564523,
+      "job": "composer"
+    },
+    {
+      "personId": 1343511,
+      "job": "writer"
+    },
+    {
+      "personId": 1564522,
+      "job": "producer"
+    },
+    {
+      "personId": 30543,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 237666,
+      "job": "writer"
+    },
+    {
+      "personId": 1564525,
+      "job": "composer"
+    },
+    {
+      "personId": 1564524,
+      "job": "composer"
+    },
+    {
+      "personId": 1088499,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 590885,
+      "character": "Michel",
+      "order": 0
+    },
+    {
+      "personId": 590886,
+      "character": "Liliane",
+      "order": 1
+    },
+    {
+      "personId": 11223,
+      "character": "Pachala",
+      "order": 2
+    },
+    {
+      "personId": 590887,
+      "character": "Juliette",
+      "order": 3
+    },
+    {
+      "personId": 1564529,
+      "character": "Daniel",
+      "order": 4
+    },
+    {
+      "personId": 1564531,
+      "character": "Horatio",
+      "order": 5
+    },
+    {
+      "personId": 1564532,
+      "character": "Juliette (voice)",
+      "order": 6
+    },
+    {
+      "personId": 18814,
+      "character": "Monsieur Lambert",
+      "order": 7
+    },
+    {
+      "personId": 145103,
+      "character": "le vendeur de réfrigérateur",
+      "order": 8
+    },
+    {
+      "personId": 290144,
+      "character": "Madame Lambert",
+      "order": 9
+    },
+    {
+      "personId": 26171,
+      "character": "Dédé",
+      "order": 10
+    },
+    {
+      "personId": 24778,
+      "character": "La voisine",
+      "order": 11
+    },
+    {
+      "personId": 932514,
+      "character": "Le voisin",
+      "order": 12
+    },
+    {
+      "personId": 5181305,
+      "character": "Régnier de l'Isle",
+      "order": 13
+    },
+    {
+      "personId": 5181306,
+      "character": "Christian",
+      "order": 14
+    },
+    {
+      "personId": 5181307,
+      "character": "André",
+      "order": 15
+    },
+    {
+      "personId": 290144,
+      "character": "Madame Lambert - la mère de Michel",
+      "order": 16
+    },
+    {
+      "personId": 18814,
+      "character": "Monsieur Lambert - le père",
+      "order": 17
+    },
+    {
+      "personId": 5181308,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 114346,
+      "character": "Le chef d'émission",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 59,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

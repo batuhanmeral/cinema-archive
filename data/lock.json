@@ -5,7 +5,8 @@
       "tmdbId": 11,
       "slug": "star-wars-1977",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -21,7 +22,8 @@
       "tmdbId": 16,
       "slug": "dancer-in-the-dark-2000",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:dogme-95"
       ],
       "addedAt": "2026-10-30"
     },
@@ -37,7 +39,8 @@
       "tmdbId": 19,
       "slug": "metropolis-1927",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:german-expressionism"
       ],
       "addedAt": "2026-10-30"
     },
@@ -77,7 +80,8 @@
       "tmdbId": 28,
       "slug": "apocalypse-now-1979",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -85,7 +89,8 @@
       "tmdbId": 38,
       "slug": "eternal-sunshine-of-the-spotless-mind-2004",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -109,7 +114,8 @@
       "tmdbId": 62,
       "slug": "2001-a-space-odyssey-1968",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -250,10 +256,19 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 102,
+      "slug": "open-hearts-2002",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 103,
       "slug": "taxi-driver-1976",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -312,6 +327,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 112,
+      "slug": "italian-for-beginners-2000",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 113,
@@ -426,6 +449,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 139,
+      "slug": "mifune-1999",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 141,
       "slug": "donnie-darko-2001",
       "sources": [
@@ -450,12 +481,28 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 145,
+      "slug": "breaking-the-waves-1996",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 146,
       "slug": "crouching-tiger-hidden-dragon-2000",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 147,
+      "slug": "the-400-blows-1959",
+      "sources": [
+        "movement:french-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 149,
@@ -613,7 +660,8 @@
       "tmdbId": 216,
       "slug": "ali-fear-eats-the-soul-1974",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-german-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -650,6 +698,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 228,
+      "slug": "the-blue-angel-1930",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 229,
       "slug": "bride-of-frankenstein-1935",
       "sources": [
@@ -677,7 +733,8 @@
       "tmdbId": 234,
       "slug": "the-cabinet-of-dr-caligari-1920",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:german-expressionism"
       ],
       "addedAt": "2026-10-30"
     },
@@ -701,7 +758,8 @@
       "tmdbId": 238,
       "slug": "the-godfather-1972",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -717,7 +775,8 @@
       "tmdbId": 240,
       "slug": "the-godfather-part-ii-1974",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -797,7 +856,8 @@
       "tmdbId": 262,
       "slug": "the-king-of-comedy-1982",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -805,7 +865,8 @@
       "tmdbId": 266,
       "slug": "contempt-1963",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:french-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -821,7 +882,8 @@
       "tmdbId": 269,
       "slug": "breathless-1960",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:french-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -941,7 +1003,8 @@
       "tmdbId": 307,
       "slug": "rome-open-city-1945",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:italian-neorealism"
       ],
       "addedAt": "2026-10-30"
     },
@@ -949,7 +1012,8 @@
       "tmdbId": 309,
       "slug": "the-celebration-1998",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:dogme-95"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1037,7 +1101,8 @@
       "tmdbId": 348,
       "slug": "alien-1979",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1048,6 +1113,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 363,
+      "slug": "head-on-2004",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 377,
@@ -1125,7 +1198,8 @@
       "tmdbId": 405,
       "slug": "la-strada-1954",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:italian-neorealism"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1205,7 +1279,8 @@
       "tmdbId": 445,
       "slug": "cache-2005",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-french-extremity"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1221,7 +1296,9 @@
       "tmdbId": 452,
       "slug": "the-idiots-1998",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:dogme-95",
+        "movement:new-french-extremity"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1285,7 +1362,8 @@
       "tmdbId": 475,
       "slug": "bonnie-and-clyde-1967",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1341,7 +1419,8 @@
       "tmdbId": 492,
       "slug": "being-john-malkovich-1999",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1360,6 +1439,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 499,
+      "slug": "cleo-from-5-to-7-1962",
+      "sources": [
+        "movement:french-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 500,
@@ -1482,6 +1569,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 553,
+      "slug": "dogville-2003",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 562,
       "slug": "die-hard-1988",
       "sources": [
@@ -1517,7 +1612,8 @@
       "tmdbId": 570,
       "slug": "fat-girl-2001",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-french-extremity"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1541,7 +1637,8 @@
       "tmdbId": 576,
       "slug": "the-wild-bunch-1969",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1557,7 +1654,8 @@
       "tmdbId": 578,
       "slug": "jaws-1975",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1653,7 +1751,8 @@
       "tmdbId": 609,
       "slug": "poltergeist-1982",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1701,7 +1800,8 @@
       "tmdbId": 624,
       "slug": "easy-rider-1969",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1709,7 +1809,9 @@
       "tmdbId": 626,
       "slug": "un-chien-andalou-1929",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema",
+        "movement:french-poetic-realism"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1765,7 +1867,8 @@
       "tmdbId": 638,
       "slug": "lost-highway-1997",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1797,7 +1900,8 @@
       "tmdbId": 643,
       "slug": "battleship-potemkin-1925",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:soviet-montage"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1845,7 +1949,8 @@
       "tmdbId": 653,
       "slug": "nosferatu-1922",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:german-expressionism"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1874,10 +1979,19 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 659,
+      "slug": "the-tin-drum-1979",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 661,
       "slug": "the-marriage-of-maria-braun-1979",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-german-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1885,7 +1999,8 @@
       "tmdbId": 662,
       "slug": "la-jetee-1962",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:french-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -1997,7 +2112,8 @@
       "tmdbId": 694,
       "slug": "the-shining-1980",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2008,6 +2124,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 697,
+      "slug": "october-ten-days-that-shook-the-world-1928",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 702,
@@ -2178,10 +2302,27 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 776,
+      "slug": "the-rules-of-the-game-1939",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 777,
+      "slug": "grand-illusion-1937",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 779,
       "slug": "vampyr-1932",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:german-expressionism"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2205,7 +2346,8 @@
       "tmdbId": 789,
       "slug": "closely-watched-trains-1966",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:czechoslovak-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2221,7 +2363,8 @@
       "tmdbId": 794,
       "slug": "the-omen-1976",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2253,7 +2396,8 @@
       "tmdbId": 805,
       "slug": "rosemary-s-baby-1968",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2269,7 +2413,8 @@
       "tmdbId": 811,
       "slug": "silent-running-1972",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2317,7 +2462,8 @@
       "tmdbId": 829,
       "slug": "chinatown-1974",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2341,9 +2487,26 @@
       "tmdbId": 832,
       "slug": "m-1931",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:german-expressionism"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 833,
+      "slug": "umberto-d-1952",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 836,
+      "slug": "barren-lives-1963",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 837,
@@ -2389,7 +2552,8 @@
       "tmdbId": 843,
       "slug": "in-the-mood-for-love-2000",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:hong-kong-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2397,7 +2561,8 @@
       "tmdbId": 844,
       "slug": "2046-2004",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:hong-kong-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2549,7 +2714,8 @@
       "tmdbId": 903,
       "slug": "cool-hand-luke-1967",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2685,7 +2851,8 @@
       "tmdbId": 948,
       "slug": "halloween-1978",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2741,7 +2908,8 @@
       "tmdbId": 968,
       "slug": "dog-day-afternoon-1975",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2765,7 +2933,8 @@
       "tmdbId": 979,
       "slug": "irreversible-2002",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-french-extremity"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2797,7 +2966,8 @@
       "tmdbId": 985,
       "slug": "eraserhead-1977",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2845,7 +3015,8 @@
       "tmdbId": 1018,
       "slug": "mulholland-drive-2001",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -2861,7 +3032,8 @@
       "tmdbId": 1052,
       "slug": "blow-up-1966",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -3197,7 +3369,8 @@
       "tmdbId": 1556,
       "slug": "funeral-parade-of-roses-1969",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:japanese-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -3285,7 +3458,8 @@
       "tmdbId": 1628,
       "slug": "jules-and-jim-1962",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:french-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -3405,9 +3579,18 @@
       "tmdbId": 1730,
       "slug": "inland-empire-2006",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 1791,
+      "slug": "the-piano-teacher-2001",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 1792,
@@ -3461,7 +3644,8 @@
       "tmdbId": 1818,
       "slug": "shoot-the-piano-player-1960",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:french-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -3480,6 +3664,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 1836,
+      "slug": "in-my-skin-2002",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 1841,
@@ -3674,6 +3866,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 1951,
+      "slug": "manderlay-2005",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 1955,
       "slug": "the-elephant-man-1980",
       "sources": [
@@ -3741,9 +3941,18 @@
       "tmdbId": 2000,
       "slug": "aguirre-the-wrath-of-god-1972",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-german-cinema"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 2003,
+      "slug": "anatomy-of-hell-2004",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 2006,
@@ -3752,6 +3961,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 2009,
+      "slug": "4-months-3-weeks-and-2-days-2007",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 2075,
@@ -3850,6 +4067,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 2204,
+      "slug": "alice-in-the-cities-1974",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 2210,
       "slug": "earth-girls-are-easy-1988",
       "sources": [
@@ -3872,6 +4097,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 2262,
+      "slug": "veronika-voss-1982",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 2264,
+      "slug": "lola-1981",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 2268,
@@ -3933,7 +4174,8 @@
       "tmdbId": 2457,
       "slug": "children-of-paradise-1945",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:french-poetic-realism"
       ],
       "addedAt": "2026-10-30"
     },
@@ -3992,6 +4234,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 2644,
+      "slug": "aces-go-places-1982",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 2649,
@@ -4117,7 +4367,8 @@
       "tmdbId": 2768,
       "slug": "american-gigolo-1980",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -4138,6 +4389,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 2860,
+      "slug": "claire-s-knee-1970",
+      "sources": [
+        "movement:french-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 2891,
       "slug": "an-angel-at-my-table-1990",
       "sources": [
@@ -4154,10 +4413,27 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 2972,
+      "slug": "the-golem-how-he-came-into-the-world-1920",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 2973,
+      "slug": "aelita-queen-of-mars-1924",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 2974,
       "slug": "the-hands-of-orlac-1924",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:german-expressionism"
       ],
       "addedAt": "2026-10-30"
     },
@@ -4421,7 +4697,8 @@
       "tmdbId": 3116,
       "slug": "midnight-cowboy-1969",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -4429,7 +4706,8 @@
       "tmdbId": 3121,
       "slug": "nashville-1975",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -4461,7 +4739,8 @@
       "tmdbId": 3133,
       "slug": "badlands-1973",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -4469,7 +4748,8 @@
       "tmdbId": 3134,
       "slug": "baise-moi-2000",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-french-extremity"
       ],
       "addedAt": "2026-10-30"
     },
@@ -4682,6 +4962,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 3763,
+      "slug": "onibaba-1964",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 3764,
+      "slug": "the-naked-island-1960",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 3766,
       "slug": "the-lady-from-shanghai-1947",
       "sources": [
@@ -4709,7 +5005,8 @@
       "tmdbId": 4024,
       "slug": "last-year-at-marienbad-1961",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:french-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -4730,10 +5027,19 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 4173,
+      "slug": "stromboli-1950",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 4174,
       "slug": "spellbound-1945",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -4938,6 +5244,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 4762,
+      "slug": "the-lost-honor-of-katharina-blum-1975",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 4772,
       "slug": "cul-de-sac-1966",
       "sources": [
@@ -5005,7 +5319,8 @@
       "tmdbId": 4960,
       "slug": "synecdoche-new-york-2008",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -5098,10 +5413,19 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 5155,
+      "slug": "obsession-1943",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 5156,
       "slug": "bicycle-thieves-1948",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:italian-neorealism"
       ],
       "addedAt": "2026-10-30"
     },
@@ -5144,6 +5468,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 5206,
+      "slug": "the-boss-of-it-all-2006",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 5236,
@@ -5221,7 +5553,8 @@
       "tmdbId": 5544,
       "slug": "hiroshima-mon-amour-1959",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:french-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -5232,6 +5565,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 5562,
+      "slug": "le-beau-serge-1959",
+      "sources": [
+        "movement:french-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 5590,
@@ -5309,7 +5650,8 @@
       "tmdbId": 5729,
       "slug": "l-age-d-or-1930",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -5418,6 +5760,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 5991,
+      "slug": "the-last-laugh-1924",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 5998,
+      "slug": "dr-mabuse-the-gambler-1922",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 6069,
       "slug": "the-witches-of-eastwick-1987",
       "sources": [
@@ -5450,6 +5808,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 6404,
+      "slug": "nosferatu-the-vampyre-1979",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 6463,
       "slug": "other-people-s-money-1991",
       "sources": [
@@ -5464,6 +5830,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 6511,
+      "slug": "the-consequence-1977",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 6537,
@@ -5589,7 +5963,8 @@
       "tmdbId": 7340,
       "slug": "carrie-1976",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -5688,6 +6063,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 8016,
+      "slug": "germany-year-zero-1948",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 8046,
@@ -5829,7 +6212,8 @@
       "tmdbId": 8327,
       "slug": "the-holy-mountain-1973",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -5912,6 +6296,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 8429,
+      "slug": "paisan-1946",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 8440,
@@ -6162,6 +6554,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 9050,
+      "slug": "a-chinese-ghost-story-ii-1990",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 9060,
       "slug": "dumplings-2004",
       "sources": [
@@ -6309,7 +6709,8 @@
       "tmdbId": 9343,
       "slug": "fitzcarraldo-1982",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-german-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -6573,7 +6974,8 @@
       "tmdbId": 9539,
       "slug": "martyrs-2008",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-french-extremity"
       ],
       "addedAt": "2026-10-30"
     },
@@ -6586,10 +6988,19 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 9544,
+      "slug": "feardotcom-2002",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 9552,
       "slug": "the-exorcist-1973",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -7021,7 +7432,8 @@
       "tmdbId": 10226,
       "slug": "high-tension-2003",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-french-extremity"
       ],
       "addedAt": "2026-10-30"
     },
@@ -7109,7 +7521,8 @@
       "tmdbId": 10331,
       "slug": "night-of-the-living-dead-1968",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -7322,6 +7735,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 10613,
+      "slug": "the-king-is-alive-2000",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 10615,
       "slug": "pootie-tang-2001",
       "sources": [
@@ -7333,9 +7754,26 @@
       "tmdbId": 10617,
       "slug": "once-upon-a-time-in-china-1991",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:hong-kong-new-wave"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 10618,
+      "slug": "once-upon-a-time-in-china-ii-1992",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 10621,
+      "slug": "lovers-1999",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 10622,
@@ -7437,7 +7875,8 @@
       "tmdbId": 10728,
       "slug": "faust-1926",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:german-expressionism"
       ],
       "addedAt": "2026-10-30"
     },
@@ -7493,7 +7932,8 @@
       "tmdbId": 10775,
       "slug": "infernal-affairs-2002",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:hong-kong-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -7589,7 +8029,8 @@
       "tmdbId": 10834,
       "slug": "kings-of-the-road-1976",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-german-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -7690,6 +8131,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 10913,
+      "slug": "dear-wendy-2005",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 10925,
       "slug": "the-return-of-the-living-dead-1985",
       "sources": [
@@ -7701,7 +8150,8 @@
       "tmdbId": 10935,
       "slug": "heaven-s-gate-1980",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -7933,7 +8383,8 @@
       "tmdbId": 11104,
       "slug": "chungking-express-1994",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:hong-kong-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -8002,10 +8453,19 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 11220,
+      "slug": "fallen-angels-1995",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 11222,
       "slug": "the-american-friend-1977",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-german-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -8245,7 +8705,8 @@
       "tmdbId": 11471,
       "slug": "a-better-tomorrow-1986",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:hong-kong-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -8426,6 +8887,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 11597,
+      "slug": "toys-1992",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 11602,
       "slug": "through-a-glass-darkly-1961",
       "sources": [
@@ -8485,7 +8954,8 @@
       "tmdbId": 11644,
       "slug": "blow-out-1981",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -8496,6 +8966,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 11647,
+      "slug": "infernal-affairs-ii-2003",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 11654,
@@ -8597,7 +9075,8 @@
       "tmdbId": 11778,
       "slug": "the-deer-hunter-1978",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -8720,6 +9199,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 11845,
+      "slug": "intimacy-2001",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 11850,
@@ -8933,7 +9420,8 @@
       "tmdbId": 12105,
       "slug": "yellow-submarine-1968",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -9018,12 +9506,28 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 12289,
+      "slug": "red-cliff-2008",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 12309,
       "slug": "bachelor-party-1984",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 12456,
+      "slug": "the-five-obstructions-2003",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 12477,
@@ -9074,6 +9578,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 12578,
+      "slug": "germany-in-autumn-1978",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 12583,
       "slug": "ginger-snaps-back-the-beginning-2004",
       "sources": [
@@ -9109,9 +9621,18 @@
       "tmdbId": 12637,
       "slug": "new-york-new-york-1977",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 12703,
+      "slug": "the-brown-bunny-2003",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 12704,
@@ -9146,12 +9667,28 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 12777,
+      "slug": "it-s-all-about-love-2003",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 12779,
       "slug": "swept-away-2002",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 12831,
+      "slug": "amerikana-2001",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 12877,
@@ -9234,6 +9771,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 13166,
+      "slug": "freddy-got-fingered-2001",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 13183,
       "slug": "watchmen-2009",
       "sources": [
@@ -9266,6 +9811,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 13312,
+      "slug": "inside-2007",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 13317,
       "slug": "the-aerial-2007",
       "sources": [
@@ -9296,6 +9849,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 13345,
+      "slug": "a-chinese-odyssey-part-one-pandora-s-box-1995",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 13393,
+      "slug": "my-father-and-my-son-2005",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 13403,
@@ -9336,6 +9905,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 13492,
+      "slug": "frontier-s-2007",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 13509,
@@ -9440,6 +10017,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 13742,
+      "slug": "satan-2006",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 13785,
@@ -9682,6 +10267,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 14310,
+      "slug": "infernal-affairs-iii-2003",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 14334,
       "slug": "the-secret-of-roan-inish-1994",
       "sources": [
@@ -9760,6 +10353,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 14537,
+      "slug": "harakiri-1962",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 14554,
@@ -9973,7 +10574,8 @@
       "tmdbId": 15121,
       "slug": "the-sound-of-music-1965",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -10122,6 +10724,15 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 15742,
+      "slug": "taxidermia-2006",
+      "sources": [
+        "movement:surrealist-cinema",
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 15794,
       "slug": "white-heat-1949",
       "sources": [
@@ -10138,6 +10749,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 15842,
+      "slug": "kira-s-reason-a-love-story-2001",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 15856,
       "slug": "house-on-haunted-hill-1959",
       "sources": [
@@ -10149,7 +10768,8 @@
       "tmdbId": 15915,
       "slug": "the-pornographer-2001",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-french-extremity"
       ],
       "addedAt": "2026-10-30"
     },
@@ -10250,6 +10870,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 16269,
+      "slug": "god-of-gamblers-1989",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 16271,
       "slug": "massacre-at-central-high-1976",
       "sources": [
@@ -10293,7 +10921,8 @@
       "tmdbId": 16306,
       "slug": "fantastic-planet-1973",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -10317,7 +10946,8 @@
       "tmdbId": 16375,
       "slug": "schizopolis-1997",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -10389,7 +11019,8 @@
       "tmdbId": 16672,
       "slug": "woman-in-the-dunes-1964",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:japanese-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -10474,6 +11105,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 17078,
+      "slug": "the-color-of-paradise-1999",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 17204,
       "slug": "paradise-lost-the-child-murders-at-robin-hood-hills-1996",
       "sources": [
@@ -10488,6 +11127,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 17247,
+      "slug": "battle-in-heaven-2005",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 17295,
@@ -10573,7 +11220,8 @@
       "tmdbId": 17609,
       "slug": "antichrist-2009",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-french-extremity"
       ],
       "addedAt": "2026-10-30"
     },
@@ -10653,7 +11301,8 @@
       "tmdbId": 17905,
       "slug": "branded-to-kill-1967",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:japanese-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -10725,7 +11374,8 @@
       "tmdbId": 18193,
       "slug": "head-1968",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -10754,10 +11404,27 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 18305,
+      "slug": "a-better-tomorrow-ii-1987",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 18311,
+      "slug": "days-of-being-wild-1990",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 18329,
       "slug": "happy-together-1997",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:hong-kong-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -10781,7 +11448,8 @@
       "tmdbId": 18352,
       "slug": "the-cremator-1969",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:czechoslovak-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -10816,6 +11484,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 18421,
+      "slug": "climates-2006",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 18462,
@@ -10938,6 +11614,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 18897,
+      "slug": "don-t-look-back-2009",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 18900,
       "slug": "in-cold-blood-1967",
       "sources": [
@@ -10957,7 +11641,8 @@
       "tmdbId": 18910,
       "slug": "the-ninth-configuration-1980",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -10976,6 +11661,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 18949,
+      "slug": "the-last-trick-1964",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 18979,
@@ -11024,6 +11717,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 19006,
+      "slug": "the-flat-1968",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 19053,
@@ -11309,7 +12010,8 @@
       "tmdbId": 20629,
       "slug": "lemonade-joe-1964",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:czechoslovak-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -11344,6 +12046,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 20787,
+      "slug": "the-man-who-saved-the-world-1982",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 20806,
@@ -11413,7 +12123,8 @@
       "tmdbId": 21156,
       "slug": "lunacy-2005",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -11456,6 +12167,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 21334,
+      "slug": "children-of-heaven-1997",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 21335,
@@ -11645,7 +12364,8 @@
       "tmdbId": 22137,
       "slug": "the-kingdom-1994",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:dogme-95"
       ],
       "addedAt": "2026-10-30"
     },
@@ -11789,7 +12509,8 @@
       "tmdbId": 22694,
       "slug": "the-trip-1967",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -11920,6 +12641,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 23537,
+      "slug": "offside-2000",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 23567,
@@ -12066,6 +12795,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 24159,
+      "slug": "12-08-east-of-bucharest-2006",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 24163,
+      "slug": "as-tears-go-by-1988",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 24192,
       "slug": "the-gospel-according-to-st-matthew-1965",
       "sources": [
@@ -12080,6 +12825,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 24220,
+      "slug": "california-dreamin-2007",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 24274,
@@ -12128,6 +12881,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 24488,
+      "slug": "demonlover-2002",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 24565,
@@ -12301,9 +13062,18 @@
       "tmdbId": 25188,
       "slug": "the-last-picture-show-1971",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 25205,
+      "slug": "the-concert-2009",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 25237,
@@ -12498,12 +13268,29 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 25904,
+      "slug": "marketa-lazarova-1967",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 25905,
       "slug": "the-shop-on-main-street-1965",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:czechoslovak-new-wave"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 25908,
+      "slug": "the-valley-of-the-bees-1968",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 25955,
@@ -12528,6 +13315,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 26005,
+      "slug": "made-in-hong-kong-1997",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 26030,
@@ -12602,6 +13397,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 26252,
+      "slug": "pepe-le-moko-1937",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 26275,
       "slug": "kamikaze-girls-2004",
       "sources": [
@@ -12629,7 +13432,8 @@
       "tmdbId": 26317,
       "slug": "man-with-a-movie-camera-1929",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:soviet-montage"
       ],
       "addedAt": "2026-10-30"
     },
@@ -12653,7 +13457,8 @@
       "tmdbId": 26338,
       "slug": "romance-1999",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-french-extremity"
       ],
       "addedAt": "2026-10-30"
     },
@@ -12789,9 +13594,18 @@
       "tmdbId": 26617,
       "slug": "five-easy-pieces-1970",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 26636,
+      "slug": "twentynine-palms-2003",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 26639,
@@ -13002,6 +13816,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 27019,
+      "slug": "celine-and-julie-go-boating-1974",
+      "sources": [
+        "movement:french-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 27033,
       "slug": "the-strange-love-of-martha-ivers-1946",
       "sources": [
@@ -13013,9 +13835,18 @@
       "tmdbId": 27040,
       "slug": "meshes-of-the-afternoon-1943",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 27053,
+      "slug": "daybreak-1939",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 27064,
@@ -13109,7 +13940,8 @@
       "tmdbId": 27327,
       "slug": "phantom-of-the-paradise-1974",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -13178,6 +14010,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 27419,
+      "slug": "les-bonnes-femmes-1960",
+      "sources": [
+        "movement:french-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 27429,
       "slug": "shivers-1975",
       "sources": [
@@ -13240,6 +14080,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 27519,
+      "slug": "the-student-of-prague-1926",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 27522,
+      "slug": "waxworks-1924",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 27523,
@@ -13325,7 +14181,8 @@
       "tmdbId": 27645,
       "slug": "200-motels-1971",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -13634,6 +14491,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 28480,
+      "slug": "phantom-1922",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 28498,
       "slug": "theatre-of-blood-1973",
       "sources": [
@@ -13666,6 +14531,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 28525,
+      "slug": "the-unscrupulous-ones-1962",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 28536,
       "slug": "the-blancheville-monster-1963",
       "sources": [
@@ -13696,6 +14569,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 28627,
+      "slug": "the-student-of-prague-1913",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 28650,
@@ -13845,7 +14726,8 @@
       "tmdbId": 28988,
       "slug": "blackboards-2000",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:iranian-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -13917,7 +14799,8 @@
       "tmdbId": 29138,
       "slug": "crossing-the-bridge-the-sound-of-istanbul-2005",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-turkish-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -13981,9 +14864,18 @@
       "tmdbId": 29267,
       "slug": "destiny-1921",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:german-expressionism"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 29270,
+      "slug": "a-time-for-drunken-horses-2000",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 29290,
@@ -14101,7 +14993,8 @@
       "tmdbId": 29452,
       "slug": "the-face-of-another-1966",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:japanese-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -14237,9 +15130,18 @@
       "tmdbId": 30017,
       "slug": "close-up-1990",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:iranian-new-wave"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 30020,
+      "slug": "taste-of-cherry-1997",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 30082,
@@ -14317,7 +15219,8 @@
       "tmdbId": 30421,
       "slug": "a-chinese-ghost-story-1987",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:hong-kong-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -14333,7 +15236,8 @@
       "tmdbId": 30497,
       "slug": "the-texas-chain-saw-massacre-1974",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -14376,6 +15280,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 30633,
+      "slug": "istanbul-tales-2005",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 30645,
@@ -14437,7 +15349,8 @@
       "tmdbId": 30959,
       "slug": "kwaidan-1965",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:japanese-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -14450,12 +15363,44 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 31026,
+      "slug": "distant-2002",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 31032,
+      "slug": "the-death-of-mr-lazarescu-2005",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 31044,
       "slug": "my-favorite-year-1982",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 31058,
+      "slug": "bitter-rice-1949",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 31104,
+      "slug": "pigs-and-battleships-1961",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 31219,
@@ -14496,6 +15441,38 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 31405,
+      "slug": "the-foster-brothers-1976",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 31412,
+      "slug": "the-girl-with-the-red-scarf-1977",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 31413,
+      "slug": "innocence-1997",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 31415,
+      "slug": "mr-muhsin-1987",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 31417,
@@ -14850,6 +15827,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 32511,
+      "slug": "police-adjective-2009",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 32562,
       "slug": "the-celluloid-closet-1996",
       "sources": [
@@ -14912,6 +15897,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 32928,
+      "slug": "the-extraordinary-adventures-of-mr-west-in-the-land-of-the-bolsheviks-1924",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 32969,
@@ -15090,6 +16083,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 34064,
+      "slug": "marilena-from-p7-2006",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 34077,
       "slug": "the-giant-gila-monster-1959",
       "sources": [
@@ -15226,6 +16227,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 35114,
+      "slug": "destino-2003",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 35124,
       "slug": "nazarin-1959",
       "sources": [
@@ -15296,6 +16305,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 35712,
+      "slug": "secret-things-2002",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 35717,
+      "slug": "pola-x-1999",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 35749,
@@ -15373,7 +16398,8 @@
       "tmdbId": 36090,
       "slug": "emperor-tomato-ketchup-1971",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:japanese-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -15432,6 +16458,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 36277,
+      "slug": "honor-1926",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 36282,
@@ -15608,6 +16642,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 37181,
+      "slug": "about-elly-2009",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 37257,
@@ -15802,6 +16844,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 38155,
+      "slug": "zu-warriors-from-the-magic-mountain-1983",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 38221,
       "slug": "space-amoeba-1970",
       "sources": [
@@ -15856,6 +16906,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 38442,
+      "slug": "the-firemen-s-ball-1967",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 38446,
@@ -15914,6 +16972,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 38794,
+      "slug": "tosun-pasha-1976",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 38823,
       "slug": "horrors-of-the-black-museum-1959",
       "sources": [
@@ -15949,7 +17015,8 @@
       "tmdbId": 38985,
       "slug": "sorcerer-1977",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -15994,6 +17061,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 39376,
+      "slug": "tales-from-the-golden-age-2009",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 39387,
+      "slug": "loves-of-a-blonde-1965",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 39400,
       "slug": "hercules-1958",
       "sources": [
@@ -16010,6 +17093,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 39776,
+      "slug": "peking-opera-blues-1986",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 39800,
       "slug": "life-during-wartime-2010",
       "sources": [
@@ -16024,6 +17115,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 39840,
+      "slug": "if-i-want-to-whistle-i-whistle-2010",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 39850,
+      "slug": "eros-2004",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 39853,
@@ -16194,6 +17301,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 40346,
+      "slug": "all-for-the-winner-1990",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 40347,
       "slug": "curse-of-the-devil-1973",
       "sources": [
@@ -16234,6 +17349,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 40427,
+      "slug": "crimson-gold-2003",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 40440,
       "slug": "led-zeppelin-the-song-remains-the-same-1976",
       "sources": [
@@ -16258,10 +17381,19 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 40641,
+      "slug": "lola-1961",
+      "sources": [
+        "movement:french-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 40723,
       "slug": "trouble-every-day-2001",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-french-extremity"
       ],
       "addedAt": "2026-10-30"
     },
@@ -16269,7 +17401,8 @@
       "tmdbId": 40751,
       "slug": "ashes-of-time-1994",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:hong-kong-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -16394,6 +17527,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 41187,
+      "slug": "fate-2001",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 41213,
+      "slug": "the-fabulous-baron-munchausen-1962",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 41225,
       "slug": "spirits-of-the-dead-1968",
       "sources": [
@@ -16421,7 +17570,8 @@
       "tmdbId": 41291,
       "slug": "one-from-the-heart-1982",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -16589,7 +17739,8 @@
       "tmdbId": 42120,
       "slug": "city-on-fire-1987",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:hong-kong-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -16632,6 +17783,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 42142,
+      "slug": "marianne-and-juliane-1981",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 42153,
+      "slug": "celeste-1981",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 42156,
@@ -16720,6 +17887,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 42254,
+      "slug": "fox-and-his-friends-1975",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 42297,
@@ -16954,6 +18129,30 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 42718,
+      "slug": "the-pornographers-1966",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 42720,
+      "slug": "violence-at-noon-1966",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 42721,
+      "slug": "fighting-elegy-1966",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 42722,
       "slug": "the-nun-1967",
       "sources": [
@@ -16992,6 +18191,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 42881,
+      "slug": "julien-donkey-boy-1999",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 42984,
+      "slug": "the-insect-woman-1963",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 42987,
@@ -17266,6 +18481,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 43379,
+      "slug": "miracle-in-milan-1951",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 43383,
       "slug": "tom-brown-s-schooldays-1951",
       "sources": [
@@ -17282,12 +18505,28 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 43445,
+      "slug": "la-terra-trema-1949",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 43461,
       "slug": "odd-man-out-1947",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 43469,
+      "slug": "shoeshine-1946",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 43788,
@@ -17362,12 +18601,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 43904,
+      "slug": "l-atalante-1934",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 43905,
       "slug": "of-human-bondage-1934",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 43976,
+      "slug": "a-moment-of-innocence-1997",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 43984,
+      "slug": "the-cow-1969",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 44000,
@@ -17392,6 +18655,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 44105,
+      "slug": "destiny-2006",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 44132,
@@ -17442,6 +18713,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 44473,
+      "slug": "entr-acte-1924",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 44475,
       "slug": "ali-baba-and-the-forty-thieves-1944",
       "sources": [
@@ -17453,7 +18732,8 @@
       "tmdbId": 44494,
       "slug": "zero-for-conduct-1933",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:french-poetic-realism"
       ],
       "addedAt": "2026-10-30"
     },
@@ -17514,6 +18794,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 44865,
+      "slug": "the-grandmaster-2013",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 44878,
       "slug": "sleep-furiously-2008",
       "sources": [
@@ -17528,6 +18816,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 44914,
+      "slug": "the-butterfly-murders-1979",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 44967,
+      "slug": "strike-1925",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 45044,
@@ -17581,7 +18885,8 @@
       "tmdbId": 45694,
       "slug": "young-torless-1966",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-german-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -17589,9 +18894,34 @@
       "tmdbId": 45706,
       "slug": "tokyo-drifter-1966",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:japanese-new-wave"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 45713,
+      "slug": "double-suicide-1969",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 45802,
+      "slug": "the-lower-depths-1936",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 45871,
+      "slug": "the-mission-1999",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 45945,
@@ -17610,10 +18940,19 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 45996,
+      "slug": "dust-in-the-wind-1986",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 45999,
       "slug": "the-time-to-live-and-the-time-to-die-1985",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-taiwan-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -17650,18 +18989,44 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 46212,
+      "slug": "dragon-s-return-1968",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 46214,
+      "slug": "before-tonight-is-over-1966",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 46315,
       "slug": "valerie-and-her-week-of-wonders-1970",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:czechoslovak-new-wave"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 46326,
+      "slug": "port-of-shadows-1938",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 46362,
       "slug": "malpertuis-1972",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -17696,6 +19061,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 46581,
+      "slug": "immoral-tales-1974",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 46594,
+      "slug": "earth-1930",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 46688,
@@ -17757,7 +19138,8 @@
       "tmdbId": 46919,
       "slug": "daisies-1966",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:czechoslovak-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -17768,6 +19150,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 46982,
+      "slug": "black-peter-1964",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 46992,
@@ -17794,12 +19184,44 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 47062,
+      "slug": "miraculous-virgin-1967",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 47122,
       "slug": "flaming-creatures-1963",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 47189,
+      "slug": "capricious-summer-1968",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 47215,
+      "slug": "journey-to-the-sun-1999",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 47423,
+      "slug": "once-a-thief-1991",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 47429,
@@ -17816,6 +19238,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 47590,
+      "slug": "the-girl-with-the-hat-box-1927",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 47620,
@@ -17840,6 +19270,30 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 47852,
+      "slug": "when-the-cat-comes-1963",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 47900,
+      "slug": "birds-orphans-and-fools-1969",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 47903,
+      "slug": "the-sun-in-a-net-1963",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 47941,
@@ -17890,6 +19344,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 48116,
+      "slug": "love-sick-2006",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 48155,
       "slug": "the-big-knife-1955",
       "sources": [
@@ -17906,6 +19368,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 48266,
+      "slug": "ma-mere-2004",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 48350,
       "slug": "psychomania-1973",
       "sources": [
@@ -17920,6 +19390,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 48369,
+      "slug": "hotel-du-nord-1938",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 48492,
+      "slug": "detective-dee-and-the-mystery-of-the-phantom-flame-2010",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 48624,
@@ -17994,6 +19480,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 49302,
+      "slug": "the-biggest-heroes-1996",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 49361,
       "slug": "don-t-torture-a-duckling-1972",
       "sources": [
@@ -18024,6 +19518,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 49475,
+      "slug": "porn-theatre-2002",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 49571,
+      "slug": "intentions-of-murder-1964",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 49573,
@@ -18058,12 +19568,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 49769,
+      "slug": "don-t-let-them-shoot-the-kite-1989",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 49782,
       "slug": "night-games-1966",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 49834,
+      "slug": "the-international-2006",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 49964,
+      "slug": "where-is-the-friend-s-house-1987",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 50012,
@@ -18130,6 +19664,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 50696,
+      "slug": "profound-desires-of-the-gods-1968",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 50797,
       "slug": "burnt-by-the-sun-1994",
       "sources": [
@@ -18186,6 +19728,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 51413,
+      "slug": "no-one-knows-about-persian-cats-2009",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 51763,
       "slug": "the-long-walk-home-1990",
       "sources": [
@@ -18194,12 +19744,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 52072,
+      "slug": "clouds-of-may-1999",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 52104,
+      "slug": "hope-1970",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 52109,
       "slug": "love-streams-1984",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 52111,
+      "slug": "the-small-town-1997",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 52199,
@@ -18248,6 +19822,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 52656,
+      "slug": "reunion-2001",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 52677,
@@ -18306,10 +19888,19 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 53206,
+      "slug": "neseli-gunler-1978",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 53210,
       "slug": "duck-amuck-1953",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -18322,12 +19913,28 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 53301,
+      "slug": "toss-up-2004",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 53434,
       "slug": "jazz-on-a-summer-s-day-1960",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 53653,
+      "slug": "prison-on-fire-1987",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 53767,
@@ -18354,6 +19961,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 53934,
+      "slug": "propaganda-1999",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 53949,
       "slug": "the-monster-that-challenged-the-world-1957",
       "sources": [
@@ -18376,6 +19991,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 54146,
+      "slug": "pitfall-1962",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 54160,
@@ -18466,6 +20089,38 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 55151,
+      "slug": "tuesday-after-christmas-2010",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 55544,
+      "slug": "tartuffe-1926",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 55549,
+      "slug": "the-burning-soil-1922",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 55584,
+      "slug": "asphalt-1929",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 55616,
       "slug": "dracula-pages-from-a-virgin-s-diary-2002",
       "sources": [
@@ -18522,6 +20177,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 56314,
+      "slug": "truly-human-2001",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 56518,
+      "slug": "the-flowers-of-st-francis-1950",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 56539,
       "slug": "friday-foster-1975",
       "sources": [
@@ -18536,6 +20207,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 56653,
+      "slug": "sombre-1998",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 56693,
@@ -18560,6 +20239,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 57018,
+      "slug": "caged-2010",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 57103,
@@ -18602,6 +20289,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 57628,
+      "slug": "the-path-of-hope-1950",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 57663,
+      "slug": "god-of-gamblers-ii-1990",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 57665,
       "slug": "the-mask-1961",
       "sources": [
@@ -18616,6 +20319,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 57892,
+      "slug": "vizontele-2001",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 58094,
+      "slug": "anemic-cinema-1926",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 58128,
@@ -18690,6 +20409,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 58897,
+      "slug": "dry-summer-1963",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 59210,
       "slug": "the-mother-2003",
       "sources": [
@@ -18744,6 +20471,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 60243,
+      "slug": "a-separation-2011",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 60269,
@@ -18826,12 +20561,29 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 61461,
+      "slug": "the-children-are-watching-us-1943",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 61475,
       "slug": "pale-flower-1964",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:japanese-new-wave"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 61848,
+      "slug": "waiting-for-the-clouds-2003",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 61904,
@@ -18906,12 +20658,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 63213,
+      "slug": "the-man-who-lies-1968",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 63486,
       "slug": "magic-boy-1959",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 63880,
+      "slug": "adieu-philippine-1962",
+      "sources": [
+        "movement:french-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 63981,
+      "slug": "summer-light-1943",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 64084,
@@ -18968,6 +20744,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 64897,
+      "slug": "stormy-waters-1941",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 64912,
@@ -19034,6 +20818,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 65477,
+      "slug": "four-steps-in-the-clouds-1942",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 65604,
       "slug": "candy-mountain-1988",
       "sources": [
@@ -19090,12 +20882,28 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 66184,
+      "slug": "the-turning-wind-1962",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 66489,
       "slug": "bad-1977",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 66654,
+      "slug": "shoot-or-be-shot-2002",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 66706,
@@ -19106,12 +20914,28 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 67062,
+      "slug": "entranced-earth-1967",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 67298,
       "slug": "lisztomania-1975",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 67404,
+      "slug": "the-autobiography-of-nicolae-ceausescu-2010",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 67409,
@@ -19122,10 +20946,19 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 67443,
+      "slug": "la-belle-equipe-1936",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 67612,
       "slug": "black-god-white-devil-1964",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:cinema-novo"
       ],
       "addedAt": "2026-10-30"
     },
@@ -19149,9 +20982,18 @@
       "tmdbId": 68173,
       "slug": "macunaima-1969",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:cinema-novo"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 68429,
+      "slug": "go-go-second-time-virgin-1969",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 68445,
@@ -19176,6 +21018,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 68883,
+      "slug": "rouge-1987",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 69014,
@@ -19290,6 +21140,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 72400,
+      "slug": "la-bandera-1935",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 72445,
+      "slug": "boat-people-1982",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 72497,
       "slug": "when-the-clouds-roll-by-1919",
       "sources": [
@@ -19322,6 +21188,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 73682,
+      "slug": "the-paper-will-be-blue-2006",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 73841,
+      "slug": "the-sword-1980",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 73861,
       "slug": "a-serbian-film-2010",
       "sources": [
@@ -19338,12 +21220,29 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 74304,
+      "slug": "aaahh-belinda-1986",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 74349,
       "slug": "antonio-das-mortes-1969",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:cinema-novo"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 74360,
+      "slug": "sao-paulo-incorporated-1965",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 74469,
@@ -19426,6 +21325,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 77381,
+      "slug": "intimate-lighting-1965",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 77552,
       "slug": "gallivant-1996",
       "sources": [
@@ -19482,12 +21389,44 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 78117,
+      "slug": "eros-massacre-1969",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 78450,
+      "slug": "terrorizers-1986",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 78507,
       "slug": "spies-1928",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 79084,
+      "slug": "the-confession-2001",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 79085,
+      "slug": "the-third-page-1999",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 79090,
@@ -19554,6 +21493,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 80115,
+      "slug": "the-happiest-girl-in-the-world-2009",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 80560,
       "slug": "wanda-1970",
       "sources": [
@@ -19562,12 +21509,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 80841,
+      "slug": "my-dear-brother-1973",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 81417,
       "slug": "taza-son-of-cochise-1954",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 81527,
+      "slug": "aurora-2011",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 82088,
+      "slug": "zvenigora-1928",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 82283,
@@ -19581,7 +21552,8 @@
       "tmdbId": 83096,
       "slug": "ganja-hess-1973",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -19610,6 +21582,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 83567,
+      "slug": "somersault-in-a-coffin-1996",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 83599,
       "slug": "calendar-1993",
       "sources": [
@@ -19618,12 +21598,28 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 83651,
+      "slug": "the-chaos-class-1975",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 84002,
       "slug": "of-freaks-and-men-1998",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 84014,
+      "slug": "the-herd-1978",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 84079,
@@ -19642,12 +21638,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 84273,
+      "slug": "storm-over-asia-1928",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 84423,
       "slug": "the-house-that-cried-murder-1973",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 84943,
+      "slug": "genuine-the-tragedy-of-a-vampire-1920",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 84956,
+      "slug": "warning-shadows-1923",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 85224,
@@ -19680,6 +21700,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 85692,
+      "slug": "a-man-vanishes-1967",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 85715,
+      "slug": "arsenal-1929",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 85871,
@@ -19770,6 +21806,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 86666,
+      "slug": "gate-of-flesh-1964",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 86942,
       "slug": "tusk-1980",
       "sources": [
@@ -19826,12 +21870,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 88307,
+      "slug": "celebration-in-the-botanical-garden-1969",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 88421,
       "slug": "wavelength-1967",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 88527,
+      "slug": "cruel-story-of-youth-1960",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 88562,
+      "slug": "assassination-1964",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 88580,
@@ -19848,6 +21916,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 89785,
+      "slug": "yesterday-girl-1967",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 89995,
@@ -19880,6 +21956,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 91186,
+      "slug": "a-simple-life-2012",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 91378,
@@ -19930,6 +22014,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 92834,
+      "slug": "vizontele-tuuba-2004",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 92989,
+      "slug": "a-summer-at-grandpa-s-1984",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 93061,
       "slug": "rock-around-the-clock-1956",
       "sources": [
@@ -19944,6 +22044,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 93520,
+      "slug": "the-starfish-1928",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 93890,
@@ -19978,6 +22086,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 94466,
+      "slug": "the-ceremony-1971",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 94653,
       "slug": "twilight-of-the-ice-nymphs-1997",
       "sources": [
@@ -20002,10 +22118,19 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 94803,
+      "slug": "variety-1925",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 95508,
       "slug": "the-warped-ones-1960",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:japanese-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -20024,6 +22149,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 96010,
+      "slug": "the-way-i-spent-the-end-of-the-world-2006",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 96049,
+      "slug": "the-bride-1973",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 96159,
@@ -20082,12 +22223,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 98193,
+      "slug": "death-by-hanging-1968",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 98200,
+      "slug": "bed-and-sofa-1927",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 98505,
       "slug": "seventh-heaven-1997",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 98914,
+      "slug": "mother-1926",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 99008,
@@ -20098,12 +22263,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 99216,
+      "slug": "cabin-fever-2000",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 99536,
       "slug": "satanis-the-devil-s-mass-1970",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 99599,
+      "slug": "daughter-of-the-nile-1987",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 99642,
+      "slug": "a-new-life-2002",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 100224,
@@ -20130,6 +22319,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 100589,
+      "slug": "diamonds-of-the-night-1964",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 102388,
       "slug": "the-blonde-witch-1956",
       "sources": [
@@ -20144,6 +22341,38 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 103740,
+      "slug": "beyond-the-hills-2012",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 104171,
+      "slug": "the-green-green-grass-of-home-1982",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 104193,
+      "slug": "boy-1969",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 104241,
+      "slug": "heroic-purgatory-1970",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 104242,
@@ -20162,12 +22391,44 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 104287,
+      "slug": "dangerous-encounters-of-the-first-kind-1980",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 104304,
       "slug": "sometimes-aunt-martha-does-dreadful-things-1971",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 104306,
+      "slug": "the-return-of-the-prodigal-son-1967",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 104343,
+      "slug": "the-man-who-left-his-will-on-film-1970",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 104441,
+      "slug": "nanami-the-inferno-of-first-love-1968",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 104501,
@@ -20178,12 +22439,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 104549,
+      "slug": "throw-away-your-books-rally-in-the-streets-1971",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 104729,
       "slug": "midnight-1982",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 104744,
+      "slug": "diary-of-a-shinjuku-thief-1969",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 105170,
+      "slug": "the-overcoat-1926",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 105184,
@@ -20194,10 +22479,27 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 105347,
+      "slug": "how-tasty-was-my-little-frenchman-1971",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 105348,
+      "slug": "the-party-and-the-guests-1966",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 105552,
       "slug": "rose-hobart-1936",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-10-30"
     },
@@ -20213,9 +22515,18 @@
       "tmdbId": 105627,
       "slug": "the-joke-1969",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:czechoslovak-new-wave"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 105703,
+      "slug": "the-boys-from-fengkuei-1983",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 105902,
@@ -20232,6 +22543,38 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 106124,
+      "slug": "pearls-of-the-deep-1966",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 106254,
+      "slug": "the-end-of-st-petersburg-1927",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 106373,
+      "slug": "that-day-on-the-beach-1983",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 106380,
+      "slug": "taipei-story-1985",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 107199,
@@ -20274,6 +22617,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 109276,
+      "slug": "night-and-fog-in-japan-1960",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 110283,
       "slug": "minbo-or-the-gentle-art-of-japanese-extortion-1992",
       "sources": [
@@ -20290,6 +22641,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 110573,
+      "slug": "the-woman-who-dared-1944",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 110689,
       "slug": "chafed-elbows-1967",
       "sources": [
@@ -20298,12 +22657,28 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 110741,
+      "slug": "the-general-line-1929",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 110980,
       "slug": "the-mad-monster-1942",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 111718,
+      "slug": "the-sun-s-burial-1960",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 112912,
@@ -20328,6 +22703,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 113936,
+      "slug": "the-roof-1956",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 114194,
+      "slug": "opium-1919",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 114287,
@@ -20386,6 +22777,46 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 115243,
+      "slug": "the-cry-1964",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 116705,
+      "slug": "the-bread-of-those-early-years-1962",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 117042,
+      "slug": "the-devil-s-trap-1962",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 117979,
+      "slug": "hunting-scenes-from-bavaria-1969",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 118014,
+      "slug": "the-seashell-and-the-clergyman-1928",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 118547,
       "slug": "nighthawks-1978",
       "sources": [
@@ -20418,6 +22849,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 122524,
+      "slug": "the-second-awakening-of-christa-klages-1978",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 122709,
       "slug": "zoo-in-budapest-1933",
       "sources": [
@@ -20448,6 +22887,22 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 124414,
+      "slug": "pictures-of-the-old-world-1972",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 124517,
+      "slug": "emotion-1966",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 125025,
@@ -20498,6 +22953,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 126325,
+      "slug": "everybody-in-our-family-2012",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 126644,
+      "slug": "by-the-law-1926",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 127255,
       "slug": "the-moon-and-the-sledgehammer-1971",
       "sources": [
@@ -20522,12 +22993,28 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 128090,
+      "slug": "the-house-on-trubnaya-1928",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 128770,
       "slug": "magnitude-7-9-1980",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 128846,
+      "slug": "not-reconciled-1965",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 128891,
@@ -20546,12 +23033,52 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 130052,
+      "slug": "the-street-1923",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 130922,
+      "slug": "in-our-time-1982",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 130961,
+      "slug": "it-is-not-the-homosexual-who-is-perverse-but-the-society-in-which-he-lives-1971",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 131862,
+      "slug": "under-the-pavement-lies-the-strand-1975",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 132030,
       "slug": "the-green-elephant-1999",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 134346,
+      "slug": "downpour-1972",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 135369,
@@ -20562,12 +23089,44 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 136141,
+      "slug": "the-steel-road-1929",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 136727,
+      "slug": "of-snails-and-men-2012",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 136896,
       "slug": "sekal-has-to-die-1998",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 137347,
+      "slug": "closer-to-the-moon-2014",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 138750,
+      "slug": "the-mysteries-of-the-chateau-of-dice-1929",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 139058,
@@ -20626,6 +23185,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 143479,
+      "slug": "shanghai-blues-1984",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 145451,
       "slug": "enter-the-devil-1974",
       "sources": [
@@ -20650,6 +23217,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 147872,
+      "slug": "hunger-for-love-1968",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 148047,
       "slug": "the-idols-1968",
       "sources": [
@@ -20666,12 +23241,44 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 151068,
+      "slug": "the-new-babylon-1929",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 151194,
+      "slug": "under-the-olive-tree-1950",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 151342,
       "slug": "the-chess-player-1927",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 152131,
+      "slug": "the-boxer-and-death-1963",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 153832,
+      "slug": "little-lise-1930",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 154073,
@@ -20682,12 +23289,52 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 154080,
+      "slug": "the-exhibited-2000",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 154582,
+      "slug": "artists-under-the-big-top-perplexed-1968",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 156139,
+      "slug": "outcry-1946",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 156346,
       "slug": "east-of-borneo-1931",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 158968,
+      "slug": "salt-for-svanetia-1930",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 159220,
+      "slug": "people-of-the-po-valley-1947",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 159636,
@@ -20706,6 +23353,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 160118,
+      "slug": "child-s-pose-2013",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 160661,
+      "slug": "wings-of-a-serf-1926",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 161113,
       "slug": "girl-gang-1954",
       "sources": [
@@ -20714,12 +23377,60 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 162616,
+      "slug": "she-and-he-1963",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 162723,
+      "slug": "in-spring-1929",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 162865,
       "slug": "war-comes-to-america-1945",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 163857,
+      "slug": "friend-1974",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 164695,
+      "slug": "bad-boys-1961",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 166883,
+      "slug": "the-great-game-1934",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 167354,
+      "slug": "fragment-of-an-empire-1929",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 167416,
@@ -20738,6 +23449,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 168907,
+      "slug": "nerves-1919",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 170219,
       "slug": "yesterday-s-hero-1979",
       "sources": [
@@ -20754,12 +23473,100 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 171295,
+      "slug": "something-different-1963",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 171502,
       "slug": "beast-man-snow-man-1955",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 173494,
+      "slug": "my-grandmother-1929",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 175323,
+      "slug": "algol-tragedy-of-power-1920",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 175437,
+      "slug": "shattered-1921",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 175503,
+      "slug": "from-morning-to-midnight-1920",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 175716,
+      "slug": "crime-and-punishment-1923",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 175869,
+      "slug": "the-treasure-1923",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 176321,
+      "slug": "new-year-s-eve-1924",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 176650,
+      "slug": "the-sandwich-man-1983",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 176656,
+      "slug": "growing-up-1983",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 176664,
+      "slug": "strawman-1987",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 183586,
@@ -20770,12 +23577,60 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 184465,
+      "slug": "the-death-ray-1925",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 184508,
+      "slug": "jewish-luck-1925",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 184892,
       "slug": "the-phantom-empire-1935",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 185579,
+      "slug": "a-sixth-part-of-the-world-1926",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 186738,
+      "slug": "the-red-light-bandit-1968",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 187838,
+      "slug": "the-waterfall-2001",
+      "sources": [
+        "movement:new-turkish-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 188344,
+      "slug": "the-cigarette-girl-of-mosselprom-1924",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 188488,
@@ -20786,6 +23641,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 189420,
+      "slug": "mechanics-of-the-brain-1926",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 189486,
+      "slug": "katka-s-reinette-apples-1926",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 189621,
       "slug": "beau-geste-1926",
       "sources": [
@@ -20794,12 +23665,92 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 189671,
+      "slug": "prostitute-1927",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 189675,
+      "slug": "the-club-of-the-big-deed-1927",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 189684,
+      "slug": "a-kiss-from-mary-pickford-1927",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 189699,
+      "slug": "the-man-from-the-restaurant-1927",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 189921,
+      "slug": "the-peasant-women-of-ryazan-1927",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 189965,
+      "slug": "eliso-1929",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 191720,
       "slug": "jodorowsky-s-dune-2013",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 193532,
+      "slug": "of-gods-and-the-undead-1970",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 194088,
+      "slug": "chess-of-the-wind-1976",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 194853,
+      "slug": "the-guns-1964",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 195282,
+      "slug": "the-brave-warrior-1968",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 197599,
@@ -20818,12 +23769,44 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 198653,
+      "slug": "pindorama-1970",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 198897,
+      "slug": "the-song-of-the-grey-pigeon-1961",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 200887,
+      "slug": "anxiety-1974",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 202886,
       "slug": "the-royal-hunt-of-the-sun-1969",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 205660,
+      "slug": "a-flower-in-the-rainy-night-1983",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 206159,
@@ -20872,6 +23855,46 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 212761,
+      "slug": "a-case-for-a-rookie-hangman-1970",
+      "sources": [
+        "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 212951,
+      "slug": "ganga-zumba-1963",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 213592,
+      "slug": "still-life-1974",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 213938,
+      "slug": "the-runner-1984",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 214069,
+      "slug": "when-evening-falls-on-bucharest-or-metabolism-2013",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 214944,
@@ -20962,12 +23985,28 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 250676,
+      "slug": "miss-mend-1926",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 251417,
       "slug": "the-private-lives-of-adam-and-eve-1960",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 251504,
+      "slug": "fuckland-2000",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 252171,
@@ -20978,6 +24017,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 253374,
+      "slug": "five-times-favela-1962",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 253380,
+      "slug": "saint-bernard-1972",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 254141,
       "slug": "jassy-1947",
       "sources": [
@@ -20986,12 +24041,44 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 256133,
+      "slug": "kuei-mei-a-woman-1985",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 256222,
       "slug": "sleep-1964",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 256786,
+      "slug": "qeysar-1969",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 257261,
+      "slug": "my-prostitute-love-1968",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 257678,
+      "slug": "the-bright-day-2013",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 257816,
@@ -21010,12 +24097,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 258521,
+      "slug": "the-deceased-1965",
+      "sources": [
+        "movement:cinema-novo"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 260551,
+      "slug": "ankara-express-1970",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 261250,
       "slug": "the-boy-from-mercury-1996",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 262806,
+      "slug": "the-forty-first-1927",
+      "sources": [
+        "movement:soviet-montage"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 269407,
@@ -21026,6 +24137,22 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 270406,
+      "slug": "revenge-of-the-snakes-1962",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 270971,
+      "slug": "poverty-2009",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 271327,
       "slug": "mr-reliable-1996",
       "sources": [
@@ -21034,12 +24161,68 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 271790,
+      "slug": "birds-of-exile-1964",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 272045,
+      "slug": "the-wedding-1973",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 272057,
+      "slug": "a-nation-awakens-1966",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 272133,
+      "slug": "osmanthus-alley-1987",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 272609,
+      "slug": "kara-carsafli-gelin-1975",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 272652,
+      "slug": "bozuk-duzen-1966",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 272859,
       "slug": "surakksha-1979",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 274958,
+      "slug": "last-five-days-1982",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 275646,
@@ -21066,12 +24249,52 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 285782,
+      "slug": "pension-mimosas-1935",
+      "sources": [
+        "movement:french-poetic-realism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 285923,
       "slug": "grindhouse-2007",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 287131,
+      "slug": "night-journey-1987",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 287218,
+      "slug": "love-and-grudge-1964",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 289697,
+      "slug": "strike-the-interests-1982",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 291270,
+      "slug": "anomalisa-2015",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 296294,
@@ -21088,6 +24311,30 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 300178,
+      "slug": "a-lonely-woman-1985",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 300959,
+      "slug": "women-s-ward-1990",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 305696,
+      "slug": "deep-breath-2003",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 306971,
@@ -21122,12 +24369,28 @@
       "addedAt": "2026-10-31"
     },
     {
+      "tmdbId": 319993,
+      "slug": "aferim-2015",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 327273,
       "slug": "re-entry-1964",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 329265,
+      "slug": "a-sip-of-love-1984",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 329732,
@@ -21138,12 +24401,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 334924,
+      "slug": "the-treasure-2015",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 341632,
       "slug": "shoot-to-kill-1990",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 346757,
+      "slug": "box-2015",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 347031,
+      "slug": "swiss-army-man-2016",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 348382,
@@ -21186,6 +24473,30 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 374452,
+      "slug": "sieranevada-2016",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 374458,
+      "slug": "graduation-2016",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 375315,
+      "slug": "the-salesman-2016",
+      "sources": [
+        "movement:iranian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 375742,
       "slug": "the-lure-2015",
       "sources": [
@@ -21194,12 +24505,68 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 386554,
+      "slug": "o-sole-mio-1946",
+      "sources": [
+        "movement:italian-neorealism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 392812,
+      "slug": "dogs-2016",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 393519,
+      "slug": "raw-2017",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 394269,
       "slug": "lemonade-2016",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 396461,
+      "slug": "under-the-silver-lake-2018",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 399711,
+      "slug": "the-blackguard-1925",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 406535,
+      "slug": "scarred-hearts-2016",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 409487,
+      "slug": "the-swing-1983",
+      "sources": [
+        "movement:new-german-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 410724,
@@ -21216,6 +24583,30 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 426290,
+      "slug": "the-outcome-2005",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 426733,
+      "slug": "panic-in-the-house-of-ardon-1920",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 429732,
+      "slug": "ana-my-love-2017",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 430214,
@@ -21282,12 +24673,44 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 449662,
+      "slug": "the-mine-1978",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 452678,
       "slug": "dr-dippy-s-sanitarium-1906",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 453906,
+      "slug": "guzel-bir-gun-icin-1965",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 453913,
+      "slug": "zalimler-1966",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 453924,
+      "slug": "ince-cumali-1967",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 466626,
@@ -21306,6 +24729,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 471843,
+      "slug": "my-favorite-season-1985",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 472014,
       "slug": "the-sensuous-three-1972",
       "sources": [
@@ -21322,12 +24753,76 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 473384,
+      "slug": "deli-yusuf-1975",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 475963,
+      "slug": "pororoca-2018",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 498695,
       "slug": "the-rapacious-jailbreaker-1974",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 499155,
+      "slug": "touch-me-not-2018",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 500840,
+      "slug": "i-m-thinking-of-ending-things-2020",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 500909,
+      "slug": "i-do-not-care-if-we-go-down-in-history-as-barbarians-2018",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 501340,
+      "slug": "cirkinler-de-sever-1981",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 504847,
+      "slug": "resin-2001",
+      "sources": [
+        "movement:dogme-95"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 507076,
+      "slug": "climax-2018",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 513434,
@@ -21338,12 +24833,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 522615,
+      "slug": "an-ugly-man-1969",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 543762,
       "slug": "the-crossing-2018",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 545611,
+      "slug": "everything-everywhere-all-at-once-2022",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 552091,
+      "slug": "persecution-1972",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 565373,
@@ -21362,6 +24881,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 575448,
+      "slug": "malmkrog-2020",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 581389,
       "slug": "space-sweepers-2021",
       "sources": [
@@ -21370,12 +24897,60 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 613328,
+      "slug": "nights-of-terror-1921",
+      "sources": [
+        "movement:german-expressionism"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 618363,
+      "slug": "collective-2019",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 622654,
+      "slug": "get-in-2019",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 630240,
+      "slug": "titane-2021",
+      "sources": [
+        "movement:new-french-extremity"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 635731,
       "slug": "pig-2021",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 639772,
+      "slug": "out-of-the-blue-1984",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 651293,
+      "slug": "demir-yol-1979",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 683193,
@@ -21410,12 +24985,36 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 790496,
+      "slug": "bad-luck-banging-or-loony-porn-2021",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 790543,
+      "slug": "hayat-mi-bu-1973",
+      "sources": [
+        "yesilcam"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 834995,
       "slug": "tetsuro-tamba-s-great-spirit-world-what-happens-when-you-die-1989",
       "sources": [
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 934215,
+      "slug": "autumn-tempest-1988",
+      "sources": [
+        "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 937369,
@@ -21456,6 +25055,38 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 1278338,
+      "slug": "three-kilometres-to-the-end-of-the-world-2024",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 1320276,
+      "slug": "the-new-year-that-never-came-2024",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 1401459,
+      "slug": "fjord-2026",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 1410189,
+      "slug": "kontinental-25-2025",
+      "sources": [
+        "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     }
   ]
 }

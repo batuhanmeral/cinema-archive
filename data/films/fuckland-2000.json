@@ -1,0 +1,105 @@
+{
+  "tmdbId": 251504,
+  "slug": "fuckland-2000",
+  "year": 2000,
+  "runtime": 84,
+  "originalTitle": "Fuckland",
+  "title": {
+    "en": "Fuckland",
+    "tr": "Fuckland"
+  },
+  "overview": {
+    "en": "Fabián, a magician from Buenos Aires, saves his money from weddings, birthdays, and bar mitzvahs, and uses a hidden camera to document a week-long trip to the Falkland Islands where he has a patriotic plan: to impregnate a British woman. If 500 Argies do this annually, the islands will soon be overrun with children belonging to both cultures.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vyW7V136Tj65bPRnVcsH08NvJT3.jpg",
+    "en": "/vyW7V136Tj65bPRnVcsH08NvJT3.jpg"
+  },
+  "backdrops": [
+    "/zGi0FzHXGJF1UxClPpBtWe0uGLr.jpg",
+    "/dqm21pFw6LsUBX83r1Ms9upAl0S.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    2900,
+    10596,
+    163053,
+    267122,
+    315002
+  ],
+  "countries": [
+    "AR",
+    "FK"
+  ],
+  "languages": [
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Videocolor",
+    "Atomic Films S.A.",
+    "Cinecolor"
+  ],
+  "crew": [
+    {
+      "personId": 1815786,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1815785,
+      "job": "composer"
+    },
+    {
+      "personId": 1815772,
+      "job": "writer"
+    },
+    {
+      "personId": 1815783,
+      "job": "producer"
+    },
+    {
+      "personId": 1815772,
+      "job": "director"
+    },
+    {
+      "personId": 1815780,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1815774,
+      "character": "Fabián",
+      "order": 0
+    },
+    {
+      "personId": 2157508,
+      "character": "Camila",
+      "order": 1
+    },
+    {
+      "personId": 1815786,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 1815772,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 1815773,
+      "character": "",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 13,
+  "sources": [
+    "movement:dogme-95"
+  ]
+}

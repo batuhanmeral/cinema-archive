@@ -1,0 +1,201 @@
+{
+  "tmdbId": 37181,
+  "slug": "about-elly-2009",
+  "year": 2009,
+  "runtime": 119,
+  "originalTitle": "درباره الی‎‎",
+  "title": {
+    "en": "About Elly",
+    "tr": "Elly Hakkında"
+  },
+  "overview": {
+    "en": "The mysterious disappearance of a kindergarten teacher during a picnic in the north of Iran is followed by a series of misadventures for her fellow travelers.",
+    "tr": "Almanya’da yaşayan Ahmad, bir süre sonra İran’ı ziyarete gider. Orada onu eski arkadaşları karşılayacaklardır. Birlikte bir tatil planı yaparlar. Hazar Gölü kıyısında üç gün birlikte eğleneceklerdir. Tatili düzenleyen Sepideh, bu tatile Elly’ı da çağırır. Ahmad, Elly’ı tanımamaktadır ama Sepideh’in amacı biraz da onları yakınlaştırmaktır. Tatil güzel geçmektedir ta ki ikinci gün Elly kaybolana dek. O günün sabahında Tahran’a dönmesi gerektiğini söylemiş olan Elly nasıl yok olmuştur? Bu andan itibaren bazı yalanlar ortaya çıkar ve yalanın tüm olayların seyrini nasıl değiştirebildiği gözler önüne serilir."
+  },
+  "poster": {
+    "tr": "/c97J9uHN1S9kFaEK4rSGVgCFBcG.jpg",
+    "en": "/ctLrMQrg3kss2JO7OIr7RVdN5an.jpg"
+  },
+  "backdrops": [
+    "/gF1iH8LjxIEO91hX3fnID25Kh4X.jpg",
+    "/bV3abMVrjk4Bepi5Gpq484Eq5Ci.jpg",
+    "/8LBt89PMdIeLsI5MdgacfgErDHy.jpg",
+    "/XNUYnsL51BCckM69GFGs6JSkV2.jpg",
+    "/bg2gr5zhgzjxdhN5UGoudIoSrpa.jpg",
+    "/2PiSm8PRhl8QLtCj4RNVQxIO1u2.jpg",
+    "/3loY85G8vB0OcpleFFezf4kSDsy.jpg",
+    "/esI7T5zdUnwa35DYcHdqIYiU1gz.jpg",
+    "/ApSUZ3vrBGNFrppLGNDWEJNcflk.jpg",
+    "/aESuZlsdZ6i6xXdM5aD2TFwUZoy.jpg"
+  ],
+  "trailerKey": "atb0JaAN_90",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    658,
+    934,
+    2687,
+    6876,
+    5605,
+    6071,
+    8806,
+    9713,
+    10941,
+    18009,
+    33720,
+    34145,
+    157223,
+    330454,
+    330455,
+    330456,
+    330457
+  ],
+  "countries": [
+    "IR"
+  ],
+  "languages": [
+    "de",
+    "fa"
+  ],
+  "studios": [
+    "Dreamlab"
+  ],
+  "crew": [
+    {
+      "personId": 229931,
+      "job": "director"
+    },
+    {
+      "personId": 3531323,
+      "job": "producer"
+    },
+    {
+      "personId": 1752878,
+      "job": "producer"
+    },
+    {
+      "personId": 229931,
+      "job": "writer"
+    },
+    {
+      "personId": 229931,
+      "job": "producer"
+    },
+    {
+      "personId": 3531324,
+      "job": "composer"
+    },
+    {
+      "personId": 1534556,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 213371,
+      "character": "Elly",
+      "order": 0
+    },
+    {
+      "personId": 229932,
+      "character": "Sepideh",
+      "order": 1
+    },
+    {
+      "personId": 229933,
+      "character": "Ahmad",
+      "order": 2
+    },
+    {
+      "personId": 240243,
+      "character": "Shohreh",
+      "order": 3
+    },
+    {
+      "personId": 1005696,
+      "character": "Amir",
+      "order": 4
+    },
+    {
+      "personId": 559566,
+      "character": "Peyman",
+      "order": 5
+    },
+    {
+      "personId": 1512026,
+      "character": "Naazi",
+      "order": 6
+    },
+    {
+      "personId": 1512027,
+      "character": "Manoochehr",
+      "order": 7
+    },
+    {
+      "personId": 1265705,
+      "character": "Alireza",
+      "order": 8
+    },
+    {
+      "personId": 6410274,
+      "character": "Manouchehr's Brother",
+      "order": 9
+    },
+    {
+      "personId": 4484351,
+      "character": "Mehran",
+      "order": 10
+    },
+    {
+      "personId": 6410275,
+      "character": "Arash",
+      "order": 11
+    },
+    {
+      "personId": 6410278,
+      "character": "Hamed",
+      "order": 12
+    },
+    {
+      "personId": 6410279,
+      "character": "Mohamad",
+      "order": 13
+    },
+    {
+      "personId": 4934966,
+      "character": "Alireza",
+      "order": 14
+    },
+    {
+      "personId": 3283890,
+      "character": "Pilot",
+      "order": 15
+    },
+    {
+      "personId": 6410284,
+      "character": "Farshid",
+      "order": 16
+    },
+    {
+      "personId": 6410285,
+      "character": "Arvin Sahandi",
+      "order": 17
+    },
+    {
+      "personId": 6410286,
+      "character": "Ali",
+      "order": 18
+    },
+    {
+      "personId": 6410287,
+      "character": "Hamed",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 581,
+  "sources": [
+    "movement:iranian-new-wave"
+  ]
+}

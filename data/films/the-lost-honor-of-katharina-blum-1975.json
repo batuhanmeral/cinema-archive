@@ -1,0 +1,196 @@
+{
+  "tmdbId": 4762,
+  "slug": "the-lost-honor-of-katharina-blum-1975",
+  "year": 1975,
+  "runtime": 104,
+  "originalTitle": "Die verlorene Ehre der Katharina Blum",
+  "title": {
+    "en": "The Lost Honor of Katharina Blum",
+    "tr": "Die verlorene Ehre der Katharina Blum"
+  },
+  "overview": {
+    "en": "After a chance encounter with a wanted man, a woman is harassed by the police and press until she takes violent action.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/d7Z1gzPkHm29jmiqnjvzXZg2koI.jpg",
+    "en": "/d7Z1gzPkHm29jmiqnjvzXZg2koI.jpg"
+  },
+  "backdrops": [
+    "/49nvRYWmO02QZz1kvLUUitzrq3v.jpg",
+    "/7dNp8vrTGzYxTLhQXUnApZisOQH.jpg",
+    "/vpryx5TSOeU115OuNPoAisrNzXg.jpg"
+  ],
+  "trailerKey": "P5zBH-PFjag",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    4918,
+    823,
+    1584,
+    1228,
+    5340,
+    3473,
+    4557,
+    6680,
+    7272,
+    13015,
+    178036,
+    187056,
+    194451,
+    196711,
+    209966,
+    217474,
+    322648,
+    322649
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "WDR",
+    "Neue Bioskop Film",
+    "Paramount-Orion Filmproduktion"
+  ],
+  "crew": [
+    {
+      "personId": 10249,
+      "job": "director"
+    },
+    {
+      "personId": 10249,
+      "job": "writer"
+    },
+    {
+      "personId": 39298,
+      "job": "writer"
+    },
+    {
+      "personId": 39300,
+      "job": "composer"
+    },
+    {
+      "personId": 5241,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 39298,
+      "job": "director"
+    },
+    {
+      "personId": 16806,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10255,
+      "character": "Katharina Blum",
+      "order": 0
+    },
+    {
+      "personId": 10254,
+      "character": "Kommissar Beizmenne",
+      "order": 1
+    },
+    {
+      "personId": 23721,
+      "character": "Werner Tötges",
+      "order": 2
+    },
+    {
+      "personId": 920,
+      "character": "Ludwig Götten",
+      "order": 3
+    },
+    {
+      "personId": 10263,
+      "character": "Dr. Blorna, Anwalt",
+      "order": 4
+    },
+    {
+      "personId": 39303,
+      "character": "Trude Blorna",
+      "order": 5
+    },
+    {
+      "personId": 16243,
+      "character": "Staatsanwalt Hach",
+      "order": 6
+    },
+    {
+      "personId": 24630,
+      "character": "Moeding, Polizist",
+      "order": 7
+    },
+    {
+      "personId": 22531,
+      "character": "Weninger, Journalist „Die Zeitung“",
+      "order": 8
+    },
+    {
+      "personId": 39304,
+      "character": "Else Woltersheim, Patentante Katharinas",
+      "order": 9
+    },
+    {
+      "personId": 39305,
+      "character": "Konrad Beiters",
+      "order": 10
+    },
+    {
+      "personId": 39306,
+      "character": "Alois Sträubleder, Unternehmer",
+      "order": 11
+    },
+    {
+      "personId": 39307,
+      "character": "Frau Pletzer",
+      "order": 12
+    },
+    {
+      "personId": 39308,
+      "character": "Staatsanwalt Dr. Korten",
+      "order": 13
+    },
+    {
+      "personId": 36253,
+      "character": "Lüding, Konzernherr",
+      "order": 14
+    },
+    {
+      "personId": 11260,
+      "character": "Dr. Heinen",
+      "order": 15
+    },
+    {
+      "personId": 3745951,
+      "character": "Pater Urbanus",
+      "order": 16
+    },
+    {
+      "personId": 46251,
+      "character": "\"Scheich\" Karl",
+      "order": 17
+    },
+    {
+      "personId": 3745955,
+      "character": "Herta Scheumel",
+      "order": 18
+    },
+    {
+      "personId": 3745957,
+      "character": "Claudia Stern",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 106,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

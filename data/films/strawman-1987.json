@@ -1,0 +1,128 @@
+{
+  "tmdbId": 176664,
+  "slug": "strawman-1987",
+  "year": 1987,
+  "runtime": 96,
+  "originalTitle": "稻草人",
+  "title": {
+    "en": "Strawman",
+    "tr": "Strawman"
+  },
+  "overview": {
+    "en": "In 1940s Taiwan, during the last days of Japanese rule, an impoverished farming village is less concerned with colonial politics than with feeding their families. One day, an American bomb falls onto a field, where it lies unexploded.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6oiWmkd7u3bnzwthTgPSj2Tc1D3.jpg",
+    "en": "/6oiWmkd7u3bnzwthTgPSj2Tc1D3.jpg"
+  },
+  "backdrops": [
+    "/da5avePSBaIfT0V5wXHZDb5E3S9.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    35,
+    10752
+  ],
+  "keywordIds": [],
+  "countries": [
+    "TW"
+  ],
+  "languages": [
+    "ja",
+    "zh"
+  ],
+  "studios": [
+    "Central Motion Picture Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 1158889,
+      "job": "director"
+    },
+    {
+      "personId": 232804,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1267724,
+      "job": "writer"
+    },
+    {
+      "personId": 3448568,
+      "job": "producer"
+    },
+    {
+      "personId": 2110088,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 65354,
+      "character": "Wide Mouth Wife",
+      "order": 0
+    },
+    {
+      "personId": 134703,
+      "character": "Landlord",
+      "order": 1
+    },
+    {
+      "personId": 1003913,
+      "character": "Chen Shuixian",
+      "order": 2
+    },
+    {
+      "personId": 617505,
+      "character": "Ah Fa's Wife",
+      "order": 3
+    },
+    {
+      "personId": 1399240,
+      "character": "Yueniang",
+      "order": 4
+    },
+    {
+      "personId": 2110089,
+      "character": "Chen Fa",
+      "order": 5
+    },
+    {
+      "personId": 1719829,
+      "character": "Chen Kuozui",
+      "order": 6
+    },
+    {
+      "personId": 1522600,
+      "character": "Japanese Policeman",
+      "order": 7
+    },
+    {
+      "personId": 1818526,
+      "character": "Mother",
+      "order": 8
+    },
+    {
+      "personId": 553851,
+      "character": "Landlord's Son",
+      "order": 9
+    },
+    {
+      "personId": 125288,
+      "character": "Director of Japan Branch",
+      "order": 10
+    },
+    {
+      "personId": 3339426,
+      "character": "Chief of Village",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 17,
+  "sources": [
+    "movement:new-taiwan-cinema"
+  ]
+}
