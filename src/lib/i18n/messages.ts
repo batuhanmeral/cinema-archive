@@ -15,6 +15,8 @@ type FilmIndexKey =
   | 'cinematographer'
   | 'composer'
 
+type MovementIndexKey = 'years' | 'country' | 'pioneers' | 'faces' | 'cinematography'
+
 export type SimilarReasonKey =
   'same-director' | 'same-movement' | 'same-collection' | 'shared-tag' | 'genre-decade'
 
@@ -35,6 +37,14 @@ export type Messages = {
     directorRole: string
     minutes: (n: number) => string
     similarReason: Record<SimilarReasonKey, string>
+  }
+  movement: {
+    index: Record<MovementIndexKey, string>
+    sections: { directors: string; films: string }
+    previous: string
+    next: string
+    filmCount: (n: number) => string
+    directorCount: (n: number) => string
   }
   rail: { previous: string; next: string }
 }
@@ -83,6 +93,20 @@ export const messages: Record<Locale, Messages> = {
         'genre-decade': 'Aynı tür ve dönem',
       },
     },
+    movement: {
+      index: {
+        years: 'Yıllar',
+        country: 'Ülke',
+        pioneers: 'Öncüler',
+        faces: 'Yüzleri',
+        cinematography: 'Görüntü',
+      },
+      sections: { directors: 'Yönetmenler', films: 'Filmler' },
+      previous: 'Önceki salon',
+      next: 'Sonraki salon',
+      filmCount: (n) => `${n} film`,
+      directorCount: (n) => `${n} yönetmen`,
+    },
     rail: { previous: 'Önceki', next: 'Sonraki' },
   },
   en: {
@@ -126,6 +150,20 @@ export const messages: Record<Locale, Messages> = {
         'shared-tag': 'Shared tag',
         'genre-decade': 'Same genre and decade',
       },
+    },
+    movement: {
+      index: {
+        years: 'Years',
+        country: 'Country',
+        pioneers: 'Pioneers',
+        faces: 'Faces',
+        cinematography: 'Cinematography',
+      },
+      sections: { directors: 'Directors', films: 'Films' },
+      previous: 'Previous hall',
+      next: 'Next hall',
+      filmCount: (n) => (n === 1 ? '1 film' : `${n} films`),
+      directorCount: (n) => (n === 1 ? '1 director' : `${n} directors`),
     },
     rail: { previous: 'Previous', next: 'Next' },
   },

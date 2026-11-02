@@ -159,7 +159,8 @@ export function buildFilmView(film: Film, locale: Locale, ctx: FilmViewContext):
   }
 }
 
-function similarCaption(film: Film, people: Map<number, Person>): string {
+// Benzer film ve akım kartlarının ortak alt satırı: "Yönetmen, yıl".
+export function directorYearCaption(film: Film, people: Map<number, Person>): string {
   const director = film.crew.find((member) => member.job === 'director')
   const name = director && people.get(director.personId)?.name
   return name ? `${name}, ${film.year}` : String(film.year)
@@ -176,7 +177,7 @@ export function buildSimilarCards(
     href: filmHref(locale, film.slug),
     posterPath: film.poster[locale],
     title: film.title[locale],
-    caption: similarCaption(film, people),
+    caption: directorYearCaption(film, people),
     note: reasons[reason],
   }))
 }

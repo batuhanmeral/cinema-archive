@@ -4,7 +4,7 @@ import type { Locale } from '@/lib/i18n/locale'
 import { filmHref } from '@/lib/i18n/routes'
 import { presentOverview } from './view-model'
 
-const SITE_NAME = 'Sinema Arşivi'
+export const SITE_NAME = 'Sinema Arşivi'
 const DESCRIPTION_LIMIT = 160
 const ELLIPSIS = '…'
 const OG_POSTER_BASE = 'https://image.tmdb.org/t/p/w780'
