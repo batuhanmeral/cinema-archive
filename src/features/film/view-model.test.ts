@@ -123,8 +123,8 @@ describe('buildFilmView', () => {
   it('lists genres then allowlisted themes as tags, linked to the archive', () => {
     const view = buildFilmView(makeFilm({ genreIds: [878], keywordIds: [4565, 999999] }), 'tr', ctx)
     expect(view.tags).toEqual([
-      { text: 'Bilim-Kurgu', href: '/arsiv?genre=878', prefetch: false },
-      { text: 'Distopya', href: '/arsiv?theme=4565', prefetch: false },
+      { text: 'Bilim-Kurgu', href: '/archive?genre=878', prefetch: false },
+      { text: 'Distopya', href: '/archive?theme=4565', prefetch: false },
     ])
     expect(view.tags.some((t) => t.href?.includes('999999'))).toBe(false)
   })
@@ -136,16 +136,18 @@ describe('buildFilmView', () => {
       collections: [makeCollection()],
     })
     expect(view.tags.slice(0, 3)).toEqual([
-      { text: 'Fransız Yeni Dalgası', href: '/akim/french-new-wave' },
-      { text: 'Yavaş Sinema', href: '/koleksiyon/slow-cinema' },
-      { text: 'Bilim-Kurgu', href: '/arsiv?genre=878', prefetch: false },
+      { text: 'Fransız Yeni Dalgası', href: '/movement/french-new-wave' },
+      { text: 'Yavaş Sinema', href: '/collection/slow-cinema' },
+      { text: 'Bilim-Kurgu', href: '/archive?genre=878', prefetch: false },
     ])
   })
 
   it('keeps prefetch off for every archive and person link in tags and index', () => {
     const view = buildFilmView(makeFilm(fullFilm), 'tr', ctx)
     const items = [...view.tags, ...view.index.flatMap((r) => r.items)]
-    const linked = items.filter((i) => i.href?.startsWith('/arsiv') || i.href?.startsWith('/kisi'))
+    const linked = items.filter(
+      (i) => i.href?.startsWith('/archive') || i.href?.startsWith('/person'),
+    )
     expect(linked.length).toBeGreaterThan(5)
     expect(linked.every((i) => i.prefetch === false)).toBe(true)
   })
@@ -181,18 +183,18 @@ describe('buildFilmView', () => {
   it('links people only when they have a page', () => {
     const view = buildFilmView(makeFilm(fullFilm), 'tr', ctx)
     expect(row(view, 'director').items).toEqual([
-      { text: 'Andrei Tarkovsky', href: '/kisi/andrei-tarkovsky', prefetch: false },
+      { text: 'Andrei Tarkovsky', href: '/person/andrei-tarkovsky', prefetch: false },
     ])
     expect(row(view, 'producer').items).toEqual([{ text: 'Aleksandra Demidova' }])
     expect(row(view, 'composer').items).toEqual([
-      { text: 'Eduard Artemyev', href: '/kisi/eduard-artemyev', prefetch: false },
+      { text: 'Eduard Artemyev', href: '/person/eduard-artemyev', prefetch: false },
     ])
     expect(view.directors).toEqual([
       {
         name: 'Andrei Tarkovsky',
         role: 'Yönetmen',
         profilePath: '/tarkovsky.jpg',
-        href: '/kisi/andrei-tarkovsky',
+        href: '/person/andrei-tarkovsky',
       },
     ])
     expect(view.cast).toEqual([

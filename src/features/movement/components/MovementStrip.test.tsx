@@ -7,7 +7,7 @@ describe('MovementStrip', () => {
     render(
       <MovementStrip
         name="Alman Dışavurumculuğu"
-        href="/akim/german-expressionism"
+        href="/movement/german-expressionism"
         meta="Almanya · 1913–1931"
         imagePath="/caligari.jpg"
         height="exit"
@@ -15,7 +15,7 @@ describe('MovementStrip', () => {
     )
     expect(screen.getByRole('link', { name: 'Alman Dışavurumculuğu' })).toHaveAttribute(
       'href',
-      '/akim/german-expressionism',
+      '/movement/german-expressionism',
     )
     expect(screen.getByText('Almanya · 1913–1931')).toBeInTheDocument()
   })
@@ -24,7 +24,7 @@ describe('MovementStrip', () => {
     const { container } = render(
       <MovementStrip
         name="Romanya Yeni Dalgası"
-        href="/akim/romanian-new-wave"
+        href="/movement/romanian-new-wave"
         meta="Romanya · 2001–"
         imagePath={null}
         height="strip"

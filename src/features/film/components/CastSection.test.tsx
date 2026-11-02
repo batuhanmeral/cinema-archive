@@ -7,7 +7,7 @@ const director: PersonCard = {
   name: 'Andrei Tarkovsky',
   role: 'Yönetmen',
   profilePath: '/tarkovsky.jpg',
-  href: '/kisi/andrei-tarkovsky',
+  href: '/person/andrei-tarkovsky',
 }
 
 const cast: PersonCard[] = [
@@ -42,7 +42,7 @@ describe('CastSection', () => {
 
     expect(screen.getByRole('link', { name: 'Andrei Tarkovsky' })).toHaveAttribute(
       'href',
-      '/kisi/andrei-tarkovsky',
+      '/person/andrei-tarkovsky',
     )
     expect(screen.queryByRole('link', { name: 'Alexander Kaidanovsky' })).toBeNull()
     expect(within(directorCard).getByText('Yönetmen')).toBeInTheDocument()

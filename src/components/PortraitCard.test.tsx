@@ -17,7 +17,7 @@ describe('PortraitCard', () => {
     const { container } = render(
       <PortraitCard
         name="Jean-Luc Godard"
-        href="/kisi/jean-luc-godard"
+        href="/person/jean-luc-godard"
         profilePath="/godard.jpg"
         note="9 film"
       />,
@@ -25,7 +25,7 @@ describe('PortraitCard', () => {
     expect(container.querySelector('img')).not.toBeNull()
     expect(screen.getByRole('link', { name: 'Jean-Luc Godard' })).toHaveAttribute(
       'href',
-      '/kisi/jean-luc-godard',
+      '/person/jean-luc-godard',
     )
   })
 })

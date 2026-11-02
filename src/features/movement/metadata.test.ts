@@ -9,7 +9,7 @@ describe('buildMovementMetadata', () => {
     const m = buildMovementMetadata(makeMovement(), 'tr', SITE_URL)
     expect(m.title).toBe('Fransız Yeni Dalgası · Sinema Arşivi')
     expect(m.alternates?.languages).toEqual({
-      tr: 'https://sinemaarsivi.com/akim/french-new-wave',
+      tr: 'https://sinemaarsivi.com/movement/french-new-wave',
       en: 'https://sinemaarsivi.com/en/movement/french-new-wave',
     })
   })

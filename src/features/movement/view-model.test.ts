@@ -165,7 +165,7 @@ describe('buildMovementView', () => {
     ])
     expect(row(view, 'years')?.items).toEqual([{ text: '1958–1966' }])
     expect(row(view, 'country')?.items).toEqual([
-      { text: 'Fransa', href: '/arsiv?country=FR', prefetch: false },
+      { text: 'Fransa', href: '/archive?country=FR', prefetch: false },
     ])
   })
 
@@ -181,7 +181,7 @@ describe('buildMovementView', () => {
 
   it('links pioneers only when they have a page', () => {
     expect(row(view, 'pioneers')?.items).toEqual([
-      { text: 'Jean-Luc Godard', href: '/kisi/jean-luc-godard', prefetch: false },
+      { text: 'Jean-Luc Godard', href: '/person/jean-luc-godard', prefetch: false },
       { text: 'François Truffaut' },
     ])
   })
@@ -195,7 +195,7 @@ describe('buildMovementView', () => {
     ])
     expect(row(view, 'faces')?.items[0]).toEqual({
       text: 'Anna Karina',
-      href: '/kisi/anna-karina',
+      href: '/person/anna-karina',
       prefetch: false,
     })
   })
@@ -232,7 +232,7 @@ describe('buildMovementView', () => {
     expect(view.directors).toEqual([
       {
         name: 'Jean-Luc Godard',
-        href: '/kisi/jean-luc-godard',
+        href: '/person/jean-luc-godard',
         profilePath: '/tarkovsky.jpg',
         note: '2 film',
       },
@@ -264,11 +264,11 @@ describe('buildMovementView', () => {
   it('links the neighbouring movements as halls', () => {
     expect(view.previous).toEqual({
       name: 'İtalyan Yeni Gerçekçiliği',
-      href: '/akim/italian-neorealism',
+      href: '/movement/italian-neorealism',
       meta: 'İtalya · 1943–1952',
       imagePath: '/blows.jpg',
     })
-    expect(view.next.href).toBe('/akim/romanian-new-wave')
+    expect(view.next.href).toBe('/movement/romanian-new-wave')
     expect(view.next.imagePath).toBeNull()
   })
 
