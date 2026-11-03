@@ -53,6 +53,9 @@ test('the Turkish film page shows the title, index and credit line', async ({ pa
 
 test('the language toggle lands on the same film in English', async ({ page }) => {
   await page.goto(`/film/${slug}`)
+  // Dar ekranda dil bağlantısı menünün içindedir.
+  const menuButton = page.getByRole('button', { name: 'Menü' })
+  if (await menuButton.isVisible()) await menuButton.click()
   await page.getByRole('link', { name: 'İngilizce sürüme geç' }).click()
   await expect(page).toHaveURL(new RegExp(`/en/film/${slug}$`))
   await expect(page.getByRole('heading', { level: 1 })).toHaveText(film.title.en)

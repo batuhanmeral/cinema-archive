@@ -22,7 +22,7 @@ export async function MovementPage({ slug, locale }: { slug: string; locale: Loc
   })
 
   return (
-    <main>
+    <main id="content">
       <MovementHero view={view} />
       <MovementIndex rows={view.index} />
       <MovementDirectors directors={view.directors} locale={locale} />
