@@ -1,6 +1,6 @@
 import { PortraitCard } from '@/components/PortraitCard'
 import { Rail } from '@/components/rail/Rail'
-import { FilmSection } from '@/features/film/components/FilmSection'
+import { FilmSection } from '@/components/FilmSection'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
 import type { DirectorCard } from '../view-model'

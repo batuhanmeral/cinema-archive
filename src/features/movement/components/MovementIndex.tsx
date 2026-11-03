@@ -1,5 +1,5 @@
 import { Fragment } from 'react'
-import { IndexItem } from '@/features/film/components/FilmIndex'
+import { IndexItem } from '@/components/IndexItem'
 import type { MovementIndexKey, MovementIndexRow } from '../view-model'
 
 // Ad listeleri esner; kısa değerler (yıl, ülke, görüntü) kendi genişliğinde kalır.

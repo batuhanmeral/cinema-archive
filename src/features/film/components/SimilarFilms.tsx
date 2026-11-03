@@ -3,7 +3,7 @@ import { Rail } from '@/components/rail/Rail'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
 import type { SimilarCard } from '../view-model'
-import { FilmSection } from './FilmSection'
+import { FilmSection } from '@/components/FilmSection'
 
 export function SimilarFilms({ cards, locale }: { cards: SimilarCard[]; locale: Locale }) {
   if (cards.length === 0) return null

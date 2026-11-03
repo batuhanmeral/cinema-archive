@@ -46,6 +46,12 @@ export type Messages = {
     filmCount: (n: number) => string
     directorCount: (n: number) => string
   }
+  collection: {
+    columns: { number: string; film: string; director: string; genre: string; theme: string }
+    others: string
+    all: string
+    filmCount: (n: number) => string
+  }
   rail: { previous: string; next: string }
 }
 
@@ -107,6 +113,12 @@ export const messages: Record<Locale, Messages> = {
       filmCount: (n) => `${n} film`,
       directorCount: (n) => `${n} yönetmen`,
     },
+    collection: {
+      columns: { number: 'Sıra', film: 'Film', director: 'Yönetmen', genre: 'Tür', theme: 'Tema' },
+      others: 'Diğer koleksiyonlar',
+      all: 'Tüm koleksiyonlar',
+      filmCount: (n) => `${n} film`,
+    },
     rail: { previous: 'Önceki', next: 'Sonraki' },
   },
   en: {
@@ -164,6 +176,18 @@ export const messages: Record<Locale, Messages> = {
       next: 'Next hall',
       filmCount: (n) => (n === 1 ? '1 film' : `${n} films`),
       directorCount: (n) => (n === 1 ? '1 director' : `${n} directors`),
+    },
+    collection: {
+      columns: {
+        number: 'No.',
+        film: 'Film',
+        director: 'Director',
+        genre: 'Genre',
+        theme: 'Theme',
+      },
+      others: 'Other collections',
+      all: 'All collections',
+      filmCount: (n) => (n === 1 ? '1 film' : `${n} films`),
     },
     rail: { previous: 'Previous', next: 'Next' },
   },

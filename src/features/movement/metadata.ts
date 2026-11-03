@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import type { Movement } from '@/data/schemas'
-import { SITE_NAME } from '@/features/film/metadata'
+import { SITE_NAME } from '@/lib/site'
 import type { Locale } from '@/lib/i18n/locale'
 import { movementHref } from '@/lib/i18n/routes'
 

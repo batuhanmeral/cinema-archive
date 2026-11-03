@@ -5,7 +5,7 @@ import { Rail } from '@/components/rail/Rail'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
 import type { PersonCard } from '../view-model'
-import { FilmSection } from './FilmSection'
+import { FilmSection } from '@/components/FilmSection'
 
 // Planın sınırı; içe aktarma da 20 ile keser ama site pipeline/ modülünü içe aktaramaz.
 const CAST_LIMIT = 20

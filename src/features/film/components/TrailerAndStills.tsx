@@ -3,7 +3,7 @@ import { TRAILER_KEY_PATTERN } from '@/data/schemas'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
 import type { FilmView } from '../view-model'
-import { FilmSection } from './FilmSection'
+import { FilmSection } from '@/components/FilmSection'
 import { TrailerPlayer } from './TrailerPlayer'
 
 const YOUTUBE_EMBED_BASE = 'https://www.youtube-nocookie.com/embed/'
