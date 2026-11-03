@@ -39,6 +39,7 @@ export type Messages = {
     similarReason: Record<SimilarReasonKey, string>
   }
   movement: {
+    listTitle: string
     index: Record<MovementIndexKey, string>
     sections: { directors: string; films: string }
     previous: string
@@ -47,6 +48,7 @@ export type Messages = {
     directorCount: (n: number) => string
   }
   collection: {
+    listTitle: string
     columns: { number: string; film: string; director: string; genre: string; theme: string }
     others: string
     all: string
@@ -100,6 +102,7 @@ export const messages: Record<Locale, Messages> = {
       },
     },
     movement: {
+      listTitle: 'Akımlar',
       index: {
         years: 'Yıllar',
         country: 'Ülke',
@@ -114,6 +117,7 @@ export const messages: Record<Locale, Messages> = {
       directorCount: (n) => `${n} yönetmen`,
     },
     collection: {
+      listTitle: 'Koleksiyonlar',
       columns: { number: 'Sıra', film: 'Film', director: 'Yönetmen', genre: 'Tür', theme: 'Tema' },
       others: 'Diğer koleksiyonlar',
       all: 'Tüm koleksiyonlar',
@@ -164,6 +168,7 @@ export const messages: Record<Locale, Messages> = {
       },
     },
     movement: {
+      listTitle: 'Movements',
       index: {
         years: 'Years',
         country: 'Country',
@@ -178,6 +183,7 @@ export const messages: Record<Locale, Messages> = {
       directorCount: (n) => (n === 1 ? '1 director' : `${n} directors`),
     },
     collection: {
+      listTitle: 'Collections',
       columns: {
         number: 'No.',
         film: 'Film',

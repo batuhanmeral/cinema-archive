@@ -1,10 +1,11 @@
 'use client'
 
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 import { Suspense, useEffect, useState } from 'react'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
-import { homeHref } from '@/lib/i18n/routes'
+import { collectionsHref, homeHref, movementsHref } from '@/lib/i18n/routes'
 import { LanguageToggle, LanguageToggleFallback } from './LanguageToggle'
 import {
   INITIAL_NAV_STATE,
@@ -14,9 +15,15 @@ import {
   type NavState,
 } from './nav-state'
 
-export function Navbar({ locale, overHero }: { locale: Locale; overHero: boolean }) {
+// Hero'su olmayan liste sayfalarında navbar baştan dolu olur.
+function hasHero(pathname: string, locale: Locale): boolean {
+  return pathname !== movementsHref(locale) && pathname !== collectionsHref(locale)
+}
+
+export function Navbar({ locale }: { locale: Locale }) {
+  const overHero = hasHero(usePathname(), locale)
   const [hidden, setHidden] = useState(INITIAL_NAV_STATE.hidden)
-  const [solid, setSolid] = useState(INITIAL_NAV_STATE.solid)
+  const [solid, setSolid] = useState(!overHero)
 
   useEffect(() => {
     let state: NavState | undefined

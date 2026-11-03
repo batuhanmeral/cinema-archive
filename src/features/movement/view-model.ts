@@ -221,3 +221,12 @@ export function buildMovementView(
     next: hallLink(next, locale, ctx),
   }
 }
+
+// Liste sayfası şeritleri verideki (kronolojik) sırada gelir.
+export function buildMovementStrips(
+  movements: Movement[],
+  locale: Locale,
+  ctx: MovementViewContext,
+): HallLink[] {
+  return movements.map((movement) => hallLink(movement, locale, ctx))
+}

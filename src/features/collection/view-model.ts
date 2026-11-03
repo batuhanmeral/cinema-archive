@@ -80,7 +80,7 @@ export function collectionMeta(_collection: Collection, films: Film[], locale: L
     .join(META_SEPARATOR)
 }
 
-function memberFilms(collection: Collection, ctx: CollectionViewContext): Film[] {
+function memberFilms(collection: Collection, ctx: Pick<CollectionViewContext, 'films'>): Film[] {
   return collection.filmIds
     .map((id) => ctx.films(id))
     .filter((film) => film !== undefined)
@@ -131,7 +131,7 @@ function row(
 function otherTile(
   collection: Collection,
   locale: Locale,
-  ctx: CollectionViewContext,
+  ctx: Pick<CollectionViewContext, 'films'>,
 ): OtherCollection {
   const films = memberFilms(collection, ctx)
   return {
@@ -163,4 +163,12 @@ export function buildCollectionView(
     rows: films.map((film, i) => row(film, i + 1, locale, ctx)),
     others: nextCollections(collection, ctx.collections).map((c) => otherTile(c, locale, ctx)),
   }
+}
+
+export function buildCollectionTiles(
+  collections: Collection[],
+  locale: Locale,
+  ctx: Pick<CollectionViewContext, 'films'>,
+): OtherCollection[] {
+  return collections.map((collection) => otherTile(collection, locale, ctx))
 }
