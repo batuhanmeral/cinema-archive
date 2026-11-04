@@ -29,6 +29,6 @@ Local gates (Docker):
 - `docker run --rm -v "$PWD:/src" -w /src semgrep/semgrep semgrep scan --config .semgrep --config p/typescript --config p/react --config p/nextjs --config p/github-actions --severity ERROR --severity WARNING --error --metrics=off`
 - `pnpm audit --audit-level high`
 - `docker run --rm -v "$PWD:/repo" -w /repo rhysd/actionlint:latest`
-- ZAP (after `pnpm build`, with `pnpm serve:out` running): `mkdir -p /tmp/zap && cp security/zap-rules.tsv /tmp/zap/ && docker run --rm --network=host -v /tmp/zap:/zap/wrk:rw ghcr.io/zaproxy/zaproxy:stable zap-baseline.py -t http://localhost:4173/film/stalker-1979 -c zap-rules.tsv -I`
+- ZAP (after `pnpm build`, with `pnpm serve:out` running): `mkdir -p /tmp/zap && cp security/zap-rules.tsv /tmp/zap/ && docker run --rm --network=host -v /tmp/zap:/zap/wrk:rw ghcr.io/zaproxy/zaproxy:stable zap-baseline.py -t http://localhost:4173/movement/french-new-wave -c zap-rules.tsv -I`
 
 Suppression rule: never silence a finding broadly. Gitleaks: a narrow allowlist (one path + one rule id) in `.gitleaks.toml`. Semgrep: `// nosemgrep: <rule-id>` on the line, with a Turkish comment giving the reason. Each suppression needs a one-line reason. Accepted `pnpm audit` advisories (no fixed version, owner decision only) must be listed in `.docs/ARCHITECTURE.md` Risks. ZAP `IGNORE` entries in `security/zap-rules.tsv` need a reason column.

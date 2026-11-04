@@ -6,7 +6,7 @@ import type { HallLink } from './view-model'
 
 export function MovementsListPage({ locale, strips }: { locale: Locale; strips: HallLink[] }) {
   return (
-    <main id="content">
+    <main id="content" tabIndex={-1} className="outline-none">
       <h1 className="wrap pt-28 pb-8 font-display text-5xl leading-none font-extrabold md:text-7xl">
         {messages[locale].movement.listTitle}
       </h1>

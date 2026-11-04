@@ -22,7 +22,7 @@ export async function CollectionPage({ slug, locale }: { slug: string; locale: L
   })
 
   return (
-    <main id="content">
+    <main id="content" tabIndex={-1} className="outline-none">
       <CollectionHero view={view} />
       <CollectionList rows={view.rows} locale={locale} />
       <CollectionOthers others={view.others} locale={locale} />

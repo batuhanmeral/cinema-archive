@@ -69,14 +69,14 @@ export function CollectionList({ rows, locale }: { rows: CollectionRow[]; locale
             <Poster path={row.posterPath} />
             <div className="min-w-0 max-md:col-start-2 md:col-span-1">
               {/* Bağlantı adı başlık ve yıl; ::after tüm satırı tıklanabilir yapar. */}
-              <h3 className="font-display text-[26px] leading-[1.1] font-bold">
+              <h2 className="font-display text-[26px] leading-[1.1] font-bold">
                 <Link
                   href={row.href}
                   className="transition-colors duration-150 group-hover:text-accent after:absolute after:inset-0"
                 >
                   {row.title} <span className="font-bold text-muted">– {row.year}</span>
                 </Link>
-              </h3>
+              </h2>
               {row.originalTitle && (
                 <p className="mt-1 truncate text-[13px] text-muted">{row.originalTitle}</p>
               )}

@@ -30,7 +30,7 @@ export async function FilmPage({ slug, locale }: { slug: string; locale: Locale 
   )
 
   return (
-    <main id="content">
+    <main id="content" tabIndex={-1} className="outline-none">
       <FilmHero view={view} locale={locale} />
       <TrailerAndStills view={view} locale={locale} />
       <CastSection directors={view.directors} cast={view.cast} locale={locale} />

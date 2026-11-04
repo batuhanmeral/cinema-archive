@@ -22,7 +22,7 @@ export async function MovementPage({ slug, locale }: { slug: string; locale: Loc
   })
 
   return (
-    <main id="content">
+    <main id="content" tabIndex={-1} className="outline-none">
       <MovementHero view={view} />
       <MovementIndex rows={view.index} />
       <MovementDirectors directors={view.directors} locale={locale} />
