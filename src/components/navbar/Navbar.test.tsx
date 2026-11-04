@@ -21,7 +21,7 @@ describe('Navbar', () => {
     navigation.pathname = '/film/x'
   })
 
-  it.each(['/movements', '/collections', '/en/movements', '/en/collections'])(
+  it.each(['/movements', '/collections/', '/en/movements/', '/en/collections'])(
     'is solid from the top on %s',
     async (pathname) => {
       navigation.pathname = pathname

@@ -5268,6 +5268,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 4798,
+      "slug": "je-t-aime-je-t-aime-1968",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 4816,
       "slug": "ghost-dog-the-way-of-the-samurai-1999",
       "sources": [
@@ -6132,7 +6140,8 @@
       "tmdbId": 8075,
       "slug": "weekend-1967",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:french-new-wave"
       ],
       "addedAt": "2026-10-30"
     },
@@ -9316,7 +9325,8 @@
       "tmdbId": 11942,
       "slug": "bring-me-the-head-of-alfredo-garcia-1974",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -10703,7 +10713,8 @@
       "tmdbId": 15668,
       "slug": "xanadu-1980",
       "sources": [
-        "cult-list"
+        "cult-list",
+        "movement:new-hollywood"
       ],
       "addedAt": "2026-10-30"
     },
@@ -15835,6 +15846,14 @@
       "addedAt": "2026-11-05"
     },
     {
+      "tmdbId": 32536,
+      "slug": "rejected-2000",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 32562,
       "slug": "the-celluloid-closet-1996",
       "sources": [
@@ -16604,6 +16623,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 36877,
+      "slug": "the-blood-of-a-poet-1932",
+      "sources": [
+        "movement:surrealist-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 36888,
       "slug": "the-school-girls-1970",
       "sources": [
@@ -17073,6 +17100,14 @@
       "slug": "loves-of-a-blonde-1965",
       "sources": [
         "movement:czechoslovak-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 39395,
+      "slug": "boogie-2008",
+      "sources": [
+        "movement:romanian-new-wave"
       ],
       "addedAt": "2026-11-05"
     },
@@ -20690,6 +20725,14 @@
       "addedAt": "2026-11-05"
     },
     {
+      "tmdbId": 64015,
+      "slug": "an-autumn-s-tale-1987",
+      "sources": [
+        "movement:hong-kong-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 64084,
       "slug": "scorned-1993",
       "sources": [
@@ -21325,6 +21368,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 77124,
+      "slug": "sing-a-song-of-sex-1967",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 77381,
       "slug": "intimate-lighting-1965",
       "sources": [
@@ -21886,6 +21937,14 @@
       "addedAt": "2026-10-30"
     },
     {
+      "tmdbId": 88435,
+      "slug": "tattooed-life-1965",
+      "sources": [
+        "movement:japanese-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "tmdbId": 88527,
       "slug": "cruel-story-of-youth-1960",
       "sources": [
@@ -21956,6 +22015,14 @@
         "cult-list"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "tmdbId": 90908,
+      "slug": "trans-europ-express-1966",
+      "sources": [
+        "movement:french-new-wave"
+      ],
+      "addedAt": "2026-11-05"
     },
     {
       "tmdbId": 91186,
@@ -22573,6 +22640,14 @@
       "slug": "taipei-story-1985",
       "sources": [
         "movement:new-taiwan-cinema"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 107011,
+      "slug": "ballet-mecanique-1924",
+      "sources": [
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-11-05"
     },
@@ -24373,6 +24448,14 @@
       "slug": "aferim-2015",
       "sources": [
         "movement:romanian-new-wave"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
+      "tmdbId": 320413,
+      "slug": "the-greasy-strangler-2016",
+      "sources": [
+        "movement:surrealist-cinema"
       ],
       "addedAt": "2026-11-05"
     },

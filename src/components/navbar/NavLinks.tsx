@@ -3,13 +3,16 @@ import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
 import { collectionHref, collectionsHref, movementHref, movementsHref } from '@/lib/i18n/routes'
 
+// Statik dışa aktarımda yol sonda "/" ile gelebilir; karşılaştırmalar ona göre yapılır.
+export const withoutTrailingSlash = (pathname: string) => pathname.replace(/\/$/, '')
+
 const LINK_STYLE = {
   bar: 'inline-flex h-8 items-center px-3 transition-colors duration-200 hover:bg-surface hover:text-accent aria-[current=page]:text-accent',
   menu: 'block border-b border-line py-2.5 font-display text-[40px] leading-tight font-extrabold transition-colors duration-150 hover:text-accent aria-[current=page]:text-accent',
 }
 
 function isInSection(pathname: string, listHref: string, detailPrefix: string): boolean {
-  const path = pathname.replace(/\/$/, '')
+  const path = withoutTrailingSlash(pathname)
   return path === listHref || path.startsWith(detailPrefix)
 }
 

@@ -25,12 +25,14 @@ export function MovementStrip({
   meta,
   imagePath,
   height,
+  linkLabel,
 }: {
   name: string
   href: string
   meta: string
   imagePath: string | null
   height: keyof typeof HEIGHT_CLASS
+  linkLabel?: string
 }) {
   return (
     <div
@@ -51,6 +53,7 @@ export function MovementStrip({
       >
         <Link
           href={href}
+          aria-label={linkLabel}
           className="-mb-[.14em] block truncate pb-[.14em] transition-colors duration-150 group-hover:text-accent after:absolute after:inset-0"
         >
           {name}

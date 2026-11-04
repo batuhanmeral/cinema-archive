@@ -1,0 +1,109 @@
+{
+  "tmdbId": 39395,
+  "slug": "boogie-2008",
+  "year": 2008,
+  "runtime": 103,
+  "originalTitle": "Boogie",
+  "title": {
+    "en": "Boogie",
+    "tr": "Boogie"
+  },
+  "overview": {
+    "en": "On his spring break at the seaside, with his wife and his four year old son, Bogdan Ciocazanu runs into his best friends from high-school at the precise date and time that reminds all of them of their most glorious drinking trips and sexual escapades of their younger days. Frustrated that, between his job and his family, time is no longer his to manage and play with, Boogie now takes his shock dosage of freedom and spends a night to tick off all the items on the map of his youth (drinking, games, flirting, prostitutes). In the morning, after the disillusionment of the remake he experiences with his former friends, he returns to his wife.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/e3zU3mtfoZbUx9i0I6ZpxLVpTt6.jpg",
+    "en": "/e3zU3mtfoZbUx9i0I6ZpxLVpTt6.jpg"
+  },
+  "backdrops": [
+    "/9GchP4scivxi2TW1cTAz2nw9EnU.jpg"
+  ],
+  "trailerKey": "i-sA2hc4Jik",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    209983
+  ],
+  "countries": [
+    "RO"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "Multi Media Est",
+    "Antena 1"
+  ],
+  "crew": [
+    {
+      "personId": 129564,
+      "job": "director"
+    },
+    {
+      "personId": 107535,
+      "job": "writer"
+    },
+    {
+      "personId": 1011109,
+      "job": "writer"
+    },
+    {
+      "personId": 129564,
+      "job": "writer"
+    },
+    {
+      "personId": 2102775,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 129565,
+      "character": "Bogdan Ciocazanu",
+      "order": 0
+    },
+    {
+      "personId": 20699,
+      "character": "Smaranda Ciocazanu",
+      "order": 1
+    },
+    {
+      "personId": 1011111,
+      "character": "Penescu",
+      "order": 2
+    },
+    {
+      "personId": 965597,
+      "character": "Iordache",
+      "order": 3
+    },
+    {
+      "personId": 1483678,
+      "character": "Adrian Ciocazanu",
+      "order": 4
+    },
+    {
+      "personId": 2228355,
+      "character": "Roxana",
+      "order": 5
+    },
+    {
+      "personId": 2228356,
+      "character": "Ramona",
+      "order": 6
+    },
+    {
+      "personId": 2228357,
+      "character": "Waitress",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 24,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

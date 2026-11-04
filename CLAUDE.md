@@ -12,7 +12,7 @@ Next.js 16.4.3 (App Router, static export), React 19.3.0, TypeScript 5.9.3, Tail
 - Tests: `pnpm test` · one test: `pnpm vitest run <file> -t "<name>"`
 - E2E: `pnpm e2e` (serves `out/` via `pnpm serve:out`, so run `pnpm build` first)
 - Lint and types: `pnpm lint` · `pnpm typecheck`
-- Data import: `pnpm data:import` (reuses cached responses in `.cache/http` forever) · refresh from the sources: `pnpm data:import --fresh`
+- Data import (list update; re-reads sources and rewrites `data/movements.json`/`data/collections.json`): `pnpm data:import` (reuses cached responses in `.cache/http` forever) · bypass the cache: `pnpm data:import --fresh`. The M6 monthly refresh must not use it as is (see ADR-005).
 - Env: copy `.env.example` to `.env.local`; validated in `src/lib/env.ts` (site) and `pipeline/env.ts` (import).
 
 ## Structure

@@ -35,6 +35,7 @@ export function HallExit({
         meta={next.meta}
         imagePath={next.imagePath}
         height="exit"
+        linkLabel={`${t.next}: ${next.name}`}
       />
     </div>
   )

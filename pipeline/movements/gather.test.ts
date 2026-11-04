@@ -44,7 +44,7 @@ describe('gatherMovement', () => {
       {
         load: async (id) => movies.get(id) ?? null,
         cultIds: new Set([2]),
-        handFilms: [{ movie: film(3, 1970), source: 'bfi' }],
+        handFilms: [{ movie: film(3, 1965), source: 'bfi' }],
       },
     )
     expect(result.candidates).toBe(3)
@@ -54,5 +54,56 @@ describe('gatherMovement', () => {
       [2, true, ['category']],
       [3, false, ['bfi']],
     ])
+  })
+
+  it('applies the years but not the country to hand rows', async () => {
+    const result = await gatherMovement(
+      newWave,
+      {
+        articleFilmLinks: async () => [],
+        categoryMembers: async () => [],
+        resolveWikidataIds: async () => new Map(),
+        tmdbIdsForQids: async () => new Map(),
+      },
+      {
+        load: async () => null,
+        cultIds: new Set(),
+        handFilms: [
+          {
+            movie: film(10, 1962, { production_countries: [{ iso_3166_1: 'IT' }] }),
+            source: 'bfi',
+          },
+          { movie: film(11, 1974), source: 'mubi' },
+        ],
+      },
+    )
+    expect(result.selection.map((c) => c.tmdbId)).toEqual([10])
+    expect(result.candidates).toBe(1)
+  })
+
+  it('drops excluded ids from wiki and hand candidates', async () => {
+    const movies = new Map([
+      [1, film(1, 1959)],
+      [2, film(2, 1960)],
+    ])
+    const result = await gatherMovement(
+      { ...newWave, excludeTmdbIds: [2, 12] },
+      {
+        articleFilmLinks: async () => ['one', 'two'],
+        categoryMembers: async () => [],
+        resolveWikidataIds: async (titles) =>
+          new Map(titles.map((t) => [t, t === 'one' ? 'Q1' : 'Q2'])),
+        tmdbIdsForQids: async (qids) => new Map(qids.map((q) => [q, [Number(q.slice(1))]])),
+      },
+      {
+        load: async (id) => movies.get(id) ?? null,
+        cultIds: new Set(),
+        handFilms: [
+          { movie: film(12, 1961), source: 'bfi' },
+          { movie: film(13, 1961), source: 'bfi' },
+        ],
+      },
+    )
+    expect(result.selection.map((c) => c.tmdbId)).toEqual([1, 13])
   })
 })

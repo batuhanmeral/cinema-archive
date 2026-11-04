@@ -340,6 +340,20 @@ function moviesById(...list: TmdbMovie[]): Pick<ImportDeps, 'fetchMovie'> {
   }
 }
 
+function searchHit(hits: Record<string, { id: number; year: number | string }>, query: string) {
+  const hit = hits[query]
+  if (!hit) return []
+  return [
+    {
+      id: hit.id,
+      title: query,
+      original_title: query,
+      release_date: `${hit.year}-01-01`,
+      adult: false,
+    },
+  ]
+}
+
 function movement(overrides: Partial<MovementContent> = {}): MovementContent {
   return {
     slug: 'soviet-cinema',
@@ -407,7 +421,7 @@ describe('runImport movements, yesilcam and collections', () => {
     })
     const handFilm = movie(601, {
       title: 'Hand Film',
-      release_date: '1980-01-01',
+      release_date: '1965-01-01',
       production_countries: [{ iso_3166_1: 'FR' }],
     })
     const newWave = movement({
@@ -422,7 +436,7 @@ describe('runImport movements, yesilcam and collections', () => {
         movement: 'french-new-wave',
         source: 'bfi',
         url: 'https://www.bfi.org.uk/list',
-        films: [{ title: 'Hand Film', year: 1980, directors: ['Andrei Tarkovsky'] }],
+        films: [{ title: 'Hand Film', year: 1965, directors: ['Andrei Tarkovsky'] }],
       },
     ]
     const out = await runImport(
@@ -437,7 +451,7 @@ describe('runImport movements, yesilcam and collections', () => {
             id: 601,
             title: 'Hand Film',
             original_title: 'Hand Film',
-            release_date: '1980-01-01',
+            release_date: '1965-01-01',
             adult: false,
           },
         ],
@@ -446,6 +460,102 @@ describe('runImport movements, yesilcam and collections', () => {
     expect(out.movements.map((m) => m.filmIds)).toEqual([[601]])
     expect(out.lock.films.map((e) => e.tmdbId)).toEqual([601, 1398])
     expect(out.report.groups.movements[0]).toMatchObject({ films: 1, candidates: 1 })
+  })
+
+  it('drops a hand-list row outside the years but keeps one from another country', async () => {
+    const lateFilm = movie(610, {
+      title: 'Late Film',
+      release_date: '1974-01-01',
+      production_countries: [{ iso_3166_1: 'FR' }],
+    })
+    const foreignFilm = movie(611, {
+      title: 'Foreign Film',
+      release_date: '1962-01-01',
+      production_countries: [{ iso_3166_1: 'SU' }],
+    })
+    const newWave = movement({
+      slug: 'french-new-wave',
+      years: { start: 1958, end: 1966 },
+      countries: ['FR'],
+      wikipedia: { article: 'French New Wave', categories: [] },
+      pioneerIds: [],
+    })
+    const hits: Record<string, { id: number; year: string }> = {
+      'Late Film': { id: 610, year: '1974' },
+      'Foreign Film': { id: 611, year: '1962' },
+    }
+    const lists: MovementList[] = [
+      {
+        movement: 'french-new-wave',
+        source: 'bfi',
+        url: 'https://www.bfi.org.uk/list',
+        films: Object.entries(hits).map(([title, { year }]) => ({
+          title,
+          year: Number(year),
+          directors: ['Andrei Tarkovsky'],
+        })),
+      },
+    ]
+    const out = await runImport(
+      fakeDeps({
+        ...wiki(soviet),
+        ...moviesById(stalker, lateFilm, foreignFilm),
+        movements: [newWave],
+        movementLists: lists,
+        searchMovies: async (query) => searchHit(hits, query),
+      }),
+    )
+    expect(out.movements.map((m) => m.filmIds)).toEqual([[611]])
+  })
+
+  it('keeps an excluded wiki candidate and an excluded hand row out of the movement and lock', async () => {
+    const mk = (id: number, title: string, year: number) =>
+      movie(id, {
+        title,
+        release_date: `${year}-01-01`,
+        production_countries: [{ iso_3166_1: 'FR' }],
+      })
+    const hits: Record<string, { id: number; year: number }> = {
+      'Excluded Hand': { id: 621, year: 1961 },
+      'Kept Hand': { id: 622, year: 1962 },
+    }
+    const newWave = movement({
+      slug: 'french-new-wave',
+      years: { start: 1958, end: 1966 },
+      countries: ['FR'],
+      wikipedia: { article: 'French New Wave', categories: [] },
+      pioneerIds: [],
+      excludeTmdbIds: [620, 621],
+    })
+    const lists: MovementList[] = [
+      {
+        movement: 'french-new-wave',
+        source: 'bfi',
+        url: 'https://www.bfi.org.uk/list',
+        films: Object.entries(hits).map(([title, { year }]) => ({
+          title,
+          year,
+          directors: ['Andrei Tarkovsky'],
+        })),
+      },
+    ]
+    const out = await runImport(
+      fakeDeps({
+        ...wiki({ ...soviet, 'Wiki Film (film)': 620 }),
+        ...moviesById(
+          stalker,
+          mk(620, 'Wiki Film', 1960),
+          mk(621, 'Excluded Hand', 1961),
+          mk(622, 'Kept Hand', 1962),
+        ),
+        movements: [newWave],
+        movementLists: lists,
+        articleFilmLinks: async () => ['Wiki Film (film)'],
+        searchMovies: async (query) => searchHit(hits, query),
+      }),
+    )
+    expect(out.movements.map((m) => m.filmIds)).toEqual([[622]])
+    expect(out.lock.films.map((e) => e.tmdbId)).toEqual([622, 1398])
   })
 
   it('keeps an adult category film out of movements, collections, films and the lock', async () => {

@@ -14,14 +14,20 @@ export type MovementCandidate = {
   sources: ReadonlySet<MovementSource>
 }
 
+export function fitsMovementYears(movement: Pick<MovementContent, 'years'>, year: number): boolean {
+  const { start, end } = movement.years
+  if (year < start - MOVEMENT_YEAR_TOLERANCE) return false
+  return end === null || year <= end + MOVEMENT_YEAR_TOLERANCE
+}
+
 export function fitsMovement(
   movement: Pick<MovementContent, 'years' | 'countries'>,
   film: { year: number; countries: string[] },
 ): boolean {
-  const { start, end } = movement.years
-  if (film.year < start - MOVEMENT_YEAR_TOLERANCE) return false
-  if (end !== null && film.year > end + MOVEMENT_YEAR_TOLERANCE) return false
-  return film.countries.some((country) => movement.countries.includes(country))
+  return (
+    fitsMovementYears(movement, film.year) &&
+    film.countries.some((country) => movement.countries.includes(country))
+  )
 }
 
 function mergeById(candidates: MovementCandidate[]): MovementCandidate[] {

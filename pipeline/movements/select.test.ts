@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest'
 import {
   fitsMovement,
+  fitsMovementYears,
   selectMovementFilms,
   type MovementCandidate,
   type MovementSource,
@@ -74,5 +75,20 @@ describe('selectMovementFilms', () => {
       candidate(1, { year: 1962 }),
     ])
     expect(picked.map((c) => c.tmdbId)).toEqual([2, 1, 3])
+  })
+})
+
+describe('fitsMovementYears', () => {
+  const newWave = { years: { start: 1958, end: 1966 } }
+
+  it('accepts the stated years with the tolerance and rejects the rest', () => {
+    expect(fitsMovementYears(newWave, 1957)).toBe(true)
+    expect(fitsMovementYears(newWave, 1967)).toBe(true)
+    expect(fitsMovementYears(newWave, 1956)).toBe(false)
+    expect(fitsMovementYears(newWave, 1970)).toBe(false)
+  })
+
+  it('has no upper bound for an ongoing movement', () => {
+    expect(fitsMovementYears({ years: { start: 2001, end: null } }, 2030)).toBe(true)
   })
 })

@@ -6,6 +6,7 @@ import type { TmdbMovie } from '../sources/tmdb'
 import { movieYear } from '../transform/film'
 import {
   fitsMovement,
+  fitsMovementYears,
   type MovementCandidate,
   type MovementSource,
   selectMovementFilms,
@@ -62,7 +63,8 @@ function toMovementCandidate(
   }
 }
 
-// Wiki adayları akımın yıl/ülke sınırına uymalı; el listeleri akıma özeldir, denetimsiz girer.
+// Wiki adayları yıl+ülke sınırına uymalı; el satırları akıma özel olduğundan yalnız yıl denetlenir.
+// excludeTmdbIds, makalede geçip akıma ait olmayan filmleri tüm adaylardan çıkarır.
 export async function gatherMovement(
   movement: MovementContent,
   deps: MovementDeps,
@@ -80,7 +82,9 @@ export async function gatherMovement(
     ])
     sourcesById.set(id, merged)
   }
-  const fitting = (await loadMovies(input.load, [...sourcesById.keys()])).filter((movie) => {
+  const excluded = new Set(movement.excludeTmdbIds ?? [])
+  const wikiIds = [...sourcesById.keys()].filter((id) => !excluded.has(id))
+  const fitting = (await loadMovies(input.load, wikiIds)).filter((movie) => {
     const year = movieYear(movie)
     return year !== null && fitsMovement(movement, { year, countries: countriesOf(movie) })
   })
@@ -98,9 +102,11 @@ export async function gatherMovement(
     ...wikiMovies.map((movie) =>
       toMovementCandidate(movie, sourcesById.get(movie.id) ?? new Set(), input.cultIds),
     ),
-    ...input.handFilms.map(({ movie, source }) =>
-      toMovementCandidate(movie, new Set([source]), input.cultIds),
-    ),
+    ...input.handFilms
+      .filter(
+        ({ movie }) => !excluded.has(movie.id) && fitsMovementYears(movement, requireYear(movie)),
+      )
+      .map(({ movie, source }) => toMovementCandidate(movie, new Set([source]), input.cultIds)),
   ]
   return {
     selection: selectMovementFilms(candidates),

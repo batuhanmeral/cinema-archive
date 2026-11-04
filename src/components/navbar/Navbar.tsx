@@ -8,7 +8,7 @@ import { messages } from '@/lib/i18n/messages'
 import { collectionsHref, homeHref, movementsHref } from '@/lib/i18n/routes'
 import { LanguageToggle, LanguageToggleFallback } from './LanguageToggle'
 import { MobileMenu } from './MobileMenu'
-import { NavLinks } from './NavLinks'
+import { NavLinks, withoutTrailingSlash } from './NavLinks'
 import {
   INITIAL_NAV_STATE,
   NAV_HEIGHT,
@@ -19,7 +19,8 @@ import {
 
 // Hero'su olmayan liste sayfalarında navbar baştan dolu olur.
 function hasHero(pathname: string, locale: Locale): boolean {
-  return pathname !== movementsHref(locale) && pathname !== collectionsHref(locale)
+  const path = withoutTrailingSlash(pathname)
+  return path !== movementsHref(locale) && path !== collectionsHref(locale)
 }
 
 export function Navbar({ locale }: { locale: Locale }) {

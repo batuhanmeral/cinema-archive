@@ -57,6 +57,15 @@ describe('movementContentFileSchema', () => {
     expect(movementContentFileSchema.safeParse([entry, entry]).success).toBe(false)
   })
 
+  it('accepts an optional list of unique excluded TMDB ids', () => {
+    const parse = (excludeTmdbIds: number[]) =>
+      movementContentFileSchema.safeParse([{ ...entry, excludeTmdbIds }]).success
+    expect(parse([10, 20])).toBe(true)
+    expect(parse([10, 10])).toBe(false)
+    expect(parse([0])).toBe(false)
+    expect(movementContentFileSchema.safeParse([entry]).success).toBe(true)
+  })
+
   it('accepts distinct slugs', () => {
     expect(movementContentFileSchema.safeParse([entry, { ...entry, slug: 'other' }]).success).toBe(
       true,

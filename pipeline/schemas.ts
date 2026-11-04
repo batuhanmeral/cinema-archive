@@ -104,6 +104,10 @@ export const movementContentSchema = z.object({
   countries: countriesSchema,
   wikipedia: z.object({ article: z.string().min(1), categories: z.array(z.string()) }),
   pioneerIds: z.array(idSchema),
+  excludeTmdbIds: z
+    .array(idSchema)
+    .refine((ids) => new Set(ids).size === ids.length, 'ids must be unique')
+    .optional(),
 })
 export type MovementContent = z.infer<typeof movementContentSchema>
 export const movementContentFileSchema = z

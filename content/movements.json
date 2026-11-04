@@ -48,7 +48,8 @@
       "article": "Surrealist cinema",
       "categories": ["Surrealist films"]
     },
-    "pioneerIds": [793, 997694, 150602]
+    "pioneerIds": [793, 997694, 150602],
+    "excludeTmdbIds": [9544, 11597, 13166, 18910, 83096]
   },
   {
     "slug": "french-poetic-realism",
@@ -65,7 +66,8 @@
       "article": "Poetic realism",
       "categories": []
     },
-    "pioneerIds": [11528, 25161, 39058, 142865]
+    "pioneerIds": [11528, 25161, 39058, 142865],
+    "excludeTmdbIds": [626]
   },
   {
     "slug": "italian-neorealism",
@@ -99,7 +101,8 @@
       "article": "Japanese New Wave",
       "categories": []
     },
-    "pioneerIds": [46230, 110519, 133518, 20025]
+    "pioneerIds": [46230, 110519, 133518, 20025],
+    "excludeTmdbIds": [14537, 30959]
   },
   {
     "slug": "french-new-wave",
@@ -109,7 +112,7 @@
     },
     "years": {
       "start": 1958,
-      "end": 1962
+      "end": 1969
     },
     "countries": ["FR"],
     "wikipedia": {
@@ -184,7 +187,8 @@
       "article": "New Hollywood",
       "categories": []
     },
-    "pioneerIds": [6448, 1776, 1032, 9789]
+    "pioneerIds": [6448, 1776, 1032, 9789],
+    "excludeTmdbIds": [1052, 15121]
   },
   {
     "slug": "iranian-new-wave",
@@ -218,7 +222,8 @@
       "article": "Hong Kong New Wave",
       "categories": ["Hong Kong New Wave films"]
     },
-    "pioneerIds": [123199, 26760, 71063]
+    "pioneerIds": [123199, 26760, 71063],
+    "excludeTmdbIds": [39850]
   },
   {
     "slug": "new-taiwan-cinema",
@@ -252,7 +257,8 @@
       "article": "Dogme 95",
       "categories": ["Dogme 95 films"]
     },
-    "pioneerIds": [42, 4453, 65879, 1558]
+    "pioneerIds": [42, 4453, 65879, 1558],
+    "excludeTmdbIds": [16, 145, 553, 1951, 5206, 10913, 12456, 12777, 22137, 49302, 154080]
   },
   {
     "slug": "new-french-extremity",
@@ -269,7 +275,8 @@
       "article": "New French Extremity",
       "categories": ["New French Extremity films"]
     },
-    "pioneerIds": [14597, 6295]
+    "pioneerIds": [14597, 6295],
+    "excludeTmdbIds": [452, 17247]
   },
   {
     "slug": "romanian-new-wave",
@@ -286,7 +293,8 @@
       "article": "Romanian New Wave",
       "categories": []
     },
-    "pioneerIds": [107533, 125282]
+    "pioneerIds": [107533, 125282],
+    "excludeTmdbIds": [25205]
   },
   {
     "slug": "new-turkish-cinema",
