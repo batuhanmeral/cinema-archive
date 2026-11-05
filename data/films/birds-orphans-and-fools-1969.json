@@ -1,0 +1,147 @@
+{
+  "tmdbId": 47900,
+  "slug": "birds-orphans-and-fools-1969",
+  "year": 1969,
+  "runtime": 81,
+  "originalTitle": "Vtáčkovia, siroty a blázni",
+  "title": {
+    "en": "Birds, Orphans and Fools",
+    "tr": "Vtáčkovia, siroty a blázni"
+  },
+  "overview": {
+    "en": "In the aftermath of war, two men and a woman begin acting more like children than adults, leading to tragedy.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/cvWJz9ofYq81RB1cAeX7r76sNFw.jpg",
+    "en": "/nOj5VdTruVKjnSsXT9IAzMTUEkh.jpg"
+  },
+  "backdrops": [
+    "/24Zys41KFDtuvF14X0Az8AROF7j.jpg",
+    "/FozJJxlCxEhN1tN3koN36NRwxe.jpg",
+    "/2oJG4JfMDXrIE5dVemktbgpwUFf.jpg",
+    "/xJgolUYeFln4GFNIXSa3Go5dSG8.jpg",
+    "/5hkOiUlSIZqEBlmBGkn65blMs3T.jpg",
+    "/o1AwXDvfKmI6HfuOL2494VgBSFX.jpg",
+    "/wgQ1k5WEwF78fOPuInj4my8UuSJ.jpg",
+    "/2CjhurkVoh3aKefIF5rG7rer4rY.jpg",
+    "/eMVQblend9Y5k7fJRseb7BeoSRD.jpg",
+    "/7UQyV0YwSZJHJ8wGoe3fd0BzRyz.jpg"
+  ],
+  "trailerKey": "ZmyOlAgIMZI",
+  "genreIds": [
+    18,
+    14,
+    35
+  ],
+  "keywordIds": [],
+  "countries": [
+    "XC",
+    "FR"
+  ],
+  "languages": [
+    "sk"
+  ],
+  "studios": [
+    "Štúdio hraných filmov Bratislava",
+    "Como Films"
+  ],
+  "crew": [
+    {
+      "personId": 78001,
+      "job": "director"
+    },
+    {
+      "personId": 78001,
+      "job": "writer"
+    },
+    {
+      "personId": 11986,
+      "job": "producer"
+    },
+    {
+      "personId": 1537651,
+      "job": "writer"
+    },
+    {
+      "personId": 544515,
+      "job": "composer"
+    },
+    {
+      "personId": 10253,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1179610,
+      "character": "Andrej",
+      "order": 0
+    },
+    {
+      "personId": 592061,
+      "character": "Marta",
+      "order": 1
+    },
+    {
+      "personId": 133295,
+      "character": "Yorick",
+      "order": 2
+    },
+    {
+      "personId": 1262119,
+      "character": "Landlord",
+      "order": 3
+    },
+    {
+      "personId": 3614825,
+      "character": "Saša",
+      "order": 4
+    },
+    {
+      "personId": 1537663,
+      "character": "Partisan",
+      "order": 5
+    },
+    {
+      "personId": 133296,
+      "character": "Nun",
+      "order": 6
+    },
+    {
+      "personId": 1308078,
+      "character": "Sailor",
+      "order": 7
+    },
+    {
+      "personId": 3040829,
+      "character": "Andrej (voice)",
+      "order": 8
+    },
+    {
+      "personId": 103141,
+      "character": "Marta (voice)",
+      "order": 9
+    },
+    {
+      "personId": 38677,
+      "character": "Yorick (voice)",
+      "order": 10
+    },
+    {
+      "personId": 2286824,
+      "character": "Saša (voice)",
+      "order": 11
+    },
+    {
+      "personId": 1132478,
+      "character": "Sailor (voice)",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 37,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

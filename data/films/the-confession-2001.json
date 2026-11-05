@@ -1,0 +1,124 @@
+{
+  "tmdbId": 79084,
+  "slug": "the-confession-2001",
+  "year": 2001,
+  "runtime": 88,
+  "originalTitle": "İtiraf",
+  "title": {
+    "en": "The Confession",
+    "tr": "İtiraf"
+  },
+  "overview": {
+    "en": "A man suspects his wife of being unfaithful, but he's not prepared for what her confession will do to him.",
+    "tr": "Başarılı bir mühendis olan Harun, karısı Nilgün’ün kendisini aldattığını öğrenir. Ancak inanmak istemediğinden, ya da hala aşık olduğu güzel karısını kaybetmemek için önce bu durumla yüzleşmeyip, bildiklerini karısına söylemez. Ama zaman ağır ve acılı geçmektedir; belirsizlik dayanılır gibi değildir. Sonunda yüzleşmeye, karısına her şeyi itiraf ettirmeye karar verdiğinde uzun bir gece “sorgusu” başlar."
+  },
+  "poster": {
+    "tr": "/ueVTMugHMDFRKboyJkXT01lxvNe.jpg",
+    "en": "/vSHhwp76Uy0YJ8rNMUqG4mIgRnk.jpg"
+  },
+  "backdrops": [
+    "/edCqcKd0gjhAW2cEAve4iY4ndor.jpg",
+    "/oMu1yt9nCkysiY8R22qWbEiJF1N.jpg",
+    "/hdWeNrIjp9i5shiCOuNODCBboqT.jpg",
+    "/nHvjKbj6UPX3eQghPH2x8mcElKu.jpg",
+    "/poR2lR1pFFxVGcd3TQhJuKzRL20.jpg",
+    "/rfeaZi1YeKMaUCSQe1YQChIUjsa.jpg"
+  ],
+  "trailerKey": "vOJias_nfRo",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    718,
+    5733
+  ],
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [
+    "Mavi Film"
+  ],
+  "crew": [
+    {
+      "personId": 145518,
+      "job": "director"
+    },
+    {
+      "personId": 145518,
+      "job": "writer"
+    },
+    {
+      "personId": 145518,
+      "job": "producer"
+    },
+    {
+      "personId": 145518,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 46065,
+      "character": "Harun",
+      "order": 0
+    },
+    {
+      "personId": 96978,
+      "character": "Nilgün",
+      "order": 1
+    },
+    {
+      "personId": 1410159,
+      "character": "Süha",
+      "order": 2
+    },
+    {
+      "personId": 1888375,
+      "character": "Ayse",
+      "order": 3
+    },
+    {
+      "personId": 1888376,
+      "character": "Mother (Anne)",
+      "order": 4
+    },
+    {
+      "personId": 1888377,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1888378,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 1888379,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1888380,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1888381,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1888382,
+      "character": "",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 52,
+  "sources": [
+    "movement:new-turkish-cinema"
+  ]
+}

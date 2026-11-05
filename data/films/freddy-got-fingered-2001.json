@@ -1,0 +1,215 @@
+{
+  "tmdbId": 13166,
+  "slug": "freddy-got-fingered-2001",
+  "year": 2001,
+  "runtime": 87,
+  "originalTitle": "Freddy Got Fingered",
+  "title": {
+    "en": "Freddy Got Fingered",
+    "tr": "Freddy'nin Çılgın Maceraları"
+  },
+  "overview": {
+    "en": "Unemployed cartoonist Gord Brody moves back in with his parents Jim and Julie and younger brother Freddy. When his parents demand he leave, he retaliates by spreading rumors that Jim is sexually abusing Freddy.",
+    "tr": "İşsiz bir karikatürist, ailesi ve küçük kardeşi Freddy ile birlikte geri döndü. Ailesinin ayrılmasını istediğinde babasının Freddy'yi cinsel istismar ettiği yönündeki söylentileri yaymaya başlar."
+  },
+  "poster": {
+    "tr": "/gVmSZgxiT7ynyRLsEgg8Xs8ZVWX.jpg",
+    "en": "/gVmSZgxiT7ynyRLsEgg8Xs8ZVWX.jpg"
+  },
+  "backdrops": [
+    "/uhHYfrbc4BWZbmsAvl951pfvoEu.jpg",
+    "/emUc2O81GRFgkihKz85ZYEMYqvP.jpg",
+    "/rJHGSn406EvxL3bWHujUBn6apj7.jpg",
+    "/b9vJCwg3xwVMwXABqNsBWKhMMAH.jpg",
+    "/eJMdGjk9WnDiDMafL4HoaN0wwd4.jpg",
+    "/kWvgozyXfTuY5FIeen5jZVMk6FR.jpg",
+    "/nzrDnWZ269HKszFfFeVCAYthGNc.jpg",
+    "/tcfJwzmDMoCGTsuHLEuVeaAikzU.jpg",
+    "/teryT3XfPBmG85vWKKZmBi56DyC.jpg",
+    "/1fHMOkaqcG6djtMts7d6AkE6djC.jpg"
+  ],
+  "trailerKey": "-b2j_JJ0Umk",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    739,
+    2564,
+    8201,
+    9887,
+    5653,
+    10041,
+    8631,
+    9956,
+    9964,
+    14783,
+    156052,
+    189868,
+    202399,
+    208103,
+    240119,
+    283953,
+    325778
+  ],
+  "countries": [
+    "CH",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Epsilon Motion Pictures",
+    "Regency Enterprises",
+    "New Regency Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 36423,
+      "job": "director"
+    },
+    {
+      "personId": 11957,
+      "job": "producer"
+    },
+    {
+      "personId": 73501,
+      "job": "producer"
+    },
+    {
+      "personId": 39032,
+      "job": "producer"
+    },
+    {
+      "personId": 6114,
+      "job": "producer"
+    },
+    {
+      "personId": 80341,
+      "job": "producer"
+    },
+    {
+      "personId": 7413,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 80341,
+      "job": "writer"
+    },
+    {
+      "personId": 36423,
+      "job": "writer"
+    },
+    {
+      "personId": 7478,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 36423,
+      "character": "Gord Brody",
+      "order": 0
+    },
+    {
+      "personId": 9626,
+      "character": "Jim Brody",
+      "order": 1
+    },
+    {
+      "personId": 56595,
+      "character": "Betty",
+      "order": 2
+    },
+    {
+      "personId": 52480,
+      "character": "Freddy Brody",
+      "order": 3
+    },
+    {
+      "personId": 16846,
+      "character": "Darren",
+      "order": 4
+    },
+    {
+      "personId": 1904,
+      "character": "Mr. Davidson",
+      "order": 5
+    },
+    {
+      "personId": 14415,
+      "character": "Julie Brody",
+      "order": 6
+    },
+    {
+      "personId": 80342,
+      "character": "Mr. Malloy",
+      "order": 7
+    },
+    {
+      "personId": 80343,
+      "character": "Andy Malloy",
+      "order": 8
+    },
+    {
+      "personId": 80344,
+      "character": "Farmer #1",
+      "order": 9
+    },
+    {
+      "personId": 80345,
+      "character": "Farmer #2",
+      "order": 10
+    },
+    {
+      "personId": 21092,
+      "character": "Pregnant Woman",
+      "order": 11
+    },
+    {
+      "personId": 80346,
+      "character": "Doctor",
+      "order": 12
+    },
+    {
+      "personId": 10874,
+      "character": "Security Guard - Studio",
+      "order": 13
+    },
+    {
+      "personId": 69597,
+      "character": "Davidson's Receptionist",
+      "order": 14
+    },
+    {
+      "personId": 63562,
+      "character": "Man #1 - Restaurant",
+      "order": 15
+    },
+    {
+      "personId": 10869,
+      "character": "Man #2 - Restaurant",
+      "order": 16
+    },
+    {
+      "personId": 80347,
+      "character": "Woman - Restaurant",
+      "order": 17
+    },
+    {
+      "personId": 11833,
+      "character": "Larry / Truck Driver",
+      "order": 18
+    },
+    {
+      "personId": 80348,
+      "character": "Psychiatrist / Social Worker",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 518,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

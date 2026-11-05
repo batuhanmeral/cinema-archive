@@ -1,0 +1,62 @@
+{
+  "tmdbId": 158968,
+  "slug": "salt-for-svanetia-1930",
+  "year": 1930,
+  "runtime": 63,
+  "originalTitle": "ჯიმ შვანთე",
+  "title": {
+    "en": "Salt for Svanetia",
+    "tr": "Salt for Svanetia"
+  },
+  "overview": {
+    "en": "An ethnographic treasure that documents with visual bravado the harsh conditions of life in the isolated mountain village of Ushkul.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/m5FVJsOWAdO8XwrOy9R08uhKagE.jpg",
+    "en": "/9OjNGw4DWUGU9lKBBNYpI1kBwrr.jpg"
+  },
+  "backdrops": [
+    "/cZzz0v2FyFz3JdETEZchpqF1Hr.jpg",
+    "/l279MB5v3GbyxKOnE7UeKnZCxcZ.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    2903,
+    209473
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "JSC \"Sakhkinmretsvi\""
+  ],
+  "crew": [
+    {
+      "personId": 108764,
+      "job": "director"
+    },
+    {
+      "personId": 108764,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2279745,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1403591,
+      "job": "writer"
+    }
+  ],
+  "cast": [],
+  "awards": {},
+  "voteCount": 31,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

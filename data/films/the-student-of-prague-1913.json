@@ -1,0 +1,113 @@
+{
+  "tmdbId": 28627,
+  "slug": "the-student-of-prague-1913",
+  "year": 1913,
+  "runtime": 85,
+  "originalTitle": "Der Student von Prag",
+  "title": {
+    "en": "The Student of Prague",
+    "tr": "Der Student von Prag"
+  },
+  "overview": {
+    "en": "Prague, Bohemia, 1820. Balduin, a penniless student, falls in love with Countess Margit, a wealthy noblewoman whom he has saved from drowning.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tO2zgNEY0MqtvEyPioTTfHgmN2Q.jpg",
+    "en": "/tO2zgNEY0MqtvEyPioTTfHgmN2Q.jpg"
+  },
+  "backdrops": [
+    "/7LQl2QloGfpgPBB0GTMzXxKWmgZ.jpg",
+    "/pSrl9LPOKVGLh9DAvEaAwlpZAYz.jpg",
+    "/cQKSzue8svZtZKkVVVqUsMkbAoX.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    14
+  ],
+  "keywordIds": [
+    3530,
+    10660,
+    154802,
+    161891,
+    183434,
+    207928,
+    244516
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Deutsche Bioscope"
+  ],
+  "crew": [
+    {
+      "personId": 101358,
+      "job": "director"
+    },
+    {
+      "personId": 55140,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 29123,
+      "job": "writer"
+    },
+    {
+      "personId": 101358,
+      "job": "writer"
+    },
+    {
+      "personId": 29100,
+      "job": "writer"
+    },
+    {
+      "personId": 1170427,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29123,
+      "character": "Balduin - A Student / Self",
+      "order": 0
+    },
+    {
+      "personId": 47173,
+      "character": "Countess Margit von Schwarzenberg",
+      "order": 1
+    },
+    {
+      "personId": 29176,
+      "character": "Lyduschka - A Wanderer Girl",
+      "order": 2
+    },
+    {
+      "personId": 9845,
+      "character": "Scapinelli - An Old Adventurer",
+      "order": 3
+    },
+    {
+      "personId": 101359,
+      "character": "Count von Schwarzenberg - Margit's father",
+      "order": 4
+    },
+    {
+      "personId": 101360,
+      "character": "Baron Waldis-Schwarzenberg - Margit's Cousin and Fiancé",
+      "order": 5
+    },
+    {
+      "personId": 29100,
+      "character": "Self",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 78,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

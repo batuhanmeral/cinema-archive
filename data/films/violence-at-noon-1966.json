@@ -1,0 +1,139 @@
+{
+  "tmdbId": 42720,
+  "slug": "violence-at-noon-1966",
+  "year": 1966,
+  "runtime": 99,
+  "originalTitle": "白昼の通り魔",
+  "title": {
+    "en": "Violence at Noon",
+    "tr": "Violence at Noon"
+  },
+  "overview": {
+    "en": "Two young women must come to terms with the fact that a man they're deeply linked to is a murdering rapist.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4c2JVOW4rsumhXhRS8CIbSzAU1M.jpg",
+    "en": "/qpt47NOTVFvcg8BDd05XSQFsmM4.jpg"
+  },
+  "backdrops": [
+    "/tVLqORYuiFdYqMQblBRdUf5mhQR.jpg",
+    "/zTajTTiOUOMObotGoIsaf4lwOJU.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    570,
+    818,
+    190388
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Sozosha"
+  ],
+  "crew": [
+    {
+      "personId": 46230,
+      "job": "director"
+    },
+    {
+      "personId": 1093418,
+      "job": "writer"
+    },
+    {
+      "personId": 1034270,
+      "job": "composer"
+    },
+    {
+      "personId": 1093415,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1093414,
+      "job": "producer"
+    },
+    {
+      "personId": 1093431,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1093420,
+      "character": "Shino Shinozaki",
+      "order": 0
+    },
+    {
+      "personId": 552315,
+      "character": "Matsuko Koura, wife of Eisuke, teacher",
+      "order": 1
+    },
+    {
+      "personId": 33730,
+      "character": "Eisuke Oyamada",
+      "order": 2
+    },
+    {
+      "personId": 138748,
+      "character": "Genji Hyuga",
+      "order": 3
+    },
+    {
+      "personId": 224658,
+      "character": "Inagaki, husband of the raped woman",
+      "order": 4
+    },
+    {
+      "personId": 554566,
+      "character": "Jinbo, teacher",
+      "order": 5
+    },
+    {
+      "personId": 142488,
+      "character": "Shino's grandmother",
+      "order": 6
+    },
+    {
+      "personId": 133603,
+      "character": "Shino's father",
+      "order": 7
+    },
+    {
+      "personId": 1093419,
+      "character": "Matsuko's mother",
+      "order": 8
+    },
+    {
+      "personId": 1093421,
+      "character": "Raped woman",
+      "order": 9
+    },
+    {
+      "personId": 33732,
+      "character": "School director",
+      "order": 10
+    },
+    {
+      "personId": 224662,
+      "character": "Inspector Haraguchi",
+      "order": 11
+    },
+    {
+      "personId": 96805,
+      "character": "Mayor",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 41,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

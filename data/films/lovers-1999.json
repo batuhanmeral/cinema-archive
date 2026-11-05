@@ -1,0 +1,163 @@
+{
+  "tmdbId": 10621,
+  "slug": "lovers-1999",
+  "year": 1999,
+  "runtime": 100,
+  "originalTitle": "Lovers",
+  "title": {
+    "en": "Lovers",
+    "tr": "Lovers"
+  },
+  "overview": {
+    "en": "A French woman falls in love with a Yugoslavian man, not realizing that he is an illegal immigrant.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5RL8wNrSkdU13XhpbBPvdbNiQ2k.jpg",
+    "en": "/5RL8wNrSkdU13XhpbBPvdbNiQ2k.jpg"
+  },
+  "backdrops": [
+    "/pHY1pk9LjyCxd0Nj5up59816sb8.jpg",
+    "/gQc4UXgGKqKwXnQMBwEkLFH0i9V.jpg",
+    "/g0BWzR5d5BJDIaC5s2gCYBnsNkZ.jpg",
+    "/uSgouBwUckIsVtOTg8sXw0CyRrT.jpg"
+  ],
+  "trailerKey": "MZBGoI30hdM",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    90,
+    449,
+    2173,
+    437,
+    4663,
+    315002
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "sr"
+  ],
+  "studios": [
+    "Tolodo",
+    "Bar Nothing",
+    "TF1 International"
+  ],
+  "crew": [
+    {
+      "personId": 66025,
+      "job": "producer"
+    },
+    {
+      "personId": 1642,
+      "job": "director"
+    },
+    {
+      "personId": 66022,
+      "job": "producer"
+    },
+    {
+      "personId": 1642,
+      "job": "producer"
+    },
+    {
+      "personId": 66022,
+      "job": "writer"
+    },
+    {
+      "personId": 1642,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 59807,
+      "character": "Jeanne",
+      "order": 0
+    },
+    {
+      "personId": 66027,
+      "character": "Dragan",
+      "order": 1
+    },
+    {
+      "personId": 3527860,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 66028,
+      "character": "Le Polizier",
+      "order": 3
+    },
+    {
+      "personId": 19776,
+      "character": "Le Kiosquier",
+      "order": 4
+    },
+    {
+      "personId": 66029,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 19361,
+      "character": "Jean-Michel",
+      "order": 6
+    },
+    {
+      "personId": 66030,
+      "character": "Maria",
+      "order": 7
+    },
+    {
+      "personId": 66031,
+      "character": "La Flic",
+      "order": 8
+    },
+    {
+      "personId": 66032,
+      "character": "Le client",
+      "order": 9
+    },
+    {
+      "personId": 66033,
+      "character": "L'ami agent",
+      "order": 10
+    },
+    {
+      "personId": 3527854,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 3527855,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 38123,
+      "character": "Zlatan",
+      "order": 13
+    },
+    {
+      "personId": 9763,
+      "character": "Alice",
+      "order": 14
+    },
+    {
+      "personId": 3527856,
+      "character": "",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 18,
+  "sources": [
+    "movement:dogme-95"
+  ]
+}

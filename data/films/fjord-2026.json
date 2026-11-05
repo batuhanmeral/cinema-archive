@@ -1,0 +1,226 @@
+{
+  "tmdbId": 1401459,
+  "slug": "fjord-2026",
+  "year": 2026,
+  "runtime": 146,
+  "originalTitle": "Fjord",
+  "title": {
+    "en": "Fjord",
+    "tr": "Fjord"
+  },
+  "overview": {
+    "en": "After moving from Romania to a remote Norwegian village to rebuild their lives, a family finds hope in their welcoming neighbors, but their fragile new beginning is threatened when their young daughter arrives at school covered in bruises.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rhKlzjAJCEKUjxEk1qwr4bgbXlG.jpg",
+    "en": "/rhKlzjAJCEKUjxEk1qwr4bgbXlG.jpg"
+  },
+  "backdrops": [
+    "/rCYzSP07jCA1HuFvrwgaEAPHitT.jpg",
+    "/ronUH8vKXQI8hazM7FJvUZtMAY.jpg",
+    "/iPVAMaI0W4lr7Rl56m0H388eR5.jpg",
+    "/mkzwS3ihBAyjrNZALu6cM7F1mHu.jpg",
+    "/cNhnYmXrhQJCiLtp3RItJSjdLiE.jpg",
+    "/aD5jht7nBgyVh61cfnmuu22UnGU.jpg",
+    "/kP3ozGrqzThV3wcdpUkyz2SdZky.jpg",
+    "/oiLW8MorGKqHTOZLsnni0DiHZfO.jpg",
+    "/6wMoHrnRJkOA6XFcq4V34z3RxkI.jpg",
+    "/pVm69wGYKkqFgTGweqj3cM8oQHI.jpg"
+  ],
+  "trailerKey": "frg59VOungA",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1415,
+    516,
+    1191,
+    11292,
+    12279,
+    15302,
+    159947,
+    162712,
+    179882,
+    185718,
+    190491,
+    200349,
+    222517,
+    295752,
+    330859,
+    336519,
+    339906,
+    379548
+  ],
+  "countries": [
+    "RO",
+    "NO",
+    "FR",
+    "FI",
+    "DK",
+    "SE",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "no",
+    "ro",
+    "sv"
+  ],
+  "studios": [
+    "Mobra Films",
+    "Why Not Productions",
+    "Eye Eye Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 20657,
+      "job": "director"
+    },
+    {
+      "personId": 1554308,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 20657,
+      "job": "producer"
+    },
+    {
+      "personId": 2241239,
+      "job": "producer"
+    },
+    {
+      "personId": 1427139,
+      "job": "composer"
+    },
+    {
+      "personId": 20657,
+      "job": "writer"
+    },
+    {
+      "personId": 1425402,
+      "job": "producer"
+    },
+    {
+      "personId": 2237610,
+      "job": "producer"
+    },
+    {
+      "personId": 3553379,
+      "job": "producer"
+    },
+    {
+      "personId": 132242,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 60898,
+      "character": "Mihai Gheorghiu",
+      "order": 0
+    },
+    {
+      "personId": 1576786,
+      "character": "Lisbet Gheorghiu",
+      "order": 1
+    },
+    {
+      "personId": 1111176,
+      "character": "Mia Halberg",
+      "order": 2
+    },
+    {
+      "personId": 79331,
+      "character": "Gunda",
+      "order": 3
+    },
+    {
+      "personId": 1310711,
+      "character": "Frida",
+      "order": 4
+    },
+    {
+      "personId": 3580174,
+      "character": "Noora Halberg",
+      "order": 5
+    },
+    {
+      "personId": 563067,
+      "character": "Mats Halberg",
+      "order": 6
+    },
+    {
+      "personId": 6194923,
+      "character": "Elia Gheorghiu",
+      "order": 7
+    },
+    {
+      "personId": 6243075,
+      "character": "Emmanuel Gheorghiu",
+      "order": 8
+    },
+    {
+      "personId": 47647,
+      "character": "Attorney Jacobsen",
+      "order": 9
+    },
+    {
+      "personId": 147691,
+      "character": "Åke",
+      "order": 10
+    },
+    {
+      "personId": 2098843,
+      "character": "Ruth",
+      "order": 11
+    },
+    {
+      "personId": 1151227,
+      "character": "Frederick Grandfather",
+      "order": 12
+    },
+    {
+      "personId": 1822171,
+      "character": "Head Nurse Mathilde",
+      "order": 13
+    },
+    {
+      "personId": 1926949,
+      "character": "Klaus",
+      "order": 14
+    },
+    {
+      "personId": 1975316,
+      "character": "Brita",
+      "order": 15
+    },
+    {
+      "personId": 1178619,
+      "character": "Dan",
+      "order": 16
+    },
+    {
+      "personId": 2538010,
+      "character": "Foster Mother",
+      "order": 17
+    },
+    {
+      "personId": 522533,
+      "character": "Family court judge",
+      "order": 18
+    },
+    {
+      "personId": 123453,
+      "character": "Chief Policeman",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cannes": 1
+  },
+  "voteCount": 99,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "tmdbId": 138750,
+  "slug": "the-mysteries-of-the-chateau-of-dice-1929",
+  "year": 1929,
+  "runtime": 27,
+  "originalTitle": "Les Mystères du château du dé",
+  "title": {
+    "en": "The Mysteries of the Chateau of Dice",
+    "tr": "Les Mystères du château du dé"
+  },
+  "overview": {
+    "en": "Mannequin hands hold a pair of dice. A castle is perched on a hilltop. Below it, a posh, modern villa. Meanwhile, far from Paris, two men with masked faces play dice in a bar. They decide to drive to Paris. Country roads, hills, fences. The posh \"chateau\" appears again: meticulous garden, fancy interior, odd sculptures. And at home? \"No one, NO ONE.\" For the next two days, masked figures play dice, frolic by the pool, perform exercises with a ball. Two new figures arrive. Masked. They search and find the dice. They dance. Mannequin hands hold a pair of dice.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/3hr7K2DaNBiim7uXYRhpa5WmFw8.jpg",
+    "en": "/3hr7K2DaNBiim7uXYRhpa5WmFw8.jpg"
+  },
+  "backdrops": [
+    "/dqcmgLVV4f7hpmYrt8XVNlexAS7.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [],
+  "countries": [
+    "FR"
+  ],
+  "languages": [],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 150602,
+      "job": "director"
+    },
+    {
+      "personId": 3571773,
+      "job": "director"
+    },
+    {
+      "personId": 3571773,
+      "job": "writer"
+    },
+    {
+      "personId": 3571773,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 150602,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 150602,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 150602,
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "personId": 2578,
+      "character": "Self (uncredited)",
+      "order": 1
+    },
+    {
+      "personId": 3571773,
+      "character": "",
+      "order": 2
+    }
+  ],
+  "awards": {},
+  "voteCount": 31,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

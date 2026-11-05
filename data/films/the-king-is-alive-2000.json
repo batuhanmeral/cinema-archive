@@ -1,0 +1,147 @@
+{
+  "tmdbId": 10613,
+  "slug": "the-king-is-alive-2000",
+  "year": 2000,
+  "runtime": 110,
+  "originalTitle": "The King Is Alive",
+  "title": {
+    "en": "The King Is Alive",
+    "tr": "The King Is Alive"
+  },
+  "overview": {
+    "en": "Stranded in the heat of a barren African desert, eleven bus-passengers shelter in the remnants of an abandoned town. As rescue grows more remote by the day and anxiety deepens, an idea emerges: why not stage a play. However the choice of King Lear only manages to plunge this disparate group of travelers into turmoil as they struggle to overcome both nature's wrath and their own morality.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ktnT4AsCy2tG3lld3DDdiLPzT3w.jpg",
+    "en": "/ktnT4AsCy2tG3lld3DDdiLPzT3w.jpg"
+  },
+  "backdrops": [
+    "/Fh1C6xUiOYCE4MTvo5B2t7dSzb.jpg",
+    "/oMqMjieNuTKfbwuqAdiCUk0ZXE1.jpg"
+  ],
+  "trailerKey": "y1y2Ue5Vd98",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    5159,
+    9140,
+    315002
+  ],
+  "countries": [
+    "DK",
+    "SE",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Zentropa Entertainments",
+    "DR",
+    "Newmarket Capital Group"
+  ],
+  "crew": [
+    {
+      "personId": 65879,
+      "job": "director"
+    },
+    {
+      "personId": 65882,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 65880,
+      "job": "producer"
+    },
+    {
+      "personId": 6146,
+      "job": "producer"
+    },
+    {
+      "personId": 6149,
+      "job": "producer"
+    },
+    {
+      "personId": 65881,
+      "job": "producer"
+    },
+    {
+      "personId": 1012,
+      "job": "writer"
+    },
+    {
+      "personId": 65879,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 40938,
+      "character": "Catherine",
+      "order": 0
+    },
+    {
+      "personId": 10779,
+      "character": "Charles",
+      "order": 1
+    },
+    {
+      "personId": 10431,
+      "character": "Gina",
+      "order": 2
+    },
+    {
+      "personId": 11180,
+      "character": "Henry",
+      "order": 3
+    },
+    {
+      "personId": 591,
+      "character": "Ashley",
+      "order": 4
+    },
+    {
+      "personId": 65885,
+      "character": "Jack",
+      "order": 5
+    },
+    {
+      "personId": 52374,
+      "character": "Ray",
+      "order": 6
+    },
+    {
+      "personId": 47627,
+      "character": "Liz",
+      "order": 7
+    },
+    {
+      "personId": 65888,
+      "character": "Kanana",
+      "order": 8
+    },
+    {
+      "personId": 65889,
+      "character": "Paul",
+      "order": 9
+    },
+    {
+      "personId": 65887,
+      "character": "Moses",
+      "order": 10
+    },
+    {
+      "personId": 65890,
+      "character": "Amanda",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 37,
+  "sources": [
+    "movement:dogme-95"
+  ]
+}

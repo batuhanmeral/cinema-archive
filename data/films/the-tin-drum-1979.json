@@ -1,0 +1,232 @@
+{
+  "tmdbId": 659,
+  "slug": "the-tin-drum-1979",
+  "year": 1979,
+  "runtime": 162,
+  "originalTitle": "Die Blechtrommel",
+  "title": {
+    "en": "The Tin Drum",
+    "tr": "Teneke Trampet"
+  },
+  "overview": {
+    "en": "In 1924, Oskar Matzerath is born in the Free City of Danzig. At age three, he falls down a flight of stairs and stops growing. In 1939, World War II breaks out.",
+    "tr": "Film 1920'li yıllarda Almanların, Polonyalılar ve diğer azınlıklarla birlikte uyum içinde yaşadıkları yoksul kent Danzig'de başlar. Annesi ve hangisinin babası olduğunu bilmediği iki erkekle birlikte yaşayan Oskar'a (David Bennent) üç yaşına bastığı doğum gününde teneke bir trampet hediye edilir. Bu andan itibaren çevresinde gözlemlediği erişkinlerin mutsuz ve acınılacak dünyalarına katılmaktansa hep çocuk olarak kalmaya karar verir. Gerçekten de yıllarca fiziksel olarak bir gelişme göstermez. Çevreye karşı tek protestosu büyümeyi reddetmek değildir, aynı zamanda teneke davuluna şiddetle vururken çıkardığı cam eşyaları bile parçalayan tiz çığlığı da 2. Dünya Savaşı yaklaşırken ülkede olup bitenlere duyarsız kalan orta sınıf Alman toplumunu bir yadsıma biçimidir, gitgide çıldıran dünyaya karşı bir protestodur."
+  },
+  "poster": {
+    "tr": "/z4QsBWJbbBxct2zU7LnYSOw8UFz.jpg",
+    "en": "/b4zV75WQL68XcKRYdliCmTk5Jwc.jpg"
+  },
+  "backdrops": [
+    "/uZJjc4hMgckb3H3tVkTmbmcBhIT.jpg",
+    "/ArHVlJvce9h09yegnrwqyC1rZMq.jpg",
+    "/xemaeNc6pssgSKcpLhpEfh3AOlH.jpg",
+    "/9edW3gQWv81knn11SN6raWCksGo.jpg",
+    "/9nNsK24T6cH2zgKDsYORSPxcheL.jpg",
+    "/fxiqObYtVrMN3sObipunFQG0wDB.jpg",
+    "/pBJdQ2CqO8WONqdc9ESuml2fbaJ.jpg"
+  ],
+  "trailerKey": "NTKLqhT-tTo",
+  "genreIds": [
+    18,
+    36,
+    10752
+  ],
+  "keywordIds": [
+    1525,
+    596,
+    2087,
+    236,
+    818,
+    2652,
+    604,
+    3409,
+    291,
+    1813,
+    74,
+    2587,
+    3725,
+    1956,
+    2783,
+    10123,
+    3407,
+    3568,
+    3410,
+    3902,
+    4446,
+    10683,
+    156195,
+    193008,
+    199423,
+    207876,
+    207883,
+    209966,
+    214548,
+    306053,
+    324284
+  ],
+  "countries": [
+    "FR",
+    "DE",
+    "PL"
+  ],
+  "languages": [
+    "de",
+    "he",
+    "it",
+    "pl",
+    "ru"
+  ],
+  "studios": [
+    "Jadran film",
+    "Artemis Film",
+    "Franz Seitz Filmproduktion"
+  ],
+  "crew": [
+    {
+      "personId": 9747,
+      "job": "writer"
+    },
+    {
+      "personId": 2704,
+      "job": "composer"
+    },
+    {
+      "personId": 52587,
+      "job": "writer"
+    },
+    {
+      "personId": 10249,
+      "job": "writer"
+    },
+    {
+      "personId": 10253,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10249,
+      "job": "director"
+    },
+    {
+      "personId": 52587,
+      "job": "producer"
+    },
+    {
+      "personId": 2304,
+      "job": "producer"
+    },
+    {
+      "personId": 16806,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10254,
+      "character": "Alfred Matzerath",
+      "order": 0
+    },
+    {
+      "personId": 10255,
+      "character": "Agnes Matzerath",
+      "order": 1
+    },
+    {
+      "personId": 10256,
+      "character": "Oskar Matzerath",
+      "order": 2
+    },
+    {
+      "personId": 10257,
+      "character": "Maria Matzerath",
+      "order": 3
+    },
+    {
+      "personId": 7107,
+      "character": "Jan Bronski",
+      "order": 4
+    },
+    {
+      "personId": 10258,
+      "character": "Young Anna Koljaiczek",
+      "order": 5
+    },
+    {
+      "personId": 10259,
+      "character": "Anna Koljaiczek",
+      "order": 6
+    },
+    {
+      "personId": 10260,
+      "character": "Joseph Koljaiczek",
+      "order": 7
+    },
+    {
+      "personId": 10261,
+      "character": "Uncle Vinzenz",
+      "order": 8
+    },
+    {
+      "personId": 10262,
+      "character": "Lina Greff",
+      "order": 9
+    },
+    {
+      "personId": 10263,
+      "character": "Greff",
+      "order": 10
+    },
+    {
+      "personId": 10264,
+      "character": "Gretchen Scheffler",
+      "order": 11
+    },
+    {
+      "personId": 10266,
+      "character": "Scheffler",
+      "order": 12
+    },
+    {
+      "personId": 10267,
+      "character": "Mother Truczinski",
+      "order": 13
+    },
+    {
+      "personId": 2311,
+      "character": "Meyn",
+      "order": 14
+    },
+    {
+      "personId": 10268,
+      "character": "Sigismund Markus",
+      "order": 15
+    },
+    {
+      "personId": 10269,
+      "character": "Bebra",
+      "order": 16
+    },
+    {
+      "personId": 10270,
+      "character": "Roswitha",
+      "order": 17
+    },
+    {
+      "personId": 26498,
+      "character": "Löbsack",
+      "order": 18
+    },
+    {
+      "personId": 5801,
+      "character": "Dr. Hollatz",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "oscar": 1,
+    "cannes": 1
+  },
+  "voteCount": 566,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

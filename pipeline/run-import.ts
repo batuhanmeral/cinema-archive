@@ -1,19 +1,42 @@
-import type { Film, Genre, Person } from '../src/data/schemas'
-import { HttpError } from './lib/http'
-import { updateLock } from './lock'
-import { type Candidate, decideMatch, type MatchDecision } from './match/match'
+import type { Collection, Film, Genre, Movement, Person } from '../src/data/schemas'
+import { gatherCollectionFacts } from './collections/facts'
+import { buildCollections } from './collections/rules'
+import { type MatchedFilm, updateLock } from './lock'
+import {
+  createMovieLoader,
+  decideRow,
+  expandSeries,
+  loadMovies,
+  matchedIds,
+  type MovieLoader,
+  movementListRows,
+  requireYear,
+  type RowResult,
+  yesilcamListRow,
+} from './match/rows'
+import {
+  gatherMovement,
+  type HandFilm,
+  type MovementGathering,
+  toMovement,
+} from './movements/gather'
 import { buildPeople } from './people'
 import type {
+  CollectionContent,
+  GroupReport,
   ImportReport,
   KeywordStat,
   LockEntry,
   LockFile,
   MatchFix,
+  MovementContent,
+  MovementList,
   ReviewEntry,
+  YesilcamRow,
 } from './schemas'
 import type { TmdbMovie, TmdbSearchHit } from './sources/tmdb'
 import type { CultListEntry } from './sources/wikipedia'
-import { collectPeople, movieDirectors, movieYear, toFilm } from './transform/film'
+import { collectPeople, toFilm } from './transform/film'
 
 export type ImportDeps = {
   loadCultList(): Promise<CultListEntry[]>
@@ -23,8 +46,17 @@ export type ImportDeps = {
   searchMovies(query: string): Promise<TmdbSearchHit[]>
   awardCounts(ids: number[]): Promise<Map<number, Record<string, number>>>
   fetchGenres(): Promise<Genre[]>
+  categoryMembers(category: string): Promise<string[]>
+  articleFilmLinks(article: string): Promise<string[]>
+  genreQids(ids: number[]): Promise<Map<number, string[]>>
+  movements: MovementContent[]
+  movementLists: MovementList[]
+  collections: CollectionContent[]
+  yesilcam: YesilcamRow[]
   prevLock: LockFile | null
   prevPeople: Person[] | null
+  prevMovements: Movement[] | null
+  prevCollections: Collection[] | null
   fixes: MatchFix[]
   today: string
   now: string
@@ -37,79 +69,13 @@ export type ImportOutput = {
   lock: LockFile
   report: ImportReport
   keywords: KeywordStat[]
+  movements: Movement[]
+  collections: Collection[]
 }
 
-const SEARCH_YEAR_TOLERANCE = 1
-const SEARCH_CANDIDATE_LIMIT = 5
 const CULT_LIST_SOURCE = 'cult-list'
-const NOT_FOUND = 404
-
-type MovieLoader = (id: number) => Promise<TmdbMovie | null>
-
-// Aynı film birden çok satırdan istenebilir; tek istek yapılır. 404 yalnızca "yok" demektir.
-function createMovieLoader(fetchMovie: ImportDeps['fetchMovie']): MovieLoader {
-  const cache = new Map<number, Promise<TmdbMovie | null>>()
-  return (id) => {
-    let pending = cache.get(id)
-    if (!pending) {
-      pending = fetchMovie(id).catch((error: unknown) => {
-        if (error instanceof HttpError && error.status === NOT_FOUND) return null
-        throw error
-      })
-      cache.set(id, pending)
-    }
-    return pending
-  }
-}
-
-async function loadMovies(load: MovieLoader, ids: number[]): Promise<TmdbMovie[]> {
-  const movies = await Promise.all(ids.map(load))
-  return movies.filter((movie): movie is TmdbMovie => movie !== null)
-}
-
-function searchHitIds(hits: TmdbSearchHit[], row: CultListEntry): number[] {
-  return hits
-    .filter((hit) => {
-      const year = Number(hit.release_date.slice(0, 4))
-      return /^\d{4}/.test(hit.release_date) && Math.abs(year - row.year) <= SEARCH_YEAR_TOLERANCE
-    })
-    .slice(0, SEARCH_CANDIDATE_LIMIT)
-    .map((hit) => hit.id)
-}
-
-function toCandidate(movie: TmdbMovie): Candidate {
-  return {
-    tmdbId: movie.id,
-    title: movie.title,
-    year: movieYear(movie),
-    directors: movieDirectors(movie),
-    adult: movie.adult,
-  }
-}
-
-type RowResult = { row: CultListEntry; decision: MatchDecision }
-
-async function decideRow(
-  row: CultListEntry,
-  deps: ImportDeps,
-  load: MovieLoader,
-  wikidataIds: number[],
-): Promise<RowResult> {
-  const fix = deps.fixes.find((f) => f.wikiTitle === row.wikiTitle)
-  const fixIds = fix?.tmdbId == null ? [] : [fix.tmdbId].flat()
-  let ids: number[] = []
-  if (fix) ids = fixIds
-  else if (wikidataIds.length > 0) ids = wikidataIds
-  else ids = searchHitIds(await deps.searchMovies(row.title), row)
-
-  const candidates = (await loadMovies(load, ids)).map(toCandidate)
-  const missingId = fixIds.find((id) => !candidates.some((c) => c.tmdbId === id))
-  if (missingId !== undefined) {
-    throw new Error(`Match fix for "${row.wikiTitle}" points to missing TMDB id ${missingId}`)
-  }
-  const decision = decideMatch(row, { fix, wikidataTmdbIds: wikidataIds, candidates })
-  return { row, decision }
-}
+const YESILCAM_SOURCE = 'yesilcam'
+const movementSource = (slug: string) => `movement:${slug}`
 
 function requireMovie(movie: TmdbMovie | null, id: number): TmdbMovie {
   if (!movie) throw new Error(`TMDB movie ${id} no longer exists but is in the lock`)
@@ -160,14 +126,15 @@ async function buildReport(
   return { review, adultExcluded, skipped }
 }
 
-export async function runImport(deps: ImportDeps): Promise<ImportOutput> {
-  const rows = await deps.loadCultList()
+async function decideCultRows(
+  rows: CultListEntry[],
+  deps: ImportDeps,
+  load: MovieLoader,
+): Promise<RowResult[]> {
   const qidByTitle = await deps.resolveWikidataIds(rows.map((row) => row.wikiTitle))
   const qids = [...new Set([...qidByTitle.values()].filter((q): q is string => q !== null))]
   const tmdbIdsByQid = await deps.tmdbIdsForQids(qids)
-  const load = createMovieLoader(deps.fetchMovie)
-
-  const rowResults = await Promise.all(
+  const results = await Promise.all(
     rows.map((row) => {
       const qid = qidByTitle.get(row.wikiTitle)
       // Wikidata aynı kimliği iki kez döndürebilir; yinelenen kimlik sahte belirsizlik yaratmasın.
@@ -175,23 +142,113 @@ export async function runImport(deps: ImportDeps): Promise<ImportOutput> {
       return decideRow(row, deps, load, wikidataIds)
     }),
   )
-  // Seri satırı film başına bir karara açılır; böylece adult ayrımı ve birleştirme kimlik başına işler.
-  const results = rowResults.flatMap(({ row, decision }) =>
-    decision.kind === 'series'
-      ? decision.films.map((film) => ({ row, decision: film }))
-      : [{ row, decision }],
-  )
+  return expandSeries(results)
+}
 
-  const matchedIds = [
-    ...new Set(
-      results.flatMap(({ decision }) => (decision.kind === 'matched' ? [decision.tmdbId] : [])),
-    ),
-  ]
-  const matched = (await loadMovies(load, matchedIds)).map((movie) => {
-    const year = movieYear(movie)
-    if (year === null) throw new Error(`TMDB movie ${movie.id} has no valid release date`)
-    return { tmdbId: movie.id, title: movie.title, year, sources: [CULT_LIST_SOURCE] }
-  })
+type ListResult = RowResult & { list: MovementList }
+
+// El satırlarının Wikidata kimliği yoktur; arama yolundan (ya da match-fixes'ten) eşlenir.
+async function decideHandRows(deps: ImportDeps, load: MovieLoader) {
+  const known = new Set(deps.movements.map((movement) => movement.slug))
+  const unknown = deps.movementLists.find((list) => !known.has(list.movement))
+  if (unknown) throw new Error(`Movement list for unknown movement "${unknown.movement}"`)
+
+  const lists: ListResult[] = await Promise.all(
+    deps.movementLists.flatMap(movementListRows).map(async ({ row, list }) => ({
+      ...(await decideRow(row, deps, load, [])),
+      list,
+    })),
+  )
+  const yesilcam = await Promise.all(
+    deps.yesilcam.map((film) => decideRow(yesilcamListRow(film), deps, load, [])),
+  )
+  return { lists: expandSeries(lists), yesilcam: expandSeries(yesilcam) }
+}
+
+const handRowCount = (deps: ImportDeps) =>
+  deps.movementLists.reduce((count, list) => count + list.films.length, 0) + deps.yesilcam.length
+
+const byStartThenSlug = (a: MovementContent, b: MovementContent) =>
+  a.years.start - b.years.start || a.slug.localeCompare(b.slug)
+
+type GatheredMovement = { content: MovementContent; gathering: MovementGathering }
+
+async function gatherMovements(
+  deps: ImportDeps,
+  load: MovieLoader,
+  cultIds: ReadonlySet<number>,
+  lists: ListResult[],
+): Promise<GatheredMovement[]> {
+  const ordered = [...deps.movements].sort(byStartThenSlug)
+  return Promise.all(
+    ordered.map(async (content) => {
+      const rows = lists.filter(({ list }) => list.movement === content.slug)
+      const handFilms: HandFilm[] = []
+      for (const { decision, list } of rows) {
+        if (decision.kind !== 'matched') continue
+        const movie = await load(decision.tmdbId)
+        if (movie) handFilms.push({ movie, source: list.source })
+      }
+      const gathering = await gatherMovement(content, deps, { load, cultIds, handFilms })
+      return { content, gathering }
+    }),
+  )
+}
+
+// Kaynak sırası sabittir (kült, Yeşilçam, akımlar kronolojik); kilit çıktısı her koşuda aynı kalır.
+async function lockInput(
+  load: MovieLoader,
+  groups: Array<[source: string, ids: number[]]>,
+): Promise<MatchedFilm[]> {
+  const sourcesById = new Map<number, string[]>()
+  for (const [source, ids] of groups) {
+    for (const id of ids) {
+      const sources = sourcesById.get(id) ?? []
+      if (!sources.includes(source)) sourcesById.set(id, [...sources, source])
+    }
+  }
+  return (await loadMovies(load, [...sourcesById.keys()])).map((movie) => ({
+    tmdbId: movie.id,
+    title: movie.title,
+    year: requireYear(movie),
+    sources: sourcesById.get(movie.id) ?? [],
+  }))
+}
+
+// Önceki dosya yoksa her film "added" sayılır; rapor PR'da liste değişikliği olarak okunur.
+function groupReport(
+  slug: string,
+  filmIds: number[],
+  candidates: number,
+  prev: Array<{ slug: string; filmIds: number[] }> | null,
+): GroupReport {
+  const before = prev?.find((group) => group.slug === slug)?.filmIds ?? []
+  return {
+    slug,
+    films: filmIds.length,
+    candidates,
+    added: filmIds.filter((id) => !before.includes(id)),
+    removed: before.filter((id) => !filmIds.includes(id)),
+  }
+}
+
+export async function runImport(deps: ImportDeps): Promise<ImportOutput> {
+  const load = createMovieLoader(deps.fetchMovie)
+  const rows = await deps.loadCultList()
+  const cultResults = await decideCultRows(rows, deps, load)
+  const hand = await decideHandRows(deps, load)
+  const results = [...cultResults, ...hand.lists, ...hand.yesilcam]
+
+  const cultIds = matchedIds(cultResults)
+  const movementGroups = await gatherMovements(deps, load, new Set(cultIds), hand.lists)
+  const matched = await lockInput(load, [
+    [CULT_LIST_SOURCE, cultIds],
+    [YESILCAM_SOURCE, matchedIds(hand.yesilcam)],
+    ...movementGroups.map(({ content, gathering }): [string, number[]] => [
+      movementSource(content.slug),
+      gathering.selection.map((candidate) => candidate.tmdbId),
+    ]),
+  ])
 
   const { lock, added, missingFromSources } = updateLock(deps.prevLock, matched, deps.today)
   const movies = await Promise.all(
@@ -220,6 +277,12 @@ export async function runImport(deps: ImportDeps): Promise<ImportOutput> {
   }
   const people = buildPeople(films, refs, deps.prevPeople)
   const reportParts = await buildReport(results, load)
+  const movementAdults = movementGroups.flatMap(({ gathering }) => gathering.adultExcluded)
+  for (const entry of movementAdults) {
+    if (!reportParts.adultExcluded.some((listed) => listed.tmdbId === entry.tmdbId)) {
+      reportParts.adultExcluded.push(entry)
+    }
+  }
   const listedAdultIds = new Set(reportParts.adultExcluded.map((entry) => entry.tmdbId))
   for (const movie of movies) {
     if (adultIds.has(movie.id) && !listedAdultIds.has(movie.id)) {
@@ -232,10 +295,28 @@ export async function runImport(deps: ImportDeps): Promise<ImportOutput> {
   }
   const missingPublishable = missingFromSources.filter((entry) => !adultIds.has(entry.tmdbId))
 
+  const movementResults = movementGroups.map(({ content, gathering }) => {
+    const movement = toMovement(content, gathering.selection, films)
+    const { slug, filmIds } = movement
+    return {
+      movement,
+      report: groupReport(slug, filmIds, gathering.candidates, deps.prevMovements),
+    }
+  })
+  const factsOf = await gatherCollectionFacts(deps.collections, films, deps)
+  const { collections, sizes } = buildCollections(deps.collections, films, factsOf)
+  const groups: ImportReport['groups'] = {
+    movements: movementResults.map(({ report }) => report),
+    collections: deps.collections.map(({ slug }) => {
+      const filmIds = collections.find((c) => c.slug === slug)?.filmIds ?? []
+      return groupReport(slug, filmIds, sizes.get(slug) ?? 0, deps.prevCollections)
+    }),
+  }
+
   const report: ImportReport = {
     generatedAt: deps.now,
     counts: {
-      listRows: rows.length,
+      listRows: rows.length + handRowCount(deps),
       films: films.length,
       added: added.length,
       missingFromSources: missingPublishable.length,
@@ -246,6 +327,7 @@ export async function runImport(deps: ImportDeps): Promise<ImportOutput> {
     added: added.map(toRef),
     missingFromSources: missingPublishable.map(toRef),
     ...reportParts,
+    groups,
   }
   return {
     films,
@@ -254,5 +336,7 @@ export async function runImport(deps: ImportDeps): Promise<ImportOutput> {
     lock,
     report,
     keywords: keywordStats(publishable),
+    movements: movementResults.map(({ movement }) => movement),
+    collections,
   }
 }

@@ -1,0 +1,136 @@
+{
+  "tmdbId": 156139,
+  "slug": "outcry-1946",
+  "year": 1946,
+  "runtime": 90,
+  "originalTitle": "Il Sole sorge ancora",
+  "title": {
+    "en": "Outcry",
+    "tr": "Il Sole sorge ancora"
+  },
+  "overview": {
+    "en": "A neorealist tribute to the Italian resistance fighters of World War II.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wuJCAyxErkavH6CijAo7LMlD8Kh.jpg",
+    "en": "/wuJCAyxErkavH6CijAo7LMlD8Kh.jpg"
+  },
+  "backdrops": [
+    "/29ysTA3066CAi9RGV2ZjIpq0Zhk.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    131,
+    15182,
+    231082
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "ENIC"
+  ],
+  "crew": [
+    {
+      "personId": 1137509,
+      "job": "writer"
+    },
+    {
+      "personId": 1028248,
+      "job": "director"
+    },
+    {
+      "personId": 122016,
+      "job": "writer"
+    },
+    {
+      "personId": 41634,
+      "job": "writer"
+    },
+    {
+      "personId": 1028248,
+      "job": "writer"
+    },
+    {
+      "personId": 314151,
+      "job": "producer"
+    },
+    {
+      "personId": 1137510,
+      "job": "composer"
+    },
+    {
+      "personId": 32381,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 41632,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14148,
+      "character": "Il maggiore Heinrich",
+      "order": 0
+    },
+    {
+      "personId": 32676,
+      "character": "Cesare",
+      "order": 1
+    },
+    {
+      "personId": 1121484,
+      "character": "Matilde",
+      "order": 2
+    },
+    {
+      "personId": 132785,
+      "character": "Laura",
+      "order": 3
+    },
+    {
+      "personId": 122016,
+      "character": "Don Camillo, il prete",
+      "order": 4
+    },
+    {
+      "personId": 1037360,
+      "character": "Mario",
+      "order": 5
+    },
+    {
+      "personId": 1137514,
+      "character": "Il padre di Cesare",
+      "order": 6
+    },
+    {
+      "personId": 1137515,
+      "character": "Guido, il padre di Laura",
+      "order": 7
+    },
+    {
+      "personId": 90694,
+      "character": "Pietro",
+      "order": 8
+    },
+    {
+      "personId": 1028248,
+      "character": "Uomo della ferrovia",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 8,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

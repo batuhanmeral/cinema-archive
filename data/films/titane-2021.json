@@ -1,0 +1,213 @@
+{
+  "tmdbId": 630240,
+  "slug": "titane-2021",
+  "year": 2021,
+  "runtime": 108,
+  "originalTitle": "Titane",
+  "title": {
+    "en": "Titane",
+    "tr": "Titane"
+  },
+  "overview": {
+    "en": "A woman with a metal plate in her head from a childhood car accident embarks on a bizarre journey, bringing her into contact with a firefighter who's reunited with his missing son after 10 years.",
+    "tr": "Havalimanında yüzü yaralı bir genç bulunur. İsminin Adrien Legrand olduğunu iddia eder. 10 yıl önce kaybolmuş bir çocuğun adıdır bu. Adrien sonunda babasına kavuşur, ancak bu sırada bölgede bir dizi korkunç cinayet işlenir."
+  },
+  "poster": {
+    "tr": "/dyuztQ9y9zRaVzxlYWpzne0JoCy.jpg",
+    "en": "/AeQC4gFwkIvjAwnSd2RPAlgs1VE.jpg"
+  },
+  "backdrops": [
+    "/zEddiBK6yZNUGVnmBJzmnYcEWiR.jpg",
+    "/yJrdLTvXlwjUJ5l7dzrhCqznT8p.jpg",
+    "/x3UVh44oov4LGkAg2zVFXoPeYra.jpg",
+    "/dVOlJVHYRWx7DhMQRNLnbf5bT1q.jpg",
+    "/lTOKSyDPmtXLIbr5EJA7vZYHWjc.jpg",
+    "/l2bHNb77vL99ro696xLWvYHvGxH.jpg",
+    "/rIAb4BYcQiqsh7HaBrkVLCdgNVY.jpg",
+    "/wI2kyrLc3sNElCgKp9ZzixmqX5j.jpg",
+    "/uBqG4n4dvEo8hGB2O7PXaF0il9H.jpg",
+    "/c0xzneF7tvD1EVpeCZP3lk9eKIe.jpg"
+  ],
+  "trailerKey": "_DmFHh7KsWc",
+  "genreIds": [
+    18,
+    53,
+    27
+  ],
+  "keywordIds": [
+    3725,
+    2754,
+    11429,
+    9844,
+    10714,
+    13063,
+    187056,
+    192094,
+    193897,
+    194226,
+    199524,
+    208156,
+    208591,
+    213295,
+    227428,
+    252577,
+    269808,
+    269898,
+    278015,
+    283085,
+    309974,
+    321464,
+    323809,
+    325798,
+    325801,
+    325823,
+    325825
+  ],
+  "countries": [
+    "BE",
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Kazak Productions",
+    "ARTE France Cinéma",
+    "Frakas Productions"
+  ],
+  "crew": [
+    {
+      "personId": 1367025,
+      "job": "producer"
+    },
+    {
+      "personId": 1057377,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1392433,
+      "job": "writer"
+    },
+    {
+      "personId": 150547,
+      "job": "composer"
+    },
+    {
+      "personId": 1392433,
+      "job": "director"
+    },
+    {
+      "personId": 1367026,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5443,
+      "character": "Vincent",
+      "order": 0
+    },
+    {
+      "personId": 2418333,
+      "character": "Alexia / Adrien",
+      "order": 1
+    },
+    {
+      "personId": 1144473,
+      "character": "Justine",
+      "order": 2
+    },
+    {
+      "personId": 2934453,
+      "character": "Rayane",
+      "order": 3
+    },
+    {
+      "personId": 3173736,
+      "character": "Jeantet",
+      "order": 4
+    },
+    {
+      "personId": 2474911,
+      "character": "Charrier",
+      "order": 5
+    },
+    {
+      "personId": 2463389,
+      "character": "Sissoko",
+      "order": 6
+    },
+    {
+      "personId": 1689510,
+      "character": "Adrien's Mother",
+      "order": 7
+    },
+    {
+      "personId": 146438,
+      "character": "Alexia's Father",
+      "order": 8
+    },
+    {
+      "personId": 1591902,
+      "character": "Alexia's Mother",
+      "order": 9
+    },
+    {
+      "personId": 3173747,
+      "character": "Alexia Aged 7",
+      "order": 10
+    },
+    {
+      "personId": 2933154,
+      "character": "Fan at Tuning Show",
+      "order": 11
+    },
+    {
+      "personId": 19165,
+      "character": "The Macarena Lady",
+      "order": 12
+    },
+    {
+      "personId": 1610424,
+      "character": "Jérôme / Jupi",
+      "order": 13
+    },
+    {
+      "personId": 1701554,
+      "character": "Alexia's Doctor",
+      "order": 14
+    },
+    {
+      "personId": 232898,
+      "character": "BPF Inspector",
+      "order": 15
+    },
+    {
+      "personId": 3173750,
+      "character": "Shower Hostess",
+      "order": 16
+    },
+    {
+      "personId": 3173752,
+      "character": "Security Guard at Tuning Show",
+      "order": 17
+    },
+    {
+      "personId": 1784234,
+      "character": "Paramedic (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2280365,
+      "character": "Young Man (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cannes": 1
+  },
+  "voteCount": 1785,
+  "sources": [
+    "movement:new-french-extremity"
+  ]
+}

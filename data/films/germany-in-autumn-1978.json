@@ -1,0 +1,297 @@
+{
+  "tmdbId": 12578,
+  "slug": "germany-in-autumn-1978",
+  "year": 1978,
+  "runtime": 123,
+  "originalTitle": "Deutschland im Herbst",
+  "title": {
+    "en": "Germany in Autumn",
+    "tr": "Deutschland im Herbst"
+  },
+  "overview": {
+    "en": "Nine fictitious documentaries and films reflect the mood of late 1970s Germany, particularly the two-month period in 1977 when a businessman was kidnapped by the RAF (Red Army Faction). The kidnap had been made to orchestrate the release of the original leaders of the RAF, aka the Baader-Meinhof.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/c647fe1s7gpjaHYY5ccl54K7mFA.jpg",
+    "en": "/sGHIkZ0l5Yh1sUYyHvcrouYbBna.jpg"
+  },
+  "backdrops": [
+    "/3vZiAjtpiUiupoi96PYANpqIo7u.jpg",
+    "/xOwkSSpzrmR62qjEJ9U8mH2TwAd.jpg",
+    "/iZ0do7hr6LdYYDsmHoXmvuG7ArP.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99,
+    18
+  ],
+  "keywordIds": [
+    3739,
+    74,
+    3679,
+    4433,
+    187056,
+    209889
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "ABS Filmproduktion",
+    "Tango Film",
+    "Kairos-Film"
+  ],
+  "crew": [
+    {
+      "personId": 2725,
+      "job": "director"
+    },
+    {
+      "personId": 20554,
+      "job": "director"
+    },
+    {
+      "personId": 72906,
+      "job": "director"
+    },
+    {
+      "personId": 72907,
+      "job": "director"
+    },
+    {
+      "personId": 50870,
+      "job": "director"
+    },
+    {
+      "personId": 69689,
+      "job": "director"
+    },
+    {
+      "personId": 69689,
+      "job": "writer"
+    },
+    {
+      "personId": 72908,
+      "job": "writer"
+    },
+    {
+      "personId": 10616,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 72909,
+      "job": "writer"
+    },
+    {
+      "personId": 72919,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 72920,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 38906,
+      "job": "writer"
+    },
+    {
+      "personId": 72908,
+      "job": "director"
+    },
+    {
+      "personId": 50870,
+      "job": "writer"
+    },
+    {
+      "personId": 63908,
+      "job": "writer"
+    },
+    {
+      "personId": 3769,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 38906,
+      "job": "director"
+    },
+    {
+      "personId": 2725,
+      "job": "writer"
+    },
+    {
+      "personId": 50532,
+      "job": "producer"
+    },
+    {
+      "personId": 72907,
+      "job": "writer"
+    },
+    {
+      "personId": 10249,
+      "job": "director"
+    },
+    {
+      "personId": 72909,
+      "job": "director"
+    },
+    {
+      "personId": 23660,
+      "job": "director"
+    },
+    {
+      "personId": 72918,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 49496,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 39299,
+      "job": "writer"
+    },
+    {
+      "personId": 10249,
+      "job": "writer"
+    },
+    {
+      "personId": 72906,
+      "job": "writer"
+    },
+    {
+      "personId": 16806,
+      "job": "producer"
+    },
+    {
+      "personId": 23660,
+      "job": "writer"
+    },
+    {
+      "personId": 20554,
+      "job": "writer"
+    },
+    {
+      "personId": 5639,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1476315,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1259,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 39303,
+      "character": "Gabi Teichert",
+      "order": 0
+    },
+    {
+      "personId": 10255,
+      "character": "Antigone",
+      "order": 1
+    },
+    {
+      "personId": 20016,
+      "character": "Freiermuth",
+      "order": 2
+    },
+    {
+      "personId": 38906,
+      "character": "Franziska Busch",
+      "order": 3
+    },
+    {
+      "personId": 10263,
+      "character": "Mitglied des Kommitees",
+      "order": 4
+    },
+    {
+      "personId": 1504742,
+      "character": "Self",
+      "order": 5
+    },
+    {
+      "personId": 36876,
+      "character": "TV-Redakteur",
+      "order": 6
+    },
+    {
+      "personId": 32059,
+      "character": "TV-Redakteur",
+      "order": 7
+    },
+    {
+      "personId": 23721,
+      "character": "Abgeordneter (TV Aufsichtsgremium)",
+      "order": 8
+    },
+    {
+      "personId": 18051,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 362376,
+      "character": "Self",
+      "order": 10
+    },
+    {
+      "personId": 2725,
+      "character": "Self (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 10254,
+      "character": "TV committee member (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 39298,
+      "character": "Self (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 538664,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 72907,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1364173,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 4220236,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 36493,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1209088,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 31,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

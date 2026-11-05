@@ -1,0 +1,95 @@
+{
+  "tmdbId": 26636,
+  "slug": "twentynine-palms-2003",
+  "year": 2003,
+  "runtime": 114,
+  "originalTitle": "Twentynine Palms",
+  "title": {
+    "en": "Twentynine Palms",
+    "tr": "Twentynine Palms"
+  },
+  "overview": {
+    "en": "A photographer and an unemployed woman embark on a chaotic trip to the California desert for a photo shoot, filled with passionate encounters and frequent fights. Their seemingly empty relationship takes a dark turn when a brutal incident abruptly ends their journey.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/y5JeGg69UPpgwakBeKrA7uaAoaf.jpg",
+    "en": "/dz5L1NK97rpze6ZVOX6Q9UZfZna.jpg"
+  },
+  "backdrops": [
+    "/z0NHTlUdRVDwRBrGiOAwbfTX6H8.jpg",
+    "/25TagjkrkQnpmziQkuTEzZ5mo4a.jpg",
+    "/kB0lXikAMEW2Lu13T2UQAU0AC0.jpg",
+    "/8Zz2W78KOuuf4z8Tz71vyY7OLIE.jpg",
+    "/lxQiJP8Y9y6LEmDTUisSNaDEH8Q.jpg",
+    "/yWZpoz2pGsjbnvs4fUY9fCvlwMC.jpg",
+    "/iepNZvtThsdNfPghBPDCczlGw8n.jpg",
+    "/kbcIEffenu91Anezfmd06ILHY6x.jpg",
+    "/1nTgQza5o9CLG0keb97nGvrAQ0b.jpg",
+    "/9Iq7GVD9ZWAv4orJjDHtMutnT4L.jpg"
+  ],
+  "trailerKey": "47d6tbkY8KU",
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    2669,
+    5756,
+    365846,
+    373569
+  ],
+  "countries": [
+    "FR",
+    "DE",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Thoke Moebius Film Company",
+    "3B Productions",
+    "The 7th Floor"
+  ],
+  "crew": [
+    {
+      "personId": 95901,
+      "job": "director"
+    },
+    {
+      "personId": 95901,
+      "job": "writer"
+    },
+    {
+      "personId": 20665,
+      "job": "producer"
+    },
+    {
+      "personId": 20680,
+      "job": "producer"
+    },
+    {
+      "personId": 1149308,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 95899,
+      "character": "Katia",
+      "order": 0
+    },
+    {
+      "personId": 95900,
+      "character": "David",
+      "order": 1
+    }
+  ],
+  "awards": {},
+  "voteCount": 115,
+  "sources": [
+    "movement:new-french-extremity"
+  ]
+}

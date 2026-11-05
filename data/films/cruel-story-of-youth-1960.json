@@ -1,0 +1,173 @@
+{
+  "tmdbId": 88527,
+  "slug": "cruel-story-of-youth-1960",
+  "year": 1960,
+  "runtime": 97,
+  "originalTitle": "青春残酷物語",
+  "title": {
+    "en": "Cruel Story of Youth",
+    "tr": "Cruel Story of Youth"
+  },
+  "overview": {
+    "en": "A harsh young man seduces a freeloading young woman and eventually takes advantage of her knack for hitchhiking to rob middle-class men.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4BcdlfGQB8DlNzzjyQsPlKBmZXe.jpg",
+    "en": "/yHEvTUpmQPlfpMx3byYd41sJyRS.jpg"
+  },
+  "backdrops": [
+    "/vSvKrxEaVnz95ZPBBQYpq35tFsI.jpg",
+    "/iI22ACvxyxXebLsDI8C6hLBkUEW.jpg",
+    "/4F4gESSWvYqRAb2LadiuF7KgylB.jpg"
+  ],
+  "trailerKey": "hLQPVziBq6Q",
+  "genreIds": [
+    10749,
+    18,
+    80
+  ],
+  "keywordIds": [
+    3679,
+    1794,
+    13017,
+    14735,
+    14857,
+    180498,
+    208591,
+    209998
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Shochiku"
+  ],
+  "crew": [
+    {
+      "personId": 46230,
+      "job": "director"
+    },
+    {
+      "personId": 548021,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1542937,
+      "job": "composer"
+    },
+    {
+      "personId": 1542936,
+      "job": "producer"
+    },
+    {
+      "personId": 46230,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 50656,
+      "character": "Kiyoshi",
+      "order": 0
+    },
+    {
+      "personId": 213483,
+      "character": "Makoto",
+      "order": 1
+    },
+    {
+      "personId": 82873,
+      "character": "Yuki",
+      "order": 2
+    },
+    {
+      "personId": 224662,
+      "character": "Akimoto",
+      "order": 3
+    },
+    {
+      "personId": 33734,
+      "character": "Yoshimi Ito",
+      "order": 4
+    },
+    {
+      "personId": 1128806,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1056056,
+      "character": "Teruko",
+      "order": 6
+    },
+    {
+      "personId": 97629,
+      "character": "Masahiro",
+      "order": 7
+    },
+    {
+      "personId": 1200225,
+      "character": "Toshiko Nishioka",
+      "order": 8
+    },
+    {
+      "personId": 33730,
+      "character": "Akira Matsuko",
+      "order": 9
+    },
+    {
+      "personId": 1029321,
+      "character": "Inspector",
+      "order": 10
+    },
+    {
+      "personId": 548040,
+      "character": "Keizo Horio",
+      "order": 11
+    },
+    {
+      "personId": 1661183,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1852050,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1835623,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 213466,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 213469,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1182592,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1132432,
+      "character": "",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 73,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

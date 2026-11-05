@@ -1,0 +1,57 @@
+{
+  "tmdbId": 162723,
+  "slug": "in-spring-1929",
+  "year": 1929,
+  "runtime": 54,
+  "originalTitle": "Навесні",
+  "title": {
+    "en": "In Spring",
+    "tr": "In Spring"
+  },
+  "overview": {
+    "en": "Kyiv, 1929. Shots of the city as it wakes up and its awakening echoes with the lyrical pictures of the rebirth of nature. Kaufman’s attentive camera pauses for a long time on the smiling faces of children, painting a lyrical picture, a confession of love for Kyiv.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/bvQY23Ejued0YH5EW0yKyEPzUSm.jpg",
+    "en": "/bvQY23Ejued0YH5EW0yKyEPzUSm.jpg"
+  },
+  "backdrops": [
+    "/pBoZpe3oWzXql6iYw8S3zDD2nII.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    154802,
+    282080
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "VUFKU"
+  ],
+  "crew": [
+    {
+      "personId": 1042437,
+      "job": "director"
+    },
+    {
+      "personId": 1042437,
+      "job": "writer"
+    },
+    {
+      "personId": 1042437,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [],
+  "awards": {},
+  "voteCount": 13,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

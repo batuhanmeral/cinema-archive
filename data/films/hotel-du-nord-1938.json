@@ -1,0 +1,199 @@
+{
+  "tmdbId": 48369,
+  "slug": "hotel-du-nord-1938",
+  "year": 1938,
+  "runtime": 97,
+  "originalTitle": "Hôtel du Nord",
+  "title": {
+    "en": "Hôtel du Nord",
+    "tr": "Hôtel du Nord"
+  },
+  "overview": {
+    "en": "On the meandering Canal St. Martin, at the Parisian Hôtel du Nord, a nearly fatal gunshot separates a dejected young couple. But, amid a sad but beautiful panorama of lively characters, love has the final say. Can life be a fairy tale?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9gJXoE2kkyFUflet4VzjQbMMwV8.jpg",
+    "en": "/18VMpy9IGsyKM9v7mfG2L7kXkj6.jpg"
+  },
+  "backdrops": [
+    "/216KAu0V0FSZAOMzJXJx4fwv5AG.jpg",
+    "/2TRhus467OxkG6NzdoBst9YU5ZA.jpg",
+    "/nIADgrVco9jHWuJzkns0wKo91NC.jpg",
+    "/k6U0BEzQkGyfDFMPpcYkkw37DZK.jpg",
+    "/9OBocRYoel7AGrT0r2xy6nvRzeC.jpg",
+    "/bIR4cSgVdaKIgBVRmv96X63ERui.jpg"
+  ],
+  "trailerKey": "ONXDdJr2o24",
+  "genreIds": [
+    10749,
+    18
+  ],
+  "keywordIds": [
+    612,
+    549,
+    254,
+    11530,
+    17989,
+    162685,
+    182536,
+    190115,
+    192188,
+    220809,
+    235358,
+    239442,
+    244648,
+    287101
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Societé d'Exploitation et de Distribution de Films (SEDIF)",
+    "Impérial Film"
+  ],
+  "crew": [
+    {
+      "personId": 25161,
+      "job": "director"
+    },
+    {
+      "personId": 18479,
+      "job": "composer"
+    },
+    {
+      "personId": 39060,
+      "job": "writer"
+    },
+    {
+      "personId": 2579,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2499853,
+      "job": "producer"
+    },
+    {
+      "personId": 40531,
+      "job": "writer"
+    },
+    {
+      "personId": 2499855,
+      "job": "producer"
+    },
+    {
+      "personId": 11577,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 82789,
+      "character": "Renée",
+      "order": 0
+    },
+    {
+      "personId": 18766,
+      "character": "Pierre",
+      "order": 1
+    },
+    {
+      "personId": 109345,
+      "character": "Monsieur Edmond",
+      "order": 2
+    },
+    {
+      "personId": 25154,
+      "character": "Raymonde",
+      "order": 3
+    },
+    {
+      "personId": 11535,
+      "character": "Ginette",
+      "order": 4
+    },
+    {
+      "personId": 140357,
+      "character": "Kenel",
+      "order": 5
+    },
+    {
+      "personId": 140358,
+      "character": "Emile Lecouvreur",
+      "order": 6
+    },
+    {
+      "personId": 140359,
+      "character": "Nazarède",
+      "order": 7
+    },
+    {
+      "personId": 9743,
+      "character": "Le chirurgien",
+      "order": 8
+    },
+    {
+      "personId": 24379,
+      "character": "Prosper",
+      "order": 9
+    },
+    {
+      "personId": 140360,
+      "character": "Munar",
+      "order": 10
+    },
+    {
+      "personId": 11598,
+      "character": "Le commissaire",
+      "order": 11
+    },
+    {
+      "personId": 25160,
+      "character": "Louise Lecouvreur",
+      "order": 12
+    },
+    {
+      "personId": 140361,
+      "character": "L' infirmière",
+      "order": 13
+    },
+    {
+      "personId": 27440,
+      "character": "Adrien",
+      "order": 14
+    },
+    {
+      "personId": 94943,
+      "character": "Maltaverne",
+      "order": 15
+    },
+    {
+      "personId": 140362,
+      "character": "Marcel (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 140363,
+      "character": "Un inspecteur (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 140364,
+      "character": "Un client du restaurant (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 140365,
+      "character": "Un agent de police (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 168,
+  "sources": [
+    "movement:french-poetic-realism"
+  ]
+}

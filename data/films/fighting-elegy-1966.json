@@ -1,0 +1,185 @@
+{
+  "tmdbId": 42721,
+  "slug": "fighting-elegy-1966",
+  "year": 1966,
+  "runtime": 86,
+  "originalTitle": "けんかえれじい",
+  "title": {
+    "en": "Fighting Elegy",
+    "tr": "Fighting Elegy"
+  },
+  "overview": {
+    "en": "Kiroku boards with a Roman Catholic family and falls for the daughter Michiko. He ignores his feelings, joins a gang, gets in fights and, eventually, becomes involved with the radical Kita Ikki group.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/q6EZUUvfdKWlvfqDXrGCS2Rmb1a.jpg",
+    "en": "/q6EZUUvfdKWlvfqDXrGCS2Rmb1a.jpg"
+  },
+  "backdrops": [
+    "/s409AF9n552PrzVW8qoqKWUwQ8c.jpg",
+    "/7id9CGb8ueAlJIWKGXIel2tdi0G.jpg",
+    "/Aiaw4449PJQpGNcMnT6B7RJFqI7.jpg",
+    "/hBiZKSzgoEqVaByFFs8PF4ayd8.jpg",
+    "/l6EvNCNS1fSnXTmtb5FBMhdU99j.jpg",
+    "/rMfhXMxjktLjkerKVNt48r9RXNn.jpg",
+    "/A2gEg8Hp19R55ccklGEGve7SAl6.jpg"
+  ],
+  "trailerKey": "BW_YIUOCM3c",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    10766,
+    14641,
+    18732,
+    157008,
+    165100,
+    194226,
+    207592,
+    209998,
+    285902,
+    296479,
+    312898,
+    327798
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Nikkatsu Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 82461,
+      "job": "director"
+    },
+    {
+      "personId": 1564551,
+      "job": "producer"
+    },
+    {
+      "personId": 82468,
+      "job": "composer"
+    },
+    {
+      "personId": 1200332,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 33727,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 390407,
+      "character": "Kiroku Nanbu",
+      "order": 0
+    },
+    {
+      "personId": 50656,
+      "character": "Suppon \"Turtle\"",
+      "order": 1
+    },
+    {
+      "personId": 72540,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 82478,
+      "character": "Principal",
+      "order": 3
+    },
+    {
+      "personId": 142463,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1565269,
+      "character": "Michiko",
+      "order": 5
+    },
+    {
+      "personId": 2129990,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 548659,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1190653,
+      "character": "Yoshino Nanbu",
+      "order": 8
+    },
+    {
+      "personId": 97629,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1029321,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1997469,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1191614,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1608408,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1997470,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 133714,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 551744,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1308574,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 110306,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1093070,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 39,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "tmdbId": 55151,
+  "slug": "tuesday-after-christmas-2010",
+  "year": 2010,
+  "runtime": 99,
+  "originalTitle": "Marți, după Crăciun",
+  "title": {
+    "en": "Tuesday, After Christmas",
+    "tr": "Noelden Sonraki Salı"
+  },
+  "overview": {
+    "en": "Paul Hanganu loves two women. Adriana his wife and the mother of their daughter, the woman with whom he's shared the thrills of the past ten years, and Raluca the woman who has made him redefine himself. He has to leave one of them before Christmas.",
+    "tr": "Paul Hanganu iki kadına aynı anda aşıktır. Bir yanda hayatının tüm zorluklarını paylaştığı, eşi ve çocuklarının annesi Adriana, diğer yanda kendi kendini tekrar keşfetmesine yardımcı olan Raluca. İkisinden birini Noel'den önce terketmek zorundadır."
+  },
+  "poster": {
+    "tr": "/jkNGrNqhbnkEiXktK00TAtaAFkW.jpg",
+    "en": "/6CBT8bQ7o20S6Hn7jXsqn118wMU.jpg"
+  },
+  "backdrops": [
+    "/dx4eGa2HgvSAR7XYjt7v4cBEmcg.jpg",
+    "/vy8tAIeprwZdq8zVvyd3w4H9YBt.jpg",
+    "/lvDNwu3eswLNUh2m2tZjv6T7ChI.jpg",
+    "/upAeUtgtwHCUYegdbje5C1smUA8.jpg"
+  ],
+  "trailerKey": "uAmLtStWZoE",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    1157,
+    34094,
+    209983,
+    237216
+  ],
+  "countries": [
+    "RO"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "Romanian National Center for Cinematography",
+    "BV McCann-Erickson",
+    "HBO Romania"
+  ],
+  "crew": [
+    {
+      "personId": 129564,
+      "job": "director"
+    },
+    {
+      "personId": 107535,
+      "job": "writer"
+    },
+    {
+      "personId": 129564,
+      "job": "writer"
+    },
+    {
+      "personId": 1011109,
+      "job": "writer"
+    },
+    {
+      "personId": 1011110,
+      "job": "producer"
+    },
+    {
+      "personId": 965600,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1011111,
+      "character": "Paul Hanganu",
+      "order": 0
+    },
+    {
+      "personId": 94249,
+      "character": "Raluca",
+      "order": 1
+    },
+    {
+      "personId": 557861,
+      "character": "Adriana Hanganu",
+      "order": 2
+    },
+    {
+      "personId": 129565,
+      "character": "Cristi",
+      "order": 3
+    },
+    {
+      "personId": 557862,
+      "character": "Nucu",
+      "order": 4
+    },
+    {
+      "personId": 1011112,
+      "character": "Narcisa",
+      "order": 5
+    },
+    {
+      "personId": 2399054,
+      "character": "Ica",
+      "order": 6
+    },
+    {
+      "personId": 6088351,
+      "character": "Mara Hanganu",
+      "order": 7
+    },
+    {
+      "personId": 965597,
+      "character": "Mircea Dumbraveanu",
+      "order": 8
+    },
+    {
+      "personId": 2393368,
+      "character": "Ralucas Mother",
+      "order": 9
+    },
+    {
+      "personId": 2529734,
+      "character": "Cosmina",
+      "order": 10
+    },
+    {
+      "personId": 1833453,
+      "character": "Vanzator de Brazi",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 72,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

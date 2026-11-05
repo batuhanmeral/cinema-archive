@@ -1,0 +1,84 @@
+{
+  "tmdbId": 185579,
+  "slug": "a-sixth-part-of-the-world-1926",
+  "year": 1926,
+  "runtime": 75,
+  "originalTitle": "Шестая часть мира",
+  "title": {
+    "en": "A Sixth Part of the World",
+    "tr": "A Sixth Part of the World"
+  },
+  "overview": {
+    "en": "Through the travelogue format, the multitude of Soviet peoples in remote areas of USSR and detailed the entirety of the wealth of the Soviet land. Focusing on cultural and economic diversity, it is in fact a call for unification in order to build a 'complete socialist society'.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5ZbljS3ZuvkuJxZaRdezjrYQ9cb.jpg",
+    "en": "/5ZbljS3ZuvkuJxZaRdezjrYQ9cb.jpg"
+  },
+  "backdrops": [
+    "/uaJMsux2Ltaywvcr33TjMsV8y3T.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    189420
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Sovkino"
+  ],
+  "crew": [
+    {
+      "personId": 95111,
+      "job": "director"
+    },
+    {
+      "personId": 95111,
+      "job": "writer"
+    },
+    {
+      "personId": 1042437,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1901361,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1901360,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1901356,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1768016,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1601859,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1169045,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1901358,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [],
+  "awards": {},
+  "voteCount": 29,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

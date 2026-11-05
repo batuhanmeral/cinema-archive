@@ -1,0 +1,135 @@
+{
+  "tmdbId": 26005,
+  "slug": "made-in-hong-kong-1997",
+  "year": 1997,
+  "runtime": 109,
+  "originalTitle": "香港製造",
+  "title": {
+    "en": "Made in Hong Kong",
+    "tr": "Made in Hong Kong"
+  },
+  "overview": {
+    "en": "After his father abandons the family, Autumn Moon drops out of high school and becomes a debt collector for the Triads. On his rounds, he meets and falls in love with Ping, a daughter of one of the Triads' clients. She is suffering from a fatal kidney disease, and to pay for her medical expenses, Autumn Moon takes an assassination contract, but as he slips deeper into the criminal underworld, he's haunted by a figure from his past.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gWuB0NcEyZu2oz1ppdIwNGUpZJe.jpg",
+    "en": "/gWuB0NcEyZu2oz1ppdIwNGUpZJe.jpg"
+  },
+  "backdrops": [
+    "/pNBl6iYF4CGgMDqJiMKucsk3y2p.jpg",
+    "/vCQErMu9MJdABuocrrcQ6P7kZko.jpg",
+    "/mXpB1O5M5dZBGKyCXL5F82dwZ58.jpg",
+    "/jNOvV9YBik2wJreUJRxnyP4cqB7.jpg",
+    "/gIqL82asfX4S6Hehv6Gp3qRZx2o.jpg",
+    "/5CXKEygFZJrON7P7vDD0ohxEPEp.jpg",
+    "/e3BEIQfaKyq7X0y9GnQjCL84XVn.jpg",
+    "/c8OTE164JRCJ84qIbfnvlyemLbL.jpg",
+    "/jgI58K8ipmPmS72DrWpwvuPHB3z.jpg",
+    "/mbKMHoKmcTfhQAmRFpmTlWKPRFd.jpg"
+  ],
+  "trailerKey": "Op4HBWPiDyU",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    10857,
+    12354,
+    257259,
+    304976
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn"
+  ],
+  "studios": [
+    "Nicetop Independent Ltd",
+    "Teamwork Motion Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 56865,
+      "job": "director"
+    },
+    {
+      "personId": 56865,
+      "job": "writer"
+    },
+    {
+      "personId": 592152,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 592152,
+      "job": "composer"
+    },
+    {
+      "personId": 77704,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2557402,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 74193,
+      "character": "To Chung-Chau",
+      "order": 0
+    },
+    {
+      "personId": 130499,
+      "character": "Lam Yuk-Ping",
+      "order": 1
+    },
+    {
+      "personId": 130500,
+      "character": "Ah-Lung",
+      "order": 2
+    },
+    {
+      "personId": 130501,
+      "character": "Mrs. Lam",
+      "order": 3
+    },
+    {
+      "personId": 130503,
+      "character": "Cheung Siu-Wing",
+      "order": 4
+    },
+    {
+      "personId": 1641295,
+      "character": "Keung",
+      "order": 5
+    },
+    {
+      "personId": 130505,
+      "character": "Fat Chan",
+      "order": 6
+    },
+    {
+      "personId": 130506,
+      "character": "Hui Bo San",
+      "order": 7
+    },
+    {
+      "personId": 130507,
+      "character": "Doctor",
+      "order": 8
+    },
+    {
+      "personId": 130508,
+      "character": "Wong Wing-Nam",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 128,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

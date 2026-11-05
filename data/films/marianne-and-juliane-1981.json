@@ -1,0 +1,178 @@
+{
+  "tmdbId": 42142,
+  "slug": "marianne-and-juliane-1981",
+  "year": 1981,
+  "runtime": 106,
+  "originalTitle": "Die bleierne Zeit",
+  "title": {
+    "en": "Marianne and Juliane",
+    "tr": "Die bleierne Zeit"
+  },
+  "overview": {
+    "en": "Germany, 1968: The priest's daughters Marianna and Juliane both fight for changes in society, like making abortion legal. However their means are totally different: while Juliane's committed as a reporter, her sister joins a terroristic organization. After she's caught by the police and put into isolation jail, Juliane remains as her last connection to the rest of the world. Although she doesn't accept her sister's arguments and her boyfriend Wolfgang doesn't want her to, Juliane keeps on helping her sister. She begins to question the way her sister is treated.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lOPTepFzMlwJzupQDPe481hI0sN.jpg",
+    "en": "/rFvLYzYRW2CF0C4ccjUNhnz98bS.jpg"
+  },
+  "backdrops": [
+    "/3SGxsg9DiPouBLoghsQPLPqHATA.jpg",
+    "/2u0R2CPQkY5zDhqhe4uSpZOKHEG.jpg",
+    "/7gwjT2idkrhE5EV0cS4xUw9Jusi.jpg",
+    "/cehJ3BpiVI8AVvH0StweOkrdXQE.jpg"
+  ],
+  "trailerKey": "AjCYE18UVhQ",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    6078,
+    74,
+    2383,
+    187056,
+    190456
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "it",
+    "de"
+  ],
+  "studios": [
+    "Sender Freies Berlin",
+    "Neue Bioskop Film"
+  ],
+  "crew": [
+    {
+      "personId": 39298,
+      "job": "director"
+    },
+    {
+      "personId": 26376,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 16806,
+      "job": "producer"
+    },
+    {
+      "personId": 39298,
+      "job": "writer"
+    },
+    {
+      "personId": 1536658,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 49045,
+      "character": "Juliane",
+      "order": 0
+    },
+    {
+      "personId": 23378,
+      "character": "Marianne",
+      "order": 1
+    },
+    {
+      "personId": 939595,
+      "character": "Juliane (child)",
+      "order": 2
+    },
+    {
+      "personId": 1253940,
+      "character": "Marianne (child)",
+      "order": 3
+    },
+    {
+      "personId": 5266,
+      "character": "Wolfgang",
+      "order": 4
+    },
+    {
+      "personId": 4537,
+      "character": "Mother",
+      "order": 5
+    },
+    {
+      "personId": 24632,
+      "character": "Sabine",
+      "order": 6
+    },
+    {
+      "personId": 586108,
+      "character": "Werner",
+      "order": 7
+    },
+    {
+      "personId": 939596,
+      "character": "Father",
+      "order": 8
+    },
+    {
+      "personId": 1555457,
+      "character": "Class teacher",
+      "order": 9
+    },
+    {
+      "personId": 938202,
+      "character": "Rolf",
+      "order": 10
+    },
+    {
+      "personId": 1722887,
+      "character": "Marianne's smoking friend",
+      "order": 11
+    },
+    {
+      "personId": 2158100,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 36691,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1598426,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 3745799,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 3745801,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 3745806,
+      "character": "Juliane at 6",
+      "order": 17
+    },
+    {
+      "personId": 3745809,
+      "character": "Jan at 4",
+      "order": 18
+    },
+    {
+      "personId": 3745811,
+      "character": "Jan at 10",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "venice": 1
+  },
+  "voteCount": 86,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

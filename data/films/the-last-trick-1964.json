@@ -1,0 +1,91 @@
+{
+  "tmdbId": 18949,
+  "slug": "the-last-trick-1964",
+  "year": 1964,
+  "runtime": 12,
+  "originalTitle": "Poslední trik pana Schwarcewalldea a pana Edgara",
+  "title": {
+    "en": "The Last Trick",
+    "tr": "Poslední trik pana Schwarcewalldea a pana Edgara"
+  },
+  "overview": {
+    "en": "Two magicians, Mr. Schwarzwald and Mr. Edgar, try to outdo each other in performing elaborate magic tricks, leading to a violent ending.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/fatPBJvczQOn0NosTMYTJZQ86qW.jpg",
+    "en": "/fatPBJvczQOn0NosTMYTJZQ86qW.jpg"
+  },
+  "backdrops": [
+    "/nzbFxfru7L8L135kxzglAGhW6PQ.jpg",
+    "/iD9hbOQRMmdSErA2Lz1fxapfzuq.jpg",
+    "/iZVFlaS9t9T5yoKY5CjoHt91fSm.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    16
+  ],
+  "keywordIds": [],
+  "countries": [
+    "XC"
+  ],
+  "languages": [],
+  "studios": [
+    "Krátký film Praha – Studio dokumentárních filmů"
+  ],
+  "crew": [
+    {
+      "personId": 2002659,
+      "job": "composer"
+    },
+    {
+      "personId": 551675,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 83784,
+      "job": "writer"
+    },
+    {
+      "personId": 83784,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3498204,
+      "character": "",
+      "order": 0
+    },
+    {
+      "personId": 83998,
+      "character": "",
+      "order": 1
+    },
+    {
+      "personId": 3498207,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 550576,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 3498211,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 3498219,
+      "character": "",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 32,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

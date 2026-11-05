@@ -1,0 +1,73 @@
+{
+  "tmdbId": 159220,
+  "slug": "people-of-the-po-valley-1947",
+  "year": 1947,
+  "runtime": 11,
+  "originalTitle": "Gente del Po",
+  "title": {
+    "en": "People of the Po Valley",
+    "tr": "Po Vadisi'nin İnsanları"
+  },
+  "overview": {
+    "en": "A documentary short detailing the life of Italians living on the Po River in the 1940s.",
+    "tr": "Po Nehri üzerinde balıkçılık ve kayıkçılık yapan insanların yoksul hayatları, doğaya karşı verdikleri mücadele… Antonioni bu filmini şöyle tanımlar: “Po’nun çocukları, her şeye rağmen, Po’dan kurtulamadılar. Mücadele ettiler, acı çektiler, daha da mücadele edecekler, acı çekecekler. Oysa, hiç kuşkusuz, acının itici karakterini, mücadeleye iten yönünü kaldırıp, onu olayların doğal düzenine sokabilirler.” John Berger, Antonioni'nin bu ilk filmindeki çerçeveleme tarzının, yönetmenin sonraki filmlerindeki stilinin habercisi olduğunu öne sürer: \"Sanki ilgisi, her zaman için olayın arkasına yöneliktir. Kahraman hiçbir zaman merkezde değildir; çünkü merkez ne olduğunu tam anlayamadığımız, hatları belirsiz bir hedeftir.\""
+  },
+  "poster": {
+    "tr": "/7kEz16wQQtyRnf4vhEfgCRc7tKO.jpg",
+    "en": "/7kEz16wQQtyRnf4vhEfgCRc7tKO.jpg"
+  },
+  "backdrops": [
+    "/gH5MbbPfPNNu13ghiFrBdsmPgVB.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    131,
+    12987,
+    165364,
+    217301,
+    263548
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "I.C.E.T.",
+    "Artisti Associati"
+  ],
+  "crew": [
+    {
+      "personId": 15189,
+      "job": "director"
+    },
+    {
+      "personId": 15189,
+      "job": "writer"
+    },
+    {
+      "personId": 2209492,
+      "job": "composer"
+    },
+    {
+      "personId": 1194837,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 15136,
+      "character": "Narrator (voice) (uncredited)",
+      "order": 0
+    }
+  ],
+  "awards": {},
+  "voteCount": 51,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

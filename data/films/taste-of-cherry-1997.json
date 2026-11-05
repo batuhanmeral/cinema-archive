@@ -1,0 +1,150 @@
+{
+  "tmdbId": 30020,
+  "slug": "taste-of-cherry-1997",
+  "year": 1997,
+  "runtime": 99,
+  "originalTitle": "طعم گيلاس",
+  "title": {
+    "en": "Taste of Cherry",
+    "tr": "Kirazın Tadı"
+  },
+  "overview": {
+    "en": "A middle-aged Tehranian man, Mr. Badii is intent on killing himself and seeks someone to bury him after his demise. Driving around the city, the seemingly well-to-do Badii meets with numerous people, including a Muslim student, asking them to take on the job, but initially he has little luck. Eventually, Badii finds a man who is up for the task because he needs the money, but his new associate soon tries to talk him out of committing suicide.",
+    "tr": "İran'ın en önemli yönetmenlerinden Abbas Kiarostami, bu filminde intihar etmek isteyen orta yaşlı bir adamın, kendisini gömmek için birisini ararken ki yolculuğunu anlatıyor. Bay Badii yolculuğu esnasında üç farklı kişiden intiharından sonra kendisini gömmesini rica eder: Kürt bir askerden, Afgan bir öğretmenden ve yaşlı Türk bir tahnitçiden. Aralarından sadece biri bu teklifi kabul eder. Ancak Bay Badii bu yolculuğu esnasında bu kişilerden hayat dersi niteliğinde pek çok şey öğrenecektir."
+  },
+  "poster": {
+    "tr": "/vgPwjgbSdbYWrS1ty8TIZtmi6Tn.jpg",
+    "en": "/vgPwjgbSdbYWrS1ty8TIZtmi6Tn.jpg"
+  },
+  "backdrops": [
+    "/1NEsPzxmiucxRxvaly7UHMYIANj.jpg",
+    "/ymexEpuwjMBwqGRwFR2bXDHUDCy.jpg",
+    "/jSwSQp3wrVznojidRsMWCtJNK0Q.jpg",
+    "/44SNTCSZTdbF5bzgUy4IfPV3DUq.jpg",
+    "/tGQcmcvSPR8FZ5FtfDmjwvLCuck.jpg",
+    "/95PqaHVI2qhEWfukKqyd3NVYbU1.jpg",
+    "/jmYZYYiTaNBmNcV2LZKK8B05s2W.jpg",
+    "/le2Zh4eKqmlBdt59mX3I7VDpH2W.jpg",
+    "/juU6kroIoO9TguvGA6tP0HtXp8B.jpg",
+    "/dpnWQTeDCWGW3WrRvqZ9F0KY1xn.jpg"
+  ],
+  "trailerKey": "ukmYdGwVqPg",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    894,
+    236,
+    314,
+    1541,
+    2392,
+    4232,
+    4433,
+    5986,
+    11001,
+    14586,
+    18009,
+    161043,
+    164246,
+    167043,
+    170468,
+    178895,
+    180307,
+    197056,
+    212737,
+    215015,
+    219923,
+    245910,
+    250379,
+    272061,
+    281623,
+    325763,
+    325824,
+    326060,
+    328715,
+    343508
+  ],
+  "countries": [
+    "IR",
+    "FR"
+  ],
+  "languages": [
+    "fa"
+  ],
+  "studios": [
+    "Kanoon",
+    "Kiarostami Foundation",
+    "CiBy 2000"
+  ],
+  "crew": [
+    {
+      "personId": 119294,
+      "job": "director"
+    },
+    {
+      "personId": 119294,
+      "job": "producer"
+    },
+    {
+      "personId": 119294,
+      "job": "writer"
+    },
+    {
+      "personId": 554587,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1462022,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 117528,
+      "character": "Mr. Badii",
+      "order": 0
+    },
+    {
+      "personId": 117529,
+      "character": "Mr. Bagheri",
+      "order": 1
+    },
+    {
+      "personId": 117531,
+      "character": "Soldier",
+      "order": 2
+    },
+    {
+      "personId": 117532,
+      "character": "Seminarian",
+      "order": 3
+    },
+    {
+      "personId": 3875705,
+      "character": "Photographer",
+      "order": 4
+    },
+    {
+      "personId": 117530,
+      "character": "Worker",
+      "order": 5
+    },
+    {
+      "personId": 554586,
+      "character": "Ahmad Ansari",
+      "order": 6
+    },
+    {
+      "personId": 119294,
+      "character": "Abbas Kiarostami (uncredited)",
+      "order": 7
+    }
+  ],
+  "awards": {
+    "cannes": 1
+  },
+  "voteCount": 751,
+  "sources": [
+    "movement:iranian-new-wave"
+  ]
+}

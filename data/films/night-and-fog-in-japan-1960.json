@@ -1,0 +1,119 @@
+{
+  "tmdbId": 109276,
+  "slug": "night-and-fog-in-japan-1960",
+  "year": 1960,
+  "runtime": 103,
+  "originalTitle": "日本の夜と霧",
+  "title": {
+    "en": "Night and Fog in Japan",
+    "tr": "Night and Fog in Japan"
+  },
+  "overview": {
+    "en": "Long takes and a highly theatrical visual approach combine to form a tense and confrontational look at the decline of a socialist student activists' movement in Japan.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/aISevPUvqMcElqyL4nilpkxusSg.jpg",
+    "en": "/aISevPUvqMcElqyL4nilpkxusSg.jpg"
+  },
+  "backdrops": [
+    "/YzwPzAYgT5bQ5TEbrODASUTwkX.jpg"
+  ],
+  "trailerKey": "3Y_gE9lB-9g",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    209998,
+    296479,
+    325848
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Shochiku"
+  ],
+  "crew": [
+    {
+      "personId": 46230,
+      "job": "writer"
+    },
+    {
+      "personId": 548020,
+      "job": "writer"
+    },
+    {
+      "personId": 46230,
+      "job": "director"
+    },
+    {
+      "personId": 548021,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1542937,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 213483,
+      "character": "Reiko Harada",
+      "order": 0
+    },
+    {
+      "personId": 224662,
+      "character": "Haruaki Nozawa",
+      "order": 1
+    },
+    {
+      "personId": 551776,
+      "character": "Ôta",
+      "order": 2
+    },
+    {
+      "personId": 1076386,
+      "character": "Prof. Udagawa",
+      "order": 3
+    },
+    {
+      "personId": 33730,
+      "character": "Sakamaki",
+      "order": 4
+    },
+    {
+      "personId": 138748,
+      "character": "Higashiura Toura",
+      "order": 5
+    },
+    {
+      "personId": 552315,
+      "character": "Misako Nakagawa",
+      "order": 6
+    },
+    {
+      "personId": 1661183,
+      "character": "Mrs. Udagawa",
+      "order": 7
+    },
+    {
+      "personId": 1661184,
+      "character": "Takumi",
+      "order": 8
+    },
+    {
+      "personId": 1493730,
+      "character": "Katsuhiko Nakayama",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 30,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

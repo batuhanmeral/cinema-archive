@@ -1,0 +1,153 @@
+{
+  "tmdbId": 41187,
+  "slug": "fate-2001",
+  "year": 2001,
+  "runtime": 119,
+  "originalTitle": "Yazgı",
+  "title": {
+    "en": "Fate",
+    "tr": "Yazgı"
+  },
+  "overview": {
+    "en": "Musa, a customs clerk, sees life as absurd. He drifts with events; his mother's death, though loved, brings him strange joy.",
+    "tr": "Gümrük memuru Musa, birbirinin zıddı iki olay arasında fark gözetmeyen birisidir. Annesinin ölümüne tepki vermeyen Musa, iki çocuk ve bir anneyi öldürmekten sorumlu tutulmasına da sesini çıkarmaz."
+  },
+  "poster": {
+    "tr": "/a6FHN2Mx3cKf3dAgPcK5S8pfYci.jpg",
+    "en": "/rX9pTk6HrqUcWh3h7vBULq6ymSn.jpg"
+  },
+  "backdrops": [
+    "/yiWpj3vG1AxbkMfevTeWUpou1HV.jpg",
+    "/vP2kYhUZVMiZIZ9KSINp485A7oK.jpg",
+    "/sH29auq7RnnfPYIyoz9Kb6NC1oL.jpg",
+    "/iOmJ6efBps43twJm9vgxUWGx6ep.jpg",
+    "/gNKwsnxk9H4Hbte4NBmTRz6UtIp.jpg",
+    "/gTI3E9loCUuaqKBHZAVNNztSd8U.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    5733,
+    10855
+  ],
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [
+    "Mavi Film"
+  ],
+  "crew": [
+    {
+      "personId": 145518,
+      "job": "director"
+    },
+    {
+      "personId": 145518,
+      "job": "writer"
+    },
+    {
+      "personId": 1410163,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 145518,
+      "job": "producer"
+    },
+    {
+      "personId": 3954441,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 222543,
+      "character": "Musa",
+      "order": 0
+    },
+    {
+      "personId": 145403,
+      "character": "Sinem",
+      "order": 1
+    },
+    {
+      "personId": 1004821,
+      "character": "Naim",
+      "order": 2
+    },
+    {
+      "personId": 115011,
+      "character": "Necati",
+      "order": 3
+    },
+    {
+      "personId": 1888573,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1888575,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1088662,
+      "character": "Yavuz",
+      "order": 6
+    },
+    {
+      "personId": 3672808,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1381257,
+      "character": "Nermin",
+      "order": 8
+    },
+    {
+      "personId": 3498402,
+      "character": "Police",
+      "order": 9
+    },
+    {
+      "personId": 1888574,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1435104,
+      "character": "Savci",
+      "order": 11
+    },
+    {
+      "personId": 1888378,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 70579,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 3941053,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 230764,
+      "character": "",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 71,
+  "sources": [
+    "movement:new-turkish-cinema"
+  ]
+}

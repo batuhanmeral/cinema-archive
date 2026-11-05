@@ -4,6 +4,7 @@ import { join } from 'node:path'
 import { describe, expect, it } from 'vitest'
 import { themesFileSchema } from '../src/data/schemas'
 import { readContent } from './content'
+import { movementContentFileSchema } from './schemas'
 
 async function contentDir(name: string, text: string): Promise<string> {
   const dir = await mkdtemp(join(tmpdir(), 'content-'))
@@ -33,5 +34,33 @@ describe('readContent', () => {
   it('names the file when the JSON is malformed', async () => {
     const dir = await contentDir('awards.json', '{ nope')
     await expect(readContent(dir, 'awards.json', themesFileSchema)).rejects.toThrow(/awards\.json/)
+  })
+})
+
+describe('content/movements.json', () => {
+  const slugs = [
+    'german-expressionism',
+    'soviet-montage',
+    'surrealist-cinema',
+    'french-poetic-realism',
+    'italian-neorealism',
+    'japanese-new-wave',
+    'french-new-wave',
+    'cinema-novo',
+    'new-german-cinema',
+    'czechoslovak-new-wave',
+    'new-hollywood',
+    'iranian-new-wave',
+    'hong-kong-new-wave',
+    'new-taiwan-cinema',
+    'dogme-95',
+    'new-french-extremity',
+    'romanian-new-wave',
+    'new-turkish-cinema',
+  ]
+
+  it('holds the 18 approved movements', async () => {
+    const movements = await readContent('content', 'movements.json', movementContentFileSchema)
+    expect(movements.map((movement) => movement.slug)).toEqual(slugs)
   })
 })

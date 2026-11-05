@@ -1,0 +1,100 @@
+{
+  "tmdbId": 67404,
+  "slug": "the-autobiography-of-nicolae-ceausescu-2010",
+  "year": 2010,
+  "runtime": 180,
+  "originalTitle": "Autobiografia lui Nicolae Ceaușescu",
+  "title": {
+    "en": "The Autobiography of Nicolae Ceausescu",
+    "tr": "Nicolae Ceaușescu'nun Otobiyografisi"
+  },
+  "overview": {
+    "en": "The three-hour-long documentary covers 25 years in the life of Nicolae Ceaușescu and was made using 1,000 hours of original footage from the National Archives of Romania.",
+    "tr": "Üç saatlik belgesel, Nicolae Ceaușescu'nun hayatındaki 25 yılı kapsıyor ve Romanya Ulusal Arşivleri'nden alınan 1.000 saatlik orijinal görüntüler kullanılarak yapıldı."
+  },
+  "poster": {
+    "tr": "/fhBcXMx346RpsDdkoH3i7m3NpLe.jpg",
+    "en": "/fhBcXMx346RpsDdkoH3i7m3NpLe.jpg"
+  },
+  "backdrops": [
+    "/bMj2VvmClzNswmwr7M7t7Ejz48I.jpg",
+    "/cOJDHA9GZamihmeQPtsXi7vxVWk.jpg"
+  ],
+  "trailerKey": "grdV_2l7R2g",
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    7606,
+    5565,
+    179882,
+    189435
+  ],
+  "countries": [
+    "DE",
+    "RO"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "ICON production",
+    "CNC"
+  ],
+  "crew": [
+    {
+      "personId": 550225,
+      "job": "director"
+    },
+    {
+      "personId": 550225,
+      "job": "writer"
+    },
+    {
+      "personId": 1940999,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 556762,
+      "character": "Self (archive footage)",
+      "order": 0
+    },
+    {
+      "personId": 556763,
+      "character": "Self (archive footage)",
+      "order": 1
+    },
+    {
+      "personId": 556764,
+      "character": "Self (archive footage)",
+      "order": 2
+    },
+    {
+      "personId": 230551,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 1534186,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1940998,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 2551150,
+      "character": "Self (archive footage)",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 31,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

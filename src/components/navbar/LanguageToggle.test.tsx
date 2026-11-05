@@ -31,6 +31,6 @@ describe('LanguageToggle', () => {
     render(<LanguageToggle locale="en" />)
     const link = screen.getByRole('link', { name: /Switch to Turkish/ })
     expect(link).toHaveTextContent('EN')
-    expect(link).toHaveAttribute('href', '/arsiv?genre=878')
+    expect(link).toHaveAttribute('href', '/archive?genre=878')
   })
 })

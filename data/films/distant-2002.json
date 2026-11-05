@@ -1,0 +1,171 @@
+{
+  "tmdbId": 31026,
+  "slug": "distant-2002",
+  "year": 2002,
+  "runtime": 106,
+  "originalTitle": "Uzak",
+  "title": {
+    "en": "Distant",
+    "tr": "Uzak"
+  },
+  "overview": {
+    "en": "A young man from rural Turkey arrives in Istanbul with dreams of working on a ship and stays with a cousin while he searches for work. Over time, the former’s struggles to find employment and the latter’s troubles and disappointments strain their relationship and living situation.",
+    "tr": "Yusuf kasabada ona bir gelecek olmadığına karar vererek İstanbul'a gelmiştir. Daha önce şehre yerleşmiş akrabası Mahmut'un yanında kalıp uzaklara giden gemilerde miço olarak iş bulmak ister. İdeallerine ulaşmak için her şeyi yapmaya hazırdır. Fotoğrafçı Mahmut ise, idealleriyle arasının gitgide açıldığının bilincindedir. Üstelik, kendini bu durumdan kurtarmak için de hiçbir şey yapamaz ya da yapmaya yanaşmaz."
+  },
+  "poster": {
+    "tr": "/rb6I7xjZJiso9dKdxVh1zOFTDfv.jpg",
+    "en": "/wuM2tQoYmo7szrKg8TPi9q59voG.jpg"
+  },
+  "backdrops": [
+    "/tCuAIg6KXy5Q2cewOyl6mKJOsnm.jpg",
+    "/rsFMqISY2t9Qv642DPSfX34Lh1Y.jpg",
+    "/auxlBOqCRNhmLABLdy1QqchafZt.jpg",
+    "/ytbOoriiS3kFI7TqDhwiMmniH6L.jpg",
+    "/2SIVJ2PVqhooomhhiAg5K1T0W6a.jpg",
+    "/hfB0XY0gXZSdsRpH0fimGxU7eK9.jpg",
+    "/d3mjhz6qpRKvNqI0kwgOyw6Os5Y.jpg",
+    "/7a90KJOearGCmSFyipc5y2eUAiT.jpg",
+    "/3whWUcEeJvrp31zLUZJFuJKMiCw.jpg",
+    "/9lalwt7uw7yJvtb4kQWziWMb7fl.jpg"
+  ],
+  "trailerKey": "YJKIypY3P-g",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1003,
+    2832,
+    9957,
+    156052
+  ],
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [
+    "NBC Film",
+    "NBC Ajans"
+  ],
+  "crew": [
+    {
+      "personId": 56214,
+      "job": "director"
+    },
+    {
+      "personId": 56214,
+      "job": "writer"
+    },
+    {
+      "personId": 56214,
+      "job": "producer"
+    },
+    {
+      "personId": 56214,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 107521,
+      "character": "Mahmut",
+      "order": 0
+    },
+    {
+      "personId": 107522,
+      "character": "Yusuf",
+      "order": 1
+    },
+    {
+      "personId": 150267,
+      "character": "Nazan (as Zuhal Gencer Erkaya)",
+      "order": 2
+    },
+    {
+      "personId": 1381257,
+      "character": "Lover (as Nazan Kırılmış)",
+      "order": 3
+    },
+    {
+      "personId": 1088662,
+      "character": "Janitor",
+      "order": 4
+    },
+    {
+      "personId": 1088663,
+      "character": "Mother",
+      "order": 5
+    },
+    {
+      "personId": 307141,
+      "character": "Woman (as Ebru Yapıcı)",
+      "order": 6
+    },
+    {
+      "personId": 4709337,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 4709339,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 4709340,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 87224,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 4709341,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 4709342,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1209935,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 4709345,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 4709349,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 4709351,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 4709352,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1162242,
+      "character": "",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 273,
+  "sources": [
+    "movement:new-turkish-cinema"
+  ]
+}

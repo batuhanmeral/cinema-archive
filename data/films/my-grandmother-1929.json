@@ -1,0 +1,111 @@
+{
+  "tmdbId": 173494,
+  "slug": "my-grandmother-1929",
+  "year": 1929,
+  "runtime": 65,
+  "originalTitle": "ჩემი ბებია",
+  "title": {
+    "en": "My Grandmother",
+    "tr": "My Grandmother"
+  },
+  "overview": {
+    "en": "The protagonist, a lazy pen-pusher, gets the sack for his bureaucratic idleness, and learns that the way back into the job market depends on getting a letter of recommendation from a \"grandmother\"",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/i6eLdAUXA6EgmZKUhb7DiP5cuLD.jpg",
+    "en": "/szW81xJ4FxL1RAOuvHRhmYlcZ0E.jpg"
+  },
+  "backdrops": [
+    "/yYkPYyBTn8BI63nz0hjClb2D9RW.jpg",
+    "/6eeh1OeFeJZkk080Nys9M4r08lx.jpg",
+    "/lNLYLPsfNENJ7p7xex1Z0ZWdEA8.jpg",
+    "/fRQTl3Cq6jave95bEXHB5pPx2yL.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    154802
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [
+    "ka"
+  ],
+  "studios": [
+    "JSC \"Sakhkinmretsvi\""
+  ],
+  "crew": [
+    {
+      "personId": 1156225,
+      "job": "director"
+    },
+    {
+      "personId": 2597393,
+      "job": "writer"
+    },
+    {
+      "personId": 1156225,
+      "job": "writer"
+    },
+    {
+      "personId": 2536066,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1408130,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1871448,
+      "character": "The Bureaucrat's Wife",
+      "order": 0
+    },
+    {
+      "personId": 1522409,
+      "character": "The Bureaucrat",
+      "order": 1
+    },
+    {
+      "personId": 1871450,
+      "character": "The Doorman",
+      "order": 2
+    },
+    {
+      "personId": 1346732,
+      "character": "Labourer",
+      "order": 3
+    },
+    {
+      "personId": 1871452,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1871453,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1871454,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 2279692,
+      "character": "",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 23,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "tmdbId": 24163,
+  "slug": "as-tears-go-by-1988",
+  "year": 1988,
+  "runtime": 98,
+  "originalTitle": "旺角卡門",
+  "title": {
+    "en": "As Tears Go By",
+    "tr": "As Tears Go By"
+  },
+  "overview": {
+    "en": "Mid-level gangster Wah falls in love with his beautiful cousin, but must also continue to protect his volatile partner-in-crime and friend, Fly.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5xMtbxqRXOMO0ovvhAyU4y4JI1E.jpg",
+    "en": "/MQE9oDZIqbzuHT0HDm4iMecBNk.jpg"
+  },
+  "backdrops": [
+    "/n83htssllqNBIENwXPE1qyzU8l9.jpg",
+    "/eUusazTX74pEr5rhQSIMebkmri3.jpg",
+    "/f379mzgpUBxVgZs56SJlW93pQ9L.jpg",
+    "/29k4A5DdLqCivIKq2M8vogMiIz9.jpg",
+    "/tEqeyPPBJfyDJl0lO08YiqefYqd.jpg",
+    "/z7DhFW44poQxZOCkoACfF7Xlkg2.jpg",
+    "/n1Uh9Z9cLthWQoXeKRhSgRqLhYE.jpg",
+    "/evxwN9CU0KyJppg8pOrGdJzUm2B.jpg",
+    "/iqfvB7e3DEbyfTBPNDh4Qv93dPm.jpg",
+    "/go2CwD8ylejGFQi6eJHdWaYK6Wz.jpg"
+  ],
+  "trailerKey": "sGPv0lE1V9w",
+  "genreIds": [
+    18,
+    80,
+    10749
+  ],
+  "keywordIds": [
+    3149,
+    41383,
+    215453,
+    324429
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn"
+  ],
+  "studios": [
+    "In-Gear Film Production Co. Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 12453,
+      "job": "director"
+    },
+    {
+      "personId": 57617,
+      "job": "writer"
+    },
+    {
+      "personId": 12453,
+      "job": "writer"
+    },
+    {
+      "personId": 558823,
+      "job": "producer"
+    },
+    {
+      "personId": 1311734,
+      "job": "composer"
+    },
+    {
+      "personId": 26729,
+      "job": "composer"
+    },
+    {
+      "personId": 65994,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 25246,
+      "character": "Wah",
+      "order": 0
+    },
+    {
+      "personId": 1338,
+      "character": "Ngor",
+      "order": 1
+    },
+    {
+      "personId": 25245,
+      "character": "Fly",
+      "order": 2
+    },
+    {
+      "personId": 148886,
+      "character": "Tony",
+      "order": 3
+    },
+    {
+      "personId": 1593277,
+      "character": "Mabel",
+      "order": 4
+    },
+    {
+      "personId": 224924,
+      "character": "Sai",
+      "order": 5
+    },
+    {
+      "personId": 1193722,
+      "character": "Billiard Parlor Thug",
+      "order": 6
+    },
+    {
+      "personId": 45818,
+      "character": "Ngor's Doctor",
+      "order": 7
+    },
+    {
+      "personId": 1191766,
+      "character": "Fat Carl",
+      "order": 8
+    },
+    {
+      "personId": 1593278,
+      "character": "Tony's Thug",
+      "order": 9
+    },
+    {
+      "personId": 2971822,
+      "character": "Sai's Father-in-Law",
+      "order": 10
+    },
+    {
+      "personId": 1415347,
+      "character": "Big Mouth Kay",
+      "order": 11
+    },
+    {
+      "personId": 1134737,
+      "character": "Fly's Mother",
+      "order": 12
+    },
+    {
+      "personId": 1361023,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 2971823,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1346926,
+      "character": "Bodyguard in Final Scene (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1415350,
+      "character": "Policeman (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1196048,
+      "character": "Sai's Mother-in-Law (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1275568,
+      "character": "Uncle Kwan (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 990778,
+      "character": "Uncle Ba (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 395,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "tmdbId": 10913,
+  "slug": "dear-wendy-2005",
+  "year": 2005,
+  "runtime": 105,
+  "originalTitle": "Dear Wendy",
+  "title": {
+    "en": "Dear Wendy",
+    "tr": "Sevgili Wendy"
+  },
+  "overview": {
+    "en": "In a blue-collar American town, a group of teens bands together to form the Dandies, a gang of gunslingers led by Dick Dandelion. Following a code of strict pacifism at odds with the fact that they all carry guns, the group eventually lets in Sebastian, the grandson of Dick's childhood nanny, Clarabelle, who fears the other gangs in the area. Dick and company try to protect Clarabelle, but events transpire that push the gang past posturing.",
+    "tr": "Maden kasabası Estherslope’da yaşayan Dick’in öyküsü... Dick, son derece sıkıcı bir kasabada, suya sabuna dokunmadan yaşayan kendi halinde bir gençtir. Fakat bir silah edindikten sonra, sıkı bir pasifist olmasına rağmen silahların çekiciliğine kapılan Dick, yakın arkadaşları ile The Dandies adında bir grup kurar.Bu grubun oldukça ilginç bir yapısı vardır. Silahları oyuncak gibi taşıyıp, barışçı yapılarından kesinlikle ödün vermek istememektedirler! Fakat zamanla kuralların bozulmak için yaratıldıklarını keşfederler ve yavaş yavaş silah sesleri yükselmeye başlar...İlginç işlere imza atan bir yönetmen olmasına rağmen yaklaşık iki yıldır ortalıkta gözükmeyen Thomas Vinterberg, filmini Lars Von Trier imzalı bir senaryodan yola çıkarak çekti. Üstelik bu senaryo, Trier’in 2000’lerin başında Dogma kurallarına rağmen çekmeyi düşündüğü bir senaryo!"
+  },
+  "poster": {
+    "tr": "/2IF19Tcx5D9d8iUWa0PxFhO6MYZ.jpg",
+    "en": "/2IF19Tcx5D9d8iUWa0PxFhO6MYZ.jpg"
+  },
+  "backdrops": [
+    "/h3EmI6sR3THbrsMe5x12qnFtsH4.jpg",
+    "/bLsz2hX5CWgRGQC3oiQMQ4xzisc.jpg",
+    "/jv5HM2Tq9n3qPZk7pdawGWoZ2Ua.jpg"
+  ],
+  "trailerKey": "D1Mh8wJOeg8",
+  "genreIds": [
+    35,
+    80,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    240,
+    6054,
+    2908,
+    8232,
+    41364,
+    155023
+  ],
+  "countries": [
+    "DK",
+    "FR",
+    "GB",
+    "DE"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Lucky Punch",
+    "Nimbus Film",
+    "Zentropa Entertainments"
+  ],
+  "crew": [
+    {
+      "personId": 4453,
+      "job": "director"
+    },
+    {
+      "personId": 42,
+      "job": "writer"
+    },
+    {
+      "personId": 1015,
+      "job": "producer"
+    },
+    {
+      "personId": 40825,
+      "job": "composer"
+    },
+    {
+      "personId": 1570,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 7583,
+      "job": "producer"
+    },
+    {
+      "personId": 1133293,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 478,
+      "character": "Dick Dandelion",
+      "order": 0
+    },
+    {
+      "personId": 8984,
+      "character": "Krugsby",
+      "order": 1
+    },
+    {
+      "personId": 11665,
+      "character": "Freddie",
+      "order": 2
+    },
+    {
+      "personId": 67453,
+      "character": "Sebastian",
+      "order": 3
+    },
+    {
+      "personId": 55272,
+      "character": "Clarabelle",
+      "order": 4
+    },
+    {
+      "personId": 26999,
+      "character": "Huey",
+      "order": 5
+    },
+    {
+      "personId": 17486,
+      "character": "Susan",
+      "order": 6
+    },
+    {
+      "personId": 4451,
+      "character": "Stevie",
+      "order": 7
+    },
+    {
+      "personId": 79934,
+      "character": "Dick's Dad",
+      "order": 8
+    },
+    {
+      "personId": 225161,
+      "character": "Young Officer",
+      "order": 9
+    },
+    {
+      "personId": 663,
+      "character": "Marshall Walker",
+      "order": 10
+    },
+    {
+      "personId": 951891,
+      "character": "Mr. Salomon",
+      "order": 11
+    },
+    {
+      "personId": 4457,
+      "character": "Customer",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 147,
+  "sources": [
+    "movement:dogme-95"
+  ]
+}

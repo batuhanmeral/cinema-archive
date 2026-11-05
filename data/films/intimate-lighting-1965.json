@@ -1,0 +1,141 @@
+{
+  "tmdbId": 77381,
+  "slug": "intimate-lighting-1965",
+  "year": 1965,
+  "runtime": 73,
+  "originalTitle": "Intimní osvětlení",
+  "title": {
+    "en": "Intimate Lighting",
+    "tr": "Intimní osvětlení"
+  },
+  "overview": {
+    "en": "Two classically trained musicians and childhood friends - one a successful cellist in Prague, the other a violinist who makes his money playing provincial funerals - reconvene on the eve of a small-town symphony concert.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/a4VpypMjarRltCu7TIN8KGq1qpU.jpg",
+    "en": "/dArR0QzhVHT4Hbzkf6FjR5YXxk7.jpg"
+  },
+  "backdrops": [
+    "/jBKfEPieb9w9xm5HeZn95MHyD3a.jpg",
+    "/qX1ADiuvH3BhX30eH2fkUXQFQ8q.jpg",
+    "/gNDA8ONg2oanGBzhzJQ4cRqvnSY.jpg",
+    "/6YfXz69KPhVVHJEm5rxa1xLkmOL.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    1415,
+    885,
+    3739,
+    4048,
+    18035,
+    160243,
+    258533
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "Filmové studio Barrandov"
+  ],
+  "crew": [
+    {
+      "personId": 120482,
+      "job": "writer"
+    },
+    {
+      "personId": 84736,
+      "job": "writer"
+    },
+    {
+      "personId": 84736,
+      "job": "director"
+    },
+    {
+      "personId": 1295549,
+      "job": "writer"
+    },
+    {
+      "personId": 1183177,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4008,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1366034,
+      "character": "Bambas",
+      "order": 0
+    },
+    {
+      "personId": 1366033,
+      "character": "Petr",
+      "order": 1
+    },
+    {
+      "personId": 1038491,
+      "character": "Štěpa",
+      "order": 2
+    },
+    {
+      "personId": 120481,
+      "character": "Grandfather",
+      "order": 3
+    },
+    {
+      "personId": 1537341,
+      "character": "Marie",
+      "order": 4
+    },
+    {
+      "personId": 1537343,
+      "character": "Grandmother",
+      "order": 5
+    },
+    {
+      "personId": 1537342,
+      "character": "Pharmacist",
+      "order": 6
+    },
+    {
+      "personId": 1366036,
+      "character": "Kája",
+      "order": 7
+    },
+    {
+      "personId": 1537340,
+      "character": "Young Marie",
+      "order": 8
+    },
+    {
+      "personId": 1875461,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 3500791,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1537336,
+      "character": "",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 41,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "tmdbId": 143479,
+  "slug": "shanghai-blues-1984",
+  "year": 1984,
+  "runtime": 103,
+  "originalTitle": "上海之夜",
+  "title": {
+    "en": "Shanghai Blues",
+    "tr": "Shanghai Blues"
+  },
+  "overview": {
+    "en": "In 1937 Shanghai, a soldier and a young woman have an awkward meet-cute in darkness under a bridge as they seek refuge during a bomb raid. Ten years later, the soldier, now a burgeoning songwriter and tuba player in a marching band, is back in town desperately searching for his would-be soulmate. As fate would have it, they end up living in the same building, unbeknownst to each other.",
+    "tr": "1937'de Şanghay'da, yakında ayrılacak bir asker, Japon hava saldırısı sırasında bir köprünün altında genç bir kadınla tanışır. Savaş bittikten sonra buluşmaya yemin ederler, ancak birbirlerinin adını veya yüzünü bilmezler. On yıl sonra, gece kulübü şarkıcısı olan genç kadın, ülkeden yeni gelmiş saf bir kızı evine alır. Köylü kızı, şarkıcının bilmediği bir şekilde, üst kattaki söz yazarı adayına aşık olur; bu kişi köprüdeki askerden başkası değildir."
+  },
+  "poster": {
+    "tr": "/yh12rGA9Gw7uekplboU9wvwPDrD.jpg",
+    "en": "/7W31Qn0lWnMRjCs4AaCnHH7Ahqz.jpg"
+  },
+  "backdrops": [
+    "/xQu5CyXb7MyL7jjXhr8TtTj0wkO.jpg",
+    "/hERSKuPrT9cLdAObCxh2TJ5mEoB.jpg",
+    "/vltNytlk3dAAJUYXCQjfQyRDIjm.jpg",
+    "/46C4XVbt3IuaEYqx33wiyGeucI.jpg",
+    "/sgxAIukyTmvuIxNxt0WhKuxOuZq.jpg",
+    "/k6XLAb3l3UjaBPlhrPHpzsHO6Ms.jpg",
+    "/tx8zgJYj1GQqmzimIi6s5PCWGso.jpg",
+    "/cIydRAhYwNmOTRMKabjCFSYhvPc.jpg",
+    "/iR60kRFiSjCk9f5tmbNA2SmkSY6.jpg",
+    "/9jZPB3EPcON40AYLwZc59zosM2U.jpg"
+  ],
+  "trailerKey": "PUB8tQBrMug",
+  "genreIds": [
+    35,
+    10749
+  ],
+  "keywordIds": [
+    2682,
+    155457,
+    207883
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn",
+    "zh",
+    "fr"
+  ],
+  "studios": [
+    "Film Workshop"
+  ],
+  "crew": [
+    {
+      "personId": 26760,
+      "job": "director"
+    },
+    {
+      "personId": 224931,
+      "job": "writer"
+    },
+    {
+      "personId": 238409,
+      "job": "writer"
+    },
+    {
+      "personId": 127439,
+      "job": "writer"
+    },
+    {
+      "personId": 26760,
+      "job": "producer"
+    },
+    {
+      "personId": 56811,
+      "job": "composer"
+    },
+    {
+      "personId": 1092381,
+      "job": "composer"
+    },
+    {
+      "personId": 1554164,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 235189,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1590717,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 213438,
+      "character": "Tung Kwok-Man",
+      "order": 0
+    },
+    {
+      "personId": 26739,
+      "character": "Shu-Shu",
+      "order": 1
+    },
+    {
+      "personId": 67046,
+      "character": "Stool",
+      "order": 2
+    },
+    {
+      "personId": 1134504,
+      "character": "King Clown",
+      "order": 3
+    },
+    {
+      "personId": 1135177,
+      "character": "Stutterer",
+      "order": 4
+    },
+    {
+      "personId": 119447,
+      "character": "Gangster",
+      "order": 5
+    },
+    {
+      "personId": 21902,
+      "character": "Gangster",
+      "order": 6
+    },
+    {
+      "personId": 119449,
+      "character": "Bald Rich Man Being Kissed",
+      "order": 7
+    },
+    {
+      "personId": 102883,
+      "character": "Nightclub Manager",
+      "order": 8
+    },
+    {
+      "personId": 66011,
+      "character": "Big Boss",
+      "order": 9
+    },
+    {
+      "personId": 1587757,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1081493,
+      "character": "Chow Siu-sin",
+      "order": 11
+    },
+    {
+      "personId": 1087668,
+      "character": "Chairman Yu",
+      "order": 12
+    },
+    {
+      "personId": 1581084,
+      "character": "Beggar",
+      "order": 13
+    },
+    {
+      "personId": 1415791,
+      "character": "Policeman",
+      "order": 14
+    },
+    {
+      "personId": 1897912,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 2944049,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1092381,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 130389,
+      "character": "Mr. Ma",
+      "order": 18
+    },
+    {
+      "personId": 130561,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 41,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "tmdbId": 27053,
+  "slug": "daybreak-1939",
+  "year": 1939,
+  "runtime": 93,
+  "originalTitle": "Le jour se lève",
+  "title": {
+    "en": "Daybreak",
+    "tr": "Gün Ağarıyor"
+  },
+  "overview": {
+    "en": "After committing a murder, a man locks himself in his apartment and recollects the events that led him to the killing.",
+    "tr": "Paris’te bir apartmanda, iki adam arasında yaşanan şiddetli bir tartışmadan sonra, bir silah patlar. Kurban daireden çıkıp kısa bir süre sonra ölür. Saldırgan polise teslim olmayı reddeder. Etrafı sarılır. Gece boyunca, polisin kendisine saldırmasını beklerken, meydana gelen bu dramdan önceki olayları anımsar. Önce, genç ve güzel çiçekçi Françoise’la karşılaşması…Marcel Carné’nin savaş öncesinde çektiği son filmi Gün Ağarıyor, neredeyse geleceği gören bir kötümserliğe sahip bir yapıt. Her şeyin baştan inşa edildiği, hedeflenen heyecanı yaratmak üzere milim milim hesaplandığı stüdyo filmlerinin zirvesi. Aynı zamanda Fransız “şiirsel gerçekçiliği”nden büyük ölçüde etkilenen Amerikan film-noir’larında flash-back’in önemli bir yer tutacağını da haber veriyor."
+  },
+  "poster": {
+    "tr": "/cjbHvOHbZ2sMgHJM8P7L1Pt5wAV.jpg",
+    "en": "/pnyHLvLKl18py7OKCWHMs0FdYW7.jpg"
+  },
+  "backdrops": [
+    "/9gEEeK9hwkxS1fEtYEAohahAWxq.jpg",
+    "/qSueNn8ZTXlSdfJkA8YwQ65HUyG.jpg",
+    "/6m6PnYfNlZKiKjVedBWbDmwEtwf.jpg",
+    "/pT752B9PcXvdTOiun0gvCwMsqJb.jpg",
+    "/fJ7dLAA1GbZbmTkl3VcMnmeZ308.jpg",
+    "/hEAq63bcwladq5FkWiwJrYYtFYF.jpg",
+    "/mSuXAYYIO46MseJ8igrWTqdAGfE.jpg",
+    "/o0Wyh0mcNUxgXuP2ItbU9vu7O7m.jpg",
+    "/A5vTDX8yrwOUujmYlw8YJIUgmER.jpg",
+    "/boqjmjinadiMSd0OjsUdxubVJrp.jpg"
+  ],
+  "trailerKey": "6W4lacJZ2Z8",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    931,
+    9840,
+    9856,
+    9807,
+    9826,
+    155845,
+    161635,
+    180667
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Productions Sigma"
+  ],
+  "crew": [
+    {
+      "personId": 25161,
+      "job": "director"
+    },
+    {
+      "personId": 97253,
+      "job": "writer"
+    },
+    {
+      "personId": 14234,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 18479,
+      "job": "composer"
+    },
+    {
+      "personId": 65096,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 29548,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1901597,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 25162,
+      "job": "writer"
+    },
+    {
+      "personId": 1756246,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11544,
+      "character": "François",
+      "order": 0
+    },
+    {
+      "personId": 1522985,
+      "character": "Françoise",
+      "order": 1
+    },
+    {
+      "personId": 97251,
+      "character": "M. Valentin",
+      "order": 2
+    },
+    {
+      "personId": 25154,
+      "character": "Clara",
+      "order": 3
+    },
+    {
+      "personId": 97252,
+      "character": "La concierge",
+      "order": 4
+    },
+    {
+      "personId": 40969,
+      "character": "Le concierge",
+      "order": 5
+    },
+    {
+      "personId": 584287,
+      "character": "M. Gerbois",
+      "order": 6
+    },
+    {
+      "personId": 94943,
+      "character": "Le patron du café",
+      "order": 7
+    },
+    {
+      "personId": 24379,
+      "character": "Gaston",
+      "order": 8
+    },
+    {
+      "personId": 1373929,
+      "character": "La chanteuse",
+      "order": 9
+    },
+    {
+      "personId": 37147,
+      "character": "La vieille dame dans l'escalier",
+      "order": 10
+    },
+    {
+      "personId": 543623,
+      "character": "Le commissaire",
+      "order": 11
+    },
+    {
+      "personId": 72230,
+      "character": "Paulo",
+      "order": 12
+    },
+    {
+      "personId": 1460956,
+      "character": "Une locataire",
+      "order": 13
+    },
+    {
+      "personId": 145076,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 44106,
+      "character": "L'aveugle",
+      "order": 15
+    },
+    {
+      "personId": 1460957,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1460958,
+      "character": "Un agent",
+      "order": 17
+    },
+    {
+      "personId": 239632,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 140364,
+      "character": "Un agent",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 260,
+  "sources": [
+    "movement:french-poetic-realism"
+  ]
+}

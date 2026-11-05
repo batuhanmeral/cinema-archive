@@ -1,0 +1,213 @@
+{
+  "tmdbId": 8429,
+  "slug": "paisan-1946",
+  "year": 1946,
+  "runtime": 125,
+  "originalTitle": "Paisà",
+  "title": {
+    "en": "Paisan",
+    "tr": "Hemşehri"
+  },
+  "overview": {
+    "en": "Six stories unfold in various regions, from Sicily to the northern Po Valley as American military personnel interact with a variety of Italian locals over eighteen months in the push north during the Italian Campaign of WWII as German forces retreat.",
+    "tr": "II. Dünya Savaşı’ndan hemen sonra çekilmiş olan film, savaşta İtalya’da yaşananları anlatır. Film, yönetmenin savaş üçlemesinin ikincisidir ve aynı zamanda İtalyan Yeni Gerçekçilik akımında yer alır."
+  },
+  "poster": {
+    "tr": "/r5IGAFASCXmp8m51vUbER3WwVcB.jpg",
+    "en": "/r5IGAFASCXmp8m51vUbER3WwVcB.jpg"
+  },
+  "backdrops": [
+    "/zNjp6eolIcpGx11tDbE5eekeHEG.jpg",
+    "/ss5kJkUUfA5ioGZmUzuNDiRcbsH.jpg",
+    "/opIIAqSTnSyg8Bz3XZ7zOl7Kr2M.jpg",
+    "/7dkfOpEzvcnqnCNE5MFN70x74z3.jpg",
+    "/7AoTfCtJ8HmsVgzUcoK1c4zTBJq.jpg",
+    "/kJcOYZWyY9WnLhocWQFa6yNyRD2.jpg",
+    "/7yFz1sl0XgWr9hA6oabIlj2dpfe.jpg",
+    "/otglQSlq2u3f8SjIW5sHlyVRkl4.jpg",
+    "/qywkcFrGDQTX4RqVcpnLGnduaK2.jpg",
+    "/h6aIgNyP38cAgl2YjXZY8yX6v8H.jpg"
+  ],
+  "trailerKey": "JM_KpDmdF98",
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    588,
+    629,
+    1956,
+    4648,
+    8032
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it",
+    "de",
+    "la",
+    "en"
+  ],
+  "studios": [
+    "Organizzazione Film Internazionali (OFI)",
+    "Foreign Film Productions"
+  ],
+  "crew": [
+    {
+      "personId": 4410,
+      "job": "director"
+    },
+    {
+      "personId": 4410,
+      "job": "writer"
+    },
+    {
+      "personId": 4413,
+      "job": "writer"
+    },
+    {
+      "personId": 4415,
+      "job": "writer"
+    },
+    {
+      "personId": 4416,
+      "job": "composer"
+    },
+    {
+      "personId": 5399,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4410,
+      "job": "producer"
+    },
+    {
+      "personId": 240294,
+      "job": "writer"
+    },
+    {
+      "personId": 70915,
+      "job": "writer"
+    },
+    {
+      "personId": 54928,
+      "job": "writer"
+    },
+    {
+      "personId": 54928,
+      "job": "producer"
+    },
+    {
+      "personId": 54927,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 54929,
+      "character": "Carmela",
+      "order": 0
+    },
+    {
+      "personId": 54930,
+      "character": "Joe",
+      "order": 1
+    },
+    {
+      "personId": 54931,
+      "character": "American Soldier",
+      "order": 2
+    },
+    {
+      "personId": 54932,
+      "character": "American Soldier",
+      "order": 3
+    },
+    {
+      "personId": 54933,
+      "character": "Harry, a German soldier",
+      "order": 4
+    },
+    {
+      "personId": 54934,
+      "character": "German soldier",
+      "order": 5
+    },
+    {
+      "personId": 54935,
+      "character": "Merlin, American Soldier",
+      "order": 6
+    },
+    {
+      "personId": 54936,
+      "character": "Swede, an American soldier",
+      "order": 7
+    },
+    {
+      "personId": 54937,
+      "character": "An American soldier",
+      "order": 8
+    },
+    {
+      "personId": 54938,
+      "character": "American MP",
+      "order": 9
+    },
+    {
+      "personId": 54939,
+      "character": "Pasquale",
+      "order": 10
+    },
+    {
+      "personId": 4426,
+      "character": "Francesca",
+      "order": 11
+    },
+    {
+      "personId": 54940,
+      "character": "Fred, an American soldier",
+      "order": 12
+    },
+    {
+      "personId": 54941,
+      "character": "Harriet, the nurse",
+      "order": 13
+    },
+    {
+      "personId": 54942,
+      "character": "Massimo",
+      "order": 14
+    },
+    {
+      "personId": 2576,
+      "character": "Captain Bill Martin",
+      "order": 15
+    },
+    {
+      "personId": 54943,
+      "character": "Dale",
+      "order": 16
+    },
+    {
+      "personId": 54944,
+      "character": "German soldier",
+      "order": 17
+    },
+    {
+      "personId": 27842,
+      "character": "Tony",
+      "order": 18
+    },
+    {
+      "personId": 5402,
+      "character": "Young Woman on Palace Stairs (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 367,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

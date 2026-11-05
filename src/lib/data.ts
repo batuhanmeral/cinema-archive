@@ -5,24 +5,33 @@ import { z } from 'zod'
 import {
   SLUG_PATTERN,
   awardGroupsFileSchema,
+  collectionsFileSchema,
   filmSchema,
   genresFileSchema,
+  movementsFileSchema,
   peopleFileSchema,
   themesFileSchema,
   type AwardGroup,
+  type Collection,
   type Film,
   type Genre,
+  type Movement,
   type Person,
   type Theme,
 } from '@/data/schemas'
+import { buildMembership, type Membership } from './membership'
 
 export type DataStore = {
   films(): Film[]
   filmBySlug(slug: string): Film | undefined
+  filmById(id: number): Film | undefined
   people(): Map<number, Person>
   genres(): Map<number, Genre>
   themes(): Map<number, Theme>
   awardGroups(): AwardGroup[]
+  movements(): Movement[]
+  collections(): Collection[]
+  membership(): Membership
 }
 
 function readJsonFile<T>(path: string, schema: z.ZodType<T>): T {
@@ -64,20 +73,30 @@ export function createDataStore(dirs: { dataDir: string; contentDir: string }): 
     return film
   }
 
+  const films = once(() =>
+    readdirSync(filmsDir)
+      .filter((name) => name.endsWith(JSON_EXTENSION))
+      .map((name) => name.slice(0, -JSON_EXTENSION.length))
+      .sort()
+      .map(readFilm),
+  )
+  const filmsById = once(() => indexBy(films(), (film) => film.tmdbId))
+  const movements = once(() =>
+    readJsonFile(join(dirs.dataDir, 'movements.json'), movementsFileSchema),
+  )
+  const collections = once(() =>
+    readJsonFile(join(dirs.dataDir, 'collections.json'), collectionsFileSchema),
+  )
+
   return {
     // Dosya adı slug olduğundan sıralama okumadan önce yapılır.
-    films: once(() =>
-      readdirSync(filmsDir)
-        .filter((name) => name.endsWith(JSON_EXTENSION))
-        .map((name) => name.slice(0, -JSON_EXTENSION.length))
-        .sort()
-        .map(readFilm),
-    ),
+    films,
     filmBySlug(slug) {
       // Desen kontrolü, slug'ın dosya yolu olarak dizin dışına çıkmasını engeller.
       if (!SLUG_PATTERN.test(slug) || !existsSync(filmPath(slug))) return undefined
       return readFilm(slug)
     },
+    filmById: (id) => filmsById().get(id),
     people: once(() =>
       indexBy(readJsonFile(join(dirs.dataDir, 'people.json'), peopleFileSchema), (p) => p.tmdbId),
     ),
@@ -93,6 +112,9 @@ export function createDataStore(dirs: { dataDir: string; contentDir: string }): 
     awardGroups: once(() =>
       readJsonFile(join(dirs.contentDir, 'awards.json'), awardGroupsFileSchema),
     ),
+    movements,
+    collections,
+    membership: once(() => buildMembership(movements(), collections())),
   }
 }
 

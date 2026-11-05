@@ -1,0 +1,124 @@
+{
+  "tmdbId": 272045,
+  "slug": "the-wedding-1973",
+  "year": 1973,
+  "runtime": 84,
+  "originalTitle": "Düğün",
+  "title": {
+    "en": "The Wedding",
+    "tr": "Düğün"
+  },
+  "overview": {
+    "en": "A family migrates to Istanbul from the rural parts of Anatolia, and they bring their traditions with them. The men of the family are giving away the girls of the family in return for a hefty bride-price. Zelha, one of the girls, revolts against this attitude and tries to save her sisters.",
+    "tr": "Urfa'dan İstanbul'a göçen altı kişilik bir ailenin büyük kentte tutunabilmek için verdikleri ekonomik savaşın öyküsü."
+  },
+  "poster": {
+    "tr": "/obmPLAUsap0EFAfEB17wO2wWeuL.jpg",
+    "en": "/bwPA7ijDrYcjyuRsKbHu5TsYA6C.jpg"
+  },
+  "backdrops": [
+    "/mUrrHn96yBN4yr1woNVr6WMIBR1.jpg",
+    "/jKzCBliXGTRXkkEvMzS5GDxOq2W.jpg",
+    "/ppe9a5Fx3goeVaRcKtzpq8U9IhT.jpg",
+    "/xCssmcCFQaerl5gx25UAvBXtlRP.jpg",
+    "/30OdWfvMSRD1bZXISIMZjMPQdU9.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [
+    "Erman Film"
+  ],
+  "crew": [
+    {
+      "personId": 1007638,
+      "job": "director"
+    },
+    {
+      "personId": 1007638,
+      "job": "writer"
+    },
+    {
+      "personId": 550380,
+      "job": "producer"
+    },
+    {
+      "personId": 550380,
+      "job": "composer"
+    },
+    {
+      "personId": 1323364,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 228611,
+      "character": "Zelha",
+      "order": 0
+    },
+    {
+      "personId": 556907,
+      "character": "Ferhat",
+      "order": 1
+    },
+    {
+      "personId": 1136675,
+      "character": "Halil",
+      "order": 2
+    },
+    {
+      "personId": 146984,
+      "character": "Ibrahim",
+      "order": 3
+    },
+    {
+      "personId": 112515,
+      "character": "Zeki'nin Arkadaşı",
+      "order": 4
+    },
+    {
+      "personId": 1078374,
+      "character": "Raşit",
+      "order": 5
+    },
+    {
+      "personId": 1325421,
+      "character": "Dayı",
+      "order": 6
+    },
+    {
+      "personId": 1595983,
+      "character": "Bekir",
+      "order": 7
+    },
+    {
+      "personId": 584556,
+      "character": "Cabbar",
+      "order": 8
+    },
+    {
+      "personId": 1319997,
+      "character": "Cemile'nin Kocası",
+      "order": 9
+    },
+    {
+      "personId": 1202136,
+      "character": "Hülya Koçyiğit (voice)",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 31,
+  "sources": [
+    "yesilcam"
+  ]
+}

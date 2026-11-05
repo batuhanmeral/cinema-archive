@@ -1,0 +1,82 @@
+{
+  "tmdbId": 124414,
+  "slug": "pictures-of-the-old-world-1972",
+  "year": 1972,
+  "runtime": 64,
+  "originalTitle": "Obrazy starého sveta",
+  "title": {
+    "en": "Pictures of the Old World",
+    "tr": "Obrazy starého sveta"
+  },
+  "overview": {
+    "en": "A raw and telling portrait of a people left behind by the modern world, inspired by the work of photographer Martin Martinček - whose pictures of the inhabitants of the Liptov region in central Slovakia, encompassed by the Tatra mountains, distilled entire lifetimes into luminous and intransient images. Dušan Hanák's continuation of these photographs takes the shape of a poetic visual essay, capturing more comprehensive vignettes of their isolated human experiences.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/pGDQSKebiD9QEzypQwhNFsMGvid.jpg",
+    "en": "/pGDQSKebiD9QEzypQwhNFsMGvid.jpg"
+  },
+  "backdrops": [
+    "/aEWucQ8q47ovStDV5tCXs2HdQNu.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    1587,
+    2875,
+    10938,
+    161316,
+    177146,
+    204134,
+    215195,
+    240847,
+    290672,
+    299723,
+    303422,
+    313080,
+    316441,
+    320264
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "sk"
+  ],
+  "studios": [
+    "Slovenská filmová tvorba",
+    "Slovenský film Bratislava"
+  ],
+  "crew": [
+    {
+      "personId": 135449,
+      "job": "director"
+    },
+    {
+      "personId": 3374542,
+      "job": "composer"
+    },
+    {
+      "personId": 1831981,
+      "job": "composer"
+    },
+    {
+      "personId": 135449,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 548093,
+      "character": "Narrator",
+      "order": 0
+    }
+  ],
+  "awards": {},
+  "voteCount": 29,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

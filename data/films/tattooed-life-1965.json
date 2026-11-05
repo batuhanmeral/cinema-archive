@@ -1,0 +1,177 @@
+{
+  "tmdbId": 88435,
+  "slug": "tattooed-life-1965",
+  "year": 1965,
+  "runtime": 87,
+  "originalTitle": "刺青一代",
+  "title": {
+    "en": "Tattooed Life",
+    "tr": "Tattooed Life"
+  },
+  "overview": {
+    "en": "After his own gang sets him up to kill a rival mobster, a hit man is forced to flee with his younger brother.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yhJ6fISn8H7NVxEBANb8RKdWhd2.jpg",
+    "en": "/yhJ6fISn8H7NVxEBANb8RKdWhd2.jpg"
+  },
+  "backdrops": [
+    "/6XzyOYXu5flHzOgCBHcfPY2DLEG.jpg",
+    "/hKGJcz97idWBx4tUEDAoXRa46k.jpg",
+    "/cmAQVeIyLzDam9u2hfQjrzjMXhd.jpg"
+  ],
+  "trailerKey": "EYV06jT4QiM",
+  "genreIds": [
+    80,
+    18,
+    53
+  ],
+  "keywordIds": [
+    1794,
+    209998,
+    317094
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Nikkatsu Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 82461,
+      "job": "director"
+    },
+    {
+      "personId": 1086512,
+      "job": "producer"
+    },
+    {
+      "personId": 1093053,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1093071,
+      "job": "composer"
+    },
+    {
+      "personId": 150383,
+      "job": "writer"
+    },
+    {
+      "personId": 1171061,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 390407,
+      "character": "Murakami Tetsutaro",
+      "order": 0
+    },
+    {
+      "personId": 1335593,
+      "character": "Kinoshita Midori",
+      "order": 1
+    },
+    {
+      "personId": 142471,
+      "character": "Kinoshita Yuzo",
+      "order": 2
+    },
+    {
+      "personId": 945324,
+      "character": "Ezaki Osamu",
+      "order": 3
+    },
+    {
+      "personId": 1118759,
+      "character": "Murakami Kenji",
+      "order": 4
+    },
+    {
+      "personId": 555339,
+      "character": "Kinoshita Masayo",
+      "order": 5
+    },
+    {
+      "personId": 142463,
+      "character": "Oyuki",
+      "order": 6
+    },
+    {
+      "personId": 133603,
+      "character": "Yamano Senkichi",
+      "order": 7
+    },
+    {
+      "personId": 548041,
+      "character": "Tsuneyoshi",
+      "order": 8
+    },
+    {
+      "personId": 110306,
+      "character": "Tokuhira",
+      "order": 9
+    },
+    {
+      "personId": 1191877,
+      "character": "Seikou",
+      "order": 10
+    },
+    {
+      "personId": 1309327,
+      "character": "Kurosawa",
+      "order": 11
+    },
+    {
+      "personId": 1310247,
+      "character": "Asakichi",
+      "order": 12
+    },
+    {
+      "personId": 133714,
+      "character": "Masayoshi",
+      "order": 13
+    },
+    {
+      "personId": 1093070,
+      "character": "Patrolman Oikawa",
+      "order": 14
+    },
+    {
+      "personId": 1997470,
+      "character": "Zensuke",
+      "order": 15
+    },
+    {
+      "personId": 1100375,
+      "character": "Totsuka Iwamatsu",
+      "order": 16
+    },
+    {
+      "personId": 1191614,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 66614,
+      "character": "Masakichi",
+      "order": 18
+    },
+    {
+      "personId": 2000198,
+      "character": "Tsurumatsu",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 24,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

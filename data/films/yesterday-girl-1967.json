@@ -1,0 +1,171 @@
+{
+  "tmdbId": 89785,
+  "slug": "yesterday-girl-1967",
+  "year": 1967,
+  "runtime": 88,
+  "originalTitle": "Abschied von gestern",
+  "title": {
+    "en": "Yesterday Girl",
+    "tr": "Abschied von gestern"
+  },
+  "overview": {
+    "en": "A young German woman searches for happiness, liberation, and independence in the illusive wake of a transformative national recovery.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/jNZE31JyFxGWbjgQ3ThAsFtGgfW.jpg",
+    "en": "/jNZE31JyFxGWbjgQ3ThAsFtGgfW.jpg"
+  },
+  "backdrops": [
+    "/gKNYytFLuh1uiLFxguojAfPoPgf.jpg",
+    "/gVeB0s7OOEQY0yhxwC8AFOfjEFe.jpg",
+    "/qxNwbEDMda6weLkerLHIxPZmhqC.jpg",
+    "/xErrbrW0RkhnjnH7kFCNshwnqyn.jpg",
+    "/cpi0WITSxBIPaAzqtXV7TJgWquN.jpg",
+    "/xst5Sv3Y49aKkOjVxRhX0l1XUUN.jpg",
+    "/hQAhfFfVDdja6U06oLnsXOQGEY3.jpg",
+    "/cwgS6JXNmAjma7n75p3NeHmxfzJ.jpg",
+    "/ArjH7KMdnUTJ8YEKfddWokv5lb7.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    209966
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Kairos-Film"
+  ],
+  "crew": [
+    {
+      "personId": 50870,
+      "job": "director"
+    },
+    {
+      "personId": 50870,
+      "job": "writer"
+    },
+    {
+      "personId": 50870,
+      "job": "producer"
+    },
+    {
+      "personId": 72908,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1041578,
+      "character": "Anita",
+      "order": 0
+    },
+    {
+      "personId": 26418,
+      "character": "Pichota",
+      "order": 1
+    },
+    {
+      "personId": 26247,
+      "character": "Mrs. Pichota",
+      "order": 2
+    },
+    {
+      "personId": 38107,
+      "character": "Judge",
+      "order": 3
+    },
+    {
+      "personId": 1180720,
+      "character": "Mother",
+      "order": 4
+    },
+    {
+      "personId": 1542516,
+      "character": "Parole Board Officer",
+      "order": 5
+    },
+    {
+      "personId": 49981,
+      "character": "Skydiver",
+      "order": 6
+    },
+    {
+      "personId": 1542519,
+      "character": "Record Company Owner",
+      "order": 7
+    },
+    {
+      "personId": 1542520,
+      "character": "Record Company Owner's Wife",
+      "order": 8
+    },
+    {
+      "personId": 1542522,
+      "character": "Professor",
+      "order": 9
+    },
+    {
+      "personId": 50981,
+      "character": "A Man",
+      "order": 10
+    },
+    {
+      "personId": 1898553,
+      "character": "Attorney General (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 6582629,
+      "character": "Welfare Worker in Jail (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 6582632,
+      "character": "Commissionaire (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 6582635,
+      "character": "Dog Trainer (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1013897,
+      "character": "Assistant at the University (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 1542517,
+      "character": "Mrs. Budeck",
+      "order": 16
+    },
+    {
+      "personId": 6582638,
+      "character": "Chief of the Hotel (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 50870,
+      "character": "Narrator (voice) (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 6582644,
+      "character": "Jailhouse Nurse (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 30,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

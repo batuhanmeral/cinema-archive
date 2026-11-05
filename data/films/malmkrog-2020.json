@@ -1,0 +1,150 @@
+{
+  "tmdbId": 575448,
+  "slug": "malmkrog-2020",
+  "year": 2020,
+  "runtime": 201,
+  "originalTitle": "Malmkrog",
+  "title": {
+    "en": "Malmkrog",
+    "tr": "Malmkrog"
+  },
+  "overview": {
+    "en": "Among the guests who come to the mansion of aristocratic landowner Nikolai over Christmas are a politician, a young countess, and a general with his wife. They dine and discuss topics such as progress and morality. As the debate becomes more heated, cultural differences become increasingly apparent.",
+    "tr": "Noel için Transilvanya’da, soylu Nikolay’ın malikânesindeki davete katılanlar arasında pek çok siyasetçi, genç bir kontes, bir general ve eşi de yer almaktadır. Akşam yemeği boyunca masada ahlak ve kalkınma gibi büyük meseleler tartışılır. Tartışma alevlendikçe, kültürel farklılıklar belirginleşir."
+  },
+  "poster": {
+    "tr": "/3a18dQrXHzippSG9MsXVgoHBp8Q.jpg",
+    "en": "/3a18dQrXHzippSG9MsXVgoHBp8Q.jpg"
+  },
+  "backdrops": [
+    "/6nWLa3rmBhACSP3I0XQXpq9ibjf.jpg",
+    "/mm9jmIbnkRNNSJp6CcncYx7gZ4w.jpg",
+    "/AhOMNpobrLXuK1ke97Q1hgtXnLz.jpg",
+    "/wryyFvPNlaMNZEmAQuyPyGQiir4.jpg"
+  ],
+  "trailerKey": "bD014gW4pJo",
+  "genreIds": [
+    36,
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "BA",
+    "MK",
+    "RO",
+    "RS",
+    "SE",
+    "CH"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de",
+    "hu",
+    "ru"
+  ],
+  "studios": [
+    "SENSE Production",
+    "Mandragora",
+    "Cinnamon Films"
+  ],
+  "crew": [
+    {
+      "personId": 107533,
+      "job": "director"
+    },
+    {
+      "personId": 1326662,
+      "job": "producer"
+    },
+    {
+      "personId": 107533,
+      "job": "writer"
+    },
+    {
+      "personId": 1554308,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2409965,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2513776,
+      "character": "Madeleine",
+      "order": 0
+    },
+    {
+      "personId": 1199249,
+      "character": "Edouard",
+      "order": 1
+    },
+    {
+      "personId": 2449666,
+      "character": "Olga",
+      "order": 2
+    },
+    {
+      "personId": 2229565,
+      "character": "Nikolai",
+      "order": 3
+    },
+    {
+      "personId": 1199257,
+      "character": "Ingrida",
+      "order": 4
+    },
+    {
+      "personId": 1836010,
+      "character": "István",
+      "order": 5
+    },
+    {
+      "personId": 2521281,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 1861645,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1672168,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 2521286,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1586597,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 2521287,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1617045,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 2521288,
+      "character": "",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 41,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

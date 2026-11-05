@@ -1,0 +1,105 @@
+{
+  "tmdbId": 116705,
+  "slug": "the-bread-of-those-early-years-1962",
+  "year": 1962,
+  "runtime": 84,
+  "originalTitle": "Das Brot der frühen Jahre",
+  "title": {
+    "en": "The Bread of Those Early Years",
+    "tr": "Das Brot der frühen Jahre"
+  },
+  "overview": {
+    "en": "A young electrical engineer, engaged to his boss's daughter and on the way to a secure existence, breaks out of his usual life when he meets a childhood friend.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/7FzG35nqwptYsUMF2BXbL034zLX.jpg",
+    "en": "/7FzG35nqwptYsUMF2BXbL034zLX.jpg"
+  },
+  "backdrops": [
+    "/r3SJOi2GqZ68vS4ecdCKKxXEQQa.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    10749,
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Modern Art Film"
+  ],
+  "crew": [
+    {
+      "personId": 134462,
+      "job": "director"
+    },
+    {
+      "personId": 134462,
+      "job": "writer"
+    },
+    {
+      "personId": 1064397,
+      "job": "writer"
+    },
+    {
+      "personId": 1064398,
+      "job": "producer"
+    },
+    {
+      "personId": 1064404,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1397468,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 32934,
+      "character": "Walter Fendrich",
+      "order": 0
+    },
+    {
+      "personId": 35589,
+      "character": "Gertrud",
+      "order": 1
+    },
+    {
+      "personId": 51406,
+      "character": "Ulla Wickwebe",
+      "order": 2
+    },
+    {
+      "personId": 1064401,
+      "character": "Frau Brotig",
+      "order": 3
+    },
+    {
+      "personId": 1064402,
+      "character": "Wolf Wickwebe",
+      "order": 4
+    },
+    {
+      "personId": 18544,
+      "character": "Vater Fendrich",
+      "order": 5
+    },
+    {
+      "personId": 1323361,
+      "character": "Erzähler",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 4,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

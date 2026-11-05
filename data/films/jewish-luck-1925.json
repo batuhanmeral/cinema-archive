@@ -1,0 +1,103 @@
+{
+  "tmdbId": 184508,
+  "slug": "jewish-luck-1925",
+  "year": 1925,
+  "runtime": 100,
+  "originalTitle": "Еврейское счастье",
+  "title": {
+    "en": "Jewish Luck",
+    "tr": "Jewish Luck"
+  },
+  "overview": {
+    "en": "The story of a Jewish entrepreneur ins Tsarist Russia always look for a get rich quick scheme.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/fkYWzrGrlj8cjMaaSrIyOeLOHNe.jpg",
+    "en": "/fkYWzrGrlj8cjMaaSrIyOeLOHNe.jpg"
+  },
+  "backdrops": [
+    "/tWYPCRWsIWwTMdDB4vH9eyg4gcD.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    10749,
+    35
+  ],
+  "keywordIds": [
+    154802
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Sovkino"
+  ],
+  "crew": [
+    {
+      "personId": 1038604,
+      "job": "writer"
+    },
+    {
+      "personId": 1167537,
+      "job": "director"
+    },
+    {
+      "personId": 1270911,
+      "job": "writer"
+    },
+    {
+      "personId": 1372100,
+      "job": "writer"
+    },
+    {
+      "personId": 1372101,
+      "job": "writer"
+    },
+    {
+      "personId": 1372102,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1901360,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9606,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 935440,
+      "character": "Menachim Mendel",
+      "order": 0
+    },
+    {
+      "personId": 1372098,
+      "character": "Zalman",
+      "order": 1
+    },
+    {
+      "personId": 1372099,
+      "character": "Belya Kimbach",
+      "order": 2
+    },
+    {
+      "personId": 5693264,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 2125223,
+      "character": "Passenger",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

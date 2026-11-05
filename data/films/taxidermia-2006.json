@@ -1,0 +1,231 @@
+{
+  "tmdbId": 15742,
+  "slug": "taxidermia-2006",
+  "year": 2006,
+  "runtime": 94,
+  "originalTitle": "Taxidermia",
+  "title": {
+    "en": "Taxidermia",
+    "tr": "Tahnit"
+  },
+  "overview": {
+    "en": "Three stories. Three ages. Three men. Grandfather, father, son. One is an orderly, one is a leading sportsman, and one is a master taxidermist. One desires love, the other success, and the third immortality.",
+    "tr": "Bir aileden üç kuşak erkek üyenin gizli yaşamlarına odaklanıyoruz. Her birinin bedensel ve ruhsal zaafları vardır.\r Hıçkırık’la tanınan ünlü yönetmenin, başta Cannes olmak üzere pek çok festivalde hayranlık ve şaşkınlıkla karşılanan ve bol ödül toplayan çalışması."
+  },
+  "poster": {
+    "tr": "/uRqxKim0Vr1JZPLYcR1rjFtu74p.jpg",
+    "en": "/uRqxKim0Vr1JZPLYcR1rjFtu74p.jpg"
+  },
+  "backdrops": [
+    "/sZuuEKmEdd9Emn6QIW4WiHrRjSk.jpg",
+    "/iagFTj7kfQ20gAK4vaItMyMaoU0.jpg",
+    "/toxY9NBkkbHgJCqxJxJPdpvMfXJ.jpg",
+    "/xaGOuGfrPQBMXYsxrsAXK22ywtA.jpg"
+  ],
+  "trailerKey": "xeQqwG3D0l4",
+  "genreIds": [
+    18,
+    27,
+    35
+  ],
+  "keywordIds": [
+    236,
+    2106,
+    1956,
+    10123,
+    3260,
+    8201,
+    9719,
+    11181,
+    9974,
+    11276,
+    11860,
+    33451,
+    156391,
+    163699,
+    175681,
+    178649,
+    181317,
+    190287,
+    201028,
+    209673,
+    240119,
+    259376,
+    281237,
+    283085,
+    293336,
+    295420,
+    297139,
+    325765,
+    325842,
+    342858,
+    344603,
+    352581,
+    362912
+  ],
+  "countries": [
+    "HU",
+    "FR",
+    "AT"
+  ],
+  "languages": [
+    "en",
+    "ru",
+    "hu"
+  ],
+  "studios": [
+    "Eurofilm Stúdió",
+    "Amour Fou Filmproduktion",
+    "Memento Production"
+  ],
+  "crew": [
+    {
+      "personId": 81078,
+      "job": "writer"
+    },
+    {
+      "personId": 564793,
+      "job": "producer"
+    },
+    {
+      "personId": 932257,
+      "job": "writer"
+    },
+    {
+      "personId": 1196264,
+      "job": "producer"
+    },
+    {
+      "personId": 81078,
+      "job": "director"
+    },
+    {
+      "personId": 564794,
+      "job": "producer"
+    },
+    {
+      "personId": 1130879,
+      "job": "composer"
+    },
+    {
+      "personId": 556736,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10877,
+      "job": "producer"
+    },
+    {
+      "personId": 1196265,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1348127,
+      "character": "Vendel Morosgoványi",
+      "order": 0
+    },
+    {
+      "personId": 2294245,
+      "character": "Kálmán Balatony",
+      "order": 1
+    },
+    {
+      "personId": 1194754,
+      "character": "Lajos Balatony",
+      "order": 2
+    },
+    {
+      "personId": 1515629,
+      "character": "Young lieutenant",
+      "order": 3
+    },
+    {
+      "personId": 125382,
+      "character": "Lieutenant's wife",
+      "order": 4
+    },
+    {
+      "personId": 125401,
+      "character": "Old Kálmán Balatony",
+      "order": 5
+    },
+    {
+      "personId": 1390714,
+      "character": "Dr. Andor Regőczy",
+      "order": 6
+    },
+    {
+      "personId": 183168,
+      "character": "Uncle Jenõ",
+      "order": 7
+    },
+    {
+      "personId": 3775677,
+      "character": "Béla Miszlényi",
+      "order": 8
+    },
+    {
+      "personId": 3775678,
+      "character": "Gizi Aczél",
+      "order": 9
+    },
+    {
+      "personId": 932258,
+      "character": "Bába",
+      "order": 10
+    },
+    {
+      "personId": 932259,
+      "character": "Segéd",
+      "order": 11
+    },
+    {
+      "personId": 932260,
+      "character": "Böllér",
+      "order": 12
+    },
+    {
+      "personId": 1435034,
+      "character": "Ferike",
+      "order": 13
+    },
+    {
+      "personId": 1573782,
+      "character": "Dancer",
+      "order": 14
+    },
+    {
+      "personId": 3970,
+      "character": "Krisztián",
+      "order": 15
+    },
+    {
+      "personId": 992809,
+      "character": "Portásnő",
+      "order": 16
+    },
+    {
+      "personId": 993511,
+      "character": "Éles",
+      "order": 17
+    },
+    {
+      "personId": 89644,
+      "character": "Szvigadurin",
+      "order": 18
+    },
+    {
+      "personId": 1470035,
+      "character": "Doctor",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 368,
+  "sources": [
+    "movement:surrealist-cinema",
+    "movement:new-french-extremity"
+  ]
+}

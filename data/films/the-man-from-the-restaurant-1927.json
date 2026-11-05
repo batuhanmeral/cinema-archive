@@ -1,0 +1,122 @@
+{
+  "tmdbId": 189699,
+  "slug": "the-man-from-the-restaurant-1927",
+  "year": 1927,
+  "runtime": 68,
+  "originalTitle": "Человек из ресторана",
+  "title": {
+    "en": "The Man from the Restaurant",
+    "tr": "The Man from the Restaurant"
+  },
+  "overview": {
+    "en": "During the good old days of the Russian aristocracy, that is to say, before the October Revolution, in the city of Moscow there was a fancy restaurant which catered to the appetites and egos of the rich. In one such establishment works a middle-aged waiter who is devoted to serving his bourgeoisie clients correctly. However, his life outside his job is very different: His son was killed during the Russian civil war and the waiter's wife died of grief as a result....",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yYIkvYDXQJ2PipOcD01IfbdIkYl.jpg",
+    "en": "/yYIkvYDXQJ2PipOcD01IfbdIkYl.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    154802
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Mezhrabpomfilm"
+  ],
+  "crew": [
+    {
+      "personId": 1085341,
+      "job": "director"
+    },
+    {
+      "personId": 144825,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3259765,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1189513,
+      "job": "writer"
+    },
+    {
+      "personId": 1085341,
+      "job": "writer"
+    },
+    {
+      "personId": 4991941,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 35193,
+      "character": "Skorohodov - The Waiter",
+      "order": 0
+    },
+    {
+      "personId": 1705336,
+      "character": "Natasha",
+      "order": 1
+    },
+    {
+      "personId": 29144,
+      "character": "Sokolin",
+      "order": 2
+    },
+    {
+      "personId": 1272203,
+      "character": "The Minister",
+      "order": 3
+    },
+    {
+      "personId": 144841,
+      "character": "Waiter",
+      "order": 4
+    },
+    {
+      "personId": 1085341,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1344042,
+      "character": "Karayesv /The Manufacturer",
+      "order": 6
+    },
+    {
+      "personId": 1368414,
+      "character": "Shtoss - The Manager",
+      "order": 7
+    },
+    {
+      "personId": 1329891,
+      "character": "General",
+      "order": 8
+    },
+    {
+      "personId": 5512598,
+      "character": "Skorokhodov's wife",
+      "order": 9
+    },
+    {
+      "personId": 1270903,
+      "character": "Regular guest of the restaurant",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

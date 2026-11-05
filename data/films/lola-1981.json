@@ -1,0 +1,215 @@
+{
+  "tmdbId": 2264,
+  "slug": "lola-1981",
+  "year": 1981,
+  "runtime": 113,
+  "originalTitle": "Lola",
+  "title": {
+    "en": "Lola",
+    "tr": "Lola"
+  },
+  "overview": {
+    "en": "Germany in the autumn of 1957: Lola, a seductive cabaret singer-prostitute exults in her power as a temptress of men, but she wants out—she wants money, property, and love. Pitting a corrupt building contractor against the new straight-arrow building commissioner, Lola launches an outrageous plan to elevate herself in a world where everything, and everyone, is for sale. Shot in childlike candy colors, Fassbinder’s homage to Josef von Sternberg’s classic The Blue Angel stands as a satiric tribute to capitalism.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rZqgDP5kRqh2eaPj5uLzYEbWz40.jpg",
+    "en": "/rZqgDP5kRqh2eaPj5uLzYEbWz40.jpg"
+  },
+  "backdrops": [
+    "/bJd8rcyl6hAt6nDbEFhrxKlBrNJ.jpg",
+    "/owbxFV2GHStI216lms5FQGOjM4I.jpg",
+    "/uWZyCqlsUw4lTCddYUgEKjRZPxT.jpg",
+    "/3RbS2JdlyHzOEB2mqkCVWFeyJgd.jpg",
+    "/imUUSFsg6ohReXLzpOwVNxEVog0.jpg",
+    "/ygjtp9fOtS4UN1zghhf9jukx7mG.jpg",
+    "/xXn6Bga5tpkXlpDhDXM69vkPp5q.jpg",
+    "/6BSGpqlQn31uEjHBtjBal1NYSir.jpg",
+    "/hrh0NsegcfyD5ECfcxcVSeT9iUI.jpg",
+    "/36tdKqSpkvlxYoJkPuyej7R3pPt.jpg"
+  ],
+  "trailerKey": "A9VRpSgcis8",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    417,
+    818,
+    459,
+    592,
+    2279,
+    6461,
+    9016,
+    11241,
+    11869,
+    13059,
+    162831,
+    162832,
+    185526,
+    209406,
+    209889,
+    222063,
+    287622,
+    302130,
+    353814,
+    354506
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "la",
+    "de",
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Rialto Film",
+    "Trio Film"
+  ],
+  "crew": [
+    {
+      "personId": 2725,
+      "job": "director"
+    },
+    {
+      "personId": 2725,
+      "job": "writer"
+    },
+    {
+      "personId": 9933,
+      "job": "writer"
+    },
+    {
+      "personId": 9934,
+      "job": "writer"
+    },
+    {
+      "personId": 18504,
+      "job": "producer"
+    },
+    {
+      "personId": 23371,
+      "job": "composer"
+    },
+    {
+      "personId": 3767,
+      "job": "composer"
+    },
+    {
+      "personId": 3768,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1023152,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 23378,
+      "character": "Lola",
+      "order": 0
+    },
+    {
+      "personId": 12647,
+      "character": "von Bohm",
+      "order": 1
+    },
+    {
+      "personId": 10254,
+      "character": "Schuckert",
+      "order": 2
+    },
+    {
+      "personId": 23379,
+      "character": "Esslin",
+      "order": 3
+    },
+    {
+      "personId": 23380,
+      "character": "Fräulein Hettich",
+      "order": 4
+    },
+    {
+      "personId": 18545,
+      "character": "Lola's Mother",
+      "order": 5
+    },
+    {
+      "personId": 9928,
+      "character": "Wittich",
+      "order": 6
+    },
+    {
+      "personId": 23345,
+      "character": "Gigi",
+      "order": 7
+    },
+    {
+      "personId": 1865,
+      "character": "Volker",
+      "order": 8
+    },
+    {
+      "personId": 3755,
+      "character": "Timmerding",
+      "order": 9
+    },
+    {
+      "personId": 23340,
+      "character": "Frau Schuckert",
+      "order": 10
+    },
+    {
+      "personId": 49263,
+      "character": "Frau Fink",
+      "order": 11
+    },
+    {
+      "personId": 3762,
+      "character": "Susi",
+      "order": 12
+    },
+    {
+      "personId": 233534,
+      "character": "Rosa",
+      "order": 13
+    },
+    {
+      "personId": 32863,
+      "character": "GI",
+      "order": 14
+    },
+    {
+      "personId": 37345,
+      "character": "Frau Völker",
+      "order": 15
+    },
+    {
+      "personId": 1103705,
+      "character": "Editor",
+      "order": 16
+    },
+    {
+      "personId": 23668,
+      "character": "1st Demonstrator",
+      "order": 17
+    },
+    {
+      "personId": 50254,
+      "character": "2nd Demonstrator",
+      "order": 18
+    },
+    {
+      "personId": 10621,
+      "character": "Concierge",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 145,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

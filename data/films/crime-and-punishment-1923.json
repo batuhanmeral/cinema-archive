@@ -1,0 +1,106 @@
+{
+  "tmdbId": 175716,
+  "slug": "crime-and-punishment-1923",
+  "year": 1923,
+  "runtime": 142,
+  "originalTitle": "Raskolnikow",
+  "title": {
+    "en": "Crime and Punishment",
+    "tr": "Raskolnikow"
+  },
+  "overview": {
+    "en": "Former student Raskolnikov is pushed to murder when struggling to pay the rent on his apartment. When the murder is being investigated by the police, Raskolnikov struggles between trying to hide his guilt and the pressure to confess.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/3smcAE3nhfjNBgVllK2LtKpEbxG.jpg",
+    "en": "/3smcAE3nhfjNBgVllK2LtKpEbxG.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    154802,
+    179874,
+    244516
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Leonardo-Film"
+  ],
+  "crew": [
+    {
+      "personId": 2991,
+      "job": "director"
+    },
+    {
+      "personId": 931503,
+      "job": "producer"
+    },
+    {
+      "personId": 28123,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2991,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1150857,
+      "character": "Rodion Raskolnikow",
+      "order": 0
+    },
+    {
+      "personId": 1767606,
+      "character": "Seine Mutter",
+      "order": 1
+    },
+    {
+      "personId": 1013877,
+      "character": "Seine Schwester",
+      "order": 2
+    },
+    {
+      "personId": 1546909,
+      "character": "Rasumichin",
+      "order": 3
+    },
+    {
+      "personId": 1279347,
+      "character": "Marmeladow",
+      "order": 4
+    },
+    {
+      "personId": 1677859,
+      "character": "seine Frau",
+      "order": 5
+    },
+    {
+      "personId": 1767608,
+      "character": "Sonja, seine Tochter",
+      "order": 6
+    },
+    {
+      "personId": 1136422,
+      "character": "Untersuchungsrichter",
+      "order": 7
+    },
+    {
+      "personId": 1386791,
+      "character": "Swidrigailow",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 13,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

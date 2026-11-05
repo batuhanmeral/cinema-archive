@@ -1,0 +1,151 @@
+{
+  "tmdbId": 392812,
+  "slug": "dogs-2016",
+  "year": 2016,
+  "runtime": 104,
+  "originalTitle": "Câini",
+  "title": {
+    "en": "Dogs",
+    "tr": "Köpekler"
+  },
+  "overview": {
+    "en": "Roman returns to the land near the Ukrainian border he has just inherited from his grandfather. Fully decided to sell this vast but desolate property, he is warned by the local cop that his grandfather was a local crime lord and his men will not let go of the land - and their smuggling business - without a fight.",
+    "tr": "Roman, büyükbabasından miras aldığı Ukrayna sınırına yakın topraklara geri döner. Bu devasa ama ıssız mülkü satmaya tamamen karar vermiş olan adam, yerel polis tarafından büyükbabasının yerel bir suç baronu olduğu ve adamlarının araziyi ve kaçakçılık işini kavga etmeden bırakmayacakları konusunda uyarılır."
+  },
+  "poster": {
+    "tr": "/Aw1Mblqim460svfDxcCzXkFeFL8.jpg",
+    "en": "/Aw1Mblqim460svfDxcCzXkFeFL8.jpg"
+  },
+  "backdrops": [
+    "/sZNPXkeKa1t4yWwXrD91LDBTOjF.jpg",
+    "/a52oRWm25BcRPwksgkFKhKcRQjh.jpg",
+    "/qoJAtAzA4OBi178GWcNWFTx5GIz.jpg",
+    "/iGOjkm9IilywlqwGZ3wDjRYbhLr.jpg",
+    "/9duEkZvx5yU82wkk4nM61DiG6tl.jpg",
+    "/xW0d9azcfyQbrgoAPvs6mNLv5us.jpg",
+    "/r43PlCpAVu9aKCo8g4MCs6AZ9hY.jpg",
+    "/d40psJuwXTAVjfLII2mUpbHEhCi.jpg",
+    "/p6PRdDTQgQ6ltuQJGyMzK6PfH7j.jpg",
+    "/bMu4UwY8Qe6bvTQTFT5ogN6x1M7.jpg"
+  ],
+  "trailerKey": "uh4iEZ_X5kY",
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [],
+  "countries": [
+    "BG",
+    "RO",
+    "FR"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "EZ Films",
+    "42 Km Film"
+  ],
+  "crew": [
+    {
+      "personId": 1257841,
+      "job": "director"
+    },
+    {
+      "personId": 1257841,
+      "job": "writer"
+    },
+    {
+      "personId": 1427387,
+      "job": "producer"
+    },
+    {
+      "personId": 1451499,
+      "job": "producer"
+    },
+    {
+      "personId": 1337632,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2218349,
+      "job": "composer"
+    },
+    {
+      "personId": 2218350,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 129565,
+      "character": "Roman",
+      "order": 0
+    },
+    {
+      "personId": 1114841,
+      "character": "Hogas",
+      "order": 1
+    },
+    {
+      "personId": 39959,
+      "character": "Samir",
+      "order": 2
+    },
+    {
+      "personId": 1078750,
+      "character": "Pila",
+      "order": 3
+    },
+    {
+      "personId": 1169590,
+      "character": "Ilinca",
+      "order": 4
+    },
+    {
+      "personId": 1255382,
+      "character": "Ana",
+      "order": 5
+    },
+    {
+      "personId": 1412698,
+      "character": "Sebi Voicu",
+      "order": 6
+    },
+    {
+      "personId": 94698,
+      "character": "Leonid",
+      "order": 7
+    },
+    {
+      "personId": 1451502,
+      "character": "Nea Terente",
+      "order": 8
+    },
+    {
+      "personId": 479941,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1554307,
+      "character": "Taran Tanar",
+      "order": 10
+    },
+    {
+      "personId": 1344472,
+      "character": "Mara",
+      "order": 11
+    },
+    {
+      "personId": 1647974,
+      "character": "Laie",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 35,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

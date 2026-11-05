@@ -1,0 +1,179 @@
+{
+  "tmdbId": 66184,
+  "slug": "the-turning-wind-1962",
+  "year": 1962,
+  "runtime": 78,
+  "originalTitle": "Barravento",
+  "title": {
+    "en": "The Turning Wind",
+    "tr": "Barravento"
+  },
+  "overview": {
+    "en": "In Bahia, an educated black man returns to his home fishing village to try and free people from mysticism, in particular the Candomblé religion, which he considers a factor of political and social oppression, with tragic outcome.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/naJthhzYp8kF0YDaAv3BMRHnqAg.jpg",
+    "en": "/naJthhzYp8kF0YDaAv3BMRHnqAg.jpg"
+  },
+  "backdrops": [
+    "/mcoUBNl7deKXEOb38RGOJxDp2Ja.jpg",
+    "/7SUzt9xeyv8DMnv9djpAcNnXYlM.jpg",
+    "/3B0hCLaZW6c6FxuEkWkSmxDXMsz.jpg"
+  ],
+  "trailerKey": "EhHThNyck1s",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Iglu Filmes"
+  ],
+  "crew": [
+    {
+      "personId": 544847,
+      "job": "writer"
+    },
+    {
+      "personId": 544849,
+      "job": "composer"
+    },
+    {
+      "personId": 544850,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 544845,
+      "job": "writer"
+    },
+    {
+      "personId": 544845,
+      "job": "director"
+    },
+    {
+      "personId": 1442745,
+      "job": "producer"
+    },
+    {
+      "personId": 1175913,
+      "job": "producer"
+    },
+    {
+      "personId": 1469961,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 230269,
+      "character": "Firmino",
+      "order": 0
+    },
+    {
+      "personId": 544852,
+      "character": "Cota",
+      "order": 1
+    },
+    {
+      "personId": 544853,
+      "character": "Naína",
+      "order": 2
+    },
+    {
+      "personId": 544854,
+      "character": "Aruã",
+      "order": 3
+    },
+    {
+      "personId": 931721,
+      "character": "Mestre",
+      "order": 4
+    },
+    {
+      "personId": 1700468,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1700469,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 1700471,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1700473,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 931723,
+      "character": "Vicente",
+      "order": 9
+    },
+    {
+      "personId": 1175915,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1269776,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1700476,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1700477,
+      "character": "Loiro",
+      "order": 13
+    },
+    {
+      "personId": 1700478,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1175913,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1700479,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1700480,
+      "character": "Rosa",
+      "order": 17
+    },
+    {
+      "personId": 1700481,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1469961,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 39,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

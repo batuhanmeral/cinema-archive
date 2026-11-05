@@ -1,0 +1,158 @@
+{
+  "tmdbId": 55584,
+  "slug": "asphalt-1929",
+  "year": 1929,
+  "runtime": 93,
+  "originalTitle": "Asphalt",
+  "title": {
+    "en": "Asphalt",
+    "tr": "Asphalt"
+  },
+  "overview": {
+    "en": "Starring Betty Amann in her most famous leading role, Joe May's Asphalt is a luxuriously produced German Expressionist classic where tragic liaisons and fatal encounters are shaped alongside the constant roar of Berlin traffic.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dlAQ3fEkoTOn4WNF9Zh9Rk2bMEN.jpg",
+    "en": "/bOTQJSjOq23kY1xGTr5xSPUeIUn.jpg"
+  },
+  "backdrops": [
+    "/wJMaLm0XXhB4Pq5ptmSPoSuM6Wr.jpg",
+    "/pZSXfKN37Ei9g0wAUVUCGrLBqOF.jpg",
+    "/5wYcd2tmDfSOeYfyuMsDN5SYIdX.jpg",
+    "/tO1vCzrSgpOBjQQ7IuWXQX5G5Ss.jpg",
+    "/wvLKwfi6ycnb9xM3XEbKgii8PWg.jpg",
+    "/z3jreFvIOHgGKn7doUG3pidifup.jpg",
+    "/w3xIQwRnRZISu6AAzhCZxqhaTlp.jpg",
+    "/q2ZdeSjFf7r3IEz5p6K5zNScfos.jpg",
+    "/piSE6S1jaPfYac9gn66IvrjDWLK.jpg",
+    "/1PfFrszExkmxlKDF5pSqnXTICUj.jpg"
+  ],
+  "trailerKey": "f6k8cq47N08",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    220,
+    642,
+    3182,
+    33699,
+    154802,
+    201363,
+    232309
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "UFA"
+  ],
+  "crew": [
+    {
+      "personId": 100593,
+      "job": "writer"
+    },
+    {
+      "personId": 222668,
+      "job": "writer"
+    },
+    {
+      "personId": 100593,
+      "job": "director"
+    },
+    {
+      "personId": 71,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 67,
+      "job": "producer"
+    },
+    {
+      "personId": 222669,
+      "job": "writer"
+    },
+    {
+      "personId": 225293,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 29175,
+      "character": "Hauptwachtmeister Holk",
+      "order": 0
+    },
+    {
+      "personId": 222670,
+      "character": "Mutter Holk",
+      "order": 1
+    },
+    {
+      "personId": 74,
+      "character": "Wachtmeister Albert Holk",
+      "order": 2
+    },
+    {
+      "personId": 222671,
+      "character": "Else Kramer",
+      "order": 3
+    },
+    {
+      "personId": 47172,
+      "character": "Konsul Langen",
+      "order": 4
+    },
+    {
+      "personId": 2899,
+      "character": "Erster Dieb",
+      "order": 5
+    },
+    {
+      "personId": 2898,
+      "character": "Geschäftsführerin",
+      "order": 6
+    },
+    {
+      "personId": 14120,
+      "character": "Zweiter Dieb",
+      "order": 7
+    },
+    {
+      "personId": 1031750,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1402604,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1289870,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 225291,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 47031,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 48943,
+      "character": "",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 52,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

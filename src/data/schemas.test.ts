@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
 import { makeFilm } from './fixtures'
-import { filmSchema } from './schemas'
+import { filmSchema, movementSchema } from './schemas'
 
 describe('filmSchema', () => {
   it('accepts the fixture film', () => expect(filmSchema.parse(makeFilm())).toEqual(makeFilm()))
@@ -21,4 +21,22 @@ describe('filmSchema', () => {
     expect(filmSchema.parse(makeFilm({ trailerKey: 'JCuwthn-R_g' })).trailerKey).toBe('JCuwthn-R_g')
     expect(filmSchema.parse(makeFilm({ trailerKey: null })).trailerKey).toBeNull()
   })
+})
+
+describe('movementSchema', () => {
+  const movement = {
+    slug: 'romanian-new-wave',
+    name: { tr: 'Romanya Yeni Dalgası', en: 'Romanian New Wave' },
+    years: { start: 2001, end: null },
+    countries: ['RO'],
+    pioneerIds: [1],
+    filmIds: [1398],
+  }
+  const parse = (overrides: object) => movementSchema.safeParse({ ...movement, ...overrides })
+
+  it('accepts an ongoing movement', () => expect(parse({}).success).toBe(true))
+  it('rejects an end year before the start year', () =>
+    expect(parse({ years: { start: 1966, end: 1958 } }).success).toBe(false))
+  it('rejects empty countries', () => expect(parse({ countries: [] }).success).toBe(false))
+  it('rejects empty filmIds', () => expect(parse({ filmIds: [] }).success).toBe(false))
 })

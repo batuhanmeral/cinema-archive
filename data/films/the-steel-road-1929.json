@@ -1,0 +1,76 @@
+{
+  "tmdbId": 136141,
+  "slug": "the-steel-road-1929",
+  "year": 1929,
+  "runtime": 78,
+  "originalTitle": "Турксиб",
+  "title": {
+    "en": "The Steel Road",
+    "tr": "The Steel Road"
+  },
+  "overview": {
+    "en": "Bold and exhilarating documentary account of the building of the Turkestan-Siberian railway, presented as a heroic triumph of Soviet progress over natural adversity.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gNUIyNrL6sQ4dJkbIH9q6l1idDa.jpg",
+    "en": "/gNUIyNrL6sQ4dJkbIH9q6l1idDa.jpg"
+  },
+  "backdrops": [
+    "/s7eUptxgZNwcytOmGauuCZVRVeU.jpg",
+    "/gdwcyXLsW5fWgXGA1fklw3b7T6S.jpg",
+    "/xP8s4fbdxIv1OfkCft2XKPH1NK3.jpg",
+    "/LLFHaSCk8I4pZjJc2iS2ioaK9L.jpg",
+    "/bzhSDjfFAFGpr45Ag74AcKbnufG.jpg"
+  ],
+  "trailerKey": "rxttD_TFgJE",
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [
+    18044
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Vostokkino"
+  ],
+  "crew": [
+    {
+      "personId": 1105195,
+      "job": "director"
+    },
+    {
+      "personId": 1105195,
+      "job": "writer"
+    },
+    {
+      "personId": 1768015,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1157579,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2362152,
+      "job": "writer"
+    },
+    {
+      "personId": 1391344,
+      "job": "writer"
+    },
+    {
+      "personId": 938176,
+      "job": "writer"
+    }
+  ],
+  "cast": [],
+  "awards": {},
+  "voteCount": 21,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

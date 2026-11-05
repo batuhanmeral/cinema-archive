@@ -1,0 +1,169 @@
+{
+  "tmdbId": 409487,
+  "slug": "the-swing-1983",
+  "year": 1983,
+  "runtime": 133,
+  "originalTitle": "Die Schaukel",
+  "title": {
+    "en": "The Swing",
+    "tr": "Die Schaukel"
+  },
+  "overview": {
+    "en": "Based on Annette Kolb’s autobiographical novel of the same name, THE SWING is a lavish, breathless reconstruction of life in Munich towards the end of the 19th century. The deceptively simple story centers around the Lautenschlags, a Bavarian-French Catholic family overflowing with artistry but short on practicalities like financial acumen.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qENNXtK5GT0fseojcz0ZHPQBIY0.jpg",
+    "en": "/qENNXtK5GT0fseojcz0ZHPQBIY0.jpg"
+  },
+  "backdrops": [
+    "/uPXfejJ1NHSbpzaoUV61rY0M5n5.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "studios": [
+    "Roxy Film",
+    "BR",
+    "Pelemele Film"
+  ],
+  "crew": [
+    {
+      "personId": 1661225,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 32632,
+      "job": "director"
+    },
+    {
+      "personId": 3767,
+      "job": "composer"
+    },
+    {
+      "personId": 4527,
+      "job": "producer"
+    },
+    {
+      "personId": 32632,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 57000,
+      "character": "Mathias",
+      "order": 0
+    },
+    {
+      "personId": 36486,
+      "character": "Gervaise",
+      "order": 1
+    },
+    {
+      "personId": 39325,
+      "character": "Otto",
+      "order": 2
+    },
+    {
+      "personId": 1481400,
+      "character": "Hespera",
+      "order": 3
+    },
+    {
+      "personId": 3762,
+      "character": "Mme. Lautenschlag",
+      "order": 4
+    },
+    {
+      "personId": 1258565,
+      "character": "Herr Lautenschlag",
+      "order": 5
+    },
+    {
+      "personId": 32645,
+      "character": "Tandlerin",
+      "order": 6
+    },
+    {
+      "personId": 2729,
+      "character": "Frau Erlendicht",
+      "order": 7
+    },
+    {
+      "personId": 26349,
+      "character": "Professor von Zwinger",
+      "order": 8
+    },
+    {
+      "personId": 8198,
+      "character": "Lhombre",
+      "order": 9
+    },
+    {
+      "personId": 73671,
+      "character": "Hofkapellmeister",
+      "order": 10
+    },
+    {
+      "personId": 2306606,
+      "character": "Erzählerin",
+      "order": 11
+    },
+    {
+      "personId": 1870450,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 36491,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 24142,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 10625,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 4219300,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1626144,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 3660439,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 22188,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 6,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

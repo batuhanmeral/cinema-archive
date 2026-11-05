@@ -1,0 +1,186 @@
+{
+  "tmdbId": 836,
+  "slug": "barren-lives-1963",
+  "year": 1963,
+  "runtime": 100,
+  "originalTitle": "Vidas Secas",
+  "title": {
+    "en": "Barren Lives",
+    "tr": "Vidas Secas"
+  },
+  "overview": {
+    "en": "A destitute family tries to escape the drought in the backlands of northeastern Brazil. Fabiano (Átila Iório), Sinhá Vitória (Maria Ribeiro), their two children and their dog Baleia wander aimlessly and almost hopelessly through the remote interior, surviving the forces of nature and the cruelty of men. An adaptation of the work by Graciliano Ramos.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/bBb4GiCZul2W6hhV8sbbnBnlhuE.jpg",
+    "en": "/bBb4GiCZul2W6hhV8sbbnBnlhuE.jpg"
+  },
+  "backdrops": [
+    "/3KBuZG9keFgKAbIRnMMn4MoOzo7.jpg",
+    "/ueG5XtHSttjNZdZ2scKWKeNXYFl.jpg",
+    "/ei7oVvsTDOxUj1HdcFPXlZLR8Qd.jpg",
+    "/roqwSoqIqZ4ceOgbVbqlDsO212O.jpg",
+    "/pK6m6Ck3ldRtY1xL2OhTmYEzQ1c.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    37
+  ],
+  "keywordIds": [
+    4402,
+    1899,
+    1952,
+    4200,
+    10508,
+    209984
+  ],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Sino Filmes",
+    "Herbert Richers"
+  ],
+  "crew": [
+    {
+      "personId": 12386,
+      "job": "director"
+    },
+    {
+      "personId": 12390,
+      "job": "producer"
+    },
+    {
+      "personId": 12392,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 12386,
+      "job": "writer"
+    },
+    {
+      "personId": 12389,
+      "job": "producer"
+    },
+    {
+      "personId": 12391,
+      "job": "composer"
+    },
+    {
+      "personId": 12388,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12396,
+      "character": "Fabiano",
+      "order": 0
+    },
+    {
+      "personId": 1175069,
+      "character": "Sinhá Vitória",
+      "order": 1
+    },
+    {
+      "personId": 5597236,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 1881382,
+      "character": "Boy",
+      "order": 3
+    },
+    {
+      "personId": 1881383,
+      "character": "Boy",
+      "order": 4
+    },
+    {
+      "personId": 12398,
+      "character": "Soldado Amarelo",
+      "order": 5
+    },
+    {
+      "personId": 12399,
+      "character": "Fazendeiro",
+      "order": 6
+    },
+    {
+      "personId": 4380382,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 4380383,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 4380384,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 4380385,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 4380387,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 4380388,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 4380481,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 4380482,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 4380484,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 4380486,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 4380488,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 4380489,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 4380495,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 100,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

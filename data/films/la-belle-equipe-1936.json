@@ -1,0 +1,169 @@
+{
+  "tmdbId": 67443,
+  "slug": "la-belle-equipe-1936",
+  "year": 1936,
+  "runtime": 101,
+  "originalTitle": "La Belle Équipe",
+  "title": {
+    "en": "La Belle Équipe",
+    "tr": "La Belle Équipe"
+  },
+  "overview": {
+    "en": "Five unemployed workers win 100,000 Francs in the national lottery. Instead of sharing the money, they buy a ruin and build an open-air cafe. But difficulties come to split their friendly group apart.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/1Lte67fTCBElypPoyPfiA5UxysW.jpg",
+    "en": "/1Lte67fTCBElypPoyPfiA5UxysW.jpg"
+  },
+  "backdrops": [
+    "/8SXkLUb0HgRQFDcQO0x09OrVrdy.jpg",
+    "/3qiU4WNiU9SNkNdHfKsom93yLpC.jpg",
+    "/odNKUv0py4TZBL1eKYT9Wi1hMBK.jpg",
+    "/r50MyGV54a28s0kQm1iPGruc4C8.jpg",
+    "/bDZx0eB9fC0FE9gysgumqBtU4BZ.jpg",
+    "/qpiNcjvb7YRxbedRwo1YtUywUht.jpg",
+    "/b8TmmVza7wbEJIm7O1BfVFYplAX.jpg",
+    "/5pSmaBKnfCYwR7Rx9RyVJC1UW6J.jpg",
+    "/62yvJ3GuDYGaDxc9rCXqhMPwqBP.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Ciné-Arys"
+  ],
+  "crew": [
+    {
+      "personId": 39058,
+      "job": "director"
+    },
+    {
+      "personId": 1311965,
+      "job": "composer"
+    },
+    {
+      "personId": 39058,
+      "job": "writer"
+    },
+    {
+      "personId": 39206,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11544,
+      "character": "Jean dit Jeannot",
+      "order": 0
+    },
+    {
+      "personId": 2566,
+      "character": "Charles dit Charlot",
+      "order": 1
+    },
+    {
+      "personId": 39471,
+      "character": "Gina",
+      "order": 2
+    },
+    {
+      "personId": 247601,
+      "character": "Jacques",
+      "order": 3
+    },
+    {
+      "personId": 580211,
+      "character": "Mario",
+      "order": 4
+    },
+    {
+      "personId": 116769,
+      "character": "Huguette, la fiancée de Mario",
+      "order": 5
+    },
+    {
+      "personId": 580212,
+      "character": "la grand-mère d'Huguette",
+      "order": 6
+    },
+    {
+      "personId": 94939,
+      "character": "le gendarme Antomarchi",
+      "order": 7
+    },
+    {
+      "personId": 117803,
+      "character": "un ivrogne",
+      "order": 8
+    },
+    {
+      "personId": 543623,
+      "character": "Gaston Jubette, le propriétaire",
+      "order": 9
+    },
+    {
+      "personId": 308779,
+      "character": "Raymond dit Tintin",
+      "order": 10
+    },
+    {
+      "personId": 545467,
+      "character": "René",
+      "order": 11
+    },
+    {
+      "personId": 94947,
+      "character": "Le patron du bistrot",
+      "order": 12
+    },
+    {
+      "personId": 932559,
+      "character": "Un locataire",
+      "order": 13
+    },
+    {
+      "personId": 94942,
+      "character": "le père Guilard",
+      "order": 14
+    },
+    {
+      "personId": 592727,
+      "character": "Un copain",
+      "order": 15
+    },
+    {
+      "personId": 1496372,
+      "character": "L'amie de Jubette",
+      "order": 16
+    },
+    {
+      "personId": 588682,
+      "character": "Un voisin",
+      "order": 17
+    },
+    {
+      "personId": 1496373,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1496374,
+      "character": "Une locataire",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 80,
+  "sources": [
+    "movement:french-poetic-realism"
+  ]
+}

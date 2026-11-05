@@ -1,0 +1,151 @@
+{
+  "tmdbId": 31415,
+  "slug": "mr-muhsin-1987",
+  "year": 1987,
+  "runtime": 119,
+  "originalTitle": "Muhsin Bey",
+  "title": {
+    "en": "Mr. Muhsin",
+    "tr": "Muhsin Bey"
+  },
+  "overview": {
+    "en": "An ingenuous countryman Ali Nazik migrates to Istanbul and meets producer Mr. Muhsin to have his first album.",
+    "tr": "İstanbullu Muhsin Bey, Türk musikisine ve çiçeklerine düşkün, değerlerine bağlı bir 'eski usül' adamdır. 80’lerde hızla değişen şehire, köyden kente göçün getirdiği kültür erozyonuna yabancı ve ilkeleriyle yaşayan bir adam. Bir gün kaset çıkarmak için şehre gelmiş, yanık sesli türkücü Ali Nazik’le kesişir yolları. Muhsin Bey, Ali’yi şöhretle tanıştırabileceğini düşünür. Bu iki ayrı dünyanın insanı böylece, zorlu bir işbirliğine girerler. Dünyaların ne kadar ayrı olduğunu anlamaları içinse, elbette zaman gerekecektir."
+  },
+  "poster": {
+    "tr": "/hPjyy6ZkXVtmeXMd993uZ346DF0.jpg",
+    "en": "/zfeEW8nxszmmiiZbPv7ZrPJXlJI.jpg"
+  },
+  "backdrops": [
+    "/xFMbMS3llHi9TP1LVnaegyp8xIZ.jpg",
+    "/87pDymBz5E5FzgNxD8EPx9jqaQv.jpg",
+    "/s5dHmrYZrlnsqm0wmjnI7lmt5AC.jpg",
+    "/qv5UJOmp32m7zjyrVgbfoVkmfi7.jpg",
+    "/kKZ4xKnxqOesia0Rse8L1UuDqHw.jpg",
+    "/3YuoSLf1wGteWJvTz8l9Z8fZWbi.jpg",
+    "/aaeNwSIiAeOcmn3lO62BzC1SeEJ.jpg",
+    "/8Mkw2SmBzNKUwiP1zmg4Je1oElc.jpg",
+    "/tNn8xdXuhwselKI8eKz3RcAW4zA.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    259962
+  ],
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [
+    "Umut Film"
+  ],
+  "crew": [
+    {
+      "personId": 109445,
+      "job": "director"
+    },
+    {
+      "personId": 109445,
+      "job": "writer"
+    },
+    {
+      "personId": 2104105,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1353472,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 77349,
+      "character": "Muhsin",
+      "order": 0
+    },
+    {
+      "personId": 109085,
+      "character": "Ali Nazik",
+      "order": 1
+    },
+    {
+      "personId": 143251,
+      "character": "Sevda",
+      "order": 2
+    },
+    {
+      "personId": 936094,
+      "character": "Osman",
+      "order": 3
+    },
+    {
+      "personId": 1976158,
+      "character": "Şakir",
+      "order": 4
+    },
+    {
+      "personId": 1918009,
+      "character": "Madam Agavni",
+      "order": 5
+    },
+    {
+      "personId": 2141501,
+      "character": "Laz Nurettin",
+      "order": 6
+    },
+    {
+      "personId": 2141503,
+      "character": "Sunucu",
+      "order": 7
+    },
+    {
+      "personId": 1441258,
+      "character": "Dolandırıcı",
+      "order": 8
+    },
+    {
+      "personId": 1595979,
+      "character": "Rambo",
+      "order": 9
+    },
+    {
+      "personId": 1323267,
+      "character": "Arap Celal",
+      "order": 10
+    },
+    {
+      "personId": 2141508,
+      "character": "Jüri Başkanı",
+      "order": 11
+    },
+    {
+      "personId": 2141511,
+      "character": "Kahveci Selahattin",
+      "order": 12
+    },
+    {
+      "personId": 2141512,
+      "character": "Kahvedeki Müzisyen",
+      "order": 13
+    },
+    {
+      "personId": 1770869,
+      "character": "Kayıt Memuru",
+      "order": 14
+    },
+    {
+      "personId": 2141518,
+      "character": "Klarnetçi",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 93,
+  "sources": [
+    "yesilcam"
+  ]
+}

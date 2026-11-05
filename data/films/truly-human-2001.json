@@ -1,0 +1,151 @@
+{
+  "tmdbId": 56314,
+  "slug": "truly-human-2001",
+  "year": 2001,
+  "runtime": 94,
+  "originalTitle": "Et rigtigt menneske",
+  "title": {
+    "en": "Truly Human",
+    "tr": "Et rigtigt menneske"
+  },
+  "overview": {
+    "en": "P. is a little girl's imaginary friend who lives inside the wall of her room. But one day he magically materialises and so must learn to live in the world like everyone else - a world where he is met with suspicion and hate but also with wonder and love.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lM9MA8k41wsY5VJG7d9aoNMOdFT.jpg",
+    "en": "/lM9MA8k41wsY5VJG7d9aoNMOdFT.jpg"
+  },
+  "backdrops": [
+    "/vXb8UvJ2BgfwTckbFDw4JOym6Qy.jpg",
+    "/u2AzSxKMeMRKAcNgkyr4N4nlJCX.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    315002
+  ],
+  "countries": [
+    "DK"
+  ],
+  "languages": [
+    "da"
+  ],
+  "studios": [
+    "Zentropa Entertainments"
+  ],
+  "crew": [
+    {
+      "personId": 91565,
+      "job": "director"
+    },
+    {
+      "personId": 91565,
+      "job": "writer"
+    },
+    {
+      "personId": 1177,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1018,
+      "character": "P",
+      "order": 0
+    },
+    {
+      "personId": 71154,
+      "character": "Walther",
+      "order": 1
+    },
+    {
+      "personId": 1232920,
+      "character": "Charlotte",
+      "order": 2
+    },
+    {
+      "personId": 1816545,
+      "character": "Lisa",
+      "order": 3
+    },
+    {
+      "personId": 1127466,
+      "character": "Stromboli",
+      "order": 4
+    },
+    {
+      "personId": 3402,
+      "character": "Tanja",
+      "order": 5
+    },
+    {
+      "personId": 4463,
+      "character": "Ulrik",
+      "order": 6
+    },
+    {
+      "personId": 1027700,
+      "character": "Molly",
+      "order": 7
+    },
+    {
+      "personId": 1313407,
+      "character": "Benny",
+      "order": 8
+    },
+    {
+      "personId": 229223,
+      "character": "Kjeldsen",
+      "order": 9
+    },
+    {
+      "personId": 1143305,
+      "character": "Sedergren",
+      "order": 10
+    },
+    {
+      "personId": 1119435,
+      "character": "Secretary",
+      "order": 11
+    },
+    {
+      "personId": 1244882,
+      "character": "Police Officer",
+      "order": 12
+    },
+    {
+      "personId": 1167833,
+      "character": "Lifeguard",
+      "order": 13
+    },
+    {
+      "personId": 3407,
+      "character": "Lifeguard",
+      "order": 14
+    },
+    {
+      "personId": 6141,
+      "character": "Lady at Asylum Centre",
+      "order": 15
+    },
+    {
+      "personId": 1563,
+      "character": "Tern",
+      "order": 16
+    },
+    {
+      "personId": 202581,
+      "character": "Customer in Shoe Store",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 24,
+  "sources": [
+    "movement:dogme-95"
+  ]
+}

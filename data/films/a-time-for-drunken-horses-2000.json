@@ -1,0 +1,121 @@
+{
+  "tmdbId": 29270,
+  "slug": "a-time-for-drunken-horses-2000",
+  "year": 2000,
+  "runtime": 80,
+  "originalTitle": "Zamani barayé masti asbha",
+  "title": {
+    "en": "A Time for Drunken Horses",
+    "tr": "Sarhoş Atlar Zamanı"
+  },
+  "overview": {
+    "en": "After their father dies, a family of five children are forced to survive on their own in a Kurdish village on the border of Iran and Iraq.",
+    "tr": "İranlı bir Kürt ailesinin fertleri, babalarının ölümünden sonra zor şartlar altında hayatlarını sürdürmektedir ki, kardeşlerden birinin acilen ameliyat olması gerektiği öğrenilir. Henüz 12 yaşındaki Eyüp, ailenin yeni lideri olarak güç bir durumda kalmıştır."
+  },
+  "poster": {
+    "tr": "/hQv7sCP0FddDwVo243Fpf32u4uR.jpg",
+    "en": "/hQv7sCP0FddDwVo243Fpf32u4uR.jpg"
+  },
+  "backdrops": [
+    "/glBc1m1X5sEzdqk6xmx4tc4ukYD.jpg",
+    "/4I23Xon5ySXVMgWMcoBWhDDhulO.jpg"
+  ],
+  "trailerKey": "7QTStegCCTY",
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    2673,
+    40895,
+    155240,
+    190066,
+    236343
+  ],
+  "countries": [
+    "IR",
+    "FR"
+  ],
+  "languages": [
+    "ku"
+  ],
+  "studios": [
+    "Bahman Ghobadi Films",
+    "Farabi Cinema",
+    "MK2 Productions"
+  ],
+  "crew": [
+    {
+      "personId": 54607,
+      "job": "director"
+    },
+    {
+      "personId": 54607,
+      "job": "writer"
+    },
+    {
+      "personId": 54607,
+      "job": "producer"
+    },
+    {
+      "personId": 39405,
+      "job": "composer"
+    },
+    {
+      "personId": 1632846,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 994126,
+      "character": "Ayoub",
+      "order": 0
+    },
+    {
+      "personId": 994127,
+      "character": "Rojin",
+      "order": 1
+    },
+    {
+      "personId": 994128,
+      "character": "Amaneh",
+      "order": 2
+    },
+    {
+      "personId": 1890594,
+      "character": "Madi",
+      "order": 3
+    },
+    {
+      "personId": 1890595,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1890596,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1890597,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 1890598,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1890599,
+      "character": "",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 127,
+  "sources": [
+    "movement:iranian-new-wave"
+  ]
+}

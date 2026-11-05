@@ -1,0 +1,201 @@
+{
+  "tmdbId": 2262,
+  "slug": "veronika-voss-1982",
+  "year": 1982,
+  "runtime": 105,
+  "originalTitle": "Die Sehnsucht der Veronika Voss",
+  "title": {
+    "en": "Veronika Voss",
+    "tr": "Veronika Voss'un Tutkusu"
+  },
+  "overview": {
+    "en": "In Munich 1955, German film star Veronika Voss becomes a drug addict at the mercy of corrupt Dr. Marianne Katz, who keeps her supplied with morphine. After meeting sports writer Robert Krohn, Veronika begins to dream of a return to stardom. As the couple's relationship escalates in intensity, Veronika begins seriously planning her return to the screen -- only to realize how debilitated she has become through her drug habit.",
+    "tr": "Film yıldızı Veronika Voss uyuşturucu bağımlısı olur ve yozlaşmış bir doktor olan Marianne Katz’ın eline düşer. Yazar Robert Krohn ile tanıştıktan sonra yeniden yıldız olmanın hayalini kurmaya başlar. İlişkileri ilerledikçe Veronika, bağımlılığın kendisini nasıl mahvettiğini fark eder."
+  },
+  "poster": {
+    "tr": "/A09gh5oWVfincs6BbRz91HL4Rgc.jpg",
+    "en": "/A09gh5oWVfincs6BbRz91HL4Rgc.jpg"
+  },
+  "backdrops": [
+    "/3vvdtMUakh0e6aucCstxZMT75Nl.jpg",
+    "/xATzVfo4XOmkVHsnkXuEshkjHks.jpg",
+    "/v154MeOMCOcZw2iJCIvzoOrVjWI.jpg",
+    "/fZlWTAXOGQ8ZAyeqMuwnA4qEcDt.jpg",
+    "/4JoJHU1z7LJqFwgQ9sj7x3377Tz.jpg",
+    "/mk6gRAaFnae4q2FDY0BjygoSZEH.jpg",
+    "/ujQmLYoCnGNVBnANdGD7vSy2qPp.jpg",
+    "/sltIDz8W6xUakVDsXDYnXubnIDB.jpg",
+    "/7sAWNcm7iVTxbWNxDWg3GVlBoce.jpg"
+  ],
+  "trailerKey": "0_H3fSWOtC0",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    567,
+    2437,
+    6782,
+    10338,
+    13005,
+    14964,
+    162262,
+    188662,
+    208611,
+    233607
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "en",
+    "de"
+  ],
+  "studios": [
+    "Laura Film",
+    "Tango Film",
+    "Rialto Film"
+  ],
+  "crew": [
+    {
+      "personId": 2725,
+      "job": "director"
+    },
+    {
+      "personId": 2725,
+      "job": "writer"
+    },
+    {
+      "personId": 9933,
+      "job": "writer"
+    },
+    {
+      "personId": 2360,
+      "job": "producer"
+    },
+    {
+      "personId": 3768,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3767,
+      "job": "composer"
+    },
+    {
+      "personId": 9934,
+      "job": "writer"
+    },
+    {
+      "personId": 58111,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 23340,
+      "character": "Veronika Voss",
+      "order": 0
+    },
+    {
+      "personId": 23342,
+      "character": "Robert Krohn",
+      "order": 1
+    },
+    {
+      "personId": 1857,
+      "character": "Henriette",
+      "order": 2
+    },
+    {
+      "personId": 23344,
+      "character": "Dr. Marianne Katz",
+      "order": 3
+    },
+    {
+      "personId": 4537,
+      "character": "Josefa",
+      "order": 4
+    },
+    {
+      "personId": 3756,
+      "character": "Dr. Edel",
+      "order": 5
+    },
+    {
+      "personId": 23345,
+      "character": "Grete",
+      "order": 6
+    },
+    {
+      "personId": 12647,
+      "character": "Max Rehbein",
+      "order": 7
+    },
+    {
+      "personId": 2725,
+      "character": "Kinobesucher (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 18405,
+      "character": "Filmproduzent / Dicker Mann",
+      "order": 9
+    },
+    {
+      "personId": 32863,
+      "character": "G.I. / Dealer (as Günter Kaufmann)",
+      "order": 10
+    },
+    {
+      "personId": 49263,
+      "character": "Verkäuferin",
+      "order": 11
+    },
+    {
+      "personId": 2740,
+      "character": "Chehm",
+      "order": 12
+    },
+    {
+      "personId": 32422,
+      "character": "1. Regisseur",
+      "order": 13
+    },
+    {
+      "personId": 10621,
+      "character": "Gärtner",
+      "order": 14
+    },
+    {
+      "personId": 146209,
+      "character": "Chefredakteur",
+      "order": 15
+    },
+    {
+      "personId": 28319,
+      "character": "2. Regisseur",
+      "order": 16
+    },
+    {
+      "personId": 94324,
+      "character": "Alte Frau",
+      "order": 17
+    },
+    {
+      "personId": 36506,
+      "character": "Alter Mann",
+      "order": 18
+    },
+    {
+      "personId": 23668,
+      "character": "Head Waiter (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "berlin": 1
+  },
+  "voteCount": 162,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

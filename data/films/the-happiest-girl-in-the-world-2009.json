@@ -1,0 +1,145 @@
+{
+  "tmdbId": 80115,
+  "slug": "the-happiest-girl-in-the-world-2009",
+  "year": 2009,
+  "runtime": 99,
+  "originalTitle": "Cea mai fericită fată din lume",
+  "title": {
+    "en": "The Happiest Girl in the World",
+    "tr": "Dünya'nın En Mutlu Kızı"
+  },
+  "overview": {
+    "en": "Delia, a young Romanian girl, comes to Bucharest with her parents to collect a prize she has won in a contest organized by a soft-drinks company. The prize is a beautiful new car. All Delia has to do now is appear in front of the camera in a commercial. All goes well until it becomes clear that Delia and her parents have very different ideas about what to do with the new car. Meanwhile, the contest's sponsor needs a radiant prize-winner with a gleaming smile. A wicked satire and a psychological portrait of a society perverted by its slavery to capitalism and consumerism",
+    "tr": "Romanya’daki bir taşra kasabasında yaşayan naif Delia, bir içecek firmasının yarışmasında araba kazanır. Ödülünü almak için firmanın reklamında oynaması şarttır. Çekimler için ailesiyle Bükreş’e gidince, sandığı kadar şanslı olmadığını fark eder."
+  },
+  "poster": {
+    "tr": "/bkOFTDSEMZKydS4ZSimW7yAUcCt.jpg",
+    "en": "/bkOFTDSEMZKydS4ZSimW7yAUcCt.jpg"
+  },
+  "backdrops": [
+    "/6Y86bAQjLBMQoIEffcSpIxypWhZ.jpg",
+    "/hgQdQ8EeKGQ2H5tjUOGDZEt9dEi.jpg"
+  ],
+  "trailerKey": "NW5dihx3-Mk",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    34196
+  ],
+  "countries": [
+    "BE",
+    "FR",
+    "JP",
+    "NL",
+    "RO"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "Hi Film Productions",
+    "Circe Films",
+    "România Film"
+  ],
+  "crew": [
+    {
+      "personId": 588822,
+      "job": "director"
+    },
+    {
+      "personId": 588822,
+      "job": "writer"
+    },
+    {
+      "personId": 1389453,
+      "job": "writer"
+    },
+    {
+      "personId": 931382,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 60407,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 588823,
+      "character": "Delia Cristina Fratila",
+      "order": 0
+    },
+    {
+      "personId": 1911901,
+      "character": "Mrs. Fratila",
+      "order": 1
+    },
+    {
+      "personId": 1426589,
+      "character": "Mr. Fratila",
+      "order": 2
+    },
+    {
+      "personId": 592227,
+      "character": "Director",
+      "order": 3
+    },
+    {
+      "personId": 85230,
+      "character": "Cinematographer",
+      "order": 4
+    },
+    {
+      "personId": 1815974,
+      "character": "Producer",
+      "order": 5
+    },
+    {
+      "personId": 588825,
+      "character": "The Client",
+      "order": 6
+    },
+    {
+      "personId": 3411644,
+      "character": "Prop Artist",
+      "order": 7
+    },
+    {
+      "personId": 1911902,
+      "character": "Gabi - Make-up Artist",
+      "order": 8
+    },
+    {
+      "personId": 588824,
+      "character": "Mr. Arvunescu",
+      "order": 9
+    },
+    {
+      "personId": 1149634,
+      "character": "Viorel",
+      "order": 10
+    },
+    {
+      "personId": 1833453,
+      "character": "Banel",
+      "order": 11
+    },
+    {
+      "personId": 3411636,
+      "character": "Recuziter 2",
+      "order": 12
+    },
+    {
+      "personId": 2677336,
+      "character": "Agency Girl",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 43,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

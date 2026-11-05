@@ -1,0 +1,173 @@
+{
+  "tmdbId": 88562,
+  "slug": "assassination-1964",
+  "year": 1964,
+  "runtime": 104,
+  "originalTitle": "暗殺",
+  "title": {
+    "en": "Assassination",
+    "tr": "Assassination"
+  },
+  "overview": {
+    "en": "In 1863, when American warships approach Japan, an enigmatic ronin becomes an important figure in a complex game of power between the Shogunate and the empire.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/cw6MpSwdAqluU1sNov0DdZya5Rd.jpg",
+    "en": "/cw6MpSwdAqluU1sNov0DdZya5Rd.jpg"
+  },
+  "backdrops": [
+    "/1JfoxQGfi1LStdgQn0N93RKX7h6.jpg",
+    "/tKV0NtUDJb0y0xbKTJCCw9P2zjs.jpg",
+    "/vTnjWfNJLE85HFz94QQtReYzVl.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    233,
+    186753,
+    207928,
+    209998,
+    312229
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Shochiku"
+  ],
+  "crew": [
+    {
+      "personId": 133518,
+      "job": "director"
+    },
+    {
+      "personId": 1088569,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 51808,
+      "job": "composer"
+    },
+    {
+      "personId": 552000,
+      "job": "producer"
+    },
+    {
+      "personId": 563704,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10071,
+      "character": "Hachiro Kiyokawa",
+      "order": 0
+    },
+    {
+      "personId": 25466,
+      "character": "Lord Matsudaira",
+      "order": 1
+    },
+    {
+      "personId": 97203,
+      "character": "Premier Itakura",
+      "order": 2
+    },
+    {
+      "personId": 20830,
+      "character": "Tadasaburo Sasaki",
+      "order": 3
+    },
+    {
+      "personId": 76976,
+      "character": "Oren",
+      "order": 4
+    },
+    {
+      "personId": 213479,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 82969,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 1127082,
+      "character": "Otojirô Kôno",
+      "order": 7
+    },
+    {
+      "personId": 1200132,
+      "character": "Shingo Miyagawa",
+      "order": 8
+    },
+    {
+      "personId": 1309472,
+      "character": "Shôzô Ishizaka",
+      "order": 9
+    },
+    {
+      "personId": 83203,
+      "character": "Kyûô Udono",
+      "order": 10
+    },
+    {
+      "personId": 553428,
+      "character": "Tetsutaro Yamaoka",
+      "order": 11
+    },
+    {
+      "personId": 1132432,
+      "character": "Inaba",
+      "order": 12
+    },
+    {
+      "personId": 1028527,
+      "character": "Hisamizu Shimazu",
+      "order": 13
+    },
+    {
+      "personId": 552187,
+      "character": "Jûjirô Ishii",
+      "order": 14
+    },
+    {
+      "personId": 80717,
+      "character": "Detective Yoshikichi",
+      "order": 15
+    },
+    {
+      "personId": 1422424,
+      "character": "Sankichi",
+      "order": 16
+    },
+    {
+      "personId": 1547565,
+      "character": "Keijirô Aizawa",
+      "order": 17
+    },
+    {
+      "personId": 228546,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 226744,
+      "character": "Kamo Serizawa",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 40,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

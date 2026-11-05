@@ -1,0 +1,183 @@
+{
+  "tmdbId": 58897,
+  "slug": "dry-summer-1963",
+  "year": 1963,
+  "runtime": 90,
+  "originalTitle": "Susuz Yaz",
+  "title": {
+    "en": "Dry Summer",
+    "tr": "Susuz Yaz"
+  },
+  "overview": {
+    "en": "A scheming tobacco farmer sets out to ruin his competition by diverting the local water to his own property.",
+    "tr": "Necati Cumalı'nın aynı adlı eserinden uyarlandı. Anadolu'da suyun ve kadının önemi çok büyüktür. Film suya ve kadına sahip olmak için çalışan tütün işçilerinin zorlu çalışmasını perdeye taşıyor. Filmde Osman'ın hapse giren kardeşinin karısına sahip olma isteğini izliyoruz. Türk sinemasının ilk uluslararası ödülüne Susuz Yaz sahip oldu ve sinemamızın dünyada tanınmasında epey etkili oldu. Fakat film üzücü bir şekilde bir dönem yasaklarla karşılaşmış, ancak ödüllerin ardından yerli izleyici ile buluşabilmiştir. 1964 yılında Berlin Film Festivali’nde Altın Ayı ödülünü kazanan Susuz Yaz, 61. Cannes Film Festivali’nin “klasik filmler” bölümünde gösterildi. Gösterimden önce filmin tanıtımını Fatih Akın yaptı."
+  },
+  "poster": {
+    "tr": "/pcBmB15oFTYnP1n4mFKQFOPcs32.jpg",
+    "en": "/uUuxr9C5TAQTfladuNR6F6soACf.jpg"
+  },
+  "backdrops": [
+    "/exuJrHrpErSSAS5p1EFbC4et0pG.jpg",
+    "/4hkgShe1rU1jyQYPqrGXwFmOxGF.jpg",
+    "/xvJeiDoVtiNLxU19qHntvcwKQNO.jpg",
+    "/nnNXFn3Beqw4HzKSCrbmIGKaT2s.jpg",
+    "/1DO0Dopk7oHEDnnhsomTPelLDJM.jpg",
+    "/gF2ENSIvNJdT0aFDMJIqCQWRjFE.jpg",
+    "/idLqu9WuDYjWZfjvcGAdrI8fuZ8.jpg",
+    "/34mBlW1yi5UVdGdDu8st2fKqGnc.jpg",
+    "/mlXD31my18H2dFNGcMq7im4fNPa.jpg",
+    "/8iq317WWrlOOroUaoUtVnDX58Kz.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    1157,
+    793,
+    3398,
+    10085,
+    12653,
+    13088,
+    155402,
+    178034,
+    180171,
+    196399,
+    200207,
+    206844,
+    207444,
+    255101,
+    286914,
+    299716,
+    305941,
+    319922,
+    322542,
+    325790,
+    338623,
+    359821
+  ],
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [
+    "Hitit"
+  ],
+  "crew": [
+    {
+      "personId": 228610,
+      "job": "director"
+    },
+    {
+      "personId": 228613,
+      "job": "producer"
+    },
+    {
+      "personId": 228610,
+      "job": "writer"
+    },
+    {
+      "personId": 1323267,
+      "job": "writer"
+    },
+    {
+      "personId": 1200606,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1323855,
+      "job": "writer"
+    },
+    {
+      "personId": 17558,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 228611,
+      "character": "Bahar",
+      "order": 0
+    },
+    {
+      "personId": 228612,
+      "character": "Osman",
+      "order": 1
+    },
+    {
+      "personId": 228613,
+      "character": "Hasan",
+      "order": 2
+    },
+    {
+      "personId": 1200603,
+      "character": "Veli Sari",
+      "order": 3
+    },
+    {
+      "personId": 1015992,
+      "character": "Köylü",
+      "order": 4
+    },
+    {
+      "personId": 1200604,
+      "character": "Köylü",
+      "order": 5
+    },
+    {
+      "personId": 1323853,
+      "character": "Ağır Ceza Üyesi",
+      "order": 6
+    },
+    {
+      "personId": 1258810,
+      "character": "Mahkum",
+      "order": 7
+    },
+    {
+      "personId": 1200602,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1323854,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 3735944,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 3505610,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1888434,
+      "character": "Hülya Koçyiğit (voice)",
+      "order": 12
+    },
+    {
+      "personId": 1159675,
+      "character": "Ulvi Doğan (voice)",
+      "order": 13
+    },
+    {
+      "personId": 1200605,
+      "character": "Erol Taş (voice)",
+      "order": 14
+    }
+  ],
+  "awards": {
+    "berlin": 1
+  },
+  "voteCount": 100,
+  "sources": [
+    "yesilcam"
+  ]
+}

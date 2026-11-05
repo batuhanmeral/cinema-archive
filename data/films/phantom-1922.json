@@ -1,0 +1,147 @@
+{
+  "tmdbId": 28480,
+  "slug": "phantom-1922",
+  "year": 1922,
+  "runtime": 119,
+  "originalTitle": "Phantom",
+  "title": {
+    "en": "Phantom",
+    "tr": "Phantom"
+  },
+  "overview": {
+    "en": "Lorenz Lubota is a city clerk with no direction in life. One day on his way to work he is run over by a woman driving a chariot and he is immediately infatuated with her.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rVE0Vr6vKrZOtrTltoSfIxv7nre.jpg",
+    "en": "/obbTvV2ueCHhd7meb83moLqItLB.jpg"
+  },
+  "backdrops": [
+    "/9IhK5UJArJb2WmkHqT0ISHu1uKE.jpg",
+    "/cU74LZaYNBDKMSnCYGDdKWBJ1T1.jpg",
+    "/ha9fAYj8iAS9sADXMxgxlN38kFI.jpg",
+    "/g1hByWvAor9KvctxCL7v4Mmufcw.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10749,
+    14
+  ],
+  "keywordIds": [
+    10666,
+    34262,
+    208998
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Uco-Film GmbH",
+    "Decla-Bioscop"
+  ],
+  "crew": [
+    {
+      "personId": 9076,
+      "job": "director"
+    },
+    {
+      "personId": 67,
+      "job": "producer"
+    },
+    {
+      "personId": 100903,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 157,
+      "job": "writer"
+    },
+    {
+      "personId": 100902,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 6405487,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 73,
+      "character": "Lorenz Lubota",
+      "order": 0
+    },
+    {
+      "personId": 47173,
+      "character": "Pfandleiherin Schwabe / Pawnbroker Schwabe",
+      "order": 1
+    },
+    {
+      "personId": 3005,
+      "character": "Marie Starke",
+      "order": 2
+    },
+    {
+      "personId": 48057,
+      "character": "Veronika Harlan / Mellitta",
+      "order": 3
+    },
+    {
+      "personId": 100896,
+      "character": "Wigottschinski",
+      "order": 4
+    },
+    {
+      "personId": 28988,
+      "character": "Melanie Lubota",
+      "order": 5
+    },
+    {
+      "personId": 14130,
+      "character": "Harlans Frau / Harlan's Wife",
+      "order": 6
+    },
+    {
+      "personId": 46736,
+      "character": "Buchbinder Starke / Bookbinder Starke",
+      "order": 7
+    },
+    {
+      "personId": 100898,
+      "character": "Baronin / Baroness",
+      "order": 8
+    },
+    {
+      "personId": 100899,
+      "character": "Harlan",
+      "order": 9
+    },
+    {
+      "personId": 48062,
+      "character": "Lubotas Mutter / Lubota's Mother",
+      "order": 10
+    },
+    {
+      "personId": 3007,
+      "character": "Hugo Lubota",
+      "order": 11
+    },
+    {
+      "personId": 46737,
+      "character": "Amtsdiener / Clerk",
+      "order": 12
+    },
+    {
+      "personId": 2912,
+      "character": "",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 55,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

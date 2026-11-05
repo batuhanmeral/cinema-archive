@@ -1,11 +1,19 @@
-import type { AwardGroup, CrewJob, Film, Genre, Person, Theme } from '@/data/schemas'
+import type {
+  AwardGroup,
+  Collection,
+  CrewJob,
+  Film,
+  Genre,
+  Movement,
+  Person,
+  Theme,
+} from '@/data/schemas'
 import { countryName, languageName } from '@/lib/i18n/display-names'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
-import { archiveHref, filmHref, personHref } from '@/lib/i18n/routes'
+import { collectionHref, filmHref, movementHref, personHref } from '@/lib/i18n/routes'
+import { archiveLink, genreLinks, personLink, themeLinks, type LinkItem } from '@/lib/link-items'
 import type { SimilarFilm } from './similar'
-
-export type LinkItem = { text: string; href?: string }
 
 export type IndexKey =
   'genre' | 'themes' | 'country' | 'language' | 'year' | 'runtime' | 'awards' | 'studio' | CrewJob
@@ -27,6 +35,8 @@ export type FilmViewContext = {
   people: Map<number, Person>
   genres: Map<number, Genre>
   themes: Map<number, Theme>
+  movements: Movement[]
+  collections: Collection[]
   awardGroups: AwardGroup[]
 }
 
@@ -57,12 +67,6 @@ export function presentOverview(film: Film, locale: Locale): string | null {
   return overview ? overview : null
 }
 
-function personLink(person: Person, locale: Locale): LinkItem {
-  return person.slug
-    ? { text: person.name, href: personHref(locale, person.slug) }
-    : { text: person.name }
-}
-
 function personCard(person: Person, role: string, locale: Locale): PersonCard {
   const card: PersonCard = { name: person.name, role, profilePath: person.profilePath }
   return person.slug ? { ...card, href: personHref(locale, person.slug) } : card
@@ -75,22 +79,11 @@ function crewOf(film: Film, job: CrewJob, ctx: FilmViewContext): Person[] {
     .filter((person) => person !== undefined)
 }
 
-function genreTags(film: Film, locale: Locale, ctx: FilmViewContext): LinkItem[] {
-  return film.genreIds
-    .map((id) => ctx.genres.get(id))
-    .filter((genre) => genre !== undefined)
-    .map((genre) => ({ text: genre[locale], href: archiveHref(locale, { genre: genre.id }) }))
-}
-
-// Yalnızca content/themes.json'daki seçilmiş anahtar kelimeler tema olarak görünür.
-function themeTags(film: Film, locale: Locale, ctx: FilmViewContext): LinkItem[] {
-  return film.keywordIds
-    .map((id) => ctx.themes.get(id))
-    .filter((theme) => theme !== undefined)
-    .map((theme) => ({
-      text: theme[locale],
-      href: archiveHref(locale, { theme: theme.keywordId }),
-    }))
+function groupTags(locale: Locale, ctx: FilmViewContext): LinkItem[] {
+  return [
+    ...ctx.movements.map((m) => ({ text: m.name[locale], href: movementHref(locale, m.slug) })),
+    ...ctx.collections.map((c) => ({ text: c.name[locale], href: collectionHref(locale, c.slug) })),
+  ]
 }
 
 function awardsSummary(film: Film, locale: Locale, ctx: FilmViewContext): LinkItem[] {
@@ -103,30 +96,23 @@ function awardsSummary(film: Film, locale: Locale, ctx: FilmViewContext): LinkIt
 function buildIndex(film: Film, locale: Locale, ctx: FilmViewContext): IndexRow[] {
   const labels = messages[locale].film.index
   const items: [IndexKey, LinkItem[]][] = [
-    ['genre', genreTags(film, locale, ctx)],
-    ['themes', themeTags(film, locale, ctx)],
+    ['genre', genreLinks(film.genreIds, locale, ctx.genres)],
+    ['themes', themeLinks(film.keywordIds, locale, ctx.themes)],
     [
       'country',
-      film.countries.map((code) => ({
-        text: countryName(code, locale),
-        href: archiveHref(locale, { country: code }),
-      })),
+      film.countries.map((code) =>
+        archiveLink(locale, { country: code }, countryName(code, locale)),
+      ),
     ],
     [
       'language',
-      film.languages.map((code) => ({
-        text: languageName(code, locale),
-        href: archiveHref(locale, { language: code }),
-      })),
+      film.languages.map((code) =>
+        archiveLink(locale, { language: code }, languageName(code, locale)),
+      ),
     ],
     [
       'year',
-      [
-        {
-          text: String(film.year),
-          href: archiveHref(locale, { decade: Math.floor(film.year / DECADE) * DECADE }),
-        },
-      ],
+      [archiveLink(locale, { decade: Math.floor(film.year / DECADE) * DECADE }, String(film.year))],
     ],
     ['runtime', film.runtime ? [{ text: messages[locale].film.minutes(film.runtime) }] : []],
     ['awards', awardsSummary(film, locale, ctx)],
@@ -158,7 +144,11 @@ export function buildFilmView(film: Film, locale: Locale, ctx: FilmViewContext):
     year: film.year,
     overview: presentOverview(film, locale),
     posterPath: film.poster[locale],
-    tags: [...genreTags(film, locale, ctx), ...themeTags(film, locale, ctx)],
+    tags: [
+      ...groupTags(locale, ctx),
+      ...genreLinks(film.genreIds, locale, ctx.genres),
+      ...themeLinks(film.keywordIds, locale, ctx.themes),
+    ],
     index: buildIndex(film, locale, ctx),
     directors: crewOf(film, 'director', ctx).map((person) =>
       personCard(person, messages[locale].film.directorRole, locale),
@@ -169,7 +159,8 @@ export function buildFilmView(film: Film, locale: Locale, ctx: FilmViewContext):
   }
 }
 
-function similarCaption(film: Film, people: Map<number, Person>): string {
+// Benzer film ve akım kartlarının ortak alt satırı: "Yönetmen, yıl".
+export function directorYearCaption(film: Film, people: Map<number, Person>): string {
   const director = film.crew.find((member) => member.job === 'director')
   const name = director && people.get(director.personId)?.name
   return name ? `${name}, ${film.year}` : String(film.year)
@@ -186,7 +177,7 @@ export function buildSimilarCards(
     href: filmHref(locale, film.slug),
     posterPath: film.poster[locale],
     title: film.title[locale],
-    caption: similarCaption(film, people),
+    caption: directorYearCaption(film, people),
     note: reasons[reason],
   }))
 }

@@ -1,5 +1,5 @@
-import Image from 'next/image'
 import Link from 'next/link'
+import { HeroBackground } from '@/components/HeroBackground'
 import type { Locale } from '@/lib/i18n/locale'
 import type { FilmView } from '../view-model'
 import { FilmIndex } from './FilmIndex'
@@ -10,19 +10,7 @@ const POSTER_SIZES = '(max-width: 768px) 500px, 780px'
 export function FilmHero({ view }: { view: FilmView; locale: Locale }) {
   return (
     <section className="relative flex min-h-svh flex-col justify-end">
-      <div className="absolute inset-0 overflow-hidden">
-        {view.posterPath && (
-          <Image
-            src={view.posterPath}
-            alt=""
-            fill
-            preload
-            sizes={POSTER_SIZES}
-            className="scale-108 object-cover blur-[5px] brightness-(--hero-poster-brightness)"
-          />
-        )}
-        <div className="absolute inset-0 bg-hall/72" />
-      </div>
+      <HeroBackground imagePath={view.posterPath} sizes={POSTER_SIZES} />
 
       {/* Üst boşluk sabit navbarın altında kalır; içerik ekranı aşınca bölüm uzar. */}
       <div className="wrap relative grid items-end gap-x-16 gap-y-10 pt-24 pb-7 md:grid-cols-[1fr_340px] md:pb-12">
@@ -41,10 +29,9 @@ export function FilmHero({ view }: { view: FilmView; locale: Locale }) {
               {view.tags.map((tag) => (
                 <li key={tag.href ?? tag.text} className="mr-4">
                   {tag.href ? (
-                    // Arşiv sayfası M4'te gelir; o zamana kadar ön yükleme 404 üretir.
                     <Link
                       href={tag.href}
-                      prefetch={false}
+                      prefetch={tag.prefetch}
                       className="border-b border-accent text-accent"
                     >
                       {tag.text}

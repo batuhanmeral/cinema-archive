@@ -1,0 +1,211 @@
+{
+  "tmdbId": 139,
+  "slug": "mifune-1999",
+  "year": 1999,
+  "runtime": 98,
+  "originalTitle": "Mifunes sidste sang",
+  "title": {
+    "en": "Mifune",
+    "tr": "Mifunes sidste sang"
+  },
+  "overview": {
+    "en": "Kresten, newly wed, is on the threshold of a great career success in his father-in-law’s company. But when the death of his own father takes him back to his poverty-stricken childhood home, far out in the country, his career plans fall apart. For one thing he has to deal with his loveable, backward brother, who is now all alone; for another, he meets a stunning woman who comes to the farm as a housekeeper, in disguise of her real profession as a call-girl.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qEg7dmFcPqjF5kBYD0Bkz2CVyYB.jpg",
+    "en": "/962ZZDr4FV3L46ZnurqIaZveL60.jpg"
+  },
+  "backdrops": [
+    "/hzR0YPFfNBM5yJcnsAIOKJtv6.jpg",
+    "/luPyx8j6pwIxaGzvWNSsUYGqdV0.jpg",
+    "/6nAZyWMk2FjILuqltlYZEUeg4Az.jpg",
+    "/u3VR8fCveYuzzBqfke1u8lZOFto.jpg",
+    "/w36VagPO4tzo6gTlV9i25g6ElCf.jpg",
+    "/krupQH2jbmdJPkZcX9NW2bKpw85.jpg",
+    "/uhRaHpugeDbYiyNLZOWfQO5YGZd.jpg",
+    "/zhUgfB5O9HURSfj8svZku05moxE.jpg",
+    "/loKd8o8v5w5bHplRyZUEX3gn82S.jpg",
+    "/gpC1zBmxR4yNXyLNxwlqb63X6ff.jpg"
+  ],
+  "trailerKey": "d4vbOOPnW6M",
+  "genreIds": [
+    18,
+    35,
+    10749
+  ],
+  "keywordIds": [
+    791,
+    549,
+    570,
+    793,
+    548,
+    509,
+    3739,
+    792,
+    213,
+    550,
+    554,
+    6271,
+    17997,
+    158558,
+    315002
+  ],
+  "countries": [
+    "DK",
+    "SE"
+  ],
+  "languages": [
+    "da"
+  ],
+  "studios": [
+    "Nimbus Film",
+    "DR",
+    "SVT Drama"
+  ],
+  "crew": [
+    {
+      "personId": 1558,
+      "job": "director"
+    },
+    {
+      "personId": 1559,
+      "job": "producer"
+    },
+    {
+      "personId": 1560,
+      "job": "producer"
+    },
+    {
+      "personId": 1570,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1012,
+      "job": "writer"
+    },
+    {
+      "personId": 1558,
+      "job": "writer"
+    },
+    {
+      "personId": 1443467,
+      "job": "composer"
+    },
+    {
+      "personId": 84242,
+      "job": "composer"
+    },
+    {
+      "personId": 1954360,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1184,
+      "character": "Kresten",
+      "order": 0
+    },
+    {
+      "personId": 1562,
+      "character": "Liva",
+      "order": 1
+    },
+    {
+      "personId": 1563,
+      "character": "Rud",
+      "order": 2
+    },
+    {
+      "personId": 1564,
+      "character": "Claire",
+      "order": 3
+    },
+    {
+      "personId": 1565,
+      "character": "Bjarke",
+      "order": 4
+    },
+    {
+      "personId": 1566,
+      "character": "Gerner",
+      "order": 5
+    },
+    {
+      "personId": 4458,
+      "character": "Pernille",
+      "order": 6
+    },
+    {
+      "personId": 1567,
+      "character": "Nina",
+      "order": 7
+    },
+    {
+      "personId": 1568,
+      "character": "Hanne",
+      "order": 8
+    },
+    {
+      "personId": 1569,
+      "character": "Lykke",
+      "order": 9
+    },
+    {
+      "personId": 32683,
+      "character": "Bibi",
+      "order": 10
+    },
+    {
+      "personId": 206469,
+      "character": "Lady of bakery",
+      "order": 11
+    },
+    {
+      "personId": 110047,
+      "character": "The Voice",
+      "order": 12
+    },
+    {
+      "personId": 82537,
+      "character": "Palle Alfons",
+      "order": 13
+    },
+    {
+      "personId": 131573,
+      "character": "Claire's mother",
+      "order": 14
+    },
+    {
+      "personId": 298813,
+      "character": "Older customer",
+      "order": 15
+    },
+    {
+      "personId": 4463,
+      "character": "Priest",
+      "order": 16
+    },
+    {
+      "personId": 4468,
+      "character": "Hooker #1",
+      "order": 17
+    },
+    {
+      "personId": 3402,
+      "character": "Hooker #2",
+      "order": 18
+    },
+    {
+      "personId": 1170689,
+      "character": "Gerner's friend",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 77,
+  "sources": [
+    "movement:dogme-95"
+  ]
+}

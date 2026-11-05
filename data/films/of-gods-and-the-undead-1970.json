@@ -1,0 +1,164 @@
+{
+  "tmdbId": 193532,
+  "slug": "of-gods-and-the-undead-1970",
+  "year": 1970,
+  "runtime": 97,
+  "originalTitle": "Os Deuses e os Mortos",
+  "title": {
+    "en": "Of Gods and the Undead",
+    "tr": "Os Deuses e os Mortos"
+  },
+  "overview": {
+    "en": "In the 1930s, in the South of State of Bahia, Brazil, an adventurer with no name or history, who has already been shot seven times, gets involved in the battle for land and cacao plantations. His plan is to take the place of \"Colonel\" Santana, taking his wife and money. He starts a bloody conflict, in which many simple people and landowners die.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/oMtzkVvhQenUr0JBg8oLNnDg7Kg.jpg",
+    "en": "/oMtzkVvhQenUr0JBg8oLNnDg7Kg.jpg"
+  },
+  "backdrops": [
+    "/3GVsCEMy9WbUrQCSZhmSaWKZVZX.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    14
+  ],
+  "keywordIds": [],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Companhia Cinematográfica Vera Cruz",
+    "CCFBR Produções",
+    "Daga Filmes"
+  ],
+  "crew": [
+    {
+      "personId": 1101310,
+      "job": "composer"
+    },
+    {
+      "personId": 20548,
+      "job": "writer"
+    },
+    {
+      "personId": 37318,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1173867,
+      "job": "writer"
+    },
+    {
+      "personId": 139299,
+      "job": "writer"
+    },
+    {
+      "personId": 20548,
+      "job": "director"
+    },
+    {
+      "personId": 139299,
+      "job": "producer"
+    },
+    {
+      "personId": 1173890,
+      "job": "producer"
+    },
+    {
+      "personId": 1173889,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 39157,
+      "character": "Soledad",
+      "order": 0
+    },
+    {
+      "personId": 10061,
+      "character": "The Man",
+      "order": 1
+    },
+    {
+      "personId": 571932,
+      "character": "Sereno",
+      "order": 2
+    },
+    {
+      "personId": 130036,
+      "character": "Valu",
+      "order": 3
+    },
+    {
+      "personId": 229254,
+      "character": "Urbano",
+      "order": 4
+    },
+    {
+      "personId": 1173869,
+      "character": "Colonel Santana",
+      "order": 5
+    },
+    {
+      "personId": 1173870,
+      "character": "Man in White",
+      "order": 6
+    },
+    {
+      "personId": 1173871,
+      "character": "Prostitute",
+      "order": 7
+    },
+    {
+      "personId": 1101310,
+      "character": "Dim Dum",
+      "order": 8
+    },
+    {
+      "personId": 1173872,
+      "character": "Jura",
+      "order": 9
+    },
+    {
+      "personId": 1173873,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1173874,
+      "character": "Meu Anjo",
+      "order": 11
+    },
+    {
+      "personId": 1173875,
+      "character": "Banker",
+      "order": 12
+    },
+    {
+      "personId": 1173876,
+      "character": "Cosme",
+      "order": 13
+    },
+    {
+      "personId": 1173877,
+      "character": "Crazy Woman",
+      "order": 14
+    },
+    {
+      "personId": 1173878,
+      "character": "Aurélio",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

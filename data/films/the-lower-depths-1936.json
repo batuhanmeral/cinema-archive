@@ -1,0 +1,160 @@
+{
+  "tmdbId": 45802,
+  "slug": "the-lower-depths-1936",
+  "year": 1936,
+  "runtime": 92,
+  "originalTitle": "Les Bas-fonds",
+  "title": {
+    "en": "The Lower Depths",
+    "tr": "Ayak Takımı"
+  },
+  "overview": {
+    "en": "Inhabitants of a flophouse struggle to survive under the harsh treatment imposed by the landlord, Kostyleva. One resident, young thief Wasska Pepel, ends his affair with the landlord's wife, Vassilissa, and takes up with her sister, Natacha. Pepel also befriends the baron, a former nobleman fallen on hard times, but Pepel's attempts at happiness are complicated when he's accused of murder by a spiteful Vassilissa.",
+    "tr": "Bir pansiyonun sakinleri, ev sahibinin uyguladığı sert muamele altında hayatta kalma mücadelesi verir. Genç hırsız Wasska Pepel, ev sahibinin karısıyla olan ilişkisini bitirir ve onun kız kardeşi Natacha ile birlikte olur. Ancak Pepel'in mutluluk arayışı, kinci ev sahibi tarafından cinayetle suçlandığında karmaşıklaşır."
+  },
+  "poster": {
+    "tr": "/9jKTFaQE4jYeMRqoY1tR1Flp73n.jpg",
+    "en": "/9jKTFaQE4jYeMRqoY1tR1Flp73n.jpg"
+  },
+  "backdrops": [
+    "/m52b2oxpV1ScHjLEwjsgtnkdhQt.jpg",
+    "/gdgFlDO5Ax6lHnoQxKqFJ6cQ7C9.jpg",
+    "/nJZyxsDunUH6ItI8kpoUF2w43CL.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10749,
+    80
+  ],
+  "keywordIds": [
+    100,
+    158651,
+    207860,
+    235085
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Albatros"
+  ],
+  "crew": [
+    {
+      "personId": 11528,
+      "job": "director"
+    },
+    {
+      "personId": 11528,
+      "job": "writer"
+    },
+    {
+      "personId": 1292811,
+      "job": "writer"
+    },
+    {
+      "personId": 58232,
+      "job": "writer"
+    },
+    {
+      "personId": 39206,
+      "job": "writer"
+    },
+    {
+      "personId": 11530,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1021827,
+      "job": "producer"
+    },
+    {
+      "personId": 36997,
+      "job": "composer"
+    },
+    {
+      "personId": 1306896,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11544,
+      "character": "Pepel Wasska",
+      "order": 0
+    },
+    {
+      "personId": 213448,
+      "character": "Vassilissa Kostyleva",
+      "order": 1
+    },
+    {
+      "personId": 109345,
+      "character": "Le baron",
+      "order": 2
+    },
+    {
+      "personId": 146566,
+      "character": "Nastia, la prostituée",
+      "order": 3
+    },
+    {
+      "personId": 239781,
+      "character": "Natacha, la sœur de Vassilissa",
+      "order": 4
+    },
+    {
+      "personId": 581210,
+      "character": "Anna",
+      "order": 5
+    },
+    {
+      "personId": 14533,
+      "character": "le vieux Kostileff",
+      "order": 6
+    },
+    {
+      "personId": 49000,
+      "character": "l'acteur alcoolique",
+      "order": 7
+    },
+    {
+      "personId": 320107,
+      "character": "le comte",
+      "order": 8
+    },
+    {
+      "personId": 535167,
+      "character": "le commissaire Toptoum",
+      "order": 9
+    },
+    {
+      "personId": 40969,
+      "character": "Lukas, le philosophe",
+      "order": 10
+    },
+    {
+      "personId": 11601,
+      "character": "Félix, le valet de chambre du baron",
+      "order": 11
+    },
+    {
+      "personId": 239398,
+      "character": "Aliocha, le fou accordéoniste",
+      "order": 12
+    },
+    {
+      "personId": 239033,
+      "character": "Uncredited",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 85,
+  "sources": [
+    "movement:french-poetic-realism"
+  ]
+}

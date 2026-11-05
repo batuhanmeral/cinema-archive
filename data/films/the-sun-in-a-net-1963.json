@@ -1,0 +1,149 @@
+{
+  "tmdbId": 47903,
+  "slug": "the-sun-in-a-net-1963",
+  "year": 1963,
+  "runtime": 90,
+  "originalTitle": "Slnko v sieti",
+  "title": {
+    "en": "The Sun in a Net",
+    "tr": "Slnko v sieti"
+  },
+  "overview": {
+    "en": "Oldrich \"Fajolo\" Fajták (Marián Bielik), a student who directs quasi-existentialist verbal abuse at his girlfriend Bela Blazejová (Jana Beláková), takes off to a formally volunteer summer work camp at a farm where he meets her grandfather.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lORMKI7cGtOW7ocrPqJRTjp0UgH.jpg",
+    "en": "/lORMKI7cGtOW7ocrPqJRTjp0UgH.jpg"
+  },
+  "backdrops": [
+    "/sahQN7DxIPDb0o0TPX7NkAcoH40.jpg",
+    "/6OuBolDy4RjxrsTzyIQuYRf6fjt.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    156866
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "sk"
+  ],
+  "studios": [
+    "Štúdio hraných filmov Bratislava"
+  ],
+  "crew": [
+    {
+      "personId": 1132492,
+      "job": "writer"
+    },
+    {
+      "personId": 1132493,
+      "job": "composer"
+    },
+    {
+      "personId": 137036,
+      "job": "director"
+    },
+    {
+      "personId": 1132494,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1132496,
+      "character": "Fajolo",
+      "order": 0
+    },
+    {
+      "personId": 1132497,
+      "character": "Bela",
+      "order": 1
+    },
+    {
+      "personId": 1132502,
+      "character": "Stana Blazejová",
+      "order": 2
+    },
+    {
+      "personId": 1132498,
+      "character": "Jana",
+      "order": 3
+    },
+    {
+      "personId": 1132499,
+      "character": "Mechanic Blažej",
+      "order": 4
+    },
+    {
+      "personId": 1132503,
+      "character": "Ján Blazej",
+      "order": 5
+    },
+    {
+      "personId": 1132500,
+      "character": "Stohár Blazej",
+      "order": 6
+    },
+    {
+      "personId": 130909,
+      "character": "Peto",
+      "order": 7
+    },
+    {
+      "personId": 3465593,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1132501,
+      "character": "Fisherman",
+      "order": 9
+    },
+    {
+      "personId": 2644584,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 3465597,
+      "character": "Meg",
+      "order": 11
+    },
+    {
+      "personId": 3465600,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 3465602,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 85571,
+      "character": "Fajolo (voice)",
+      "order": 14
+    },
+    {
+      "personId": 222522,
+      "character": "Mechanic Blažej (voice)",
+      "order": 15
+    },
+    {
+      "personId": 3465605,
+      "character": "Meg (voice)",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 37,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

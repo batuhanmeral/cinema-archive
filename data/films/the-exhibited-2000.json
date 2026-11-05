@@ -1,0 +1,48 @@
+{
+  "tmdbId": 154080,
+  "slug": "the-exhibited-2000",
+  "year": 2000,
+  "runtime": 81,
+  "originalTitle": "De Udstillede",
+  "title": {
+    "en": "The Exhibited",
+    "tr": "De Udstillede"
+  },
+  "overview": {
+    "en": "Jesper Jargil's documentary portrait of a bizarre piece of Danish experimental theater directed by Lars von Trier.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/q4nrvMDNymGIZK1v2USOuWbAdZI.jpg",
+    "en": "/q4nrvMDNymGIZK1v2USOuWbAdZI.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    99
+  ],
+  "keywordIds": [],
+  "countries": [
+    "DK"
+  ],
+  "languages": [],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 6154,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 42,
+      "character": "",
+      "order": 0
+    }
+  ],
+  "awards": {},
+  "voteCount": 1,
+  "sources": [
+    "movement:dogme-95"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "tmdbId": 35717,
+  "slug": "pola-x-1999",
+  "year": 1999,
+  "runtime": 134,
+  "originalTitle": "Pola X",
+  "title": {
+    "en": "Pola X",
+    "tr": "Pola X"
+  },
+  "overview": {
+    "en": "A writer leaves his upper-class life and journeys with a woman claiming to be his sister, and her two friends.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/gTmZlEoH03sNtaNeYbboB7vgn5j.jpg",
+    "en": "/gTmZlEoH03sNtaNeYbboB7vgn5j.jpg"
+  },
+  "backdrops": [
+    "/1GLqS5pRl3xpgrPjrIkFpQZH1IZ.jpg",
+    "/w7Hi2UXlMcuxXiKamCZadWiFlAz.jpg",
+    "/8h9uQ3Nd30el9uZRsyYnWQa0QAn.jpg",
+    "/rnp1JjMdvDtteaEWpb7kBvRWUxU.jpg",
+    "/orDaScOcFhrC4XEaeXmVbhyb37D.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    818,
+    213,
+    33841,
+    186849,
+    224663,
+    232938,
+    281237,
+    304976,
+    364719,
+    365846
+  ],
+  "countries": [
+    "FR",
+    "DE",
+    "JP",
+    "CH"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Arena Films",
+    "Pola Production",
+    "Théo Films"
+  ],
+  "crew": [
+    {
+      "personId": 27977,
+      "job": "director"
+    },
+    {
+      "personId": 107173,
+      "job": "composer"
+    },
+    {
+      "personId": 27977,
+      "job": "writer"
+    },
+    {
+      "personId": 73724,
+      "job": "writer"
+    },
+    {
+      "personId": 1537481,
+      "job": "writer"
+    },
+    {
+      "personId": 71400,
+      "job": "producer"
+    },
+    {
+      "personId": 18494,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 35004,
+      "character": "Pierre",
+      "order": 0
+    },
+    {
+      "personId": 95899,
+      "character": "Isabelle",
+      "order": 1
+    },
+    {
+      "personId": 50,
+      "character": "Marie",
+      "order": 2
+    },
+    {
+      "personId": 132182,
+      "character": "Lucie",
+      "order": 3
+    },
+    {
+      "personId": 18178,
+      "character": "Thibault",
+      "order": 4
+    },
+    {
+      "personId": 218502,
+      "character": "Marguerite",
+      "order": 5
+    },
+    {
+      "personId": 2931150,
+      "character": "Razerka",
+      "order": 6
+    },
+    {
+      "personId": 2931151,
+      "character": "La Petite",
+      "order": 7
+    },
+    {
+      "personId": 109598,
+      "character": "Le Chef",
+      "order": 8
+    },
+    {
+      "personId": 931293,
+      "character": "Fred",
+      "order": 9
+    },
+    {
+      "personId": 82187,
+      "character": "Présentateur TV",
+      "order": 10
+    },
+    {
+      "personId": 1441472,
+      "character": "Chauffeur de Taxi",
+      "order": 11
+    },
+    {
+      "personId": 1593690,
+      "character": "Augusto",
+      "order": 12
+    },
+    {
+      "personId": 2101618,
+      "character": "FIls du Patron du Café",
+      "order": 13
+    },
+    {
+      "personId": 28345,
+      "character": "L'Ami Roumain",
+      "order": 14
+    },
+    {
+      "personId": 4242619,
+      "character": "Femme du Chef",
+      "order": 15
+    },
+    {
+      "personId": 2931153,
+      "character": "Policier",
+      "order": 16
+    },
+    {
+      "personId": 1318253,
+      "character": "Policier",
+      "order": 17
+    },
+    {
+      "personId": 91271,
+      "character": "Policier",
+      "order": 18
+    },
+    {
+      "personId": 4242620,
+      "character": "Policier",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 108,
+  "sources": [
+    "movement:new-french-extremity"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "tmdbId": 104193,
+  "slug": "boy-1969",
+  "year": 1969,
+  "runtime": 98,
+  "originalTitle": "少年",
+  "title": {
+    "en": "Boy",
+    "tr": "Boy"
+  },
+  "overview": {
+    "en": "A family of four lives off of scams in which they pretend to be injured by automobiles.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tY2yQaF9MrsICq5EwmfGaaYKOos.jpg",
+    "en": "/tY2yQaF9MrsICq5EwmfGaaYKOos.jpg"
+  },
+  "backdrops": [
+    "/z0E3Mvwf1AKQ2TZ4mshfXF5Jj0Y.jpg",
+    "/aZN4EriVsmIuaYWySzOXnuGrc5I.jpg",
+    "/vvoIxb8YJTMDHavkUB4fM0hOtlp.jpg",
+    "/hfe6zOEUVRpuLWKYyyuZWAPVWO8.jpg",
+    "/l3WBN3LAvo8rRWeRYQm6IOOQEW0.jpg",
+    "/aJUYqEZD8SH1sbYOzXuCrzGzqVz.jpg"
+  ],
+  "trailerKey": "zRlLN_Apq10",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    516,
+    10041,
+    206718,
+    210761,
+    235970,
+    235971,
+    240118
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Sozosha",
+    "Art Theatre Guild"
+  ],
+  "crew": [
+    {
+      "personId": 46230,
+      "job": "director"
+    },
+    {
+      "personId": 1093431,
+      "job": "producer"
+    },
+    {
+      "personId": 1093414,
+      "job": "producer"
+    },
+    {
+      "personId": 1034270,
+      "job": "composer"
+    },
+    {
+      "personId": 1093432,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1169966,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 140624,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 224662,
+      "character": "Father",
+      "order": 0
+    },
+    {
+      "personId": 552315,
+      "character": "Stepmother",
+      "order": 1
+    },
+    {
+      "personId": 2458485,
+      "character": "Boy",
+      "order": 2
+    },
+    {
+      "personId": 2458486,
+      "character": "Younger Brother",
+      "order": 3
+    },
+    {
+      "personId": 1016195,
+      "character": "Victim (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 4280198,
+      "character": "(uncredited)",
+      "order": 5
+    }
+  ],
+  "awards": {},
+  "voteCount": 63,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "tmdbId": 25205,
+  "slug": "the-concert-2009",
+  "year": 2009,
+  "runtime": 119,
+  "originalTitle": "Le Concert",
+  "title": {
+    "en": "The Concert",
+    "tr": "Paris'te Son Konser"
+  },
+  "overview": {
+    "en": "A former world-famous conductor of the Bolshoï orchestra, known as \"The Maëstro\", Andreï Filipov had seen his career publicly broken by Leonid Brezhnev for hiring Jewish musicians and now works cleaning the concert hall where he once directed. One day, he intercepts an official invitation from the prestigious Théâtre du Châtelet. Through a series of mad antics, he reunites his old orchestra, now composed of old alcoholic musicians, and flies to perform in Paris and complete the Tchaikovsky concerto interrupted 30 years earlier. For the concerto, he engages a young violin soloist with whom he has an unexpected connection.",
+    "tr": "Eski orkestra şefi Andrei Filipov, orkestrasının üyelerini yeniden bir araya toplama fırsatını hemen değerlendirir. Tek bir konser için Moskova'dan Paris'e gidecek ve kendilerini Bolşoy Filarmoni olarak tanıtacaklardır. Ancak Andrei'in Paris'te bir işi daha vardır; solo kemancıları olacak genç bir kadınla görüşmesi gerekmektedir. Karanlık sırları nedir? Peki ya gerçek Bolşoy onları yakalarsa?"
+  },
+  "poster": {
+    "tr": "/nMIDVIq7p2mcvolG93FH4Ku3aYJ.jpg",
+    "en": "/nMIDVIq7p2mcvolG93FH4Ku3aYJ.jpg"
+  },
+  "backdrops": [
+    "/Ng3bVep7dL8qQiWhWQlSo2OvpZ.jpg",
+    "/wXBd3oJ2EjxUXQYgmDvoFWFP2ur.jpg",
+    "/5MOCGm7eQPWFD8Oy62Hb1jAubkx.jpg",
+    "/edmBSNl40NUlHPOCHmUxQiZotkB.jpg",
+    "/i05DNfYzioFw5IIWL13RHNkeDty.jpg",
+    "/nIBIpTFLYVyDch9cXIlqeW5Cr1r.jpg",
+    "/dsFI5uDOuao4snjn1xZIw3NGfJ.jpg",
+    "/jR2Ro4uWukmowSDHVKXFpsiTA1S.jpg",
+    "/yBlB30ZrjfIKDsB3dlpJK5dV6zd.jpg",
+    "/gFrXWVGu2dWrjyegj9TEnPypo6X.jpg"
+  ],
+  "trailerKey": "3aait4aOxP0",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    6029,
+    394,
+    3537,
+    4344,
+    9672,
+    15189
+  ],
+  "countries": [
+    "FR",
+    "BE",
+    "RO",
+    "IT"
+  ],
+  "languages": [
+    "ru",
+    "it",
+    "fr"
+  ],
+  "studios": [
+    "Oï  Oï  Oï Productions",
+    "France 3 Cinéma",
+    "EuropaCorp"
+  ],
+  "crew": [
+    {
+      "personId": 20430,
+      "job": "director"
+    },
+    {
+      "personId": 20430,
+      "job": "writer"
+    },
+    {
+      "personId": 20431,
+      "job": "writer"
+    },
+    {
+      "personId": 12677,
+      "job": "writer"
+    },
+    {
+      "personId": 66840,
+      "job": "producer"
+    },
+    {
+      "personId": 81796,
+      "job": "writer"
+    },
+    {
+      "personId": 1116912,
+      "job": "producer"
+    },
+    {
+      "personId": 20430,
+      "job": "producer"
+    },
+    {
+      "personId": 20682,
+      "job": "composer"
+    },
+    {
+      "personId": 6316,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 236749,
+      "character": "Andrey Simonovich Filipov",
+      "order": 0
+    },
+    {
+      "personId": 19119,
+      "character": "Anne-Marie Jacquet",
+      "order": 1
+    },
+    {
+      "personId": 93331,
+      "character": "Aleksandr 'Sasha' Abramovich Grosman",
+      "order": 2
+    },
+    {
+      "personId": 7693,
+      "character": "Olivier Morne Duplessis",
+      "order": 3
+    },
+    {
+      "personId": 4274,
+      "character": "Guylène de La Rivière",
+      "order": 4
+    },
+    {
+      "personId": 7278,
+      "character": "Jean-Paul Carrère",
+      "order": 5
+    },
+    {
+      "personId": 86874,
+      "character": "Ivan Gavrilov",
+      "order": 6
+    },
+    {
+      "personId": 23390,
+      "character": "Secretaire Duplessis",
+      "order": 7
+    },
+    {
+      "personId": 78479,
+      "character": "Bertrand",
+      "order": 8
+    },
+    {
+      "personId": 39959,
+      "character": "Pyotr Tretyakin",
+      "order": 9
+    },
+    {
+      "personId": 557964,
+      "character": "Irina Filipova",
+      "order": 10
+    },
+    {
+      "personId": 34616,
+      "character": "Momo",
+      "order": 11
+    },
+    {
+      "personId": 1861642,
+      "character": "Vassili",
+      "order": 12
+    },
+    {
+      "personId": 935439,
+      "character": "Viktor Vikich",
+      "order": 13
+    },
+    {
+      "personId": 1861645,
+      "character": "Moïse",
+      "order": 14
+    },
+    {
+      "personId": 6554,
+      "character": "Laudeyrac",
+      "order": 15
+    },
+    {
+      "personId": 1006058,
+      "character": "Leonid Vinitchenko",
+      "order": 16
+    },
+    {
+      "personId": 85227,
+      "character": "Kostin Genkine",
+      "order": 17
+    },
+    {
+      "personId": 95003,
+      "character": "Femme Genkine",
+      "order": 18
+    },
+    {
+      "personId": 1861647,
+      "character": "Singer marriage Genkine",
+      "order": 19
+    }
+  ],
+  "awards": {
+    "cesar": 2
+  },
+  "voteCount": 540,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

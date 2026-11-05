@@ -1,0 +1,143 @@
+{
+  "tmdbId": 15842,
+  "slug": "kira-s-reason-a-love-story-2001",
+  "year": 2001,
+  "runtime": 93,
+  "originalTitle": "En kærlighedshistorie",
+  "title": {
+    "en": "Kira's Reason: A Love Story",
+    "tr": "En kærlighedshistorie"
+  },
+  "overview": {
+    "en": "Kira and Mads try to work out their marriage, after Kira has been two years in a mental institution, but is she really ready for the real world?",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yp7Tn4o7UzsYnCcAqoIjszAzFhI.jpg",
+    "en": "/yp7Tn4o7UzsYnCcAqoIjszAzFhI.jpg"
+  },
+  "backdrops": [
+    "/8JB2ermx5Rg7pL8GtzJ8fpvIdwi.jpg"
+  ],
+  "trailerKey": "JVNpVbMU5HQ",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    894,
+    9673,
+    11857,
+    41329,
+    181100,
+    315002
+  ],
+  "countries": [
+    "DK"
+  ],
+  "languages": [
+    "da",
+    "sv",
+    "en"
+  ],
+  "studios": [
+    "Nimbus Film"
+  ],
+  "crew": [
+    {
+      "personId": 56195,
+      "job": "director"
+    },
+    {
+      "personId": 56195,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 71155,
+      "character": "Kira",
+      "order": 0
+    },
+    {
+      "personId": 71158,
+      "character": "Mads",
+      "order": 1
+    },
+    {
+      "personId": 67003,
+      "character": "Kira's father",
+      "order": 2
+    },
+    {
+      "personId": 1174441,
+      "character": "Kay",
+      "order": 3
+    },
+    {
+      "personId": 40300,
+      "character": "Charlotte",
+      "order": 4
+    },
+    {
+      "personId": 1174442,
+      "character": "Michelle",
+      "order": 5
+    },
+    {
+      "personId": 234741,
+      "character": "Gustav",
+      "order": 6
+    },
+    {
+      "personId": 1025,
+      "character": "Mikkel",
+      "order": 7
+    },
+    {
+      "personId": 1174443,
+      "character": "Julius",
+      "order": 8
+    },
+    {
+      "personId": 91515,
+      "character": "Mads' boss",
+      "order": 9
+    },
+    {
+      "personId": 15086,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1087001,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1441510,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1151252,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1244882,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1032120,
+      "character": "",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 15,
+  "sources": [
+    "movement:dogme-95"
+  ]
+}

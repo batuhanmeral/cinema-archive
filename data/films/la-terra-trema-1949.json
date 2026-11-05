@@ -1,0 +1,189 @@
+{
+  "tmdbId": 43445,
+  "slug": "la-terra-trema-1949",
+  "year": 1949,
+  "runtime": 160,
+  "originalTitle": "La terra trema",
+  "title": {
+    "en": "La Terra Trema",
+    "tr": "La terra trema"
+  },
+  "overview": {
+    "en": "In rural Sicily, the fishermen live at the mercy of the greedy wholesalers. One family risks everything to buy their own boat and operate independently.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/cVK1GmzkLkVutFT9fFt6V6CripQ.jpg",
+    "en": "/1y4hbm9y8uTOAW1xJPH0Tss42PD.jpg"
+  },
+  "backdrops": [
+    "/fM0KgZqgd8o2uvDL46Xuq0ntPCY.jpg",
+    "/lQO1hDdQAAr6WIC4dO60bBHhGaO.jpg",
+    "/fwtG7TrqR2JLHj3QQEXa4KDPexD.jpg",
+    "/5IM1AslOqXDwaKavNOfVCofOZyG.jpg",
+    "/k8B14kgCwVBKyZrSfQYvZkrvMRM.jpg",
+    "/r1GMbfgKD5VOz6nszTphlSlNMQC.jpg",
+    "/e6k3dWWB75xWYYf2Ndzx65kPbo9.jpg",
+    "/8CzQkneAib7H2QjRhmxDllsx30m.jpg",
+    "/wsealElN7YwGndSn6K23Mu6Tqjp.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1357,
+    629,
+    1422,
+    5420,
+    208408,
+    252193
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Universalia Film",
+    "AR.TE.AS Film"
+  ],
+  "crew": [
+    {
+      "personId": 15127,
+      "job": "director"
+    },
+    {
+      "personId": 1531323,
+      "job": "composer"
+    },
+    {
+      "personId": 229222,
+      "job": "writer"
+    },
+    {
+      "personId": 15127,
+      "job": "writer"
+    },
+    {
+      "personId": 53626,
+      "job": "producer"
+    },
+    {
+      "personId": 1531324,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 15127,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 566338,
+      "character": "Ntoni (uncredited)",
+      "order": 0
+    },
+    {
+      "personId": 566339,
+      "character": "Cola (uncredited)",
+      "order": 1
+    },
+    {
+      "personId": 566340,
+      "character": "La Vecchia Che Ride (uncredited)",
+      "order": 2
+    },
+    {
+      "personId": 566341,
+      "character": "Nicola (uncredited)",
+      "order": 3
+    },
+    {
+      "personId": 1531335,
+      "character": "Rosa (uncredited)",
+      "order": 4
+    },
+    {
+      "personId": 1531336,
+      "character": "Nedda (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 1531337,
+      "character": "Michele (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 1531338,
+      "character": "La Baronessa (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 1531339,
+      "character": "Don Salvatore, il Maresciallo dei Carabinieri (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 1531340,
+      "character": "Lucia (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 1531341,
+      "character": "Mara (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 1531342,
+      "character": "(uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1531343,
+      "character": "Maccarone (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1531344,
+      "character": "Un Bambino (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 4490879,
+      "character": "Vanni (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 4490880,
+      "character": "La Madre (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 4490881,
+      "character": "(uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 4490882,
+      "character": "Un Cliente dell'Osteria (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 4490884,
+      "character": "Pescatore (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1593682,
+      "character": "Narrator (voice) (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 181,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

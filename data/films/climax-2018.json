@@ -1,0 +1,221 @@
+{
+  "tmdbId": 507076,
+  "slug": "climax-2018",
+  "year": 2018,
+  "runtime": 97,
+  "originalTitle": "Climax",
+  "title": {
+    "en": "Climax",
+    "tr": "Climax"
+  },
+  "overview": {
+    "en": "When a dance troupe is lured to an empty school, a bowl of drug-laced sangria causes their jubilant rehearsal to descend into a dark and explosive nightmare as they try to survive the night—and find who's responsible—before it's too late.",
+    "tr": "90’ların ortasında 20 dansçı, üç günlük bir prova için ormandaki yatılı bir okulda bir araya gelir. Birbirini yeni tanıyan ekip provalar dışında da eğlenceli vakit geçirirler. Provalar bitmesinin ardından ayrılmadan önce son bir parti düzenlerler. Fakat içkilerin sayısı arttıkça içlerinden bazıları tuhaf davranışlar sergilemeye başlar. Gençler bir süre sonra tamamen kontrollerini kaybeder. Artık onların içine düştükleri girdaba direnmeleri neredeyse imkansızdır. Müzik, dans, gerilim ve cinsellik dolu bu ortamda kimileri cennette olduğunu hissederken kimileri içinse durum cehennemden farksızdır."
+  },
+  "poster": {
+    "tr": "/47IXH2iEWwX0F7vIyGXaKQ0psBG.jpg",
+    "en": "/5uii7xG8gAofvEh6mkCd5Qbn6u9.jpg"
+  },
+  "backdrops": [
+    "/v0sblc9A8eaE8EqDQ5Y6fELj4oB.jpg",
+    "/jemzkCSzmxtOoAFiLgvtWDnBX25.jpg",
+    "/fze6ArXzE8QHK1NsYdQaOzyFt1S.jpg",
+    "/lLaQVhHquvSQIesEgRODzAj7hXB.jpg",
+    "/bmZoNEvx1lyW3IER7sMGR4CarFC.jpg",
+    "/m4kqfPMG9PcVqDoFki3ipgGCcRL.jpg",
+    "/665Ue3nce8jjlx9oYQHdzotaXmG.jpg",
+    "/mVeVC4L091uxUroJUtUy36vl9uO.jpg",
+    "/eXKebGXqzmeCcxUvVeMPFyNkVqD.jpg",
+    "/1vMDidCn43RBLLfpcqELb88BCGP.jpg"
+  ],
+  "trailerKey": "Hi69nL_VrTE",
+  "genreIds": [
+    18,
+    27,
+    10402
+  ],
+  "keywordIds": [
+    246,
+    516,
+    739,
+    726,
+    3725,
+    2340,
+    1817,
+    2883,
+    5498,
+    9887,
+    11528,
+    33841,
+    41352,
+    155490,
+    158718,
+    181108,
+    199079,
+    208580,
+    217510,
+    224663,
+    262044,
+    323809,
+    325766,
+    325790,
+    325801,
+    350360,
+    365846
+  ],
+  "countries": [
+    "FR",
+    "BE",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Rectangle Productions",
+    "Wild Bunch",
+    "Les Cinémas de la Zone"
+  ],
+  "crew": [
+    {
+      "personId": 14597,
+      "job": "director"
+    },
+    {
+      "personId": 14599,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 8570,
+      "job": "producer"
+    },
+    {
+      "personId": 73395,
+      "job": "producer"
+    },
+    {
+      "personId": 14597,
+      "job": "writer"
+    },
+    {
+      "personId": 56787,
+      "job": "producer"
+    },
+    {
+      "personId": 51323,
+      "job": "producer"
+    },
+    {
+      "personId": 14598,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 568657,
+      "character": "Selva",
+      "order": 0
+    },
+    {
+      "personId": 2041838,
+      "character": "David",
+      "order": 1
+    },
+    {
+      "personId": 2037046,
+      "character": "Lou",
+      "order": 2
+    },
+    {
+      "personId": 2134233,
+      "character": "Daddy",
+      "order": 3
+    },
+    {
+      "personId": 2041840,
+      "character": "Emmanuelle",
+      "order": 4
+    },
+    {
+      "personId": 2134242,
+      "character": "Gazelle",
+      "order": 5
+    },
+    {
+      "personId": 2041839,
+      "character": "Taylor",
+      "order": 6
+    },
+    {
+      "personId": 2041843,
+      "character": "Psyche",
+      "order": 7
+    },
+    {
+      "personId": 2041844,
+      "character": "Ivana",
+      "order": 8
+    },
+    {
+      "personId": 2041845,
+      "character": "Eva",
+      "order": 9
+    },
+    {
+      "personId": 2041834,
+      "character": "Alaia",
+      "order": 10
+    },
+    {
+      "personId": 2041841,
+      "character": "Rocket",
+      "order": 11
+    },
+    {
+      "personId": 2041837,
+      "character": "Riley",
+      "order": 12
+    },
+    {
+      "personId": 2134234,
+      "character": "Omar",
+      "order": 13
+    },
+    {
+      "personId": 2041835,
+      "character": "Bart",
+      "order": 14
+    },
+    {
+      "personId": 2134235,
+      "character": "Kyrra",
+      "order": 15
+    },
+    {
+      "personId": 2041836,
+      "character": "Shirley",
+      "order": 16
+    },
+    {
+      "personId": 2134236,
+      "character": "Dom",
+      "order": 17
+    },
+    {
+      "personId": 2134237,
+      "character": "Sila",
+      "order": 18
+    },
+    {
+      "personId": 1821647,
+      "character": "Jennifer",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 2440,
+  "sources": [
+    "movement:new-french-extremity"
+  ]
+}

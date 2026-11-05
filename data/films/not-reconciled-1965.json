@@ -1,0 +1,157 @@
+{
+  "tmdbId": 128846,
+  "slug": "not-reconciled-1965",
+  "year": 1965,
+  "runtime": 55,
+  "originalTitle": "Nicht versöhnt oder Es hilft nur Gewalt, wo Gewalt herrscht",
+  "title": {
+    "en": "Not Reconciled",
+    "tr": "Nicht versöhnt oder Es hilft nur Gewalt, wo Gewalt herrscht"
+  },
+  "overview": {
+    "en": "A story about the continuity and collapse of history, the power of suppression, and the terror of reconciliation; loyalty, treason and revenge. In a brave cinematic game, Heinrich Böll’s story Billiards at Half-Past Nine is split up into cracks, blocks, breaks and sudden turns, as the life story of a German family, covering numerous generations, is propelled forward.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/cg85XzG0dziEV7hiktTGyhNKbBL.jpg",
+    "en": "/ys6DIc2TWRhurrPmZN23EEQZXEX.jpg"
+  },
+  "backdrops": [
+    "/emREjOlGNpPitgBIasasBUp4FMh.jpg",
+    "/gEN8w2lsXnaytajmeJYp0pJIaKD.jpg",
+    "/y1OAqrb4oasxK2oeIbZNHn6tZjD.jpg",
+    "/gJ4rsTZXXeX6LHjPKzmftKYeqgj.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Straub-Huillet"
+  ],
+  "crew": [
+    {
+      "personId": 935136,
+      "job": "writer"
+    },
+    {
+      "personId": 935136,
+      "job": "director"
+    },
+    {
+      "personId": 935137,
+      "job": "writer"
+    },
+    {
+      "personId": 935136,
+      "job": "producer"
+    },
+    {
+      "personId": 935137,
+      "job": "producer"
+    },
+    {
+      "personId": 935137,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2330942,
+      "character": "Robert Fähmel",
+      "order": 0
+    },
+    {
+      "personId": 2330943,
+      "character": "Hugo",
+      "order": 1
+    },
+    {
+      "personId": 2330944,
+      "character": "Young Robert Fähmel",
+      "order": 2
+    },
+    {
+      "personId": 2330945,
+      "character": "Young Schrella",
+      "order": 3
+    },
+    {
+      "personId": 2330946,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 2330947,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 2330948,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 2330949,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 2330950,
+      "character": "Old Heinrich Fähmel",
+      "order": 8
+    },
+    {
+      "personId": 558960,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 26528,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1536500,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 54794,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1351623,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 221348,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 935137,
+      "character": "Young Johanna Fähmel",
+      "order": 15
+    },
+    {
+      "personId": 3251082,
+      "character": "Edith",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 32,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

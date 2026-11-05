@@ -1,0 +1,193 @@
+{
+  "tmdbId": 43904,
+  "slug": "l-atalante-1934",
+  "year": 1934,
+  "runtime": 88,
+  "originalTitle": "L'Atalante",
+  "title": {
+    "en": "L'Atalante",
+    "tr": "Gelip Geçen Çatana"
+  },
+  "overview": {
+    "en": "Newly married couple Juliette and ship captain Jean struggle through marriage as they travel on the L'Atalante along with the captain's first mate and a cabin boy.",
+    "tr": "Jean ve Juliette farklı karakterde olan yeni evlenmiş bir çifttir. Jean'ın maceraperest karakterine karşılık, Juliette kent yaşamının olanaklarına sahip olmayı arzulayan yerleşik bir tiptir. Ama yeni evliler Jean'ın isteği üzerine L'atalante adlı bir gemide yaşamaya başlarlar.  Gemide onlar dışında Jules Baba isimli hayli eksantrik bir kaptan ve tuhaf görünümlü yardımcısı da yaşamaktadır. Juliette gün geçtikçe gemideki yaşamdan sıkılır. Ancak ne olursa olsun aralarındaki aşk Jean'ı terketmesini engellemektedir."
+  },
+  "poster": {
+    "tr": "/yDTHSZGk1G33Q3nBNqhnpgmkyk7.jpg",
+    "en": "/qg3PQG6QeFpcg45XhYQpsYcabna.jpg"
+  },
+  "backdrops": [
+    "/eooCQusEINqdpTMBkECHluyurW9.jpg",
+    "/f0AmEqaEwyhvnoOAQS6h37CDVgp.jpg",
+    "/dFbCil5MUoRX2s4u2XcK7knJpT.jpg",
+    "/3nCGqyXLuTCYCW2BB0aon5B1ZhB.jpg",
+    "/AojqPUeorueQL2mkgpaqdNdLvil.jpg",
+    "/5k03RDvZvuKxLIeRdovtJ5Dyf1W.jpg",
+    "/kSi1kr3r6onG6EOhODfUkzsyP64.jpg",
+    "/rxoR2cYfonHwvu198odLaWasHJi.jpg",
+    "/wNYvrIWBYSw8ryBLzpfGYh5U1qx.jpg",
+    "/ioOS29MAPvOZHhrESI3fnZ3nmKe.jpg"
+  ],
+  "trailerKey": "hq024oIC25I",
+  "genreIds": [
+    35,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    894,
+    6038,
+    9887,
+    14785,
+    165364,
+    178210,
+    325778
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Argui-Film",
+    "Gaumont-Franco Film-Aubert (G.F.F.A)"
+  ],
+  "crew": [
+    {
+      "personId": 142865,
+      "job": "director"
+    },
+    {
+      "personId": 1118847,
+      "job": "producer"
+    },
+    {
+      "personId": 18479,
+      "job": "composer"
+    },
+    {
+      "personId": 5261,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 142916,
+      "job": "writer"
+    },
+    {
+      "personId": 142917,
+      "job": "writer"
+    },
+    {
+      "personId": 142865,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 12748,
+      "character": "Père Jules",
+      "order": 0
+    },
+    {
+      "personId": 11545,
+      "character": "Juliette",
+      "order": 1
+    },
+    {
+      "personId": 11550,
+      "character": "Jean",
+      "order": 2
+    },
+    {
+      "personId": 142918,
+      "character": "Peddler",
+      "order": 3
+    },
+    {
+      "personId": 142915,
+      "character": "Cabin Boy",
+      "order": 4
+    },
+    {
+      "personId": 142919,
+      "character": "Office Manager",
+      "order": 5
+    },
+    {
+      "personId": 142914,
+      "character": "Raspoutine, the boatman",
+      "order": 6
+    },
+    {
+      "personId": 1831912,
+      "character": "(uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 1986204,
+      "character": "Best Man at Wedding (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 1446931,
+      "character": "Passenger at Railway Station (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 247601,
+      "character": "Thief (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 1986212,
+      "character": "Fortune Teller (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1986215,
+      "character": "Master of Ceremonies at Wedding (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 25162,
+      "character": "Passenger at Railway Station (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1057981,
+      "character": "Traveler in a Hurry (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 142917,
+      "character": "(uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 133184,
+      "character": "Policeman with a Bicycle (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 239033,
+      "character": "Passenger at Railway Station (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 2311043,
+      "character": "Juliette's Mother (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 1965940,
+      "character": "Jackie Jackmark (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 489,
+  "sources": [
+    "movement:french-poetic-realism"
+  ]
+}

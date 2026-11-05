@@ -5,6 +5,7 @@ import type { AwardGroup } from '../../src/data/schemas'
 
 const TMDB_BATCH_SIZE = 300
 const AWARD_BATCH_SIZE = 200
+const GENRE_BATCH_SIZE = 200
 
 const QID_PATTERN = /^Q\d+$/
 const NUMERIC_PATTERN = /^\d+$/
@@ -107,4 +108,29 @@ export async function fetchAwardCounts(
       ),
     ]),
   )
+}
+
+const byQidNumber = (a: string, b: string) => Number(a.slice(1)) - Number(b.slice(1))
+
+export async function fetchGenreQids(
+  http: HttpClient,
+  tmdbIds: number[],
+): Promise<Map<number, string[]>> {
+  tmdbIds.forEach(assertTmdbId)
+  const genresByFilm = new Map<number, Set<string>>()
+  for (const batch of batches(tmdbIds, GENRE_BATCH_SIZE)) {
+    const filmValues = batch.map((id) => `"${id}"`).join(' ')
+    const query = `SELECT DISTINCT ?tmdb ?genre WHERE {
+  VALUES ?tmdb { ${filmValues} }
+  ?film wdt:P4947 ?tmdb ; wdt:P136 ?genre
+}`
+    for (const row of await runQuery(http, query, `TMDB ids starting ${batch[0]}`)) {
+      const { tmdb, genre } = row
+      if (!tmdb || !genre || !NUMERIC_PATTERN.test(tmdb.value)) continue
+      const film = Number(tmdb.value)
+      genresByFilm.set(film, (genresByFilm.get(film) ?? new Set()).add(qidOf(genre.value)))
+    }
+  }
+  // Yanıt sırası değişse de çıktı aynı kalsın diye QID'ler sıralanır.
+  return new Map([...genresByFilm].map(([film, genres]) => [film, [...genres].sort(byQidNumber)]))
 }

@@ -1,0 +1,206 @@
+{
+  "tmdbId": 27419,
+  "slug": "les-bonnes-femmes-1960",
+  "year": 1960,
+  "runtime": 100,
+  "originalTitle": "Les Bonnes Femmes",
+  "title": {
+    "en": "Les Bonnes Femmes",
+    "tr": "Les Bonnes Femmes"
+  },
+  "overview": {
+    "en": "Four Parisian women navigate the world of romance and daily life looking to fulfill their dreams.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9KV6RqMfnHmyrqK7phsH6lEQa52.jpg",
+    "en": "/lro6PSrHaO97BTWgJqYC47uvtba.jpg"
+  },
+  "backdrops": [
+    "/r3j8q8kOJm25JobYs6ekhpgI6zy.jpg",
+    "/7Wht4ckYWNyT0qDzjcE9Wm22y4v.jpg",
+    "/6uzuRltRcr9jLpXD37E02xvqFyD.jpg",
+    "/qT9elxrDHERKe8i1XEe8JKDhups.jpg",
+    "/7bIkfjofuPo2A2vmscWaRHrmteW.jpg",
+    "/b8YLpwzHPmIsQ4sI50edAVPSa5f.jpg",
+    "/k0HqfStxgUO8Oikfyns27KaAkCy.jpg",
+    "/aQN8QKknRcR5UGGzD4Gnyw2Y4tH.jpg",
+    "/td4dIR0KkafXQNSgSvKsUTwS1SK.jpg",
+    "/44w8nXodmdiCtV0GkbnVIdZR3Vv.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    90,
+    4809,
+    1849,
+    1253,
+    1759,
+    2172,
+    5248,
+    6844,
+    6951,
+    8181,
+    10170,
+    14735,
+    173687,
+    189443,
+    208202,
+    208992
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "it",
+    "fr"
+  ],
+  "studios": [
+    "Panitalia",
+    "Paris Film"
+  ],
+  "crew": [
+    {
+      "personId": 19069,
+      "job": "director"
+    },
+    {
+      "personId": 19069,
+      "job": "writer"
+    },
+    {
+      "personId": 24295,
+      "job": "composer"
+    },
+    {
+      "personId": 9751,
+      "job": "producer"
+    },
+    {
+      "personId": 19085,
+      "job": "composer"
+    },
+    {
+      "personId": 9750,
+      "job": "producer"
+    },
+    {
+      "personId": 1657,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 19084,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 28254,
+      "character": "Jane",
+      "order": 0
+    },
+    {
+      "personId": 55621,
+      "character": "Jacqueline",
+      "order": 1
+    },
+    {
+      "personId": 19092,
+      "character": "Ginette",
+      "order": 2
+    },
+    {
+      "personId": 372310,
+      "character": "Rita",
+      "order": 3
+    },
+    {
+      "personId": 37992,
+      "character": "Monsieur Belin",
+      "order": 4
+    },
+    {
+      "personId": 39523,
+      "character": "Marcel",
+      "order": 5
+    },
+    {
+      "personId": 114347,
+      "character": "Albert",
+      "order": 6
+    },
+    {
+      "personId": 40165,
+      "character": "Madame Louise",
+      "order": 7
+    },
+    {
+      "personId": 24544,
+      "character": "Henri, Rita's Fiancé",
+      "order": 8
+    },
+    {
+      "personId": 20718,
+      "character": "André, Young Soldier",
+      "order": 9
+    },
+    {
+      "personId": 2893045,
+      "character": "Louis, Poet",
+      "order": 10
+    },
+    {
+      "personId": 2893046,
+      "character": "Polly Cartoon",
+      "order": 11
+    },
+    {
+      "personId": 1678962,
+      "character": "Herself",
+      "order": 12
+    },
+    {
+      "personId": 37114,
+      "character": "Henri's Father",
+      "order": 13
+    },
+    {
+      "personId": 578021,
+      "character": "Henri's Mother",
+      "order": 14
+    },
+    {
+      "personId": 1570264,
+      "character": "Host of a Concert in a Restaurant",
+      "order": 15
+    },
+    {
+      "personId": 1506537,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 13697,
+      "character": "Charlie Boston, Conductor",
+      "order": 17
+    },
+    {
+      "personId": 278368,
+      "character": "Stage Manager",
+      "order": 18
+    },
+    {
+      "personId": 28189,
+      "character": "André Lapierre, Motorcyclist",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 76,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

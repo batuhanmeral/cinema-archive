@@ -1,0 +1,114 @@
+{
+  "tmdbId": 154582,
+  "slug": "artists-under-the-big-top-perplexed-1968",
+  "year": 1968,
+  "runtime": 103,
+  "originalTitle": "Die Artisten in der Zirkuskuppel: Ratlos",
+  "title": {
+    "en": "Artists Under the Big Top: Perplexed",
+    "tr": "Die Artisten in der Zirkuskuppel: Ratlos"
+  },
+  "overview": {
+    "en": "A young circus director ends up going into television after her father, a trapeze performer, dies in a circus accident.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yAJQKddefFmKyEPGwSixY3yyljR.jpg",
+    "en": "/yAJQKddefFmKyEPGwSixY3yyljR.jpg"
+  },
+  "backdrops": [
+    "/8ktn3baJBZQTuyXnJUTk4CA0hP.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    291
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Kairos-Film"
+  ],
+  "crew": [
+    {
+      "personId": 50870,
+      "job": "director"
+    },
+    {
+      "personId": 50870,
+      "job": "writer"
+    },
+    {
+      "personId": 1476315,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 50870,
+      "job": "producer"
+    },
+    {
+      "personId": 20553,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 39303,
+      "character": "Leni Peickert",
+      "order": 0
+    },
+    {
+      "personId": 1046782,
+      "character": "Manfred Peickert",
+      "order": 1
+    },
+    {
+      "personId": 1013897,
+      "character": "Dr. Busch",
+      "order": 2
+    },
+    {
+      "personId": 26836,
+      "character": "Gerloff, Philologe",
+      "order": 3
+    },
+    {
+      "personId": 1304970,
+      "character": "Herr von Lueptow",
+      "order": 4
+    },
+    {
+      "personId": 1304965,
+      "character": "Mackensen, Dompteur",
+      "order": 5
+    },
+    {
+      "personId": 4499687,
+      "character": "Dompteur Houke",
+      "order": 6
+    },
+    {
+      "personId": 4499688,
+      "character": "Gitti Bornemann",
+      "order": 7
+    },
+    {
+      "personId": 4499689,
+      "character": "Assessor Korti",
+      "order": 8
+    }
+  ],
+  "awards": {
+    "venice": 1
+  },
+  "voteCount": 21,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "tmdbId": 107011,
+  "slug": "ballet-mecanique-1924",
+  "year": 1924,
+  "runtime": 19,
+  "originalTitle": "Ballet Mécanique",
+  "title": {
+    "en": "Ballet Mécanique",
+    "tr": "Ballet Mécanique"
+  },
+  "overview": {
+    "en": "Ballet Mécanique is a Dadaist, post-Cubist art film conceived, written, and co-directed by the artist Fernand Léger in collaboration with the filmmaker Dudley Murphy. It has a musical score by the American composer George Antheil.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/qtwJ26jLHCxgZdVp0faIpyZroRR.jpg",
+    "en": "/qtwJ26jLHCxgZdVp0faIpyZroRR.jpg"
+  },
+  "backdrops": [
+    "/9TnuFCyZxlm9GX4QH8K3DIIM9jY.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    14
+  ],
+  "keywordIds": [
+    11021,
+    15216,
+    209402,
+    263548,
+    293336,
+    296477
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [],
+  "studios": [
+    "Synchro-Ciné"
+  ],
+  "crew": [
+    {
+      "personId": 1041262,
+      "job": "director"
+    },
+    {
+      "personId": 1021585,
+      "job": "director"
+    },
+    {
+      "personId": 1041262,
+      "job": "writer"
+    },
+    {
+      "personId": 130222,
+      "job": "producer"
+    },
+    {
+      "personId": 89804,
+      "job": "composer"
+    },
+    {
+      "personId": 150602,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1021585,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1121429,
+      "character": "Smiling Girl",
+      "order": 0
+    },
+    {
+      "personId": 1041262,
+      "character": "",
+      "order": 1
+    },
+    {
+      "personId": 4490821,
+      "character": "Girl with Flower",
+      "order": 2
+    },
+    {
+      "personId": 1021585,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 1059872,
+      "character": "",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 118,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

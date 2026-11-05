@@ -1,0 +1,128 @@
+{
+  "tmdbId": 27519,
+  "slug": "the-student-of-prague-1926",
+  "year": 1926,
+  "runtime": 133,
+  "originalTitle": "Der Student von Prag",
+  "title": {
+    "en": "The Student of Prague",
+    "tr": "Der Student von Prag"
+  },
+  "overview": {
+    "en": "For Balduin, going out to beer parties with his fellow students and fighting out disputes at the tip of the sword have lost their charms. He wants to find love; but how would he, a penniless student, ever dare looking up to any woman worth of loving? Absorbed in his dreary thoughts and indifferent to the advances of Lyduschka, Balduin is unexpectedly offered a fortune by the mysterious money-lender Scapinelli - but on a strange condition...",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6Xr9otsNTCsSpSDhZj0XAO29qUM.jpg",
+    "en": "/cmxqiH1EgvqGFMK4t85xszVSaei.jpg"
+  },
+  "backdrops": [
+    "/9yEmVJhu6I4LXxZGPsa5u7l1xHc.jpg",
+    "/s6meIlqiqBngMGH4ua4Hm6S2Tll.jpg"
+  ],
+  "trailerKey": "t-U-Qai6RFA",
+  "genreIds": [
+    27,
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Sokal-Film GmbH"
+  ],
+  "crew": [
+    {
+      "personId": 1170444,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9837,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 9833,
+      "job": "director"
+    },
+    {
+      "personId": 29120,
+      "job": "composer"
+    },
+    {
+      "personId": 49288,
+      "job": "producer"
+    },
+    {
+      "personId": 9833,
+      "job": "writer"
+    },
+    {
+      "personId": 29100,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3001,
+      "character": "Balduin, Student",
+      "order": 0
+    },
+    {
+      "personId": 98057,
+      "character": "Lyduschka, Blumenmädchen",
+      "order": 1
+    },
+    {
+      "personId": 20535,
+      "character": "Reichsgraf von Schwarzenberg",
+      "order": 2
+    },
+    {
+      "personId": 55144,
+      "character": "Comtesse Margit, seine Tochter",
+      "order": 3
+    },
+    {
+      "personId": 35423,
+      "character": "Freiherr von Waldis-Schwarzenberg, Margits Verlobter",
+      "order": 4
+    },
+    {
+      "personId": 3000,
+      "character": "Scapinelli, Wucherer",
+      "order": 5
+    },
+    {
+      "personId": 1387900,
+      "character": "1. Student",
+      "order": 6
+    },
+    {
+      "personId": 1183936,
+      "character": "2. Student",
+      "order": 7
+    },
+    {
+      "personId": 1388117,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 44280,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1416220,
+      "character": "",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 27,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

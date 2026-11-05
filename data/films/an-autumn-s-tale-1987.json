@@ -1,0 +1,150 @@
+{
+  "tmdbId": 64015,
+  "slug": "an-autumn-s-tale-1987",
+  "year": 1987,
+  "runtime": 98,
+  "originalTitle": "秋天的童話",
+  "title": {
+    "en": "An Autumn's Tale",
+    "tr": "An Autumn's Tale"
+  },
+  "overview": {
+    "en": "Hong Kong native Lee Kay moves to NYC's Chinatown while attending college. When she learns that her boyfriend's cheating, her cousin comforts her.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4q7CAw4lC5T12u9d2Zn9t7MuMww.jpg",
+    "en": "/4q7CAw4lC5T12u9d2Zn9t7MuMww.jpg"
+  },
+  "backdrops": [
+    "/ddqAQ8iKyqoirTjDcJFSZnmrNYz.jpg",
+    "/2EgkWOESxYb7185Og113s1SeobU.jpg",
+    "/bNTFhyQq4LbDaeX82kxhyWKMDwz.jpg",
+    "/fdLdhu13yNoquf8Ttfjv3FKQazb.jpg",
+    "/8Twsvmtsv4aPonifgUgcYKdUDWY.jpg",
+    "/azP4nSXAMfqMxpYGlBMbgS78TfQ.jpg",
+    "/zHWqauWSjWtErO7riLxPfBr7ZGx.jpg",
+    "/jPw3bfugvw8aJlYkZ3SDQYXMBte.jpg",
+    "/mFfwbyGH4bQf7RospyuD6pPKNPa.jpg",
+    "/4Pzqja8IP0bql0M6Al7N1WMNjQk.jpg"
+  ],
+  "trailerKey": "S7RKXY2GpUc",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    242,
+    2356,
+    1900,
+    187056,
+    207844
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "ja",
+    "en",
+    "cn"
+  ],
+  "studios": [
+    "D & B Films"
+  ],
+  "crew": [
+    {
+      "personId": 103602,
+      "job": "director"
+    },
+    {
+      "personId": 238973,
+      "job": "composer"
+    },
+    {
+      "personId": 64171,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 116906,
+      "job": "producer"
+    },
+    {
+      "personId": 954163,
+      "job": "producer"
+    },
+    {
+      "personId": 3932571,
+      "job": "writer"
+    },
+    {
+      "personId": 65961,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 103603,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1619,
+      "character": "Samuel Pang",
+      "order": 0
+    },
+    {
+      "personId": 102880,
+      "character": "Jennifer Lee",
+      "order": 1
+    },
+    {
+      "personId": 224930,
+      "character": "Vincent",
+      "order": 2
+    },
+    {
+      "personId": 1140989,
+      "character": "Mrs. Sherwood",
+      "order": 3
+    },
+    {
+      "personId": 1575171,
+      "character": "Peggy",
+      "order": 4
+    },
+    {
+      "personId": 1087668,
+      "character": "Jennifer's Mother",
+      "order": 5
+    },
+    {
+      "personId": 3959115,
+      "character": "Anna Sherwood",
+      "order": 6
+    },
+    {
+      "personId": 928236,
+      "character": "May Chu",
+      "order": 7
+    },
+    {
+      "personId": 3313757,
+      "character": "NYU Law Student",
+      "order": 8
+    },
+    {
+      "personId": 3932573,
+      "character": "Gang Leader",
+      "order": 9
+    },
+    {
+      "personId": 1575170,
+      "character": "Cow",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 60,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

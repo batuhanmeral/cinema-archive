@@ -1,0 +1,177 @@
+{
+  "tmdbId": 25908,
+  "slug": "the-valley-of-the-bees-1968",
+  "year": 1968,
+  "runtime": 101,
+  "originalTitle": "Údolí včel",
+  "title": {
+    "en": "The Valley of the Bees",
+    "tr": "Údolí včel"
+  },
+  "overview": {
+    "en": "Cast out by his father, young Ondrej joins the Order of the Teutonic Knights, where he is raised by strict monk Armin. After years of hardship, Ondrej escapes from the Order when he is wrongly punished, and sets out for his former home.  Arriving to discover his father to be dead, Ondrej now not only assumes control of his father's properties, but seeks to marry his former stepmother.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xhLW4pc1x2nZjLeGIwCdXbcJ9ZE.jpg",
+    "en": "/fY8GBBwizq3e3n751JFr8Gg5zxR.jpg"
+  },
+  "backdrops": [
+    "/nZwGNDhoOIgwCcJN0WtTw9y5nNI.jpg",
+    "/8YkY17aORYhjYpjNOv9jcLR9z5P.jpg",
+    "/urm8gKCrjCeTGtN0vd0poKPkQvf.jpg",
+    "/zpfkLTGx9v7B7akEcuFzMDja2af.jpg",
+    "/2cdBxmr6QcVlEcfFUXD3BJ4kVjs.jpg",
+    "/29x0RjUWkOCU789cQrsQjM9X1jn.jpg",
+    "/nTTsemposa9ySHlhlymyfp8eB2k.jpg",
+    "/jFiSHSTqrzVw0xek9ZaczyJejjI.jpg",
+    "/8N1PbG16hWP5hNQPgi37ucFd3Oy.jpg"
+  ],
+  "trailerKey": "2igPZeMxRpI",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    41406,
+    215160
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "Filmové studio Barrandov"
+  ],
+  "crew": [
+    {
+      "personId": 226662,
+      "job": "director"
+    },
+    {
+      "personId": 226662,
+      "job": "writer"
+    },
+    {
+      "personId": 544515,
+      "job": "composer"
+    },
+    {
+      "personId": 226663,
+      "job": "writer"
+    },
+    {
+      "personId": 1425227,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 83882,
+      "character": "Ondřej z Vlkova",
+      "order": 0
+    },
+    {
+      "personId": 543889,
+      "character": "Armin von Heide",
+      "order": 1
+    },
+    {
+      "personId": 226667,
+      "character": "pán z Vlkova",
+      "order": 2
+    },
+    {
+      "personId": 226666,
+      "character": "Lenora",
+      "order": 3
+    },
+    {
+      "personId": 1055303,
+      "character": "Brown Friar",
+      "order": 4
+    },
+    {
+      "personId": 11732,
+      "character": "Rotgier",
+      "order": 5
+    },
+    {
+      "personId": 1191846,
+      "character": "Farmer",
+      "order": 6
+    },
+    {
+      "personId": 1886700,
+      "character": "Old Collier",
+      "order": 7
+    },
+    {
+      "personId": 592080,
+      "character": "Young Collier",
+      "order": 8
+    },
+    {
+      "personId": 1886699,
+      "character": "Blind girl",
+      "order": 9
+    },
+    {
+      "personId": 1280720,
+      "character": "Shepherd",
+      "order": 10
+    },
+    {
+      "personId": 1136821,
+      "character": "Old Hunter",
+      "order": 11
+    },
+    {
+      "personId": 592087,
+      "character": "Young Hunter",
+      "order": 12
+    },
+    {
+      "personId": 1183201,
+      "character": "Jakub",
+      "order": 13
+    },
+    {
+      "personId": 936602,
+      "character": "Markvart",
+      "order": 14
+    },
+    {
+      "personId": 592070,
+      "character": "Blasius",
+      "order": 15
+    },
+    {
+      "personId": 3548354,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1788419,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1346838,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 84002,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 52,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

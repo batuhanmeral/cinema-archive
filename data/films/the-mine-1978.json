@@ -1,0 +1,121 @@
+{
+  "tmdbId": 449662,
+  "slug": "the-mine-1978",
+  "year": 1978,
+  "runtime": 90,
+  "originalTitle": "Maden",
+  "title": {
+    "en": "The Mine",
+    "tr": "Maden"
+  },
+  "overview": {
+    "en": "When work accidents in a coal mine start to result in death, İlyas warns his colleagues working in the mine. It starts to collect signatures for the necessary measures to be taken, but the necessary solidarity among the workers cannot be established. A tent theater that comes to the region further complicates things.",
+    "tr": "Zonguldak'ta madende çalışan işçiler, oldukça zor şartlar altında ve yetersiz güvenlik önlemleriyle geceli gündüzlü çalışmaktadırlar. Tek amaçları evlerine ekmek götürmek ve ailelerini geçindirmek olan bu işçilerden İlyas durumun ciddiyetinin farkındadır. Arkadaşları Nurettin ve Ömer'i de uyarır ve sendikanın harekete geçmesi, gerekli güvenlik tedbirlerinin alınması için imza toplar. Fakat işlerinden kovulma korkusuyla pek çok iş dayanışmaya ya da greve destek vermez. İlyas mücadelesinde yalnız kalır ve çıkar grupları tarafından tehdit edilir. Ama acı gerçek çok uzak değildir. Birkaç hafta sonra madende gerçekten ciddi bir patlama yaşanır ve İlyas'ın göçük altında kalır. Hayatını kaybeden işçilerden biri olur. Bunun üzerine maden işçileri İlyas'ın cansız bedenini omuzlarında taşıyarak birlik ve dayanışma sözü verirler."
+  },
+  "poster": {
+    "tr": "/9SYeLxsAZHfo5sMM8ksIjCbQL6h.jpg",
+    "en": "/9SYeLxsAZHfo5sMM8ksIjCbQL6h.jpg"
+  },
+  "backdrops": [
+    "/o4efOzU1yrCTQ1F9KTl3Q1c7m4j.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [],
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [
+    "Maden Film"
+  ],
+  "crew": [
+    {
+      "personId": 1427664,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1380994,
+      "job": "producer"
+    },
+    {
+      "personId": 1380994,
+      "job": "writer"
+    },
+    {
+      "personId": 144180,
+      "job": "composer"
+    },
+    {
+      "personId": 1380994,
+      "job": "director"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 550947,
+      "character": "İlyas",
+      "order": 0
+    },
+    {
+      "personId": 142766,
+      "character": "Nurettin",
+      "order": 1
+    },
+    {
+      "personId": 96975,
+      "character": "Ömer",
+      "order": 2
+    },
+    {
+      "personId": 1047996,
+      "character": "Halkacı",
+      "order": 3
+    },
+    {
+      "personId": 31759,
+      "character": "Nurettin'in karısı",
+      "order": 4
+    },
+    {
+      "personId": 1028507,
+      "character": "Ayşe abla",
+      "order": 5
+    },
+    {
+      "personId": 1202128,
+      "character": "Sendika Başkanı",
+      "order": 6
+    },
+    {
+      "personId": 1296132,
+      "character": "Kumpanya Sahibi",
+      "order": 7
+    },
+    {
+      "personId": 4360250,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 590781,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1715960,
+      "character": "Tarık Akan (voice)",
+      "order": 10
+    }
+  ],
+  "awards": {},
+  "voteCount": 18,
+  "sources": [
+    "yesilcam"
+  ]
+}

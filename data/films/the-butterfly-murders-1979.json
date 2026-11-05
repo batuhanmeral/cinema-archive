@@ -1,0 +1,151 @@
+{
+  "tmdbId": 44914,
+  "slug": "the-butterfly-murders-1979",
+  "year": 1979,
+  "runtime": 88,
+  "originalTitle": "蝶變",
+  "title": {
+    "en": "The Butterfly Murders",
+    "tr": "The Butterfly Murders"
+  },
+  "overview": {
+    "en": "A journalist attempting to solve a mystery in \"Martial World\" enlists the aid of a master fighter and a woman named Green Breeze. They go to a mysterious castle where they come across poisonous butterflies and a black-leather-clad killer.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wgMIuv19WVzXpsP5HkHfzMjWLfF.jpg",
+    "en": "/wgMIuv19WVzXpsP5HkHfzMjWLfF.jpg"
+  },
+  "backdrops": [
+    "/rodYwCG52Vk74EArn2TXmpNPWcH.jpg",
+    "/pqLVH5w7qRWqnZlnCtc2GoywS2w.jpg",
+    "/38j3xEeOwoLs6VghtIOukNRk4yU.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    9648,
+    14,
+    53,
+    27,
+    28
+  ],
+  "keywordIds": [
+    779,
+    209985
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn"
+  ],
+  "studios": [
+    "Seasonal Film Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 26760,
+      "job": "director"
+    },
+    {
+      "personId": 1535558,
+      "job": "producer"
+    },
+    {
+      "personId": 1535553,
+      "job": "writer"
+    },
+    {
+      "personId": 65981,
+      "job": "producer"
+    },
+    {
+      "personId": 119657,
+      "job": "writer"
+    },
+    {
+      "personId": 1535556,
+      "job": "producer"
+    },
+    {
+      "personId": 1535560,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1011224,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 56804,
+      "character": "Fang Hongye",
+      "order": 0
+    },
+    {
+      "personId": 64384,
+      "character": "Green Shadow",
+      "order": 1
+    },
+    {
+      "personId": 228462,
+      "character": "Tian Feng",
+      "order": 2
+    },
+    {
+      "personId": 1355940,
+      "character": "Lady Shen",
+      "order": 3
+    },
+    {
+      "personId": 1523224,
+      "character": "Li / The Thousand Hands",
+      "order": 4
+    },
+    {
+      "personId": 1088685,
+      "character": "Shen Qing",
+      "order": 5
+    },
+    {
+      "personId": 612216,
+      "character": "Guo / The Magic Fire",
+      "order": 6
+    },
+    {
+      "personId": 555632,
+      "character": "No. 10 of the Red Flags",
+      "order": 7
+    },
+    {
+      "personId": 1683418,
+      "character": "Mr. Tsui",
+      "order": 8
+    },
+    {
+      "personId": 1180788,
+      "character": "No. 3 White Flag",
+      "order": 9
+    },
+    {
+      "personId": 1069718,
+      "character": "Thousand Hands Li Kim",
+      "order": 10
+    },
+    {
+      "personId": 1776112,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1776111,
+      "character": "",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 38,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

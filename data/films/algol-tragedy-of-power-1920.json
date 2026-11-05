@@ -1,0 +1,111 @@
+{
+  "tmdbId": 175323,
+  "slug": "algol-tragedy-of-power-1920",
+  "year": 1920,
+  "runtime": 99,
+  "originalTitle": "Algol - Tragödie der Macht",
+  "title": {
+    "en": "Algol: Tragedy of Power",
+    "tr": "Algol - Tragödie der Macht"
+  },
+  "overview": {
+    "en": "An alien from the planet Algol gives a man a device that creates enough energy to power the entire world.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/p6M2lSt0SMShQ9D5BZX0Qzum0nB.jpg",
+    "en": "/p6M2lSt0SMShQ9D5BZX0Qzum0nB.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    878,
+    18
+  ],
+  "keywordIds": [
+    154802,
+    179874,
+    244516
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Deutsche Lichtbild-Gesellschaft e.V. (DLG)"
+  ],
+  "crew": [
+    {
+      "personId": 1157923,
+      "job": "director"
+    },
+    {
+      "personId": 1080272,
+      "job": "writer"
+    },
+    {
+      "personId": 100902,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1551562,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1551561,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2895,
+      "character": "Robert Herne",
+      "order": 0
+    },
+    {
+      "personId": 1093537,
+      "character": "Maria Obal",
+      "order": 1
+    },
+    {
+      "personId": 47172,
+      "character": "Peter Hell",
+      "order": 2
+    },
+    {
+      "personId": 9845,
+      "character": "Algol",
+      "order": 3
+    },
+    {
+      "personId": 1010377,
+      "character": "Yella Ward",
+      "order": 4
+    },
+    {
+      "personId": 1197688,
+      "character": "Reginald Herne",
+      "order": 5
+    },
+    {
+      "personId": 47169,
+      "character": "Leonore Nissen",
+      "order": 6
+    },
+    {
+      "personId": 29143,
+      "character": "Magda Herne",
+      "order": 7
+    },
+    {
+      "personId": 1319550,
+      "character": "Ein Tänzer",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

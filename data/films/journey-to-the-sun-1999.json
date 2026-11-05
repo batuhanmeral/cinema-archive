@@ -1,0 +1,101 @@
+{
+  "tmdbId": 47215,
+  "slug": "journey-to-the-sun-1999",
+  "year": 1999,
+  "runtime": 109,
+  "originalTitle": "Güneşe Yolculuk",
+  "title": {
+    "en": "Journey to the Sun",
+    "tr": "Güneşe Yolculuk"
+  },
+  "overview": {
+    "en": "Mehmet, a young Turkish man newly migrated from Tire, takes a job searching for water leaks below the surface of the streets of Istanbul. Due to a strange set of events, he is mistaken for a Kurd, imprisoned, and brutally beaten. Upon his release, he becomes an outcast marked as a Kurd.",
+    "tr": "Saf bir gencin günümüz Türkiye'sinin gerçeklerinden haberdar olmasının, dostluğun ve cesaretin öyküsüdür.\r Türkiye'nin iki ucundan Berzan, Mehmet ve sevgilisi İstanbul'un alt tabaka yaşamının içinde ayakta kalmaya çalışırken tanışırlar. Gün geçtikçe birbirine bağlanan arkadaşların yaşamı Mehmet'in haksız yere tutklanmasıyla değişir. Bu arada kayıp babasını arayan Berzan'ın başıda sürekli polisle beladadır. Mehmet'in Berzan'a olan bağlılığı onu ülkeyi katederek dostunun köyüne, doğuya bir yolculuğa sürükler. Güneşe Yolculuğa..."
+  },
+  "poster": {
+    "tr": "/dSjfJUaeytjQWhl6kV91FcBBPgA.jpg",
+    "en": "/3ilI1iWve88t1fhwYMZpwIZYBab.jpg"
+  },
+  "backdrops": [
+    "/caRq5BlQ5BKcN245TCsRGAdi9Cv.jpg",
+    "/nz1xZfXDgxsnrRsLTp2ee2O8xFW.jpg",
+    "/ifnlXJW4wD8uNJOdoxMDhgPV3Jn.jpg"
+  ],
+  "trailerKey": "Xk5yOopcZ0c",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    187056
+  ],
+  "countries": [
+    "TR",
+    "DE",
+    "NL"
+  ],
+  "languages": [
+    "ru",
+    "tr",
+    "ku",
+    "en"
+  ],
+  "studios": [
+    "The Film Company",
+    "Medias Res Filmproduktion",
+    "Istisnai Filmler ve Reklamlar (IFR)"
+  ],
+  "crew": [
+    {
+      "personId": 145491,
+      "job": "director"
+    },
+    {
+      "personId": 145491,
+      "job": "writer"
+    },
+    {
+      "personId": 1666147,
+      "job": "producer"
+    },
+    {
+      "personId": 1364840,
+      "job": "composer"
+    },
+    {
+      "personId": 1378,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 587154,
+      "character": "Berzan",
+      "order": 0
+    },
+    {
+      "personId": 1888561,
+      "character": "Mehmet",
+      "order": 1
+    },
+    {
+      "personId": 1888562,
+      "character": "Arzu",
+      "order": 2
+    },
+    {
+      "personId": 1159678,
+      "character": "Süleyman Bey",
+      "order": 3
+    },
+    {
+      "personId": 1514135,
+      "character": "Sexy girl",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 30,
+  "sources": [
+    "movement:new-turkish-cinema"
+  ]
+}

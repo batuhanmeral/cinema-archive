@@ -2,7 +2,7 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from 'node:fs'
 import { tmpdir } from 'node:os'
 import { join } from 'node:path'
 import { afterEach, beforeEach, describe, expect, it } from 'vitest'
-import { makeFilm, makePerson } from '@/data/fixtures'
+import { makeCollection, makeFilm, makeMovement, makePerson } from '@/data/fixtures'
 import { createDataStore } from './data'
 
 let root: string
@@ -25,6 +25,11 @@ beforeEach(() => {
   writeJson(join(dirs.contentDir, 'themes.json'), [
     { keywordId: 4565, name: 'dystopia', tr: 'Distopya', en: 'Dystopia' },
   ])
+  writeJson(join(dirs.dataDir, 'movements.json'), [
+    makeMovement({ slug: 'b-wave', filmIds: [1398, 5] }),
+    makeMovement({ slug: 'a-wave', filmIds: [1398] }),
+  ])
+  writeJson(join(dirs.dataDir, 'collections.json'), [makeCollection()])
   writeJson(join(dirs.contentDir, 'awards.json'), [
     { key: 'oscar', tr: 'Oscar', en: 'Oscar', qids: ['Q19020'] },
   ])
@@ -62,6 +67,36 @@ describe('createDataStore', () => {
     const store = createDataStore(dirs)
     expect(() => store.filmBySlug('broken-2000')).toThrow(/broken-2000\.json/)
     expect(() => store.films()).toThrow(/broken-2000\.json/)
+  })
+
+  it('resolves membership in stored order and finds films by id', () => {
+    const store = createDataStore(dirs)
+    expect(
+      store
+        .membership()
+        .movementsOf(1398)
+        .map((m) => m.slug),
+    ).toEqual(['b-wave', 'a-wave'])
+    expect(
+      store
+        .membership()
+        .movementsOf(5)
+        .map((m) => m.slug),
+    ).toEqual(['b-wave'])
+    expect(
+      store
+        .membership()
+        .collectionsOf(1398)
+        .map((c) => c.slug),
+    ).toEqual(['slow-cinema'])
+    expect(store.membership().collectionsOf(5)).toEqual([])
+    expect(store.filmById(1398)?.slug).toBe('stalker-1979')
+    expect(store.filmById(7)).toBeUndefined()
+  })
+
+  it('throws naming the file when movements.json is invalid', () => {
+    writeJson(join(dirs.dataDir, 'movements.json'), [{ slug: 'x' }])
+    expect(() => createDataStore(dirs).movements()).toThrow(/Invalid data file .*movements\.json/)
   })
 
   it('throws naming the file when a file is not JSON', () => {

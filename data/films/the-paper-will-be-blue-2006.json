@@ -1,0 +1,164 @@
+{
+  "tmdbId": 73682,
+  "slug": "the-paper-will-be-blue-2006",
+  "year": 2006,
+  "runtime": 92,
+  "originalTitle": "Hîrtia va fi albastrã",
+  "title": {
+    "en": "The Paper Will Be Blue",
+    "tr": "Hîrtia va fi albastrã"
+  },
+  "overview": {
+    "en": "Out of enthusiasm, a Militia soldier abandons his platoon and decides to fight for the cause of the Revolution. His Lieutenant and the rest of the crew look for him during the confused night of 22-23 December 1989.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4MlOWyZpZEDK7kYzW3mAR3P4vsf.jpg",
+    "en": "/4MlOWyZpZEDK7kYzW3mAR3P4vsf.jpg"
+  },
+  "backdrops": [
+    "/anlEeAZnZJBS7gH0bxpDv34AksV.jpg",
+    "/fO6cDLt4bh6gcByLzbANBnm1luy.jpg"
+  ],
+  "trailerKey": "v5ewa0xE7pI",
+  "genreIds": [
+    18,
+    28,
+    53,
+    10752
+  ],
+  "keywordIds": [],
+  "countries": [
+    "RO"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "Multi Media Est"
+  ],
+  "crew": [
+    {
+      "personId": 1011109,
+      "job": "writer"
+    },
+    {
+      "personId": 129564,
+      "job": "director"
+    },
+    {
+      "personId": 129564,
+      "job": "writer"
+    },
+    {
+      "personId": 107535,
+      "job": "writer"
+    },
+    {
+      "personId": 1011110,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1146959,
+      "character": "Costi",
+      "order": 0
+    },
+    {
+      "personId": 39962,
+      "character": "Lt. Neagu",
+      "order": 1
+    },
+    {
+      "personId": 129565,
+      "character": "Dragos",
+      "order": 2
+    },
+    {
+      "personId": 85226,
+      "character": "Bogdan",
+      "order": 3
+    },
+    {
+      "personId": 39960,
+      "character": "Vasile",
+      "order": 4
+    },
+    {
+      "personId": 85230,
+      "character": "Aurel",
+      "order": 5
+    },
+    {
+      "personId": 1146960,
+      "character": "Dna Andronescu",
+      "order": 6
+    },
+    {
+      "personId": 85227,
+      "character": "Craciun",
+      "order": 7
+    },
+    {
+      "personId": 1011111,
+      "character": "Lt. Deleanu",
+      "order": 8
+    },
+    {
+      "personId": 588825,
+      "character": "Lt. Voinescu",
+      "order": 9
+    },
+    {
+      "personId": 1146961,
+      "character": "Redactor TVR",
+      "order": 10
+    },
+    {
+      "personId": 1331483,
+      "character": "Ranit",
+      "order": 11
+    },
+    {
+      "personId": 1088976,
+      "character": "Maior Costinas",
+      "order": 12
+    },
+    {
+      "personId": 1017315,
+      "character": "Panghe",
+      "order": 13
+    },
+    {
+      "personId": 557861,
+      "character": "Dorina",
+      "order": 14
+    },
+    {
+      "personId": 60422,
+      "character": "Georgescu",
+      "order": 15
+    },
+    {
+      "personId": 1146962,
+      "character": "Col. Argaseala",
+      "order": 16
+    },
+    {
+      "personId": 971726,
+      "character": "Angela",
+      "order": 17
+    },
+    {
+      "personId": 965597,
+      "character": "Sg. Pana",
+      "order": 18
+    }
+  ],
+  "awards": {},
+  "voteCount": 30,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

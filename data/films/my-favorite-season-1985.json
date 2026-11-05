@@ -1,0 +1,117 @@
+{
+  "tmdbId": 471843,
+  "slug": "my-favorite-season-1985",
+  "year": 1985,
+  "runtime": 100,
+  "originalTitle": "最想念的季節",
+  "title": {
+    "en": "My Favorite Season",
+    "tr": "My Favorite Season"
+  },
+  "overview": {
+    "en": "Bi Bao-Liang is a 29 year-old man who believes that he will have bad luck if he touches a woman before he turns thirty. Liu Xiang-mei is a beautiful woman who had a love affair with her married boss, and now she is pregnant. In order to give her child a family name, she decides to find a man to have a one-year marriage contract. Bi Bao-Liang is the perfect man she is looking for because he is afraid of women. However, their marriage does not follow what they've planned...",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/zyiHPP39RA1Oh6EZSzIW2f0biAC.jpg",
+    "en": "/zyiHPP39RA1Oh6EZSzIW2f0biAC.jpg"
+  },
+  "backdrops": [
+    "/aiZ0RPSyZYZzEOcxkQeL9S6FO56.jpg"
+  ],
+  "trailerKey": "D3AJsK5eoXo",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "TW"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "studios": [
+    "Central Motion Picture Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 1638430,
+      "job": "producer"
+    },
+    {
+      "personId": 1158874,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3448568,
+      "job": "producer"
+    },
+    {
+      "personId": 1316884,
+      "job": "composer"
+    },
+    {
+      "personId": 1712385,
+      "job": "writer"
+    },
+    {
+      "personId": 64992,
+      "job": "writer"
+    },
+    {
+      "personId": 1158874,
+      "job": "director"
+    },
+    {
+      "personId": 1324807,
+      "job": "writer"
+    },
+    {
+      "personId": 69831,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 26739,
+      "character": "Liu Xiang-mei",
+      "order": 0
+    },
+    {
+      "personId": 1192656,
+      "character": "Bi Bao-liang",
+      "order": 1
+    },
+    {
+      "personId": 143036,
+      "character": "Bi Bao-liang's brother-in-law",
+      "order": 2
+    },
+    {
+      "personId": 1325544,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 136891,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1656521,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 617505,
+      "character": "",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 2,
+  "sources": [
+    "movement:new-taiwan-cinema"
+  ]
+}

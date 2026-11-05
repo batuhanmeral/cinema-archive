@@ -1,0 +1,139 @@
+{
+  "tmdbId": 46326,
+  "slug": "port-of-shadows-1938",
+  "year": 1938,
+  "runtime": 93,
+  "originalTitle": "Le quai des brumes",
+  "title": {
+    "en": "Port of Shadows",
+    "tr": "Le quai des brumes"
+  },
+  "overview": {
+    "en": "Down a foggy, desolate road to the port city of Le Havre travels Jean, an army deserter looking for another chance to make good on life. Fate, however, has a different plan for him, as acts of both revenge and kindness render him front-page news.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/2S8O2V50TZlXV8uabOvGUJ1i5CZ.jpg",
+    "en": "/6uDVpuGN20qaBfGkP1qhnzB4CvX.jpg"
+  },
+  "backdrops": [
+    "/tdRp4HCCw4YoWtZuqlePNcZ0nCA.jpg",
+    "/fyzuCjPlIFqRCQwAMXRM55mlY7o.jpg",
+    "/f6UvRuCueBSlaORYqwBBfet80D4.jpg",
+    "/As3aQ20nQluq4Aq95PSYOKjQ9mz.jpg",
+    "/v1FVXTPIlmko2LumJ4zgX5kdOln.jpg",
+    "/roPGP6yjxwSBXczkp54Cmo99HRb.jpg",
+    "/34NucDwsuYWKjvxRUs1Z8KeOwr0.jpg",
+    "/tjhtbxxsCdmyGMMlSLod8e47PcC.jpg",
+    "/zbyQtJcrUTkFSJooMT9jRcLURkk.jpg",
+    "/nuNJpuG1wuChY4sa8DuzO318blx.jpg"
+  ],
+  "trailerKey": "KeBE4ASz_I0",
+  "genreIds": [
+    10749,
+    18,
+    80
+  ],
+  "keywordIds": [
+    254,
+    10026
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Ciné-Alliance"
+  ],
+  "crew": [
+    {
+      "personId": 1758,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 18479,
+      "job": "composer"
+    },
+    {
+      "personId": 25161,
+      "job": "director"
+    },
+    {
+      "personId": 25162,
+      "job": "writer"
+    },
+    {
+      "personId": 590755,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 11544,
+      "character": "Jean",
+      "order": 0
+    },
+    {
+      "personId": 12748,
+      "character": "Zabel",
+      "order": 1
+    },
+    {
+      "personId": 35254,
+      "character": "Nelly",
+      "order": 2
+    },
+    {
+      "personId": 24476,
+      "character": "Lucien",
+      "order": 3
+    },
+    {
+      "personId": 69971,
+      "character": "Panama",
+      "order": 4
+    },
+    {
+      "personId": 308779,
+      "character": "Quart Vittel",
+      "order": 5
+    },
+    {
+      "personId": 49000,
+      "character": "The Painter",
+      "order": 6
+    },
+    {
+      "personId": 40969,
+      "character": "The Doctor",
+      "order": 7
+    },
+    {
+      "personId": 298274,
+      "character": "A Girl",
+      "order": 8
+    },
+    {
+      "personId": 94945,
+      "character": "Hotel Manager",
+      "order": 9
+    },
+    {
+      "personId": 579762,
+      "character": "The Client",
+      "order": 10
+    },
+    {
+      "personId": 72230,
+      "character": "le chauffeur",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 321,
+  "sources": [
+    "movement:french-poetic-realism"
+  ]
+}

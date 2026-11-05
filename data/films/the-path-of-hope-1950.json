@@ -1,0 +1,170 @@
+{
+  "tmdbId": 57628,
+  "slug": "the-path-of-hope-1950",
+  "year": 1950,
+  "runtime": 100,
+  "originalTitle": "Il cammino della speranza",
+  "title": {
+    "en": "The Path of Hope",
+    "tr": "Il cammino della speranza"
+  },
+  "overview": {
+    "en": "The story of a group of Sicilian miners and their families decide to illegally cross the border to France and their hardships.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/3eR3n6K4T4elb6fh7RUWE4MXB3F.jpg",
+    "en": "/3eR3n6K4T4elb6fh7RUWE4MXB3F.jpg"
+  },
+  "backdrops": [
+    "/8yg9RGtDCnTXjpuwk2ZaevyZgj6.jpg",
+    "/xeapHuI0GHmKWjswBIgI9e1ak3f.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Lux Film"
+  ],
+  "crew": [
+    {
+      "personId": 95040,
+      "job": "director"
+    },
+    {
+      "personId": 238464,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 29500,
+      "job": "composer"
+    },
+    {
+      "personId": 5396,
+      "job": "writer"
+    },
+    {
+      "personId": 937250,
+      "job": "producer"
+    },
+    {
+      "personId": 4415,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3268,
+      "character": "Saro Cammarata",
+      "order": 0
+    },
+    {
+      "personId": 1076570,
+      "character": "Barbara Spadaro",
+      "order": 1
+    },
+    {
+      "personId": 119431,
+      "character": "Ciccio Ingaggiatore",
+      "order": 2
+    },
+    {
+      "personId": 1209961,
+      "character": "Accountant",
+      "order": 3
+    },
+    {
+      "personId": 2198721,
+      "character": "Rosa",
+      "order": 4
+    },
+    {
+      "personId": 2198723,
+      "character": "Luca",
+      "order": 5
+    },
+    {
+      "personId": 2198722,
+      "character": "Lorenza",
+      "order": 6
+    },
+    {
+      "personId": 1266409,
+      "character": "Brasi",
+      "order": 7
+    },
+    {
+      "personId": 1872637,
+      "character": "Vanni",
+      "order": 8
+    },
+    {
+      "personId": 1791385,
+      "character": "Misciu",
+      "order": 9
+    },
+    {
+      "personId": 24708,
+      "character": "Mommino",
+      "order": 10
+    },
+    {
+      "personId": 3349788,
+      "character": "Cirmena",
+      "order": 11
+    },
+    {
+      "personId": 3349789,
+      "character": "Antonio",
+      "order": 12
+    },
+    {
+      "personId": 1502718,
+      "character": "Beatificata",
+      "order": 13
+    },
+    {
+      "personId": 3349794,
+      "character": "Nonna",
+      "order": 14
+    },
+    {
+      "personId": 3349796,
+      "character": "Turi",
+      "order": 15
+    },
+    {
+      "personId": 3349798,
+      "character": "Nonno",
+      "order": 16
+    },
+    {
+      "personId": 3349800,
+      "character": "Buda",
+      "order": 17
+    },
+    {
+      "personId": 3349801,
+      "character": "Michelina",
+      "order": 18
+    },
+    {
+      "personId": 3349802,
+      "character": "Diodata",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 48,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

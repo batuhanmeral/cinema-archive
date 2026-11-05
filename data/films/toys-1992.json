@@ -1,0 +1,200 @@
+{
+  "tmdbId": 11597,
+  "slug": "toys-1992",
+  "year": 1992,
+  "runtime": 122,
+  "originalTitle": "Toys",
+  "title": {
+    "en": "Toys",
+    "tr": "Oyuncaklar"
+  },
+  "overview": {
+    "en": "Leslie Zevo is a fun-loving inventor who must save his late father's toy factory from his evil uncle, Leland, a war-mongering general who rules the operation with an iron fist and builds weapons disguised as toys.",
+    "tr": "Leslie Zevo,  babasının oyuncak fabrikasını, demir yumrukla operasyonu yöneten ve oyuncak gibi gizlenmiş silahlar üreten savaş müfrezesi olan kötü amcası Leland'dan kurtarması gereken eğlenceli bir mucit."
+  },
+  "poster": {
+    "tr": "/l0YBVvOvOxoOkggTZ70tNGvGQo4.jpg",
+    "en": "/l0YBVvOvOxoOkggTZ70tNGvGQo4.jpg"
+  },
+  "backdrops": [
+    "/94lkfilyPNfvhqlELWV9CHdfvaH.jpg",
+    "/sxEvWk6HyoegGyjen8oIDMgD8BM.jpg",
+    "/pnQuAXll7AlqmeoGp4ITLR9xARG.jpg",
+    "/trV9tThkGP5hbtJfmgNeayIfvHX.jpg",
+    "/q1guFxAJy49zmG6eE4WCTNAJLHl.jpg",
+    "/kXd8zdNVlBLeluMLy1dnhd55X5K.jpg",
+    "/g9k9jA5boUVlRx503p3wuBeTNpa.jpg",
+    "/VLA5ZjeXCrnsoyohkI26JX0Tgh.jpg",
+    "/195j5fua8b5CesG9DJuR50BlOGh.jpg",
+    "/qGUs20uuQQ3XGrRMrtEX9nHq9Px.jpg"
+  ],
+  "trailerKey": "iltQJJdF8C8",
+  "genreIds": [
+    35,
+    878,
+    14
+  ],
+  "keywordIds": [
+    380,
+    282,
+    697,
+    6464,
+    6476,
+    7136,
+    10911,
+    14643,
+    188170,
+    288883
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "20th Century Fox",
+    "Baltimore Pictures"
+  ],
+  "crew": [
+    {
+      "personId": 8246,
+      "job": "producer"
+    },
+    {
+      "personId": 8246,
+      "job": "director"
+    },
+    {
+      "personId": 947,
+      "job": "composer"
+    },
+    {
+      "personId": 2723,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5162,
+      "job": "producer"
+    },
+    {
+      "personId": 70172,
+      "job": "writer"
+    },
+    {
+      "personId": 8246,
+      "job": "writer"
+    },
+    {
+      "personId": 558105,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2157,
+      "character": "Leslie Zevo",
+      "order": 0
+    },
+    {
+      "personId": 5658,
+      "character": "General Zevo",
+      "order": 1
+    },
+    {
+      "personId": 3234,
+      "character": "Alsatia Zevo",
+      "order": 2
+    },
+    {
+      "personId": 32,
+      "character": "Gwen Tyler",
+      "order": 3
+    },
+    {
+      "personId": 36424,
+      "character": "Patrick Zevo",
+      "order": 4
+    },
+    {
+      "personId": 13295,
+      "character": "Kenneth Zevo",
+      "order": 5
+    },
+    {
+      "personId": 13392,
+      "character": "Owen Owens",
+      "order": 6
+    },
+    {
+      "personId": 5251,
+      "character": "Old General Zevo",
+      "order": 7
+    },
+    {
+      "personId": 5578,
+      "character": "Nurse Debbie",
+      "order": 8
+    },
+    {
+      "personId": 34061,
+      "character": "Choir Soloist",
+      "order": 9
+    },
+    {
+      "personId": 17413,
+      "character": "Cortez",
+      "order": 10
+    },
+    {
+      "personId": 134,
+      "character": "Baker",
+      "order": 11
+    },
+    {
+      "personId": 174906,
+      "character": "Shimera",
+      "order": 12
+    },
+    {
+      "personId": 21485,
+      "character": "Hogenstern",
+      "order": 13
+    },
+    {
+      "personId": 15212,
+      "character": "Guard at Desk",
+      "order": 14
+    },
+    {
+      "personId": 1406685,
+      "character": "General Tegnell",
+      "order": 15
+    },
+    {
+      "personId": 3323834,
+      "character": "General Magraw",
+      "order": 16
+    },
+    {
+      "personId": 2298096,
+      "character": "Researcher",
+      "order": 17
+    },
+    {
+      "personId": 4025,
+      "character": "Researcher",
+      "order": 18
+    },
+    {
+      "personId": 111336,
+      "character": "Researcher",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 621,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

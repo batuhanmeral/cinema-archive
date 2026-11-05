@@ -1,0 +1,161 @@
+{
+  "tmdbId": 334924,
+  "slug": "the-treasure-2015",
+  "year": 2015,
+  "runtime": 89,
+  "originalTitle": "Comoara",
+  "title": {
+    "en": "The Treasure",
+    "tr": "Hazine"
+  },
+  "overview": {
+    "en": "Costi is a family man whose cash-strapped neighbor makes him an intriguing proposition: help him find the fortune reportedly buried somewhere on the grounds of his family’s country home in Romania and split the profits.",
+    "tr": "Ailesiyle huzurlu bir hayat süren Costi'nin en büyük keyiflerinden biri oğluna okuduğu Robin Hood masallarına ayırdığı saatlerdir. Bir akşam beklenmedik şekilde komşularından biri kapısına çalar ve çok acil borç paraya ihtiyacı olduğunu söyler. Böyle bir yardımda bulunamayacağını söyleyen Costi'nin kafası komşusunun bir sonraki ziyaretinde anlattıklarıyla karışır. Komşusu, büyükbabasından miras kalan evinin altında hazine olduğunu ve eğer kendisine dedektör bulmakta yardımcı olursa buldukları hazinenin yarısını Costi'ye vereceğini söyler. Başta şüpheci davranan Costi bir noktada ikna olup yeni bir maceraya atılacaktır."
+  },
+  "poster": {
+    "tr": "/1tdjQwf2lnViMSAmh6ZqNs8owLa.jpg",
+    "en": "/1tdjQwf2lnViMSAmh6ZqNs8owLa.jpg"
+  },
+  "backdrops": [
+    "/7n5CDNG1J8dV31s1N8Lr59rozyw.jpg",
+    "/tmsfABTLoVmSIrieQ61haVu7J1t.jpg",
+    "/lMtsuMN85RdXrvf1uTB1snoJXdO.jpg",
+    "/jPG7Ov7RlkEhXvYgVwa9Oqwd8AS.jpg",
+    "/x6cBainofutjHpvd9ST8ce5HEta.jpg",
+    "/31QWIkwadPFQQwRF7rO7yYlFSbv.jpg",
+    "/3SzuGBBCsEy9HZLp1Q1bBav6fVY.jpg",
+    "/9HfVWWgBRTLjamCQ3ORiDvuGOs0.jpg",
+    "/ngFydbVMSaDPVHz9Zjku2AtNZY9.jpg",
+    "/wOFG3fk0GeFrXLK13UDLhyu69Ce.jpg"
+  ],
+  "trailerKey": "ot_EibshNo0",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    1454
+  ],
+  "countries": [
+    "FR",
+    "RO"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "Rouge International",
+    "Les films du Worso",
+    "42 Km Film"
+  ],
+  "crew": [
+    {
+      "personId": 109293,
+      "job": "director"
+    },
+    {
+      "personId": 109293,
+      "job": "writer"
+    },
+    {
+      "personId": 37628,
+      "job": "producer"
+    },
+    {
+      "personId": 49067,
+      "job": "producer"
+    },
+    {
+      "personId": 1451497,
+      "job": "producer"
+    },
+    {
+      "personId": 1451498,
+      "job": "producer"
+    },
+    {
+      "personId": 1451499,
+      "job": "producer"
+    },
+    {
+      "personId": 1326660,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 592230,
+      "character": "Costi",
+      "order": 0
+    },
+    {
+      "personId": 1020139,
+      "character": "Vanzator",
+      "order": 1
+    },
+    {
+      "personId": 52983,
+      "character": "Sef Costi",
+      "order": 2
+    },
+    {
+      "personId": 119550,
+      "character": "Lica",
+      "order": 3
+    },
+    {
+      "personId": 1451500,
+      "character": "Vanzatoare",
+      "order": 4
+    },
+    {
+      "personId": 1451502,
+      "character": "Cornel",
+      "order": 5
+    },
+    {
+      "personId": 1451503,
+      "character": "Emma Dumont",
+      "order": 6
+    },
+    {
+      "personId": 1451504,
+      "character": "Policeman 1",
+      "order": 7
+    },
+    {
+      "personId": 1769901,
+      "character": "Adrian",
+      "order": 8
+    },
+    {
+      "personId": 2709863,
+      "character": "Raluca",
+      "order": 9
+    },
+    {
+      "personId": 2709864,
+      "character": "Policeman 2",
+      "order": 10
+    },
+    {
+      "personId": 2135502,
+      "character": "Petrescu",
+      "order": 11
+    },
+    {
+      "personId": 2709866,
+      "character": "Copil Adrian",
+      "order": 12
+    },
+    {
+      "personId": 2709868,
+      "character": "Alin",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 68,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

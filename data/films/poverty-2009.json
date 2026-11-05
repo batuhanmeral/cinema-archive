@@ -1,0 +1,100 @@
+{
+  "tmdbId": 270971,
+  "slug": "poverty-2009",
+  "year": 2009,
+  "runtime": 90,
+  "originalTitle": "بی پولی",
+  "title": {
+    "en": "Poverty",
+    "tr": "Poverty"
+  },
+  "overview": {
+    "en": "A haughty acclaimed newly married fashion designer named Iraj is shown the door by his boss after the boss's son arrives at Iran to take over his father's company. Iraj reluctant to promulgate the loss of his job, starts using his savings, trying to conceal the truth from his naive wife. Having squandered all the money he had on trivial matters, he tells his wife about being axed &amp; that's when the tables turn on him.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5jXIiEcZ1dxyLFdOH3WLpju5PqH.jpg",
+    "en": "/5jXIiEcZ1dxyLFdOH3WLpju5PqH.jpg"
+  },
+  "backdrops": [
+    "/nUd1WMUxLHbmRbytTrO6GnsedDr.jpg",
+    "/bHnitutZNEbPBl263D7Btnvrmi9.jpg",
+    "/vviR1muxR460RhpGZjabUAEAMYB.jpg",
+    "/sXBQ0guLcLrT7szRsa2M5wWav5Y.jpg",
+    "/qjtL424iLAqvLHlrVBwSZk5ixkD.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10751,
+    35
+  ],
+  "keywordIds": [
+    18009
+  ],
+  "countries": [
+    "IR"
+  ],
+  "languages": [
+    "fa"
+  ],
+  "studios": [
+    "Hedayat Film"
+  ],
+  "crew": [
+    {
+      "personId": 1182809,
+      "job": "director"
+    },
+    {
+      "personId": 1182807,
+      "job": "writer"
+    },
+    {
+      "personId": 1182809,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1322191,
+      "character": "Iraj",
+      "order": 0
+    },
+    {
+      "personId": 240240,
+      "character": "",
+      "order": 1
+    },
+    {
+      "personId": 1115021,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 1261530,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 1212649,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1322200,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 4893046,
+      "character": "Cousin of Iraj",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 13,
+  "sources": [
+    "movement:iranian-new-wave"
+  ]
+}

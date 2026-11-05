@@ -1,0 +1,176 @@
+{
+  "tmdbId": 74360,
+  "slug": "sao-paulo-incorporated-1965",
+  "year": 1965,
+  "runtime": 109,
+  "originalTitle": "São Paulo, Sociedade Anônima",
+  "title": {
+    "en": "São Paulo, Incorporated",
+    "tr": "São Paulo, Sociedade Anônima"
+  },
+  "overview": {
+    "en": "Carlos is a young man from the São Paulo middle class who works for a big company during a time when foreign automobile industries were settling in Brazil. Shortly after, he accepts a job at a factory that makes automobile parts, where he becomes manager. To a certain extent, he is a family man who works hard, earns well and lives unsatisfied. Without any prospects in his life to change the condition he rejects, his last resort is escaping.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4ENjtOZc1wGuPDSKVgOLhAyb7gN.jpg",
+    "en": "/4ENjtOZc1wGuPDSKVgOLhAyb7gN.jpg"
+  },
+  "backdrops": [
+    "/7LLXBR8WUUDDi0lO75M4XXZQU5S.jpg",
+    "/hwukhCRkOkyzY7muFnJabFXA6f4.jpg",
+    "/r2loyDY3LGtYEL3dDmOMvrYZ7tI.jpg",
+    "/eio7ZSGQDe0QUDC46Z2MS4IDY8C.jpg",
+    "/b49aeC3P7pNTGedBR1HH1JKBTcW.jpg",
+    "/aTiMFOSx9Zo5D0N2K9nnQFnXnQl.jpg",
+    "/vWXSQnwFPpgchZhLEec0HGhsise.jpg",
+    "/s5ef3JPebm1r5CyzjtbiK0r6kz0.jpg",
+    "/guBfLgntmh55udO6DPetBGo3c3s.jpg",
+    "/qJu5rJ9ACo66GWQIFHb8irq18ij.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    237920
+  ],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Socine Produções Cinematográficas"
+  ],
+  "crew": [
+    {
+      "personId": 931098,
+      "job": "composer"
+    },
+    {
+      "personId": 3433262,
+      "job": "producer"
+    },
+    {
+      "personId": 571673,
+      "job": "writer"
+    },
+    {
+      "personId": 571673,
+      "job": "director"
+    },
+    {
+      "personId": 22456,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 262376,
+      "character": "Carlos",
+      "order": 0
+    },
+    {
+      "personId": 228013,
+      "character": "Luciana",
+      "order": 1
+    },
+    {
+      "personId": 250551,
+      "character": "Hilda",
+      "order": 2
+    },
+    {
+      "personId": 479483,
+      "character": "Arturo",
+      "order": 3
+    },
+    {
+      "personId": 130637,
+      "character": "Ana",
+      "order": 4
+    },
+    {
+      "personId": 1169169,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 1267749,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 1546491,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 4463025,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 4463028,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 4463031,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 592505,
+      "character": "Neighbor",
+      "order": 11
+    },
+    {
+      "personId": 3561786,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 3595401,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1918443,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 2927649,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 4463037,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 2285901,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 4463039,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 4463040,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 51,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "tmdbId": 5155,
+  "slug": "obsession-1943",
+  "year": 1943,
+  "runtime": 140,
+  "originalTitle": "Ossessione",
+  "title": {
+    "en": "Obsession",
+    "tr": "Tutku"
+  },
+  "overview": {
+    "en": "Gino, a drifter, begins an affair with inn-owner Giovanna as they plan to get rid of her older husband.",
+    "tr": "Yakışıklı serseri Gino Costa'nın yolu bir gün yaşlı ve çirkin Bragana'nın genç ve güzel karısı Giovanna ile birlikte işlettikleri kafelerine düşer. Beş parasız Gino yediği yemeğin borcunu ufak tefek tamir işleri yaparak öder. Tamirat işlerinin uzaması sonucu misafirliği de uzayan Gino'nun Giovanna ile yakınlaşması ölümcül bir planı da beraberinde getirecektir..."
+  },
+  "poster": {
+    "tr": "/dHB6NdsOxO0dc71ciP2hsv3nTPf.jpg",
+    "en": "/dHB6NdsOxO0dc71ciP2hsv3nTPf.jpg"
+  },
+  "backdrops": [
+    "/7SFG8g8nwDAh7d1Phi44DeVWRxS.jpg",
+    "/6efjJuY8dUUSmMZ3ERS4CNXEp1j.jpg",
+    "/qdRvg7u6Qp6NgkX1uMR3AruVWti.jpg",
+    "/zMjWLRNAvRMmdWEqrWSsaD9kURd.jpg",
+    "/hiHpvvyCTbKusFvf2wn61ktRcE0.jpg",
+    "/k7Lu2cCNgxKTaTpudZRnjnlWYxN.jpg",
+    "/jryhub853qYKqQ9qiHukGoqVpiE.jpg",
+    "/5h4v6EmsuRAwtuVqd7tX5EKqoSs.jpg",
+    "/qk8O08IxkOhcsOYnTyYsv8ehqXu.jpg",
+    "/cM6YmFDP0vB52w8tzQzFvX77cQF.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    80,
+    18,
+    10749
+  ],
+  "keywordIds": [
+    596,
+    818,
+    924,
+    1420,
+    131,
+    1732,
+    9826,
+    10260,
+    13017,
+    174548,
+    199645,
+    208408,
+    237459,
+    248288,
+    252193,
+    316316
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Industrie Cinematografiche Italiane (ICI)"
+  ],
+  "crew": [
+    {
+      "personId": 41632,
+      "job": "composer"
+    },
+    {
+      "personId": 15127,
+      "job": "writer"
+    },
+    {
+      "personId": 41631,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 41634,
+      "job": "writer"
+    },
+    {
+      "personId": 41630,
+      "job": "producer"
+    },
+    {
+      "personId": 41635,
+      "job": "writer"
+    },
+    {
+      "personId": 15127,
+      "job": "director"
+    },
+    {
+      "personId": 32381,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3780,
+      "job": "writer"
+    },
+    {
+      "personId": 229222,
+      "job": "writer"
+    },
+    {
+      "personId": 1024357,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 42407,
+      "character": "Giovanna Bragana",
+      "order": 0
+    },
+    {
+      "personId": 18340,
+      "character": "Gino Costa",
+      "order": 1
+    },
+    {
+      "personId": 42408,
+      "character": "Anita",
+      "order": 2
+    },
+    {
+      "personId": 42409,
+      "character": "The Spaniard",
+      "order": 3
+    },
+    {
+      "personId": 32676,
+      "character": "Police Officer",
+      "order": 4
+    },
+    {
+      "personId": 42410,
+      "character": "Don Remigio",
+      "order": 5
+    },
+    {
+      "personId": 42411,
+      "character": "Giuseppe Bragana",
+      "order": 6
+    },
+    {
+      "personId": 1077249,
+      "character": "Il Bambino (uncredited)",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 278,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

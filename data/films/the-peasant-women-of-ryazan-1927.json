@@ -1,0 +1,115 @@
+{
+  "tmdbId": 189921,
+  "slug": "the-peasant-women-of-ryazan-1927",
+  "year": 1927,
+  "runtime": 88,
+  "originalTitle": "Бабы рязанские",
+  "title": {
+    "en": "The Peasant Women of Ryazan",
+    "tr": "The Peasant Women of Ryazan"
+  },
+  "overview": {
+    "en": "The picture compares the fate of two heroines Anna and her lively and energetic sister-in-law Vasilisa, who openly defies the old way of life.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/l5oi5eYXSB86nAEW4z3WcKe3Hfk.jpg",
+    "en": "/b6ZiVptnvmoktLVAg71gDLHaCTi.jpg"
+  },
+  "backdrops": [
+    "/dMKpwFJGDqgGU5NNYhgQI9CvBtb.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    187056
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Sovkino"
+  ],
+  "crew": [
+    {
+      "personId": 588737,
+      "job": "director"
+    },
+    {
+      "personId": 1620595,
+      "job": "writer"
+    },
+    {
+      "personId": 1620597,
+      "job": "writer"
+    },
+    {
+      "personId": 1620598,
+      "job": "composer"
+    },
+    {
+      "personId": 1396150,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1591994,
+      "character": "Vasiliy Shironin",
+      "order": 0
+    },
+    {
+      "personId": 1620600,
+      "character": "Matveevna",
+      "order": 1
+    },
+    {
+      "personId": 1117973,
+      "character": "Lukerya",
+      "order": 2
+    },
+    {
+      "personId": 1620601,
+      "character": "Ivan Shironin",
+      "order": 3
+    },
+    {
+      "personId": 1620602,
+      "character": "Vasilisa",
+      "order": 4
+    },
+    {
+      "personId": 1620604,
+      "character": "Anna",
+      "order": 5
+    },
+    {
+      "personId": 1620605,
+      "character": "Nicolai, the blacksmith",
+      "order": 6
+    },
+    {
+      "personId": 1620606,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1513417,
+      "character": "(uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 2024383,
+      "character": "(uncredited)",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 26,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

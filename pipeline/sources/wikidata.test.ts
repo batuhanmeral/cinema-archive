@@ -1,6 +1,6 @@
 import { describe, expect, it, vi } from 'vitest'
 import type { HttpClient } from '../lib/http'
-import { fetchAwardCounts, fetchTmdbIdsForQids } from './wikidata'
+import { fetchAwardCounts, fetchGenreQids, fetchTmdbIdsForQids } from './wikidata'
 
 const uri = (qid: string) => ({ type: 'uri', value: `http://www.wikidata.org/entity/${qid}` })
 const lit = (value: string) => ({ type: 'literal', value })
@@ -109,6 +109,35 @@ describe('fetchAwardCounts', () => {
     const bad = { ...oscar, qids: ['Q1 }'] }
     await expect(fetchAwardCounts(http, [275], [bad])).rejects.toThrow(/Invalid QID/)
     await expect(fetchAwardCounts(http, [-1], [oscar])).rejects.toThrow(/Invalid TMDB id/)
+    expect(http.postFormJson).not.toHaveBeenCalled()
+  })
+})
+
+describe('fetchGenreQids', () => {
+  it('maps TMDB ids to sorted genre QIDs', async () => {
+    const http = fakeSparql([
+      { tmdb: lit('1398'), genre: uri('Q471839') },
+      { tmdb: lit('1398'), genre: uri('Q130232') },
+      { tmdb: lit('abc'), genre: uri('Q1') },
+    ])
+    const genres = await fetchGenreQids(http, [1398])
+    expect(genres).toEqual(new Map([[1398, ['Q130232', 'Q471839']]]))
+    const query = (http.postFormJson.mock.calls[0]?.[1] as { query: string }).query
+    expect(query).toContain('wdt:P4947 ?tmdb ; wdt:P136 ?genre')
+  })
+
+  it('sends batches of 200', async () => {
+    const http = fakeSparql([])
+    await fetchGenreQids(
+      http,
+      Array.from({ length: 201 }, (_, i) => i + 1),
+    )
+    expect(http.postFormJson).toHaveBeenCalledTimes(2)
+  })
+
+  it('rejects an invalid TMDB id before any request', async () => {
+    const http = fakeSparql([])
+    await expect(fetchGenreQids(http, [0])).rejects.toThrow(/Invalid TMDB id/)
     expect(http.postFormJson).not.toHaveBeenCalled()
   })
 })

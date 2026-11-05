@@ -1,0 +1,172 @@
+{
+  "tmdbId": 3763,
+  "slug": "onibaba-1964",
+  "year": 1964,
+  "runtime": 105,
+  "originalTitle": "鬼婆",
+  "title": {
+    "en": "Onibaba",
+    "tr": "Şeytan Kadın"
+  },
+  "overview": {
+    "en": "While her son, Kichi, is away at war, a woman and her daughter-in-law survive by killing samurai who stray into their swamp, then selling whatever valuables they find. Both are devastated when they learn that Kichi has died, but his wife soon begins an affair with a neighbor who survived the war, Hachi. The mother disapproves and, when she can't steal Hachi for herself, tries to scare her daughter-in-law with a mysterious mask from a dead samurai.",
+    "tr": "14. yüzyılda Japonya'da geçen hikayede savaşa giden ve geri dönmeyen bir adamın annesi ve karısı bataklıkta yolunu gözlemeye başlar. Yoldan geçen askerleri öldürüp eşyalarını çalarak yaşayan kadınlar, bir gün gizemli bir adamla tanışır. Adam onlara boşuna beklememelerini çünkü yaşlı kadının oğlunun çoktan öldüğünü söyler. Bu haber taze gelini üzdüğü kadar, duygularını da harekete geçirir. Arzuları yeniden alevlenen genç kadın ile bu yabancı buluşup sevişmeye başlarlar. Fakat gelinin bu adamla birlikte olmasını kıskanmaya başlayan yaşlı kadın onları rahat bırakmayacaktır. Her şey yaşlı kadının bir maske bulması ile farklı bir yöne sürüklenecektir."
+  },
+  "poster": {
+    "tr": "/xyPLG53OodhJtvfQEfcmC43l16O.jpg",
+    "en": "/3jRBxiATS9HqbbPzoxUN3uq2D9g.jpg"
+  },
+  "backdrops": [
+    "/AcAMkNfQ21cL7EJzs5eVx24k3H4.jpg",
+    "/ihiFShj2lEAJvtRqD90ejvPZBK4.jpg",
+    "/qemygsWqU0Xprz8wSsJDzXQRPPn.jpg",
+    "/m6AohUfAxMCZGqfttc0nx3jsgM8.jpg",
+    "/fgi1s8axc0AOXkipII2SABL73fH.jpg",
+    "/wZwA7HN8ahWsz5AGsTR5I0UdsjZ.jpg",
+    "/uLeFSNktDmzXxKvZDo5G0wxeawy.jpg",
+    "/ldz5F7oTxjm5CAazOHx4Ffd7Nf7.jpg",
+    "/54peIAf8Ln50eMdic18EFIDLO3N.jpg",
+    "/vZbuN3rcb7tvfzMqzLASITM8VbG.jpg"
+  ],
+  "trailerKey": "s2SkmwgU8qs",
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [
+    233,
+    1462,
+    931,
+    1806,
+    3607,
+    6943,
+    10349,
+    9826,
+    12999,
+    15001,
+    186753,
+    194424,
+    237612,
+    262925
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Kindai Eiga Kyokai"
+  ],
+  "crew": [
+    {
+      "personId": 1034270,
+      "job": "composer"
+    },
+    {
+      "personId": 33727,
+      "job": "director"
+    },
+    {
+      "personId": 33736,
+      "job": "producer"
+    },
+    {
+      "personId": 1183025,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1080810,
+      "job": "producer"
+    },
+    {
+      "personId": 1279793,
+      "job": "producer"
+    },
+    {
+      "personId": 33727,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 33728,
+      "character": "Woman",
+      "order": 0
+    },
+    {
+      "personId": 33729,
+      "character": "Young Woman",
+      "order": 1
+    },
+    {
+      "personId": 33730,
+      "character": "Hachi",
+      "order": 2
+    },
+    {
+      "personId": 33731,
+      "character": "The Samurai",
+      "order": 3
+    },
+    {
+      "personId": 33732,
+      "character": "Ushi",
+      "order": 4
+    },
+    {
+      "personId": 1429146,
+      "character": "Runaway Warrior",
+      "order": 5
+    },
+    {
+      "personId": 1274449,
+      "character": "Runaway Warrior",
+      "order": 6
+    },
+    {
+      "personId": 1177410,
+      "character": "Old Woman",
+      "order": 7
+    },
+    {
+      "personId": 552183,
+      "character": "Horse Riding Samurai",
+      "order": 8
+    },
+    {
+      "personId": 118998,
+      "character": "Horse Riding Samurai",
+      "order": 9
+    },
+    {
+      "personId": 1482646,
+      "character": "Horse Riding Samurai",
+      "order": 10
+    },
+    {
+      "personId": 2476987,
+      "character": "Ushi's Follower",
+      "order": 11
+    },
+    {
+      "personId": 2627954,
+      "character": "Samurai with Blood",
+      "order": 12
+    },
+    {
+      "personId": 552183,
+      "character": "Horse Riding Samurai A",
+      "order": 13
+    },
+    {
+      "personId": 2627955,
+      "character": "Child",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 512,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

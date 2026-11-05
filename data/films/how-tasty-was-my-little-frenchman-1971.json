@@ -1,0 +1,182 @@
+{
+  "tmdbId": 105347,
+  "slug": "how-tasty-was-my-little-frenchman-1971",
+  "year": 1971,
+  "runtime": 84,
+  "originalTitle": "Como Era Gostoso o Meu Francês",
+  "title": {
+    "en": "How Tasty Was My Little Frenchman",
+    "tr": "Como Era Gostoso o Meu Francês"
+  },
+  "overview": {
+    "en": "In 1594 Brazil, a frenchman becomes a prisoner of the Tupinambás. While waiting to be executed, the foreigner learns the habits of the indigenous people and joins a woman who tries to help him escape.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yls9gNguacmJa0UWnBD59u8pC4E.jpg",
+    "en": "/yls9gNguacmJa0UWnBD59u8pC4E.jpg"
+  },
+  "backdrops": [
+    "/iUJAST64A5eiD3nTSY2dhKTIXQD.jpg",
+    "/o79QvXGcoEhSo1gzb5eEpkXxoJ2.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    12,
+    36
+  ],
+  "keywordIds": [
+    209984,
+    346769
+  ],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "fr",
+    "pt"
+  ],
+  "studios": [
+    "Condor Filmes",
+    "Regina Filmes",
+    "LC Barreto"
+  ],
+  "crew": [
+    {
+      "personId": 12386,
+      "job": "writer"
+    },
+    {
+      "personId": 12386,
+      "job": "director"
+    },
+    {
+      "personId": 1173889,
+      "job": "producer"
+    },
+    {
+      "personId": 12388,
+      "job": "producer"
+    },
+    {
+      "personId": 3183721,
+      "job": "producer"
+    },
+    {
+      "personId": 1470685,
+      "job": "composer"
+    },
+    {
+      "personId": 37318,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1088240,
+      "character": "Francês",
+      "order": 0
+    },
+    {
+      "personId": 1088241,
+      "character": "Seboipepe",
+      "order": 1
+    },
+    {
+      "personId": 1088242,
+      "character": "Cunhambebe",
+      "order": 2
+    },
+    {
+      "personId": 1262986,
+      "character": "Mercador francês",
+      "order": 3
+    },
+    {
+      "personId": 1967931,
+      "character": "Pajé",
+      "order": 4
+    },
+    {
+      "personId": 1823484,
+      "character": "Guerreiro",
+      "order": 5
+    },
+    {
+      "personId": 1056859,
+      "character": "Capitão francês",
+      "order": 6
+    },
+    {
+      "personId": 5013844,
+      "character": "",
+      "order": 7
+    },
+    {
+      "personId": 1267723,
+      "character": "Índio",
+      "order": 8
+    },
+    {
+      "personId": 5013848,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 5013849,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1334218,
+      "character": "Índia",
+      "order": 11
+    },
+    {
+      "personId": 1175436,
+      "character": "Índia",
+      "order": 12
+    },
+    {
+      "personId": 5013852,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 5013853,
+      "character": "Índia",
+      "order": 14
+    },
+    {
+      "personId": 5013854,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 5013855,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 5013856,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 5013857,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 5013858,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 45,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

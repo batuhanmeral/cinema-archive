@@ -1,11 +1,14 @@
 'use client'
 
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 import { Suspense, useEffect, useState } from 'react'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
-import { homeHref } from '@/lib/i18n/routes'
+import { collectionsHref, homeHref, movementsHref } from '@/lib/i18n/routes'
 import { LanguageToggle, LanguageToggleFallback } from './LanguageToggle'
+import { MobileMenu } from './MobileMenu'
+import { NavLinks, withoutTrailingSlash } from './NavLinks'
 import {
   INITIAL_NAV_STATE,
   NAV_HEIGHT,
@@ -14,9 +17,17 @@ import {
   type NavState,
 } from './nav-state'
 
-export function Navbar({ locale, overHero }: { locale: Locale; overHero: boolean }) {
+// Hero'su olmayan liste sayfalarında navbar baştan dolu olur.
+function hasHero(pathname: string, locale: Locale): boolean {
+  const path = withoutTrailingSlash(pathname)
+  return path !== movementsHref(locale) && path !== collectionsHref(locale)
+}
+
+export function Navbar({ locale }: { locale: Locale }) {
+  const pathname = usePathname()
+  const overHero = hasHero(pathname, locale)
   const [hidden, setHidden] = useState(INITIAL_NAV_STATE.hidden)
-  const [solid, setSolid] = useState(INITIAL_NAV_STATE.solid)
+  const [solid, setSolid] = useState(!overHero)
 
   useEffect(() => {
     let state: NavState | undefined
@@ -41,10 +52,10 @@ export function Navbar({ locale, overHero }: { locale: Locale; overHero: boolean
       style={{ height: NAV_HEIGHT }}
       className={`fixed inset-x-0 top-0 z-50 border-b text-[13px] transition-transform duration-200 motion-reduce:transition-none ${
         solid ? 'border-line bg-hall' : 'border-transparent'
-      } ${hidden ? '-translate-y-full focus-within:translate-y-0' : 'translate-y-0'}`}
+      } has-[[aria-expanded=true]]:border-line has-[[aria-expanded=true]]:bg-hall ${hidden ? '-translate-y-full focus-within:translate-y-0' : 'translate-y-0'}`}
     >
       <nav className="wrap flex h-full items-center justify-between">
-        {/* Ana sayfa M2'de gelir; o zamana kadar ön yükleme 404 üretir. */}
+        {/* Ana sayfa M3'te gelir; o zamana kadar ön yükleme 404 üretir. */}
         <Link
           href={homeHref(locale)}
           prefetch={false}
@@ -52,9 +63,13 @@ export function Navbar({ locale, overHero }: { locale: Locale; overHero: boolean
         >
           Sinema Arşivi<span className="sr-only"> – {messages[locale].nav.home}</span>
         </Link>
-        <Suspense fallback={<LanguageToggleFallback locale={locale} />}>
-          <LanguageToggle locale={locale} />
-        </Suspense>
+        <div className="hidden items-center md:flex">
+          <NavLinks locale={locale} pathname={pathname} variant="bar" />
+          <Suspense fallback={<LanguageToggleFallback locale={locale} />}>
+            <LanguageToggle locale={locale} />
+          </Suspense>
+        </div>
+        <MobileMenu locale={locale} />
       </nav>
     </header>
   )

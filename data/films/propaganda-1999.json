@@ -1,0 +1,154 @@
+{
+  "tmdbId": 53934,
+  "slug": "propaganda-1999",
+  "year": 1999,
+  "runtime": 120,
+  "originalTitle": "Propaganda",
+  "title": {
+    "en": "Propaganda",
+    "tr": "Propaganda"
+  },
+  "overview": {
+    "en": "Based on a true story set in 1948, customs officer Mehti is faced with the duty of formally setting up the border between Turkey and Syria, dividing his hometown. He is unaware of the pain that will eminently unfold, as families, languages, cultures and lovers are both ripped apart and clash head on in a village once united.",
+    "tr": "Yıl 1948 doğup büyüdüğü Hisli Hisar kasabasına, Gümrük Muhafaza Müdürü olarak dönen Mehdi ve çocukluk arkadaşı Rahim in ailelerinin kasabanın ortasından geçen sınır telleri ile parçalanan hayatlarını anlatıyor. Neredeyse yüzyıllardır birlikte yaşayan Hisli Hisarlıların altüst olan sosyal yaşamlarını, aşklarını, ticaretlerinin önünde duran dikenli telleri ve merkezi otoriteye karşı hayatlarını nasıl savunduklarını görüyor, 1948 de yaşanan bu trajikomik öykünün yarım asırdır çok fazla değişime uğramadığına tanık oluyorsunuz. Bu arada Mehdi'nin oğlu Âdem ile Rahim'in kızı Filiz arasındaki tutkulu aşk, aralarından geçen sınır çizgisi nedeniyle iyice imkansızlaşır."
+  },
+  "poster": {
+    "tr": "/jpSWhd0jYr0luJ7c5a05CiIiHHA.jpg",
+    "en": "/pMe9wka3jO0nJ0pvOIOy0sNKNl.jpg"
+  },
+  "backdrops": [
+    "/Abk9MivHVow7zOqJHjKaMVqW6o0.jpg",
+    "/edJqmKw5DrcWHXqXGjkoZTNM0hR.jpg",
+    "/qMWPUbGoKF8mmK3cm1lMvIy7jAh.jpg",
+    "/lJoI3pLLskdAJFtG69qwh9NY0Bh.jpg",
+    "/ob3rS4GEFjYFoSHeljLhYtjN8nh.jpg",
+    "/x5BIf5Oom7jrAhqqHqug4GK1Beh.jpg",
+    "/oVxSZVwAqbYFXnkLeBb0hif8iUR.jpg"
+  ],
+  "trailerKey": "kpcaoRWY0I4",
+  "genreIds": [
+    35,
+    18,
+    36,
+    10749
+  ],
+  "keywordIds": [],
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [
+    "Plato Film Production"
+  ],
+  "crew": [
+    {
+      "personId": 144151,
+      "job": "director"
+    },
+    {
+      "personId": 144151,
+      "job": "writer"
+    },
+    {
+      "personId": 149312,
+      "job": "writer"
+    },
+    {
+      "personId": 144151,
+      "job": "producer"
+    },
+    {
+      "personId": 4997509,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 149313,
+      "character": "Rahim",
+      "order": 0
+    },
+    {
+      "personId": 97272,
+      "character": "Mehdi",
+      "order": 1
+    },
+    {
+      "personId": 5121,
+      "character": "Filiz",
+      "order": 2
+    },
+    {
+      "personId": 90286,
+      "character": "Adem",
+      "order": 3
+    },
+    {
+      "personId": 149314,
+      "character": "Mahmut",
+      "order": 4
+    },
+    {
+      "personId": 31759,
+      "character": "Şahane",
+      "order": 5
+    },
+    {
+      "personId": 149315,
+      "character": "Azamet",
+      "order": 6
+    },
+    {
+      "personId": 149319,
+      "character": "Kopuk Yasar",
+      "order": 7
+    },
+    {
+      "personId": 149316,
+      "character": "Nazmiye",
+      "order": 8
+    },
+    {
+      "personId": 149317,
+      "character": "Melek",
+      "order": 9
+    },
+    {
+      "personId": 149318,
+      "character": "Hamdi",
+      "order": 10
+    },
+    {
+      "personId": 149321,
+      "character": "Abuzer",
+      "order": 11
+    },
+    {
+      "personId": 149322,
+      "character": "Deli Selami",
+      "order": 12
+    },
+    {
+      "personId": 149323,
+      "character": "Komutan",
+      "order": 13
+    },
+    {
+      "personId": 1058949,
+      "character": "Cemil",
+      "order": 14
+    },
+    {
+      "personId": 144151,
+      "character": "Çoban",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 98,
+  "sources": [
+    "movement:new-turkish-cinema"
+  ]
+}

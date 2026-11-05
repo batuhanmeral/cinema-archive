@@ -1,0 +1,175 @@
+{
+  "tmdbId": 375315,
+  "slug": "the-salesman-2016",
+  "year": 2016,
+  "runtime": 125,
+  "originalTitle": "فروشنده",
+  "title": {
+    "en": "The Salesman",
+    "tr": "Satıcı"
+  },
+  "overview": {
+    "en": "Forced out of their apartment due to dangerous works on a neighboring building, Emad and Rana move into a new flat in the center of Tehran. An incident linked to the previous tenant will dramatically change the young couple’s life.",
+    "tr": "2017 OSCAR ödüllerinde İran adına yarışan filmde, Emad Etesami (Shahab Hosseini) bir lisede edebiyat öğretmeni olarak çalışmaktadır ve aynı zamanda eşi Rana (Taraneh Alidoosti) ile birlikte Arthur Miller’ın 1949 yılında yazdığı “The Death of a Salesman (Bir Satıcının Ölümü)” kitabının uyarlama tiyatro oyununu sahnelemektedir. Evlerinin çürümesi dolayısıyla yeni taşındıkları apartman dairesinde geçecek olan olaylarda, daha önce evde yaşayan kiracıyla ilgili birtakım olaylar Emad ve Rana’nın da hayatını etkileyecektir."
+  },
+  "poster": {
+    "tr": "/cXMwWwy54HRjCXDCw2lHlAUJqzh.jpg",
+    "en": "/92SnkymeKeVZlb6UDfCm7t3taE5.jpg"
+  },
+  "backdrops": [
+    "/woSmQgo1wxE4WRVXWHrmgv3jy2O.jpg",
+    "/hPednKBGLJCz1X4ePIp882iXGPv.jpg",
+    "/pzZXaCVbA5oZiW4FUqfF4x1ZDPb.jpg",
+    "/bswaSOsIaCym28fmRe93YaSHRu1.jpg",
+    "/dRGAtNG0dpahYloyNs7HahdXw67.jpg",
+    "/ilyNWLvmG7LVHuf4HwCrWi7nWy5.jpg",
+    "/7RlH5cg04KhSMjuheZbMclPye3X.jpg",
+    "/nCZX4SXSF75BYTwSn9P2wSpvtKs.jpg",
+    "/cr2pknrD1DFqqNWnJ4PfdaLQOq4.jpg",
+    "/1Fy6XxqmnHeqKXRdKfAhyUTj5yM.jpg"
+  ],
+  "trailerKey": "r-61yYjKHHc",
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    570,
+    2754,
+    6093,
+    4326,
+    5986,
+    10563,
+    18009,
+    184352,
+    232241
+  ],
+  "countries": [
+    "IR",
+    "FR",
+    "QA"
+  ],
+  "languages": [
+    "fa"
+  ],
+  "studios": [
+    "Memento Production",
+    "ARTE France Cinéma",
+    "Asghar Farhadi Productions"
+  ],
+  "crew": [
+    {
+      "personId": 229931,
+      "job": "director"
+    },
+    {
+      "personId": 229931,
+      "job": "writer"
+    },
+    {
+      "personId": 229931,
+      "job": "producer"
+    },
+    {
+      "personId": 10877,
+      "job": "producer"
+    },
+    {
+      "personId": 1083064,
+      "job": "composer"
+    },
+    {
+      "personId": 1534556,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 229933,
+      "character": "Emad Etesami",
+      "order": 0
+    },
+    {
+      "personId": 213371,
+      "character": "Rana Etesami",
+      "order": 1
+    },
+    {
+      "personId": 41525,
+      "character": "Babak",
+      "order": 2
+    },
+    {
+      "personId": 1388562,
+      "character": "Sanam",
+      "order": 3
+    },
+    {
+      "personId": 1694597,
+      "character": "Siavash",
+      "order": 4
+    },
+    {
+      "personId": 1704819,
+      "character": "Naser",
+      "order": 5
+    },
+    {
+      "personId": 1704820,
+      "character": "Kati",
+      "order": 6
+    },
+    {
+      "personId": 1704821,
+      "character": "Majid",
+      "order": 7
+    },
+    {
+      "personId": 1704822,
+      "character": "Sadra",
+      "order": 8
+    },
+    {
+      "personId": 1704823,
+      "character": "Esmat",
+      "order": 9
+    },
+    {
+      "personId": 1704824,
+      "character": "Ali",
+      "order": 10
+    },
+    {
+      "personId": 1704825,
+      "character": "Mojgan",
+      "order": 11
+    },
+    {
+      "personId": 1704826,
+      "character": "Mrs. Shahnazari",
+      "order": 12
+    },
+    {
+      "personId": 1861904,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 3040010,
+      "character": "Mr. Alimoradi (Neighbor)",
+      "order": 14
+    },
+    {
+      "personId": 4547788,
+      "character": "",
+      "order": 15
+    }
+  ],
+  "awards": {
+    "oscar": 1
+  },
+  "voteCount": 967,
+  "sources": [
+    "movement:iranian-new-wave"
+  ]
+}

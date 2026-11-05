@@ -1,0 +1,161 @@
+{
+  "tmdbId": 78450,
+  "slug": "terrorizers-1986",
+  "year": 1986,
+  "runtime": 109,
+  "originalTitle": "恐怖份子",
+  "title": {
+    "en": "Terrorizers",
+    "tr": "Teröristler"
+  },
+  "overview": {
+    "en": "An uncompromising look into urban life from the eyes of a voyeuristic photographer, a rebellious teenager, and a married couple teetering on the edge of adultery.",
+    "tr": "Kariyerist bir doktor ile duygusal olarak olgunlaşmamış bir yazarın evliliğindeki kriz, bir fotoğrafçı ile adi bir suçlunun hayatını da değiştirir. Taipei sokaklarında sirenlerini çalarak giden polis arabaları, şehrin hızlı değişimiyle ortaya çıkan toplumsal çatışmalara ancak tanık olarak kalır."
+  },
+  "poster": {
+    "tr": "/7uX1PVn9Tob81hqwdzAjqPeaXZO.jpg",
+    "en": "/6UCPktMrZNMwydkTIhru6qSVONp.jpg"
+  },
+  "backdrops": [
+    "/bKwEFttfCg30HeruWapNyNmqJkk.jpg",
+    "/5TyfUFEX48VenNoxJBMMb91qkka.jpg",
+    "/qK3kl34oFElsaMrFPrIe6Ot89Q2.jpg",
+    "/es4wEGgtZB2STwvhZpQYDbT6ztm.jpg",
+    "/iJmk4haen8NdfdMxp1ZtbI0dti1.jpg",
+    "/eXGtzu3WFFaJaoad75qaKyxV4tx.jpg",
+    "/vFkloCUgf7yoWMBpIAjk1vqLTuG.jpg",
+    "/vooAbSV1zJqwRNHxCxFQ8fVDm38.jpg",
+    "/olpfrvV1zbODjxFMHkBM8sMu0Cw.jpg",
+    "/mS9JmjrYXKa7IGDkZmITZAJVIq0.jpg"
+  ],
+  "trailerKey": "CrduKni-i-w",
+  "genreIds": [
+    18,
+    80,
+    9648,
+    53
+  ],
+  "keywordIds": [
+    1003,
+    9322,
+    171366,
+    188610
+  ],
+  "countries": [
+    "TW"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "studios": [
+    "Central Motion Picture Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 584053,
+      "job": "writer"
+    },
+    {
+      "personId": 584057,
+      "job": "composer"
+    },
+    {
+      "personId": 1925542,
+      "job": "producer"
+    },
+    {
+      "personId": 143035,
+      "job": "director"
+    },
+    {
+      "personId": 143035,
+      "job": "writer"
+    },
+    {
+      "personId": 584058,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 262128,
+      "character": "Zhou Yufang",
+      "order": 0
+    },
+    {
+      "personId": 545292,
+      "character": "Li Lizhong",
+      "order": 1
+    },
+    {
+      "personId": 582557,
+      "character": "Chen Weibin",
+      "order": 2
+    },
+    {
+      "personId": 228915,
+      "character": "Police Chief",
+      "order": 3
+    },
+    {
+      "personId": 1260191,
+      "character": "Shu An's Mother",
+      "order": 4
+    },
+    {
+      "personId": 1914696,
+      "character": "Shu An",
+      "order": 5
+    },
+    {
+      "personId": 1559776,
+      "character": "Little Qiang",
+      "order": 6
+    },
+    {
+      "personId": 1559780,
+      "character": "Da Shun",
+      "order": 7
+    },
+    {
+      "personId": 3786745,
+      "character": "Little Qiang's Girlfriend",
+      "order": 8
+    },
+    {
+      "personId": 1559773,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1559777,
+      "character": "Little Jin",
+      "order": 10
+    },
+    {
+      "personId": 1559778,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1399243,
+      "character": "Business Manager Brothel Frequenter",
+      "order": 12
+    },
+    {
+      "personId": 1559775,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1606189,
+      "character": "",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 185,
+  "sources": [
+    "movement:new-taiwan-cinema"
+  ]
+}

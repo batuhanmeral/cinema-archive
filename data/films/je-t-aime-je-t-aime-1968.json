@@ -1,0 +1,173 @@
+{
+  "tmdbId": 4798,
+  "slug": "je-t-aime-je-t-aime-1968",
+  "year": 1968,
+  "runtime": 94,
+  "originalTitle": "Je t'aime, je t'aime",
+  "title": {
+    "en": "Je T'Aime, Je T'Aime",
+    "tr": "Je t'aime, je t'aime"
+  },
+  "overview": {
+    "en": "Recovering from an attempted suicide, a man is selected to participate in a time travel experiment that has only been tested on mice. A malfunction causes the man to experience moments from his past in a random order.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lCRSBE0SzRaoOcaJMYGpxDaue9i.jpg",
+    "en": "/lCRSBE0SzRaoOcaJMYGpxDaue9i.jpg"
+  },
+  "backdrops": [
+    "/knn3SEUUakHOoU0a4dDwL1Yi6JF.jpg",
+    "/r7bE6157YDyPqqGzRVS42maLADf.jpg",
+    "/i2NhcTkv3BwGP7dlQmyGANPgMnB.jpg",
+    "/dIwRcWjtoYmwfbXaSySXcOeOL1w.jpg",
+    "/oXyj4lIEcq3Ytgv8xeJBgQgt9k0.jpg",
+    "/nPLWyoYQ9TxZBypJrt6MNavXeKw.jpg",
+    "/skHFl5pGMMf8lxPCXxdCyJnQ11B.jpg"
+  ],
+  "trailerKey": "HElwY3rt8t0",
+  "genreIds": [
+    18,
+    878
+  ],
+  "keywordIds": [
+    725,
+    1706,
+    4379,
+    5455
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "nl",
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Parc Film",
+    "Les Productions Fox Europa"
+  ],
+  "crew": [
+    {
+      "personId": 11983,
+      "job": "director"
+    },
+    {
+      "personId": 26013,
+      "job": "producer"
+    },
+    {
+      "personId": 32319,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 39489,
+      "job": "composer"
+    },
+    {
+      "personId": 39490,
+      "job": "composer"
+    },
+    {
+      "personId": 39488,
+      "job": "writer"
+    },
+    {
+      "personId": 55975,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24903,
+      "character": "Claude Ridder",
+      "order": 0
+    },
+    {
+      "personId": 39491,
+      "character": "Catherine",
+      "order": 1
+    },
+    {
+      "personId": 25839,
+      "character": "Wiana Lust",
+      "order": 2
+    },
+    {
+      "personId": 3833,
+      "character": "Jan Rouffer",
+      "order": 3
+    },
+    {
+      "personId": 3510,
+      "character": "Jane Swolfs",
+      "order": 4
+    },
+    {
+      "personId": 24422,
+      "character": "Bernard Hannecart",
+      "order": 5
+    },
+    {
+      "personId": 39492,
+      "character": "Marcelle Hannecart",
+      "order": 6
+    },
+    {
+      "personId": 25959,
+      "character": "Nicole",
+      "order": 7
+    },
+    {
+      "personId": 39441,
+      "character": "Germaine Coster",
+      "order": 8
+    },
+    {
+      "personId": 39436,
+      "character": "le médecin de Crespel",
+      "order": 9
+    },
+    {
+      "personId": 39493,
+      "character": "le technicien qui vient chercher Ridder",
+      "order": 10
+    },
+    {
+      "personId": 34778,
+      "character": "la fille du tramway et des escaliers",
+      "order": 11
+    },
+    {
+      "personId": 18558,
+      "character": "l'homme du wagon-restaurant",
+      "order": 12
+    },
+    {
+      "personId": 38959,
+      "character": "Le dentiste",
+      "order": 13
+    },
+    {
+      "personId": 39953,
+      "character": "Un responsable d'édition",
+      "order": 14
+    },
+    {
+      "personId": 39442,
+      "character": "Agnès de Smet - la jeune femme qui sait dire non",
+      "order": 15
+    },
+    {
+      "personId": 3064796,
+      "character": "Le technicien aux souris",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 109,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

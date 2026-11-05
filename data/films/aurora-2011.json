@@ -1,0 +1,176 @@
+{
+  "tmdbId": 81527,
+  "slug": "aurora-2011",
+  "year": 2011,
+  "runtime": 186,
+  "originalTitle": "Aurora",
+  "title": {
+    "en": "Aurora",
+    "tr": "Aurora"
+  },
+  "overview": {
+    "en": "A taciturn Romanian divorcee acquires a hunting rifle and initiates a killing spree.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/edmR325BbyaP0uMURbDYXejGvnr.jpg",
+    "en": "/A3Zw3thWLtDrXDKmD6bFHU1DupD.jpg"
+  },
+  "backdrops": [
+    "/6zrHO8VCbeVPP0qu8q1JHHAxtxH.jpg",
+    "/g9fsnoDm1dTR5kIsWIc4CghhB6L.jpg",
+    "/sZ4JXe7dvpjCSHpStTX0WZKklRQ.jpg",
+    "/fuRwDRHz2aoomy7FSIvPdmW7VoJ.jpg",
+    "/8cADtgJlq1U6WbvrevCBUpM4S0J.jpg"
+  ],
+  "trailerKey": "LyYcJgUZ7bE",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    209983
+  ],
+  "countries": [
+    "FR",
+    "DE",
+    "RO",
+    "CH"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "Romanian National Center for Cinematography",
+    "SFP",
+    "Bord Cadre Films"
+  ],
+  "crew": [
+    {
+      "personId": 107533,
+      "job": "director"
+    },
+    {
+      "personId": 107533,
+      "job": "writer"
+    },
+    {
+      "personId": 1326662,
+      "job": "producer"
+    },
+    {
+      "personId": 523067,
+      "job": "producer"
+    },
+    {
+      "personId": 31627,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 107533,
+      "character": "Viorel",
+      "order": 0
+    },
+    {
+      "personId": 129656,
+      "character": "Gina Filip",
+      "order": 1
+    },
+    {
+      "personId": 3932486,
+      "character": "Olguta Filip",
+      "order": 2
+    },
+    {
+      "personId": 1114502,
+      "character": "Pușa",
+      "order": 3
+    },
+    {
+      "personId": 1017306,
+      "character": "Doru Stoian",
+      "order": 4
+    },
+    {
+      "personId": 2409962,
+      "character": "Mrs Dragnea",
+      "order": 5
+    },
+    {
+      "personId": 587474,
+      "character": "Mr Dragnea",
+      "order": 6
+    },
+    {
+      "personId": 6072499,
+      "character": "Lucian Dragnea",
+      "order": 7
+    },
+    {
+      "personId": 1046496,
+      "character": "Mrs. Livinski",
+      "order": 8
+    },
+    {
+      "personId": 6219973,
+      "character": "Luminița",
+      "order": 9
+    },
+    {
+      "personId": 39961,
+      "character": "Mioara Avram",
+      "order": 10
+    },
+    {
+      "personId": 1017315,
+      "character": "Detective",
+      "order": 11
+    },
+    {
+      "personId": 587475,
+      "character": "Lupița",
+      "order": 12
+    },
+    {
+      "personId": 122782,
+      "character": "Emilia",
+      "order": 13
+    },
+    {
+      "personId": 1162060,
+      "character": "Store Clerk",
+      "order": 14
+    },
+    {
+      "personId": 1413085,
+      "character": "Mr Gabi",
+      "order": 15
+    },
+    {
+      "personId": 1415295,
+      "character": "Denis",
+      "order": 16
+    },
+    {
+      "personId": 937518,
+      "character": "Head Pharmacist",
+      "order": 17
+    },
+    {
+      "personId": 2393368,
+      "character": "Miki",
+      "order": 18
+    },
+    {
+      "personId": 1586597,
+      "character": "Pharmacist",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 43,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

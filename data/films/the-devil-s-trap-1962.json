@@ -1,0 +1,177 @@
+{
+  "tmdbId": 117042,
+  "slug": "the-devil-s-trap-1962",
+  "year": 1962,
+  "runtime": 85,
+  "originalTitle": "Ďáblova past",
+  "title": {
+    "en": "The Devil's Trap",
+    "tr": "Ďáblova past"
+  },
+  "overview": {
+    "en": "A small town is one day visited by a priest who is there on a secret mission. He is a member of the Inquisition sent to investigate the activities of a local miller. The miller and his son are the descendants of an old family whose ancestral home burned down a century ago, but was rebuilt from scratch. The miller inherited much of his knowledge about the land, water, and a building's stability from generations of family experience. His reputation for finding water and predicting when a structure might collapse have come to the attention of the Inquisition -surely he must be in league with the Devil.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/py6rBo0HY74vUMlLRhtpbCRBk2c.jpg",
+    "en": "/py6rBo0HY74vUMlLRhtpbCRBk2c.jpg"
+  },
+  "backdrops": [
+    "/k6agLsZ8rlswcckzyEes7A52eOX.jpg",
+    "/nSJl7ob7qmBM1oOZEYs3MpuyCmG.jpg",
+    "/apoeSaN4AxsnZDo6lx3l5vaYGpG.jpg",
+    "/i6ymNyZWFbwMWombIRiEC1i8jDy.jpg",
+    "/eafyGYzcl5oz41TrK8pD15tt5KQ.jpg",
+    "/4TVnVIphQ1ABsq4XlLVB6BodiaF.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    36,
+    18,
+    9648
+  ],
+  "keywordIds": [
+    1415,
+    818,
+    11001,
+    12999
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "Filmové studio Barrandov"
+  ],
+  "crew": [
+    {
+      "personId": 226662,
+      "job": "director"
+    },
+    {
+      "personId": 544515,
+      "job": "composer"
+    },
+    {
+      "personId": 1332220,
+      "job": "writer"
+    },
+    {
+      "personId": 1650370,
+      "job": "writer"
+    },
+    {
+      "personId": 1262160,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 928703,
+      "character": "The Burnt Miller",
+      "order": 0
+    },
+    {
+      "personId": 1055303,
+      "character": "Chaplain Probus",
+      "order": 1
+    },
+    {
+      "personId": 232403,
+      "character": "Regent of Valec",
+      "order": 2
+    },
+    {
+      "personId": 1064974,
+      "character": "Filip the Hunter",
+      "order": 3
+    },
+    {
+      "personId": 127415,
+      "character": "The Miller's Son Jan",
+      "order": 4
+    },
+    {
+      "personId": 23500,
+      "character": "Martina",
+      "order": 5
+    },
+    {
+      "personId": 1280720,
+      "character": "Sheep Shepherd",
+      "order": 6
+    },
+    {
+      "personId": 1182485,
+      "character": "Bishop Dittrichstejn",
+      "order": 7
+    },
+    {
+      "personId": 137035,
+      "character": "Foreman in the Field",
+      "order": 8
+    },
+    {
+      "personId": 227400,
+      "character": "Jakub",
+      "order": 9
+    },
+    {
+      "personId": 592072,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1436636,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 2282411,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1337951,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 23265,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1337930,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1280615,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 592073,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1183276,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1280609,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 34,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

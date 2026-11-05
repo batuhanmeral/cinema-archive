@@ -1,0 +1,174 @@
+{
+  "tmdbId": 160118,
+  "slug": "child-s-pose-2013",
+  "year": 2013,
+  "runtime": 104,
+  "originalTitle": "Poziţia copilului",
+  "title": {
+    "en": "Child's Pose",
+    "tr": "Çocuk Pozu"
+  },
+  "overview": {
+    "en": "Child's Pose is a contemporary drama focusing on the relationship between a mother and her 32-year-old son. After the accidental killing of a boy in a car crash, the mother tries to prevent her son being charged for the death, and she refuses to accept that her son is a grown-up man.",
+    "tr": "Bükreş’in üst sınıf ailelerinden birine mensup olan Bayan Cornelia, oğlunun geçirdiği ölümcül bir trafik kazasından sonra onun tüm sorumluluklarını eline alır. Barbu, kazada küçük bir çocuğu öldürmüştür. Bayan Cornelia, bu durum karşısında oğlu hakkında tüm gerçekleri öğreneceği gibi durumu düzeltmek için tüm varlığını ortaya koyacaktır."
+  },
+  "poster": {
+    "tr": "/speyw7a19JxMZnw1Vhkahci0h9k.jpg",
+    "en": "/eS7eDNgdk9UHbY8ZY3A5w4aI824.jpg"
+  },
+  "backdrops": [
+    "/4ycRAKvHE3B3V4bToTOiWxpGAHi.jpg",
+    "/cBRlYVAHUztqr2zAMeOV8BHjjiS.jpg",
+    "/dIxrqhqbpFjeCjxqyT6xw1NXtBo.jpg"
+  ],
+  "trailerKey": "RHWFfumAQgI",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    13063,
+    164496,
+    190205,
+    209983
+  ],
+  "countries": [
+    "RO"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "Parada Film",
+    "Hai Hui Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 1137536,
+      "job": "director"
+    },
+    {
+      "personId": 107535,
+      "job": "writer"
+    },
+    {
+      "personId": 1137536,
+      "job": "writer"
+    },
+    {
+      "personId": 60407,
+      "job": "producer"
+    },
+    {
+      "personId": 1137536,
+      "job": "producer"
+    },
+    {
+      "personId": 1337632,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 39959,
+      "character": "Dinu Laurențiu",
+      "order": 0
+    },
+    {
+      "personId": 39961,
+      "character": "Cornelia Kerenes - Mother",
+      "order": 1
+    },
+    {
+      "personId": 931367,
+      "character": "Barbu - Son",
+      "order": 2
+    },
+    {
+      "personId": 85229,
+      "character": "Aurelian Făgărașanu",
+      "order": 3
+    },
+    {
+      "personId": 1011111,
+      "character": "agent Pricop",
+      "order": 4
+    },
+    {
+      "personId": 114159,
+      "character": "Luminița Angheliu",
+      "order": 5
+    },
+    {
+      "personId": 1113157,
+      "character": "Traian Angheliu",
+      "order": 6
+    },
+    {
+      "personId": 65649,
+      "character": "Carmen",
+      "order": 7
+    },
+    {
+      "personId": 479941,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1162059,
+      "character": "Olga",
+      "order": 9
+    },
+    {
+      "personId": 983490,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1308421,
+      "character": "(Herself)",
+      "order": 11
+    },
+    {
+      "personId": 1816190,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1113163,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 588825,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1617287,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 60407,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1899157,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1552315,
+      "character": "",
+      "order": 18
+    }
+  ],
+  "awards": {
+    "berlin": 1
+  },
+  "voteCount": 151,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

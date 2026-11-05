@@ -1,0 +1,191 @@
+{
+  "tmdbId": 137347,
+  "slug": "closer-to-the-moon-2014",
+  "year": 2014,
+  "runtime": 112,
+  "originalTitle": "Closer to the Moon",
+  "title": {
+    "en": "Closer to the Moon",
+    "tr": "Closer to the Moon"
+  },
+  "overview": {
+    "en": "A Romanian police officer teams up with a small crew of bank robbers to pull off a heist by convincing everyone at the scene of the crime that they are only filming a movie.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/pBqnSEkLMZoEFgOCQLxM7wKmmS0.jpg",
+    "en": "/o3sIjA3fmLtDEl0p4scRSVvRr8q.jpg"
+  },
+  "backdrops": [
+    "/qaqV7EF3UOoJi3ai0iUiFiugnFJ.jpg",
+    "/etiRPW9VGuXYwtwN0TYHTPrTbLD.jpg"
+  ],
+  "trailerKey": "_7tOgHYnvgE",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    15363
+  ],
+  "countries": [
+    "IT",
+    "PL",
+    "RO",
+    "US"
+  ],
+  "languages": [
+    "en",
+    "ro"
+  ],
+  "studios": [
+    "Agresywna Banda",
+    "Denis Friedman Productions",
+    "Mandragora Movies"
+  ],
+  "crew": [
+    {
+      "personId": 55520,
+      "job": "director"
+    },
+    {
+      "personId": 55520,
+      "job": "writer"
+    },
+    {
+      "personId": 1745551,
+      "job": "composer"
+    },
+    {
+      "personId": 931382,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 523067,
+      "job": "producer"
+    },
+    {
+      "personId": 3215205,
+      "job": "producer"
+    },
+    {
+      "personId": 586473,
+      "job": "producer"
+    },
+    {
+      "personId": 3215207,
+      "job": "producer"
+    },
+    {
+      "personId": 46813,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 21657,
+      "character": "Alice Bercovich",
+      "order": 0
+    },
+    {
+      "personId": 2983,
+      "character": "Max Rosenthal",
+      "order": 1
+    },
+    {
+      "personId": 205258,
+      "character": "Virgil",
+      "order": 2
+    },
+    {
+      "personId": 27397,
+      "character": "Holban",
+      "order": 3
+    },
+    {
+      "personId": 202047,
+      "character": "Răzvan Orodel",
+      "order": 4
+    },
+    {
+      "personId": 28478,
+      "character": "Iorgu Ristea",
+      "order": 5
+    },
+    {
+      "personId": 62972,
+      "character": "Dumitru 'Dumi' Dorneanu",
+      "order": 6
+    },
+    {
+      "personId": 145242,
+      "character": "Sonia Rosenthal",
+      "order": 7
+    },
+    {
+      "personId": 78018,
+      "character": "Flaviu",
+      "order": 8
+    },
+    {
+      "personId": 36901,
+      "character": "Prison Commander",
+      "order": 9
+    },
+    {
+      "personId": 83816,
+      "character": "Judge",
+      "order": 10
+    },
+    {
+      "personId": 186396,
+      "character": "Minister",
+      "order": 11
+    },
+    {
+      "personId": 79866,
+      "character": "Moritz",
+      "order": 12
+    },
+    {
+      "personId": 92432,
+      "character": "Sarah",
+      "order": 13
+    },
+    {
+      "personId": 587975,
+      "character": "Mirel",
+      "order": 14
+    },
+    {
+      "personId": 72308,
+      "character": "Studio Manager",
+      "order": 15
+    },
+    {
+      "personId": 28158,
+      "character": "Prosecuter",
+      "order": 16
+    },
+    {
+      "personId": 147797,
+      "character": "Defence Attorney",
+      "order": 17
+    },
+    {
+      "personId": 2258,
+      "character": "Capt. Damaceanu",
+      "order": 18
+    },
+    {
+      "personId": 281413,
+      "character": "Gogu",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 66,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

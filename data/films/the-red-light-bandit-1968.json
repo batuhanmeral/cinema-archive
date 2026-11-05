@@ -1,0 +1,185 @@
+{
+  "tmdbId": 186738,
+  "slug": "the-red-light-bandit-1968",
+  "year": 1968,
+  "runtime": 92,
+  "originalTitle": "O Bandido da Luz Vermelha",
+  "title": {
+    "en": "The Red Light Bandit",
+    "tr": "O Bandido da Luz Vermelha"
+  },
+  "overview": {
+    "en": "Born and raised in the misery of Brazilian slums, Jorge becomes a luxury house burglar in São Paulo and gets nicknamed \"The Red Light Bandit\" by the sensationalist press. In addition to wearing a red flashlight, he talks to his hostages in an irreverent tone and makes bold breakthroughs to later spend the money extravagantly. His world is the decadent neighbourhood of Boca do Lixo.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/49CQCiWXs3mnFSJmAxVTTYOMQjh.jpg",
+    "en": "/gcyVGODuWDv5dQwntbARuEyHM5n.jpg"
+  },
+  "backdrops": [
+    "/vV8pRyTwpWTjjV4ajhVlPixmArj.jpg",
+    "/nLquyzPfVb3rKr9faIrLzZrclxc.jpg",
+    "/68i72cpKkepmIvhZiiCyUqT5XTM.jpg",
+    "/ug7MrnAHpk9fMjlovyN7ZPOE6DD.jpg",
+    "/hdKlE2DDFY7drETK6xcdXdq1k4M.jpg",
+    "/xNlM02ePeIyMRKtmngqeptkivIC.jpg",
+    "/b4USExiXRF4znoNlf7xNmhSjch7.jpg",
+    "/ozEmN5Ni428TvIxuGZfIUrneYLP.jpg"
+  ],
+  "trailerKey": "5d1C2sMbYNo",
+  "genreIds": [
+    53,
+    80
+  ],
+  "keywordIds": [],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Urano Filmes"
+  ],
+  "crew": [
+    {
+      "personId": 1166120,
+      "job": "director"
+    },
+    {
+      "personId": 1166120,
+      "job": "writer"
+    },
+    {
+      "personId": 1172798,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2925746,
+      "job": "producer"
+    },
+    {
+      "personId": 1149005,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1166120,
+      "job": "producer"
+    },
+    {
+      "personId": 1777441,
+      "job": "producer"
+    },
+    {
+      "personId": 1166120,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 558000,
+      "character": "Jorginho, o Bandido da Luz Vermelha",
+      "order": 0
+    },
+    {
+      "personId": 360149,
+      "character": "Delegado Cabeção",
+      "order": 1
+    },
+    {
+      "personId": 90212,
+      "character": "Janete Jane",
+      "order": 2
+    },
+    {
+      "personId": 1432105,
+      "character": "J.B. da Silva",
+      "order": 3
+    },
+    {
+      "personId": 2927657,
+      "character": "Lucho Gatico",
+      "order": 4
+    },
+    {
+      "personId": 1302719,
+      "character": "Tarzan",
+      "order": 5
+    },
+    {
+      "personId": 1132585,
+      "character": "Repórter",
+      "order": 6
+    },
+    {
+      "personId": 228040,
+      "character": "Homossexual",
+      "order": 7
+    },
+    {
+      "personId": 933224,
+      "character": "Apresentador de Telejornal",
+      "order": 8
+    },
+    {
+      "personId": 1833624,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1789838,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 39158,
+      "character": "Milionário",
+      "order": 11
+    },
+    {
+      "personId": 2927649,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1174878,
+      "character": "Grã-fina Misteriosa",
+      "order": 13
+    },
+    {
+      "personId": 2927647,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 1144048,
+      "character": "Gangster",
+      "order": 15
+    },
+    {
+      "personId": 1562753,
+      "character": "Vítima",
+      "order": 16
+    },
+    {
+      "personId": 1076801,
+      "character": "Criminoso da Praça da República",
+      "order": 17
+    },
+    {
+      "personId": 563714,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 932297,
+      "character": "Gangster",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 72,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

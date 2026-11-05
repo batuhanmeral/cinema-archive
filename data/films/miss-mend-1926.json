@@ -1,0 +1,176 @@
+{
+  "tmdbId": 250676,
+  "slug": "miss-mend-1926",
+  "year": 1926,
+  "runtime": 250,
+  "originalTitle": "Мисс Менд",
+  "title": {
+    "en": "Miss Mend",
+    "tr": "Miss Mend"
+  },
+  "overview": {
+    "en": "Three reporters and an office girl are trying to stop a bacteriological strike by some powerful western business leaders against the USSR.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/cAFHbtniAew8mJ84tS5J9iCuTDm.jpg",
+    "en": "/cAFHbtniAew8mJ84tS5J9iCuTDm.jpg"
+  },
+  "backdrops": [
+    "/8EIfZYbjuxMueLLAMMAW9hlgbF9.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    12
+  ],
+  "keywordIds": [
+    154802
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [
+    "ru"
+  ],
+  "studios": [
+    "Mezhrabpom-Rus"
+  ],
+  "crew": [
+    {
+      "personId": 29187,
+      "job": "director"
+    },
+    {
+      "personId": 144826,
+      "job": "writer"
+    },
+    {
+      "personId": 29187,
+      "job": "writer"
+    },
+    {
+      "personId": 1464601,
+      "job": "writer"
+    },
+    {
+      "personId": 1296577,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 144826,
+      "job": "director"
+    },
+    {
+      "personId": 4991941,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 144830,
+      "character": "Vivian Mend, typist",
+      "order": 0
+    },
+    {
+      "personId": 144826,
+      "character": "Barnet, reporter",
+      "order": 1
+    },
+    {
+      "personId": 144829,
+      "character": "Fogel, photographer",
+      "order": 2
+    },
+    {
+      "personId": 29196,
+      "character": "Tom Hopkins, clerk",
+      "order": 3
+    },
+    {
+      "personId": 144833,
+      "character": "Chiche",
+      "order": 4
+    },
+    {
+      "personId": 29144,
+      "character": "Arthur Storn / Engineer Johnson",
+      "order": 5
+    },
+    {
+      "personId": 4727913,
+      "character": "Kolka, street child",
+      "order": 6
+    },
+    {
+      "personId": 1288664,
+      "character": "Gordon Storn",
+      "order": 7
+    },
+    {
+      "personId": 1288663,
+      "character": "Elizabeth Storn",
+      "order": 8
+    },
+    {
+      "personId": 5537389,
+      "character": "Vivian's little nephew",
+      "order": 9
+    },
+    {
+      "personId": 3934057,
+      "character": "Newspaper editor",
+      "order": 10
+    },
+    {
+      "personId": 144841,
+      "character": "Waiter at the inn",
+      "order": 11
+    },
+    {
+      "personId": 86701,
+      "character": "Bandit",
+      "order": 12
+    },
+    {
+      "personId": 1269841,
+      "character": "(uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1363223,
+      "character": "Passenger (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1170787,
+      "character": "Stenographer (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 5260953,
+      "character": "Editorial staff (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 2699054,
+      "character": "(uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 237489,
+      "character": "Policeman (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 593091,
+      "character": "Man in the queue (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 13,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

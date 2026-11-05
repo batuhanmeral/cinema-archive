@@ -1,0 +1,131 @@
+{
+  "tmdbId": 27522,
+  "slug": "waxworks-1924",
+  "year": 1924,
+  "runtime": 83,
+  "originalTitle": "Das Wachsfigurenkabinett",
+  "title": {
+    "en": "Waxworks",
+    "tr": "Das Wachsfigurenkabinett"
+  },
+  "overview": {
+    "en": "A poet is hired by the owner of a wax museum in a circus to write tales about Harun al Raschid, Ivan the Terrible and Jack the Ripper. While writing, the poet and the daughter of the owner, Eva, fantasize the fantastic stories and fall in love for each other.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6n8hkbMUiY3ETNNoQspHwotvHkA.jpg",
+    "en": "/s2Pf1AHhVGSiJfGAHB5ryqvZrbU.jpg"
+  },
+  "backdrops": [
+    "/d0kHhfdiNVfGRqzwHyk05mcR2Et.jpg",
+    "/mgRAexEAT6WmeTjdSwl7GNmlyX2.jpg",
+    "/mb6OxvWHGjtIBu0O5hprNocKzts.jpg",
+    "/vn2PtsaFdur6YsYIjd0Du6WD0LM.jpg"
+  ],
+  "trailerKey": "984kcSeeNjQ",
+  "genreIds": [
+    14,
+    27
+  ],
+  "keywordIds": [
+    6255,
+    4007,
+    9706,
+    10771,
+    10772,
+    33424,
+    164218,
+    179874,
+    244516,
+    311315
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Neptune-Film A.G."
+  ],
+  "crew": [
+    {
+      "personId": 2921796,
+      "job": "composer"
+    },
+    {
+      "personId": 98076,
+      "job": "director"
+    },
+    {
+      "personId": 48055,
+      "job": "director"
+    },
+    {
+      "personId": 9833,
+      "job": "writer"
+    },
+    {
+      "personId": 98077,
+      "job": "producer"
+    },
+    {
+      "personId": 98076,
+      "job": "producer"
+    },
+    {
+      "personId": 1415363,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2895,
+      "character": "Harun al Raschid",
+      "order": 0
+    },
+    {
+      "personId": 3001,
+      "character": "Ivan the Terrible",
+      "order": 1
+    },
+    {
+      "personId": 49214,
+      "character": "The Poet / Assad the Baker / Russian Prince",
+      "order": 2
+    },
+    {
+      "personId": 3000,
+      "character": "Jack the Ripper / Spring-Heeled Jack",
+      "order": 3
+    },
+    {
+      "personId": 1086981,
+      "character": "Eva-Maimune-Eine Bojarin",
+      "order": 4
+    },
+    {
+      "personId": 9845,
+      "character": "Owner of the Waxworks",
+      "order": 5
+    },
+    {
+      "personId": 29129,
+      "character": "Owner of the Panoptikums",
+      "order": 6
+    },
+    {
+      "personId": 47218,
+      "character": "Poison-Maker of the Czar",
+      "order": 7
+    },
+    {
+      "personId": 48048,
+      "character": "Grand Vizier",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 73,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

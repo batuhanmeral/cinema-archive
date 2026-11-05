@@ -1,0 +1,150 @@
+{
+  "tmdbId": 46594,
+  "slug": "earth-1930",
+  "year": 1930,
+  "runtime": 79,
+  "originalTitle": "Земля",
+  "title": {
+    "en": "Earth",
+    "tr": "Toprak"
+  },
+  "overview": {
+    "en": "During the agrarian collectivization process in the Soviet Union, Vasyl, a peasant member of the youth division of the Communist Party, gets a tractor with the help of a local party organization and plows private boundaries on kulak fields. However, this enthusiasm will cost him dearly.",
+    "tr": "Aleksandr Dovzhenko'nun yönettiği Sovyetler Birliği filmi olan Zemlya (Earth) - Toprak, Sovyet Devriminin Rus köylüsü üzerindeki etkilerini pastoral ve lirik bir dille anlatan destansı bir yapım."
+  },
+  "poster": {
+    "tr": "/zXRpYOJFZ8wWzhCYWILSiw1ouOy.jpg",
+    "en": "/zXRpYOJFZ8wWzhCYWILSiw1ouOy.jpg"
+  },
+  "backdrops": [
+    "/5EHNInARZmBhOnwl3kiDfhCYTvC.jpg"
+  ],
+  "trailerKey": "8wXzFIDMLT0",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    4932,
+    154802,
+    173644,
+    237543,
+    267422
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "VUFKU"
+  ],
+  "crew": [
+    {
+      "personId": 141713,
+      "job": "director"
+    },
+    {
+      "personId": 1540511,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 141713,
+      "job": "writer"
+    },
+    {
+      "personId": 1898745,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1156066,
+      "character": "Opanas",
+      "order": 0
+    },
+    {
+      "personId": 592961,
+      "character": "Vasyl",
+      "order": 1
+    },
+    {
+      "personId": 29195,
+      "character": "Opanas's Daughter",
+      "order": 2
+    },
+    {
+      "personId": 1117973,
+      "character": "Natalia, Vasyl's bride",
+      "order": 3
+    },
+    {
+      "personId": 592960,
+      "character": "Grandfather Semyon",
+      "order": 4
+    },
+    {
+      "personId": 1540514,
+      "character": "Kulak Bilokin",
+      "order": 5
+    },
+    {
+      "personId": 1461065,
+      "character": "Khoma Bilokin",
+      "order": 6
+    },
+    {
+      "personId": 1540515,
+      "character": "Priest",
+      "order": 7
+    },
+    {
+      "personId": 1540516,
+      "character": "Communist Party Cell Leader",
+      "order": 8
+    },
+    {
+      "personId": 1540517,
+      "character": "Village Council Chairman",
+      "order": 9
+    },
+    {
+      "personId": 1540518,
+      "character": "Peasant Girl",
+      "order": 10
+    },
+    {
+      "personId": 1270866,
+      "character": "Young Kulak",
+      "order": 11
+    },
+    {
+      "personId": 1540519,
+      "character": "Petro (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1540520,
+      "character": "Peasant Girl with Sunflowers (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 2128042,
+      "character": "(uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 6277918,
+      "character": "(uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 6277920,
+      "character": "(uncredited)",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 160,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

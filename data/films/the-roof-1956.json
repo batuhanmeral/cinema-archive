@@ -1,0 +1,131 @@
+{
+  "tmdbId": 113936,
+  "slug": "the-roof-1956",
+  "year": 1956,
+  "runtime": 97,
+  "originalTitle": "Il tetto",
+  "title": {
+    "en": "The Roof",
+    "tr": "Il tetto"
+  },
+  "overview": {
+    "en": "Under provincial Italian law at the time, once a roof is erected, the occupants cannot be evicted from a building. This film follows the efforts of a family to erect the roof on a house overnight so that a newlywed couple can have their own home.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/xiBsp3DTOSJLoLuUPBmfw5iHiXW.jpg",
+    "en": "/xiBsp3DTOSJLoLuUPBmfw5iHiXW.jpg"
+  },
+  "backdrops": [
+    "/5s2RuqziI83D9Eko9QQlda60vI5.jpg",
+    "/zaOGdmCQ08ItGcHXlkSFXjvQzl9.jpg",
+    "/qouvONRMMDCwDvYzIptCCpfwKK9.jpg",
+    "/9dpcxpEtotTpkEk0Qhtj8qXhpSA.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    588
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Titanus",
+    "Produzioni De Sica"
+  ],
+  "crew": [
+    {
+      "personId": 12330,
+      "job": "writer"
+    },
+    {
+      "personId": 12329,
+      "job": "director"
+    },
+    {
+      "personId": 12329,
+      "job": "producer"
+    },
+    {
+      "personId": 12331,
+      "job": "composer"
+    },
+    {
+      "personId": 544085,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 25785,
+      "character": "Luisa Pilon",
+      "order": 0
+    },
+    {
+      "personId": 1074564,
+      "character": "Natale Pilon, Luisa's husband",
+      "order": 1
+    },
+    {
+      "personId": 1074565,
+      "character": "Cesare, Luisa's brother-in-law",
+      "order": 2
+    },
+    {
+      "personId": 1074566,
+      "character": "Gina",
+      "order": 3
+    },
+    {
+      "personId": 30900,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1700655,
+      "character": "Giovanna, Cesare's wife",
+      "order": 5
+    },
+    {
+      "personId": 1700656,
+      "character": "Luisa's mother",
+      "order": 6
+    },
+    {
+      "personId": 1700657,
+      "character": "Luigi",
+      "order": 7
+    },
+    {
+      "personId": 1700658,
+      "character": "Antonio Pilon",
+      "order": 8
+    },
+    {
+      "personId": 1700659,
+      "character": "Natale's mother",
+      "order": 9
+    },
+    {
+      "personId": 1567999,
+      "character": "Signora Baj",
+      "order": 10
+    },
+    {
+      "personId": 1700660,
+      "character": "Luisa's father",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 53,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

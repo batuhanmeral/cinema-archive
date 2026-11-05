@@ -1,0 +1,117 @@
+{
+  "tmdbId": 104441,
+  "slug": "nanami-the-inferno-of-first-love-1968",
+  "year": 1968,
+  "runtime": 108,
+  "originalTitle": "初恋・地獄篇",
+  "title": {
+    "en": "Nanami: The Inferno of First Love",
+    "tr": "Nanami: The Inferno of First Love"
+  },
+  "overview": {
+    "en": "A teenage goldsmith with a dark past tragically falls in love with a young nude model.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/t4thaqvVy0yE5Ph4xEjOnBF3ckF.jpg",
+    "en": "/7V3dEYzZDykz71aY78aOjAG6CQE.jpg"
+  },
+  "backdrops": [
+    "/5ILwyhxY4GbaUmwqKnoRnprRpxL.jpg",
+    "/qoc7pjAHczU653jVZVw8v1i9EPm.jpg"
+  ],
+  "trailerKey": "XEMJFgNQSRI",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Art Theatre Guild"
+  ],
+  "crew": [
+    {
+      "personId": 1041699,
+      "job": "director"
+    },
+    {
+      "personId": 137495,
+      "job": "writer"
+    },
+    {
+      "personId": 1041699,
+      "job": "writer"
+    },
+    {
+      "personId": 1175882,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 51808,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1197617,
+      "character": "Nanami",
+      "order": 0
+    },
+    {
+      "personId": 96804,
+      "character": "Mr. Otagaki",
+      "order": 1
+    },
+    {
+      "personId": 1911728,
+      "character": "Mother",
+      "order": 2
+    },
+    {
+      "personId": 1911732,
+      "character": "Mrs. Otagaki, Shun's stepmother",
+      "order": 3
+    },
+    {
+      "personId": 1911733,
+      "character": "Psychiatrist",
+      "order": 4
+    },
+    {
+      "personId": 1911734,
+      "character": "Algebra",
+      "order": 5
+    },
+    {
+      "personId": 1911735,
+      "character": "Ankokuji",
+      "order": 6
+    },
+    {
+      "personId": 1911736,
+      "character": "Shun",
+      "order": 7
+    },
+    {
+      "personId": 1911737,
+      "character": "Doctor",
+      "order": 8
+    },
+    {
+      "personId": 1911738,
+      "character": "Ankokuji's wife",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 34,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

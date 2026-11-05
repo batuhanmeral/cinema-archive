@@ -1,0 +1,294 @@
+{
+  "tmdbId": 12289,
+  "slug": "red-cliff-2008",
+  "year": 2008,
+  "runtime": 145,
+  "originalTitle": "赤壁",
+  "title": {
+    "en": "Red Cliff",
+    "tr": "Kızıl Uçurum"
+  },
+  "overview": {
+    "en": "In 208 A.D., in the final days of the Han Dynasty, shrewd Prime Minster Cao convinced the fickle Emperor Han the only way to unite all of China was to declare war on the kingdoms of Xu in the west and East Wu in the south. Thus began a military campaign of unprecedented scale. Left with no other hope for survival, the kingdoms of Xu and East Wu formed an unlikely alliance.",
+    "tr": "Tarihçilere göre, Çin’de Üç Krallık döneminde meydana gelen en kanlı savaş olarak bilinen Red Cliff savaşına 1 milyon asker katılmıştı. Hong Kong asıllı yönetmen John Woo, Çin tarihinin dönüm noktası olan bu savaşı en gerçekçi şekliyle beyazperdeye yansıtmak için 80 milyon dolarlık bütçeyle çalıştı."
+  },
+  "poster": {
+    "tr": "/kKrvVZUxBPpyxnhdk5ZVdH91NyN.jpg",
+    "en": "/kKrvVZUxBPpyxnhdk5ZVdH91NyN.jpg"
+  },
+  "backdrops": [
+    "/7TzPksM0NUXD3rwl45Z3duJmvxL.jpg",
+    "/pkcW3uu862e41ol1JXEVP4RSo0N.jpg",
+    "/xDjsD6EFWOnjNFPCjTTUB3Pauha.jpg",
+    "/pWoEDKPsgZvPOcWdNbHq7NxDFl2.jpg",
+    "/5ce0nE2oO1csXkFBQ85FeQq5RjJ.jpg",
+    "/69a1qRtOcudlsfrUANlPB30Sk7l.jpg",
+    "/lNWvl8KlAbQJidyvAwyxMmPCP1v.jpg",
+    "/mfE3Z0YmyMixVzrbqrCdbtjWJAi.jpg",
+    "/32brC6pk1Y9R94z5te3Wg5h2W8v.jpg",
+    "/5XsVUbK0uHLompvqaZcvsr1nLuQ.jpg"
+  ],
+  "trailerKey": "pd0bqLQrtdE",
+  "genreIds": [
+    36,
+    10752,
+    28
+  ],
+  "keywordIds": [
+    779,
+    478,
+    158145,
+    158470,
+    158471,
+    158477,
+    158478,
+    158480,
+    158488,
+    158489,
+    252610
+  ],
+  "countries": [
+    "CN",
+    "HK",
+    "JP",
+    "KR",
+    "TW"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "studios": [
+    "Showbox",
+    "Avex Entertainment",
+    "CMC Entertainment"
+  ],
+  "crew": [
+    {
+      "personId": 11401,
+      "job": "writer"
+    },
+    {
+      "personId": 20638,
+      "job": "producer"
+    },
+    {
+      "personId": 993812,
+      "job": "writer"
+    },
+    {
+      "personId": 586335,
+      "job": "producer"
+    },
+    {
+      "personId": 63693,
+      "job": "composer"
+    },
+    {
+      "personId": 1117851,
+      "job": "producer"
+    },
+    {
+      "personId": 1117852,
+      "job": "producer"
+    },
+    {
+      "personId": 1117853,
+      "job": "producer"
+    },
+    {
+      "personId": 1117855,
+      "job": "producer"
+    },
+    {
+      "personId": 20641,
+      "job": "producer"
+    },
+    {
+      "personId": 993811,
+      "job": "writer"
+    },
+    {
+      "personId": 64337,
+      "job": "producer"
+    },
+    {
+      "personId": 1117858,
+      "job": "producer"
+    },
+    {
+      "personId": 72204,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 11404,
+      "job": "producer"
+    },
+    {
+      "personId": 118732,
+      "job": "producer"
+    },
+    {
+      "personId": 71067,
+      "job": "producer"
+    },
+    {
+      "personId": 11401,
+      "job": "director"
+    },
+    {
+      "personId": 105396,
+      "job": "producer"
+    },
+    {
+      "personId": 1117850,
+      "job": "producer"
+    },
+    {
+      "personId": 1117854,
+      "job": "producer"
+    },
+    {
+      "personId": 1117856,
+      "job": "producer"
+    },
+    {
+      "personId": 1117857,
+      "job": "producer"
+    },
+    {
+      "personId": 1117860,
+      "job": "producer"
+    },
+    {
+      "personId": 1117859,
+      "job": "producer"
+    },
+    {
+      "personId": 1117861,
+      "job": "producer"
+    },
+    {
+      "personId": 1117862,
+      "job": "producer"
+    },
+    {
+      "personId": 11401,
+      "job": "producer"
+    },
+    {
+      "personId": 585037,
+      "job": "writer"
+    },
+    {
+      "personId": 2087969,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1337,
+      "character": "Zhou Yu",
+      "order": 0
+    },
+    {
+      "personId": 43661,
+      "character": "Zhu Ge Liang",
+      "order": 1
+    },
+    {
+      "personId": 65277,
+      "character": "Cao Cao",
+      "order": 2
+    },
+    {
+      "personId": 1622,
+      "character": "Sun Quan",
+      "order": 3
+    },
+    {
+      "personId": 77304,
+      "character": "Sun Shang Xiang",
+      "order": 4
+    },
+    {
+      "personId": 96862,
+      "character": "Zhao Yun",
+      "order": 5
+    },
+    {
+      "personId": 72202,
+      "character": "Gan Xing",
+      "order": 6
+    },
+    {
+      "personId": 118724,
+      "character": "Xiao Qiao",
+      "order": 7
+    },
+    {
+      "personId": 110507,
+      "character": "Liu Bei",
+      "order": 8
+    },
+    {
+      "personId": 958556,
+      "character": "Lu Su",
+      "order": 9
+    },
+    {
+      "personId": 1031246,
+      "character": "Sun Shu Cai",
+      "order": 10
+    },
+    {
+      "personId": 96614,
+      "character": "Li Ji",
+      "order": 11
+    },
+    {
+      "personId": 1117866,
+      "character": "Guan Yu",
+      "order": 12
+    },
+    {
+      "personId": 1117867,
+      "character": "Zhang Fei",
+      "order": 13
+    },
+    {
+      "personId": 1044559,
+      "character": "Huang Gai",
+      "order": 14
+    },
+    {
+      "personId": 1623402,
+      "character": "Cao Hong",
+      "order": 15
+    },
+    {
+      "personId": 1614307,
+      "character": "Hua Tuo",
+      "order": 16
+    },
+    {
+      "personId": 1190213,
+      "character": "Jiang Gan",
+      "order": 17
+    },
+    {
+      "personId": 1623403,
+      "character": "Zhang Liao",
+      "order": 18
+    },
+    {
+      "personId": 1623404,
+      "character": "Yue Jin",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 929,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "tmdbId": 212761,
+  "slug": "a-case-for-a-rookie-hangman-1970",
+  "year": 1970,
+  "runtime": 102,
+  "originalTitle": "Případ pro začínajícího kata",
+  "title": {
+    "en": "A Case for a Rookie Hangman",
+    "tr": "Případ pro začínajícího kata"
+  },
+  "overview": {
+    "en": "Lemuel Gulliver has had a car accident and continues his journey across the unknown countryside on foot. On the road he finds a dead rabbit dressed like a man and takes a watch from its waistcoat breast pocket. The half-ruined house that he enters reminds Lemuel of his childhood and brings up a painful memory of a dearly loved girl Markéta who was drowned years ago. Gulliver finds himself in Balnibarbi, a country where he doesn't understand the laws and habits and so continually offends against public decency. It is a day when people are ordered to keep their mouths shut and they force their visitor to follow suit. He faces harsh interrogation and finds it difficult to explain that he is not the rabbit Oscar whose watch has been found in his possession.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tY4oTAlTBdVT3IToqHOb0WKQAn.jpg",
+    "en": "/vxvhSRy5iQVkV7parzPgXk9a4At.jpg"
+  },
+  "backdrops": [
+    "/cz1t1iBFXqmPp0DLFOEtMO7zDg7.jpg",
+    "/ep9DLCSfFjD9StStkzVp3CLgGrm.jpg",
+    "/c4p4RGfRr71tAzILOYOM8WVA3V3.jpg",
+    "/yQAyYHOAOCUBxdwqxmUaGGbMawi.jpg",
+    "/tiSruiSdRrS3iBJ5va4boYcwmXI.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    18,
+    14
+  ],
+  "keywordIds": [],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "Filmové studio Barrandov"
+  ],
+  "crew": [
+    {
+      "personId": 119999,
+      "job": "director"
+    },
+    {
+      "personId": 119999,
+      "job": "writer"
+    },
+    {
+      "personId": 26329,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1175591,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 585180,
+      "character": "Lemuel Gulliver",
+      "order": 0
+    },
+    {
+      "personId": 47837,
+      "character": "Fízl",
+      "order": 1
+    },
+    {
+      "personId": 1183267,
+      "character": "Markéta",
+      "order": 2
+    },
+    {
+      "personId": 1183342,
+      "character": "Dominika",
+      "order": 3
+    },
+    {
+      "personId": 84000,
+      "character": "Vilém Seid",
+      "order": 4
+    },
+    {
+      "personId": 144142,
+      "character": "Vilma Seidová",
+      "order": 5
+    },
+    {
+      "personId": 1136798,
+      "character": "docent Baux",
+      "order": 6
+    },
+    {
+      "personId": 1280119,
+      "character": "Vedoucí dobrovolník",
+      "order": 7
+    },
+    {
+      "personId": 1055303,
+      "character": "Munodi",
+      "order": 8
+    },
+    {
+      "personId": 1269926,
+      "character": "Munodiová",
+      "order": 9
+    },
+    {
+      "personId": 1192439,
+      "character": "Prefekt",
+      "order": 10
+    },
+    {
+      "personId": 231247,
+      "character": "Emil",
+      "order": 11
+    },
+    {
+      "personId": 930324,
+      "character": "Tadeášová",
+      "order": 12
+    },
+    {
+      "personId": 83999,
+      "character": "Guvernér",
+      "order": 13
+    },
+    {
+      "personId": 3387549,
+      "character": "Patrik",
+      "order": 14
+    },
+    {
+      "personId": 548112,
+      "character": "Profesor Beiel",
+      "order": 15
+    },
+    {
+      "personId": 1182688,
+      "character": "referentka",
+      "order": 16
+    },
+    {
+      "personId": 1182616,
+      "character": "Vyskoc",
+      "order": 17
+    },
+    {
+      "personId": 226667,
+      "character": "Ministr orby",
+      "order": 18
+    },
+    {
+      "personId": 235657,
+      "character": "Kat",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 26,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

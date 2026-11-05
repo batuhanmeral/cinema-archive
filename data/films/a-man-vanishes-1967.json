@@ -1,0 +1,83 @@
+{
+  "tmdbId": 85692,
+  "slug": "a-man-vanishes-1967",
+  "year": 1967,
+  "runtime": 130,
+  "originalTitle": "人間蒸発",
+  "title": {
+    "en": "A Man Vanishes",
+    "tr": "A Man Vanishes"
+  },
+  "overview": {
+    "en": "A Man Vanishes examines the concept of Johatsu, tackling the phenomenon of people missing in Japan over the years. It picks one such person from the list, someone who had seemed to disappear from the face of the earth due to embezzlement from his company, and the filmmakers begin an investigative documentary into the reasons behind and attempt at tracking him down.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wxj8qnBwBAe6JpRfIqM1jaLWewj.jpg",
+    "en": "/wxj8qnBwBAe6JpRfIqM1jaLWewj.jpg"
+  },
+  "backdrops": [
+    "/mGnouDaefwSmdP7N901hz6GSgr7.jpg",
+    "/5bqqxy9o9PevMOmo6mhf4Qg4Oac.jpg",
+    "/msIfZr5skLagFaki46xZ7PLSP3o.jpg"
+  ],
+  "trailerKey": "xZQywgSjg84",
+  "genreIds": [
+    18,
+    99
+  ],
+  "keywordIds": [
+    5331,
+    4434,
+    10332,
+    156091,
+    163053
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Art Theatre Guild",
+    "Imamura Productions",
+    "Nihon Eiga Shinsha"
+  ],
+  "crew": [
+    {
+      "personId": 20025,
+      "job": "director"
+    },
+    {
+      "personId": 20025,
+      "job": "producer"
+    },
+    {
+      "personId": 25800,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1086510,
+      "character": "Self",
+      "order": 0
+    },
+    {
+      "personId": 20025,
+      "character": "Self",
+      "order": 1
+    },
+    {
+      "personId": 142491,
+      "character": "Self",
+      "order": 2
+    }
+  ],
+  "awards": {},
+  "voteCount": 26,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "tmdbId": 151068,
+  "slug": "the-new-babylon-1929",
+  "year": 1929,
+  "runtime": 92,
+  "originalTitle": "Новый Вавилон",
+  "title": {
+    "en": "The New Babylon",
+    "tr": "The New Babylon"
+  },
+  "overview": {
+    "en": "In the short-lived Commune of Paris, a conscripted soldier falls in love with a Communard saleswoman. As the army cracks down on the revolutionaries, the soldier is forced to fight against the Commune, and the pair's love is put to the test.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dNCqMzEEuE8JqBYlCqgNJR9IIrv.jpg",
+    "en": "/dNCqMzEEuE8JqBYlCqgNJR9IIrv.jpg"
+  },
+  "backdrops": [
+    "/fMgZO2dILULVo1wOByv71TTKT3X.jpg",
+    "/8vP94qlEcANAfPG7SepjXnZfGTW.jpg",
+    "/od1Pwjxqy4GJEGHQCSCfSJq0I0d.jpg",
+    "/oD1xsdocp7Pjxw2fWwSxVH4yHJt.jpg",
+    "/yVCRtbdpujlaYuK0ZhBRxoRN9CQ.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    2111,
+    154802,
+    223127
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Sovkino"
+  ],
+  "crew": [
+    {
+      "personId": 957523,
+      "job": "composer"
+    },
+    {
+      "personId": 562326,
+      "job": "director"
+    },
+    {
+      "personId": 1037667,
+      "job": "director"
+    },
+    {
+      "personId": 1037667,
+      "job": "writer"
+    },
+    {
+      "personId": 562326,
+      "job": "writer"
+    },
+    {
+      "personId": 1391349,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 935328,
+      "character": "Louise Poirier, the shop-assistant",
+      "order": 0
+    },
+    {
+      "personId": 1337144,
+      "character": "Jean, French soldier",
+      "order": 1
+    },
+    {
+      "personId": 1278820,
+      "character": "Owner of the 'New Babylon' shop",
+      "order": 2
+    },
+    {
+      "personId": 1075591,
+      "character": "An actress",
+      "order": 3
+    },
+    {
+      "personId": 1869238,
+      "character": "The main shop-assistant",
+      "order": 4
+    },
+    {
+      "personId": 624719,
+      "character": "Lutro, the journalist",
+      "order": 5
+    },
+    {
+      "personId": 128297,
+      "character": "Therese, a seamstress",
+      "order": 6
+    },
+    {
+      "personId": 1870853,
+      "character": "Commune's Central Committee member",
+      "order": 7
+    },
+    {
+      "personId": 4329875,
+      "character": "Soldier (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 5512972,
+      "character": "Friko (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 5512973,
+      "character": "(uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 1540569,
+      "character": "Bourgeois (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1870854,
+      "character": "Washerwoman (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 1870855,
+      "character": "Poirier, an old man (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 2966807,
+      "character": "(uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1086000,
+      "character": "National Guard's soldier (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 2469254,
+      "character": "Flower girl (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 5512979,
+      "character": "Commander (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 237523,
+      "character": "Can-can dancer (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 86712,
+      "character": "\"Menelay\" (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 26,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

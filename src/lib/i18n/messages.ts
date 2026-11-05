@@ -1,4 +1,3 @@
-import type { SimilarReason } from '@/features/film/similar'
 import type { Locale } from './locale'
 
 type FilmIndexKey =
@@ -16,16 +15,44 @@ type FilmIndexKey =
   | 'cinematographer'
   | 'composer'
 
+type MovementIndexKey = 'years' | 'country' | 'pioneers' | 'faces' | 'cinematography'
+
+export type SimilarReasonKey =
+  'same-director' | 'same-movement' | 'same-collection' | 'shared-tag' | 'genre-decade'
+
 export type Messages = {
   credit: string
-  nav: { home: string; switchLanguage: string }
+  nav: {
+    home: string
+    switchLanguage: string
+    movements: string
+    collections: string
+    menu: string
+    skip: string
+  }
   film: {
     sections: { trailer: string; cast: string; similar: string }
     playTrailer: string
     index: Record<FilmIndexKey, string>
     directorRole: string
     minutes: (n: number) => string
-    similarReason: Record<SimilarReason, string>
+    similarReason: Record<SimilarReasonKey, string>
+  }
+  movement: {
+    listTitle: string
+    index: Record<MovementIndexKey, string>
+    sections: { directors: string; films: string }
+    previous: string
+    next: string
+    filmCount: (n: number) => string
+    directorCount: (n: number) => string
+  }
+  collection: {
+    listTitle: string
+    columns: { number: string; film: string; director: string; genre: string; theme: string }
+    others: string
+    all: string
+    filmCount: (n: number) => string
   }
   rail: { previous: string; next: string }
 }
@@ -34,7 +61,14 @@ export const messages: Record<Locale, Messages> = {
   tr: {
     credit:
       "Bu site TMDB API'sini kullanır, ancak TMDB tarafından onaylanmamış ya da desteklenmemiştir.",
-    nav: { home: 'Ana sayfa', switchLanguage: 'İngilizce sürüme geç' },
+    nav: {
+      home: 'Ana sayfa',
+      switchLanguage: 'İngilizce sürüme geç',
+      movements: 'Akımlar',
+      collections: 'Koleksiyonlar',
+      menu: 'Menü',
+      skip: 'İçeriğe atla',
+    },
     film: {
       sections: {
         trailer: 'Fragman ve kareler',
@@ -61,15 +95,46 @@ export const messages: Record<Locale, Messages> = {
       minutes: (n) => `${n} dk`,
       similarReason: {
         'same-director': 'Aynı yönetmen',
+        'same-movement': 'Aynı akım',
+        'same-collection': 'Aynı koleksiyon',
         'shared-tag': 'Ortak etiket',
         'genre-decade': 'Aynı tür ve dönem',
       },
+    },
+    movement: {
+      listTitle: 'Akımlar',
+      index: {
+        years: 'Yıllar',
+        country: 'Ülke',
+        pioneers: 'Öncüler',
+        faces: 'Yüzleri',
+        cinematography: 'Görüntü',
+      },
+      sections: { directors: 'Yönetmenler', films: 'Filmler' },
+      previous: 'Önceki salon',
+      next: 'Sonraki salon',
+      filmCount: (n) => `${n} film`,
+      directorCount: (n) => `${n} yönetmen`,
+    },
+    collection: {
+      listTitle: 'Koleksiyonlar',
+      columns: { number: 'Sıra', film: 'Film', director: 'Yönetmen', genre: 'Tür', theme: 'Tema' },
+      others: 'Diğer koleksiyonlar',
+      all: 'Tüm koleksiyonlar',
+      filmCount: (n) => `${n} film`,
     },
     rail: { previous: 'Önceki', next: 'Sonraki' },
   },
   en: {
     credit: 'This product uses the TMDB API but is not endorsed or certified by TMDB.',
-    nav: { home: 'Home', switchLanguage: 'Switch to Turkish' },
+    nav: {
+      home: 'Home',
+      switchLanguage: 'Switch to Turkish',
+      movements: 'Movements',
+      collections: 'Collections',
+      menu: 'Menu',
+      skip: 'Skip to content',
+    },
     film: {
       sections: {
         trailer: 'Trailer and stills',
@@ -96,9 +161,39 @@ export const messages: Record<Locale, Messages> = {
       minutes: (n) => `${n} min`,
       similarReason: {
         'same-director': 'Same director',
+        'same-movement': 'Same movement',
+        'same-collection': 'Same collection',
         'shared-tag': 'Shared tag',
         'genre-decade': 'Same genre and decade',
       },
+    },
+    movement: {
+      listTitle: 'Movements',
+      index: {
+        years: 'Years',
+        country: 'Country',
+        pioneers: 'Pioneers',
+        faces: 'Faces',
+        cinematography: 'Cinematography',
+      },
+      sections: { directors: 'Directors', films: 'Films' },
+      previous: 'Previous hall',
+      next: 'Next hall',
+      filmCount: (n) => (n === 1 ? '1 film' : `${n} films`),
+      directorCount: (n) => (n === 1 ? '1 director' : `${n} directors`),
+    },
+    collection: {
+      listTitle: 'Collections',
+      columns: {
+        number: 'No.',
+        film: 'Film',
+        director: 'Director',
+        genre: 'Genre',
+        theme: 'Theme',
+      },
+      others: 'Other collections',
+      all: 'All collections',
+      filmCount: (n) => (n === 1 ? '1 film' : `${n} films`),
     },
     rail: { previous: 'Previous', next: 'Next' },
   },

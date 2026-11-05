@@ -1,0 +1,187 @@
+{
+  "tmdbId": 31104,
+  "slug": "pigs-and-battleships-1961",
+  "year": 1961,
+  "runtime": 108,
+  "originalTitle": "豚と軍艦",
+  "title": {
+    "en": "Pigs and Battleships",
+    "tr": "Pigs and Battleships"
+  },
+  "overview": {
+    "en": "In the city of Yokosuka, Kinta and his lover Haruko, both involved with yakuza, brave the post-occupation period with a goal to be together.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/u7fbMQSE5OMKYKOXbSAp5WOJRBj.jpg",
+    "en": "/u7fbMQSE5OMKYKOXbSAp5WOJRBj.jpg"
+  },
+  "backdrops": [
+    "/lyig5sHaoCGQOllOMub4vT6sqqO.jpg",
+    "/9tcFgxWLn2xAWfFfkgKQYQrio7r.jpg",
+    "/qXUPbm3G9pu1gFJDVKHyfB9u8sA.jpg",
+    "/5VLb3E6G7XWUPFTTpdPN7vj4sbR.jpg",
+    "/xLCY725TUGJpnnlXoFzdE54Msd.jpg",
+    "/1c4WoLWClYh3i5j0D9EEWP7qyML.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    233,
+    3149,
+    1794,
+    4410,
+    12365,
+    12987,
+    13059,
+    160488,
+    173251,
+    180498,
+    199391,
+    208568,
+    209998,
+    213970,
+    251576,
+    275405,
+    372647
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "zh",
+    "en",
+    "ja"
+  ],
+  "studios": [
+    "Nikkatsu Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 20025,
+      "job": "director"
+    },
+    {
+      "personId": 25800,
+      "job": "composer"
+    },
+    {
+      "personId": 123868,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 142468,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 135131,
+      "character": "Kinta",
+      "order": 0
+    },
+    {
+      "personId": 33729,
+      "character": "Haruko",
+      "order": 1
+    },
+    {
+      "personId": 125721,
+      "character": "Himori",
+      "order": 2
+    },
+    {
+      "personId": 10071,
+      "character": "Slasher Tetsuji",
+      "order": 3
+    },
+    {
+      "personId": 142469,
+      "character": "Hoshino",
+      "order": 4
+    },
+    {
+      "personId": 72540,
+      "character": "Ohachi",
+      "order": 5
+    },
+    {
+      "personId": 142454,
+      "character": "Gunji",
+      "order": 6
+    },
+    {
+      "personId": 132767,
+      "character": "Katsuyo",
+      "order": 7
+    },
+    {
+      "personId": 142470,
+      "character": "Kikuo",
+      "order": 8
+    },
+    {
+      "personId": 106165,
+      "character": "Kan'ichi",
+      "order": 9
+    },
+    {
+      "personId": 142471,
+      "character": "Sakiyama",
+      "order": 10
+    },
+    {
+      "personId": 142472,
+      "character": "Hiromi",
+      "order": 11
+    },
+    {
+      "personId": 110300,
+      "character": "Haruko's Mother",
+      "order": 12
+    },
+    {
+      "personId": 136357,
+      "character": "Harukoma",
+      "order": 13
+    },
+    {
+      "personId": 142474,
+      "character": "Kyuro",
+      "order": 14
+    },
+    {
+      "personId": 25462,
+      "character": "Yajima",
+      "order": 15
+    },
+    {
+      "personId": 65512,
+      "character": "Tsune",
+      "order": 16
+    },
+    {
+      "personId": 1093065,
+      "character": "Dr. Miyaguchi",
+      "order": 17
+    },
+    {
+      "personId": 2110123,
+      "character": "George",
+      "order": 18
+    },
+    {
+      "personId": 2110124,
+      "character": "Masuyama",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 68,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

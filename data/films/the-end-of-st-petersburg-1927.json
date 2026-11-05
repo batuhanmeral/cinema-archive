@@ -1,0 +1,141 @@
+{
+  "tmdbId": 106254,
+  "slug": "the-end-of-st-petersburg-1927",
+  "year": 1927,
+  "runtime": 74,
+  "originalTitle": "Конец Санкт-Петербурга",
+  "title": {
+    "en": "The End of St. Petersburg",
+    "tr": "The End of St. Petersburg"
+  },
+  "overview": {
+    "en": "Arriving in St. Petersburg in search of work, a peasant unwittingly aids in the arrest of an old friend who is now a labour leader. The unemployed man is arrested and sent to fight in the Great War. After three years, he returns to rebel.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/wKLkiMq76do71f1TcHqXbvkiXOp.jpg",
+    "en": "/wKLkiMq76do71f1TcHqXbvkiXOp.jpg"
+  },
+  "backdrops": [
+    "/1M70yrB2iYd14FjjNX3fV0gSyBm.jpg",
+    "/jCkBIDAaUrL9u47fAt6qT9LLoIe.jpg",
+    "/wBshBIydFTlpL4FJjdRhSqywNWh.jpg",
+    "/qtA9eedzZOU1FzCFRuioprd4ykR.jpg",
+    "/xu23BAiU4YzzZ89rcWt3HCcN3Ga.jpg",
+    "/jMX2LBii1IRxlEcz5yfK2wnhzSA.jpg",
+    "/4y7vyydnm0z2Qjr9ALGFYIW62Qh.jpg",
+    "/xWhIuDjY0qegUq3hHnDOgLa8Yp1.jpg",
+    "/pYKthvSo8H41qEUIVospYOvsv2d.jpg",
+    "/yXOIajqWFv9eDczUGElXeDCpE6.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    2020,
+    224427
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Mezhrabpom-Rus"
+  ],
+  "crew": [
+    {
+      "personId": 144821,
+      "job": "director"
+    },
+    {
+      "personId": 1798752,
+      "job": "writer"
+    },
+    {
+      "personId": 144825,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4991941,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1064931,
+      "character": "Worker",
+      "order": 0
+    },
+    {
+      "personId": 1064930,
+      "character": "Worker's wife",
+      "order": 1
+    },
+    {
+      "personId": 1294745,
+      "character": "The Village Lad",
+      "order": 2
+    },
+    {
+      "personId": 1304911,
+      "character": "Lebedev, the manufacturer",
+      "order": 3
+    },
+    {
+      "personId": 1269761,
+      "character": "The Bald Revolutionary",
+      "order": 4
+    },
+    {
+      "personId": 144833,
+      "character": "District Police Chief",
+      "order": 5
+    },
+    {
+      "personId": 1798764,
+      "character": "Reporter",
+      "order": 6
+    },
+    {
+      "personId": 1798765,
+      "character": "Village Lad's Friend among New Workers",
+      "order": 7
+    },
+    {
+      "personId": 1270903,
+      "character": "Anti-German Patriot with Top Hat",
+      "order": 8
+    },
+    {
+      "personId": 589737,
+      "character": "Stock Broker",
+      "order": 9
+    },
+    {
+      "personId": 1523833,
+      "character": "Stock Broker",
+      "order": 10
+    },
+    {
+      "personId": 144821,
+      "character": "German Officer",
+      "order": 11
+    },
+    {
+      "personId": 144829,
+      "character": "German Officer",
+      "order": 12
+    },
+    {
+      "personId": 146917,
+      "character": "",
+      "order": 13
+    }
+  ],
+  "awards": {},
+  "voteCount": 41,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

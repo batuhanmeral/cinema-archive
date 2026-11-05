@@ -1,0 +1,156 @@
+{
+  "tmdbId": 44473,
+  "slug": "entr-acte-1924",
+  "year": 1924,
+  "runtime": 22,
+  "originalTitle": "Entr'acte",
+  "title": {
+    "en": "Entr'acte",
+    "tr": "Entr'acte"
+  },
+  "overview": {
+    "en": "Stop-motion photography blends with extreme slow-motion in Clair's first and most dada film, composed of a series of zany, interconnected scenes. We witness a rooftop chess match between Marcel Duchamp and Man Ray, a hearse pulled by a camel (and chased by its pallbearers) and a dizzying roller coaster finale. A film of contradictions and agreements.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/AjgQQsO9e1R9fU0wepy6OASuaVt.jpg",
+    "en": "/AjgQQsO9e1R9fU0wepy6OASuaVt.jpg"
+  },
+  "backdrops": [
+    "/tim4ymLnkiVj4TuOLcTxtUjDez2.jpg",
+    "/jzC8uMGwfa9iiBO6yxeiIanxOGo.jpg",
+    "/2lqlp2Wpv6kItzeTYFOuG9474IU.jpg",
+    "/kd8SeptvNRHlYr8JrRMeqFRnKOP.jpg",
+    "/94oeCB7s5AI8MxKlyeV6G0Ikjgb.jpg",
+    "/81fdtW4yMAqyVDTdyAzl7JdBTnE.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    14
+  ],
+  "keywordIds": [
+    9887,
+    209981
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [],
+  "studios": [
+    "Les Ballets Suedois"
+  ],
+  "crew": [
+    {
+      "personId": 33166,
+      "job": "director"
+    },
+    {
+      "personId": 143352,
+      "job": "writer"
+    },
+    {
+      "personId": 33166,
+      "job": "producer"
+    },
+    {
+      "personId": 8990,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 15119,
+      "job": "composer"
+    },
+    {
+      "personId": 1002635,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 150599,
+      "character": "Hunter / Magician",
+      "order": 0
+    },
+    {
+      "personId": 150600,
+      "character": "Bearded ballet dancer",
+      "order": 1
+    },
+    {
+      "personId": 150601,
+      "character": "Chess player, black set",
+      "order": 2
+    },
+    {
+      "personId": 150602,
+      "character": "Chess player, white set",
+      "order": 3
+    },
+    {
+      "personId": 143352,
+      "character": "A man loading the cannon",
+      "order": 4
+    },
+    {
+      "personId": 1042001,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 17842,
+      "character": "A man following the hearse (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 2578,
+      "character": "A man following the hearse (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 2855592,
+      "character": "A man following the hearse (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 545562,
+      "character": "A man following the hearse (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 1187794,
+      "character": "A man following the hearse (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 572345,
+      "character": "A man following the hearse (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 1002635,
+      "character": "A man following the hearse (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 15119,
+      "character": "A man following the hearse (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 1774883,
+      "character": "A man following the hearse (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 2855593,
+      "character": "A man following the hearse (uncredited)",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 154,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

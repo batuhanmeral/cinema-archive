@@ -1,0 +1,156 @@
+{
+  "tmdbId": 85715,
+  "slug": "arsenal-1929",
+  "year": 1929,
+  "runtime": 83,
+  "originalTitle": "Арсенал",
+  "title": {
+    "en": "Arsenal",
+    "tr": "Arsenal"
+  },
+  "overview": {
+    "en": "A soldier returns to Kyiv after surviving a train crash and encounters clashes between nationalists and collectivists. The story of the suppression of the Bolshevik uprising at the Arsenal factory in Kyiv by the Central Council troops.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/uKFpCZSNwOPyz28uOcAuHisolVA.jpg",
+    "en": "/xQEIAR3NTAypuN45JmE2nyaZhEk.jpg"
+  },
+  "backdrops": [
+    "/qyku09NoSXE3DRUmOCW2UDYI539.jpg",
+    "/CxOy2EuJjolHWio0nIF4bZ1zXf.jpg",
+    "/ooYl3VdqN4lJzT0XiwMMRX8bBXm.jpg",
+    "/sXIAAMwYMqFWe3EIDisFVUC1WEP.jpg",
+    "/jCghIxqp3qMIWPfFWAI2bj1zNOZ.jpg",
+    "/hIz4BYOIFPvMD4rSopTU54XQhGA.jpg",
+    "/iZFHpudJzwp7bqkyyAgJAw444yi.jpg",
+    "/t3fHCXpkqHvA2bisSgxPnyW6A3h.jpg",
+    "/2r56yTj29uubkTbHGfB6HjRvAM.jpg",
+    "/hGLbINU4aMSqj6483Mv0k2J0F5q.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10752
+  ],
+  "keywordIds": [
+    5136,
+    2504,
+    10318,
+    11709,
+    11007,
+    13065,
+    156064,
+    158620,
+    166454,
+    180827,
+    180828
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "VUFKU"
+  ],
+  "crew": [
+    {
+      "personId": 141713,
+      "job": "writer"
+    },
+    {
+      "personId": 141713,
+      "job": "director"
+    },
+    {
+      "personId": 1540511,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 141713,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 592961,
+      "character": "Tymish",
+      "order": 0
+    },
+    {
+      "personId": 1449309,
+      "character": "a German soldier",
+      "order": 1
+    },
+    {
+      "personId": 1438242,
+      "character": "a German officer",
+      "order": 2
+    },
+    {
+      "personId": 1388843,
+      "character": "a German officer",
+      "order": 3
+    },
+    {
+      "personId": 1438239,
+      "character": "Petliura",
+      "order": 4
+    },
+    {
+      "personId": 592960,
+      "character": "a nationalist with a lamp",
+      "order": 5
+    },
+    {
+      "personId": 1270918,
+      "character": "dead German soldier",
+      "order": 6
+    },
+    {
+      "personId": 1470837,
+      "character": "Mykhailo Sadovskyi",
+      "order": 7
+    },
+    {
+      "personId": 1870841,
+      "character": "a Red Army soldier",
+      "order": 8
+    },
+    {
+      "personId": 1870843,
+      "character": "nationalist",
+      "order": 9
+    },
+    {
+      "personId": 1870846,
+      "character": "Nicholas II",
+      "order": 10
+    },
+    {
+      "personId": 1461065,
+      "character": "workman",
+      "order": 11
+    },
+    {
+      "personId": 1934758,
+      "character": "Smiling soldier (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 5400016,
+      "character": "Nationalist",
+      "order": 13
+    },
+    {
+      "personId": 1540514,
+      "character": "",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 61,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

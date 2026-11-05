@@ -1,7 +1,16 @@
 import { mkdir, readFile, readdir, rm, writeFile } from 'node:fs/promises'
 import { join } from 'node:path'
 import { z } from 'zod'
-import { filmSchema, genresFileSchema, peopleFileSchema, type Person } from '../src/data/schemas'
+import {
+  type Collection,
+  collectionsFileSchema,
+  filmSchema,
+  genresFileSchema,
+  type Movement,
+  movementsFileSchema,
+  peopleFileSchema,
+  type Person,
+} from '../src/data/schemas'
 import { importReportSchema, keywordStatSchema, type LockFile, lockFileSchema } from './schemas'
 import { parseOrThrow } from './lib/validate'
 import type { ImportOutput } from './run-import'
@@ -23,12 +32,16 @@ function buildParts(output: ImportOutput): Part[] {
     ...filmParts,
     { path: 'people.json', data: output.people },
     { path: 'genres.json', data: output.genres },
+    { path: 'movements.json', data: output.movements },
+    { path: 'collections.json', data: output.collections },
     { path: 'lock.json', data: output.lock },
     { path: 'reports/import-report.json', data: output.report },
     { path: 'reports/keywords.json', data: output.keywords },
   ]
   parseOrThrow(peopleFileSchema, 'people.json', output.people)
   parseOrThrow(genresFileSchema, 'genres.json', output.genres)
+  parseOrThrow(movementsFileSchema, 'movements.json', output.movements)
+  parseOrThrow(collectionsFileSchema, 'collections.json', output.collections)
   parseOrThrow(lockFileSchema, 'lock.json', output.lock)
   parseOrThrow(importReportSchema, 'reports/import-report.json', output.report)
   parseOrThrow(keywordsFileSchema, 'reports/keywords.json', output.keywords)
@@ -93,11 +106,20 @@ async function readJsonIfExists(dataDir: string, name: string, schema: z.ZodType
   return data
 }
 
-export async function readPreviousState(
-  dataDir: string,
-): Promise<{ lock: LockFile | null; people: Person[] | null }> {
+type PreviousState = {
+  lock: LockFile | null
+  people: Person[] | null
+  movements: Movement[] | null
+  collections: Collection[] | null
+}
+
+export async function readPreviousState(dataDir: string): Promise<PreviousState> {
   return {
     lock: (await readJsonIfExists(dataDir, 'lock.json', lockFileSchema)) as LockFile | null,
     people: (await readJsonIfExists(dataDir, 'people.json', peopleFileSchema)) as Person[] | null,
+    movements: (await readJsonIfExists(dataDir, 'movements.json', movementsFileSchema)) as
+      Movement[] | null,
+    collections: (await readJsonIfExists(dataDir, 'collections.json', collectionsFileSchema)) as
+      Collection[] | null,
   }
 }

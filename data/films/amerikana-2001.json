@@ -1,0 +1,123 @@
+{
+  "tmdbId": 12831,
+  "slug": "amerikana-2001",
+  "year": 2001,
+  "runtime": 95,
+  "originalTitle": "Amerikana",
+  "title": {
+    "en": "Amerikana",
+    "tr": "Amerikana"
+  },
+  "overview": {
+    "en": "Peter and Chris, two young American friends in their late 20s, go from South Dakota to California on a scooter, and as they travel across the American landscape they see their country through different eyes, ranging from Peter's cynically nihilistic point of view, to Chris' high expectations and romantic notions of the United States.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/zryVQ8xPWxCfZJOlYwkYxbJLp8r.jpg",
+    "en": "/nR7W9RkMFCPNhYVduDe9rgTYkaF.jpg"
+  },
+  "backdrops": [
+    "/6oxuLqtW06TXlc8ptrQwfQRSFZ1.jpg",
+    "/9jT4E0zKgTEmioniyirbgZ8Gm0e.jpg"
+  ],
+  "trailerKey": "EMbADYIJE5g",
+  "genreIds": [
+    35,
+    12
+  ],
+  "keywordIds": [
+    6054,
+    9046,
+    12670,
+    156455,
+    167043,
+    315002
+  ],
+  "countries": [
+    "DK",
+    "US",
+    "DE"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 73909,
+      "job": "producer"
+    },
+    {
+      "personId": 73911,
+      "job": "producer"
+    },
+    {
+      "personId": 15303,
+      "job": "producer"
+    },
+    {
+      "personId": 1015,
+      "job": "producer"
+    },
+    {
+      "personId": 48885,
+      "job": "producer"
+    },
+    {
+      "personId": 73914,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 33156,
+      "job": "director"
+    },
+    {
+      "personId": 9423,
+      "job": "composer"
+    },
+    {
+      "personId": 73913,
+      "job": "composer"
+    },
+    {
+      "personId": 33156,
+      "job": "writer"
+    },
+    {
+      "personId": 49424,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1582,
+      "character": "Chris",
+      "order": 0
+    },
+    {
+      "personId": 49424,
+      "character": "Peter",
+      "order": 1
+    },
+    {
+      "personId": 73907,
+      "character": "Mary",
+      "order": 2
+    },
+    {
+      "personId": 73908,
+      "character": "Sisse",
+      "order": 3
+    },
+    {
+      "personId": 33156,
+      "character": "",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 7,
+  "sources": [
+    "movement:dogme-95"
+  ]
+}

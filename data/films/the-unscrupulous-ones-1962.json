@@ -1,0 +1,112 @@
+{
+  "tmdbId": 28525,
+  "slug": "the-unscrupulous-ones-1962",
+  "year": 1962,
+  "runtime": 100,
+  "originalTitle": "Os Cafajestes",
+  "title": {
+    "en": "The Unscrupulous Ones",
+    "tr": "Os Cafajestes"
+  },
+  "overview": {
+    "en": "Upon learning that his rich dad is on the brink of bankruptcy, spoiled Vavá summons his friend Jandir with a plan to get some quick cash: they will blackmail an uncle of Vavá by taking compromising photos of his lover, Leda.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/16r4nuqmYoy9TEmDp9L9waTcuib.jpg",
+    "en": "/16r4nuqmYoy9TEmDp9L9waTcuib.jpg"
+  },
+  "backdrops": [
+    "/4taqxgT1MKVmV44YN7stj6c8VnT.jpg",
+    "/vEzLtjAQlq6ax1LXjHT5D23rQHU.jpg",
+    "/4TqLD8U9XcA1cqijQz4ZZRBnm2z.jpg",
+    "/n87OkLPurxXF2z90fDRQ3ysjKpL.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    80
+  ],
+  "keywordIds": [
+    966,
+    11428
+  ],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Herbert Richers",
+    "Magnus Filmes"
+  ],
+  "crew": [
+    {
+      "personId": 90207,
+      "job": "producer"
+    },
+    {
+      "personId": 20548,
+      "job": "director"
+    },
+    {
+      "personId": 20548,
+      "job": "writer"
+    },
+    {
+      "personId": 1175177,
+      "job": "writer"
+    },
+    {
+      "personId": 572166,
+      "job": "composer"
+    },
+    {
+      "personId": 1470682,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 39157,
+      "character": "Leda",
+      "order": 0
+    },
+    {
+      "personId": 90207,
+      "character": "Jandir",
+      "order": 1
+    },
+    {
+      "personId": 8568,
+      "character": "Vavá",
+      "order": 2
+    },
+    {
+      "personId": 112112,
+      "character": "Photographer",
+      "order": 3
+    },
+    {
+      "personId": 544853,
+      "character": "Vilma",
+      "order": 4
+    },
+    {
+      "personId": 545811,
+      "character": "Sex Worker",
+      "order": 5
+    },
+    {
+      "personId": 1163628,
+      "character": "",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 26,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

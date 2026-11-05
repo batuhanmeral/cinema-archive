@@ -1,0 +1,96 @@
+{
+  "tmdbId": 175437,
+  "slug": "shattered-1921",
+  "year": 1921,
+  "runtime": 66,
+  "originalTitle": "Scherben",
+  "title": {
+    "en": "Shattered",
+    "tr": "Scherben"
+  },
+  "overview": {
+    "en": "The everyday lives of a poverty-stricken railway trackman, his wife and daughter in a remote, isolated house in a winter landscape. One day, they receive a telegram announcing the arrival of the section inspector, who is to live with the family. After his arrival, a downward spiral begins.",
+    "tr": null
+  },
+  "poster": {
+    "tr": null,
+    "en": null
+  },
+  "backdrops": [
+    "/m2xnZfYgY0RdfzEnjAbYHkMlItg.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Rex-Film GmbH"
+  ],
+  "crew": [
+    {
+      "personId": 28996,
+      "job": "director"
+    },
+    {
+      "personId": 2792,
+      "job": "writer"
+    },
+    {
+      "personId": 28996,
+      "job": "writer"
+    },
+    {
+      "personId": 28996,
+      "job": "producer"
+    },
+    {
+      "personId": 2996,
+      "job": "composer"
+    },
+    {
+      "personId": 1550873,
+      "job": "composer"
+    },
+    {
+      "personId": 13879,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3000,
+      "character": "Bahnwärter",
+      "order": 0
+    },
+    {
+      "personId": 1444297,
+      "character": "Tochter des Bahnwärters",
+      "order": 1
+    },
+    {
+      "personId": 1476432,
+      "character": "Frau des Bahnwärters",
+      "order": 2
+    },
+    {
+      "personId": 48039,
+      "character": "Bahninspektor",
+      "order": 3
+    },
+    {
+      "personId": 28996,
+      "character": "Reisender (uncredited)",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 14,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

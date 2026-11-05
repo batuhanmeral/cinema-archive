@@ -1,0 +1,182 @@
+{
+  "tmdbId": 374458,
+  "slug": "graduation-2016",
+  "year": 2016,
+  "runtime": 128,
+  "originalTitle": "Bacalaureat",
+  "title": {
+    "en": "Graduation",
+    "tr": "Mezuniyet"
+  },
+  "overview": {
+    "en": "After his daughter is assaulted and left with an injury that may jeopardize her opportunity to study in the UK, a Romanian doctor decides to do whatever it takes to secure her future.",
+    "tr": "Romeo Aldea, Romanya’da küçük bir dağ kasabasında yaşayan 49 yaşında bir doktordur. Kızı Eliza'yı 18 yaşına geldiğinde yurt dışında okutma idealiyle büyütür. Planları gerçekleşmek üzeredir; Eliza İngiltere’de psikoloji okumak için burs kazanır. Tek yapması gereken lise bitirme sınavlarını geçmektir. Aslında başarılı bir öğrenci olan Eliza için bu sınavlar yalnızca bir formaliteden ibarettir. İlk yazılı sınavından bir önceki gün, Eliza tüm geleceğini riske atan bir saldırıya uğrar. Şimdi Romeo, bir karar vermek zorundadır. Bu durumu çözmek için birkaç yol vardır fakat hiçbiri kızına öğrettiği prensiplerle uyuşmamaktadır."
+  },
+  "poster": {
+    "tr": "/mKaeCJWMwrXJqPwoeyOQOXPN8fx.jpg",
+    "en": "/faqaQHKKcjpnqiQmZkAVfr7TyH.jpg"
+  },
+  "backdrops": [
+    "/18SmFnHviS40lfrPfOfdNVjWE6o.jpg",
+    "/hAog10vdYpnj3w6n5zdTIdy4spH.jpg",
+    "/LLVvgPXBmIvVPG6MQaPLYVE9HE.jpg",
+    "/o0P4x5uct9mxP45yNexVXoxVP3n.jpg",
+    "/4KNIZdfpE6s3I9QtWSyIff5Mb7h.jpg",
+    "/ih9f6vZ1ZjMXBN1ufzmXTrgEOBb.jpg",
+    "/89Ma1woH15uheLeQfwulMKNkOKQ.jpg",
+    "/8nzMwY4Oh1K3ugNqy0kYu0Tv0i.jpg",
+    "/rR2CW8ky9nhgz3oI17UG5xlCFxX.jpg"
+  ],
+  "trailerKey": "i49iyn7FN6Y",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    6093,
+    3687,
+    4666,
+    10735,
+    14735,
+    18035,
+    34094,
+    185740,
+    240303
+  ],
+  "countries": [
+    "RO",
+    "FR"
+  ],
+  "languages": [
+    "ro"
+  ],
+  "studios": [
+    "Why Not Productions",
+    "Mobra Films",
+    "France 3 Cinéma"
+  ],
+  "crew": [
+    {
+      "personId": 20657,
+      "job": "director"
+    },
+    {
+      "personId": 20657,
+      "job": "producer"
+    },
+    {
+      "personId": 20657,
+      "job": "writer"
+    },
+    {
+      "personId": 1554308,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1113157,
+      "character": "Romeo Aldea",
+      "order": 0
+    },
+    {
+      "personId": 39249,
+      "character": "Eliza",
+      "order": 1
+    },
+    {
+      "personId": 62888,
+      "character": "Magda",
+      "order": 2
+    },
+    {
+      "personId": 39959,
+      "character": "Chief Inspector",
+      "order": 3
+    },
+    {
+      "personId": 60418,
+      "character": "Procurorul Ivaşcu",
+      "order": 4
+    },
+    {
+      "personId": 587475,
+      "character": "Albu Marin",
+      "order": 5
+    },
+    {
+      "personId": 587474,
+      "character": "Agent Sandu",
+      "order": 6
+    },
+    {
+      "personId": 965597,
+      "character": "Gelu",
+      "order": 7
+    },
+    {
+      "personId": 1113164,
+      "character": "Doctorul Pandele",
+      "order": 8
+    },
+    {
+      "personId": 122784,
+      "character": "Doamna Bulai",
+      "order": 9
+    },
+    {
+      "personId": 1155732,
+      "character": "Meșter Lăcătuș",
+      "order": 10
+    },
+    {
+      "personId": 1709134,
+      "character": "Femeia de serviciu",
+      "order": 11
+    },
+    {
+      "personId": 1547396,
+      "character": "Mama de fetiță",
+      "order": 12
+    },
+    {
+      "personId": 1913581,
+      "character": "Părinte de băiat",
+      "order": 13
+    },
+    {
+      "personId": 1913582,
+      "character": "Bodyguard",
+      "order": 14
+    },
+    {
+      "personId": 1913584,
+      "character": "Un soldat",
+      "order": 15
+    },
+    {
+      "personId": 1913585,
+      "character": "Suspectul no 1",
+      "order": 16
+    },
+    {
+      "personId": 1833453,
+      "character": "Suspectul no 2",
+      "order": 17
+    },
+    {
+      "personId": 1913586,
+      "character": "Suspectul no 3",
+      "order": 18
+    },
+    {
+      "personId": 1034687,
+      "character": "Suspectul no 4",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 318,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

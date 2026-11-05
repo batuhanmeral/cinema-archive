@@ -1,0 +1,132 @@
+{
+  "tmdbId": 56518,
+  "slug": "the-flowers-of-st-francis-1950",
+  "year": 1950,
+  "runtime": 87,
+  "originalTitle": "Francesco, giullare di Dio",
+  "title": {
+    "en": "The Flowers of St. Francis",
+    "tr": "Francesco, giullare di Dio"
+  },
+  "overview": {
+    "en": "In a series of simple and joyous vignettes, director Roberto Rossellini and co-writer Federico Fellini lovingly convey the universal teachings of the People’s Saint: humility, compassion, faith, and sacrifice. Gorgeously photographed to evoke the medieval paintings of Saint Francis’s time, and cast with monks from the Nocera Inferiore Monastery, The Flowers of St. Francis is a timeless and moving portrait of the search for spiritual enlightenment.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4db6zjmJK4D5gEzQ0V5JTkRo0X5.jpg",
+    "en": "/4db6zjmJK4D5gEzQ0V5JTkRo0X5.jpg"
+  },
+  "backdrops": [
+    "/fWTGjRzX78oZNGYauR2RfOXbUX3.jpg",
+    "/nkDRQOvrJSkVEo0LSY7RQpCTqSS.jpg",
+    "/e7W1Sgu5ogKgKxc4zbcmVrHkT0y.jpg",
+    "/ifOM4FVTkJkNmFDnRSAIHrhUTnL.jpg",
+    "/ll6B8owRYkbuqIwGXI7VgHhmou5.jpg",
+    "/bWIuGZtPkKUgYggH4blHU6dw3wP.jpg",
+    "/1sUl8i8bVAoKP7GpogAnVZUomTP.jpg",
+    "/v0LIJVpeqIGoel68TKXkQIqUvW4.jpg",
+    "/6jvHTC4ofcKBolWCMZgAt23cnxF.jpg",
+    "/PbOvfEVsfYm30Q4ieuB8diRDks.jpg"
+  ],
+  "trailerKey": "pzDn8BVUGZU",
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [
+    208408,
+    252193
+  ],
+  "countries": [
+    "IT"
+  ],
+  "languages": [
+    "it",
+    "la"
+  ],
+  "studios": [
+    "Rizzoli Film",
+    "Cineriz"
+  ],
+  "crew": [
+    {
+      "personId": 5678,
+      "job": "writer"
+    },
+    {
+      "personId": 224445,
+      "job": "writer"
+    },
+    {
+      "personId": 4415,
+      "job": "writer"
+    },
+    {
+      "personId": 4410,
+      "job": "director"
+    },
+    {
+      "personId": 224444,
+      "job": "writer"
+    },
+    {
+      "personId": 5399,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 5679,
+      "job": "producer"
+    },
+    {
+      "personId": 4416,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 4420,
+      "character": "Nicolaio, il Tiranno di Viterbo",
+      "order": 0
+    },
+    {
+      "personId": 224447,
+      "character": "Narrator (voice)",
+      "order": 1
+    },
+    {
+      "personId": 224448,
+      "character": "Giovanni il Sempliciotto",
+      "order": 2
+    },
+    {
+      "personId": 224449,
+      "character": "Fra' Ginapro",
+      "order": 3
+    },
+    {
+      "personId": 1537632,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1537630,
+      "character": "San Francesco (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 1537631,
+      "character": "Santa Chiara (uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 4416,
+      "character": "Narrator (voice) (uncredited)",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 101,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "tmdbId": 105348,
+  "slug": "the-party-and-the-guests-1966",
+  "year": 1966,
+  "runtime": 70,
+  "originalTitle": "O slavnosti a hostech",
+  "title": {
+    "en": "The Party and the Guests",
+    "tr": "O slavnosti a hostech"
+  },
+  "overview": {
+    "en": "A group of the bourgeois head for a prominent figure's birthday party. As they venture through the woods and have a picnic, they're suddenly surrounded by some suspicious strangers.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/3Nl4QFdesxZcgPBs0qLn4koE2Ee.jpg",
+    "en": "/8mYG2PpBwI1fkTC2x81VpCFYtSj.jpg"
+  },
+  "backdrops": [
+    "/pzVz4bOdPpq9Xvsz7NdVgO77KFI.jpg",
+    "/mqJKvdiMW8t50WOl9NUiTwC3Df7.jpg",
+    "/sRpFv6LdZ4YGF5noel8qGBiuUVF.jpg",
+    "/5NAP2IFi6ccGVV4Sj8jl1MyUk2p.jpg",
+    "/9MWeyYTWds1ouPXLgjsYOuegMpY.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    6089,
+    2406,
+    1715,
+    8201,
+    9887,
+    10624,
+    173645,
+    185233,
+    189432,
+    189433
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "cs"
+  ],
+  "studios": [
+    "Filmové studio Barrandov"
+  ],
+  "crew": [
+    {
+      "personId": 1024901,
+      "job": "director"
+    },
+    {
+      "personId": 544648,
+      "job": "writer"
+    },
+    {
+      "personId": 1024901,
+      "job": "writer"
+    },
+    {
+      "personId": 1136796,
+      "job": "composer"
+    },
+    {
+      "personId": 11725,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 544652,
+      "character": "Treater",
+      "order": 0
+    },
+    {
+      "personId": 588762,
+      "character": "Rudolf",
+      "order": 1
+    },
+    {
+      "personId": 1136797,
+      "character": "Josef",
+      "order": 2
+    },
+    {
+      "personId": 1136798,
+      "character": "Frantisek",
+      "order": 3
+    },
+    {
+      "personId": 1136796,
+      "character": "Karel",
+      "order": 4
+    },
+    {
+      "personId": 1035927,
+      "character": "Husband",
+      "order": 5
+    },
+    {
+      "personId": 1136800,
+      "character": "Eva",
+      "order": 6
+    },
+    {
+      "personId": 1136801,
+      "character": "Marta",
+      "order": 7
+    },
+    {
+      "personId": 1136799,
+      "character": "Lady",
+      "order": 8
+    },
+    {
+      "personId": 1136802,
+      "character": "Groom",
+      "order": 9
+    },
+    {
+      "personId": 1136803,
+      "character": "Bride Olinka",
+      "order": 10
+    },
+    {
+      "personId": 1136821,
+      "character": "Antonín",
+      "order": 11
+    },
+    {
+      "personId": 3528783,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 3528784,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 3528785,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 3527491,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 2486292,
+      "character": "Host",
+      "order": 16
+    },
+    {
+      "personId": 3201402,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 2248870,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 3528788,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 40,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

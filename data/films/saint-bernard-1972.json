@@ -1,0 +1,138 @@
+{
+  "tmdbId": 253380,
+  "slug": "saint-bernard-1972",
+  "year": 1972,
+  "runtime": 113,
+  "originalTitle": "S. Bernardo",
+  "title": {
+    "en": "Saint Bernard",
+    "tr": "S. Bernardo"
+  },
+  "overview": {
+    "en": "The story of Paulo Honório, a poor ploughman who becomes a rich farmer. Obsessed by his desire to get even richer, he doesn't pay much attention to his wife, Madalena, a teacher who reacts against his tyrannical ways.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/cowUXiTYIg3IkyAuKNlDGdwFDUR.jpg",
+    "en": "/cowUXiTYIg3IkyAuKNlDGdwFDUR.jpg"
+  },
+  "backdrops": [
+    "/y3QsDhbqri829JmkMEn4ojvXLVf.jpg",
+    "/uxQ5qcLSXMGKxd6mF4bDOwQwP9.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    154846
+  ],
+  "countries": [
+    "BR"
+  ],
+  "languages": [
+    "pt"
+  ],
+  "studios": [
+    "Saga Filmes",
+    "Embrafilme",
+    "Mapa Filmes"
+  ],
+  "crew": [
+    {
+      "personId": 54979,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1185869,
+      "job": "writer"
+    },
+    {
+      "personId": 1185869,
+      "job": "director"
+    },
+    {
+      "personId": 3765813,
+      "job": "producer"
+    },
+    {
+      "personId": 2302642,
+      "job": "producer"
+    },
+    {
+      "personId": 229254,
+      "job": "producer"
+    },
+    {
+      "personId": 3620,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10061,
+      "character": "Paulo Honório",
+      "order": 0
+    },
+    {
+      "personId": 550050,
+      "character": "Madalena",
+      "order": 1
+    },
+    {
+      "personId": 953889,
+      "character": "Padilha",
+      "order": 2
+    },
+    {
+      "personId": 1180636,
+      "character": "Dona Glória",
+      "order": 3
+    },
+    {
+      "personId": 1068934,
+      "character": "Nogueira",
+      "order": 4
+    },
+    {
+      "personId": 1288897,
+      "character": "Gondim",
+      "order": 5
+    },
+    {
+      "personId": 12399,
+      "character": "Padre Brito",
+      "order": 6
+    },
+    {
+      "personId": 1168228,
+      "character": "Dr. Magalhães",
+      "order": 7
+    },
+    {
+      "personId": 1921341,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1490372,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1549808,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1135418,
+      "character": "",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 23,
+  "sources": [
+    "movement:cinema-novo"
+  ]
+}

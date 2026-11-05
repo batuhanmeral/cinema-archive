@@ -1,0 +1,204 @@
+{
+  "tmdbId": 42984,
+  "slug": "the-insect-woman-1963",
+  "year": 1963,
+  "runtime": 123,
+  "originalTitle": "にっぽん昆虫記",
+  "title": {
+    "en": "The Insect Woman",
+    "tr": "The Insect Woman"
+  },
+  "overview": {
+    "en": "A woman, Tome, is born to a lower class family in Japan in 1918. The title refers to an insect, repeating its mistakes, as in an infinite circle. Imamura, with this metaphor, introduces the life of Tome, who keeps trying to change her poor life.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tIY9Phiuk1rQOSpXLe4d4j0Msd0.jpg",
+    "en": "/jAhw4x0rVaReaVjm0vL8EZOCjUy.jpg"
+  },
+  "backdrops": [
+    "/4UnSMjU6OtcRxc8tniVV9oklC2N.jpg",
+    "/xrzNNGPQI44BMZkJkgykErKtzo.jpg",
+    "/2fBgW5JuGYzZyws5SuXwYliLs5f.jpg",
+    "/14gO2STuh7qCPZkgvkp48GBrm1x.jpg",
+    "/ur7Mg915pXMr8ikLUalcgnqW0Ae.jpg",
+    "/t6yi2hrPz2q2Tf28mUddYI7xrmd.jpg",
+    "/A5HthW94Udky7ZxtIfwBf9mKjq1.jpg",
+    "/sJeU4Afet5H9jPkY0Ktyw7m4xsP.jpg",
+    "/oK5ny6h25cy4mOhqI0Iy3RVRGIp.jpg",
+    "/AmrzRjsEiVdn7wIPXMS9deb6ChI.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    596,
+    233,
+    549,
+    188,
+    970,
+    718,
+    1411,
+    3725,
+    5332,
+    2412,
+    5627,
+    10235,
+    12987,
+    13059,
+    14794,
+    15163,
+    33841,
+    188266,
+    193316,
+    207876,
+    207883,
+    208611,
+    208992,
+    210184,
+    214548,
+    223025,
+    227068,
+    229136,
+    229663,
+    237740,
+    254547
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Nikkatsu Corporation"
+  ],
+  "crew": [
+    {
+      "personId": 20025,
+      "job": "director"
+    },
+    {
+      "personId": 20025,
+      "job": "writer"
+    },
+    {
+      "personId": 142483,
+      "job": "writer"
+    },
+    {
+      "personId": 1564551,
+      "job": "producer"
+    },
+    {
+      "personId": 25800,
+      "job": "composer"
+    },
+    {
+      "personId": 123868,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1391878,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 142485,
+      "character": "Tome Matsuki",
+      "order": 0
+    },
+    {
+      "personId": 33729,
+      "character": "Nobuko",
+      "order": 1
+    },
+    {
+      "personId": 142454,
+      "character": "Ken",
+      "order": 2
+    },
+    {
+      "personId": 135131,
+      "character": "Matsunami",
+      "order": 3
+    },
+    {
+      "personId": 1097520,
+      "character": "Miyako",
+      "order": 4
+    },
+    {
+      "personId": 123852,
+      "character": "Midori",
+      "order": 5
+    },
+    {
+      "personId": 142484,
+      "character": "Rui",
+      "order": 6
+    },
+    {
+      "personId": 142486,
+      "character": "Kane",
+      "order": 7
+    },
+    {
+      "personId": 142487,
+      "character": "Kamibayashi",
+      "order": 8
+    },
+    {
+      "personId": 83202,
+      "character": "Karasawa",
+      "order": 9
+    },
+    {
+      "personId": 142488,
+      "character": "Rin",
+      "order": 10
+    },
+    {
+      "personId": 55666,
+      "character": "Madam",
+      "order": 11
+    },
+    {
+      "personId": 63707,
+      "character": "Chuji",
+      "order": 12
+    },
+    {
+      "personId": 142489,
+      "character": "Owagawa En's Lover",
+      "order": 13
+    },
+    {
+      "personId": 142490,
+      "character": "En",
+      "order": 14
+    },
+    {
+      "personId": 33732,
+      "character": "Foreman",
+      "order": 15
+    },
+    {
+      "personId": 81278,
+      "character": "Sawakichi",
+      "order": 16
+    },
+    {
+      "personId": 142491,
+      "character": "Honda",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 80,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

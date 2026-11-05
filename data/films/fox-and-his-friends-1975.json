@@ -1,0 +1,194 @@
+{
+  "tmdbId": 42254,
+  "slug": "fox-and-his-friends-1975",
+  "year": 1975,
+  "runtime": 125,
+  "originalTitle": "Faustrecht der Freiheit",
+  "title": {
+    "en": "Fox and His Friends",
+    "tr": "Faustrecht der Freiheit"
+  },
+  "overview": {
+    "en": "Fox, a former circus performer, wins the lottery of DM 500,000 and can now have the life and things that he has always wanted.  He enters an abusive relationship with wealthy industrialist Eugen in an attempt to climb the social ladder. His desperation for love and affection soon spirals into tragedy.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/uYHNK7VycMOcD9Jv5qgjIdvDwgG.jpg",
+    "en": "/uYHNK7VycMOcD9Jv5qgjIdvDwgG.jpg"
+  },
+  "backdrops": [
+    "/shIMqYeRZArmAsUe3FYGhHgWAkM.jpg",
+    "/qYyIiA368SDb9XGvOfw1pBkfKNK.jpg",
+    "/zHosT809Fc8aa6x4MqDiHZ4eDAP.jpg",
+    "/bxe14zrGlZPiHoBqfAjWacBdaEO.jpg",
+    "/asl3ByWoYq1Iv2FBUNNW0ET9N4M.jpg",
+    "/5cmra72ZrKUxrFaB9k5qWcBPspJ.jpg",
+    "/11lgoASmtOA1EccpIcnzdl6BpAv.jpg",
+    "/vOXclYNmlAnBlvN41PPeecwa7Th.jpg",
+    "/dJ7LF6DgFdmA62SyQjZlwzVXL0Z.jpg",
+    "/5xEgxim9ma5zlPR7Scwd16gPXjU.jpg"
+  ],
+  "trailerKey": "cVZ6_TZDo8Q",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    4320,
+    2437,
+    3473,
+    4258,
+    5090,
+    9713,
+    10180,
+    155418,
+    179823,
+    236882,
+    258533,
+    293649
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "de"
+  ],
+  "studios": [
+    "Tango Film",
+    "City Film"
+  ],
+  "crew": [
+    {
+      "personId": 2725,
+      "job": "director"
+    },
+    {
+      "personId": 2725,
+      "job": "writer"
+    },
+    {
+      "personId": 3767,
+      "job": "composer"
+    },
+    {
+      "personId": 2725,
+      "job": "producer"
+    },
+    {
+      "personId": 3769,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1359067,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 2725,
+      "character": "Franz \"Fox\" Bieberkopf",
+      "order": 0
+    },
+    {
+      "personId": 39006,
+      "character": "Eugen Thiess",
+      "order": 1
+    },
+    {
+      "personId": 6251,
+      "character": "Max",
+      "order": 2
+    },
+    {
+      "personId": 32552,
+      "character": "Wolf Thiess, Eugen's Father",
+      "order": 3
+    },
+    {
+      "personId": 40974,
+      "character": "Hedwig",
+      "order": 4
+    },
+    {
+      "personId": 23668,
+      "character": "Philip",
+      "order": 5
+    },
+    {
+      "personId": 1175731,
+      "character": "Barman Springer",
+      "order": 6
+    },
+    {
+      "personId": 21997,
+      "character": "Wodka-Peter",
+      "order": 7
+    },
+    {
+      "personId": 10624,
+      "character": "Attorney Dr. Siebenkäss",
+      "order": 8
+    },
+    {
+      "personId": 2742,
+      "character": "Klaus",
+      "order": 9
+    },
+    {
+      "personId": 73671,
+      "character": "Florist \"Fatty\" Schmidt",
+      "order": 10
+    },
+    {
+      "personId": 3873725,
+      "character": "Krapp",
+      "order": 11
+    },
+    {
+      "personId": 2741,
+      "character": "Car Dealer",
+      "order": 12
+    },
+    {
+      "personId": 51014,
+      "character": "Doctor",
+      "order": 13
+    },
+    {
+      "personId": 130913,
+      "character": "American Soldier",
+      "order": 14
+    },
+    {
+      "personId": 2726,
+      "character": "Shopkeeper #2",
+      "order": 15
+    },
+    {
+      "personId": 1183581,
+      "character": "Secretary at Travel Agency",
+      "order": 16
+    },
+    {
+      "personId": 2728,
+      "character": "Albine",
+      "order": 17
+    },
+    {
+      "personId": 2730,
+      "character": "Shopkeeper #1",
+      "order": 18
+    },
+    {
+      "personId": 45195,
+      "character": "Singer in Bar",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 154,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

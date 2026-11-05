@@ -1,0 +1,117 @@
+{
+  "tmdbId": 47590,
+  "slug": "the-girl-with-the-hat-box-1927",
+  "year": 1927,
+  "runtime": 66,
+  "originalTitle": "Девушка с коробкой",
+  "title": {
+    "en": "The Girl with the Hat Box",
+    "tr": "The Girl with the Hat Box"
+  },
+  "overview": {
+    "en": "A Moscow hat shop girl chances upon a penniless young man who has arrived from the countryside for university and takes pity on him.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/p0pqMe0OzPJOKna9oXyuaTG7wWB.jpg",
+    "en": "/p0pqMe0OzPJOKna9oXyuaTG7wWB.jpg"
+  },
+  "backdrops": [
+    "/bToJy2heRTYi1o13QgZ6VYbbD1S.jpg",
+    "/itzoa0Q1XoJMejNZO5z9ildOkK6.jpg",
+    "/bx4vPH8j4EAKcVpB2IATtZFua8R.jpg",
+    "/eehtsh9bg5cleSba9WrMxDzjeun.jpg",
+    "/4HIidAJZgPAq3yfni6Dwe2VqSro.jpg",
+    "/pdj8M4dIyHEyIVI54l23FXiAHoq.jpg",
+    "/AdMvwp5AT42ZPk2HkhAqWPHrPZE.jpg",
+    "/3i5yfclkAPoxqPZQgBREplYdQPG.jpg",
+    "/ubkmtk5h4SZQmRAz7whVf6SPtgl.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    2111
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Mezhrabpom-Rus"
+  ],
+  "crew": [
+    {
+      "personId": 144826,
+      "job": "director"
+    },
+    {
+      "personId": 1296576,
+      "job": "writer"
+    },
+    {
+      "personId": 1644897,
+      "job": "writer"
+    },
+    {
+      "personId": 2969995,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1768015,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 4991941,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 108719,
+      "character": "Natasha",
+      "order": 0
+    },
+    {
+      "personId": 144829,
+      "character": "Fogelev",
+      "order": 1
+    },
+    {
+      "personId": 29144,
+      "character": "Ilya Snegiryov",
+      "order": 2
+    },
+    {
+      "personId": 146917,
+      "character": "Madame Irène",
+      "order": 3
+    },
+    {
+      "personId": 1540515,
+      "character": "Natasha's grandfather",
+      "order": 4
+    },
+    {
+      "personId": 9605,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 29201,
+      "character": "Irène's Husband",
+      "order": 6
+    },
+    {
+      "personId": 3260836,
+      "character": "Marfushka",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 33,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

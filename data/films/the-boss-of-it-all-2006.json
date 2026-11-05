@@ -1,0 +1,159 @@
+{
+  "tmdbId": 5206,
+  "slug": "the-boss-of-it-all-2006",
+  "year": 2006,
+  "runtime": 99,
+  "originalTitle": "Direktøren for det hele",
+  "title": {
+    "en": "The Boss of It All",
+    "tr": "Emret Patronum"
+  },
+  "overview": {
+    "en": "The owner of an IT firm wants to sell his business for profit; however, when he started his firm, he invented a nonexistent president to hide behind when unpopular steps needed to be taken. When potential purchasers insist on negotiating with 'The Boss' face to face, the owner hires a failed actor to play the part.",
+    "tr": "Bilişim teknolojileri şirketi olan bir adam, bir gün sahip olduğu şirketi satmaya karar verir. Ancak ortada ufak bir sorun vardır, patron uzun zamandır ofisin içinde sıradan bir çalışan gibi çalışmaktadır ve kimse kendisinin şirketin sahibi olduğunu bilmemektedir. Şirketi almaya talip olan yatırımcılar yeni patronla yüzyüze görüşmek konusunda ısrar edince patron çareyi profesyonel bir oyuncu ile anlaşmakta bulur. Başlangıçta her şey yolunda giderse de sahte patron zamanla kendini iyice rolüne kaptırır."
+  },
+  "poster": {
+    "tr": "/rwEtK0YLHLzT13uPtXyXCHoWMwR.jpg",
+    "en": "/ZWJ9T5IsXCYcUVENkYomns5dfU.jpg"
+  },
+  "backdrops": [
+    "/3WlzpN3MUt9g7AFloo8ZJoVWg6X.jpg",
+    "/aBX0eUuQsnFAfaQUJQsjJbadMfU.jpg",
+    "/yigznwk3c3RXrVL7ydesC4HK53A.jpg",
+    "/jraANUCMO1KAUvlOF7HJQazrMKe.jpg",
+    "/tZnSELkhNmzDmRLzWWsQh74HNcW.jpg",
+    "/5OM8a1Uu2qiQoDgDiLNYiL7v8Vp.jpg",
+    "/kdWl95FwwhcIFxsD2qO4aFRUqHu.jpg",
+    "/yv1ZRkNLOSw7FY3UGgV27ztqGrE.jpg",
+    "/ziz5cRRAvzwUSB56QgLgqbAQZhg.jpg",
+    "/6GTfPO3mK5xPxtNiy6YsvYsCV25.jpg"
+  ],
+  "trailerKey": "OyPBZsli7e0",
+  "genreIds": [
+    35
+  ],
+  "keywordIds": [
+    1438,
+    1737
+  ],
+  "countries": [
+    "DK",
+    "FR",
+    "IT",
+    "SE",
+    "DE"
+  ],
+  "languages": [
+    "en",
+    "da",
+    "is",
+    "ru"
+  ],
+  "studios": [
+    "Zentropa Entertainments",
+    "Memfis Film",
+    "Slot Machine"
+  ],
+  "crew": [
+    {
+      "personId": 42099,
+      "job": "producer"
+    },
+    {
+      "personId": 42100,
+      "job": "producer"
+    },
+    {
+      "personId": 6146,
+      "job": "producer"
+    },
+    {
+      "personId": 42,
+      "job": "writer"
+    },
+    {
+      "personId": 42,
+      "job": "director"
+    },
+    {
+      "personId": 1727713,
+      "job": "composer"
+    },
+    {
+      "personId": 2077839,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 6121,
+      "character": "The Boss of it All / Kristoffer / Svend E",
+      "order": 0
+    },
+    {
+      "personId": 1181,
+      "character": "Ravn",
+      "order": 1
+    },
+    {
+      "personId": 6759,
+      "character": "Finnur",
+      "order": 2
+    },
+    {
+      "personId": 42092,
+      "character": "Interpreter",
+      "order": 3
+    },
+    {
+      "personId": 1562,
+      "character": "Lise",
+      "order": 4
+    },
+    {
+      "personId": 6125,
+      "character": "Nalle",
+      "order": 5
+    },
+    {
+      "personId": 42094,
+      "character": "Heidi A.",
+      "order": 6
+    },
+    {
+      "personId": 42095,
+      "character": "Gorm",
+      "order": 7
+    },
+    {
+      "personId": 6124,
+      "character": "Mette",
+      "order": 8
+    },
+    {
+      "personId": 1642,
+      "character": "Spencer",
+      "order": 9
+    },
+    {
+      "personId": 1564,
+      "character": "Kisser",
+      "order": 10
+    },
+    {
+      "personId": 1566,
+      "character": "Jokumsen",
+      "order": 11
+    },
+    {
+      "personId": 42,
+      "character": "Narrator (uncredited)",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 339,
+  "sources": [
+    "movement:dogme-95"
+  ]
+}

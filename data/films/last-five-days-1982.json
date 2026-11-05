@@ -1,0 +1,103 @@
+{
+  "tmdbId": 274958,
+  "slug": "last-five-days-1982",
+  "year": 1982,
+  "runtime": 112,
+  "originalTitle": "Fünf letzte Tage",
+  "title": {
+    "en": "Last Five Days",
+    "tr": "Fünf letzte Tage"
+  },
+  "overview": {
+    "en": "At Gestapo head quarters a young woman establishes a relationship with another inmate. This young woman is Sophie Scholl who tells the story of her life and of her resistance movement′s courageous fight against Hitler′s Nazi regime.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/AkTPpyc5Wgy9nmd77KggKLaQmYW.jpg",
+    "en": "/AkTPpyc5Wgy9nmd77KggKLaQmYW.jpg"
+  },
+  "backdrops": [],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    2652,
+    836,
+    6312
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [],
+  "studios": [
+    "Pelemele Film"
+  ],
+  "crew": [
+    {
+      "personId": 32632,
+      "job": "director"
+    },
+    {
+      "personId": 32632,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 36486,
+      "character": "Sophie Scholl",
+      "order": 0
+    },
+    {
+      "personId": 2729,
+      "character": "Else Gebel",
+      "order": 1
+    },
+    {
+      "personId": 1328695,
+      "character": "Hans Scholl",
+      "order": 2
+    },
+    {
+      "personId": 1328696,
+      "character": "Beamter G.",
+      "order": 3
+    },
+    {
+      "personId": 48187,
+      "character": "Mahr",
+      "order": 4
+    },
+    {
+      "personId": 1328697,
+      "character": "Philip",
+      "order": 5
+    },
+    {
+      "personId": 39325,
+      "character": "Wachmann 1",
+      "order": 6
+    },
+    {
+      "personId": 32650,
+      "character": "Wachmann 2",
+      "order": 7
+    },
+    {
+      "personId": 39279,
+      "character": "Pflichtverteidiger",
+      "order": 8
+    },
+    {
+      "personId": 39421,
+      "character": "",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 4,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

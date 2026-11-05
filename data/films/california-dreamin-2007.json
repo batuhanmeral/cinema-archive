@@ -1,0 +1,168 @@
+{
+  "tmdbId": 24220,
+  "slug": "california-dreamin-2007",
+  "year": 2007,
+  "runtime": 155,
+  "originalTitle": "Nesfârșit",
+  "title": {
+    "en": "California Dreamin'",
+    "tr": "Nesfârșit"
+  },
+  "overview": {
+    "en": "1999. Kosovo War. In a small Romanian village, the chief of the railway station, who also happens to be a local gangster, stops a NATO train transporting military equipment. Their arrival in this small village dramatically changes its landscape.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/tPvlAyp6ZKoHWyHF4jYzMANHjjO.jpg",
+    "en": "/oCA2C85sU0oIdZaD9M2CtpLcy65.jpg"
+  },
+  "backdrops": [
+    "/xVZQKwDglCZhdSVW1xWFxSoDcFB.jpg",
+    "/hbeCObhcxcF1S0tuF6lhfAVDN8S.jpg"
+  ],
+  "trailerKey": "75NoNVMkQwU",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    209983
+  ],
+  "countries": [
+    "RO"
+  ],
+  "languages": [
+    "en",
+    "it",
+    "ro"
+  ],
+  "studios": [
+    "MediaPro Pictures",
+    "Temple Film"
+  ],
+  "crew": [
+    {
+      "personId": 1037092,
+      "job": "director"
+    },
+    {
+      "personId": 56839,
+      "job": "producer"
+    },
+    {
+      "personId": 587467,
+      "job": "writer"
+    },
+    {
+      "personId": 1037092,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 23346,
+      "character": "Captain Jones",
+      "order": 0
+    },
+    {
+      "personId": 55507,
+      "character": "Doiaru",
+      "order": 1
+    },
+    {
+      "personId": 95002,
+      "character": "Sergeant David McClaren",
+      "order": 2
+    },
+    {
+      "personId": 95003,
+      "character": "Monica",
+      "order": 3
+    },
+    {
+      "personId": 85227,
+      "character": "The Mayor",
+      "order": 4
+    },
+    {
+      "personId": 95004,
+      "character": "Andrei",
+      "order": 5
+    },
+    {
+      "personId": 85230,
+      "character": "Marian",
+      "order": 6
+    },
+    {
+      "personId": 60422,
+      "character": "The Union Leader",
+      "order": 7
+    },
+    {
+      "personId": 95005,
+      "character": "Ana, the Mayor's Wife",
+      "order": 8
+    },
+    {
+      "personId": 99820,
+      "character": "Rodriguez",
+      "order": 9
+    },
+    {
+      "personId": 1459098,
+      "character": "Despina",
+      "order": 10
+    },
+    {
+      "personId": 587479,
+      "character": "Stelică",
+      "order": 11
+    },
+    {
+      "personId": 1017315,
+      "character": "Paul - the mayor's son, a womanizer",
+      "order": 12
+    },
+    {
+      "personId": 1896157,
+      "character": "Mitroi",
+      "order": 13
+    },
+    {
+      "personId": 588825,
+      "character": "Corporal Tănase",
+      "order": 14
+    },
+    {
+      "personId": 937522,
+      "character": "Young Doiaru",
+      "order": 15
+    },
+    {
+      "personId": 1923800,
+      "character": "Costel",
+      "order": 16
+    },
+    {
+      "personId": 1324437,
+      "character": "Doiaru's Mother",
+      "order": 17
+    },
+    {
+      "personId": 41199,
+      "character": "Doiaru's Father",
+      "order": 18
+    },
+    {
+      "personId": 592234,
+      "character": "Police Chief",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 65,
+  "sources": [
+    "movement:romanian-new-wave"
+  ]
+}

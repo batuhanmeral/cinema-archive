@@ -10,18 +10,18 @@ const view: FilmView = {
   overview: 'Bir rehber iki adamı Bölge’nin içine götürür.',
   posterPath: '/stalker-tr.jpg',
   tags: [
-    { text: 'Bilim-Kurgu', href: '/arsiv?genre=878' },
-    { text: 'Distopya', href: '/arsiv?theme=4565' },
+    { text: 'Bilim-Kurgu', href: '/archive?genre=878' },
+    { text: 'Distopya', href: '/archive?theme=4565' },
   ],
   index: [
-    { key: 'genre', label: 'Tür', items: [{ text: 'Bilim-Kurgu', href: '/arsiv?genre=878' }] },
+    { key: 'genre', label: 'Tür', items: [{ text: 'Bilim-Kurgu', href: '/archive?genre=878' }] },
     { key: 'runtime', label: 'Süre', items: [{ text: '163 dk' }] },
     {
       key: 'writer',
       label: 'Senaryo',
       items: [
         { text: 'Arkady Strugatsky' },
-        { text: 'Andrei Tarkovsky', href: '/kisi/andrei-tarkovsky' },
+        { text: 'Andrei Tarkovsky', href: '/person/andrei-tarkovsky' },
       ],
     },
   ],
@@ -40,7 +40,7 @@ describe('FilmHero', () => {
     expect(tags).toHaveTextContent('Bilim-KurguDistopya')
     expect(within(tags).getByRole('link', { name: 'Distopya' })).toHaveAttribute(
       'href',
-      '/arsiv?theme=4565',
+      '/archive?theme=4565',
     )
   })
 
@@ -53,7 +53,7 @@ describe('FilmHero', () => {
     expect(within(writers).getAllByRole('link')).toHaveLength(1)
     expect(within(writers).getByRole('link', { name: 'Andrei Tarkovsky' })).toHaveAttribute(
       'href',
-      '/kisi/andrei-tarkovsky',
+      '/person/andrei-tarkovsky',
     )
   })
 

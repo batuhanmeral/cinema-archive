@@ -1,0 +1,99 @@
+{
+  "tmdbId": 42153,
+  "slug": "celeste-1981",
+  "year": 1981,
+  "runtime": 107,
+  "originalTitle": "Céleste",
+  "title": {
+    "en": "Céleste",
+    "tr": "Céleste"
+  },
+  "overview": {
+    "en": "In 1914, with men gone to war, Marcel Proust hired Céleste Albaret as his attendant. More than eight years later, she was at his side when he died. During this entire time, she only entered his room when he rang for her, sleeping from 9 AM to 3 PM to wait during the night while he wrote. Marcel uses her as more than a servant: she is his muse, telling stories of her childhood to stir his remembrance of things past; she's in cahoots with him as he manipulates those he wants to draw on for his writing; she listens appalled to his descriptions of the underside of Paris. Hers is a life of love and sweet devotion as he races time to finish his work before death.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/ihK5ldt09rfnZINtGoce5SGWRlg.jpg",
+    "en": "/ihK5ldt09rfnZINtGoce5SGWRlg.jpg"
+  },
+  "backdrops": [
+    "/qh5MqRc2jujC5NNdBUWznjDAOhi.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    5565
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de"
+  ],
+  "studios": [
+    "Pelemele Film",
+    "BR"
+  ],
+  "crew": [
+    {
+      "personId": 32632,
+      "job": "director"
+    },
+    {
+      "personId": 1661225,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 32632,
+      "job": "writer"
+    },
+    {
+      "personId": 1193758,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 10627,
+      "character": "Celeste Albaret",
+      "order": 0
+    },
+    {
+      "personId": 1345057,
+      "character": "Marcel Proust",
+      "order": 1
+    },
+    {
+      "personId": 1471169,
+      "character": "Odilon Albaret",
+      "order": 2
+    },
+    {
+      "personId": 1031932,
+      "character": "Robert Proust",
+      "order": 3
+    },
+    {
+      "personId": 1503492,
+      "character": "",
+      "order": 4
+    },
+    {
+      "personId": 1258565,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 2044943,
+      "character": "",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

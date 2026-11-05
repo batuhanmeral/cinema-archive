@@ -1,0 +1,140 @@
+{
+  "tmdbId": 72445,
+  "slug": "boat-people-1982",
+  "year": 1982,
+  "runtime": 109,
+  "originalTitle": "投奔怒海",
+  "title": {
+    "en": "Boat People",
+    "tr": "Boat People"
+  },
+  "overview": {
+    "en": "A Japanese photojournalist revisits Vietnam after the liberation to document the nation, and begins following and documenting the young children from a poor Vietnamese family.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/bdyxE6bXtozYG2jQiWKZUz3u4LD.jpg",
+    "en": "/qYXHZB7ARLtwGlFoVzdRvCJFlld.jpg"
+  },
+  "backdrops": [
+    "/8uxcz8W9GZ4dGiL7N6b4PvaZWwh.jpg",
+    "/sfu5KD0wSGcYvWtdjcFQhhwV0Dt.jpg",
+    "/jj3a3eMxwhcCHUE8Bj1ZSoroZPU.jpg",
+    "/8TCmHcHT7pQyCLGUg1vfHlBNGSu.jpg",
+    "/seopoImaQAvVTtZPpT1IxTZGEeI.jpg",
+    "/jLTQgteq4ENTZ53ccojY7kbrsRn.jpg",
+    "/f3CJObWdQDYJIXNkGexXghp7FV2.jpg",
+    "/ncA9Kqj8jNQYTzixrL43n18maFk.jpg",
+    "/3CqHXdqvZ0PEoty5XoZL8FWzYCl.jpg",
+    "/NDbcJkkNzLKGc5mdvSFwYUWiyr.jpg"
+  ],
+  "trailerKey": "PjSUOqr9ZSg",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    2956,
+    6025,
+    155814,
+    187056,
+    209985,
+    272769,
+    272771,
+    292930
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn",
+    "en",
+    "ja",
+    "vi"
+  ],
+  "studios": [
+    "Bluebird Movie Enterprises"
+  ],
+  "crew": [
+    {
+      "personId": 123199,
+      "job": "director"
+    },
+    {
+      "personId": 1042723,
+      "job": "writer"
+    },
+    {
+      "personId": 1908838,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1168802,
+      "job": "producer"
+    },
+    {
+      "personId": 1392196,
+      "job": "composer"
+    },
+    {
+      "personId": 1454582,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 26744,
+      "character": "Shiomi Akutagawa",
+      "order": 0
+    },
+    {
+      "personId": 566033,
+      "character": "Cam Nuong",
+      "order": 1
+    },
+    {
+      "personId": 262128,
+      "character": "Nguyen's Mistress",
+      "order": 2
+    },
+    {
+      "personId": 25246,
+      "character": "To Minh",
+      "order": 3
+    },
+    {
+      "personId": 1922168,
+      "character": "Doctor",
+      "order": 4
+    },
+    {
+      "personId": 1672701,
+      "character": "Comrade Nguyen",
+      "order": 5
+    },
+    {
+      "personId": 1922169,
+      "character": "Cam Nuong's Mother",
+      "order": 6
+    },
+    {
+      "personId": 1922170,
+      "character": "Le Van Quyen",
+      "order": 7
+    },
+    {
+      "personId": 1922171,
+      "character": "Comrade Wu",
+      "order": 8
+    },
+    {
+      "personId": 1922172,
+      "character": "Leader of Team 16",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 62,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

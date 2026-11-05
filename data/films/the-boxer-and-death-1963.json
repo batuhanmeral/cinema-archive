@@ -1,0 +1,192 @@
+{
+  "tmdbId": 152131,
+  "slug": "the-boxer-and-death-1963",
+  "year": 1963,
+  "runtime": 107,
+  "originalTitle": "Boxer a smrť",
+  "title": {
+    "en": "The Boxer and Death",
+    "tr": "Boxer a smrť"
+  },
+  "overview": {
+    "en": "Concentration camp commander Kraft finds out that prisoner Kominek is a former professional boxer. Overnight, the prisoner is made Kraft's exercise partner and unwillingly rises to a privileged position at the camp. His anger over the death of his friend and co-prisoner leads to open revolt. The film brings a new view of human degradation during fascism by a tragic story of one man whose only chance for survival is to accept the rules of an unequal game.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/pOkmccgPzpYdACHf5RTWsRbtnvH.jpg",
+    "en": "/pOkmccgPzpYdACHf5RTWsRbtnvH.jpg"
+  },
+  "backdrops": [
+    "/rxcSqYb3kvNwTeidbRfaxdPeYlD.jpg",
+    "/lUg5hzrHFUis1aHHth5Vi3p0fxV.jpg",
+    "/ggurrAWvuNWnIGpFRcbLGQmeSqC.jpg",
+    "/7saFoDUkOn4DsL3GYUtzFM2V8yr.jpg",
+    "/lJOnK1PK4HZVrayiGkZSV7u3fVl.jpg",
+    "/eEbnU7k65kFDHijeG2zsb0PftW7.jpg",
+    "/QzOei5MZrTEojesyS0fiszbtA0.jpg",
+    "/2G7r7PhK7hKVVH3iSAO258yCVZc.jpg",
+    "/9WZnaZttvdIrOrg0elaTrm0OFVx.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    1563,
+    2652,
+    10685,
+    6075,
+    1631,
+    1956,
+    2792,
+    156866,
+    166802,
+    188266,
+    209476
+  ],
+  "countries": [
+    "XC"
+  ],
+  "languages": [
+    "pl",
+    "de",
+    "cs",
+    "sk"
+  ],
+  "studios": [
+    "Štúdio hraných filmov Bratislava"
+  ],
+  "crew": [
+    {
+      "personId": 1132481,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 139556,
+      "job": "director"
+    },
+    {
+      "personId": 1058015,
+      "job": "writer"
+    },
+    {
+      "personId": 1132480,
+      "job": "writer"
+    },
+    {
+      "personId": 139556,
+      "job": "writer"
+    },
+    {
+      "personId": 133300,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 55738,
+      "character": "Jan Komínek",
+      "order": 0
+    },
+    {
+      "personId": 22735,
+      "character": "Kraft",
+      "order": 1
+    },
+    {
+      "personId": 235667,
+      "character": "Helga",
+      "order": 2
+    },
+    {
+      "personId": 1132483,
+      "character": "Venzlak",
+      "order": 3
+    },
+    {
+      "personId": 22754,
+      "character": "Willi",
+      "order": 4
+    },
+    {
+      "personId": 22903,
+      "character": "Holder",
+      "order": 5
+    },
+    {
+      "personId": 227151,
+      "character": "Dr. Gluk",
+      "order": 6
+    },
+    {
+      "personId": 1132484,
+      "character": "Stasek",
+      "order": 7
+    },
+    {
+      "personId": 1132485,
+      "character": "Emil",
+      "order": 8
+    },
+    {
+      "personId": 1132486,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1132487,
+      "character": "Ondro",
+      "order": 10
+    },
+    {
+      "personId": 1132488,
+      "character": "Marian",
+      "order": 11
+    },
+    {
+      "personId": 1132489,
+      "character": "Halina",
+      "order": 12
+    },
+    {
+      "personId": 3017487,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1521971,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 2991706,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1290919,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 2298856,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 2668100,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1262110,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 13,
+  "sources": [
+    "movement:czechoslovak-new-wave"
+  ]
+}

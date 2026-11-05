@@ -1,0 +1,135 @@
+{
+  "tmdbId": 399711,
+  "slug": "the-blackguard-1925",
+  "year": 1925,
+  "runtime": 96,
+  "originalTitle": "Die Prinzessin und der Geiger",
+  "title": {
+    "en": "The Blackguard",
+    "tr": "Die Prinzessin und der Geiger"
+  },
+  "overview": {
+    "en": "A French violinist saves his beloved princess from the Russian revolution..",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/zRn1ttm7ZImWbhysjE24gKdbqPe.jpg",
+    "en": "/zRn1ttm7ZImWbhysjE24gKdbqPe.jpg"
+  },
+  "backdrops": [
+    "/8zwTyWvtEGnASVUjQtqw14n3kPf.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    154802
+  ],
+  "countries": [
+    "DE",
+    "GB"
+  ],
+  "languages": [],
+  "studios": [
+    "Gainsborough Pictures",
+    "UFA"
+  ],
+  "crew": [
+    {
+      "personId": 119324,
+      "job": "writer"
+    },
+    {
+      "personId": 67,
+      "job": "producer"
+    },
+    {
+      "personId": 48054,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 125507,
+      "job": "composer"
+    },
+    {
+      "personId": 2636,
+      "job": "writer"
+    },
+    {
+      "personId": 97567,
+      "job": "director"
+    },
+    {
+      "personId": 3601,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 96817,
+      "character": "Princess Marie Idourska",
+      "order": 0
+    },
+    {
+      "personId": 32120,
+      "character": "Michael Caviol",
+      "order": 1
+    },
+    {
+      "personId": 1307038,
+      "character": "The Impresario",
+      "order": 2
+    },
+    {
+      "personId": 29141,
+      "character": "Adrian Levinski",
+      "order": 3
+    },
+    {
+      "personId": 2898,
+      "character": "Michael's Grandmother",
+      "order": 4
+    },
+    {
+      "personId": 1627335,
+      "character": "The Old Princess Labanoff",
+      "order": 5
+    },
+    {
+      "personId": 36143,
+      "character": "Grand Duke Paul",
+      "order": 6
+    },
+    {
+      "personId": 51283,
+      "character": "Leidner",
+      "order": 7
+    },
+    {
+      "personId": 1188247,
+      "character": "The Antiques-Dealer",
+      "order": 8
+    },
+    {
+      "personId": 20535,
+      "character": "The Painter",
+      "order": 9
+    },
+    {
+      "personId": 1470220,
+      "character": "Michael Caviol as a child",
+      "order": 10
+    },
+    {
+      "personId": 29183,
+      "character": "Princess Marie as a child",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 2,
+  "sources": [
+    "movement:german-expressionism"
+  ]
+}

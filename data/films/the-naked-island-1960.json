@@ -1,0 +1,107 @@
+{
+  "tmdbId": 3764,
+  "slug": "the-naked-island-1960",
+  "year": 1960,
+  "runtime": 97,
+  "originalTitle": "裸の島",
+  "title": {
+    "en": "The Naked Island",
+    "tr": "The Naked Island"
+  },
+  "overview": {
+    "en": "A family of four are the sole inhabitants of a small island, where they struggle each day to irrigate their crops.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/rHpQyPBuFyofx5D5UC95ec2sFgV.jpg",
+    "en": "/rHpQyPBuFyofx5D5UC95ec2sFgV.jpg"
+  },
+  "backdrops": [
+    "/fet6ORPwa6HZy2ZMbAAS3wdIhtl.jpg",
+    "/1mJET7PUkuTCyKNCKhXCYKoaiK1.jpg",
+    "/rBsAgCTXB6LtjTdtXG7mnSRwcse.jpg",
+    "/zqHjNDYk1RSdS2R6ZmLMQGnneoX.jpg",
+    "/k5bcg22Jcg0t1kGBIZteoLPKDj.jpg",
+    "/ePKYWzoB2nFb6xqj9vVD9sN1tBR.jpg",
+    "/sIXnpC7tyjXGYuoCWjeurpW4gmX.jpg",
+    "/rs7cfCTj345gdQiSKxx0NvUL8DX.jpg",
+    "/2bnajrxRERkBFfy7EMQAwOgpixy.jpg",
+    "/5xUQkDJOgDAVzEate6HG7vMLmCF.jpg"
+  ],
+  "trailerKey": "3GrLWObrHkA",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    658,
+    2041,
+    233,
+    1422,
+    18035,
+    209998,
+    212330
+  ],
+  "countries": [
+    "JP"
+  ],
+  "languages": [
+    "ja"
+  ],
+  "studios": [
+    "Kindai Eiga Kyokai",
+    "TOHO"
+  ],
+  "crew": [
+    {
+      "personId": 33727,
+      "job": "director"
+    },
+    {
+      "personId": 33727,
+      "job": "producer"
+    },
+    {
+      "personId": 33733,
+      "job": "producer"
+    },
+    {
+      "personId": 1034270,
+      "job": "composer"
+    },
+    {
+      "personId": 1183025,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 33727,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 33728,
+      "character": "Toyo",
+      "order": 0
+    },
+    {
+      "personId": 33732,
+      "character": "Senta",
+      "order": 1
+    },
+    {
+      "personId": 33734,
+      "character": "Taro",
+      "order": 2
+    },
+    {
+      "personId": 33735,
+      "character": "Jiro",
+      "order": 3
+    }
+  ],
+  "awards": {},
+  "voteCount": 154,
+  "sources": [
+    "movement:japanese-new-wave"
+  ]
+}

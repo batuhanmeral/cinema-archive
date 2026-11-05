@@ -1,0 +1,130 @@
+{
+  "tmdbId": 36877,
+  "slug": "the-blood-of-a-poet-1932",
+  "year": 1932,
+  "runtime": 55,
+  "originalTitle": "Le Sang d'un poète",
+  "title": {
+    "en": "The Blood of a Poet",
+    "tr": "Le Sang d'un poète"
+  },
+  "overview": {
+    "en": "In a poet’s room, an armless statue abruptly comes to life. It invites the poet to step through a mirror and to discover another world. Strange places and characters present themselves to him. The poet tears himself away from these twisted fascinations and returns, with some difficulty, to his room.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/paHmfMrtQVT2cUTeteni3iDgRym.jpg",
+    "en": "/5NPk6JCkBnI25QJBfR1VQSBdYhw.jpg"
+  },
+  "backdrops": [
+    "/zzZXUIlYtsdhxxdqHiE6zgQE1F2.jpg",
+    "/kRQVehqORmZPeK3kt7ktmeKPhqt.jpg",
+    "/noKuEmehGUq6l2Hth4vT4yC7ODr.jpg",
+    "/aYMJMm13plZx6s0PJ2CfUADYANz.jpg",
+    "/tFpd4HLFtYDsNoVvDJrzaSFGlvH.jpg"
+  ],
+  "trailerKey": "3scPy9ohKDc",
+  "genreIds": [
+    14
+  ],
+  "keywordIds": [
+    612,
+    2679,
+    2035,
+    437,
+    5933,
+    10794,
+    170703,
+    173083,
+    207427,
+    339980
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Vicomte de Noailles"
+  ],
+  "crew": [
+    {
+      "personId": 9730,
+      "job": "director"
+    },
+    {
+      "personId": 9730,
+      "job": "writer"
+    },
+    {
+      "personId": 20136,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2578,
+      "job": "composer"
+    },
+    {
+      "personId": 45200,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1487907,
+      "character": "Poet",
+      "order": 0
+    },
+    {
+      "personId": 142868,
+      "character": "Statue",
+      "order": 1
+    },
+    {
+      "personId": 543813,
+      "character": "The child trainer",
+      "order": 2
+    },
+    {
+      "personId": 11537,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 2391494,
+      "character": "Louis XV Friend",
+      "order": 4
+    },
+    {
+      "personId": 2391495,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 2391497,
+      "character": "A spectator in a box",
+      "order": 6
+    },
+    {
+      "personId": 1540503,
+      "character": "Black Angel",
+      "order": 7
+    },
+    {
+      "personId": 2391500,
+      "character": "A spectator",
+      "order": 8
+    },
+    {
+      "personId": 9730,
+      "character": "Bit Part (uncredited)",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 205,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

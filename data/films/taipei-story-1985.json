@@ -1,0 +1,189 @@
+{
+  "tmdbId": 106380,
+  "slug": "taipei-story-1985",
+  "year": 1985,
+  "runtime": 120,
+  "originalTitle": "青梅竹馬",
+  "title": {
+    "en": "Taipei Story",
+    "tr": "Taipei Hikâyesi"
+  },
+  "overview": {
+    "en": "A young woman urgently seeks to navigate the maze of contemporary Taipei and find a future. She hopes that her boyfriend Lung is the key to the future, but Lung is stuck in a past that combines baseball and traditional loyalty that leads him to squander his nest egg bailing her father out of financial trouble.",
+    "tr": "Tayvan'ın ekonomik kriz yılları... Film ana eksenine 30'lu yaşlarının ortalarında eski bir beyzbol oyuncusu Lung ve onun okul yıllarından beri birlikte olduğu sevgilisi Chin'i ele alıyor. Lung gençliğinde sporda istediği başarıyı yakalayamamış, daha sonra ticarete atılmış, kırgın ve kızgın bir adamdır. Chin ise karşı taraftan beklediği ilgiyi göremeyen, bu boşluğu evli iş arkadaşıyla yakınlaşarak gidermeye çalışan bir kadındır. İkisinin de en büyük hayali, Amerika'ya gitmektir..."
+  },
+  "poster": {
+    "tr": "/veJ93QUnTBX4WXk5qSl1s42Uosj.jpg",
+    "en": "/pHcVACQb0bPCOQXG5zPKIdxCALT.jpg"
+  },
+  "backdrops": [
+    "/5K2fuinltM5TlVWHDXazC0XazHW.jpg",
+    "/dqha1dwnld2aZGB0toOL7CsB7kx.jpg",
+    "/zMNDdSvLxkVjOD5iGacsRsdgjKW.jpg",
+    "/8crsD07p6YT0DJP7KMrCXpmjWBT.jpg",
+    "/pIUFQCm8Lw5eU0heWXqxO4vKm2Z.jpg",
+    "/xyMd5jHecoj8673YqFT9Zp62pQn.jpg",
+    "/q9FnkvvLlHtxlYegwqcxiGssEi9.jpg",
+    "/lwqG5pnG3kLHcoXeGsJhj7sxh4w.jpg",
+    "/hSMrEqLY6tkr1Uh4sh72KCek7WI.jpg",
+    "/kYhMuYVZAx8PAgJixQ8Dek2ylR2.jpg"
+  ],
+  "trailerKey": "GYQO9aez1WE",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    802,
+    9322,
+    188610,
+    209157
+  ],
+  "countries": [
+    "TW"
+  ],
+  "languages": [
+    "zh"
+  ],
+  "studios": [
+    "Evergreen Film Company"
+  ],
+  "crew": [
+    {
+      "personId": 143035,
+      "job": "composer"
+    },
+    {
+      "personId": 143035,
+      "job": "director"
+    },
+    {
+      "personId": 983058,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 64992,
+      "job": "writer"
+    },
+    {
+      "personId": 69831,
+      "job": "writer"
+    },
+    {
+      "personId": 2965862,
+      "job": "producer"
+    },
+    {
+      "personId": 1922638,
+      "job": "producer"
+    },
+    {
+      "personId": 1641937,
+      "job": "producer"
+    },
+    {
+      "personId": 143035,
+      "job": "writer"
+    },
+    {
+      "personId": 1316884,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1618084,
+      "character": "Chin",
+      "order": 0
+    },
+    {
+      "personId": 64992,
+      "character": "Lung",
+      "order": 1
+    },
+    {
+      "personId": 143036,
+      "character": "Chen",
+      "order": 2
+    },
+    {
+      "personId": 1591117,
+      "character": "A-Ling",
+      "order": 3
+    },
+    {
+      "personId": 555376,
+      "character": "Gwan",
+      "order": 4
+    },
+    {
+      "personId": 1092245,
+      "character": "Mr. Ke",
+      "order": 5
+    },
+    {
+      "personId": 69835,
+      "character": "Chin's Mother",
+      "order": 6
+    },
+    {
+      "personId": 1522600,
+      "character": "Chin's Father",
+      "order": 7
+    },
+    {
+      "personId": 136891,
+      "character": "Qin",
+      "order": 8
+    },
+    {
+      "personId": 1609496,
+      "character": "Mrs. Mei",
+      "order": 9
+    },
+    {
+      "personId": 1674097,
+      "character": "Coach",
+      "order": 10
+    },
+    {
+      "personId": 1413371,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1843011,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 1656522,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1843013,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 227792,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 143035,
+      "character": "Bartender (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 228914,
+      "character": "",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 144,
+  "sources": [
+    "movement:new-taiwan-cinema"
+  ]
+}

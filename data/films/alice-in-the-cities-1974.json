@@ -1,0 +1,197 @@
+{
+  "tmdbId": 2204,
+  "slug": "alice-in-the-cities-1974",
+  "year": 1974,
+  "runtime": 110,
+  "originalTitle": "Alice in den Städten",
+  "title": {
+    "en": "Alice in the Cities",
+    "tr": "Alice Kentlerde"
+  },
+  "overview": {
+    "en": "German journalist Philip Winter has a case of writer’s block when trying to write an article about the United States. He decides to return to Germany, and while trying to book a flight, encounters a German woman and her nine year old daughter Alice doing the same. The three become friends (almost out of necessity) and while the mother asks Winter to mind Alice temporarily, it quickly becomes apparent that Alice will be his responsibility for longer than he expected.",
+    "tr": "Filminde, röportaj yapmak için gittiği ABD'de herşeyi yabancı ve itici bularak bir kimlik bunalımına giren ve amaçsızca turlayan Alman gazeteci Philip (Rüdiger Vogler)'in ülkesine geri dönmeye karar vermesi, havaalanında karşılaştığı mutsuz ve umutsuz bir kadının (Lisa Kreuzer) küçük kızı Alice'i (Yella Rottländer) kendisine emanet etmesiyle de yaşamının akışının tamamiyle değişmesi anlatılır * Wim Wenders'in yol üçlemesinin ilk filmi."
+  },
+  "poster": {
+    "tr": "/lw22wORmENkTZHGXI6bKmAIHxjO.jpg",
+    "en": "/lw22wORmENkTZHGXI6bKmAIHxjO.jpg"
+  },
+  "backdrops": [
+    "/jZjkYpLtJbV0o5EpaEwCBgyezLi.jpg",
+    "/gDibTI8sDBhFnczL3VqHhlnfq78.jpg",
+    "/5yf7OaoaCd6n6MF72aipvXiS3OK.jpg",
+    "/aOK4br7apZMLpEA9wcc2PEzUZgS.jpg",
+    "/c3cToFc3fNb811T4WABtfVFgqAw.jpg",
+    "/sJfsc4z0KFiiJ9VW26IVUAHuJHm.jpg",
+    "/wPQaiDhBRpLbHabbBpPL9uiX4GV.jpg",
+    "/gnQblELlna61CeC1xYQ58rxRSMm.jpg",
+    "/ssSnI5cS86lHlO3z2QUomvVpvw6.jpg",
+    "/Aqr2GgyiVH5v0tcfoLkH7sjgYyV.jpg"
+  ],
+  "trailerKey": "s6KYAJZeuEA",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    242,
+    3800,
+    822,
+    587,
+    5756,
+    3715,
+    12999,
+    162875,
+    167043,
+    189008
+  ],
+  "countries": [
+    "DE"
+  ],
+  "languages": [
+    "de",
+    "en",
+    "nl"
+  ],
+  "studios": [
+    "Filmverlag der Autoren",
+    "WDR",
+    "Wim Wenders Stiftung"
+  ],
+  "crew": [
+    {
+      "personId": 2303,
+      "job": "director"
+    },
+    {
+      "personId": 2303,
+      "job": "writer"
+    },
+    {
+      "personId": 22607,
+      "job": "writer"
+    },
+    {
+      "personId": 22608,
+      "job": "producer"
+    },
+    {
+      "personId": 1632,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2303,
+      "job": "producer"
+    },
+    {
+      "personId": 43487,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5266,
+      "character": "Philip Winter",
+      "order": 0
+    },
+    {
+      "personId": 22611,
+      "character": "Alice van Damm",
+      "order": 1
+    },
+    {
+      "personId": 22612,
+      "character": "Lisa van Damm",
+      "order": 2
+    },
+    {
+      "personId": 22613,
+      "character": "Angela",
+      "order": 3
+    },
+    {
+      "personId": 22614,
+      "character": "Publisher",
+      "order": 4
+    },
+    {
+      "personId": 22615,
+      "character": "Car Dealer",
+      "order": 5
+    },
+    {
+      "personId": 22616,
+      "character": "Airport Hostess",
+      "order": 6
+    },
+    {
+      "personId": 2931162,
+      "character": "Woman at Swimming Park",
+      "order": 7
+    },
+    {
+      "personId": 48187,
+      "character": "Police Officer",
+      "order": 8
+    },
+    {
+      "personId": 1722388,
+      "character": "Woman on Ferry",
+      "order": 9
+    },
+    {
+      "personId": 2931164,
+      "character": "Boy Singing Next to Jukebox",
+      "order": 10
+    },
+    {
+      "personId": 22860,
+      "character": "Chuck Berry (archive footage) (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 2931165,
+      "character": "Young Girl on Ferry (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 22609,
+      "character": "Man in NY Airport / Man on Amsterdam Tour Boat (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 2305,
+      "character": "Man at Chuck Berry Concert (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 2611813,
+      "character": "Organist at Shea Stadium (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 22610,
+      "character": "Woman Behind Philip and Alice on Plane (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 14560,
+      "character": "Man on Empire State Building Roof (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 22608,
+      "character": "Man on Amsterdam Tour Boat (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2303,
+      "character": "Man by Jukebox in American Cafe (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 366,
+  "sources": [
+    "movement:new-german-cinema"
+  ]
+}

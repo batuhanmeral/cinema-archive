@@ -1,0 +1,178 @@
+{
+  "tmdbId": 57892,
+  "slug": "vizontele-2001",
+  "year": 2001,
+  "runtime": 110,
+  "originalTitle": "Vizontele",
+  "title": {
+    "en": "Vizontele",
+    "tr": "Vizontele"
+  },
+  "overview": {
+    "en": "The story takes place in the small town of Hakkari in Turkey at the beginning of the '70s. The time has come to bring technology to that small town. The first Television (called Visiontele by the citizens) arrives and the chaos begins.",
+    "tr": "En büyük eğlence kaynağı, herkesin büyük ilgi gösterdiği yazlık sineması olan bir kasaba… Kasabanın deli oğlanı Emin, çevresindeki tüm insanlara her türlü işte yardım eden ve herkesin sevdiği bir adamdır. Televizyonun henüz yeni yeni Anadolu’ya yayılmaya başladığı bu dönemde köy halkı dönemin en büyük icadıyla tanışmaya hazırlanmaktadır. Televizyona dair çeşitli beklentiler vardır. Mekanik işlerle uğraşmayı seven Emin de televizyonun nasıl bir buluş olduğunu merak etmektedir. Televizyon kasabaya gelirken, beraberinde birçok şey getirecektir."
+  },
+  "poster": {
+    "tr": "/ipHbJ54NuA8tobUDrEV6odOrYhK.jpg",
+    "en": "/wbULza7DtchFu3bZKlroJsCVVh8.jpg"
+  },
+  "backdrops": [
+    "/yZWjW4WjuRPGdZ1hXsG7q7y2JKh.jpg",
+    "/wRMnG0b5LVS9qZC27xn4azcEh43.jpg",
+    "/hp7FaTOOSuxeEJDR01P3OS6r7MX.jpg",
+    "/xldHH2CtdPDUU0GagodYlUaMSiZ.jpg"
+  ],
+  "trailerKey": "0NrNsvwbOuI",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "TR"
+  ],
+  "languages": [
+    "tr"
+  ],
+  "studios": [
+    "BKM",
+    "BKM Film"
+  ],
+  "crew": [
+    {
+      "personId": 99314,
+      "job": "director"
+    },
+    {
+      "personId": 106782,
+      "job": "director"
+    },
+    {
+      "personId": 99314,
+      "job": "writer"
+    },
+    {
+      "personId": 995636,
+      "job": "producer"
+    },
+    {
+      "personId": 1938018,
+      "job": "producer"
+    },
+    {
+      "personId": 106782,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 995637,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 99314,
+      "character": "Deli Emin",
+      "order": 0
+    },
+    {
+      "personId": 59754,
+      "character": "Siti Ana",
+      "order": 1
+    },
+    {
+      "personId": 106620,
+      "character": "Başkan Nazmi",
+      "order": 2
+    },
+    {
+      "personId": 74376,
+      "character": "Fikri",
+      "order": 3
+    },
+    {
+      "personId": 145331,
+      "character": "Latif",
+      "order": 4
+    },
+    {
+      "personId": 1458862,
+      "character": "Sezgin",
+      "order": 5
+    },
+    {
+      "personId": 225187,
+      "character": "Gülizar",
+      "order": 6
+    },
+    {
+      "personId": 145344,
+      "character": "Casim",
+      "order": 7
+    },
+    {
+      "personId": 1195914,
+      "character": "Basri",
+      "order": 8
+    },
+    {
+      "personId": 145733,
+      "character": "Şeyhmus",
+      "order": 9
+    },
+    {
+      "personId": 1953639,
+      "character": "Reyhan",
+      "order": 10
+    },
+    {
+      "personId": 1078815,
+      "character": "Rıfat",
+      "order": 11
+    },
+    {
+      "personId": 145403,
+      "character": "Asiye",
+      "order": 12
+    },
+    {
+      "personId": 106623,
+      "character": "Nazif",
+      "order": 13
+    },
+    {
+      "personId": 145473,
+      "character": "Engin",
+      "order": 14
+    },
+    {
+      "personId": 143303,
+      "character": "Veli",
+      "order": 15
+    },
+    {
+      "personId": 1078814,
+      "character": "Ahmet",
+      "order": 16
+    },
+    {
+      "personId": 929801,
+      "character": "Zerrin",
+      "order": 17
+    },
+    {
+      "personId": 222513,
+      "character": "Gülşen",
+      "order": 18
+    },
+    {
+      "personId": 90282,
+      "character": "Mela Hüseyin",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 205,
+  "sources": [
+    "movement:new-turkish-cinema"
+  ]
+}
