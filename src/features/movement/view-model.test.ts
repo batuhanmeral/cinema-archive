@@ -264,6 +264,7 @@ describe('buildMovementView', () => {
   it('links the neighbouring movements as halls', () => {
     expect(view.previous).toEqual({
       name: 'İtalyan Yeni Gerçekçiliği',
+      rotationSlot: 4,
       href: '/movement/italian-neorealism',
       meta: 'İtalya · 1943–1952',
       imagePath: '/blows.jpg',
