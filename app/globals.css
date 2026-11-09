@@ -59,3 +59,16 @@
     }
   }
 }
+
+@theme {
+  --animate-perde-fade: perde-fade 300ms ease-out;
+
+  @keyframes perde-fade {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+}
