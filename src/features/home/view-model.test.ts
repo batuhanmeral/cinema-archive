@@ -84,8 +84,7 @@ describe('home view model', () => {
     expect(pool[0]!.note).toBe('3 films')
   })
   it('builds all rotation frames with only the initial film and deterministic section defaults', () => {
-    const view = buildHomeView('tr', Date.UTC(2026, 0, 4, 21))
-    expect(view.buildWeek).toBe(0)
+    const view = buildHomeView('tr')
     expect(view.frames).toHaveLength(18)
     expect(view.frames.map((frame) => frame.slot)).toEqual(Array.from({ length: 18 }, (_, i) => i))
     expect(view.frames.every((frame) => frame.films.length === 1 && frame.total >= 1)).toBe(true)

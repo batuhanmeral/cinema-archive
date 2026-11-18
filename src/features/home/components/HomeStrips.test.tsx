@@ -5,7 +5,7 @@ import { HomeStrips } from './HomeStrips'
 
 describe('HomeStrips', () => {
   it('renders all rotation slots in a reorderable grid with week notes', () => {
-    const view = buildHomeView('tr', 0)
+    const view = buildHomeView('tr')
     const { container } = render(<HomeStrips strips={view.strips} locale="tr" />)
     const strips = container.querySelectorAll('[data-home-strip]')
     expect(strips).toHaveLength(18)

@@ -5,7 +5,7 @@ import { CollectionPicks } from './CollectionPicks'
 
 describe('CollectionPicks', () => {
   it('renders six defaults with only the first two on mobile and responsive columns', () => {
-    const view = buildHomeView('tr', 0)
+    const view = buildHomeView('tr')
     render(<CollectionPicks initial={view.initialCollections} collections={view.collections} />)
     const list = screen.getByRole('list')
     expect(list).toHaveClass('grid-cols-1', 'md:grid-cols-2', 'min-[900px]:grid-cols-3')

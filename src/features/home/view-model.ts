@@ -12,7 +12,7 @@ import { store } from '@/lib/data'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
 import { filmHref, movementHref, personHref } from '@/lib/i18n/routes'
-import { ROTATION, weekIndex } from './rotation'
+import { ROTATION } from './rotation'
 import type { DirectorItem, PerdeFilm, PosterItem } from './schemas'
 
 export type PerdeFrameData = {
@@ -25,7 +25,6 @@ export type PerdeFrameData = {
   dataUrl: string
 }
 export type HomeView = {
-  buildWeek: number
   frames: PerdeFrameData[]
   strips: HallLink[]
   collections: OtherCollection[]
@@ -111,7 +110,7 @@ export function buildDirectorPool(
     })
 }
 
-export function buildHomeView(locale: Locale, now: number): HomeView {
+export function buildHomeView(locale: Locale): HomeView {
   const movements = store.movements()
   const ordered = ROTATION.map((slug) => movements.find((movement) => movement.slug === slug)!)
   const films = store.films()
@@ -119,7 +118,6 @@ export function buildHomeView(locale: Locale, now: number): HomeView {
   const ctx: MovementViewContext = { films: store.filmById, people, movements }
   const collections = buildCollectionTiles(store.collections(), locale, ctx)
   return {
-    buildWeek: weekIndex(now),
     frames: ordered.map((movement, slot) => {
       const films = buildPerdeFilms(movement, locale, ctx)
       return {

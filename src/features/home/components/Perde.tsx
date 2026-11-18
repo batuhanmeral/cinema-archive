@@ -3,14 +3,7 @@ import { messages } from '@/lib/i18n/messages'
 import type { PerdeFrameData } from '../view-model'
 import { PerdeFrame } from './PerdeFrame'
 
-export function Perde({
-  frames,
-  locale,
-}: {
-  frames: PerdeFrameData[]
-  buildWeek: number
-  locale: Locale
-}) {
+export function Perde({ frames, locale }: { frames: PerdeFrameData[]; locale: Locale }) {
   return (
     <section
       aria-label={messages[locale].home.notes.current}

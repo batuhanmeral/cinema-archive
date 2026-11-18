@@ -15,7 +15,7 @@ export function HomePage({ view, locale }: { view: HomeView; locale: Locale }) {
   const t = messages[locale].home
   return (
     <main id="content" tabIndex={-1} className="outline-none">
-      <Perde frames={view.frames} buildWeek={view.buildWeek} locale={locale} />
+      <Perde frames={view.frames} locale={locale} />
       <FilmSection
         title={t.sections.movements}
         action={

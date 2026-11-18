@@ -19,7 +19,7 @@ describe('HomePage', () => {
       const { container } = render(
         <>
           <style>{'[class~="md:hidden"] { display: none; }'}</style>
-          <HomePage view={buildHomeView(locale, 0)} locale={locale} />
+          <HomePage view={buildHomeView(locale)} locale={locale} />
         </>,
       )
       const english = locale === 'en'
