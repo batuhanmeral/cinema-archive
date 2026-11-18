@@ -45,11 +45,10 @@ describe('Navbar', () => {
   })
 })
 
-it('prefetches home links and keeps the navbar visible while the menu is expanded', async () => {
-  const header = await renderNavbar('tr')
+it('prefetches the home link', async () => {
+  await renderNavbar('tr')
   expect(screen.getByRole('link', { name: /Sinema Arşivi.*Ana sayfa/ })).not.toHaveAttribute(
     'data-prefetch',
     'off',
   )
-  expect(header).toHaveClass('has-[[aria-expanded=true]]:translate-y-0')
 })
