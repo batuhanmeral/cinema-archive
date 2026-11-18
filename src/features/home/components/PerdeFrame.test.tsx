@@ -54,6 +54,23 @@ describe('PerdeFrame', () => {
     expect(screen.getByText('Diğer filmler için kaydır')).toHaveClass('md:hidden')
     expect(screen.getByRole('button', { name: 'Sonraki film' })).toHaveClass('hidden', 'md:grid')
   })
+  it('keeps the overview outside the film announcements', () => {
+    const overviewText = 'Filmin özeti'
+    const { container } = render(
+      <PerdeFrame
+        frame={{ ...frame, films: [{ ...films[0]!, overview: overviewText }] }}
+        locale="tr"
+      />,
+    )
+    const overview = screen.getByText(overviewText)
+    const liveRegion = container.querySelector('[aria-live]')!
+    expect(overview).toBeVisible()
+    expect(overview.closest('.animate-perde-fade')).not.toBeNull()
+    expect(liveRegion).not.toContainElement(overview)
+    expect(liveRegion).toHaveTextContent('Film 1')
+    expect(liveRegion).toHaveTextContent('Director, 1960')
+    expect(liveRegion).toHaveTextContent('1 / 16')
+  })
   it('loads once, advances, wraps backwards and keeps every film reachable', async () => {
     renderFrame()
     fireEvent.click(screen.getByRole('button', { name: 'Sonraki film' }))

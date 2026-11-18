@@ -136,7 +136,10 @@ export function PerdeFrame({ frame, locale }: { frame: PerdeFrameData; locale: L
           </Link>
         </h1>
         <p className="mt-4 text-[13px] text-muted md:text-[15px]">{frame.meta}</p>
-        <div aria-live="polite" aria-atomic="true" className="mt-7 md:mt-10">
+        <div aria-live="polite" aria-atomic="true" className="sr-only">
+          {`${film.title} · ${film.caption} · ${index + 1} / ${frame.total}`}
+        </div>
+        <div className="mt-7 md:mt-10">
           <div
             key={`film-${index}`}
             className="flex min-w-0 flex-col gap-5 animate-perde-fade motion-reduce:animate-none md:flex-row md:items-end md:justify-between md:gap-12"
