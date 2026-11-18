@@ -1,4 +1,4 @@
-import { rotationSlot } from '@/features/home/rotation'
+import { rotationSlot } from '@/lib/rotation'
 import type { Film, Movement, Person, YearRange } from '@/data/schemas'
 import { directorYearCaption, presentOverview } from '@/features/film/view-model'
 import { countryName } from '@/lib/i18n/display-names'

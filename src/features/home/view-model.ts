@@ -12,7 +12,7 @@ import { store } from '@/lib/data'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
 import { filmHref, movementHref, personHref } from '@/lib/i18n/routes'
-import { ROTATION } from './rotation'
+import { ROTATION } from '@/lib/rotation'
 import type { DirectorItem, PerdeFilm, PosterItem } from './schemas'
 
 export type PerdeFrameData = {

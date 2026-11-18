@@ -1,7 +1,7 @@
 import 'server-only'
 import { store } from '@/lib/data'
 import { LOCALES } from '@/lib/i18n/locale'
-import { ROTATION } from './rotation'
+import { ROTATION } from '@/lib/rotation'
 import { buildDirectorPool, buildPerdeFilms, buildPosterPool } from './view-model'
 
 export { homeDataUrl } from './view-model'

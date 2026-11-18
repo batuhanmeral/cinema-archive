@@ -2,7 +2,7 @@ import { MovementStrip } from '@/features/movement/components/MovementStrip'
 import type { HallLink } from '@/features/movement/view-model'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
-import { slotAttr } from '../rotation'
+import { slotAttr } from '@/lib/rotation'
 
 export function HomeStrips({ strips, locale }: { strips: HallLink[]; locale: Locale }) {
   return (

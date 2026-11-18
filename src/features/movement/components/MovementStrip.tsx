@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import { slotAttr } from '@/features/home/rotation'
+import { slotAttr } from '@/lib/rotation'
 
 // En fazla w1280: yüksek yoğunluklu ekranda 1200 px'i aşan aday "original" boyuta düşerdi.
 const STRIP_SIZES =

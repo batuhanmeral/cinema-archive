@@ -1,4 +1,4 @@
-import { ROTATION, ROTATION_EPOCH_MS, WEEK_MS } from '../rotation'
+import { ROTATION, ROTATION_EPOCH_MS, WEEK_MS } from '@/lib/rotation'
 import { weekCss } from '../week-css'
 
 export function WeekStyle({ buildWeek }: { buildWeek: number }) {

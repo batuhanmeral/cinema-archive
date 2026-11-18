@@ -1,6 +1,6 @@
 import { renderToString } from 'react-dom/server'
 import { afterEach, describe, expect, it, vi } from 'vitest'
-import { weekIndex } from '../rotation'
+import { weekIndex } from '@/lib/rotation'
 import { weekCss } from '../week-css'
 import { WeekStyle } from './WeekStyle'
 

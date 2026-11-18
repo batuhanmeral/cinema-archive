@@ -1,7 +1,7 @@
 import { expect, type Locator, type Page, test } from '@playwright/test'
 import { readFileSync } from 'node:fs'
 import { movementsFileSchema } from '../src/data/schemas'
-import { ROTATION, weekIndex } from '../src/features/home/rotation'
+import { ROTATION, weekIndex } from '../src/lib/rotation'
 
 const MONDAY = Date.parse('2026-11-09T00:00:00+03:00')
 const movements = movementsFileSchema.parse(JSON.parse(readFileSync('data/movements.json', 'utf8')))

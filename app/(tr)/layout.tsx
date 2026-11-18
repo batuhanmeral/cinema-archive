@@ -2,8 +2,8 @@ import { SkipLink } from '@/components/navbar/SkipLink'
 import { Navbar } from '@/components/navbar/Navbar'
 import { BUILD_TIME_MS } from '@/features/home/build-time'
 import { WeekStyle } from '@/features/home/components/WeekStyle'
-import { weekIndex } from '@/features/home/rotation'
 import { fontVariables } from '@/lib/fonts'
+import { weekIndex } from '@/lib/rotation'
 import '../globals.css'
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
