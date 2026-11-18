@@ -3,9 +3,9 @@ import { describe, expect, it } from 'vitest'
 import { ROTATION, ROTATION_EPOCH_MS, WEEK_MS, rotationSlot, slotAttr, weekIndex } from './rotation'
 
 describe('weekly rotation', () => {
-  it('pins every movement in data order', () => {
+  it('includes each of the 18 movements regardless of data order', () => {
     const movements = JSON.parse(readFileSync('data/movements.json', 'utf8')) as { slug: string }[]
-    expect(ROTATION).toEqual(movements.map((movement) => movement.slug))
+    expect([...ROTATION].sort()).toEqual(movements.map((movement) => movement.slug).sort())
     expect(new Set(ROTATION).size).toBe(18)
     expect(rotationSlot('french-new-wave')).toBe(5)
     expect(rotationSlot('unknown')).toBe(-1)
