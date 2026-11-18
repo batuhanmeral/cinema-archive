@@ -16,7 +16,12 @@ describe('HomePage', () => {
   it.each(['tr', 'en'] as const)(
     'renders localized sections, defaults and destinations for %s',
     (locale) => {
-      const { container } = render(<HomePage view={buildHomeView(locale, 0)} locale={locale} />)
+      const { container } = render(
+        <>
+          <style>{'[class~="md:hidden"] { display: none; }'}</style>
+          <HomePage view={buildHomeView(locale, 0)} locale={locale} />
+        </>,
+      )
       const english = locale === 'en'
       const labels = english
         ? ['Movements', 'Collections', 'Film archive', 'Directors']

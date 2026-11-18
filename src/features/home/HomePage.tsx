@@ -23,6 +23,7 @@ export function HomePage({ view, locale }: { view: HomeView; locale: Locale }) {
             href={movementsHref(locale)}
             label={t.all.movements}
             shortLabel={t.allShort}
+            sectionName={t.sections.movements}
           />
         }
       >
@@ -35,6 +36,7 @@ export function HomePage({ view, locale }: { view: HomeView; locale: Locale }) {
             href={collectionsHref(locale)}
             label={t.all.collections}
             shortLabel={t.allShort}
+            sectionName={t.sections.collections}
           />
         }
       >
@@ -47,6 +49,7 @@ export function HomePage({ view, locale }: { view: HomeView; locale: Locale }) {
             href={archiveHref(locale, {})}
             label={t.all.archive}
             shortLabel={t.allShort}
+            sectionName={t.sections.archive}
             prefetch={false}
           />
         }
@@ -60,6 +63,7 @@ export function HomePage({ view, locale }: { view: HomeView; locale: Locale }) {
             href={`${locale === 'en' ? '/en' : ''}/directors`}
             label={t.all.directors}
             shortLabel={t.allShort}
+            sectionName={t.sections.directors}
             prefetch={false}
           />
         }
