@@ -27,7 +27,17 @@ const response = (body: unknown = films) =>
 
 beforeEach(() => {
   vi.stubGlobal('fetch', vi.fn().mockResolvedValue(response()))
-  vi.stubGlobal('PointerEvent', MouseEvent)
+  vi.stubGlobal(
+    'PointerEvent',
+    class extends MouseEvent {
+      readonly pointerType: string
+
+      constructor(type: string, init: PointerEventInit = {}) {
+        super(type, init)
+        this.pointerType = init.pointerType ?? ''
+      }
+    },
+  )
 })
 afterEach(() => {
   vi.unstubAllGlobals()
@@ -126,11 +136,20 @@ describe('PerdeFrame', () => {
     fireEvent.keyDown(root, { key: 'ArrowLeft' })
     expect(screen.getByText(counterText('1 / 16'))).toBeInTheDocument()
   })
-  it('advances after a horizontal pointer swipe', async () => {
+  it('advances after a horizontal touch swipe', async () => {
     const { root } = renderFrame()
-    fireEvent.pointerDown(root, { clientX: 160, clientY: 60 })
-    fireEvent.pointerUp(root, { clientX: 100, clientY: 65 })
+    fireEvent.pointerDown(root, { pointerType: 'touch', clientX: 160, clientY: 60 })
+    fireEvent.pointerUp(root, { pointerType: 'touch', clientX: 100, clientY: 65 })
     await screen.findByText(counterText('2 / 16'))
+  })
+  it('keeps the current film when the mouse is dragged horizontally', async () => {
+    const { root } = renderFrame()
+    await act(async () => {
+      fireEvent.pointerDown(root, { pointerType: 'mouse', clientX: 160, clientY: 60 })
+      fireEvent.pointerUp(root, { pointerType: 'mouse', clientX: 100, clientY: 65 })
+    })
+    expect(screen.getByText(counterText('1 / 16'))).toBeInTheDocument()
+    expect(fetch).not.toHaveBeenCalled()
   })
   it('never advances automatically and does not load a hidden frame on idle', async () => {
     vi.useFakeTimers()

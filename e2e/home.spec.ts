@@ -21,10 +21,17 @@ async function swipe(page: Page, root: Locator) {
   const box = (await root.boundingBox())!
   const x = box.x + box.width / 2
   const y = box.y + box.height / 3
-  await page.mouse.move(x, y)
-  await page.mouse.down()
-  await page.mouse.move(x - 80, y, { steps: 5 })
-  await page.mouse.up()
+  const session = await page.context().newCDPSession(page)
+  try {
+    await session.send('Input.dispatchTouchEvent', { type: 'touchStart', touchPoints: [{ x, y }] })
+    await session.send('Input.dispatchTouchEvent', {
+      type: 'touchMove',
+      touchPoints: [{ x: x - 80, y }],
+    })
+    await session.send('Input.dispatchTouchEvent', { type: 'touchEnd', touchPoints: [] })
+  } finally {
+    await session.detach()
+  }
 }
 
 test.beforeEach(async ({ page }) => {

@@ -92,13 +92,14 @@ export function PerdeFrame({ frame, locale }: { frame: PerdeFrameData; locale: L
         navigate(event.key === 'ArrowLeft' ? -1 : 1)
       }}
       onPointerDown={(event) => {
+        if (event.pointerType === 'mouse') return
         pointer.current = { x: event.clientX, y: event.clientY }
       }}
       onPointerCancel={() => {
         pointer.current = null
       }}
       onPointerUp={(event) => {
-        if (!pointer.current) return
+        if (event.pointerType === 'mouse' || !pointer.current) return
         const direction = swipeDirection(
           event.clientX - pointer.current.x,
           event.clientY - pointer.current.y,
