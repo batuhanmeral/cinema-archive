@@ -117,10 +117,22 @@ test('the language toggle on a collection lands on the same English page', async
   await expect(page).toHaveURL(new RegExp(`/en/collection/${giallo.slug}$`))
 })
 
-test('the mobile menu opens and leads to the movements list', async ({ page }, testInfo) => {
+test('the open mobile menu keeps the navbar in view after scrolling', async ({
+  page,
+}, testInfo) => {
   test.skip(testInfo.project.name !== 'mobile', 'The menu button exists below md only')
+  await page.emulateMedia({ reducedMotion: 'reduce' })
   await page.goto(`/movement/${frenchNewWave.slug}`)
-  await page.getByRole('button', { name: 'Menü' }).click()
+  const banner = page.getByRole('banner')
+  await expect(banner).toBeInViewport()
+  await page.mouse.wheel(0, 500)
+  await expect(banner).not.toBeInViewport()
+
+  const menu = banner.getByRole('button', { name: 'Menü' })
+  await menu.press('Enter')
+  await expect(menu).toHaveAttribute('aria-expanded', 'true')
+  await menu.blur()
+  await expect(banner).toBeInViewport({ ratio: 1 })
   await page.getByRole('link', { name: 'Akımlar', exact: true }).click()
   await expect(page).toHaveURL(/\/movements$/)
 })

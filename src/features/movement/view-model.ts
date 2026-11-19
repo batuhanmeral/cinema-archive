@@ -1,3 +1,4 @@
+import { rotationSlot } from '@/lib/rotation'
 import type { Film, Movement, Person, YearRange } from '@/data/schemas'
 import { directorYearCaption, presentOverview } from '@/features/film/view-model'
 import { countryName } from '@/lib/i18n/display-names'
@@ -20,7 +21,13 @@ export type MovementFilmCard = {
   overview: string | null
 }
 
-export type HallLink = { name: string; href: string; meta: string; imagePath: string | null }
+export type HallLink = {
+  name: string
+  href: string
+  meta: string
+  imagePath: string | null
+  rotationSlot: number
+}
 
 export type MovementView = {
   name: string
@@ -59,15 +66,18 @@ function primaryCountry(movement: Movement, locale: Locale): string {
 export function movementMeta(
   movement: Movement,
   locale: Locale,
-  counts?: { films: number; directors: number },
+  counts?: { films: number; directors?: number },
 ): string {
   const years = yearsText(movement.years)
   const country = primaryCountry(movement, locale)
   if (!counts) return [country, years].join(META_SEPARATOR)
   const t = messages[locale].movement
-  return [years, country, t.filmCount(counts.films), t.directorCount(counts.directors)].join(
-    META_SEPARATOR,
-  )
+  return [
+    years,
+    country,
+    t.filmCount(counts.films),
+    ...(counts.directors === undefined ? [] : [t.directorCount(counts.directors)]),
+  ].join(META_SEPARATOR)
 }
 
 function memberFilms(movement: Movement, ctx: MovementViewContext): Film[] {
@@ -179,6 +189,7 @@ function filmCard(film: Film, locale: Locale, people: Map<number, Person>): Move
 function hallLink(movement: Movement, locale: Locale, ctx: MovementViewContext): HallLink {
   return {
     name: movement.name[locale],
+    rotationSlot: rotationSlot(movement.slug),
     href: movementHref(locale, movement.slug),
     meta: movementMeta(movement, locale),
     imagePath: images(memberFilms(movement, ctx)).strip,

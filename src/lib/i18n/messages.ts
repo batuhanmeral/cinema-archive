@@ -54,6 +54,15 @@ export type Messages = {
     all: string
     filmCount: (n: number) => string
   }
+  home: {
+    sections: { movements: string; collections: string; archive: string; directors: string }
+    all: { movements: string; collections: string; archive: string; directors: string }
+    allShort: string
+    notes: { current: string; next: string }
+    swipe: string
+    previousFilm: string
+    nextFilm: string
+  }
   rail: { previous: string; next: string }
 }
 
@@ -122,6 +131,25 @@ export const messages: Record<Locale, Messages> = {
       others: 'Diğer koleksiyonlar',
       all: 'Tüm koleksiyonlar',
       filmCount: (n) => `${n} film`,
+    },
+    home: {
+      sections: {
+        movements: 'Akımlar',
+        collections: 'Koleksiyonlar',
+        archive: 'Film arşivi',
+        directors: 'Yönetmenler',
+      },
+      all: {
+        movements: 'Tüm akımlar',
+        collections: 'Tüm koleksiyonlar',
+        archive: 'Tüm filmler',
+        directors: 'Tüm yönetmenler',
+      },
+      allShort: 'Tümü',
+      notes: { current: 'Bu hafta perdede', next: 'Gelecek hafta' },
+      swipe: 'Diğer filmler için kaydır',
+      previousFilm: 'Önceki film',
+      nextFilm: 'Sonraki film',
     },
     rail: { previous: 'Önceki', next: 'Sonraki' },
   },
@@ -194,6 +222,25 @@ export const messages: Record<Locale, Messages> = {
       others: 'Other collections',
       all: 'All collections',
       filmCount: (n) => (n === 1 ? '1 film' : `${n} films`),
+    },
+    home: {
+      sections: {
+        movements: 'Movements',
+        collections: 'Collections',
+        archive: 'Film archive',
+        directors: 'Directors',
+      },
+      all: {
+        movements: 'All movements',
+        collections: 'All collections',
+        archive: 'All films',
+        directors: 'All directors',
+      },
+      allShort: 'All',
+      notes: { current: 'On screen this week', next: 'Next week' },
+      swipe: 'Swipe for more films',
+      previousFilm: 'Previous film',
+      nextFilm: 'Next film',
     },
     rail: { previous: 'Previous', next: 'Next' },
   },

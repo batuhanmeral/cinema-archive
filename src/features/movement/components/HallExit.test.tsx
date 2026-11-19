@@ -2,8 +2,15 @@ import { render, screen } from '@testing-library/react'
 import { describe, expect, it } from 'vitest'
 import { HallExit } from './HallExit'
 
-const previous = { name: 'Fransız Yeni Dalgası', href: '/movement/a', meta: '', imagePath: null }
+const previous = {
+  rotationSlot: 5,
+  name: 'Fransız Yeni Dalgası',
+  href: '/movement/a',
+  meta: '',
+  imagePath: null,
+}
 const next = {
+  rotationSlot: 0,
   name: 'Alman Dışavurumculuğu',
   href: '/movement/b',
   meta: '1913–1931',

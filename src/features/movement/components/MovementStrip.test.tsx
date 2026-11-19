@@ -34,3 +34,26 @@ describe('MovementStrip', () => {
     expect(screen.getByRole('link', { name: 'Romanya Yeni Dalgası' })).toBeInTheDocument()
   })
 })
+
+it('adds both week notes only when the rotation slot and notes are provided', () => {
+  const props = {
+    name: 'New Wave',
+    href: '/movement/french-new-wave',
+    meta: 'France',
+    imagePath: null,
+    height: 'strip' as const,
+  }
+  const { container, rerender } = render(
+    <MovementStrip
+      {...props}
+      rotationSlot={5}
+      notes={{ current: 'This week', next: 'Next week' }}
+    />,
+  )
+  expect(container.firstElementChild).toHaveAttribute('data-strip-slot', 'w5')
+  expect(screen.getByText(/This week/)).toHaveClass('hidden')
+  expect(screen.getByText(/Next week/)).toHaveClass('hidden')
+  rerender(<MovementStrip {...props} />)
+  expect(container.firstElementChild).not.toHaveAttribute('data-strip-slot')
+  expect(container.querySelector('[data-note]')).toBeNull()
+})

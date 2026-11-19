@@ -13,7 +13,7 @@ export function MovementsListPage({ locale, strips }: { locale: Locale; strips: 
       <ul className="wrap grid gap-3 md:gap-4">
         {strips.map((strip) => (
           <li key={strip.href} className="min-w-0">
-            <MovementStrip {...strip} height="strip" />
+            <MovementStrip {...strip} height="strip" notes={messages[locale].home.notes} />
           </li>
         ))}
       </ul>

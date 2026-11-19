@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import { TmdbCredit } from '@/components/TmdbCredit'
 import { fontVariables } from '@/lib/fonts'
 import './globals.css'
@@ -9,10 +10,12 @@ export default function GlobalNotFound() {
         <main id="content" tabIndex={-1} className="outline-none">
           <h1>Sayfa bulunamadı</h1>
           <p lang="en">Page not found</p>
-          <a href="/">Ana sayfa</a>{' '}
-          <a href="/en" lang="en">
+          <Link href="/" className="hover:text-accent">
+            Ana sayfa
+          </Link>{' '}
+          <Link href="/en" lang="en" className="hover:text-accent">
             Home
-          </a>
+          </Link>
         </main>
         {/* Sayfanın dili belli değil; TMDB notu iki dilde. */}
         <TmdbCredit locales={['tr', 'en']} />

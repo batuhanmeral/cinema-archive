@@ -1,6 +1,15 @@
+import type { ComponentProps } from 'react'
 import { act, render, screen } from '@testing-library/react'
 import { beforeEach, describe, expect, it, vi } from 'vitest'
 import { Navbar } from './Navbar'
+
+vi.mock('next/link', () => ({
+  default: ({ prefetch, children, ...props }: ComponentProps<'a'> & { prefetch?: boolean }) => (
+    <a {...props} data-prefetch={prefetch === false ? 'off' : undefined}>
+      {children}
+    </a>
+  ),
+}))
 
 const navigation = vi.hoisted(() => ({ pathname: '/film/x' }))
 
@@ -34,4 +43,12 @@ describe('Navbar', () => {
     const header = await renderNavbar('tr')
     expect(header).not.toHaveClass('bg-hall')
   })
+})
+
+it('prefetches the home link', async () => {
+  await renderNavbar('tr')
+  expect(screen.getByRole('link', { name: /Sinema Arşivi.*Ana sayfa/ })).not.toHaveAttribute(
+    'data-prefetch',
+    'off',
+  )
 })

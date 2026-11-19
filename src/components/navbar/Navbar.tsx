@@ -52,13 +52,11 @@ export function Navbar({ locale }: { locale: Locale }) {
       style={{ height: NAV_HEIGHT }}
       className={`fixed inset-x-0 top-0 z-50 border-b text-[13px] transition-transform duration-200 motion-reduce:transition-none ${
         solid ? 'border-line bg-hall' : 'border-transparent'
-      } has-[[aria-expanded=true]]:border-line has-[[aria-expanded=true]]:bg-hall ${hidden ? '-translate-y-full focus-within:translate-y-0' : 'translate-y-0'}`}
+      } has-[[aria-expanded=true]]:translate-y-0 has-[[aria-expanded=true]]:border-line has-[[aria-expanded=true]]:bg-hall ${hidden ? '-translate-y-full focus-within:translate-y-0' : 'translate-y-0'}`}
     >
       <nav className="wrap flex h-full items-center justify-between">
-        {/* Ana sayfa M3'te gelir; o zamana kadar ön yükleme 404 üretir. */}
         <Link
           href={homeHref(locale)}
-          prefetch={false}
           className="font-display text-2xl leading-none font-extrabold transition-colors duration-150 hover:text-accent"
         >
           Sinema Arşivi<span className="sr-only"> – {messages[locale].nav.home}</span>

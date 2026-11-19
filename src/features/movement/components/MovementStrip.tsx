@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import { slotAttr } from '@/lib/rotation'
 
 // En fazla w1280: yüksek yoğunluklu ekranda 1200 px'i aşan aday "original" boyuta düşerdi.
 const STRIP_SIZES =
@@ -26,6 +27,8 @@ export function MovementStrip({
   imagePath,
   height,
   linkLabel,
+  rotationSlot,
+  notes,
 }: {
   name: string
   href: string
@@ -33,9 +36,12 @@ export function MovementStrip({
   imagePath: string | null
   height: keyof typeof HEIGHT_CLASS
   linkLabel?: string
+  rotationSlot?: number
+  notes?: { current: string; next: string }
 }) {
   return (
     <div
+      data-strip-slot={rotationSlot !== undefined && notes ? slotAttr(rotationSlot) : undefined}
       className={`group relative isolate flex flex-col justify-end overflow-hidden px-4 pb-4 md:px-8 md:pb-6 ${HEIGHT_CLASS[height]}`}
     >
       {imagePath && (
@@ -60,7 +66,21 @@ export function MovementStrip({
         </Link>
       </p>
       {/* Taslaktaki gibi %80 metin: beyaz karede, hover örtüsünde bile 4.88:1; --muted 3.78:1'de kalıyordu. */}
-      <p className="mt-1 truncate text-xs text-text/80 md:text-[13px]">{meta}</p>
+      <p className="mt-1 truncate text-xs text-text/80 md:text-[13px]">
+        {meta}
+        {rotationSlot !== undefined && notes && (
+          <>
+            <span data-note="current" className="hidden text-accent italic">
+              {' '}
+              · {notes.current}
+            </span>
+            <span data-note="next" className="hidden text-accent italic">
+              {' '}
+              · {notes.next}
+            </span>
+          </>
+        )}
+      </p>
     </div>
   )
 }
