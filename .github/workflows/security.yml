@@ -1,3 +1,5 @@
+# Tarayıcı imajları (SEMGREP_IMAGE, ZIZMOR_IMAGE, GITLEAKS_IMAGE, TRIVY_IMAGE) env
+# değişkenlerinde; Dependabot bunları güncelleyemez. Tag ve digest birlikte elle değişir.
 name: Security
 
 on:
@@ -16,36 +18,50 @@ concurrency:
   group: security-${{ github.ref }}
   cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
+env:
+  SEMGREP_IMAGE: semgrep/semgrep:1.186.0@sha256:6e1b04340e60e910fbb4ddbf3c857ab0918f064417ad5ac530014ccb3cf8c8f1
+  ZIZMOR_IMAGE: ghcr.io/zizmorcore/zizmor:1.32.0@sha256:3014cc8f68f663935f69b3c3e0e41f5ce102b268d97db13db0f62208747f860d
+  GITLEAKS_IMAGE: ghcr.io/gitleaks/gitleaks:v8.30.1@sha256:c00b6bd0aeb3071cbcb79009cb16a60dd9e0a7c60e2be9ab65d25e6bc8abbb7f
+  TRIVY_IMAGE: aquasec/trivy:0.76.2@sha256:8f6bb947dbc528902e11f2f5be52f7b519f6a39d5d148f41166f2040499768fb
+
 jobs:
-  gitleaks:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pull-requests: read
+  secrets:
+    name: secrets
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
     steps:
       # Tüm geçmiş taranır; eski commit'e sızmış sır da yakalansın
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
           fetch-depth: 0
-      # v3 yalnızca Node 24 çalışma zamanı geçişi; girdi/davranış v2 ile aynı
-      - uses: gitleaks/gitleaks-action@e0c47f4f8be36e29cdc102c57e68cb5cbf0e8d1e # v3.0.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # --redact: bulunan değer public loglara basılmaz
+      - name: gitleaks (full history)
+        run: docker run --rm -v "$PWD:/repo:ro" "$GITLEAKS_IMAGE" git /repo --redact --no-banner -v
 
-  semgrep:
-    runs-on: ubuntu-latest
-    # Sürüm 1.182.1; digest ile sabitlendi
-    container: semgrep/semgrep@sha256:451b3d875c00dac7ed5db5293e584a07de11449a409c10b3c2d2652f429630b6
+  sast:
+    name: sast
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
-      - run: >-
+      # SARIF yazılacağı için kaynak dizini yazılabilir bağlanır
+      - name: Semgrep
+        run: >-
+          docker run --rm -v "$PWD:/src" -w /src "$SEMGREP_IMAGE"
           semgrep scan
           --config .semgrep --config p/typescript --config p/react --config p/nextjs --config p/github-actions
           --severity ERROR --severity WARNING
           --error --metrics=off --sarif-output=semgrep.sarif
+      # Semgrep kırmızı olsa da workflow denetimi koşsun. GH_TOKEN çevrimiçi denetimler için
+      # (impostor commit, bilinen zafiyetli action).
+      - name: zizmor
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: docker run --rm -e GH_TOKEN -v "$PWD:/src:ro" "$ZIZMOR_IMAGE" --min-severity medium /src
       # Tarama başarısız olsa da bulgular incelenebilsin
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: always()
@@ -53,24 +69,39 @@ jobs:
           name: semgrep-sarif
           path: semgrep.sarif
 
-  audit:
-    runs-on: ubuntu-latest
+  dependencies:
+    name: dependencies
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
-      - uses: pnpm/action-setup@ea17c68df8912ef543352723c149a84f56e3d413 # v6.1.0
-      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+      # Build zinciri de saldırı yüzeyi olduğu için dev bağımlılıkları dahil.
+      # Düzeltmesi olmayan CVE kapı değil; Dependabot alert'i olarak izlenir.
+      - name: Trivy (pnpm-lock.yaml)
+        run: >-
+          docker run --rm -v "$PWD:/src:ro" -w /src -v "$RUNNER_TEMP/trivy:/root/.cache" "$TRIVY_IMAGE"
+          fs --scanners vuln --include-dev-deps
+          --severity CRITICAL,HIGH --ignore-unfixed --exit-code 1 .
+
+  dependency-review:
+    name: dependency-review
+    # Yalnızca PR'ın eklediği veya değiştirdiği bağımlılıklara bakar
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/dependency-review-action@bbc44d14a204704ccc493733616cd1e93a0321ec # v5.0.1
         with:
-          node-version-file: .nvmrc
-          cache: pnpm
-      - run: pnpm install --frozen-lockfile
-      - run: pnpm audit --audit-level high
+          fail-on-severity: high
 
   sbom:
+    name: sbom
     # PR'larda SBOM üretmeye gerek yok; yalnızca main/zamanlanmış/elle çalıştırmada
     if: github.event_name != 'pull_request'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -82,7 +113,9 @@ jobs:
           artifact-name: sbom-cyclonedx
 
   zap:
-    runs-on: ubuntu-latest
+    name: zap
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -115,8 +148,8 @@ jobs:
       - uses: zaproxy/action-baseline@de8ad967d3548d44ef623df22cf95c3b0baf8b25 # v0.15.0
         with:
           target: http://localhost:4173/film/${{ steps.slug.outputs.value }}
-          # ZAP 2.17.0; :stable etiketi değişebileceği için digest ile sabitlendi
-          docker_name: ghcr.io/zaproxy/zaproxy@sha256:030d3df57735dacbb83464854758e674dd9ad01d79d12a129a8e58b1fd384238
+          # Etiket yeniden yayınlanabildiği için tag + digest; değiştirmeden önce yerelde ZAP çalıştır
+          docker_name: ghcr.io/zaproxy/zaproxy:2.17.0@sha256:9624669db72f54d86c4b46a7064518bd9bf79d8c61a4c31befa9923489f328af
           rules_file_name: security/zap-rules.tsv
           cmd_options: '-I'
           fail_action: true

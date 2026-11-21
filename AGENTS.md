@@ -31,14 +31,15 @@ Routes in `app/` stay thin; features in `src/features/<feature>/` (`components/`
 
 ## Security
 
-`.github/workflows/security.yml` runs on PRs, pushes to `main`, weekly (Mon 05:00 UTC) and manually: `gitleaks` (full history), `semgrep` (`.semgrep/` custom rule + p/typescript, p/react, p/nextjs, p/github-actions; ERROR/WARNING block), `audit` (`pnpm audit --audit-level high`), `sbom` (CycloneDX, not on PRs), `zap` (ZAP baseline on the static export served with the `serve.json` headers; FAIL rules in `security/zap-rules.tsv` block). Actions are SHA-pinned; the Semgrep and ZAP images are pinned by digest.
+`.github/workflows/security.yml` runs on PRs, pushes to `main`, weekly (Mon 05:00 UTC) and manually: `secrets` (gitleaks, full history, redacted), `sast` (Semgrep: `.semgrep/` custom rule + p/typescript, p/react, p/nextjs, p/github-actions, ERROR/WARNING block; then zizmor on the workflows, medium and up block), `dependencies` (Trivy on `pnpm-lock.yaml`, dev deps included, fixable CRITICAL/HIGH block), `dependency-review` (PRs only, high and up block), `sbom` (CycloneDX, not on PRs), `zap` (ZAP baseline on the static export served with the `serve.json` headers; FAIL rules in `security/zap-rules.tsv` block). `ci.yml` runs `check` and `e2e`. Actions are SHA-pinned; scanner images are pinned by tag and digest in the `env:` block of `security.yml` (Dependabot cannot update them; change tag and digest together). `.github/dependabot.yml` opens weekly grouped npm and Actions PRs with a 7-day cooldown. Vulnerability reports: `SECURITY.md`.
 
-Local gates (Docker):
+Local gates (same images and flags as CI; copy the image values from `security.yml`, `ZAP_IMAGE` from the `zap` job's `docker_name`):
 
-- `docker run --rm -v "$PWD:/repo" zricethezav/gitleaks:latest git /repo`
-- `docker run --rm -v "$PWD:/src" -w /src semgrep/semgrep semgrep scan --config .semgrep --config p/typescript --config p/react --config p/nextjs --config p/github-actions --severity ERROR --severity WARNING --error --metrics=off`
-- `pnpm audit --audit-level high`
-- `docker run --rm -v "$PWD:/repo" -w /repo rhysd/actionlint:latest`
-- ZAP (after `pnpm build`, with `pnpm serve:out` running): `mkdir -p /tmp/zap && cp security/zap-rules.tsv /tmp/zap/ && docker run --rm --network=host -v /tmp/zap:/zap/wrk:rw ghcr.io/zaproxy/zaproxy:stable zap-baseline.py -t http://localhost:4173/movement/french-new-wave -c zap-rules.tsv -I`
+- `docker run --rm -v "$PWD:/repo:ro" "$GITLEAKS_IMAGE" git /repo --redact --no-banner -v`
+- `docker run --rm -v "$PWD:/src" -w /src "$SEMGREP_IMAGE" semgrep scan --config .semgrep --config p/typescript --config p/react --config p/nextjs --config p/github-actions --severity ERROR --severity WARNING --error --metrics=off`
+- `GH_TOKEN="$(gh auth token)" zizmor --min-severity medium .github` (workflows and `dependabot.yml`)
+- `docker run --rm -v "$PWD:/src:ro" -w /src "$TRIVY_IMAGE" fs --scanners vuln --include-dev-deps --severity CRITICAL,HIGH --ignore-unfixed --exit-code 1 .`
+- `docker run --rm -v "$PWD:/repo" -w /repo rhysd/actionlint:1.7.12@sha256:b1934ee5f1c509618f2508e6eb47ee0d3520686341fec936f3b79331f9315667`
+- ZAP (after `pnpm build`, with `pnpm serve:out` running): `mkdir -p /tmp/zap && cp security/zap-rules.tsv /tmp/zap/ && docker run --rm --network=host -v /tmp/zap:/zap/wrk:rw "$ZAP_IMAGE" zap-baseline.py -t http://localhost:4173/movement/french-new-wave -c zap-rules.tsv -I`
 
-Suppression rule: never silence a finding broadly. Gitleaks: a narrow allowlist (one path + one rule id) in `.gitleaks.toml`. Semgrep: `// nosemgrep: <rule-id>` on the line, with a Turkish comment giving the reason. Each suppression needs a one-line reason. Accepted `pnpm audit` advisories (no fixed version, owner decision only) must be listed in `.docs/ARCHITECTURE.md` Risks. ZAP `IGNORE` entries in `security/zap-rules.tsv` need a reason column.
+Suppression rule: never silence a finding broadly. Gitleaks: a narrow allowlist (one path + one rule id) in `.gitleaks.toml`. Semgrep: `// nosemgrep: <rule-id>` on the line, with a Turkish comment giving the reason. Each suppression needs a one-line reason. Trivy: one CVE per line in `.trivyignore` with a comment and an `exp:YYYY-MM-DD` expiry; accepted advisories (owner decision only) must be listed in `.docs/ARCHITECTURE.md` Risks. zizmor: `# zizmor: ignore[<audit>]` on the line. ZAP `IGNORE` entries in `security/zap-rules.tsv` need a reason column.
