@@ -29,6 +29,6 @@ updates:
       npm-minor-patch:
         update-types: [minor, patch]
     ignore:
-      # @types/node runtime'daki Node sürümünü (.nvmrc) izler; majörü elle yükselt.
-      - dependency-name: '@types/node'
+      # Majors need code changes; take them by hand. Security updates still open PRs.
+      - dependency-name: "*"
         update-types: [version-update:semver-major]
