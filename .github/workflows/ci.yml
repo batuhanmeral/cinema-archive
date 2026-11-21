@@ -8,9 +8,16 @@ on:
 permissions:
   contents: read
 
+# Yalnızca PR'larda eski çalışma iptal edilir; main'deki her çalışma tamamlanır
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
 jobs:
   check:
-    runs-on: ubuntu-latest
+    name: check
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -29,9 +36,11 @@ jobs:
           SITE_URL: https://sinemaarsivi.com
 
   e2e:
+    name: e2e
     # Job'lar adım paylaşmadığı için kurulum ve build burada tekrarlanır.
     needs: check
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
