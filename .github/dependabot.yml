@@ -30,5 +30,5 @@ updates:
         update-types: [minor, patch]
     ignore:
       # Majors need code changes; take them by hand. Security updates still open PRs.
-      - dependency-name: "*"
+      - dependency-name: '*'
         update-types: [version-update:semver-major]
