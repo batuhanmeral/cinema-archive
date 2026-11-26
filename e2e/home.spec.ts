@@ -203,3 +203,14 @@ test('a long title without an image or overview fits the 360px Perde', async ({ 
     await page.evaluate(() => document.documentElement.scrollWidth - innerWidth),
   ).toBeLessThanOrEqual(0)
 })
+
+test('the home page loads neither the archive index nor Fuse.js', async ({ page }) => {
+  const requests: string[] = []
+  page.on('request', (request) => {
+    if (request.url().includes('/archive-data/')) requests.push(request.url())
+  })
+  await page.goto('/')
+  await page.waitForLoadState('networkidle')
+  await page.waitForTimeout(1000)
+  expect(requests).toEqual([])
+})
