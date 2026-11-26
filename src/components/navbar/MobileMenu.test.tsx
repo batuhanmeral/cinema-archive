@@ -6,6 +6,7 @@ import { MobileMenu } from './MobileMenu'
 vi.mock('next/navigation', () => ({
   usePathname: () => '/film/x',
   useSearchParams: () => new URLSearchParams(),
+  useRouter: () => ({ push: vi.fn() }),
 }))
 
 describe('MobileMenu', () => {
@@ -35,5 +36,15 @@ describe('MobileMenu', () => {
     await userEvent.click(screen.getByRole('link', { name: 'Akımlar' }))
     expect(button).toHaveAttribute('aria-expanded', 'false')
     expect(button).toHaveFocus()
+  })
+
+  it('shows Arşiv large and the random film button above the language toggle', async () => {
+    render(<MobileMenu locale="tr" />)
+    await userEvent.click(screen.getByRole('button', { name: 'Menü' }))
+    const archive = screen.getByRole('link', { name: 'Arşiv' })
+    expect(archive).toHaveClass('text-[40px]')
+    const random = screen.getByRole('button', { name: 'Rastgele film' })
+    const toggle = screen.getByRole('link', { name: /İngilizce/ })
+    expect(random.compareDocumentPosition(toggle) & Node.DOCUMENT_POSITION_FOLLOWING).toBeTruthy()
   })
 })

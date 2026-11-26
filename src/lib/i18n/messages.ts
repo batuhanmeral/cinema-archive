@@ -34,6 +34,8 @@ export type Messages = {
     searchLabel: string
     openSearch: string
     closeSearch: string
+    archive: string
+    random: string
   }
   film: {
     sections: { trailer: string; cast: string; similar: string }
@@ -113,6 +115,8 @@ export const messages: Record<Locale, Messages> = {
       searchLabel: 'Sitede ara',
       openSearch: 'Aramayı aç',
       closeSearch: 'Aramayı kapat',
+      archive: 'Arşiv',
+      random: 'Rastgele film',
     },
     film: {
       sections: {
@@ -231,6 +235,8 @@ export const messages: Record<Locale, Messages> = {
       searchLabel: 'Search the site',
       openSearch: 'Open search',
       closeSearch: 'Close search',
+      archive: 'Archive',
+      random: 'Random film',
     },
     film: {
       sections: {

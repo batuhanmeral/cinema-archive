@@ -1,7 +1,13 @@
 import Link from 'next/link'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
-import { collectionHref, collectionsHref, movementHref, movementsHref } from '@/lib/i18n/routes'
+import {
+  archiveHref,
+  collectionHref,
+  collectionsHref,
+  movementHref,
+  movementsHref,
+} from '@/lib/i18n/routes'
 
 // Statik dışa aktarımda yol sonda "/" ile gelebilir; karşılaştırmalar ona göre yapılır.
 export const withoutTrailingSlash = (pathname: string) => pathname.replace(/\/$/, '')
@@ -36,6 +42,11 @@ export function NavLinks({
       label: nav.collections,
       href: collectionsHref(locale),
       current: isInSection(pathname, collectionsHref(locale), collectionHref(locale, '')),
+    },
+    {
+      label: nav.archive,
+      href: archiveHref(locale, {}),
+      current: withoutTrailingSlash(pathname) === archiveHref(locale, {}),
     },
   ]
   return sections.map(({ label, href, current }) => (

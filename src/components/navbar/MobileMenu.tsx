@@ -4,6 +4,7 @@ import { Menu, X } from 'lucide-react'
 import { usePathname } from 'next/navigation'
 import { Suspense, useCallback, useEffect, useRef, useState } from 'react'
 import type { Locale } from '@/lib/i18n/locale'
+import { RandomFilmButton } from '@/features/archive/components/RandomFilmButton'
 import { messages } from '@/lib/i18n/messages'
 import { LanguageToggle, LanguageToggleFallback } from './LanguageToggle'
 import { NavLinks } from './NavLinks'
@@ -72,6 +73,9 @@ export function MobileMenu({
           className="absolute inset-x-0 top-full border-b border-line bg-hall px-4 pt-4 pb-6"
         >
           <NavLinks locale={locale} pathname={pathname} variant="menu" />
+          <div className="mt-3" onClick={() => setOpen(false)}>
+            <RandomFilmButton locale={locale} variant="menu" />
+          </div>
           <div className="mt-5 -ml-3 text-[15px]">
             <Suspense fallback={<LanguageToggleFallback locale={locale} />}>
               <LanguageToggle locale={locale} />

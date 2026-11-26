@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { Suspense, useEffect, useRef, useState } from 'react'
+import { RandomFilmButton } from '@/features/archive/components/RandomFilmButton'
 import { SearchBox } from '@/features/search/components/SearchBox'
 import { SearchPanel } from '@/features/search/components/SearchPanel'
 import { useSlashFocus } from '@/features/search/components/use-slash-focus'
@@ -81,6 +82,7 @@ export function Navbar({ locale }: { locale: Locale }) {
           />
           <div className="hidden items-center md:flex">
             <NavLinks locale={locale} pathname={pathname} variant="bar" />
+            <RandomFilmButton locale={locale} variant="bar" />
             <Suspense fallback={<LanguageToggleFallback locale={locale} />}>
               <LanguageToggle locale={locale} />
             </Suspense>
