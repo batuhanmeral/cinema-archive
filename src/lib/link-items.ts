@@ -2,12 +2,12 @@ import type { Genre, Person, Theme } from '@/data/schemas'
 import type { Locale } from '@/lib/i18n/locale'
 import { archiveHref, personHref, type ArchiveFilter } from '@/lib/i18n/routes'
 
-// prefetch: false, sayfası henüz olmayan hedefler içindir (arşiv M4, kişi M5).
+// prefetch: false, sayfası henüz olmayan hedefler içindir (kişi M5).
 export type LinkItem = { text: string; href?: string; prefetch?: false }
 
-// Arşiv sayfası M4'te gelir; kural tek yerde dursun diye tüm arşiv bağlantıları buradan geçer.
+// Tüm arşiv bağlantıları buradan geçer; arşiv sayfası var, varsayılan prefetch geçerli.
 export function archiveLink(locale: Locale, filter: ArchiveFilter, text: string): LinkItem {
-  return { text, href: archiveHref(locale, filter), prefetch: false }
+  return { text, href: archiveHref(locale, filter) }
 }
 
 export function personLink(person: Person, locale: Locale): LinkItem {

@@ -12,14 +12,14 @@ describe('link items', () => {
     expect(personLink(makePerson({ slug: null }), 'tr')).toEqual({ text: 'Andrei Tarkovsky' })
   })
 
-  it('skips unknown genres and themes', () => {
+  it('skips unknown genres and themes and prefetches archive links', () => {
     const genres = new Map([[18, { id: 18, tr: 'Dram', en: 'Drama' }]])
     const themes = new Map([[1, { keywordId: 1, name: 'x', tr: 'Tema', en: 'Theme' }]])
     expect(genreLinks([18, 99], 'tr', genres)).toEqual([
-      { text: 'Dram', href: '/archive?genre=18', prefetch: false },
+      { text: 'Dram', href: '/archive?genre=18' },
     ])
     expect(themeLinks([1, 2], 'en', themes)).toEqual([
-      { text: 'Theme', href: '/en/archive?theme=1', prefetch: false },
+      { text: 'Theme', href: '/en/archive?theme=1' },
     ])
   })
 })

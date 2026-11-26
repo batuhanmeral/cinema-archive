@@ -48,8 +48,10 @@ export function Navbar({ locale }: { locale: Locale }) {
   }, [overHero])
 
   return (
+    // data-hidden: arşivin yapışkan süzgeç çubuğu navbar gizlenince en üste çıkar.
     <header
       style={{ height: NAV_HEIGHT }}
+      data-hidden={hidden ? '' : undefined}
       className={`fixed inset-x-0 top-0 z-50 border-b text-[13px] transition-transform duration-200 motion-reduce:transition-none ${
         solid ? 'border-line bg-hall' : 'border-transparent'
       } has-[[aria-expanded=true]]:translate-y-0 has-[[aria-expanded=true]]:border-line has-[[aria-expanded=true]]:bg-hall ${hidden ? '-translate-y-full focus-within:translate-y-0' : 'translate-y-0'}`}

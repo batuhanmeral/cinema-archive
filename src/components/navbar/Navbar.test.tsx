@@ -52,3 +52,18 @@ it('prefetches the home link', async () => {
     'off',
   )
 })
+
+it('marks itself hidden while scrolled away so sticky bars can move up', async () => {
+  const header = await renderNavbar('tr')
+  expect(header).not.toHaveAttribute('data-hidden')
+  const scrollTo = (y: number) =>
+    act(() => {
+      Object.defineProperty(window, 'scrollY', { value: y, configurable: true })
+      window.dispatchEvent(new Event('scroll'))
+    })
+  scrollTo(400)
+  expect(header).toHaveAttribute('data-hidden')
+  scrollTo(300)
+  expect(header).not.toHaveAttribute('data-hidden')
+  scrollTo(0)
+})
