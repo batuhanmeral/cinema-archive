@@ -3,8 +3,8 @@ import userEvent from '@testing-library/user-event'
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
 import { createMatcher } from '@/features/search/matcher'
 import type { SearchData } from '@/features/search/load'
-import { EMPTY_QUERY, FILTER_KEYS, type FilterKey } from '@/lib/archive-query'
-import type { ArchiveFilm } from '../schemas'
+import { EMPTY_QUERY, FILTER_KEYS } from '@/lib/archive-query'
+import type { ArchiveFilm, FacetLabels } from '../schemas'
 import { filmValues, selectFilms } from '../select'
 import { ArchiveView } from './ArchiveView'
 
@@ -53,11 +53,11 @@ const labels = Object.fromEntries(
       films.flatMap((f) => filmValues(f, key)).map((v) => [v, NAMES[v] ?? `${key}-${v}`]),
     ),
   ]),
-) as Record<FilterKey, Record<string, string>>
+) as FacetLabels
 const index = { films, groups: [] }
 const data: SearchData = { index, matcher: createMatcher(index) }
 const initialFilms = selectFilms(films, EMPTY_QUERY, { locale: 'tr', scores: null }).slice(0, 48)
-const dramSlugs = new Set(films.filter((f) => f.genres.includes(18)).map((f) => f.title))
+const dramTitles = new Set(films.filter((f) => f.genres.includes(18)).map((f) => f.title))
 
 function setUrl(url: string) {
   History.prototype.replaceState.call(window.history, null, '', url)
@@ -106,8 +106,8 @@ describe('ArchiveView', () => {
 
     resolve(data)
     await loaded()
-    expect(filmLinks()).toHaveLength(dramSlugs.size)
-    for (const link of filmLinks()) expect(dramSlugs.has(link.textContent ?? '')).toBe(true)
+    expect(filmLinks()).toHaveLength(dramTitles.size)
+    for (const link of filmLinks()) expect(dramTitles.has(link.textContent ?? '')).toBe(true)
     expect(container.querySelector('[aria-busy="true"]')).toBeNull()
     expect(screen.getByRole('button', { name: 'Kaldır: Dram' })).toHaveTextContent('Dram')
   })
@@ -182,15 +182,65 @@ describe('ArchiveView', () => {
     expect(replace).toHaveBeenLastCalledWith(null, '', '/archive')
   })
 
+  it('returns to 48 when a filter or sort change is reverted', async () => {
+    const user = userEvent.setup()
+    renderView()
+    await loaded()
+    const showMore = () => user.click(screen.getByRole('button', { name: 'Daha fazla göster' }))
+    await showMore()
+    expect(filmLinks()).toHaveLength(96)
+
+    await user.click(screen.getByRole('button', { name: /Tür/ }))
+    await user.click(screen.getByRole('checkbox', { name: 'Komedi 50' }))
+    expect(filmLinks()).toHaveLength(48)
+    await user.click(screen.getByRole('checkbox', { name: /^Komedi/ }))
+    expect(replace).toHaveBeenLastCalledWith(null, '', '/archive')
+    expect(filmLinks()).toHaveLength(48)
+
+    await showMore()
+    expect(filmLinks()).toHaveLength(96)
+    const sort = screen.getByRole('combobox', { name: /Sırala/ })
+    await user.selectOptions(sort, 'title')
+    expect(filmLinks()).toHaveLength(48)
+    await user.selectOptions(sort, 'year')
+    expect(replace).toHaveBeenLastCalledWith(null, '', '/archive')
+    expect(filmLinks()).toHaveLength(48)
+  })
+
+  it('keeps keyboard focus when chips and Clear remove themselves', async () => {
+    const user = userEvent.setup()
+    setUrl('/archive?genre=18,35&q=godard')
+    renderView()
+    await loaded()
+    await user.click(screen.getByRole('button', { name: 'Kaldır: Dram' }))
+    expect(screen.getByRole('button', { name: 'Kaldır: Komedi' })).toHaveFocus()
+    await user.click(screen.getByRole('button', { name: 'Kaldır: “godard”' }))
+    expect(screen.getByRole('button', { name: 'Temizle' })).toHaveFocus()
+    await user.click(screen.getByRole('button', { name: 'Temizle' }))
+    expect(screen.getByRole('button', { name: /^Tür/ })).toHaveFocus()
+  })
+
+  it('focuses the first filter after the empty-state Clear', async () => {
+    const user = userEvent.setup()
+    setUrl('/archive?genre=18&country=FR')
+    renderView()
+    await loaded()
+    await user.click(screen.getAllByRole('button', { name: 'Temizle' }).at(-1)!)
+    expect(screen.getByRole('button', { name: /^Tür/ })).toHaveFocus()
+  })
+
   it('keeps the server films with disabled controls when the index fails to load', async () => {
-    setUrl('/archive?genre=18')
+    setUrl('/archive?genre=18&sort=title')
     loader.load.mockRejectedValue(new Error('offline'))
     const { container } = renderView()
     await waitFor(() => expect(filmLinks()).toHaveLength(48))
     expect(container.querySelector('[aria-busy="true"]')).toBeNull()
     for (const name of ['Tür', 'Tema', 'Ülke', 'Yıl', 'Dil'])
       expect(screen.getByRole('button', { name: new RegExp(name) })).toBeDisabled()
-    expect(screen.getByRole('combobox', { name: /Sırala/ })).toBeDisabled()
+    const sort = screen.getByRole('combobox', { name: /Sırala/ })
+    expect(sort).toBeDisabled()
+    // Izgara süzülmemiş ve yıl sıralı; çubuk URL'deki sıralamayı göstermemeli.
+    expect(sort).toHaveValue('year')
     expect(screen.queryByRole('button', { name: 'Daha fazla göster' })).toBeNull()
   })
 })

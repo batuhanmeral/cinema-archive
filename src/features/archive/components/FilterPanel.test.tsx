@@ -54,6 +54,20 @@ describe('FilterBar panels', () => {
     expect(button('Tür')).toHaveFocus()
   })
 
+  it('stays open while focus moves inside and closes when it leaves', async () => {
+    const user = userEvent.setup()
+    renderBar()
+    await user.click(button('Tür'))
+    await user.tab()
+    expect(screen.getByRole('checkbox', { name: 'Dram 31' })).toHaveFocus()
+    await user.tab()
+    expect(screen.getByRole('checkbox', { name: 'Romantik 12' })).toHaveFocus()
+    await user.tab()
+    expect(button('Tema')).toHaveFocus()
+    expect(screen.queryByRole('checkbox')).toBeNull()
+    expect(button('Tür')).toHaveAttribute('aria-expanded', 'false')
+  })
+
   it('closes on a click outside', async () => {
     const user = userEvent.setup()
     renderBar()

@@ -22,6 +22,7 @@ describe('real data (film-page archive links)', () => {
     }
     // Aynı bağlantı birçok filmde geçer; her sorgu bir kez süzülür.
     const views = new Map<string, Set<string>>()
+    const keys = new Set<FilterKey>()
     let checked = 0
     for (const film of store.films()) {
       const view = buildFilmView(film, 'tr', ctx)
@@ -34,6 +35,7 @@ describe('real data (film-page archive links)', () => {
           const query = parseArchiveQuery(new URL(href!, 'https://x').searchParams, known)
           const values = FILTER_KEYS.flatMap((key) => query.filters[key])
           expect(values, href).toHaveLength(1)
+          for (const key of FILTER_KEYS) if (query.filters[key].length > 0) keys.add(key)
           expect(query.q).toBe('')
           slugs = new Set(
             selectFilms(index.films, query, { locale: 'tr', scores: null }).map((f) => f.slug),
@@ -45,5 +47,6 @@ describe('real data (film-page archive links)', () => {
       }
     }
     expect(checked).toBeGreaterThan(store.films().length * 3)
+    expect([...keys].sort()).toEqual([...FILTER_KEYS].sort())
   })
 })

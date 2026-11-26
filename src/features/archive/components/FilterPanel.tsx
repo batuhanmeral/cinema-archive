@@ -49,7 +49,14 @@ export function FilterPanel({
   }, [open, onClose])
 
   return (
-    <div ref={rootRef} className="relative">
+    <div
+      ref={rootRef}
+      className="relative"
+      // Odak panelin dışına çıkınca kapanır; içeride dolaşırken açık kalır.
+      onBlur={(event) => {
+        if (open && !rootRef.current?.contains(event.relatedTarget as Node | null)) onClose()
+      }}
+    >
       <button
         ref={buttonRef}
         type="button"
@@ -73,7 +80,9 @@ export function FilterPanel({
           id={panelId}
           role="group"
           aria-label={label}
-          className="absolute top-[calc(100%+8px)] left-0 z-10 max-h-[min(60vh,420px)] w-65 overflow-y-auto overscroll-contain border border-line bg-hall p-2"
+          // tabIndex: panelin boş yerine tıklamak odağı panelde tutar, blur onu kapatmaz.
+          tabIndex={-1}
+          className="absolute outline-none top-[calc(100%+8px)] left-0 z-10 max-h-[min(60vh,420px)] w-65 overflow-y-auto overscroll-contain border border-line bg-hall p-2"
         >
           {options.map((option) => (
             <label

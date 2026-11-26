@@ -1,5 +1,6 @@
 import { z } from 'zod'
 import { slugSchema, tmdbPathSchema } from '@/data/schemas'
+import type { FilterKey } from '@/lib/archive-query'
 
 export const archiveFilmSchema = z.object({
   slug: slugSchema,
@@ -31,3 +32,5 @@ export const filmSlugsSchema = z.array(slugSchema)
 export type ArchiveFilm = z.infer<typeof archiveFilmSchema>
 export type ArchiveGroup = z.infer<typeof archiveGroupSchema>
 export type ArchiveIndex = z.infer<typeof archiveIndexSchema>
+// Süzgeç değeri → görünen ad; sunucuda kurulur, istemciye prop olarak geçer.
+export type FacetLabels = Record<FilterKey, Record<string, string>>

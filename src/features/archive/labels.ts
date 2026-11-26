@@ -4,10 +4,9 @@ import { store } from '@/lib/data'
 import { decadeLabel } from '@/lib/i18n/decades'
 import { countryName, languageName } from '@/lib/i18n/display-names'
 import type { Locale } from '@/lib/i18n/locale'
-import type { ArchiveFilm } from './schemas'
+import type { ArchiveFilm, FacetLabels } from './schemas'
 import { filmValues } from './select'
 
-export type FacetLabels = Record<FilterKey, Record<string, string>>
 export type HeroStats = { films: number; from: number; to: number; countries: number }
 
 function label(key: FilterKey, value: string, locale: Locale): string {

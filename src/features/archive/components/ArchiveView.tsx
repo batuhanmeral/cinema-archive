@@ -1,9 +1,10 @@
 'use client'
 
 import { useSearchParams } from 'next/navigation'
-import { useEffect, useMemo, useState } from 'react'
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { loadSearchData, type SearchData } from '@/features/search/load'
 import {
+  EMPTY_QUERY,
   FILTER_KEYS,
   parseArchiveQuery,
   serializeArchiveQuery,
@@ -13,13 +14,12 @@ import {
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
 import { archiveHref } from '@/lib/i18n/routes'
-import type { ArchiveFilm } from '../schemas'
+import type { ArchiveFilm, FacetLabels } from '../schemas'
 import { facetCounts, facetOptions, selectFilms } from '../select'
 import { ArchiveGrid, ArchiveGridPlaceholder, PAGE_SIZE } from './ArchiveGrid'
 import { Chips, ClearButton, clearedQuery } from './Chips'
 import { FilterBar, type Facets } from './FilterBar'
 
-type Labels = Record<FilterKey, Record<string, string>>
 type LoadState = { status: 'loading' } | { status: 'ready'; data: SearchData } | { status: 'error' }
 
 const URL_KEYS = [...FILTER_KEYS, 'q', 'sort']
@@ -31,7 +31,7 @@ export function ArchiveView({
   total,
 }: {
   locale: Locale
-  labels: Labels
+  labels: FacetLabels
   initialFilms: ArchiveFilm[]
   total: number
 }) {
@@ -82,10 +82,26 @@ export function ArchiveView({
     ) as Facets
   }, [data, query, scores, labels, locale])
 
-  // Gösterilen sayı sorguya bağlı; sorgu değişince kendiliğinden 48'e döner.
+  // Her sorgu değişiminde (geri dönüş dahil) 48'e döner: son görülen anahtar render sırasında güncellenir.
   const queryKey = serializeArchiveQuery(query)
-  const [more, setMore] = useState({ queryKey, shown: PAGE_SIZE })
-  const shown = more.queryKey === queryKey ? more.shown : PAGE_SIZE
+  const [page, setPage] = useState({ queryKey, shown: PAGE_SIZE })
+  if (page.queryKey !== queryKey) setPage({ queryKey, shown: PAGE_SIZE })
+  const shown = page.queryKey === queryKey ? page.shown : PAGE_SIZE
+
+  // Kaybolan düğmeden sonra odak çubuktaki ilk odaklanabilir denetime geçer (mobilde gizli süzgeçler atlanır).
+  const barRef = useRef<HTMLDivElement>(null)
+  const focusBar = useCallback(() => {
+    for (const control of barRef.current?.querySelectorAll<HTMLElement>('button, select') ?? []) {
+      control.focus()
+      if (document.activeElement === control) return
+    }
+  }, [])
+  const focusBarAfterUpdate = useRef(false)
+  useEffect(() => {
+    if (!focusBarAfterUpdate.current) return
+    focusBarAfterUpdate.current = false
+    focusBar()
+  }, [queryKey, focusBar])
 
   const update = (next: ArchiveQuery) => {
     const search = serializeArchiveQuery(next)
@@ -100,15 +116,23 @@ export function ArchiveView({
   return (
     <>
       <FilterBar
+        ref={barRef}
         locale={locale}
-        query={query}
+        query={failed ? EMPTY_QUERY : query}
         facets={facets}
         count={count}
         disabled={!data}
         onChange={update}
       />
       {!failed && (
-        <Chips locale={locale} query={query} labels={labels} disabled={!data} onChange={update} />
+        <Chips
+          locale={locale}
+          query={query}
+          labels={labels}
+          disabled={!data}
+          onChange={update}
+          onEmpty={focusBar}
+        />
       )}
       {pending ? (
         <ArchiveGridPlaceholder />
@@ -118,7 +142,10 @@ export function ArchiveView({
           <ClearButton
             locale={locale}
             disabled={false}
-            onClick={() => update(clearedQuery(query))}
+            onClick={() => {
+              focusBarAfterUpdate.current = true
+              update(clearedQuery(query))
+            }}
           />
         </div>
       ) : (
@@ -127,7 +154,7 @@ export function ArchiveView({
       {films && films.length > shown && (
         <button
           type="button"
-          onClick={() => setMore({ queryKey, shown: shown + PAGE_SIZE })}
+          onClick={() => setPage({ queryKey, shown: shown + PAGE_SIZE })}
           className="mx-auto mt-12 block h-11 border border-line px-6 text-sm transition-colors duration-150 hover:border-accent hover:text-accent"
         >
           {t.showMore}

@@ -1,6 +1,6 @@
 'use client'
 
-import { useCallback, useState } from 'react'
+import { useCallback, useState, type Ref } from 'react'
 import {
   FILTER_KEYS,
   canonicalValues,
@@ -33,6 +33,7 @@ export function FilterBar({
   count,
   disabled = false,
   onChange,
+  ref,
 }: {
   locale: Locale
   query: ArchiveQuery
@@ -40,6 +41,7 @@ export function FilterBar({
   count: number | null
   disabled?: boolean
   onChange?: (query: ArchiveQuery) => void
+  ref?: Ref<HTMLDivElement>
 }) {
   const t = messages[locale].archive
   const [openKey, setOpenKey] = useState<FilterKey | null>(null)
@@ -48,7 +50,10 @@ export function FilterBar({
 
   return (
     // Navbar görünürken onun altında, gizlenince en üstte durur; top değişimi yerleşimi kaydırmaz.
-    <div className="sticky top-18 z-40 border-b border-line bg-hall transition-[top] duration-200 motion-reduce:transition-none [body:has(>header[data-hidden])_&]:top-0">
+    <div
+      ref={ref}
+      className="sticky top-18 z-40 border-b border-line bg-hall transition-[top] duration-200 motion-reduce:transition-none [body:has(>header[data-hidden])_&]:top-0"
+    >
       <div className="wrap flex items-center justify-between gap-6 py-4">
         <div className="hidden items-center gap-1 md:flex">
           {FILTER_KEYS.map((key) => (
