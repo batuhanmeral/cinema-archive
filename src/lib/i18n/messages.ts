@@ -30,6 +30,10 @@ export type Messages = {
     collections: string
     menu: string
     skip: string
+    searchPlaceholder: string
+    searchLabel: string
+    openSearch: string
+    closeSearch: string
   }
   film: {
     sections: { trailer: string; cast: string; similar: string }
@@ -80,6 +84,14 @@ export type Messages = {
     filterButton: (selected: number) => string
     close: string
   }
+  search: {
+    movementLine: (films: number) => string
+    collectionLine: (films: number) => string
+    filmLine: (year: number) => string
+    allResults: (films: number) => string
+    noResults: string
+    resultCount: (n: number) => string
+  }
 }
 
 // Binlik ayırıcı dile göre: TR "3.128", EN "3,128".
@@ -97,6 +109,10 @@ export const messages: Record<Locale, Messages> = {
       collections: 'Koleksiyonlar',
       menu: 'Menü',
       skip: 'İçeriğe atla',
+      searchPlaceholder: 'Ara…',
+      searchLabel: 'Sitede ara',
+      openSearch: 'Aramayı aç',
+      closeSearch: 'Aramayı kapat',
     },
     film: {
       sections: {
@@ -193,6 +209,14 @@ export const messages: Record<Locale, Messages> = {
       filterButton: (n) => (n > 0 ? `Filtrele (${n})` : 'Filtrele'),
       close: 'Kapat',
     },
+    search: {
+      movementLine: (n) => `Akım · ${count('tr', n)} film`,
+      collectionLine: (n) => `Koleksiyon · ${count('tr', n)} film`,
+      filmLine: (year) => `Film · ${year}`,
+      allResults: (n) => `Tüm sonuçlar (${count('tr', n)} film)`,
+      noResults: 'Sonuç yok',
+      resultCount: (n) => `${count('tr', n)} sonuç`,
+    },
   },
   en: {
     credit: 'This product uses the TMDB API but is not endorsed or certified by TMDB.',
@@ -203,6 +227,10 @@ export const messages: Record<Locale, Messages> = {
       collections: 'Collections',
       menu: 'Menu',
       skip: 'Skip to content',
+      searchPlaceholder: 'Search…',
+      searchLabel: 'Search the site',
+      openSearch: 'Open search',
+      closeSearch: 'Close search',
     },
     film: {
       sections: {
@@ -311,6 +339,14 @@ export const messages: Record<Locale, Messages> = {
       empty: 'No films match this selection.',
       filterButton: (n) => (n > 0 ? `Filter (${n})` : 'Filter'),
       close: 'Close',
+    },
+    search: {
+      movementLine: (n) => `Movement · ${count('en', n)} ${n === 1 ? 'film' : 'films'}`,
+      collectionLine: (n) => `Collection · ${count('en', n)} ${n === 1 ? 'film' : 'films'}`,
+      filmLine: (year) => `Film · ${year}`,
+      allResults: (n) => `All results (${count('en', n)} ${n === 1 ? 'film' : 'films'})`,
+      noResults: 'No results',
+      resultCount: (n) => `${count('en', n)} ${n === 1 ? 'result' : 'results'}`,
     },
   },
 }

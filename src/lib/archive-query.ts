@@ -13,7 +13,7 @@ export const EMPTY_QUERY: ArchiveQuery = {
   sort: null,
 }
 
-const MIN_QUERY_LENGTH = 2
+export const MIN_QUERY_LENGTH = 2
 
 // Değerleri tekilleştirir ve sözlük sırasına dizer (kanonik URL sırası).
 export function canonicalValues(values: Iterable<string>): string[] {
