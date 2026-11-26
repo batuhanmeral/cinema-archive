@@ -56,9 +56,15 @@ export function ArchiveView({
     for (const key of FILTER_KEYS) sets[key] = new Set(Object.keys(labels[key]))
     return sets
   }, [labels])
+  // Next, replaceState'i useSearchParams'a bir kare sonra yansıtır; o arada yerel yazım geçerlidir.
+  // URL başka bir yere değişirse (navbar araması) yerel yazım geçersiz olur.
+  const current = params.toString()
+  const [written, setWritten] = useState<{ from: string; search: string } | null>(null)
+  if (written && written.from !== current) setWritten(null)
+  const search = written?.from === current ? written.search : current
   const query = useMemo(
-    () => parseArchiveQuery(new URLSearchParams(params.toString()), known),
-    [params, known],
+    () => parseArchiveQuery(new URLSearchParams(search), known),
+    [search, known],
   )
   const hasKeys = URL_KEYS.some((key) => params.has(key))
   const data = load.status === 'ready' ? load.data : null
@@ -104,9 +110,10 @@ export function ArchiveView({
   }, [queryKey, focusBar])
 
   const update = (next: ArchiveQuery) => {
-    const search = serializeArchiveQuery(next)
+    const nextSearch = serializeArchiveQuery(next)
     const path = archiveHref(locale, {})
-    window.history.replaceState(null, '', search ? `${path}?${search}` : path)
+    setWritten({ from: current, search: nextSearch })
+    window.history.replaceState(null, '', nextSearch ? `${path}?${nextSearch}` : path)
   }
 
   const pending = load.status === 'loading' && hasKeys

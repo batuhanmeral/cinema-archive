@@ -1,4 +1,4 @@
-import { render, screen, waitFor, within } from '@testing-library/react'
+import { act, render, screen, waitFor, within } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest'
 import { createMatcher } from '@/features/search/matcher'
@@ -242,5 +242,54 @@ describe('ArchiveView', () => {
     // Izgara süzülmemiş ve yıl sıralı; çubuk URL'deki sıralamayı göstermemeli.
     expect(sort).toHaveValue('year')
     expect(screen.queryByRole('button', { name: 'Daha fazla göster' })).toBeNull()
+  })
+
+  // Next, replaceState'i useSearchParams'a bir kare sonra yansıtır; seçim o arada da görünmeli.
+  it('shows a toggle at once, before the URL reaches useSearchParams', async () => {
+    replace.mockImplementation((...args: Parameters<History['replaceState']>) => {
+      History.prototype.replaceState.apply(window.history, args)
+    })
+    const user = userEvent.setup()
+    renderView()
+    await loaded()
+    await user.click(screen.getByRole('button', { name: 'Tür' }))
+    await user.click(screen.getByRole('checkbox', { name: 'Komedi 50' }))
+    expect(screen.getByRole('checkbox', { name: /^Komedi/ })).toBeChecked()
+    expect(screen.getByRole('button', { name: 'Kaldır: Komedi' })).toBeInTheDocument()
+    act(() => nav.listeners.forEach((listener) => listener()))
+    expect(screen.getByRole('checkbox', { name: /^Komedi/ })).toBeChecked()
+  })
+
+  it('follows an outside URL change after a local toggle', async () => {
+    replace.mockImplementation((...args: Parameters<History['replaceState']>) => {
+      History.prototype.replaceState.apply(window.history, args)
+    })
+    const user = userEvent.setup()
+    renderView()
+    await loaded()
+    await user.click(screen.getByRole('button', { name: 'Tür' }))
+    await user.click(screen.getByRole('checkbox', { name: 'Komedi 50' }))
+    // Navbar araması aynı sayfada başka bir URL'ye gider.
+    act(() => {
+      setUrl('/archive?q=godard')
+      nav.listeners.forEach((listener) => listener())
+    })
+    expect(screen.queryByRole('button', { name: 'Kaldır: Komedi' })).toBeNull()
+    expect(screen.getByRole('button', { name: 'Kaldır: “godard”' })).toBeInTheDocument()
+  })
+
+  it('forgets a local write once the URL has moved on', async () => {
+    const user = userEvent.setup()
+    setUrl('/archive?q=godard')
+    renderView()
+    await loaded()
+    await user.click(screen.getByRole('button', { name: 'Kaldır: “godard”' }))
+    expect(screen.queryByRole('button', { name: /^Kaldır/ })).toBeNull()
+    // Navbar araması aynı sorguyla geri getirir; eski yerel yazım onu gizlememeli.
+    act(() => {
+      setUrl('/archive?q=godard')
+      nav.listeners.forEach((listener) => listener())
+    })
+    expect(screen.getByRole('button', { name: 'Kaldır: “godard”' })).toBeInTheDocument()
   })
 })
