@@ -34,8 +34,21 @@ export function loadSearchData(locale: Locale): Promise<SearchData> {
   return promise
 }
 
-export async function loadFilmSlugs(): Promise<string[]> {
+let slugsPromise: Promise<string[]> | null = null
+
+async function fetchFilmSlugs(): Promise<string[]> {
   const parsed = filmSlugsSchema.safeParse(await fetchJson(FILM_SLUGS_URL))
   if (!parsed.success) throw new Error('Malformed film slug list')
   return parsed.data
+}
+
+export function loadFilmSlugs(): Promise<string[]> {
+  if (slugsPromise) return slugsPromise
+  const promise = fetchFilmSlugs()
+  slugsPromise = promise
+  // Başarısız yükleme önbellekte kalmaz; sonraki çağrıda yeniden denenir.
+  promise.catch(() => {
+    if (slugsPromise === promise) slugsPromise = null
+  })
+  return promise
 }
