@@ -67,6 +67,25 @@ describe('matchesRule', () => {
     expect(matchesRule(rule, makeFilm({ genreIds: [27], year: 1985 }), noFacts)).toBe(false)
     expect(matchesRule(rule, makeFilm({ genreIds: [18], year: 1975 }), noFacts)).toBe(false)
   })
+
+  it('never matches a film in excludeTmdbIds', () => {
+    const film = makeFilm({ tmdbId: 7, countries: ['US'] })
+    expect(matchesRule({ countries: ['US'], excludeTmdbIds: [7] }, film, noFacts)).toBe(false)
+    expect(matchesRule({ countries: ['US'], excludeTmdbIds: [8] }, film, noFacts)).toBe(true)
+  })
+})
+
+describe('buildCollections exclusions', () => {
+  it('leaves an excluded film out of the members and the matched count', () => {
+    const films = [1, 2, 3].map((tmdbId) => makeFilm({ tmdbId, countries: ['US'] }))
+    const { collections, sizes } = buildCollections(
+      [content('us', { countries: ['US'], excludeTmdbIds: [2] })],
+      films,
+      () => noFacts,
+    )
+    expect(collections[0]?.filmIds).toEqual([1, 3])
+    expect(sizes.get('us')).toBe(2)
+  })
 })
 
 describe('buildCollections', () => {

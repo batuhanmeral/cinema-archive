@@ -43,6 +43,19 @@ describe('collectionRuleSchema', () => {
   })
 })
 
+describe('collectionRuleSchema excludeTmdbIds', () => {
+  it('accepts unique ids next to a membership field', () => {
+    const rule = { wikipediaCategories: ['Giallo films'], excludeTmdbIds: [1, 2] }
+    expect(collectionRuleSchema.parse(rule)).toEqual(rule)
+  })
+
+  it('rejects repeated ids and a rule with only exclusions', () => {
+    const repeated = { countries: ['IT'], excludeTmdbIds: [1, 1] }
+    expect(collectionRuleSchema.safeParse(repeated).success).toBe(false)
+    expect(collectionRuleSchema.safeParse({ excludeTmdbIds: [1] }).success).toBe(false)
+  })
+})
+
 describe('collectionRuleSchema articles', () => {
   it('accepts wikipediaArticles as a membership field and rejects an empty list', () => {
     const rule = { wikipediaArticles: ['Midnight movie'], years: { start: 1968, end: 1984 } }
