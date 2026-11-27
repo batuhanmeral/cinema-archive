@@ -1,138 +1,16 @@
 {
-  "generatedAt": "2026-11-05T13:18:20.619Z",
+  "generatedAt": "2026-11-27T01:59:24.178Z",
   "counts": {
     "listRows": 2982,
-    "films": 3128,
-    "added": 10,
-    "missingFromSources": 20,
+    "films": 3108,
+    "added": 0,
+    "missingFromSources": 0,
     "review": 0,
     "adultExcluded": 11,
     "skipped": 8
   },
-  "added": [
-    {
-      "tmdbId": 4798,
-      "slug": "je-t-aime-je-t-aime-1968"
-    },
-    {
-      "tmdbId": 32536,
-      "slug": "rejected-2000"
-    },
-    {
-      "tmdbId": 36877,
-      "slug": "the-blood-of-a-poet-1932"
-    },
-    {
-      "tmdbId": 39395,
-      "slug": "boogie-2008"
-    },
-    {
-      "tmdbId": 64015,
-      "slug": "an-autumn-s-tale-1987"
-    },
-    {
-      "tmdbId": 77124,
-      "slug": "sing-a-song-of-sex-1967"
-    },
-    {
-      "tmdbId": 88435,
-      "slug": "tattooed-life-1965"
-    },
-    {
-      "tmdbId": 90908,
-      "slug": "trans-europ-express-1966"
-    },
-    {
-      "tmdbId": 107011,
-      "slug": "ballet-mecanique-1924"
-    },
-    {
-      "tmdbId": 320413,
-      "slug": "the-greasy-strangler-2016"
-    }
-  ],
-  "missingFromSources": [
-    {
-      "tmdbId": 145,
-      "slug": "breaking-the-waves-1996"
-    },
-    {
-      "tmdbId": 553,
-      "slug": "dogville-2003"
-    },
-    {
-      "tmdbId": 833,
-      "slug": "umberto-d-1952"
-    },
-    {
-      "tmdbId": 1951,
-      "slug": "manderlay-2005"
-    },
-    {
-      "tmdbId": 5206,
-      "slug": "the-boss-of-it-all-2006"
-    },
-    {
-      "tmdbId": 9544,
-      "slug": "feardotcom-2002"
-    },
-    {
-      "tmdbId": 10913,
-      "slug": "dear-wendy-2005"
-    },
-    {
-      "tmdbId": 11597,
-      "slug": "toys-1992"
-    },
-    {
-      "tmdbId": 12456,
-      "slug": "the-five-obstructions-2003"
-    },
-    {
-      "tmdbId": 12777,
-      "slug": "it-s-all-about-love-2003"
-    },
-    {
-      "tmdbId": 13166,
-      "slug": "freddy-got-fingered-2001"
-    },
-    {
-      "tmdbId": 14537,
-      "slug": "harakiri-1962"
-    },
-    {
-      "tmdbId": 17247,
-      "slug": "battle-in-heaven-2005"
-    },
-    {
-      "tmdbId": 25205,
-      "slug": "the-concert-2009"
-    },
-    {
-      "tmdbId": 27019,
-      "slug": "celine-and-julie-go-boating-1974"
-    },
-    {
-      "tmdbId": 39850,
-      "slug": "eros-2004"
-    },
-    {
-      "tmdbId": 49302,
-      "slug": "the-biggest-heroes-1996"
-    },
-    {
-      "tmdbId": 113936,
-      "slug": "the-roof-1956"
-    },
-    {
-      "tmdbId": 124414,
-      "slug": "pictures-of-the-old-world-1972"
-    },
-    {
-      "tmdbId": 154080,
-      "slug": "the-exhibited-2000"
-    }
-  ],
+  "added": [],
+  "missingFromSources": [],
   "review": [],
   "adultExcluded": [
     {
@@ -238,20 +116,8 @@
         "slug": "surrealist-cinema",
         "films": 40,
         "candidates": 75,
-        "added": [
-          107011,
-          36877,
-          4798,
-          32536,
-          320413
-        ],
-        "removed": [
-          83096,
-          18910,
-          11597,
-          13166,
-          9544
-        ]
+        "added": [],
+        "removed": []
       },
       {
         "slug": "soviet-montage",
@@ -265,32 +131,21 @@
         "films": 18,
         "candidates": 18,
         "added": [],
-        "removed": [
-          626
-        ]
+        "removed": []
       },
       {
         "slug": "italian-neorealism",
         "films": 18,
         "candidates": 18,
         "added": [],
-        "removed": [
-          833,
-          405,
-          113936
-        ]
+        "removed": []
       },
       {
         "slug": "french-new-wave",
         "films": 16,
         "candidates": 16,
-        "added": [
-          90908,
-          8075
-        ],
-        "removed": [
-          27019
-        ]
+        "added": [],
+        "removed": []
       },
       {
         "slug": "cinema-novo",
@@ -304,22 +159,14 @@
         "films": 35,
         "candidates": 35,
         "added": [],
-        "removed": [
-          124414
-        ]
+        "removed": []
       },
       {
         "slug": "japanese-new-wave",
         "films": 40,
         "candidates": 49,
-        "added": [
-          88435,
-          77124
-        ],
-        "removed": [
-          14537,
-          30959
-        ]
+        "added": [],
+        "removed": []
       },
       {
         "slug": "new-german-cinema",
@@ -332,14 +179,8 @@
         "slug": "new-hollywood",
         "films": 40,
         "candidates": 61,
-        "added": [
-          11942,
-          15668
-        ],
-        "removed": [
-          15121,
-          1052
-        ]
+        "added": [],
+        "removed": []
       },
       {
         "slug": "iranian-new-wave",
@@ -352,12 +193,8 @@
         "slug": "hong-kong-new-wave",
         "films": 40,
         "candidates": 62,
-        "added": [
-          64015
-        ],
-        "removed": [
-          39850
-        ]
+        "added": [],
+        "removed": []
       },
       {
         "slug": "new-taiwan-cinema",
@@ -371,19 +208,7 @@
         "films": 17,
         "candidates": 17,
         "added": [],
-        "removed": [
-          22137,
-          145,
-          49302,
-          16,
-          154080,
-          553,
-          12456,
-          12777,
-          1951,
-          10913,
-          5206
-        ]
+        "removed": []
       },
       {
         "slug": "new-turkish-cinema",
@@ -397,21 +222,14 @@
         "films": 33,
         "candidates": 33,
         "added": [],
-        "removed": [
-          452,
-          17247
-        ]
+        "removed": []
       },
       {
         "slug": "romanian-new-wave",
         "films": 40,
         "candidates": 50,
-        "added": [
-          39395
-        ],
-        "removed": [
-          25205
-        ]
+        "added": [],
+        "removed": []
       }
     ],
     "collections": [
@@ -419,12 +237,8 @@
         "slug": "silent-cinema-masterpieces",
         "films": 100,
         "candidates": 120,
-        "added": [
-          107011
-        ],
-        "removed": [
-          250676
-        ]
+        "added": [],
+        "removed": []
       },
       {
         "slug": "classic-hollywood",
@@ -456,10 +270,12 @@
       },
       {
         "slug": "neo-noir",
-        "films": 87,
-        "candidates": 87,
+        "films": 86,
+        "candidates": 86,
         "added": [],
-        "removed": []
+        "removed": [
+          290
+        ]
       },
       {
         "slug": "spaghetti-western",
@@ -470,10 +286,12 @@
       },
       {
         "slug": "samurai-and-jidaigeki",
-        "films": 12,
-        "candidates": 12,
+        "films": 11,
+        "candidates": 11,
         "added": [],
-        "removed": []
+        "removed": [
+          14537
+        ]
       },
       {
         "slug": "hong-kong-martial-arts-and-action",
@@ -540,32 +358,37 @@
       },
       {
         "slug": "cyberpunk-and-dystopia",
-        "films": 85,
-        "candidates": 85,
+        "films": 84,
+        "candidates": 84,
         "added": [],
-        "removed": []
+        "removed": [
+          12777
+        ]
       },
       {
         "slug": "black-comedy",
-        "films": 44,
-        "candidates": 44,
-        "added": [],
+        "films": 46,
+        "candidates": 46,
+        "added": [
+          10937,
+          11880
+        ],
         "removed": []
       },
       {
         "slug": "cult-road-and-post-apocalyptic",
-        "films": 71,
-        "candidates": 71,
+        "films": 70,
+        "candidates": 70,
         "added": [],
-        "removed": []
+        "removed": [
+          49302
+        ]
       },
       {
         "slug": "cult-animation",
         "films": 74,
         "candidates": 74,
-        "added": [
-          32536
-        ],
+        "added": [],
         "removed": []
       },
       {

@@ -71,7 +71,7 @@ describe('archive data files', () => {
   it('serves the real data within the size guard', () => {
     const tr = archiveDataBody('index-tr.json') as ArchiveIndex
     expect(archiveIndexSchema.safeParse(tr).success).toBe(true)
-    expect(tr.films).toHaveLength(3128)
+    expect(tr.films).toHaveLength(3108)
     expect(tr.groups.filter((g) => g.kind === 'movement')).toHaveLength(18)
     expect(tr.groups.filter((g) => g.kind === 'collection')).toHaveLength(23)
     expect(gzipSync(JSON.stringify(tr)).length).toBeLessThanOrEqual(300_000)

@@ -168,7 +168,9 @@
       "order": 3
     }
   ],
-  "awards": {},
+  "awards": {
+    "oscar": 1
+  },
   "voteCount": 3429,
   "sources": [
     "cult-list"

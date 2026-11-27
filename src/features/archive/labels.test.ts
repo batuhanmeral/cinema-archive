@@ -25,7 +25,7 @@ const film = (o: Partial<ArchiveFilm>): ArchiveFilm => ({
 
 describe('heroStats', () => {
   it('counts films, years and countries on real data', () => {
-    expect(heroStats(index.films)).toEqual({ films: 3128, from: 1894, to: 2026, countries: 81 })
+    expect(heroStats(index.films)).toEqual({ films: 3108, from: 1894, to: 2026, countries: 81 })
   })
 })
 
