@@ -2,6 +2,7 @@ import { describe, expect, it } from 'vitest'
 import {
   collectionRuleSchema,
   importReportSchema,
+  lockEntrySchema,
   matchFixSchema,
   movementContentFileSchema,
 } from './schemas'
@@ -19,6 +20,13 @@ describe('matchFixSchema', () => {
     expect(fix([5]).success).toBe(false)
     expect(fix([5, 5]).success).toBe(false)
     expect(fix([5, 0]).success).toBe(false)
+  })
+})
+
+describe('lockEntrySchema', () => {
+  it('accepts a locked film with no live source', () => {
+    const entry = { tmdbId: 1398, slug: 'stalker-1979', sources: [], addedAt: '2026-10-30' }
+    expect(lockEntrySchema.parse(entry)).toEqual(entry)
   })
 })
 

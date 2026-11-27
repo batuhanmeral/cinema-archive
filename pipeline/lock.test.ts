@@ -35,19 +35,41 @@ describe('updateLock', () => {
     expect(lock.films.map((f) => f.slug)).toEqual(['psycho-1960', 'psycho-1960-20'])
   })
 
-  it('unions sources and reports only new films as added', () => {
+  it('replaces sources with the current run and reports only new films as added', () => {
     const { lock, added } = updateLock(
-      prev,
+      {
+        version: 1,
+        films: [
+          {
+            tmdbId: 1398,
+            slug: 'stalker-1979',
+            sources: ['cult-list', 'movement:old'],
+            addedAt: '2026-10-30',
+          },
+        ],
+      },
       [
-        { tmdbId: 1398, title: 'Stalker', year: 1979, sources: ['other'] },
+        { tmdbId: 1398, title: 'Stalker', year: 1979, sources: ['movement:new'] },
         { tmdbId: 5, title: 'Alien', year: 1979, sources: ['cult-list'] },
       ],
       '2026-11-30',
     )
     expect(lock.films.map((f) => f.tmdbId)).toEqual([5, 1398])
-    expect(lock.films[1]?.sources).toEqual(['cult-list', 'other'])
+    expect(lock.films[1]).toEqual({
+      tmdbId: 1398,
+      slug: 'stalker-1979',
+      sources: ['movement:new'],
+      addedAt: '2026-10-30',
+    })
     expect(added).toEqual([
       { tmdbId: 5, slug: 'alien-1979', sources: ['cult-list'], addedAt: '2026-11-30' },
     ])
+  })
+
+  it('gives a locked film the run did not match empty sources, keeping slug and addedAt', () => {
+    const { lock, missingFromSources } = updateLock(prev, [], '2026-11-30')
+    const kept = { tmdbId: 1398, slug: 'stalker-1979', sources: [], addedAt: '2026-10-30' }
+    expect(lock.films).toEqual([kept])
+    expect(missingFromSources).toEqual([kept])
   })
 })

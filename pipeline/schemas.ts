@@ -29,7 +29,7 @@ export const matchFixesFileSchema = z.array(matchFixSchema)
 export const lockEntrySchema = z.object({
   tmdbId: idSchema,
   slug: z.string().regex(SLUG_PATTERN),
-  sources: z.array(z.string()).min(1),
+  sources: z.array(z.string()),
   addedAt: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
 })
 export type LockEntry = z.infer<typeof lockEntrySchema>

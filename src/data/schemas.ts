@@ -41,7 +41,7 @@ export const filmSchema = z.object({
   ),
   awards: z.record(z.string(), idSchema),
   voteCount: z.number().int().min(0),
-  sources: z.array(z.string()).min(1),
+  sources: z.array(z.string()),
 })
 export type Film = z.infer<typeof filmSchema>
 
