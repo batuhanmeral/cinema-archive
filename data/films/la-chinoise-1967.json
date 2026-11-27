@@ -1,0 +1,146 @@
+{
+  "tmdbId": 1629,
+  "slug": "la-chinoise-1967",
+  "year": 1967,
+  "runtime": 96,
+  "originalTitle": "La Chinoise",
+  "title": {
+    "en": "La Chinoise",
+    "tr": "Çinli Kız"
+  },
+  "overview": {
+    "en": "A small group of French students are studying Mao, trying to find out their position in the world and how to change the world to a Maoistic community using terrorism.",
+    "tr": "Bir grup üniversite öğencisi yaz aylarında Mao'nun politik ve kültürel devrimi üzerine çalışmaya başlarlar. Kendilerinin ve Fransa'nın durduğu noktayı tahlil etmek için yapılan bu araştırmada, sanat, kültür, kadının toplumdaki yeri sorgulanmaya başlanır. Grubun geldiği nokta, şiddetin kullanıldığı bir devrim projesidir."
+  },
+  "poster": {
+    "tr": "/hfGzYErvwi8hB38kCsSNy6OjdPv.jpg",
+    "en": "/yaLgBjNAkv9QddluzcroP0wF5Et.jpg"
+  },
+  "backdrops": [
+    "/8ZKnr64zvcsU2xXNlw9vdZ2lE6d.jpg",
+    "/5xKuOSej5ZmcDzrXIg6gqHask3o.jpg",
+    "/rD1sqJ07qkODmXG9t4dUpPUONdd.jpg",
+    "/5guJwOoOBpQb72GPUJXpAW1e3g2.jpg",
+    "/wC1FCaMzQONAj3PkdWkOunY3Snr.jpg",
+    "/r0TURB0q1brWZApm0tTdn5gGPiS.jpg",
+    "/6PFA934YVm0Ju9uuuUozZ6XdTuN.jpg",
+    "/p0g4evAP3Vd8iKypI1w2Bhpgrog.jpg",
+    "/kxnMbjc2sYSXRCk9TYfk8KQddkE.jpg",
+    "/3f8RMMdrkaArfuPDyUfR2sTJKYu.jpg"
+  ],
+  "trailerKey": "vQcB95HJ8kg",
+  "genreIds": [
+    18,
+    35
+  ],
+  "keywordIds": [
+    236,
+    90,
+    818,
+    592,
+    6078,
+    1253,
+    13015,
+    173644,
+    220373,
+    229239,
+    287803,
+    345424
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Anouchka Films",
+    "Les Productions de la Guéville",
+    "Athos Films"
+  ],
+  "crew": [
+    {
+      "personId": 3776,
+      "job": "writer"
+    },
+    {
+      "personId": 3776,
+      "job": "director"
+    },
+    {
+      "personId": 3540,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 10934,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18227,
+      "character": "Véronique Supervielle",
+      "order": 0
+    },
+    {
+      "personId": 1653,
+      "character": "Guillaume",
+      "order": 1
+    },
+    {
+      "personId": 18228,
+      "character": "Yvonne",
+      "order": 2
+    },
+    {
+      "personId": 18229,
+      "character": "Henri",
+      "order": 3
+    },
+    {
+      "personId": 18230,
+      "character": "Kirilov",
+      "order": 4
+    },
+    {
+      "personId": 18231,
+      "character": "Omar",
+      "order": 5
+    },
+    {
+      "personId": 18233,
+      "character": "Francis",
+      "order": 6
+    },
+    {
+      "personId": 18232,
+      "character": "Blandine",
+      "order": 7
+    },
+    {
+      "personId": 18234,
+      "character": "Son Ami",
+      "order": 8
+    },
+    {
+      "personId": 25059,
+      "character": "Self - Assistant Director (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 3540,
+      "character": "Self - Cinematographer (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 3528,
+      "character": "Self - Sound Recordist (uncredited)",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 254,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

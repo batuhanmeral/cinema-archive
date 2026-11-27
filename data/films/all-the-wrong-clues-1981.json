@@ -1,0 +1,180 @@
+{
+  "tmdbId": 239914,
+  "slug": "all-the-wrong-clues-1981",
+  "year": 1981,
+  "runtime": 99,
+  "originalTitle": "鬼馬智多星",
+  "title": {
+    "en": "All the Wrong Clues",
+    "tr": "All the Wrong Clues"
+  },
+  "overview": {
+    "en": "A private investigator and a police inspector team up to pursue a notorious mobster, who is plotting to milk an old millionaire out of his highly-valued stocks and bonds. Along the way, the investigator crosses paths with a femme fatale and silly gangsters.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6GJ8CpVBcIRNbzZI9TCiNbDAAy.jpg",
+    "en": "/6GJ8CpVBcIRNbzZI9TCiNbDAAy.jpg"
+  },
+  "backdrops": [
+    "/9SSKhGIioCznmixeDIpoHxzzKTq.jpg",
+    "/v96scmFXuUx7hpuLkgdPYKo0jH0.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    35,
+    28
+  ],
+  "keywordIds": [
+    703,
+    3202,
+    11168,
+    241031
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn"
+  ],
+  "studios": [
+    "Cinema City Company Limited"
+  ],
+  "crew": [
+    {
+      "personId": 26760,
+      "job": "director"
+    },
+    {
+      "personId": 26729,
+      "job": "composer"
+    },
+    {
+      "personId": 240177,
+      "job": "writer"
+    },
+    {
+      "personId": 65962,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 127439,
+      "job": "writer"
+    },
+    {
+      "personId": 26727,
+      "job": "producer"
+    },
+    {
+      "personId": 26726,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 26744,
+      "character": "Yoho",
+      "order": 0
+    },
+    {
+      "personId": 26729,
+      "character": "Chief Inspector Robin",
+      "order": 1
+    },
+    {
+      "personId": 26726,
+      "character": "Ah Capone",
+      "order": 2
+    },
+    {
+      "personId": 1135387,
+      "character": "Yummy",
+      "order": 3
+    },
+    {
+      "personId": 1402734,
+      "character": "Yummy's Wife",
+      "order": 4
+    },
+    {
+      "personId": 29693,
+      "character": "Capone's Dumb Thug",
+      "order": 5
+    },
+    {
+      "personId": 1624697,
+      "character": "Capone's Thug",
+      "order": 6
+    },
+    {
+      "personId": 116906,
+      "character": "Piano Player in Bar",
+      "order": 7
+    },
+    {
+      "personId": 1166105,
+      "character": "Customer in Bar",
+      "order": 8
+    },
+    {
+      "personId": 58123,
+      "character": "Brawler in Bar",
+      "order": 9
+    },
+    {
+      "personId": 26724,
+      "character": "Popeye",
+      "order": 10
+    },
+    {
+      "personId": 1178941,
+      "character": "Wai",
+      "order": 11
+    },
+    {
+      "personId": 1355940,
+      "character": "Mimi",
+      "order": 12
+    },
+    {
+      "personId": 4894945,
+      "character": "Robin's Assistant",
+      "order": 13
+    },
+    {
+      "personId": 1201406,
+      "character": "Robin's Assistant",
+      "order": 14
+    },
+    {
+      "personId": 1619922,
+      "character": "Robin's Informer",
+      "order": 15
+    },
+    {
+      "personId": 26742,
+      "character": "Boss of 4 Families",
+      "order": 16
+    },
+    {
+      "personId": 119449,
+      "character": "Boss of 4 Families",
+      "order": 17
+    },
+    {
+      "personId": 1178947,
+      "character": "Boss of 4 Families",
+      "order": 18
+    },
+    {
+      "personId": 2091785,
+      "character": "Boss of 4 Families",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 13,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

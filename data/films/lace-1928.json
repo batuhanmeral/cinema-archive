@@ -1,0 +1,115 @@
+{
+  "tmdbId": 188659,
+  "slug": "lace-1928",
+  "year": 1928,
+  "runtime": 75,
+  "originalTitle": "Кружева",
+  "title": {
+    "en": "Lace",
+    "tr": "Lace"
+  },
+  "overview": {
+    "en": "At the end of the 1920s, young lace factory workers' Komsomol cell faces a conflict between political activists and hooligans, while dealing with an inactive club and bureaucratic apathy.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/nUQSw6iPxPOy7vmaeLaX30YWK4f.jpg",
+    "en": "/nUQSw6iPxPOy7vmaeLaX30YWK4f.jpg"
+  },
+  "backdrops": [
+    "/tD8R7RWPe24j3kHpVuF35kl4JXU.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "SU"
+  ],
+  "languages": [
+    "ru"
+  ],
+  "studios": [
+    "Sovkino"
+  ],
+  "crew": [
+    {
+      "personId": 24419,
+      "job": "director"
+    },
+    {
+      "personId": 1196664,
+      "job": "writer"
+    },
+    {
+      "personId": 1307826,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 24419,
+      "job": "writer"
+    },
+    {
+      "personId": 4380792,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1075586,
+      "character": "",
+      "order": 0
+    },
+    {
+      "personId": 562648,
+      "character": "",
+      "order": 1
+    },
+    {
+      "personId": 562611,
+      "character": "",
+      "order": 2
+    },
+    {
+      "personId": 1704717,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 5465591,
+      "character": "Petka Vesnukhin",
+      "order": 4
+    },
+    {
+      "personId": 3045373,
+      "character": "Senka",
+      "order": 5
+    },
+    {
+      "personId": 4380784,
+      "character": "",
+      "order": 6
+    },
+    {
+      "personId": 1351511,
+      "character": "The fellow with the guitar",
+      "order": 7
+    },
+    {
+      "personId": 1540570,
+      "character": "Boy",
+      "order": 8
+    },
+    {
+      "personId": 4380788,
+      "character": "Boy",
+      "order": 9
+    }
+  ],
+  "awards": {},
+  "voteCount": 9,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

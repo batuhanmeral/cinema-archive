@@ -1,0 +1,150 @@
+{
+  "tmdbId": 79363,
+  "slug": "dementia-1955",
+  "year": 1955,
+  "runtime": 58,
+  "originalTitle": "Dementia",
+  "title": {
+    "en": "Dementia",
+    "tr": "Dementia"
+  },
+  "overview": {
+    "en": "In a shadowy world stitched from nightmares, a young woman's harrowing journey in a seedy hotel unveils her traumatic past. Haunted by violence and stalked through desolate streets, her psyche unravels as she confronts an abusive husband and unsettling memories.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/u0dai8tk4urRAox8rZTEXixURUw.jpg",
+    "en": "/jX5Wx3VW9UmPbSAzTeQxHlflRxk.jpg"
+  },
+  "backdrops": [
+    "/vnqZ4MsJxaot0lMQ4cXopiFf8de.jpg"
+  ],
+  "trailerKey": "ff8w5U-zueo",
+  "genreIds": [
+    27,
+    18
+  ],
+  "keywordIds": [
+    9807,
+    199524
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "J.J. Parker Productions",
+    "H.K.F. Productions"
+  ],
+  "crew": [
+    {
+      "personId": 98164,
+      "job": "writer"
+    },
+    {
+      "personId": 177891,
+      "job": "producer"
+    },
+    {
+      "personId": 177891,
+      "job": "director"
+    },
+    {
+      "personId": 65502,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 89804,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 586687,
+      "character": "The Gamin",
+      "order": 0
+    },
+    {
+      "personId": 98164,
+      "character": "Rich Man",
+      "order": 1
+    },
+    {
+      "personId": 586688,
+      "character": "Father",
+      "order": 2
+    },
+    {
+      "personId": 138231,
+      "character": "Evil One",
+      "order": 3
+    },
+    {
+      "personId": 586689,
+      "character": "Butler",
+      "order": 4
+    },
+    {
+      "personId": 2749673,
+      "character": "Mother",
+      "order": 5
+    },
+    {
+      "personId": 2749674,
+      "character": "Flower Girl",
+      "order": 6
+    },
+    {
+      "personId": 2749675,
+      "character": "Nightclub Dancer",
+      "order": 7
+    },
+    {
+      "personId": 2749676,
+      "character": "Wino",
+      "order": 8
+    },
+    {
+      "personId": 112938,
+      "character": "Shorty Rogers",
+      "order": 9
+    },
+    {
+      "personId": 10403,
+      "character": "Stoned Beatnik (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 136112,
+      "character": "Policeman (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 98452,
+      "character": "Character (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 112884,
+      "character": "Narrator (voice) (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 97985,
+      "character": "Newsboy (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 28715,
+      "character": "Nightclub Patron (uncredited)",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 88,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

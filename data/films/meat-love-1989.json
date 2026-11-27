@@ -1,0 +1,70 @@
+{
+  "tmdbId": 18888,
+  "slug": "meat-love-1989",
+  "year": 1989,
+  "runtime": 1,
+  "originalTitle": "Zamilované maso",
+  "title": {
+    "en": "Meat Love",
+    "tr": "Zamilované maso"
+  },
+  "overview": {
+    "en": "Two pieces of meat fall in love.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/1ueGQlNSB1cj3niaqOIt9Ra2xCi.jpg",
+    "en": "/aS8xKTKhDv2bojN9uJ7s88KkBVA.jpg"
+  },
+  "backdrops": [
+    "/evlniPoPke6WOZ7onIx5EJAvII4.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    16,
+    35,
+    10749
+  ],
+  "keywordIds": [
+    1605,
+    697,
+    8271,
+    10121
+  ],
+  "countries": [
+    "XC",
+    "DE",
+    "GB",
+    "US"
+  ],
+  "languages": [],
+  "studios": [
+    "Koninck Studios",
+    "Krátký film Praha",
+    "MTV"
+  ],
+  "crew": [
+    {
+      "personId": 83784,
+      "job": "director"
+    },
+    {
+      "personId": 551675,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 83784,
+      "job": "writer"
+    },
+    {
+      "personId": 1082422,
+      "job": "producer"
+    }
+  ],
+  "cast": [],
+  "awards": {},
+  "voteCount": 90,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

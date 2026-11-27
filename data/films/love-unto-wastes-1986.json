@@ -1,0 +1,118 @@
+{
+  "tmdbId": 155114,
+  "slug": "love-unto-wastes-1986",
+  "year": 1986,
+  "runtime": 96,
+  "originalTitle": "地下情",
+  "title": {
+    "en": "Love Unto Wastes",
+    "tr": "Love Unto Wastes"
+  },
+  "overview": {
+    "en": "Four young people spend their time living the wild life - until one of them is brutally murdered in a burglary. The survivors come under the scrutiny of an eccentric cop, and their underlying fears and regrets slowly but surely emerge.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/g16x9sQJQ9FyiSNjrggLOftfUsW.jpg",
+    "en": "/g16x9sQJQ9FyiSNjrggLOftfUsW.jpg"
+  },
+  "backdrops": [
+    "/mSeVJTd7hIsCOOcFWQP7IktJ6T0.jpg",
+    "/qKFBf8efKx4guvmkObDRMgSC5QS.jpg",
+    "/68jT6J31Hh4nWzrPWePEuoncQY6.jpg",
+    "/szyRjHWtk7o8bewkTnhWXEen8y3.jpg"
+  ],
+  "trailerKey": "upSxPlkfny8",
+  "genreIds": [
+    18,
+    9648,
+    10749
+  ],
+  "keywordIds": [],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn",
+    "zh",
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Pearl City Film Production",
+    "D & B Films"
+  ],
+  "crew": [
+    {
+      "personId": 96861,
+      "job": "director"
+    },
+    {
+      "personId": 66013,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 2318241,
+      "job": "producer"
+    },
+    {
+      "personId": 1405058,
+      "job": "composer"
+    },
+    {
+      "personId": 1411195,
+      "job": "writer"
+    },
+    {
+      "personId": 1042723,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1337,
+      "character": "Tony Cheung Siu-Hoi",
+      "order": 0
+    },
+    {
+      "personId": 103598,
+      "character": "Liu Yuk-Ping",
+      "order": 1
+    },
+    {
+      "personId": 227780,
+      "character": "Billie Yuen Bui-Yee",
+      "order": 2
+    },
+    {
+      "personId": 1618084,
+      "character": "Chao Su-Ling",
+      "order": 3
+    },
+    {
+      "personId": 1619,
+      "character": "Detective Lam Chun-Keung",
+      "order": 4
+    },
+    {
+      "personId": 1411194,
+      "character": "Director Kwan",
+      "order": 5
+    },
+    {
+      "personId": 1195439,
+      "character": "Chung Gum-Sau",
+      "order": 6
+    },
+    {
+      "personId": 1411193,
+      "character": "Tony's Father",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 19,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

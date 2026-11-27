@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-27T01:59:24.178Z",
+  "generatedAt": "2026-11-27T02:20:33.935Z",
   "counts": {
     "listRows": 2982,
-    "films": 3108,
+    "films": 3135,
     "added": 0,
     "missingFromSources": 0,
     "review": 0,
@@ -115,14 +115,14 @@
       {
         "slug": "surrealist-cinema",
         "films": 40,
-        "candidates": 75,
+        "candidates": 61,
         "added": [],
         "removed": []
       },
       {
         "slug": "soviet-montage",
         "films": 40,
-        "candidates": 98,
+        "candidates": 91,
         "added": [],
         "removed": []
       },
@@ -135,15 +135,15 @@
       },
       {
         "slug": "italian-neorealism",
-        "films": 18,
-        "candidates": 18,
+        "films": 22,
+        "candidates": 22,
         "added": [],
         "removed": []
       },
       {
         "slug": "french-new-wave",
-        "films": 16,
-        "candidates": 16,
+        "films": 40,
+        "candidates": 91,
         "added": [],
         "removed": []
       },
@@ -192,7 +192,7 @@
       {
         "slug": "hong-kong-new-wave",
         "films": 40,
-        "candidates": 62,
+        "candidates": 47,
         "added": [],
         "removed": []
       },
@@ -236,14 +236,24 @@
       {
         "slug": "silent-cinema-masterpieces",
         "films": 100,
-        "candidates": 120,
-        "added": [],
-        "removed": []
+        "candidates": 111,
+        "added": [
+          175323,
+          151342,
+          189671,
+          189699
+        ],
+        "removed": [
+          250676,
+          47590,
+          189684,
+          128090
+        ]
       },
       {
         "slug": "classic-hollywood",
         "films": 100,
-        "candidates": 375,
+        "candidates": 377,
         "added": [],
         "removed": []
       },
@@ -259,7 +269,15 @@
         "films": 54,
         "candidates": 54,
         "added": [],
-        "removed": []
+        "removed": [
+          188344,
+          184508,
+          189486,
+          250676,
+          47590,
+          189684,
+          128090
+        ]
       },
       {
         "slug": "film-noir",
@@ -270,11 +288,11 @@
       },
       {
         "slug": "neo-noir",
-        "films": 86,
-        "candidates": 86,
+        "films": 87,
+        "candidates": 87,
         "added": [],
         "removed": [
-          290
+          396461
         ]
       },
       {
@@ -289,28 +307,38 @@
         "films": 11,
         "candidates": 11,
         "added": [],
-        "removed": [
-          14537
-        ]
-      },
-      {
-        "slug": "hong-kong-martial-arts-and-action",
-        "films": 52,
-        "candidates": 52,
-        "added": [],
         "removed": []
       },
       {
+        "slug": "hong-kong-martial-arts-and-action",
+        "films": 43,
+        "candidates": 43,
+        "added": [],
+        "removed": [
+          2644,
+          16269,
+          40346,
+          57663,
+          47423,
+          13345,
+          11647,
+          14310,
+          12289,
+          48492,
+          44865
+        ]
+      },
+      {
         "slug": "giallo",
-        "films": 10,
-        "candidates": 10,
+        "films": 9,
+        "candidates": 9,
         "added": [],
         "removed": []
       },
       {
         "slug": "midnight-movies",
-        "films": 22,
-        "candidates": 22,
+        "films": 23,
+        "candidates": 23,
         "added": [],
         "removed": []
       },
@@ -351,45 +379,42 @@
       },
       {
         "slug": "gangster-and-heist-epics",
-        "films": 73,
-        "candidates": 73,
+        "films": 72,
+        "candidates": 72,
         "added": [],
-        "removed": []
+        "removed": [
+          47423
+        ]
       },
       {
         "slug": "cyberpunk-and-dystopia",
         "films": 84,
         "candidates": 84,
         "added": [],
-        "removed": [
-          12777
-        ]
+        "removed": []
       },
       {
         "slug": "black-comedy",
-        "films": 46,
-        "candidates": 46,
-        "added": [
-          10937,
-          11880
-        ],
+        "films": 47,
+        "candidates": 47,
+        "added": [],
         "removed": []
       },
       {
         "slug": "cult-road-and-post-apocalyptic",
-        "films": 70,
-        "candidates": 70,
+        "films": 71,
+        "candidates": 71,
         "added": [],
-        "removed": [
-          49302
-        ]
+        "removed": []
       },
       {
         "slug": "cult-animation",
-        "films": 74,
-        "candidates": 74,
+        "films": 78,
+        "candidates": 78,
         "added": [],
-        "removed": []
+        "removed": [
+          291270
+        ]
       },
       {
         "slug": "1980s-slasher",

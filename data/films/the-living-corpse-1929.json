@@ -1,0 +1,151 @@
+{
+  "tmdbId": 190231,
+  "slug": "the-living-corpse-1929",
+  "year": 1929,
+  "runtime": 82,
+  "originalTitle": "Живой труп",
+  "title": {
+    "en": "The Living Corpse",
+    "tr": "The Living Corpse"
+  },
+  "overview": {
+    "en": "The central character of the play, Fedor Protasov, is tormented by the belief that his wife Liza has never really chosen between him and the more conventional Victor Karenin, a rival for her hand. He wants to kill himself, but doesn't have the nerve. Running away from his life, he first falls in with Gypsies, and into a sexual relationship with a Gypsy singer, Masha.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/5O6hY1XR37Z9ioCgn2LBhouvY1r.jpg",
+    "en": "/5O6hY1XR37Z9ioCgn2LBhouvY1r.jpg"
+  },
+  "backdrops": [
+    "/76HVQNOu9LqSxXrwEIxGtyqS9Ub.jpg",
+    "/ljcCOoevuCXxweAfeKGeZ6ENz8g.jpg",
+    "/5XUMcOKQq7tMnDnMZfuSuJCHMsL.jpg",
+    "/lvCjUQPWTQ4d1eEnSgemOZJ4yNR.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    154802
+  ],
+  "countries": [
+    "DE",
+    "SU"
+  ],
+  "languages": [
+    "ru"
+  ],
+  "studios": [
+    "Mezhrabpomfilm",
+    "Prometheus-Film-Verleih"
+  ],
+  "crew": [
+    {
+      "personId": 29187,
+      "job": "director"
+    },
+    {
+      "personId": 47256,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1611783,
+      "job": "writer"
+    },
+    {
+      "personId": 2362136,
+      "job": "writer"
+    },
+    {
+      "personId": 144825,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1197296,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 144821,
+      "character": "Fyodor Protasov",
+      "order": 0
+    },
+    {
+      "personId": 1088139,
+      "character": "Yelizaveta Andreyevna Protasova",
+      "order": 1
+    },
+    {
+      "personId": 1427872,
+      "character": "Sasha, Yelizaveta's sister",
+      "order": 2
+    },
+    {
+      "personId": 14125,
+      "character": "Anna Pavlovna",
+      "order": 3
+    },
+    {
+      "personId": 1270912,
+      "character": "Masha, gypsy girl",
+      "order": 4
+    },
+    {
+      "personId": 32004,
+      "character": "Karenin",
+      "order": 5
+    },
+    {
+      "personId": 237489,
+      "character": "Petushkov",
+      "order": 6
+    },
+    {
+      "personId": 273080,
+      "character": "Pretty lady",
+      "order": 7
+    },
+    {
+      "personId": 1360415,
+      "character": "Artemyev",
+      "order": 8
+    },
+    {
+      "personId": 1093970,
+      "character": "Priest",
+      "order": 9
+    },
+    {
+      "personId": 86701,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 144826,
+      "character": "Pickpocket",
+      "order": 11
+    },
+    {
+      "personId": 1270903,
+      "character": "Fyodor, friend of Protasov's",
+      "order": 12
+    },
+    {
+      "personId": 144841,
+      "character": "Hired witness (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 2667081,
+      "character": "",
+      "order": 14
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

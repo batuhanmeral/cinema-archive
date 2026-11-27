@@ -1,0 +1,130 @@
+{
+  "tmdbId": 156045,
+  "slug": "the-imp-1981",
+  "year": 1981,
+  "runtime": 95,
+  "originalTitle": "凶榜",
+  "title": {
+    "en": "The Imp",
+    "tr": "The Imp"
+  },
+  "overview": {
+    "en": "Keung has a pregnant wife but he has been unemployed for a long period. One day he gets a new job as a security guard in a commercial building. But strange incidents start happening and his colleagues die in horrible ways one by one. A geomancer tells Keung that he will be the next victim and teaches him how to avoid his fate. But Keung begins to notice his wife's strange behaviour...",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/lRal1EZoQmASoiTy7lEWTLPTV6d.jpg",
+    "en": "/lRal1EZoQmASoiTy7lEWTLPTV6d.jpg"
+  },
+  "backdrops": [
+    "/2udyP8F1yXKtBLqOntxyJ75Fq7d.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    27
+  ],
+  "keywordIds": [],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn"
+  ],
+  "studios": [
+    "Century Motion Picture & Dist. Co., Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 1129469,
+      "job": "director"
+    },
+    {
+      "personId": 57617,
+      "job": "producer"
+    },
+    {
+      "personId": 67691,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 65961,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1415705,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 62418,
+      "character": "Cheung Ging-Keung",
+      "order": 0
+    },
+    {
+      "personId": 65966,
+      "character": "Fatty",
+      "order": 1
+    },
+    {
+      "personId": 1576143,
+      "character": "Lan",
+      "order": 2
+    },
+    {
+      "personId": 94972,
+      "character": "Geomancer Chiu Dan-Yeung",
+      "order": 3
+    },
+    {
+      "personId": 1321389,
+      "character": "Little Ting",
+      "order": 4
+    },
+    {
+      "personId": 1615003,
+      "character": "",
+      "order": 5
+    },
+    {
+      "personId": 990468,
+      "character": "Mr HK",
+      "order": 6
+    },
+    {
+      "personId": 124777,
+      "character": "Detective",
+      "order": 7
+    },
+    {
+      "personId": 1042681,
+      "character": "Old Uncle Han",
+      "order": 8
+    },
+    {
+      "personId": 119449,
+      "character": "Secuirty manager",
+      "order": 9
+    },
+    {
+      "personId": 1575156,
+      "character": "Doctor",
+      "order": 10
+    },
+    {
+      "personId": 1615004,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1615005,
+      "character": "Office worker",
+      "order": 12
+    }
+  ],
+  "awards": {},
+  "voteCount": 20,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

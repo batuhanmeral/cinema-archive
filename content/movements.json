@@ -31,7 +31,8 @@
       "article": "Soviet montage theory",
       "categories": ["Soviet silent feature films"]
     },
-    "pioneerIds": [9603, 144821, 95111, 228729]
+    "pioneerIds": [9603, 144821, 95111, 228729],
+    "excludeTmdbIds": [188344, 184508, 250676, 189486, 47590, 189684, 128090]
   },
   {
     "slug": "surrealist-cinema",
@@ -49,7 +50,10 @@
       "categories": ["Surrealist films"]
     },
     "pioneerIds": [793, 997694, 150602],
-    "excludeTmdbIds": [9544, 11597, 13166, 18910, 83096]
+    "excludeTmdbIds": [
+      4174, 9544, 11597, 12105, 13166, 16375, 18193, 18910, 22694, 27645, 83096, 83613, 291270,
+      320413, 347031, 396461, 500840, 545611, 1010639
+    ]
   },
   {
     "slug": "french-poetic-realism",
@@ -77,7 +81,7 @@
     },
     "years": {
       "start": 1943,
-      "end": 1950
+      "end": 1952
     },
     "countries": ["IT"],
     "wikipedia": {
@@ -117,9 +121,20 @@
     "countries": ["FR"],
     "wikipedia": {
       "article": "French New Wave",
-      "categories": []
+      "categories": [
+        "Films directed by Jean-Luc Godard",
+        "Films directed by François Truffaut",
+        "Films directed by Agnès Varda",
+        "Films directed by Jacques Demy",
+        "Films directed by Éric Rohmer",
+        "Films directed by Claude Chabrol",
+        "Films directed by Jacques Rivette",
+        "Films directed by Alain Resnais",
+        "Films directed by Chris Marker"
+      ]
     },
-    "pioneerIds": [1650, 3776, 28615, 19069]
+    "pioneerIds": [1650, 3776, 28615, 19069],
+    "excludeTmdbIds": [258, 1627, 2912, 5590]
   },
   {
     "slug": "cinema-novo",
@@ -215,7 +230,7 @@
     },
     "years": {
       "start": 1979,
-      "end": null
+      "end": 2000
     },
     "countries": ["HK"],
     "wikipedia": {
@@ -223,7 +238,7 @@
       "categories": ["Hong Kong New Wave films"]
     },
     "pioneerIds": [123199, 26760, 71063],
-    "excludeTmdbIds": [39850]
+    "excludeTmdbIds": [2644, 13345, 16269, 39850, 40346, 47423, 57663]
   },
   {
     "slug": "new-taiwan-cinema",

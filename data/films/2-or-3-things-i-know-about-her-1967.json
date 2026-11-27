@@ -1,0 +1,187 @@
+{
+  "tmdbId": 8074,
+  "slug": "2-or-3-things-i-know-about-her-1967",
+  "year": 1967,
+  "runtime": 87,
+  "originalTitle": "2 ou 3 choses que je sais d'elle",
+  "title": {
+    "en": "2 or 3 Things I Know About Her",
+    "tr": "Onun Hakkında Bildiğim 2 veya 3 Şey"
+  },
+  "overview": {
+    "en": "As the city of Paris and the French people grow in consumer culture, a housewife living in a high-rise apartment with her husband and two children takes to prostitution to help pay the bills.",
+    "tr": "Jean-Luc Godard'ın fahişeliği modern kapitalist devlette yaşamın ana metaforu olarak işlediği birçok filmden biridir. Godard için, kendisini para için satan bir kadın, yaşam değerini artıran son derece kişisel bir eylem olan sevişmenin nasıl diğer her şey gibi bir mala dönüştüğünün kusursuz bir imgesidir. Bu süreç içinde, insanoğlu kendisiyle yabancılaşarak satılacak ve satın alınacak bir şeye dönüşür."
+  },
+  "poster": {
+    "tr": "/w1LO1SIrpA4GCjK3ysANr7F3eAN.jpg",
+    "en": "/w0LilVoboSNFajkDLlbFllt59gz.jpg"
+  },
+  "backdrops": [
+    "/6aurEdQ8fs4zevG4m46Lbhoc9Cu.jpg",
+    "/uki4FPpWbLtgNVmjjs6vjwnFvTA.jpg",
+    "/fRYNlAhtf9B7Qh9XnqMV40vUKAl.jpg",
+    "/q9q31pDws3B2yavWUi5qEqmNZXt.jpg",
+    "/sWx9uBjoYkBcXazZ7PiNiEJ7Tl.jpg",
+    "/aSxOFiVdJuYvbz9lI4OuKWuBcoD.jpg",
+    "/rnPCnzOkl7r0dAo8c05yX1t1Vn4.jpg",
+    "/6V96MR18QNvFOIuvDbNGuB15G61.jpg",
+    "/59qlBLNvzf7FjL7UX5Dosh70heI.jpg",
+    "/ndBrXcVaIz3pOKx8cqk1PZ53bbL.jpg"
+  ],
+  "trailerKey": "yST1KXpBamI",
+  "genreIds": [
+    35,
+    18
+  ],
+  "keywordIds": [
+    2957,
+    549,
+    2439,
+    3451,
+    13059,
+    170487,
+    180751,
+    180756
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "en",
+    "fr"
+  ],
+  "studios": [
+    "Argos films",
+    "Anouchka Films",
+    "Les Films du Carrosse"
+  ],
+  "crew": [
+    {
+      "personId": 2304,
+      "job": "producer"
+    },
+    {
+      "personId": 3776,
+      "job": "director"
+    },
+    {
+      "personId": 3776,
+      "job": "writer"
+    },
+    {
+      "personId": 37775,
+      "job": "producer"
+    },
+    {
+      "personId": 3540,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 14813,
+      "character": "Juliette Jeanson",
+      "order": 0
+    },
+    {
+      "personId": 3776,
+      "character": "Narrator (voice)",
+      "order": 1
+    },
+    {
+      "personId": 24475,
+      "character": "Marianne",
+      "order": 2
+    },
+    {
+      "personId": 53912,
+      "character": "Robert Jeanson",
+      "order": 3
+    },
+    {
+      "personId": 37775,
+      "character": "John Bogus, the American",
+      "order": 4
+    },
+    {
+      "personId": 53913,
+      "character": "Roger",
+      "order": 5
+    },
+    {
+      "personId": 24399,
+      "character": "Young Man",
+      "order": 6
+    },
+    {
+      "personId": 18228,
+      "character": "Girl Talking to Robert",
+      "order": 7
+    },
+    {
+      "personId": 2840081,
+      "character": "Girl in Bath",
+      "order": 8
+    },
+    {
+      "personId": 132235,
+      "character": "Christophe Jeanson",
+      "order": 9
+    },
+    {
+      "personId": 2840082,
+      "character": "Solange Jeanson",
+      "order": 10
+    },
+    {
+      "personId": 17591,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 2840083,
+      "character": "Meter Reader",
+      "order": 12
+    },
+    {
+      "personId": 53911,
+      "character": "Monsieur Gehrard",
+      "order": 13
+    },
+    {
+      "personId": 18232,
+      "character": "Girl",
+      "order": 14
+    },
+    {
+      "personId": 2840084,
+      "character": "Man in Basement",
+      "order": 15
+    },
+    {
+      "personId": 2234421,
+      "character": "Author",
+      "order": 16
+    },
+    {
+      "personId": 1037255,
+      "character": "Pécuchet",
+      "order": 17
+    },
+    {
+      "personId": 2840086,
+      "character": "Woman in Basement",
+      "order": 18
+    },
+    {
+      "personId": 18209,
+      "character": "Bouvard",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 227,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

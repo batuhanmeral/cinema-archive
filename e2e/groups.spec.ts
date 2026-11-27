@@ -101,9 +101,11 @@ test('the movement tag on a film page opens the movement', async ({ page }) => {
 test('the collection tag on a film page opens the collection', async ({ page }) => {
   const film = filmOf(required(giallo.filmIds[0], 'film in giallo'))
   await page.goto(`/film/${film.slug}`)
+  // Aynı adlı bir tema etiketi de olabilir (Giallo); koleksiyon bağlantısı adresiyle seçilir.
   await page
     .getByTestId('film-tags')
     .getByRole('link', { name: giallo.name.tr, exact: true })
+    .and(page.locator(`a[href$="/collection/${giallo.slug}"]`))
     .click()
   await expect(page).toHaveURL(new RegExp(`/collection/${giallo.slug}$`))
 })

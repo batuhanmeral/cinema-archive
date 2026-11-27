@@ -1,0 +1,167 @@
+{
+  "tmdbId": 256071,
+  "slug": "the-story-of-woo-viet-1981",
+  "year": 1981,
+  "runtime": 92,
+  "originalTitle": "胡越的故事",
+  "title": {
+    "en": "The Story of Woo Viet",
+    "tr": "The Story of Woo Viet"
+  },
+  "overview": {
+    "en": "Wu Viet is a Vietnamese refugee who wants to leave his country behind and start over in the United States. First, he must make his way to Hong Kong, but as he passes through Thailand, he meets a beautiful woman who travels with him. Wu and his new love end up in a refugee camp in Thailand, where they discover many of their countrymen are disappearing under mysterious circumstances. As Wu tries to learn the truth about what's happening, he discovers his life is in danger, and he must flee to the Philippines for safety.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/twYWuPNFRaaZCULbSL8dk16mhE5.jpg",
+    "en": "/urCG5i9qeE0Uo1pjqvZIzgiqQNb.jpg"
+  },
+  "backdrops": [
+    "/1SNYSn35kEWumR8Z83Jh1s2mqA0.jpg",
+    "/79zNrRkKeOjaGP3RCsHfw4C1MQi.jpg",
+    "/fj34a4hj30hhDSHDtwVR11fl5PM.jpg",
+    "/lZLguNeA2JZT0eAyZzcOlHIUVrH.jpg",
+    "/ohCSkvoPBlnGITcr2CN8mfbcWKm.jpg",
+    "/7Vfq0ef9vMyWC1TCjiNBEjFUYbx.jpg",
+    "/bjNVTZIrFGW1AIP8QfdfwqBt90H.jpg",
+    "/2oSKWUIbgPevMVDZo3CkkT5ubeN.jpg",
+    "/ebKO3eMZIAmj1YnJAYF5t8MbN90.jpg",
+    "/px8NCKNDHfk4YzC2b9jCso8owND.jpg"
+  ],
+  "trailerKey": "COyfV1j5aak",
+  "genreIds": [
+    80,
+    18
+  ],
+  "keywordIds": [
+    187056
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn"
+  ],
+  "studios": [
+    "Pearl City Films"
+  ],
+  "crew": [
+    {
+      "personId": 65962,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 123199,
+      "job": "director"
+    },
+    {
+      "personId": 1405058,
+      "job": "composer"
+    },
+    {
+      "personId": 26729,
+      "job": "producer"
+    },
+    {
+      "personId": 66122,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1619,
+      "character": "Woo Viet",
+      "order": 0
+    },
+    {
+      "personId": 262128,
+      "character": "Lee Lap Quan",
+      "order": 1
+    },
+    {
+      "personId": 102880,
+      "character": "Shum Ching",
+      "order": 2
+    },
+    {
+      "personId": 70673,
+      "character": "Ah Sahm",
+      "order": 3
+    },
+    {
+      "personId": 1178818,
+      "character": "Mr. Chung",
+      "order": 4
+    },
+    {
+      "personId": 1417154,
+      "character": "Vietcong Special Agent",
+      "order": 5
+    },
+    {
+      "personId": 119648,
+      "character": "Snakehead",
+      "order": 6
+    },
+    {
+      "personId": 1416542,
+      "character": "Young Vietnamese Refugee",
+      "order": 7
+    },
+    {
+      "personId": 2327937,
+      "character": "Elderly Vietnamese Refugee",
+      "order": 8
+    },
+    {
+      "personId": 2327938,
+      "character": "Japanese Language Teacher",
+      "order": 9
+    },
+    {
+      "personId": 1643538,
+      "character": "Human Trafficker",
+      "order": 10
+    },
+    {
+      "personId": 1515698,
+      "character": "Migual",
+      "order": 11
+    },
+    {
+      "personId": 1608777,
+      "character": "Gigi",
+      "order": 12
+    },
+    {
+      "personId": 1511888,
+      "character": "Mamasan",
+      "order": 13
+    },
+    {
+      "personId": 1527907,
+      "character": "Transvestite",
+      "order": 14
+    },
+    {
+      "personId": 1514106,
+      "character": "Dwarf",
+      "order": 15
+    },
+    {
+      "personId": 2121163,
+      "character": "Hostage",
+      "order": 16
+    },
+    {
+      "personId": 2121160,
+      "character": "Ricardo",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 14,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

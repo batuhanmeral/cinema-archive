@@ -1,0 +1,178 @@
+{
+  "tmdbId": 37943,
+  "slug": "eureka-1983",
+  "year": 1983,
+  "runtime": 130,
+  "originalTitle": "Eureka",
+  "title": {
+    "en": "Eureka",
+    "tr": "Eureka"
+  },
+  "overview": {
+    "en": "After striking it rich on a large gold strike, a prospector retires to the quiet life on a Caribbean island but ends up coping with an alcoholic wife, a headstrong daughter, and Miami mobsters who want to build a casino.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/fkeXtf4ePBRvrAAtOeytNwsUHxn.jpg",
+    "en": "/fkeXtf4ePBRvrAAtOeytNwsUHxn.jpg"
+  },
+  "backdrops": [
+    "/xsZpB16yOEMyZuBqgRdqhbedfvt.jpg",
+    "/r0uTaPFFovun07FDdhbpcos4gVa.jpg",
+    "/1PBsUci18LnMNGtrPgTiRjc0HoB.jpg",
+    "/wTTPRhLoASaYQEUjXH9bvYl3I0q.jpg",
+    "/tqfoWYricHW1OY8n66zsx3UfzSr.jpg",
+    "/yIf5bambPEUtqaZsiXlxHGyJCXa.jpg"
+  ],
+  "trailerKey": "2osPsBXyoNM",
+  "genreIds": [
+    18,
+    53
+  ],
+  "keywordIds": [
+    2041,
+    5332,
+    10329
+  ],
+  "countries": [
+    "GB",
+    "US"
+  ],
+  "languages": [
+    "en"
+  ],
+  "studios": [
+    "Sunley Productions Ltd.",
+    "JF Productions",
+    "Recorded Picture Company"
+  ],
+  "crew": [
+    {
+      "personId": 14894,
+      "job": "writer"
+    },
+    {
+      "personId": 14132,
+      "job": "director"
+    },
+    {
+      "personId": 3056,
+      "job": "producer"
+    },
+    {
+      "personId": 21516,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 40150,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 193,
+      "character": "Jack McCann",
+      "order": 0
+    },
+    {
+      "personId": 9207,
+      "character": "Tracy",
+      "order": 1
+    },
+    {
+      "personId": 585,
+      "character": "Claude Maillot Van Horn",
+      "order": 2
+    },
+    {
+      "personId": 18021,
+      "character": "Helen McCann",
+      "order": 3
+    },
+    {
+      "personId": 2295,
+      "character": "Aurelio D'Amato",
+      "order": 4
+    },
+    {
+      "personId": 21523,
+      "character": "Charles Perkins",
+      "order": 5
+    },
+    {
+      "personId": 4517,
+      "character": "Mayakofsky",
+      "order": 6
+    },
+    {
+      "personId": 42155,
+      "character": "Frieda",
+      "order": 7
+    },
+    {
+      "personId": 1213726,
+      "character": "Pierre de Valois",
+      "order": 8
+    },
+    {
+      "personId": 13328,
+      "character": "Worsley",
+      "order": 9
+    },
+    {
+      "personId": 16525,
+      "character": "Pete",
+      "order": 10
+    },
+    {
+      "personId": 101615,
+      "character": "Stefano",
+      "order": 11
+    },
+    {
+      "personId": 192663,
+      "character": "Byron Judson",
+      "order": 12
+    },
+    {
+      "personId": 202466,
+      "character": "Judge",
+      "order": 13
+    },
+    {
+      "personId": 9140,
+      "character": "Roger",
+      "order": 14
+    },
+    {
+      "personId": 25054,
+      "character": "Police Chief",
+      "order": 15
+    },
+    {
+      "personId": 25386,
+      "character": "Joey",
+      "order": 16
+    },
+    {
+      "personId": 2345302,
+      "character": "Joe",
+      "order": 17
+    },
+    {
+      "personId": 1597388,
+      "character": "Jane",
+      "order": 18
+    },
+    {
+      "personId": 1232128,
+      "character": "Mary",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 85,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

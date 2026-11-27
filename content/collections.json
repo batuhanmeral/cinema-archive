@@ -6,7 +6,11 @@
       "en": "Silent Cinema Masterpieces"
     },
     "rule": {
-      "wikidataGenres": ["Q226730"]
+      "wikidataGenres": ["Q226730"],
+      "years": {
+        "start": 1890,
+        "end": 1936
+      }
     }
   },
   {
@@ -105,7 +109,8 @@
       "en": "Giallo"
     },
     "rule": {
-      "wikipediaCategories": ["Giallo films"]
+      "wikipediaCategories": ["Giallo films"],
+      "excludeTmdbIds": [5155]
     }
   },
   {

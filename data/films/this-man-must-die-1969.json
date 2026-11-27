@@ -1,0 +1,186 @@
+{
+  "tmdbId": 2527,
+  "slug": "this-man-must-die-1969",
+  "year": 1969,
+  "runtime": 113,
+  "originalTitle": "Que la bête meure",
+  "title": {
+    "en": "This Man Must Die",
+    "tr": "Que la bête meure"
+  },
+  "overview": {
+    "en": "When his young son is killed in a hit and run accident, Charles Thenier resolves to hunt down and murder the killer. By chance, Thenier makes the acquaintance of an actress, Helène Lanson, who was in the car at the time of the accident. He then meets Helène’s brother-in-law, Paul Decourt, a truly horrible individual.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/4QEL8tsDBZkBq54AzpTyFE4yY50.jpg",
+    "en": "/4DDKrw026807hroHDRLJMir8uje.jpg"
+  },
+  "backdrops": [
+    "/k8kmXHCPMyVgissCRf7iPOqlH3b.jpg",
+    "/iG8Jzwoefh7nM11R2JkDVojUU3f.jpg",
+    "/vc9Bx0Wp7GPV6mlBdKyjjwZxZQ.jpg",
+    "/z7KHX2i2Xbjj7AvjzrwSZIvgmwu.jpg",
+    "/p5iunm7nC06KjmGdnRxadCIhjzi.jpg",
+    "/LPoPxuz7NsBdOQHfRB8pd1xEBc.jpg",
+    "/jYNOwdyqyG2DNEvuZMgxXPHCpEh.jpg",
+    "/wNcBPN3AisHpJS4IVIW6bpu7xNg.jpg",
+    "/f2vDQscGnXxJPeej6p905Kyg2V9.jpg",
+    "/u6C7i60WkCaNNPjuj87E7QDsB7j.jpg"
+  ],
+  "trailerKey": "ImsAaCwoG0g",
+  "genreIds": [
+    53,
+    18,
+    80
+  ],
+  "keywordIds": [
+    544,
+    966,
+    2123,
+    697,
+    2299,
+    3344,
+    6440,
+    10041,
+    9748,
+    12565,
+    39737,
+    155845,
+    155963,
+    159138,
+    163975,
+    212643,
+    226581,
+    370275,
+    370276
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Les Films La Boétie",
+    "Rizzoli Film"
+  ],
+  "crew": [
+    {
+      "personId": 19069,
+      "job": "director"
+    },
+    {
+      "personId": 19069,
+      "job": "writer"
+    },
+    {
+      "personId": 19084,
+      "job": "writer"
+    },
+    {
+      "personId": 18237,
+      "job": "producer"
+    },
+    {
+      "personId": 19085,
+      "job": "composer"
+    },
+    {
+      "personId": 19086,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 13697,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 19062,
+      "character": "Charles Thenier",
+      "order": 0
+    },
+    {
+      "personId": 25838,
+      "character": "Helene Lanson",
+      "order": 1
+    },
+    {
+      "personId": 24381,
+      "character": "Paul Decourt",
+      "order": 2
+    },
+    {
+      "personId": 25841,
+      "character": "Philippe Decourt",
+      "order": 3
+    },
+    {
+      "personId": 25839,
+      "character": "Jeanne Decourt",
+      "order": 4
+    },
+    {
+      "personId": 25842,
+      "character": "Madame Levenes",
+      "order": 5
+    },
+    {
+      "personId": 25844,
+      "character": "Jacques Ferrand",
+      "order": 6
+    },
+    {
+      "personId": 25845,
+      "character": "Anna Ferrand",
+      "order": 7
+    },
+    {
+      "personId": 25847,
+      "character": "Michel Thenier",
+      "order": 8
+    },
+    {
+      "personId": 13697,
+      "character": "Le premier inspecteur",
+      "order": 9
+    },
+    {
+      "personId": 140366,
+      "character": "La mère de Paul",
+      "order": 10
+    },
+    {
+      "personId": 104101,
+      "character": "Le ferrailleur",
+      "order": 11
+    },
+    {
+      "personId": 104261,
+      "character": "Le policier",
+      "order": 12
+    },
+    {
+      "personId": 1337630,
+      "character": "Le fils du paysan",
+      "order": 13
+    },
+    {
+      "personId": 16988,
+      "character": "Inspecteur Constant",
+      "order": 14
+    },
+    {
+      "personId": 39523,
+      "character": "Le paysan",
+      "order": 15
+    }
+  ],
+  "awards": {},
+  "voteCount": 203,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

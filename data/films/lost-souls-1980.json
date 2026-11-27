@@ -1,0 +1,172 @@
+{
+  "tmdbId": 140985,
+  "slug": "lost-souls-1980",
+  "year": 1980,
+  "runtime": 90,
+  "originalTitle": "打蛇",
+  "title": {
+    "en": "Lost Souls",
+    "tr": "Lost Souls"
+  },
+  "overview": {
+    "en": "Determined to escape from the harsh regime of China to the freedom of Hong Kong, three youths are captured by Mr. Hok, a sadistic human smuggler who subjects them to an unrelenting assault of degradation. Pushed to the limits of human endurance, the prisoners must fight for their lives in an unforgettable, action-packed climax.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/maJpGhcNbHGTlFe1FCay1Xf7ApI.jpg",
+    "en": "/maJpGhcNbHGTlFe1FCay1Xf7ApI.jpg"
+  },
+  "backdrops": [
+    "/xvaE3QZKfOXNi1VoWT97Xe9F0Ow.jpg",
+    "/aMQXwVhrg4PcoUNqlUsaZoUTls7.jpg"
+  ],
+  "trailerKey": "70cH9Gc-gko",
+  "genreIds": [
+    53,
+    27
+  ],
+  "keywordIds": [
+    4424,
+    5424,
+    9627,
+    13006
+  ],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn"
+  ],
+  "studios": [
+    "Shaw Brothers"
+  ],
+  "crew": [
+    {
+      "personId": 96550,
+      "job": "producer"
+    },
+    {
+      "personId": 1114019,
+      "job": "writer"
+    },
+    {
+      "personId": 1669066,
+      "job": "director"
+    },
+    {
+      "personId": 1103700,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1505980,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1579158,
+      "character": "Ah Chun",
+      "order": 0
+    },
+    {
+      "personId": 1521649,
+      "character": "",
+      "order": 1
+    },
+    {
+      "personId": 1042681,
+      "character": "Hok",
+      "order": 2
+    },
+    {
+      "personId": 1579160,
+      "character": "",
+      "order": 3
+    },
+    {
+      "personId": 1424105,
+      "character": "Refugee",
+      "order": 4
+    },
+    {
+      "personId": 1163378,
+      "character": "Shark, Hok's Thug",
+      "order": 5
+    },
+    {
+      "personId": 1135161,
+      "character": "Hok's Thug",
+      "order": 6
+    },
+    {
+      "personId": 1135165,
+      "character": "Long-Toe",
+      "order": 7
+    },
+    {
+      "personId": 1574329,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1359191,
+      "character": "Hok's Thug",
+      "order": 9
+    },
+    {
+      "personId": 1178707,
+      "character": "Refugee's relative",
+      "order": 10
+    },
+    {
+      "personId": 1134505,
+      "character": "Villager",
+      "order": 11
+    },
+    {
+      "personId": 1114031,
+      "character": "Poison Snake",
+      "order": 12
+    },
+    {
+      "personId": 3869294,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 994384,
+      "character": "Sergeant",
+      "order": 14
+    },
+    {
+      "personId": 1114022,
+      "character": "Refugee",
+      "order": 15
+    },
+    {
+      "personId": 1140990,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 1178947,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1576152,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 4497760,
+      "character": "Refugee",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 18,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}
