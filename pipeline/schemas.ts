@@ -29,7 +29,7 @@ export const matchFixesFileSchema = z.array(matchFixSchema)
 export const lockEntrySchema = z.object({
   tmdbId: idSchema,
   slug: z.string().regex(SLUG_PATTERN),
-  sources: z.array(z.string()).min(1),
+  sources: z.array(z.string()),
   addedAt: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
 })
 export type LockEntry = z.infer<typeof lockEntrySchema>
@@ -97,6 +97,12 @@ const countriesSchema = z.array(z.string().regex(/^[A-Z]{2}$/)).min(1)
 const uniqueSlugs = (entries: { slug: string }[]) =>
   new Set(entries.map((entry) => entry.slug)).size === entries.length
 
+// Kürasyon listesi: makalede ya da kategoride geçip gruba ait olmayan filmler.
+const excludeTmdbIdsSchema = z
+  .array(idSchema)
+  .refine((ids) => new Set(ids).size === ids.length, 'ids must be unique')
+  .optional()
+
 export const movementContentSchema = z.object({
   slug: slugSchema,
   name: localizedSchema,
@@ -104,10 +110,7 @@ export const movementContentSchema = z.object({
   countries: countriesSchema,
   wikipedia: z.object({ article: z.string().min(1), categories: z.array(z.string()) }),
   pioneerIds: z.array(idSchema),
-  excludeTmdbIds: z
-    .array(idSchema)
-    .refine((ids) => new Set(ids).size === ids.length, 'ids must be unique')
-    .optional(),
+  excludeTmdbIds: excludeTmdbIdsSchema,
 })
 export type MovementContent = z.infer<typeof movementContentSchema>
 export const movementContentFileSchema = z
@@ -141,6 +144,7 @@ export const collectionRuleSchema = z
     countries: countriesSchema.optional(),
     years: z.object({ start: z.number(), end: z.number() }).optional(),
     sources: z.array(z.string()).min(1).optional(),
+    excludeTmdbIds: excludeTmdbIdsSchema,
   })
   .refine(
     (rule) =>

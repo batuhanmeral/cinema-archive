@@ -2,6 +2,7 @@ import { describe, expect, it } from 'vitest'
 import {
   collectionRuleSchema,
   importReportSchema,
+  lockEntrySchema,
   matchFixSchema,
   movementContentFileSchema,
 } from './schemas'
@@ -22,6 +23,13 @@ describe('matchFixSchema', () => {
   })
 })
 
+describe('lockEntrySchema', () => {
+  it('accepts a locked film with no live source', () => {
+    const entry = { tmdbId: 1398, slug: 'stalker-1979', sources: [], addedAt: '2026-10-30' }
+    expect(lockEntrySchema.parse(entry)).toEqual(entry)
+  })
+})
+
 describe('collectionRuleSchema', () => {
   it('rejects a rule with only a year range', () => {
     expect(collectionRuleSchema.safeParse({ years: { start: 1930, end: 1960 } }).success).toBe(
@@ -32,6 +40,19 @@ describe('collectionRuleSchema', () => {
   it('accepts a membership field with a year range', () => {
     const rule = { countries: ['US'], years: { start: 1930, end: 1960 } }
     expect(collectionRuleSchema.safeParse(rule).success).toBe(true)
+  })
+})
+
+describe('collectionRuleSchema excludeTmdbIds', () => {
+  it('accepts unique ids next to a membership field', () => {
+    const rule = { wikipediaCategories: ['Giallo films'], excludeTmdbIds: [1, 2] }
+    expect(collectionRuleSchema.parse(rule)).toEqual(rule)
+  })
+
+  it('rejects repeated ids and a rule with only exclusions', () => {
+    const repeated = { countries: ['IT'], excludeTmdbIds: [1, 1] }
+    expect(collectionRuleSchema.safeParse(repeated).success).toBe(false)
+    expect(collectionRuleSchema.safeParse({ excludeTmdbIds: [1] }).success).toBe(false)
   })
 })
 

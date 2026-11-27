@@ -1,0 +1,169 @@
+{
+  "tmdbId": 189525,
+  "slug": "the-devil-s-wheel-1926",
+  "year": 1926,
+  "runtime": 40,
+  "originalTitle": "Чёртово колесо",
+  "title": {
+    "en": "The Devil's Wheel",
+    "tr": "The Devil's Wheel"
+  },
+  "overview": {
+    "en": "Young Soviet navy sailor Vanya Shorin misses his ship after meeting a girl at a funfair. They ride a carnival attraction called The Devil's Wheel, which triggers a series of events pulling the sailor into a dangerous criminal underworld before he finds the courage to return to his comrades.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/6dsHIj6On95wd1sFaualmvBPwnJ.jpg",
+    "en": "/6dsHIj6On95wd1sFaualmvBPwnJ.jpg"
+  },
+  "backdrops": [
+    "/m68LN6kB5jlRwUVO2QCcTonFKBh.jpg",
+    "/bmITBKH5n5B9gtC6m44ESvWbYTO.jpg",
+    "/jiRWHeajvbeNqCJ1tTgIXZQpnYZ.jpg",
+    "/3g2q2r0b01ttV4iB1ZC2ZouJ5H2.jpg",
+    "/5b3PJNsfBOBO0v5K67CBvDVgEin.jpg",
+    "/caQX2L9S9jZlFHbQjwN25r0WPkb.jpg",
+    "/bu8UhJYMomSizdzqWU8O7frZTXd.jpg",
+    "/ue5hHuI7OOH9i1RIegJ1qXxPCwg.jpg",
+    "/lVCHphEIKST3e4GncQzJwSDyOTl.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    224427
+  ],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Lenfilm"
+  ],
+  "crew": [
+    {
+      "personId": 1037667,
+      "job": "director"
+    },
+    {
+      "personId": 562326,
+      "job": "director"
+    },
+    {
+      "personId": 1555718,
+      "job": "writer"
+    },
+    {
+      "personId": 1391349,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1337144,
+      "character": "Vanya Shorin, Red fleet sailor",
+      "order": 0
+    },
+    {
+      "personId": 1387663,
+      "character": "Valya",
+      "order": 1
+    },
+    {
+      "personId": 624719,
+      "character": "The Question Man",
+      "order": 2
+    },
+    {
+      "personId": 1540569,
+      "character": "Koko, vaudeville performer",
+      "order": 3
+    },
+    {
+      "personId": 2137836,
+      "character": "Tavern Owner",
+      "order": 4
+    },
+    {
+      "personId": 5510668,
+      "character": "House manager",
+      "order": 5
+    },
+    {
+      "personId": 5519860,
+      "character": "Cafe dancer",
+      "order": 6
+    },
+    {
+      "personId": 86841,
+      "character": "Orchestra conductor",
+      "order": 7
+    },
+    {
+      "personId": 4213816,
+      "character": "Hooligan",
+      "order": 8
+    },
+    {
+      "personId": 5573143,
+      "character": "Hooligan",
+      "order": 9
+    },
+    {
+      "personId": 128297,
+      "character": "Hooligan girl",
+      "order": 10
+    },
+    {
+      "personId": 5573145,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 5508449,
+      "character": "Salvation army member",
+      "order": 12
+    },
+    {
+      "personId": 1870853,
+      "character": "Editor",
+      "order": 13
+    },
+    {
+      "personId": 1601623,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 549131,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 1869238,
+      "character": "Drummer",
+      "order": 16
+    },
+    {
+      "personId": 3015456,
+      "character": "(uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 2063156,
+      "character": "Sailor (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2137839,
+      "character": "(uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 9,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

@@ -21,6 +21,8 @@ describe('filmSchema', () => {
     expect(filmSchema.parse(makeFilm({ trailerKey: 'JCuwthn-R_g' })).trailerKey).toBe('JCuwthn-R_g')
     expect(filmSchema.parse(makeFilm({ trailerKey: null })).trailerKey).toBeNull()
   })
+  it('accepts a film that left every source list', () =>
+    expect(filmSchema.parse(makeFilm({ sources: [] })).sources).toEqual([]))
 })
 
 describe('movementSchema', () => {

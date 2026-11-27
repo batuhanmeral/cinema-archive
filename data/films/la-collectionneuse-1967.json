@@ -1,0 +1,186 @@
+{
+  "tmdbId": 4837,
+  "slug": "la-collectionneuse-1967",
+  "year": 1967,
+  "runtime": 86,
+  "originalTitle": "La Collectionneuse",
+  "title": {
+    "en": "La Collectionneuse",
+    "tr": "Koleksiyoncu Kadın"
+  },
+  "overview": {
+    "en": "Bombastic, womanising art dealer Adrien and his painter friend Daniel go on holiday at a 17th-century villa on the Riviera. But their idyll is disturbed by the presence of the bohemian Haydée, accused of being a 'collector' of men.",
+    "tr": "Adrien, nişanlısı Londra’ya gidince St. Tropez’de sakin bir tatil geçirmeye karar verir. Dinlenmek için gittiği evde, sanatçı dostu Daniel ve her gece gönül eğlendiren, erkek koleksiyoncusu Haydée onun tüm planlarının şaşmasına sebep olur."
+  },
+  "poster": {
+    "tr": "/rMVluFrpfeCtcCUtDkjklbBirry.jpg",
+    "en": "/rMVluFrpfeCtcCUtDkjklbBirry.jpg"
+  },
+  "backdrops": [
+    "/geh2f8hCLap7kzH1VGiTlOwP9ap.jpg",
+    "/lEamKAOMyENqc97bEuwLFMvie8x.jpg",
+    "/gaWoG8TxV4kdn087Bi3vH9eOfXa.jpg",
+    "/phj2M9oXXhwRyx1umJQlAWxnGdC.jpg",
+    "/hUajmQsnSfL9zk93Ll3dyi0XExA.jpg",
+    "/4bkIdW5rMMNEDz9MSWDdwwc4bDz.jpg",
+    "/puPry9nuzouVIKnpOvDr6OZnVOG.jpg",
+    "/46oM0He7QuraoA2BnkUeapD7h8l.jpg",
+    "/trmzYkGhcY4VMGop2zaYPu8YBsT.jpg",
+    "/j1LLSRDam7ipyYuVYYLgt7PGatU.jpg"
+  ],
+  "trailerKey": "dBK-cedrRt8",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    885,
+    5490,
+    155262,
+    164698,
+    197505,
+    213450,
+    279730,
+    284235,
+    305499,
+    337727
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "studios": [
+    "Rome-Paris Films",
+    "Les Films du Losange"
+  ],
+  "crew": [
+    {
+      "personId": 28615,
+      "job": "director"
+    },
+    {
+      "personId": 3569,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3779,
+      "job": "producer"
+    },
+    {
+      "personId": 1620068,
+      "job": "composer"
+    },
+    {
+      "personId": 1620069,
+      "job": "composer"
+    },
+    {
+      "personId": 28615,
+      "job": "writer"
+    },
+    {
+      "personId": 23393,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 5274,
+      "character": "Adrien",
+      "order": 0
+    },
+    {
+      "personId": 39672,
+      "character": "Haydée",
+      "order": 1
+    },
+    {
+      "personId": 39673,
+      "character": "Daniel",
+      "order": 2
+    },
+    {
+      "personId": 39674,
+      "character": "Writer",
+      "order": 3
+    },
+    {
+      "personId": 39675,
+      "character": "Carole",
+      "order": 4
+    },
+    {
+      "personId": 39676,
+      "character": "Carole's Friend",
+      "order": 5
+    },
+    {
+      "personId": 39677,
+      "character": "Charlie",
+      "order": 6
+    },
+    {
+      "personId": 1372849,
+      "character": "Sam",
+      "order": 7
+    },
+    {
+      "personId": 3569,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1372854,
+      "character": "Man in the Car",
+      "order": 9
+    },
+    {
+      "personId": 1372855,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 1372857,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1160008,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 2193699,
+      "character": "Sam (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 2945955,
+      "character": "Haydée's Boyfriend (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 1385637,
+      "character": "Man in the Car (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 95462,
+      "character": "Boy in St-Tropez (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 1620067,
+      "character": "Lost Tourist (uncredited)",
+      "order": 17
+    }
+  ],
+  "awards": {},
+  "voteCount": 280,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

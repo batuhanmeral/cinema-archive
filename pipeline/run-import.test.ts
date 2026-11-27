@@ -241,7 +241,8 @@ describe('runImport', () => {
     expect(out.films).toEqual([])
     expect(out.people).toEqual([])
     expect(out.keywords).toEqual([])
-    expect(out.lock.films).toEqual(lockedStalker.films)
+    // Slug rezervde kalır; yayınlanmayan filmin canlı kaynağı yoktur.
+    expect(out.lock.films).toEqual([{ ...lockedStalker.films[0], sources: [] }])
     expect(out.report.adultExcluded).toHaveLength(1)
     expect(out.report.missingFromSources).toEqual([])
     expect(out.report.counts).toMatchObject({ films: 0, adultExcluded: 1, missingFromSources: 0 })
@@ -257,7 +258,8 @@ describe('runImport', () => {
     const out = await runImport(deps)
     expect(out.films).toEqual([])
     expect(out.people).toEqual([])
-    expect(out.lock.films).toEqual(lockedStalker.films)
+    // Slug rezervde kalır; yayınlanmayan filmin canlı kaynağı yoktur.
+    expect(out.lock.films).toEqual([{ ...lockedStalker.films[0], sources: [] }])
     expect(out.report.adultExcluded).toEqual([
       { wikiTitle: 'Stalker', tmdbId: 1398, title: 'Stalker' },
     ])
@@ -712,6 +714,80 @@ describe('runImport movements, yesilcam and collections', () => {
     const next = await runImport({ ...deps, prevLock: out.lock, prevMovements: out.movements })
     expect(next.movements).toEqual(out.movements)
     expect(next.report.groups.movements[0]).toMatchObject({ added: [], removed: [] })
+  })
+
+  it('drops the sources a film lost: a left movement and a removed Yeşilçam row', async () => {
+    const susuzYaz = movie(800, {
+      title: 'Dry Summer',
+      original_title: 'Susuz Yaz',
+      release_date: '1963-01-01',
+      production_countries: [{ iso_3166_1: 'TR' }],
+    })
+    const deps = fakeDeps({
+      ...wiki(soviet),
+      ...moviesById(stalker, mirror, susuzYaz),
+      movements: [movement()],
+      categoryMembers: async () => ['Stalker (1979 film)'],
+      collections: [collection('yesilcam-classics', { sources: ['yesilcam'] })],
+      prevLock: {
+        version: 1,
+        films: [
+          {
+            tmdbId: 500,
+            slug: 'mirror-1975',
+            sources: ['movement:soviet-cinema'],
+            addedAt: '2026-11-01',
+          },
+          { tmdbId: 800, slug: 'dry-summer-1963', sources: ['yesilcam'], addedAt: '2026-11-01' },
+          {
+            tmdbId: 1398,
+            slug: 'stalker-1979',
+            sources: ['cult-list', 'movement:soviet-cinema'],
+            addedAt: '2026-11-01',
+          },
+        ],
+      },
+      prevCollections: [
+        {
+          slug: 'yesilcam-classics',
+          name: { tr: 'yesilcam-classics', en: 'yesilcam-classics' },
+          filmIds: [800],
+        },
+      ],
+    })
+    const out = await runImport(deps)
+    expect(out.lock.films).toEqual([
+      { tmdbId: 500, slug: 'mirror-1975', sources: [], addedAt: '2026-11-01' },
+      { tmdbId: 800, slug: 'dry-summer-1963', sources: [], addedAt: '2026-11-01' },
+      {
+        tmdbId: 1398,
+        slug: 'stalker-1979',
+        sources: ['cult-list', 'movement:soviet-cinema'],
+        addedAt: '2026-11-01',
+      },
+    ])
+    expect(out.films.map((f) => [f.slug, f.sources])).toEqual([
+      ['dry-summer-1963', []],
+      ['mirror-1975', []],
+      ['stalker-1979', ['cult-list', 'movement:soviet-cinema']],
+    ])
+    expect(out.collections).toEqual([])
+    expect(out.report.groups.collections).toEqual([
+      { slug: 'yesilcam-classics', films: 0, candidates: 0, added: [], removed: [800] },
+    ])
+    expect(out.report.missingFromSources).toEqual([
+      { tmdbId: 500, slug: 'mirror-1975' },
+      { tmdbId: 800, slug: 'dry-summer-1963' },
+    ])
+
+    const next = await runImport({
+      ...deps,
+      prevLock: out.lock,
+      prevMovements: out.movements,
+      prevCollections: out.collections,
+    })
+    expect(next.lock).toEqual(out.lock)
+    expect(next.films).toEqual(out.films)
   })
 
   it('throws when a pioneer directs none of the movement films', async () => {

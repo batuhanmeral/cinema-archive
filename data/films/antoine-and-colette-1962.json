@@ -1,0 +1,119 @@
+{
+  "tmdbId": 256,
+  "slug": "antoine-and-colette-1962",
+  "year": 1962,
+  "runtime": 31,
+  "originalTitle": "Antoine et Colette",
+  "title": {
+    "en": "Antoine and Colette",
+    "tr": "Antoine ve Colette"
+  },
+  "overview": {
+    "en": "After indulging in much delinquency in his youth, seventeen-year-old Antoine Doinel is now an upstanding member of society working for Philips Records, which allows him to indulge in his love of music. At the Youth Concerts, he has noticed the same young woman at several performances. She is Colette, and the two begin to date. Colette treats Antoine like a buddy, while Antoine has fallen in love with her.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/nfP8J7pv75KOAliIM3RG7h6Zos5.jpg",
+    "en": "/wFV7tySkawvC9kBwAEuLgsmHB0i.jpg"
+  },
+  "backdrops": [
+    "/ymtwNtiuZwbYa1Vetp68VOGgrw3.jpg",
+    "/8fszkK8uXTGKmUaUjMk5zcT4K2G.jpg",
+    "/ejN6KqMbu55NWDiG1n4V5Udp9mQ.jpg",
+    "/3NhOxYSzvjzqaM06abxm5OBHrw3.jpg",
+    "/2LzTkfT7OywPIJCqTCHOoV5uObz.jpg",
+    "/xQFOLo4DicnCHXaC0TJnBgXmYS6.jpg",
+    "/3QZRMLo7xD9M3Db0saf38Znv22P.jpg",
+    "/zGc04RSWAnteb5XGT4p2frGKROt.jpg",
+    "/oXmuRC3Hp2nqSkKwCgHn9AD7d16.jpg",
+    "/AsysyVJPKSQlvUSelOIcGnmxgAh.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    10749,
+    18,
+    35
+  ],
+  "keywordIds": [
+    30,
+    704,
+    6029,
+    725,
+    90,
+    970,
+    263548
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Les Films du Carrosse"
+  ],
+  "crew": [
+    {
+      "personId": 3540,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3539,
+      "job": "producer"
+    },
+    {
+      "personId": 1650,
+      "job": "director"
+    },
+    {
+      "personId": 3535,
+      "job": "composer"
+    },
+    {
+      "personId": 1650,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1653,
+      "character": "Antoine Doinel",
+      "order": 0
+    },
+    {
+      "personId": 3536,
+      "character": "Colette",
+      "order": 1
+    },
+    {
+      "personId": 3537,
+      "character": "La mère de Colette",
+      "order": 2
+    },
+    {
+      "personId": 3518,
+      "character": "Le beau-père de Colette",
+      "order": 3
+    },
+    {
+      "personId": 1659,
+      "character": "René Bigey",
+      "order": 4
+    },
+    {
+      "personId": 3538,
+      "character": "Albert Tazzi",
+      "order": 5
+    },
+    {
+      "personId": 1003228,
+      "character": "Pierre Schaeffer",
+      "order": 6
+    }
+  ],
+  "awards": {},
+  "voteCount": 294,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

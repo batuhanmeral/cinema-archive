@@ -10,17 +10,22 @@ export function updateLock(
   matched: MatchedFilm[],
   today: string,
 ): { lock: LockFile; added: LockEntry[]; missingFromSources: LockEntry[] } {
-  const entries = new Map((prev?.films ?? []).map((entry) => [entry.tmdbId, entry]))
-  const taken = new Set([...entries.values()].map((entry) => entry.slug))
   const matchedIds = new Set(matched.map((film) => film.tmdbId))
+  // Kaynaklar bu koşunun durumudur; listeden düşen film slug'ını korur ama kaynağı boşalır.
+  const entries = new Map(
+    (prev?.films ?? []).map((entry) => [
+      entry.tmdbId,
+      matchedIds.has(entry.tmdbId) ? entry : { ...entry, sources: [] },
+    ]),
+  )
+  const taken = new Set([...entries.values()].map((entry) => entry.slug))
   const added: LockEntry[] = []
 
   // tmdbId sırası, çakışan slug'ların her çalıştırmada aynı çözülmesini sağlar.
   for (const film of [...matched].sort(byTmdbId)) {
     const existing = entries.get(film.tmdbId)
     if (existing) {
-      const sources = [...new Set([...existing.sources, ...film.sources])]
-      entries.set(film.tmdbId, { ...existing, sources })
+      entries.set(film.tmdbId, { ...existing, sources: film.sources })
       continue
     }
     const slug = assignFilmSlug(film, taken)
@@ -31,7 +36,9 @@ export function updateLock(
   }
 
   // Listeden düşen film kilitte kalır; URL'ler sessizce kaybolmasın diye yalnızca raporlanır.
-  const missingFromSources = (prev?.films ?? []).filter((entry) => !matchedIds.has(entry.tmdbId))
+  const missingFromSources = [...entries.values()]
+    .filter((entry) => !matchedIds.has(entry.tmdbId))
+    .sort(byTmdbId)
   return {
     lock: { version: 1, films: [...entries.values()].sort(byTmdbId) },
     added,

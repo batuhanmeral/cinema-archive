@@ -1,0 +1,184 @@
+{
+  "tmdbId": 4710,
+  "slug": "masculin-feminin-1966",
+  "year": 1966,
+  "runtime": 105,
+  "originalTitle": "Masculin féminin",
+  "title": {
+    "en": "Masculin Féminin",
+    "tr": "Erkek, Dişi"
+  },
+  "overview": {
+    "en": "Paul, a young idealist trying to figure out what he wants to do with his life, takes a job interviewing people for a marketing research firm. He moves in with aspiring pop singer Madeleine. Paul, however, is disillusioned by the growing commercialism in society, while Madeleine just wants to be successful. The story is told in a series of 15 unrelated vignettes.",
+    "tr": "Genç Paul, ordudan yeni terhis olmuştur ve sivil hayata alışmakta zorlanır. Paul’ün kız arkadaşı kendisine bir pop şarkıcısı olarak kariyer inşa ederken, o hızla değişen kültüre ayak uyduramaz. Hem sosyal hem de siyasi açıdan kendini yabancı hisseder."
+  },
+  "poster": {
+    "tr": "/AroNQnZiqjJOWf32lLNZUzWlGvd.jpg",
+    "en": "/q3DOYFQTNTImKsJ0GwJ70GuEAbE.jpg"
+  },
+  "backdrops": [
+    "/sHzIdzSJbmkIV5mym4kUVTY54oy.jpg",
+    "/yoj0ODApdk55gB9DHhAE4Uf3IhW.jpg",
+    "/sMZPK47vaeG5DTOD7Dkyu6k3lFJ.jpg",
+    "/vTBCkQgplG4lDhLw5GdVoJPIPCT.jpg",
+    "/kod3YTg6hfMBAIkrTWoGNpcVYFK.jpg",
+    "/jr24v6KpCcbFlsi1QhNBy5j31u7.jpg",
+    "/zS0TlUpW6z6RMCYzqUDymR5QFrT.jpg",
+    "/ulvUswNs7HRTZbeQffIk0M5kAgs.jpg",
+    "/83AMHdZU71x7U4aZ7QFGBRtdyxo.jpg",
+    "/1yxWA8UnV8Uruvns2mYbcu14QbB.jpg"
+  ],
+  "trailerKey": "53KROTcwf-Y",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    236,
+    90,
+    5246,
+    6078,
+    1740,
+    3190,
+    4434,
+    4620,
+    10228,
+    10229,
+    9826,
+    163059,
+    165431,
+    201069
+  ],
+  "countries": [
+    "FR",
+    "SE"
+  ],
+  "languages": [
+    "en",
+    "fr",
+    "sv"
+  ],
+  "studios": [
+    "SF Studios",
+    "Sandrews",
+    "Anouchka Films"
+  ],
+  "crew": [
+    {
+      "personId": 3776,
+      "job": "director"
+    },
+    {
+      "personId": 39069,
+      "job": "composer"
+    },
+    {
+      "personId": 3776,
+      "job": "writer"
+    },
+    {
+      "personId": 38168,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 3776,
+      "job": "producer"
+    },
+    {
+      "personId": 2304,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1653,
+      "character": "Paul",
+      "order": 0
+    },
+    {
+      "personId": 24801,
+      "character": "Madeleine Zimmer",
+      "order": 1
+    },
+    {
+      "personId": 35000,
+      "character": "Élisabeth Choquet",
+      "order": 2
+    },
+    {
+      "personId": 39067,
+      "character": "Robert Packard",
+      "order": 3
+    },
+    {
+      "personId": 39068,
+      "character": "Catherine-Isabelle",
+      "order": 4
+    },
+    {
+      "personId": 1170554,
+      "character": "She (Woman in the Film)",
+      "order": 5
+    },
+    {
+      "personId": 69656,
+      "character": "He (Man in the Film)",
+      "order": 6
+    },
+    {
+      "personId": 25048,
+      "character": "Man Who Kills Himself (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 23480,
+      "character": "The Other Porn Book Reader (uncredited)",
+      "order": 8
+    },
+    {
+      "personId": 2871552,
+      "character": "Record Producer (uncredited)",
+      "order": 9
+    },
+    {
+      "personId": 3783,
+      "character": "Brigitte Bardot (uncredited)",
+      "order": 10
+    },
+    {
+      "personId": 7566,
+      "character": "Brigitte Bardot's Director (uncredited)",
+      "order": 11
+    },
+    {
+      "personId": 295250,
+      "character": "Woman in the Subway (uncredited)",
+      "order": 12
+    },
+    {
+      "personId": 36481,
+      "character": "American Officer's Wife (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 586258,
+      "character": "Man in the Subway (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 4150683,
+      "character": "Miss 19 Years Old (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 13697,
+      "character": "The Porn Book Reader (uncredited)",
+      "order": 16
+    }
+  ],
+  "awards": {},
+  "voteCount": 441,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "tmdbId": 157229,
+  "slug": "nomad-1982",
+  "year": 1982,
+  "runtime": 96,
+  "originalTitle": "烈火青春",
+  "title": {
+    "en": "Nomad",
+    "tr": "Nomad"
+  },
+  "overview": {
+    "en": "Four carefree lovers in Hong Kong enjoy their youth while danger looms on the edges.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/9MwMrbjrTyhlhwYLii3BuKxkxJ4.jpg",
+    "en": "/czTwU2C2vcnzR4VWrli8UGRetF0.jpg"
+  },
+  "backdrops": [
+    "/fX1BZ5UOYk6MYiFYHSCmvFAoASh.jpg",
+    "/rV2UAXrD19fNsd74g2sB3dT67Fh.jpg",
+    "/88qa1veRpAQaDxFIDl0A8zAhAsA.jpg",
+    "/swIaVttIr5e4mkdESPhZ3u6Fc6W.jpg",
+    "/uYNiqlL6ofggqAelPYU9BtKn4tf.jpg",
+    "/f8VwnD9aJZ1grnDkxgLo7Yu0ZzW.jpg",
+    "/a2kHU8MaYvWX211vxjs3PWWNNXX.jpg",
+    "/oJsHerCHr32hjgnwqE8zb852Qlj.jpg",
+    "/7dZ4m5Dz5tAolfVUiGbrrQivR63.jpg",
+    "/7MRZ6RlWUcfLceG5kXAkFZFZGXb.jpg"
+  ],
+  "trailerKey": "iyv2brVNB3I",
+  "genreIds": [
+    18,
+    10749,
+    53
+  ],
+  "keywordIds": [],
+  "countries": [
+    "HK"
+  ],
+  "languages": [
+    "cn",
+    "ja"
+  ],
+  "studios": [
+    "Century Motion Picture & Dist. Co., Ltd."
+  ],
+  "crew": [
+    {
+      "personId": 71063,
+      "job": "director"
+    },
+    {
+      "personId": 1415705,
+      "job": "writer"
+    },
+    {
+      "personId": 3655474,
+      "job": "writer"
+    },
+    {
+      "personId": 65961,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 65962,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 235189,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 554834,
+      "job": "writer"
+    },
+    {
+      "personId": 224931,
+      "job": "writer"
+    },
+    {
+      "personId": 1405058,
+      "job": "composer"
+    },
+    {
+      "personId": 1042723,
+      "job": "writer"
+    },
+    {
+      "personId": 71063,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 69637,
+      "character": "Louis",
+      "order": 0
+    },
+    {
+      "personId": 83696,
+      "character": "Tomato",
+      "order": 1
+    },
+    {
+      "personId": 1254216,
+      "character": "Pong",
+      "order": 2
+    },
+    {
+      "personId": 558825,
+      "character": "Kathy",
+      "order": 3
+    },
+    {
+      "personId": 1134735,
+      "character": "Shinsuke Takeda",
+      "order": 4
+    },
+    {
+      "personId": 1193723,
+      "character": "Pong's Mother",
+      "order": 5
+    },
+    {
+      "personId": 1554774,
+      "character": "Pong's Father",
+      "order": 6
+    },
+    {
+      "personId": 2803732,
+      "character": "Maid",
+      "order": 7
+    },
+    {
+      "personId": 1905095,
+      "character": "",
+      "order": 8
+    },
+    {
+      "personId": 1619922,
+      "character": "",
+      "order": 9
+    },
+    {
+      "personId": 1042831,
+      "character": "",
+      "order": 10
+    },
+    {
+      "personId": 2110106,
+      "character": "",
+      "order": 11
+    },
+    {
+      "personId": 1582037,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 2110108,
+      "character": "",
+      "order": 13
+    },
+    {
+      "personId": 1789307,
+      "character": "",
+      "order": 14
+    },
+    {
+      "personId": 2110110,
+      "character": "",
+      "order": 15
+    },
+    {
+      "personId": 235182,
+      "character": "",
+      "order": 16
+    },
+    {
+      "personId": 2110111,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 1416316,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1588397,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 22,
+  "sources": [
+    "movement:hong-kong-new-wave"
+  ]
+}

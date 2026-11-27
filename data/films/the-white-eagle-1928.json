@@ -1,0 +1,124 @@
+{
+  "tmdbId": 190061,
+  "slug": "the-white-eagle-1928",
+  "year": 1928,
+  "runtime": 67,
+  "originalTitle": "Белый орёл",
+  "title": {
+    "en": "The White Eagle",
+    "tr": "The White Eagle"
+  },
+  "overview": {
+    "en": "The film is based on The Governor, a play by Leonid Andreyev. V.I. Kachalov plays the governor of a small Russian province who tries to treat the people under his authority with kindness and equanimity. But when a local factory goes on strike, the governor buckles under to pressure from the Tzar and orders the wholesale slaughter of the strikers. He pays for this betrayal of his trust with his life -- at the hands of a courageous Bolshevik spy.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/vQgAQueB2I9jx5Weu0lSDk9WB0C.jpg",
+    "en": "/vQgAQueB2I9jx5Weu0lSDk9WB0C.jpg"
+  },
+  "backdrops": [
+    "/hoLTzlsOP1cUfxfx34CQoBgcHVs.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    36
+  ],
+  "keywordIds": [],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "Mezhrabpomfilm"
+  ],
+  "crew": [
+    {
+      "personId": 1085341,
+      "job": "director"
+    },
+    {
+      "personId": 1386313,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1747742,
+      "job": "writer"
+    },
+    {
+      "personId": 1085341,
+      "job": "writer"
+    },
+    {
+      "personId": 1189513,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1390864,
+      "character": "Governor",
+      "order": 0
+    },
+    {
+      "personId": 108719,
+      "character": "Governess",
+      "order": 1
+    },
+    {
+      "personId": 2116130,
+      "character": "State official",
+      "order": 2
+    },
+    {
+      "personId": 1294745,
+      "character": "Provocator",
+      "order": 3
+    },
+    {
+      "personId": 1329891,
+      "character": "Police general",
+      "order": 4
+    },
+    {
+      "personId": 86701,
+      "character": "Archbishop",
+      "order": 5
+    },
+    {
+      "personId": 2362135,
+      "character": "Official",
+      "order": 6
+    },
+    {
+      "personId": 144841,
+      "character": "Official",
+      "order": 7
+    },
+    {
+      "personId": 5133988,
+      "character": "Governor's wife",
+      "order": 8
+    },
+    {
+      "personId": 1269761,
+      "character": "Revolutionary",
+      "order": 9
+    },
+    {
+      "personId": 1064931,
+      "character": "State prisoner",
+      "order": 10
+    },
+    {
+      "personId": 6381101,
+      "character": "(uncredited)",
+      "order": 11
+    }
+  ],
+  "awards": {},
+  "voteCount": 9,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "tmdbId": 1719,
+  "slug": "the-soft-skin-1964",
+  "year": 1964,
+  "runtime": 119,
+  "originalTitle": "La Peau douce",
+  "title": {
+    "en": "The Soft Skin",
+    "tr": "Yumuşak Ten"
+  },
+  "overview": {
+    "en": "Pierre Lachenay is a well-known publisher and lecturer, married to Franca and father of Sabine. He starts a love affair with air hostess Nicole, which Pierre is hiding, but he cannot stay away from her.",
+    "tr": "Pierre Lachenay, başarılı bir edebiyatçı ve yayıncıdır. Lizbon'a bir konferans için giderken Nicole isminde bir hostesle tanışır. Evli ve bir çocuk babası olmasına rağmen Nicole'a karşı duygularını engelleyemeyen Pierre, tüm varlığını kasıp kavuran bir aşkın içine düşer.  Son derece dengesiz bir yapısı olan karısı Franca'dan durumu saklamaya çalışsa da duyguları, artık Nicole'dan ayrı yaşamaya dayanamayacak boyuttadır. Karısından ayrılmaya karar verir ama bu ayrılık herkes için son derece trajik bir sonla noktalanacaktır."
+  },
+  "poster": {
+    "tr": "/nYo083NgJCAQQByHzYrayxQ5xBV.jpg",
+    "en": "/6XHFiJXDsItCePNNL5saR1y1oXn.jpg"
+  },
+  "backdrops": [
+    "/9yPgh3v4itb0ah4XWgGM4BdAtNa.jpg",
+    "/7Byrmzu07WPZUh6V1FNfqtywmxo.jpg",
+    "/iXgPpzDCi7fWtcBzRpummx1Y6ea.jpg",
+    "/dhomFBsQDFhPp0XrNlHMqZWctxK.jpg",
+    "/wJfxyRwLFxNcBpENx46hkNvuV7v.jpg",
+    "/lnC9yWv32IKHgrQTP8sfKDBALIb.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    848,
+    3800,
+    822,
+    90,
+    5809,
+    699,
+    2080,
+    1902,
+    3318,
+    4481,
+    5852,
+    12999,
+    14602,
+    15160,
+    34094,
+    172859,
+    243007,
+    279111,
+    337525,
+    345075,
+    383473
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr",
+    "en",
+    "pt"
+  ],
+  "studios": [
+    "Les Films du Carrosse",
+    "Societé d'Exploitation et de Distribution de Films (SEDIF)",
+    "Simar Films"
+  ],
+  "crew": [
+    {
+      "personId": 18806,
+      "job": "producer"
+    },
+    {
+      "personId": 3535,
+      "job": "composer"
+    },
+    {
+      "personId": 1650,
+      "job": "director"
+    },
+    {
+      "personId": 3540,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1650,
+      "job": "producer"
+    },
+    {
+      "personId": 18558,
+      "job": "writer"
+    },
+    {
+      "personId": 1650,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 18809,
+      "character": "Nicole",
+      "order": 0
+    },
+    {
+      "personId": 18559,
+      "character": "Pierre Lachenay",
+      "order": 1
+    },
+    {
+      "personId": 18810,
+      "character": "Franca Lachenay",
+      "order": 2
+    },
+    {
+      "personId": 3509,
+      "character": "Clément",
+      "order": 3
+    },
+    {
+      "personId": 18811,
+      "character": "Ingrid",
+      "order": 4
+    },
+    {
+      "personId": 18812,
+      "character": "Directeur Cinéma Reims",
+      "order": 5
+    },
+    {
+      "personId": 18813,
+      "character": "Odile",
+      "order": 6
+    },
+    {
+      "personId": 18814,
+      "character": "Bontemps",
+      "order": 7
+    },
+    {
+      "personId": 18219,
+      "character": "Sabine Lachenay",
+      "order": 8
+    },
+    {
+      "personId": 18815,
+      "character": "La Secrétaire Dominique",
+      "order": 9
+    },
+    {
+      "personId": 18816,
+      "character": "Michel",
+      "order": 10
+    },
+    {
+      "personId": 18817,
+      "character": "Chanoine",
+      "order": 11
+    },
+    {
+      "personId": 1664787,
+      "character": "",
+      "order": 12
+    },
+    {
+      "personId": 2513240,
+      "character": "Lisbon Organizer (uncredited)",
+      "order": 13
+    },
+    {
+      "personId": 2513241,
+      "character": "Le Père de Nicole (uncredited)",
+      "order": 14
+    },
+    {
+      "personId": 39068,
+      "character": "Jeune Fille Reims (uncredited)",
+      "order": 15
+    },
+    {
+      "personId": 2513242,
+      "character": "Mme. Leloix (uncredited)",
+      "order": 16
+    },
+    {
+      "personId": 932514,
+      "character": "Veilleur Hôtel Michelet (uncredited)",
+      "order": 17
+    },
+    {
+      "personId": 1366819,
+      "character": "Franck (Co-pilot) (uncredited)",
+      "order": 18
+    },
+    {
+      "personId": 2513244,
+      "character": "Mme. Bontemps (uncredited)",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 229,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "tmdbId": 2433,
+  "slug": "the-young-girls-of-rochefort-1967",
+  "year": 1967,
+  "runtime": 126,
+  "originalTitle": "Les Demoiselles de Rochefort",
+  "title": {
+    "en": "The Young Girls of Rochefort",
+    "tr": "Tatlı Günler"
+  },
+  "overview": {
+    "en": "In the seaside town of Rochefort, twin sisters Delphine and Solange dream of love and artistic fulfillment beyond their quiet lives. As sailors, artists, musicians, and chance visitors pass through town during a weekend fair, a web of near-misses and romantic longing brings ideal partners tantalizingly close—without their realizing it.",
+    "tr": "İkiz kardeşler Delphine ve Solange, doğup büyüdükleri küçük kasaba Rochefort’tan çıkıp, büyük şehirde aşkı ve zenginliği bulma hayalleri kurar. Ayrılma planları yaparken, karnavalda şarkıcı olarak işe başlarlar. Tek bir hafta sonu, gönül işleriyle onların planlarını bozmaya yeter."
+  },
+  "poster": {
+    "tr": "/lQAl52HSXIk44PlCCu7Umd2jbVD.jpg",
+    "en": "/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg"
+  },
+  "backdrops": [
+    "/9x3yIrAJOkYSs0SBKcGCQlwPSNm.jpg",
+    "/3bgCWYeakhF5AgviuP9FqaWyEQX.jpg",
+    "/c5KWuGtYditoeiK9zjFlfI1R3nz.jpg",
+    "/ofmchnKzSMmBsWEghaiL6O7hVKr.jpg",
+    "/hb6ZqxfBy9vgWXiGnhx7T2V2l7o.jpg",
+    "/kTKE1U5RPyunjQt8d7HSSoSZzYy.jpg",
+    "/8m7qOKlsdnxt4335vpFzpffuIVu.jpg",
+    "/vpP7fLUXbAXsKale9Eqa0FvQcCq.jpg",
+    "/iLdGZ5CqckCngKm2Tja6Bk6XmgZ.jpg",
+    "/8DKDtE2SHWoyPhJ2aw49VrG1tk5.jpg"
+  ],
+  "trailerKey": "vZFK8svwtxA",
+  "genreIds": [
+    10749,
+    35,
+    18
+  ],
+  "keywordIds": [
+    1605,
+    380,
+    2281,
+    2203,
+    1608,
+    5918,
+    4120,
+    3450,
+    4344,
+    5989,
+    6965,
+    10551,
+    15016,
+    240462,
+    241738
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Parc Film",
+    "Madeleine Films"
+  ],
+  "crew": [
+    {
+      "personId": 24882,
+      "job": "director"
+    },
+    {
+      "personId": 10934,
+      "job": "composer"
+    },
+    {
+      "personId": 24882,
+      "job": "writer"
+    },
+    {
+      "personId": 11988,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 26011,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 50,
+      "character": "Delphine Garnier",
+      "order": 0
+    },
+    {
+      "personId": 18809,
+      "character": "Solange Garnier",
+      "order": 1
+    },
+    {
+      "personId": 20030,
+      "character": "Maxence",
+      "order": 2
+    },
+    {
+      "personId": 13294,
+      "character": "Andy Miller",
+      "order": 3
+    },
+    {
+      "personId": 236016,
+      "character": "Yvonne Garnier",
+      "order": 4
+    },
+    {
+      "personId": 3784,
+      "character": "Simon Dame",
+      "order": 5
+    },
+    {
+      "personId": 24880,
+      "character": "Etienne",
+      "order": 6
+    },
+    {
+      "personId": 24881,
+      "character": "Bill",
+      "order": 7
+    },
+    {
+      "personId": 87065,
+      "character": "Guillaume Lancien",
+      "order": 8
+    },
+    {
+      "personId": 1171486,
+      "character": "Josette",
+      "order": 9
+    },
+    {
+      "personId": 37990,
+      "character": "Subtil Dutrouz",
+      "order": 10
+    },
+    {
+      "personId": 1996477,
+      "character": "Judith",
+      "order": 11
+    },
+    {
+      "personId": 2676560,
+      "character": "Esther",
+      "order": 12
+    },
+    {
+      "personId": 1509805,
+      "character": "Bouboo Garnier",
+      "order": 13
+    },
+    {
+      "personId": 1654207,
+      "character": "Pépé",
+      "order": 14
+    },
+    {
+      "personId": 1151713,
+      "character": "Passerby",
+      "order": 15
+    },
+    {
+      "personId": 2676561,
+      "character": "First Sailor",
+      "order": 16
+    },
+    {
+      "personId": 1707384,
+      "character": "Second Sailor",
+      "order": 17
+    },
+    {
+      "personId": 2496411,
+      "character": "Second Gendarme",
+      "order": 18
+    },
+    {
+      "personId": 2676563,
+      "character": "Third Gendarme",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 689,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

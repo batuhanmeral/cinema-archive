@@ -1,0 +1,116 @@
+{
+  "tmdbId": 50785,
+  "slug": "le-petit-soldat-1963",
+  "year": 1963,
+  "runtime": 87,
+  "originalTitle": "Le Petit Soldat",
+  "title": {
+    "en": "Le Petit Soldat",
+    "tr": "Küçük Asker"
+  },
+  "overview": {
+    "en": "Despite his lack of political convictions, photojournalist Bruno Forestier is roped into a paramilitary group waging a shadow war in Geneva against the Algerian independence movement.",
+    "tr": "1958'de Cezayir Savaşı sırasında, Cezayir direnişine karşı savaşan aşırı sağcı küçük bir gruba mensup genç bir adam olan Bruno Forestier, Fransa'dan Cenevre'ye geldi. Fransız ordusunu terk etmesinin bahanesi olarak fotoğrafçı olarak işe giriyor. Küçük grubun lideri, Poujadist bir milletvekili, onu Cezayir davasının destekçisi olan İsviçreli radyo muhabiri Palivoda'yı öldürmekle suçluyor. Bir arkadaşı, Bruno'yu \"Leslie Caron'la aynı ağıza sahip\", manken olmak isteyen genç bir kızla tanıştırır ve ona aşık olacağına dair 50 dolara bahse girer; Onu gelecek vaat eden bir aktris olan Veronica ile tanıştırdıktan kısa bir süre sonra iddiasını tutar. Le Petit Soldat, Jean-Luc Godard'ın À Bout De Souffle'dan sonraki ikinci uzun metrajlı filmi, Godard'ın Anna Karina'yla birlikte oynadığı ilk filmi. 1960 yılında çekilen film, sansür yasağı nedeniyle 25 Ocak 1963'e kadar gösterime giremedi."
+  },
+  "poster": {
+    "tr": "/pzKFKVZHeGhJQYWZN6qO3GXUApU.jpg",
+    "en": "/pzKFKVZHeGhJQYWZN6qO3GXUApU.jpg"
+  },
+  "backdrops": [
+    "/q53o3eyUorC2WTbdepCiuc2XSix.jpg",
+    "/hAhpiQ8WwvAEXJBb5HMXCT2QxkB.jpg",
+    "/yZVxk6q5aXXlaguaMgsNr2MTEfJ.jpg",
+    "/5QC9qwPhXaJ0aqf7mIfZFo2ygva.jpg"
+  ],
+  "trailerKey": "q4b7jODWiq8",
+  "genreIds": [
+    18,
+    10749
+  ],
+  "keywordIds": [
+    169449,
+    187196,
+    213473,
+    293547,
+    317466
+  ],
+  "countries": [
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Les Productions Georges de Beauregard",
+    "SNC"
+  ],
+  "crew": [
+    {
+      "personId": 3776,
+      "job": "director"
+    },
+    {
+      "personId": 3776,
+      "job": "writer"
+    },
+    {
+      "personId": 3779,
+      "job": "producer"
+    },
+    {
+      "personId": 3540,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 1397968,
+      "job": "composer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 24365,
+      "character": "Bruno Forestier",
+      "order": 0
+    },
+    {
+      "personId": 18197,
+      "character": "Veronica Dreyer",
+      "order": 1
+    },
+    {
+      "personId": 3832,
+      "character": "Jacques",
+      "order": 2
+    },
+    {
+      "personId": 146521,
+      "character": "Paul",
+      "order": 3
+    },
+    {
+      "personId": 38899,
+      "character": "Laszlo",
+      "order": 4
+    },
+    {
+      "personId": 3779,
+      "character": "Activist Leader (uncredited)",
+      "order": 5
+    },
+    {
+      "personId": 2588861,
+      "character": "(uncredited)",
+      "order": 6
+    },
+    {
+      "personId": 3776,
+      "character": "Man at Railway Station (uncredited)",
+      "order": 7
+    }
+  ],
+  "awards": {},
+  "voteCount": 190,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

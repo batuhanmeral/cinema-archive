@@ -13,6 +13,7 @@ export const COLLECTION_MAX_FILMS = 100
 const anyIn = <T>(wanted: readonly T[], has: (value: T) => boolean) => wanted.some(has)
 
 export function matchesRule(rule: CollectionRule, film: Film, facts: CollectionFacts): boolean {
+  if (rule.excludeTmdbIds?.includes(film.tmdbId)) return false
   if (rule.years && (film.year < rule.years.start || film.year > rule.years.end)) return false
   if (rule.countries && !anyIn(rule.countries, (c) => film.countries.includes(c))) return false
   if (rule.tmdbGenres && !anyIn(rule.tmdbGenres, (g) => film.genreIds.includes(g))) return false

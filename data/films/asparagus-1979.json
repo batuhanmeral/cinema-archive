@@ -1,0 +1,59 @@
+{
+  "tmdbId": 36881,
+  "slug": "asparagus-1979",
+  "year": 1979,
+  "runtime": 20,
+  "originalTitle": "Asparagus",
+  "title": {
+    "en": "Asparagus",
+    "tr": "Asparagus"
+  },
+  "overview": {
+    "en": "A symbolic reflection on issues of female sexuality, art and identity constructs.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/y80jnUURskTyujtMPKd9VQpMxSY.jpg",
+    "en": "/y80jnUURskTyujtMPKd9VQpMxSY.jpg"
+  },
+  "backdrops": [
+    "/laq28p2gQCiFEjnjHuDAeCOBrEJ.jpg",
+    "/n94J4oxUOWH1x4Td08qjiHU7uh8.jpg",
+    "/t8WtBLfKodW89ZwiuGrWYRYVbrQ.jpg",
+    "/9Gc4SqmqBIKphymXVBcAvCfmZRC.jpg",
+    "/p07eZZH8sNqkXVyYVL1EwmRL2E7.jpg",
+    "/2xPdDmO3ILqS9N6541C1Qe8PXtA.jpg"
+  ],
+  "trailerKey": "9LLS_IB6GU0",
+  "genreIds": [
+    16,
+    18,
+    14
+  ],
+  "keywordIds": [
+    738,
+    187056,
+    189428
+  ],
+  "countries": [
+    "US"
+  ],
+  "languages": [],
+  "studios": [],
+  "crew": [
+    {
+      "personId": 1059911,
+      "job": "director"
+    },
+    {
+      "personId": 1401535,
+      "job": "composer"
+    }
+  ],
+  "cast": [],
+  "awards": {},
+  "voteCount": 85,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

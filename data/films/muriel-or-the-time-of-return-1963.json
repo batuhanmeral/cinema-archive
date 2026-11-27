@@ -1,0 +1,180 @@
+{
+  "tmdbId": 54563,
+  "slug": "muriel-or-the-time-of-return-1963",
+  "year": 1963,
+  "runtime": 117,
+  "originalTitle": "Muriel, ou le Temps d'un retour",
+  "title": {
+    "en": "Muriel, or the Time of Return",
+    "tr": "Muriel, ou le Temps d'un retour"
+  },
+  "overview": {
+    "en": "In the seacoast town of Boulogne, antique furniture saleswoman Hélène lives with her stepson, Bernard, who's back from military duty in Algiers. An old lover of Hélène's comes to visit, Alphonse, with his niece Françoise; he too is back from Algiers, where he ran a café. Bernard speaks of his fiancée, Muriel, whom Hélène has not met. The past is obscured by guilt, misperceptions, and missed possibilities. Appearances deceive, things change. As Hélène and Alphonse try to sort out a renewal, everyone seems off-kilter just enough to hint that all cannot end well.",
+    "tr": "Hélène, üvey oğlu Bernard’la paylaştığı dairesinde antikalar satan bir duldur. Bernard Cezayir’de savaşta bir asker olarak hizmet verirken Muriel isimli genç bir kadının işkenceyle ölümüne tanık olmuştur ve bu yüzden eziyet içindedir. Alain Resnais’nin en güçlü klasiklerinden biri."
+  },
+  "poster": {
+    "tr": "/pAltAnAC26V1WrYYGNGqvpcsNN7.jpg",
+    "en": "/81tm32XqS9efV9bFV9qbThHD3yJ.jpg"
+  },
+  "backdrops": [
+    "/A8oqVGkdRXnsKOPgiC9Q4zPmVkU.jpg",
+    "/bAYA0Qdt9cF0ot5kW7dMxEMCUOh.jpg",
+    "/jAjwOxqKrhZKLEEI0gokJZVF3hn.jpg",
+    "/jGjb3y7SO1bSlJF0MSpOpSUYUQ3.jpg",
+    "/zBqUk2pg96viWjYdGUzSDgOTnpF.jpg",
+    "/edJSYMmeGkDyBWOZtOoo6vzcVVv.jpg",
+    "/iZi8PkKNmyikPyuf9Lsu9sdAbKY.jpg",
+    "/fEIpwg8yULG8yq8hQpqGTDIThCh.jpg",
+    "/6aAuIp6MBEzHprvur2cixO4RZoS.jpg",
+    "/lfiqgbqeECd0UFZYbP5aDmQPyEF.jpg"
+  ],
+  "trailerKey": "Mps49Z9hap8",
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    4129,
+    185420,
+    355529
+  ],
+  "countries": [
+    "IT",
+    "FR"
+  ],
+  "languages": [
+    "fr"
+  ],
+  "studios": [
+    "Alpha Productions",
+    "Argos films"
+  ],
+  "crew": [
+    {
+      "personId": 11983,
+      "job": "director"
+    },
+    {
+      "personId": 11984,
+      "job": "writer"
+    },
+    {
+      "personId": 9752,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 39300,
+      "job": "composer"
+    },
+    {
+      "personId": 2304,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 3508,
+      "character": "Hélène Aughain",
+      "order": 0
+    },
+    {
+      "personId": 124080,
+      "character": "Alphonse Noyard",
+      "order": 1
+    },
+    {
+      "personId": 150917,
+      "character": "Bernard Aughain",
+      "order": 2
+    },
+    {
+      "personId": 150916,
+      "character": "Françoise",
+      "order": 3
+    },
+    {
+      "personId": 150918,
+      "character": "Roland de Smoke",
+      "order": 4
+    },
+    {
+      "personId": 18811,
+      "character": "Claudie",
+      "order": 5
+    },
+    {
+      "personId": 150921,
+      "character": "Marie-Dominique, aka Marie-Do",
+      "order": 6
+    },
+    {
+      "personId": 20799,
+      "character": "Robert",
+      "order": 7
+    },
+    {
+      "personId": 18767,
+      "character": "Ernest",
+      "order": 8
+    },
+    {
+      "personId": 11550,
+      "character": "L'homme à la chèvre / The Goat Man",
+      "order": 9
+    },
+    {
+      "personId": 150922,
+      "character": "Le loueur de chevaux / The Stableman",
+      "order": 10
+    },
+    {
+      "personId": 17029,
+      "character": "La femme du couple d'acheteurs",
+      "order": 11
+    },
+    {
+      "personId": 39445,
+      "character": "Angèle",
+      "order": 12
+    },
+    {
+      "personId": 18772,
+      "character": "Antoine, le tailleur",
+      "order": 13
+    },
+    {
+      "personId": 38959,
+      "character": "Marc",
+      "order": 14
+    },
+    {
+      "personId": 28676,
+      "character": "Simone",
+      "order": 15
+    },
+    {
+      "personId": 2927933,
+      "character": "La cliente",
+      "order": 16
+    },
+    {
+      "personId": 1145448,
+      "character": "L'employé du casino",
+      "order": 17
+    },
+    {
+      "personId": 1379337,
+      "character": "",
+      "order": 18
+    },
+    {
+      "personId": 1004633,
+      "character": "La cliente dans la rue",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 199,
+  "sources": [
+    "movement:french-new-wave"
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "tmdbId": 68757,
+  "slug": "city-of-pirates-1984",
+  "year": 1984,
+  "runtime": 111,
+  "originalTitle": "La Ville des pirates",
+  "title": {
+    "en": "City of Pirates",
+    "tr": "La Ville des pirates"
+  },
+  "overview": {
+    "en": "A surreal odyssey in which a melancholic maidservant crosses paths with a homicidal little boy, travels to a tiny island of pirates and encounters a man with multiple personalities.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/yrew6oTju5QlEx6WM5txPtB2mJj.jpg",
+    "en": "/swQ2FuyoaeP36Md3aOtU0Mj81m8.jpg"
+  },
+  "backdrops": [
+    "/dKbOK5DPQDWfiKLteO2U08PPcky.jpg",
+    "/38VPn5LRU91f1IsYva5s1Dbz1GR.jpg",
+    "/orO93N0aPBBHZcf0G1NR7UGNuhK.jpg",
+    "/9M2ctGyXRuE9vCEAnzkKXhIXO0X.jpg"
+  ],
+  "trailerKey": "T3a-sAbbGrE",
+  "genreIds": [
+    18,
+    14
+  ],
+  "keywordIds": [
+    2041,
+    9887
+  ],
+  "countries": [
+    "FR",
+    "PT"
+  ],
+  "languages": [
+    "fr",
+    "en",
+    "es"
+  ],
+  "studios": [
+    "Les Films du Passage",
+    "Metro Filmes"
+  ],
+  "crew": [
+    {
+      "personId": 121585,
+      "job": "director"
+    },
+    {
+      "personId": 121585,
+      "job": "writer"
+    },
+    {
+      "personId": 1112003,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 134463,
+      "job": "composer"
+    },
+    {
+      "personId": 5268,
+      "job": "producer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 38170,
+      "character": "Toby",
+      "order": 0
+    },
+    {
+      "personId": 35324,
+      "character": "Isidore",
+      "order": 1
+    },
+    {
+      "personId": 26100,
+      "character": "Malo, the Boy",
+      "order": 2
+    },
+    {
+      "personId": 553630,
+      "character": "Fisherman",
+      "order": 3
+    },
+    {
+      "personId": 1267064,
+      "character": "Father",
+      "order": 4
+    },
+    {
+      "personId": 2031371,
+      "character": "Mother",
+      "order": 5
+    },
+    {
+      "personId": 1054842,
+      "character": "Police Lieutenant",
+      "order": 6
+    },
+    {
+      "personId": 1862607,
+      "character": "Police Corporal (uncredited)",
+      "order": 7
+    },
+    {
+      "personId": 1281664,
+      "character": "Prison Guard (uncredited)",
+      "order": 8
+    }
+  ],
+  "awards": {},
+  "voteCount": 49,
+  "sources": [
+    "movement:surrealist-cinema"
+  ]
+}

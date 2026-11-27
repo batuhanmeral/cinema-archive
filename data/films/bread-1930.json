@@ -1,0 +1,83 @@
+{
+  "tmdbId": 285339,
+  "slug": "bread-1930",
+  "year": 1930,
+  "runtime": 45,
+  "originalTitle": "Хліб",
+  "title": {
+    "en": "Bread",
+    "tr": "Bread"
+  },
+  "overview": {
+    "en": "An ideologically committed Red Army soldier returns home from the war and takes up a new struggle with the aim of collectivizing the land of a wealthy peasant.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/d0VvEJs4Eg0ACQ5u5FPfy2Z3cIf.jpg",
+    "en": "/d0VvEJs4Eg0ACQ5u5FPfy2Z3cIf.jpg"
+  },
+  "backdrops": [
+    "/bWbz1WSFBFoEqqP6cWgKVaWnMHt.jpg",
+    "/a7A1b3NEmL4zws0T5dQ0iIi3ROV.jpg",
+    "/mhPUKfSescGq13wn09Oal5XwSPz.jpg",
+    "/yt6tsEYxCn1ZcLD3lBy3JlfQELg.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [],
+  "countries": [
+    "SU"
+  ],
+  "languages": [],
+  "studios": [
+    "VUFKU"
+  ],
+  "crew": [
+    {
+      "personId": 1457889,
+      "job": "cinematographer"
+    },
+    {
+      "personId": 144823,
+      "job": "director"
+    },
+    {
+      "personId": 1999666,
+      "job": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 1583605,
+      "character": "Kulak",
+      "order": 0
+    },
+    {
+      "personId": 1363223,
+      "character": "Grandfather",
+      "order": 1
+    },
+    {
+      "personId": 1270866,
+      "character": "Luka - Red Army Veteran",
+      "order": 2
+    },
+    {
+      "personId": 1583607,
+      "character": "Mother - Veteran's Wife",
+      "order": 3
+    },
+    {
+      "personId": 5274836,
+      "character": "Peasant Woman",
+      "order": 4
+    }
+  ],
+  "awards": {},
+  "voteCount": 10,
+  "sources": [
+    "movement:soviet-montage"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "tmdbId": 158693,
+  "slug": "rome-11-00-1952",
+  "year": 1952,
+  "runtime": 105,
+  "originalTitle": "Roma, ore 11",
+  "title": {
+    "en": "Rome 11:00",
+    "tr": "Roma, ore 11"
+  },
+  "overview": {
+    "en": "The story of 5 girls among 200 who answer a wanted ad for a modest secretarial position, which leads to overcrowding in the building and a tragic accident.",
+    "tr": null
+  },
+  "poster": {
+    "tr": "/dI2UggXb3pzjjh9rXJ3lVhcey3.jpg",
+    "en": "/dI2UggXb3pzjjh9rXJ3lVhcey3.jpg"
+  },
+  "backdrops": [
+    "/3rv23OJgdHeA5GrNp9JjM0t1RvS.jpg",
+    "/yuXN8X7Ix571hFGKvAonHw84r5f.jpg",
+    "/lCsZvWm0Ejd4sHuEbwE5gUzzwum.jpg",
+    "/MCNbVIDod7Ms3vm3lOKQdM32Hb.jpg",
+    "/2ejhEwAzWo1gim4jWHVoOFgV8HD.jpg"
+  ],
+  "trailerKey": null,
+  "genreIds": [
+    18
+  ],
+  "keywordIds": [
+    208408,
+    365281,
+    365282,
+    365283,
+    365284
+  ],
+  "countries": [
+    "FR",
+    "IT"
+  ],
+  "languages": [
+    "it"
+  ],
+  "studios": [
+    "Transcontinental Films",
+    "Titanus"
+  ],
+  "crew": [
+    {
+      "personId": 33216,
+      "job": "composer"
+    },
+    {
+      "personId": 1046374,
+      "job": "producer"
+    },
+    {
+      "personId": 41634,
+      "job": "writer"
+    },
+    {
+      "personId": 41634,
+      "job": "director"
+    },
+    {
+      "personId": 1024357,
+      "job": "writer"
+    },
+    {
+      "personId": 138209,
+      "job": "writer"
+    },
+    {
+      "personId": 92721,
+      "job": "writer"
+    },
+    {
+      "personId": 12330,
+      "job": "writer"
+    },
+    {
+      "personId": 5399,
+      "job": "cinematographer"
+    }
+  ],
+  "cast": [
+    {
+      "personId": 233183,
+      "character": "Luciana Renzoni",
+      "order": 0
+    },
+    {
+      "personId": 39274,
+      "character": "Simona",
+      "order": 1
+    },
+    {
+      "personId": 132785,
+      "character": "Caterina the Prostitute",
+      "order": 2
+    },
+    {
+      "personId": 1090624,
+      "character": "Cornelia",
+      "order": 3
+    },
+    {
+      "personId": 1140116,
+      "character": "Gianna",
+      "order": 4
+    },
+    {
+      "personId": 18340,
+      "character": "Nando the Unemployed",
+      "order": 5
+    },
+    {
+      "personId": 3268,
+      "character": "Carlo the artist",
+      "order": 6
+    },
+    {
+      "personId": 1076570,
+      "character": "Adriana the Pregnant",
+      "order": 7
+    },
+    {
+      "personId": 225486,
+      "character": "Angelina",
+      "order": 8
+    },
+    {
+      "personId": 818598,
+      "character": "Clara",
+      "order": 9
+    },
+    {
+      "personId": 4962,
+      "character": "Impiegato",
+      "order": 10
+    },
+    {
+      "personId": 1140117,
+      "character": "Marinaio",
+      "order": 11
+    },
+    {
+      "personId": 551013,
+      "character": "Romoletto",
+      "order": 12
+    },
+    {
+      "personId": 12005,
+      "character": "Matilde",
+      "order": 13
+    },
+    {
+      "personId": 1140118,
+      "character": "Fireman",
+      "order": 14
+    },
+    {
+      "personId": 262301,
+      "character": "Augusto",
+      "order": 15
+    },
+    {
+      "personId": 1140119,
+      "character": "Padre di Adriana",
+      "order": 16
+    },
+    {
+      "personId": 1116071,
+      "character": "",
+      "order": 17
+    },
+    {
+      "personId": 543681,
+      "character": "The Architect",
+      "order": 18
+    },
+    {
+      "personId": 98784,
+      "character": "",
+      "order": 19
+    }
+  ],
+  "awards": {},
+  "voteCount": 46,
+  "sources": [
+    "movement:italian-neorealism"
+  ]
+}
