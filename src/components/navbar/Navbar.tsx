@@ -2,7 +2,11 @@
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { Suspense, useEffect, useState } from 'react'
+import { Suspense, useEffect, useRef, useState } from 'react'
+import { RandomFilmButton } from '@/features/archive/components/RandomFilmButton'
+import { SearchBox } from '@/features/search/components/SearchBox'
+import { SearchPanel } from '@/features/search/components/SearchPanel'
+import { useSlashFocus } from '@/features/search/components/use-slash-focus'
 import type { Locale } from '@/lib/i18n/locale'
 import { messages } from '@/lib/i18n/messages'
 import { collectionsHref, homeHref, movementsHref } from '@/lib/i18n/routes'
@@ -28,6 +32,10 @@ export function Navbar({ locale }: { locale: Locale }) {
   const overHero = hasHero(pathname, locale)
   const [hidden, setHidden] = useState(INITIAL_NAV_STATE.hidden)
   const [solid, setSolid] = useState(!overHero)
+  // Mobil menü ve arama paneli aynı anda açık olmaz.
+  const [overlay, setOverlay] = useState<'menu' | 'search' | null>(null)
+  const barInputRef = useRef<HTMLInputElement>(null)
+  useSlashFocus(barInputRef)
 
   useEffect(() => {
     let state: NavState | undefined
@@ -48,8 +56,10 @@ export function Navbar({ locale }: { locale: Locale }) {
   }, [overHero])
 
   return (
+    // data-hidden: arşivin yapışkan süzgeç çubuğu navbar gizlenince en üste çıkar.
     <header
       style={{ height: NAV_HEIGHT }}
+      data-hidden={hidden ? '' : undefined}
       className={`fixed inset-x-0 top-0 z-50 border-b text-[13px] transition-transform duration-200 motion-reduce:transition-none ${
         solid ? 'border-line bg-hall' : 'border-transparent'
       } has-[[aria-expanded=true]]:translate-y-0 has-[[aria-expanded=true]]:border-line has-[[aria-expanded=true]]:bg-hall ${hidden ? '-translate-y-full focus-within:translate-y-0' : 'translate-y-0'}`}
@@ -61,13 +71,28 @@ export function Navbar({ locale }: { locale: Locale }) {
         >
           Sinema Arşivi<span className="sr-only"> – {messages[locale].nav.home}</span>
         </Link>
-        <div className="hidden items-center md:flex">
-          <NavLinks locale={locale} pathname={pathname} variant="bar" />
-          <Suspense fallback={<LanguageToggleFallback locale={locale} />}>
-            <LanguageToggle locale={locale} />
-          </Suspense>
+        <div className="flex items-center">
+          <div className="hidden lg:block">
+            <SearchBox locale={locale} variant="bar" inputRef={barInputRef} />
+          </div>
+          <SearchPanel
+            locale={locale}
+            open={overlay === 'search'}
+            onOpenChange={(open) => setOverlay(open ? 'search' : null)}
+          />
+          <div className="hidden items-center md:flex">
+            <NavLinks locale={locale} pathname={pathname} variant="bar" />
+            <RandomFilmButton locale={locale} variant="bar" />
+            <Suspense fallback={<LanguageToggleFallback locale={locale} />}>
+              <LanguageToggle locale={locale} />
+            </Suspense>
+          </div>
+          <MobileMenu
+            locale={locale}
+            open={overlay === 'menu'}
+            onOpenChange={(open) => setOverlay(open ? 'menu' : null)}
+          />
         </div>
-        <MobileMenu locale={locale} />
       </nav>
     </header>
   )

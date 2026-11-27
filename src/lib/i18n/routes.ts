@@ -1,10 +1,20 @@
+import {
+  EMPTY_QUERY,
+  FILTER_KEYS,
+  canonicalValues,
+  cleanQuery,
+  serializeArchiveQuery,
+  type FilterKey,
+  type SortKey,
+} from '@/lib/archive-query'
 import type { Locale } from './locale'
 
 const EN_PREFIX = '/en'
 
-export type ArchiveFilter = Partial<
-  Record<'genre' | 'theme' | 'country' | 'decade' | 'language', string | number>
->
+export type ArchiveFilter = Partial<Record<FilterKey, string | number | (string | number)[]>> & {
+  q?: string
+  sort?: SortKey
+}
 
 function localePath(locale: Locale, segments: string[]): string {
   const path = segments.join('/')
@@ -41,12 +51,19 @@ export function collectionsHref(locale: Locale): string {
 }
 
 export function archiveHref(locale: Locale, filter: ArchiveFilter): string {
-  const query = new URLSearchParams()
-  for (const [key, value] of Object.entries(filter)) {
-    if (value !== undefined) query.set(key, String(value))
+  const filters = { ...EMPTY_QUERY.filters }
+  for (const key of FILTER_KEYS) {
+    const value = filter[key]
+    if (value === undefined) continue
+    filters[key] = canonicalValues([value].flat().map(String))
   }
+  const query = serializeArchiveQuery({
+    filters,
+    q: cleanQuery(filter.q ?? ''),
+    sort: filter.sort ?? null,
+  })
   const path = localePath(locale, ['archive'])
-  return query.size > 0 ? `${path}?${query}` : path
+  return query ? `${path}?${query}` : path
 }
 
 // Segmentler iki dilde aynı olduğundan geçiş yalnızca /en önekini ekler veya kaldırır.

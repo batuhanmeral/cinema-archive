@@ -11,18 +11,20 @@ export function PosterCard({
   title,
   caption,
   note,
+  sizes = POSTER_SIZES,
 }: {
   href: string
   posterPath: string | null
   title: string
   caption: string
   note?: string
+  sizes?: string
 }) {
   return (
     <div className="group relative">
       {posterPath ? (
         <div className="relative aspect-2/3">
-          <Image src={posterPath} alt="" fill sizes={POSTER_SIZES} className="object-cover" />
+          <Image src={posterPath} alt="" fill sizes={sizes} className="object-cover" />
         </div>
       ) : (
         <div className="grid aspect-2/3 place-items-center border border-line text-muted">

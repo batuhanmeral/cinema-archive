@@ -4,7 +4,7 @@ import type { LinkItem } from '@/lib/link-items'
 export function IndexItem({ item }: { item: LinkItem }) {
   if (!item.href) return item.text
   return (
-    // Arşiv (M4) ve kişi (M5) bağlantıları prefetch: false taşır; sayfaları henüz yok.
+    // Kişi (M5) bağlantıları prefetch: false taşır; sayfaları henüz yok.
     <Link
       href={item.href}
       prefetch={item.prefetch}

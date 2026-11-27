@@ -1,3 +1,4 @@
+import type { FilterKey, SortKey } from '@/lib/archive-query'
 import type { Locale } from './locale'
 
 type FilmIndexKey =
@@ -29,6 +30,12 @@ export type Messages = {
     collections: string
     menu: string
     skip: string
+    searchPlaceholder: string
+    searchLabel: string
+    openSearch: string
+    closeSearch: string
+    archive: string
+    random: string
   }
   film: {
     sections: { trailer: string; cast: string; similar: string }
@@ -64,7 +71,34 @@ export type Messages = {
     nextFilm: string
   }
   rail: { previous: string; next: string }
+  archive: {
+    title: string
+    description: string
+    heroMeta: (stats: { films: number; from: number; to: number; countries: number }) => string
+    filters: Record<FilterKey, string>
+    resultCount: (n: number) => string
+    sortLabel: string
+    sort: Record<SortKey, string>
+    clear: string
+    removeChip: (label: string) => string
+    showMore: string
+    empty: string
+    filterButton: (selected: number) => string
+    close: string
+  }
+  search: {
+    movementLine: (films: number) => string
+    collectionLine: (films: number) => string
+    filmLine: (year: number) => string
+    allResults: (films: number) => string
+    noResults: string
+    resultCount: (n: number) => string
+  }
 }
+
+// Binlik ayırıcı dile göre: TR "3.128", EN "3,128".
+const formatters = { tr: new Intl.NumberFormat('tr'), en: new Intl.NumberFormat('en') }
+const count = (locale: Locale, n: number) => formatters[locale].format(n)
 
 export const messages: Record<Locale, Messages> = {
   tr: {
@@ -77,6 +111,12 @@ export const messages: Record<Locale, Messages> = {
       collections: 'Koleksiyonlar',
       menu: 'Menü',
       skip: 'İçeriğe atla',
+      searchPlaceholder: 'Ara…',
+      searchLabel: 'Sitede ara',
+      openSearch: 'Aramayı aç',
+      closeSearch: 'Aramayı kapat',
+      archive: 'Arşiv',
+      random: 'Rastgele film',
     },
     film: {
       sections: {
@@ -152,6 +192,35 @@ export const messages: Record<Locale, Messages> = {
       nextFilm: 'Sonraki film',
     },
     rail: { previous: 'Önceki', next: 'Sonraki' },
+    archive: {
+      title: 'Arşiv',
+      description: 'Sitedeki bütün filmler. Türe, temaya, ülkeye, yıla ve dile göre süzebilirsin.',
+      heroMeta: (s) => `${count('tr', s.films)} film · ${s.from}–${s.to} · ${s.countries} ülke`,
+      filters: { genre: 'Tür', theme: 'Tema', country: 'Ülke', decade: 'Yıl', language: 'Dil' },
+      resultCount: (n) => `${count('tr', n)} film`,
+      sortLabel: 'Sırala',
+      sort: {
+        year: 'Yıl',
+        'year-desc': 'Yıl (yeniden eskiye)',
+        title: 'Ad',
+        popular: 'Popülerlik',
+        relevance: 'En uygun',
+      },
+      clear: 'Temizle',
+      removeChip: (label) => `Kaldır: ${label}`,
+      showMore: 'Daha fazla göster',
+      empty: 'Bu seçimle eşleşen film yok.',
+      filterButton: (n) => (n > 0 ? `Filtrele (${n})` : 'Filtrele'),
+      close: 'Kapat',
+    },
+    search: {
+      movementLine: (n) => `Akım · ${count('tr', n)} film`,
+      collectionLine: (n) => `Koleksiyon · ${count('tr', n)} film`,
+      filmLine: (year) => `Film · ${year}`,
+      allResults: (n) => `Tüm sonuçlar (${count('tr', n)} film)`,
+      noResults: 'Sonuç yok',
+      resultCount: (n) => `${count('tr', n)} sonuç`,
+    },
   },
   en: {
     credit: 'This product uses the TMDB API but is not endorsed or certified by TMDB.',
@@ -162,6 +231,12 @@ export const messages: Record<Locale, Messages> = {
       collections: 'Collections',
       menu: 'Menu',
       skip: 'Skip to content',
+      searchPlaceholder: 'Search…',
+      searchLabel: 'Search the site',
+      openSearch: 'Open search',
+      closeSearch: 'Close search',
+      archive: 'Archive',
+      random: 'Random film',
     },
     film: {
       sections: {
@@ -243,5 +318,41 @@ export const messages: Record<Locale, Messages> = {
       nextFilm: 'Next film',
     },
     rail: { previous: 'Previous', next: 'Next' },
+    archive: {
+      title: 'Archive',
+      description: 'Every film on the site. Filter by genre, theme, country, year and language.',
+      heroMeta: (s) =>
+        `${count('en', s.films)} ${s.films === 1 ? 'film' : 'films'} · ${s.from}–${s.to} · ${s.countries} ${s.countries === 1 ? 'country' : 'countries'}`,
+      filters: {
+        genre: 'Genre',
+        theme: 'Theme',
+        country: 'Country',
+        decade: 'Year',
+        language: 'Language',
+      },
+      resultCount: (n) => `${count('en', n)} ${n === 1 ? 'film' : 'films'}`,
+      sortLabel: 'Sort',
+      sort: {
+        year: 'Year',
+        'year-desc': 'Year (newest first)',
+        title: 'Title',
+        popular: 'Popularity',
+        relevance: 'Best match',
+      },
+      clear: 'Clear',
+      removeChip: (label) => `Remove: ${label}`,
+      showMore: 'Show more',
+      empty: 'No films match this selection.',
+      filterButton: (n) => (n > 0 ? `Filter (${n})` : 'Filter'),
+      close: 'Close',
+    },
+    search: {
+      movementLine: (n) => `Movement · ${count('en', n)} ${n === 1 ? 'film' : 'films'}`,
+      collectionLine: (n) => `Collection · ${count('en', n)} ${n === 1 ? 'film' : 'films'}`,
+      filmLine: (year) => `Film · ${year}`,
+      allResults: (n) => `All results (${count('en', n)} ${n === 1 ? 'film' : 'films'})`,
+      noResults: 'No results',
+      resultCount: (n) => `${count('en', n)} ${n === 1 ? 'result' : 'results'}`,
+    },
   },
 }

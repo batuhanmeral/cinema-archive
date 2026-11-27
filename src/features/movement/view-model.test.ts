@@ -164,9 +164,7 @@ describe('buildMovementView', () => {
       'Görüntü',
     ])
     expect(row(view, 'years')?.items).toEqual([{ text: '1958–1966' }])
-    expect(row(view, 'country')?.items).toEqual([
-      { text: 'Fransa', href: '/archive?country=FR', prefetch: false },
-    ])
+    expect(row(view, 'country')?.items).toEqual([{ text: 'Fransa', href: '/archive?country=FR' }])
   })
 
   it('uses English labels on the English page', () => {

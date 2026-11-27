@@ -59,3 +59,17 @@ describe('movement and collection hrefs', () => {
       '/en/movement/french-new-wave',
     ))
 })
+
+describe('archiveHref multi-value', () => {
+  it('writes sorted values with unescaped commas in canonical order', () => {
+    expect(archiveHref('en', { genre: [35, 18], decade: 1960 })).toBe(
+      '/en/archive?genre=18,35&decade=1960',
+    )
+    expect(archiveHref('tr', { decade: 1960, genre: 18 })).toBe('/archive?genre=18&decade=1960')
+  })
+  it('encodes q and keeps a non-default sort', () => {
+    expect(archiveHref('tr', { q: 'a b', sort: 'title' })).toBe('/archive?q=a%20b&sort=title')
+  })
+  it('returns the bare path for an empty filter', () =>
+    expect(archiveHref('tr', {})).toBe('/archive'))
+})

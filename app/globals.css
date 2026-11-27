@@ -8,6 +8,8 @@
   --color-accent: #e2a63b;
   --color-surface: rgba(236, 232, 225, 0.06);
   --color-arrow: rgba(236, 232, 225, 0.45);
+  /* Arama önerileri: yarı saydam, bulanıklık yok. */
+  --color-dropdown: rgba(20, 19, 17, 0.88);
 
   --font-display: var(--font-big-shoulders), sans-serif;
   /* Big Shoulders'ın Display kesimi (en büyük optik boyut). */

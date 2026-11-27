@@ -35,7 +35,9 @@ describe('HomePage', () => {
       for (const [i, slug] of ['movements', 'collections', 'archive', 'directors'].entries()) {
         const link = screen.getByRole('link', { name: full[i] })
         expect(link).toHaveAttribute('href', `${english ? '/en' : ''}/${slug}`)
-        if (i >= 2) expect(link).toHaveAttribute('data-prefetch', 'off')
+        // Arşiv sayfası artık var; yalnızca yönetmenler bağlantısı prefetch kapalı kalır.
+        if (i === 3) expect(link).toHaveAttribute('data-prefetch', 'off')
+        else expect(link).not.toHaveAttribute('data-prefetch')
       }
       expect(
         within(screen.getByRole('region', { name: labels[2] })).getAllByRole('listitem'),

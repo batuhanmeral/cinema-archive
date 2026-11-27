@@ -130,17 +130,13 @@ describe('buildCollectionView', () => {
     expect(view.rows[1]?.overview).toBe('Bir rehber iki adamı Bölge’nin içine götürür.')
   })
 
-  it('links directors, genres and themes without prefetch', () => {
+  it('links directors without prefetch and genres and themes with it', () => {
     expect(view.rows[0]?.directors).toEqual([
       { text: 'Mario Bava', href: '/person/mario-bava', prefetch: false },
     ])
     expect(view.rows[2]?.directors).toEqual([{ text: 'Dario Argento' }])
-    expect(view.rows[2]?.genres).toEqual([
-      { text: 'Gerilim', href: '/archive?genre=53', prefetch: false },
-    ])
-    expect(view.rows[2]?.themes).toEqual([
-      { text: 'tanık', href: '/archive?theme=10', prefetch: false },
-    ])
+    expect(view.rows[2]?.genres).toEqual([{ text: 'Gerilim', href: '/archive?genre=53' }])
+    expect(view.rows[2]?.themes).toEqual([{ text: 'tanık', href: '/archive?theme=10' }])
   })
 
   it('points rows at the film page with the locale poster', () => {

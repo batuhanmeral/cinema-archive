@@ -123,8 +123,8 @@ describe('buildFilmView', () => {
   it('lists genres then allowlisted themes as tags, linked to the archive', () => {
     const view = buildFilmView(makeFilm({ genreIds: [878], keywordIds: [4565, 999999] }), 'tr', ctx)
     expect(view.tags).toEqual([
-      { text: 'Bilim-Kurgu', href: '/archive?genre=878', prefetch: false },
-      { text: 'Distopya', href: '/archive?theme=4565', prefetch: false },
+      { text: 'Bilim-Kurgu', href: '/archive?genre=878' },
+      { text: 'Distopya', href: '/archive?theme=4565' },
     ])
     expect(view.tags.some((t) => t.href?.includes('999999'))).toBe(false)
   })
@@ -138,33 +138,34 @@ describe('buildFilmView', () => {
     expect(view.tags.slice(0, 3)).toEqual([
       { text: 'Fransız Yeni Dalgası', href: '/movement/french-new-wave' },
       { text: 'Yavaş Sinema', href: '/collection/slow-cinema' },
-      { text: 'Bilim-Kurgu', href: '/archive?genre=878', prefetch: false },
+      { text: 'Bilim-Kurgu', href: '/archive?genre=878' },
     ])
   })
 
-  it('keeps prefetch off for every archive and person link in tags and index', () => {
+  it('prefetches archive links and keeps prefetch off for person links', () => {
     const view = buildFilmView(makeFilm(fullFilm), 'tr', ctx)
     const items = [...view.tags, ...view.index.flatMap((r) => r.items)]
-    const linked = items.filter(
-      (i) => i.href?.startsWith('/archive') || i.href?.startsWith('/person'),
-    )
-    expect(linked.length).toBeGreaterThan(5)
-    expect(linked.every((i) => i.prefetch === false)).toBe(true)
+    const archive = items.filter((i) => i.href?.startsWith('/archive'))
+    const people = items.filter((i) => i.href?.startsWith('/person'))
+    expect(archive.length).toBeGreaterThan(5)
+    expect(people.length).toBeGreaterThan(0)
+    expect(archive.every((i) => i.prefetch === undefined)).toBe(true)
+    expect(people.every((i) => i.prefetch === false)).toBe(true)
   })
 
   it('links country and language to the archive with localized names', () => {
     const view = buildFilmView(makeFilm(), 'en', ctx)
     expect(row(view, 'country').items).toEqual([
-      { text: 'Soviet Union', href: '/en/archive?country=SU', prefetch: false },
+      { text: 'Soviet Union', href: '/en/archive?country=SU' },
     ])
     expect(row(view, 'language').items).toEqual([
-      { text: 'Russian', href: '/en/archive?language=ru', prefetch: false },
+      { text: 'Russian', href: '/en/archive?language=ru' },
     ])
   })
 
   it('links the year to its decade', () => {
     expect(row(buildFilmView(makeFilm(), 'en', ctx), 'year').items).toEqual([
-      { text: '1979', href: '/en/archive?decade=1970', prefetch: false },
+      { text: '1979', href: '/en/archive?decade=1970' },
     ])
   })
 

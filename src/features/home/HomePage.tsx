@@ -50,7 +50,6 @@ export function HomePage({ view, locale }: { view: HomeView; locale: Locale }) {
             label={t.all.archive}
             shortLabel={t.allShort}
             sectionName={t.sections.archive}
-            prefetch={false}
           />
         }
       >
